@@ -1,0 +1,43 @@
+{
+ "incluidas": 42,
+ "descartadas": [
+  {
+   "pid": "p0136",
+   "motivo": "Gabarito contraria recomendação vigente: a alternativa oficial inclui oxigênio materno como medida de reanimação intrauterina, prática que NICE (NG229, 2022/2023) recomenda não oferecer na ausência de hipoxemia materna e que ACOG (Clinical Practice Update, 2022) considera sem evidência de benefício; ensinaria oxigênio rotineiro para bradicardia fetal leve."
+  },
+  {
+   "pid": "p0140",
+   "motivo": "Desatualizada: a resposta oficial é palivizumabe, mas o SUS incorporou o nirsevimabe (Conitec 2025; protocolo de uso do nirsevimabe, 2026) para todos os prematuros com menos de 37 semanas no primeiro ano de vida, em dose única por sazonalidade, substituindo a estratégia de palivizumabe restrita a menores de 29 semanas."
+  },
+  {
+   "pid": "p0166",
+   "motivo": "Mais de uma resposta defensável: 'encaminhar o quanto antes' ao centro de TMO e 'inscrever tão logo detectada falha na indução' dizem essencialmente o mesmo para paciente que já tem indicação de transplante; o gabarito depende de leitura literal de regulamento, sem conteúdo clínico discriminante."
+  },
+  {
+   "pid": "p0175",
+   "motivo": "Gabarito (conduta expectante sem medicamento em idosa de 82 anos com PA 144-148/86-88 em três ocasiões) reflete o limiar antigo de PAS 160 mmHg para maiores de 80 anos; a Diretriz Brasileira de Hipertensão Arterial 2025 prevê tratamento farmacológico (monoterapia) para idosos com 80 anos ou mais com HAS estágio 1, e a ESC 2024 trata a partir de 140/90 se tolerado. Gabarito em conflito com a diretriz vigente."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0141",
+   "nota": "Diagnóstico de dengue é inequívoco, mas 'internar imediatamente' com hidratação venosa vai além do Manual MS 2024 para gestante sem sinais de alarme (condição especial, grupo B: observação, hidratação e hemograma). Mantida porque as demais alternativas são claramente erradas (diagnóstico errado ou transfusão profilática)."
+  },
+  {
+   "pid": "p0148",
+   "nota": "Quadro é de deficiência de B12; o ferro da resposta oficial se justifica por risco (dieta vegana) e profilaxia universal de 6 a 24 meses, não pelos índices (HCM normal). Mantida por ser a única alternativa com B12 sem erro maior."
+  },
+  {
+   "pid": "p0151",
+   "nota": "Ausência de sorriso social aos 6 meses já justificaria encaminhamento para avaliação do desenvolvimento; a resposta oficial (valorizar a preocupação e investigar fatores de risco e sinais de alerta) é o passo inicial aceitável e as outras têm erros claros (M-CHAT fora da faixa, imagem desnecessária)."
+  },
+  {
+   "pid": "p0161",
+   "nota": "Diretrizes recentes (ABM 2022) preferem aspiração guiada por ultrassonografia como primeira linha e a resposta oficial omite antibiótico; mantida porque drenagem cirúrgica de abscesso com flutuação é aceita (CAB 23, 2015) e a alternativa da punção erra ao restringir a amamentação à mama contralateral."
+  },
+  {
+   "pid": "p0143",
+   "nota": "O Guia Alimentar 2019 prevê fruta nos dois lanches aos 6 meses; 'uma porção de fruta' simplifica, mas é a única alternativa compatível com o esquema."
+  }
+ ]
+}

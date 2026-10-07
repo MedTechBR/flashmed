@@ -1,0 +1,340 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Intoxicações agudas</title>
+<link rel="stylesheet" href="../_leitura.css?v=3"><script src="../_leitura.js?v=3"></script>
+<div class="wrap">
+<p class="kicker">Emergências · 75 min · AHA 2023, SBTox/ABRACIT 2025, EXTRIP e Ministério da Saúde · monografia</p>
+<h1>Intoxicações agudas</h1>
+<p class="dek">Manejo do paciente intoxicado na emergência: suporte antes do diagnóstico, síndromes tóxicas, o que o ECG e os gaps dizem, quando descontaminar e quando dialisar, antídotos com classe e nível da AHA 2023 e doses da SBTox/ABRACIT 2025, as intoxicações que caem em prova, abstinência alcoólica e acidentes por animais peçonhentos segundo o Ministério da Saúde.</p>
+
+<nav class="toc"><b>Sumário</b><ol>
+<li><a href="#abordagem">Abordagem inicial e o CIATox</a></li>
+<li><a href="#sindromes">Síndromes tóxicas</a></li>
+<li><a href="#exames">Exames que mudam a conduta</a></li>
+<li><a href="#descontaminacao">Descontaminação</a></li>
+<li><a href="#eliminacao">Eliminação aumentada e EXTRIP</a></li>
+<li><a href="#antidotos">Antídotos: indicação, classe e dose</a></li>
+<li><a href="#paracetamol">Paracetamol</a></li>
+<li><a href="#salicilato">Salicilato</a></li>
+<li><a href="#cardiovasculares">Betabloqueador, bloqueador de canal de cálcio e digoxina</a></li>
+<li><a href="#triciclicos">Tricíclicos e bloqueio de canal de sódio</a></li>
+<li><a href="#colinergicos">Organofosforados e carbamatos</a></li>
+<li><a href="#alcoois">Álcoois tóxicos</a></li>
+<li><a href="#opioides">Opioides e benzodiazepínicos</a></li>
+<li><a href="#serotonina">Síndrome serotoninérgica e síndrome neuroléptica maligna</a></li>
+<li><a href="#abstinencia">Abstinência alcoólica</a></li>
+<li><a href="#gases">Monóxido de carbono, cianeto e metemoglobinemia</a></li>
+<li><a href="#animais">Animais peçonhentos</a></li>
+<li><a href="#armadilhas">Erros frequentes</a></li>
+<li><a href="#autoteste">Perguntas de revisão</a></li>
+</ol></nav>
+
+<h2 id="abordagem">Abordagem inicial e o CIATox</h2>
+<p>A AHA 2023 organiza o atendimento numa frase: o suporte (via aérea, ventilação, pressão, ritmo, distúrbios metabólicos críticos) <b>tem prioridade sobre a identificação do tóxico e sobre o antídoto</b>. A maioria sobrevive com suporte bem feito; o tratamento começa antes de se saber o que foi usado, guiado pela síndrome tóxica, pelo ECG e pela gasometria.</p>
+<ol class="passos">
+<li><b>Via aérea e ventilação.</b> Perda de reflexos protetores, hipoventilação ou convulsão recorrente pedem via aérea definitiva. Na suspeita de opioide, ventilar com bolsa e dar naloxona pode evitar a intubação.</li>
+<li><b>Circulação.</b> Monitor, acesso, ECG de 12 derivações na chegada e repetido. Hipotensão recebe cristaloide e vasopressor enquanto se procura a causa tóxica.</li>
+<li><b>Glicemia capilar</b> em todo rebaixamento. Pela ASAM 2020, tiamina e glicose podem ser dadas <b>em qualquer ordem ou juntas</b>: no etilista, a tiamina acompanha a glicose, mas nunca a atrasa.</li>
+<li><b>Temperatura.</b> Hipertermia tóxica se trata com resfriamento externo ativo e sedação, não com antitérmico.</li>
+<li><b>Convulsão</b>: benzodiazepínico. Convulsão refratária lembra isoniazida (piridoxina), bupropiona, tramadol e tricíclicos.</li>
+<li><b>História</b>: o que, quando, via, liberação prolongada, intenção; acompanhante e socorrista ajudam.</li>
+</ol>
+<div class="cx chave"><b>Quem chamar no Brasil</b>O <b>Disque-Intoxicação da Anvisa (0800 722 6001)</b>, gratuito, encaminha a ligação ao Centro de Informação e Assistência Toxicológica (CIATox) mais próximo, que orienta profissionais 24 horas e sabe onde está o antídoto raro. O Ministério da Saúde pede que o CIATox seja consultado no uso de fomepizol, e a SBTox/ABRACIT, no de flumazenil e no uso de emulsão lipídica e insulina em dose alta fora das indicações clássicas. A intoxicação exógena é de notificação compulsória no Sinan.</div>
+<p>Toda tentativa de suicídio por ingestão exige <b>dosagem de paracetamol</b> (mesmo que negado) e vigilância até a avaliação psiquiátrica; quem recusa tratamento fica em observação até que a capacidade de decidir seja avaliada.</p>
+<div class="fluxo"><div class="leg"><b>Fluxograma 1</b>Os primeiros minutos do paciente intoxicado</div>
+<pre class="mermaid">
+flowchart TD
+  A["Paciente intoxicado<br/>ou suspeito"] --> B["Via aérea, ventilação<br/>circulação, monitor"]
+  B --> C["Glicemia capilar<br/>temperatura, convulsão"]
+  C --> D["ECG, gasometria, gaps<br/>paracetamol sérico"]
+  D --> E{"Síndrome tóxica<br/>reconhecível?"}
+  E -->|"sim"| F["Tratamento dirigido<br/>e antídoto se houver"]
+  E -->|"não"| G["Suporte e<br/>monitorização"]
+  F --> H["CIATox<br/>0800 722 6001"]
+  G --> H
+  H --> I{"Descontaminar<br/>ou dialisar?"}
+</pre></div>
+
+<h2 id="sindromes">Síndromes tóxicas</h2>
+<p>A síndrome tóxica é o diagnóstico de trabalho antes de qualquer nível sérico. Cinco dados costumam separá-las: <b>pupila, pele, temperatura, ruídos hidroaéreos e estado mental</b>.</p>
+<div class="rolagem"><table class="criterio">
+<tr><th>Síndrome</th><th>Pupila</th><th>Pele</th><th>Outros achados</th><th>Agentes típicos</th></tr>
+<tr><td><b>Anticolinérgica</b></td><td>Midríase</td><td><b>Seca</b>, quente</td><td>Taquicardia, hipertermia, retenção urinária, íleo, delirium</td><td>Tricíclicos, anti-histamínicos, escopolamina, trombeteira</td></tr>
+<tr><td><b>Simpaticomimética</b></td><td>Midríase</td><td><b>Úmida</b></td><td>Taquicardia, hipertensão, hipertermia, agitação, convulsão; ruídos presentes</td><td>Cocaína, anfetaminas, catinonas</td></tr>
+<tr><td><b>Colinérgica</b></td><td>Miose</td><td>Úmida</td><td>Broncorreia, broncoespasmo, bradicardia, sialorreia, diarreia; fasciculação e fraqueza</td><td>Organofosforados, carbamatos</td></tr>
+<tr><td><b>Opioide</b></td><td><b>Puntiforme</b></td><td>Normal</td><td>Bradipneia, apneia, rebaixamento</td><td>Morfina, fentanil, metadona</td></tr>
+<tr><td><b>Sedativo-hipnótica</b></td><td>Normal</td><td>Normal</td><td>Rebaixamento com sinais vitais preservados</td><td>Benzodiazepínicos, barbitúricos, álcool</td></tr>
+<tr><td><b>Serotoninérgica</b></td><td>Midríase</td><td>Úmida</td><td><b>Clônus</b>, hiper-reflexia, tremor, diarreia, hipertermia</td><td>Associação de serotoninérgicos</td></tr>
+</table></div>
+<p>A distinção cobrada é entre <b>anticolinérgica e simpaticomimética</b>: pele seca e íleo ficam com a primeira; suor e ruídos presentes, com a segunda. Miose com broncorreia é colinérgica; miose com pulmão seco e bradipneia, opioide. O que não cabe numa síndrome, o ECG e a gasometria denunciam: <b>bradicardia com hipotensão</b> (betabloqueador, bloqueador de canal de cálcio, digoxina, clonidina), <b>QRS largo</b> (bloqueio de canal de sódio), <b>acidose de ânion gap alto</b> (álcoois tóxicos, salicilato, metformina, cianeto, ferro, isoniazida), <b>cianose que não responde a oxigênio</b> (metemoglobinemia).</p>
+<div class="ancora"><b>Questão-âncora</b>Jovem trazido de uma festa, agitado, pupilas de 7 mm, 39,6 °C, FC 138, PA 170 × 100, pele encharcada de suor e ruídos presentes.<details><summary>Qual a síndrome e a primeira medida?</summary>Simpaticomimética. A AHA 2023 recomenda sedação para agitação grave (classe 1, B-NR), em geral com benzodiazepínico, e resfriamento externo rápido na hipertermia com risco de vida (classe 1, C-LD); contenção física prolongada sem sedação é potencialmente danosa (classe 3: dano, C-LD).</details></div>
+
+<h2 id="exames">Exames que mudam a conduta</h2>
+<p><b>ECG de 12 derivações</b>, o exame toxicológico mais útil. <b>QRS acima de 100 ms</b> com onda R terminal alta em aVR sugere bloqueio de canal de sódio (tricíclicos, cocaína, difenidramina, carbamazepina, antiarrítmicos IA e IC) e pede bicarbonato. <b>QTc longo</b> sugere bloqueio de potássio (antipsicóticos, metadona, citalopram, macrolídeos) e risco de <i>torsades</i>: a SBTox 2025 manda corrigir magnésio, potássio e cálcio em todo QTc alargado e dar sulfato de magnésio 2 g IV em 10 a 15 minutos na <i>torsades</i> ou no QTc progressivo acima de 500 ms; o magnésio protege da arritmia, mas não encurta o QTc. <b>Bradicardia e bloqueios</b> apontam para betabloqueador, bloqueador de canal de cálcio, digoxina ou organofosforado.</p>
+<p><b>Os dois gaps.</b> O <b>ânion gap</b> alto com acidose aponta para álcoois tóxicos, salicilato, metformina, cianeto, ferro, isoniazida, cetoacidose e uremia. O <b>gap osmolar</b> é a osmolalidade medida menos a calculada (2 × sódio + glicose/18 + ureia/6, em mg/dL); acima de cerca de 10 indica osmol não medido: etanol, metanol, etilenoglicol, isopropanol. O etanol medido entra no cálculo (etanol/4,6), senão ele sozinho explica o gap. O Ministério da Saúde confirma metanol com pH abaixo de 7,3, bicarbonato abaixo de 20 mEq/L e gap osmolar acima de 10 mOsm/L.</p>
+<p><b>Níveis que mudam o tratamento</b>: paracetamol em toda ingestão intencional; salicilato, lítio, digoxina, valproato, carbamazepina, ferro e álcoois quando disponíveis; carboxi e metemoglobina por co-oximetria. A triagem urinária de drogas raramente muda a conduta.</p>
+<div class="cx armadilha"><b>Gap osmolar normal não afasta álcool tóxico</b>O gap osmolar é alto no começo, com o álcool intacto; à medida que a álcool desidrogenase forma os ácidos, ele cai e o ânion gap sobe. Quem chega tarde pode ter gap osmolar quase normal e acidose grave.</div>
+
+<h2 id="descontaminacao">Descontaminação</h2>
+<p>Na exposição cutânea, retirar a roupa e lavar a pele com a equipe protegida. Na ingestão, a pergunta é se o benefício supera o risco de aspiração, e a resposta costuma ser não.</p>
+<div class="rolagem"><table>
+<tr><th>Método</th><th>Quando sim</th><th>Quando não</th></tr>
+<tr><td><b>Carvão ativado, dose única</b></td><td>Exposição potencialmente grave, até 60 minutos, a substância adsorvível, com via aérea preservada ou protegida. Adulto 50 g; criança 1 g/kg, máximo 50 g (SBTox 2025)</td><td>Rebaixamento sem via aérea protegida, corrosivos, hidrocarbonetos, obstrução, íleo, instabilidade; <b>álcoois tóxicos, lítio, ferro e outros metais</b>, que não adsorvem</td></tr>
+<tr><td><b>Doses múltiplas</b></td><td>Circulação êntero-hepática: fenobarbital, carbamazepina, dapsona, teofilina, quinina. Adulto 50 g a cada 4 a 6 h</td><td>As mesmas contraindicações</td></tr>
+<tr><td><b>Irrigação intestinal total</b></td><td>Ferro, lítio, chumbo, liberação prolongada, transportadores de pacotes de drogas</td><td>Obstrução, íleo, via aérea desprotegida, instabilidade</td></tr>
+<tr><td><b>Lavagem gástrica</b></td><td>Exceção discutida com o CIATox, via aérea protegida</td><td>Rotina: risco supera benefício</td></tr>
+<tr><td><b>Xarope de ipeca</b></td><td>Nunca</td><td>Abandonado</td></tr>
+</table></div>
+<p>O transportador de cocaína ou anfetamina que se intoxica tem ruptura de envelope e vai à <b>cirurgia imediata</b>; o de opioide recebe naloxona e ventilação (SBTox 2025).</p>
+
+<h2 id="eliminacao">Eliminação aumentada e EXTRIP</h2>
+<p><b>Alcalinização urinária</b> aprisiona ácidos fracos no túbulo; a indicação clássica é o salicilato. A SBTox 2025 começa com um litro de bicarbonato isotônico a 1,26% (150 mL de bicarbonato a 8,4% em 850 mL de água destilada ou glicose a 5%) em 4 a 8 horas, com pH urinário-alvo de 7,5 a 8,0 e pH sérico até 7,55. Sem potássio normal a urina não alcaliniza. <b>Alcalinização sérica</b> é outra coisa: reverter o bloqueio de canal de sódio.</p>
+<p><b>Terapia extracorpórea.</b> Dialisam moléculas pequenas, hidrossolúveis, pouco ligadas a proteína e de pequeno volume de distribuição. O EXTRIP gradua a indicação por substância, com hemodiálise intermitente como modalidade preferida. Lítio, metformina, salicilato e valproato estão em <a href="rim-e-farmacos.html#extrip">rim e fármacos</a>; os álcoois tóxicos, aqui:</p>
+<div class="rolagem"><table>
+<tr><th>Tóxico</th><th>Terapia extracorpórea recomendada</th><th>Quando parar</th></tr>
+<tr><td><b>Metanol</b> (EXTRIP 2015)</td><td>Coma, convulsão, déficit visual novo, pH ≤ 7,15, acidose persistente apesar de suporte e antídoto, ânion gap acima de 24 mmol/L; metanol acima de 700 mg/L com fomepizol, 600 mg/L com etanol ou 500 mg/L sem bloqueio da enzima; função renal comprometida</td><td>Metanol abaixo de 200 mg/L com melhora clínica</td></tr>
+<tr><td><b>Etilenoglicol</b> (EXTRIP 2023)</td><td>Recomendada: coma, convulsão ou lesão renal aguda; ânion gap acima de 27 mmol/L; gap osmolar acima de 50 em uso de etanol. Sugerida: ânion gap de 23 a 27; gap osmolar acima de 50 com fomepizol</td><td>Ânion gap abaixo de 18 mmol/L</td></tr>
+</table></div>
+<p>No metanol, antídoto e ácido fólico ou folínico continuam durante a sessão, com dose ajustada, e a anticoagulação sistêmica do circuito deve ser evitada pelo risco de hemorragia intracerebral.</p>
+<div class="cx chave"><b>O que não dialisa</b>Tricíclicos, bloqueadores de canal de cálcio, betabloqueadores lipofílicos, benzodiazepínicos e digoxina, para a qual a AHA dá classe 3: sem benefício à hemodiálise, hemoperfusão e plasmaférese (B-NR). Atenolol e sotalol, hidrossolúveis, são exceção: hemodiálise pode ser razoável na intoxicação com risco de vida (2b, C-LD).</div>
+
+<h2 id="antidotos">Antídotos: indicação, classe e dose</h2>
+<p>Poucos antídotos foram testados em ensaio randomizado; a AHA avisa que a dose ideal raramente é conhecida e que a maioria precisa ser repetida e titulada pelo efeito. A tabela traz a classe e o nível da AHA 2023 e a dose inicial do adulto pela Tabela 2 da AHA ou pela SBTox/ABRACIT 2025.</p>
+<div class="rolagem"><table>
+<tr><th>Tóxico</th><th>Antídoto e dose inicial no adulto</th><th>AHA 2023</th></tr>
+<tr><td>Opioide</td><td><b>Naloxona</b> 0,4 mg IV, repetida a cada 2 a 3 min (SBTox); AHA: 0,2 a 2 mg IV, IO ou IM, ou 2 a 4 mg intranasal</td><td class="c"><span class="cls c2a">2a</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Benzodiazepínico puro</td><td><b>Flumazenil</b> 0,2 mg IV, titulado até 1 mg (AHA); indicação restrita</td><td class="c"><span class="cls c2a">2a</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Organofosforado, carbamato</td><td><b>Atropina</b> 1 a 2 mg IV, dobrando a cada 5 min; depois 10% a 20% da dose de ataque por hora (AHA)</td><td class="c"><span class="cls c1">1</span><span class="niv">A</span></td></tr>
+<tr><td>Organofosforado</td><td><b>Pralidoxima</b> 1 a 2 g IV, depois 400 a 600 mg/h (AHA)</td><td class="c"><span class="cls c2a">2a</span><span class="niv">A</span></td></tr>
+<tr><td>Betabloqueador, bloqueador de canal de cálcio</td><td><b>Insulina regular</b> 1 U/kg IV com glicose, depois 1 a 10 U/kg/h (AHA)</td><td class="c"><span class="cls c1">1</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Betabloqueador</td><td><b>Glucagon</b> 2 a 10 mg IV, depois 1 a 15 mg/h (AHA)</td><td class="c"><span class="cls c2a">2a</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Bloqueador de canal de cálcio</td><td><b>Gluconato de cálcio</b> a 10% 30 mL em 5 a 10 min, repetível a cada 10 a 20 min até 3 a 4 doses (SBTox)</td><td class="c"><span class="cls c2a">2a</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Digoxina</td><td><b>Fab antidigoxina</b> (frasco de 40 mg): crônica, frascos = digoxinemia (ng/mL) × peso (kg) ÷ 100 (AHA); aguda grave sem dado, 10 a 20 frascos (AHA); parada, 5 frascos em bolo (SBTox)</td><td class="c"><span class="cls c1">1</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Tricíclico</td><td><b>Bicarbonato de sódio</b> a 8,4%: 50 mEq se QRS de 120 a 160 ms, 100 mEq se acima de 160, repetível (SBTox)</td><td class="c"><span class="cls c1">1</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Anestésico local</td><td><b>Emulsão lipídica a 20%</b> 1,5 mL/kg (até 100 mL), depois 0,25 mL/kg/min (AHA)</td><td class="c"><span class="cls c1">1</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Cianeto</td><td><b>Hidroxocobalamina</b> 5 g IV em 15 min, segunda dose se grave</td><td class="c"><span class="cls c1">1</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Metemoglobinemia</td><td><b>Azul de metileno</b> 1 a 2 mg/kg IV em 5 a 10 min; não passar de 7 mg/kg</td><td class="c"><span class="cls c1">1</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Paracetamol</td><td><b>N-acetilcisteína</b> (seção própria)</td><td>–</td></tr>
+<tr><td>Metanol, etilenoglicol</td><td><b>Fomepizol</b> 15 mg/kg IV em 30 min, depois 10 mg/kg a cada 12 h por 4 doses; na hemodiálise, a cada 4 h (SBTox, MS)</td><td>–</td></tr>
+<tr><td>Isoniazida</td><td><b>Piridoxina</b> 5 g IV a cerca de 0,5 g/min quando a quantidade é desconhecida (SBTox)</td><td>–</td></tr>
+<tr><td>Sulfonilureia</td><td><b>Octreotida</b> 50 mcg SC a cada 6 h, além da glicose (SBTox)</td><td>–</td></tr>
+<tr><td>Varfarina com sangramento grave</td><td>Complexo protrombínico 25 a 50 U/kg e <b>vitamina K1</b> 5 a 10 mg IV lenta (SBTox)</td><td>–</td></tr>
+<tr><td>Heparina não fracionada</td><td><b>Protamina</b> 1 mg por 100 U recém-administradas, máximo de 50 mg</td><td>–</td></tr>
+</table></div>
+<p>Célula sem classe indica antídoto fora do escopo da AHA 2023. Na suspeita de opioide com benzodiazepínico e depressão respiratória, é razoável dar naloxona antes de outros antídotos (2a, B-NR).</p>
+
+<h2 id="paracetamol">Paracetamol</h2>
+<p>Em superdose, a conjugação satura e o CYP2E1 produz mais NAPQI; quando a glutationa cai a cerca de 30% do normal, o que ocorre em 6 a 8 horas, o NAPQI se liga ao hepatócito e causa necrose centrolobular. A <b>N-acetilcisteína (NAC)</b> repõe glutationa: quase totalmente protetora se iniciada cedo, ainda útil em apresentação tardia e na insuficiência hepática. As primeiras 24 horas são silenciosas e o pico da lesão vem entre 72 e 96 horas: por isso o nível é dosado em toda ingestão intencional.</p>
+<p><b>Quem recebe NAC.</b> Na ingestão aguda única, de liberação imediata e hora conhecida, o nível colhido a partir de 4 horas vai ao nomograma. O consenso dos EUA e do Canadá de 2023 mantém a <b>linha de tratamento em 150 µg/mL às 4 horas</b>, define ingestão aguda como apresentação entre 4 e 24 horas e cria uma linha de <b>alto risco</b>, acima da qual se discute dose maior com o toxicologista. A SBTox usa o nomograma modificado do Toxbase, de linha mais baixa, sem fatores de risco na decisão. O nomograma <b>não serve</b> com hora incerta ou ingestões sucessivas: nesses casos, e quando o resultado não sairá a tempo de começar a NAC dentro de 8 horas, ela começa <b>sem esperar o nível</b> e é suspensa se ele vier abaixo da linha. Também se trata a apresentação após 24 horas com ALT ou RNI alterados e a ingestão repetida com paracetamol acima de 20 µg/mL ou transaminases alteradas.</p>
+<div class="dose"><b>N-acetilcisteína intravenosa</b><ul>
+<li><b>SNAP (12 h)</b>: 100 mg/kg em 2 horas, depois 200 mg/kg em 10 horas (SBTox 2025); menos reações adversas, eficácia semelhante (Pettie, 2019).</li>
+<li><b>Clássico (21 h)</b>: 150 mg/kg em 1 hora, 50 mg/kg em 4 horas, 100 mg/kg em 16 horas.</li>
+<li>O consenso aceita qualquer esquema com <b>pelo menos 300 mg/kg em 20 a 24 horas</b>, peso de cálculo limitado a <b>100 kg</b>.</li>
+</ul></div>
+<p><b>Quando parar.</b> A NAC não termina com a última bolsa: o consenso suspende com o paciente bem, paracetamol abaixo de 10 µg/mL, RNI abaixo de 2 e transaminases normais ou em queda de 25% a 50% do pico; até lá, mantém-se a última etapa. As <b>reações anafilactoides</b> dependem da concentração: interromper, dar anti-histamínico e reiniciar mais devagar. Acidose persistente após volume, coagulopatia grave, lesão renal e encefalopatia avançada levam ao contato com o transplante (critérios do King's College).</p>
+<div class="fluxo"><div class="leg"><b>Fluxograma 2</b>Decisão de N-acetilcisteína na ingestão de paracetamol</div>
+<pre class="mermaid">
+flowchart TD
+  A["Ingestão de paracetamol<br/>suspeita ou referida"] --> B{"Aguda única<br/>hora conhecida?"}
+  B -->|"sim"| C{"Nível a partir de 4 h<br/>sai antes de 8 h?"}
+  B -->|"não"| D["NAC já<br/>nível, ALT, RNI"]
+  C -->|"sim"| E{"Acima da linha<br/>do nomograma?"}
+  C -->|"não"| D
+  E -->|"sim"| F["NAC 300 mg/kg<br/>SNAP ou clássico"]
+  E -->|"não"| G["Sem NAC<br/>avaliação psiquiátrica"]
+  D --> H["Rever com o resultado<br/>suspender se abaixo"]
+  F --> I{"Critérios de<br/>parada atingidos?"}
+  I -->|"não"| J["Manter última etapa<br/>repetir exames"]
+  I -->|"sim"| K["Suspender NAC"]
+</pre></div>
+
+<h2 id="salicilato">Salicilato</h2>
+<p>O salicilato estimula o centro respiratório e desacopla a fosforilação oxidativa: a assinatura é <b>alcalose respiratória somada a acidose metabólica de ânion gap alto</b>, com pH normal ou alcalino no começo. Zumbido, vômitos, taquipneia, sudorese e febre; nas formas graves, edema pulmonar não cardiogênico, convulsão e rebaixamento, às vezes com neuroglicopenia apesar de glicemia normal. No idoso em uso crônico, confunde-se com sepse ou delirium, e o nível pode ser só moderado apesar de toxicidade grave. Repetir o nível a cada 2 a 4 horas: revestimento entérico e conglomerados retardam a absorção.</p>
+<ol class="passos">
+<li><b>Volume e glicose</b>, esta no paciente com alteração mental mesmo com glicemia normal.</li>
+<li><b>Alcalinização urinária</b> (seção de eliminação), com potássio normal: o salicilato ionizado fica preso no túbulo e fora do cérebro.</li>
+<li><b>Cuidado com a intubação.</b> O paciente sobrevive porque hiperventila; ventilar com volume-minuto habitual derruba o pH, empurra salicilato para o sistema nervoso e precipita parada. Se inevitável, ventilação-minuto alta, gasometria logo depois e hemodiálise em mente.</li>
+<li><b>Hemodiálise</b> (EXTRIP): recomendada com salicilemia acima de 100 mg/dL (90 com função renal alterada), alteração mental, hipoxemia nova ou falha do tratamento; sugerida acima de 90 mg/dL (80 com função renal alterada) ou pH ≤ 7,20.</li>
+</ol>
+<div class="ancora"><b>Questão-âncora</b>Mulher de 78 anos, confusa, taquipneica e febril, sem foco infeccioso; usa ácido acetilsalicílico por conta própria. pH 7,44, PaCO₂ 24 mmHg, bicarbonato 16 mEq/L, ânion gap 24.<details><summary>O que a gasometria diz e o que fazer?</summary>Distúrbio misto de alcalose respiratória e acidose de ânion gap alto: padrão do salicilato. A confusão já é critério de hemodiálise pelo EXTRIP, qualquer que seja o nível. Dosar, repor volume, dar glicose, alcalinizar corrigindo potássio e chamar a nefrologia.</details></div>
+
+<h2 id="cardiovasculares">Betabloqueador, bloqueador de canal de cálcio e digoxina</h2>
+<p>Os três dão bradicardia, bloqueio e hipotensão, e o tratamento segue o mecanismo. O <b>betabloqueador</b> reduz o AMP cíclico; o propranolol ainda bloqueia canal de sódio (QRS largo, convulsão). O <b>bloqueador de canal de cálcio</b> não di-hidropiridínico deprime nó e miocárdio; o di-hidropiridínico causa vasoplegia. Ambos bloqueiam a liberação de insulina, e o miocárdio em choque, dependente de glicose, não consegue captá-la: daí a <b>hiperglicemia</b> como pista do bloqueador de canal de cálcio e a <b>insulina em dose alta</b> como tratamento dos dois. A <b>digoxina</b> inibe a Na-K-ATPase: náusea, alteração visual, hipercalemia e TV bidirecional.</p>
+<table class="rec">
+<tr><th>Recomendação (AHA 2023)</th><th>Classe</th></tr>
+<tr><td><b>Betabloqueador</b>: insulina em dose alta para hipotensão refratária ou junto com vasopressor</td><td class="c"><span class="cls c1">1</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Betabloqueador: vasopressores para hipotensão</td><td class="c"><span class="cls c1">1</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Betabloqueador: glucagon em bolo e infusão; ECMO venoarterial no choque refratário</td><td class="c"><span class="cls c2a">2a</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Betabloqueador: atropina; marca-passo</td><td class="c"><span class="cls c2b">2b</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Betabloqueador: emulsão lipídica</td><td class="c"><span class="cls c3">3: sem benefício</span><span class="niv">C-LD</span></td></tr>
+<tr><td><b>Bloqueador de canal de cálcio</b>: vasopressores; insulina em dose alta</td><td class="c"><span class="cls c1">1</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Bloqueador de canal de cálcio: cálcio; atropina; ECMO venoarterial no choque refratário</td><td class="c"><span class="cls c2a">2a</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Bloqueador de canal de cálcio: marca-passo; glucagon; azul de metileno no choque vasoplégico refratário</td><td class="c"><span class="cls c2b">2b</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Bloqueador de canal de cálcio: emulsão lipídica de rotina</td><td class="c"><span class="cls c3">3: sem benefício</span><span class="niv">C-LD</span></td></tr>
+<tr><td><b>Digoxina</b>: fragmento Fab antidigoxina</td><td class="c"><span class="cls c1">1</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Digoxina: atropina ou marca-passo na bradiarritmia; lidocaína ou fenitoína na arritmia ventricular até o Fab</td><td class="c"><span class="cls c2b">2b</span><span class="niv">C-LD</span></td></tr>
+</table>
+<div class="dose"><b>Insulina em dose alta (SBTox 2025, de preferência em UTI)</b><ul>
+<li>Bolo de 1 U/kg com glicose 0,5 g/kg se glicemia abaixo de 200 mg/dL; infusão de 1 U/kg/h, subindo 1 a 2 U/kg/h a cada 15 min até PAS acima de 90 mmHg, no máximo 10 U/kg/h, em solução de 10 U/mL.</li>
+<li>Glicose 0,5 g/kg/h para glicemia de 100 a 250 mg/dL, medida a cada 15 a 30 min; potássio de hora em hora, entre 3 e 4 mEq/L.</li>
+<li>Efeito em 15 a 40 min. Desmamar primeiro o vasopressor; vigiar hipoglicemia por 24 h depois.</li>
+</ul></div>
+<p>Na digoxina, o Fab vai para bradiarritmia sem resposta à atropina, arritmia ventricular, hipercalemia refratária (a SBTox usa potássio acima de 5 mEq/L) e parada. A SBTox, seguindo o Toxbase, usa metade da neutralização completa (digoxinemia × peso ÷ 200), suficiente para a maioria. O Fab é importado e escasso: o CIATox sabe onde há.</p>
+<div class="fluxo"><div class="leg"><b>Fluxograma 3</b>Choque com bradicardia por betabloqueador ou bloqueador de canal de cálcio</div>
+<pre class="mermaid">
+flowchart TD
+  A["Hipotensão e bradicardia<br/>BB ou BCC suspeito"] --> B["Via aérea, cristaloide<br/>atropina se bradicardia"]
+  B --> C["Cálcio IV<br/>vasopressor"]
+  C --> D["Insulina em dose alta<br/>com glicose e potássio"]
+  D --> E{"Choque persiste?"}
+  E -->|"não"| F["Manter e desmamar<br/>vasopressor antes"]
+  E -->|"sim"| G["Glucagon no BB<br/>marca-passo, azul de<br/>metileno na vasoplegia"]
+  G --> H{"Refratário?"}
+  H -->|"sim"| I["ECMO venoarterial<br/>CIATox"]
+</pre></div>
+
+<h2 id="triciclicos">Tricíclicos e bloqueio de canal de sódio</h2>
+<p>Os <b>tricíclicos</b> bloqueiam o canal rápido de sódio (QRS largo, TV, depressão miocárdica), o receptor alfa-1 (vasodilatação), o muscarínico (síndrome anticolinérgica) e o GABA-A (convulsão). A piora pode ser muito rápida. <b>QRS acima de 100 ms</b> indica risco de convulsão e, acima de 160 ms, de arritmia ventricular.</p>
+<p>O <b>bicarbonato de sódio</b> age pela carga de sódio, que supera o bloqueio, e pela alcalinização, que desliga o fármaco do canal. É titulado em bolos até estreitar o QRS e corrigir a hipotensão, respeitando os limites da AHA: sódio até 150 a 155 mEq/L e pH até 7,50 a 7,55. Além disso, salina hipertônica para sódio e ventilação para pH; a hipocalemia é esperada e se corrige.</p>
+<table class="rec">
+<tr><th>Recomendação (AHA 2023)</th><th>Classe</th></tr>
+<tr><td>Bicarbonato na cardiotoxicidade com risco de vida por tricíclico ou tetracíclico</td><td class="c"><span class="cls c1">1</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Bicarbonato na cardiotoxicidade por outros bloqueadores de sódio; ECMO venoarterial no choque refratário</td><td class="c"><span class="cls c2a">2a</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Lidocaína na cardiotoxicidade por antiarrítmicos IA ou IC; emulsão lipídica no caso refratário</td><td class="c"><span class="cls c2b">2b</span><span class="niv">C-LD</span></td></tr>
+<tr><td><b>Cocaína</b>: resfriamento externo rápido na hipertermia com risco de vida</td><td class="c"><span class="cls c1">1</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Cocaína: bicarbonato na taquicardia de QRS largo ou parada; lidocaína na taquicardia de QRS largo; vasodilatador no vasoespasmo coronariano ou emergência hipertensiva</td><td class="c"><span class="cls c2a">2a</span><span class="niv">C-LD</span></td></tr>
+</table>
+<p>Antiarrítmicos IA e IC são contraindicados, porque somam bloqueio de sódio. Convulsão se trata com benzodiazepínico. <b>Flumazenil</b> é contraindicado na associação com tricíclico (arritmia, estado de mal; SBTox), e a <b>fisostigmina</b> também, pelo risco de assistolia.</p>
+
+<h2 id="colinergicos">Organofosforados e carbamatos</h2>
+<p>Inibem a acetilcolinesterase: efeitos muscarínicos (miose, broncorreia, broncoespasmo, bradicardia, sialorreia, diarreia), nicotínicos (fasciculação, fraqueza, paralisia) e centrais (convulsão, coma). A morte vem da via aérea. No Brasil, o "chumbinho", raticida clandestino com carbamato ou organofosforado, é causa frequente. O carbamato inibe de forma reversível; o organofosforado pode "envelhecer" a ligação, e é antes disso que a oxima atua.</p>
+<table class="rec">
+<tr><th>Recomendação (AHA 2023)</th><th>Classe</th></tr>
+<tr><td>Atropina imediata na forma grave (broncoespasmo, broncorreia, convulsão ou bradicardia importante)</td><td class="c"><span class="cls c1">1</span><span class="niv">A</span></td></tr>
+<tr><td>Intubação precoce na intoxicação com risco de vida</td><td class="c"><span class="cls c1">1</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Benzodiazepínico para convulsão e agitação; proteção individual da equipe</td><td class="c"><span class="cls c1">1</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Descontaminação da pele na exposição externa</td><td class="c"><span class="cls c1">1</span><span class="niv">C-EO</span></td></tr>
+<tr><td>Pralidoxima no organofosforado</td><td class="c"><span class="cls c2a">2a</span><span class="niv">A</span></td></tr>
+<tr><td>Succinilcolina ou mivacúrio, metabolizados pela colinesterase</td><td class="c"><span class="cls c3">3: sem benefício</span><span class="niv">C-LD</span></td></tr>
+</table>
+<p><b>Atropina</b> (dose na tabela de antídotos) dobra a cada 5 minutos até a atropinização, cujo alvo é <b>pulmão seco</b>, com melhora do broncoespasmo, da bradicardia e da hipotensão. Taquicardia não impede a atropina se há broncorreia, porque a hipóxia a explica. A manutenção se ajusta para evitar delirium, hipertermia e íleo. A atropina não age sobre a fraqueza nicotínica; é ela que a pralidoxima tenta tratar, sem funcionar em todos os casos e com disponibilidade limitada no Brasil. A <b>síndrome intermediária</b>, fraqueza proximal e de pares cranianos com insuficiência respiratória dias após a crise colinérgica, exige vigiar força cervical e ventilação antes da alta da UTI.</p>
+
+<h2 id="alcoois">Álcoois tóxicos</h2>
+<p>Metanol e etilenoglicol lesam pelos metabólitos da álcool desidrogenase: <b>ácido fórmico</b> (retina, núcleos da base, acidose) no metanol; <b>glicolato e oxalato</b> (acidose, lesão renal por cristais, hipocalcemia) no etilenoglicol. No surto de metanol em bebidas adulteradas de 2025, o Ministério da Saúde definiu caso suspeito como quem bebeu e, <b>6 a 72 horas depois</b>, tem embriaguez com dor epigástrica ou alteração visual (visão turva, "campo nevado") que persiste ou piora; etanol junto alonga a latência, porque compete pela enzima.</p>
+<ol class="passos">
+<li><b>Suspeitou, bloqueie.</b> Acidose com ânion gap e gap osmolar altos, ou história compatível, basta para iniciar o antídoto sem esperar dosagem. Carvão e lavagem não têm papel.</li>
+<li><b>Fomepizol</b> (tabela de antídotos) até o álcool cair abaixo de 25 mg/dL, distribuído pelo SUS desde 2025 com acesso pelo CIATox. Na falta, <b>etanol</b>: ataque de 800 mg/kg (8 mL/kg da solução a 10% IV em 20 a 60 min) e manutenção de 80 a 130 mg/kg/h, 150 no etilista e 250 a 350 durante a hemodiálise, com etanolemia-alvo de 100 a 150 mg/dL (SBTox 2025). Não se associam.</li>
+<li><b>Ácido folínico</b> no metanol: 30 mg IV a cada 6 horas por 48 horas (Ministério da Saúde) ou 1 a 2 mg/kg a cada 4 horas (SBTox).</li>
+<li><b>Bicarbonato</b> na acidose grave, benzodiazepínico na convulsão e <b>hemodiálise</b> pelos critérios do EXTRIP.</li>
+<li><b>Notificação imediata</b> dos casos ligados a bebida, além do Sinan.</li>
+</ol>
+<p>O <b>isopropanol</b> vira acetona: gap osmolar alto e cetose <b>sem acidose</b>; tratamento de suporte.</p>
+
+<h2 id="opioides">Opioides e benzodiazepínicos</h2>
+<p>O objetivo da naloxona é <b>restaurar a ventilação, não acordar o paciente</b>; quem não respira recebe ventilação com bolsa antes e durante a titulação.</p>
+<table class="rec">
+<tr><th>Recomendação (AHA 2023)</th><th>Classe</th></tr>
+<tr><td>Ventilação de resgate ou com bolsa-válvula-máscara até a respiração voltar</td><td class="c"><span class="cls c1">1</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Na parada cardíaca, a RCP de qualidade tem prioridade sobre a naloxona</td><td class="c"><span class="cls c1">1</span><span class="niv">C-EO</span></td></tr>
+<tr><td>Naloxona na parada respiratória com pulso</td><td class="c"><span class="cls c2a">2a</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Observar após a reversão até risco baixo de recorrência e sinais normais</td><td class="c"><span class="cls c1">1</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Recorrência: doses pequenas repetidas ou infusão</td><td class="c"><span class="cls c2a">2a</span><span class="niv">C-LD</span></td></tr>
+</table>
+<p>No usuário crônico, a SBTox começa com 0,1 a 0,2 mg IV, porque a dose cheia precipita abstinência com vômito, agitação e edema pulmonar; fentanil e buprenorfina podem pedir mais de 4 mg. A meia-vida da naloxona (30 a 90 minutos) é menor que a da metadona e das formulações prolongadas: após várias doses, infusão de 60% a 75% da dose de reversão por hora (SBTox) ou dois terços (AHA). Sem resposta a 8 a 10 mg, pensar em outro depressor ou lesão hipóxica.</p>
+<p>O <b>flumazenil</b> precipita abstinência e convulsão no usuário crônico e arritmia com tricíclico. A AHA o aceita só na intoxicação <b>pura</b> por benzodiazepínico sem contraindicação (2a, B-NR) e sem papel na parada (classe 3: sem benefício, C-EO); a SBTox o contraindica como teste diagnóstico.</p>
+
+<h2 id="serotonina">Síndrome serotoninérgica e síndrome neuroléptica maligna</h2>
+<div class="compara">
+<div><b>Serotoninérgica</b>Horas após associar ou aumentar serotoninérgico (ISRS, IRSN, tramadol, linezolida, IMAO, azul de metileno). <b>Clônus</b>, hiper-reflexia e tremor, mais nos membros inferiores; midríase, diarreia, sudorese. Critérios de Hunter, com serotoninérgico: clônus espontâneo; clônus induzível ou ocular com agitação ou sudorese; tremor com hiper-reflexia; ou hipertonia com temperatura acima de 38 °C e clônus ocular ou induzível. Melhora rápido com a retirada.</div>
+<div><b>Neuroléptica maligna</b>Dias após iniciar ou aumentar antagonista dopaminérgico (haloperidol, fenotiazinas, atípicos, metoclopramida) ou retirar levodopa. <b>Rigidez em cano de chumbo</b>, bradicinesia, reflexos normais, sem clônus; CK muito alta. Evolui e regride em dias.</div>
+</div>
+<p><b>Nas duas</b>: suspender o agente, resfriamento externo, hidratação, benzodiazepínico para agitação e rigidez e, na hipertermia grave, intubação com bloqueador não despolarizante, porque a febre é muscular e antitérmico não age. <b>Específicos</b> (SBTox 2025): na serotoninérgica, <b>ciproeptadina</b> 12 mg VO ou por sonda e 4 a 8 mg a cada 6 horas, até 32 mg/dia; na neuroléptica maligna com rigidez intensa e rabdomiólise, <b>dantroleno</b> 2 a 3 mg/kg IV, repetido a cada 15 minutos até melhora ou 10 mg/kg, com bromocriptina como alternativa.</p>
+
+<h2 id="abstinencia">Abstinência alcoólica</h2>
+<p>Tremor, sudorese, taquicardia, hipertensão, ansiedade e alucinações, com risco de convulsão e de <b>delirium</b> com febre e instabilidade autonômica. A ASAM 2020 mede a gravidade pela CIWA-Ar (leve abaixo de 10, moderada de 10 a 18, grave a partir de 19) e o risco de complicação pela PAWSS, lembrando que febre, hipóxia e infecção confundem a escala. O tratamento não espera o laboratório.</p>
+<ol class="passos">
+<li><b>Benzodiazepínico é a primeira linha</b>, de preferência guiado por sintomas; esquema fixo quando a reavaliação frequente não é possível. Na forma grave, <b>dose de ataque</b> com diazepam ou clordiazepóxido. Na hepatopatia grave, preferir o de menor metabolismo hepático.</li>
+<li><b>Tiamina</b> 100 mg IV ou IM por dia por 3 a 5 dias nos desnutridos ou na forma complicada, junto com a glicose, em qualquer ordem.</li>
+<li><b>Após convulsão</b>, benzodiazepínico parenteral de ação rápida e reavaliação a cada 1 a 2 horas por 6 a 24 horas. Fenitoína, betabloqueador e agonista alfa-2 não previnem a convulsão.</li>
+<li><b>Delirium</b>: benzodiazepínico IV em doses que podem ser muito maiores que as habituais, até sonolência leve.</li>
+<li><b>Resistente</b>: fenobarbital adjuvante com monitorização (parenteral só em UTI), propofol no intubado, dexmedetomidina na UTI.</li>
+</ol>
+<p>Clonidina, dexmedetomidina e betabloqueador são só <b>adjuvantes</b> para hiperatividade autonômica; sozinhos escondem sinais sem prevenir convulsão e delirium. Álcool como tratamento e magnésio de rotina não têm lugar (ASAM 2020).</p>
+
+<h2 id="gases">Monóxido de carbono, cianeto e metemoglobinemia</h2>
+<p><b>Monóxido de carbono.</b> Cefaleia, náusea e tontura em várias pessoas do mesmo ambiente sugerem o diagnóstico. A oximetria de pulso comum não distingue carboxi de oxi-hemoglobina e mostra saturação normal: o diagnóstico exige <b>co-oximetria</b>. A meia-vida da carboxi-hemoglobina cai de cerca de 320 minutos em ar ambiente para 74 minutos com oxigênio a 100% e 20 minutos com oxigênio hiperbárico. Oxigênio a 100% começa na suspeita; a câmara hiperbárica, de benefício debatido, é considerada com perda de consciência, isquemia no ECG, déficit neurológico, acidose importante ou carboxi-hemoglobina acima de 25% (Rose, 2017).</p>
+<p><b>Cianeto.</b> Bloqueia a citocromo-oxidase: colapso circulatório, convulsão, coma e <b>acidose láctica</b>. Na vítima de incêndio com rebaixamento e lactato alto, tratar empiricamente; outras fontes são nitroprussiato prolongado em dose alta, sais industriais e glicosídeos cianogênicos (mandioca-brava).</p>
+<table class="rec">
+<tr><th>Recomendação (AHA 2023)</th><th>Classe</th></tr>
+<tr><td>Hidroxocobalamina no cianeto; nitrito de sódio quando ela falta</td><td class="c"><span class="cls c1">1</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Tiossulfato de sódio associado</td><td class="c"><span class="cls c2a">2a</span><span class="niv">C-LD</span></td></tr>
+<tr><td>Oxigênio a 100% no cianeto</td><td class="c"><span class="cls c2a">2a</span><span class="niv">C-EO</span></td></tr>
+<tr><td>Azul de metileno na metemoglobinemia</td><td class="c"><span class="cls c1">1</span><span class="niv">B-NR</span></td></tr>
+<tr><td>Exsanguinotransfusão ou oxigênio hiperbárico sem resposta ao azul de metileno</td><td class="c"><span class="cls c2b">2b</span><span class="niv">C-LD</span></td></tr>
+<tr><td>N-acetilcisteína na metemoglobinemia</td><td class="c"><span class="cls c3">3: sem benefício</span><span class="niv">B-R</span></td></tr>
+</table>
+<p>No incêndio, a hidroxocobalamina é a escolha porque o nitrito induz metemoglobinemia, que somada à carboxi-hemoglobina piora o transporte de oxigênio (SBTox). Ela avermelha pele e urina e interfere em exames colorimétricos.</p>
+<p><b>Metemoglobinemia</b>: cianose que não melhora com oxigênio, sangue cor de chocolate, PaO₂ normal. Causas: dapsona, benzocaína tópica, nitritos, anilinas, metoclopramida. A SBTox indica azul de metileno com metemoglobina a partir de 30% a 40%, ou abaixo de 30% com anemia, insuficiência cardíaca, pneumonia ou DPOC. É ineficaz e hemolítico na deficiência de G6PD e, como inibidor da MAO, precipita síndrome serotoninérgica com ISRS e IRSN.</p>
+
+<h2 id="animais">Animais peçonhentos</h2>
+<p>O diagnóstico é clínico e epidemiológico. A soroterapia depende do tipo de acidente e da <b>gravidade</b>, com ampolas definidas pelo Guia de Vigilância em Saúde do Ministério da Saúde. O soro é <b>intravenoso</b>, em ambiente preparado para anafilaxia; o teste cutâneo de sensibilidade não é recomendado, porque prediz mal e atrasa o tratamento.</p>
+<div class="rolagem"><table>
+<tr><th>Acidente</th><th>Quadro que define</th><th>Soro e ampolas por gravidade</th></tr>
+<tr><td><b>Botrópico</b> (jararaca)</td><td>Dor, edema e equimose progressivos, bolhas, necrose; sangramento, <b>incoagulabilidade</b>, lesão renal</td><td>Antibotrópico: leve 2 a 4; moderado 4 a 8; grave 12</td></tr>
+<tr><td><b>Laquético</b> (surucucu)</td><td>Como o botrópico, com <b>manifestações vagais</b>; não há forma leve</td><td>Antibotrópico-laquético: moderado 10; grave 20</td></tr>
+<tr><td><b>Crotálico</b> (cascavel)</td><td>Pouca lesão local; <b>fácies miastênica</b>, mialgia, urina escura por rabdomiólise, lesão renal</td><td>Anticrotálico: leve 5; moderado 10; grave 20</td></tr>
+<tr><td><b>Elapídico</b> (coral)</td><td>Neurotóxico: ptose, disfagia, paralisia respiratória</td><td>Antielapídico: 10, sempre potencialmente grave</td></tr>
+<tr><td><b>Escorpiônico</b></td><td>Dor local; vômitos, sudorese, sialorreia, taquicardia; grave com vômitos incoercíveis, edema pulmonar, choque</td><td>Antiescorpiônico: leve nenhum; moderado 2 a 3; grave 4 a 6</td></tr>
+<tr><td><b>Loxoscélico</b> (aranha-marrom)</td><td>Necrose de instalação lenta; forma cutâneo-visceral com <b>hemólise</b></td><td>Antiloxoscélico: moderado 5; grave 10, com prednisona 40 mg/dia por 5 dias</td></tr>
+<tr><td><b>Fonêutrico</b> (armadeira)</td><td>Dor intensa; grave com sudorese, sialorreia, priapismo, edema pulmonar</td><td>Antiaracnídico: moderado 2 a 4; grave 5 a 10</td></tr>
+</table></div>
+<p>O <b>tempo de coagulação</b> em tubo seco confirma o envenenamento botrópico, laquético e crotálico e acompanha a resposta ao soro: até 9 minutos é normal, de 10 a 30 prolongado, acima de 30 incoagulável. Distúrbio de coagulação isolado já caracteriza o botrópico leve. No escorpionismo, dor se trata com lidocaína a 2% sem vasoconstritor, e a criança fica em observação por 6 a 12 horas. No crotálico, hidratação vigorosa protege o rim da mioglobina.</p>
+<div class="cx armadilha"><b>O que não se faz</b><b>Torniquete</b> (agrava isquemia e necrose e pode causar síndrome compartimental), <b>incisão e sucção</b>, substâncias no local e <b>soro intramuscular</b>. O certo é lavar, imobilizar e elevar o membro, analgesia, profilaxia antitetânica e soro conforme a gravidade, com notificação compulsória.</div>
+
+<h2 id="armadilhas">Erros frequentes</h2>
+<ul>
+<li>Não dosar paracetamol em tentativa de suicídio com fármaco, ou esperar sintomas para iniciar a N-acetilcisteína.</li>
+<li>Suspender a N-acetilcisteína ao fim da última bolsa sem conferir paracetamol, transaminases e RNI.</li>
+<li>Atrasar a glicose para dar tiamina antes: podem ser dadas juntas.</li>
+<li>Dar carvão sem via aérea protegida, ou para álcoois tóxicos, lítio e ferro.</li>
+<li>Usar flumazenil como teste diagnóstico ou em intoxicação mista com tricíclico.</li>
+<li>Titular atropina pela frequência cardíaca ou pela pupila no organofosforado, em vez da secreção brônquica.</li>
+<li>Usar antiarrítmico IA ou IC na intoxicação por tricíclico.</li>
+<li>Intubar o intoxicado por salicilato e ventilá-lo com volume-minuto habitual.</li>
+<li>Descartar álcool tóxico porque o gap osmolar veio normal num paciente com acidose grave.</li>
+<li>Dar alta após hipoglicemia por sulfonilureia corrigida: ela recorre por horas.</li>
+<li>Confiar na oximetria de pulso na intoxicação por monóxido de carbono.</li>
+<li>Usar nitrito na vítima de incêndio quando há hidroxocobalamina.</li>
+<li>Torniquete, incisão ou soro intramuscular no acidente ofídico.</li>
+</ul>
+
+<h2 id="autoteste">Perguntas de revisão</h2>
+<details><summary>Paciente rebaixado, midríase, pele seca e quente, sem ruídos hidroaéreos, QRS de 130 ms. Qual a síndrome e a conduta?</summary>
+<p>Anticolinérgica com bloqueio de canal de sódio, típica de tricíclico. Bicarbonato de sódio em bolos até estreitar o QRS (classe 1, B-NR), com sódio até 150 a 155 mEq/L e pH até 7,50 a 7,55; benzodiazepínico se convulsionar. Flumazenil, fisostigmina e antiarrítmicos IA ou IC são contraindicados.</p></details>
+<details><summary>Ingestão de paracetamol há 3 horas, hora conhecida. Quando dosar e como decidir?</summary>
+<p>Colher a partir de 4 horas e lançar no nomograma; pelo consenso de 2023, tratar acima da linha de 150 µg/mL às 4 horas, com pelo menos 300 mg/kg de NAC em 20 a 24 horas (peso limitado a 100 kg). Se o resultado não sair a tempo de começar antes de 8 horas, iniciar a NAC e rever depois.</p></details>
+<details><summary>Acidose com ânion gap alto, gap osmolar de 30 e visão turva dois dias após beber destilado de procedência duvidosa. Espera a dosagem de metanol?</summary>
+<p>Não. Fomepizol (ou etanol), ácido folínico, bicarbonato e hemodiálise pelos critérios do EXTRIP: déficit visual novo já indica terapia extracorpórea. Notificar de imediato.</p></details>
+<details><summary>Choque com bradicardia e glicemia de 320 mg/dL em paciente que usa anlodipino e verapamil. O que priorizar?</summary>
+<p>Vasopressor e insulina em dose alta (classe 1, B-NR), com cálcio (2a, C-LD). A hiperglicemia aponta para bloqueador de canal de cálcio. Emulsão lipídica de rotina não é recomendada (classe 3: sem benefício); ECMO venoarterial no refratário (2a, C-LD).</p></details>
+<details><summary>Trabalhador rural com miose, broncorreia e bradicardia. Qual o alvo da atropina?</summary>
+<p>Secar a árvore brônquica, com melhora do broncoespasmo, da bradicardia e da hipotensão, dobrando a dose a cada 5 minutos. Intubação precoce se grave, sem succinilcolina; descontaminação da pele com a equipe protegida.</p></details>
+<details><summary>Acidente com jararaca, edema até o joelho, gengivorragia e tempo de coagulação acima de 30 minutos. Quantas ampolas e por qual via?</summary>
+<p>Botrópico moderado: 4 a 8 ampolas de antibotrópico, <b>intravenoso</b>, sem teste cutâneo, com suporte para anafilaxia; tempo de coagulação de controle após o soro.</p></details>
+
+<a class="vaiQuestoes" href="../../index.html?area=emergencias#questoes">Treinar questões de emergências</a>
+
+<footer><b>Fontes primárias</b><ol>
+<li>Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association Focused Update on the Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning. Circulation. 2023;148:e149–e184. doi:10.1161/CIR.0000000000001161.</li>
+<li>Bucaretchi F, Prado CC, Borrasca-Fernandes CF, De Capitani EM. Recomendações gerais de indicações, uso e estoque de antídotos. SBTox/ABRACIT, CIATox de Campinas, março de 2025.</li>
+<li>Dart RC, Mullins ME, Matoushek T, et al. Management of Acetaminophen Poisoning in the US and Canada: A Consensus Statement. JAMA Netw Open. 2023;6(8):e2327739. doi:10.1001/jamanetworkopen.2023.27739.</li>
+<li>Pettie JM, Caparrotta TM, Hunter RW, et al. Safety and Efficacy of the SNAP 12-hour Acetylcysteine Regimen for the Treatment of Paracetamol Overdose. EClinicalMedicine. 2019;11:11–17. doi:10.1016/j.eclinm.2019.04.005.</li>
+<li>Roberts DM, Yates C, Megarbane B, et al. Recommendations for the role of extracorporeal treatments in the management of acute methanol poisoning (EXTRIP). Crit Care Med. 2015;43(2):461–472. doi:10.1097/CCM.0000000000000708.</li>
+<li>Ghannoum M, Gosselin S, Hoffman RS, et al. Extracorporeal treatment for ethylene glycol poisoning: systematic review and recommendations from the EXTRIP workgroup. Crit Care. 2023;27:56. doi:10.1186/s13054-022-04227-2.</li>
+<li>EXTRIP Workgroup. Recomendações por substância (lítio, metformina, salicilatos, ácido valproico). extrip-workgroup.org, consultado em setembro de 2026.</li>
+<li>Ministério da Saúde. Nota Técnica Conjunta nº 376/2025-SVSA/SAES/SECTICS/MS: atendimento e notificação de casos de intoxicação por metanol após consumo de bebida alcoólica; Nota Técnica nº 459/2025-CGAFME/DAF/SECTICS/MS: disponibilização de fomepizol no SUS. 2025.</li>
+<li>Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., vol. 3: acidente ofídico (revisão de 2024), escorpionismo e araneísmo. Brasília, 2023.</li>
+<li>The ASAM Clinical Practice Guideline on Alcohol Withdrawal Management. J Addict Med. 2020;14(3S Suppl 1):1–72.</li>
+<li>Rose JJ, Wang L, Xu Q, et al. Carbon Monoxide Poisoning: Pathogenesis, Management, and Future Directions of Therapy. Am J Respir Crit Care Med. 2017;195(5):596–606. doi:10.1164/rccm.201606-1275CI.</li>
+</ol>
+<p style="margin-top:10px">Material de estudo. Diante de um intoxicado, acione o CIATox da sua região ou o Disque-Intoxicação (0800 722 6001) e confira as doses na fonte antes de aplicar ao paciente.</p></footer>
+</div>

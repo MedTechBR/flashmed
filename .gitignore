@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+# cópias locais dos scripts da raiz do medtechbr.com.br, só para testar em localhost
+# (em produção o app carrega /_mttokens.css da raiz do site)
+_mtfb.js
+_mtauth.js
+_mttokens.css

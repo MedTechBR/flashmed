@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "aps",
+  "a": "Quais são os atributos essenciais da APS segundo Starfield?",
+  "b": "Acesso de primeiro contato, longitudinalidade, integralidade e coordenação do cuidado (Starfield, 2002)."
+ },
+ {
+  "tema": "aps",
+  "a": "Quais são os atributos derivados da APS segundo Starfield?",
+  "b": "Orientação familiar, orientação comunitária e competência cultural (Starfield, 2002)."
+ },
+ {
+  "tema": "aps",
+  "a": "Quais são os princípios da Atenção Básica na PNAB 2017?",
+  "b": "Universalidade, equidade e integralidade. Longitudinalidade, coordenação e resolutividade aparecem como diretrizes (Portaria 2.436/2017)."
+ },
+ {
+  "tema": "aps",
+  "a": "População adscrita recomendada por eSF na PNAB 2017?",
+  "b": "De 2.000 a 3.500 pessoas por equipe, com outros arranjos conforme risco e vulnerabilidade do território (Portaria 2.436/2017)."
+ },
+ {
+  "tema": "aps",
+  "a": "Máximo de pessoas por ACS na PNAB 2017?",
+  "b": "750 pessoas por agente comunitário; em áreas de risco e vulnerabilidade, cobertura de 100% pelos ACS (Portaria 2.436/2017)."
+ },
+ {
+  "tema": "aps",
+  "a": "Composição mínima da equipe de Saúde da Família?",
+  "b": "Médico, enfermeiro, auxiliar ou técnico de enfermagem e ACS; ACE e saúde bucal podem compor (PNAB, Portaria 2.436/2017)."
+ },
+ {
+  "tema": "aps",
+  "a": "Componentes do cofinanciamento federal da APS de 2024?",
+  "b": "Fixo; vínculo e acompanhamento territorial; qualidade; programas e serviços; saúde bucal; per capita de base populacional (Portaria GM/MS 3.493/2024)."
+ },
+ {
+  "tema": "aps",
+  "a": "Pessoas vinculadas por eSF no cofinanciamento de 2024, por porte do município?",
+  "b": "Até 20 mil hab: 2.000 (teto 3.000); 20 a 50 mil: 2.500 (3.750); 50 a 100 mil: 2.750 (4.125); acima de 100 mil: 3.000 (4.500) (Portaria GM/MS 3.493/2024)."
+ },
+ {
+  "tema": "aps",
+  "a": "Modalidades da eMulti: equipes vinculadas e carga horária mínima?",
+  "b": "Ampliada: 10 a 12 equipes, 300 h; Complementar: 5 a 9, 200 h; Estratégica: 1 a 4, 100 h semanais somadas (Portaria GM/MS 635/2023)."
+ },
+ {
+  "tema": "aps",
+  "a": "Classificação de risco no acolhimento à demanda espontânea (CAB 28)?",
+  "b": "Vermelho: imediato; amarelo: prioritário; verde: no dia (risco baixo ou vulnerabilidade importante); azul: não agudo, intervenção programada (CAB 28, 2013)."
+ },
+ {
+  "tema": "aps",
+  "a": "Teleinterconsulta segundo a Resolução CFM 2.314/2022?",
+  "b": "Troca de informações e opiniões entre médicos, com ou sem o paciente presente, para apoio diagnóstico ou terapêutico (Res. CFM 2.314/2022)."
+ },
+ {
+  "tema": "aps",
+  "a": "Que direito a Lei 14.510/2022 garante ao paciente na telessaúde?",
+  "b": "Consentimento livre e informado e direito de recusar o atendimento remoto, com garantia de atendimento presencial quando solicitado (Lei 14.510/2022)."
+ },
+ {
+  "tema": "ferramentas",
+  "a": "Quais são os 4 componentes do método clínico centrado na pessoa (3ª ed.)?",
+  "b": "Explorar saúde, doença e experiência da doença; entender a pessoa como um todo; elaborar plano conjunto; intensificar a relação pessoa e médico (Stewart, 2017)."
+ },
+ {
+  "tema": "ferramentas",
+  "a": "Quais são as dimensões da experiência da doença (SIFE)?",
+  "b": "Sentimentos, ideias, funcionalidade e expectativas da pessoa (Stewart, método clínico centrado na pessoa, 2017)."
+ },
+ {
+  "tema": "ferramentas",
+  "a": "Genograma: como se marcam separação e divórcio?",
+  "b": "Um traço transversal na linha de união indica separação; dois traços, divórcio. União não formal usa linha tracejada (McGoldrick, 2012)."
+ },
+ {
+  "tema": "ferramentas",
+  "a": "Ecomapa: significado dos tipos de linha?",
+  "b": "Contínua grossa: vínculo forte; tracejada: vínculo fraco; zigue-zague: relação estressante; setas: direção do fluxo de energia (Tratado de MFC, 2019)."
+ },
+ {
+  "tema": "ferramentas",
+  "a": "Dimensões do modelo FIRO?",
+  "b": "Inclusão (pertencimento e papéis), controle (poder e decisão) e intimidade (abertura e afeto) (Schutz, 1958; Doherty e Baird, 1983)."
+ },
+ {
+  "tema": "ferramentas",
+  "a": "O que significa o acrônimo PRACTICE?",
+  "b": "Problema apresentado, papéis e estrutura, afeto, comunicação, momento do ciclo de vida, doenças na família, enfrentamento do estresse, ecologia (Tratado de MFC, 2019)."
+ },
+ {
+  "tema": "ferramentas",
+  "a": "Pontos de corte do APGAR familiar de Smilkstein?",
+  "b": "Cinco itens de 0 a 2. De 7 a 10: família funcional; 4 a 6: moderada disfunção; 0 a 3: acentuada disfunção (Smilkstein, 1978)."
+ },
+ {
+  "tema": "ferramentas",
+  "a": "CIAP-2: o que codificam os números 1 a 29 e 70 a 99?",
+  "b": "1 a 29: sintomas e queixas; 70 a 99: diagnósticos ou doenças. Capítulo Z reúne problemas sociais (WONCA, CIAP-2, 2009)."
+ },
+ {
+  "tema": "ferramentas",
+  "a": "Etapas do protocolo SPIKES?",
+  "b": "Setting (ambiente), Perception (percepção), Invitation (convite), Knowledge (informação), Emotions (emoções), Strategy and Summary (plano e resumo) (Baile, 2000)."
+ },
+ {
+  "tema": "grupos",
+  "a": "Fenótipo de fragilidade de Fried: critérios e classificação?",
+  "b": "Perda de peso, exaustão, fraqueza, lentidão da marcha e baixa atividade. Três ou mais: frágil; um ou dois: pré-frágil (Fried, 2001)."
+ },
+ {
+  "tema": "grupos",
+  "a": "Modalidades das equipes de Consultório na Rua?",
+  "b": "I: 4 profissionais (2 nível superior e 2 médio), sem médico; II: 6 (3 e 3), sem médico; III: modalidade II mais médico (Portaria 122/2011)."
+ },
+ {
+  "tema": "grupos",
+  "a": "Atenção domiciliar: quem cuida de AD1, AD2 e AD3?",
+  "b": "AD1: equipe de APS. AD2 e AD3: Serviço de Atenção Domiciliar (EMAD com apoio da EMAP); AD3 exige equipamentos como ventilação mecânica ou diálise peritoneal (PRC 5/2017, Portaria 3.005/2024)."
+ },
+ {
+  "tema": "grupos",
+  "a": "Escala de Coelho e Savassi: faixas de risco familiar?",
+  "b": "Soma dos dados sentinela: 5 a 6 pontos, R1 (menor); 7 a 8, R2 (médio); 9 ou mais, R3 (máximo) (Coelho e Savassi, 2004)."
+ }
+]

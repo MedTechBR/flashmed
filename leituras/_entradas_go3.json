@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Ginecologia e Obstetrícia",
+  "f": "rastreamento-colo-e-mama.html",
+  "tipo": "INCA 2025 · resumo de prova",
+  "area": "ginonco",
+  "min": 56,
+  "t": "Rastreamento do câncer do colo do útero e da mama",
+  "s": "Colo do útero pelas diretrizes do INCA de 2025 (DNA-HPV de 25 a 64 anos) e de 2016 (citologia, onde o teste molecular ainda não chegou), com lesões precursoras, colposcopia, excisão da zona de transformação e vacina; mama pela Nota Técnica do Ministério da Saúde de 2025, BI-RADS, nódulo palpável, alto risco e doenças benignas."
+ },
+ {
+  "grupo": "Ginecologia e Obstetrícia",
+  "f": "ginecologia-endocrina.html",
+  "tipo": "FIGO 2018 e SOP 2023 · resumo de prova",
+  "area": "ginecologia",
+  "min": 53,
+  "t": "Ginecologia endócrina",
+  "s": "Sangramento uterino anormal pelo PALM-COEIN da FIGO, roteiro de investigação das amenorreias primária e secundária, síndrome dos ovários policísticos pela diretriz internacional de 2023, hiperprolactinemia, endometriose e dor pélvica, miomatose, climatério com terapia hormonal e sangramento pós-menopausa."
+ },
+ {
+  "grupo": "Ginecologia e Obstetrícia",
+  "f": "ist-e-vulvovaginites.html",
+  "tipo": "PCDT IST 2022 · resumo de prova",
+  "area": "gininfec",
+  "min": 53,
+  "t": "Infecções sexualmente transmissíveis e vulvovaginites",
+  "s": "Abordagem das síndromes ginecológicas pelo PCDT IST do Ministério da Saúde (2022) e atualizações até 2026: corrimento vaginal, vaginose, candidíase simples e recorrente, tricomoníase, cervicite, doença inflamatória pélvica, úlcera genital, sífilis do estadiamento ao seguimento, HPV e verrugas, profilaxia após exposição sexual e notificação."
+ }
+]

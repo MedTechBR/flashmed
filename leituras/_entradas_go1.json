@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Ginecologia e Obstetrícia",
+  "f": "pre-natal.html",
+  "tipo": "MS 2012, 2022 e Rede Alyne 2024 · resumo de prova",
+  "area": "obstetricia",
+  "min": 56,
+  "t": "Pré-natal de baixo risco",
+  "s": "Diagnóstico e datação da gravidez, calendário de consultas, exames por trimestre, suplementação, vacinas, queixas comuns, sinais de alerta, estratificação de risco e consulta puerperal, pelas normas do Ministério da Saúde vigentes em 2026 (CAB 32, Manual de Gestação de Alto Risco 2022, Portaria da Rede Alyne de 2024 e notas técnicas posteriores)."
+ },
+ {
+  "grupo": "Ginecologia e Obstetrícia",
+  "f": "sindromes-hipertensivas-gestacao.html",
+  "tipo": "MS 2022 e RBEHG 2023 · resumo de prova",
+  "area": "obstpat",
+  "min": 56,
+  "t": "Síndromes hipertensivas na gestação",
+  "s": "Classificação, critérios de pré-eclâmpsia e sinais de gravidade, HELLP, eclâmpsia, sulfato de magnésio, anti-hipertensivos na crise e na manutenção, momento e via do parto, prevenção com AAS e cálcio e cuidados no puerpério, pelo Manual de Gestação de Alto Risco do Ministério da Saúde (2022), pelo protocolo de 2023 da Rede Brasileira de Estudos sobre Hipertensão na Gravidez e pela ISSHP."
+ },
+ {
+  "grupo": "Ginecologia e Obstetrícia",
+  "f": "diabetes-gestacional.html",
+  "tipo": "MS 2022 e SBD 2026 · resumo de prova",
+  "area": "obstpat",
+  "min": 49,
+  "t": "Diabetes mellitus gestacional",
+  "s": "Rastreamento e diagnóstico pelo consenso brasileiro de 2017, metas glicêmicas, terapia nutricional, insulina e metformina, vigilância fetal, momento do parto, controle intraparto e reclassificação no puerpério, pelo Manual de Gestação de Alto Risco do Ministério da Saúde (2022) e pela Diretriz da Sociedade Brasileira de Diabetes (edição 2026)."
+ }
+]

@@ -1,0 +1,7 @@
+{"incluidas": 45, "descartadas": [], "gabaritos_discutiveis": [
+ {"pid": "p0689", "nota": "Gabarito (cefepime + metronidazol + teicoplanina + jejum) mantido por ser a única opção com cobertura anaeróbica e jejum para tiflite; o glicopeptídeo não tem indicação rotineira pela diretriz pediátrica de neutropenia febril 2023 (Lehrnbecher, JCO), sem instabilidade, infecção de cateter ou MRSA. O comentário sinaliza isso."},
+ {"pid": "p0665", "nota": "Enunciado vago ('a porcentagem perdida'); oficial 10% corresponde ao limite de referência da perda fisiológica. 5% é perda comum, mas não é o valor de referência. Mantida com comentário explicativo."},
+ {"pid": "p0686", "nota": "Na 108 mEq/L é grave; albumina 1 g/kg é defensável (hiponatremia hipervolêmica + lesão renal aguda na cirrose, EASL 2018) porque não há sintomas neurológicos descritos. Se houvesse, hipertônico seria indicado."},
+ {"pid": "p0651", "nota": "Diagnóstico (xarope de bordo) inequívoco, mas a alternativa correta cita 'teste do odor da urina'; a confirmação real é por aminoácidos plasmáticos (leucina/aloisoleucina). O comentário corrige o método."},
+ {"pid": "p0674", "nota": "'Colangite confirmada' sem hemocultura conferida no consenso internacional de 2022 (Calinescu, J Clin Med): 2 achados clínicos + 2 laboratoriais bastam. Pelos critérios de Tóquio (adulto) seria 'suspeita', por isso o registro."}
+]}

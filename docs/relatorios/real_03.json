@@ -1,0 +1,47 @@
+{
+ "incluidas": 43,
+ "descartadas": [
+  {
+   "pid": "p0033",
+   "motivo": "Gabarito contraria a norma vigente: aponta coleta de citopatológico como rastreamento do colo, mas as Diretrizes Brasileiras com teste de DNA-HPV (Portaria Conjunta SAES/SECTICS nº 13/2025, que revogou a Portaria SAS/MS 497/2016) trocaram o teste de rastreamento. Além disso, o TOTG para rastrear diabetes pré-gestacional em mulher obesa e com PA 140x85 é defensável pela ADA."
+  },
+  {
+   "pid": "p0038",
+   "motivo": "Depende de figura (lesão 'abaixo' com referência bibliográfica da imagem) e a última alternativa saiu misturada com o enunciado da questão seguinte."
+  },
+  {
+   "pid": "p0039",
+   "motivo": "Enunciado truncado (começa no meio do exame físico da questão anterior) e depende de ECG em figura não disponível."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0035",
+   "nota": "Ferropenia sem anemia: muitos suplementariam ferro além da dieta, mas a única alternativa com sulfato ferroso afirma anemia, o que é falso pelo corte de 12 g/dL dado no enunciado; oficial mantida."
+  },
+  {
+   "pid": "p0367",
+   "nota": "Diretrizes (BAD 2016) costumam recomendar biópsia para confirmar SSJ; a oficial (diagnóstico clínico) é a melhor entre as opções, pois a biópsia proposta tem racional errado (pênfigo)."
+  },
+  {
+   "pid": "p0383",
+   "nota": "ACOG (PB 197, 2018) aceita dose profilática, intermediária ou ajustada de HBPM para trombofilia de alto risco com TVP prévia, o que torna AAS + enoxaparina 40 mg discutível; RCOG 37a indica dose alta para deficiência de antitrombina, sustentando a oficial. Deficiência homozigótica de antitrombina é quase incompatível com a vida, falha do enunciado que não muda a resposta."
+  },
+  {
+   "pid": "p0388",
+   "nota": "BTS 2023 recomenda guiar a punção por ultrassom; a oficial (toracocentese) segue correta como conduta, comentário cita a orientação por ultrassom."
+  },
+  {
+   "pid": "p0390",
+   "nota": "Perda com 21 semanas é tecnicamente abortamento tardio e pode sugerir insuficiência istmocervical; com um único evento e colo de 43 mm a cerclagem eletiva não se indica, e a progesterona vaginal tem evidência (EPPPIC 2021, ACOG 2023). A via não está explícita na alternativa."
+  },
+  {
+   "pid": "p0361",
+   "nota": "A alternativa correta diz 'carcinoma invasor de bexiga', mas a maioria dos tumores vesicais ao diagnóstico é não músculo-invasiva; o ponto decisivo (cistoscopia, tumor urotelial) está certo."
+  },
+  {
+   "pid": "p0029",
+   "nota": "Protocolo de fast-track COVID-19 da APS é documento de 2020, hoje sem uso operacional; gabarito não contraria norma vigente, mantido como conteúdo de estratificação de síndrome gripal."
+  }
+ ]
+}

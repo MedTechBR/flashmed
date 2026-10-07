@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "neonato",
+  "a": "RN de 34 semanas ou mais em apneia após os passos iniciais: o que fazer e com qual FiO2?",
+  "b": "VPP por máscara no primeiro minuto de vida (minuto de ouro), em ar ambiente (21%), 30 a 60/min, pressão de 20 a 30 cmH2O. O2 ajustado 20% a cada 30 s pela SpO2 pré-ductal: 65 a 70% aos 2 min, 70 a 75% aos 3, 75 a 80% aos 4, 80 a 85% aos 5, 85 a 95% aos 10. Abaixo de 34 semanas, começa com 60%. Fonte: SBP, reanimação neonatal, 2026."
+ },
+ {
+  "tema": "neonato",
+  "a": "Quando iniciar massagem cardíaca no RN e em que relação?",
+  "b": "FC abaixo de 60 bpm após 30 s de VPP com técnica adequada. Dois polegares no terço inferior do esterno, 3 compressões para 1 ventilação, oxigênio a 100%. Fonte: SBP, 2022."
+ },
+ {
+  "tema": "neonato",
+  "a": "Adrenalina na reanimação neonatal: indicação e via preferida?",
+  "b": "FC abaixo de 60 bpm após 60 s de massagem com VPP e O2 a 100%. Via IV pela veia umbilical, 0,02 mg/kg (0,2 mL/kg da diluição 0,1 mg/mL) com flush de 3 mL, a cada 3 a 5 min; intraóssea é alternativa; traqueal 0,1 mg/kg (1 mL/kg) uma única vez. Fonte: SBP, 2026."
+ },
+ {
+  "tema": "neonato",
+  "a": "Líquido meconial e RN não vigoroso: aspirar a traqueia?",
+  "b": "Não de rotina. Passos iniciais e VPP com máscara se apneia ou FC abaixo de 100 bpm. Aspiração traqueal só se houver obstrução da via aérea. Fonte: SBP, 2022."
+ },
+ {
+  "tema": "neonato",
+  "a": "Clampeamento do cordão no RN de 34 semanas ou mais com boa vitalidade?",
+  "b": "No mínimo 60 segundos após o nascimento, com o RN em contato pele a pele. Se não respira, clampear logo e iniciar os passos. Fonte: SBP, 2022."
+ },
+ {
+  "tema": "neonato",
+  "a": "Pré-termo abaixo de 32 semanas na sala de parto: como evitar hipotermia?",
+  "b": "Sala a 23 a 25 °C, calor radiante, saco plástico de polietileno sem secar (rosto de fora, retirado só na unidade neonatal), touca dupla, colchão térmico abaixo de 30 semanas e gases aquecidos; meta axilar de 36,5 a 37,5 °C. Fonte: SBP, reanimação do prematuro abaixo de 34 semanas, 2026."
+ },
+ {
+  "tema": "neonato",
+  "a": "Os cinco sinais do Apgar e a nota 1 de cada um?",
+  "b": "FC abaixo de 100 bpm; respiração irregular; alguma flexão; careta; corpo róseo com extremidades cianóticas. O Apgar não decide o início da reanimação. Fonte: AAP e ACOG, 2015."
+ },
+ {
+  "tema": "neonato",
+  "a": "Dose de vitamina K1 profilática no RN?",
+  "b": "1 mg IM em dose única; 0,5 mg se peso abaixo de 2.000 g. A via IM protege melhor contra a forma tardia. Fonte: MS, Atenção à saúde do recém-nascido, 2014."
+ },
+ {
+  "tema": "neonato",
+  "a": "Icterícia antes de 24 horas de vida: significado?",
+  "b": "Sempre patológica. Dosar bilirrubinas e investigar hemólise: tipagem ABO e Rh, Coombs direto, hematócrito, reticulócitos. Fonte: AAP, hiperbilirrubinemia no RN de 35 semanas ou mais, 2022."
+ },
+ {
+  "tema": "neonato",
+  "a": "Fatores de neurotoxicidade que baixam o limiar de fototerapia (AAP)?",
+  "b": "IG abaixo de 38 semanas, albumina abaixo de 3,0 g/dL, hemólise isoimune, G6PD ou outra hemólise, sepse e instabilidade clínica nas últimas 24 h. Fonte: AAP, 2022."
+ },
+ {
+  "tema": "neonato",
+  "a": "Icterícia prolongada com acolia e colúria no lactente: conduta?",
+  "b": "Dosar bilirrubina direta e encaminhar com urgência para investigar atresia biliar; Kasai tem melhor resultado antes de 45 a 60 dias. Fonte: NASPGHAN e ESPGHAN, 2017."
+ },
+ {
+  "tema": "neonato",
+  "a": "Radiografia típica de TTRN x membrana hialina?",
+  "b": "TTRN: congestão peri-hilar, líquido nas cisuras, hiperinsuflação; melhora em 24 a 72 h. Membrana hialina: reticulogranular, broncograma, volume reduzido. Fonte: MS, Atenção à saúde do RN, 2014."
+ },
+ {
+  "tema": "neonato",
+  "a": "Quando dar surfactante na síndrome do desconforto respiratório do pré-termo?",
+  "b": "FiO2 acima de 0,30 com CPAP de pelo menos 6 cmH2O; preferir técnica minimamente invasiva (LISA). Fonte: Consenso europeu sobre SDR, atualização 2022, publicado em 2023."
+ },
+ {
+  "tema": "neonato",
+  "a": "Agentes e esquema empírico da sepse neonatal precoce?",
+  "b": "Estreptococo do grupo B e Escherichia coli, além de Listeria. Ampicilina com gentamicina. Fonte: MS, Atenção à saúde do RN, 2014; AAP, 2019."
+ },
+ {
+  "tema": "neonato",
+  "a": "Teste do pezinho: cinco etapas da Lei 14.154/2021?",
+  "b": "1) doenças já triadas e toxoplasmose congênita; 2) galactosemias, aminoacidopatias, ciclo da ureia, betaoxidação; 3) lisossômicas; 4) imunodeficiências primárias; 5) AME. Coleta do 3º ao 5º dia. Fonte: Lei 14.154/2021."
+ },
+ {
+  "tema": "neonato",
+  "a": "Teste do coraçãozinho normal?",
+  "b": "Entre 24 e 48 h, membro superior direito e um membro inferior: saturação de 95% ou mais em ambos e diferença menor que 3 pontos. Alterado: repetir em 1 h e, se persistir, ecocardiograma. Fonte: SBP, 2011."
+ },
+ {
+  "tema": "neonato",
+  "a": "Tratamento materno adequado de sífilis (PCDT)?",
+  "b": "Benzatina completa para o estágio, com 1ª dose até 30 dias antes do parto e intervalos respeitados. Tratar a parceria não entra no critério. Fonte: MS, PCDT de IST, 2022."
+ },
+ {
+  "tema": "neonato",
+  "a": "Tratamento da neurossífilis congênita?",
+  "b": "Penicilina cristalina 50.000 UI/kg/dose IV, 12/12 h na 1ª semana e 8/8 h depois, por 10 dias. Sem neurossífilis: procaína IM por 10 dias. Fonte: MS, PCDT de IST, 2022."
+ },
+ {
+  "tema": "neonato",
+  "a": "Como confirmar CMV congênito?",
+  "b": "PCR para CMV em urina ou saliva até 3 semanas de vida. Sintomático moderado a grave: valganciclovir oral por 6 meses. Fonte: Consenso internacional sobre CMV congênito, 2017."
+ },
+ {
+  "tema": "puericultura",
+  "a": "Classificação do IMC para idade em menores de 5 anos (OMS/MS)?",
+  "b": "Escore z de +1 a +2: risco de sobrepeso; de +2 a +3: sobrepeso; acima de +3: obesidade. A partir dos 5 anos os cortes sobem um degrau. Fonte: MS, Norma Técnica do SISVAN, 2011."
+ },
+ {
+  "tema": "puericultura",
+  "a": "Conservação do leite materno ordenhado cru em casa?",
+  "b": "Até 12 horas na geladeira e até 15 dias no congelador, em frasco de vidro fervido; degelo em banho-maria, nunca micro-ondas. Fonte: MS, CAB 23, 2015."
+ },
+ {
+  "tema": "puericultura",
+  "a": "Refeições na alimentação complementar aos 6 e aos 7 a 8 meses?",
+  "b": "6 meses: fruta, almoço e fruta, além do leite materno. 7 a 8 meses: acrescentar o jantar. Sem açúcar até 2 anos. Fonte: MS, Guia Alimentar para Crianças Menores de 2 Anos, 2019."
+ },
+ {
+  "tema": "puericultura",
+  "a": "Ferro profilático no prematuro de 1.500 a 2.500 g?",
+  "b": "2 mg/kg/dia a partir de 30 dias por 1 ano e 1 mg/kg/dia no 2º ano. Termo com peso adequado: 1 mg/kg/dia do 3º ao 24º mês. Fonte: SBP, Consenso sobre anemia ferropriva, 2018."
+ },
+ {
+  "tema": "puericultura",
+  "a": "O que mudou no calendário do PNI para pólio, meningo e HPV?",
+  "b": "Pólio: só VIP, com reforço aos 15 meses (nov/2024). Reforço meningocócico dos 12 meses com ACWY (2025). HPV em dose única de 9 a 14 anos (2024). Fonte: MS, Calendário Nacional de Vacinação, 2026."
+ },
+ {
+  "tema": "puericultura",
+  "a": "Limites de idade da vacina oral de rotavírus?",
+  "b": "1ª dose de 1 mês e 15 dias a 3 meses e 15 dias; 2ª dose até 7 meses e 29 dias; intervalo mínimo de 30 dias. Fora do prazo, não vacinar. Fonte: MS, Manual de Normas e Procedimentos para Vacinação, 2014."
+ }
+]

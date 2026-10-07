@@ -1,0 +1,55 @@
+{
+ "incluidas": 39,
+ "descartadas": [
+  {
+   "pid": "p0556",
+   "motivo": "Mais de uma resposta defensável: Hb de 8,6 g/dL estável, em criança sem instabilidade, fica acima do limiar transfusional usual em oncologia pediátrica (7 a 8 g/dL); 3 semanas de hipersonia, irritabilidade e retraimento social sugerem depressão, tornando a avaliação psiquiátrica ao menos tão defensável quanto o gabarito (transfundir)."
+  },
+  {
+   "pid": "p0577",
+   "motivo": "Mais de uma resposta defensável: não há diretriz nacional que fixe o ajuste de insulina no dia da indução com dieta; o gabarito segue o esquema de 1/3 da NPH matinal com regular conforme glicemia, mas protocolos como o canadense reduzem cerca de 50% da NPH e mantêm a regular prandial enquanto houver dieta, o que corresponde à alternativa NPH 6-3-0-3 com regular reduzida. Além disso, o enunciado é bloco compartilhado com a questão 100, ausente."
+  },
+  {
+   "pid": "p0584",
+   "motivo": "Mais de uma resposta defensável: menina de 6 anos com telarca e aceleração do crescimento; a investigação inicial é idade óssea, LH basal e ultrassom pélvico, e a RM de SNC vem após confirmar puberdade precoce central (rotina abaixo de 6 anos, discutida entre 6 e 8). Ultrassom pélvico é ao menos tão adequado quanto a RM do gabarito."
+  },
+  {
+   "pid": "p0585",
+   "motivo": "Gabarito contraria norma vigente: o PCDT de PEP de risco à infecção pelo HIV, IST e hepatites virais (MS, 2021) limita o início da PEP a 72 horas da exposição; com cerca de 80 horas a PEP não está indicada, e o gabarito oficial manda iniciar."
+  },
+  {
+   "pid": "p0586",
+   "motivo": "Gabarito contraria a norma brasileira vigente: o PCDT IST 2022 (conferido em busca, sem atualização que troque o esquema) trata cervicite por gonococo e clamídia com ceftriaxona 500 mg IM mais azitromicina 1 g VO em dose única, que é exatamente a alternativa dada como errada; ceftriaxona com doxiciclina por 7 dias (gabarito) segue o CDC 2021. As duas são defensáveis."
+  },
+  {
+   "pid": "p0589",
+   "motivo": "Mais de uma resposta defensável: a diretriz brasileira de citologia de 2016, ainda válida onde o DNA-HPV não chegou, pede citologia semestral no primeiro ano e depois anual na mulher com HIV (alternativa da citologia anual); a diretriz com DNA-HPV de 2025 usa teste molecular isolado a cada 3 anos em imunossuprimidas, com citologia só como triagem dos positivos; o co-teste a cada 3 anos do gabarito é recomendação norte-americana (HHS)."
+  },
+  {
+   "pid": "p0594",
+   "motivo": "Enunciado truncado ('a melhor programação' sem complemento) e gabarito discutível: câncer de mama luminal metastático se trata em primeira linha com hormonioterapia e inibidor de CDK4/6, e metástase no SNC pede tratamento local (radioterapia ou cirurgia); 'quimioterapia paliativa' não é a melhor programação inequívoca."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0576",
+   "nota": "Mantido: prolapso apical e posterior avançado, sintomático, com defecação obstruída e vida sexual ativa favorece cirurgia; o ACOG/AUGS 2019 manda oferecer pessário como alternativa a toda mulher, o que foi explicado no comentário."
+  },
+  {
+   "pid": "p0578",
+   "nota": "Mantido: o primeiro exame de imagem na gestante é a ultrassonografia, ausente das opções; entre as alternativas, prosseguir com mamografia (segura com proteção) é a melhor, já que a punção aspirativa é pouco confiável na gestação."
+  },
+  {
+   "pid": "p0591",
+   "nota": "Mantido: na incontinência mista se começa por medidas conservadoras e tratamento da urgência; anticolinérgico é a melhor opção listada, mas em idosas a mirabegrona é preferível (anotado no comentário)."
+  },
+  {
+   "pid": "p0592",
+   "nota": "Mantido: ESHRE 2022 põe DIU de levonorgestrel e contraceptivo combinado como opções equivalentes no pós-operatório; o desempate pelo DIU vem da menstruação excessiva."
+  },
+  {
+   "pid": "p0570",
+   "nota": "Mantido: tecnicamente é tratamento preventivo (quimioprofilaxia) do recém-nascido coabitante; a Nota Informativa nº 4/2024 do MS prefere rifampicina por 4 meses. A alternativa 'tratar ILTB' traduz essa conduta."
+  }
+ ]
+}

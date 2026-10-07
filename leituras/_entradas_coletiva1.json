@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Saúde Coletiva e SUS",
+  "f": "sus-legislacao.html",
+  "tipo": "CF 1988, Leis 8.080 e 8.142, LC 141 (texto compilado 2026) · resumo de prova",
+  "area": "sus",
+  "min": 56,
+  "t": "Legislação do SUS",
+  "s": "Da Reforma Sanitária ao Decreto 7.508/2011: Constituição de 1988, Leis 8.080 e 8.142, normas operacionais, Pacto pela Saúde, Lei Complementar 141/2012, Redes de Atenção à Saúde e Política Nacional de Humanização, conferidos no texto compilado do Planalto e nas portarias do Ministério da Saúde."
+ },
+ {
+  "grupo": "Saúde Coletiva e SUS",
+  "f": "epidemiologia-e-indicadores.html",
+  "tipo": "CID-10, RIPSA e MS · resumo de prova",
+  "area": "epidemio",
+  "min": 50,
+  "t": "Epidemiologia e indicadores de saúde",
+  "s": "Medidas de frequência, mortalidade e letalidade, mortalidade infantil e materna, Swaroop-Uemura e curva de Nelson de Moraes, DALY, transição demográfica e epidemiológica no Brasil, endemia e epidemia, cadeia epidemiológica e critérios de causalidade, com as fórmulas e definições que a banca usa."
+ },
+ {
+  "grupo": "Saúde Coletiva e SUS",
+  "f": "estudos-e-bioestatistica.html",
+  "tipo": "Epidemiologia clínica e GRADE · resumo de prova",
+  "area": "bioestat",
+  "min": 46,
+  "t": "Desenhos de estudo e bioestatística",
+  "s": "Desenhos de estudo com suas medidas, risco relativo, razão de chances, risco atribuível, NNT e NNH, testes diagnósticos e efeito da prevalência, vieses e confusão, valor-p, intervalo de confiança, erros tipo I e II, intenção de tratar e GRADE, com tabelas 2×2 resolvidas."
+ }
+]

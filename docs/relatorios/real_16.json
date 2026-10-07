@@ -1,0 +1,43 @@
+{
+ "incluidas": 32,
+ "descartadas": [
+  {
+   "pid": "u006",
+   "motivo": "Depende de duas figuras (foto das lesões e citologia do raspado) ausentes do texto; sem a morfologia, herpes recorrente e outras dermatoses recorrentes no mesmo local (como erupção fixa) não se distinguem com segurança."
+  },
+  {
+   "pid": "u007",
+   "motivo": "Depende do eletrocardiograma em figura: só o traçado afasta ou confirma pré-excitação (Wolff-Parkinson-White), uma das alternativas."
+  },
+  {
+   "pid": "u010",
+   "motivo": "Depende dos exames complementares em figura (não descritos no texto); o diagnóstico que leva ao esmolol (dissecção de aorta) não se sustenta só pelo quadro clínico."
+  },
+  {
+   "pid": "u018",
+   "motivo": "Depende do eletrocardiograma em figura: pericardite (ibuprofeno) versus infarto com supra (alteplase, enoxaparina) é decidido pelo traçado; além disso, anti-inflamatório em DRC IIIb é escolha discutível."
+  },
+  {
+   "pid": "u020",
+   "motivo": "Depende do eletrocardiograma em figura: taquicardia sinusal reacional (dipirona) versus flutter ou taquicardia supraventricular (manobra vagal, metoprolol, amiodarona) só se distingue pelo traçado."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "u026",
+   "nota": "Questão de dados (IBGE, Conta-Satélite de Saúde divulgada em 2024). Gabarito mantido por eliminação (as outras três são claramente falsas), mas os percentuais exatos (mais de 60% para serviços privados) não puderam ser conferidos sem busca; o comentário evita números que não foram verificados além das ordens de grandeza."
+  },
+  {
+   "pid": "u012",
+   "nota": "TOTG é uma das formas de confirmar a glicemia de jejum alterada; repetir a glicemia de jejum também seria aceitável pela ADA 2026, mas não está entre as alternativas. Mantida."
+  },
+  {
+   "pid": "u036",
+   "nota": "A PNAB 2017 manda acolher qualquer pessoa; o gabarito (recepção acertou) vale para o seguimento longitudinal de condição crônica, e o comentário explicita que demanda aguda deve ser acolhida em qualquer UBS."
+  },
+  {
+   "pid": "u003",
+   "nota": "Enunciado cita TC em figura, mas o texto (cefaleia em trovoada e aneurisma sacular na angiotomografia) basta para a resposta; mantida."
+  }
+ ]
+}

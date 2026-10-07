@@ -1,0 +1,55 @@
+{
+ "incluidas": 41,
+ "descartadas": [
+  {
+   "pid": "p0195",
+   "motivo": "Mais de uma resposta defensável e conduta oficial problemática: em transplantado hepático em uso de imunossupressor (inibidor de calcineurina), AINE eleva o risco de nefrotoxicidade e repouso não é recomendado na lombalgia; além disso, metástase óssea de carcinoma hepatocelular é tipicamente osteolítica (cintilografia pode ser falso-negativa) e a radiografia ou a ressonância são primeiro exame igualmente defensáveis diante de sinais de alarme."
+  },
+  {
+   "pid": "p0201",
+   "motivo": "Depende de figura: o enunciado traz \"Apresenta a seguinte radiografia de tórax em PA\", que não está no texto; sem a imagem, o quadro clínico (adolescente, rouquidão, tosse seca, estertores) apontaria para Mycoplasma ou Chlamydia pneumoniae, e não para o gabarito oficial (vírus sincicial respiratório)."
+  },
+  {
+   "pid": "p0210",
+   "motivo": "Depende de figura: pede o agente \"diante da respectiva imagem da lesão\", ausente no texto; pela descrição isolada (lesão pruriginosa interdigital estendendo ao dorso do pé) tinea pedis seria tão defensável quanto larva migrans."
+  },
+  {
+   "pid": "p0212",
+   "motivo": "Depende de figura: a conduta depende do partograma (\"registrada no partograma a seguir\"), que não está no texto."
+  },
+  {
+   "pid": "p0221",
+   "motivo": "Depende de figura: a interpretação exige o diagrama de controle de dengue do território, que não está no texto."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0181",
+   "nota": "O MS não recomenda quimioprofilaxia de malária como rotina no Brasil e a reserva a viagens para áreas de alto risco de P. falciparum com acesso ao diagnóstico acima de 24 horas; para quem trabalha numa UBS com diagnóstico disponível a indicação é discutível. Mantida porque, entre as opções, a doxiciclina é a única droga adequada quando a profilaxia é indicada, e o comentário explica a restrição."
+  },
+  {
+   "pid": "p0185",
+   "nota": "Lúpus com trombose sugere anticorpo antifosfolípide; a OMS (MEC 2015) classifica o SIU-LNG como categoria 3 e o DIU de cobre como 1 nesse subgrupo. Mantida porque o US MEC 2024 rebaixou o SIU-LNG para categoria 2 e o sangramento intenso com dismenorreia favorece o levonorgestrel sobre o cobre."
+  },
+  {
+   "pid": "p0191",
+   "nota": "Rastrear aos 21 anos já contraria a diretriz; a resposta (repetir citologia em 3 anos) segue a diretriz de citologia de 2016, que ainda vale onde o DNA-HPV não foi implantado. Com DNA-HPV (INCA 2025) a orientação é não rastrear antes dos 25 anos."
+  },
+  {
+   "pid": "p0192",
+   "nota": "A alternativa \"indicado como contracepção de emergência em até 72 horas\" é literalmente verdadeira (o prazo é de até 120 horas); a banca a considerou errada pelo prazo incompleto. Mantida porque a correta é inequívoca."
+  },
+  {
+   "pid": "p0196",
+   "nota": "Com convulsão e sonolência, carvão ativado só com via aérea protegida, e o tratamento decisivo é alcalinização e hemodiálise (ausentes das opções). Mantida porque é a única opção pertinente ao salicilato."
+  },
+  {
+   "pid": "p0197",
+   "nota": "O ACOG (CO 651) sugere avaliar ciclos consistentemente acima de 45 dias; a banca seguiu a visão de anovulação fisiológica nos 2 primeiros anos pós-menarca (sem intervalos acima de 90 dias nem sinais de alarme)."
+  },
+  {
+   "pid": "p0209",
+   "nota": "Redação oficial ambígua (\"considerar o resultado alterado e acompanhar\"); a ideia é que 30.000 UFC/mL não preenche bacteriúria assintomática. Alguns serviços repetiriam a urocultura, mas crescimento monomicrobiano não indica contaminação."
+  }
+ ]
+}

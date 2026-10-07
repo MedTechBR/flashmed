@@ -1,0 +1,67 @@
+{
+ "incluidas": 36,
+ "descartadas": [
+  {
+   "pid": "p0355",
+   "motivo": "Gabarito oficial (monitoramento diário do caso de mpox de alto risco) não confirmado em norma vigente: documentos de vigilância estaduais/MS de 2022 indicam monitoramento a cada 48 h para alto risco; na dúvida, descartada."
+  },
+  {
+   "pid": "p0357",
+   "motivo": "Gabarito contraria a Diretriz Brasileira de Hipertensão Arterial 2025 (SBC/SBH/SBN): a meta passou a ser PA abaixo de 130/80 mmHg para a maioria dos hipertensos, inclusive baixo risco; PA de 130 x 80 não está mais \"dentro da meta\" (a resposta valia pela diretriz de 2020, meta abaixo de 140/90)."
+  },
+  {
+   "pid": "p0249",
+   "motivo": "Mais de uma resposta defensável: na impactação fecal retossigmoide a desimpactação por via retal (supositórios, enemas, extração manual) vem antes dos laxativos orais, o que torna a alternativa de supositórios com extração manual tão defensável quanto a oficial (bisacodil, prucaloprida)."
+  },
+  {
+   "pid": "p0251",
+   "motivo": "Ambígua: sem VDRL prévio informado, VDRL 1/64 assintomático é sífilis latente de duração ignorada, que pelo PCDT IST 2022 exige penicilina benzatina 2,4 milhões UI semanal por 3 semanas; a oficial (dose única) só vale se a infecção for comprovadamente recente."
+  },
+  {
+   "pid": "p0252",
+   "motivo": "Mais de uma resposta defensável: ESMO 2018 desaconselha fentanil transdérmico para titular dor não controlada; morfina oral de liberação imediata com ClCr 55 mL/min (outra alternativa) é igualmente ou mais defensável que a oficial."
+  },
+  {
+   "pid": "p0259",
+   "motivo": "Mais de uma resposta defensável: na hipercalemia moderada a grave também ocorrem onda P alargada e achatada e encurtamento do QT, além do alargamento do QRS (oficial)."
+  },
+  {
+   "pid": "p0002",
+   "motivo": "Texto embaralhado na extração: as alternativas de AVC e síndrome do bebê sacudido saíram misturadas (\"Shaken Baby\" / \"síndrome de sacudido) (bebê\")."
+  },
+  {
+   "pid": "p0012",
+   "motivo": "Gabarito contraria o PCDT IST 2022 (MS): DIP se trata com ceftriaxona 500 mg IM dose única + doxiciclina 100 mg 12/12 h + metronidazol 400 mg 12/12 h por 14 dias; azitromicina isolada é tratamento de cervicite, não de DIP com hidrossalpinge."
+  },
+  {
+   "pid": "p0014",
+   "motivo": "Mais de uma resposta defensável: para ITU febril recorrente com ultrassonografia normal a AAP 2011 indica uretrocistografia miccional (padrão-ouro do refluxo); a DMSA (oficial) é padrão-ouro de cicatriz renal. O enunciado não define qual \"padrão-ouro\"."
+  },
+  {
+   "pid": "p0016",
+   "motivo": "Depende de figura (gráfico de mortalidade proporcional) ausente do texto."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0254",
+   "nota": "GASA do enunciado = 3,2 - 2,1 = 1,1 g/dL, exatamente no ponto de corte de hipertensão portal; a oficial (carcinomatose) se sustenta pela proteína alta, LDH do líquido maior que a sérica, celularidade linfomonocitária e câncer gástrico, e o comentário explica o efeito das metástases hepáticas."
+  },
+  {
+   "pid": "p0256",
+   "nota": "ADA põe \"comprometimento cognitivo moderado\" tanto no grupo intermediário (HbA1c abaixo de 8%, jejum 90-150, a oficial) quanto no muito complexo (jejum 100-180); mantida porque o paciente não tem doença terminal nem dependência total e porque a HbA1c abaixo de 8,5% da outra alternativa saiu da tabela atual da ADA."
+  },
+  {
+   "pid": "p0004",
+   "nota": "A distinção entre a oficial e a alternativa com scalp de 10 cm depende de detalhes de protocolo local (POP de APS: scalp cortado com cerca de 4 cm); soro aquecido, leve pressão e otoscopia durante o procedimento têm respaldo na diretriz da AAO-HNS 2017."
+  },
+  {
+   "pid": "p0021",
+   "nota": "\"Mesma eficácia\" entre quadrivalente e bivalente é simplificação (a bivalente tem alguma proteção cruzada a 31, 33 e 45), mas o documento de posição da OMS 2022 considera a eficácia contra 16/18 comparável; as demais alternativas são claramente falsas."
+  },
+  {
+   "pid": "p0253",
+   "nota": "Hemoculturas: ATS/IDSA 2019 as indica de rotina só na PAC grave ou com risco de MRSA/Pseudomonas; mantida porque internação em enfermaria com ceftriaxona + azitromicina é a única conduta adequada entre as alternativas."
+  }
+ ]
+}

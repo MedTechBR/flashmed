@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "humor",
+  "a": "Episódio depressivo maior: número de sintomas e duração mínima (DSM-5-TR)?",
+  "b": "Cinco ou mais de nove sintomas por pelo menos 2 semanas, um deles humor deprimido ou anedonia, com sofrimento ou prejuízo e sem causa por substância ou doença clínica. DSM-5-TR, 2022."
+ },
+ {
+  "tema": "humor",
+  "a": "Duração mínima para transtorno de ansiedade generalizada?",
+  "b": "6 meses de preocupação excessiva e difícil de controlar, com 3 ou mais sintomas: inquietação, fadiga, dificuldade de concentração, irritabilidade, tensão muscular ou alteração do sono. DSM-5-TR, 2022."
+ },
+ {
+  "tema": "humor",
+  "a": "Transtorno de pânico: o que é exigido além dos ataques?",
+  "b": "Ataques recorrentes e inesperados, seguidos de 1 mês ou mais de preocupação persistente com novos ataques ou de mudança desadaptativa de comportamento. Um ataque isolado não basta. DSM-5-TR, 2022."
+ },
+ {
+  "tema": "humor",
+  "a": "Estresse agudo x TEPT: qual o corte temporal?",
+  "b": "Estresse agudo: sintomas de 3 dias a 1 mês após o trauma. TEPT: sintomas por mais de 1 mês. DSM-5-TR, 2022."
+ },
+ {
+  "tema": "humor",
+  "a": "Transtorno de luto prolongado: tempo mínimo após a perda?",
+  "b": "12 meses em adultos e 6 meses em crianças e adolescentes, com saudade intensa ou preocupação com o falecido quase todo dia, prejuízo e intensidade acima das normas culturais. DSM-5-TR, 2022."
+ },
+ {
+  "tema": "humor",
+  "a": "Antidepressivo preferido após infarto agudo do miocárdio recente?",
+  "b": "Sertralina, pela segurança cardiovascular demonstrada nos estudos SADHART. Tricíclicos são evitados no pós-infarto por arritmia e hipotensão. NICE CG91, 2009."
+ },
+ {
+  "tema": "humor",
+  "a": "Por quanto tempo manter o antidepressivo após remissão do primeiro episódio?",
+  "b": "De 6 a 12 meses após a remissão, na dose eficaz, com retirada gradual. Manutenção de 2 anos ou mais se 3 ou mais episódios ou alto risco. OMS mhGAP 2.0, 2016; NICE NG222, 2022."
+ },
+ {
+  "tema": "humor",
+  "a": "Antidepressivo de primeira escolha em adolescente com depressão moderada a grave?",
+  "b": "Fluoxetina, associada a psicoterapia, com monitorização de ideação suicida nas primeiras semanas (alerta abaixo de 25 anos). NICE NG134, 2019."
+ },
+ {
+  "tema": "humor",
+  "a": "Na intoxicação por tricíclico, qual achado do ECG indica bicarbonato de sódio?",
+  "b": "QRS acima de 100 ms, arritmia ventricular ou hipotensão: bicarbonato de sódio 1 a 2 mEq/kg IV em bolus. Goldfrank's Toxicologic Emergencies, 2019."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Duração do psicótico breve, do esquizofreniforme e da esquizofrenia?",
+  "b": "Breve: 1 dia a menos de 1 mês. Esquizofreniforme: 1 a menos de 6 meses. Esquizofrenia: 6 meses ou mais, com pelo menos 1 mês de sintomas ativos. DSM-5-TR, 2022."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Mania x hipomania: duração mínima do episódio?",
+  "b": "Mania: 7 dias, ou qualquer duração se houver internação. Hipomania: 4 dias consecutivos, sem prejuízo grave, internação ou psicose. DSM-5-TR, 2022."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Quando colher a litemia e qual o alvo de manutenção?",
+  "b": "12 horas após a última dose, 5 a 7 dias após início ou ajuste. Alvo de manutenção em torno de 0,6 a 0,8 mmol/L. NICE CG185, 2014."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Quais fármacos e situações elevam a litemia?",
+  "b": "Tiazídicos, anti-inflamatórios, IECA e BRA, além de desidratação, vômitos, diarreia e dieta pobre em sódio. NICE CG185, 2014."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Quando indicar hemodiálise na intoxicação por lítio?",
+  "b": "Litemia acima de 4,0 mmol/L com função renal comprometida, ou rebaixamento de consciência, convulsão ou arritmia em qualquer nível. EXTRIP, 2015."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Como se define esquizofrenia resistente e qual a conduta?",
+  "b": "Falha de 2 antipsicóticos diferentes em dose adequada, por pelo menos 6 semanas cada e com adesão confirmada. Indica-se clozapina. NICE CG178, 2014."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Quais riscos da clozapina exigem vigilância ativa?",
+  "b": "Neutropenia grave e agranulocitose (hemograma seriado, risco maior nas primeiras 18 semanas), miocardite nas primeiras semanas, convulsões, constipação grave e sialorreia. Maudsley, 2021."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Como tratar a distonia aguda por antipsicótico?",
+  "b": "Anticolinérgico parenteral, como biperideno 5 mg IM, ou prometazina; manter anticolinérgico oral por alguns dias. Stahl, 2021."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Antipsicótico de segunda geração que mais eleva a prolactina e alternativa poupadora?",
+  "b": "Risperidona (e paliperidona). Aripiprazol e quetiapina são poupadores de prolactina. Endocrine Society, 2011."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Conduta na síndrome neuroléptica maligna?",
+  "b": "Suspender o antipsicótico, terapia intensiva, hidratação vigorosa, resfriamento e benzodiazepínico; dantrolene ou bromocriptina nos casos graves. Gurrera, consenso internacional, 2011."
+ },
+ {
+  "tema": "drogas",
+  "a": "Faixas do AUDIT segundo a OMS?",
+  "b": "0 a 7: educação. 8 a 15: orientação simples. 16 a 19: orientação com aconselhamento breve e monitorização. 20 a 40: avaliação diagnóstica e tratamento. OMS, AUDIT, 2001."
+ },
+ {
+  "tema": "drogas",
+  "a": "CIWA-Ar: faixas de gravidade da abstinência alcoólica?",
+  "b": "Abaixo de 8 a 10: leve. De 10 a 15: moderada. Acima de 15: grave, com maior risco de convulsão e delirium tremens. ASAM, 2020."
+ },
+ {
+  "tema": "drogas",
+  "a": "Tríade da encefalopatia de Wernicke e conduta?",
+  "b": "Confusão, ataxia e oftalmoplegia (completa em minoria dos casos). Tiamina parenteral em dose alta, antes ou junto da glicose. EFNS, 2010."
+ },
+ {
+  "tema": "drogas",
+  "a": "Dose inicial do adesivo de nicotina pelo PCDT do Tabagismo?",
+  "b": "Até 5 cigarros/dia: sem adesivo. 6 a 10: 7 mg. 11 a 19: 14 mg. 20 ou mais: 21 mg. Teto de 42 mg/dia; iniciar na data de parada. PCDT do Tabagismo, 2020."
+ },
+ {
+  "tema": "drogas",
+  "a": "Contraindicações absolutas da bupropiona no PCDT do Tabagismo?",
+  "b": "Epilepsia, convulsão febril na infância, tumor do SNC, traumatismo cranioencefálico, EEG anormal e uso de IMAO (aguardar 15 dias). PCDT do Tabagismo, 2020."
+ },
+ {
+  "tema": "drogas",
+  "a": "Naloxona na intoxicação por opioide: dose e cuidado após a reversão?",
+  "b": "Após ventilar, 0,04 a 0,4 mg IV tituladas a cada 2 a 3 minutos. Ação de 30 a 90 minutos exige observação pelo risco de nova depressão respiratória. OMS, 2014."
+ }
+]

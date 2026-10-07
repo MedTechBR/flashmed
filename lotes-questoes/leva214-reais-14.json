@@ -1,0 +1,1322 @@
+[
+ {
+  "pid": "p0599",
+  "q": "Com relação à experiência da dor nos pacientes pediátricos que recebem cuidados paliativos, assinale a alternativa correta",
+  "alts": [
+   "Pacientes pediátricos que recebem cuidados paliativos mantêm uma sensação normal de invulnerabilidade e imortalidade",
+   "O desenvolvimento cognitivo dos pacientes pediátricos em cuidados paliativos não é afetado pela situação de saúde",
+   "A dor em pacientes pediátricos que recebem cuidados paliativos pode estar associada à ansiedade, problemas de sono e dificuldades de socialização",
+   "A dor nos pacientes pediátricos em cuidados paliativos é um elemento isolado e não se relaciona com outros aspectos de sua saúde"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Dor em cuidados paliativos pediátricos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Organização Mundial da Saúde. Integrating palliative care and symptom relief into paediatrics, 2018",
+  "coment": "A dor da criança em cuidados paliativos deve ser entendida no modelo de dor total: componentes físicos, emocionais, sociais e espirituais se somam. Dor persistente piora o sono, aumenta a ansiedade e afasta a criança da escola e dos amigos, e esses fatores, por sua vez, baixam o limiar e amplificam a percepção dolorosa. Por isso a avaliação usa escalas adequadas à idade e o plano combina analgesia com medidas para sono, ansiedade e socialização. A doença grave também interfere no desenvolvimento cognitivo e emocional e na noção de finitude da criança.",
+  "porAlt": [
+   "A vivência de doença grave costuma romper a sensação de invulnerabilidade, e muitas crianças percebem a gravidade do próprio quadro.",
+   "A doença grave, as internações e o afastamento escolar podem afetar o desenvolvimento cognitivo e emocional da criança.",
+   "Correta: no modelo de dor total, a dor se associa a ansiedade, distúrbio do sono e prejuízo da socialização, que também a agravam.",
+   "A dor é multidimensional e interage com sono, humor, vínculo familiar e vida social, não sendo um elemento isolado."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0600",
+  "q": "Assinale a alternativa que apresenta uma consequência possível do subtratamento da dor em crianças pequenas, especialmente em contexto repetitivo, como em UTIs neonatais",
+  "alts": [
+   "Tolerância aos opioides",
+   "Falta de desenvolvimento de conexões talâmicas",
+   "Reações vaso vagais benignas",
+   "Alteração duradoura no limiar da dor e comportamento"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Dor neonatal e consequências tardias",
+  "cenario": "uti",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "American Academy of Pediatrics. Prevention and Management of Procedural Pain in the Neonate: An Update, 2016",
+  "coment": "O recém-nascido, inclusive o prematuro, tem as vias nociceptivas funcionantes e sistemas inibitórios descendentes ainda imaturos. A exposição repetida a procedimentos dolorosos sem analgesia, típica da UTI neonatal, altera de forma duradoura o processamento da dor: hiperalgesia ou hipoalgesia, mudança do limiar doloroso e alterações de comportamento e de resposta ao estresse que persistem na infância. Por isso a AAP recomenda reduzir o número de procedimentos e usar analgesia não farmacológica (sacarose, sucção, contato pele a pele) e farmacológica quando indicada.",
+  "porAlt": [
+   "Tolerância aos opioides decorre do uso prolongado desses fármacos, ou seja, de tratamento, não do subtratamento da dor.",
+   "As conexões talâmicas e corticais se formam no período fetal e a dor não tratada as modifica, mas não impede seu desenvolvimento.",
+   "Reações vasovagais são eventos agudos e transitórios, sem relação com a consequência tardia da dor repetida não tratada.",
+   "Correta: a dor repetida sem analgesia no período neonatal altera de forma duradoura o limiar doloroso e o comportamento."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0601",
+  "q": "Menino, 14 anos de idade, foi diagnosticado com lúpus eritematoso sistêmico juvenil há 2 anos, com comprometimento predominantemente renal, com biópsia classe IV. Recebeu tratamento inicial com tripla imunossupressão, (corticoterapia, micofenolato mofetil e belimumabe), com melhora parcial do quadro. Há cerca de 3 meses, tem evoluído com piora progressiva dos parâmetros renais. • Exames laboratoriais: Hb: 10,6 g/dL Leucócitos: 7.340/mm³, com 52% de neutrófilos e 34% de linfócitos Plaquetas: 141.000/mm³ PCR: 15 mg/L Ur: 67 mg/dL Cr: 1,6 mg/dL Sedimento urinário com 89.000 hemácias/mL e relação proteína/creatinina urinária de 2,3 (última dosagem, há 3 meses, era de 1,6). Adicionalmente, apresentou anti-DNA negativo e frações C3 e C4 do complemento normais. Em relação ao caso descrito, pode-se afirmar",
+  "alts": [
+   "O anti-DNA negativo e as frações C3 e C4 do complemento normais excluem a possibilidade de nefrite lúpica em atividade",
+   "A repetição da biópsia renal pode diferenciar entre atividade e cronicidade renal, assim como afastar microangiopatia trombótica",
+   "Deve-se dosar os anticorpos antifosfolípides, que poderiam justificar as alterações renais e hematológicas, e iniciar anticoagulação profilática",
+   "O fato do paciente apresentar bicitopenia alerta para a possibilidade de síndrome de ativação macrofágica com comprometimento renal"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Nefrite lúpica juvenil refratária",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "KDIGO 2024 Clinical Practice Guideline for the Management of Lupus Nephritis, 2024",
+  "coment": "Na nefrite lúpica com piora da função renal e da proteinúria apesar do tratamento, a rebiópsia é indicada porque marcadores séricos não distinguem com segurança atividade inflamatória (que pede intensificar a imunossupressão) de cronicidade, com fibrose e atrofia (que não responde a ela). A biópsia também identifica lesões que mudam a conduta, como microangiopatia trombótica associada a antifosfolípides ou a outras causas. Anti-DNA negativo e complemento normal não excluem atividade renal, pois a dissociação sorológica e clínica é frequente. As citopenias discretas são comuns no LES e na doença renal.",
+  "porAlt": [
+   "Sorologia e complemento normais não excluem nefrite ativa, e a dissociação entre sorologia e atividade renal é frequente.",
+   "Correta: a rebiópsia separa atividade de cronicidade e pode revelar microangiopatia trombótica, o que muda o tratamento.",
+   "Pesquisar antifosfolípides é razoável, mas iniciar anticoagulação sem diagnóstico de síndrome antifosfolípide não é indicado.",
+   "Hb 10,6 e plaquetas 141.000 sem febre ou hiperferritinemia não sugerem síndrome de ativação macrofágica, e são comuns no LES."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0602",
+  "q": "Na dermatomiosite juvenil, é considerado como fator de mau prognóstico a",
+  "alts": [
+   "capilaroscopia periungueal com padrão esclerodérmico (SD)",
+   "vasculite cutânea associada ao comprometimento intestinal",
+   "presença de positividade para anticorpos anti-Mi2",
+   "idade de início da doença antes dos 7 anos de vida"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Prognóstico da dermatomiosite juvenil",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "tit",
+  "base": "Bellutti Enders F et al. Consensus-based recommendations for the management of juvenile dermatomyositis (SHARE), 2017",
+  "coment": "A dermatomiosite juvenil é uma vasculopatia de pequenos vasos. As formas com vasculite cutânea ulcerada e acometimento do trato gastrointestinal (ulceração, perfuração, sangramento) indicam doença vasculopática extensa e grave, com maior morbimortalidade, e pedem tratamento agressivo segundo o consenso SHARE. Alterações capilaroscópicas são achados comuns na doença e acompanham a atividade, o anti-Mi2 se associa a doença clássica com boa resposta ao tratamento e a idade de início antes dos 7 anos não é marcador reconhecido de mau prognóstico.",
+  "porAlt": [
+   "Alterações capilaroscópicas do tipo esclerodérmico são frequentes na dermatomiosite juvenil e refletem atividade, não definem mau prognóstico.",
+   "Correta: vasculite cutânea com envolvimento intestinal traduz vasculopatia grave e é fator clássico de mau prognóstico.",
+   "O anti-Mi2 se associa a doença clássica com boa resposta ao tratamento, não a pior evolução.",
+   "Início antes dos 7 anos não é fator prognóstico reconhecido; pesam mais a demora no tratamento e a vasculopatia."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0603",
+  "q": "Durante o plantão em uma UPA em Santos, você atende um menino de 5 anos de idade, pesando 18 kg, com história de, há 10 dias, ter apresentado febre baixa, inapetência alimentar, dor abdominal difusa e leve, evacuações líquidas 3 a 4 vezes ao dia, sem produtos patológicos e náuseas, que melhoraram após 2 a 3 dias de sintomas, segundo a mãe. Evoluiu bem no período, mas há 3 dias passou a apresentar icterícia em escleras, evoluindo com acolia e colúria há 2 dias. Hoje, a mãe procurou a UPA, pois além de piora da icterícia, de persistência da acolia e da colúria, notou que a criança está alternando períodos de sonolência diurna excessiva com irritabilidade e choro, fora do seu comportamento habitual. Nega antecedentes patológicos ou atraso do neurodesenvolvimento, nega uso de medicamentos recentemente, nega história familiar de comorbidades. A mãe diz que perdeu a caderneta de vacinas da criança poucas semanas antes dela completar 1 ano de idade, e que está desatualizada desde então. Ao exame físico, o paciente apresenta-se em REG, pálido, hipocorado +2/4 icterícia em escleras e pele +3/4, sem lesões de pele, ECG 12 (3 abre os olhos ao comando verbal; 3 desorientado; 5 localiza a dor), hepatomegalia com fígado palpável a 4 cm do RCD, fibroelástico e superfície lisa, baço não palpável, sem outras alterações ao exame físico. Você monitora o paciente, realiza os primeiros os cuidados na sala de emergência, solicita a coleta de exames laboratoriais, que retornam com os seguintes resultados: Bilirrubina total: 20 mg/L Bilirrubina direta: 12 mg/dL Bilirrubina indireta: 8 mg/dL TGP/ALT: 2.420 U/L TGO/AST: 1.980 U/L GGT: 98 U/L FA: 120 U/L CPK: 350 U/L Cr: 0,7 mg/dL Ur: 38 mg/dL TP: 40 seg INR: 2,8 Hb: 8 g/dL Glóbulos brancos: 18.000/mm³ (neutrófilos: 8% leucócitos: 75% monócitos: 12% eosinófilos: 3% basófilos: 2%) Plaquetas: 90.000/mm³ Proteína C Reativa: 120 mg/dL Urina tipo 1: sem alterações Diante dos exames realizados, assinale a alternativa que apresenta os únicos exames com resultados que sugerem gravidade clínica neste momento, e também indicam uma conduta clínica imediata",
+  "alts": [
+   "TP 40 seg e INR 2,8",
+   "Hb 8 g/dL e plaquetas 90.000/mm³",
+   "Glóbulos brancos 18.000/mm³ e PCR 120 mg/dL",
+   "TGP/ALT 2.420 U/L, TGO/AST 1.980 U/L, CPK 350 U/L, Cr 0,7 mg/dL e Ur 38 mg/dL"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Insuficiência hepática aguda pediátrica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "Squires RH et al. Pediatric Acute Liver Failure Study Group, 2006, com Squires JE et al. NASPGHAN Position Paper on pediatric acute liver failure, 2022",
+  "coment": "O quadro é de hepatite aguda grave com encefalopatia (sonolência alternando com irritabilidade, Glasgow 12). O que define insuficiência hepática aguda na criança é a coagulopatia de origem hepática: INR maior ou igual a 1,5 com encefalopatia, ou maior ou igual a 2,0 sem ela, que não corrige com vitamina K. TP de 40 s e INR de 2,8 são, portanto, os exames que indicam gravidade e conduta imediata: vitamina K parenteral e contato precoce com centro de transplante hepático. Transaminases muito altas refletem necrose, mas não medem a função; anemia, plaquetas e leucograma não mudam a conduta neste momento.",
+  "porAlt": [
+   "Correta: INR 2,8 com encefalopatia define insuficiência hepática aguda e exige vitamina K e transferência para centro de transplante.",
+   "Hb 8 g/dL e plaquetas 90.000 sem sangramento ativo não exigem transfusão imediata nem definem a gravidade do quadro.",
+   "Leucocitose e PCR elevada são inespecíficas aqui e não mudam a conduta imediata, que depende da função hepática.",
+   "Transaminases medem necrose e não função hepática; CPK, ureia e creatinina estão normais ou quase normais."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0604",
+  "q": "Durante o plantão em uma UPA em Santos, você atende um menino de 5 anos de idade, pesando 18 kg, com história de, há 10 dias, ter apresentado febre baixa, inapetência alimentar, dor abdominal difusa e leve, evacuações líquidas 3 a 4 vezes ao dia, sem produtos patológicos e náuseas, que melhoraram após 2 a 3 dias de sintomas, segundo a mãe. Evoluiu bem no período, mas há 3 dias passou a apresentar icterícia em escleras, evoluindo com acolia e colúria há 2 dias. Hoje, a mãe procurou a UPA, pois além de piora da icterícia, de persistência da acolia e da colúria, notou que a criança está alternando períodos de sonolência diurna excessiva com irritabilidade e choro, fora do seu comportamento habitual. Nega antecedentes patológicos ou atraso do neurodesenvolvimento, nega uso de medicamentos recentemente, nega história familiar de comorbidades. A mãe diz que perdeu a caderneta de vacinas da criança poucas semanas antes dela completar 1 ano de idade, e que está desatualizada desde então. Ao exame físico, o paciente apresenta-se em REG, pálido, hipocorado +2/4 icterícia em escleras e pele +3/4, sem lesões de pele, ECG 12 (3 abre os olhos ao comando verbal; 3 desorientado; 5 localiza a dor), hepatomegalia com fígado palpável a 4 cm do RCD, fibroelástico e superfície lisa, baço não palpável, sem outras alterações ao exame físico. Você monitora o paciente, realiza os primeiros os cuidados na sala de emergência, solicita a coleta de exames laboratoriais, que retornam com os seguintes resultados: Bilirrubina total: 20 mg/L Bilirrubina direta: 12 mg/dL Bilirrubina indireta: 8 mg/dL TGP/ALT: 2.420 U/L TGO/AST: 1.980 U/L GGT: 98 U/L FA: 120 U/L CPK: 350 U/L Cr: 0,7 mg/dL Ur: 38 mg/dL TP: 40 seg INR: 2,8 Hb: 8 g/dL Glóbulos brancos: 18.000/mm³ (neutrófilos: 8% leucócitos: 75% monócitos: 12% eosinófilos: 3% basófilos: 2%) Plaquetas: 90.000/mm³ Proteína C Reativa: 120 mg/dL Urina tipo 1: sem alterações Diante do quadro e dos exames apresentados inicialmente, você tomou a medida clínica mais importante a ser realizada naquele momento, tendo repetido exames de controle após 12 horas e solicitado transferência a um hospital terciário, que estava prevista para cerca de 12 a 24 horas dos exames de controles coletados. Assinale a alternativa que indica corretamente qual medida foi tomada, um possível resultado para os exames de controle solicitados posteriormente e quais eventuais modificações na conduta se fizeram necessárias neste momento",
+  "alts": [
+   "Transfusão de concentrado de hemácias e plaquetas via endovenosa; Hb 10 g/dL e plaquetas 110.000/mm³; nenhuma medida a ser tomada no momento, além de suporte clínico até a transferência",
+   "Administração de vitamina K parenteral; INR 3,2; modificar a solicitação de transferência para um centro de transplante hepático pediátrico e medidas de suporte clínico",
+   "Hiperidratação; TGP/ALT de 2.580 U/L, TGO/AST de 2.105 U/L, CPK de 400 U/L, Cr de 0,6 mg/dL Ur de 37 mg/dL; modificar a solicitação de transferência para um centro de referência com diálise e medidas de suporte clínico",
+   "Iniciar ceftriaxona e metronidazol via endovenosa; glóbulos brancos 24.500/mm³ e Proteína C reativa 115 mg/dL; ampliar o esquema de tratamento antimicrobiano com meropenem e vancomicina, mantendo o metronidazol, além de suporte clínico até a transferência"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Vitamina K na insuficiência hepática",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "Squires RH et al. Pediatric Acute Liver Failure Study Group, 2006, com Squires JE et al. NASPGHAN Position Paper on pediatric acute liver failure, 2022",
+  "coment": "Diante de INR alargado em hepatopatia aguda, a primeira medida é vitamina K parenteral, que corrige a coagulopatia por deficiência de vitamina K (colestase, má absorção) e serve como teste. Se o INR não melhora após a reposição, como no controle de 3,2, a coagulopatia é por falência de síntese hepática. Com encefalopatia e INR acima de 1,5 refratário à vitamina K, preenchem-se os critérios de insuficiência hepática aguda pediátrica, e a criança deve ir para um centro com transplante hepático pediátrico, mantendo suporte (glicemia, controle hídrico, prevenção de hipertensão intracraniana).",
+  "porAlt": [
+   "Transfusão sem sangramento ativo não é a medida prioritária e não trata o problema central, que é a falência hepática.",
+   "Correta: vitamina K parenteral; INR que piora para 3,2 confirma falência de síntese e indica centro de transplante hepático.",
+   "Hiperidratação não tem papel aqui e pode agravar edema cerebral; a função renal está normal, sem indicação de diálise.",
+   "Não há foco infeccioso definido, e a medida prioritária frente à coagulopatia com encefalopatia é outra."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0605",
+  "q": "Durante o plantão em uma UPA em Santos, você atende um menino de 5 anos de idade, pesando 18 kg, com história de, há 10 dias, ter apresentado febre baixa, inapetência alimentar, dor abdominal difusa e leve, evacuações líquidas 3 a 4 vezes ao dia, sem produtos patológicos e náuseas, que melhoraram após 2 a 3 dias de sintomas, segundo a mãe. Evoluiu bem no período, mas há 3 dias passou a apresentar icterícia em escleras, evoluindo com acolia e colúria há 2 dias. Hoje, a mãe procurou a UPA, pois além de piora da icterícia, de persistência da acolia e da colúria, notou que a criança está alternando períodos de sonolência diurna excessiva com irritabilidade e choro, fora do seu comportamento habitual. Nega antecedentes patológicos ou atraso do neurodesenvolvimento, nega uso de medicamentos recentemente, nega história familiar de comorbidades. A mãe diz que perdeu a caderneta de vacinas da criança poucas semanas antes dela completar 1 ano de idade, e que está desatualizada desde então. Ao exame físico, o paciente apresenta-se em REG, pálido, hipocorado +2/4 icterícia em escleras e pele +3/4, sem lesões de pele, ECG 12 (3 abre os olhos ao comando verbal; 3 desorientado; 5 localiza a dor), hepatomegalia com fígado palpável a 4 cm do RCD, fibroelástico e superfície lisa, baço não palpável, sem outras alterações ao exame físico. Você monitora o paciente, realiza os primeiros os cuidados na sala de emergência, solicita a coleta de exames laboratoriais, que retornam com os seguintes resultados: Bilirrubina total: 20 mg/L Bilirrubina direta: 12 mg/dL Bilirrubina indireta: 8 mg/dL TGP/ALT: 2.420 U/L TGO/AST: 1.980 U/L GGT: 98 U/L FA: 120 U/L CPK: 350 U/L Cr: 0,7 mg/dL Ur: 38 mg/dL TP: 40 seg INR: 2,8 Hb: 8 g/dL Glóbulos brancos: 18.000/mm³ (neutrófilos: 8% leucócitos: 75% monócitos: 12% eosinófilos: 3% basófilos: 2%) Plaquetas: 90.000/mm³ Proteína C Reativa: 120 mg/dL Urina tipo 1: sem alterações Considerando o caso clínico, a faixa etária do paciente e a epidemiologia da principal hipótese diagnóstica em questão, assinale a alternativa que apresenta uma provável etiologia para esta hipótese diagnóstica",
+  "alts": [
+   "Hepatite A",
+   "Herpes vírus",
+   "Febre amarela",
+   "Leptospirose"
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Hepatite A em criança não vacinada",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023, com Calendário Nacional de Vacinação (hepatite A aos 15 meses)",
+  "coment": "Pré-escolar com pródromo gastrointestinal autolimitado, seguido de icterícia colestática, colúria, acolia e transaminases na casa dos milhares, sem uso de medicamentos, e com vacinação parada antes de 1 ano: deixou de receber a vacina contra hepatite A, aplicada aos 15 meses no calendário do PNI. A hepatite A é a principal causa viral de hepatite aguda na infância no Brasil, de transmissão fecal-oral, e, embora geralmente benigna, é causa importante de insuficiência hepática aguda em crianças. Leptospirose cursa com transaminases pouco elevadas e lesão renal; herpes e febre amarela são menos prováveis pela epidemiologia.",
+  "porAlt": [
+   "Correta: criança não vacinada aos 15 meses, com pródromo gastrointestinal e hepatite aguda grave, tem a hepatite A como principal hipótese.",
+   "Hepatite herpética grave é rara fora do período neonatal e de imunossuprimidos, e o quadro costuma ter febre alta e lesões.",
+   "Febre amarela não é endêmica em Santos e cursa com febre alta, sangramento e lesão renal, não com pródromo diarreico.",
+   "Leptospirose dá icterícia com transaminases pouco elevadas, CPK alta e lesão renal, o que não combina com este quadro."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0606",
+  "q": "Com relação ao uso de opioides no manejo da dor em pediatria, assinale a alternativa correta",
+  "alts": [
+   "O uso de tramadol em recém-nascidos é a primeira escolha para o tratamento da dor em osteogênese imperfecta",
+   "Codeína é amplamente recomendada para uso em crianças devido à sua segurança em doses convencionais",
+   "Pequenas doses de opioides “fortes” podem ter a mesma potência analgésica que grandes doses de opioides “fracos”",
+   "Opioides não atuam no sistema nervoso central e não se ligam a receptores específicos no corpo"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Opioides na dor pediátrica",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "FDA Drug Safety Communication: restrição de codeína e tramadol em menores de 12 anos, 2017, com OMS. Integrating palliative care and symptom relief into paediatrics, 2018",
+  "coment": "Na dor moderada a intensa da criança, a abordagem atual dispensa o degrau dos opioides fracos: usa-se dose baixa de um opioide forte, como a morfina, que tem eficácia previsível e titulação simples. Pequenas doses de opioide forte produzem analgesia equivalente ou superior a doses altas de opioides fracos, sem o efeito teto e sem a variabilidade metabólica deles. A codeína e o tramadol dependem do CYP2D6, e metabolizadores ultrarrápidos podem ter depressão respiratória fatal, por isso a FDA os contraindica em menores de 12 anos. Opioides agem em receptores mu, kappa e delta do sistema nervoso central e periférico.",
+  "porAlt": [
+   "Tramadol não é primeira escolha no recém-nascido; é contraindicado abaixo de 12 anos pela FDA e tem metabolismo imprevisível.",
+   "A codeína é contraindicada abaixo de 12 anos pelo risco de depressão respiratória em metabolizadores ultrarrápidos do CYP2D6.",
+   "Correta: dose baixa de opioide forte equivale ou supera doses altas de opioides fracos, que têm efeito teto e metabolismo imprevisível.",
+   "Opioides atuam no sistema nervoso central ligando-se a receptores específicos (mu, kappa e delta), que explicam analgesia e efeitos adversos."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0607",
+  "q": "Em relação à marcha atópica, assinale a alternativa correta",
+  "alts": [
+   "A ausência da dermatite atópica afasta a evolução para alergia alimentar",
+   "A migração dos queratinócitos promove a evolução para asma e rinite",
+   "A introdução precoce de leite e ovo previne a marcha atópica",
+   "Fatores ambientais e da microbiota interferem nessa evolução"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Marcha atópica",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Halken S et al. EAACI guideline: preventing the development of food allergy in infants and young children, 2021",
+  "coment": "Marcha atópica é a sequência típica dermatite atópica, alergia alimentar, asma e rinite. O mecanismo central é a disfunção da barreira cutânea, que favorece a sensibilização por via epicutânea e a polarização Th2. Genética (mutação da filagrina), exposição ambiental (poluição, tabagismo, alérgenos), via de parto, uso de antibióticos e composição da microbiota intestinal e cutânea modulam essa evolução. A introdução precoce de ovo e amendoim reduz a alergia a esses alimentos específicos, mas não comprovadamente impede a marcha como um todo, e a alergia alimentar pode surgir sem dermatite prévia.",
+  "porAlt": [
+   "A alergia alimentar pode surgir sem dermatite atópica prévia; a dermatite aumenta o risco, mas sua ausência não o afasta.",
+   "O mecanismo é a disfunção da barreira epidérmica com sensibilização cutânea, não uma migração de queratinócitos.",
+   "A introdução precoce de ovo reduz a alergia ao ovo, mas não há prova de que leite e ovo previnam toda a marcha atópica.",
+   "Correta: fatores ambientais e a microbiota intestinal e cutânea modulam a sensibilização e a progressão da marcha atópica."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0608",
+  "q": "Menino, 36 meses de vida, apresenta sibilância recorrente, com mais de três episódios nos últimos seis meses. O pediatra considera iniciar tratamento farmacológico para controle dos sintomas. Qual é a recomendação terapêutica mais apropriada?",
+  "alts": [
+   "Prescrever β2-agonista de longa duração como monoterapia",
+   "Utilizar corticosteroide oral de forma contínua para prevenção",
+   "Iniciar corticosteroide inalatório contínuo como primeira escolha",
+   "Iniciar corticosteroide inalatório intermitente + β2-agonista de longa duração como primeira escolha"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Sibilância recorrente no pré-escolar",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Global Initiative for Asthma (GINA), relatório 2026, capítulo de crianças de 5 anos ou menos",
+  "coment": "Em crianças de 5 anos ou menos com sibilância recorrente, quadro sugestivo de asma ou episódios frequentes (três ou mais por ano) ou graves, a GINA recomenda como tratamento de controle preferencial o corticoide inalatório em dose baixa diária, por pelo menos 3 meses, com espaçador, e reavaliação da resposta. O beta-2 de curta ação fica como resgate. Beta-2 de longa ação não tem segurança e eficácia estabelecidas nessa faixa e nunca se usa em monoterapia; corticoide oral contínuo não é tratamento de manutenção pelos efeitos adversos.",
+  "porAlt": [
+   "Beta-2 de longa ação em monoterapia é contraindicado na asma em qualquer idade e não é estudado de forma adequada nessa faixa.",
+   "Corticoide oral contínuo traz efeitos adversos sistêmicos importantes e não é opção de manutenção na criança.",
+   "Correta: corticoide inalatório em dose baixa diária é o controle preferencial para sibilância recorrente frequente até 5 anos.",
+   "A associação com beta-2 de longa ação não é recomendada como primeira escolha nessa idade, e o esquema intermitente não é o preferencial."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0609",
+  "q": "Menina, 3 anos de idade, apresentou quadro de monoartrite crônica em joelho direito. Após afastados os diagnósticos diferenciais, a paciente foi diagnosticada com artrite idiopática juvenil. Inicialmente optou-se por infiltração intra-articular com triancinolona, porém a família recusou o procedimento, sendo então, iniciado metotrexato 0,5 mg/kg/semana. A paciente apresentou excelente resposta ao tratamento, entrando em remissão da doença após 2 meses do início do medicamento. Após 1 ano de seguimento, a paciente passou em avaliação de rotina com o oftalmologista, que identificou a presença de uveíte anterior no olho esquerdo. Com base no caso descrito, assinale a alternativa correta",
+  "alts": [
+   "Deve-se iniciar o medicamento imunobiológico anti-IL6, dada a falha do comprometimento ocular com o uso do metotrexato",
+   "Deve-se trocar o metotrexato por ciclofosfamida pelo risco de a paciente evoluir precocemente com perda da acuidade visual",
+   "A causa da uveíte é possivelmente infecciosa, pois a paciente está sem atividade articular e faz uso de medicamento imunossupressor",
+   "Pode-se iniciar corticosteroide tópico, associado a colírio midriático, como primeira linha de tratamento"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Uveíte na artrite idiopática juvenil",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Angeles-Han ST et al. 2019 ACR/Arthritis Foundation Guideline for the Screening, Monitoring, and Treatment of Juvenile Idiopathic Arthritis-Associated Uveitis, 2019",
+  "coment": "Menina pequena com AIJ oligoarticular, provavelmente com FAN positivo, tem o maior risco de uveíte anterior crônica, que é assintomática e por isso exige rastreamento oftalmológico periódico. A uveíte pode surgir mesmo com a artrite em remissão, já que as duas atividades são independentes. O tratamento inicial é corticoide tópico (prednisolona colírio) associado a midriático/cicloplégico para evitar sinéquias posteriores. Se houver dependência de corticoide tópico ou atividade persistente, otimiza-se o metotrexato e associa-se anti-TNF monoclonal (adalimumabe ou infliximabe).",
+  "porAlt": [
+   "O biológico indicado na uveíte refratária ao metotrexato é o anti-TNF monoclonal (adalimumabe), não o anti-IL6 como primeira opção.",
+   "Ciclofosfamida não tem papel no tratamento inicial da uveíte da AIJ; o escalonamento é tópico, metotrexato e anti-TNF.",
+   "A uveíte da AIJ tem atividade independente da articular e é a hipótese principal, não uma infecção oportunista.",
+   "Correta: corticoide tópico com colírio midriático é a primeira linha da uveíte anterior da AIJ, com escalonamento se houver refratariedade."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0610",
+  "q": "Em relação à Osteomielite Não-bacteriana Crônica (CNO), pode-se afirmar",
+  "alts": [
+   "Trata-se de uma síndrome autoinflamatória relacionada à presença de mutação no gene NLRP3",
+   "A identificação de agentes como Cutibacteriun acnes e Propionibacteriae na biópsia óssea exclui o diagnóstico de CNO",
+   "Dada a natureza inflamatória da CNO, não se justifica o uso de bifosfonatos em sua terapêutica",
+   "Causa lesões que afetam predominantemente a região das metáfises de ossos longos, clavícula, mandíbula e ossos da bacia"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Osteomielite crônica não bacteriana",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "Zhao Y et al. Consensus treatment plans for chronic nonbacterial osteomyelitis refractory to NSAIDs (CARRA), 2018",
+  "coment": "A osteomielite crônica não bacteriana (CNO, ou CRMO na forma multifocal recorrente) é uma doença autoinflamatória óssea com lesões estéreis, frequentemente multifocais, de predomínio nas metáfises dos ossos longos dos membros inferiores, clavícula, mandíbula, coluna e pelve. A maioria dos casos é esporádica, sem mutação única; NLRP3 está ligado às criopirinopatias. O tratamento começa com AINE e, nos casos refratários ou com lesão vertebral, usa-se metotrexato, anti-TNF ou bifosfonato (pamidronato), conforme os planos de consenso do CARRA. Achado de C. acnes em biópsia pode ocorrer e não exclui o diagnóstico.",
+  "porAlt": [
+   "NLRP3 está relacionado às síndromes periódicas associadas à criopirina; a CNO em geral não tem mutação monogênica definida.",
+   "Cutibacterium acnes pode ser isolado em biópsias de CNO e SAPHO, possivelmente como contaminante ou gatilho, sem excluir o diagnóstico.",
+   "Bifosfonatos (pamidronato) são opção reconhecida nos casos refratários a AINE, inclusive com lesão vertebral.",
+   "Correta: as lesões predominam nas metáfises de ossos longos, clavícula, mandíbula e pelve, distribuição típica da CNO."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0611",
+  "q": "Em relação aos agonistas β2-adrenérgicos utilizados no manejo da asma e outras doenças pulmonares, assinale a alternativa correta",
+  "alts": [
+   "A terbutalina possui alta seletividade pelos receptores β2 sendo indicada em pacientes com risco cardiovascular elevado",
+   "Os broncodilatadores β2 de curta duração reduzem o risco de dessensibilização dos receptores, o que permite seu uso contínuo e isolado",
+   "O salmeterol é um agonista β2 de longa duração com início de ação comparável ao salbutamol, sendo indicado como medicação de resgate nas exacerbações",
+   "O formoterol, por ter início de ação rápido e efeito prolongado, pode ser utilizado na manutenção e no alívio, associado a corticosteroide inalatório"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Agonistas beta-2 na asma",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Global Initiative for Asthma (GINA), relatório 2026",
+  "coment": "O formoterol é um beta-2 de longa ação com início de efeito rápido, em poucos minutos, semelhante ao salbutamol. Por isso, associado a corticoide inalatório (budesonida-formoterol), pode ser usado como manutenção e alívio no mesmo dispositivo (estratégia MART), preferencial nos passos 3 a 5 da GINA para maiores de 6 anos, e como alívio anti-inflamatório a partir dos 12 anos. O salmeterol tem início lento e não serve de resgate; beta-2 isolado de forma contínua leva a dessensibilização e piora do controle, e nenhuma droga dessa classe é segura em cardiopatas apenas por ser seletiva.",
+  "porAlt": [
+   "A seletividade beta-2 é relativa e a terbutalina ainda causa taquicardia e hipocalemia, não sendo a escolha para alto risco cardiovascular.",
+   "O uso contínuo e isolado de beta-2 de curta ação causa dessensibilização dos receptores e aumenta o risco de crises graves.",
+   "O salmeterol tem início de ação lento (cerca de 20 a 30 minutos) e não deve ser usado como medicação de resgate.",
+   "Correta: o formoterol tem início rápido e efeito prolongado, e com corticoide inalatório serve de manutenção e alívio."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0612",
+  "q": "Lactente de sete meses apresentou urticária e vômitos intensos minutos após a ingestão de fórmula contendo leite de vaca. Foi levado ao pronto atendimento, onde recebeu adrenalina, anti-histamínico e corticosteroide, com resolução do quadro. A dosagem de IgE específica para caseína foi positiva, e os pais estão preocupados com novas reações. Considerando a forma de apresentação clínica e os exames, assinale a alternativa que apresenta a conduta mais adequada",
+  "alts": [
+   "Restrição do leite de vaca e prescrever adrenalina autoinjetável para situações de risco",
+   "Introdução gradual de leite de vaca sob supervisão domiciliar",
+   "Prescrição de fórmula parcialmente hidrolisada e acompanhamento ambulatorial",
+   "Realizar teste de provocação oral em ambiente hospitalar para avaliar possível tolerância"
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Anafilaxia à proteína do leite",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Consenso Brasileiro sobre Alergia Alimentar: 2018 (SBP e ASBAI), partes 1 e 2",
+  "coment": "Urticária e vômitos intensos minutos após a ingestão de leite de vaca, com necessidade de adrenalina, configuram anafilaxia IgE mediada, e a IgE específica positiva para caseína é coerente. Com história clínica clara de reação grave e sensibilização documentada, o diagnóstico está feito e o teste de provocação para diagnóstico não é necessário; ele fica para avaliar aquisição de tolerância meses depois, em ambiente hospitalar. A conduta agora é exclusão total do leite de vaca e derivados, fórmula extensamente hidrolisada ou de aminoácidos, plano de ação por escrito e adrenalina autoinjetável para reações acidentais.",
+  "porAlt": [
+   "Correta: anafilaxia confirmada exige exclusão do leite de vaca e adrenalina autoinjetável com plano de ação para exposições acidentais.",
+   "Reintrodução domiciliar após anafilaxia é perigosa; qualquer reexposição deve ser planejada e feita em ambiente hospitalar.",
+   "Fórmula parcialmente hidrolisada mantém proteínas alergênicas e não é indicada no tratamento da alergia ao leite de vaca.",
+   "O teste de provocação não é necessário logo após anafilaxia com IgE positiva; fica para avaliar tolerância meses depois."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0614",
+  "q": "As alterações hematológicas da síndrome hemolítico-urêmica secundária à gastroenterite por Escherichia coli, são",
+  "alts": [
+   "Anemia normocítica, reticulócitos aumentados, Coombs direto negativo, plaquetopenia",
+   "Anemia normocítica, reticulócitos diminuídos, Coombs direto positivo, plaquetopenia",
+   "Anemia microcítica, reticulócitos diminuídos, Coombs direto positivo, plaquetopenia",
+   "Anemia microcítica, reticulócitos aumentados, Coombs direto negativo, plaquetopenia"
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Hematologia da SHU típica",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 21ª ed., 2020",
+  "coment": "A síndrome hemolítico-urêmica típica, após diarreia por E. coli produtora de toxina Shiga (O157:H7), é uma microangiopatia trombótica: a toxina lesa o endotélio, formam-se microtrombos plaquetários e as hemácias se fragmentam ao passar pelos vasos lesados. O resultado é anemia hemolítica normocítica com esquizócitos no esfregaço, reticulocitose, DHL alta, haptoglobina baixa, plaquetopenia por consumo e Coombs direto negativo, pois a hemólise é mecânica e não imune. A tríade completa inclui lesão renal aguda.",
+  "porAlt": [
+   "Correta: hemólise mecânica dá anemia normocítica, reticulocitose, Coombs negativo e plaquetopenia por consumo.",
+   "Coombs positivo indica hemólise imune, e a medula responde à hemólise com reticulocitose, não com reticulócitos baixos.",
+   "Microcitose sugere ferropenia ou talassemia, e Coombs positivo não ocorre na hemólise microangiopática da SHU.",
+   "A anemia da SHU é normocítica; microcitose não faz parte do quadro de hemólise aguda microangiopática."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0615",
+  "q": "A síndrome nefrítica em crianças é uma condição clínica caracterizada por um conjunto de sintomas decorrentes da inflamação glomerular. É crucial reconhecer os sintomas e sinais de alerta precocemente para tratar a condição de forma eficaz e prevenir complicações. Assinale a alternativa correta em relação aos principais sintomas na síndrome nefrítica",
+  "alts": [
+   "A presença de sangue na urina é uma característica da síndrome nefrítica e, geralmente, o dimorfismo eritrocitário é ausente nestes casos",
+   "Oligúria é um sinal de alerta significativo, porém não indica comprometimento da função renal",
+   "A pressão arterial elevada é comumente observada em crianças com síndrome nefrítica, podendo ser grave e exigir atenção médica imediata",
+   "Edema generalizado é um sintoma comum devido à hipoalbuminemia"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Síndrome nefrítica na criança",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 21ª ed., 2020",
+  "coment": "A síndrome nefrítica resulta de inflamação glomerular com queda da filtração e retenção de sódio e água. Seus componentes são hematúria glomerular (hemácias dismórficas, cilindros hemáticos), edema, hipertensão, oligúria e graus variáveis de azotemia. A hipertensão é frequente e pode ser grave, com encefalopatia hipertensiva, convulsões ou congestão pulmonar, exigindo restrição hidrossalina, diurético de alça e, se necessário, anti-hipertensivo. O edema é por hipervolemia, não por hipoalbuminemia, que é marca da síndrome nefrótica.",
+  "porAlt": [
+   "Na hematúria glomerular da síndrome nefrítica o dismorfismo eritrocitário costuma estar presente, ao lado de cilindros hemáticos.",
+   "Oligúria reflete queda da filtração glomerular, ou seja, comprometimento da função renal.",
+   "Correta: a hipertensão por hipervolemia é comum e pode ser grave, com risco de encefalopatia hipertensiva.",
+   "O edema da síndrome nefrítica decorre da retenção de sódio e água; edema por hipoalbuminemia é da síndrome nefrótica."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0616",
+  "q": "A detecção e o tratamento precoces da hipertensão arterial em crianças são cruciais para mitigar os riscos à saúde cardiovascular a longo prazo. Pesquisas indicam que a hipertensão arterial infantil é um preditor significativo de hipertensão e Doenças Cardiovasculares (DCV) na idade adulta, enfatizando a necessidade de intervenção oportuna. Assinale a alternativa correta",
+  "alts": [
+   "A hipertensão arterial na infância frequentemente não tem causa etiológica conhecida e, geralmente, não tem repercussão cardiovascular",
+   "A pressão arterial elevada durante a infância pode levar a alterações cardiovasculares subclínicas precoces, como hipertrofia ventricular esquerda e aumento da espessura médio-intimal da carótida",
+   "As modificações no estilo de vida, incluindo alimentação saudável e atividade física, são intervenções secundárias, sendo a intervenção farmacológica a primeira linha de tratamento",
+   "Normalizar a pressão arterial antes da idade adulta não oferece impacto sobre a remodelação do músculo cardíaco"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Hipertensão arterial na infância",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Flynn JT et al. Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents (AAP), 2017",
+  "coment": "A pressão elevada na infância já produz lesão de órgão-alvo subclínica: hipertrofia ventricular esquerda, aumento da espessura médio-intimal da carótida e rigidez arterial, e tende a persistir na vida adulta. Por isso a diretriz da AAP de 2017 recomenda aferir a PA anualmente a partir dos 3 anos e fazer ecocardiograma quando se inicia tratamento farmacológico. Mudanças no estilo de vida (dieta tipo DASH, atividade física, controle do peso) são a primeira linha, e o tratamento eficaz pode regredir a hipertrofia ventricular. Nas crianças menores, causas secundárias, sobretudo renais, são mais comuns.",
+  "porAlt": [
+   "Causas secundárias são mais frequentes quanto menor a criança, e a hipertensão infantil tem repercussão cardiovascular documentada.",
+   "Correta: a PA elevada na infância causa lesão subclínica precoce, como hipertrofia ventricular esquerda e espessamento médio-intimal da carótida.",
+   "Mudança no estilo de vida é a primeira linha; o fármaco entra quando ela falha, há hipertensão estágio 2 ou lesão de órgão-alvo.",
+   "Normalizar a PA na infância pode regredir a hipertrofia ventricular e reduz o risco cardiovascular futuro."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0617",
+  "q": "Adolescente, 14 anos de idade, sexo feminino, comparece à consulta com queixa de fraqueza e falta de apetite. A mãe relata que se tornou adepta da comida crua (crudivorismo / raw food) e não ingere nenhum tipo de alimento de origem animal há 1 ano. Há dois meses, iniciou queixa de cansaço fácil, perda do apetite e sensibilidade à luz. Ao exame físico, apresenta peso de 39 kg e altura de 155 cm (IMC de 16,2 kg/m²), emagrecida, hipocorada +/4; apresenta discreta fotofobia e nistagmo ocular, além de queilite angular. FC de 100 bpm, SpO2 de 96% em AA, PA de 110×68 mmHg, auscultas cardíaca e pulmonar normais, FR de 40 irpm. A hipótese diagnóstica mais provável é de deficiência de",
+  "alts": [
+   "zinco, cobre e pelagra",
+   "zinco, selênio e niacina",
+   "vitamina A e xeroftalmia",
+   "vitaminas do complexo B e ferro"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Carências na dieta crudívora vegana",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Sociedade Brasileira de Pediatria. Manual de Alimentação: orientações para alimentação do lactente ao adolescente, na escola, na gestante, na prevenção de doenças e segurança alimentar, 4ª ed., 2018",
+  "coment": "Uma dieta crua e sem nenhum alimento de origem animal por um ano, sem suplementação, compromete principalmente vitamina B12, ferro e outras vitaminas do complexo B. Os achados se encaixam: palidez e cansaço (anemia ferropriva e megaloblástica), queilite angular e fotofobia (deficiência de riboflavina, B2, e também de ferro), nistagmo (deficiência de tiamina, B1, e neuropatia por B12) e inapetência. Dietas vegetarianas estritas em adolescentes precisam de planejamento e de suplementação de B12, com atenção a ferro, zinco, cálcio e vitamina D.",
+  "porAlt": [
+   "Pelagra é carência de niacina, com dermatite fotossensível, diarreia e demência, quadro que não corresponde ao descrito.",
+   "Selênio e zinco não explicam palidez, nistagmo e fotofobia, e a pelagra clássica não se apresenta desse modo.",
+   "Hipovitaminose A causa cegueira noturna e xeroftalmia, sem nistagmo, queilite angular ou anemia.",
+   "Correta: queilite, fotofobia, nistagmo e palidez numa dieta vegana crua apontam para carência de vitaminas do complexo B e ferro."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0618",
+  "q": "Menino, 13 anos de idade, apresenta obesidade grave (IMC > P99), com acantose nigricans moderada e hipertensão limítrofe. Já realizou intervenção intensiva no estilo de vida (dietoterapia e atividade física supervisionada) por 12 meses, sem resposta clínica significativa. Exames de glicemia de jejum e HbA1c normais, perfil lipídico alterado (TG elevados, HDL baixo), Insulina de jejum: 35 µU/mL e TGP discretamente aumentada. Com base no caso apresentado, assinale a alternativa correta",
+  "alts": [
+   "Intensificar, exclusivamente, medidas de estilo de vida, já que não há alteração glicêmica e os medicamentos não são indicados nesta faixa etária",
+   "Indicar cirurgia bariátrica de imediato, por se tratar de obesidade grave refratária",
+   "Considerar o uso de análogos de GLP-1 (liraglutida ou semaglutida, aprovados para ≥ 12 anos no Brasil), sempre em associação à intervenção no estilo de vida, quando esta, isoladamente, não for suficiente",
+   "Prescrever metformina e anti-hipertensivo para melhora metabólica e proteção cardiovascular, associada à mudança no estilo de vida"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Farmacoterapia da obesidade no adolescente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Hampl SE et al. Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity (AAP), 2023",
+  "coment": "A diretriz da AAP de 2023 recomenda oferecer farmacoterapia a adolescentes de 12 anos ou mais com obesidade, sempre associada ao tratamento comportamental intensivo, sem esperar indefinidamente pela falha da mudança de estilo de vida. Este menino tem obesidade grave, resistência insulínica, dislipidemia e provável esteatose, sem resposta após 12 meses de intervenção supervisionada: é candidato a análogo de GLP-1, com eficácia demonstrada em adolescentes para liraglutida e semaglutida. A cirurgia bariátrica pode ser considerada a partir dos 13 anos na obesidade grave, mas após avaliação em centro especializado, não de imediato.",
+  "porAlt": [
+   "A farmacoterapia é recomendada a partir dos 12 anos na obesidade, associada ao estilo de vida, mesmo com glicemia normal.",
+   "A bariátrica exige avaliação multiprofissional em centro de referência e não é indicação imediata após a primeira falha clínica.",
+   "Correta: análogos de GLP-1, aprovados para 12 anos ou mais, são indicados junto ao estilo de vida quando este sozinho não basta.",
+   "Metformina não é aprovada para obesidade e tem efeito modesto no peso, e PA limítrofe não justifica anti-hipertensivo de início."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0619",
+  "q": "Recém-nascido, sexo masculino, 18 dias de vida, nascido a termo, parto vaginal sem intercorrências, apresenta rastreamento neonatal com TSH 38 mUI/L (valor de referência: até 10). Nova coleta sérica, no 15º dia de vida, confirma TSH 45 mUI/L e T4 livre 0,6 ng/dL (VR: 0,9 a 1,7). O paciente encontra-se assintomático, com crescimento e ganho ponderal adequado, sem icterícia prolongada. Mãe eutireoidea, sem história familiar de doença tireoidiana. Diante desse quadro descrito, assinale a alternativa que apresenta a conduta mais apropriada",
+  "alts": [
+   "Solicitar ultrassonografia de tireoide e repetir a dosagem hormonal em 2 semanas, evitando tratamento desnecessário em casos transitórios",
+   "Realizar cintilografia de tireoide com tecnécio ou iodo antes de iniciar levotiroxina, para não perder a oportunidade diagnóstica da etiologia",
+   "Observar clinicamente e repetir exames somente se houver sinais de hipotireoidismo, visto que o paciente está assintomático",
+   "Iniciar levotiroxina imediatamente e, após estabilização, considerar investigação etiológica com exames de imagem"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Hipotireoidismo congênito confirmado",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "van Trotsenburg P et al. Congenital Hypothyroidism: A 2020-2021 Consensus Guidelines Update (ENDO-European Reference Network), 2021",
+  "coment": "TSH sérico de 45 mUI/L com T4 livre baixo confirma hipotireoidismo congênito. O consenso europeu de 2020-2021 manda iniciar levotiroxina imediatamente após a coleta confirmatória, idealmente nas duas primeiras semanas de vida, com dose de 10 a 15 mcg/kg/dia, mesmo em recém-nascido assintomático, porque o prognóstico neurocognitivo depende da precocidade. Exames de imagem (ultrassom, cintilografia) podem ser feitos para definir a etiologia, mas nunca podem atrasar o tratamento. A possibilidade de forma transitória é reavaliada depois dos 3 anos, com suspensão controlada.",
+  "porAlt": [
+   "Adiar o tratamento por 2 semanas para descartar forma transitória arrisca dano neurológico; a reavaliação é feita após os 3 anos.",
+   "A cintilografia pode ser feita, mas não deve atrasar a levotiroxina; o diagnóstico etiológico não é prioridade sobre o tratamento.",
+   "A maioria dos recém-nascidos com hipotireoidismo congênito é assintomática, e esperar sintomas causa déficit cognitivo.",
+   "Correta: TSH elevado com T4 livre baixo exige levotiroxina imediata, e a investigação etiológica pode vir depois."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0620",
+  "q": "Paciente, 8 anos de idade, previamente hígido, apresenta quadro de dor abdominal intensa, com massa abdominal palpável e aumento de DHL. A biópsia confirma Linfoma de Burkitt. Qual complicação é a mais esperada no início do tratamento?",
+  "alts": [
+   "Síndrome de lise tumoral",
+   "Coagulação intravascular disseminada",
+   "Hiponatremia dilucional",
+   "Síndrome de veia cava superior"
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Lise tumoral no linfoma de Burkitt",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Coiffier B et al. Guidelines for the management of pediatric and adult tumor lysis syndrome: an evidence-based review, 2008",
+  "coment": "O linfoma de Burkitt tem o maior índice de proliferação entre os tumores humanos, com tempo de duplicação muito curto, e costuma se apresentar com grande massa abdominal e DHL elevada. É o exemplo clássico de alto risco para síndrome de lise tumoral, que pode ser espontânea ou surgir nas primeiras 72 horas da quimioterapia: hiperuricemia, hipercalemia, hiperfosfatemia, hipocalcemia e lesão renal aguda. A prevenção inclui hiper-hidratação, rasburicase nos de alto risco e monitorização laboratorial frequente.",
+  "porAlt": [
+   "Correta: tumor de altíssima proliferação com massa volumosa e DHL alta tem alto risco de lise tumoral ao iniciar o tratamento.",
+   "CID é mais característica da leucemia promielocítica aguda, não do linfoma de Burkitt no início do tratamento.",
+   "Hiponatremia dilucional não é a complicação esperada; os distúrbios típicos são hipercalemia, hiperfosfatemia e hiperuricemia.",
+   "Síndrome de veia cava superior se associa a massas mediastinais, como no linfoma linfoblástico T, não à doença abdominal."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0621",
+  "q": "Pré-escolar de 4 anos de idade, com queixa de ganho excessivo de peso (10 kg em um ano), apresenta broncoespasmo com uso recorrente de salbutamol inalatório e prednisolona via oral, cansaço fácil, sono agitado com roncos e sonolência diurna. Ao exame físico, apresenta peso de 32 kg, altura de 110 cm (IMC/I +7,1), PA de 120×88 mmHg, está sonolento, com presença de acantose cervical, giba, estrias violáceas em abdome, teleangiectasias em face e fácies de lua cheia. • Exames laboratoriais: Colesterol total: 230 mg/dL HDL: 3 md/dL LDL: 175 mg/dL VLDL: 20 mg/dL Triglicérides: 92 mg/dL TGO/ALT: 90 U/L TGP/AST: 65 U/L GGT: 48 U/L Glicemia: 95 mg/dL Insulina: 32 mg/dL USG de abdome com esteatose hepática; idade óssea 6 anos e 5 meses. Com base no caso apresentado, assinale a alternativa INCORRETA",
+  "alts": [
+   "O paciente apresenta critérios para síndrome metabólica, com indicação de tratamento medicamentoso, para reversão do quadro",
+   "O paciente é portador de obesidade severa, e faz-se necessário descartar a possibilidade de uma causa primária (Síndrome de Cushing)",
+   "O paciente apresenta sintomas de apneia obstrutiva do sono, com risco de desenvolver Síndrome de Pickwick",
+   "A orientação dietética inicial deve ser de uma dieta adequada para a idade, com restrição de carboidratos simples, sal e gordura saturada"
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Obesidade com Cushing iatrogênico",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Zimmet P et al. The metabolic syndrome in children and adolescents: an IDF consensus report, 2007, com Hampl SE et al. AAP Clinical Practice Guideline on obesity, 2023",
+  "coment": "A IDF não define síndrome metabólica abaixo de 10 anos, apenas recomenda vigilância de risco em crianças obesas, e a farmacoterapia da obesidade não é indicada aos 4 anos. Por isso é incorreto afirmar critérios de síndrome metabólica com tratamento medicamentoso. O quadro tem sinais de hipercortisolismo (giba, estrias violáceas, fácies de lua cheia, hipertensão) em criança com uso recorrente de prednisolona, e qualquer obesidade grave com essas características pede investigar Cushing. Ronco, sono agitado e sonolência diurna sugerem apneia obstrutiva, com risco de hipoventilação, e a dieta deve ser adequada à idade.",
+  "porAlt": [
+   "Correta: é a afirmação incorreta, pois a IDF não define síndrome metabólica antes dos 10 anos e não há farmacoterapia indicada aos 4 anos.",
+   "Afirmação correta: obesidade grave com giba, estrias violáceas e fácies em lua cheia exige afastar síndrome de Cushing, aqui provavelmente iatrogênica.",
+   "Afirmação correta: roncos, sono agitado e sonolência diurna sugerem apneia obstrutiva, com risco de síndrome de hipoventilação da obesidade.",
+   "Afirmação correta: a orientação inicial é dieta adequada à idade, com restrição de açúcares simples, sal e gordura saturada."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0622",
+  "q": "Recém-nascido de 15 dias de vida, com sexo de registro masculino, é levado ao pronto-socorro por vômitos, recusa alimentar e perda ponderal de 12% desde a alta hospitalar. Ao exame físico, apresenta-se desidratado, hipocorado e com mucosas secas. Genitália externa com falus de 1 cm, meatro uretral proximal, ausência de gônadas palpáveis. • Exames laboratoriais de urgência: Na+: 124 mEq/L K+: 6,8 mEq/L Glicemia: 58 mg/dL Assinale a alternativa que apresenta o diagnóstico mais provável",
+  "alts": [
+   "Hiperplasia adrenal congênita por deficiência de 11β-hidroxilase",
+   "Hiperplasia adrenal congênita clássica perdedora de sal por deficiência de 21-hidroxilase",
+   "Hiperplasia adrenal congênita não clássica",
+   "Tumor adrenal virilizante"
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "HAC perdedora de sal",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Speiser PW et al. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline, 2018",
+  "coment": "Recém-nascido registrado como menino, com genitália atípica (falo pequeno, meato proximal) e gônadas não palpáveis, é provavelmente uma menina 46,XX virilizada. Na segunda semana de vida apresenta vômitos, desidratação, perda de peso, hiponatremia, hipercalemia e hipoglicemia: crise de perda de sal por deficiência de cortisol e aldosterona. É o quadro da hiperplasia adrenal congênita clássica perdedora de sal por deficiência de 21-hidroxilase, responsável por mais de 90% dos casos. A deficiência de 11-beta-hidroxilase também virilizaria, mas cursa com hipertensão e hipocalemia pelo acúmulo de desoxicorticosterona.",
+  "porAlt": [
+   "A deficiência de 11-beta-hidroxilase virilizaria, mas acumula desoxicorticosterona e dá hipertensão com hipocalemia, sem perda de sal.",
+   "Correta: virilização com gônadas impalpáveis, hiponatremia, hipercalemia e hipoglicemia na 2ª semana definem a forma perdedora de sal.",
+   "A forma não clássica não causa ambiguidade genital nem crise de perda de sal neonatal; manifesta-se mais tarde com hiperandrogenismo.",
+   "Tumor adrenal virilizante é raro no período neonatal e não explica a crise de perda de sal com hipercalemia."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0623",
+  "q": "Menino, 10 meses de vida, com 3 episódios de otites com supuração e uso de antibióticos recorrentes, bronquiolite pelo VSR aos 8 meses, tratado em casa e sem outras infecções. Nascido à termo, peso adequado, e frequenta creche desde os 6 meses de vida, quando interrompeu o aleitamento materno e foi introduzido fórmula de partida. Atualmente, em uso de leite integral e dieta própria para a idade. Vacinação completa para a idade. Procura o imunologista para investigação. Assinale a alternativa mais adequada para sua investigação inicial",
+  "alts": [
+   "Subclasses de IgG; IgE específica para leite vaca, caseína, clara de ovo",
+   "Resposta para vacina de tétano e dosagem de IgG, IgM, IgA, IgE",
+   "Imunofenotipagem: Linfócitos T, B e NK; dosagem de C3, C4 e CH50",
+   "Sorologia para 23 sorotipos de pneumococos e Isohemaglutininas"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Investigação inicial de imunodeficiência",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Bonilla FA et al. Practice parameter for the diagnosis and management of primary immunodeficiency (AAAAI/ACAAI), 2015",
+  "coment": "Infecções bacterianas recorrentes de vias aéreas, como otites supuradas, sugerem defeito de imunidade humoral, o grupo mais frequente de erros inatos da imunidade. A avaliação inicial é dosar IgG, IgA, IgM (e IgE) comparando com valores de referência para a idade, e testar a resposta a vacinas proteicas já recebidas, como tétano e difteria. A resposta a polissacarídeos pneumocócicos só é interpretável após os 2 anos, as subclasses de IgG não são exame de primeira linha e a imunofenotipagem e o complemento entram conforme a suspeita clínica.",
+  "porAlt": [
+   "Subclasses de IgG não são exame inicial, e IgE específica para alimentos não investiga imunodeficiência.",
+   "Correta: dosagem de imunoglobulinas e resposta à vacina proteica de tétano formam a triagem inicial de defeito humoral.",
+   "Imunofenotipagem e complemento ficam para suspeita de defeito celular, combinado ou de complemento, não para a triagem inicial.",
+   "A resposta a polissacarídeos pneumocócicos não é interpretável antes dos 2 anos, e isohemaglutininas são complementares."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0624",
+  "q": "Criança, 9 anos de idade, com quadro de evacuação difícil, dolorosa e infrequente, desde os 2 anos. Foi orientada a aumentar a ingestão de fibras, líquidos e atividade física. Após 2 meses de seguimento, permanece com evacuações infrequentes, fezes Bristol 2, que causam entupimento do vaso sanitário, dolorosas e com episódios de soiling. Assinale a alternativa que indica o próximo passo mais adequado no manejo",
+  "alts": [
+   "Manter orientações dietéticas e associar probióticos, pois o quadro tende a melhorar",
+   "Avaliar possibilidade de hipotireoidismo, doença celíaca e fibrose cística antes de iniciar o tratamento medicamentoso",
+   "Solicitar raio-X enema opaco e manometria anorretal para o diagnóstico de Doença de Hirshsprung, antes de medicar com laxativos para evitar o desenvolvimento de megacolon tóxico",
+   "Orientar esvaziamento de ampola retal por via anterograde ou retrograde e iniciar terapia com laxativos osmóticos"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Constipação funcional com impactação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Tabbers MM et al. Evaluation and treatment of functional constipation in infants and children: ESPGHAN/NASPGHAN recommendations, 2014",
+  "coment": "A criança preenche critérios de Roma para constipação funcional: evacuações infrequentes e dolorosas, fezes duras de grande calibre que entopem o vaso e escape fecal (soiling), que sugere fecaloma. Sem sinais de alarme, não precisa de exames antes de tratar. O tratamento segundo ESPGHAN/NASPGHAN tem duas fases: desimpactação, preferencialmente com polietilenoglicol oral em dose alta ou, como alternativa, por via retal com enema; depois manutenção com laxativo osmótico (PEG como primeira escolha) por pelo menos 2 meses, com treino de toalete e educação da família.",
+  "porAlt": [
+   "Probióticos não têm eficácia comprovada na constipação funcional, e manter só dieta prolonga o quadro e o escape fecal.",
+   "Sem sinais de alarme, não é necessário investigar hipotireoidismo, celíaca ou fibrose cística antes de tratar.",
+   "Início após os 2 anos e escape fecal falam contra Hirschsprung, e laxativos não causam megacólon tóxico.",
+   "Correta: desimpactação oral ou retal seguida de laxativo osmótico de manutenção é o tratamento da constipação funcional."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0625",
+  "q": "Mãe comparece à consulta com bebê de 2 meses de vida, com queixa de regurgitações frequentes que não causam desconforto intenso. Nascido a termo, sem intercorrências pré ou pós-natais, em aleitamento materno exclusivo, com intervalo de 1 hora. Durante a consulta, apresenta-se dormindo no colo da mãe. Ao exame físico, encontra-se normal, ativo, atento ao examinador, com ganho de peso de 50 g/dia. Assinale a alternativa que indica a melhor conduta",
+  "alts": [
+   "Realizar teste terapêutico com inibidor de bomba de prótons por 8 semanas, pois trata-se de DRGE",
+   "Solicitar exames para investigação, visto que o paciente apresenta sinal de alarme",
+   "Orientar sobre superalimentação, posição e evolução natural do RGE fisiológico",
+   "Iniciar medicação pró-cinética, pois o bebê apresenta claramente tempo de esvaziamento gástrico prolongado"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Refluxo fisiológico do lactente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Rosen R et al. Pediatric Gastroesophageal Reflux Clinical Practice Guidelines: joint recommendations of NASPGHAN and ESPGHAN, 2018",
+  "coment": "Lactente de 2 meses com regurgitações sem desconforto importante, exame normal e bom ganho de peso (50 g/dia) tem refluxo gastroesofágico fisiológico, o regurgitador feliz, que melhora espontaneamente até 12 a 18 meses. Mamadas a cada hora sugerem superalimentação, que aumenta o volume gástrico e as regurgitações. A diretriz NASPGHAN/ESPGHAN de 2018 recomenda tranquilizar a família, orientar intervalos e volume das mamadas e posicionamento, e não usar inibidor de bomba nem procinético em regurgitação sem complicações, nem pedir exames na ausência de sinais de alarme.",
+  "porAlt": [
+   "Sem dor, recusa alimentar ou baixo ganho, não há DRGE, e o teste empírico com inibidor de bomba não é recomendado em lactentes.",
+   "Não há sinal de alarme: o bebê está ativo, com exame normal e ganho de peso adequado.",
+   "Correta: é refluxo fisiológico, e a conduta é orientar sobre superalimentação, posição e evolução natural benigna.",
+   "Procinéticos não são recomendados pelos efeitos adversos e pela falta de benefício, e não há evidência de esvaziamento lento."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0626",
+  "q": "Paciente de 4 anos de idade, encaminhado da UBS para avaliação pré-operatória, devido à alteração nos exames pré-operatórios, sem queixas de manifestação hemorrágica. • Exames laboratoriais: Hb: 11,8 g/dL Leucócitos: 5.000/mm³ Plaquetas: 250.000/mm³ TP: 14,4 s, atividade 100% TTPA :42 s (ref.: 32 s) TTPAr 1,31 (ref.: 1,00 – 1,15) Tempo de trombina: 10 (ref.:10 a 14 s) Com base no caso apresentado, assinale a alternativa correta",
+  "alts": [
+   "O TTPA está alargado e devem-se investigar os fatores: fibrinogênio, II, V, X e XIII",
+   "O TTPA está alargado e devem-se investigar os fatores: fibrinogênio, II, V e X",
+   "O TTPA está alargado e deve-se solicitar mistura a 50%. Se houver correção do TTPA sugere a presença de inibidores da coagulação",
+   "O TTPA está alargado e deve-se solicitar mistura a 50%. Se houver correção do TTPA sugere a deficiência de fatores de coagulação. Neste caso, deve-se solicitar os fatores VIII, IX, XI e XII"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "TTPA prolongado isolado",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 21ª ed., 2020",
+  "coment": "TTPA prolongado com TP e tempo de trombina normais aponta para a via intrínseca (fatores XII, XI, IX, VIII) ou para um inibidor, como o anticoagulante lúpico, comum em crianças após infecções. O passo seguinte é o teste de mistura com plasma normal a 50%: se o TTPA corrige, há deficiência de fator e dosam-se VIII, IX, XI e XII; se não corrige, há inibidor. Deficiência de XII prolonga muito o TTPA sem causar sangramento. Fibrinogênio, II, V e X pertencem à via comum e alterariam também o TP; o fator XIII não altera nenhum dos testes de triagem.",
+  "porAlt": [
+   "Fibrinogênio, II, V e X são da via comum e prolongariam também o TP, e o fator XIII não altera os testes de triagem.",
+   "Deficiências da via comum alterariam o TP, que está normal; o TTPA isolado aponta para a via intrínseca.",
+   "A correção na mistura indica deficiência de fator; a persistência do alargamento é que sugere inibidor.",
+   "Correta: TTPA isolado prolongado pede teste de mistura, e a correção indica deficiência de VIII, IX, XI ou XII."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0627",
+  "q": "São considerações corretas sobre a transfusão de concentrado de hemácias, EXCETO",
+  "alts": [
+   "A transfusão de 10 a 15 mL/kg de concentrado de hemácias eleva a concentração de hemoglobina em cerca de 2 a 3 g/dL",
+   "O objetivo do uso de filtro de leucócitos nas transfusões de concentrado de hemácias é diminuir o risco de lesão pulmonar aguda relacionada à transfusão",
+   "Não existe contraindicação absoluta à transfusão em pacientes com febre. É importante diminuir a febre antes da transfusão, porque o surgimento de febre pode ser um sinal de hemólise ou de outro tipo de reação transfusional",
+   "Nenhuma transfusão deve exceder o período de infusão de 4 horas. Quando este período for ultrapassado a transfusão deve ser interrompida e a unidade descartada"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Transfusão de concentrado de hemácias",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Guia para uso de hemocomponentes, 2ª ed., 2015, com Portaria de Consolidação nº 5/2017, Anexo IV",
+  "coment": "A leucorredução por filtro reduz reações febris não hemolíticas, aloimunização HLA (com refratariedade plaquetária) e transmissão de citomegalovírus. A lesão pulmonar aguda relacionada à transfusão (TRALI) é causada sobretudo por anticorpos anti-HLA ou anti-HNA presentes no plasma do doador, e sua prevenção se faz pela seleção de doadores, não pelo filtro. As demais afirmações estão corretas: 10 a 15 mL/kg elevam a Hb em cerca de 2 a 3 g/dL na criança, febre não contraindica de forma absoluta, mas convém controlá-la para não mascarar reação, e cada unidade deve correr em até 4 horas.",
+  "porAlt": [
+   "Afirmação correta: em pediatria, 10 a 15 mL/kg de concentrado de hemácias elevam a hemoglobina em cerca de 2 a 3 g/dL.",
+   "Correta: é a afirmação falsa, pois o filtro de leucócitos reduz reação febril, aloimunização HLA e CMV, não previne TRALI.",
+   "Afirmação correta: febre não contraindica a transfusão, mas deve ser controlada para não mascarar reação hemolítica.",
+   "Afirmação correta: a infusão não deve passar de 4 horas pelo risco de contaminação bacteriana, e a unidade é descartada."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0628",
+  "q": "Menino, 6 anos de idade, com queixa de cefaleia matinal, vômitos em jato e papiledema. Está lúcido e sem déficits locais. O próximo passo mais adequado é",
+  "alts": [
+   "Encaminhar para neuroimagem urgente",
+   "Solicitar a punção lombar diagnóstica imediata",
+   "Deixar o paciente em decúbito dorsal horizontal",
+   "Prescrever analgésico e antieméticos, e reavaliar em 48 horas"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Hipertensão intracraniana na criança",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 21ª ed., 2020",
+  "coment": "Cefaleia matinal, vômitos em jato e papiledema formam a tríade de hipertensão intracraniana. Em criança de 6 anos, a principal preocupação é tumor de fossa posterior, além de hidrocefalia, abscesso ou trombose venosa. A conduta é neuroimagem de urgência (tomografia ou, idealmente, ressonância) e avaliação neurocirúrgica. A punção lombar está contraindicada antes da imagem quando há sinais de hipertensão intracraniana, pelo risco de herniação. O decúbito recomendado é a cabeceira elevada a 30 graus, e tratar só os sintomas atrasa um diagnóstico potencialmente grave.",
+  "porAlt": [
+   "Correta: a tríade de hipertensão intracraniana exige neuroimagem urgente para buscar lesão expansiva ou hidrocefalia.",
+   "Punção lombar antes da imagem com papiledema é contraindicada pelo risco de herniação cerebral.",
+   "Na hipertensão intracraniana a cabeceira deve ficar elevada a cerca de 30 graus, não em decúbito horizontal.",
+   "Tratar sintomas e reavaliar em 48 horas atrasa o diagnóstico de condição potencialmente fatal."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0629",
+  "q": "Menino, 8 meses de vida, mostra-se irritado, choro intenso, regurgitações após a introdução de fórmula infantil à base de proteína do leite de vaca, que ocorreu aos 6 meses de vida. Há 2 semanas, apresentou piora dos sintomas referidos e passou a recusar as mamadas e baixo ganho ponderal. Assinale a alternativa correta",
+  "alts": [
+   "Doença do refluxo gastroesofágico através dos exames cintilografia e US de abdome",
+   "A alergia à proteína do leite de vaca é uma possibilidade diagnóstica e o exame IgE específico para leite de vaca deve ser solicitado para confirmar o diagnóstico",
+   "Realizar a prova de exclusão, se a criança apresentar melhora clínica e voltar a ganhar peso, fica confirmado o diagnóstico de alergia alimentar e deve-se manter a fórmula de aminoácidos livres por 1 ano",
+   "Doença do refluxo gastroesofágico associado à alergia a proteína do leite de vaca pode ser a causa do desconforto. Para confirmá-la, deve ser realizado a prova de exclusão da proteína do leite e seus derivados por 2 a 4 semanas, seguido sempre pelo teste de provocação oral, mesmo que a criança apresente melhora clínica à dieta de exclusão"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "APLV não IgE mediada",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Consenso Brasileiro sobre Alergia Alimentar: 2018 (SBP e ASBAI), partes 1 e 2",
+  "coment": "Irritabilidade, choro, regurgitações, recusa alimentar e baixo ganho após a introdução da fórmula de leite de vaca sugerem alergia à proteína do leite de vaca não IgE mediada, que pode se manifestar como DRGE secundária. O diagnóstico é clínico, por dieta de exclusão diagnóstica por 2 a 4 semanas (com fórmula extensamente hidrolisada como primeira opção) seguida obrigatoriamente do teste de provocação oral, pois a melhora pode ser coincidente. A IgE específica não confirma formas não IgE mediadas, e cintilografia e ultrassonografia não diagnosticam DRGE.",
+  "porAlt": [
+   "Cintilografia e ultrassonografia não diagnosticam DRGE, e a hipótese principal aqui envolve alergia ao leite.",
+   "Nas formas não IgE mediadas a IgE específica costuma ser negativa e não confirma o diagnóstico.",
+   "A melhora com exclusão não confirma o diagnóstico sem provocação, e fórmula de aminoácidos não é a primeira opção.",
+   "Correta: exclusão diagnóstica por 2 a 4 semanas seguida sempre de teste de provocação oral confirma a alergia ao leite."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0630",
+  "q": "Adolescente do sexo feminino, 15 anos de idade, curada de leucemia linfoide aguda, tratada aos 5 anos de idade, com quimioterapia contendo antracíclicos. É importante o seguimento periódico para restreio de",
+  "alts": [
+   "diabetes",
+   "cardipatia dilatada",
+   "insuficência renal",
+   "hipotireoidismo"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Cardiotoxicidade tardia por antraciclina",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Children's Oncology Group. Long-Term Follow-Up Guidelines for Survivors of Childhood, Adolescent, and Young Adult Cancers, versão 6.0, 2023",
+  "coment": "Antraciclinas (doxorrubicina, daunorrubicina) causam cardiotoxicidade dose-dependente que pode surgir anos ou décadas depois do tratamento, como cardiomiopatia dilatada com disfunção sistólica, sobretudo em tratados na infância, em meninas e com doses cumulativas altas ou radioterapia torácica. As diretrizes do Children's Oncology Group recomendam ecocardiograma periódico por toda a vida, com intervalo definido pela dose cumulativa e pela idade no tratamento. Hipotireoidismo se relaciona com irradiação de pescoço ou crânio, e não é o alvo específico ligado à antraciclina.",
+  "porAlt": [
+   "Diabetes tem risco aumentado em sobreviventes, mas não é a complicação específica das antraciclinas.",
+   "Correta: antraciclinas causam cardiomiopatia dilatada tardia, e o sobrevivente precisa de ecocardiograma periódico.",
+   "Insuficiência renal tardia se associa a cisplatina, ifosfamida ou nefrectomia, não às antraciclinas.",
+   "Hipotireoidismo tardio se relaciona com radioterapia de pescoço ou craniana, não com a quimioterapia com antraciclina."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0631",
+  "q": "Menino, 10 anos de idade, apresenta queixa de dor abdominal difusa tipo cólica, diarreia mucossanguinolenta 5 vezes ao dia, aftas recorrentes, poliartralgia, astenia e perda ponderal de 5 kg. Os sintomas surgiram há 12 semanas. Nega viagem recente, uso de qualquer medicamento ou contato com alimento ou água contaminada. Assinale a alternativa que apresenta a opção correspondente à hipótese diagnóstica mais provável e qual investigação deve ser realizada",
+  "alts": [
+   "Síndrome do intestino irritável. Realizar US e endoscopia digestiva alta para confirmar o diagnóstico",
+   "Doença inflamatória intestinal. Realizar hemograma com provas inflamatórias, endoscopia digestiva alta, colonoscopia e enterorressonância. Descartar causas infecciosas, dentre elas a tuberculose",
+   "Divertículo de Meckel. Solicitar cintilografia com tecnécio e tomografia computadorizada de abdome com contraste",
+   "Retocolite ulcerativa. Realizar colonoscopia e não solicitar endoscopia digestiva alta, pois a retocolite ulcerativa acomete apenas o intestino grosso e evitar exames com contraste (entero tomografia computadorizada ou enterossonancia) devido aos efeitos colaterais"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Doença inflamatória intestinal pediátrica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Levine A et al. ESPGHAN revised Porto criteria for the diagnosis of inflammatory bowel disease in children and adolescents, 2014",
+  "coment": "Diarreia mucossanguinolenta por 12 semanas, dor abdominal, aftas, artralgias e perda de peso em escolar sugerem doença inflamatória intestinal. Pelos critérios de Porto revisados (ESPGHAN 2014), toda criança com suspeita deve fazer hemograma e marcadores inflamatórios, calprotectina fecal, endoscopia digestiva alta e ileocolonoscopia com biópsias, e avaliação do intestino delgado, preferencialmente por enterorressonância, porque o acometimento alto e do delgado ajuda a diferenciar Crohn de retocolite. Infecções, incluindo tuberculose intestinal em área endêmica, precisam ser excluídas antes da imunossupressão.",
+  "porAlt": [
+   "Sangue nas fezes, perda de peso e manifestações extraintestinais são sinais de alarme que afastam síndrome do intestino irritável.",
+   "Correta: a suspeita de doença inflamatória intestinal pede endoscopia alta, colonoscopia, enterorressonância e exclusão de infecções como tuberculose.",
+   "Divertículo de Meckel causa sangramento indolor, sem diarreia crônica, aftas, artralgias ou perda de peso.",
+   "Os critérios de Porto pedem endoscopia alta e avaliação do delgado em todos, pois o fenótipo inicial pode ser de Crohn."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0632",
+  "q": "Com relação à trombocitopenia imune, assinale a alternativa INCORRETA",
+  "alts": [
+   "Uma forma benigna da doença ocorre em 80 a 85% das crianças, com recuperação espontânea dos níveis plaquetários dentro de três meses, sem necessidade de tratamento",
+   "O principal mecanismo imune que resulta em sangramento deve-se à destruição precoce de plaquetas, por meio do reconhecimento - pelos receptores FC macrofágicos do sistema reticuloendotelial - do complexo de glicoproteínas plaquetárias ligadas a autoanticorpos da classe imunoglobulina G",
+   "A maioria das crianças apresenta uma forma benigna da doença e necessita de tratamento nos primeiros dias de evolução, pois raramente recuperam os níveis plaquetários antes de um ano do diagnóstico",
+   "A trombocitopenia imune é um diagnóstico de exclusão em que a contagem plaquetária está abaixo de 100.000/mm³ e não há outra alteração no hemograma (série vermelha ou branca) ou outras causas associadas"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Trombocitopenia imune na infância",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Neunert C et al. American Society of Hematology 2019 guidelines for immune thrombocytopenia, 2019, com Provan D et al. International consensus report on ITP, 2019",
+  "coment": "Na criança, a trombocitopenia imune costuma surgir após infecção viral, com plaquetopenia isolada (abaixo de 100.000/mm³) e diagnóstico de exclusão. O mecanismo é a opsonização das plaquetas por autoanticorpos IgG contra glicoproteínas de membrana e sua remoção por macrófagos esplênicos via receptores Fc. A evolução é benigna na maioria: cerca de dois terços a 80% recuperam espontaneamente em semanas a poucos meses. A ASH 2019 recomenda observação, sem tratamento, para crianças sem sangramento ou só com sangramento cutâneo, independentemente da contagem. Por isso é falso dizer que a maioria precisa de tratamento e raramente se recupera antes de 1 ano.",
+  "porAlt": [
+   "Afirmação aceita: a maioria das crianças tem forma autolimitada com recuperação espontânea em semanas a meses, sem tratamento.",
+   "Afirmação correta: autoanticorpos IgG ligados a glicoproteínas plaquetárias levam à destruição por macrófagos via receptor Fc.",
+   "Correta: é a afirmação falsa, pois a maioria se recupera espontaneamente em poucos meses e não precisa de tratamento inicial.",
+   "Afirmação correta: é diagnóstico de exclusão, com plaquetas abaixo de 100.000/mm³ e demais séries normais."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0633",
+  "q": "Criança de 5 anos de idade, em tratamento para leucemia mieloide aguda, apresenta febre e neutrófilos de 500/mm³, sem outros sinais ou sintomas. Hemodinamicamente estável. A conduta inicial mais adequada é",
+  "alts": [
+   "Observar em pronto-socorro por 24 horas, sem antibioticoterapia",
+   "Solicitar hemoculturas e iniciar tratamento, se isolamento de agente infeccioso",
+   "Iniciar antibiótico empírico de amplo espectro imediatamente",
+   "Iniciar antiviral empírico até esclarecer o quadro"
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Neutropenia febril oncológica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Lehrnbecher T et al. Guideline for the Management of Fever and Neutropenia in Pediatric Patients With Cancer and Hematopoietic Cell Transplantation Recipients: 2023 Update, 2023",
+  "coment": "Criança em quimioterapia para leucemia mieloide aguda, com febre e neutrófilos em torno de 500/mm³, tem neutropenia febril, emergência oncológica de alto risco: a LMA se associa a neutropenia profunda e prolongada e a infecção bacteriana grave. A conduta é coletar hemoculturas (periférica e do cateter) e iniciar antibiótico empírico de amplo espectro com ação antipseudomonas, como cefepima ou piperacilina-tazobactam, idealmente na primeira hora, sem esperar resultados. Estabilidade hemodinâmica não autoriza observar sem antibiótico.",
+  "porAlt": [
+   "Observar sem antibiótico expõe a criança neutropênica a sepse rapidamente fatal.",
+   "Esperar o isolamento do agente atrasa o tratamento; as culturas são coletadas, mas o antibiótico começa empiricamente.",
+   "Correta: neutropenia febril exige antibiótico empírico de amplo espectro com cobertura para Pseudomonas, de imediato.",
+   "Antiviral empírico não é a conduta inicial; a causa a cobrir primeiro é bacteriana."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0634",
+  "q": "Com relação à Injuria Renal Aguda (IRA) na infância, identifique como verdadeira (V) ou falsa (F) as seguintes afirmações: ( ) Tanto o aumento da creatinina quanto a diurese são parâmetros independentes para diagnóstico de IRA em pediatria, e juntos aumentam a acurácia do diagnóstico. ( ) O aspecto mais frequente na IRA neonatal é a oliguria. ( ) O uso de furosemida é parte do tratamento da IRA oligúrica, mesmo que haja evidência clínica de hipovolemia. ( ) Aumentos de 0,3 mg/dL na creatinina sérica já são definidores de IRA, e se correlacionam com o prognóstico da criança, mesmo no período neonatal. ( ) A hipervolemia, com volume acumulado acima de 10% do peso corporal, é fator independente para aumento de mortalidade em UTIs pediátricas e neonatais. Considerando as afirmações, assinale a alternativa que apresenta a sequência correta",
+  "alts": [
+   "V - F - V - F - F",
+   "V - F - F - V - V",
+   "F - V - F - V - V",
+   "F - V - V - F - F"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Injúria renal aguda pediátrica",
+  "cenario": "uti",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "KDIGO Clinical Practice Guideline for Acute Kidney Injury, 2012, com Jetton JG et al. AWAKEN Study, 2017",
+  "coment": "Pelo KDIGO, adaptado ao período neonatal, creatinina e diurese são critérios independentes e se complementam: usar os dois aumenta a detecção de injúria renal. Elevação de 0,3 mg/dL na creatinina já define o estágio 1 e se associa a pior prognóstico, inclusive no recém-nascido. No neonato, a forma não oligúrica é a mais frequente (nefrotóxicos, asfixia), por isso a segunda afirmação é falsa. Furosemida não trata hipovolemia e pode piorar a lesão, por isso a terceira é falsa. Sobrecarga hídrica acima de 10% do peso é fator independente de mortalidade em UTI pediátrica e neonatal. Sequência: V, F, F, V, V.",
+  "porAlt": [
+   "Marca como verdadeira a furosemida na hipovolemia, que é falsa, e como falsas a quarta e a quinta, que são verdadeiras.",
+   "Correta: a sequência V, F, F, V, V corresponde aos critérios KDIGO e aos dados sobre sobrecarga hídrica.",
+   "A primeira afirmação é verdadeira e a segunda é falsa, pois a IRA neonatal é mais frequentemente não oligúrica.",
+   "Inverte quase tudo: a primeira, a quarta e a quinta são verdadeiras, e a segunda e a terceira são falsas."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0635",
+  "q": "Garoto de 6 anos de idade, após queda no parquinho, apresentou pequenas lesões na perna, que formaram crostas. Após quase duas semanas, segundo a mãe, a criança estava inchada, e apresentava urina com “cor de Coca-Cola”, levando-o para atendimento médico. No atendimento pediátrico, apresenou edema e hipertensão arterial, com PA acima do P95 para o sexo e estatura. Considerando a mais provável glomerulonefrite que acometeu o paciente, assinale a alternativa correta",
+  "alts": [
+   "O complemento total está aumentado, na maioria dos casos",
+   "Os níveis de IgG e IgM devem estar diminuídos, na maioria dos casos",
+   "A fração C3 do complemento deve estar diminuída, na maioria dos casos",
+   "A fração C4 do complemento retorna ao normal em até 12 semanas, na maioria dos casos"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Glomerulonefrite pós-estreptocócica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 21ª ed., 2020",
+  "coment": "Edema, hipertensão e urina cor de coca-cola cerca de duas semanas após impetigo caracterizam glomerulonefrite difusa aguda pós-estreptocócica (latência de 1 a 2 semanas após faringite e de 3 a 6 semanas após piodermite). Há ativação da via alternativa do complemento, com C3 e CH50 baixos em mais de 90% dos casos e C4 geralmente normal. O C3 deve normalizar em 6 a 8 semanas; persistência de hipocomplementemia além disso sugere outra glomerulopatia, como membranoproliferativa ou lúpus, e indica biópsia.",
+  "porAlt": [
+   "O complemento total (CH50) está diminuído, não aumentado, pela ativação e consumo na via alternativa.",
+   "IgG e IgM não ficam diminuídas; a resposta humoral ao estreptococo está preservada, com ASLO ou anti-DNase B elevados.",
+   "Correta: C3 está baixo na grande maioria dos casos de glomerulonefrite pós-estreptocócica, pela ativação da via alternativa.",
+   "O C4 geralmente está normal; quem normaliza em 6 a 8 semanas é o C3, e sua persistência baixa sugere outra doença."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0636",
+  "q": "Pré-escolar de 3 anos de idade, sexo masculino, comparece à consulta queixando que não quer comer, e a mãe teme que fique desnutrido. A mãe relata que faz de tudo para que o filho coma, mas só aceita alimentos pastosos e líquidos, deixa o biscoito na boca até derreter e tem preferência por alimentos lácteos. Em função disso, a mãe cede e acrescenta suplementos no leite para melhorar a oferta nutricional. A orientação correta é",
+  "alts": [
+   "Utilizar, inicialmente, a coerção para modificar a preferência alimentar",
+   "Evitar o uso de utensílios que a criança rejeite como por exemplo, a colher",
+   "Observar clinicamente, pois esse comportamento tende a melhorar espontaneamente até quatro anos de idade",
+   "Oferecer alimentos sólidos no almoço e jantar, quando a criança solicitar leite"
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Dificuldade alimentar do pré-escolar",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Kerzner B et al. A practical approach to classifying and managing feeding difficulties, Pediatrics, 2015",
+  "coment": "A criança aceita apenas pastosos e líquidos, segura o biscoito na boca até derreter e prefere lácteos, e a mãe cede oferecendo leite com suplemento. Esse ciclo mantém a dificuldade: o leite substitui as refeições, tira o apetite e impede a exposição a texturas. A orientação, segundo a abordagem de Kerzner, é estruturar a rotina com horários fixos, oferecer as refeições sólidas no almoço e no jantar em vez de leite quando a criança o pede, expor repetidamente a novas texturas sem coerção e evitar substituições. Coerção e permissividade pioram o quadro, e o comportamento não tende a resolver sozinho enquanto o ciclo é mantido.",
+  "porAlt": [
+   "Coerção aumenta a aversão e a ansiedade à mesa e piora a dificuldade alimentar.",
+   "Evitar os utensílios rejeitados reforça a recusa; o certo é exposição gradual e repetida, sem pressão.",
+   "O comportamento é mantido pela substituição das refeições por leite e não tende a melhorar sozinho sem mudar a rotina.",
+   "Correta: oferecer a refeição sólida no almoço e no jantar em vez do leite quebra o ciclo de substituição."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0637",
+  "q": "Pré-escolar, 3 anos de idade, sexo masculino, nascido prematuro, com 27 semanas, 780 g e 36 cm. O paciente evoluiu com hemorragia intraventricular grau IV e comprometimento neurológico (GMFCS V), foi encaminhado para avaliação de quadro de desnutrição e colocação de gastrostomia. Recebe dieta exclusivamente por via oral, 5 refeições ao dia (em média 20 minutos cada) com consistência pastosa e líquidos espessados, sem dificuldades para deglutir com a dieta adaptada. A mãe nega quadro convulsivo associado, nunca teve broncopneumonia. Refere que recebeu antibiótico para tratamento de amigdalite aos 2 anos e 6 meses, apenas 1 vez, após a alta da maternidade. Nega internações, exceto na ocasião da realização de uma postectomia. Ao exame físico, apresenta-se corado, hidratado, eupneico, contactuante e colaborativo. Sustenta o pescoço, senta sem apoio, anda pequenas distâncias com apoio. Pele e cabelos sem alterações. Apresenta antropometria – 10,1 kg e 85 cm (P/E -1,62; P/I -2,97; E/I -3,23; IMC/I -1,18). Em relação ao estado nutricional do paciente descrito, é correto afirmar",
+  "alts": [
+   "A classificação nutricional é compatível com desnutrição crônica, pois nasceu PIG e mantém muito baixa estatura para a idade",
+   "Com o diagnóstico de desnutrição está indicada a confecção de gastrostomia para complementar a ingestão da dieta por via oral",
+   "O paciente encontra-se eutrófico, devendo manter a dieta por via oral e agendar retorno para acompanhar a velocidade de crescimento",
+   "O Z-score de peso para idade é compatível com o diagnóstico de desnutrição aguda, com indicação de recuperação nutricional com dieta enteral via sonda nasogástrica"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Avaliação nutricional na paralisia cerebral",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Organização Mundial da Saúde. Curvas de crescimento infantil (WHO Child Growth Standards), 2006, com Brooks J et al. Growth charts for children with cerebral palsy, Pediatrics, 2011",
+  "coment": "O estado nutricional se classifica pelo IMC para idade (ou peso para estatura até 5 anos); a estatura para idade avalia o crescimento linear. Aqui, peso para estatura de -1,62 e IMC para idade de -1,18 escores Z estão dentro da eutrofia (entre -2 e +1). A estatura de -3,23 indica muito baixa estatura, esperada em criança com paralisia cerebral grave e ex-prematuro extremo, e o peso para idade baixo acompanha a estatura. Em paralisia cerebral, curvas específicas por nível de GMFCS ajudam a interpretar. A criança se alimenta bem por via oral, sem disfagia ou pneumonias, então não há indicação de gastrostomia: mantém-se a dieta e segue-se a velocidade de crescimento.",
+  "porAlt": [
+   "Peso para estatura e IMC estão adequados, sem desnutrição; a baixa estatura acompanha a paralisia cerebral grave e a prematuridade extrema.",
+   "Não há desnutrição e a via oral é segura e suficiente, sem indicação de gastrostomia.",
+   "Correta: IMC e peso para estatura normais definem eutrofia, com manutenção da via oral e seguimento do crescimento.",
+   "Peso para idade não define desnutrição aguda; o índice para isso é o peso para estatura ou IMC, que estão normais."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0638",
+  "q": "Assinale a alternativa que melhor caracteriza a Síndrome de Guillain-Barré",
+  "alts": [
+   "É uma doença viral que afeta principalmente os pulmões, causando insuficiência respiratória",
+   "É uma doença genética que provoca deterioração cognitiva e perda de memória",
+   "É uma condição autoimune que causa fraqueza muscular progressiva e geralmente se apresenta após uma infecção",
+   "É uma infecção bacteriana que causa febre alta e erupções cutâneas"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Síndrome de Guillain-Barré",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Leonhard SE et al. Diagnosis and management of Guillain-Barré syndrome in ten steps, Nature Reviews Neurology, 2019",
+  "coment": "A síndrome de Guillain-Barré é uma polirradiculoneuropatia aguda imunomediada, em geral desencadeada 1 a 4 semanas após infecção respiratória ou gastrointestinal (Campylobacter jejuni, citomegalovírus, Epstein-Barr, Zika). Por mimetismo molecular, anticorpos atacam a mielina ou o axônio dos nervos periféricos, causando fraqueza ascendente simétrica com arreflexia. O líquor mostra dissociação proteinocitológica e o tratamento é imunoglobulina ou plasmaférese, com vigilância de insuficiência respiratória e disautonomia.",
+  "porAlt": [
+   "A insuficiência respiratória pode ocorrer por fraqueza dos músculos respiratórios, não por infecção viral pulmonar.",
+   "Não é genética nem causa deterioração cognitiva; acomete nervos periféricos e preserva a cognição.",
+   "Correta: é uma polirradiculoneuropatia autoimune pós-infecciosa com fraqueza progressiva ascendente.",
+   "Não é infecção bacteriana ativa nem causa exantema; a infecção prévia apenas desencadeia a resposta autoimune."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0639",
+  "q": "Sobre as pneumonias adquiridas na comunidade na infância, assinale a alternativa correta",
+  "alts": [
+   "A principal etiologia é bacteriana por pneumococo",
+   "A principal etiologia é por pneumococo 19A",
+   "A proporção de casos com identificação do agente em hemocultura é inferior a 10%",
+   "A presença de derrame pleural afasta Mycoplasma pneumoniae como agente etiológico"
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Pneumonia comunitária na infância",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Bradley JS et al. The management of community-acquired pneumonia in infants and children older than 3 months (IDSA/PIDS), 2011, com Jain S et al. EPIC Study, NEJM, 2015",
+  "coment": "Na pneumonia comunitária pediátrica a hemocultura raramente identifica o agente: positividade abaixo de 10%, em geral entre 1% e 5% nos casos não complicados, o que explica a recomendação de não colhê-la de rotina em crianças tratadas ambulatorialmente. O estudo EPIC mostrou que os vírus (sobretudo vírus sincicial respiratório) são os agentes mais detectados em menores de 5 anos; entre as bactérias, o pneumococo é a principal causa típica, e o Mycoplasma predomina em escolares. Mycoplasma pode causar derrame pleural, e o sorotipo 19A não é a principal etiologia.",
+  "porAlt": [
+   "Os vírus são os agentes mais detectados na pneumonia da criança; o pneumococo lidera apenas entre as bactérias.",
+   "O sorotipo 19A ganhou importância após a vacina conjugada, mas não é a principal etiologia da pneumonia infantil.",
+   "Correta: a hemocultura identifica o agente em menos de 10% das pneumonias comunitárias da criança.",
+   "Mycoplasma pneumoniae pode causar derrame pleural, embora menos que pneumococo e estafilococo."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0640",
+  "q": "Menino, 13 anos de idade, apresenta velocidade de crescimento anual de 10 cm, pelos pubianos no estágio 3 de Tanner e testículos de 8 mL. Considerando a fisiologia do crescimento e do estirão puberal, assinale a alternativa correta",
+  "alts": [
+   "O pico de velocidade de crescimento nos meninos ocorre tipicamente antes do desenvolvimento testicular superior a 4 mL, coincidindo com a adrenarca",
+   "O Hormônio de Crescimento (GH) exerce papel fundamental no estirão, atuando de forma sinérgica com os esteroides sexuais, especialmente por meio da indução do IGF-1",
+   "O estirão puberal masculino geralmente se inicia no estágio 2 de Tanner, sendo precipitado principalmente pelo aumento da secreção de gonadotrofinas, com consequente produção testicular de testosterona",
+   "Nas meninas, o início do estirão ocorre entre M3 e M4, quando já há maturação gonadal"
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Estirão puberal",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 21ª ed., 2020",
+  "coment": "No estirão puberal, os esteroides sexuais aumentam a amplitude dos pulsos de GH, que eleva o IGF-1; GH, IGF-1 e esteroides sexuais agem de forma sinérgica sobre a placa de crescimento, e o estrogênio, inclusive o derivado da aromatização da testosterona no menino, também promove o fechamento epifisário. Nos meninos o estirão é mais tardio: começa por volta de G3 e o pico de velocidade ocorre em G3-G4, com testículos de 10 a 12 mL. Nas meninas o estirão começa já em M2 e o pico ocorre entre M2 e M3, antes da menarca. Este menino, com testículos de 8 mL, P3 e 10 cm/ano, está no estirão.",
+  "porAlt": [
+   "O pico de crescimento masculino ocorre com testículos já em torno de 10 a 12 mL, bem depois do volume de 4 mL e da adrenarca.",
+   "Correta: o GH age em sinergia com os esteroides sexuais, que ampliam sua secreção e a produção de IGF-1 no estirão.",
+   "O estirão masculino começa mais tarde, por volta de G3, e não no estágio 2 de Tanner.",
+   "Nas meninas o estirão começa precocemente, em M2, e o pico de velocidade ocorre entre M2 e M3."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0641",
+  "q": "Menina de 11 anos de idade, previamente hígida, é admitida no pronto-socorro com história de poliúria, polidipsia e perda ponderal de 5 kg nos últimos 2 meses, além de vômitos e dor abdominal nas últimas 24 horas. Ao exame físico, apresenta-se desidratada, taquipneica, com FC de 132 bpm, PA de 90×60 mmHg, glicemia capilar de 420 mg/dL. Gasometria arterial: pH 7,12; bicarbonato 8 mEq/L; Potássio sérico: 4,1 mEq/L. A equipe inicia reposição volêmica com soro fisiológico e insulina regular EV em bomba de infusão contínua (0,1 U/kg/h). Após 6 horas, a glicemia atinge 230 mg/dL, porém o pH permanece 7,20 e o bicarbonato 10 mEq/L. Qual deve ser a próxima conduta?",
+  "alts": [
+   "Acrescentar solução glicosada a 5 a 10%",
+   "Suspender insulina EV, iniciar insulina NPH subcutânea associada à correção hídrica e realimentação precoce",
+   "Manter a mesma dose de insulina EV até normalização completa do pH e bicarbonato, sem introduzir glicose para evitar nova hiperglicemia",
+   "Administrar bicarbonato EV, uma vez que a acidose metabólica não foi corrigida após 6 horas de tratamento"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Cetoacidose diabética pediátrica",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Glaser N et al. ISPAD Clinical Practice Consensus Guidelines 2022: Diabetic ketoacidosis and hyperglycemic hyperosmolar state, 2022",
+  "coment": "Na cetoacidose diabética a glicemia cai antes da correção da acidose, que depende da supressão da cetogênese pela insulina. Por isso a ISPAD 2022 orienta manter a insulina EV (0,05 a 0,1 U/kg/h) até a resolução da cetoacidose (pH acima de 7,30, bicarbonato acima de 15 e cetonemia normalizada) e acrescentar glicose ao soro (5% e, se preciso, até 10% a 12,5%) quando a glicemia cai para cerca de 250 a 300 mg/dL ou cai rápido demais. Assim se evita hipoglicemia sem interromper a insulina. Bicarbonato não está indicado, pois não acelera a recuperação e aumenta o risco de edema cerebral.",
+  "porAlt": [
+   "Correta: com glicemia em 230 mg/dL e acidose persistente, acrescenta-se glicose ao soro e mantém-se a insulina EV.",
+   "A insulina EV não pode ser suspensa antes da resolução da acidose, e NPH subcutânea não substitui a infusão nesta fase.",
+   "Manter a insulina sem glicose leva à hipoglicemia, pois a glicemia já está em 230 mg/dL e continuará caindo.",
+   "Bicarbonato não é indicado na cetoacidose pediátrica e se associa a edema cerebral, mesmo com acidose persistente."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0642",
+  "q": "Assinale a alternativa que apresenta o conjunto de sintomas mais compatíveis com a apresentação clínica da encefalite autoimune",
+  "alts": [
+   "Febre de baixa intensidade, comportamento alterado, crises convulsivas, déficits neurológicos progressivos e sinais de disfunção autonômica, como taquicardia e sudorese irregular",
+   "Febre elevada, dor de garganta, linfadenopatia dolorosa, exantema maculopapular e dor articular generalizada",
+   "Dor abdominal difusa, icterícia, hepatomegalia, vômitos persistentes e perda de peso não intencional",
+   "Fraqueza muscular proximal, diplopia, fadiga ocular, dor nas articulações e erupções cutâneas em áreas específicas"
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Encefalite autoimune",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Cellucci T et al. Clinical approach to the diagnosis of autoimmune encephalitis in the pediatric patient, Neurology: Neuroimmunology and Neuroinflammation, 2020",
+  "coment": "A encefalite autoimune, cuja forma mais comum na criança é a anti-receptor NMDA, cursa com alteração aguda ou subaguda de comportamento e humor, crises epilépticas, distúrbios do movimento (discinesias), alteração da fala e do sono, rebaixamento de consciência e disautonomia (taquicardia, hipertermia, sudorese, labilidade pressórica), às vezes com febre baixa ou pródromo infeccioso. O consenso pediátrico de 2020 exige início em menos de 3 meses e sinais de inflamação no líquor, ressonância ou EEG, com exclusão de outras causas. As demais opções descrevem doenças infecciosas sistêmicas, hepatopatia e miopatia ou miastenia.",
+  "porAlt": [
+   "Correta: alteração de comportamento, crises, déficits neurológicos progressivos e disautonomia são típicos da encefalite autoimune.",
+   "Febre alta, faringite, linfonodos dolorosos e exantema descrevem doença infecciosa sistêmica, como mononucleose.",
+   "Dor abdominal, icterícia e hepatomegalia apontam para doença hepática, sem quadro neuropsiquiátrico.",
+   "Fraqueza proximal, diplopia e fadiga ocular lembram miastenia ou dermatomiosite, não encefalite."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0644",
+  "q": "Lactente de 1 ano e três meses de vida, com antecedente de prematuridade tardia – 34 semanas de IG e peso ao nascimento de 1.850 g, sem intercorrências respiratórias perinatais. Relata 4 episódios de sibilância nos últimos 9 meses, e uso de corticoide oral em duas ocasiões. A mãe tem antecedente de asma. Assinale a alternativa correta com relação ao diagnóstico e ao tratamento",
+  "alts": [
+   "Diante da prematuridade e alterações de desenvolvimento alveolar associadas, está indicado tratamento dos episódios de chiado com beta agonista de curta e corticoide inalatório",
+   "Pode-se afirmar que a criança tem asma precoce e deve-se iniciar tratamento com a associação de montelukast e tiotrópio",
+   "O tiotrópio está certamente indicado no esquema, diante do antecedente de prematuridade reportado",
+   "O tratamento inicial deve incluir corticoide inalatório em spray com uso de espaçador e máscara"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Sibilância no lactente prematuro",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Global Initiative for Asthma (GINA), relatório 2026, capítulo de crianças de 5 anos ou menos",
+  "coment": "Lactente com quatro episódios de sibilância em 9 meses, dois deles com corticoide oral, e mãe asmática tem sibilância recorrente frequente com fator de risco para asma. Pela GINA, para crianças de 5 anos ou menos, o controle preferencial é corticoide inalatório em dose baixa diária, por pelo menos 3 meses, com reavaliação. Abaixo de 4 anos o dispositivo é o spray pressurizado com espaçador e máscara facial. A prematuridade tardia, sem doença pulmonar neonatal, não muda a indicação. Montelukaste é alternativa, mas tiotrópio não é indicado nessa idade.",
+  "porAlt": [
+   "A indicação vem da sibilância recorrente com fator de risco para asma, e o controle preferencial é diário, não só nos episódios.",
+   "Antes dos 5 anos fala-se em sibilância recorrente sugestiva de asma, e tiotrópio não é indicado nessa faixa.",
+   "A prematuridade tardia sem doença pulmonar neonatal não indica tiotrópio, que não é usado em lactentes.",
+   "Correta: corticoide inalatório em spray com espaçador e máscara é o tratamento de controle preferencial nessa idade."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ }
+]

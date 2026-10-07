@@ -1,0 +1,1292 @@
+[
+ {
+  "pid": "p0446",
+  "q": "Uma menina de 4 anos é levada ao pronto-socorro de um hospital público pelo SAMU, com relato de quadro de náusea, vômitos e dor abdominal de evolução rápida nas últimas 6 horas. Sua mãe conta que a filha teve perda de peso significativa na última semana. Ao exame físico, a paciente apresenta-se sonolenta, desidratada, com hálito cetônico, taquicárdica e taquipneica, com glicemia capilar de 300 mg/dL (valor de referência - VR: 60 a 99 mg/dL), gasometria com pH 7,19 (VR: 7,35 a 7,45) e HCO3 15 mEq/L (VR: 22 a 28 mEq/L).\nCom base nos dados apresentados, é correto afirmar que a criança possui níveis reduzidos de",
+  "alts": [
+   "insulina e potássio total",
+   "cortisol e potássio total",
+   "insulina e sódio",
+   "glucagon e sódio"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Cetoacidose diabética na criança",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ISPAD Clinical Practice Consensus Guidelines 2022: cetoacidose diabética e estado hiperosmolar",
+  "coment": "Hiperglicemia (300 mg/dL), acidose metabólica (pH 7,19; HCO3 15) e hálito cetônico fecham cetoacidose diabética, quase sempre abertura de diabetes tipo 1 na criança. O evento central é a deficiência absoluta de insulina, com excesso relativo dos hormônios contrarreguladores (glucagon, cortisol, catecolaminas). A diurese osmótica e os vômitos depletam o potássio corporal total, mesmo que o potássio sérico venha normal ou alto pela saída do íon da célula na acidose e na falta de insulina. Por isso a ISPAD 2022 manda repor potássio junto com a insulina e monitorar de perto.",
+  "porAlt": [
+   "Correta: a insulina está em falta absoluta e o potássio corporal total está depletado pela diurese osmótica e pelos vômitos.",
+   "O cortisol está elevado como hormônio contrarregulador do estresse, embora o potássio total esteja de fato baixo.",
+   "A insulina está baixa, mas o sódio não define o quadro e pode até estar falsamente reduzido pela hiperglicemia (pseudo-hiponatremia dilucional).",
+   "O glucagon está aumentado na cetoacidose, estimulando gliconeogênese e cetogênese, e não reduzido."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0447",
+  "q": "Uma paciente com 54 anos, G2 P1 C1, com ligadura tubárea bilateral, comparece à consulta ambulatorial com queixa de fogachos, sudorese noturna, insônia, queda da libido, secura vaginal, fadiga e falta de concentração. Sem outras queixas em seu histórico, verifica-se registro de: menarca aos 13 anos; menopausa aos 50 anos; e de tabagismo (consumo de 10 cigarros/dia) desde os 20 anos, além de história patológica pregressa de hipertensão arterial crônica, em uso de losartana 50mg/dia, com bom controle; e história patológica familiar de osteoporose e diabetes mellitus (mãe), hipertensão arterial e infarto agudo do miocárdio aos 60 anos de idade (pai).\nA paciente apresenta resultados de exames realizados há 6 meses: mamografia digital bilateral: BIRADS 1; Ultrassonografia transvaginal: útero de 40 cm³, endométrio homogêneo e de 3 mm de espessura, ovários atróficos; exames laboratoriais: sem alterações. Ao exame físico, observa-se: índice de massa corpórea: 26,4 kg/m²; pressão arterial: 110 x 70 mmHg; hipotrofia em vagina e colo.\nConsiderando-se o caso clínico descrito, qual é a conduta adequada?",
+  "alts": [
+   "Contraindicar terapia hormonal sistêmica e indicar estriol via vaginal",
+   "Sugerir terapia hormonal sistêmica com estradiol oral e noretindrona",
+   "Contraindicar terapia hormonal sistêmica, orientando mudanças no estilo de vida",
+   "Sugerir terapia hormonal sistêmica com estradiol transdérmico e progesterona micronizada"
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Terapia hormonal no climatério",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "The North American Menopause Society. The 2022 Hormone Therapy Position Statement, 2022",
+  "coment": "Mulher de 54 anos, 4 anos após a menopausa, com sintomas vasomotores e geniturinários intensos: está na janela de oportunidade (menos de 60 anos e menos de 10 anos de menopausa), em que o benefício da terapia hormonal supera o risco. Hipertensão controlada e tabagismo não são contraindicações absolutas, mas pesam na escolha da via: o estradiol transdérmico não tem a primeira passagem hepática, não aumenta fatores de coagulação nem triglicerídeos e tem menor risco de tromboembolismo. Com útero presente, é obrigatório associar progestagênio, e a progesterona micronizada é a opção de melhor perfil para mama e trombose (NAMS 2022). Deve-se orientar cessação do tabagismo.",
+  "porAlt": [
+   "Não há contraindicação absoluta à terapia sistêmica; o estriol vaginal trataria só a atrofia, não os fogachos e a insônia.",
+   "O estradiol oral tem primeira passagem hepática e maior risco trombótico, o que pesa em tabagista e hipertensa.",
+   "Hipertensão controlada e tabagismo não contraindicam a terapia hormonal; deixar sem tratamento sintomas intensos não se justifica.",
+   "Correta: na janela de oportunidade, a via transdérmica reduz o risco trombótico e a progesterona micronizada protege o endométrio com melhor perfil de segurança."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0448",
+  "q": "Um bebê com 24 dias de vida é levado ao pronto atendimento devido a dificuldades respiratórias. Não houve intercorrências durante a gestação e o parto, o nascimento foi a termo, e o bebê pesou 3 quilogramas. A mãe relata uma história de obstrução nasal, coriza clara e recusa às mamadas há 2 dias. Acrescenta que, nas últimas horas, a respiração do bebê ficou mais rápida e surgiu um chiado no peito.\nAo exame físico, o paciente encontra-se em bom estado geral, corado, com frequência respiratória de 50 irpm, com leve tiragem intercostal e sibilos discretos difusos bilateralmente e com saturação de O2 de 91% em ar ambiente. Na radiografia de tórax, evidenciam-se uma hiperinsuflação pulmonar e retificação das cúpulas diafragmáticas e de arcos costais.\nConsiderando-se a principal hipótese diagnóstica e as condições clínicas do bebê atendido, qual é o tratamento indicado para esse caso?",
+  "alts": [
+   "Hidratação, antibioticoterapia e corticoide",
+   "Hidratação, oxigenioterapia e higiene nasal",
+   "Broncodilatador, corticoide e anti-histamínico",
+   "Oxigenioterapia, antibioticoterapia e broncodilatador"
+  ],
+  "gab": 1,
+  "tema": "pedinfecto",
+  "sub": "Bronquiolite viral aguda no lactente",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE guideline NG9. Bronchiolitis in children: diagnosis and management, 2015 (atualizada em 2021)",
+  "coment": "Lactente com menos de 2 anos, pródromo de coriza e obstrução nasal seguido de taquipneia, tiragem e sibilos difusos, com hiperinsuflação na radiografia: bronquiolite viral aguda, em geral pelo VSR. O tratamento é de suporte: hidratação (a recusa alimentar é critério de atenção), aspiração e higiene nasal e oxigênio quando a saturação fica abaixo de 92% (NICE NG9). Com 91% em ar ambiente e 24 dias de vida, o bebê precisa de oxigênio e observação. Broncodilatador, corticoide, antibiótico e anti-histamínico não reduzem internação nem duração da doença e não são recomendados de rotina.",
+  "porAlt": [
+   "Antibiótico e corticoide não têm benefício na bronquiolite viral; só a hidratação está correta nesse esquema.",
+   "Correta: o tratamento é de suporte, com hidratação, oxigênio pela saturação de 91% e higiene nasal para desobstrução.",
+   "Broncodilatador, corticoide e anti-histamínico não alteram o curso da bronquiolite e não são indicados.",
+   "O oxigênio está indicado, mas antibiótico e broncodilatador não, por se tratar de infecção viral sem resposta a beta-2."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0449",
+  "q": "Uma mulher com 30 anos procura o médico na unidade básica de saúde e, em consulta, relata que, há 9 meses, parou de usar o anticoncepcional oral combinado e que não voltou a menstruar até o momento. Refere também uso desse método contraceptivo por 10 anos e aumento de pelos no corpo.\nO exame ginecológico, apresenta-se normal. No exame físico, verificam-se: índice de massa corporal de 27 kg/m²; pressão arterial de 110 x 72 mmHg; cintura abdominal de 80 cm; acne e hirsutismo moderado.\nOs exames complementares apresentam os seguintes resultados: Beta-hCG negativo; TSH = 2,5 mUI/L (valor de referência - VR: 0,3 a 4,0 UI/L); prolactina = 18 ng/mL (VR: < 31 ng/mL); FSH = 6 mUI/mL (VR: 2 a 30 mUI/mL).\nDiante do quadro clínico da paciente, o diagnóstico é de amenorreia secundária por",
+  "alts": [
+   "falência ovariana prematura",
+   "hipogonadismo hipogonadotrófico",
+   "uso prolongado do anticoncepcional",
+   "anovulação crônica hiperandrogênica"
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Síndrome dos ovários policísticos",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "International Evidence-based Guideline for the Assessment and Management of PCOS, 2023 (critérios de Rotterdam)",
+  "coment": "Amenorreia secundária com acne, hirsutismo e sobrepeso, beta-hCG negativo, TSH e prolactina normais e FSH normal: o quadro preenche os critérios de Rotterdam para síndrome dos ovários policísticos (disfunção ovulatória mais hiperandrogenismo clínico), adotados pela diretriz internacional de 2023. O anticoncepcional oral mascarava a anovulação e o hiperandrogenismo, que reaparecem quando ele é suspenso. Amenorreia pós-pílula não se sustenta além de cerca de 6 meses e não explica os sinais androgênicos. FSH normal afasta falência ovariana.",
+  "porAlt": [
+   "Falência ovariana prematura cursa com FSH elevado (acima de 25 a 40 mUI/mL), e aqui o FSH é 6.",
+   "Hipogonadismo hipogonadotrófico não explica hirsutismo e acne e costuma ter perfil de estresse, perda de peso ou exercício intenso.",
+   "O anticoncepcional não causa amenorreia persistente por 9 meses nem hiperandrogenismo; ele apenas mascarava o quadro.",
+   "Correta: oligo/amenorreia com hiperandrogenismo clínico, excluídas gestação, tireoide e prolactina, define anovulação crônica hiperandrogênica (SOP)."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0450",
+  "q": "Em um distrito sanitário especial indígena, um médico atende a uma criança com 4 anos, com 23 kg, que apresenta taquipneia, tosse, letargia, choro sem lágrimas e febre de 39,2 °C. Como tratamento, o paciente tem utilizado emplastros de ervas no peito.\nDiante desse quadro, após a avaliação do paciente, o médico precisa, por meio de intérprete, solicitar à mãe que",
+  "alts": [
+   "conceda autorização para internar a criança mantendo os emplastros utilizados",
+   "retire os emplastros e inicie medicamento parenteral em regime de internação para a melhora do desconforto da criança",
+   "realize o tratamento em domicilio com ervas tradicionais de seu povo e que retorne em 7 dias",
+   "inicie uso de antibiótico em domicilio, com visitas da equipe médica, e que mantenha o uso do emplastro"
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "Saúde indígena e pneumonia grave",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Política Nacional de Atenção à Saúde dos Povos Indígenas, Portaria MS nº 254/2002",
+  "coment": "A criança tem taquipneia, febre alta, letargia e desidratação (choro sem lágrimas): sinais de pneumonia grave com sinal geral de perigo, que exigem internação e antibiótico parenteral. A Política Nacional de Atenção à Saúde dos Povos Indígenas (2002) orienta a atenção diferenciada, com respeito e articulação com as práticas tradicionais, desde que não causem dano. O emplastro de ervas no peito não interfere no tratamento, então mantê-lo favorece o vínculo e a adesão da família. O caminho é pedir, com intérprete, autorização para internar sem impor a retirada das práticas culturais.",
+  "porAlt": [
+   "Correta: a gravidade exige internação, e manter o emplastro inofensivo respeita a medicina tradicional e favorece a adesão.",
+   "A internação está indicada, mas exigir a retirada de uma prática tradicional inofensiva contraria a atenção diferenciada.",
+   "Letargia e desidratação são sinais de gravidade; tratar só com ervas em domicílio e reavaliar em 7 dias coloca a criança em risco.",
+   "Pneumonia com letargia e desidratação não é para tratamento domiciliar com antibiótico oral, mesmo com visitas da equipe."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0451",
+  "q": "Uma mulher com 57 anos, obesa, multípara, é encaminhada ao pronto atendimento com queixa de dor contínua em quadrante abdominal superior direito iniciada há 2 dias. Refere história de intolerância a alimentos gordurosos nos últimos 5 anos. Ao exame físico, apresenta-se eupneica, com desidratação leve, frequência cardíaca de 102 bpm, pressão arterial de 130 X 70 mmHg, e afebril. Observou-se icterícia na esclera. Ao exame apresentou dor à palpação profunda no quadrante superior direito, com sinal de Murphy ausente.\nExames laboratoriais: hemograma normal, níveis séricos de bilirrubina total de 2,5 mg/dL (VR: 0,3 a 1 mg/dL), com bilirrubina direta de 2 mg/dL (VR: 0,1 a 0,3 mg/dL) e aumento da fosfatase alcalina.\nQual exame do abdome tem maior acurácia para auxiliar nesse diagnóstico?",
+  "alts": [
+   "Ultrassonografia",
+   "Radiografia simples",
+   "Ressonância magnética",
+   "Tomografia computadorizada"
+  ],
+  "gab": 2,
+  "tema": "hepatobiliar",
+  "sub": "Coledocolitíase: exame de maior acurácia",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ASGE guideline on the role of endoscopy in the evaluation and management of choledocholithiasis, 2019",
+  "coment": "Mulher obesa, multípara, com cólica biliar prévia, icterícia e colestase (bilirrubina direta e fosfatase alcalina elevadas): suspeita de coledocolitíase. A ultrassonografia é o exame inicial, barato e disponível, mas enxerga mal o colédoco distal e tem sensibilidade baixa para cálculo no ducto. Entre os exames listados, a ressonância magnética com colangiorressonância tem a maior acurácia (sensibilidade e especificidade acima de 90%), sem radiação e sem ser invasiva. A ASGE 2019 a indica para risco intermediário, e a CPRE fica reservada para o tratamento.",
+  "porAlt": [
+   "A ultrassonografia é o primeiro exame, mas tem baixa sensibilidade para cálculo no colédoco distal.",
+   "A radiografia simples só mostra cálculos calcificados, minoria, e não avalia a via biliar.",
+   "Correta: a colangiorressonância tem a maior acurácia não invasiva para coledocolitíase.",
+   "A tomografia detecta dilatação da via biliar, mas é pouco sensível para cálculos de colesterol no colédoco."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0452",
+  "q": "Os pais de um recém-nascido comparecem extremamente nervosos à primeira consulta de puericultura. O menino é o primeiro filho do casal, tem 27 dias de vida e está sendo alimentado exclusivamente com leite materno. Os pais trazem o teste de triagem neonatal de seu bebê com resultado de presença de traço falciforme. Informam que o parto foi cesáreo por opção, pois a mãe iniciou o pré-natal tardiamente. Além disso, relatam que houve internação de 2 dias para realização de fototerapia no neném devido à icterícia. Ao exame físico, a criança apresenta-se eutrófica.\nConsiderando-se essas informações, qual é a conduta inicial adequada para esse caso?",
+  "alts": [
+   "Solicitar eletroforese de hemoglobina",
+   "Solicitar o teste de falcização e de solubilidade",
+   "Refazer o teste de triagem neonatal imediatamente",
+   "Tranquilizar os pais, uma vez que se trata de heterozigose"
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Traço falciforme na triagem neonatal",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Triagem Neonatal Biológica: Manual Técnico, 2016",
+  "coment": "O traço falciforme (padrão FAS no teste do pezinho) é o estado heterozigoto: a criança tem um gene da hemoglobina A e um da S, não tem doença, não tem anemia e não precisa de seguimento hematológico. O resultado da triagem é confiável e não precisa ser repetido. A conduta do Manual Técnico de Triagem Neonatal (MS, 2016) é tranquilizar a família, explicar que se trata de portador e oferecer orientação genética, já que os pais também são portadores ou um deles tem a mutação, com risco de doença falciforme em futuros filhos se ambos forem portadores.",
+  "porAlt": [
+   "A eletroforese não muda conduta no portador do traço; seria útil para orientar os pais, não para a criança.",
+   "Teste de falcização e de solubilidade são métodos inferiores e não acrescentam nada ao resultado da triagem.",
+   "O teste de triagem não precisa ser repetido quando o resultado é de traço falciforme.",
+   "Correta: o traço falciforme é heterozigose sem doença; cabe tranquilizar os pais e oferecer orientação genética."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0453",
+  "q": "A inserção e a retirada do dispositivo intrauterino (DIU) faz parte da carteira de serviços da atenção primária à saúde.\nAcerca desse dispositivo, assinale a opção correta.",
+  "alts": [
+   "O Ministério da Saúde não recomenda a inserção do DIU por enfermeiros",
+   "A inserção do DIU é contraindicada após o procedimento de aborto devido ao risco de infecção",
+   "O DIU de cobre pode ser inserido, como um anticoncepcional de emergência, em até 7 dias a partir do coito sem proteção",
+   "O DIU hormonal pode ser usado para controle de sangramento uterino anormal, para redução da dismenorreia e como método contraceptivo"
+  ],
+  "gab": 3,
+  "tema": "reprodutiva",
+  "sub": "DIU na atenção primária",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual Técnico para Profissionais de Saúde: DIU com Cobre TCu 380A, 2018; Resolução COFEN nº 690/2022",
+  "coment": "O SIU de levonorgestrel atrofia o endométrio: reduz muito o volume menstrual, é tratamento de primeira linha do sangramento uterino anormal sem causa estrutural e melhora a dismenorreia, além de ser contraceptivo de longa duração. O DIU de cobre serve como contracepção de emergência até 5 dias (120 horas) após a relação, não 7. A inserção logo após aborto não séptico é segura e recomendada. A inserção por enfermeiros capacitados é respaldada pelo Ministério da Saúde e pela Resolução COFEN 690/2022.",
+  "porAlt": [
+   "O Ministério da Saúde apoia a inserção do DIU por enfermeiros treinados, ampliando o acesso na atenção primária.",
+   "A inserção logo após aborto não infectado é segura e recomendada; a contraindicação é o aborto séptico.",
+   "O DIU de cobre como contracepção de emergência deve ser inserido em até 5 dias (120 horas), não 7.",
+   "Correta: o SIU de levonorgestrel reduz o sangramento e a dismenorreia e é contraceptivo eficaz."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0454",
+  "q": "Um paciente com 67 anos, 72 kg, há 1 ano foi nefrectomizado à direita por via laparoscópica. Há 4 meses, observou abaulamento suprapúbico, à direita, com cerca de 8 cm x 5 cm, que piora à manobra de Valsalva. Será submetido à cirurgia eletiva. Apresenta antecedente pessoal de hipertensão arterial sistêmica e diabetes mellitus, controlados com uso de medicação. Creatinina sérica de 0,7 mg/dL (VR: 0,7 a 1,3 mg/dL).\nConsiderando-se o quadro descrito, qual deve ser a antibioticoprofilaxia adequada para esse paciente?",
+  "alts": [
+   "2g de cefazolina (ev) 60 minutos antes da cirurgia; 1g de cefazolina (ev), de 4/4h intraoperatória, após a dose de indução; descontinuar após fechar a pele",
+   "1g de cefazolina (ev) e 1g de metronidazol (ev) 60 minutos antes da cirurgia; não indicar doses adicionais durante o procedimento nem no pós-operatório",
+   "1g de cefazolina (ev) 60 minutos antes da cirurgia; 1g de cefazolina (ev), de 4/4h intraoperatória, após a dose de indução; manter por 72h após fechar a pele",
+   "2g de cefazolina (ev) e 1g de metronidazol (ev) imediatamente antes da incisão; repetir as doses (ev), de 4/4h, até fechar a pele; descontinuar no pós-operatório"
+  ],
+  "gab": 0,
+  "tema": "periop",
+  "sub": "Antibioticoprofilaxia em hernioplastia",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Bratzler DW et al. Clinical practice guidelines for antimicrobial prophylaxis in surgery (ASHP/IDSA/SIS/SHEA), 2013",
+  "coment": "Correção eletiva de hérnia incisional, cirurgia limpa em que se usa tela: está indicada profilaxia contra flora de pele (estafilococo e estreptococo), e a cefazolina é a droga de escolha. Pelas diretrizes ASHP/IDSA 2013, a dose é 2 g para pacientes abaixo de 120 kg, infundida até 60 minutos antes da incisão, com nova dose a cada 4 horas de cirurgia (duas meias-vidas) e suspensão ao fim do procedimento. Profilaxia estendida por 24 a 72 horas não reduz infecção de sítio cirúrgico e aumenta resistência e efeitos adversos. Metronidazol só entra quando há abertura de víscera com anaeróbios.",
+  "porAlt": [
+   "Correta: cefazolina 2 g até 60 minutos antes, repique a cada 4 horas e suspensão ao fechar a pele seguem a diretriz.",
+   "A dose de 1 g está abaixo do recomendado para adulto de 72 kg, e o metronidazol é desnecessário em cirurgia limpa.",
+   "A dose está baixa e manter 72 horas após a cirurgia não traz benefício e aumenta resistência.",
+   "Metronidazol não tem papel em cirurgia limpa de parede, e a profilaxia não deve ser dada só no momento da incisão."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0455",
+  "q": "Uma lactente de 18 meses é levada a uma consulta em unidade básica de saúde por sua mãe, que faz queixa de lesões muito pruriginosas na pele da criança, as quais têm comprometido até o sono da criança. A mãe nega quadro similar na família. Em história pregressa, verifica-se registro de 2 episódios de bronquiolite aguda sem internação hospitalar. Com relação à história familiar, sabe-se que a mãe tem rinite alérgica e que o pai é asmático. Ao exame clínico da paciente, é observada lesão eczematosa em região malar da face, exceto no maciço central. No pescoço, há pápulas eritematosas e crostas. Em fossa cubital, é observada lesão liquenificada.\nCom base nas informações apresentadas nesse quadro clínico, assinale a opção que apresenta o diagnóstico adequado para o caso.",
+  "alts": [
+   "Dermatite atópica",
+   "Tinea corporis",
+   "Escabiose",
+   "Psoríase"
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Dermatite atópica no lactente",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Consenso sobre o tratamento da dermatite atópica, Sociedade Brasileira de Dermatologia (An Bras Dermatol), 2019; critérios de Hanifin e Rajka, 1980",
+  "coment": "Prurido intenso que atrapalha o sono, eczema em região malar poupando o maciço centrofacial, lesões em pescoço e liquenificação em fossa cubital, com história pessoal de sibilância e familiar de rinite e asma: os critérios de Hanifin e Rajka fecham dermatite atópica. A distribuição muda com a idade: face e superfícies extensoras no lactente e dobras flexurais na criança maior, que já aparecem aqui. A atopia familiar é o fator de risco mais forte. O tratamento se apoia em hidratação da pele e corticoide tópico nas crises (SBD 2019).",
+  "porAlt": [
+   "Correta: prurido, eczema facial poupando o centro, liquenificação flexural e atopia familiar definem dermatite atópica.",
+   "Tinha do corpo forma placas anulares com bordas ativas e centro claro, sem padrão flexural nem história atópica.",
+   "A escabiose acomete interdígitos, punhos e região genital e costuma atingir outros familiares, o que foi negado.",
+   "A psoríase forma placas eritematodescamativas bem delimitadas em superfícies extensoras e couro cabeludo, sem esse padrão eczematoso."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0456",
+  "q": "Uma mulher com 25 anos, primigesta, na 39ª semana de gestação, encontra-se na segunda fase do trabalho de parto (colo totalmente dilatado, cabeça fletida, encaixada no plano +2 de De Lee, posição occipto-púbica, proporção cefalopélvica adequada), em bloco obstétrico de uma maternidade do Sistema Único de Saúde, atendida por equipe experiente. A gestante, segundo relatou, havia planejado parto normal em seu pré-natal, mas após uma hora de trabalho de parto, entra em exaustão, e as contrações uterinas vão diminuindo em frequência, mesmo depois de medidas encorajadoras de esforço. Realiza-se anestesia neuroaxial, é administrada ocitocina, sendo realizada amniotomia, que revelou líquido meconial. A cardiotocografia apresenta resultado normal, razão pela qual a equipe médica decide aguardar a progressão do parto, porém, com 2 horas e meia de trabalho de parto, nova cardiotocografia aponta bradicardia, e as contrações não se revelam eficientes para a conclusão do período expulsivo.\nA partir do caso clínico descrito, qual deve ser a melhor conduta?",
+  "alts": [
+   "Indicar a realização imediata de parto cesáreo de urgência",
+   "Realizar parto vaginal assistido, com utilização de fórceps de Simpson",
+   "Administrar nova dose de ocitocina, para estimulação da contração uterina",
+   "Aguardar até se completarem três horas de evolução, por se tratar de primípara"
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Fórceps no período expulsivo",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin nº 219. Operative Vaginal Birth, 2020; Ministério da Saúde. Diretrizes Nacionais de Assistência ao Parto Normal, 2017",
+  "coment": "Período expulsivo com dilatação completa, cabeça fletida em occipitopúbica no plano +2 de De Lee e proporção adequada, agora com bradicardia fetal e contrações ineficientes: há indicação fetal de abreviar o parto. Com a cabeça baixa (+2 ou mais), o parto vaginal assistido por fórceps (ou vácuo) é mais rápido que a cesariana, que nesse plano é tecnicamente difícil e traumática. Estão presentes as condições de aplicabilidade: membranas rotas, dilatação total, variedade conhecida, equipe experiente e analgesia (ACOG 2020; Diretrizes de Parto Normal, MS 2017). Esperar ou insistir em ocitocina prolonga a hipóxia.",
+  "porAlt": [
+   "A cesariana com cabeça no plano +2 demora mais a retirar o feto e aumenta trauma materno e fetal.",
+   "Correta: com bradicardia e cabeça no plano +2 em occipitopúbica, o fórceps abrevia o expulsivo com segurança.",
+   "Mais ocitocina não resolve a bradicardia e pode agravar a hipóxia fetal.",
+   "Com bradicardia fetal não se aguarda limite de tempo do expulsivo; a conduta é extrair o feto."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0457",
+  "q": "Os inquéritos populacionais de saúde têm sido cada vez mais utilizados não apenas para avaliar a eficácia dos serviços de saúde na perspectiva dos usuários, mas também como uma fonte de informações sobre morbidade referida e sobre estilo de vida saudável. A Pesquisa Nacional de Saúde foi um inquérito de saúde de base domiciliar, de âmbito nacional, realizada pelo Ministério da Saúde em parceria com o Instituto Brasileiro de Geografia e Estatística (IBGE) em 2013 e em 2019.\nEssa pesquisa realizada pelo IBGE se caracteriza como um estudo do tipo",
+  "alts": [
+   "coorte",
+   "transversal",
+   "experimental",
+   "caso-controle"
+  ],
+  "gab": 1,
+  "tema": "bioestat",
+  "sub": "Desenho de estudo: inquérito transversal",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "IBGE e Ministério da Saúde. Pesquisa Nacional de Saúde 2019, publicada em 2020",
+  "coment": "A Pesquisa Nacional de Saúde é um inquérito domiciliar por amostragem que mede exposição e desfecho no mesmo momento, sem seguimento no tempo: é um estudo transversal (de prevalência). Repetir a pesquisa em 2013 e 2019 com amostras diferentes gera séries de inquéritos, não coorte, porque os indivíduos não são acompanhados. Estudos transversais estimam prevalência e associações, mas não estabelecem temporalidade entre causa e efeito.",
+  "porAlt": [
+   "A coorte acompanha os mesmos indivíduos no tempo a partir da exposição, o que a PNS não faz.",
+   "Correta: a PNS mede exposição e desfecho num único momento em amostra populacional, desenho transversal.",
+   "No estudo experimental o pesquisador aloca a intervenção, o que não ocorre num inquérito populacional.",
+   "O caso-controle parte de doentes e não doentes e investiga exposição passada, diferente de um inquérito por amostragem."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0458",
+  "q": "Um paciente com 57 anos, queixa-se, em consulta, de dor abdominal difusa intermitente, há 3 meses, que piora com ingestão de alimentos, associada a emagrecimento de 9 quilogramas nesse período, além de diarreia com gotículas de gordura nas fezes. É tabagista e etilista há 30 anos. Ao exame físico, apresenta dor abdominal difusa que piora à palpação profunda em região mesogástrica, sem outras particularidades.\n\nEXAMES LABORATORIAIS\nEXAME | VALOR | VALOR DE REFERÊNCIA (VR)\nhemoglobina | 10,5 g/dL | 13 a 17 g/dL\nhematócrito | 35% | 40% a 50%\nleucócitos | 8.000 mm³ | 4.000 a 10.000 mm³\nglicemia jejum | 155 mg/dL | <100 mg/dL\nAST | 39 U/L | <38 U/L\nALT | 33 U/L | <41 U/L\nbilirrubina total | 1,1 mg/dL | 0,2 mg/dL a 1,20 mg/dL\namilase | 130 U/L | 25 a 125 U/L\nlipase | 83 U/L | <60 U/L\nureia | 42 mg/dL | <45 mg/dL\ncreatinina | 1,3 mg/dL | 0,6 a 1,2 mg/dL\ncálcio sérico | 10,4 mg/dL | 8,6 a 10 mg/dL\n\nCom base no quadro acima, quais são, respectivamente, o diagnóstico e a conduta para o paciente?",
+  "alts": [
+   "Pancreatite aguda; hidratação, analgesia e jejum",
+   "Pancreatite crônica; analgesia e orientação dietética",
+   "Hepatite alcoólica; corticosteroides e orientação dietética",
+   "Cirrose hepática; biópsia hepática e tratamento do etilismo"
+  ],
+  "gab": 1,
+  "tema": "gastro",
+  "sub": "Pancreatite crônica alcoólica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Gardner TB et al. ACG Clinical Guideline: Chronic Pancreatitis (American College of Gastroenterology), 2020",
+  "coment": "Etilista e tabagista com dor abdominal pós-prandial há meses, perda de peso, esteatorreia (insuficiência exócrina) e hiperglicemia (insuficiência endócrina): tríade da pancreatite crônica. Amilase e lipase estão quase normais, como esperado no pâncreas já fibrosado, e não no padrão de pancreatite aguda (mais de 3 vezes o limite). A hipercalcemia é fator de risco adicional. A conduta inclui cessar álcool e tabaco, analgesia escalonada, orientação dietética e reposição de enzimas pancreáticas (ACG 2020). Perda de peso importante em tabagista acima de 50 anos obriga a afastar adenocarcinoma de pâncreas por imagem.",
+  "porAlt": [
+   "Pancreatite aguda tem dor súbita e enzimas acima de 3 vezes o normal, não quadro de 3 meses com esteatorreia.",
+   "Correta: dor crônica, esteatorreia, perda de peso e diabetes em etilista definem pancreatite crônica, tratada com analgesia e dieta.",
+   "Hepatite alcoólica cursa com icterícia, hepatomegalia dolorosa e AST maior que ALT em mais de 2 vezes, ausentes aqui.",
+   "Não há sinais de cirrose (bilirrubina normal, sem estigmas), e a biópsia hepática não está indicada."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0459",
+  "q": "Um menino com 7 anos é admitido na unidade de terapia intensiva de um hospital de alta complexidade devido a uma dor abdominal intensa, com vômitos e enterorragia. No relatório de transferência, consta que o paciente apresentou amigdalite bacteriana, com exsudato, há cerca de 10 dias, a qual foi tratada com amoxicilina. A criança desenvolveu artralgia em joelhos e, 2 dias após o surgimento das dores, notou-se púrpura palpável que não desaparece à digitopressão e que se estende dos membros inferiores até a região glútea. No hemograma, observa-se anemia, leucocitose moderada, plaquetas com dosagem dentro da normalidade e ausência de eosinofilia. Observam-se, também, VHS e PCR discretamente elevados e funções hepáticas e renais dentro das referências para a idade.\nConsiderando-se essas informações, é correto afirmar que o quadro clínico desse paciente é compatível com o diagnóstico de",
+  "alts": [
+   "poliarterite nodosa",
+   "arterite de Takayasu",
+   "doença de Kawasaki",
+   "vasculite por imunoglobulina A"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Vasculite por IgA (púrpura de Henoch-Schönlein)",
+  "cenario": "uti",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Critérios EULAR/PRINTO/PReS para vasculite por IgA, 2010 (Ozen et al., Ann Rheum Dis); recomendações SHARE, 2019",
+  "coment": "Criança em idade escolar, após infecção de vias aéreas, com púrpura palpável não trombocitopênica em membros inferiores e glúteos, artralgia e dor abdominal com enterorragia: preenche os critérios EULAR/PRINTO/PReS 2010 para vasculite por IgA. A púrpura com plaquetas normais é obrigatória para o diagnóstico, somada a pelo menos um entre dor abdominal, artrite ou artralgia, acometimento renal ou depósito de IgA na biópsia. A dor abdominal intensa com sangramento sugere complicação, como intussuscepção, e a função renal deve ser seguida por meses.",
+  "porAlt": [
+   "Poliarterite nodosa é rara na criança e se apresenta com nódulos, livedo, hipertensão e neuropatia, não púrpura palpável em glúteos.",
+   "Takayasu acomete grandes vasos de mulheres jovens com claudicação e assimetria de pulsos.",
+   "Kawasaki afeta menores de 5 anos com febre de 5 dias, conjuntivite, alterações de mucosas e extremidades, sem púrpura palpável.",
+   "Correta: púrpura palpável sem plaquetopenia, artralgia e dor abdominal após infecção caracterizam vasculite por IgA."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0460",
+  "q": "Uma puérpera, 14 dias pós-parto vaginal, que vem amamentando exclusivamente seu bebê, procura uma unidade básica de saúde referindo dor em mama direita.\nAo exame, evidenciam-se pressão arterial de 120 x 70 mmHg, frequência cardíaca de 90 bpm, temperatura axilar de 37,8 °C, mamas túrgidas e com fissuras nos mamilos, hiperemia, calor e dor na junção dos quadrantes inferiores da mama direita, sem sinais de flutuação.\nPara o caso dessa paciente, a hipótese diagnóstica e o tratamento adequado são, respectivamente,",
+  "alts": [
+   "galactocele; massagem mamária e manutenção da amamentação",
+   "mastite; analgesia, manutenção da amamentação e antibioticoterapia via oral",
+   "abscesso mamário; antibioticoterapia intravenosa e drenagem da mama direita com sedação",
+   "ingurgitamento mamário; aplicação de compressas frias, interrupção da amamentação e manutenção das mamas bem suspensas"
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Mastite lactacional",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 23 (Aleitamento materno e alimentação complementar), 2015; Academy of Breastfeeding Medicine, Protocolo nº 36, 2022",
+  "coment": "Puérpera amamentando, com fissuras (porta de entrada), área de hiperemia, calor e dor na mama e febre: mastite lactacional, sem flutuação que sugira abscesso. A conduta do Caderno de Atenção Básica nº 23 é manter a amamentação (o esvaziamento é parte do tratamento e o leite não faz mal ao bebê), corrigir a pega, analgesia e anti-inflamatório e antibiótico oral com cobertura para Staphylococcus aureus (como cefalexina) quando há febre, fissuras ou ausência de melhora. Abscesso pede drenagem; ingurgitamento é bilateral e sem febre importante.",
+  "porAlt": [
+   "Galactocele é cisto de leite indolor, sem sinais inflamatórios nem febre.",
+   "Correta: sinais inflamatórios localizados, febre e fissuras indicam mastite, tratada com analgesia, manutenção da amamentação e antibiótico oral.",
+   "Sem flutuação não há abscesso, e o tratamento deste seria drenagem com manutenção da amamentação.",
+   "Ingurgitamento é bilateral e difuso, e mesmo nele não se interrompe a amamentação; o esvaziamento é o tratamento."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0462",
+  "q": "Um pintor com 40 anos foi exposto acidentalmente à cal de pintura em ambos os olhos. Após lavagem dos olhos com água corrente, o trabalhador relata dor, sensação de “areia” nos olhos e visão embaçada.\nQual é a conduta imediata adequada para esse paciente?",
+  "alts": [
+   "Aplicação de colírio lubrificante e repouso domiciliar",
+   "Avaliação por médico oftalmologista em pronto-socorro",
+   "Oclusão prolongada de ambos os olhos com gaze úmida",
+   "Avaliação e acompanhamento pelo médico na unidade básica de saúde"
+  ],
+  "gab": 1,
+  "tema": "trauma",
+  "sub": "Queimadura química ocular por álcali",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Classificação de Dua para queimadura química ocular, Br J Ophthalmol, 2001; Ministério da Saúde. Caderno de Atenção Básica nº 28, vol. II, 2013",
+  "coment": "Cal é álcali, e queimadura ocular por álcali é a mais grave porque saponifica membranas e penetra rápido na córnea e câmara anterior, com risco de isquemia límbica, perfuração e cegueira. Depois da irrigação abundante e prolongada (que deve continuar até normalizar o pH), dor, sensação de corpo estranho e visão borrada indicam lesão da superfície ocular. O paciente precisa de avaliação oftalmológica de urgência no mesmo dia, com biomicroscopia, medida do pH, graduação da lesão (Dua, Roper-Hall) e tratamento específico. A atenção primária não tem lâmpada de fenda para essa avaliação.",
+  "porAlt": [
+   "Lubrificante e repouso deixam de avaliar a profundidade da lesão por álcali, que pode evoluir para perfuração.",
+   "Correta: queimadura por álcali com sintomas após a irrigação exige avaliação oftalmológica de urgência.",
+   "Oclusão prolongada não trata queimadura química e atrasa a avaliação especializada.",
+   "A unidade básica não tem lâmpada de fenda para graduar a lesão; a gravidade pede pronto-socorro com oftalmologista."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0463",
+  "q": "Uma mulher com 70 anos foi encaminhada para o ambulatório de patologia cervical/vulvar por causa de uma lesão avermelhada, pruriginosa, próxima ao clitóris. Fez uso de corticosteroides tópicos e sistêmicos, com melhora parcial do prurido, mas sem alteração da lesão. Também fez uso oral de fluconazol, sem resposta ao tratamento. O resultado da pesquisa de DNA de HPV foi negativo.\nAo exame da paciente, evidenciou-se uma lesão no clitóris medindo 2 cm, eritematosa, com área de descamação, além de líquen escleroso acometendo parte do clitóris e pequenos lábios.\nA partir da situação apresentada, o médico deve solicitar",
+  "alts": [
+   "vulvoscopia e realizar a biópsia da lesão",
+   "testes alérgicos e iniciar clobetasol tópico",
+   "cultura de fungos e tratar com cetoconazol tópico",
+   "teste de azul de toluidina e indicar vulvectomia simples"
+  ],
+  "gab": 0,
+  "tema": "ginonco",
+  "sub": "Lesão vulvar em líquen escleroso",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin nº 224. Diagnosis and Management of Vulvar Skin Disorders, 2020; British Association of Dermatologists, lichen sclerosus guideline, 2018",
+  "coment": "Idosa com líquen escleroso e lesão vulvar focal, eritematosa e descamativa, que não respondeu a corticoide nem a antifúngico: toda lesão vulvar persistente, especialmente sobre líquen escleroso, deve ser biopsiada para afastar neoplasia intraepitelial diferenciada (VIN independente de HPV) e carcinoma escamoso. O DNA-HPV negativo reforça a via não associada ao HPV, típica da mulher idosa com líquen. A vulvoscopia orienta o local da biópsia. Só o histopatológico define a conduta (ACOG 2020; BAD 2018).",
+  "porAlt": [
+   "Correta: lesão vulvar refratária sobre líquen escleroso exige vulvoscopia e biópsia para afastar neoplasia.",
+   "Corticoide já falhou, e testes alérgicos não esclarecem lesão focal suspeita.",
+   "Fluconazol já falhou, e insistir em antifúngico atrasa o diagnóstico de possível neoplasia.",
+   "Azul de toluidina é pouco específico, e vulvectomia sem diagnóstico histológico é conduta inaceitável."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0464",
+  "q": "Um homem com 50 anos comparece a um serviço de emergência apresentando níveis pressóricos elevados e desorientação. Ao ser atendido pelo médico de plantão, encontra-se sentado, ansioso, dizendo que “não sente nada” e que quer ir embora. Não consegue relatar a própria idade nem o mês vigente. Ao exame físico, registram-se frequência cardíaca de 106 bpm, pressão arterial de 190 x 130 mmHg, sendo normais os demais aspectos do exame. O médico, então, realiza o exame de fundo de olho.\nConsiderando o caso descrito, assinale a opção que apresenta, respectivamente, o diagnóstico mais provável e o achado no fundo de olho compatível com esse diagnóstico.",
+  "alts": [
+   "Hipertensão Maligna; coriorretinite",
+   "Encefalopatia Hipertensiva; papiledema",
+   "Ataque Isquêmico Transitório; fibras nervosas meduladas",
+   "Acidente Vascular Encefálico Hemorrágico; pulso venoso espontâneo"
+  ],
+  "gab": 1,
+  "tema": "cardio",
+  "sub": "Encefalopatia hipertensiva",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Hipertensão Arterial, 2025",
+  "coment": "PA de 190 x 130 mmHg com desorientação (não sabe idade nem mês) configura emergência hipertensiva com lesão de órgão-alvo neurológica: encefalopatia hipertensiva, por falha da autorregulação cerebral e edema. Não há déficit focal que sugira AVC. O fundo de olho tipicamente mostra retinopatia grave, com hemorragias, exsudatos e papiledema. O tratamento é redução controlada da PA com anti-hipertensivo venoso, em torno de 20 a 25% na primeira hora, conforme a Diretriz Brasileira de Hipertensão 2025.",
+  "porAlt": [
+   "Coriorretinite é inflamação de causa infecciosa (toxoplasmose, por exemplo), não achado de hipertensão maligna, que mostra hemorragias e papiledema.",
+   "Correta: crise hipertensiva com confusão mental é encefalopatia hipertensiva, e o papiledema é o achado esperado.",
+   "AIT dá déficit focal transitório, e fibras nervosas mielinizadas são variante congênita benigna sem relação com o quadro.",
+   "AVC hemorrágico costuma ter déficit focal e cefaleia súbita, e pulso venoso espontâneo é achado normal que fala contra hipertensão intracraniana."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0465",
+  "q": "Uma mulher de 25 anos procura o pronto atendimento, devido a um episódio de sangramento retal vivo, que cedeu espontaneamente. Refere cansaço aos esforços, indisposição, episódios frequentes de dor abdominal, diarreia e perda de peso, no último ano. A diarreia vem acompanhada de eliminação de muco, com urgência e tenesmo. Nega episódios anteriores de sangramento retal. Perguntada sobre a história familiar, referiu que seu pai faleceu aos 55 anos devido a câncer no intestino, mas não sabia de mais detalhes, pois era criança na época.\nDe acordo com a história clínica da paciente, qual o diagnóstico mais provável?",
+  "alts": [
+   "Tumor colorretal",
+   "Doença de Crohn",
+   "Retocolite ulcerativa",
+   "Doença hemorroidária"
+  ],
+  "gab": 2,
+  "tema": "gastro",
+  "sub": "Retocolite ulcerativa: diagnóstico clínico",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ECCO-ESGAR Guideline for Diagnostic Assessment in Inflammatory Bowel Disease, 2019",
+  "coment": "Mulher jovem com um ano de diarreia com muco, urgência, tenesmo, sangramento retal, perda de peso e cansaço (provável anemia): o quadro de diarreia inflamatória com sintomas retais aponta para retocolite ulcerativa, que acomete o reto de forma contínua. Doença de Crohn costuma dar dor e diarreia sem tanto sangue e tenesmo, com acometimento descontínuo, perianal e de delgado. O pai com câncer colorretal é distrator, mas reforça a necessidade de colonoscopia com biópsias, exame que confirma o diagnóstico (ECCO-ESGAR 2019).",
+  "porAlt": [
+   "Tumor colorretal aos 25 anos é raro e não explica bem um ano de diarreia com muco, urgência e tenesmo.",
+   "Crohn dá mais dor, diarreia não sanguinolenta, doença perianal e de delgado; tenesmo e sangue sugerem retite.",
+   "Correta: diarreia com sangue, muco, urgência e tenesmo em adulto jovem sugere retocolite ulcerativa.",
+   "Doença hemorroidária sangra sem diarreia crônica, perda de peso ou tenesmo."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0466",
+  "q": "Um lactente com 5 meses é levado à emergência por seus pais com quadro de rinorreia hialina, tosse leve e febre baixa (37,9 °C) de início há 24 horas. Eles relatam que, há algumas horas, o bebê passou a apresentar rouquidão, tosse persistente e ruídos inspiratórios mesmo em repouso.\nAo exame físico, constata-se que a criança está agitada, com desconforto respiratório, com tiragem intercostal discreta e com estridor inspiratório. Sua frequência cardíaca é de 110 bpm, sua frequência respiratória é de 42 irpm e sua saturação de O2 é de 96% em ar ambiente. Durante a ausculta, nota-se boa entrada de ar bilateralmente. A expansibilidade torácica está preservada. Observa-se, entretanto, cianose quando a criança fica muito agitada.\nDiante dessas informações, a conduta médica adequada é prescrever",
+  "alts": [
+   "corticoide oral e nebulização com agonistas beta-2 e realizar internação hospitalar do paciente",
+   "corticoide parenteral e nebulização com adrenalina e realizar internação hospitalar do paciente",
+   "corticoide parenteral, realizar intubação orotraqueal no paciente e proceder à internação hospitalar",
+   "corticoide inalatório, dar alta ao paciente e orientar seu retorno caso não melhore em 48 horas ou piore"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Laringotraqueíte viral moderada a grave",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Revisões Cochrane: glicocorticoides para crupe (Aregbesola et al., 2023) e adrenalina nebulizada para crupe (Bjornson et al., 2013)",
+  "coment": "Pródromo viral seguido de rouquidão, tosse ladrante e estridor inspiratório em repouso com tiragem e cianose à agitação: laringotraqueíte viral (crupe) de gravidade moderada a grave. O tratamento é corticoide em dose única (dexametasona, que age igual por via oral, intramuscular ou venosa) e adrenalina nebulizada, que reduz o edema subglótico em minutos. Pelo estridor em repouso e cianose, o lactente deve ficar internado em observação após a adrenalina, pelo risco de efeito rebote. Beta-2 não atua no edema laríngeo, e a intubação é reservada à falência respiratória.",
+  "porAlt": [
+   "Beta-2 agonista não reduz o edema subglótico do crupe; o broncodilatador indicado aqui é a adrenalina.",
+   "Correta: corticoide sistêmico e adrenalina nebulizada com internação tratam o crupe com estridor em repouso.",
+   "A criança tem boa entrada de ar e saturação de 96%; intubação é reservada à falência respiratória.",
+   "Estridor em repouso com cianose à agitação não permite alta, e corticoide inalatório não é o tratamento de escolha."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0467",
+  "q": "Uma mulher com 26 anos obteve o diagnóstico citológico de lesão intraepitelial de baixo grau (LSIL) no exame de Papanicolaou. Constata-se que a paciente tomou apenas uma dose da vacina contra o HPV na adolescência e iniciou a atividade sexual há 6 meses com parceiro único e sem uso de preservativo.\nPara melhor condução do caso, de acordo com o estabelecido pelo Ministério da Saúde/INCA, o profissional deve",
+  "alts": [
+   "fazer pesquisa de DNA-HPV",
+   "repetir a citologia em 6 meses",
+   "indicar biópsia do colo uterino",
+   "solicitar colposcopia e “ver e tratar”"
+  ],
+  "gab": 1,
+  "tema": "ginonco",
+  "sub": "Conduta na LSIL citológica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, 2ª ed., 2016, referência onde o teste DNA-HPV ainda não foi implantado (Diretrizes com DNA-HPV, 2025)",
+  "coment": "No rastreamento citológico, a lesão intraepitelial de baixo grau em mulher com 25 anos ou mais tem alta taxa de regressão espontânea, sobretudo em infecção recente como a dessa paciente, que iniciou vida sexual há 6 meses. Pelas Diretrizes do INCA de 2016, a conduta é repetir a citologia em 6 meses na própria unidade e só encaminhar à colposcopia se a alteração persistir. As Diretrizes de 2025 adotam o teste DNA-HPV como rastreamento primário, mas mantêm as de 2016 como referência onde o teste molecular ainda não está disponível, e nelas o DNA-HPV não é usado para triar LSIL.",
+  "porAlt": [
+   "No modelo citológico de 2016 o DNA-HPV não é usado para triar LSIL; no modelo novo ele é o exame primário, não a triagem da citologia.",
+   "Correta: LSIL em mulher de 25 anos ou mais, no rastreamento citológico, pede repetição da citologia em 6 meses.",
+   "A biópsia só é indicada após colposcopia com achado anormal, não diretamente diante de LSIL.",
+   "Colposcopia imediata e ver e tratar são condutas para lesão de alto grau, com risco de sobretratamento em LSIL."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0468",
+  "q": "Uma mulher com 42 anos comparece à unidade básica de saúde para consulta com um médico de família e comunidade. Ela possui histórico de irregularidade menstrual, de irritabilidade, de ansiedade, de perda de memória e de fogachos há 6 meses, apresentando sangramento uterino anormal (SUA) há 3 dias, sem sinais de repercussão na estabilidade hemodinâmica.\nA partir dessas informações e com base nos conhecimentos acerca do sangramento apresentado por essa paciente, assinale a opção correta.",
+  "alts": [
+   "O SUA é uma condição rara que afeta poucas mulheres no mundo, principalmente aquelas na pré-menopausa, seguidas por aquelas na perimenopausa e na pós-menopausa",
+   "O SUA é uma afecção frequente que pode comprometer a qualidade da vida da mulher em vários aspectos, sendo recomendado, como terapêutica de primeira linha, a histerectomia",
+   "A presença de lesões vaginais e de colo deve ser descartada por meio do exame físico e a hipótese de gestação deve ser excluída, considerando os principais diagnósticos relacionados ao SUA",
+   "O exame complementar que fornece mais dados para a condução dos casos de SUA é a ultrassonografia da região pélvica, com baixa sensibilidade, porém alta especificidade para lesões endometriais em geral"
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Abordagem inicial do sangramento uterino anormal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Munro MG et al. FIGO Systems 1 and 2 for abnormal uterine bleeding (PALM-COEIN), revisão de 2018",
+  "coment": "Na perimenopausa, com irregularidade menstrual e sintomas vasomotores, o sangramento uterino anormal é frequente e a avaliação começa pelo básico: excluir gestação (beta-hCG) em toda mulher em idade reprodutiva e examinar vulva, vagina e colo para afastar fontes não uterinas e lesões visíveis. A partir daí se aplica a classificação PALM-COEIN da FIGO (revisão 2018), separando causas estruturais de não estruturais. A ultrassonografia transvaginal é o exame de imagem inicial, com boa sensibilidade e menor especificidade para lesões endometriais. O tratamento de primeira linha é clínico; histerectomia é exceção.",
+  "porAlt": [
+   "O sangramento uterino anormal é comum e atinge até um terço das mulheres em idade reprodutiva, não é condição rara.",
+   "A primeira linha é tratamento clínico (hormonal ou não hormonal); a histerectomia fica para falha ou causa estrutural.",
+   "Correta: o primeiro passo é excluir gestação e lesões de vagina e colo pelo exame físico.",
+   "A ultrassonografia transvaginal tem sensibilidade alta e especificidade menor para lesões endometriais, o inverso do afirmado."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0469",
+  "q": "Uma paciente com 60 anos, atendida no serviço de emergência de hospital terciário, apresenta quadro de dor abdominal de moderada intensidade há cerca de 3 dias, com piora há 2 dias, mais proeminente em fossa ilíaca esquerda com melhora após uso de analgésico comum. Tem antecedente de doença diverticular do cólon há 4 anos, com 2 episódios de diverticulite não complicada nos últimos 3 anos; constipação crônica com frequência evacuatória de 3 vezes por semana. Não está em uso de medicações nem apresenta outras comorbidades.\nAo exame físico, encontra-se levemente desidratada; com temperatura de 37,9 °C; frequência cardíaca de 88 bpm; pressão arterial de 130 x 80 mmHg; abdome flácido, ruídos hidroaéreos presentes, doloroso à palpação profunda de quadrante inferior esquerdo, com plastrão palpável em região suprapúbica, sem dor à descompressão brusca do abdome.\nCom base nesse caso clínico, quais são, respectivamente, a hipótese diagnóstica e o exame para confirmação?",
+  "alts": [
+   "Diverticulite aguda com abscesso pélvico; colonoscopia",
+   "Peritonite fecal por diverticulite aguda; radiografia abdominal",
+   "Peritonite fecal por diverticulite aguda; tomografia com contraste",
+   "Diverticulite aguda com abscesso pélvico; tomografia com contraste"
+  ],
+  "gab": 3,
+  "tema": "abdome",
+  "sub": "Diverticulite complicada com abscesso",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sartelli M et al. WSES guidelines for the management of acute left sided colonic diverticulitis in the emergency setting, 2020",
+  "coment": "Paciente com doença diverticular conhecida, dor em fossa ilíaca esquerda, febrícula e plastrão palpável, sem descompressão dolorosa: diverticulite aguda com coleção localizada (abscesso pélvico), sem peritonite generalizada. A tomografia de abdome com contraste é o exame de escolha para confirmar o diagnóstico, estadiar (Hinchey modificada, classificação da WSES) e guiar drenagem percutânea de abscessos maiores que 4 a 5 cm (WSES 2020). Colonoscopia na fase aguda é contraindicada pelo risco de perfuração e fica para 6 a 8 semanas depois, para afastar neoplasia.",
+  "porAlt": [
+   "A hipótese está certa, mas colonoscopia na fase aguda tem risco de perfuração e não é exame de confirmação.",
+   "Sem descompressão dolorosa e com abdome flácido não há peritonite fecal, e a radiografia é pouco útil.",
+   "Abdome flácido e sem sinais de irritação peritoneal difusa afastam peritonite fecal.",
+   "Correta: plastrão com febre em diverticulite sugere abscesso, e a tomografia com contraste confirma e estadia."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0470",
+  "q": "Um menino com 6 anos é encaminhado à unidade de estratégia de saúde da família pela escola em que estuda, por estar apresentando dificuldades de aprendizagem. A professora havia relatado para a mãe que o menino não conseguia progredir na memorização de letras e que não associava cores e imagens às palavras como fazem as demais crianças. Orientou, portanto, a realização de uma avaliação médica, pois desconfiava de que o menino tinha um transtorno de aprendizagem.\nDiante disso, o médico avalia o paciente e relata as seguintes observações sobre ele: face atípica sem estigmas de doenças genéticas; e ausência de doenças prévias, de distúrbio visual ou auditivo, de histórias de condições de morbidade perinatal, de alerta do desenvolvimento neuropsicomotor, de uso de medicamentos, de convulsões e de história de meningite. Acrescenta que o ambiente familiar é com pais trabalhadores e empregados e com um irmão de 9 anos do qual não há queixas escolares. Registra, ainda, que não foram identificados riscos ambientais, como alcoolismo, uso de drogas, depressão e outros transtornos.\nCom base nessas informações, a conduta médica inicial adequada é encaminhar o paciente para uma",
+  "alts": [
+   "avaliação psicopedagógica, a fim de identificar o transtorno de aprendizagem especifico",
+   "reavaliação junto à escola, já que não há parâmetros para avaliar transtorno de aprendizagem aos 6 anos de idade",
+   "consulta com um neuropediatra, com o objetivo de identificar doenças que possam gerar transtornos de aprendizagem",
+   "equipe de reforço pedagógico, a fim de realizar acompanhamento, uma vez que a criança não apresenta problemas aparentes"
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Dificuldade escolar aos 6 anos",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022 (transtorno específico da aprendizagem)",
+  "coment": "Criança de 6 anos com dificuldade de aprender letras, sem déficit visual ou auditivo, sem doença neurológica, sem sinais de alerta no desenvolvimento e sem fatores familiares ou ambientais: a investigação médica básica foi feita e não achou causa orgânica. O passo seguinte é a avaliação psicopedagógica (com fonoaudiologia, se necessário), que caracteriza o perfil de leitura e escrita e orienta a intervenção. Pelo DSM-5-TR, o diagnóstico de transtorno específico da aprendizagem exige dificuldade persistente por pelo menos 6 meses apesar de intervenção dirigida, por isso avaliação e intervenção caminham juntas, sem precisar de especialista médico.",
+  "porAlt": [
+   "Correta: excluídas causas orgânicas, a avaliação psicopedagógica caracteriza a dificuldade e orienta a intervenção.",
+   "Não é verdade que não se possa avaliar aos 6 anos; esperar sem avaliação atrasa a intervenção.",
+   "Sem sinais neurológicos, dismorfias ou alterações do desenvolvimento, o neuropediatra não é o primeiro passo.",
+   "A criança tem uma dificuldade real relatada pela escola; tratá-la como sem problemas e só reforçar dispensa a avaliação devida."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0472",
+  "q": "Uma criança com 6 anos é levada à unidade básica de saúde por sua mãe, apresentando quadro de febre, mal-estar, hiporexia, dores no corpo, otalgia, cefaleia, exantema e desidratação há 5 dias. A paciente é procedente de área com casos de dengue. Para tratar sua filha, a mãe administrou, por indicação de uma vizinha, antibiótico via otológica, por 3 dias, sem melhora.\nAo exame físico, a paciente encontra-se febril (38,6 °C), hipocorada (+/4) e levemente desidratada, sem outras alterações.\nNesse caso, além de prescrever antitérmico, qual é a conduta médica adequada para realizar a investigação diagnóstica e o tratamento apropriado para a criança?",
+  "alts": [
+   "Realizar prova do laço; e prescrever amoxicilina ou clavulanato de potássio à paciente, orientando o retorno após 3 dias",
+   "Realizar otoscopia; solicitar hemograma; e prescrever amoxicilina ou clavulanato de potássio à paciente, orientando o retorno após 3 dias",
+   "Realizar prova do laço e otoscopia; e prescrever hidratação oral à paciente, orientando o retorno no dia de melhora da febre ou no 5.º dia após a consulta, se não melhorar",
+   "Realizar prova do laço; solicitar hemograma; e prescrever hidratação parenteral com SF 0,9% à paciente, mantendo-a em observação por, pelo menos, 24 horas"
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Febre com suspeita de dengue e otalgia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., 2024",
+  "coment": "Criança de área endêmica com febre, mialgia, cefaleia e exantema: caso suspeito de dengue, que exige prova do laço para estadiar (prova positiva leva ao grupo B, com hemograma). Como há otalgia, a otoscopia é obrigatória antes de qualquer antibiótico, para confirmar ou afastar otite média. Sem sinais de alarme, sangramento ou comorbidade, o manejo é do grupo A: hidratação oral abundante, antitérmico (dipirona ou paracetamol, sem AINE), orientação sobre sinais de alarme e retorno. O MS 2024 orienta reavaliar no dia da melhora da febre ou, se ela persistir, no 5º dia de doença, porque a defervescência é a fase crítica.",
+  "porAlt": [
+   "Antibiótico sem otoscopia não tem indicação, e a prova do laço isolada não guia a conduta para a otalgia.",
+   "Prescrever antibiótico antes de confirmar otite é inadequado, e o hemograma só é obrigatório no grupo B em diante.",
+   "Correta: prova do laço, otoscopia e hidratação oral com retorno na defervescência seguem o manejo de dengue grupo A.",
+   "Desidratação leve sem sinais de alarme não indica hidratação venosa nem observação hospitalar."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0473",
+  "q": "Um lactente de 9 meses, nascido a termo, é trazido pela mãe ao hospital, que relata estar preocupada com o comportamento do filho, que é diferente do comportamento dos outros dois irmãos. A mãe também relata que o menino não estende os braços para pedir colo e que tem apresentado pouco contato visual quando estimulado. A história familiar mostra um tio paterno com Transtorno de Espectro Autista.\nNa avaliação, o médico nota o bebê irritado, com choro persistente ao ser examinado, e registra que seu desenvolvimento motor e seu estado nutricional estão adequados para a idade.\nConsiderando-se esse quadro clínico, a conduta médica imediata a ser adotada diante do relato da mãe é",
+  "alts": [
+   "encaminhar o paciente para a neuropediatria e para um geneticista",
+   "iniciar estímulos precoces e agendar breve retorno",
+   "tranquilizar a mãe e manter o bebê em consultas de rotina de puericultura",
+   "iniciar uso de risperidona e encaminhar o paciente para uma equipe multiprofissional"
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Sinais precoces de risco para TEA",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Manual de Orientação: Transtorno do Espectro do Autismo, 2019; Ministério da Saúde. Diretrizes de Atenção à Reabilitação da Pessoa com TEA, 2014",
+  "coment": "Aos 9 meses, pouco contato visual e não estender os braços para pedir colo são sinais precoces de risco para transtorno do espectro autista, reforçados por um tio com TEA. O diagnóstico formal nessa idade é difícil, mas a SBP (2019) e o MS (2014) orientam não esperar: iniciar estimulação precoce (intervenção nas habilidades sociais e de comunicação, com orientação aos pais) e reavaliar em curto prazo, com triagem estruturada como o M-CHAT a partir dos 16 meses e encaminhamento à equipe especializada se os sinais persistirem. Medicação não trata os sintomas centrais.",
+  "porAlt": [
+   "O encaminhamento a especialistas pode vir depois, mas não deve atrasar a estimulação, que é a conduta imediata.",
+   "Correta: diante de sinais de risco, a estimulação precoce começa logo, com retorno breve para reavaliar.",
+   "Tranquilizar e manter rotina ignora sinais de alerta e perde a janela de intervenção precoce.",
+   "Risperidona trata irritabilidade grave em crianças maiores com TEA e não tem indicação num lactente de 9 meses."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0474",
+  "q": "Uma paciente com 45 anos, nuligesta, com ciclos menstruais irregulares, é encaminhada da atenção básica para ambulatório especializado de Ginecologia. Ela apresenta ultrassonografia transvaginal que evidencia cisto de 6 cm, com projeção papilar no seu interior, no ovário esquerdo, e que se mostram normais o ovário direito e demais estruturas pélvicas.\nConsiderando-se esse caso, o critério que determinará a investigação cirúrgica será",
+  "alts": [
+   "o tamanho do cisto",
+   "a idade da paciente",
+   "a projeção papilar do cisto",
+   "a irregularidade menstrual"
+  ],
+  "gab": 2,
+  "tema": "ginonco",
+  "sub": "Massa anexial com projeção papilar",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "O-RADS US Risk Stratification and Management System (ACR), 2020; regras simples IOTA, 2008",
+  "coment": "Na avaliação de massa anexial, o que define risco de malignidade é a morfologia na ultrassonografia: componente sólido, projeções papilares, septos espessos, vascularização ao Doppler, ascite. Projeção papilar é um dos critérios de malignidade das regras simples IOTA e eleva a categoria O-RADS, indicando investigação cirúrgica com estudo histológico. Tamanho isolado, idade e irregularidade menstrual não determinam a indicação; um cisto simples de 6 cm na pré-menopausa pode ser apenas acompanhado.",
+  "porAlt": [
+   "Cisto simples de 6 cm na pré-menopausa pode ser acompanhado; o tamanho isolado não define cirurgia.",
+   "A idade de 45 anos, na pré-menopausa, não indica cirurgia por si só.",
+   "Correta: a projeção papilar é critério morfológico de suspeita de malignidade que indica cirurgia.",
+   "Irregularidade menstrual na perimenopausa é comum e não define risco da massa ovariana."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.1",
+   "ex": "rev2024_1"
+  }
+ },
+ {
+  "pid": "p0475",
+  "q": "Um homem de 46 anos vai ao pronto-socorro com queixa de dor em cólica de forte intensidade na região lombar direita, com irradiação para flanco e fossa ilíaca direita há 12 horas, levando-o à incapacidade laboral. Ele refere que já apresentou alguns episódios semelhantes, com várias ocorrências de vômitos, e que fez uso de chás caseiros para tratamento. Ele nega disúria e polaciúria. Ao exame físico, apresenta-se em regular estado geral com fácies de dor, sudorese profusa, mucosas desidratadas (1+/4+), temperatura de 36,5 °C, frequência cardíaca de 100 batimentos por minuto, pressão arterial de 130 × 80 mmHg, pulmões limpos e bulhas rítmicas e normofonéticas. Ao exame físico do abdome, apresenta dor à palpação de flanco direito e sinal de Giordano positivo à direita. Nos exames complementares, tem-se hemograma sem alterações. Em rotina de urina, constata-se urina turva, ausência de nitritos, presença de leucócitos, 10.000/mL, e presença de hemácias, de 50.000/mL. Com base nessas informações, assinale a alternativa que apresenta, respectivamente, o diagnóstico da doença e o tratamento adequado para esse paciente.",
+  "alts": [
+   "Litíase renal; cirurgia de urgência",
+   "Infecção urinária; antibioticoterapia",
+   "Litíase renal; analgesia e hidratação",
+   "Infecção urinária; analgesia e urocultura"
+  ],
+  "gab": 2,
+  "tema": "especialidades",
+  "sub": "Cólica renal por litíase",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "European Association of Urology. EAU Guidelines on Urolithiasis, 2024",
+  "coment": "Dor lombar em cólica, intensa, com irradiação para flanco e fossa ilíaca, vômitos, Giordano positivo e hematúria, em afebril com episódios prévios: cólica renal por litíase. A leucocitúria de 10.000/mL está no limite da normalidade do sedimento e, sem febre, disúria ou nitrito, não indica infecção. O tratamento inicial é analgesia, com AINE como primeira escolha e opioide de resgate, e correção da desidratação (EAU 2024). Hidratação forçada não acelera a eliminação do cálculo. Intervenção urgente fica para cálculo obstrutivo com infecção, rim único ou dor refratária.",
+  "porAlt": [
+   "Cirurgia de urgência só cabe em obstrução com infecção, rim único, insuficiência renal ou dor refratária.",
+   "Sem febre, disúria e nitrito, e com leucocitúria no limite normal, não há base para infecção urinária.",
+   "Correta: cólica renal com hematúria em afebril é litíase, tratada com analgesia e correção da desidratação.",
+   "O quadro não é de infecção urinária, e a urocultura não muda a conduta na cólica renal sem sinais infecciosos."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0476",
+  "q": "Um médico de uma unidade básica de saúde realiza consulta pré-natal em gestante com idade gestacional de 30 semanas. Ao realizar o terceiro tempo da manobra de Leopold, na região suprapúbica, identifica estrutura fetal óssea arredondada, regular e compatível com calota craniana. Nesse caso, é correto afirmar que a situação e a apresentação fetais são, respectivamente,",
+  "alts": [
+   "transversal e cefálica",
+   "longitudinal e pélvica",
+   "transversal e córmica",
+   "longitudinal e cefálica"
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Manobras de Leopold: estática fetal",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 32 (Atenção ao pré-natal de baixo risco), 2012",
+  "coment": "O terceiro tempo de Leopold palpa a região suprapúbica para identificar o polo que se apresenta ao estreito superior. Estrutura óssea, arredondada, regular e dura corresponde ao polo cefálico, então a apresentação é cefálica. Se a cabeça está no polo inferior, o eixo longitudinal do feto coincide com o eixo uterino, ou seja, a situação é longitudinal. Situação transversal só admite apresentação córmica (de ombro), em que nenhum polo ocupa a pelve (Caderno de Atenção Básica nº 32).",
+  "porAlt": [
+   "Em situação transversal o polo cefálico fica em um flanco, e a apresentação é córmica, não cefálica.",
+   "A estrutura palpada é dura, regular e arredondada, típica da cabeça, e não do polo pélvico, que é volumoso e irregular.",
+   "Na situação transversal a pelve fica vazia, o que contradiz o achado de calota craniana suprapúbica.",
+   "Correta: polo cefálico na região suprapúbica indica situação longitudinal e apresentação cefálica."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0478",
+  "q": "Um recém-nascido a termo, com 6 horas de vida, com peso de nascimento de 4.200 gramas, é internado em alojamento conjunto. Sabe-se que sua mãe possui diagnóstico de diabetes gestacional. Considerando-se o risco do recém-nascido desenvolver um quadro de hipoglicemia neonatal, a conduta inicial correta deve ser",
+  "alts": [
+   "monitorar a glicemia capilar para avaliar se o paciente apresentará esse quadro",
+   "administrar fórmula infantil de forma complementar ao aleitamento materno para evitar esse quadro",
+   "realizar reposição de glicose venosa, caso a glicemia capilar seja menor ou igual 60 mg/dL",
+   "iniciar reposição de glicose venosa, caso o paciente apresente letargia ou crise convulsiva"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Hipoglicemia no filho de mãe diabética",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à Saúde do Recém-Nascido, vol. 2, 2ª ed., 2014; Adamkin DH (AAP). Postnatal glucose homeostasis in late-preterm and term infants, 2011",
+  "coment": "Filho de mãe diabética e grande para a idade gestacional está em risco de hipoglicemia pelo hiperinsulinismo fetal, que persiste após o corte do cordão, com maior risco nas primeiras 12 a 24 horas. A conduta é triagem: estimular aleitamento precoce e monitorar a glicemia capilar antes das mamadas nas primeiras 24 horas, intervindo conforme os limiares (AAP 2011; MS 2014). Muitos recém-nascidos de risco são assintomáticos, então esperar sintomas é tarde. Fórmula profilática não está indicada para todos, e glicose venosa fica para hipoglicemia sintomática ou persistente.",
+  "porAlt": [
+   "Correta: recém-nascido de risco deve ter a glicemia capilar monitorada nas primeiras 24 horas.",
+   "Complementar com fórmula de rotina prejudica o aleitamento e não é recomendado sem hipoglicemia documentada.",
+   "Glicemia de 60 mg/dL não indica glicose venosa em recém-nascido assintomático; os limiares são menores e a primeira medida é alimentar.",
+   "Esperar letargia ou convulsão permite lesão neurológica; o rastreamento deve ser ativo nos assintomáticos de risco."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0479",
+  "q": "Uma paciente de 55 anos, histerectomizada, vai à consulta referindo sintomas climatéricos intensos há 2 anos. Ela relata fazer tratamento com anti-inflamatório para osteoartrite coxofemoral, nega ter hipertensão, diabetes e dislipidemia. Nega antecedentes familiares de câncer de mama ou de ovários, mas relata ter antecedentes de doença de Alzheimer por parte de sua mãe e de sua tia materna. A paciente informa estar interessada em iniciar terapia hormonal (TH) para menopausa. Considerando o caso apresentado, assinale a alternativa que traz a melhor orientação relativa à indicação de TH.",
+  "alts": [
+   "Orientar a TH isolada com raloxifeno por via oral, devido aos seus benefícios para a cognição",
+   "Indicar o uso de estradiol por via transdérmica, para a redução do risco de osteoporose",
+   "Receitar a TH combinada, estradiol e progesterona, via oral, para proteção endometrial",
+   "Prescrever tratamentos não hormonais, pois ela é histerectomizada e usuária crônica de anti-inflamatórios"
+  ],
+  "gab": 1,
+  "tema": "ginecologia",
+  "sub": "Terapia hormonal na histerectomizada",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "The North American Menopause Society. The 2022 Hormone Therapy Position Statement, 2022",
+  "coment": "Mulher de 55 anos com sintomas climatéricos intensos e sem contraindicações (sem câncer de mama, tromboembolismo ou doença cardiovascular) é candidata à terapia hormonal. Como é histerectomizada, usa estrogênio isolado, sem progestagênio, que só serve para proteger o endométrio. A via transdérmica tem menor risco trombótico, e a terapia estrogênica reduz perda óssea e fraturas, benefício adicional ao controle dos fogachos (NAMS 2022). O AINE para artrose não contraindica a terapia. História familiar de Alzheimer não é indicação, já que a terapia hormonal não está recomendada para prevenir demência.",
+  "porAlt": [
+   "Raloxifeno piora fogachos e não tem benefício cognitivo comprovado, além de não ser terapia hormonal para sintomas vasomotores.",
+   "Correta: estradiol transdérmico isolado trata os sintomas e protege o osso, sem necessidade de progestagênio na histerectomizada.",
+   "Sem útero não há endométrio a proteger, e o progestagênio só acrescenta risco, inclusive de câncer de mama.",
+   "Histerectomia e uso de anti-inflamatório não contraindicam terapia hormonal."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0480",
+  "q": "Uma mulher de 45 anos, hipertensa controlada, com índice de massa corporal de 20 kg/m², é submetida a procedimento de correção de hérnia umbilical em regime ambulatorial sob anestesia local. O anel herniário aparenta ter cerca de 1,5 cm de diâmetro. Diante disso, o médico opta pela correção sem o uso de telas de reforço. Em relação ao uso profilático de antibióticos nesse caso, é correto afirmar que a",
+  "alts": [
+   "antibioticoprofilaxia é justificada por conta da hipertensão arterial",
+   "cirurgia realizada é considerada limpa, sem indicação de antibioticoprofilaxia",
+   "cirurgia foi realizada sob anestesia local, dispensando a antibioticoprofilaxia",
+   "antibioticoprofilaxia está indicada, pois a cirurgia ocorreu em regime ambulatorial"
+  ],
+  "gab": 1,
+  "tema": "periop",
+  "sub": "Profilaxia em herniorrafia umbilical sem tela",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Bratzler DW et al. Clinical practice guidelines for antimicrobial prophylaxis in surgery (ASHP/IDSA/SIS/SHEA), 2013",
+  "coment": "Herniorrafia umbilical sem tela, em paciente magra e com hipertensão controlada, é cirurgia limpa, sem abertura de víscera e com baixo risco de infecção de sítio cirúrgico. Nessa situação a antibioticoprofilaxia não é indicada (ASHP/IDSA 2013). Ela passa a ser considerada em cirurgia limpa com implante de prótese (tela), quando a infecção seria desastrosa, ou em pacientes com fatores de risco relevantes. Hipertensão, tipo de anestesia e regime ambulatorial não definem indicação de profilaxia.",
+  "porAlt": [
+   "Hipertensão controlada não é fator de risco que justifique profilaxia antimicrobiana.",
+   "Correta: herniorrafia sem tela é cirurgia limpa e dispensa antibioticoprofilaxia.",
+   "O tipo de anestesia não interfere na indicação de profilaxia; o que conta é o potencial de contaminação e a prótese.",
+   "Regime ambulatorial não é critério para profilaxia antimicrobiana."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0481",
+  "q": "Um paciente de 5 anos chega ao pronto-atendimento com queixa de odinofagia há 2 dias e febre de 38 °C. No exame físico, observa-se exsudato amigdaliano e hiperemia acentuada. Para se evitar a evolução para febre reumática, o antibiótico de primeira linha para a erradicação do estreptococo beta hemolítico (grupo A) da orofaringe a ser prescrito é",
+  "alts": [
+   "cefalexina",
+   "amoxicilina",
+   "eritromicina",
+   "penicilina benzatina"
+  ],
+  "gab": 3,
+  "tema": "pedinfecto",
+  "sub": "Faringoamigdalite estreptocócica",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Cardiologia. Diretrizes Brasileiras para o Diagnóstico, Tratamento e Prevenção da Febre Reumática, 2009",
+  "coment": "Criança de 5 anos com febre, odinofagia e exsudato amigdaliano: suspeita de faringoamigdalite pelo estreptococo beta-hemolítico do grupo A. Na prevenção primária da febre reumática, a diretriz brasileira (SBC 2009) coloca a penicilina G benzatina em dose única intramuscular como tratamento de escolha, por erradicar o estreptococo da orofaringe sem depender de adesão. A amoxicilina oral por 10 dias é alternativa eficaz, aceita como primeira linha em diretrizes internacionais, mas depende do uso completo. Macrolídeos ficam para alérgicos à penicilina.",
+  "porAlt": [
+   "Cefalexina é alternativa para alguns alérgicos à penicilina, não a primeira escolha.",
+   "A amoxicilina oral por 10 dias é alternativa eficaz, mas depende da adesão; a diretriz brasileira prioriza a benzatina.",
+   "Eritromicina é reservada a alérgicos à penicilina e tem resistência crescente do estreptococo.",
+   "Correta: penicilina benzatina em dose única é o tratamento de escolha na prevenção primária da febre reumática."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0482",
+  "q": "Uma paciente de 23 anos, G3 P3, sem antecedentes mórbidos, procura atendimento em ambulatório de planejamento familiar manifestando desejo de laqueadura tubária. Durante a consulta, refere não desejar orientações sobre outros métodos por já estar decidida. De acordo com a lei de planejamento familiar, o profissional de saúde deverá",
+  "alts": [
+   "prescrever contraceptivo hormonal, pois a paciente não se enquadra nos casos permitidos pela legislação brasileira para laqueadura tubária",
+   "informar a paciente de que é necessária a autorização expressa do cônjuge para a realização da laqueadura tubária",
+   "oferecer informações sobre outros métodos anticoncepcionais para que a paciente possa fazer livre escolha entre métodos reversíveis e irreversíveis",
+   "ofertar orientações sobre métodos anticoncepcionais reversíveis, pois a paciente não se enquadra nos casos permitidos pela legislação brasileira para laqueadura tubária"
+  ],
+  "gab": 2,
+  "tema": "reprodutiva",
+  "sub": "Laqueadura e Lei do Planejamento Familiar",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 9.263/1996 (Planejamento Familiar), alterada pela Lei 14.443/2022",
+  "coment": "Pela Lei 9.263/1996, com a redação da Lei 14.443/2022, a esterilização voluntária é permitida para pessoas com capacidade civil plena e mais de 21 anos ou com pelo menos 2 filhos vivos, com prazo mínimo de 60 dias entre a manifestação da vontade e a cirurgia. A paciente tem 23 anos e 3 filhos, então tem direito. A mesma lei aboliu a exigência de consentimento do cônjuge. Durante esse prazo, o serviço deve oferecer aconselhamento por equipe multidisciplinar e acesso a métodos reversíveis, para que a escolha seja livre e informada, inclusive quando a pessoa já se diz decidida.",
+  "porAlt": [
+   "A paciente tem mais de 21 anos e 3 filhos vivos e preenche os critérios legais para laqueadura.",
+   "A Lei 14.443/2022 extinguiu a exigência de autorização do cônjuge.",
+   "Correta: a lei exige oferecer informação sobre métodos reversíveis no prazo de 60 dias, garantindo escolha livre e informada.",
+   "Ela se enquadra na lei; o aconselhamento sobre métodos reversíveis é obrigação do serviço, não uma negativa."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0483",
+  "q": "Um homem de 30 anos, com 90 kg, sofre queimadura ao acender uma churrasqueira. Ele apresenta lesões em face anterior do tronco, em face anterior e posterior dos membros superiores e em face anterior de membro inferior esquerdo. Esse paciente é trazido consciente ao pronto-socorro, com queixa de muita dor. Ao exame físico, nota-se eritema em todas as áreas atingidas, com muitas bolhas, principalmente em tórax, antebraços, mãos, perna e pé. Nessa situação, considerando o volume de reposição pela regra dos 9, preconizado pelo ATLS, assinale a alternativa que apresenta, respectivamente, a classificação da queimadura e a reposição volêmica indicada para esse paciente.",
+  "alts": [
+   "Queimadura moderada, de terceiro grau; reanimação hídrica com cerca de 500 mL/h de solução coloide nas primeiras 8 horas e, após isso, utilização de, aproximadamente, 500 mL/h de ringer, por 16 horas",
+   "Queimadura grave, de terceiro grau; reanimação hídrica com cerca de 1.000 mL/h de ringer lactato nas primeiras 16 horas e, após isso, utilização de, aproximadamente, 500 mL/h, por 8 horas",
+   "Queimadura grave, de segundo grau; reanimação hídrica com cerca de 500 mL/h de ringer lactato nas primeiras 8 horas e, após isso, utilização de, aproximadamente, 250 mL/h, por 16 horas",
+   "Queimadura moderada, de segundo grau; reanimação hídrica oral com 0,5 mL/kg/h, por 48 horas, com monitoração da diurese"
+  ],
+  "gab": 2,
+  "tema": "trauma",
+  "sub": "Queimadura extensa: cálculo de reposição",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American College of Surgeons. ATLS, 11ª ed., 2025",
+  "coment": "Bolhas e eritema indicam queimadura de segundo grau. Pela regra dos 9: face anterior do tronco 18%, membros superiores inteiros 9% cada (18%) e face anterior do membro inferior 9%, total de 45% de superfície corporal, uma queimadura grave. O ATLS recomenda 2 mL de Ringer lactato x peso x %SCQ no adulto: 2 x 90 x 45 = 8.100 mL em 24 horas, metade nas primeiras 8 horas a partir da queimadura (cerca de 500 mL/h) e o restante nas 16 horas seguintes (cerca de 250 mL/h). A fórmula é só ponto de partida: o volume é ajustado para diurese de 0,5 mL/kg/h.",
+  "porAlt": [
+   "Não há sinais de terceiro grau (lesão branca, indolor, endurecida), e coloide não é a solução inicial.",
+   "Bolhas e dor indicam segundo grau, e o volume e a distribuição em 16 e 8 horas estão invertidos e superestimados.",
+   "Correta: 45% de SCQ em 90 kg dá cerca de 8.100 mL, 500 mL/h nas primeiras 8 horas e 250 mL/h nas 16 seguintes.",
+   "Queimadura de 45% é grave e exige reposição venosa; via oral é inadequada nessa extensão."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0484",
+  "q": "Uma criança de 6 anos é atendida em pronto-atendimento com febre contínua em torno de 40 °C. O sintoma iniciou há aproximadamente 4 dias, a criança faz uso de paracetamol, sem melhora. Apresentou, a partir do 3º dia de doença, fezes amolecidas, com aspecto de \"borra de café\" e odor fétido, 3 a 4 episódios/dia. No 4º dia de evolução, surgiram artralgia em joelhos, rash cutâneo avermelhado de aspecto morbiliforme e sangramento nasal importante. Não há descrição de sintomas semelhantes na vida pregressa da criança. Diante da suspeita de dengue, o médico decide realizar a prova do laço. Para isso ele deverá aferir a pressão arterial e",
+  "alts": [
+   "calcular o valor médio; insuflar o manguito até esse valor por 3 minutos; contar o número de petéquias que surgem na área delimitada no antebraço do paciente. Se contar mais de 10 petéquias, o teste é considerado positivo",
+   "obter a pressão sistólica; insuflar o manguito até esse valor por 3 minutos; contar o número de petéquias que surgem na área delimitada no antebraço do paciente. Se contar mais de 20 petéquias, o teste é considerado positivo",
+   "calcular o valor máximo; insuflar o manguito até esse valor por 10 minutos; contar o número de petéquias que surgem na área delimitada no antebraço do paciente. Se contar mais de 10 petéquias, o teste é considerado positivo",
+   "obter a pressão a diastólica; insuflar o manguito até esse valor por 10 minutos; contar o número de petéquias que surgem na área delimitada no antebraço do paciente. Se contar mais de 20 petéquias, o teste é considerado positivo"
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Técnica da prova do laço",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., 2024",
+  "coment": "Pelo manual do MS (2024), a prova do laço se faz assim: medir a PA, calcular a média ((sistólica + diastólica) / 2), insuflar o manguito até esse valor por 5 minutos no adulto e 3 minutos na criança, desenhar um quadrado de 2,5 cm no antebraço e contar as petéquias. É positiva com 20 ou mais petéquias no adulto e 10 ou mais na criança. A prova positiva classifica o paciente como grupo B. Vale lembrar que, nesta criança, melena e epistaxe importante já são sangramentos espontâneos de mucosa e sinal de alarme, o que torna a prova dispensável e pede hidratação venosa (grupo C).",
+  "porAlt": [
+   "Correta: pressão média, 3 minutos na criança e positividade a partir de 10 petéquias seguem a técnica do Ministério da Saúde.",
+   "A pressão usada é a média, não a sistólica, e o ponto de corte de 20 petéquias vale para adultos.",
+   "Não se usa pressão máxima e o tempo de 10 minutos é excessivo.",
+   "Não se usa a diastólica, o tempo é de 3 minutos na criança e o corte infantil é 10 petéquias."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0485",
+  "q": "Uma paciente multigesta de 40 anos, cardiopata, com idade gestacional de 39 semanas, está na maternidade em trabalho de parto ativo, sendo assistida pela obstetra. Durante a evolução do parto, a paciente começa a demonstrar exaustão e ausência de forças para a finalização do expulsivo. A obstetra, então, decide aplicar um fórceps de alívio após analgesia. Para a realização desse procedimento, é necessário constatar a",
+  "alts": [
+   "presença de concepto vivo",
+   "dilatação cervical de, pelo menos, 8 cm",
+   "integridade das membranas amnióticas",
+   "apresentação fetal no plano -1 de DELEE"
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Condições para aplicação de fórceps",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "ACOG Practice Bulletin nº 219. Operative Vaginal Birth, 2020",
+  "coment": "Para aplicar fórceps é preciso cumprir as condições de praticabilidade: dilatação cervical completa, membranas rotas, cabeça insinuada (plano 0 de De Lee ou abaixo; no fórceps de alívio, cabeça no assoalho pélvico), variedade de posição conhecida, proporção cefalopélvica adequada, bexiga vazia, analgesia e operador habilitado. Entre as opções, só o concepto vivo é condição exigida, porque o fórceps é indicado para abreviar o expulsivo em benefício fetal e materno. Cardiopatia materna é indicação clássica de abreviar o período expulsivo para evitar esforço (ACOG 2020).",
+  "porAlt": [
+   "Correta: concepto vivo é condição listada para o fórceps, junto com dilatação total, bolsa rota e cabeça insinuada.",
+   "A dilatação precisa ser completa (10 cm); com 8 cm o fórceps é contraindicado.",
+   "As membranas precisam estar rotas para aplicar o fórceps.",
+   "No plano -1 a cabeça não está insinuada, o que contraindica o fórceps."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0486",
+  "q": "Uma menina de 6 anos viajou de férias com a família para a República Dominicana, onde permaneceu por 10 dias. Na véspera do retorno ao Brasil, a paciente apresentou febre baixa, evoluindo, em 24 horas, para um quadro com diarreia súbita, líquida e abundante. Ao desembarcarem no aeroporto, ela foi prontamente atendida pela equipe da ANVISA, que a encaminhou ao hospital para avaliação, devido à suspeita de cólera. Tendo em vista a exuberância dos sintomas e o grau de desidratação, ao chegar ao hospital, a paciente é internada imediatamente. No hospital, são coletadas amostras de fezes, com resultado positivo para Vibrio cholerae. Durante a internação hospitalar, a paciente recebe, além de reidratação endovenosa e de sulfato de zinco, antibioticoterapia com doxiciclina (3 mg/kg em dose única). Nessa circunstância, as medidas de prevenção e de controle pertinentes ao quadro apresentado por essa paciente incluem",
+  "alts": [
+   "manter a criança em isolamento padrão e de gotículas durante a internação",
+   "proceder à notificação imediata do caso à autoridade de saúde de vigilância municipal",
+   "realizar a testagem dos pais e ministrar antibióticos, no caso de serem portadores assintomáticos do vibrião",
+   "vacinar contra a cólera os pais e pessoas contactantes da criança durante o período de transmissão da doença"
+  ],
+  "gab": 1,
+  "tema": "vigilancia",
+  "sub": "Cólera: notificação e controle",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023; Portaria de Consolidação GM/MS nº 4/2017 (Lista Nacional de Notificação Compulsória)",
+  "coment": "Cólera é doença de notificação compulsória imediata, em até 24 horas, à vigilância municipal, por ser agravo de potencial epidêmico e de interesse internacional, como estabelecem a Lista Nacional de Notificação Compulsória e o Guia de Vigilância em Saúde (2023). A notificação desencadeia investigação, busca de contatos sintomáticos e ações sobre água e alimentos. A transmissão é fecal-oral: o isolamento indicado é de contato, não de gotículas. Quimioprofilaxia em massa e testagem de assintomáticos não são recomendadas, e a vacina não faz parte das ações de controle no Brasil.",
+  "porAlt": [
+   "A cólera se transmite por via fecal-oral; as precauções são padrão e de contato, não de gotículas.",
+   "Correta: cólera é agravo de notificação compulsória imediata à vigilância municipal.",
+   "Testar e tratar contatos assintomáticos não é recomendado; só contatos sintomáticos são avaliados e tratados.",
+   "A vacina contra cólera não é usada como medida de controle de contatos no Brasil."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0487",
+  "q": "Um homem de 65 anos, natural da Bahia, procedente da zona rural, é encaminhado ao ambulatório de gastroenterologia de um hospital escola devido a quadro de disfagia progressiva desenvolvido há 1 ano. O quadro piorou há 2 meses. O paciente passou a apresentar vômitos frequentes com restos alimentares, sem sangue. Nesse período, ele perdeu cerca de 12% de seu peso corporal. A partir dessas informações, é correto afirmar que a investigação complementar inicial, considerando a etiologia mais provável desse quadro, deve incluir",
+  "alts": [
+   "radiografia de tórax",
+   "dosagem de CA 19-9",
+   "ressonância magnética de tórax",
+   "sorologia para doença de Chagas"
+  ],
+  "gab": 3,
+  "tema": "gastro",
+  "sub": "Megaesôfago chagásico",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "II Consenso Brasileiro em Doença de Chagas, 2015 (Epidemiol Serv Saúde, 2016)",
+  "coment": "Homem da zona rural da Bahia, área endêmica, com disfagia progressiva há 1 ano, regurgitação de restos alimentares e perda de peso: o quadro sugere acalasia secundária à doença de Chagas (megaesôfago chagásico), forma digestiva da fase crônica. A sorologia para Chagas (dois métodos de princípios diferentes, conforme o II Consenso Brasileiro de 2015) confirma a etiologia. A investigação também inclui endoscopia, para excluir câncer de esôfago, que é diagnóstico diferencial obrigatório com perda de peso nessa idade, e esofagograma com manometria para estadiar o megaesôfago.",
+  "porAlt": [
+   "A radiografia de tórax pode mostrar alargamento do mediastino, mas não define a etiologia.",
+   "CA 19-9 é marcador de tumores pancreatobiliares, sem papel na disfagia esofágica.",
+   "Ressonância de tórax não é exame de investigação inicial da disfagia.",
+   "Correta: em paciente de área endêmica com disfagia progressiva, a sorologia para Chagas investiga a causa mais provável."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0488",
+  "q": "Um recém-nascido (RN) a termo, afrodescendente, do sexo masculino, com 26 dias, apresenta quadro de icterícia neonatal zona III de Kramer desde o 3.º dia de vida. Seus pais negam outras queixas e afirmam que ambos são consanguíneos (primos). Encontra-se em uso de fórmula láctea com ganho ponderal adequado. Não houve intercorrências na gestação e parto. Diante dessas informações, o médico solicita outros exames. A criança, então, retorna à consulta ambulatorial com propedêutica complementar solicitada há 7 dias. Os resultados dos exames realizados podem ser verificados a seguir. A tipagem sanguínea da mãe é O+ e do recém-nascido é A-. O Coombs direto (ou teste de antiglobulina direto) apresenta resultado negativo. Exames: Hemoglobina 12 g/dL (VR 12,5 a 20,5 g/dL); Hematócrito 36% (VR 39 a 63%); VCM 80 fL (VR 86 a 124 fL); HCM 26 pg (VR 28 a 40 pg); CHCM 25 g/dL (VR 28 a 38 g/dL); Plaquetas 450.000/mm³ (VR 250.000 a 500.000/mm³); Reticulócitos 6,4% (VR 2,0 a 6,0%); Bilirrubinas totais 12,8 mg/dL (RN 3-5 dias: 10,30 mg/dL); Bilirrubinas diretas 0,8 mg/dL (RN 3-5 dias: até 0,4 mg/dL); Bilirrubinas indiretas 12,0 mg/dL; TSH 5 µU/mL (< 10 µU/mL). Considerando-se o caso clínico e os exames complementares realizados, qual é a hipótese diagnóstica mais provável?",
+  "alts": [
+   "Esferocitose hereditária",
+   "Deficiência de G6PD",
+   "Anemia falciforme",
+   "Galactosemia"
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Deficiência de G6PD no recém-nascido",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kemper AR et al. AAP Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation, 2022",
+  "coment": "Recém-nascido do sexo masculino, afrodescendente, com hiperbilirrubinemia indireta prolongada, anemia e reticulocitose (hemólise) e Coombs direto negativo: o perfil favorece deficiência de G6PD, enzimopatia ligada ao X, mais comum em meninos de ascendência africana e mediterrânea, que a AAP (2022) cita como fator de risco para hiperbilirrubinemia grave. Esferocitose costuma ter CHCM elevado e história familiar autossômica dominante, e aqui o CHCM é baixo. Anemia falciforme não se manifesta no período neonatal pela hemoglobina fetal. Galactosemia daria bilirrubina direta elevada e doença hepática.",
+  "porAlt": [
+   "Esferocitose cursa com CHCM aumentado e esferócitos, e aqui o CHCM está baixo.",
+   "Correta: menino afrodescendente com hemólise Coombs negativo e icterícia indireta sugere deficiência de G6PD, ligada ao X.",
+   "Na anemia falciforme a hemoglobina fetal protege o recém-nascido, e a hemólise só aparece após os 4 a 6 meses.",
+   "Galactosemia causa colestase com bilirrubina direta alta, hepatopatia e sepse por gram-negativos, ausentes aqui."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0489",
+  "q": "Uma primigesta de 35 anos, com idade gestacional de 12 semanas, comparece a segunda consulta no ambulatório de gestação de alto risco. Apresenta diabetes mellitus tipo 1 desde a infância e está adequadamente tratada. Em consulta anterior, queixou-se de fadiga, pele seca, queda de cabelo e obstipação. O médico realizou exame físico no qual notou a tireoide palpável, solicitou a realização de exames laboratoriais, cujos resultados mostraram TSH de 5,0 mcU/L (valor de referência [VR]: 0,3 a 4,0 mcU/L) e T4 livre de 0,6 ng/L (VR: 0,9 a 1,5 ng/L). Diante desse quadro clínico e do resultado dos exames, além de iniciar o tratamento com levotiroxina, até que se atinja a meta de tratamento o seguimento deve ser feito com dosagem mensal de",
+  "alts": [
+   "TSH e T4 livre, para reduzir o risco de feto grande para a idade gestacional",
+   "T3 livre, com a finalidade de reduzir o risco de abortamento",
+   "T4 livre, a fim de se reduzir o risco de pré-eclâmpsia",
+   "TSH, para evitar o parto prematuro"
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Hipotireoidismo na gestação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Alexander EK et al. 2017 Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum, 2017",
+  "coment": "TSH elevado com T4 livre baixo no primeiro trimestre caracteriza hipotireoidismo clínico, provavelmente autoimune (tireoidite de Hashimoto, mais frequente em quem tem diabetes tipo 1). Deve ser tratado com levotiroxina, porque se associa a abortamento, parto prematuro, pré-eclâmpsia, baixo peso e prejuízo neurocognitivo fetal. A ATA (2017) recomenda dosar TSH a cada 4 semanas até a metade da gestação e ajustar a dose para manter o TSH na metade inferior da faixa de referência do trimestre (abaixo de 2,5 mU/L). Entre as opções, só a que cita TSH com um desfecho real do hipotireoidismo está certa.",
+  "porAlt": [
+   "O hipotireoidismo associa-se a baixo peso e restrição de crescimento, não a feto grande para a idade gestacional.",
+   "T3 livre não é usado para monitorar a reposição de levotiroxina.",
+   "O parâmetro de seguimento é o TSH; T4 livre isolado não guia o ajuste da dose.",
+   "Correta: o TSH é dosado a cada 4 semanas até atingir a meta, e o tratamento reduz o risco de parto prematuro."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0490",
+  "q": "Um homem de 65 anos vai ao SAMU referindo dor lombar aguda irradiada para membro inferior direito, após queda da própria altura ocorrida há 6 horas. Ele está utilizando anti-inflamatório e analgésico via oral e apresenta retenção urinária e dor em hipogástrio. Possui histórico de dor lombar crônica e osteoartrite em coluna lombar e coxofemoral direita. Ao exame físico, apresenta dor à palpação de região púbica com massa palpável na região suprapúbica; força muscular preservada em membros inferiores e reflexos patelar e aquileu preservados bilateralmente; hipoestesia tátil em face posterior de coxa e perna direita e anestesia em região perineal bilateral. Ressonância magnética de coluna lombar mostrou alterações degenerativas de discos intervertebrais L3-L4 / L4-L5 / L5-S1, com redução de forames intervertebrais correspondentes, osteófitos posteriores em corpos vertebrais de L4, L5 e S1, além de protrusão discal volumosa centro-foraminal à direita em L4-L5, causando estenose foraminal nesse nível. Diante dessas informações, a conduta terapêutica adequada, no caso desse paciente, é realizar",
+  "alts": [
+   "descompressão cirúrgica de urgência e utilizar analgésico comum",
+   "tratamento conservador e associar o uso de analgésicos opioides",
+   "sondagem vesical de demora e usar anti-inflamatório esteroidal",
+   "tratamento conservador e manter uso de anti-inflamatório"
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Síndrome da cauda equina",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "British Association of Spine Surgeons e Society of British Neurological Surgeons. Standards of care for investigation and management of Cauda Equina Syndrome, 2018",
+  "coment": "Dor lombar irradiada com retenção urinária (globo vesical palpável) e anestesia perineal em sela, com protrusão discal volumosa na ressonância: síndrome da cauda equina. É emergência cirúrgica: a descompressão urgente, idealmente nas primeiras 48 horas e o quanto antes, melhora a chance de recuperar a função esfincteriana e sexual (BASS/SBNS 2018). Força e reflexos preservados não afastam o diagnóstico, porque o comprometimento das raízes sacrais pode vir antes do déficit motor. Sondagem alivia a retenção, mas não trata a causa, e tratamento conservador é contraindicado.",
+  "porAlt": [
+   "Correta: retenção urinária e anestesia em sela por hérnia discal exigem descompressão cirúrgica de urgência.",
+   "Tratamento conservador na cauda equina leva a perda definitiva da função esfincteriana.",
+   "A sonda alivia a retenção, mas corticoide não substitui a descompressão na síndrome da cauda equina.",
+   "Manter tratamento conservador com anti-inflamatório ignora uma emergência cirúrgica."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ },
+ {
+  "pid": "p0491",
+  "q": "Uma primigesta de 17 anos, com idade gestacional de 35 semanas, comparece a pré-natal com queixa de náuseas e relato de vômitos, em média, 4 vezes por dia. Ao exame físico, é identificado que a altura do fundo uterino está 3 cm menor que o esperado para a idade gestacional. O médico orienta exame de ecografia obstétrica devido à suspeita de restrição de crescimento fetal. Considerando-se os parâmetros ecográficos que podem ser utilizados para avaliar essa condição, assinale a alternativa correta.",
+  "alts": [
+   "O diâmetro biparietal fetal é a medida isolada de maior sensibilidade para esse diagnóstico; o estudo com Doppler só será necessário se comprovada a restrição de crescimento abaixo do percentil 3",
+   "A circunferência abdominal fetal é a medida isolada de maior sensibilidade para esse diagnóstico; o estudo com Doppler permitirá avaliar a circulação materna, a circulação feto-placentária e a circulação fetal",
+   "A circunferência abdominal fetal dividida pelo comprimento do fêmur fetal é o parâmetro de maior sensibilidade para esse diagnóstico; o estudo com Doppler reduz a prematuridade iatrogênica e a mortalidade perinatal",
+   "Todos os parâmetros para mensuração do peso fetal são igualmente sensíveis para esse diagnóstico; o estudo com Doppler permitirá avaliar apenas a artéria cerebral média, a aorta abdominal, o ducto venoso e o seio venoso transverso"
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Restrição de crescimento fetal: avaliação ecográfica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ISUOG Practice Guidelines: diagnosis and management of small-for-gestational-age fetus and fetal growth restriction, 2020",
+  "coment": "A circunferência abdominal é a medida biométrica isolada mais sensível para restrição de crescimento, porque o fígado fetal, reserva de glicogênio, é o primeiro a sofrer com a insuficiência placentária; abaixo do percentil 3, ou abaixo do 10 com Doppler alterado, define restrição (consenso Delphi incorporado pela ISUOG 2020). O Doppler permite avaliar a circulação materna (artérias uterinas), feto-placentária (artéria umbilical) e fetal (artéria cerebral média e ducto venoso), separando o pequeno constitucional do feto restrito e orientando a vigilância e o momento do parto.",
+  "porAlt": [
+   "O diâmetro biparietal é pouco sensível e sofre efeito de poupança cerebral, e o Doppler é parte da avaliação desde a suspeita.",
+   "Correta: a circunferência abdominal é a medida isolada mais sensível, e o Doppler avalia as circulações materna, feto-placentária e fetal.",
+   "A razão CA/CF não é o parâmetro mais sensível, e o Doppler orienta a vigilância, mas não é descrito como redutor direto da prematuridade iatrogênica.",
+   "Os parâmetros não são igualmente sensíveis, e o Doppler avalia também artérias uterinas e umbilical, não só os vasos citados."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2024,
+   "prova": "Revalida 2024.2",
+   "ex": "rev2024_2"
+  }
+ }
+]

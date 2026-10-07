@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Primigesta de 26 anos comparece à primeira consulta de pré-natal na UBS. Tem ciclos regulares de 28 dias, não usava contraceptivo hormonal e lembra com segurança que a data da última menstruação foi 10 de março de 2026. Ainda não fez ultrassonografia. Pela regra de Naegele, qual é a data provável do parto?",
+  "alts": [
+   "10 de dezembro de 2026",
+   "3 de dezembro de 2026",
+   "17 de janeiro de 2027",
+   "17 de dezembro de 2026",
+   "24 de dezembro de 2026"
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Regra de Naegele",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 32: Atenção ao pré-natal de baixo risco, 2012",
+  "coment": "A regra de Naegele estima a data provável do parto somando 7 dias ao primeiro dia da última menstruação e subtraindo 3 meses (ou somando 9 meses quando a DUM cai entre janeiro e março). Com DUM em 10/03/2026: 10 + 7 = 17; março menos 3 meses = dezembro; resultado 17/12/2026, cerca de 280 dias após a DUM. A regra pressupõe ciclo regular de 28 dias; em ciclos irregulares ou DUM incerta, a ultrassonografia do primeiro trimestre define a idade gestacional (Caderno de Atenção Básica 32, 2012).",
+  "porAlt": [
+   "Esquece de somar os 7 dias ao dia da DUM e apenas recua 3 meses.",
+   "Subtrai 7 dias em vez de somar, erro comum na aplicação da regra.",
+   "Soma 7 dias mas subtrai apenas 2 meses, deslocando o parto em um mês.",
+   "Correta: soma 7 dias ao dia da DUM (17) e subtrai 3 meses (dezembro), com ajuste do ano.",
+   "Soma 14 dias, confundindo a regra com o intervalo até a ovulação."
+  ]
+ },
+ {
+  "q": "Gestante de 30 anos, DUM conhecida e ciclos regulares, que pela DUM estaria com 10 semanas e 0 dia. A ultrassonografia transvaginal mostra embrião único com batimentos cardíacos e comprimento cabeça-nádega compatível com 8 semanas e 5 dias. Como deve ser definida a idade gestacional dessa gestação?",
+  "alts": [
+   "Manter a DUM, pois a diferença é menor que 14 dias nessa fase",
+   "Manter a DUM e repetir o exame em 2 semanas para confirmar",
+   "Redatar pela ultrassonografia, pois a diferença supera 7 dias",
+   "Usar a média entre a DUM e a ultrassonografia para o cálculo",
+   "Redatar só se a ultrassonografia morfológica do 2º trimestre confirmar"
+  ],
+  "gab": 2,
+  "tema": "obstetricia",
+  "sub": "Datação pelo CCN",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ACOG Committee Opinion nº 700: Methods for Estimating the Due Date, 2017",
+  "coment": "O comprimento cabeça-nádega no primeiro trimestre é a medida mais precisa para datar a gestação (erro de cerca de 5 a 7 dias). Pela ACOG (2017), quando a ultrassonografia entre 9 0/7 e 13 6/7 semanas difere da DUM em mais de 7 dias, a gestação deve ser redatada pelo exame. Aqui a diferença é de 9 dias (10s0d contra 8s5d). Abaixo de 9 semanas, o corte é de 5 dias; entre 16 e 21 6/7 semanas, de 10 dias. Uma vez definida, a data não deve ser alterada por exames posteriores.",
+  "porAlt": [
+   "O limite de 14 dias vale entre 16 e 21 semanas e 6 dias, não no 1º trimestre.",
+   "Repetir o exame atrasa a datação; o CCN do 1º trimestre já é o método mais preciso.",
+   "Correta: entre 9 e 13 semanas e 6 dias, discrepância maior que 7 dias pelo CCN obriga a redatar.",
+   "Não se faz média: escolhe-se uma referência, e a do CCN prevalece quando discrepante.",
+   "A biometria do 2º trimestre é menos precisa que o CCN e não serve para confirmar a datação."
+  ]
+ },
+ {
+  "q": "A Portaria GM/MS nº 5.350/2024 instituiu a Rede Alyne, que reestruturou a antiga Rede Cegonha com foco na redução da mortalidade materna. Segundo o componente pré-natal dessa norma, quais são a captação e o número mínimo de consultas previstos para a gestante acompanhada na UBS?",
+  "alts": [
+   "Captação até 16 semanas e no mínimo 6 consultas",
+   "Captação até 12 semanas e no mínimo 6 consultas",
+   "Captação até 20 semanas e no mínimo 7 consultas",
+   "Captação até 12 semanas e no mínimo 7 consultas",
+   "Captação até 14 semanas e no mínimo 8 consultas"
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Rede Alyne: pré-natal",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria GM/MS nº 5.350 (Rede Alyne), 2024",
+  "coment": "A Rede Alyne (Portaria GM/MS 5.350, de 12/09/2024) organiza a atenção materna e infantil em componentes; no pré-natal prevê captação oportuna da gestante até a 12ª semana e no mínimo sete consultas alternadas entre enfermeiro e médico na UBS, com acesso oportuno aos exames de risco habitual e alto risco e vinculação ao Ambulatório de Gestação e Puerpério de Alto Risco quando indicado. O mínimo anterior, herdado do PHPN e da Rede Cegonha, era de seis consultas.",
+  "porAlt": [
+   "Combina prazo de captação tardio com o mínimo antigo de 6 consultas.",
+   "Mantém o mínimo de 6 consultas do modelo anterior, superado pela Rede Alyne.",
+   "Captação até 20 semanas é tardia e perde exames e intervenções do 1º trimestre.",
+   "Correta: a norma fixa captação oportuna até 12 semanas e pelo menos 7 consultas alternadas entre médico e enfermeiro.",
+   "Prazo e número não correspondem ao texto da portaria de 2024."
+  ]
+ },
+ {
+  "q": "Gestante de 24 anos, 28 semanas, risco habitual, traz exames da primeira consulta: tipagem O positivo, glicemia de jejum 82 mg/dL, toxoplasmose IgG reagente e IgM não reagente, anti-HIV não reagente, teste treponêmico não reagente, HBsAg não reagente e anti-HCV não reagente. Fez TOTG com 25 semanas, normal. Quais exames devem ser repetidos nesta etapa do pré-natal?",
+  "alts": [
+   "Sorologia para toxoplasmose e Coombs indireto",
+   "Testagem para sífilis e para HIV",
+   "Tipagem ABO-Rh e sorologia para toxoplasmose",
+   "Coombs indireto e novo TOTG com 75 g",
+   "Anti-HCV e nova glicemia de jejum com TOTG"
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Exames do 3º trimestre",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2022",
+  "coment": "O PCDT de Transmissão Vertical (MS, 2022) orienta testar HIV e sífilis na primeira consulta, no início do 3º trimestre (por volta de 28 semanas) e na admissão para o parto, porque a infecção pode ser adquirida durante a gestação. Toxoplasmose só é repetida em gestante suscetível (IgG não reagente); com IgG reagente e IgM negativa no 1º trimestre, a gestante é considerada imune. Coombs indireto é seguimento de gestante Rh negativo. O rastreio de DMG termina com TOTG normal entre 24 e 28 semanas.",
+  "porAlt": [
+   "IgG reagente indica imunidade, e Coombs indireto só se aplica a gestante Rh negativo.",
+   "Correta: sífilis e HIV são retestados no 3º trimestre e no parto, mesmo com resultado inicial negativo.",
+   "Tipagem não muda; toxoplasmose não se repete em gestante já imune.",
+   "Coombs indireto não cabe em Rh positivo, e o TOTG normal com 25 semanas não se repete.",
+   "Anti-HCV é feito uma vez no pré-natal; o TOTG normal já encerrou o rastreio de DMG."
+  ]
+ },
+ {
+  "q": "Gestante de 22 anos, 9 semanas, primeira consulta na UBS, sem queixas e sem comorbidades. Hemoglobina de 12,1 g/dL. Não usou nenhum suplemento antes de engravidar. Segundo o Programa Nacional de Suplementação de Ferro do Ministério da Saúde, qual é a prescrição profilática adequada?",
+  "alts": [
+   "Ferro elementar 120 mg e ácido fólico 5 mg ao dia até 20 semanas",
+   "Ferro elementar 40 mg e ácido fólico 400 µg ao dia até o fim da gestação",
+   "Ácido fólico 400 µg ao dia isolado, sem ferro, já que a hemoglobina está normal",
+   "Ferro elementar 40 mg ao dia a partir de 20 semanas, sem ácido fólico",
+   "Ferro elementar 200 mg e ácido fólico 400 µg ao dia, do início até o parto"
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Ferro e ácido fólico profiláticos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno dos Programas Nacionais de Suplementação de Micronutrientes, 2022",
+  "coment": "O Programa Nacional de Suplementação de Ferro (MS, 2022) recomenda a toda gestante 40 mg de ferro elementar e 400 µg de ácido fólico por dia, do início do pré-natal até o fim da gestação, e ferro isolado no pós-parto e pós-aborto até o 3º mês. O ácido fólico reduz defeitos do tubo neural e o ideal é iniciá-lo pelo menos 30 dias antes da concepção. Hemoglobina abaixo de 11 g/dL caracteriza anemia na gestação e muda a conduta para dose terapêutica.",
+  "porAlt": [
+   "120 mg de ferro é dose de tratamento de anemia, e o folato não é suspenso com 20 semanas.",
+   "Correta: o programa prevê 40 mg de ferro elementar e 400 µg de ácido fólico diários desde o início do pré-natal até o parto.",
+   "A profilaxia de ferro é universal na gestação, mesmo com hemoglobina normal.",
+   "Iniciar só com 20 semanas perde o 1º trimestre, e o ácido fólico faz parte do esquema.",
+   "200 mg de ferro elementar ao dia é dose excessiva para profilaxia e piora a adesão."
+  ]
+ },
+ {
+  "q": "Gestante de 19 anos, 20 semanas, normotensa, refere que quase não consome leite e derivados por questões financeiras. Já usa sulfato ferroso e ácido fólico. Segundo a recomendação da OMS para populações com baixa ingestão de cálcio, como deve ser feita a suplementação de cálcio?",
+  "alts": [
+   "1,5 a 2 g de cálcio elementar ao dia, fracionado e longe do ferro",
+   "500 mg de cálcio elementar ao dia, tomado junto ao sulfato ferroso",
+   "1,5 a 2 g de cálcio elementar ao dia, iniciado só a partir de 34 semanas",
+   "Cálcio só no puerpério, para repor perdas da lactação",
+   "4 g de cálcio elementar ao dia em dose única noturna"
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Suplementação de cálcio",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "OMS. WHO recommendation: Calcium supplementation during pregnancy for the prevention of pre-eclampsia and its complications, 2018",
+  "coment": "A OMS (2018) recomenda, em populações com baixa ingestão dietética de cálcio, suplementar 1,5 a 2,0 g de cálcio elementar por dia na gestação, para reduzir o risco de pré-eclâmpsia e suas complicações. A dose diária é fracionada (em geral três tomadas) e afastada do sulfato ferroso, porque os dois competem na absorção intestinal. A suplementação segue até o parto. Em gestantes com alto risco de pré-eclâmpsia, o cálcio se soma ao AAS em baixa dose.",
+  "porAlt": [
+   "Correta: a OMS indica 1,5 a 2 g diários de cálcio elementar, em doses divididas e separadas do ferro, até o parto.",
+   "A dose é baixa para o efeito protetor, e tomar com ferro reduz a absorção de ambos.",
+   "Começar só com 34 semanas perde o período em que a suplementação previne pré-eclâmpsia.",
+   "O objetivo é prevenir pré-eclâmpsia na gestação, não repor perdas da lactação.",
+   "A dose excede a recomendada e a tomada única piora a tolerância."
+  ]
+ },
+ {
+  "q": "Gestante de 31 anos, segunda gestação, 22 semanas. Tem esquema completo de dT na infância e recebeu dTpa na gestação anterior, há 2 anos. O filho anterior está bem. Qual é a conduta em relação à vacina contra coqueluche nesta gestação?",
+  "alts": [
+   "Aplicar uma dose de dTpa já nesta gestação",
+   "Não vacinar, pois a dose de 2 anos atrás ainda protege",
+   "Aplicar dT agora e dTpa só no puerpério",
+   "Aguardar 36 semanas para aplicar a dTpa",
+   "Aplicar dTpa só se a última dT tiver mais de 10 anos"
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "dTpa na gestação",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Calendário Nacional de Vacinação da gestante (PNI), 2025",
+  "coment": "O PNI recomenda uma dose de dTpa em cada gestação, a partir da 20ª semana, inclusive em quem foi vacinada em gestação anterior ou tem esquema completo de dT. O objetivo é a transferência transplacentária de anticorpos contra coqueluche, que protege o lactente antes de completar o próprio esquema. Gestante que não recebeu a dose na gravidez deve tomá-la no puerpério, até 45 dias após o parto. Esquema de dT incompleto é completado com dT, mantendo uma das doses como dTpa.",
+  "porAlt": [
+   "Correta: a dTpa é dada em toda gestação a partir de 20 semanas, independentemente de doses anteriores.",
+   "Os anticorpos caem rápido; a dose em cada gestação garante transferência ao recém-nascido.",
+   "Adiar para o puerpério perde a proteção passiva do bebê nos primeiros meses.",
+   "Não há motivo para esperar; a dose é indicada a partir de 20 semanas.",
+   "A dTpa gestacional não depende do intervalo desde a última dT."
+  ]
+ },
+ {
+  "q": "Gestante de 27 anos, 24 semanas, risco habitual, pergunta na UBS sobre a vacina contra o vírus sincicial respiratório oferecida pelo SUS desde o fim de 2025 para proteger o recém-nascido contra bronquiolite. Qual orientação está de acordo com a recomendação do Ministério da Saúde?",
+  "alts": [
+   "Dose única agora, pois a janela vai de 20 a 28 semanas",
+   "Duas doses com intervalo de 4 semanas, a partir de 24 semanas",
+   "Vacinar só no puerpério, junto com a BCG do bebê",
+   "Dose única só a partir de 36 semanas, perto do termo",
+   "Dose única a partir de 28 semanas, em cada gestação"
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Vacina contra VSR na gestante",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Nota técnica de incorporação da vacina VSR para gestantes no SUS, 2025",
+  "coment": "Desde dezembro de 2025 o SUS oferece a vacina contra o VSR a gestantes, em dose única a partir da 28ª semana, sem restrição de idade materna, uma dose por gestação. A proteção do lactente nos primeiros meses depende dos anticorpos maternos transferidos pela placenta, por isso a vacina é aplicada no 3º trimestre, idealmente com pelo menos 14 dias antes do parto. Pode ser aplicada no mesmo dia que dTpa, influenza, hepatite B ou covid-19.",
+  "porAlt": [
+   "A janela começa em 28 semanas; aplicar com 24 semanas está fora da indicação.",
+   "O esquema é de dose única, não de duas doses.",
+   "Vacinar a mãe após o parto não transfere anticorpos ao bebê pela placenta.",
+   "Esperar 36 semanas reduz o tempo para transferência de anticorpos antes do parto.",
+   "Correta: o SUS indica dose única a partir de 28 semanas, repetida a cada nova gestação."
+  ]
+ },
+ {
+  "q": "Gestante de 35 anos, 14 semanas, não tem comprovante de vacinação contra hepatite B e não lembra se foi vacinada. Trabalha como técnica de enfermagem e não tem alergias conhecidas. HBsAg e anti-HCV não reagentes. Qual é a conduta adequada para a hepatite B?",
+  "alts": [
+   "Iniciar esquema de 3 doses já, em qualquer idade gestacional",
+   "Adiar a vacina para o puerpério, por ser vírus atenuado",
+   "Aplicar dose única e dispensar as demais na gestação",
+   "Pedir anti-HBs e vacinar só se o título for menor que 10",
+   "Aplicar imunoglobulina anti-hepatite B no lugar da vacina"
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Hepatite B na gestante",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Calendário Nacional de Vacinação da gestante (PNI), 2025",
+  "coment": "A vacina contra hepatite B é de antígeno recombinante e pode ser aplicada em qualquer idade gestacional. O PNI orienta que gestante sem comprovação vacinal receba três doses (0, 1 e 6 meses), completando no puerpério as que faltarem; quem tem esquema incompleto apenas completa as doses. Vacinas de vírus vivo atenuado, como tríplice viral e varicela, é que são contraindicadas na gestação. A imunoglobulina anti-hepatite B é reservada para exposição de risco e para o recém-nascido de mãe HBsAg reagente.",
+  "porAlt": [
+   "Correta: a vacina é recombinante, segura em qualquer trimestre, e sem comprovação o esquema de 3 doses é iniciado.",
+   "A vacina contra hepatite B não é de vírus atenuado e não precisa ser adiada.",
+   "Uma dose isolada não confere proteção adequada; o esquema tem 3 doses.",
+   "Sem comprovante, considera-se não vacinada; a sorologia pré-vacinal não é exigida.",
+   "Imunoglobulina é para exposição de risco ou recém-nascido de mãe HBsAg reagente."
+  ]
+ },
+ {
+  "q": "Mulher de 28 anos, atraso menstrual de 14 semanas, náuseas matinais e mastalgia, sem exames. No exame, nota-se coloração violácea da mucosa vaginal, útero amolecido no istmo e aumentado de volume, com pulsação perceptível nos fundos de saco vaginais. Qual achado clínico, se presente, confirma a gravidez?",
+  "alts": [
+   "Amolecimento do istmo uterino ao toque bimanual",
+   "Ausculta dos batimentos cardíacos fetais",
+   "Coloração violácea da vulva e da mucosa vaginal",
+   "Pulsação das artérias vaginais nos fundos de saco",
+   "Aumento do volume uterino com amolecimento do colo"
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Sinais de certeza da gravidez",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 32: Atenção ao pré-natal de baixo risco, 2012",
+  "coment": "Os sinais clínicos da gravidez são divididos em presunção (atraso menstrual, náuseas, mastalgia), probabilidade (Hegar, Goodell, Osiander, Jacquemier ou Chadwick, aumento uterino, beta-hCG positivo) e certeza. Só os sinais fetais confirmam a gestação: batimentos cardíacos fetais pelo sonar Doppler (a partir de cerca de 10 a 12 semanas) e movimentos fetais percebidos pelo examinador. Na prática, a confirmação é laboratorial pelo beta-hCG, e a ultrassonografia documenta localização, vitalidade e idade gestacional.",
+  "porAlt": [
+   "Sinal de Hegar, que é de probabilidade e não confirma a gestação.",
+   "Correta: BCF e movimentos fetais percebidos pelo examinador são sinais de certeza.",
+   "Sinal de Jacquemier ou Chadwick, apenas de probabilidade.",
+   "Sinal de Osiander, também de probabilidade, presente em outras congestões pélvicas.",
+   "Aumento e amolecimento uterino ocorrem em miomas e outras causas, sem certeza."
+  ]
+ },
+ {
+  "q": "Gestante de 25 anos, 32 semanas, idade gestacional confirmada por ultrassonografia de 11 semanas. Tabagista de 10 cigarros por dia. A altura uterina medida hoje ficou abaixo do percentil 10 da curva da caderneta, e na consulta anterior estava no percentil 25. BCF de 140 bpm, PA 110/70 mmHg. Qual é a conduta mais adequada?",
+  "alts": [
+   "Solicitar ultrassonografia para avaliar crescimento e líquido amniótico",
+   "Corrigir a idade gestacional pela altura uterina de hoje",
+   "Repetir a medida em 4 semanas antes de solicitar qualquer exame complementar",
+   "Indicar interrupção imediata da gestação por restrição de crescimento fetal",
+   "Reforçar a dieta hipercalórica e remedir em 2 semanas"
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Altura uterina abaixo do esperado",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 32: Atenção ao pré-natal de baixo risco, 2012",
+  "coment": "Pelo Caderno 32 (MS, 2012), a altura uterina é registrada na curva da caderneta e, quando fica abaixo do percentil 10 com idade gestacional confiável, deve-se pensar em restrição de crescimento fetal ou oligoâmnio e solicitar ultrassonografia com biometria e avaliação do líquido. A queda de percentil entre consultas reforça a suspeita, e o tabagismo é fator de risco para insuficiência placentária. A data definida pelo 1º trimestre não é alterada; confirmada a restrição, o seguimento inclui Doppler.",
+  "porAlt": [
+   "Correta: AU abaixo do p10 com IG confiável sugere restrição de crescimento ou oligoâmnio e pede ultrassonografia.",
+   "A datação pelo 1º trimestre é definitiva; a AU não serve para redatar.",
+   "Esperar 4 semanas atrasa o diagnóstico de restrição de crescimento.",
+   "Não há diagnóstico confirmado de RCF nem critério de interrupção ainda.",
+   "Dieta não trata restrição de origem placentária e adia a investigação."
+  ]
+ },
+ {
+  "q": "Parto vaginal em apresentação cefálica, variedade occipitopúbica, após rotação interna a partir de occipitoesquerda anterior. A cabeça acaba de se desprender por deflexão. Em seguida, sem manobra do obstetra, o occipício volta-se espontaneamente para o lado esquerdo materno. A que tempo do mecanismo de parto corresponde esse movimento?",
+  "alts": [
+   "Rotação interna das espáduas sem giro cefálico",
+   "Desprendimento das espáduas pela deflexão",
+   "Insinuação das espáduas sem nenhum giro",
+   "Flexão final da cabeça após o desprendimento",
+   "Rotação externa ou restituição da cabeça"
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Mecanismo do parto",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Parto, aborto e puerpério: assistência humanizada à mulher, 2001",
+  "coment": "Os tempos do mecanismo de parto na apresentação cefálica fletida são insinuação, descida, rotação interna, desprendimento cefálico por deflexão, rotação externa e desprendimento das espáduas. Na rotação externa (restituição), o occipício volta para o lado em que estava antes da rotação interna, aqui o esquerdo materno, porque o diâmetro biacromial roda internamente para o anteroposterior do estreito inferior. Em seguida, desprende-se o ombro anterior sob o pube e depois o posterior.",
+  "porAlt": [
+   "Os ombros rodam internamente, mas o movimento visível da cabeça é a rotação externa.",
+   "O desprendimento das espáduas ocorre depois, com o ombro anterior sob o pube.",
+   "As espáduas se insinuam durante a descida, e isso se reflete no giro externo da cabeça.",
+   "Depois de desprendida, a cabeça não volta a fletir; o movimento é de rotação.",
+   "Correta: é a restituição: a cabeça gira de volta para o lado de origem enquanto os ombros rodam por dentro."
+  ]
+ },
+ {
+  "q": "Primigesta de 22 anos, 39 semanas, em trabalho de parto, com 7 cm de dilatação, bolsa íntegra e contrações eficazes. No toque, o ponto mais baixo da apresentação cefálica está no nível das espinhas isquiáticas. Como se registra essa altura da apresentação?",
+  "alts": [
+   "Plano -3 de De Lee, equivalente ao 1º plano de Hodge",
+   "Plano 0 de De Lee, equivalente ao 3º plano de Hodge",
+   "Plano +3 de De Lee, equivalente ao 4º plano de Hodge",
+   "Plano 0 de De Lee, equivalente ao 2º plano de Hodge",
+   "Plano -1 de De Lee, equivalente ao 3º plano de Hodge"
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Planos de De Lee",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Parto, aborto e puerpério: assistência humanizada à mulher, 2001",
+  "coment": "De Lee toma as espinhas isquiáticas como referência zero e mede em centímetros acima (negativos) e abaixo (positivos) delas. Hodge traça quatro planos paralelos: o 1º passa pela borda superior do pube e promontório, o 2º pela borda inferior do pube, o 3º pelas espinhas isquiáticas e o 4º pela ponta do cóccix. Assim, o plano 0 de De Lee corresponde ao 3º de Hodge. Na apresentação cefálica fletida, o vértice no plano 0 indica em geral que o diâmetro biparietal já passou o estreito superior (insinuação).",
+  "porAlt": [
+   "Plano -3 está 3 cm acima das espinhas, perto do estreito superior.",
+   "Correta: as espinhas isquiáticas definem o plano 0 de De Lee, que coincide com o 3º plano de Hodge.",
+   "Plano +3 está 3 cm abaixo das espinhas, próximo ao assoalho pélvico.",
+   "O 2º plano de Hodge passa pela borda inferior do pube, acima das espinhas.",
+   "Plano -1 fica 1 cm acima das espinhas, não no nível delas."
+  ]
+ },
+ {
+  "q": "Primípara de 23 anos, sem analgesia, em dilatação completa há 1 hora e 40 minutos, com puxos espontâneos. A apresentação desceu de plano 0 para +2 nesse período. Contrações de 4 em 10 minutos, BCF de 136 bpm sem desacelerações, sem sangramento anormal. Qual é a conduta adequada?",
+  "alts": [
+   "Manter a observação e os puxos espontâneos",
+   "Indicar fórceps por período expulsivo prolongado",
+   "Fazer pressão no fundo uterino para abreviar o parto",
+   "Indicar cesárea por parada de progressão da descida",
+   "Orientar puxos dirigidos com Valsalva prolongada"
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Duração do período expulsivo",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "OMS. WHO recommendations: intrapartum care for a positive childbirth experience, 2018",
+  "coment": "A OMS (2018) descreve que o segundo período costuma terminar em até 3 horas na primípara e em até 2 horas na multípara, e recomenda que a mulher siga os próprios puxos, em posição de sua escolha, sem pressão no fundo uterino. Com descida progressiva, contrações eficazes e frequência cardíaca fetal normal, a conduta é expectante. Parto instrumental ou cesárea dependem de parada de progressão, alteração da vitalidade ou exaustão materna, e não de um tempo isolado.",
+  "porAlt": [
+   "Correta: há descida progressiva e boa vitalidade, dentro do tempo esperado para primípara.",
+   "Não há período prolongado nem indicação materna ou fetal para parto instrumental.",
+   "A manobra de Kristeller não é recomendada pela OMS e traz risco materno e fetal.",
+   "A apresentação desceu dois planos; não há parada de progressão.",
+   "A OMS orienta puxos espontâneos, guiados pela vontade da mulher."
+  ]
+ },
+ {
+  "q": "Primigesta de 27 anos, 39 semanas, admitida com 5 cm de dilatação e contrações regulares. Após 5 horas, está com 8 cm, bolsa íntegra, contrações de 3 a 4 em 10 minutos, BCF normal e boa condição materna. A equipe observa que a dilatação avançou menos de 1 cm por hora. Segundo a OMS, qual conduta é adequada?",
+  "alts": [
+   "Manter acompanhamento sem intervir apenas pela dilatação lenta",
+   "Iniciar ocitocina por dilatação menor que 1 cm por hora",
+   "Realizar amniotomia de rotina para acelerar a dilatação",
+   "Indicar cesárea por cruzamento da linha de ação",
+   "Restringir a dieta e manter a parturiente em decúbito dorsal"
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Ritmo de dilatação na fase ativa",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "OMS. WHO recommendations: intrapartum care for a positive childbirth experience, 2018",
+  "coment": "A OMS (2018) define a fase ativa a partir de 5 cm e observa que ela em geral não ultrapassa 12 horas na primeira gestação e 10 horas nas seguintes. A velocidade de 1 cm por hora não deve ser usada isoladamente como critério de progressão anormal, porque muitas mulheres dilatam mais devagar e têm parto vaginal sem complicações. Com evolução contínua e condição materno-fetal boa, a conduta é manter o acompanhamento, sem ocitocina ou amniotomia de rotina. O Guia de Cuidados no Trabalho de Parto (2020) aplica esse princípio.",
+  "porAlt": [
+   "Correta: a OMS não recomenda usar o limiar de 1 cm por hora, isoladamente, para indicar intervenção.",
+   "A OMS desaconselha ocitocina para prevenir ou tratar só a dilatação abaixo de 1 cm por hora.",
+   "Amniotomia de rotina, isolada ou com ocitocina, não é recomendada para acelerar o parto.",
+   "Com progresso contínuo e boa vitalidade, não há distócia que justifique cesárea.",
+   "Líquidos e alimentos leves e a livre posição são incentivados em risco habitual."
+  ]
+ },
+ {
+  "q": "Secundigesta, 40 semanas, peso fetal estimado de 4.200 g. No partograma, a dilatação estava em 7 cm e permaneceu em 7 cm em dois toques com 2 horas de intervalo, com bolsa rota, contrações de 4 a 5 em 10 minutos e bossa serossanguínea crescente. Qual é o diagnóstico e a causa mais provável?",
+  "alts": [
+   "Fase ativa prolongada por hipoatividade uterina ainda não corrigida",
+   "Período pélvico prolongado por analgesia peridural",
+   "Parada secundária da dilatação por desproporção cefalopélvica",
+   "Parada secundária da descida por distócia de rotação da cabeça",
+   "Parto taquitócico por hiperatividade uterina"
+  ],
+  "gab": 2,
+  "tema": "obstetricia",
+  "sub": "Parada secundária da dilatação",
+  "cenario": "cc",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Parto, aborto e puerpério: assistência humanizada à mulher, 2001",
+  "coment": "No partograma clássico, a parada secundária da dilatação é caracterizada por dois toques sucessivos, com intervalo de 2 horas ou mais, sem mudança da dilatação, com a mulher em fase ativa. Com contrações eficazes e bolsa rota, a causa mais associada é a desproporção cefalopélvica, sugerida aqui pelo feto macrossômico e pela bossa crescente. Afastada a hipoatividade, a conduta é a cesárea. A fase ativa prolongada, ao contrário, mostra dilatação lenta, em geral por contratilidade deficiente.",
+  "porAlt": [
+   "Na fase ativa prolongada a dilatação ainda progride, só que devagar, e as contrações são fracas.",
+   "Período pélvico ocorre após dilatação completa, o que não é o caso.",
+   "Correta: dilatação igual em dois toques com 2 h e boa contratilidade aponta desproporção cefalopélvica.",
+   "A parada é da dilatação, e não da descida no período expulsivo.",
+   "Parto precipitado tem dilatação rápida, o oposto do quadro descrito."
+  ]
+ },
+ {
+  "q": "Primigesta de 21 anos, 40 semanas, admitida com 5 cm. No partograma, a dilatação progride de modo lento e contínuo, cruzando a linha de alerta: 6 cm após 2 horas e 7 cm após mais 2 horas. Contrações de 2 em 10 minutos, de curta duração. Bolsa íntegra, BCF normal, feto de peso adequado. Qual é a conduta indicada?",
+  "alts": [
+   "Cesárea imediata por desproporção cefalopélvica",
+   "Fórceps de alívio para abreviar o primeiro período",
+   "Amniotomia e ocitocina para corrigir a contratilidade",
+   "Uterolítico para reduzir a frequência das contrações",
+   "Observação sem intervenção, pois as contrações estão adequadas"
+  ],
+  "gab": 2,
+  "tema": "obstetricia",
+  "sub": "Fase ativa prolongada",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Parto, aborto e puerpério: assistência humanizada à mulher, 2001",
+  "coment": "A fase ativa prolongada é a dilatação lenta que cruza a linha de alerta do partograma, com progressão menor que a esperada mas sem parada. A causa habitual é a contratilidade uterina deficiente, e a correção é feita com amniotomia e ocitocina, em geral com boa resposta. Já a parada secundária da dilatação, com contrações eficazes, sugere desproporção cefalopélvica. A OMS (2018) desaconselha intervir apenas pelo ritmo de 1 cm por hora quando as contrações são eficazes e o progresso é contínuo; aqui a hipoatividade documentada justifica a correção.",
+  "porAlt": [
+   "Não há parada da dilatação nem sinais de desproporção que indiquem cesárea.",
+   "Fórceps só é aplicado com dilatação completa, no período expulsivo.",
+   "Correta: dilatação lenta com contrações fracas sugere hipoatividade, corrigida com amniotomia e ocitocina.",
+   "As contrações já estão fracas; uterolítico pioraria a distócia.",
+   "Duas contrações em 10 minutos, curtas, não são atividade uterina adequada."
+  ]
+ },
+ {
+  "q": "Gestante de 30 anos, 41 semanas e 1 dia, feto cefálico, sem cicatriz uterina, indicação de indução por pós-datismo. Toque: colo com 2 cm de dilatação, apagado 50%, apresentação no plano -1, colo amolecido e centralizado. Qual é o índice de Bishop e a conduta mais adequada?",
+  "alts": [
+   "Bishop 5, preparo do colo com misoprostol",
+   "Bishop 8, preparo do colo com misoprostol",
+   "Bishop 8, indução direta com ocitocina",
+   "Bishop 6, preparo do colo com sonda de Foley",
+   "Bishop 10, cesárea por colo desfavorável"
+  ],
+  "gab": 2,
+  "tema": "obstetricia",
+  "sub": "Índice de Bishop",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "OMS. WHO recommendations for induction of labour, 2011",
+  "coment": "O índice de Bishop pontua dilatação (1 a 2 cm = 1), apagamento (40 a 50% = 1), altura da apresentação (-1 ou 0 = 2), consistência (amolecido = 2) e posição (centralizado ou anterior = 2), somando 8 neste caso. Bishop maior que 6 indica colo favorável, e a indução pode começar diretamente com ocitocina, com ou sem amniotomia. Com Bishop de 6 ou menos, faz-se antes o preparo cervical com misoprostol ou sonda de Foley. A OMS recomenda induzir a partir de 41 semanas completas.",
+  "porAlt": [
+   "A soma correta é 8, e colo favorável dispensa preparo cervical.",
+   "Com Bishop acima de 6 o colo é favorável e não precisa de prostaglandina.",
+   "Correta: 1 (2 cm) + 1 (50%) + 2 (plano -1) + 2 (amolecido) + 2 (centralizado) = 8, colo favorável.",
+   "A soma está errada, e o colo maduro não exige método mecânico.",
+   "A pontuação está errada e colo favorável não indica cesárea."
+  ]
+ },
+ {
+  "q": "Gestante de 33 anos, 41 semanas e 2 dias, uma cesárea anterior segmentar transversa há 3 anos, deseja tentar parto vaginal. Feto cefálico, peso estimado de 3.300 g, BCF normal. Toque: colo grosso, posterior, 1 cm, plano -3. Bishop 2. Qual método é adequado para preparar o colo?",
+  "alts": [
+   "Sonda de Foley intracervical",
+   "Misoprostol 25 µg via vaginal a cada 6 horas",
+   "Misoprostol 50 µg via oral a cada 4 horas",
+   "Dinoprostona em pessário vaginal",
+   "Ocitocina em dose alta desde o início"
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Indução com cesárea anterior",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "OMS. WHO recommendations for induction of labour, 2011",
+  "coment": "Com colo desfavorável (Bishop 2) é preciso preparar o colo antes da ocitocina. Em mulheres com cesárea anterior, o misoprostol no 3º trimestre está associado a risco aumentado de rotura uterina e não deve ser usado; as prostaglandinas em geral são evitadas. A OMS (2011) aceita o cateter de Foley como alternativa eficaz para maturação cervical, e ele é o método preferido na cicatriz uterina. A tentativa de parto vaginal após uma cesárea segmentar é uma opção válida, com monitorização contínua.",
+  "porAlt": [
+   "Correta: o método mecânico prepara o colo sem o risco de rotura uterina associado às prostaglandinas.",
+   "Misoprostol no 3º trimestre com cicatriz uterina aumenta o risco de rotura.",
+   "Misoprostol por via oral mantém o risco de rotura em útero com cesárea prévia.",
+   "Prostaglandinas como a dinoprostona também elevam o risco de rotura com cicatriz.",
+   "Ocitocina com colo imaturo tem baixa eficácia, e dose alta aumenta o risco de rotura."
+  ]
+ },
+ {
+  "q": "Parto vaginal de recém-nascido a termo, vigoroso, colocado em contato pele a pele. A puérpera de 24 anos, secundigesta, teve trabalho de parto de 8 horas sem ocitocina, não tem anemia e não tem outros fatores de risco para hemorragia. Qual é a conduta recomendada para o terceiro período do parto?",
+  "alts": [
+   "Ocitocina 10 UI IM e clampeamento do cordão após pelo menos 1 minuto",
+   "Ocitocina 10 UI IV em bolus rápido e clampeamento imediato do cordão umbilical",
+   "Ergometrina 0,2 mg IM e clampeamento imediato do cordão",
+   "Ocitocina só se houver sangramento acima de 500 mL após a saída da placenta",
+   "Misoprostol 800 µg retal e tração vigorosa do cordão em 5 minutos"
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Manejo ativo do 3º período",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "OMS. WHO recommendations: uterotonics for the prevention of postpartum haemorrhage, 2018",
+  "coment": "A OMS (2018) recomenda uterotônico para todas as mulheres no terceiro período, e a ocitocina 10 UI por via IM ou IV lenta é o fármaco de escolha. O Ministério da Saúde adota a via IM logo após o nascimento. O clampeamento do cordão deve ser tardio, não antes de 1 minuto, em recém-nascido que não precisa de reanimação, o que melhora as reservas de ferro. A tração controlada do cordão é opcional quando há profissional habilitado, e a massagem uterina contínua não é recomendada após ocitocina profilática.",
+  "porAlt": [
+   "Correta: ocitocina 10 UI IM logo após o nascimento é o uterotônico de escolha, com clampeamento tardio.",
+   "Bolus IV rápido pode causar hipotensão, e o clampeamento imediato tira sangue do bebê.",
+   "Ergometrina não é primeira escolha e é contraindicada em hipertensas.",
+   "A profilaxia é universal; esperar a hemorragia perde o efeito preventivo.",
+   "Misoprostol é alternativa só sem ocitocina, e tração vigorosa pode inverter o útero."
+  ]
+ },
+ {
+  "q": "Parto vaginal com manejo ativo do terceiro período: ocitocina 10 UI IM ao nascimento e tração controlada do cordão. Após 35 minutos, a placenta não se desprendeu, sem sangramento importante, puérpera estável. Uma segunda dose de ocitocina já foi feita. Qual é a conduta adequada?",
+  "alts": [
+   "Ergometrina IV em bolus e nova espera de 60 minutos pela dequitação espontânea",
+   "Tração vigorosa do cordão associada a pressão contínua no fundo uterino",
+   "Histerectomia subtotal imediata por suspeita de acretismo placentário",
+   "Curetagem uterina imediata com cureta romba, sem analgesia",
+   "Extração manual da placenta com analgesia e antibiótico em dose única"
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Placenta retida",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "OMS. WHO recommendations for the prevention and treatment of postpartum haemorrhage, 2012",
+  "coment": "Considera-se placenta retida quando ela não é expelida em 30 minutos após o nascimento, com manejo ativo. A OMS (2012) recomenda nova dose de ocitocina com tração controlada e, sem sucesso, remoção manual da placenta, com analgesia ou anestesia e antibiótico profilático em dose única (ampicilina ou cefalosporina de 1ª geração). Ergometrina não é indicada porque contrai o colo. Se não houver plano de clivagem durante a remoção, deve-se suspeitar de acretismo e preparar a equipe para hemorragia.",
+  "porAlt": [
+   "Ergometrina pode fechar o colo e aprisionar a placenta, e a espera longa aumenta o sangramento.",
+   "Tração forçada com pressão fúndica pode romper o cordão ou inverter o útero.",
+   "Histerectomia não é a primeira medida; antes se tenta a extração manual.",
+   "A remoção é manual, não por cureta, e exige analgesia adequada.",
+   "Correta: placenta retida após 30 minutos de manejo ativo indica remoção manual, com profilaxia antibiótica."
+  ]
+ },
+ {
+  "q": "Puérpera de 26 anos, 4 meses após parto vaginal, em amamentação exclusiva dia e noite, ainda sem retorno da menstruação. Deseja saber se pode contar com a amamentação como método contraceptivo por enquanto, pois ainda não decidiu outro método. Qual é a orientação correta?",
+  "alts": [
+   "Não pode, porque o método só vale até 3 meses pós-parto",
+   "Pode, enquanto mantiver amenorreia e amamentação exclusiva até 6 meses",
+   "Pode, desde que amamente pelo menos 3 vezes ao dia, até a criança fazer 1 ano",
+   "Não pode, pois o método exige uso associado de progestágeno",
+   "Pode até a criança completar 1 ano, mesmo depois que a menstruação voltar"
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Amenorreia da lactação",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "OMS. Family planning: a global handbook for providers, 2018",
+  "coment": "O método da amenorreia lactacional tem eficácia acima de 98% quando três condições estão presentes: amenorreia, amamentação exclusiva ou quase exclusiva, de dia e de noite, e menos de 6 meses pós-parto (OMS, 2018). Se qualquer uma falhar, por retorno da menstruação, introdução de outros alimentos ou 6 meses completos, deve-se iniciar outro método. Progestágeno isolado e DIU são compatíveis com a amamentação e podem ser oferecidos desde o puerpério.",
+  "porAlt": [
+   "O prazo do método é de 6 meses, não de 3.",
+   "Correta: os três critérios (amenorreia, amamentação exclusiva e menos de 6 meses) estão presentes.",
+   "Amamentação não exclusiva reduz a eficácia, e o limite é 6 meses.",
+   "O método funciona sozinho se cumpridos os critérios, sem progestágeno.",
+   "Retorno da menstruação ou 6 meses completos encerram o método."
+  ]
+ },
+ {
+  "q": "Puérpera de 30 anos, 3 semanas após o parto, refere febre de 38,6 °C, mal-estar e dor na mama direita há 1 dia. Há área quente, avermelhada e endurecida no quadrante superior externo, sem flutuação. O bebê mama bem. Qual é a conduta adequada?",
+  "alts": [
+   "Suspender a amamentação na mama afetada até o fim do antibiótico",
+   "Suspender a lactação com cabergolina e iniciar antibiótico",
+   "Manter a amamentação, esvaziar a mama e iniciar antibiótico",
+   "Drenagem cirúrgica imediata e suspensão da amamentação",
+   "Compressas frias e analgésico, sem antibiótico nem retorno"
+  ],
+  "gab": 2,
+  "tema": "obstetricia",
+  "sub": "Mastite lactacional",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 23: Saúde da criança: aleitamento materno e alimentação complementar, 2015",
+  "coment": "A mastite lactacional resulta de estase láctea, às vezes com infecção, em geral por Staphylococcus aureus. O MS (Caderno 23, 2015) orienta manter a amamentação, inclusive na mama afetada, com esvaziamento completo, repouso, analgesia e antibiótico quando há sinais sistêmicos ou falta de melhora em 12 a 24 horas, como cefalexina por 10 dias. A suspensão da amamentação aumenta o risco de abscesso. Flutuação ou massa persistente sugere abscesso e exige ultrassonografia e drenagem.",
+  "porAlt": [
+   "Interromper a mamada piora a estase láctea e favorece o abscesso.",
+   "Mastite não é motivo para suspender a lactação.",
+   "Correta: o esvaziamento eficaz da mama é parte do tratamento, e o leite não faz mal ao bebê.",
+   "Sem flutuação não há abscesso a drenar, e a amamentação deve continuar.",
+   "Febre com sinais inflamatórios há mais de 24 h pede antibiótico e reavaliação."
+  ]
+ },
+ {
+  "q": "Parturiente com 7 cm, em uso de ocitocina. A cardiotocografia mostra linha de base de 150 bpm, variabilidade ausente e desacelerações recorrentes de início, nadir e recuperação após o pico de cada contração. Contrações de 5 em 10 minutos. Qual é a interpretação e a conduta?",
+  "alts": [
+   "Desacelerações precoces por compressão cefálica: observar",
+   "Traçado categoria I: manter ocitocina e repetir CTG em 1 hora",
+   "Desacelerações variáveis por compressão funicular: amnioinfusão",
+   "Traçado categoria II: aumentar ocitocina para abreviar o parto",
+   "Traçado categoria III: parar ocitocina, reanimar e antecipar o parto"
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Desacelerações tardias",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin nº 106: Intrapartum fetal heart rate monitoring, 2009",
+  "coment": "Desacelerações tardias têm queda gradual com nadir após o pico da contração e refletem insuficiência uteroplacentária. Quando recorrentes e associadas a variabilidade ausente, o traçado é categoria III (ACOG, 2009), que indica risco de acidemia fetal. A conduta é suspender a ocitocina, corrigir a taquissistolia (mais de 5 contrações em 10 minutos), posicionar em decúbito lateral, hidratar e corrigir hipotensão, e, sem resolução rápida, realizar o parto pela via mais rápida.",
+  "porAlt": [
+   "As precoces espelham a contração; aqui o nadir ocorre depois do pico.",
+   "Categoria I exige variabilidade moderada e ausência de desacelerações tardias.",
+   "Variáveis têm queda abrupta e formato irregular, sem relação fixa com a contração.",
+   "Variabilidade ausente com tardias é categoria III, e aumentar ocitocina agrava a hipóxia.",
+   "Correta: tardias recorrentes com variabilidade ausente definem categoria III e exigem parto imediato se não revertem."
+  ]
+ },
+ {
+  "q": "Gestante de 34 anos, 36 semanas, hipertensa crônica, faz cardiotocografia de repouso. Em 20 minutos, a linha de base é de 140 bpm, a variabilidade de 10 bpm e há 2 acelerações de 20 bpm com 20 segundos de duração, sem desacelerações. Como se classifica o exame?",
+  "alts": [
+   "Não reativo, por número insuficiente de acelerações",
+   "Não reativo, porque o mínimo seria 40 minutos de registro",
+   "Reativo somente se houver 3 acelerações de 15 bpm",
+   "Suspeito, por variabilidade abaixo de 15 bpm",
+   "Reativo, indicando bem-estar fetal"
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Cardiotocografia anteparto",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ACOG Practice Bulletin nº 229: Antepartum fetal surveillance, 2021",
+  "coment": "A cardiotocografia anteparto é reativa quando há pelo menos duas acelerações em 20 minutos, cada uma com 15 bpm acima da linha de base e 15 segundos de duração, a partir de 32 semanas (antes disso, 10 bpm por 10 segundos). Se não houver reatividade em 20 minutos, o registro é estendido por mais 20 a 40 minutos, já que o feto pode estar em sono. Linha de base entre 110 e 160 bpm e variabilidade moderada (6 a 25 bpm) completam o padrão tranquilizador (ACOG, 2021).",
+  "porAlt": [
+   "Duas acelerações em 20 minutos já atendem ao critério.",
+   "O registro de 40 minutos é necessário só quando os 20 iniciais não mostram reatividade.",
+   "O critério exige duas acelerações, não três.",
+   "Variabilidade de 6 a 25 bpm é considerada normal (moderada).",
+   "Correta: duas acelerações de pelo menos 15 bpm por 15 s em 20 minutos definem o exame reativo a partir de 32 semanas."
+  ]
+ },
+ {
+  "q": "Primigesta de 20 anos, 32 semanas, sem hipertensão prévia, tem PA de 148/96 mmHg confirmada após 4 horas. Assintomática. Relação proteína/creatinina urinária de 0,1. Hemograma com plaquetas de 85.000/mm³; creatinina 0,7 mg/dL; transaminases normais. BCF de 140 bpm e movimentos fetais presentes. Qual é o diagnóstico?",
+  "alts": [
+   "Hipertensão gestacional, pois não há proteinúria",
+   "Hipertensão crônica com plaquetopenia gestacional",
+   "Síndrome HELLP completa, pela plaquetopenia",
+   "Pré-eclâmpsia, mesmo sem proteinúria",
+   "Hipertensão gestacional com trombocitopenia benigna"
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Pré-eclâmpsia sem proteinúria",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Pelo Manual de Gestação de Alto Risco (MS, 2022), em consonância com a ISSHP, pré-eclâmpsia é a hipertensão (140/90 mmHg ou mais) surgida após 20 semanas acompanhada de proteinúria (relação proteína/creatinina de 0,3 ou mais, ou 300 mg ou mais em 24 horas) ou, na ausência dela, de disfunção de órgão-alvo: plaquetopenia, insuficiência renal, comprometimento hepático, edema pulmonar, sintomas cerebrais ou visuais, ou disfunção uteroplacentária. A plaquetopenia de 85.000/mm³ basta para o diagnóstico e é sinal de gravidade.",
+  "porAlt": [
+   "Hipertensão gestacional não tem proteinúria nem lesão de órgão-alvo, e aqui há plaquetopenia.",
+   "Não havia hipertensão antes de 20 semanas, critério da forma crônica.",
+   "HELLP completa exige também hemólise e elevação de transaminases.",
+   "Correta: hipertensão após 20 semanas com disfunção orgânica, como plaquetopenia, define pré-eclâmpsia sem proteinúria.",
+   "Plaquetopenia associada a hipertensão nova não deve ser tratada como achado benigno."
+  ]
+ },
+ {
+  "q": "Gestante de 29 anos, 35 semanas, com pré-eclâmpsia, chega com cefaleia intensa e escotomas. PA de 166/112 mmHg. Feto cefálico, BCF normal, colo com Bishop 4. Após anti-hipertensivo e sulfato de magnésio, a PA está em 150/100 mmHg e os sintomas melhoraram. Qual é a conduta obstétrica?",
+  "alts": [
+   "Conduta expectante até 37 semanas com sulfato contínuo",
+   "Interromper a gestação após estabilização",
+   "Corticoide e interrupção após 48 horas de ciclo completo",
+   "Alta com metildopa e retorno ambulatorial em 1 semana",
+   "Cesárea de emergência antes de iniciar o sulfato de magnésio"
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Pré-eclâmpsia grave a termo",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Cefaleia intensa, escotomas e PA de 160/110 mmHg ou mais são sinais de gravidade (iminência de eclâmpsia). A conduta é sulfato de magnésio para prevenir convulsão, anti-hipertensivo para a crise e, a partir de 34 semanas, interrupção da gestação depois da estabilização materna (MS, 2022). A via de parto é obstétrica; colo desfavorável não contraindica indução se a mãe estiver estável e a vitalidade fetal preservada. Abaixo de 34 semanas, em casos selecionados e estáveis, pode haver conduta expectante em centro terciário.",
+  "porAlt": [
+   "Manter a gestação com sinais de gravidade após 34 semanas expõe a mãe a eclâmpsia e HELLP.",
+   "Correta: pré-eclâmpsia com sinais de gravidade a partir de 34 semanas tem indicação de parto após estabilização.",
+   "Corticoide para maturação não é rotina após 34 semanas e não deve atrasar o parto.",
+   "Sintomas de iminência de eclâmpsia exigem internação e parto, não alta.",
+   "A mulher é estabilizada antes; a via de parto segue indicação obstétrica, não é sempre cesárea."
+  ]
+ },
+ {
+  "q": "Puérpera de 22 anos com pré-eclâmpsia grave recebe sulfato de magnésio em manutenção de 1 g/h há 14 horas. Está sonolenta, com reflexo patelar abolido e frequência respiratória de 10 irpm. Diurese das últimas 4 horas de 60 mL. Qual é a conduta imediata?",
+  "alts": [
+   "Reduzir a infusão para 0,5 g/h e reavaliar os reflexos em 4 horas",
+   "Suspender o sulfato e aplicar gluconato de cálcio 10% IV lento",
+   "Manter o sulfato e iniciar furosemida para aumentar a diurese horária",
+   "Suspender o sulfato e aplicar bicarbonato de sódio IV",
+   "Trocar o sulfato por fenitoína e manter observação"
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Intoxicação por magnésio",
+  "cenario": "enf",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "O magnésio é eliminado pelos rins, e a oligúria (aqui 15 mL/h) favorece o acúmulo. Durante a infusão, monitoram-se reflexo patelar, frequência respiratória e diurese. A perda do reflexo patelar ocorre antes da depressão respiratória; com reflexo abolido e bradipneia, suspende-se a infusão e administra-se gluconato de cálcio a 10%, 10 mL (1 g) IV em cerca de 3 minutos, com suporte ventilatório se necessário e dosagem de magnésio sérico (MS, 2022).",
+  "porAlt": [
+   "Só reduzir a dose não basta diante de depressão respiratória.",
+   "Correta: reflexo abolido e bradipneia indicam toxicidade; o antídoto é 1 g de gluconato de cálcio IV lento.",
+   "Manter a infusão agrava a toxicidade, e a oligúria reduz a eliminação do magnésio.",
+   "Bicarbonato não antagoniza o magnésio.",
+   "A conduta imediata é tratar a intoxicação; fenitoína é inferior na prevenção de eclâmpsia."
+  ]
+ },
+ {
+  "q": "Gestante de 27 anos, 30 semanas, com pré-eclâmpsia, apresenta PA de 172/114 mmHg em duas medidas com 15 minutos de intervalo. Sem cefaleia ou dor epigástrica. Já recebeu dose de ataque de sulfato de magnésio. Qual é o anti-hipertensivo adequado para esse momento?",
+  "alts": [
+   "Captopril 25 mg sublingual",
+   "Metildopa 500 mg via oral",
+   "Nifedipino 10 mg sublingual",
+   "Furosemida 40 mg IV",
+   "Nifedipino 10 mg por via oral"
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Crise hipertensiva na gestação",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "PA de 160/110 mmHg ou mais, confirmada, é emergência e deve ser tratada em até 30 a 60 minutos para reduzir o risco de AVC materno. O Manual de Gestação de Alto Risco (MS, 2022) indica nifedipino de liberação imediata 10 mg por via oral, que pode ser repetido a cada 20 a 30 minutos, ou hidralazina 5 mg IV, repetida a cada 20 minutos. A meta é PA em torno de 140 a 150 por 90 a 100 mmHg, sem queda brusca, para não comprometer a perfusão placentária. IECA, BRA e nitroprussiato de rotina são evitados.",
+  "porAlt": [
+   "IECA é contraindicado na gestação pelo risco fetal.",
+   "Metildopa tem início lento e serve para controle crônico, não para crise.",
+   "A via sublingual causa queda abrupta da PA e sofrimento fetal.",
+   "Diurético reduz o volume plasmático, já contraído na pré-eclâmpsia.",
+   "Correta: nifedipino oral de liberação imediata, repetido se preciso, ou hidralazina IV tratam a crise."
+  ]
+ },
+ {
+  "q": "Mulher de 36 anos, hipertensa crônica em uso de enalapril 20 mg/dia, descobre gestação de 7 semanas. Gestação planejada, sem uso de ácido fólico. PA de 136/86 mmHg, função renal normal, sem proteinúria. Qual é a conduta em relação ao anti-hipertensivo?",
+  "alts": [
+   "Manter o enalapril, já que a exposição foi no 1º trimestre",
+   "Trocar o enalapril por losartana na mesma faixa de dose",
+   "Suspender todo anti-hipertensivo até o 2º trimestre",
+   "Trocar o enalapril por hidroclorotiazida em dose plena",
+   "Suspender o enalapril e trocar por metildopa"
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Hipertensão crônica e IECA",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "IECA e BRA são contraindicados na gestação: no 2º e 3º trimestres causam oligoâmnio, insuficiência renal fetal, hipoplasia pulmonar e defeitos de ossificação craniana. Ao descobrir a gestação, troca-se o fármaco, sem indicação de interromper a gravidez. O MS (2022) indica metildopa e nifedipino de liberação prolongada entre as opções para controle crônico, com meta de PA abaixo de 140/90 mmHg. A gestante com hipertensão crônica também tem indicação de AAS a partir de 12 semanas.",
+  "porAlt": [
+   "IECA deve ser suspenso assim que a gestação é descoberta, pela fetotoxicidade.",
+   "BRA tem a mesma contraindicação dos IECA na gestação.",
+   "Suspender sem substituir expõe a gestante a picos pressóricos.",
+   "Tiazídico não é preferido por reduzir o volume plasmático da gestante.",
+   "Correta: IECA é contraindicado na gestação, e metildopa é opção segura de primeira linha."
+  ]
+ },
+ {
+  "q": "Gestante de 31 anos, 33 semanas, refere dor em hipocôndrio direito e náuseas. PA de 152/98 mmHg. Exames: hemoglobina de 9,8 g/dL com esquizócitos no esfregaço, LDH de 820 U/L, bilirrubina indireta aumentada, AST de 210 U/L, ALT de 180 U/L e plaquetas de 62.000/mm³. Qual é o diagnóstico?",
+  "alts": [
+   "Esteatose hepática aguda da gestação",
+   "Síndrome HELLP completa",
+   "Púrpura trombocitopênica trombótica",
+   "Colestase intra-hepática da gestação",
+   "Hepatite viral aguda com plaquetopenia"
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Síndrome HELLP",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "A síndrome HELLP é forma grave de pré-eclâmpsia definida por hemólise (esquizócitos, LDH de 600 U/L ou mais, bilirrubina de 1,2 mg/dL ou mais), elevação de transaminases (AST de 70 U/L ou mais) e plaquetopenia (abaixo de 100.000/mm³). Com os três critérios é completa; com um ou dois, parcial. A dor em hipocôndrio direito reflete distensão da cápsula de Glisson. A conduta é estabilizar, iniciar sulfato de magnésio, controlar a PA e programar o parto, com corticoide se houver tempo antes de 34 semanas (MS, 2022).",
+  "porAlt": [
+   "Esteatose aguda costuma ter hipoglicemia, coagulopatia e insuficiência hepática mais marcadas.",
+   "Correta: hemólise, enzimas hepáticas elevadas e plaquetas abaixo de 100.000 com hipertensão fecham HELLP completa.",
+   "PTT tem plaquetopenia grave e alteração neurológica, sem elevação importante de transaminases.",
+   "Colestase causa prurido e ácidos biliares altos, sem hemólise ou plaquetopenia.",
+   "Hepatite viral não explica hipertensão, hemólise microangiopática e plaquetopenia."
+  ]
+ },
+ {
+  "q": "Gestante de 32 anos, 11 semanas, teve pré-eclâmpsia grave com parto de 33 semanas na gestação anterior. Atualmente normotensa, com IMC de 26 kg/m², sem outras doenças e sem alergia a anti-inflamatórios. Qual é a prescrição adequada de ácido acetilsalicílico para prevenção de pré-eclâmpsia?",
+  "alts": [
+   "AAS 500 mg ao dia, de 20 semanas até o parto",
+   "AAS 100 mg ao dia, só após 24 semanas",
+   "AAS 100 a 150 mg/dia a partir de 28 semanas",
+   "AAS 100 a 150 mg à noite, de 12 até 36 semanas",
+   "AAS 100 mg em dias alternados até 28 semanas"
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "AAS na prevenção de pré-eclâmpsia",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "O MS (2022) indica AAS em baixa dose para gestantes com fator de alto risco para pré-eclâmpsia, como pré-eclâmpsia prévia, hipertensão crônica, diabetes, doença renal, lúpus, síndrome antifosfolípide e gestação múltipla, ou com mais de um fator moderado. O início deve ocorrer a partir de 12 semanas, idealmente antes de 16, com 100 a 150 mg à noite, mantido até 36 semanas. Em população de baixa ingestão de cálcio, associa-se suplementação de cálcio.",
+  "porAlt": [
+   "A dose é anti-inflamatória e não preventiva, e o início é tardio.",
+   "Iniciar após 24 semanas perde o benefício sobre a placentação.",
+   "Começar com 28 semanas é tarde; o ideal é antes de 16 semanas.",
+   "Correta: pré-eclâmpsia prévia é fator de alto risco; o AAS em baixa dose começa a partir de 12 semanas.",
+   "Dias alternados e suspensão com 28 semanas não são o esquema recomendado."
+  ]
+ },
+ {
+  "q": "Gestante de 30 anos, 9 semanas, IMC de 31 kg/m², sem diagnóstico prévio de diabetes. Mãe com diabetes tipo 2. A glicemia de jejum da primeira consulta foi de 104 mg/dL, sem HbA1c disponível. Assintomática. Segundo o consenso brasileiro, qual é a interpretação desse resultado?",
+  "alts": [
+   "Diabetes mellitus prévio diagnosticado na gestação",
+   "Glicemia normal; fazer TOTG com 24 a 28 semanas",
+   "Glicemia limítrofe; repetir com 20 semanas",
+   "Diabetes gestacional, sem precisar de TOTG",
+   "Intolerância à glicose, sem diagnóstico definido"
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "DMG pela glicemia de jejum",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "OPAS, Ministério da Saúde, FEBRASGO e SBD. Rastreamento e diagnóstico de diabetes mellitus gestacional no Brasil, 2017",
+  "coment": "O consenso OPAS/MS/FEBRASGO/SBD (2017) orienta glicemia de jejum na primeira consulta: abaixo de 92 mg/dL é normal e a gestante segue para TOTG com 75 g entre 24 e 28 semanas; de 92 a 125 mg/dL é diabetes gestacional; 126 mg/dL ou mais caracteriza diabetes diagnosticado na gestação (pré-existente). Diante de DMG, inicia-se orientação nutricional, atividade física e automonitorização da glicemia, sem necessidade de TOTG confirmatório.",
+  "porAlt": [
+   "Diabetes prévio exige jejum de 126 mg/dL ou mais, HbA1c de 6,5% ou mais ou glicemia casual de 200 ou mais.",
+   "O corte normal é abaixo de 92 mg/dL; 104 já é diagnóstico.",
+   "Não se repete: o valor já fecha o diagnóstico de DMG.",
+   "Correta: jejum entre 92 e 125 mg/dL em qualquer fase da gestação define DMG.",
+   "Não existe categoria intermediária pelo critério adotado no Brasil."
+  ]
+ },
+ {
+  "q": "Gestante de 27 anos, 26 semanas, glicemia de jejum de 84 mg/dL no início do pré-natal. Faz TOTG com 75 g: jejum de 88 mg/dL, 1 hora de 186 mg/dL e 2 horas de 148 mg/dL. Qual é a interpretação?",
+  "alts": [
+   "Normal, porque são necessários dois valores alterados",
+   "Diabetes mellitus gestacional, por um valor alterado",
+   "Normal, porque o jejum e a 2ª hora estão abaixo do corte",
+   "Diabetes prévio, pela glicemia de 1 hora acima de 180",
+   "Inconclusivo; repetir o TOTG em 2 semanas"
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "TOTG de 75 g",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "OPAS, Ministério da Saúde, FEBRASGO e SBD. Rastreamento e diagnóstico de diabetes mellitus gestacional no Brasil, 2017",
+  "coment": "Pelo consenso brasileiro (2017), que segue o IADPSG, o TOTG com 75 g é feito entre 24 e 28 semanas nas gestantes com jejum inicial abaixo de 92 mg/dL. O diagnóstico de DMG é feito com qualquer um dos valores: jejum de 92 mg/dL ou mais, 1 hora de 180 mg/dL ou mais ou 2 horas de 153 mg/dL ou mais. Aqui a 1ª hora de 186 mg/dL basta. Em 2 horas, 200 mg/dL ou mais sugere diabetes prévio.",
+  "porAlt": [
+   "A exigência de dois valores pertence a critérios antigos, não ao adotado no Brasil.",
+   "Correta: no critério IADPSG basta um valor alterado: jejum 92, 1 h 180 ou 2 h 153 mg/dL ou mais.",
+   "Basta um ponto alterado; a 1ª hora de 186 mg/dL já faz o diagnóstico.",
+   "Diabetes prévio é definido por jejum de 126 ou mais, não pela 1ª hora do TOTG.",
+   "Não há indicação de repetir; um valor alterado define DMG."
+  ]
+ },
+ {
+  "q": "Gestante de 33 anos, 29 semanas, com DMG diagnosticado há 3 semanas, segue dieta e caminhada diária. No diário de glicemia capilar, metade das medidas de jejum está entre 98 e 106 mg/dL; as pós-prandiais de 1 hora estão abaixo de 140 mg/dL. Qual é a conduta?",
+  "alts": [
+   "Manter só a dieta e reavaliar em 4 semanas",
+   "Iniciar glibenclamida antes do café da manhã",
+   "Iniciar insulina rápida antes de cada refeição",
+   "Iniciar insulina NPH ao deitar",
+   "Reduzir carboidratos para menos de 100 g ao dia"
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Tratamento do DMG",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "OPAS, Ministério da Saúde, FEBRASGO e SBD. Tratamento do diabetes mellitus gestacional no Brasil, 2019",
+  "coment": "As metas do consenso brasileiro (2019) são jejum abaixo de 95 mg/dL, 1 hora pós-prandial abaixo de 140 e 2 horas abaixo de 120 mg/dL. Se após 1 a 2 semanas de dieta e atividade física 30% ou mais das medidas estão acima da meta, indica-se tratamento farmacológico, e a insulina é a primeira escolha. Com hiperglicemia isolada de jejum, a NPH ao deitar é o ajuste mais lógico. Metformina é alternativa quando a insulina não é viável ou aceita; glibenclamida não é recomendada.",
+  "porAlt": [
+   "Já são 3 semanas fora da meta; adiar mais expõe o feto à hiperglicemia.",
+   "Glibenclamida atravessa a placenta e se associa a hipoglicemia neonatal.",
+   "As pós-prandiais estão na meta; o problema é o jejum, tratado com NPH.",
+   "Correta: jejum acima de 95 mg/dL em 30% ou mais das medidas após dieta indica insulina, e NPH noturna corrige o jejum.",
+   "Restrição intensa de carboidrato favorece cetose e não é recomendada."
+  ]
+ },
+ {
+  "q": "Mulher de 25 anos, 9 semanas pela DUM, chega com sangramento vaginal intenso, cólicas e eliminação de fragmentos há 3 horas. Estável hemodinamicamente. Ao exame especular, sangramento ativo pelo orifício externo; ao toque, colo pérvio e útero menor que o esperado para a idade gestacional. A ultrassonografia mostra restos ovulares intrauterinos, sem saco gestacional íntegro. Qual é o diagnóstico?",
+  "alts": [
+   "Abortamento inevitável",
+   "Ameaça de abortamento",
+   "Abortamento completo",
+   "Abortamento retido",
+   "Abortamento incompleto"
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Classificação do abortamento",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção humanizada ao abortamento: norma técnica, 2011",
+  "coment": "A classificação clínica do abortamento combina colo, sangramento e ultrassonografia. Ameaça: colo fechado e embrião vivo. Inevitável: colo pérvio com produto ainda na cavidade. Incompleto: eliminação parcial, colo pérvio e restos ovulares. Completo: cavidade vazia, colo fechando, sangramento mínimo. Retido: óbito embrionário sem expulsão. No incompleto até 12 semanas, a norma técnica do MS (2011) prefere a aspiração manual intrauterina, com misoprostol como alternativa.",
+  "porAlt": [
+   "No inevitável o colo está aberto, mas o saco gestacional ainda está íntegro na cavidade.",
+   "Na ameaça o colo está fechado e o embrião segue vivo.",
+   "No completo a cavidade está vazia e o colo tende a fechar, com pouco sangramento.",
+   "No retido o embrião morreu, mas não houve expulsão e o colo está fechado.",
+   "Correta: colo aberto, eliminação parcial e restos na cavidade caracterizam abortamento incompleto."
+  ]
+ },
+ {
+  "q": "Mulher de 29 anos, 6 semanas de atraso menstrual, dor leve em fossa ilíaca esquerda. Estável, sem sinais de irritação peritoneal. Beta-hCG de 2.800 mUI/mL, em ascensão em 48 horas. Ultrassonografia transvaginal: útero vazio, massa anexial esquerda de 2,5 cm sem embrião ou batimentos, sem líquido livre. Hemograma, função renal e hepática normais. Deseja gestar no futuro e mora perto do hospital. Qual é a conduta?",
+  "alts": [
+   "Salpingectomia laparoscópica imediata do lado esquerdo",
+   "Conduta expectante com dosagem semanal de beta-hCG até negativar",
+   "Metotrexato 50 mg/m² IM com beta-hCG no 4º e 7º dias",
+   "Metotrexato 1 mg/kg VO diário por 7 dias",
+   "Curetagem uterina para excluir gestação tópica"
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Metotrexato na gravidez ectópica",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "O metotrexato é indicado na gravidez ectópica íntegra com estabilidade hemodinâmica, beta-hCG em geral até 5.000 mUI/mL, massa menor que 3,5 a 4 cm, sem batimentos embrionários, exames laboratoriais normais e possibilidade de seguimento (MS, 2022). O esquema de dose única é 50 mg/m² IM, com beta-hCG no 4º e no 7º dias: queda de 15% ou mais entre eles indica resposta, e o seguimento é semanal até negativar. Se não cair, repete-se a dose ou se indica cirurgia.",
+  "porAlt": [
+   "Cirurgia é para instabilidade, rotura ou falha do tratamento clínico.",
+   "Expectante é para beta baixo e em queda; aqui ele sobe.",
+   "Correta: estável, beta abaixo de 5.000, massa menor que 3,5 cm e sem BCF: candidata a metotrexato em dose única.",
+   "O esquema usado é IM, em dose única de 50 mg/m², não oral diário.",
+   "Útero vazio com beta acima da zona discriminatória e massa anexial já indica ectópica."
+  ]
+ },
+ {
+  "q": "Mulher de 24 anos fez aspiração uterina por mola hidatiforme completa há 6 semanas. Em uso de contraceptivo oral. Dosagens semanais de beta-hCG nas últimas 3 semanas: 5.200, 5.100, 5.250 e 5.180 mUI/mL. Exame pélvico sem lesões. Qual é a interpretação e o próximo passo?",
+  "alts": [
+   "Queda normal; passar a dosagens mensais de beta-hCG",
+   "Gestação nova; suspender o contraceptivo oral",
+   "Restos molares retidos; repetir a aspiração uterina a vácuo",
+   "Neoplasia trofoblástica por platô; estadiar e tratar",
+   "Falso positivo; dosar beta-hCG urinário"
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Neoplasia trofoblástica pós-molar",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "FIGO Cancer Report: Update on the diagnosis and management of gestational trophoblastic disease, 2018",
+  "coment": "Após esvaziamento da mola, o beta-hCG é dosado semanalmente até três resultados negativos e depois mensalmente. Pela FIGO (2018), há neoplasia trofoblástica gestacional quando ocorre platô em quatro dosagens ao longo de 3 semanas, elevação de 10% ou mais em três dosagens ao longo de 2 semanas, ou diagnóstico histológico de coriocarcinoma. O próximo passo é estadiar (FIGO e escore prognóstico da OMS) com exame clínico, ultrassonografia e radiografia de tórax e iniciar quimioterapia, em geral metotrexato nos casos de baixo risco.",
+  "porAlt": [
+   "Os valores estão estáveis, e não em queda; não é evolução normal.",
+   "Ela usa anticoncepção eficaz, e o padrão estável não sugere nova gestação.",
+   "Segunda aspiração não é a conduta padrão para platô pós-molar.",
+   "Correta: platô em 4 dosagens ao longo de 3 semanas define neoplasia trofoblástica gestacional pela FIGO.",
+   "O teste urinário não define o quadro; o platô é critério diagnóstico."
+  ]
+ },
+ {
+  "q": "Gestante de 34 anos, 35 semanas, hipertensa, chega com dor abdominal súbita e intensa há 1 hora e sangramento vaginal escuro em pequena quantidade. Útero hipertônico e doloroso. PA de 150/100 mmHg, FC de 108 bpm. BCF de 100 bpm. Toque: colo com 2 cm, apresentação cefálica alta. Qual é a conduta?",
+  "alts": [
+   "Amniotomia e cesárea imediata, sem aguardar exames",
+   "Tocólise com nifedipino e corticoide",
+   "Ultrassonografia para confirmar o diagnóstico antes da conduta",
+   "Indução com ocitocina e aguardar parto vaginal",
+   "Conduta expectante com reavaliação da vitalidade em 6 horas"
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Descolamento prematuro de placenta",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Dor súbita, hipertonia uterina, sangramento escuro e hipertensão configuram descolamento prematuro de placenta, diagnóstico clínico. Com feto vivo e viável, a via mais rápida é a regra: cesárea se o parto vaginal não for iminente; a amniotomia reduz a pressão intrauterina e a passagem de tromboplastina para a circulação. Com feto morto e mãe estável, o parto vaginal é preferível. Avaliam-se coagulograma e fibrinogênio pelo risco de coagulação intravascular disseminada (MS, 2022).",
+  "porAlt": [
+   "Correta: feto vivo e viável com sofrimento e parto não iminente exige cesárea imediata.",
+   "Tocólise é contraindicada no descolamento de placenta.",
+   "O diagnóstico é clínico, e esperar ultrassonografia atrasa o parto.",
+   "Com bradicardia fetal e colo pouco dilatado, o parto vaginal não será rápido.",
+   "Esperar com bradicardia fetal pode levar ao óbito fetal e à coagulopatia."
+  ]
+ },
+ {
+  "q": "Gestante de 37 anos, 31 semanas, duas cesáreas anteriores, chega com sangramento vaginal vermelho vivo, indolor, iniciado em repouso. Útero relaxado, sem contrações, feto pélvico, BCF de 144 bpm. PA de 118/72 mmHg, FC de 88 bpm. Qual é a conduta inicial mais adequada?",
+  "alts": [
+   "Toque vaginal para medir a dilatação do colo",
+   "Amniotomia para reduzir o sangramento",
+   "Cesárea imediata, pois o sangramento é ativo",
+   "Evitar toque vaginal e fazer ultrassonografia",
+   "Tocólise com indometacina e alta em 24 horas"
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Placenta prévia",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Sangramento vermelho vivo, indolor, de início súbito, com útero relaxado e apresentação anômala sugere placenta prévia. O toque vaginal deve ser evitado até a ultrassonografia (de preferência transvaginal, que é segura) definir a localização placentária. Com estabilidade e menos de 34 semanas, a conduta é internação, corticoide e vigilância, com parto programado. Duas cesáreas prévias e placenta prévia elevam muito o risco de acretismo, que deve ser investigado (MS, 2022).",
+  "porAlt": [
+   "O toque pode descolar a placenta e provocar hemorragia maciça.",
+   "Amniotomia é medida do descolamento de placenta, não da placenta prévia.",
+   "Com mãe e feto estáveis e 31 semanas, a conduta pode ser expectante após confirmação.",
+   "Correta: sangramento indolor com útero relaxado sugere placenta prévia, e o toque pode agravar a hemorragia.",
+   "Indometacina não é indicada aqui, e alta precoce é insegura após sangramento."
+  ]
+ },
+ {
+  "q": "Puérpera de 28 anos, 40 minutos após parto vaginal de feto de 4.100 g, com sangramento estimado de 900 mL, útero amolecido acima da cicatriz umbilical. Recebeu ocitocina profilática. Já foram iniciadas massagem uterina e infusão de ocitocina. Qual é a dose de ácido tranexâmico indicada?",
+  "alts": [
+   "1 g IV só se sangrar ainda após 3 horas",
+   "10 mg/kg VO de 8 em 8 horas por 5 dias",
+   "1 g IV em 10 minutos, repetível após 30 minutos",
+   "2 g IV em bolus rápido, uma única vez",
+   "500 mg IM a cada 6 horas por 24 horas"
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Ácido tranexâmico na HPP",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "OMS, FIGO e ICM. Consolidated guidelines for the prevention, diagnosis and treatment of postpartum haemorrhage, 2025",
+  "coment": "Na hemorragia pós-parto, o ácido tranexâmico reduz a morte por sangramento quando dado nas primeiras 3 horas após o parto, com benefício que cai a cada 15 minutos de atraso. A dose é 1 g IV em 10 minutos, com segunda dose de 1 g se o sangramento persistir após 30 minutos ou recomeçar em até 24 horas. A diretriz OMS, FIGO e ICM (2025) o inclui no pacote MOTIVE, junto com massagem, uterotônico, fluidos, exame do trato genital e escalonamento, aplicados juntos e sem demora.",
+  "porAlt": [
+   "Após 3 horas o benefício desaparece; a droga deve ser dada cedo.",
+   "A via oral não serve para hemorragia aguda.",
+   "Correta: dose fixa de 1 g IV lenta, o mais cedo possível e até 3 horas, com segunda dose se o sangramento continuar.",
+   "Bolus rápido pode causar hipotensão, e a dose está acima da recomendada.",
+   "A via e a dose não correspondem ao esquema validado."
+  ]
+ },
+ {
+  "q": "Puérpera de 32 anos, 30 minutos após cesárea, com sangramento vaginal contínuo. A perda visual é difícil de estimar porque parte do sangue está nos campos. PA de 88/54 mmHg e FC de 120 bpm. Qual é o índice de choque e o que ele indica?",
+  "alts": [
+   "1,36: perda volumosa, com reposição e preparo de transfusão",
+   "0,73: perda pequena, sem necessidade de medidas adicionais",
+   "1,36: valor esperado no pós-operatório, sem significado",
+   "0,45: compatível com perda de até 500 mL apenas",
+   "1,36: indica só hidratação oral e reavaliação em 2 horas"
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Índice de choque",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "OPAS. Recomendações assistenciais para prevenção, diagnóstico e tratamento da hemorragia obstétrica, 2018",
+  "coment": "O índice de choque obstétrico é a frequência cardíaca dividida pela pressão sistólica. Valores de 0,9 ou mais se associam a perda sanguínea significativa e à necessidade de medidas agressivas, mesmo quando a estimativa visual parece pequena; de 1,4 ou mais, à necessidade de transfusão urgente (OPAS, 2018). Aqui, 120/88 = 1,36: a mulher precisa de dois acessos venosos calibrosos, cristaloide aquecido, exames e reserva de sangue, além do tratamento da causa (4 Ts: tônus, trauma, tecido e trombina).",
+  "porAlt": [
+   "Correta: FC dividida pela PAS (120/88) é 1,36; valores de 0,9 ou mais indicam perda importante.",
+   "O cálculo está invertido e subestima a gravidade.",
+   "Índice de 0,9 ou mais nunca deve ser tomado como normal no pós-parto.",
+   "O cálculo usa PAS e FC, não a PA média nem a diastólica.",
+   "Índice elevado exige acesso venoso, cristaloide e preparo de hemocomponentes."
+  ]
+ },
+ {
+  "q": "Gestante de 25 anos, 31 semanas, internada por trabalho de parto prematuro, com risco de parto nos próximos 7 dias. Colo com 3 cm, bolsa íntegra, sem infecção clínica e com BCF normal. Ainda não recebeu corticoide nesta gestação. Qual é o esquema de corticoide antenatal recomendado?",
+  "alts": [
+   "Dexametasona 12 mg IM, dose única",
+   "Betametasona 12 mg IM, semanal até 34 semanas",
+   "Hidrocortisona 100 mg IV de 8 em 8 horas",
+   "Prednisona 40 mg VO por 5 dias",
+   "Betametasona 12 mg IM, 2 doses a cada 24 horas"
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Corticoide antenatal",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "O corticoide antenatal reduz síndrome do desconforto respiratório, hemorragia intraventricular, enterocolite necrosante e morte neonatal. O MS (2022) indica betametasona 12 mg IM a cada 24 horas por 2 doses, ou dexametasona 6 mg IM a cada 12 horas por 4 doses, para gestantes entre 24 e 34 semanas com risco de parto em 7 dias. O efeito máximo ocorre entre 24 horas e 7 dias após a primeira dose. Um ciclo de resgate pode ser considerado em casos selecionados, mas ciclos semanais não.",
+  "porAlt": [
+   "Dexametasona é feita em 4 doses de 6 mg, não dose única de 12 mg.",
+   "Ciclos semanais repetidos não são recomendados e prejudicam o crescimento fetal.",
+   "Hidrocortisona é inativada pela placenta e não acelera a maturação fetal.",
+   "Prednisona também é metabolizada pela placenta e não serve para maturação.",
+   "Correta: betametasona 12 mg IM a cada 24 h, 2 doses; ou dexametasona 6 mg IM a cada 12 h, 4 doses."
+  ]
+ },
+ {
+  "q": "Gestante de 30 anos, 29 semanas, normotensa, admitida em trabalho de parto prematuro avançado, com 7 cm de dilatação, bolsa íntegra e feto cefálico. Já recebeu a primeira dose de betametasona. Qual medida reduz o risco de paralisia cerebral no recém-nascido?",
+  "alts": [
+   "Nifedipino oral para adiar o parto em 48 horas",
+   "Sulfato de magnésio IV até o nascimento",
+   "Progesterona vaginal até o nascimento",
+   "Cesárea eletiva para evitar trauma cefálico",
+   "Antibiótico profilático com ampicilina IV"
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Sulfato de magnésio neuroprotetor",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "O sulfato de magnésio, administrado à mãe antes de parto prematuro abaixo de 32 semanas, reduz o risco de paralisia cerebral e de disfunção motora grave na criança. O MS (2022) recomenda 4 g IV de ataque e 1 g/h de manutenção quando o parto é iminente (em geral nas próximas horas), mantido até o nascimento e por no máximo 24 horas. A profilaxia para estreptococo do grupo B também é indicada no trabalho de parto prematuro com status desconhecido, mas por outro motivo.",
+  "porAlt": [
+   "Tocólise com 7 cm é ineficaz e não protege o cérebro fetal.",
+   "Correta: sulfato de magnésio antes de 32 semanas com parto iminente reduz paralisia cerebral.",
+   "Progesterona previne parto prematuro em grupos selecionados, sem efeito neuroprotetor no parto.",
+   "Cesárea não reduz paralisia cerebral no prematuro cefálico.",
+   "Ampicilina previne estreptococo do grupo B, não paralisia cerebral."
+  ]
+ },
+ {
+  "q": "Gestante de 22 anos, 30 semanas, chega com contrações regulares e dor abdominal. Temperatura de 38,4 °C, FC de 112 bpm, útero doloroso à palpação, BCF de 175 bpm e saída de líquido amniótico com odor fétido. Leucócitos de 19.000/mm³. Qual é a conduta?",
+  "alts": [
+   "Nifedipino para tocólise e corticoide por 48 horas",
+   "Indometacina para tocólise e antibiótico oral por 7 dias",
+   "Atosibana IV e reavaliação após 24 horas",
+   "Antibiótico IV e resolução da gestação, sem tocólise",
+   "Conduta expectante até 34 semanas com antibiótico"
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Contraindicação à tocólise",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Febre, taquicardia materna e fetal, útero doloroso, leucocitose e líquido fétido caracterizam corioamnionite. A tocólise é contraindicada na infecção intrauterina, no descolamento de placenta, no sofrimento fetal, na pré-eclâmpsia grave, em malformação letal e após 34 semanas. A conduta é antibiótico de amplo espectro IV (por exemplo, ampicilina e gentamicina) e resolução da gestação, preferindo o parto vaginal. O corticoide pode ser feito, mas não deve atrasar o parto (MS, 2022).",
+  "porAlt": [
+   "Prolongar a gestação com infecção intrauterina agrava a sepse materna e fetal.",
+   "Tocólise com corioamnionite é contraindicada, e o antibiótico deve ser IV.",
+   "Atosibana não muda a indicação: infecção intrauterina contraindica qualquer tocólise.",
+   "Correta: corioamnionite contraindica tocólise e exige antibiótico e interrupção da gestação.",
+   "Expectante só vale para rotura sem infecção; com corioamnionite, o parto é indicado."
+  ]
+ },
+ {
+  "q": "Gestante de 26 anos, 30 semanas, refere perda de líquido claro há 6 horas. Exame especular confirma saída de líquido pelo orifício externo. Feto cefálico, peso estimado de 1.500 g. Sem contrações, afebril, útero indolor, BCF de 142 bpm, leucócitos normais. Qual é a conduta adequada?",
+  "alts": [
+   "Indução imediata com ocitocina pelo risco de infecção",
+   "Alta com repouso domiciliar e retorno semanal",
+   "Tocólise prolongada até 37 semanas associada a corticoide e repouso",
+   "Internar e aguardar o termo com vigilância diária, sem usar antibiótico",
+   "Internar, corticoide, antibiótico de latência e parto com 34 semanas"
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Rotura prematura pré-termo",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Na rotura prematura de membranas entre 24 e 34 semanas, sem infecção ou sofrimento fetal, o MS (2022) orienta conduta expectante com internação, corticoide para maturação pulmonar, antibiótico de latência (por exemplo, ampicilina IV seguida de amoxicilina oral, com azitromicina) e sulfato de magnésio se o parto ocorrer abaixo de 32 semanas. Vigiam-se sinais de corioamnionite e a vitalidade fetal, e a gestação é interrompida com 34 semanas. Toque vaginal deve ser evitado.",
+  "porAlt": [
+   "Antes de 34 semanas sem infecção, o parto imediato aumenta a morbidade da prematuridade.",
+   "Rotura de membranas exige internação pelo risco de infecção e prolapso de cordão.",
+   "Tocólise prolongada não traz benefício na rotura e pode mascarar infecção.",
+   "O antibiótico de latência prolonga a gestação e reduz infecção materna e neonatal.",
+   "Correta: rotura entre 24 e 34 semanas sem infecção tem conduta expectante com corticoide e antibiótico."
+  ]
+ },
+ {
+  "q": "Gestante de 21 anos, 16 semanas, assintomática, sem lesões cutâneas ou mucosas, com teste rápido treponêmico reagente e VDRL de 1:16. Não sabe informar quando se infectou e nunca foi tratada para sífilis. Não há alergia a penicilina. Qual é o tratamento indicado?",
+  "alts": [
+   "Penicilina benzatina 2,4 milhões UI IM, dose única",
+   "Ceftriaxona 1 g IM uma vez ao dia por 10 dias, na própria UBS",
+   "Penicilina benzatina 2,4 milhões UI IM, semanal, 3 doses",
+   "Doxiciclina 100 mg VO de 12 em 12 horas por 15 dias",
+   "Penicilina cristalina IV por 14 dias"
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Sífilis na gestação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2022",
+  "coment": "Sem sinais clínicos e sem data de infecção conhecida, a sífilis é classificada como latente de duração ignorada e tratada como tardia: benzilpenicilina benzatina 2,4 milhões UI IM por semana, por 3 semanas (7,2 milhões UI). Pelo PCDT (MS, 2022), o tratamento só é adequado se completo, apropriado ao estágio e iniciado até 30 dias antes do parto. Faz-se VDRL mensal na gestante, e as parcerias sexuais devem ser testadas e tratadas. A penicilina é a única droga eficaz para prevenir sífilis congênita.",
+  "porAlt": [
+   "Dose única é para sífilis recente, com menos de 1 ano de evolução.",
+   "Ceftriaxona não é considerada tratamento adequado para prevenir sífilis congênita.",
+   "Correta: sífilis latente de duração ignorada é tratada como tardia: 7,2 milhões UI em 3 doses semanais.",
+   "Doxiciclina é contraindicada na gestação.",
+   "Penicilina cristalina IV é reservada para neurossífilis."
+  ]
+ },
+ {
+  "q": "Gestante de 30 anos vivendo com HIV, 36 semanas, iniciou TARV com 26 semanas por diagnóstico tardio. Carga viral com 34 semanas de 2.500 cópias/mL. Boa adesão desde então, sem outras infecções. Sem trabalho de parto, membranas íntegras, feto cefálico. Qual é o planejamento do parto?",
+  "alts": [
+   "Parto vaginal com zidovudina IV no trabalho de parto",
+   "Cesárea com 34 semanas, sem zidovudina IV",
+   "Cesárea eletiva com 38 semanas e zidovudina IV antes dela",
+   "Parto vaginal sem zidovudina IV, pois já usa TARV",
+   "Indução com 37 semanas e amniotomia precoce"
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "HIV: via de parto",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2022",
+  "coment": "Pelo PCDT de Transmissão Vertical (MS, 2022), a via de parto é definida pela carga viral a partir de 34 semanas. Com carga viral abaixo de 1.000 cópias/mL, a via é obstétrica. Com 1.000 cópias/mL ou mais, ou desconhecida, indica-se cesárea eletiva com 38 semanas, antes do trabalho de parto e com membranas íntegras, e zidovudina IV iniciada 3 horas antes (2 mg/kg na primeira hora e 1 mg/kg/h até o clampeamento). O recém-nascido recebe profilaxia e a amamentação é contraindicada.",
+  "porAlt": [
+   "Com carga viral detectável acima de 1.000, a via vaginal aumenta o risco de transmissão.",
+   "Antecipar para 34 semanas traz prematuridade sem ganho, e o AZT IV está indicado.",
+   "Correta: carga viral de 1.000 cópias ou mais após 34 semanas indica cesárea eletiva com 38 semanas e AZT IV.",
+   "A TARV não dispensa o AZT IV quando a carga viral é 1.000 ou mais.",
+   "Amniotomia precoce e trabalho de parto prolongado aumentam a transmissão."
+  ]
+ },
+ {
+  "q": "Gestante de 23 anos, 10 semanas, assintomática, primeira consulta. Sorologia para toxoplasmose: IgG reagente e IgM reagente. Não há sorologia anterior à gestação. Tem gato em casa e come carne malpassada com frequência. A ultrassonografia é normal para a idade gestacional. Qual é a conduta adequada?",
+  "alts": [
+   "Considerar imune e não repetir a sorologia",
+   "Pirimetamina e sulfadiazina imediatamente",
+   "Repetir a IgM em 3 meses antes de tratar",
+   "Teste de avidez de IgG e espiramicina desde já",
+   "Amniocentese imediata para PCR no líquido"
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Toxoplasmose: IgM reagente",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Protocolo de notificação e investigação: toxoplasmose gestacional e congênita, 2018",
+  "coment": "Com IgG e IgM reagentes no 1º trimestre, o MS (2018) orienta realizar teste de avidez de IgG, de preferência na mesma amostra. Avidez alta até 16 semanas indica infecção há mais de 3 a 4 meses, anterior à gestação; avidez baixa ou intermediária mantém a suspeita de infecção aguda. Enquanto isso, inicia-se espiramicina (1 g de 8 em 8 horas), que reduz a transmissão placentária. Se houver suspeita de infecção fetal, a PCR no líquido amniótico é feita após 18 semanas, e a confirmação muda o esquema para pirimetamina, sulfadiazina e ácido folínico.",
+  "porAlt": [
+   "IgM reagente impede considerar a infecção como antiga sem avidez.",
+   "Esse esquema é para infecção fetal confirmada, a partir de 18 semanas.",
+   "Esperar 3 meses deixa a gestante sem tratamento no período de maior risco.",
+   "Correta: IgG e IgM reagentes até 16 semanas pedem avidez, e a espiramicina começa enquanto se esclarece.",
+   "A amniocentese é feita a partir de 18 semanas e após indicação."
+  ]
+ },
+ {
+  "q": "Puérpera de 27 anos, O negativo, primeira gestação sem intercorrências, parto vaginal a termo há 8 horas, sem sangramento anormal. Coombs indireto negativo durante todo o pré-natal. O recém-nascido é A positivo, com Coombs direto negativo. Qual é a conduta para prevenir aloimunização?",
+  "alts": [
+   "Nenhuma, pois o Coombs indireto foi negativo",
+   "Imunoglobulina anti-D só na próxima gestação",
+   "Imunoglobulina anti-D 300 µg IM até 72 horas",
+   "Imunoglobulina anti-D 300 µg IM apenas se o RN for O",
+   "Exsanguineotransfusão profilática no recém-nascido"
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Imunoglobulina anti-D pós-parto",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Toda puérpera Rh negativo não sensibilizada (Coombs indireto negativo) com recém-nascido Rh positivo deve receber imunoglobulina anti-D, 300 µg IM, de preferência nas primeiras 72 horas após o parto (MS, 2022). A dose cobre hemorragia feto-materna de cerca de 30 mL de sangue fetal; em sangramentos maiores, a quantificação orienta doses adicionais. A profilaxia também é indicada após abortamento, gravidez ectópica, mola, procedimentos invasivos e sangramento na gestação.",
+  "porAlt": [
+   "Coombs indireto negativo indica que ela não está sensibilizada e por isso deve receber profilaxia.",
+   "A profilaxia é feita após este parto, e não adiada para outra gestação.",
+   "Correta: mãe Rh negativo não sensibilizada com RN Rh positivo recebe anti-D em até 72 horas do parto.",
+   "O que define a indicação é o Rh do recém-nascido, não o grupo ABO.",
+   "O RN com Coombs direto negativo não tem doença hemolítica que justifique isso."
+  ]
+ }
+]

@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Menino de 4 anos, sem registro de vacinação, chega à UBS com febre de 39,5 °C há 4 dias, tosse, coriza e conjuntivite. Hoje surgiu exantema maculopapular que começou atrás das orelhas e na face e desce para o tronco. Na mucosa jugal há pequenos pontos esbranquiçados com halo eritematoso. Além do tratamento de suporte, qual é a conduta adequada?",
+  "alts": [
+   "Notificar após o resultado da sorologia IgM reagente, mantendo a criança em casa sem restrições",
+   "Isolar com precaução de contato e iniciar aciclovir oral por 7 dias para evitar pneumonite",
+   "Administrar a tríplice viral hoje na criança doente para abreviar o curso da infecção",
+   "Prescrever amoxicilina por 10 dias e liberar a escola quando ficar 24 horas sem febre",
+   "Notificar em até 24 horas, isolar para aerossóis e administrar vitamina A em duas doses"
+  ],
+  "gab": 4,
+  "tema": "pedinfecto",
+  "sub": "Sarampo: conduta inicial",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª edição, 2023",
+  "coment": "Febre alta, tosse, coriza, conjuntivite, manchas de Koplik e exantema de progressão craniocaudal definem caso suspeito de sarampo, doença de notificação imediata (até 24 horas) à vigilância, sem esperar exame. A transmissão é por aerossóis, de 4 dias antes até 4 dias após o início do exantema, o que exige isolamento respiratório. O Guia de Vigilância em Saúde recomenda vitamina A em duas doses (no dia do diagnóstico e no dia seguinte), com dose ajustada à idade, para reduzir gravidade e letalidade.",
+  "porAlt": [
+   "A notificação do sarampo é feita na suspeita clínica, sem aguardar a confirmação laboratorial.",
+   "Sarampo se transmite por aerossóis e não tem indicação de aciclovir, que é antiviral para herpesvírus.",
+   "A vacina não trata a doença instalada; ela serve ao bloqueio dos contatos suscetíveis.",
+   "Não há indicação de antibiótico sem infecção bacteriana secundária, e o afastamento segue o período de transmissão.",
+   "Correta: caso suspeito exige notificação imediata, precaução para aerossóis e vitamina A em duas doses."
+  ]
+ },
+ {
+  "q": "Adolescente de 14 anos apresenta febre baixa, artralgia em mãos e exantema maculopapular róseo que começou na face e em 24 horas atingiu tronco e membros, já clareando na face no terceiro dia. Há linfonodos dolorosos em região retroauricular e occipital e petéquias no palato mole. Mora com a irmã, gestante de 10 semanas, sem comprovação vacinal. Qual é a hipótese diagnóstica mais provável?",
+  "alts": [
+   "Sarampo, pelo exantema de progressão craniocaudal",
+   "Eritema infeccioso, pela artralgia no adolescente",
+   "Escarlatina, pelas petéquias encontradas no palato",
+   "Exantema súbito, pela febre baixa e evolução rápida",
+   "Rubéola, pelas adenopatias retroauricular e occipital"
+  ],
+  "gab": 4,
+  "tema": "pedinfecto",
+  "sub": "Rubéola: diagnóstico clínico",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª edição, 2023",
+  "coment": "A rubéola cursa com pródromo leve, febre baixa, exantema róseo de progressão craniocaudal rápida que clareia em cerca de 3 dias, linfadenopatia retroauricular, cervical posterior e occipital e, às vezes, petéquias no palato (manchas de Forchheimer). Artralgia é comum em adolescentes e adultas. O sarampo também é craniocaudal, mas com febre alta, tosse, coriza, conjuntivite e Koplik. A gestante contactante deve ter situação vacinal e sorológica avaliadas, pelo risco de síndrome da rubéola congênita no primeiro trimestre.",
+  "porAlt": [
+   "Sarampo traz febre alta, tosse, coriza, conjuntivite e manchas de Koplik, ausentes no caso.",
+   "No eritema infeccioso a face fica esbofeteada e o exantema é rendilhado, sem adenopatia occipital.",
+   "A escarlatina tem exantema áspero em lixa, faringite exsudativa e língua em framboesa.",
+   "O exantema súbito acomete lactentes e surge após vários dias de febre alta que cede bruscamente.",
+   "Correta: adenopatia retroauricular e occipital com exantema fugaz e febre baixa é o quadro típico da rubéola."
+  ]
+ },
+ {
+  "q": "Menina de 5 anos, previamente hígida, apresenta há 1 dia febre de 38,3 °C e lesões pruriginosas em diferentes estágios (máculas, pápulas, vesículas e crostas) no couro cabeludo, tronco e membros. Está ativa, hidratada, sem sinais de infecção secundária. A mãe pergunta o que pode dar para a febre. Qual é a orientação mais adequada?",
+  "alts": [
+   "Ácido acetilsalicílico para a febre, pois também reduz a inflamação das vesículas",
+   "Aciclovir intravenoso em regime de internação, por ser a primeira semana da doença",
+   "Ibuprofeno como antitérmico de escolha e retorno à escola após 48 horas sem febre",
+   "Paracetamol para a febre, cuidados com a pele e evitar ácido acetilsalicílico",
+   "Corticoide oral por 5 dias para reduzir o prurido e o número total de vesículas"
+  ],
+  "gab": 3,
+  "tema": "pedinfecto",
+  "sub": "Varicela: antitérmico e cuidados",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª edição, 2023",
+  "coment": "Na criança imunocompetente com varicela não complicada, o tratamento é sintomático: paracetamol ou dipirona, anti-histamínico se prurido intenso, unhas curtas e higiene da pele. O ácido acetilsalicílico é contraindicado pelo risco de síndrome de Reye, e anti-inflamatórios não esteroides se associam a infecção estreptocócica invasiva de pele. O aciclovir oral é reservado a grupos de risco (maiores de 12 anos, doença crônica de pele ou pulmão, uso de corticoide ou salicilato), e o intravenoso a imunodeprimidos ou formas graves. A criança volta à escola quando todas as lesões estiverem em crosta.",
+  "porAlt": [
+   "O ácido acetilsalicílico na varicela se associa à síndrome de Reye e deve ser evitado.",
+   "Aciclovir intravenoso fica para imunodeprimidos e formas graves, não para criança hígida.",
+   "Anti-inflamatórios se associam a infecção invasiva de pele, e o retorno escolar exige lesões em crosta.",
+   "Correta: paracetamol, higiene da pele e proibição de salicilato pelo risco de síndrome de Reye.",
+   "Corticoide sistêmico aumenta o risco de varicela grave e não tem papel no quadro não complicado."
+  ]
+ },
+ {
+  "q": "Menino de 7 anos com doença falciforme (HbSS) chega ao pronto-socorro com fadiga e palidez intensa há 2 dias. O irmão teve, há uma semana, febre baixa e bochechas muito vermelhas, seguidas de exantema rendilhado nos braços. Exame: descorado 4+/4+, baço não palpável, sem dor óssea. Hb 3,9 g/dL (basal 8 g/dL) e reticulócitos 0,2%. Qual é o diagnóstico mais provável?",
+  "alts": [
+   "Sequestro esplênico agudo com hipovolemia associada",
+   "Crise hemolítica por infecção viral intercorrente",
+   "Deficiência aguda de folato com eritropoese ineficaz",
+   "Crise aplástica transitória pelo parvovírus B19",
+   "Aplasia medular induzida por uso de hidroxiureia"
+  ],
+  "gab": 3,
+  "tema": "pedinfecto",
+  "sub": "Parvovírus B19 na doença falciforme",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Doença falciforme: condutas básicas para tratamento, 2ª edição, 2012",
+  "coment": "O parvovírus B19 causa o eritema infeccioso (face esbofeteada e exantema rendilhado) e infecta precursores eritroides. Em quem tem hemólise crônica, como na doença falciforme, a parada transitória da eritropoese derruba a hemoglobina e a reticulocitopenia é o achado decisivo. No sequestro esplênico há esplenomegalia volumosa e reticulocitose; na crise hemolítica os reticulócitos sobem. O tratamento é transfusão de concentrado de hemácias e suporte, e o paciente é contagioso até a recuperação.",
+  "porAlt": [
+   "O sequestro esplênico cursa com baço aumentado e reticulocitose, o que não se observa aqui.",
+   "Na crise hemolítica a medula responde e os reticulócitos ficam elevados.",
+   "A deficiência de folato evolui de modo gradual e não explica o contato com eritema infeccioso.",
+   "Correta: queda abrupta da hemoglobina com reticulócitos próximos de zero após contato com eritema infeccioso.",
+   "A hidroxiureia causa mielossupressão dose dependente, não aplasia eritroide isolada após contágio."
+  ]
+ },
+ {
+  "q": "Lactente de 11 meses teve febre de até 39,8 °C por 3 dias, mantendo bom estado geral entre os picos, sem foco ao exame. No quarto dia a febre cessou e surgiram máculas e pápulas róseas no tronco e pescoço, que não coçam. Exame: bom estado, linfonodos occipitais pequenos, sem outros achados. Qual é o agente etiológico mais provável?",
+  "alts": [
+   "Vírus da rubéola, da família Matonaviridae",
+   "Parvovírus B19, do gênero Erythroparvovirus",
+   "Herpesvírus humano tipo 6 (HHV-6)",
+   "Vírus do sarampo, do gênero Morbillivirus",
+   "Estreptococo beta-hemolítico do grupo A"
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Exantema súbito",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American Academy of Pediatrics. Red Book: Report of the Committee on Infectious Diseases, 2024",
+  "coment": "O exantema súbito (roséola infantum) ocorre entre 6 meses e 2 anos, com febre alta por 3 a 5 dias em criança em bom estado e exantema maculopapular róseo em tronco que aparece quando a febre cede. É causado principalmente pelo herpesvírus humano 6 (e, menos, pelo HHV-7). A febre alta favorece crise febril. O diagnóstico é clínico e o tratamento é sintomático.",
+  "porAlt": [
+   "Na rubéola o exantema coincide com febre baixa, não surge após a defervescência.",
+   "O parvovírus B19 dá face esbofeteada e exantema rendilhado em escolares.",
+   "Correta: febre alta que cede e é seguida de exantema em lactente é o padrão do HHV-6.",
+   "No sarampo o exantema aparece no auge da febre, com tosse, coriza e conjuntivite.",
+   "O estreptococo causa escarlatina com faringite e exantema áspero durante a febre."
+  ]
+ },
+ {
+  "q": "Menino de 6 anos com febre há 2 dias, dor de garganta e vômitos. Exame: amígdalas hiperemiadas com exsudato, petéquias no palato, língua em framboesa, palidez perioral e exantema micropapular áspero que se acentua nas dobras de flexão. Teste rápido para estreptococo reagente. Sem alergias. Qual é o tratamento de escolha?",
+  "alts": [
+   "Azitromicina por via oral por 3 dias",
+   "Cefalexina por via oral por 5 dias",
+   "Sintomáticos, por ser quadro viral",
+   "Imunoglobulina humana intravenosa",
+   "Amoxicilina por via oral por 10 dias"
+  ],
+  "gab": 4,
+  "tema": "pedinfecto",
+  "sub": "Escarlatina: tratamento",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Shulman ST et al. IDSA Clinical Practice Guideline for Group A Streptococcal Pharyngitis, 2012",
+  "coment": "Faringite exsudativa com exantema áspero em lixa acentuado nas dobras (linhas de Pastia), palidez perioral e língua em framboesa, com teste rápido positivo, define escarlatina pelo estreptococo do grupo A. O tratamento de escolha é penicilina: amoxicilina oral por 10 dias ou penicilina G benzatina em dose única intramuscular, para erradicar o germe e prevenir febre reumática. Macrolídeo é alternativa apenas em alergia à penicilina, e cursos curtos não garantem erradicação.",
+  "porAlt": [
+   "Macrolídeo fica para alérgicos à penicilina, e a resistência do estreptococo a ele é crescente.",
+   "Cefalexina por 5 dias não é a escolha e o curso curto não garante erradicação.",
+   "O teste rápido reagente confirma etiologia bacteriana e exige antibiótico.",
+   "Imunoglobulina é o tratamento da doença de Kawasaki, diferencial que não se aplica ao caso.",
+   "Correta: o estreptococo do grupo A segue sensível à penicilina, e o curso de 10 dias previne febre reumática."
+  ]
+ },
+ {
+  "q": "Menina de 3 anos com febre diária de 39 °C há 6 dias, sem resposta a antitérmicos. Exame: hiperemia conjuntival bilateral sem secreção, lábios vermelhos e fissurados, língua em framboesa, exantema polimorfo no tronco, edema endurado de mãos e pés e linfonodo cervical de 2 cm. Teste rápido para estreptococo negativo. Qual é a conduta?",
+  "alts": [
+   "Amoxicilina oral por 10 dias e reavaliação clínica em 48 horas no ambulatório",
+   "Prednisolona oral por 5 dias e ecocardiograma se a febre persistir no 10º dia",
+   "Imunoglobulina intravenosa 2 g/kg, ácido acetilsalicílico e ecocardiograma",
+   "Aguardar o 10º dia de febre para indicar ecocardiograma e imunoglobulina",
+   "Ácido acetilsalicílico em dose anti-inflamatória por 14 dias, sem imunoglobulina"
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Kawasaki como diferencial",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "McCrindle BW et al. Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease (AHA), 2017",
+  "coment": "Febre por 5 dias ou mais com 4 dos 5 critérios (conjuntivite bilateral não exsudativa, alterações de lábios e cavidade oral, exantema polimorfo, alterações de extremidades e linfonodo cervical de 1,5 cm ou mais) define doença de Kawasaki. Ao contrário da escarlatina, o teste para estreptococo é negativo e a conjuntivite não tem secreção. A imunoglobulina 2 g/kg em dose única, de preferência até o 10º dia de febre, com ácido acetilsalicílico, reduz aneurismas coronarianos. O ecocardiograma é feito ao diagnóstico.",
+  "porAlt": [
+   "Antibiótico não trata Kawasaki, e o teste estreptocócico negativo afasta escarlatina.",
+   "Corticoide isolado não substitui a imunoglobulina, e o ecocardiograma é feito ao diagnóstico.",
+   "Correta: Kawasaki completo pede imunoglobulina 2 g/kg, salicilato e ecocardiograma de base.",
+   "O benefício da imunoglobulina é maior antes do 10º dia; esperar aumenta o risco coronariano.",
+   "O salicilato sozinho não previne aneurismas; a imunoglobulina é o tratamento central."
+  ]
+ },
+ {
+  "q": "Menino de 8 anos com febre de 38,8 °C e odinofagia há 1 dia. Nega tosse e coriza. Exame: amígdalas aumentadas com exsudato e linfonodos cervicais anteriores dolorosos. Segundo a diretriz da IDSA para faringite estreptocócica, qual é a conduta diagnóstica recomendada antes de decidir por antibiótico?",
+  "alts": [
+   "Teste rápido para estreptococo e, se negativo, cultura de orofaringe",
+   "Dosagem de antiestreptolisina O para confirmar a infecção estreptocócica",
+   "Hemograma com contagem diferencial para definir a etiologia bacteriana",
+   "Antibiótico empírico sem exames, pois a pontuação clínica já confirma",
+   "Teste rápido e, se negativo, tratar mesmo assim por 10 dias com amoxicilina"
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Faringoamigdalite: confirmação",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Shulman ST et al. IDSA Clinical Practice Guideline for Group A Streptococcal Pharyngitis, 2012",
+  "coment": "Os achados clínicos se sobrepõem entre faringite viral e estreptocócica, por isso a IDSA recomenda confirmação microbiológica antes do antibiótico. Em crianças e adolescentes, teste rápido negativo deve ser confirmado por cultura de orofaringe, porque a sensibilidade do teste não é perfeita. Teste positivo dispensa cultura. A antiestreptolisina O reflete infecção passada e não serve ao diagnóstico agudo. Abaixo de 3 anos o teste não é rotineiro, pela baixa incidência de febre reumática.",
+  "porAlt": [
+   "Correta: na criança, teste rápido negativo deve ser confirmado com cultura antes de descartar o estreptococo.",
+   "A antiestreptolisina O sobe semanas depois e indica infecção prévia, não aguda.",
+   "Leucocitose e neutrofilia não distinguem faringite viral de estreptocócica.",
+   "Escores clínicos não têm acurácia suficiente para tratar sem confirmação microbiológica.",
+   "Tratar com teste negativo sem cultura expõe a criança a antibiótico possivelmente desnecessário."
+  ]
+ },
+ {
+  "q": "Menina de 3 anos com otalgia direita leve há 18 horas e temperatura de 38,3 °C. Otoscopia: membrana timpânica direita abaulada e hiperemiada; esquerda normal. Sem otorreia, bom estado geral, sem uso recente de antibiótico. Os pais conseguem retornar com facilidade. Segundo a diretriz da AAP para otite média aguda, qual conduta é aceitável?",
+  "alts": [
+   "Amoxicilina-clavulanato por 10 dias, por ser o primeiro episódio da criança",
+   "Ceftriaxona intramuscular por 3 dias, para evitar a mastoidite aguda",
+   "Gotas otológicas de antibiótico, sem necessidade de terapia sistêmica",
+   "Timpanocentese diagnóstica antes de qualquer decisão sobre antibiótico",
+   "Analgesia e observação, com reavaliação garantida em 48 a 72 horas"
+  ],
+  "gab": 4,
+  "tema": "pedinfecto",
+  "sub": "Otite média: observação vigilante",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Lieberthal AS et al. AAP Clinical Practice Guideline: The Diagnosis and Management of Acute Otitis Media, 2013",
+  "coment": "A AAP permite observação vigilante, em decisão compartilhada com a família, na criança de 2 anos ou mais com otite média aguda não grave (otalgia leve há menos de 48 horas e temperatura abaixo de 39 °C), uni ou bilateral, e entre 6 e 23 meses apenas se unilateral não grave. A condição é ter retorno garantido em 48 a 72 horas para iniciar antibiótico se não houver melhora. Analgesia é sempre indicada. Se tratar, a primeira escolha é amoxicilina.",
+  "porAlt": [
+   "Amoxicilina-clavulanato fica para uso recente de amoxicilina ou conjuntivite purulenta associada.",
+   "Ceftriaxona é reservada a falha terapêutica ou impossibilidade de via oral.",
+   "Gotas otológicas antibióticas tratam otite externa ou otorreia por tubo, não a otite média.",
+   "Timpanocentese é exceção para falhas repetidas, não etapa da avaliação inicial.",
+   "Correta: otite não grave a partir de 2 anos permite observação com analgesia e retorno assegurado."
+  ]
+ },
+ {
+  "q": "Menino de 6 anos com coriza mucopurulenta e tosse diurna há 12 dias, sem melhora em nenhum momento, sem febre. Exame: secreção em orofaringe posterior, sem edema periorbitário, bom estado geral. Sem uso recente de antibiótico. Qual é a conduta mais adequada?",
+  "alts": [
+   "Radiografia de seios da face para confirmar antes de prescrever antibiótico",
+   "Tomografia de seios da face para avaliar extensão antes do tratamento",
+   "Aguardar 4 semanas de sintomas para caracterizar rinossinusite bacteriana",
+   "Diagnóstico clínico de rinossinusite bacteriana e amoxicilina, sem imagem",
+   "Anti-histamínico com descongestionante oral, sem indicação de antibiótico"
+  ],
+  "gab": 3,
+  "tema": "pedinfecto",
+  "sub": "Rinossinusite bacteriana aguda",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Wald ER et al. AAP Clinical Practice Guideline for Acute Bacterial Sinusitis in Children 1 to 18 Years, 2013",
+  "coment": "A rinossinusite bacteriana aguda é diagnóstico clínico em três padrões: persistente (secreção nasal ou tosse diurna por mais de 10 dias sem melhora), grave (febre de 39 °C ou mais com secreção purulenta por 3 dias seguidos) ou piora após melhora inicial. Exames de imagem não são indicados na forma não complicada; tomografia só se suspeita de complicação orbitária ou intracraniana. A amoxicilina é a primeira escolha, e na forma persistente a AAP aceita também observação por mais 3 dias.",
+  "porAlt": [
+   "A radiografia de seios não distingue sinusite viral de bacteriana e não é recomendada.",
+   "Tomografia é reservada à suspeita de complicação orbitária ou intracraniana.",
+   "Quatro semanas definem sinusite subaguda; o critério de persistência é de mais de 10 dias.",
+   "Correta: padrão persistente por mais de 10 dias fecha o diagnóstico clínico, sem necessidade de imagem.",
+   "Anti-histamínicos e descongestionantes não têm benefício comprovado e trazem efeitos adversos na criança."
+  ]
+ },
+ {
+  "q": "Menino de 3 anos é levado à UBS com tosse e febre há 3 dias. Bebe normalmente, não vomitou, não convulsionou e está acordado e interativo. Frequência respiratória de 46 irpm, contada em 1 minuto com a criança calma, sem tiragem subcostal, sem estridor e sem sibilância. Pela estratégia AIDPI, como classificar e conduzir?",
+  "alts": [
+   "Não é pneumonia, com sintomáticos e retorno se piorar",
+   "Pneumonia, com amoxicilina oral e retorno em 2 dias",
+   "Pneumonia grave, com referência urgente ao hospital",
+   "Pneumonia, com azitromicina oral e retorno em 7 dias",
+   "Doença muito grave, com ceftriaxona e transferência"
+  ],
+  "gab": 1,
+  "tema": "pedinfecto",
+  "sub": "Pneumonia pela AIDPI",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual AIDPI Criança: 2 meses a 5 anos, 2017",
+  "coment": "Na AIDPI, respiração rápida é o critério de pneumonia: 50 irpm ou mais de 2 a 11 meses e 40 irpm ou mais de 12 meses a 5 anos. Com 3 anos e 46 irpm, sem sinais gerais de perigo e sem estridor em repouso, a classificação é pneumonia, tratada no domicílio com amoxicilina oral, orientação dos sinais de alerta e retorno em 2 dias para reavaliação. Sinais gerais de perigo ou estridor em repouso indicariam doença grave com referência urgente.",
+  "porAlt": [
+   "O ponto de corte nessa idade é 40 irpm, então a criança tem respiração rápida.",
+   "Correta: 46 irpm aos 3 anos é respiração rápida, sem sinal de perigo, o que define pneumonia tratada com amoxicilina.",
+   "Não há sinal geral de perigo nem estridor em repouso que justifique referência urgente.",
+   "O antibiótico de escolha é a amoxicilina, e a reavaliação é precoce, em 2 dias.",
+   "A criança bebe, está alerta e sem convulsão, o que afasta doença muito grave."
+  ]
+ },
+ {
+  "q": "Lactente de 14 meses com tosse e febre há 2 dias é avaliado na UBS pela estratégia AIDPI. A mãe relata vários sintomas e o enfermeiro precisa decidir se a criança pode ser tratada na unidade ou deve ser transferida. Qual dos achados abaixo, isoladamente, é um sinal geral de perigo que indica referência urgente ao hospital?",
+  "alts": [
+   "Febre axilar de 39,5 °C",
+   "Tosse há mais de 14 dias",
+   "Coriza com secreção purulenta",
+   "Sibilância na ausculta pulmonar",
+   "Vomitar tudo o que ingere"
+  ],
+  "gab": 4,
+  "tema": "pedinfecto",
+  "sub": "Sinais gerais de perigo AIDPI",
+  "cenario": "amb",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual AIDPI Criança: 2 meses a 5 anos, 2017",
+  "coment": "A AIDPI define como sinais gerais de perigo, em crianças de 2 meses a 5 anos: não conseguir beber ou mamar, vomitar tudo o que ingere, convulsões (história ou no momento) e estar letárgica ou inconsciente. Qualquer um deles classifica doença muito grave e indica dose pré-referência de antibiótico quando cabível e transferência urgente. Febre alta, tosse prolongada e sibilância exigem avaliação própria, mas não são sinais gerais de perigo.",
+  "porAlt": [
+   "Febre alta é avaliada no quadro de febre, mas isoladamente não é sinal geral de perigo.",
+   "Tosse prolongada pede investigação de tuberculose ou asma, não referência urgente por si.",
+   "Coriza purulenta é comum em infecções virais e não indica gravidade.",
+   "Sibilância conduz ao manejo com broncodilatador e não é sinal geral de perigo.",
+   "Correta: vomitar tudo é um dos quatro sinais gerais de perigo da AIDPI."
+  ]
+ },
+ {
+  "q": "Lactente de 5 meses, nascido a termo, com coriza há 3 dias, evoluindo com tosse, taquipneia leve e sibilos e crepitações difusos. Primeiro episódio. Aceita o seio com pausas, sem desidratação, SpO2 de 94% em ar ambiente. Irmão de 4 anos resfriado. Qual conduta está de acordo com a diretriz da AAP para bronquiolite viral aguda?",
+  "alts": [
+   "Nebulização com salbutamol a cada 4 horas e prednisolona oral por 3 dias",
+   "Fisioterapia respiratória diária e amoxicilina pelas crepitações difusas",
+   "Radiografia de tórax e hemograma para todos antes de definir a conduta",
+   "Desobstrução nasal, manter hidratação e oxigênio só se SpO2 abaixo de 90%",
+   "Epinefrina nebulizada de horário e solução salina hipertônica no pronto-socorro"
+  ],
+  "gab": 3,
+  "tema": "pedinfecto",
+  "sub": "Bronquiolite: o que não fazer",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ralston SL et al. AAP Clinical Practice Guideline: Diagnosis, Management, and Prevention of Bronchiolitis, 2014",
+  "coment": "A bronquiolite viral aguda é diagnóstico clínico e o tratamento é de suporte: desobstrução nasal, hidratação e oxigênio quando a saturação fica persistentemente abaixo de 90%. A AAP recomenda não usar salbutamol, epinefrina, corticoide sistêmico, fisioterapia respiratória nem antibiótico sem infecção bacteriana documentada, e não fazer rotineiramente radiografia e exames laboratoriais. Solução salina hipertônica não deve ser usada no pronto-socorro.",
+  "porAlt": [
+   "Broncodilatador e corticoide não mudam a evolução da bronquiolite e não são recomendados.",
+   "Fisioterapia não traz benefício, e crepitações fazem parte do quadro viral, sem indicar antibiótico.",
+   "Radiografia e exames laboratoriais não são rotina no quadro típico e levam a antibiótico desnecessário.",
+   "Correta: suporte com desobstrução nasal e hidratação, oxigênio apenas com SpO2 persistente abaixo de 90%.",
+   "Epinefrina não é recomendada, e salina hipertônica não deve ser usada no pronto-socorro."
+  ]
+ },
+ {
+  "q": "Lactente de 6 semanas, sem vacinas, com coriza há 10 dias e, há 4 dias, acessos de tosse em salvas seguidos de cianose, guincho inspiratório e vômitos. Teve dois episódios de apneia em casa. Afebril entre as crises. Leucócitos 32.000/mm³ com 74% de linfócitos. Radiografia sem consolidação. Além da internação, qual é a conduta?",
+  "alts": [
+   "Amoxicilina 50 mg/kg/dia por 10 dias e precaução para contato",
+   "Claritromicina por 14 dias, com isolamento respiratório por aerossóis",
+   "Azitromicina 10 mg/kg/dia por 5 dias e precaução para gotículas",
+   "Eritromicina por 3 dias, preferida pela via oral nessa faixa etária",
+   "Sulfametoxazol-trimetoprima por 14 dias e alta após a primeira dose"
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Coqueluche no lactente jovem",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª edição, 2023",
+  "coment": "Tosse paroxística com guincho, cianose, vômitos e apneia em lactente não vacinado, com leucocitose e linfocitose, sugere coqueluche. Lactentes pequenos devem ser internados pelo risco de apneia, pneumonia e hipertensão pulmonar. A azitromicina é o macrolídeo de escolha: abaixo de 6 meses, 10 mg/kg/dia em dose única diária por 5 dias. A eritromicina é evitada em menores de 1 mês pelo risco de estenose hipertrófica de piloro. Mantém-se precaução para gotículas até 5 dias de antibiótico, e os contatos recebem quimioprofilaxia com o mesmo esquema.",
+  "porAlt": [
+   "Amoxicilina não é ativa contra Bordetella pertussis, e a precaução indicada é para gotículas.",
+   "A transmissão é por gotículas, não por aerossóis, e o esquema de 14 dias não é o preconizado.",
+   "Correta: azitromicina 10 mg/kg/dia por 5 dias é o esquema para menores de 6 meses, com precaução para gotículas.",
+   "Três dias de eritromicina não erradicam o agente, e ela se associa a estenose de piloro no lactente jovem.",
+   "O sulfametoxazol é alternativa só em alergia a macrolídeo e é contraindicado antes de 2 meses."
+  ]
+ },
+ {
+  "q": "Menino de 9 anos é internado com doença meningocócica confirmada. Mora com os pais e a irmã de 6 anos, que pesa 20 kg e não tem alergias. A família pergunta o que fazer com a irmã, que está assintomática. Segundo o Guia de Vigilância em Saúde, qual é a quimioprofilaxia indicada para ela?",
+  "alts": [
+   "Rifampicina 20 mg/kg uma vez ao dia por 4 dias",
+   "Amoxicilina 50 mg/kg/dia a cada 8 horas por 7 dias",
+   "Penicilina G benzatina em dose única intramuscular",
+   "Rifampicina 10 mg/kg a cada 12 horas por 2 dias",
+   "Nenhuma, com observação de sinais de febre por 10 dias"
+  ],
+  "gab": 3,
+  "tema": "pedinfecto",
+  "sub": "Meningococo: quimioprofilaxia",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª edição, 2023",
+  "coment": "Na doença meningocócica, contatos íntimos (moradores do mesmo domicílio, compartilhadores do mesmo dormitório, comunicantes de creche e profissionais expostos a secreções sem proteção) recebem quimioprofilaxia, idealmente nas primeiras 48 horas. O esquema de escolha em crianças a partir de 1 mês é rifampicina 10 mg/kg (máximo 600 mg) a cada 12 horas por 2 dias; abaixo de 1 mês, 5 mg/kg. Ceftriaxona em dose única é alternativa, como na gestante. O esquema de 20 mg/kg/dia por 4 dias é o do Haemophilus influenzae tipo b.",
+  "porAlt": [
+   "Rifampicina diária por 4 dias é a quimioprofilaxia para contatos de Haemophilus influenzae tipo b.",
+   "Amoxicilina não erradica o meningococo da nasofaringe e não é usada como profilaxia.",
+   "Penicilina benzatina não elimina o estado de portador do meningococo.",
+   "Correta: rifampicina 10 mg/kg de 12 em 12 horas por 2 dias é o esquema para meningococo nessa idade.",
+   "Contato domiciliar tem alto risco de doença secundária e deve receber quimioprofilaxia."
+  ]
+ },
+ {
+  "q": "Menina de 2 anos com febre há 1 dia, vômitos e irritabilidade. Exame: rigidez de nuca e petéquias em membros inferiores, perfusão normal. Líquor turvo: 2.400 células/mm³ com 90% de neutrófilos, glicose 18 mg/dL (glicemia 98 mg/dL), proteína 190 mg/dL. Bacterioscopia com diplococos gram-negativos. Vacinação em dia. Qual é a conduta antimicrobiana e de precaução?",
+  "alts": [
+   "Ampicilina associada a gentamicina e precaução padrão durante toda a internação",
+   "Ceftriaxona 100 mg/kg/dia e precaução para gotículas nas primeiras 24 horas",
+   "Vancomicina em monoterapia e precaução para aerossóis até o resultado da cultura do líquor",
+   "Aciclovir intravenoso e precaução de contato até a alta hospitalar da criança",
+   "Ceftriaxona 50 mg/kg/dia e isolamento para aerossóis por 7 dias completos"
+  ],
+  "gab": 1,
+  "tema": "pedinfecto",
+  "sub": "Meningite bacteriana: tratamento",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Tunkel AR et al. IDSA Practice Guidelines for the Management of Bacterial Meningitis, 2004",
+  "coment": "Líquor com pleocitose neutrofílica, glicose baixa (relação líquor/sangue abaixo de 0,4) e proteína alta indica meningite bacteriana; diplococos gram-negativos com petéquias apontam para meningococo. Acima de 1 mês, a terapia empírica é cefalosporina de terceira geração em dose meníngea: ceftriaxona 100 mg/kg/dia. A vancomicina é acrescentada quando há risco de pneumococo resistente, mas nunca como monoterapia. A doença meningocócica exige precaução para gotículas até completar 24 horas de antibiótico eficaz e notificação imediata para quimioprofilaxia dos contatos.",
+  "porAlt": [
+   "Ampicilina com gentamicina é esquema neonatal, e o meningococo exige precaução para gotículas.",
+   "Correta: ceftriaxona em dose meníngea e precaução para gotículas até 24 horas de antibiótico.",
+   "Vancomicina não cobre gram-negativos, e o meningococo não se transmite por aerossóis.",
+   "O líquor é bacteriano, não viral; aciclovir se reserva à suspeita de encefalite herpética.",
+   "A dose meníngea de ceftriaxona é 100 mg/kg/dia, e a transmissão é por gotículas."
+  ]
+ },
+ {
+  "q": "Menino de 2 anos com diarreia aquosa há 2 dias, sem sangue. Exame: irritado, olhos fundos, bebe água com avidez, sinal da prega desaparece lentamente, pulso cheio, enchimento capilar de 2 segundos, alerta. Segundo o manejo do paciente com diarreia do Ministério da Saúde, qual é a classificação e o plano?",
+  "alts": [
+   "Sem desidratação, plano A com SRO no domicílio",
+   "Desidratação grave, plano C com hidratação venosa",
+   "Desidratação, plano B com SRO na unidade de saúde",
+   "Desidratação, plano B com soro venoso de manutenção",
+   "Sem desidratação, ondansetrona e alta com dieta zero"
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Diarreia: classificação e plano B",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manejo do paciente com diarreia (atualização), 2023",
+  "coment": "Dois ou mais sinais entre inquietação ou irritabilidade, olhos fundos, sede intensa (bebe avidamente) e prega que desaparece lentamente classificam desidratação, tratada com o plano B: terapia de reidratação oral com SRO na unidade de saúde, sob observação, até desaparecerem os sinais. Letargia, incapacidade de beber, prega que desaparece muito lentamente ou pulso fraco indicariam desidratação grave e plano C. Após reidratar, a criança segue no plano A, com zinco e alimentação habitual.",
+  "porAlt": [
+   "Há quatro sinais de desidratação, o que tira a criança do plano A.",
+   "Ela está alerta, bebe e tem pulso cheio, sem critério de desidratação grave.",
+   "Correta: irritabilidade, olhos fundos, sede intensa e prega lenta definem desidratação e plano B na unidade.",
+   "O plano B é feito por via oral com SRO; a via venosa é reservada ao plano C ou à falha oral.",
+   "A criança está desidratada, e jejum prolongado piora a recuperação da mucosa intestinal."
+  ]
+ },
+ {
+  "q": "Menina de 3 anos, 14 kg, com diarreia e vômitos há 3 dias, chega letárgica, sem conseguir beber, olhos muito fundos, prega cutânea que desaparece muito lentamente e pulso fino. Obtido acesso venoso. Segundo a atualização de 2023 do Ministério da Saúde sobre manejo da diarreia, como deve ser a fase de expansão?",
+  "alts": [
+   "100 mL/kg de Ringer lactato ou SF 0,9% em 3 horas: 30 mL/kg em 30 minutos e depois 70 mL/kg em 2 horas e 30 minutos",
+   "100 mL/kg de Ringer lactato ou SF 0,9% em 6 horas: 30 mL/kg na primeira hora e 70 mL/kg nas 5 horas seguintes",
+   "SF 0,9% 20 mL/kg em 30 minutos, repetido até melhora, seguido de soro de manutenção por Holliday-Segar",
+   "Soro glicosado 5% e SF 0,9% na proporção 4:1, 50 mL/kg em 4 horas, com reavaliação ao final da infusão",
+   "SRO 100 mL/kg por sonda nasogástrica em 4 horas, deixando a via venosa para o caso de falha da sonda"
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Diarreia: plano C",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manejo do paciente com diarreia (atualização), 2023",
+  "coment": "A atualização de 2023 do Ministério da Saúde alinhou o plano C ao esquema da OMS: 100 mL/kg de Ringer lactato (ou SF 0,9%) por via venosa. A partir de 1 ano, 30 mL/kg em 30 minutos e 70 mL/kg em 2 horas e 30 minutos (3 horas no total); abaixo de 1 ano, 30 mL/kg na primeira hora e 70 mL/kg nas 5 horas seguintes (6 horas). Reavalia-se a cada etapa, e a SRO é iniciada assim que a criança conseguir beber. O esquema antigo de fase rápida com SF 20 mL/kg repetido e soro de manutenção deixou de ser o padrão.",
+  "porAlt": [
+   "Correta: a partir de 1 ano, o plano C atual faz 100 mL/kg em 3 horas, dividido em 30 e 70 mL/kg.",
+   "O tempo de 6 horas é o esquema para menores de 1 ano; a criança tem 3 anos.",
+   "Esse era o esquema anterior de fase rápida, substituído na atualização de 2023.",
+   "Solução hipotônica com glicose não serve à expansão de desidratação grave com pulso fino.",
+   "Sonda é alternativa só sem acesso venoso; a via venosa é a prioridade no choque hipovolêmico."
+  ]
+ },
+ {
+  "q": "Lactente de 8 meses com primeiro episódio de febre de 39,4 °C sem foco aparente. Urina coletada por cateterismo vesical: leucocitúria, nitrito positivo e urocultura com 80.000 UFC/mL de Escherichia coli. Tratada com boa resposta clínica em 48 horas. Segundo a diretriz da AAP para infecção urinária febril de 2 a 24 meses, qual exame de imagem está indicado após este episódio?",
+  "alts": [
+   "Ultrassonografia de rins e vias urinárias",
+   "Uretrocistografia miccional logo após a cura",
+   "Cintilografia renal com DMSA na fase aguda",
+   "Tomografia de abdome com contraste venoso",
+   "Urografia excretora para avaliar o refluxo"
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "ITU febril: investigação",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Roberts KB et al. AAP Clinical Practice Guideline: Urinary Tract Infection in Febrile Infants and Children 2 to 24 Months, 2011 (reafirmada em 2016)",
+  "coment": "Após a primeira infecção urinária febril entre 2 e 24 meses, a AAP recomenda ultrassonografia de rins e vias urinárias para detectar anomalias estruturais. A uretrocistografia miccional não é rotina no primeiro episódio: fica reservada a ultrassonografia com hidronefrose, cicatrizes ou outros achados sugestivos de refluxo de alto grau ou uropatia obstrutiva, ou a recorrência febril. A cintilografia com DMSA é usada para cicatriz renal, não como triagem. A coleta por cateterismo ou punção suprapúbica é obrigatória para o diagnóstico nessa idade.",
+  "porAlt": [
+   "Correta: a ultrassonografia de rins e vias urinárias é o exame indicado após a primeira infecção urinária febril.",
+   "Uretrocistografia fica para ultrassonografia alterada ou recorrência febril, não para o primeiro episódio.",
+   "A DMSA não é exame de rotina nesse cenário e avalia cicatriz, não anomalia estrutural.",
+   "Tomografia expõe a radiação sem indicação na infecção urinária não complicada.",
+   "Urografia excretora não avalia refluxo e foi abandonada na investigação pediátrica."
+  ]
+ },
+ {
+  "q": "Menino de 5 anos, morador de área sem saneamento, apresenta há 6 dias tosse seca, sibilância e febre baixa. Hemograma com 22% de eosinófilos. Radiografia com infiltrados pulmonares transitórios que mudam de posição em nova imagem após 4 dias. Qual parasita, por ter ciclo pulmonar, mais provavelmente explica o quadro?",
+  "alts": [
+   "Enterobius vermicularis",
+   "Giardia duodenalis",
+   "Ascaris lumbricoides",
+   "Trichuris trichiura",
+   "Taenia solium adulta"
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Síndrome de Loeffler",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Doenças infecciosas e parasitárias: guia de bolso, 8ª edição, 2010",
+  "coment": "A síndrome de Loeffler é pneumonite eosinofílica transitória causada pela passagem de larvas pelos pulmões, com tosse, sibilância, febre baixa, eosinofilia e infiltrados migratórios. Os helmintos com ciclo pulmonar são Ascaris lumbricoides, ancilostomídeos e Strongyloides stercoralis; o áscaris é o mais frequente em crianças. Enterobius, Trichuris e Giardia não passam pelo pulmão. O tratamento da ascaridíase é albendazol 400 mg em dose única ou mebendazol.",
+  "porAlt": [
+   "O oxiúro tem ciclo restrito ao intestino e causa prurido anal, sem fase pulmonar.",
+   "Giardia é protozoário intestinal sem ciclo pulmonar e sem eosinofilia importante.",
+   "Correta: as larvas do áscaris migram pelos pulmões e causam a síndrome de Loeffler.",
+   "O tricocéfalo se desenvolve diretamente no intestino, sem passagem pulmonar.",
+   "A tênia adulta vive no intestino e não produz larvas que migrem pelos pulmões."
+  ]
+ },
+ {
+  "q": "Menino de 2 anos é trazido à sala de emergência. Na avaliação de porta, pelo triângulo de avaliação pediátrica, está hipotônico, olhar vago, sem interagir com a mãe; respira sem ruídos, sem tiragem nem batimento de asa nasal; a pele está pálida e mosqueada. Qual é a impressão inicial mais provável?",
+  "alts": [
+   "Choque, por aparência e circulação alteradas",
+   "Insuficiência respiratória, por aparência alterada",
+   "Disfunção primária do sistema nervoso central",
+   "Desconforto respiratório com perfusão preservada",
+   "Criança estável, por respirar sem esforço visível"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Triângulo de avaliação pediátrica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American Heart Association. Pediatric Advanced Life Support Provider Manual, 2020",
+  "coment": "O triângulo de avaliação pediátrica examina, em segundos e sem tocar a criança, aparência (tônus, interação, olhar, fala ou choro), trabalho respiratório e circulação da pele. Aparência e circulação alteradas com respiração normal indicam choque. Aparência alterada com aumento do trabalho respiratório sugere insuficiência respiratória; aparência alterada isolada sugere disfunção do sistema nervoso central ou distúrbio metabólico. Respiração sem esforço com hipoperfusão pode ser taquipneia silenciosa de compensação de acidose.",
+  "porAlt": [
+   "Correta: aparência e circulação alteradas com trabalho respiratório normal configuram choque no triângulo.",
+   "Insuficiência respiratória exigiria aumento do trabalho respiratório, que está ausente.",
+   "Disfunção primária do SNC é a aparência alterada isolada, mas a pele está mosqueada.",
+   "Não há sinal de desconforto respiratório, e a perfusão da pele está comprometida.",
+   "A hipotonia e a pele mosqueada mostram que a criança está instável."
+  ]
+ },
+ {
+  "q": "Menina de 5 anos, 18 kg, com vômitos e diarreia há 2 dias, chega taquicárdica (FC 160 bpm), com enchimento capilar de 4 segundos, extremidades frias e sonolenta. Pressão arterial sistólica de 76 mmHg. Segundo os critérios do PALS para hipotensão, como classificar o choque?",
+  "alts": [
+   "Compensado, pois o limite para a idade é 70 mmHg",
+   "Compensado, pois o limite para a idade é 60 mmHg",
+   "Hipotensivo, pois o limite para a idade é 80 mmHg",
+   "Hipotensivo, pois o limite para a idade é 90 mmHg",
+   "Sem choque, pois a pressão é normal até 10 anos"
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Hipotensão por idade no PALS",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American Heart Association. Pediatric Advanced Life Support Provider Manual, 2020",
+  "coment": "O PALS define hipotensão pela pressão arterial sistólica: abaixo de 60 mmHg no recém-nascido a termo, abaixo de 70 mmHg de 1 mês a 1 ano, abaixo de 70 + (2 × idade em anos) de 1 a 10 anos e abaixo de 90 mmHg acima de 10 anos. Aos 5 anos o limite é 80 mmHg, logo 76 mmHg caracteriza choque hipotensivo (descompensado), que exige expansão volêmica imediata e reavaliação frequente. A taquicardia e a má perfusão aparecem antes da queda pressórica.",
+  "porAlt": [
+   "70 mmHg é o limite de 1 mês a 1 ano, não de uma criança de 5 anos.",
+   "60 mmHg é o limite do recém-nascido a termo.",
+   "Correta: aos 5 anos o limite é 70 + 2 × 5 = 80 mmHg, e 76 mmHg é hipotensão.",
+   "90 mmHg vale acima de 10 anos; para 5 anos o cálculo dá 80 mmHg.",
+   "Taquicardia, perfusão lentificada e sonolência já indicam choque, independentemente da pressão."
+  ]
+ },
+ {
+  "q": "Lactente de 6 meses, internado por pneumonia, é encontrado irresponsivo, sem respiração eficaz e sem pulso braquial palpável em 10 segundos. Há dois socorristas treinados e ainda não há via aérea avançada. Segundo a diretriz da AHA de 2025, qual é a técnica de compressão e a relação compressão:ventilação recomendadas?",
+  "alts": [
+   "Dois dedos sobre o esterno, com relação de 15:2",
+   "Dois polegares, mãos envolvendo o tórax, relação 15:2",
+   "Dois polegares com as mãos envolvendo o tórax, 30:2",
+   "Região tenar de uma mão no esterno, com relação 3:1",
+   "Dois dedos sobre o esterno, com relação de 30:2"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "RCP no lactente: técnica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American Heart Association. Guidelines for CPR and Emergency Cardiovascular Care: Pediatric Basic and Advanced Life Support, 2025",
+  "coment": "A diretriz da AHA de 2025 retirou a compressão com dois dedos no lactente, por não alcançar a profundidade adequada, e recomenda a técnica de dois polegares com as mãos envolvendo o tórax ou a região hipotênar de uma mão. Com dois socorristas, a relação é 15 compressões para 2 ventilações; com um socorrista, 30:2. A profundidade é de pelo menos um terço do diâmetro anteroposterior do tórax (cerca de 4 cm no lactente), na frequência de 100 a 120 por minuto. A relação 3:1 é da reanimação neonatal na sala de parto.",
+  "porAlt": [
+   "A técnica de dois dedos deixou de ser recomendada em 2025 por gerar compressão rasa.",
+   "Correta: dois polegares envolvendo o tórax e 15:2 com dois socorristas.",
+   "A relação 30:2 é para um socorrista; com dois, usa-se 15:2.",
+   "A relação 3:1 é da reanimação do recém-nascido na sala de parto, não do lactente.",
+   "Dois dedos foram retirados, e 30:2 vale apenas para socorrista único."
+  ]
+ },
+ {
+  "q": "Criança de 3 anos, 15 kg, internada por sepse, evolui na enfermaria com parada cardiorrespiratória e assistolia confirmada em mais de uma derivação no monitor. RCP de alta qualidade em andamento e acesso intraósseo obtido. Qual é a dose de epinefrina e o intervalo de repetição recomendados?",
+  "alts": [
+   "1,5 mg por via intraóssea, repetida a cada 3 a 5 minutos",
+   "0,015 mg por via intraóssea, repetida a cada 2 minutos",
+   "0,15 mg por via intraóssea, repetida a cada 10 minutos",
+   "0,15 mg por via intraóssea, repetida a cada 3 a 5 minutos",
+   "0,15 mg por via endotraqueal, preferível à via intraóssea já obtida"
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Epinefrina na PCR pediátrica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American Heart Association. Guidelines for CPR and Emergency Cardiovascular Care: Pediatric Basic and Advanced Life Support, 2025",
+  "coment": "Na parada pediátrica, a epinefrina intravenosa ou intraóssea é 0,01 mg/kg (0,1 mL/kg da solução de 0,1 mg/mL), dose máxima de 1 mg, repetida a cada 3 a 5 minutos. Para 15 kg, 0,15 mg (1,5 mL). Em ritmo não chocável, deve ser dada o mais cedo possível. A via endotraqueal só é usada sem acesso vascular, com dose maior (0,1 mg/kg). O acesso intraósseo é tão eficaz quanto o venoso e deve ser obtido rapidamente se a punção venosa falhar.",
+  "porAlt": [
+   "1,5 mg é dez vezes a dose e ultrapassa o máximo de 1 mg por dose.",
+   "0,015 mg é um décimo da dose, e o intervalo correto é de 3 a 5 minutos.",
+   "A dose está certa, mas o intervalo de 10 minutos é longo demais.",
+   "Correta: 0,01 mg/kg resulta em 0,15 mg para 15 kg, a cada 3 a 5 minutos.",
+   "A via endotraqueal é alternativa sem acesso vascular e usa dose dez vezes maior."
+  ]
+ },
+ {
+  "q": "Menino de 6 anos, 20 kg, com miocardite em investigação, perde a consciência subitamente durante a internação, sem pulso central palpável. A equipe inicia compressões e ventilações. O monitor mostra fibrilação ventricular. Desfibrilador manual disponível com pás pediátricas. Qual é a conduta imediata?",
+  "alts": [
+   "Desfibrilar com 40 J e retomar a RCP de imediato",
+   "Cardioversão sincronizada com 10 J e checar o pulso",
+   "Desfibrilar com 200 J e retomar a RCP de imediato",
+   "Amiodarona 100 mg intraóssea antes do primeiro choque",
+   "Desfibrilar com 40 J e checar o pulso logo em seguida"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Fibrilação ventricular pediátrica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American Heart Association. Guidelines for CPR and Emergency Cardiovascular Care: Pediatric Basic and Advanced Life Support, 2025",
+  "coment": "Em fibrilação ventricular ou taquicardia ventricular sem pulso, a prioridade é o choque não sincronizado: 2 J/kg no primeiro choque (40 J para 20 kg), 4 J/kg no segundo e doses seguintes de 4 J/kg ou mais, até 10 J/kg ou a dose de adulto. Após cada choque, retoma-se a RCP imediatamente por 2 minutos, sem checar pulso. Epinefrina entra após o segundo choque e amiodarona 5 mg/kg ou lidocaína 1 mg/kg após o terceiro, se o ritmo persistir.",
+  "porAlt": [
+   "Correta: primeiro choque de 2 J/kg (40 J) seguido de RCP imediata por 2 minutos.",
+   "Cardioversão sincronizada é para taquiarritmia com pulso; FV exige desfibrilação.",
+   "200 J é energia de adulto e excede muito o calculado para 20 kg no primeiro choque.",
+   "O antiarrítmico vem após o terceiro choque, não antes do primeiro.",
+   "A checagem de pulso logo após o choque atrasa as compressões e não é recomendada."
+  ]
+ },
+ {
+  "q": "Lactente de 1 ano, com bronquiolite grave, evolui com frequência cardíaca de 50 bpm, pulsos finos, enchimento capilar de 5 segundos e rebaixamento do nível de consciência. Está sendo ventilado com bolsa-válvula-máscara e oxigênio a 100%, com boa expansão torácica, e a frequência não melhora. Qual é o próximo passo?",
+  "alts": [
+   "Iniciar compressões torácicas",
+   "Atropina como primeira medida",
+   "Instalar marcapasso transcutâneo",
+   "Administrar adenosina em bolus",
+   "Manter ventilação e reavaliar"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Bradicardia com hipoperfusão",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American Heart Association. Guidelines for CPR and Emergency Cardiovascular Care: Pediatric Basic and Advanced Life Support, 2025",
+  "coment": "Na criança, a bradicardia costuma ser secundária a hipóxia. Se a frequência cardíaca permanece abaixo de 60 bpm com sinais de má perfusão apesar de oxigenação e ventilação adequadas, inicia-se RCP com compressões torácicas. A epinefrina é o fármaco de escolha se a bradicardia persistir; a atropina fica para aumento do tônus vagal ou bloqueio atrioventricular primário. Marcapasso é exceção para bloqueio completo ou disfunção do nó sinusal.",
+  "porAlt": [
+   "Correta: FC abaixo de 60 bpm com hipoperfusão apesar de ventilação eficaz indica compressões torácicas.",
+   "Atropina é reservada à bradicardia vagal ou ao bloqueio AV, não à bradicardia hipóxica.",
+   "Marcapasso fica para bloqueio cardíaco completo, não para bradicardia hipóxica.",
+   "Adenosina trata taquicardia supraventricular e pioraria a bradicardia.",
+   "Com hipoperfusão persistente, apenas reavaliar atrasa a RCP indicada."
+  ]
+ },
+ {
+  "q": "Menina de 4 anos, 16 kg, com febre, letargia, taquicardia, enchimento capilar de 5 segundos e extremidades frias. Hospital com UTI pediátrica disponível. Obtido acesso venoso e colhidas hemoculturas. Segundo a Surviving Sepsis Campaign pediátrica, qual é a conduta na primeira hora?",
+  "alts": [
+   "Cristaloide 60 mL/kg em infusão única, sem reavaliar, e antimicrobiano em até 3 horas",
+   "Albumina 5% 20 mL/kg como primeira escolha e antimicrobiano após resultado da cultura",
+   "Soro de manutenção por Holliday-Segar e dopamina iniciada de imediato por acesso central",
+   "Cristaloide 10 a 20 mL/kg por bolus, reavaliando, e antimicrobiano na primeira hora",
+   "Restrição hídrica pelo risco de edema pulmonar e hidrocortisona antes de qualquer fluido"
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Choque séptico: primeira hora",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Weiss SL et al. Surviving Sepsis Campaign International Guidelines for Septic Shock in Children, 2020",
+  "coment": "Na criança com choque séptico, a Surviving Sepsis Campaign pediátrica recomenda antimicrobiano de amplo espectro o mais cedo possível, idealmente na primeira hora. Onde há terapia intensiva, sugere bolus de 10 a 20 mL/kg de cristaloide, de preferência balanceado, até 40 a 60 mL/kg na primeira hora, guiados por marcadores de débito cardíaco e interrompidos se surgirem sinais de sobrecarga hídrica. Albumina não é primeira escolha, e dopamina não é o vasoativo preferido.",
+  "porAlt": [
+   "O volume é fracionado e reavaliado a cada bolus, e o antimicrobiano é dado na primeira hora.",
+   "Albumina não é a escolha inicial, e o antibiótico não espera a cultura no choque.",
+   "Soro de manutenção não expande, e epinefrina ou norepinefrina são preferidas à dopamina.",
+   "Correta: bolus fracionados de 10 a 20 mL/kg com reavaliação e antimicrobiano na primeira hora.",
+   "Hipoperfusão exige expansão; corticoide não antecede fluido e vasoativo."
+  ]
+ },
+ {
+  "q": "Menino de 3 anos com choque séptico de foco pulmonar recebeu 40 mL/kg de cristaloide balanceado em bolus e ceftriaxona na primeira hora. Persiste com enchimento capilar de 5 segundos, extremidades frias e PA no limite inferior; surgiram estertores em bases e hepatomegalia. Tem apenas acesso venoso periférico. Segundo a Surviving Sepsis Campaign pediátrica, qual é a conduta?",
+  "alts": [
+   "Infundir mais 40 mL/kg de cristaloide antes do vasoativo",
+   "Iniciar dopamina, droga preferida na sepse pediátrica",
+   "Aguardar a instalação de acesso venoso central para iniciar o vasoativo",
+   "Hidrocortisona agora e reavaliar o vasoativo em 6 horas",
+   "Iniciar epinefrina em infusão, mesmo por acesso periférico"
+  ],
+  "gab": 4,
+  "tema": "pedemerg",
+  "sub": "Choque séptico refratário a fluido",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Weiss SL et al. Surviving Sepsis Campaign International Guidelines for Septic Shock in Children, 2020",
+  "coment": "Persistência de hipoperfusão após 40 a 60 mL/kg de fluido, ou sinais de sobrecarga como estertores e hepatomegalia, indica vasoativo. A Surviving Sepsis Campaign pediátrica sugere epinefrina ou norepinefrina, e não dopamina, e aceita iniciar a infusão por acesso periférico ou intraósseo diluído enquanto se obtém o acesso central. Mais fluido agravaria a congestão. A hidrocortisona é considerada no choque refratário a vasoativos, não como substituta deles.",
+  "porAlt": [
+   "Estertores e hepatomegalia são sinais de sobrecarga, e mais fluido piora a congestão.",
+   "A diretriz sugere epinefrina ou norepinefrina, não dopamina.",
+   "Não se deve atrasar o vasoativo esperando acesso central; via periférica é aceitável.",
+   "Corticoide é adjuvante no choque refratário a vasoativo, não substitui a droga vasoativa.",
+   "Correta: choque refratário a fluido com congestão pede epinefrina, podendo começar por via periférica."
+  ]
+ },
+ {
+  "q": "Menina de 8 anos com asma chega ao pronto-socorro com crise grave: fala palavras soltas, tiragem intercostal, SpO2 de 89% em ar ambiente. Recebeu oxigênio, salbutamol com espaçador a cada 20 minutos associado a ipratrópio e prednisolona oral na primeira hora. Após 1 hora persiste com crise grave e SpO2 de 91% com oxigênio. Qual é o próximo passo terapêutico?",
+  "alts": [
+   "Aminofilina intravenosa em dose de ataque como primeira opção",
+   "Sulfato de magnésio intravenoso, 40 a 50 mg/kg em 20 minutos",
+   "Adrenalina intramuscular repetida a cada 5 minutos por 3 doses",
+   "Montelucaste oral em dose dobrada associado a anti-histamínico",
+   "Amoxicilina com clavulanato e manter a oxigenoterapia sem novas drogas"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Crise asmática grave",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2025",
+  "coment": "Na crise grave sem resposta à primeira hora de beta-2 agonista de curta ação repetido, ipratrópio, oxigênio e corticoide sistêmico, a GINA recomenda considerar sulfato de magnésio intravenoso; na criança, 40 a 50 mg/kg (máximo 2 g) em 20 minutos. Aminofilina tem pior perfil de segurança e eficácia menor. Adrenalina intramuscular é para crise associada a anafilaxia. Antibiótico só se houver evidência de infecção bacteriana.",
+  "porAlt": [
+   "Aminofilina não é recomendada pela toxicidade e pelo pequeno benefício adicional.",
+   "Correta: sulfato de magnésio IV é o próximo passo na crise grave que não responde à primeira hora.",
+   "Adrenalina intramuscular é reservada à asma associada a anafilaxia ou angioedema.",
+   "Montelucaste e anti-histamínico não têm papel no tratamento da crise grave.",
+   "Não há sinal de infecção bacteriana, e antibiótico não trata broncoespasmo."
+  ]
+ },
+ {
+  "q": "Menino de 20 meses, vacinação em dia, teve crise tônico-clônica generalizada de 3 minutos no início de quadro febril por resfriado. Chega ao pronto-socorro 40 minutos depois, acordado, interagindo, sem sinais meníngeos e sem déficit focal. Primeiro episódio. Qual é a conduta adequada?",
+  "alts": [
+   "Punção lombar obrigatória por ser a primeira crise febril da criança",
+   "Tratar a causa da febre e orientar a família, sem EEG, neuroimagem ou punção",
+   "Eletroencefalograma e tomografia de crânio antes da alta hospitalar",
+   "Fenobarbital diário por 1 ano para prevenir a recorrência das crises",
+   "Antitérmico de horário em todo episódio febril para evitar novas crises"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Crise febril simples",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Subcommittee on Febrile Seizures. AAP Clinical Practice Guideline: Neurodiagnostic Evaluation of the Child With a Simple Febrile Seizure, 2011",
+  "coment": "Crise febril simples ocorre entre 6 e 60 meses, é generalizada, dura menos de 15 minutos e não se repete em 24 horas, em criança sem infecção do SNC. A AAP não recomenda eletroencefalograma, neuroimagem nem exames de sangue de rotina. A punção lombar é indicada se houver sinais meníngeos e considerada entre 6 e 12 meses com vacinação incompleta ou uso prévio de antibiótico. Antitérmico melhora o conforto, mas não previne recorrência, e anticonvulsivante contínuo não é indicado.",
+  "porAlt": [
+   "Sem sinais meníngeos, com 20 meses e vacinação em dia, a punção lombar não é indicada.",
+   "Correta: crise febril simples dispensa exames e pede tratar a febre e orientar a família.",
+   "EEG e neuroimagem não acrescentam informação útil na crise febril simples.",
+   "Anticonvulsivante contínuo tem efeitos adversos que superam o pequeno benefício.",
+   "Antitérmico dá conforto, mas não reduz a chance de nova crise febril."
+  ]
+ },
+ {
+  "q": "Menina de 4 anos, 18 kg, com epilepsia, chega ao pronto-socorro em crise tônico-clônica generalizada que começou há 7 minutos. A equipe não consegue acesso venoso após duas tentativas. Glicemia capilar normal, vias aéreas posicionadas e oxigênio ofertado. Qual é a medida farmacológica indicada agora?",
+  "alts": [
+   "Midazolam 0,2 mg/kg intramuscular",
+   "Diazepam por via intramuscular",
+   "Fenitoína por via intramuscular",
+   "Fenobarbital por via oral agora",
+   "Aguardar a crise por 30 minutos"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Estado de mal: sem acesso venoso",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Glauser T et al. Evidence-Based Guideline: Treatment of Convulsive Status Epilepticus in Children and Adults (American Epilepsy Society), 2016",
+  "coment": "Crise tônico-clônica que dura 5 minutos ou mais deve ser tratada como estado de mal epiléptico. Na fase inicial, o tratamento é um benzodiazepínico; sem acesso venoso, o midazolam intramuscular (ou intranasal e bucal) tem eficácia equivalente ao lorazepam venoso. O diazepam intramuscular tem absorção errática, e a fenitoína intramuscular causa lesão local e não é usada. O benzodiazepínico pode ser repetido uma vez, e a persistência leva aos fármacos de segunda linha.",
+  "porAlt": [
+   "Correta: sem acesso venoso, o midazolam intramuscular é o benzodiazepínico de escolha.",
+   "O diazepam tem absorção intramuscular errática e não é usado por essa via.",
+   "A fenitoína não é aplicada por via intramuscular pela lesão tecidual e pela absorção ruim.",
+   "A via oral é inviável em crise e não é a primeira linha do estado de mal.",
+   "Crise acima de 5 minutos já exige tratamento, e esperar aumenta a lesão neuronal."
+  ]
+ },
+ {
+  "q": "Menino de 6 anos, 22 kg, sem antecedentes, chega ao pronto-socorro em crise tônico-clônica generalizada que persiste após duas doses adequadas de benzodiazepínico intravenoso, com 15 minutos de crise no total. Vias aéreas pérvias, oxigênio ofertado, glicemia normal. Qual é a próxima etapa recomendada?",
+  "alts": [
+   "Levetiracetam intravenoso 60 mg/kg, máximo de 4.500 mg",
+   "Terceira dose de diazepam intravenoso de 0,3 mg/kg",
+   "Fenitoína intravenosa 5 mg/kg, máximo de 1.000 mg",
+   "Tiopental em bolus como fármaco de primeira opção nesta etapa",
+   "Carbamazepina por sonda nasogástrica em dose plena"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Estado de mal: segunda linha",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Kapur J et al. Randomized Trial of Three Anticonvulsant Medications for Status Epilepticus (ESETT), 2019",
+  "coment": "Após falha de duas doses de benzodiazepínico, o estado de mal é estabelecido e se usa um fármaco de segunda linha em dose plena: fosfenitoína 20 mg EF/kg, valproato 40 mg/kg ou levetiracetam 60 mg/kg (máximo 4.500 mg). O estudo ESETT mostrou eficácia semelhante entre os três, incluindo crianças. Mais benzodiazepínico aumenta a depressão respiratória sem benefício. Anestésicos como tiopental ou midazolam contínuo ficam para o estado de mal refratário.",
+  "porAlt": [
+   "Correta: levetiracetam 60 mg/kg é uma das opções de segunda linha com eficácia comparável.",
+   "Uma terceira dose de benzodiazepínico aumenta a depressão respiratória sem benefício.",
+   "A dose de ataque de fenitoína é 20 mg/kg; 5 mg/kg é dose de manutenção.",
+   "Anestésico em bolus fica para o estado de mal refratário, após a segunda linha.",
+   "Carbamazepina não tem apresentação venosa nem papel no estado de mal."
+  ]
+ },
+ {
+  "q": "Menino de 2 anos ingeriu há 2 horas cerca de 15 comprimidos de sulfato ferroso da mãe. Apresenta vômitos repetidos, diarreia com sangue, letargia e enchimento capilar de 3 segundos. Gasometria com acidose metabólica. Radiografia de abdome com opacidades no estômago. Qual é a conduta específica mais adequada?",
+  "alts": [
+   "Carvão ativado 1 g/kg por sonda e alta após 6 horas de observação",
+   "Deferoxamina intravenosa, já que o carvão não adsorve ferro",
+   "N-acetilcisteína intravenosa no esquema de 21 horas",
+   "Lavagem gástrica seguida de observação sem antídoto",
+   "Atropina intravenosa até secagem das secreções brônquicas"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Intoxicação por ferro",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Nelson LS et al. Goldfrank's Toxicologic Emergencies, 11ª edição, 2019",
+  "coment": "Intoxicação por ferro com vômitos, diarreia sanguinolenta, letargia, acidose metabólica e comprimidos radiopacos no estômago indica toxicidade sistêmica. O tratamento é suporte com expansão volêmica e deferoxamina intravenosa, quelante que forma ferrioxamina, eliminada pela urina (cor vinho). O carvão ativado não adsorve metais como ferro e lítio. A N-acetilcisteína é antídoto do paracetamol, e a atropina, dos inibidores da colinesterase. Irrigação intestinal total pode ser associada quando há muitos comprimidos no trato digestivo.",
+  "porAlt": [
+   "O carvão não adsorve ferro, e a criança tem toxicidade sistêmica que impede alta precoce.",
+   "Correta: intoxicação sistêmica por ferro exige deferoxamina; o carvão ativado não liga o metal.",
+   "N-acetilcisteína é o antídoto do paracetamol, não do ferro.",
+   "Lavagem isolada não trata a toxicidade já instalada e não substitui o quelante.",
+   "Atropina é antídoto de organofosforados e carbamatos, sem papel aqui."
+  ]
+ },
+ {
+  "q": "Menino de 2 anos teve engasgo súbito com tosse intensa enquanto comia amendoim, há 3 dias. Desde então tem tosse e chiado. Exame: murmúrio vesicular diminuído e sibilos à direita, SpO2 de 95%. Radiografia em expiração mostra hiperinsuflação do pulmão direito com desvio do mediastino para a esquerda. Qual é a conduta?",
+  "alts": [
+   "Broncodilatador inalatório e alta com retorno",
+   "Fisioterapia respiratória com tapotagem diária",
+   "Broncoscopia rígida para diagnóstico e retirada",
+   "Amoxicilina para pneumonia e radiografia em 7 dias",
+   "Aguardar a expulsão espontânea com tosse eficaz"
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Aspiração de corpo estranho",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 22ª edição, 2024",
+  "coment": "Engasgo presenciado seguido de tosse, sibilância unilateral e murmúrio diminuído em criança pequena sugere corpo estranho em brônquio, mais à direita. A radiografia em expiração mostra aprisionamento aéreo (efeito de válvula), com hiperinsuflação do lado afetado e desvio do mediastino para o lado oposto; radiografia normal não afasta. Diante da suspeita clínica, a broncoscopia rígida é diagnóstica e terapêutica e não deve ser adiada. Amendoim, por ser orgânico, inflama a mucosa e favorece pneumonia e bronquiectasia se retido.",
+  "porAlt": [
+   "Broncodilatador mascara o quadro e não remove o objeto do brônquio.",
+   "Tapotagem pode deslocar o corpo estranho e causar obstrução completa.",
+   "Correta: suspeita forte de corpo estranho brônquico pede broncoscopia rígida diagnóstica e terapêutica.",
+   "A sibilância é por obstrução mecânica, e tratar como pneumonia atrasa a retirada.",
+   "Após 3 dias a expulsão espontânea é improvável, e a retenção leva a complicações."
+  ]
+ },
+ {
+  "q": "Lactente de 4 meses é levado ao pronto-socorro por choro ao mexer a perna esquerda. O pai relata que ela 'caiu do sofá'. Radiografia: fratura metafisária em canto no fêmur esquerdo e fraturas em consolidação de arcos costais posteriores. Não há doença óssea conhecida. Segundo o Estatuto da Criança e do Adolescente, qual é a obrigação do médico?",
+  "alts": [
+   "Aguardar a perícia confirmar a violência para comunicar",
+   "Comunicar se os pais autorizarem a comunicação por escrito",
+   "Comunicar ao Conselho Tutelar, sem exigir confirmação",
+   "Orientar os pais a registrarem o boletim de ocorrência",
+   "Dar alta com retorno ortopédico e reavaliar em 7 dias"
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Maus-tratos: comunicação obrigatória",
+  "cenario": "emg",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.069/1990 (Estatuto da Criança e do Adolescente), arts. 13 e 245, com redação da Lei 13.010/2014",
+  "coment": "Fraturas metafisárias em canto e de arcos costais posteriores em lactente que não anda, com história incompatível, são altamente sugestivas de maus-tratos. O artigo 13 do ECA determina que casos de suspeita ou confirmação de castigo físico, tratamento cruel ou degradante e maus-tratos sejam obrigatoriamente comunicados ao Conselho Tutelar, sem prejuízo de outras providências; o artigo 245 prevê multa ao médico que deixar de comunicar. Também se faz a notificação compulsória de violência no SINAN, a internação para proteção e a investigação complementar.",
+  "porAlt": [
+   "O ECA exige a comunicação já na suspeita, sem esperar confirmação pericial.",
+   "A comunicação independe da autorização dos responsáveis, que podem ser os agressores.",
+   "Correta: a suspeita basta para a comunicação obrigatória ao Conselho Tutelar prevista no ECA.",
+   "Transferir a obrigação à família não cumpre o dever legal do profissional de saúde.",
+   "Alta para o mesmo ambiente expõe o lactente a novo trauma; a proteção vem primeiro."
+  ]
+ },
+ {
+  "q": "Menino de 4 anos teve, nos últimos 12 meses, cinco episódios de sibilância com resposta ao salbutamol, dois deles com atendimento de emergência, além de tosse noturna entre as crises. Tem dermatite atópica e pai asmático. Exame atual normal. Usa apenas salbutamol nas crises. Segundo a GINA para crianças de até 5 anos, qual é a conduta de manutenção preferencial?",
+  "alts": [
+   "Salbutamol de horário, mantido de forma contínua entre as crises",
+   "Montelucaste como controlador preferencial nessa faixa etária",
+   "Corticoide oral em ciclos mensais de 5 dias para evitar as crises",
+   "Associação de corticoide inalatório com LABA em dose moderada",
+   "Corticoide inalatório em dose baixa diária, com espaçador"
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Asma até 5 anos: controle",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2025",
+  "coment": "Na criança de até 5 anos com sibilância recorrente e quadro compatível com asma, crises frequentes (3 ou mais por ano), crises graves ou sintomas entre as crises indicam tratamento de manutenção. A GINA define como preferencial o corticoide inalatório em dose baixa diária, com espaçador (e máscara se necessário), por ao menos 3 meses, com reavaliação. O antileucotrieno é alternativa menos eficaz. LABA não é recomendado de rotina nessa idade, e corticoide oral repetido traz efeitos adversos sem prevenir crises.",
+  "porAlt": [
+   "Beta-2 de curta ação regular não controla a inflamação e aumenta a reatividade brônquica.",
+   "Montelucaste é alternativa de menor eficácia, não a opção preferencial.",
+   "Corticoide oral em ciclos não previne crises e acumula efeitos adversos.",
+   "LABA não tem segurança e eficácia estabelecidas antes dos 6 anos.",
+   "Correta: dose baixa diária de corticoide inalatório com espaçador é a etapa preferencial nessa idade."
+  ]
+ },
+ {
+  "q": "Menina de 9 anos com asma, em uso de corticoide inalatório em dose baixa, retorna para consulta. Nas últimas 4 semanas teve tosse e chiado diurnos três vezes por semana e usou salbutamol de alívio três vezes por semana. Não acordou à noite pela asma e não deixou de fazer atividades. Técnica inalatória adequada. Pela GINA, como se classifica o controle dos sintomas?",
+  "alts": [
+   "Bem controlada, por não haver despertar noturno",
+   "Não controlada, por usar salbutamol mais de 2 vezes",
+   "Parcialmente controlada, com dois de quatro critérios",
+   "Asma grave, por precisar de corticoide inalatório",
+   "Intermitente, por não limitar as atividades diárias"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Asma: avaliação do controle",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2025",
+  "coment": "A GINA avalia o controle dos sintomas nas últimas 4 semanas com quatro perguntas: sintomas diurnos mais de 2 vezes por semana, despertar noturno pela asma, necessidade de medicação de alívio mais de 2 vezes por semana e limitação de atividades. Nenhum item positivo indica asma bem controlada; 1 ou 2, parcialmente controlada; 3 ou 4, não controlada. Gravidade é outro conceito, definida pela etapa de tratamento necessária para o controle. Antes de subir a etapa, conferir adesão, técnica e fatores de risco.",
+  "porAlt": [
+   "Basta um item positivo para deixar de ser bem controlada; aqui há dois.",
+   "Asma não controlada exige 3 ou 4 itens positivos.",
+   "Correta: dois itens positivos (sintomas e alívio acima de 2 vezes por semana) definem controle parcial.",
+   "Gravidade não é definida pelo uso de corticoide em dose baixa, e controle é outro conceito.",
+   "A classificação em intermitente não é usada na avaliação de controle da GINA."
+  ]
+ },
+ {
+  "q": "Lactente de 2 meses em aleitamento materno exclusivo apresenta, há 2 semanas, fezes com estrias de sangue e muco. Está ativo, ganhando peso adequadamente, sem vômitos, sem eczema importante e com abdome normal. Fissura anal ausente. Qual é a conduta mais adequada?",
+  "alts": [
+   "Suspender o aleitamento e iniciar fórmula de aminoácidos exclusiva",
+   "Manter o aleitamento e excluir leite de vaca e derivados da dieta materna",
+   "Trocar o aleitamento por fórmula infantil à base de proteína de soja",
+   "Manter o aleitamento e associar fórmula sem lactose nos intervalos",
+   "Solicitar colonoscopia antes de qualquer mudança na dieta materna"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "APLV no lactente amamentado",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Solé D et al. Consenso Brasileiro sobre Alergia Alimentar (SBP e ASBAI), 2018",
+  "coment": "Sangue e muco nas fezes em lactente amamentado, em bom estado e com bom ganho de peso, sugere proctocolite alérgica, forma não IgE mediada de alergia à proteína do leite de vaca. O Consenso Brasileiro sobre Alergia Alimentar recomenda manter o aleitamento materno e excluir leite de vaca e derivados da dieta da mãe, com suplementação de cálcio para ela. A melhora ocorre em dias a poucas semanas, e o diagnóstico é confirmado pelo teste de provocação após o período de exclusão. Fórmula de soja não é indicada antes de 6 meses.",
+  "porAlt": [
+   "O aleitamento deve ser mantido; fórmula de aminoácidos fica para casos graves sem resposta.",
+   "Correta: na proctocolite do lactente amamentado mantém-se o leite materno com exclusão materna de leite de vaca.",
+   "Soja não é indicada antes de 6 meses, e não há motivo para interromper o aleitamento.",
+   "A alergia é à proteína, não à lactose; fórmula sem lactose mantém a proteína do leite de vaca.",
+   "O diagnóstico é clínico, por exclusão e provocação; colonoscopia não é necessária."
+  ]
+ },
+ {
+  "q": "Lactente de 4 meses alimentado com fórmula infantil desde 1 mês apresenta vômitos frequentes, diarreia com muco, dermatite atópica moderada e ganho de peso abaixo do esperado. Não houve urticária, angioedema nem sintomas respiratórios após as mamadas. A mãe não consegue relactar. Segundo o Consenso Brasileiro sobre Alergia Alimentar, qual é a fórmula de escolha inicial?",
+  "alts": [
+   "Fórmula infantil à base de proteína isolada de soja",
+   "Fórmula extensamente hidrolisada de proteína do leite de vaca",
+   "Fórmula parcialmente hidrolisada hipoalergênica (HA)",
+   "Fórmula infantil de partida isenta de lactose",
+   "Leite de cabra integral diluído e acrescido de óleo"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "APLV: fórmula de substituição",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Solé D et al. Consenso Brasileiro sobre Alergia Alimentar (SBP e ASBAI), 2018",
+  "coment": "Na alergia à proteína do leite de vaca em lactente que não pode ser amamentado, a primeira escolha é a fórmula extensamente hidrolisada da proteína do leite de vaca, tolerada pela maioria. A fórmula de aminoácidos é reservada a anafilaxia, formas graves, enteropatia com desnutrição importante ou falha da extensamente hidrolisada. Fórmula de soja pode ser considerada após 6 meses nas formas IgE mediadas sem envolvimento gastrointestinal importante. Fórmulas parcialmente hidrolisadas, sem lactose e leite de outros mamíferos não servem ao tratamento.",
+  "porAlt": [
+   "Soja não é indicada antes de 6 meses e há reação cruzada nas formas gastrointestinais.",
+   "Correta: a fórmula extensamente hidrolisada é a escolha inicial no lactente com APLV sem anafilaxia.",
+   "A fórmula parcialmente hidrolisada mantém peptídeos alergênicos e não trata a APLV.",
+   "Retirar a lactose não remove a proteína responsável pela alergia.",
+   "Leite de cabra tem alta reatividade cruzada com o de vaca e é nutricionalmente inadequado."
+  ]
+ },
+ {
+  "q": "Lactente de 3 meses em aleitamento materno exclusivo regurgita pequenas quantidades após quase todas as mamadas. Está tranquilo, mama bem, sem engasgos, sem arqueamento do tronco, ganhando 30 g/dia. Exame normal. A mãe, preocupada, pede um remédio. Segundo a diretriz da NASPGHAN e ESPGHAN, qual é a conduta?",
+  "alts": [
+   "Prova terapêutica com omeprazol por 4 semanas para refluxo",
+   "Tranquilizar a família e orientar, sem exames ou medicação",
+   "pHmetria esofágica de 24 horas para confirmar o diagnóstico",
+   "Domperidona antes das mamadas para acelerar o esvaziamento",
+   "Ultrassonografia de piloro para afastar estenose hipertrófica"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Refluxo fisiológico x DRGE",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Rosen R et al. Pediatric Gastroesophageal Reflux Clinical Practice Guidelines (NASPGHAN e ESPGHAN), 2018",
+  "coment": "Regurgitação em lactente saudável, com bom ganho de peso e sem sinais de alarme, é refluxo fisiológico, que melhora espontaneamente até os 12 a 18 meses. A diretriz da NASPGHAN e ESPGHAN recomenda orientar e tranquilizar a família, evitar superalimentação e não fazer exames nem usar inibidor de bomba de prótons ou procinéticos nesse cenário. A DRGE se caracteriza por complicações ou sintomas incômodos, como baixo ganho de peso, recusa alimentar, hematêmese ou sintomas respiratórios. Vômitos em jato progressivos sugeririam estenose de piloro.",
+  "porAlt": [
+   "Inibidor de bomba de prótons não é indicado para regurgitação ou choro sem sinais de DRGE.",
+   "Correta: regurgitador saudável com bom ganho de peso tem refluxo fisiológico e não precisa de exames nem remédios.",
+   "A pHmetria não é exame de rotina e não muda a conduta no refluxo fisiológico.",
+   "Procinéticos não são recomendados pelo risco de efeitos adversos e benefício não comprovado.",
+   "Estenose de piloro dá vômitos em jato e perda de peso, ausentes neste lactente."
+  ]
+ },
+ {
+  "q": "Menino de 4 anos evacua a cada 4 a 5 dias, com dor, fezes muito calibrosas que entopem o vaso, e cruza as pernas para segurar as fezes. Há 3 meses suja a roupa íntima com fezes amolecidas. Eliminou mecônio nas primeiras 24 horas. Exame: massa fecal palpável em hipogástrio, sem sinais de alarme. Qual é a conduta inicial?",
+  "alts": [
+   "Aumento de fibras e de água isoladamente, sem uso de laxante",
+   "Enema de fosfato de sódio diário durante quatro semanas",
+   "Biópsia retal para afastar doença de Hirschsprung antes",
+   "Desimpactação com PEG oral e manutenção por pelo menos 2 meses",
+   "Bisacodil diário como laxante de primeira escolha na criança"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Constipação funcional",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Tabbers MM et al. Evaluation and Treatment of Functional Constipation in Infants and Children (ESPGHAN e NASPGHAN), 2014",
+  "coment": "Evacuações pouco frequentes e dolorosas, fezes calibrosas, comportamento de retenção e escape fecal preenchem os critérios de Roma IV para constipação funcional; a eliminação precoce de mecônio e a ausência de sinais de alarme tornam improvável a doença de Hirschsprung. A diretriz da ESPGHAN e NASPGHAN recomenda desimpactar com polietilenoglicol oral em dose alta por 3 a 6 dias e manter o laxante osmótico por pelo menos 2 meses, com treino de toalete e orientação. Fibras e água isolados não resolvem a impactação.",
+  "porAlt": [
+   "Fibras e água ajudam, mas sozinhos não resolvem a impactação fecal.",
+   "Enemas repetidos são invasivos e trazem risco de distúrbio eletrolítico com fosfato.",
+   "Mecônio eliminado nas primeiras 24 horas e ausência de alarme tornam a biópsia desnecessária.",
+   "Correta: com fecaloma, o primeiro passo é desimpactar com polietilenoglicol oral e manter o laxante.",
+   "Laxante estimulante não é a primeira escolha; o osmótico é preferido."
+  ]
+ },
+ {
+  "q": "Menina de 4 anos, assintomática, com crescimento normal, tem sopro detectado na consulta de rotina. Exame: sopro sistólico 2/6, de timbre musical e vibratório, na borda esternal esquerda média, mais audível em decúbito e que diminui em pé. B2 com desdobramento fisiológico, sem frêmito, pulsos femorais normais. Qual é a conduta?",
+  "alts": [
+   "Ecocardiograma urgente para afastar defeito septal",
+   "Orientar a família sobre sopro inocente, sem exames",
+   "Profilaxia antibiótica para procedimentos dentários",
+   "Restringir atividade física até a avaliação cardiológica",
+   "Radiografia de tórax e eletrocardiograma antes da alta"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Sopro inocente",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 22ª edição, 2024",
+  "coment": "O sopro de Still é o sopro inocente mais comum entre 3 e 7 anos: sistólico, de intensidade até 2/6, timbre musical ou vibratório, na borda esternal esquerda média ou baixa, que diminui em pé ou com manobra de Valsalva. Criança assintomática, sem frêmito, com B2 normal e pulsos simétricos dispensa exames. Sinais de sopro patológico incluem sopro diastólico, holossistólico, intensidade de 3/6 ou mais, frêmito, B2 única ou hiperfonética, cliques, sintomas ou alteração de pulsos.",
+  "porAlt": [
+   "Não há achado de sopro patológico que justifique ecocardiograma de urgência.",
+   "Correta: sopro vibratório de baixa intensidade que muda com a posição, em criança assintomática, é inocente.",
+   "Sopro inocente não traz risco de endocardite nem indicação de profilaxia.",
+   "Restringir atividade é desnecessário e prejudicial em criança com sopro inocente.",
+   "Exames complementares não acrescentam ao diagnóstico clínico do sopro inocente."
+  ]
+ },
+ {
+  "q": "Lactente de 2 meses, acianótico, cansa e sua durante as mamadas, interrompendo várias vezes, e ganhou pouco peso no último mês. Exame: FR 68 irpm, fígado a 3 cm do rebordo costal, sopro holossistólico 3/6 na borda esternal esquerda baixa com frêmito, pulsos simétricos. Radiografia com cardiomegalia e aumento da trama vascular pulmonar. Qual é o diagnóstico mais provável?",
+  "alts": [
+   "Tetralogia de Fallot com hipofluxo pulmonar acentuado",
+   "Coarctação da aorta com sobrecarga ventricular esquerda",
+   "Persistência do canal arterial com sopro diastólico em foco aórtico",
+   "Comunicação interatrial com desdobramento fixo da segunda bulha",
+   "Comunicação interventricular com hiperfluxo pulmonar"
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Cardiopatia congênita acianótica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 22ª edição, 2024",
+  "coment": "A comunicação interventricular é a cardiopatia congênita mais comum. Com a queda da resistência vascular pulmonar nas primeiras semanas, o shunt esquerda-direita aumenta e surgem sinais de insuficiência cardíaca por volta de 1 a 2 meses: cansaço e sudorese às mamadas, taquipneia, hepatomegalia e baixo ganho de peso. O sopro é holossistólico na borda esternal esquerda baixa, muitas vezes com frêmito, e a radiografia mostra cardiomegalia com hiperfluxo pulmonar. A CIA raramente causa insuficiência cardíaca no lactente.",
+  "porAlt": [
+   "A tetralogia de Fallot é cianótica e cursa com redução da trama vascular pulmonar.",
+   "Coarctação daria diferença de pulsos entre membros superiores e inferiores, ausente aqui.",
+   "O canal arterial dá sopro contínuo infraclavicular esquerdo, não holossistólico.",
+   "A CIA dá sopro ejetivo em foco pulmonar e raramente insuficiência cardíaca no lactente.",
+   "Correta: sopro holossistólico em borda esternal esquerda baixa e insuficiência cardíaca aos 2 meses indicam CIV."
+  ]
+ },
+ {
+  "q": "Menina de 6 anos e 10 meses apresenta desenvolvimento mamário (Tanner M2) há 4 meses e pelos pubianos P2. Velocidade de crescimento de 9 cm/ano, acima do canal familiar. Idade óssea de 9 anos. Sem cefaleia, alterações visuais ou manchas café com leite. Qual é o próximo passo na investigação?",
+  "alts": [
+   "Tranquilizar, pois o limite normal é de 6 anos",
+   "Iniciar análogo de GnRH antes de outros exames",
+   "Tratar como telarca precoce isolada e observar",
+   "Dosar LH basal por método ultrassensível",
+   "Dosar só o estradiol e repetir a idade óssea em 1 ano"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Puberdade precoce",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Bangalore Krishna K et al. Use of Gonadotropin-Releasing Hormone Analogs in Children: Update by an International Consortium, 2019",
+  "coment": "Puberdade precoce é o início dos caracteres sexuais secundários antes dos 8 anos na menina e dos 9 anos no menino. Telarca com aceleração do crescimento e avanço da idade óssea indica puberdade progressiva, não telarca precoce isolada, que não acelera o crescimento. O passo seguinte é o LH basal por método ultrassensível (valor puberal sugere origem central), com teste de estímulo com GnRH ou análogo se inconclusivo. Confirmada a forma central, faz-se ressonância de crânio, e o análogo de GnRH é indicado se houver progressão.",
+  "porAlt": [
+   "O limite para menina é 8 anos, então o quadro é de puberdade precoce.",
+   "O tratamento só vem depois de confirmar a origem central e a progressão.",
+   "Telarca isolada não acelera o crescimento nem avança a idade óssea.",
+   "Correta: o LH basal ultrassensível distingue a origem central da periférica na puberdade progressiva.",
+   "Estradiol isolado tem baixa sensibilidade, e esperar 1 ano compromete a estatura final."
+  ]
+ },
+ {
+  "q": "Menino de 12 anos está abaixo do percentil 3 de estatura, mas mantém velocidade de crescimento de 5 cm/ano, sempre no mesmo canal. Sem sinais puberais. Idade óssea de 10 anos. Estatura-alvo familiar no percentil 25. O pai teve estirão tardio, aos 16 anos. Exame físico e exames de triagem normais. Qual é o diagnóstico mais provável?",
+  "alts": [
+   "Retardo constitucional do crescimento e da puberdade",
+   "Baixa estatura familiar com idade óssea compatível",
+   "Deficiência de hormônio do crescimento adquirida",
+   "Hipotireoidismo primário com atraso de idade óssea",
+   "Baixa estatura por doença crônica oculta"
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Baixa estatura: atraso constitucional",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Cohen P et al. Consensus Statement on the Diagnosis and Treatment of Children with Idiopathic Short Stature, 2008",
+  "coment": "No atraso constitucional do crescimento e da puberdade, a criança é baixa, mas cresce com velocidade normal para a idade óssea, que está atrasada, e há história familiar de puberdade tardia; a estatura final tende ao alvo familiar. Na baixa estatura familiar a idade óssea é compatível com a cronológica e o alvo familiar é baixo. Deficiência de GH, hipotireoidismo e doenças crônicas reduzem a velocidade de crescimento, que aqui está preservada, e os exames de triagem são normais.",
+  "porAlt": [
+   "Correta: velocidade normal, idade óssea atrasada e pai com estirão tardio caracterizam atraso constitucional.",
+   "Na baixa estatura familiar a idade óssea acompanha a cronológica, e aqui está atrasada.",
+   "Deficiência de GH reduz a velocidade de crescimento, que neste caso é normal.",
+   "Hipotireoidismo diminui a velocidade de crescimento, e a triagem foi normal.",
+   "Doença crônica derruba a velocidade e costuma alterar peso e exames de triagem."
+  ]
+ },
+ {
+  "q": "Menina de 15 meses, em bom estado, toma cerca de 1 litro de leite de vaca integral por dia e come pouco. Exame: palidez cutânea, sem visceromegalias. Hemoglobina 8,6 g/dL, VCM 62 fL, RDW 18%, ferritina 5 ng/mL, plaquetas e leucócitos normais. Segundo o consenso da SBP, qual é a conduta?",
+  "alts": [
+   "Ferro intravenoso, pela hemoglobina abaixo de 9 g/dL nessa idade",
+   "Transfusão de hemácias e ferro oral após a alta hospitalar",
+   "Ferro elementar oral 3 a 5 mg/kg/dia e reduzir o leite de vaca",
+   "Ferro elementar oral 1 mg/kg/dia, mantido até completar 24 meses",
+   "Ferro oral 3 a 5 mg/kg/dia suspenso ao normalizar a hemoglobina"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Anemia ferropriva: tratamento",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Consenso sobre anemia ferropriva: mais que uma doença, uma urgência médica!, 2018",
+  "coment": "Anemia microcítica com RDW elevado e ferritina baixa em criança com consumo excessivo de leite de vaca confirma anemia ferropriva. O tratamento é ferro elementar oral de 3 a 5 mg/kg/dia, longe das refeições lácteas, mantido após a normalização da hemoglobina para repor os estoques (em geral por 3 a 6 meses no total), além de limitar o leite de vaca a cerca de 500 mL/dia e melhorar a dieta. A resposta é avaliada pela reticulocitose e pela subida da hemoglobina em semanas. Ferro venoso e transfusão ficam para situações excepcionais.",
+  "porAlt": [
+   "Ferro venoso é exceção para intolerância ou má absorção, não pelo valor da hemoglobina.",
+   "Criança estável hemodinamicamente com anemia crônica não precisa de transfusão.",
+   "Correta: ferro oral em dose terapêutica e redução do leite de vaca, causa principal do déficit.",
+   "1 mg/kg/dia é dose profilática, insuficiente para tratar a anemia instalada.",
+   "Suspender ao normalizar a hemoglobina deixa os estoques vazios e favorece recidiva."
+  ]
+ },
+ {
+  "q": "Menino de 4 anos com palidez, febre intermitente e dor nas pernas há 3 semanas, que o acorda à noite; passou a mancar. Exame: palidez, petéquias em membros, fígado a 4 cm e baço a 3 cm do rebordo, linfonodos cervicais de 2 cm. Hemoglobina 6,8 g/dL, leucócitos 2.900/mm³, plaquetas 31.000/mm³. Qual é a conduta mais adequada?",
+  "alts": [
+   "Anti-inflamatório e repouso pela provável artrite idiopática",
+   "Prednisolona oral pela hipótese de trombocitopenia imune",
+   "Repetir o hemograma em 30 dias após ferro e vermífugo",
+   "Encaminhar com urgência para mielograma, sem corticoide",
+   "Iniciar amoxicilina e reavaliar o quadro em 7 dias"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "LLA: sinais de alerta",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Instituto Nacional de Câncer. Diagnóstico precoce do câncer na criança e no adolescente, 2ª edição, 2014",
+  "coment": "Palidez, febre, petéquias, dor óssea que acorda a criança, claudicação, hepatoesplenomegalia, linfonodomegalia e citopenias em mais de uma linhagem são sinais de alerta para leucemia linfoide aguda, o câncer mais comum da infância, com pico entre 2 e 5 anos. A conduta é encaminhar com urgência a serviço de onco-hematologia para mielograma e imunofenotipagem. Corticoide não deve ser dado antes do diagnóstico, pois pode mascarar a leucemia, dificultar a classificação e induzir síndrome de lise tumoral.",
+  "porAlt": [
+   "Artrite idiopática não explica pancitopenia, e o anti-inflamatório atrasa o diagnóstico.",
+   "A trombocitopenia imune não causa anemia, leucopenia nem visceromegalias.",
+   "Pancitopenia com visceromegalias não é anemia carencial e não permite esperar 30 dias.",
+   "Correta: citopenias com visceromegalias e dor óssea exigem mielograma urgente, evitando corticoide antes.",
+   "Não há foco bacteriano, e o antibiótico apenas retarda a investigação."
+  ]
+ },
+ {
+  "q": "Menino de 3 anos com edema palpebral matinal que evoluiu para anasarca em 1 semana. PA normal, sem hematúria. Urina com proteinúria 4+, relação proteína/creatinina urinária de 4 mg/mg, albumina sérica 1,7 g/dL, colesterol elevado, creatinina e C3 normais. Qual é a conduta inicial?",
+  "alts": [
+   "Prednisolona 60 mg/m²/dia por 4 a 6 semanas sem biópsia renal",
+   "Biópsia renal antes de qualquer tratamento com corticoide",
+   "Ciclofosfamida oral como primeira linha por 8 semanas",
+   "Prednisolona 1 mg/kg/dia por 7 dias e suspensão abrupta",
+   "Albumina com furosemida para induzir a remissão do quadro"
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Síndrome nefrótica idiopática",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases, 2021",
+  "coment": "Síndrome nefrótica entre 1 e 10 anos, sem hipertensão, hematúria macroscópica, perda de função renal ou complemento baixo, corresponde na maioria a lesão mínima, sensível ao corticoide. A KDIGO 2021 recomenda prednisona ou prednisolona 60 mg/m²/dia (ou 2 mg/kg/dia, máximo 60 mg) por 4 a 6 semanas, seguida de 40 mg/m² em dias alternados por 4 a 6 semanas, sem biópsia inicial. A biópsia fica para idade atípica, achados nefríticos, complemento baixo ou resistência ao corticoide.",
+  "porAlt": [
+   "Correta: quadro típico de lesão mínima é tratado com corticoide em dose plena sem biópsia prévia.",
+   "Na apresentação típica a biópsia é dispensada; ela fica para atipias ou corticorresistência.",
+   "Alquilantes são reservados a recidivas frequentes ou corticodependência.",
+   "Dose e duração insuficientes aumentam a recidiva, e a suspensão é gradual.",
+   "Albumina e diurético aliviam edema refratário, mas não induzem remissão."
+  ]
+ },
+ {
+  "q": "Menina de 8 anos teve impetigo há 3 semanas e agora apresenta urina cor de coca-cola, edema palpebral e PA de 130/85 mmHg. Exames: hematúria com cilindros hemáticos, proteinúria leve, creatinina discretamente elevada, C3 baixo, C4 normal, antiestreptolisina O elevada. Tratada com restrição de sódio e furosemida, com boa evolução. No seguimento, qual achado indicaria biópsia renal?",
+  "alts": [
+   "C3 baixo na primeira semana do quadro",
+   "Hematúria microscópica persistente aos 6 meses",
+   "Antiestreptolisina O elevada no diagnóstico",
+   "Hipertensão arterial na primeira semana",
+   "C3 ainda baixo 8 semanas após o início"
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "GNPE: evolução atípica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases, 2021",
+  "coment": "Na glomerulonefrite pós-estreptocócica, a síndrome nefrítica surge 1 a 3 semanas após faringite ou 3 a 6 semanas após impetigo, com C3 baixo e C4 normal. O tratamento é de suporte, com restrição de sódio e água e diurético de alça. O C3 normaliza em até 6 a 8 semanas; a persistência do consumo além desse prazo sugere outra glomerulopatia (como membranoproliferativa ou glomerulopatia C3) e indica biópsia. A hematúria microscópica pode persistir por até 1 a 2 anos sem significar mau prognóstico.",
+  "porAlt": [
+   "Consumo de C3 na fase aguda é esperado na GNPE e não indica biópsia.",
+   "Hematúria microscópica pode durar até 1 a 2 anos após a GNPE.",
+   "ASLO elevada apenas documenta a infecção estreptocócica prévia.",
+   "Hipertensão por retenção de volume é comum na fase aguda e cede com o tratamento.",
+   "Correta: C3 baixo além de 8 semanas foge da GNPE e indica investigar outra glomerulopatia."
+  ]
+ },
+ {
+  "q": "Adolescente de 15 anos vem sozinha à UBS pedindo método contraceptivo. Relata relações sexuais consentidas com o namorado de 16 anos, usa preservativo de forma irregular e pede que a mãe não seja informada. Mostra compreensão adequada dos riscos e das orientações. Não há sinais de violência ou exploração. Qual é a conduta correta?",
+  "alts": [
+   "Chamar a mãe para autorizar a prescrição do contraceptivo hoje",
+   "Comunicar ao Conselho Tutelar pela atividade sexual aos 15 anos",
+   "Recusar a prescrição até a adolescente completar 16 anos de idade",
+   "Prescrever e informar a mãe depois, por ser menor de 18 anos",
+   "Garantir o sigilo e prescrever contracepção com preservativo"
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Consulta do adolescente: sigilo",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Conselho Federal de Medicina. Código de Ética Médica (Resolução CFM 2.217/2018), art. 74, 2018",
+  "coment": "O Código de Ética Médica veda revelar segredo de paciente menor de idade, inclusive aos pais ou responsáveis, desde que ele tenha capacidade de discernimento, salvo quando a não revelação puder causar dano ao paciente. Adolescente de 15 anos que compreende as orientações tem direito a atendimento sozinha, sigilo e acesso à contracepção, com estímulo à dupla proteção com preservativo e ao diálogo com a família. O sigilo é quebrado em risco de vida, violência, abuso sexual ou relação com menor de 14 anos.",
+  "porAlt": [
+   "A prescrição não depende de autorização dos pais para adolescente com discernimento.",
+   "Relação consentida entre adolescentes de 15 e 16 anos, sem violência, não exige comunicação.",
+   "Não há idade mínima de 16 anos para orientar e prescrever contracepção.",
+   "Informar a mãe sem consentimento e sem risco quebra o sigilo médico.",
+   "Correta: adolescente com discernimento tem direito a sigilo e a contracepção, com dupla proteção."
+  ]
+ }
+]

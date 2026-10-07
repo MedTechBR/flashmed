@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "emergpsiq",
+  "a": "Escala de risco define a alta após autolesão?",
+  "b": "Não. A NICE NG225 (2022) contraindica usar escalas ou ferramentas de risco para prever suicídio ou decidir alta; faz-se avaliação psicossocial abrangente, plano de segurança e seguimento."
+ },
+ {
+  "tema": "emergpsiq",
+  "a": "Prazo de notificação da tentativa de suicídio no Brasil?",
+  "b": "Notificação imediata, em até 24 horas, à Secretaria Municipal de Saúde (violência autoprovocada, Sinan). Portaria de Consolidação 4/2017, Anexo 1 do Anexo V; Lei 13.819/2019."
+ },
+ {
+  "tema": "emergpsiq",
+  "a": "Intervenção populacional de maior impacto na prevenção do suicídio?",
+  "b": "Restrição de acesso aos meios letais (armas de fogo, pesticidas, medicamentos em grande quantidade). Uma das intervenções centrais do LIVE LIFE da OMS, 2021."
+ },
+ {
+  "tema": "emergpsiq",
+  "a": "Requisitos da contenção mecânica segundo o CFM?",
+  "b": "Prescrição médica, registro em prontuário com o motivo, uso só para prevenir dano imediato ou iminente e supervisão constante da equipe. Resolução CFM 2.057/2013."
+ },
+ {
+  "tema": "emergpsiq",
+  "a": "Quando usar antipsicótico no delirium?",
+  "b": "Só se houver angústia ou risco para si ou outros após falha das medidas não farmacológicas: haloperidol em dose baixa, por curto prazo. Não usar para prevenção. NICE CG103, 2023."
+ },
+ {
+  "tema": "emergpsiq",
+  "a": "Tétrade da síndrome neuroléptica maligna?",
+  "b": "Hipertermia, rigidez em cano de chumbo, alteração do nível de consciência e instabilidade autonômica, com CK elevada. Tratar: suspender antipsicótico, UTI, dantrolene ou bromocriptina. Gurrera, 2011."
+ },
+ {
+  "tema": "emergpsiq",
+  "a": "O que diferencia síndrome serotoninérgica de neuroléptica maligna?",
+  "b": "Serotoninérgica: início em até 24 h, clônus e hiper-reflexia de predomínio em membros inferiores, diarreia, midríase. SNM: início em dias, rigidez e bradirreflexia. Hunter, 2003."
+ },
+ {
+  "tema": "emergpsiq",
+  "a": "Primeira linha na catatonia?",
+  "b": "Lorazepam (teste terapêutico); eletroconvulsoterapia se não houver resposta ou houver gravidade. Evitar antipsicótico de alta potência na fase aguda. BAP, 2023."
+ },
+ {
+  "tema": "emergpsiq",
+  "a": "Quando dialisar na intoxicação por lítio?",
+  "b": "Recomendado com rebaixamento de consciência, convulsões ou arritmia grave em qualquer litemia, ou litemia acima de 4,0 mEq/L com função renal comprometida. Carvão ativado não adsorve lítio. EXTRIP, 2015."
+ },
+ {
+  "tema": "emergpsiq",
+  "a": "Conduta no tricíclico com QRS largo?",
+  "b": "Bicarbonato de sódio 1 a 2 mEq/kg em bolus, repetido até estreitar o QRS (pH 7,45 a 7,55). QRS acima de 100 ms indica risco de convulsão. Goldfrank, 2019."
+ },
+ {
+  "tema": "raps",
+  "a": "Critérios populacionais dos CAPS na norma vigente?",
+  "b": "CAPS I acima de 15 mil; CAPS II, AD e i acima de 70 mil; CAPS III e AD III acima de 150 mil habitantes. Portaria de Consolidação 3/2017, Anexo V (origem Portaria 3.088/2011)."
+ },
+ {
+  "tema": "raps",
+  "a": "O que a Portaria GM/MS 757/2023 revogou na RAPS?",
+  "b": "Hospital-dia, Equipe Multiprofissional de Atenção Especializada em Saúde Mental e CAPS AD IV (criados pela Portaria 3.588/2017); repristinou leitos de saúde mental em hospital geral."
+ },
+ {
+  "tema": "raps",
+  "a": "Tipos de internação na Lei 10.216/2001?",
+  "b": "Voluntária (com consentimento), involuntária (sem consentimento, a pedido de terceiro) e compulsória (determinada pela Justiça). Todas exigem laudo médico circunstanciado. Art. 6º."
+ },
+ {
+  "tema": "raps",
+  "a": "Comunicação da internação involuntária pela Lei 10.216/2001?",
+  "b": "Ao Ministério Público estadual em até 72 horas, pelo responsável técnico do estabelecimento, na admissão e também na alta. Art. 8º."
+ },
+ {
+  "tema": "raps",
+  "a": "Prazo máximo da internação involuntária de dependente químico?",
+  "b": "90 dias, só pelo tempo da desintoxicação, com término determinado pelo médico; comunicação ao MP e à Defensoria em até 72 h. Lei 13.840/2019 (art. 23-A da Lei 11.343/2006)."
+ },
+ {
+  "tema": "raps",
+  "a": "Unidade de Acolhimento: quem indica e por quanto tempo?",
+  "b": "Indicação exclusiva do CAPS de referência; permanência de até 6 meses. Adulto: maiores de 18 anos; infantojuvenil: 12 a 18 anos incompletos. Portaria de Consolidação 3/2017, Anexo V."
+ },
+ {
+  "tema": "raps",
+  "a": "Comunidade terapêutica na RAPS: tempo e público?",
+  "b": "Serviço de atenção em regime residencial transitório, por até 9 meses, para adultos com necessidades clínicas estáveis por uso de drogas; CAPS indica e acompanha. Consolidação 3/2017, Anexo V."
+ },
+ {
+  "tema": "psiqinf",
+  "a": "Critérios de tempo e contexto do TDAH no DSM-5-TR?",
+  "b": "6 sintomas em um domínio (5 a partir dos 17 anos), por 6 meses, vários antes dos 12 anos e em 2 ou mais ambientes, com prejuízo funcional. DSM-5-TR, 2022."
+ },
+ {
+  "tema": "psiqinf",
+  "a": "Como interpretar o escore do M-CHAT-R/F?",
+  "b": "0 a 2: baixo risco; 3 a 7: entrevista de seguimento (positivo se 2 ou mais itens persistirem); 8 a 20: encaminhar direto para diagnóstico e intervenção precoce. Aplicar entre 16 e 30 meses."
+ },
+ {
+  "tema": "psiqinf",
+  "a": "Gravidade da anorexia nervosa em adultos pelo IMC (DSM-5-TR)?",
+  "b": "Leve: 17 ou mais; moderada: 16 a 16,99; grave: 15 a 15,99; extrema: abaixo de 15 kg/m2. DSM-5-TR, 2022."
+ },
+ {
+  "tema": "psiqinf",
+  "a": "Fármaco de escolha e fármaco contraindicado na bulimia nervosa?",
+  "b": "Fluoxetina 60 mg/dia, associada à TCC; bupropiona é contraindicada pelo risco de convulsões em pacientes purgativos. APA, Practice Guideline for Eating Disorders, 2023."
+ },
+ {
+  "tema": "psiqinf",
+  "a": "Critérios de insônia crônica e primeira linha de tratamento?",
+  "b": "Dificuldade de iniciar ou manter o sono 3 ou mais noites por semana, por 3 meses ou mais, com prejuízo diurno (DSM-5-TR). Primeira linha: TCC para insônia; higiene do sono isolada não basta. AASM, 2021."
+ },
+ {
+  "tema": "psiqinf",
+  "a": "Benzodiazepínico em idoso: o que fazer?",
+  "b": "Evitar (Beers, AGS 2023: quedas, fraturas, delirium). Oferecer desprescrição com redução gradual e individualizada ao longo de semanas a meses, associada a TCC para insônia. Pottie, 2018."
+ },
+ {
+  "tema": "psiqinf",
+  "a": "Idade mínima para transtorno de personalidade antissocial?",
+  "b": "18 anos, com transtorno da conduta iniciado antes dos 15 anos. Antes dos 18, o diagnóstico é transtorno da conduta. DSM-5-TR, 2022."
+ },
+ {
+  "tema": "psiqinf",
+  "a": "Sinais vitais que indicam internar adolescente com anorexia?",
+  "b": "FC abaixo de 50 bpm acordado, PA abaixo de 90/45 mmHg, temperatura abaixo de 35,6 °C, ortostatismo, distúrbio eletrolítico ou peso abaixo de 75% da mediana. SAHM, 2022."
+ }
+]

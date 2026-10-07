@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Pediatria",
+  "f": "doencas-exantematicas.html",
+  "tipo": "Guia de Vigilância 2024 · resumo de prova",
+  "area": "pedinfecto",
+  "min": 56,
+  "t": "Doenças exantemáticas na infância",
+  "s": "Sarampo, rubéola, varicela, eritema infeccioso, exantema súbito, escarlatina, mão-pé-boca, arboviroses, Kawasaki, síndrome inflamatória multissistêmica e mononucleose, com períodos de transmissão, profilaxia pós-exposição, afastamento e notificação conforme o Guia de Vigilância em Saúde (MS, 2024) e o manual de dengue do MS (2024)."
+ },
+ {
+  "grupo": "Pediatria",
+  "f": "infeccoes-respiratorias-na-infancia.html",
+  "tipo": "AIDPI 2017 e MS 2025 · resumo de prova",
+  "area": "pedinfecto",
+  "min": 55,
+  "t": "Infecções respiratórias na infância",
+  "s": "Resfriado, faringoamigdalite, otite média aguda, sinusite, crupe e epiglotite, bronquiolite com a imunização contra o vírus sincicial respiratório adotada pelo SUS em 2025 e 2026, pneumonia comunitária e coqueluche, segundo o AIDPI Criança (MS, 2017), o Guia de Vigilância em Saúde (MS, 2024) e a diretriz de otite da Academia Americana de Pediatria (2013)."
+ },
+ {
+  "grupo": "Pediatria",
+  "f": "diarreia-e-desidratacao.html",
+  "tipo": "MS 2023 · resumo de prova",
+  "area": "pedinfecto",
+  "min": 52,
+  "t": "Diarreia aguda e desidratação na criança",
+  "s": "Avaliação do estado de hidratação, planos A, B e C do cartaz vigente do Ministério da Saúde (2023), soro de reidratação oral, zinco, antiemético, antibiótico na disenteria e na cólera, diarreia persistente, parasitoses intestinais e distúrbios hidroeletrolíticos, com o Guia de Vigilância em Saúde (2024) e o AIDPI (2017) como apoio."
+ }
+]

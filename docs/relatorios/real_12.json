@@ -1,0 +1,119 @@
+{
+ "incluidas": 22,
+ "descartadas": [
+  {
+   "pid": "p0279",
+   "motivo": "texto truncado (início do enunciado ausente) e depende de imagens de tórax"
+  },
+  {
+   "pid": "p0280",
+   "motivo": "depende de imagem/figura ausente no texto (radiografia de tórax decide entre derrame neoplásico e linfangite carcinomatosa; o gabarito com corticoide pressupõe o achado radiológico)"
+  },
+  {
+   "pid": "p0281",
+   "motivo": "texto truncado e depende de imagem/figura ausente no texto"
+  },
+  {
+   "pid": "p0282",
+   "motivo": "sem caso clínico no texto; depende de imagem/figura ausente no texto (ECG)"
+  },
+  {
+   "pid": "p0284",
+   "motivo": "mais de uma resposta defensável: gabarito oficial (Doppler de artérias renais) compete com aldosterona/renina, rastreamento recomendado a todo hipertenso resistente (Diretriz Brasileira de Hipertensão 2025; Endocrine Society 2025 para hiperaldosteronismo primário)"
+  },
+  {
+   "pid": "p0286",
+   "motivo": "embaralhado na extração: alternativa D misturada com o enunciado de duas outras questões"
+  },
+  {
+   "pid": "p0287",
+   "motivo": "embaralhado: enunciado do caso ausente (ficou na questão anterior), tabela de exames desestruturada e alternativa D misturada com tabela de outra questão"
+  },
+  {
+   "pid": "p0289",
+   "motivo": "depende de imagem/figura ausente no texto (tomografia de tórax)"
+  },
+  {
+   "pid": "p0290",
+   "motivo": "depende de imagem/figura ausente no texto (tomografia de crânio)"
+  },
+  {
+   "pid": "p0291",
+   "motivo": "embaralhado: dados de espirometria das alternativas deslocados para o enunciado e entre alternativas"
+  },
+  {
+   "pid": "p0292",
+   "motivo": "depende de imagem/figura ausente no texto (padrões de imunofluorescência) e enunciado misturado com outra questão"
+  },
+  {
+   "pid": "p0293",
+   "motivo": "depende de imagem/figura ausente no texto (tomografia de abdome define a complicação)"
+  },
+  {
+   "pid": "p0294",
+   "motivo": "depende de imagem/figura ausente no texto (achado de pares cranianos); sem ele, RM de coluna também seria defensável"
+  },
+  {
+   "pid": "p0295",
+   "motivo": "depende de imagem/figura ausente no texto (curva ROC com AUC e intervalo de confiança)"
+  },
+  {
+   "pid": "p0296",
+   "motivo": "embaralhado: alternativa D misturada com o enunciado da questão seguinte"
+  },
+  {
+   "pid": "p0297",
+   "motivo": "texto truncado (início do caso e ECG ausentes, tabela de cateterismo incompleta)"
+  },
+  {
+   "pid": "p0298",
+   "motivo": "depende de imagem/figura ausente no texto e enunciado truncado"
+  },
+  {
+   "pid": "p0299",
+   "motivo": "gabarito oficial (apenas avaliação periódica de ALT, fase imunotolerante) contraria o PCDT de Hepatite B e Coinfecções do MS (2023), que indica tratamento (tenofovir) para adultos acima de 30 anos com HBeAg reagente; no SUS este paciente de 35 anos teria indicação de tratar"
+  },
+  {
+   "pid": "p0300",
+   "motivo": "depende de imagem/figura ausente no texto (lesões cutâneas/ungueais que definem o diagnóstico)"
+  },
+  {
+   "pid": "p0301",
+   "motivo": "depende de imagem/figura ausente no texto e alternativas/enunciado misturados com outra questão (pericardite no HIV) com alternativas truncadas"
+  },
+  {
+   "pid": "p0302",
+   "motivo": "depende de imagem/figura ausente no texto (tomografia distingue aspergilose de mucormicose, o que muda voriconazol x anfotericina)"
+  },
+  {
+   "pid": "p0303",
+   "motivo": "depende de imagem/figura ausente no texto (TCAR de tórax)"
+  },
+  {
+   "pid": "p0304",
+   "motivo": "depende de imagem/figura ausente no texto (RM medular distingue mielite longitudinalmente extensa de esclerose múltipla)"
+  },
+  {
+   "pid": "p0305",
+   "motivo": "texto truncado (caso clínico ausente, só fragmento de ecocardiograma)"
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0283",
+   "nota": "TSH 9 com T4 livre 0,3 ng/dL é hipotireoidismo franco, não subclínico; o gabarito fibromialgia se sustenta pelo critério ACR 2016 (diagnóstico válido mesmo com outra doença), mas o comentário enfatiza tratar o hipotireoidismo e reavaliar a dor."
+  },
+  {
+   "pid": "p0535",
+   "nota": "O mecanismo central da hiponatremia hipovolêmica é o ADH não osmótico (apropriado); a aldosterona entra como parte da resposta do SRAA à hipovolemia. Mantido porque as demais alternativas são claramente erradas (SIADH exige euvolemia, BNP é de hipervolemia, potássio normal)."
+  },
+  {
+   "pid": "p0545",
+   "nota": "Obesidade, tabagismo e insônia têm alguma associação com dor lombar crônica; mantido porque intensidade da dor e incapacidade são os preditores mais robustos (STarT Back, NICE NG59)."
+  },
+  {
+   "pid": "p0552",
+   "nota": "Parte dos alergistas consideraria adrenalina precoce em criança sabidamente alérgica a amendoim após exposição; pelos critérios WAO 2020, urticária isolada não é anafilaxia, e o gabarito (anti-histamínico com observação hospitalar) é coerente."
+  }
+ ]
+}

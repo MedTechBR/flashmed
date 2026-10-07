@@ -1,0 +1,1172 @@
+[
+ {
+  "pid": "p0553",
+  "q": "Criança, sexo feminino, branca, 1 ano e 2 meses de idade, apresenta febre de até 39,5 °C há um dia, sem outros sintomas. Há cerca de uma hora, apresentou crise convulsiva tônico clônica generalizada com duração de 4 minutos na vigência de febre, sendo levada ao hospital. Foi admitida já fora da crise, alerta e sem alterações no exame físico. Paciente previamente hígida, com vacinação em dia, tem antecedente familiar de irmão e pai com histórico de crises convulsivas na vigência de febre até os cinco anos de idade. Frente aos dados apresentados, a conduta indicada para a paciente é",
+  "alts": [
+   "coletar eletrólitos, glicemia capilar e hemograma",
+   "coletar urina tipo 1 e urocultura por sondagem vesical",
+   "realizar ultrassom transfontanela e eletroencefalograma",
+   "manter observação hospitalar por 24h, sem exames"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Crise febril simples e foco da febre",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "AAP. Febrile Seizures: Guideline for the Neurodiagnostic Evaluation of the Child With a Simple Febrile Seizure, 2011; AAP. Urinary Tract Infection: Clinical Practice Guideline, 2011 (reafirmada em 2016)",
+  "coment": "A crise foi febril simples: generalizada, com menos de 15 minutos, única, em criança de 6 meses a 5 anos que voltou ao normal, com história familiar típica. Nesse quadro a AAP (2011) não recomenda eletrólitos, glicemia, neuroimagem nem EEG de rotina; o que se investiga é a causa da febre. Menina branca de 14 meses com febre de 39,5 °C sem foco aparente tem risco relevante de infecção urinária (AAP 2011, reafirmada em 2016), e a urina deve ser colhida por sondagem vesical ou punção suprapúbica, porque o saco coletor gera falso-positivo. Observar sem exame deixaria passar uma pielonefrite.",
+  "porAlt": [
+   "Eletrólitos, glicemia e hemograma não são indicados de rotina na crise febril simples com criança alerta e exame normal.",
+   "Correta: febre sem foco em menina de 14 meses exige urina tipo 1 e urocultura colhidas por sondagem para afastar infecção urinária.",
+   "Ultrassom transfontanela e eletroencefalograma não mudam a conduta na crise febril simples e não são recomendados.",
+   "Observar sem exames ignora a febre sem foco, que nessa idade e sexo pede investigação de infecção urinária."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0554",
+  "q": "Recém-nascido a termo internado na unidade neonatal para tratamento de neurossífilis apresentou hipoglicemia assintomática nas primeiras 24 horas de vida, necessitando de reposição endovenosa de glicose por 72 horas. Com 11 dias de vida, apresenta perda ponderal de 12% em relação ao peso de nascimento, recebendo seio materno e, na ausência da mãe, fórmula láctea com oferta adequada, além da antibioticoterapia parenteral. Foram coletados exames laboratoriais que revelaram Na+ de 126 mEq/L e K+ de 6,8 mEq/L. Qual é a deficiência que se espera encontrar no Teste do Pezinho?",
+  "alts": [
+   "Deficiência de TREC e KREC",
+   "Deficiência de 21-hidroxilase",
+   "Deficiência de carnitina",
+   "Deficiência na síntese da proteína CFTR"
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "HAC perdedora de sal",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Triagem Neonatal Biológica: Manual Técnico, 2016; Endocrine Society. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency, 2018",
+  "coment": "Hiponatremia com hiperpotassemia, perda ponderal excessiva apesar de oferta adequada e hipoglicemia nas primeiras semanas de vida formam o quadro clássico da crise perdedora de sal da hiperplasia adrenal congênita por deficiência de 21-hidroxilase, responsável por cerca de 95% dos casos. Falta cortisol (hipoglicemia) e aldosterona (perda de sódio e retenção de potássio). O Teste do Pezinho do PNTN dosa a 17-hidroxiprogesterona, que vem elevada. Fibrose cística costuma dar hiponatremia com hipopotassemia e alcalose, sem hipercalemia; deficiência de carnitina e imunodeficiência (TREC e KREC) não explicam o distúrbio eletrolítico. A neurossífilis é distrator.",
+  "porAlt": [
+   "TREC e KREC rastreiam imunodeficiências combinadas graves, que não causam hiponatremia com hiperpotassemia.",
+   "Correta: hiponatremia, hiperpotassemia, hipoglicemia e perda de peso no período neonatal indicam HAC perdedora de sal, com 17-OHP elevada.",
+   "Deficiência de carnitina causa hipoglicemia hipocetótica e miopatia, mas não perda de sal com hipercalemia.",
+   "Fibrose cística pode causar hiponatremia por perda no suor, porém com hipopotassemia e alcalose metabólica, não hipercalemia."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0555",
+  "q": "Criança, sexo masculino, 2 anos de idade, com antecedente de anemia falciforme (Hb basal de 8,5 g/dL), é admitida no pronto-socorro com queixa de febre de até 38,5 °C há 4 dias, palidez e adinamia há 3 dias. Ao exame físico, apresenta-se descorado 3+/4+, hidratado, com FC de 152 bpm, FR de 23 irpm, PA de 80×48 mmHg, SpO2 de 94% em ar ambiente, ausculta pulmonar sem alteração, ausculta cardíaca com sopro holossistólico 2+/6+, fígado palpável no rebordo costal direito, baço percutível no rebordo costal esquerdo. Coletados exames laboratoriais e liberado hemograma na urgência com resultado de pânico: Hb: 4,5 g/dL; Ht: 16%; Leucócitos: 17.350/mm³; Plaquetas: 160.000/mm³; Reticulócitos: 0,1%. Assinale a alternativa que melhor descreve o mecanismo fisiopatológico do quadro apresentado pelo paciente.",
+  "alts": [
+   "Choque hipovolêmico hipotensivo relacionado à retenção esplênica",
+   "Sepse e anemia de consumo decorrente de infecção por agente encapsulado",
+   "Hemólise intravascular disseminada decorrente de atividade da doença",
+   "Anemia sintomática por supressão transitória da eritropoiese medular"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Crise aplástica na anemia falciforme",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Doença Falciforme, 2018; NHLBI. Evidence-Based Management of Sickle Cell Disease, 2014",
+  "coment": "Queda da hemoglobina de 8,5 para 4,5 g/dL com reticulócitos de 0,1% define crise aplástica: a medula parou de produzir hemácias, em geral por infecção pelo parvovírus B19, que infecta precursores eritroides. Como a hemácia falciforme vive 10 a 20 dias, poucos dias sem eritropoiese bastam para anemia grave. No sequestro esplênico e na crise hemolítica a reticulocitose estaria alta e, no sequestro, o baço estaria grande, não apenas percutível. A conduta é transfusão de concentrado de hemácias e precaução respiratória (PCDT Doença Falciforme, 2018).",
+  "porAlt": [
+   "Sequestro esplênico cursa com baço aumentado e reticulocitose; aqui o baço é só percutível e os reticulócitos estão quase zerados.",
+   "Sepse por germe encapsulado é risco real no falciforme, mas não explica reticulócitos de 0,1% com queda isolada de hemoglobina.",
+   "Crise hemolítica eleva os reticulócitos como resposta medular, o oposto do achado de 0,1%.",
+   "Correta: reticulocitopenia com anemia aguda grave indica supressão transitória da eritropoiese, típica do parvovírus B19."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0557",
+  "q": "Criança, sexo feminino, 9 anos de idade, previamente hígida, está no 6º dia de internação na enfermaria de pediatria devido a um quadro de pneumonia, em uso de ceftriaxone 100 mg/kg/dia. À entrada, apresentava febre, taquipneia e queda do estado geral. A radiografia de tórax evidenciou derrame pleural significativo que foi drenado com envio do líquido para cultura. Realizada tomografia computadorizada de tórax, com achados compatíveis com pneumonia necrotizante. Hoje, na evolução, você percebe que a paciente continua mantendo picos diários de febre de até 39 °C, embora apresente bom estado geral e reduzindo a necessidade de oferta de oxigênio. A cultura do líquido pleural resultou positiva para pneumococo sensível à penicilina. Considerando os dados apresentados, a melhor conduta, nesse momento, é",
+  "alts": [
+   "prescrever cefepime e vancomicina",
+   "solicitar nova avaliação da cirurgia",
+   "repetir tomografia de tórax",
+   "manter antibioticoterapia e suporte"
+  ],
+  "gab": 3,
+  "tema": "pedinfecto",
+  "sub": "Pneumonia necrotizante com febre persistente",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "IDSA/PIDS. Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age, 2011; BTS. Guidelines for the Management of Pleural Infection in Children, 2005",
+  "coment": "Na pneumonia necrotizante com empiema drenado, a febre costuma persistir por 1 a 3 semanas mesmo com antibiótico adequado, porque há tecido desvitalizado em lenta reabsorção. O que orienta a conduta é a evolução clínica: bom estado geral e menor necessidade de oxigênio indicam resposta. O pneumococo é sensível à penicilina, então a ceftriaxona está correta e ampliar o espectro não traz benefício. Nova tomografia ou reavaliação cirúrgica ficam para piora, sepse, coleção residual não drenada ou fístula broncopleural (IDSA/PIDS, 2011). A conduta é manter antibiótico e suporte.",
+  "porAlt": [
+   "Cefepime com vancomicina amplia o espectro sem motivo: o agente é pneumococo sensível e a criança está melhorando.",
+   "Reavaliação cirúrgica cabe se houver piora, coleção não drenada ou fístula, o que não foi descrito.",
+   "Repetir a tomografia não muda a conduta em criança que melhora clinicamente e a expõe a radiação desnecessária.",
+   "Correta: febre prolongada é esperada na pneumonia necrotizante; com melhora clínica e agente sensível, mantêm-se antibiótico e suporte."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0558",
+  "q": "A tabela a seguir apresenta a mortalidade proporcional e a taxa de mortalidade ajustada por idade segundo raça/cor por todas as causas, Município de Imbaré, 2025:\nPopulação 1: Nº de óbitos 10.000; Mortalidade Proporcional 48,5%; Taxa de mortalidade ajustada por mil hab 3,2.\nPopulação 2: Nº de óbitos 2.000; Mortalidade Proporcional 9,7%; Taxa 5,1.\nPopulação 3: Nº de óbitos 8.000; Mortalidade Proporcional 38,8%; Taxa 4,5.\nTotal: Nº de óbitos 20.600; Mortalidade Proporcional 100%; Taxa —.\nCom base nos dados fornecidos na tabela apresentada, qual população tem maior risco de morte?",
+  "alts": [
+   "População 1, pois apresenta a maior mortalidade proporcional",
+   "População 1, pois apresenta maior número de óbitos",
+   "População 2, pois apresenta a maior taxa de mortalidade",
+   "Não é possível comparar, pois as populações são diferentes"
+  ],
+  "gab": 2,
+  "tema": "epidemio",
+  "sub": "Mortalidade proporcional versus taxa ajustada",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Celentano DD, Szklo M. Gordis Epidemiology, 6ª ed., 2019",
+  "coment": "Mortalidade proporcional mostra só a fatia de cada grupo no total de óbitos; depende do tamanho da população e não mede risco. O número absoluto de óbitos tem o mesmo problema. Risco de morte se compara pela taxa de mortalidade (óbitos sobre a população exposta), e quando as estruturas etárias diferem usa-se a taxa ajustada por idade, que remove o efeito de confusão da idade. A população 2 tem a maior taxa ajustada (5,1 por mil), logo o maior risco, apesar de ter o menor número de óbitos e a menor mortalidade proporcional. A padronização existe justamente para permitir comparar populações diferentes.",
+  "porAlt": [
+   "Mortalidade proporcional mede a participação no total de óbitos, não o risco, e cresce com o tamanho da população.",
+   "Número absoluto de óbitos depende do tamanho da população e não permite comparar risco.",
+   "Correta: a taxa ajustada por idade é a medida que compara risco entre populações, e a maior é a da população 2.",
+   "A taxa ajustada por idade foi criada exatamente para comparar populações com estruturas diferentes."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0559",
+  "q": "Considere as seguintes informações referentes a uma mulher de 22 anos de idade:\nSUBJETIVO: Paciente comparece a segunda consulta pré-natal, relatando que ainda mantém náuseas e vômitos. Não queria engravidar agora, tomou um susto com a gravidez e ainda está buscando aceitá-la. Tem faltado no trabalho, por conta do mal-estar da gravidez, e demonstra preocupação com isso. O supervisor a tem pressionado, dizendo que talvez seja melhor ela se demitir. Fazia academia de ginástica 3 vezes por semana e parou por receio de fazer mal à criança. Está usando ácido fólico, sulfato ferroso e carbonato de cálcio. É a sua primeira gestação e não tem nenhuma comorbidade.\nOBJETIVO: Idade gestacional de 12 semanas compatível com o primeiro USG feito com 8 semanas de gestação. Vacinação prévia: 3 doses de hepatite B, 3 doses com reforço de DPT, 3 doses da vacina de COVID-19 e influenza sazonal. PA de 102×60 mmHg. Ausculta (sonar): BCF presente. IMC de 24,2 kg/m². Exames de primeiro trimestre sem alterações significativas.\nAVALIAÇÃO: Primigesta de risco habitual, no primeiro trimestre gestacional. Eutrofia, com risco nutricional pelos vômitos. Risco psicossocial.\nEm relação ao PLANO para esta consulta, qual é a alternativa mais adequada?",
+  "alts": [
+   "Orientar a paciente a não fazer atividade física em academia, pelo risco de lesão osteomuscular, restrição de crescimento e parto prematuro",
+   "Prescrever ondansetrona para a náusea e trocar os medicamentos por um multivitamínico, para melhorar a adesão",
+   "Completar vacinação agora com dTpa e encaminhar para a Psicologia, por ser gestação não planejada e ainda não aceita",
+   "Suspender temporariamente medicamentos e orientar direitos trabalhistas, pois a gestante não pode ser demitida, exceto por justa causa"
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Plano no pré-natal de risco habitual",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 32 (pré-natal de baixo risco), 2012; Constituição Federal de 1988, ADCT, art. 10, II, b",
+  "coment": "No primeiro trimestre com náuseas e vômitos, suspender temporariamente sulfato ferroso e cálcio é razoável, porque pioram os sintomas gastrointestinais e podem ser retomados quando melhorar. A queixa trabalhista também faz parte do plano: a gestante tem estabilidade desde a confirmação da gravidez até 5 meses após o parto (ADCT, art. 10, II, b) e só pode ser dispensada por justa causa; faltas por mal-estar justificam atestado. Atividade física moderada deve ser incentivada na gestação de risco habitual (CAB 32, 2012). A dTpa é feita a partir de 20 semanas, e gestação não planejada não é, por si, indicação de encaminhamento à Psicologia.",
+  "porAlt": [
+   "Exercício moderado é seguro e recomendado na gestação de risco habitual, sem aumento de restrição de crescimento ou prematuridade.",
+   "Ondansetrona não é primeira escolha para sintomas leves, e trocar por multivitamínico não resolve a intolerância nem é padrão do SUS.",
+   "A dTpa é indicada a partir de 20 semanas, e gravidez não planejada não exige, por si, encaminhamento à Psicologia.",
+   "Correta: pausar suplementos que agravam a náusea e orientar a estabilidade da gestante, que só pode ser demitida por justa causa."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0560",
+  "q": "O artigo de Faisal-Cury e Menezes (2012) apresenta os resultados de uma coorte de gestantes que estimou a associação entre depressão antenatal e depressão pós-parto. Segundo a pesquisa, gestantes deprimidas apresentaram maior risco de depressão pós-parto (risco relativo: 2,5; IC95%: 2,3-2,7). No entanto, dentre as 828 gestantes avaliadas no início da pesquisa, 107 não responderam ao instrumento de avaliação da depressão no período pós-parto. A análise dos dados mostra que as mulheres que não responderam eram mais deprimidas, menos escolarizadas e mais frequentemente solteiras, mas com idade similar às mulheres que completaram a pesquisa. Caso estas mulheres tivessem retornado e fossem incluídas na análise dos dados, o que provavelmente ocorreria com a medida de associação?",
+  "alts": [
+   "Ficaria estável",
+   "Aumentaria",
+   "Diminuiria",
+   "Não é possível prever"
+  ],
+  "gab": 1,
+  "tema": "bioestat",
+  "sub": "Perda de seguimento e viés de seleção",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Celentano DD, Szklo M. Gordis Epidemiology, 6ª ed., 2019",
+  "coment": "As perdas não foram aleatórias: as mulheres que saíram eram mais deprimidas na gestação (expostas) e tinham mais fatores de risco para depressão pós-parto (baixa escolaridade, sem companheiro). Logo, as expostas que permaneceram são as de menor risco, e a incidência do desfecho entre expostas foi subestimada. Perda diferencial de expostos com maior probabilidade de desfecho gera viés de seleção que puxa o risco relativo para baixo. Se elas fossem incluídas, o numerador do grupo exposto cresceria mais que o do não exposto, e o risco relativo provavelmente aumentaria.",
+  "porAlt": [
+   "Ficaria estável só se as perdas fossem aleatórias, mas as não respondentes diferiam em exposição e fatores de risco.",
+   "Correta: as perdas concentraram expostas de alto risco para o desfecho, então incluí-las elevaria o risco relativo.",
+   "Diminuiria se as perdas fossem de não expostas com muito desfecho, o contrário do descrito.",
+   "O perfil das perdas foi descrito e permite prever a direção provável do viés."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0561",
+  "q": "Um aluno de pós-graduação pretende estudar três diferentes aspectos do Transtorno do Estresse Pós-Traumático (TEPT) associados ao parto:\n1. Se a frequência de TEPT é maior em mulheres atendidas em serviços públicos do que privados;\n2. Se há relação causal entre história de abuso na infância e TEPT;\n3. Se TEPT aumenta o risco de ideação suicida anos após o parto.\nAssinale a alternativa que contempla os tipos de estudos apropriados para os objetivos 1, 2 e 3, respectivamente.",
+  "alts": [
+   "Coorte, caso-controle, ensaio de comunidade",
+   "Descritivo, coorte, caso-controle",
+   "Transversal, descritivo, coorte",
+   "Transversal, caso-controle, coorte"
+  ],
+  "gab": 3,
+  "tema": "bioestat",
+  "sub": "Escolha do desenho de estudo",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Celentano DD, Szklo M. Gordis Epidemiology, 6ª ed., 2019",
+  "coment": "Comparar a frequência de TEPT entre serviços públicos e privados é estimar prevalência em um momento, papel do estudo transversal. Investigar se abuso na infância causa TEPT exige olhar a exposição passada em quem tem e em quem não tem o desfecho; o caso-controle é eficiente para isso, partindo de mulheres com e sem TEPT e comparando a história de abuso. Saber se TEPT aumenta o risco de ideação suicida anos depois pede seguir expostos e não expostos no tempo e medir incidência, o que define a coorte. Ensaio de comunidade não se aplica, porque não se pode alocar TEPT.",
+  "porAlt": [
+   "Coorte não é o desenho para estimar frequência pontual, e ensaio de comunidade exigiria intervenção alocada.",
+   "Estudo descritivo não compara grupos, e caso-controle não mede incidência de ideação suicida ao longo de anos.",
+   "Estudo descritivo não testa relação causal entre abuso na infância e TEPT.",
+   "Correta: transversal para prevalência, caso-controle para exposição passada e coorte para risco futuro."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0562",
+  "q": "A metformina tem sido o medicamento de primeira linha para tratamento do diabetes melito tipo 2 há décadas. Ela também demonstrou apresentar ações antivirais in vitro em estudos com dengue, hepatite C e rotavírus. Um ensaio clínico avaliou a efetividade da metformina na redução de desfechos adversos graves em pacientes com COVID-19. Após randomização, 1.433 pacientes receberam metformina, 500 mg/dia, 14 dias (GE = Grupo Experimental) e 1.548 receberam placebo (GC = Grupo Controle). O desfecho primário do estudo foi o tempo para a recuperação sustentada da COVID-19 (definida como ausência de sintomas por, pelo menos, 3 dias). Os desfechos secundários foram a hospitalização e o óbito. O resultado principal mostrou que, ao longo de 180 dias de seguimento, 7 participantes do GE e 3 do GC apresentaram algum evento adverso classificado como grave (razão de riscos: 2,50; IC95%: 0,65-9,66). O tempo mediano para recuperação sustentada foi de 9 dias para o GE e 10 dias para o GC (razão de riscos = 0,96; IC95%: 0,89-1,03). No total, 103 participantes relataram visitas ao pronto-socorro ou hospitalização: 54 no GE e 49 no GC (razão de riscos = 1,25; IC95%: 0,82-1,78). Não foram relatados óbitos. Diante dos resultados apresentados, pode-se concluir:",
+  "alts": [
+   "Embora a diferença seja modesta, os dados favorecem o uso da metformina",
+   "O uso da metformina contribuiu para agravar o quadro clínico dos pacientes",
+   "A metformina gerou significativamente mais eventos adversos do que o placebo",
+   "Os dados indicam que a hipótese nula não pode ser rejeitada neste caso"
+  ],
+  "gab": 3,
+  "tema": "bioestat",
+  "sub": "Intervalo de confiança e hipótese nula",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Celentano DD, Szklo M. Gordis Epidemiology, 6ª ed., 2019",
+  "coment": "Em razões de risco, o valor nulo é 1. Todos os intervalos de confiança de 95% do estudo incluem 1: eventos adversos graves (0,65 a 9,66), tempo de recuperação (0,89 a 1,03) e visitas ao pronto-socorro ou hospitalização (0,82 a 1,78). Portanto nenhuma diferença foi estatisticamente significativa, e a hipótese nula de ausência de efeito não pode ser rejeitada. Uma razão de 2,50 com intervalo tão largo reflete poucos eventos (7 contra 3) e imprecisão, sem demonstrar dano. Também não há base para dizer que a metformina favorece a recuperação.",
+  "porAlt": [
+   "O intervalo do tempo de recuperação (0,89 a 1,03) inclui 1, então não há benefício demonstrado.",
+   "Não se demonstrou agravamento: o intervalo das hospitalizações (0,82 a 1,78) inclui 1.",
+   "Razão de 2,50 com intervalo de 0,65 a 9,66 inclui 1 e não é estatisticamente significativa.",
+   "Correta: todos os intervalos de confiança incluem 1, logo a hipótese nula não pode ser rejeitada."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0563",
+  "q": "O Governo Federal lançou em 2025 o programa “Agora Tem Especialistas”, visando ampliar o acesso da população usuária do Sistema Único de Saúde (SUS) à atenção ambulatorial e hospitalar especializada, incluindo consultas, exames e cirurgias. Uma das medidas prevê a contratação de hospitais e serviços privados, mediante venda de capacidade ociosa, abatimento de dívidas públicas ou créditos tributários. Este caráter da participação do setor privado no SUS é previsto na legislação como",
+  "alts": [
+   "suplementar",
+   "complementar",
+   "prestador subsidiário",
+   "organização social"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Participação complementar do setor privado",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 199, §1º; Lei 8.080/1990, arts. 24 a 26",
+  "coment": "A Constituição (art. 199, §1º) e a Lei 8.080/1990 (art. 24) preveem que, quando a rede pública for insuficiente para garantir a cobertura de uma área, o SUS pode recorrer aos serviços privados de forma complementar, por contrato ou convênio, com preferência para entidades filantrópicas e sem fins lucrativos. Contratar hospitais privados para ampliar consultas, exames e cirurgias especializadas é exatamente essa participação complementar. Saúde suplementar é outra coisa: planos e seguros privados regulados pela ANS (Lei 9.656/1998). Organização social é modelo de gestão de serviço público, não forma de participação privada no SUS.",
+  "porAlt": [
+   "Suplementar designa a saúde dos planos e seguros privados regulados pela ANS, fora da rede do SUS.",
+   "Correta: a CF (art. 199, §1º) e a Lei 8.080/1990 (art. 24) chamam de complementar a contratação do privado quando a rede pública é insuficiente.",
+   "Prestador subsidiário não é categoria prevista na legislação do SUS.",
+   "Organização social é modelo de gestão de unidades públicas por entidade sem fins lucrativos, não a participação descrita."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0564",
+  "q": "Há evidências crescentes, embora controversas, de que a exposição solar crônica está associada ao risco de câncer de mama. Estudos anteriores foram realizados em regiões com variação sazonal na Radiação Ultravioleta (UV) e entre participantes predominantemente de ascendência europeia. Um estudo de caso-controle foi conduzido em Porto Rico, onde não há flutuação sazonal significativa e há exposição contínua à radiação UV muito alta. O estudo incluiu 307 casos de câncer de mama e 328 controles. A análise foi estratificada por cor da pele. A tabela a seguir mostra a distribuição dos participantes com tom de pele mais escuro:\nExposição solar Baixa: Casos 53; Controles 54.\nExposição solar Moderada: Casos 26; Controles 56.\nExposição solar Alta: Casos 24; Controles 54.\nCom base na tabela e considerando a categoria exposição solar “baixa” como referência, qual a provável conclusão em relação à exposição solar e ao câncer de mama neste estudo?",
+  "alts": [
+   "A exposição solar moderada não tem efeito sobre o câncer de mama",
+   "A alta exposição solar é um fator protetor contra o câncer de mama",
+   "A alta exposição solar é um fator de risco para o câncer de mama",
+   "A alta exposição solar não tem efeito sobre o câncer de mama"
+  ],
+  "gab": 1,
+  "tema": "bioestat",
+  "sub": "Odds ratio em caso-controle",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Celentano DD, Szklo M. Gordis Epidemiology, 6ª ed., 2019",
+  "coment": "Em estudo caso-controle a medida de associação é a razão de chances (OR). Com exposição baixa como referência (53 casos e 54 controles): exposição moderada, OR = (26 × 54) / (53 × 56), cerca de 0,47; exposição alta, OR = (24 × 54) / (53 × 54), cerca de 0,45. Ambas ficam bem abaixo de 1, o que indica associação inversa: entre mulheres de pele mais escura, mais exposição solar se associou a menor chance de câncer de mama, ou seja, fator protetor. A hipótese biológica é a síntese de vitamina D. Nenhuma categoria mostra ausência de efeito, que corresponderia a OR próxima de 1.",
+  "porAlt": [
+   "A OR da exposição moderada é cerca de 0,47, longe de 1, então há associação.",
+   "Correta: a OR da exposição alta é cerca de 0,45, menor que 1, indicando fator protetor.",
+   "Fator de risco exigiria OR maior que 1, e a calculada é cerca de 0,45.",
+   "Ausência de efeito corresponderia a OR próxima de 1, não a 0,45."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0565",
+  "q": "Mulher, 52 anos de idade, procura a atenção primária com queixas de fogachos frequentes, sudorese noturna e alterações de sono, com ciclos menstruais regulares e volumosos. Qual deve ser a abordagem mais apropriada para o manejo inicial dessa paciente, conforme as diretrizes do Ministério da Saúde?",
+  "alts": [
+   "Solicitar exames hormonais de rotina para confirmar diagnóstico",
+   "Iniciar terapia de reposição hormonal para alívio dos sintomas",
+   "Prescrever antidepressivo inibidor da receptação de serotonina",
+   "Investigar intensidade dos sintomas e orientar adequação do estilo de vida"
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Climatério na atenção primária",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Protocolos da Atenção Básica: Saúde das Mulheres, 2016; Manual de Atenção à Mulher no Climatério/Menopausa, 2008",
+  "coment": "Mulher de 52 anos com fogachos, sudorese noturna e alteração do sono está na transição menopausal, e o diagnóstico é clínico: o Ministério da Saúde (Protocolos da Atenção Básica: Saúde das Mulheres, 2016) não recomenda dosar FSH ou estradiol de rotina, que oscilam muito nessa fase. O primeiro passo é avaliar intensidade e impacto dos sintomas, contraindicações e expectativas, e orientar estilo de vida (atividade física, higiene do sono, evitar gatilhos como álcool e ambientes quentes). Terapia hormonal fica para sintomas moderados a intensos que comprometem a qualidade de vida, após avaliar riscos. ISRS é alternativa quando o hormônio é contraindicado ou recusado.",
+  "porAlt": [
+   "O diagnóstico do climatério é clínico, e exames hormonais de rotina não são recomendados nessa faixa etária.",
+   "Terapia hormonal não é o passo inicial: antes se avaliam intensidade, impacto e contraindicações.",
+   "Antidepressivo é alternativa para fogachos quando o hormônio é contraindicado, não a abordagem inicial.",
+   "Correta: o manejo inicial é avaliar a intensidade dos sintomas e orientar estilo de vida, conforme o Ministério da Saúde."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0566",
+  "q": "Mulher, parda, 22 anos de idade, na segunda gestação. Moradora de município de médio porte, ensino médio incompleto. Desempregada, em união estável. Primeiro atendimento (14 semanas) quando realiza consulta de pré-natal com enfermagem. Os exames de rotina são solicitados, incluindo sorologia para sífilis (VDRL). Exame coletado, mas resultado não foi incluído no prontuário por falha na digitação do laboratório no sistema. Segundo atendimento (22 semanas): Anamnese e exame físico sem alterações. Terceiro atendimento (28 semanas): Queixa de corrimento vaginal. Solicitado novo VDRL, que retorna reagente: VDRL 1:64. Confirmado por teste rápido treponêmico (positivo). Iniciada penicilina benzatina (2,4 milhões UI IM, 3 doses com intervalo semanal). Parceiro não comparece para tratamento. Parto (38 semanas): vaginal em maternidade regional. Recém-nascido com sinais de prematuridade limítrofe, baixo peso (2.300 g) e exantema palmoplantar. Avaliação neonatal mostra VDRL reagente e anemia. Foi realizado tratamento do recém-nascido com penicilina procaína. Puérpera foi orientada a continuar o tratamento após a alta. Dentre os princípios do SUS e os atributos da APS, em qual não houve o cumprimento adequado e levou a ocorrência da sífilis congênita neste caso?",
+  "alts": [
+   "Acesso",
+   "Equidade",
+   "Universalidade",
+   "Coordenação do cuidado"
+  ],
+  "gab": 3,
+  "tema": "aps",
+  "sub": "Coordenação do cuidado no pré-natal",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB); Starfield B. Atenção Primária: equilíbrio entre necessidades de saúde, serviços e tecnologia, 2002",
+  "coment": "A gestante teve acesso: fez consultas desde 14 semanas e coletou o VDRL. A falha esteve em integrar a informação ao longo do cuidado. O resultado do primeiro exame nunca chegou ao prontuário e ninguém notou a ausência na consulta de 22 semanas; o parceiro não foi trazido ao tratamento; e a puérpera saiu com orientação genérica de continuar o tratamento. Garantir que exames, encaminhamentos e informações circulem e sejam acompanhados é o atributo coordenação do cuidado (Starfield, 2002; PNAB, Portaria 2.436/2017). O diagnóstico tardio, com 28 semanas, permitiu a transmissão vertical.",
+  "porAlt": [
+   "Houve acesso: a gestante iniciou o pré-natal com 14 semanas, compareceu às consultas e coletou exames.",
+   "Não há sinal de tratamento desigual por condição social; o problema foi a perda e o não seguimento da informação.",
+   "A gestante foi atendida pelo SUS, então a universalidade foi cumprida.",
+   "Correta: resultado perdido, ausência de busca na consulta seguinte e parceiro não tratado são falhas de coordenação do cuidado."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0567",
+  "q": "Mulher, 67 anos de idade, procura atendimento na sua Unidade Básica de Saúde (UBS) para exames de rotina, especialmente preocupada com os exames ginecológicos. Tem vida sexual ativa, não tem comorbidades. Realizou exame citopatológico do colo uterino aos 61 e 64 anos de idade, e mamografia aos 65 anos. Não tem história familiar de câncer, nem teve exames de rastreamento alterados anteriormente. Seguindo as recomendações do Ministério da Saúde para câncer de mama e colo de útero, qual conduta deve ser orientada para a paciente?",
+  "alts": [
+   "Solicitar apenas mamografia",
+   "Solicitar apenas citopatológico de colo de útero",
+   "Solicitar mamografia e citopatológico de colo de útero",
+   "Orientar que não há indicação de exames"
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "Rastreamento de mama e colo após 64 anos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, 2016, e Diretrizes com teste de DNA-HPV (Portaria Conjunta SAES/SECTICS 13/2025); Ministério da Saúde, ampliação do rastreamento mamográfico, 2025",
+  "coment": "Colo do útero: na diretriz de citologia (INCA, 2016), o rastreamento termina aos 64 anos quando há pelo menos dois exames negativos consecutivos nos últimos 5 anos, o que ela tem (61 e 64 anos, sem alterações prévias). A diretriz com DNA-HPV (2025) também encerra o rastreamento aos 64 anos em quem tem rastreamento negativo, e vida sexual ativa não muda isso. Mama: aos 67 anos ela está na faixa da mamografia bienal (50 a 69 anos na diretriz de 2015, ampliada pelo Ministério da Saúde em 2025), e a última foi aos 65. Logo, só mamografia.",
+  "porAlt": [
+   "Correta: a mamografia bienal está indicada aos 67 anos, e o rastreamento do colo foi encerrado aos 64 com exames negativos.",
+   "Com dois citopatológicos negativos até os 64 anos, o rastreamento do colo deve ser interrompido.",
+   "O citopatológico não está mais indicado; apenas a mamografia segue no calendário de rastreamento.",
+   "Ela ainda está na faixa etária de rastreamento mamográfico, e a última mamografia foi há dois anos."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0568",
+  "q": "Considere o registro a seguir, realizado no prontuário de um homem cisgênero, 35 anos de idade, bancário. A UBS de referência está localizada em área urbana.\nS1: Dor abdominal em cólica e diarreia malcheirosa há cerca de 20 dias, sem sangue ou muco. Em uso de analgésico e anti-espasmódico com controle dos sintomas. Sem febre, perda de 1 kg nesse período, nega viagens recentes.\nS2: Renovação de prescrição de PrEP para HIV (profilaxia pré-exposição). Uso diário há 2 anos, esquece de tomar menos de 1 vez por semana; últimos exames há cerca de 4 meses sem alterações. Relações sexuais anais receptivas e insertivas, uso irregular de preservativo.\nO: Abdome timpânico, sem dor à palpação e sem massas; hidratado, anictérico.\nExames realizados há 4 meses: sorologias para HIV, sífilis e hepatites B e C: negativo; pesquisa clamídia e gonorreia retal e urinária negativas; creatinina 0,8 mg/dL. Para esse paciente, a conduta mais indicada seria pesquisa nas fezes de:",
+  "alts": [
+   "Calprotectina",
+   "Sangue oculto",
+   "Giardia lamblia",
+   "Microsporidium spp"
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "Diarreia persistente em usuário de PrEP",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "CDC. Sexually Transmitted Infections Treatment Guidelines, 2021 (proctite, proctocolite e enterite); Ministério da Saúde. PCDT PrEP de risco à infecção pelo HIV, 2022",
+  "coment": "Diarreia há 20 dias, malcheirosa, com cólica, abdome timpânico e pequena perda de peso, sem sangue nem febre, sugere diarreia disabsortiva do intestino delgado, padrão clássico da giardíase. Em homens que fazem sexo com homens a Giardia lamblia também é transmitida por contato oral-anal, e o CDC (2021) a cita como causa frequente de enterite de transmissão sexual nesse grupo. O paciente é HIV negativo em uso regular de PrEP, então microsporídio, típico de aids com CD4 muito baixo, não é a hipótese. Calprotectina e sangue oculto servem a doença inflamatória ou neoplasia, sem sinais de alarme aqui.",
+  "porAlt": [
+   "Calprotectina investiga doença inflamatória intestinal, pouco provável sem sangue, muco ou sinais inflamatórios.",
+   "Sangue oculto é usado no rastreamento de câncer colorretal e não identifica a causa de diarreia persistente em jovem.",
+   "Correta: diarreia disabsortiva malcheirosa em HSH com prática oral-anal sugere giardíase, e a pesquisa de Giardia é o exame indicado.",
+   "Microsporídio causa diarreia em aids avançada com CD4 baixo, e o paciente é HIV negativo em PrEP."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0569",
+  "q": "Em abril de 2024, o Rio Grande do Sul experimentou alta precipitação, que resultou em inundações generalizadas. Um estudo avaliou a incidência de leptospirose entre maio e julho de 2024 no estado do Rio Grande do Sul. A tabela relaciona a porcentagem de residências atingidas pelas inundações e a incidência de leptospirose (por 100.000 habitantes):\n0 - 0,1: 0,5; 0,2 - 0,6: 1,6; 0,7 - 1,2: 3,3; 1,3 - 11,0: 7,3; 11,1 - 27,9: 21,7.\nConsiderando como referência os locais com porcentagem de residências atingidas pelas inundações entre 0 e 0,1%, o risco de leptospirose na população é:",
+  "alts": [
+   "Nos locais em que a porcentagem de residências afetadas pelas inundações foi de 0,2 a 0,6 é 3,2 vezes menor",
+   "Nos locais em que a porcentagem de residências afetadas pelas inundações foi de 0,7 a 1,2 é 6,6 vezes maior",
+   "Nos locais em que a porcentagem de residências afetadas pelas inundações foi de 1,3 a 11,0 é 14,6% menor",
+   "Nos locais em que a porcentagem de residências afetadas pelas inundações foi de 11,1 a 27,9 é 24% maior"
+  ],
+  "gab": 1,
+  "tema": "epidemio",
+  "sub": "Risco relativo por incidências",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Celentano DD, Szklo M. Gordis Epidemiology, 6ª ed., 2019",
+  "coment": "Risco relativo é a razão entre a incidência no grupo de interesse e a incidência no grupo de referência. Com a referência em 0,5 por 100 mil: na faixa de 0,2 a 0,6% de residências atingidas, 1,6 / 0,5 = 3,2 vezes maior; de 0,7 a 1,2%, 3,3 / 0,5 = 6,6 vezes maior; de 1,3 a 11,0%, 7,3 / 0,5 = 14,6 vezes maior; de 11,1 a 27,9%, 21,7 / 0,5, cerca de 43 vezes maior. Há gradiente dose-resposta: quanto mais casas inundadas, maior o risco de leptospirose, coerente com a exposição à água contaminada por urina de roedores.",
+  "porAlt": [
+   "O risco nessa faixa é 3,2 vezes maior, não menor (1,6 dividido por 0,5).",
+   "Correta: 3,3 dividido por 0,5 dá risco relativo de 6,6, ou seja, 6,6 vezes maior.",
+   "Nessa faixa o risco é 14,6 vezes maior (7,3 dividido por 0,5), não 14,6% menor.",
+   "Nessa faixa o risco é cerca de 43 vezes maior (21,7 dividido por 0,5), não 24% maior."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0570",
+  "q": "Homem e sua companheira iniciaram tratamento para tuberculose pulmonar há 7 dias. A equipe da unidade básica de saúde realiza visita domiciliar a fim de avaliar os contactantes domiciliares do caso. Na casa, além do casal, mora a filha com 26 dias de vida, assintomática, com bom ganho de peso, em aleitamento materno exclusivo, vacinação de acordo com o calendário vacinal do Programa Nacional de Imunização. Assinale a alternativa que apresenta a conduta adequada para a criança.",
+  "alts": [
+   "Realizar prova tuberculínica",
+   "Tratar para Infecção Latente de Tuberculose (ILTB)",
+   "Realizar Ensaio de Liberação de Interferon-gama (IGRA)",
+   "Solicitar radiografia de tórax"
+  ],
+  "gab": 1,
+  "tema": "pedinfecto",
+  "sub": "Recém-nascido contato de tuberculose bacilífera",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019; Nota Informativa nº 4/2024-CGTM/DATHI/SVSA/MS",
+  "coment": "Recém-nascido que convive com adulto bacilífero tem alto risco de infecção e de formas graves, como meningite e miliar. Afastada a doença ativa (assintomática, ganhando peso), o Ministério da Saúde indica tratamento preventivo sem aguardar teste: a Nota Informativa nº 4/2024 recomenda rifampicina por 4 meses, ou isoniazida por 3 meses seguida de prova tuberculínica se a rifampicina faltar. A BCG já aplicada não protege contra a infecção. Prova tuberculínica ou IGRA aos 26 dias não servem para decidir, porque a resposta imune do neonato é imatura e um resultado negativo não afasta infecção. O aleitamento continua, com a mãe usando máscara.",
+  "porAlt": [
+   "Prova tuberculínica em neonato tem baixa sensibilidade e não orienta a conduta inicial no recém-nascido coabitante.",
+   "Correta: recém-nascido coabitante de bacilífero, sem doença ativa, recebe tratamento preventivo independentemente de teste.",
+   "IGRA não é validado em lactentes jovens e não está indicado para essa decisão no SUS.",
+   "Radiografia não altera a conduta em neonato assintomático com bom ganho de peso, que deve iniciar tratamento preventivo."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0571",
+  "q": "Caraiporã é um município de médio porte com 58 mil habitantes. Aproximadamente 35% da população vive abaixo da linha da pobreza, com precariedade em saneamento básico e acesso limitado a serviços públicos. Nos últimos anos, o município notificou cerca de 12 casos novos anuais de Tuberculose (TB). Em 2024, esse número saltou para 27, com 5 óbitos, o que ocasionou uma análise da situação de tuberculose em Caraiporã com a apresentação dos seguintes indicadores: Incidência de TB: 46,6/100 mil; Incidência de TB pulmonar: 32,8/100 mil; Coeficiente de mortalidade por TB: 8,6/100 mil; Letalidade de 18,5%; Proporção de abandono: 20,0%; Prevalência da forma pulmonar: 17,2/100 mil; Proporção da forma miliar: 1,72%. Assinale a alternativa que descreve um indicador populacional de avaliação da qualidade da assistência aos casos de tuberculose.",
+  "alts": [
+   "Taxa de incidência da forma pulmonar",
+   "Taxa de prevalência da forma pulmonar",
+   "Proporção de abandono do tratamento",
+   "Proporção de tuberculose miliar"
+  ],
+  "gab": 2,
+  "tema": "epidemio",
+  "sub": "Indicadores de qualidade da assistência em TB",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019",
+  "coment": "Incidência, prevalência e proporção de formas clínicas descrevem a carga e o perfil da doença na população, mas pouco dizem sobre o desempenho dos serviços. A proporção de abandono (casos que interrompem o tratamento por 30 dias consecutivos ou mais, sobre o total de casos tratados) mede diretamente a capacidade do serviço de manter o paciente em tratamento, com acolhimento, tratamento diretamente observado e busca de faltosos. A meta nacional é abandono abaixo de 5%, e 20% em Caraiporã aponta falha grave da assistência. A forma miliar reflete mais diagnóstico tardio e falha vacinal do que a qualidade do tratamento.",
+  "porAlt": [
+   "Incidência da forma pulmonar mede a ocorrência de casos novos na população, não a qualidade do tratamento.",
+   "Prevalência expressa a carga de doença existente, influenciada por incidência e duração, não pelo desempenho assistencial.",
+   "Correta: a proporção de abandono mede a capacidade do serviço de manter o paciente até a cura.",
+   "Proporção de forma miliar reflete diagnóstico tardio e cobertura vacinal, não a qualidade do acompanhamento."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0572",
+  "q": "Mulher, 23 anos de idade, com 26,7 kg/m² de IMC, refere estar preocupada com suas “gordurinhas a mais”. Relata que, nos últimos meses, apresenta um a dois episódios por mês em que, em meia hora, come muito doce, principalmente chocolate. Está com medo de engordar mais. Uma amiga está tomando lisdexanfetamina e perdeu 2 kg em um mês. Não apresenta alterações no exame físico. Ao exame psíquico, não apresentou alterações. Refere ser uma pessoa pragmática, mas não se adapta bem a rotinas; já tentou fazer atividade física algumas vezes, sem muito sucesso na continuidade. Nega problemas de saúde e gostaria de poder tomar lisdexanfetamina para controlar seu peso e apetite. Qual a conduta adequada?",
+  "alts": [
+   "Discutir riscos da lisdexanfetamina e prescrever fluoxetina",
+   "Indicar semaglutida se exames hepáticos e pancreáticos normais",
+   "Encaminhar para avaliação psiquiátrica de distúrbios alimentares",
+   "Orientar sobre hábitos alimentares sem indicação de exames ou medicamentos"
+  ],
+  "gab": 3,
+  "tema": "endocrino",
+  "sub": "Sobrepeso sem indicação de fármaco",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ABESO. Diretrizes Brasileiras de Obesidade, 4ª ed., 2016; American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "A paciente tem sobrepeso (IMC 26,7), sem comorbidades, e episódios de comer doce 1 a 2 vezes por mês. Isso não preenche critério de transtorno de compulsão alimentar, que exige ao menos um episódio por semana por 3 meses, com perda de controle e sofrimento marcado (DSM-5-TR, 2022), e o exame psíquico é normal. Lisdexanfetamina é aprovada para compulsão alimentar, não para emagrecer. Antiobesidade como a semaglutida exige IMC de 30 ou mais, ou de 27 ou mais com comorbidade (ABESO, 2016). A conduta é orientar alimentação e atividade física adaptadas ao perfil dela, sem exames nem remédios.",
+  "porAlt": [
+   "Fluoxetina não tem indicação: não há transtorno depressivo, bulimia ou compulsão alimentar caracterizada.",
+   "Semaglutida para peso exige IMC de 30 ou mais, ou de 27 ou mais com comorbidade, o que ela não tem.",
+   "Episódios mensais não fecham critério de transtorno alimentar, e o exame psíquico é normal.",
+   "Correta: sobrepeso sem comorbidade e sem transtorno alimentar pede orientação de hábitos, sem exames ou medicamentos."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0573",
+  "q": "Os gastos diretos em saúde, também chamados de out of pocket ou gastos catastróficos, referem-se aos valores que famílias e indivíduos desembolsam diretamente por serviços de saúde. Segundo a Pesquisa de Orçamento Familiar (POF), do IBGE, cada vez mais as famílias brasileiras dispensam um percentual maior de sua renda mensal com gastos diretos em saúde ao longo do tempo. A edição da POF de 2019 apontava que a saúde respondia por 8% das despesas totais das famílias. Antes, em 2003, respondia por 5,1%. Sobre os gastos out of pocket com saúde no Brasil, assinale a alternativa correta.",
+  "alts": [
+   "Os gastos de indivíduos e famílias com planos e seguros de saúde privados constituem o maior percentual dos gastos out of pocket",
+   "O comprometimento proporcional da renda familiar com assistência à saúde no Brasil cresce na medida em que aumenta a renda familiar",
+   "Do gasto total com saúde no Brasil, mais da metade é constituída por gastos privados out of pocket",
+   "A maior parcela de gastos out of pocket é com medicamentos, em proporção mais elevada nas classes com renda mais baixa"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Gastos diretos (out of pocket) em saúde",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "IBGE. Pesquisa de Orçamentos Familiares 2017-2018: primeiros resultados, 2019",
+  "coment": "Na POF, medicamentos são o principal item do gasto direto das famílias com saúde, à frente de planos e seguros, e pesam proporcionalmente mais nas famílias de menor renda, que têm menos acesso a planos e gastam fatia maior do orçamento com remédios. Por isso o gasto direto é regressivo: compromete mais a renda dos mais pobres, o contrário do que afirma uma das alternativas. Os gastos privados somam mais da metade do gasto total em saúde no Brasil, mas aí entram planos e seguros; o desembolso direto sozinho fica em torno de um quarto do total, não da maioria.",
+  "porAlt": [
+   "Na POF, medicamentos superam planos e seguros como principal item do gasto direto das famílias.",
+   "O gasto direto é regressivo: o peso proporcional na renda é maior nas famílias mais pobres.",
+   "O desembolso direto é cerca de um quarto do gasto total; a parte privada só passa da metade somando planos e seguros.",
+   "Correta: medicamentos são a maior parcela do gasto direto e pesam mais nas famílias de renda mais baixa."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0574",
+  "q": "Mulher, 32 anos de idade, sem doenças prévias, em consulta 4 semanas após nascimento de seu primeiro filho. Marido é “trabalhador, mas não tem muito jeito com o filho”. O parto foi vaginal espontâneo sem complicações. Ela relata que estava bem nos dois dias em que ficou na maternidade. Entretanto, ao voltar para casa, começou a se sentir sobrecarregada, cansada, com dificuldade para dormir e, quando o bebê dorme, ela chora. Sente que não é uma boa mãe, está sem paciência, irritada, e não sente prazer em cuidar do filho. Acredita estar com os hormônios alterados. Amamentar era seu sonho, mas diz ter pouco leite e, diferentemente do seu comportamento habitual, está com aversão à proximidade com o marido, que reclama do distanciamento. Refere estar com secreção vaginal amarelada abundante e preocupada se não estaria com um problema no útero. Qual é a conduta indicada?",
+  "alts": [
+   "Passiflora incarnata e pedir ultrassom pélvico",
+   "Miconazol tópico e orientar sobre baby blues",
+   "Quetiapina à noite e convocar marido para consulta",
+   "Sertralina e orientar sobre depressão"
+  ],
+  "gab": 3,
+  "tema": "humor",
+  "sub": "Depressão pós-parto",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACOG. Clinical Practice Guideline nº 5: Treatment and Management of Mental Health Conditions During Pregnancy and Postpartum, 2023",
+  "coment": "Os sintomas começaram após a alta e persistem com 4 semanas: choro, anedonia (não sente prazer em cuidar do filho), insônia, fadiga, irritabilidade e culpa (não se sente boa mãe). O baby blues é leve e some em até 2 semanas; aqui o quadro é de depressão pós-parto. O tratamento recomendado (ACOG, 2023) combina psicoeducação e psicoterapia com ISRS quando há prejuízo funcional, e a sertralina é preferida por passar pouco ao leite materno. A secreção amarelada às 4 semanas corresponde a lóquios em fase final, sem sinal de infecção, e a queda da libido é comum no puerpério.",
+  "porAlt": [
+   "Passiflora não trata depressão pós-parto, e a secreção amarelada às 4 semanas é compatível com lóquios, sem indicação de ultrassom.",
+   "Baby blues regride em até 2 semanas; sintomas há 4 semanas com anedonia e culpa definem depressão, e não há candidíase descrita.",
+   "Quetiapina não é primeira linha para depressão pós-parto sem psicose ou bipolaridade.",
+   "Correta: depressão pós-parto com prejuízo funcional se trata com ISRS, e a sertralina é compatível com a amamentação."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0575",
+  "q": "Gestante, 30 anos de idade, 30 semanas de gravidez, com antecedente de prolapso de valva mitral diagnosticado na infância, comparece no pronto atendimento com queixa de taquicardia. Está muito preocupada com o bem-estar de seu bebê. Refere que tem tido cansaço a esforços pequenos, como caminhar no plano, e sente “o coração disparado” com muita frequência. Ao exame físico, apresenta bom estado geral, descorada 1+, PA de 108×70 mmHg, FC de 108 bpm, IMC de 38,2 kg/m², bulhas rítmicas normofonéticas com sopro sistólico ejetivo aórtico 2+/6+, murmúrios vesiculares sem ruídos adventícios. Abdome gravídico, altura uterina de 32 cm, BCF presente de 146 bpm. Diante da anamnese e exame clínico, a hipótese diagnóstica principal é de",
+  "alts": [
+   "estenose aórtica",
+   "anemia sintomática",
+   "arritmia supraventricular",
+   "transtorno de ansiedade"
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Anemia sintomática na gestação",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Gestante de 30 semanas com cansaço aos pequenos esforços, palpitação, palidez, taquicardia sinusal (bulhas rítmicas, FC 108) e sopro sistólico ejetivo suave em foco aórtico tem como hipótese principal anemia sintomática: o débito cardíaco aumentado gera sopro de fluxo, e a anemia acentua a taquicardia fisiológica da gestação. Prolapso mitral dá clique e sopro mesotelessistólico no foco mitral, não sopro ejetivo aórtico. Estenose aórtica teria sopro rude, mais intenso, com irradiação para carótidas. Ritmo regular a 108 bpm não sugere taquiarritmia supraventricular, e ansiedade é diagnóstico de exclusão diante de sinais objetivos.",
+  "porAlt": [
+   "Estenose aórtica produziria sopro ejetivo rude e intenso, irradiado para carótidas, não um sopro 2+/6+ com palidez.",
+   "Correta: palidez, taquicardia, dispneia aos esforços e sopro de fluxo sugerem anemia sintomática na gestação.",
+   "Bulhas rítmicas com FC de 108 bpm indicam taquicardia sinusal, não arritmia supraventricular.",
+   "Ansiedade é diagnóstico de exclusão, e há sinais objetivos (palidez, sopro, taquicardia) que pedem outra explicação."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0576",
+  "q": "Mulher, 58 anos de idade, menopausada, refere desconforto pélvico e sensação de “peso” na região vaginal, que se acentua ao final do dia e após longos períodos em pé. Também refere dificuldade para evacuar, com necessidade frequente de realizar manobras digitais para completar a evacuação. Apresenta atividade sexual regular com uso de lubrificantes à base de óleos naturais. Durante o exame ginecológico com manobra de Valsalva, observa-se que a parede vaginal posterior ultrapassa o hímen em 2 cm e o colo uterino exterioriza-se 1 cm além do hímen. Assinale a alternativa que apresenta a melhor conduta terapêutica a ser considerada neste caso.",
+  "alts": [
+   "Pessário vaginal e fisioterapia pélvica",
+   "Tratamento com laser de CO2",
+   "Histerectomia vaginal e perineocolporrafia",
+   "Colpocleise com estrogenioterapia tópica"
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Prolapso genital avançado sintomático",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACOG/AUGS. Practice Bulletin nº 214: Pelvic Organ Prolapse, 2019",
+  "coment": "O exame mostra parede posterior 2 cm além do hímen e colo 1 cm além do hímen, ou seja, prolapso apical e posterior avançado, sintomático, com defecação obstruída que exige manobra digital. Em mulher em bom estado e com vida sexual ativa, a correção cirúrgica que trata os dois compartimentos é histerectomia vaginal (corrige o apical) com perineocolporrafia posterior (corrige a retocele e melhora a evacuação). O pessário é alternativa válida para quem não deseja ou não pode operar (ACOG/AUGS, 2019), mas não resolve de forma definitiva a defecação obstruída. Colpocleise oblitera a vagina e é contraindicada se há atividade sexual.",
+  "porAlt": [
+   "Pessário com fisioterapia é opção conservadora para quem recusa ou não pode operar, mas tende a falhar no prolapso avançado com defecação obstruída.",
+   "Laser de CO2 não tem eficácia comprovada para tratar prolapso genital.",
+   "Correta: histerectomia vaginal corrige o compartimento apical e a perineocolporrafia trata a retocele com defecação obstruída.",
+   "Colpocleise oblitera a vagina e é contraindicada em mulher com vida sexual ativa."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0578",
+  "q": "Mulher, 39 anos de idade, 26 semanas de gestação, refere que notou aumento assimétrico das mamas ao longo do último mês. Ao exame, nota-se nodulação de aproximadamente 2,5 cm em junção de quadrantes inferiores de mama esquerda, profundo, pouco móvel, sem calor local. Neste caso, recomenda-se:",
+  "alts": [
+   "Punção aspirativa guiada por ultrassonografia",
+   "Prosseguir investigação com mamografia",
+   "Iniciar tratamento com clindamicina",
+   "Reavaliar clinicamente em 2 semanas"
+  ],
+  "gab": 1,
+  "tema": "ginonco",
+  "sub": "Nódulo mamário na gestação",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ACR Appropriateness Criteria: Breast Imaging of Pregnant and Lactating Women, 2018",
+  "coment": "Nódulo de 2,5 cm, profundo, pouco móvel e de crescimento recente em gestante de 39 anos é suspeito e precisa de investigação sem esperar o parto, porque o câncer de mama associado à gestação costuma ser diagnosticado tarde. A ultrassonografia é o primeiro exame de imagem, e a mamografia com proteção abdominal é segura (dose fetal desprezível) e indicada diante de lesão suspeita, para avaliar microcalcificações, extensão e a mama contralateral (ACR, 2018). A biópsia de escolha é a core biopsy, pois a punção aspirativa tem mais falso-positivo pelas alterações proliferativas da gravidez. Sem sinais inflamatórios, não há mastite.",
+  "porAlt": [
+   "A citologia por punção aspirativa é pouco confiável na gestação; a biópsia de escolha para nódulo suspeito é a core biopsy.",
+   "Correta: nódulo suspeito em gestante de 39 anos deve seguir investigação com mamografia, segura com proteção abdominal.",
+   "Sem calor, dor ou febre não há mastite, e antibiótico atrasaria o diagnóstico de possível câncer.",
+   "Reavaliar em 2 semanas adia a investigação de lesão suspeita, atraso comum no câncer associado à gestação."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0579",
+  "q": "Mulher, 28 anos de idade, 2G1A, com 10 semanas de gestação, procura pronto atendimento por vômitos persistentes há 10 dias, com dificuldade para manter líquidos e alimentos. Refere dor abdominal discreta e perda de 5 kg no período. Nega febre e perdas vaginais. Traz cartão de pré-natal com rotina de exames sem alterações. Relata ter iniciado dimenidrinato oral há cerca de 5 dias, prescrito em outro serviço, mas sem melhora significativa dos sintomas. Ao exame físico, apresenta-se em BEG, PA de 100×60 mmHg, FC de 104 bpm, mucosa oral levemente seca. Abdome flácido, levemente doloroso em epigástrio, sem visceromegalias.\nExames laboratoriais: TGO/AST: 58 U/L; TGP/ALT: 65 U/L; Bilirrubina total: 0,9 mg/dL; β-hCG: 215.000 mUI/mL; Urina tipo 1: cetonúria ++/4+; TSH: 0,05 mUI/L; T4 livre: 1,1 ng/dL.\nAssinale a alternativa que apresenta a interpretação e conduta mais adequadas para o caso descrito.",
+  "alts": [
+   "Cetoacidose diabética; solicitar glicemia, gasometria e eletrólitos e iniciar hidratação endovenosa",
+   "Hiperêmese gravídica com hipertiroidismo transitório; hidratação venosa e otimização dos antieméticos",
+   "Hepatite medicamentosa por uso de dimenidrinato; suspender a medicação e iniciar corticoide sistêmico",
+   "Hipertireoidismo autoimune associado à hepatopatia; iniciar propiltiouracil e monitorar função hepática"
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Hiperêmese e hipertireoidismo transitório",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; ATA. Guidelines for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum, 2017",
+  "coment": "Vômitos persistentes, perda de 5 kg, desidratação e cetonúria definem hiperêmese gravídica. O beta-hCG muito alto estimula o receptor de TSH, o que suprime o TSH e às vezes eleva o T4 livre: é o hipertireoidismo gestacional transitório, aqui com T4 livre normal. Ele não se trata com antitireoidiano e regride com a queda do hCG após 14 a 18 semanas (ATA, 2017). Elevação discreta das transaminases também é comum na hiperêmese. A conduta é hidratação venosa com reposição de eletrólitos e tiamina e escalonamento dos antieméticos (MS, 2022).",
+  "porAlt": [
+   "A cetonúria vem do jejum prolongado; não há hiperglicemia nem dados de cetoacidose diabética.",
+   "Correta: hiperêmese com TSH suprimido pelo hCG elevado é hipertireoidismo transitório, tratado com hidratação e antieméticos.",
+   "Transaminases levemente elevadas são frequentes na hiperêmese, e não há indicação de corticoide por hepatite medicamentosa.",
+   "T4 livre normal com hCG alto aponta para causa gestacional transitória, sem indicação de propiltiouracil."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0580",
+  "q": "Mulher, 25 anos de idade, busca atendimento por atraso menstrual e teste de gravidez positivo. Sem doenças, refere ciclos menstruais prévios regulares, com variação entre 27 e 31 dias de intervalo. A data da última menstruação foi em 10/08/2025. Refere que foi vítima de violência sexual em 23/08/2025, mas não verbalizou por receio de ser punida pelo agressor conhecido. A relação não consensual ocorreu com penetração vaginal, sem uso de preservativo. Após o ocorrido, apresentou corrimento amarelado, que tratou por conta própria com clotrimazol em dose única. Manifesta desejo de interromper a gravidez. Assinale a alternativa correta.",
+  "alts": [
+   "Como a idade gestacional e o evento são compatíveis, a interrupção de gravidez pode ser realizada diante de relato circunstanciado",
+   "Diante da idade gestacional avançada, indicar suporte multiprofissional integral e iniciar pré-natal de alto risco",
+   "Orientar para que realize boletim de ocorrência para prosseguir com a interrupção de gravidez",
+   "Não há correlação direta entre a gravidez e o evento e, por isso, deve-se garantir assistência pré-natal"
+  ],
+  "gab": 0,
+  "tema": "reprodutiva",
+  "sub": "Aborto legal após violência sexual",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Código Penal (Decreto-Lei 2.848/1940), art. 128, II; Ministério da Saúde. Atenção Humanizada ao Abortamento, 2ª ed., 2011, e Prevenção e Tratamento dos Agravos Resultantes da Violência Sexual contra Mulheres e Adolescentes, 3ª ed., 2012",
+  "coment": "Com ciclos de 27 a 31 dias e DUM em 10/08, a ovulação provável cai por volta de 23 a 27/08, o mesmo período da violência (23/08), e a idade gestacional é compatível com a data relatada. O aborto em gravidez resultante de estupro é permitido pelo Código Penal (art. 128, II) e não exige boletim de ocorrência, laudo do IML nem autorização judicial. As normas técnicas do Ministério da Saúde (2011 e 2012) pedem relato circunstanciado da mulher, parecer da equipe e termo de consentimento, e a palavra dela tem presunção de veracidade. Ela está no início da gestação, longe de qualquer limite.",
+  "porAlt": [
+   "Correta: a idade gestacional é compatível com a data da violência, e o relato circunstanciado basta para o aborto legal.",
+   "A gestação está no início do primeiro trimestre, não em idade avançada, e o desejo de interromper deve ser acolhido.",
+   "Boletim de ocorrência não é exigido para o aborto legal; registrá-lo é direito da mulher, não condição.",
+   "A data da violência coincide com o período fértil, então a gravidez pode decorrer do estupro."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0581",
+  "q": "Quintigesta com quatro partos vaginais anteriores, internada com 38 semanas de gravidez e trabalho de parto espontâneo, com recém-nascido nativivo, 4.020 g, Apgar 7-9-10 após 3 horas de trabalho de parto. Após a dequitação, apresenta atonia uterina com sangramento vaginal e, em 4 minutos, o monitor revela PA de 76×54 mmHg e FC de 120 bpm. São tomadas medidas adequadas, como acesso venoso, reposição de cristaloide, coleta de exames, aquecimento e oxigenioterapia. Em paralelo, medidas para corrigir a atonia. Do ponto de vista hemodinâmico, deve-se",
+  "alts": [
+   "manter reanimação volêmica com Ringer lactato",
+   "avaliar necessidade de transfusão com Hb/Ht",
+   "iniciar protocolo de transfusão maciça",
+   "iniciar noradrenalina em bomba de infusão"
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Choque hemorrágico na hemorragia pós-parto",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "OPAS. Recomendações assistenciais para prevenção, diagnóstico e tratamento da hemorragia obstétrica, 2018",
+  "coment": "O índice de choque (FC dividida pela PAS) é 120 / 76, cerca de 1,6. Pela OPAS (2018), índice de 1,4 ou mais indica perda volumosa e necessidade de hemotransfusão imediata, o que justifica acionar o protocolo de transfusão maciça. Esperar Hb e Ht é erro, porque na hemorragia aguda eles demoram a cair e subestimam a perda. Cristaloide deve ser limitado (cerca de 1.500 mL iniciais), pois o excesso dilui fatores de coagulação e piora a coagulopatia. Vasopressor não substitui volume no choque hipovolêmico. Em paralelo seguem uterotônicos, ácido tranexâmico e massagem uterina para a atonia.",
+  "porAlt": [
+   "Insistir só em cristaloide dilui fatores de coagulação; com índice de choque acima de 1,4 o sangue deve vir já.",
+   "Hb e Ht demoram a cair na hemorragia aguda e subestimam a perda, atrasando a transfusão.",
+   "Correta: índice de choque de cerca de 1,6 indica perda grave e justifica acionar o protocolo de transfusão maciça.",
+   "Noradrenalina não corrige choque hipovolêmico, que exige reposição de volume com hemocomponentes."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0582",
+  "q": "Mulher, 26 anos de idade, procura atendimento na Unidade Básica de Saúde (UBS) por disúria e urgência miccional há 3 dias. Nega febre, nega corrimento vaginal, usa DIU de cobre há 2 anos. Não faz uso de medicação de uso contínuo e teve sintomas semelhantes há cerca de 1 ano e meio. Exame físico sem alterações. Assinale a alternativa que apresenta a conduta recomendada para o caso.",
+  "alts": [
+   "Ciprofloxacino, após coleta de urina 1 e urocultura",
+   "Ceftriaxona, sem necessidade de coleta de exame",
+   "Sulfametoxazol/trimetoprima, após coleta de urina 1 e urocultura",
+   "Nitrofurantoína, sem necessidade de coleta de exame"
+  ],
+  "gab": 3,
+  "tema": "infecto",
+  "sub": "Cistite não complicada",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "IDSA/ESCMID. International Clinical Practice Guidelines for the Treatment of Acute Uncomplicated Cystitis and Pyelonephritis in Women, 2011; EAU Guidelines on Urological Infections, 2025",
+  "coment": "Disúria e urgência há 3 dias, sem febre, sem corrimento e sem fatores de complicação, em mulher jovem não gestante, definem cistite não complicada. O diagnóstico é clínico e a urocultura é dispensável, ficando para gestantes, recorrência (2 ou mais episódios em 6 meses ou 3 em 1 ano), falha terapêutica ou suspeita de pielonefrite. Um episódio há 1 ano e meio não é recorrência, e o DIU de cobre não complica a infecção. Primeira linha: nitrofurantoína por 5 dias ou fosfomicina em dose única (IDSA/ESCMID, 2011; EAU, 2025). Fluoroquinolona deve ser poupada pelos efeitos adversos e pela resistência.",
+  "porAlt": [
+   "Ciprofloxacino deve ser poupado na cistite não complicada, e a urocultura é desnecessária nesse caso.",
+   "Ceftriaxona parenteral não é indicada para cistite não complicada, que se trata por via oral.",
+   "Sulfametoxazol-trimetoprima tem resistência elevada no Brasil, e coletar urocultura não é necessário aqui.",
+   "Correta: cistite não complicada se trata empiricamente com nitrofurantoína, sem necessidade de exames."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0583",
+  "q": "Adolescente, sexo feminino, 15 anos de idade, sem desenvolvimento mamário ou menarca. Altura está no z-score -2. Avaliação hormonal revela LH de 0,2 mUI/mL, FSH de 1,1 mUI/mL e estradiol indetectável. Note e adote — valor de referência para pré-puberes: LH < 0,3 mUI/mL; FSH < 4,0 mUI/mL. Qual a hipótese mais provável?",
+  "alts": [
+   "Hiperprolactinemia",
+   "Disgenesia gonadal",
+   "Hiperplasia adrenal congênita",
+   "Síndrome de insensibilidade androgênica"
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Atraso puberal hipogonadotrófico",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Taylor HS, Pal L, Seli E. Speroff's Clinical Gynecologic Endocrinology and Infertility, 9ª ed., 2019",
+  "coment": "Ausência de mama aos 15 anos (acima de 13) é atraso puberal. LH e FSH em valores pré-puberais com estradiol indetectável indicam hipogonadismo hipogonadotrófico: o defeito está no hipotálamo ou na hipófise. Entre as opções, só a hiperprolactinemia atua nesse nível, porque a prolactina inibe a secreção pulsátil de GnRH; o próximo passo é dosar prolactina e fazer ressonância de sela, já que a baixa estatura também sugere lesão hipotálamo-hipofisária. Disgenesia gonadal, como na síndrome de Turner, teria FSH e LH elevados. Na insensibilidade androgênica a mama se desenvolve, e a HAC cursa com virilização.",
+  "porAlt": [
+   "Correta: hiperprolactinemia suprime o GnRH e causa hipogonadismo hipogonadotrófico, com LH e FSH baixos.",
+   "Disgenesia gonadal é hipogonadismo hipergonadotrófico, com FSH e LH elevados após a idade puberal.",
+   "HAC causa virilização e excesso androgênico, não atraso puberal com gonadotrofinas suprimidas.",
+   "Na insensibilidade androgênica a mama se desenvolve normalmente pela aromatização da testosterona."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0587",
+  "q": "Primigesta, 22 anos de idade, 34 semanas e 3 dias de gravidez, comparece ao pronto atendimento com queixa de dor em baixo ventre há 2 dias, que se intensificou na última hora. Nega perdas vaginais. Nega sintomas urinários. Tem registro em cartão de pré-natal de sorologias de 3º trimestre negativas, não coletou pesquisa de Estreptococo B. Ao exame, apresenta bom estado geral, corada, PA de 122×84 mmHg, FC de 92 bpm, abdome gravídico, altura uterina de 28 cm, cefálico, dorso à esquerda, dinâmica uterina 2 contrações moderadas em 10 minutos, BCF presente de 156 bpm. Ao toque vaginal, colo médio, medianizado, 3 cm de dilatação, bolsa íntegra. A conduta imediata recomendada no pronto atendimento é:",
+  "alts": [
+   "Escopolamina endovenosa e reavaliação em duas horas",
+   "Betametasona intramuscular e inibição do trabalho de parto",
+   "Ampicilina endovenosa e condução do trabalho de parto",
+   "Sulfato de magnésio endovenoso e cesárea imediata"
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Trabalho de parto prematuro tardio",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; ACOG Committee Opinion nº 797: Prevention of Group B Streptococcal Early-Onset Disease in Newborns, 2020",
+  "coment": "Com 34 semanas e 3 dias, contrações regulares e 3 cm de dilatação, a gestante está em trabalho de parto prematuro tardio. A partir de 34 semanas não se faz tocólise, porque o benefício neonatal não compensa os riscos, e o corticoide antenatal após 34 semanas não é rotina. Como a pesquisa de estreptococo do grupo B não foi feita e o parto é prematuro, está indicada profilaxia intraparto com penicilina cristalina ou ampicilina endovenosa (ACOG, 2020; MS, 2022). Sulfato de magnésio para neuroproteção vale abaixo de 32 semanas, e não há indicação de cesárea.",
+  "porAlt": [
+   "Escopolamina não trata trabalho de parto prematuro e atrasaria a profilaxia para estreptococo do grupo B.",
+   "Inibir o trabalho de parto não é indicado a partir de 34 semanas, e o corticoide nessa fase não é rotina.",
+   "Correta: trabalho de parto prematuro com estreptococo do grupo B desconhecido pede ampicilina endovenosa e condução do parto.",
+   "Sulfato de magnésio para neuroproteção é indicado abaixo de 32 semanas, e não há indicação de cesárea."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0588",
+  "q": "Mulher, 52 anos de idade, em consulta de rotina refere ciclos menstruais com intervalos de 45 dias há 5 meses. Também notou perda progressiva de interesse sexual e prejuízo no relacionamento conjugal. Nesses meses, relata dificuldade com a memória. Tem estado cansada e já não está mais indo aos almoços com as amigas. Está se alimentando bem, até com mais apetite do que o costume e ganhou peso no último mês. Nega antecedente de trombose venosa ou doença cardiovascular. Exame pélvico mostra mucosa vaginal sem atrofia significativa; restante do exame físico é normal. Ela se considera uma mulher forte, nega tristeza e expressa vontade de tomar um medicamento que pudesse melhorar o sono e reduzir o apetite. Considerando o quadro descrito, assinale a alternativa que apresenta o tratamento medicamentoso mais indicado.",
+  "alts": [
+   "Testosterona",
+   "Estrogênio + progesterona",
+   "Topiramato",
+   "Sertralina"
+  ],
+  "gab": 3,
+  "tema": "humor",
+  "sub": "Depressão na perimenopausa",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Maki PM et al. Guidelines for the Evaluation and Treatment of Perimenopausal Depression (NAMS e National Network of Depression Centers), 2018",
+  "coment": "Aos 52 anos, com ciclos irregulares, ela está na transição menopausal, mas não tem fogachos nem atrofia vaginal. Predominam perda de interesse e de prazer (deixou os almoços com amigas), queda da libido, fadiga, queixa de memória e aumento de apetite com ganho de peso, há meses. Mesmo negando tristeza, a anedonia com esses sintomas configura episódio depressivo, frequente na perimenopausa. Pela diretriz de depressão perimenopáusica (2018), antidepressivo é a primeira linha, e a sertralina é opção adequada. Terapia hormonal seria considerada se houvesse fogachos relevantes, o que ela não refere.",
+  "porAlt": [
+   "Testosterona é considerada para desejo sexual hipoativo isolado na pós-menopausa, não para quadro depressivo.",
+   "Terapia hormonal trata sintomas vasomotores, ausentes aqui, e não é primeira linha para depressão perimenopáusica.",
+   "Topiramato reduziria o apetite, mas não trata a depressão que explica o conjunto de sintomas.",
+   "Correta: anedonia, fadiga, alteração de apetite e de libido configuram depressão, tratada com antidepressivo como a sertralina."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0590",
+  "q": "Mulher, 25 anos de idade, nuligesta, procura aconselhamento sobre métodos de planejamento familiar. Ela deseja evitar métodos hormonais por motivos pessoais e busca uma opção natural. Qual a orientação que deve ser fornecida sobre o reconhecimento do período fértil segundo o método de Billings?",
+  "alts": [
+   "Muco transparente, viscoso e escorregadio",
+   "Muco espesso, opaco e não aderente ao dedo",
+   "Muco opaco com filância de até dois centímetros",
+   "Muco esbranquiçado, grumoso e aderente ao dedo"
+  ],
+  "gab": 0,
+  "tema": "reprodutiva",
+  "sub": "Método de Billings",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 26: Saúde Sexual e Saúde Reprodutiva, 2010",
+  "coment": "O método de Billings baseia-se na percepção diária do muco cervical. Sob efeito do estrogênio, perto da ovulação, o muco fica abundante, transparente, elástico e escorregadio, semelhante a clara de ovo, com filância longa: é o período fértil, que vai do primeiro dia de muco até o terceiro dia após o pico. Na fase lútea a progesterona torna o muco espesso, opaco, pegajoso e escasso, e a mulher sente secura, sinal de dias inférteis (CAB 26, 2010). Abstinência ou método de barreira deve cobrir todo o período fértil.",
+  "porAlt": [
+   "Correta: muco transparente, elástico e escorregadio, como clara de ovo, indica o período fértil.",
+   "Muco espesso e opaco é típico da fase lútea, sob ação da progesterona, e indica infertilidade.",
+   "Filância curta e opacidade correspondem a muco pouco estrogênico, fora do pico fértil.",
+   "Muco esbranquiçado, grumoso e aderente é de fase infértil, ou sugere candidíase se houver prurido."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0591",
+  "q": "Mulher, 64 anos de idade, multípara, obesa, apresenta sintomas de perda urinária imediata quando há vontade para urinar e também ao elevar seu neto de dois anos de idade. O estudo urodinâmico é compatível com as queixas. Assinale a alternativa que apresenta a conduta imediata mais apropriada.",
+  "alts": [
+   "Realizar uretrotomia interna",
+   "Realizar cirurgia de colpouretropexia",
+   "Prescrever estrogênio tópico",
+   "Prescrever anticolinérgicos"
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Incontinência urinária mista",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "EAU Guidelines on Non-neurogenic Female LUTS, 2025",
+  "coment": "Perda com urgência e também ao esforço (levantar o neto), confirmada no estudo urodinâmico, é incontinência urinária mista. O manejo começa por medidas conservadoras (perda de peso, treino vesical e treino da musculatura do assoalho pélvico) e trata primeiro o componente de urgência com medicação, porque a cirurgia para esforço não resolve a hiperatividade detrusora e pode piorar a urgência. Entre as opções, o passo imediato é o antimuscarínico (EAU, 2025); em idosas, a mirabegrona é preferível pelo menor efeito cognitivo. Cirurgia fica para o esforço que persiste após o controle da urgência.",
+  "porAlt": [
+   "Uretrotomia interna trata estenose de uretra, não incontinência.",
+   "A colpouretropexia corrige o componente de esforço, mas na incontinência mista se trata primeiro a urgência.",
+   "Estrogênio tópico ajuda na atrofia urogenital, não descrita aqui, e tem efeito limitado na hiperatividade detrusora.",
+   "Correta: na incontinência mista o passo inicial é tratar a urgência com medicação, como anticolinérgico."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0592",
+  "q": "Mulher, 29 anos de idade, com cólica menstrual e menstruação excessiva, apresenta diagnóstico confirmado de endometriose peritoneal por laparoscopia, ocasião em que as lesões peritoniais visíveis foram excisadas. Assinale a alternativa que apresenta a melhor conduta terapêutica neste momento.",
+  "alts": [
+   "Anti-inflamatório não hormonal",
+   "Contraceptivo hormonal oral combinado",
+   "Dispositivo intrauterino de progestagênio",
+   "Análogo do GnRH"
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Endometriose após cirurgia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ESHRE Guideline: Endometriosis, 2022",
+  "coment": "Após a excisão laparoscópica das lesões, a supressão hormonal prolongada (ao menos 18 a 24 meses) reduz a recorrência da dismenorreia e da doença (ESHRE, 2022). As opções de primeira linha são o DIU de levonorgestrel e o contraceptivo combinado. Como ela também tem menstruação excessiva, o DIU hormonal é a melhor escolha: é o tratamento mais eficaz para sangramento uterino aumentado, causa atrofia endometrial e controla a dor, com ação local e poucos efeitos sistêmicos. Análogo do GnRH é segunda linha, com efeitos hipoestrogênicos, e AINE alivia a dor sem prevenir recorrência.",
+  "porAlt": [
+   "AINE alivia a dor, mas não trata o sangramento nem previne a recorrência da endometriose.",
+   "Contraceptivo combinado é opção válida, porém menos eficaz que o DIU hormonal para o fluxo menstrual aumentado.",
+   "Correta: o DIU de levonorgestrel previne recorrência após a cirurgia e reduz a menstruação excessiva.",
+   "Análogo do GnRH é segunda linha, com efeitos hipoestrogênicos e uso limitado no tempo."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0593",
+  "q": "Mulher, 42 anos de idade, apresenta menstruações com fluxo intenso e duração de 10 dias há mais de 6 meses. Ao exame ginecológico, apresenta útero aumentado, móvel, de superfície regular. Ultrassonografia revela miomas subserosos e intramurais, o maior com 5 cm. Foi indicada a inserção de DIU de progesterona. Qual é o objetivo deste tratamento?",
+  "alts": [
+   "Reduzir o fluxo sanguíneo ao útero",
+   "Bloquear o ciclo ovulatório",
+   "Promover a involução dos leiomiomas",
+   "Promover atrofia endometrial"
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "DIU de levonorgestrel no mioma",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "ACOG Practice Bulletin nº 228: Management of Symptomatic Uterine Leiomyomas, 2021",
+  "coment": "O DIU de levonorgestrel libera progestagênio localmente, o que provoca decidualização e atrofia do endométrio. Assim reduz o volume menstrual em mulheres com miomas que não distorcem a cavidade, como os subserosos e intramurais deste caso (ACOG, 2021). Ele não reduz o tamanho dos miomas nem o fluxo arterial uterino, e na maioria das usuárias a ovulação continua. O alvo é o sangramento, não o volume uterino. Para reduzir os miomas, as opções seriam análogo do GnRH (efeito temporário) ou embolização.",
+  "porAlt": [
+   "Reduzir o fluxo arterial uterino é o mecanismo da embolização, não do DIU hormonal.",
+   "O DIU de levonorgestrel em geral não bloqueia a ovulação, que continua na maioria das usuárias.",
+   "O progestagênio do DIU não promove involução dos leiomiomas.",
+   "Correta: o levonorgestrel local causa atrofia endometrial e reduz o sangramento."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0595",
+  "q": "Mulher, 22 anos de idade, queixa-se de crises de falta de ar associadas à tosse e sibilância, sobretudo quando exposta a ambientes com muita poeira. Raramente acorda à noite com falta de ar. Nega tabagismo. Para confirmação diagnóstica foi solicitada uma prova de função pulmonar. Assinale a alternativa que apresenta o resultado mais compatível com o diagnóstico da paciente.\n\nNote e adote: CVF: Capacidade Vital Forçada; VEF1: Volume Expiratório Forçado no primeiro segundo; BD: Broncodilatador",
+  "alts": [
+   "CVF = pré-BD: 2,60 (80%) → pós-BD: 2,70 (82%); VEF1 = pré-BD: 1,50 (65%) → pós-BD: 1,92 (85%); VEF1/CVF = pré-BD: 0,57 → pós-BD: 0,71",
+   "CVF = pré-BD: 2,60 (80%) → pós-BD: 2,60 (80%); VEF1 = pré-BD: 1,50 (65%) → pós-BD: 1,60 (68%); VEF1/CVF = pré-BD: 0,57 → pós-BD: 0,61",
+   "CVF = pré-BD: 2,60 (80%) → pós-BD: 2,70 (82%); VEF1 = pré-BD: 1,82 (80%) → pós-BD: 1,82 (80%); VEF1/CVF = pré-BD: 0,70 → pós-BD: 0,67",
+   "CVF = pré-BD: 2,60 (70%) → pós-BD: 2,70 (80%); VEF1 = pré-BD: 1,82 (80%) → pós-BD: 2,02 (90%); VEF1/CVF = pré-BD: 0,70 → pós-BD: 0,75"
+  ],
+  "gab": 0,
+  "tema": "pneumo",
+  "sub": "Espirometria na asma",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "GINA 2026; ATS/ERS. Interpretive strategies for routine lung function tests, 2022",
+  "coment": "Asma se confirma na espirometria por obstrução (VEF1/CVF reduzida) com variabilidade, mostrada por resposta significativa ao broncodilatador. A GINA usa aumento do VEF1 acima de 12% e 200 mL em adultos; a ATS/ERS 2022 usa mais de 10% do previsto. No traçado correto, VEF1/CVF de 0,57 indica obstrução, e o VEF1 sobe de 1,50 para 1,92 L (420 mL, 28%, de 65% para 85% do previsto), com relação pós-BD de 0,71. O outro traçado obstrutivo ganha só 100 mL, padrão de obstrução fixa. Os demais não mostram obstrução nem resposta significativa.",
+  "porAlt": [
+   "Correta: obstrução com VEF1/CVF de 0,57 e ganho de 420 mL (28%) no VEF1 após broncodilatador confirma asma.",
+   "Há obstrução, mas o VEF1 sobe só 100 mL (cerca de 7%), resposta não significativa, mais típica de obstrução fixa como na DPOC.",
+   "VEF1 normal (80%) sem resposta ao broncodilatador não demonstra a obstrução variável da asma.",
+   "VEF1/CVF de 0,70 a 0,75 não caracteriza obstrução, e o ganho de 200 mL (11%) no VEF1 fica abaixo do critério da GINA."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Clínicas",
+   "ex": "usp26ecm"
+  }
+ },
+ {
+  "pid": "p0596",
+  "q": "Assinale a alternativa correta sobre trajetória da doença",
+  "alts": [
+   "A trajetória da doença é completamente previsível e igual para todos os pacientes com a mesma condição",
+   "A trajetória da doença é influenciada por múltiplos fatores, incluindo a fisiopatologia, estado de saúde prévio e recursos disponíveis",
+   "A trajetória da doença depende exclusivamente do tratamento recebido pelo paciente",
+   "A trajetória da doença pode ser facilmente prevista, sem a necessidade de individualização, através das curvas de trajetória das doenças"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Trajetórias de doença em paliativos",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Murray SA et al. Illness trajectories and palliative care. BMJ, 2005",
+  "coment": "Trajetórias de doença são modelos que descrevem padrões típicos de declínio funcional (declínio rápido no câncer, declínio com agudizações na falência orgânica, declínio lento na fragilidade), segundo Murray e colaboradores (2005). Servem para antecipar necessidades e planejar cuidados, mas não preveem o curso individual. Cada trajetória real resulta da interação entre fisiopatologia, estado de saúde prévio, resposta ao tratamento, recursos de cuidado e contexto social e familiar. Por isso, em cuidados paliativos pediátricos, o prognóstico é individualizado e revisado ao longo do tempo.",
+  "porAlt": [
+   "A trajetória varia entre pacientes com a mesma doença e não é completamente previsível.",
+   "Correta: a trajetória depende de fisiopatologia, estado prévio, recursos e contexto, e precisa ser individualizada.",
+   "O tratamento é só um dos fatores; a doença, o estado prévio e o contexto também moldam a trajetória.",
+   "As curvas de trajetória são modelos gerais e não dispensam a individualização do prognóstico."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0597",
+  "q": "Assinale a alternativa correta sobre os modelos formais de comunicação nos cuidados paliativos",
+  "alts": [
+   "O modelo \"ask, tell, ask\" sugere que os clínicos forneçam todas as informações de uma só vez, sem consultar o paciente",
+   "A comunicação em cuidados paliativos segue um plano fixo, sem necessidade de adaptação às necessidades individuais do paciente e da família",
+   "O modelo SPIKES recomenda que as percepções e desejos do paciente sejam a base para toda a comunicação",
+   "O modelo SPIKES sugere que os clínicos devem fornecer informações primeiro, antes de avaliar as percepções e os desejos do paciente"
+  ],
+  "gab": 2,
+  "tema": "ferramentas",
+  "sub": "Protocolo SPIKES",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Baile WF et al. SPIKES: a six-step protocol for delivering bad news. The Oncologist, 2000",
+  "coment": "O SPIKES organiza a comunicação de más notícias em seis etapas: preparar o ambiente (Setting), avaliar a percepção do paciente (Perception), obter o convite, isto é, o quanto ele deseja saber (Invitation), transmitir o conhecimento (Knowledge), acolher as emoções (Emotions) e combinar estratégia e resumo (Strategy and Summary). Percepção e desejo de informação vêm antes da notícia e guiam o que e quanto dizer (Baile, 2000). O modelo ask-tell-ask segue a mesma lógica: perguntar o que a pessoa sabe, informar em partes e checar a compreensão. Nenhum modelo é roteiro fixo.",
+  "porAlt": [
+   "O ask-tell-ask fraciona a informação e checa a compreensão, o contrário de informar tudo de uma vez.",
+   "Os modelos de comunicação servem de guia e devem ser adaptados a cada paciente e família.",
+   "Correta: no SPIKES, a percepção e o desejo de informação do paciente orientam toda a conversa.",
+   "No SPIKES a avaliação da percepção e do convite vem antes de transmitir a informação."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0598",
+  "q": "Assinale a alternativa correta sobre a percepção da dor em crianças",
+  "alts": [
+   "Os recém-nascidos podem sentir tanta dor quanto os adultos e até mesmo mais, apesar de seu sistema nervoso ser imaturo",
+   "Os recém-nascidos tem o limiar de dor maior que os adultos",
+   "As crianças têm o sistema nervoso parcialmente maduro e, por essa razão, sentem menos dor que os adultos",
+   "Se uma criança mostra estar distraída, isso significa que ela não está sentindo dor"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Dor no recém-nascido",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "AAP Committee on Fetus and Newborn. Prevention and Management of Procedural Pain in the Neonate: An Update, 2016; IASP, definição revisada de dor, 2020",
+  "coment": "As vias nociceptivas estão formadas desde o fim do segundo trimestre, e o recém-nascido, inclusive o prematuro, sente dor. A imaturidade dos sistemas inibitórios descendentes faz com que ele possa sentir dor com maior intensidade e generalização que o adulto, e a dor repetida sem tratamento deixa efeitos duradouros na sensibilidade e no neurodesenvolvimento (AAP, 2016). A IASP (2020) lembra que a incapacidade de verbalizar não exclui dor, por isso se usam escalas comportamentais e fisiológicas, como a NIPS. Distração e brincadeira não significam ausência de dor.",
+  "porAlt": [
+   "Correta: o recém-nascido sente dor, possivelmente mais intensa que o adulto pela imaturidade das vias inibitórias.",
+   "O limiar de dor do recém-nascido é menor, não maior, pela imaturidade dos mecanismos de modulação.",
+   "Maturidade incompleta do sistema nervoso não reduz a dor; a modulação inibitória imatura pode intensificá-la.",
+   "Crianças podem se distrair mesmo com dor, e a distração é usada como técnica de analgesia não farmacológica."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ }
+]

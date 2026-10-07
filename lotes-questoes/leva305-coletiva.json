@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Um município pretende ampliar a oferta de leitos de retaguarda e avalia contratar hospitais privados para complementar a rede pública. Segundo o artigo 199 da Constituição Federal de 1988, como deve ocorrer a participação da iniciativa privada no SUS?",
+  "alts": [
+   "Somente por meio de consórcio intermunicipal aprovado na comissão intergestores tripartite",
+   "De forma complementar, com preferência para entidades filantrópicas e sem fins lucrativos",
+   "Em igualdade de condições entre entidades lucrativas e filantrópicas, decidida por licitação",
+   "De forma substitutiva, quando o custo do serviço privado for menor que o do serviço próprio",
+   "Com auxílio e subvenção pública preferencial às instituições privadas com fins lucrativos"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Constituição e setor privado",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Constituição da República Federativa do Brasil de 1988, art. 199; Lei 8.080/1990, arts. 24 a 26",
+  "coment": "O artigo 199 declara a assistência à saúde livre à iniciativa privada e permite que instituições privadas participem do SUS de forma complementar, mediante contrato de direito público ou convênio, com preferência às entidades filantrópicas e às sem fins lucrativos. O mesmo artigo veda a destinação de recursos públicos para auxílios ou subvenções a instituições privadas com fins lucrativos. A Lei 8.080/1990 (artigos 24 a 26) segue a mesma lógica: o setor privado entra quando a rede pública for insuficiente para garantir a cobertura.",
+  "porAlt": [
+   "O consórcio é instrumento de gestão entre entes públicos e não é condição constitucional para contratar o setor privado.",
+   "Correta: o setor privado participa de forma complementar, com preferência às filantrópicas e sem fins lucrativos (art. 199, parágrafo 1º).",
+   "A Constituição estabelece preferência explícita às filantrópicas e sem fins lucrativos, e não igualdade de condições.",
+   "A participação privada é complementar, nunca substitutiva da rede pública; custo menor não muda essa regra.",
+   "É vedado destinar recursos públicos para auxílios ou subvenções a instituições privadas com fins lucrativos."
+  ]
+ },
+ {
+  "q": "Durante uma aula sobre o texto constitucional da saúde, o preceptor pede aos internos que identifiquem uma atribuição conferida ao SUS pelo artigo 200 da Constituição Federal de 1988. Qual das atribuições abaixo consta desse artigo?",
+  "alts": [
+   "Ordenar a formação de recursos humanos na área de saúde",
+   "Fixar o piso salarial nacional dos profissionais de enfermagem",
+   "Credenciar escolas médicas e autorizar a abertura de novos cursos",
+   "Registrar os diplomas médicos e emitir a inscrição profissional",
+   "Regular e fiscalizar as operadoras de planos privados de saúde"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Competências do SUS (art. 200)",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Constituição da República Federativa do Brasil de 1988, art. 200",
+  "coment": "O artigo 200 lista competências do SUS: controlar e fiscalizar procedimentos, produtos e substâncias de interesse para a saúde; executar ações de vigilância sanitária, epidemiológica e de saúde do trabalhador; ordenar a formação de recursos humanos na área de saúde; participar da política de saneamento básico; incrementar o desenvolvimento científico e tecnológico; fiscalizar alimentos e água; participar do controle de substâncias tóxicas; e colaborar na proteção do meio ambiente, nele compreendido o do trabalho. A regulação de planos cabe à ANS (Lei 9.961/2000).",
+  "porAlt": [
+   "Correta: ordenar a formação de recursos humanos é competência expressa do SUS no artigo 200, inciso III.",
+   "Piso salarial de categoria profissional é matéria de lei específica, e não competência do SUS no artigo 200.",
+   "Autorização e credenciamento de cursos superiores cabem ao sistema federal de ensino, ligado ao Ministério da Educação.",
+   "Registro de diploma e inscrição profissional são atribuições das instituições de ensino e dos conselhos de classe.",
+   "A regulação das operadoras de planos é atribuição da ANS, criada pela Lei 9.961/2000, e não consta do artigo 200."
+  ]
+ },
+ {
+  "q": "Segundo o artigo 198 da Constituição Federal de 1988, as ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único, organizado de acordo com três diretrizes. Quais são elas?",
+  "alts": [
+   "Centralização normativa federal, atendimento integral e controle pelos conselhos profissionais",
+   "Regionalização por consórcios, hierarquização por complexidade e financiamento exclusivo da União",
+   "Descentralização com comando único nacional, prioridade hospitalar e participação dos prestadores",
+   "Descentralização com direção única em cada esfera, atendimento integral e participação da comunidade",
+   "Universalidade de acesso, equidade na distribuição de recursos e gratuidade em todos os níveis"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Diretrizes constitucionais",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Constituição da República Federativa do Brasil de 1988, arts. 196 e 198",
+  "coment": "O artigo 198 define três diretrizes do SUS: descentralização, com direção única em cada esfera de governo; atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços assistenciais; e participação da comunidade. A universalidade aparece no artigo 196 (acesso universal e igualitário) e no artigo 7º da Lei 8.080/1990. O financiamento é tripartite, com recursos da seguridade social da União, dos estados, do Distrito Federal e dos municípios, como diz o próprio artigo 198 no parágrafo primeiro.",
+  "porAlt": [
+   "A diretriz é a descentralização, e o controle social se dá pela participação da comunidade, não por conselhos de classe.",
+   "O financiamento é tripartite, com recursos da União, dos estados, do Distrito Federal e dos municípios.",
+   "A direção é única em cada esfera de governo, e a Constituição prioriza as atividades preventivas, não as hospitalares.",
+   "Correta: são as três diretrizes literais do artigo 198, incisos I a III.",
+   "Universalidade e equidade são princípios do sistema, mas não formam a tríade de diretrizes do artigo 198."
+  ]
+ },
+ {
+  "q": "A secretaria municipal de saúde analisa dados do SIM e do SINAN, identifica que as mortes por causas externas e a sífilis congênita cresceram nos bairros periféricos e redireciona recursos e equipes para essas áreas. Esse procedimento aplica qual princípio listado no artigo 7º da Lei 8.080/1990?",
+  "alts": [
+   "Divulgação de informações sobre o potencial dos serviços de saúde",
+   "Utilização da epidemiologia para o estabelecimento de prioridades",
+   "Capacidade de resolução dos serviços em todos os níveis de assistência",
+   "Conjugação dos recursos financeiros, tecnológicos, materiais e humanos",
+   "Organização dos serviços públicos de modo a evitar duplicidade de meios"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Princípios da Lei 8.080",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 7º",
+  "coment": "O artigo 7º da Lei 8.080/1990 lista os princípios do SUS, entre eles a utilização da epidemiologia para o estabelecimento de prioridades, a alocação de recursos e a orientação programática (inciso VII). O caso descreve exatamente isso: dados de mortalidade e de agravos notificados orientando onde investir. Os demais incisos citados também existem no artigo, mas tratam de resolutividade, de informação ao usuário sobre os serviços, da soma de recursos dos entes e da economia de meios.",
+  "porAlt": [
+   "A divulgação trata de informar a população sobre os serviços disponíveis e sua utilização pelo usuário.",
+   "Correta: usar dados epidemiológicos para definir prioridades e alocar recursos é o inciso VII do artigo 7º.",
+   "Capacidade de resolução se refere a cada serviço resolver os problemas no seu nível, e não à escolha de prioridades.",
+   "A conjugação de recursos trata da soma de meios da União, dos estados e dos municípios na prestação dos serviços.",
+   "Evitar duplicidade de meios para fins idênticos é princípio de organização e economia, e não de priorização."
+  ]
+ },
+ {
+  "q": "Uma equipe de Saúde da Família decide oferecer horários estendidos e visitas mais frequentes para famílias em situação de rua e para comunidades com maior mortalidade infantil, mantendo o atendimento das demais famílias do território. Esse tratamento desigual para necessidades desiguais expressa qual princípio do SUS?",
+  "alts": [
+   "Universalidade de acesso",
+   "Igualdade da assistência",
+   "Equidade na atenção à saúde",
+   "Hierarquização dos serviços",
+   "Integralidade da assistência"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Princípios doutrinários",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º; Ministério da Saúde. Política Nacional de Atenção Básica (Portaria 2.436/2017, consolidada), 2017",
+  "coment": "Equidade significa reconhecer que grupos têm necessidades diferentes e destinar mais atenção a quem tem mais necessidade, reduzindo desigualdades evitáveis. A Lei 8.080/1990 usa no artigo 7º a expressão igualdade da assistência, sem preconceitos ou privilégios de qualquer espécie, e a equidade é tratada pela literatura e pelas políticas do Ministério da Saúde, como a PNAB, como princípio doutrinário ao lado de universalidade e integralidade. Hierarquização é princípio organizativo, ligado aos níveis de complexidade.",
+  "porAlt": [
+   "Universalidade garante acesso a todos, mas não justifica oferta diferenciada conforme a necessidade.",
+   "Igualdade da assistência proíbe preconceitos e privilégios, mas não prevê atenção desigual para necessidades desiguais.",
+   "Correta: priorizar quem tem maior necessidade, sem excluir os demais, define a equidade.",
+   "Hierarquização organiza os serviços por níveis de complexidade e não trata de priorizar grupos vulneráveis.",
+   "Integralidade é o cuidado articulado, preventivo e curativo, em todos os níveis exigidos para cada caso."
+  ]
+ },
+ {
+  "q": "Mulher de 52 anos com diabetes, acompanhada na UBS, é encaminhada ao oftalmologista por retinopatia, recebe insulina pela farmácia municipal, participa de grupo de atividade física e tem o rastreamento do câncer do colo atualizado pela mesma equipe. Segundo a Lei 8.080/1990, esse conjunto articulado e contínuo de ações preventivas e curativas, individuais e coletivas, em todos os níveis de complexidade, corresponde a qual princípio?",
+  "alts": [
+   "Descentralização político-administrativa",
+   "Integralidade de assistência",
+   "Universalidade de acesso",
+   "Resolubilidade da atenção",
+   "Regionalização dos serviços"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Integralidade",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, inciso II",
+  "coment": "O artigo 7º, inciso II, da Lei 8.080/1990 define integralidade de assistência como o conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema. O caso mostra cuidado preventivo, curativo, coletivo e especializado coordenado pela mesma equipe. Universalidade trata do acesso; regionalização e descentralização são princípios organizativos da rede.",
+  "porAlt": [
+   "Descentralização distribui responsabilidades entre as esferas de governo, com ênfase na municipalização.",
+   "Correta: a lei define integralidade como ações articuladas e contínuas em todos os níveis exigidos para o caso.",
+   "Universalidade garante acesso a todos os níveis de assistência, mas não descreve a articulação do cuidado.",
+   "Capacidade de resolução diz respeito a cada serviço resolver o problema no seu nível de atenção.",
+   "Regionalização organiza a rede em territórios e não define o conjunto de ações oferecidas ao indivíduo."
+  ]
+ },
+ {
+  "q": "Uma sociedade médica solicita a incorporação de um novo medicamento biológico ao SUS. De acordo com a Lei 8.080/1990, com a redação dada pela Lei 12.401/2011, qual é o prazo para a conclusão do processo administrativo de incorporação, contado do protocolo do pedido?",
+  "alts": [
+   "180 dias, prorrogáveis por mais 90 dias",
+   "120 dias, prorrogáveis por mais 120 dias",
+   "60 dias, sem possibilidade de prorrogação",
+   "365 dias, contados da publicação do pedido",
+   "90 dias, prorrogáveis por mais 30 dias"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Incorporação de tecnologias",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 19-R, incluído pela Lei 12.401/2011",
+  "coment": "O artigo 19-R da Lei 8.080/1990, incluído pela Lei 12.401/2011, determina que a incorporação, a exclusão ou a alteração de medicamentos, produtos e procedimentos seja feita por processo administrativo concluído em até 180 dias do protocolo, prorrogáveis por 90 dias corridos quando as circunstâncias exigirem. A análise cabe ao Ministério da Saúde, assessorado pela Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC), que considera evidências de eficácia, acurácia, efetividade e segurança e avaliação econômica comparativa.",
+  "porAlt": [
+   "Correta: o artigo 19-R fixa 180 dias, com prorrogação de 90 dias corridos quando as circunstâncias exigirem.",
+   "A prorrogação prevista é de 90 dias, e o prazo inicial é de 180 dias, não de 120.",
+   "A lei admite expressamente a prorrogação, e o prazo inicial é maior que 60 dias.",
+   "Não há prazo anual na lei; o limite é de 180 dias contados do protocolo, prorrogáveis por 90.",
+   "O prazo de 90 dias corresponde à prorrogação possível, e não ao prazo inicial do processo."
+  ]
+ },
+ {
+  "q": "Os municípios de um estado e a secretaria estadual de saúde precisam pactuar os critérios de distribuição de recursos estaduais para a média complexidade em todo o território estadual. Em qual instância essa negociação entre gestores deve ocorrer?",
+  "alts": [
+   "Comissão Intergestores Bipartite",
+   "Comissão Intergestores Regional",
+   "Conselho Estadual de Saúde",
+   "Comissão Intergestores Tripartite",
+   "Conferência Estadual de Saúde"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Comissões intergestores",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 14-A, incluído pela Lei 12.466/2011; Decreto 7.508/2011",
+  "coment": "As comissões intergestores são as instâncias de pactuação entre gestores, reconhecidas no artigo 14-A da Lei 8.080/1990, incluído pela Lei 12.466/2011. A Bipartite reúne o estado e os municípios para pactuar no âmbito estadual; a Tripartite reúne União, estados e municípios no âmbito nacional; a Regional, criada pelo Decreto 7.508/2011, pactua dentro de uma região de saúde. Conselhos e conferências são instâncias de controle social da Lei 8.142/1990, com usuários, trabalhadores e gestores.",
+  "porAlt": [
+   "Correta: a Bipartite reúne o gestor estadual e os municipais para pactuação no âmbito do estado.",
+   "A Regional pactua dentro de uma região de saúde, e não para todo o território estadual.",
+   "O conselho é instância de controle social, com usuários e trabalhadores, e não fórum exclusivo de gestores.",
+   "A Tripartite reúne União, estados e municípios e pactua no âmbito nacional.",
+   "A conferência ocorre a cada quatro anos para propor diretrizes, e não para pactuar repasses entre gestores."
+  ]
+ },
+ {
+  "q": "Um município vai reformular seu conselho municipal de saúde, que terá 24 conselheiros titulares. Segundo a Lei 8.142/1990 e a Resolução 453/2012 do Conselho Nacional de Saúde, como deve ser a composição?",
+  "alts": [
+   "12 gestores, 6 trabalhadores de saúde e 6 usuários ou prestadores",
+   "12 usuários, 6 trabalhadores de saúde e 6 entre gestores e prestadores",
+   "6 usuários, 12 trabalhadores de saúde e 6 gestores ou prestadores",
+   "12 usuários, 8 trabalhadores de saúde e 4 gestores ou prestadores",
+   "8 usuários, 8 trabalhadores de saúde e 8 gestores ou prestadores"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Conselhos de saúde",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º; Conselho Nacional de Saúde. Resolução 453/2012",
+  "coment": "A Lei 8.142/1990 determina que a representação dos usuários nos conselhos e nas conferências seja paritária em relação ao conjunto dos demais segmentos. A Resolução CNS 453/2012 detalha a distribuição: 50% de usuários, 25% de trabalhadores de saúde e 25% de representantes do governo e de prestadores de serviço. Com 24 vagas, são 12 usuários, 6 trabalhadores e 6 gestores ou prestadores. O conselho tem caráter permanente e deliberativo, e suas decisões são homologadas pelo chefe do poder legalmente constituído em cada esfera.",
+  "porAlt": [
+   "A metade das vagas pertence aos usuários, e não aos gestores.",
+   "Correta: metade das vagas para usuários e o restante dividido igualmente entre trabalhadores e gestores ou prestadores.",
+   "Os trabalhadores não podem ter metade das vagas; a metade cabe aos usuários.",
+   "Os usuários estão corretos, mas trabalhadores e gestores ou prestadores devem ter 25% cada.",
+   "A divisão em terços não respeita a paridade dos usuários em relação ao conjunto dos demais segmentos."
+  ]
+ },
+ {
+  "q": "Sobre as conferências de saúde previstas na Lei 8.142/1990, qual afirmação está correta?",
+  "alts": [
+   "São convocadas pelo Ministério Público para fiscalizar as contas dos gestores",
+   "Reúnem-se a cada dois anos para aprovar o orçamento anual do fundo de saúde",
+   "Têm caráter permanente e deliberativo e se reúnem mensalmente em cada esfera",
+   "Reúnem-se a cada cinco anos, com composição restrita a gestores e prestadores",
+   "Reúnem-se a cada quatro anos para avaliar a situação e propor diretrizes"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Conferências de saúde",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º",
+  "coment": "A conferência de saúde reúne-se a cada quatro anos, com representação dos vários segmentos sociais, para avaliar a situação de saúde e propor diretrizes para a formulação da política de saúde nos níveis correspondentes. É convocada pelo Poder Executivo ou, extraordinariamente, por ela própria ou pelo conselho de saúde. Quem tem caráter permanente e deliberativo é o conselho, que atua na formulação de estratégias e no controle da execução da política, inclusive nos aspectos econômicos e financeiros.",
+  "porAlt": [
+   "A convocação cabe ao Poder Executivo ou, extraordinariamente, à própria conferência ou ao conselho.",
+   "O prazo é de quatro anos, e a aprovação do orçamento não é atribuição da conferência.",
+   "Caráter permanente e deliberativo e reuniões regulares descrevem o conselho, e não a conferência.",
+   "A periodicidade é de quatro anos, e a representação inclui os vários segmentos sociais, com paridade de usuários.",
+   "Correta: a periodicidade é quadrienal, com a finalidade de avaliar a situação de saúde e propor diretrizes para a política."
+  ]
+ },
+ {
+  "q": "Um município recém-emancipado quer receber os repasses regulares e automáticos do Fundo Nacional de Saúde. Segundo o artigo 4º da Lei 8.142/1990, qual destes itens é requisito para o recebimento?",
+  "alts": [
+   "Ter cobertura mínima de 70% da população pela Saúde da Família",
+   "Ter consórcio intermunicipal firmado com os municípios vizinhos",
+   "Ter fundo de saúde, plano de saúde e conselho de composição paritária",
+   "Ter central de regulação municipal informatizada e em operação",
+   "Ter hospital próprio com leitos de terapia intensiva habilitados"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142 e repasses",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 8.142/1990, art. 4º",
+  "coment": "O artigo 4º da Lei 8.142/1990 exige, para o recebimento regular e automático dos recursos: fundo de saúde; conselho de saúde com composição paritária; plano de saúde; relatório de gestão; contrapartida de recursos no respectivo orçamento; e comissão de elaboração do plano de carreira, cargos e salários. Sem esses requisitos, os recursos passam a ser administrados pelo estado ou pela União. Estrutura hospitalar, cobertura de Saúde da Família, central de regulação e consórcio não são condições legais.",
+  "porAlt": [
+   "A lei não fixa cobertura mínima de Saúde da Família como condição para o repasse.",
+   "Consórcio é arranjo opcional de cooperação entre municípios, e não condição de repasse.",
+   "Correta: fundo de saúde e conselho paritário estão entre os requisitos do artigo 4º.",
+   "Central de regulação é estratégia de gestão, e não requisito do artigo 4º da Lei 8.142/1990.",
+   "Estrutura hospitalar própria não é exigência legal para o repasse fundo a fundo."
+  ]
+ },
+ {
+  "q": "Uma comissão intergestores discute a delimitação de uma nova região de saúde. Segundo o Decreto 7.508/2011, qual destes conjuntos de ações e serviços a região precisa conter, no mínimo?",
+  "alts": [
+   "Atenção primária, saúde suplementar conveniada, urgência e emergência, reabilitação e vigilância sanitária",
+   "Atenção primária, urgência e emergência, oncologia de alta complexidade, terapia renal substitutiva e vigilância",
+   "Atenção primária, transplante de órgãos, atenção psicossocial, cirurgia cardíaca e vigilância em saúde",
+   "Urgência e emergência, hemodiálise, radioterapia, atenção psicossocial e assistência farmacêutica hospitalar",
+   "Atenção primária, urgência, atenção psicossocial, ambulatorial especializada e hospitalar e vigilância"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Decreto 7.508 e regiões",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 5º",
+  "coment": "O artigo 5º do Decreto 7.508/2011 exige que a região de saúde contenha, no mínimo, ações e serviços de atenção primária, urgência e emergência, atenção psicossocial, atenção ambulatorial especializada e hospitalar e vigilância em saúde. Serviços de alta complexidade, como oncologia, terapia renal e transplante, podem estar fora da região e são acessados por referência pactuada. A região é instituída pelo estado, em articulação com os municípios, e serve de referência para a transferência de recursos entre os entes.",
+  "porAlt": [
+   "Saúde suplementar não integra o mínimo da região, e falta a atenção psicossocial.",
+   "Oncologia e terapia renal são serviços de alta complexidade que podem ser referenciados para fora da região.",
+   "Transplante e cirurgia cardíaca são de alta complexidade e não fazem parte do mínimo exigido.",
+   "Falta a atenção primária, e hemodiálise e radioterapia não são exigências mínimas da região.",
+   "Correta: são os cinco componentes mínimos do artigo 5º do decreto."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos procura diretamente um Centro de Atenção Psicossocial por ideação delirante e insônia, sem encaminhamento da UBS. O serviço o acolhe e inicia o atendimento. Segundo o Decreto 7.508/2011, por que esse acolhimento direto é adequado?",
+  "alts": [
+   "O usuário pode escolher qualquer serviço especializado como entrada",
+   "Os serviços de atenção psicossocial são portas de entrada do SUS",
+   "O CAPS é serviço de acesso aberto restrito aos casos de urgência",
+   "O CAPS integra a rede hospitalar e dispensa a referência da atenção básica",
+   "A atenção primária é a única porta de entrada, salvo ordem judicial"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Portas de entrada",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, arts. 9º e 10",
+  "coment": "O artigo 9º do Decreto 7.508/2011 define como portas de entrada às ações e serviços do SUS os serviços de atenção primária, de atenção de urgência e emergência, de atenção psicossocial e os especiais de acesso aberto. Assim, o CAPS pode acolher demanda espontânea. Os serviços de atenção hospitalar e os ambulatoriais especializados são referenciados pelas portas de entrada (artigo 10). A atenção primária ordena o acesso universal, mas não é a única entrada prevista.",
+  "porAlt": [
+   "Serviços ambulatoriais especializados e hospitalares são referenciados pelas portas de entrada, e não de livre escolha.",
+   "Correta: o artigo 9º inclui a atenção psicossocial entre as portas de entrada do SUS.",
+   "O acesso direto ao CAPS não se restringe à urgência; ele é porta de entrada para a demanda em saúde mental.",
+   "O CAPS é serviço comunitário da rede de atenção psicossocial, e não componente da rede hospitalar.",
+   "O decreto prevê quatro tipos de porta de entrada, e a atenção primária é apenas uma delas."
+  ]
+ },
+ {
+  "q": "Dois municípios e o estado firmam um instrumento que define as responsabilidades de cada ente na região de saúde, indicadores e metas, recursos financeiros e formas de controle e fiscalização. Pelo Decreto 7.508/2011, qual é esse instrumento?",
+  "alts": [
+   "Termo de Compromisso de Gestão do Pacto pela Saúde",
+   "Plano Diretor de Regionalização da secretaria estadual",
+   "Contrato Organizativo da Ação Pública da Saúde",
+   "Programação Pactuada e Integrada da região",
+   "Relatório Anual de Gestão aprovado no conselho"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "COAP",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Decreto 7.508/2011, arts. 2º e 33 a 36",
+  "coment": "O Decreto 7.508/2011 define o Contrato Organizativo da Ação Pública da Saúde (COAP) como acordo de colaboração firmado entre entes federativos para organizar e integrar as ações e serviços de saúde na rede regionalizada e hierarquizada, com definição de responsabilidades, indicadores e metas de saúde, critérios de avaliação de desempenho, recursos financeiros e forma de controle e fiscalização. O Termo de Compromisso de Gestão era o instrumento do Pacto pela Saúde de 2006. Na prática, a adesão ao COAP foi baixa.",
+  "porAlt": [
+   "O termo de compromisso era o instrumento do Pacto pela Saúde de 2006, anterior ao decreto.",
+   "O plano diretor de regionalização desenha as regiões, mas não é o acordo com metas e recursos entre os entes.",
+   "Correta: o COAP é o acordo de colaboração entre entes federativos previsto no decreto para organizar a rede na região.",
+   "A programação pactuada distribui metas físicas e financeiras de assistência, sem a natureza contratual do acordo.",
+   "O relatório de gestão presta contas da execução anual, e não firma responsabilidades entre entes."
+  ]
+ },
+ {
+  "q": "Pelo Decreto 7.508/2011, qual relação compreende todas as ações e serviços que o SUS oferece ao usuário para atendimento da integralidade da assistência?",
+  "alts": [
+   "Mapa da Saúde elaborado na região de saúde",
+   "Tabela de Procedimentos, Medicamentos e OPM do SUS",
+   "Relação Nacional de Medicamentos Essenciais vigente",
+   "Rol de Procedimentos e Eventos em Saúde da ANS",
+   "Relação Nacional de Ações e Serviços de Saúde"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "RENASES e RENAME",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, arts. 21 a 29",
+  "coment": "O artigo 21 do Decreto 7.508/2011 define a RENASES como a relação que compreende todas as ações e serviços que o SUS oferece ao usuário para atendimento da integralidade da assistência. A RENAME, prevista no artigo 25, é a relação dos medicamentos ofertados no SUS; o decreto determina que o Ministério da Saúde publique as atualizações de ambas a cada dois anos. O rol da ANS define a cobertura mínima dos planos privados. O Mapa da Saúde descreve geograficamente a capacidade instalada e é usado no planejamento.",
+  "porAlt": [
+   "O Mapa da Saúde descreve a capacidade instalada e serve ao planejamento, sem listar a oferta ao usuário.",
+   "A tabela de procedimentos é instrumento de faturamento e remuneração, e não a relação prevista no decreto.",
+   "A RENAME relaciona os medicamentos ofertados, e não o conjunto de ações e serviços.",
+   "O rol da ANS define a cobertura mínima obrigatória dos planos privados, fora do SUS.",
+   "Correta: a RENASES é definida no artigo 21 como a relação de todas as ações e serviços oferecidos pelo SUS."
+  ]
+ },
+ {
+  "q": "Ao analisar o relatório de gestão, o conselho municipal de saúde verifica quais despesas o município declarou como ações e serviços públicos de saúde para cumprir o mínimo da Lei Complementar 141/2012. Qual despesa pode ser computada nesse mínimo?",
+  "alts": [
+   "Coleta de lixo e limpeza urbana nos bairros periféricos",
+   "Aposentadorias e pensões dos servidores da secretaria",
+   "Merenda escolar distribuída nas escolas da rede municipal",
+   "Plano de saúde contratado para os servidores municipais",
+   "Compra de medicamentos para a assistência farmacêutica básica"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Financiamento e LC 141",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei Complementar 141/2012, arts. 3º, 4º, 6º e 7º",
+  "coment": "A LC 141/2012 exige que municípios apliquem ao menos 15% e estados ao menos 12% da arrecadação de impostos e das transferências constitucionais em ações e serviços públicos de saúde. Os artigos 3º e 4º dizem o que conta: ações de acesso universal, igualitário e gratuito, como a assistência farmacêutica. Não contam pagamento de aposentadorias e pensões, assistência à saúde de clientela fechada (como plano de servidores), merenda escolar, limpeza urbana e remoção de resíduos, entre outras despesas.",
+  "porAlt": [
+   "Limpeza urbana e remoção de resíduos estão expressamente excluídas do cálculo.",
+   "Pagamento de aposentadorias e pensões, inclusive de servidores da saúde, não conta no mínimo.",
+   "Merenda escolar está expressamente excluída, ainda que tenha impacto nutricional.",
+   "Assistência à saúde de clientela fechada, como plano de servidores, não pode ser computada.",
+   "Correta: assistência farmacêutica de acesso universal é ação e serviço público de saúde computável."
+  ]
+ },
+ {
+  "q": "Ao reorganizar a atenção às pessoas com doença renal crônica, uma regional de saúde abandona o modelo piramidal e adota a lógica das Redes de Atenção à Saúde da Portaria 4.279/2010. Qual característica distingue esse modelo?",
+  "alts": [
+   "Rede piramidal, com o especialista focal como ordenador da rede",
+   "Rede poliárquica, com a atenção primária como centro de comunicação",
+   "Pontos de atenção isolados, com acesso definido pela demanda espontânea",
+   "Fluxo centrado no pronto-socorro, que distribui os casos entre os níveis",
+   "Hierarquia rígida, com o hospital terciário como coordenador do cuidado"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria 4.279/2010 (Portaria de Consolidação GM/MS 3/2017, Anexo I), 2010",
+  "coment": "A Portaria 4.279/2010, hoje consolidada na Portaria de Consolidação GM/MS 3/2017, define as RAS como arranjos organizativos de ações e serviços de diferentes densidades tecnológicas, integrados por sistemas de apoio técnico, logístico e de gestão. Em vez da pirâmide hierárquica, a rede é poliárquica, com relações horizontais entre os pontos e a atenção primária como centro de comunicação, coordenadora do cuidado e ordenadora da rede. Os elementos constitutivos são a população, a estrutura operacional e o modelo de atenção.",
+  "porAlt": [
+   "O modelo piramidal é justamente o que a RAS propõe superar, e o ordenador é a atenção primária.",
+   "Correta: a RAS tem relações horizontais entre os pontos de atenção, e a atenção primária coordena e ordena.",
+   "A RAS integra os pontos de atenção por sistemas de apoio, logísticos e de gestão, em vez de isolá-los.",
+   "O pronto-socorro é ponto de atenção da rede, e não seu centro de comunicação.",
+   "A coordenação do cuidado cabe à atenção primária, e a rede não segue hierarquia rígida."
+  ]
+ },
+ {
+  "q": "Um pronto-socorro municipal substitui o atendimento por ordem de chegada pelo acolhimento com classificação de risco, conforme a Política Nacional de Humanização. Qual é o fundamento desse dispositivo?",
+  "alts": [
+   "Substituir a avaliação clínica por triagem administrativa na recepção",
+   "Reduzir a demanda, devolvendo casos não urgentes à UBS sem atendimento",
+   "Garantir a ordem de chegada para todos os usuários classificados em azul",
+   "Restringir o acesso do pronto-socorro aos casos regulados pela central",
+   "Atender conforme a gravidade, sem recusar quem procura o serviço"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "emg",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Humanização (HumanizaSUS), 2003; Acolhimento e classificação de risco nos serviços de urgência, 2009",
+  "coment": "A Política Nacional de Humanização (HumanizaSUS, 2003) propõe o acolhimento como postura ética de escuta e responsabilização, e não como triagem excludente. Na classificação de risco, profissional de saúde, em geral enfermeiro com protocolo, avalia o usuário e define a prioridade pela gravidade e pelo risco, e não pela ordem de chegada. Ninguém deve ser dispensado sem avaliação. Outras diretrizes da PNH são clínica ampliada, cogestão, ambiência, defesa dos direitos dos usuários e valorização do trabalhador.",
+  "porAlt": [
+   "A classificação é feita por profissional de saúde treinado, com protocolo, e não por triagem administrativa.",
+   "O acolhimento não é triagem excludente; casos menos graves são atendidos ou encaminhados com garantia de acesso.",
+   "A classificação substitui a ordem de chegada como critério; o tempo de espera varia conforme a cor atribuída.",
+   "O pronto-socorro é porta de entrada aberta e não se limita aos casos encaminhados pela regulação.",
+   "Correta: a prioridade passa a ser definida pelo risco e pela gravidade, e ninguém sai sem avaliação."
+  ]
+ },
+ {
+  "q": "Paciente com infarto atendido em UPA precisa de cateterismo. O médico solicita vaga à central de regulação, onde um médico regulador avalia a gravidade e direciona o paciente ao hospital de referência com leito disponível. Pela Política Nacional de Regulação (Portaria 1.559/2008), essa ação corresponde a qual dimensão?",
+  "alts": [
+   "Regulação de sistemas de saúde",
+   "Regulação do acesso à assistência",
+   "Auditoria assistencial do SUS",
+   "Regulação da atenção à saúde",
+   "Controle e avaliação de prestadores"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Regulação",
+  "cenario": "emg",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Política Nacional de Regulação do SUS (Portaria GM/MS 1.559/2008), 2008",
+  "coment": "A Portaria 1.559/2008 organiza a regulação em três dimensões. A regulação de sistemas define macrodiretrizes para a atenção, com planejamento, avaliação e auditoria de sistemas. A regulação da atenção atua sobre os prestadores, com contratação, controle, avaliação e regulação da produção. A regulação do acesso à assistência, também chamada regulação assistencial, organiza os fluxos por complexos reguladores e centrais de consultas, leitos e urgência, com o regulador investido de autoridade sanitária para garantir o acesso por protocolos e prioridade clínica.",
+  "porAlt": [
+   "A regulação de sistemas define macrodiretrizes, planejamento e auditoria do sistema, sem alocar vagas a pacientes.",
+   "Correta: organizar o fluxo do paciente até a vaga, por central e regulador, é a regulação do acesso.",
+   "A auditoria verifica a conformidade e a qualidade do que foi produzido, depois da execução.",
+   "A regulação da atenção atua sobre os prestadores: contratação, controle, avaliação e regulação da produção.",
+   "Controle e avaliação de prestadores compõem a regulação da atenção, e não a alocação de vagas."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos, beneficiário de plano de saúde, sofre acidente de trânsito e é levado pelo SAMU a um hospital público, onde é operado e fica internado por dez dias. Como a legislação brasileira trata esse atendimento?",
+  "alts": [
+   "O atendimento é integral, e o plano fica isento de ressarcimento por se tratar de urgência",
+   "O SUS deve recusar a internação e encaminhá-la à operadora, pois há dupla cobertura",
+   "O SUS presta o atendimento integral e a operadora ressarce o SUS, cobrada pela ANS",
+   "O hospital público cobra a internação do paciente, que depois pede reembolso ao plano",
+   "O SUS só pode prestar o atendimento inicial e deve transferir o paciente à rede do plano"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Saúde suplementar e SUS",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 9.656/1998, art. 32; Lei 9.961/2000",
+  "coment": "O SUS é universal: ter plano de saúde não retira o direito ao atendimento público e gratuito nem permite cobrança do paciente. O artigo 32 da Lei 9.656/1998 obriga as operadoras a ressarcir o SUS pelos atendimentos prestados a seus beneficiários quando o procedimento tem cobertura contratual. A cobrança é feita pela Agência Nacional de Saúde Suplementar, criada pela Lei 9.961/2000, e os valores vão para o Fundo Nacional de Saúde. Urgência e emergência não isentam a operadora.",
+  "porAlt": [
+   "Urgência e emergência não isentam a operadora do ressarcimento previsto em lei.",
+   "A existência de plano não autoriza o SUS a recusar atendimento, pois o acesso é universal.",
+   "Correta: o SUS atende de forma universal e gratuita, e a operadora ressarce o SUS quando há cobertura contratual.",
+   "O SUS não cobra do usuário; a cobrança é feita da operadora, pela ANS.",
+   "Ter plano não limita o direito ao atendimento integral no SUS nem obriga transferência."
+  ]
+ },
+ {
+  "q": "Um novo antiviral passa a ser usado em larga escala e reduz a letalidade de uma doença crônica sem curá-la e sem alterar sua transmissão. Nos anos seguintes, o que se espera para a incidência e a prevalência dessa doença na população?",
+  "alts": [
+   "Incidência e prevalência ambas em queda",
+   "Incidência em queda e prevalência estável",
+   "Incidência estável e prevalência em queda",
+   "Incidência estável e prevalência em aumento",
+   "Incidência em alta e prevalência em queda"
+  ],
+  "gab": 3,
+  "tema": "epidemio",
+  "sub": "Incidência e prevalência",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Medronho RA et al. Epidemiologia, 2ª ed., 2009; Rouquayrol MZ, Gurgel M. Epidemiologia e Saúde, 8ª ed., 2018",
+  "coment": "Prevalência é o número de casos existentes em dado momento e depende da incidência e da duração da doença (em situação estável e com prevalência baixa, P é aproximadamente igual a I vezes D). Se o tratamento prolonga a sobrevida sem curar, a duração aumenta e os casos se acumulam, elevando a prevalência. Como o risco de adoecer não muda, o número de casos novos por pessoa em risco, que é a incidência, permanece estável. Raciocínio semelhante explica o aumento da prevalência de diabetes com a melhora da sobrevida.",
+  "porAlt": [
+   "Sem efeito sobre a transmissão, a incidência não cai, e a prevalência cresce com a maior sobrevida.",
+   "A incidência só cairia se o tratamento reduzisse a transmissão ou o risco de adoecer, o que não ocorre.",
+   "A prevalência cairia com cura ou morte mais rápida, e o tratamento faz o oposto.",
+   "Correta: a duração da doença aumenta, os casos se acumulam e a prevalência sobe, sem mudar os casos novos.",
+   "Nada no cenário aumenta o risco de adoecer, e a sobrevida maior eleva, e não reduz, a prevalência."
+  ]
+ },
+ {
+  "q": "Um município com 10.000 habitantes realiza inquérito em janeiro e encontra 200 pessoas com hipertensão. Acompanha os demais por um ano e identifica 196 casos novos. Quais são a incidência acumulada anual e a prevalência no início do estudo?",
+  "alts": [
+   "Incidência de 2,0% e prevalência de 3,96%",
+   "Incidência de 1,96% e prevalência de 2,0%",
+   "Incidência de 2,0% e prevalência de 2,0%",
+   "Incidência de 1,96% e prevalência de 3,96%",
+   "Incidência de 3,96% e prevalência de 2,0%"
+  ],
+  "gab": 2,
+  "tema": "epidemio",
+  "sub": "Cálculo de incidência",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Medronho RA et al. Epidemiologia, 2ª ed., 2009; Rouquayrol MZ, Gurgel M. Epidemiologia e Saúde, 8ª ed., 2018",
+  "coment": "A incidência acumulada usa como denominador apenas a população em risco no início do período: quem já tem a doença não pode adoecer de novo. Assim, 196 casos novos divididos por 9.800 pessoas sem hipertensão resultam em 2,0% ao ano. A prevalência no início é 200 dividido por 10.000, também 2,0%. Usar 10.000 no denominador da incidência subestima o risco (1,96%), e somar casos antigos e novos fornece a prevalência de período ao fim do ano, e não a do início.",
+  "porAlt": [
+   "A incidência está certa, mas 3,96% é a soma de casos antigos e novos, a prevalência de período.",
+   "Usar 10.000 no denominador da incidência inclui quem já estava doente e subestima o risco.",
+   "Correta: 196 casos sobre 9.800 pessoas em risco resultam em 2,0%, e 200 sobre 10.000 resultam em 2,0%.",
+   "Os dois valores usam denominadores ou numeradores errados para as medidas pedidas.",
+   "3,96% mistura casos antigos e novos e não é medida de risco de adoecer no período."
+  ]
+ },
+ {
+  "q": "Em um ano, um município registrou 5.000 nascidos vivos e 60 óbitos de menores de 1 ano: 30 entre 0 e 6 dias de vida, 12 entre 7 e 27 dias e 18 entre 28 e 364 dias. Qual é a taxa de mortalidade infantil e qual componente predomina?",
+  "alts": [
+   "1,2 por mil nascidos vivos, com predomínio do componente neonatal precoce",
+   "8,4 por mil nascidos vivos, com predomínio do componente neonatal tardio",
+   "12 por mil nascidos vivos, com predomínio do componente pós-neonatal",
+   "6 por mil nascidos vivos, com predomínio do componente perinatal",
+   "12 por mil nascidos vivos, com metade dos óbitos no período neonatal precoce"
+  ],
+  "gab": 4,
+  "tema": "epidemio",
+  "sub": "Mortalidade infantil",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Rede Interagencial de Informações para a Saúde (RIPSA). Indicadores básicos para a saúde no Brasil, 2ª ed., 2008",
+  "coment": "A taxa de mortalidade infantil é o número de óbitos de menores de 1 ano dividido pelos nascidos vivos, multiplicado por 1.000: 60 dividido por 5.000 resulta em 12 por mil. Os componentes são neonatal precoce (0 a 6 dias), neonatal tardio (7 a 27 dias) e pós-neonatal (28 a 364 dias). Aqui o neonatal precoce soma 30 óbitos, metade do total, padrão atual do Brasil, que reflete a qualidade do pré-natal, do parto e da assistência ao recém-nascido. O pós-neonatal predomina onde pesam diarreia, desnutrição e infecções.",
+  "porAlt": [
+   "O componente está certo, mas a taxa é expressa por mil nascidos vivos, o que dá 12, e não 1,2.",
+   "O neonatal tardio teve apenas 12 óbitos, e a taxa infantil inclui todos os 60 óbitos.",
+   "A taxa está certa, mas o pós-neonatal teve 18 óbitos, menos que os 30 do neonatal precoce.",
+   "6 por mil é apenas o coeficiente neonatal precoce, e perinatal não é componente da mortalidade infantil.",
+   "Correta: 60 sobre 5.000, vezes 1.000, resulta em 12, e metade dos óbitos ocorreu entre 0 e 6 dias."
+  ]
+ },
+ {
+  "q": "Puérpera de 31 anos, sem doença prévia, morre no 60º dia após o parto por cardiomiopatia periparto. Ao calcular a razão de mortalidade materna do município pelo padrão da CID-10, como esse óbito deve ser classificado e considerado?",
+  "alts": [
+   "Morte materna tardia, excluída do cálculo padrão da razão",
+   "Morte materna incidental, excluída por não ter causa obstétrica",
+   "Morte não materna, por ter ocorrido depois do puerpério imediato",
+   "Morte materna obstétrica indireta, incluída no cálculo da razão",
+   "Morte materna obstétrica direta, incluída no cálculo da razão"
+  ],
+  "gab": 0,
+  "tema": "epidemio",
+  "sub": "Mortalidade materna",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Organização Mundial da Saúde. Classificação Internacional de Doenças, 10ª revisão (CID-10), volume 2, 2016; RIPSA. Indicadores básicos para a saúde no Brasil, 2ª ed., 2008",
+  "coment": "Pela CID-10, morte materna é a que ocorre durante a gestação ou até 42 dias após seu término, por causa relacionada ou agravada pela gravidez, excluídas causas acidentais ou incidentais. O óbito entre 43 dias e 1 ano após o parto, por causa obstétrica direta ou indireta, é morte materna tardia (código O96) e não entra no cálculo padrão da razão de mortalidade materna, expressa por 100.000 nascidos vivos. O óbito deve ser investigado pelo comitê de mortalidade materna, mas compõe indicador próprio.",
+  "porAlt": [
+   "Correta: óbito por causa obstétrica entre 43 dias e 1 ano após o parto é morte materna tardia.",
+   "A causa é obstétrica; morte incidental é a causada por fator acidental, sem relação com a gestação.",
+   "O limite da definição é de 42 dias, e não o puerpério imediato, e há categoria própria para o óbito tardio.",
+   "Cardiomiopatia periparto é causa obstétrica direta, e o prazo de 42 dias foi ultrapassado.",
+   "A causa é obstétrica direta, mas o óbito ocorreu depois de 42 dias e não entra no cálculo padrão."
+  ]
+ },
+ {
+  "q": "Dois municípios têm populações de tamanho semelhante. No município A, 82% dos óbitos do ano ocorreram em pessoas com 50 anos ou mais; no município B, 48%. Como interpretar esse indicador?",
+  "alts": [
+   "B tem melhor nível de saúde por registrar menos óbitos de idosos",
+   "A tem razão de Swaroop-Uemura mais alta e pior nível de saúde",
+   "A tem razão de Swaroop-Uemura mais alta (82%) e melhor nível de saúde",
+   "B tem mortalidade infantil menor por concentrar óbitos em jovens",
+   "A tem maior taxa bruta de mortalidade e pior nível de saúde"
+  ],
+  "gab": 2,
+  "tema": "epidemio",
+  "sub": "Swaroop-Uemura",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia e Saúde, 8ª ed., 2018; Laurenti R et al. Estatísticas de saúde, 2ª ed., 2005",
+  "coment": "A razão de mortalidade proporcional de Swaroop e Uemura é o percentual de óbitos de pessoas com 50 anos ou mais sobre o total de óbitos. Quanto mais alta, melhor o nível de saúde, porque a população consegue envelhecer e morre mais tarde; valores de 75% ou mais caracterizam o primeiro nível da classificação. Valores baixos indicam muitas mortes precoces, por causas infecciosas, perinatais ou externas. O indicador não informa a taxa bruta de mortalidade, que depende do tamanho e da estrutura etária da população.",
+  "porAlt": [
+   "Menor proporção de óbitos de idosos indica mais mortes precoces, sinal de pior nível de saúde.",
+   "A razão é mais alta em A, mas isso indica que a população envelhece e morre mais tarde, sinal de melhor saúde.",
+   "Correta: quanto maior a proporção de óbitos com 50 anos ou mais, melhor o nível de saúde da população.",
+   "Óbitos concentrados em idades jovens sugerem mais mortes precoces, inclusive infantis, e não menos.",
+   "O indicador é proporcional e não permite inferir a taxa bruta de mortalidade, que depende da estrutura etária."
+  ]
+ },
+ {
+  "q": "Um estudo de carga de doença estima, para a depressão no Brasil, poucos anos de vida perdidos por morte prematura e muitos anos vividos com incapacidade. Como se calcula o DALY, também chamado AVAI, dessa condição?",
+  "alts": [
+   "Anos de vida ganhos com tratamento ponderados pela qualidade de vida resultante",
+   "Produto dos anos de vida perdidos pela incidência anual padronizada por idade",
+   "Diferença entre a expectativa de vida ao nascer e a idade média de morte pela doença",
+   "Soma dos anos de vida perdidos por morte prematura e dos vividos com incapacidade",
+   "Anos vividos com incapacidade divididos pela prevalência da doença na população"
+  ],
+  "gab": 3,
+  "tema": "epidemio",
+  "sub": "Carga de doença (DALY)",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Organização Mundial da Saúde. WHO methods and data sources for global burden of disease estimates 2000-2019, 2020",
+  "coment": "O DALY (disability-adjusted life years, ou AVAI, anos de vida ajustados por incapacidade) mede a carga de doença somando os anos de vida perdidos por morte prematura (YLL) e os anos vividos com incapacidade (YLD), estes ponderados pela gravidade da condição. Um DALY equivale a um ano de vida saudável perdido. Por isso, transtornos mentais e musculoesqueléticos, que matam pouco e incapacitam muito, aparecem entre as maiores cargas no estudo Global Burden of Disease. O QALY, ao contrário, mede anos ganhos ajustados pela qualidade.",
+  "porAlt": [
+   "Anos ganhos ponderados pela qualidade definem o QALY, usado em avaliação econômica.",
+   "O DALY não multiplica componentes; ele soma mortalidade prematura e incapacidade.",
+   "Essa diferença lembra o cálculo dos anos potenciais de vida perdidos, que ignora a incapacidade.",
+   "Correta: DALY é a soma de YLL (morte prematura) e YLD (anos vividos com incapacidade).",
+   "O YLD é um dos componentes, mas não se divide pela prevalência nem dispensa a mortalidade."
+  ]
+ },
+ {
+  "q": "Na transição demográfica brasileira, qual sequência de eventos explica o envelhecimento da população observado nas últimas décadas?",
+  "alts": [
+   "Queda simultânea da mortalidade e aumento da fecundidade",
+   "Aumento da migração internacional e da mortalidade de jovens",
+   "Queda da fecundidade seguida de aumento da mortalidade infantil",
+   "Queda da mortalidade seguida de queda acentuada da fecundidade total",
+   "Aumento da natalidade seguido de queda da mortalidade dos idosos"
+  ],
+  "gab": 3,
+  "tema": "epidemio",
+  "sub": "Transição demográfica",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Instituto Brasileiro de Geografia e Estatística. Censo Demográfico 2022, 2023; Rouquayrol MZ, Gurgel M. Epidemiologia e Saúde, 8ª ed., 2018",
+  "coment": "Na transição demográfica, a mortalidade cai primeiro, com saneamento, vacinas e antibióticos, a população cresce rapidamente e depois a fecundidade cai. No Brasil, a taxa de fecundidade total caiu de mais de 6 filhos por mulher nos anos 1960 para menos de 2 neste século, abaixo do nível de reposição. O resultado é o estreitamento da base da pirâmide etária, o aumento proporcional de idosos e o crescimento da razão de dependência dos idosos. A queda da fecundidade é o principal motor do envelhecimento.",
+  "porAlt": [
+   "Fecundidade em alta manteria a população jovem; o envelhecimento depende da sua queda.",
+   "A migração internacional tem peso pequeno no Brasil e não explica o envelhecimento populacional.",
+   "A mortalidade infantil caiu, e não subiu, ao longo da transição brasileira.",
+   "Correta: a mortalidade cai primeiro, a população cresce, e depois a fecundidade cai e estreita a base da pirâmide.",
+   "A natalidade caiu; aumento de nascimentos alargaria a base da pirâmide e rejuvenesceria a população."
+  ]
+ },
+ {
+  "q": "Um relatório descreve que, no Brasil, as doenças crônicas não transmissíveis predominam entre as causas de morte, enquanto dengue, tuberculose e sífilis persistem ou ressurgem, e as causas externas seguem elevadas entre jovens. Como a literatura de saúde coletiva denomina esse padrão?",
+  "alts": [
+   "Transição nutricional reversa, com retorno da desnutrição grave",
+   "Transição clássica completa, com eliminação das infecciosas",
+   "Modelo de Leavell e Clark, com prevenção primária insuficiente",
+   "Transição prolongada e polarizada, com reemergência e tripla carga",
+   "Transição demográfica tardia, com alta fecundidade persistente"
+  ],
+  "gab": 3,
+  "tema": "epidemio",
+  "sub": "Transição epidemiológica",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Frenk J et al. La transición epidemiológica en América Latina. Bol Oficina Sanit Panam, 1991; Mendes EV. As redes de atenção à saúde. OPAS, 2011",
+  "coment": "Frenk e colaboradores descreveram para a América Latina um modelo polarizado prolongado: as doenças crônicas passam a predominar, mas as infecciosas não desaparecem e algumas reemergem (contratransição), com diferenças marcantes entre regiões e grupos sociais (polarização epidemiológica). No Brasil, fala-se em tripla carga de doenças: infecciosas, parasitárias e problemas de saúde reprodutiva; crônicas não transmissíveis; e causas externas. O modelo clássico de Omran previa a substituição completa das infecciosas pelas crônicas.",
+  "porAlt": [
+   "A transição nutricional brasileira caminha para excesso de peso, e não para desnutrição grave.",
+   "No modelo clássico as infecciosas seriam substituídas, o que não ocorreu no Brasil.",
+   "Leavell e Clark descrevem níveis de prevenção na história natural, e não padrões de transição.",
+   "Correta: coexistem crônicas, infecciosas e causas externas, com reemergência e desigualdade entre grupos.",
+   "A fecundidade brasileira está abaixo do nível de reposição, e o padrão descrito é epidemiológico."
+  ]
+ },
+ {
+  "q": "A vigilância de um município monta o diagrama de controle da dengue com a média e os limites dos últimos dez anos. Nas semanas 8 a 12 do ano atual, os casos ultrapassam o limite superior esperado em toda a cidade. Como classificar a situação?",
+  "alts": [
+   "Surto, porque o aumento ocorre em várias regiões ao mesmo tempo",
+   "Endemia, porque a dengue ocorre todos os anos no mesmo município",
+   "Epidemia, pela incidência acima do limite superior do diagrama de controle",
+   "Pandemia, por exceder a média histórica de casos por semanas seguidas",
+   "Hiperendemia, que dispensa medidas além das ações de rotina"
+  ],
+  "gab": 2,
+  "tema": "epidemio",
+  "sub": "Endemia, epidemia e surto",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023; Rouquayrol MZ, Gurgel M. Epidemiologia e Saúde, 8ª ed., 2018",
+  "coment": "Endemia é a ocorrência de uma doença em frequência dentro do esperado para a área e o período, o que se representa no diagrama de controle, ou canal endêmico, entre os limites inferior e superior calculados a partir da série histórica. Quando a incidência ultrapassa o limite superior, configura-se epidemia. Surto é uma epidemia restrita a área pequena ou grupo delimitado, como uma escola ou um bairro. Pandemia é a epidemia com ampla disseminação entre países e continentes.",
+  "porAlt": [
+   "Surto é epidemia restrita a área pequena ou grupo delimitado, e não a toda a cidade.",
+   "Endemia é a ocorrência dentro da faixa esperada, e aqui os casos estão acima dela.",
+   "Correta: ultrapassar o limite superior do diagrama de controle caracteriza epidemia.",
+   "Pandemia exige disseminação ampla entre países e continentes, e não apenas excesso local.",
+   "Excesso sobre o esperado exige resposta de controle, e o termo não descreve a situação do diagrama."
+  ]
+ },
+ {
+  "q": "Ao avaliar se uma exposição ocupacional causa uma neoplasia, um pesquisador aplica os critérios de Bradford Hill. Qual desses critérios é considerado indispensável para afirmar uma relação causal?",
+  "alts": [
+   "Temporalidade da exposição",
+   "Consistência entre os estudos",
+   "Plausibilidade biológica conhecida",
+   "Força elevada da associação",
+   "Gradiente de dose e resposta"
+  ],
+  "gab": 0,
+  "tema": "epidemio",
+  "sub": "Critérios de Hill",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Hill AB. The environment and disease: association or causation? Proc R Soc Med, 1965",
+  "coment": "Hill propôs, em 1965, nove aspectos para julgar causalidade: força da associação, consistência, especificidade, temporalidade, gradiente biológico, plausibilidade, coerência, evidência experimental e analogia. Apenas a temporalidade é indispensável: a exposição precisa anteceder o desfecho. Os demais reforçam a inferência, mas sua ausência não exclui causalidade; uma associação fraca pode ser causal, e a plausibilidade depende do conhecimento biológico disponível na época.",
+  "porAlt": [
+   "Correta: a exposição precisa anteceder o desfecho; sem isso não há causa possível.",
+   "A consistência fortalece a inferência, mas um único estudo bem feito pode revelar causa verdadeira.",
+   "A plausibilidade depende do conhecimento biológico da época e pode faltar em relações causais reais.",
+   "Associações fracas podem ser causais, e a força apenas reforça a inferência.",
+   "O gradiente reforça a causalidade, mas há relações causais com efeito de limiar ou sem gradiente."
+  ]
+ },
+ {
+  "q": "Adolescente de 15 anos chega ao pronto-socorro relatando estupro há 10 horas. A equipe inicia as profilaxias e a coleta de vestígios. Em relação à vigilância, qual é a conduta correta quanto à notificação?",
+  "alts": [
+   "Notificar à secretaria municipal de saúde em até 24 horas",
+   "Notificar na semana epidemiológica, após confirmação policial",
+   "Notificar somente ao conselho tutelar, sem registro no SINAN",
+   "Notificar apenas se a família autorizar e registrar boletim",
+   "Notificar ao Ministério da Saúde em até 7 dias após a alta"
+  ],
+  "gab": 0,
+  "tema": "vigilancia",
+  "sub": "Notificação de violência",
+  "cenario": "emg",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V, com as alterações até a Portaria GM/MS 11.211/2026; Lei 8.069/1990 (ECA), art. 13",
+  "coment": "Na Lista Nacional de Notificação Compulsória (Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V), violência sexual e tentativa de suicídio são de notificação imediata, em até 24 horas, à secretaria municipal de saúde; as demais violências interpessoais e autoprovocadas são semanais. A notificação é feita no SINAN a partir da suspeita, independe de boletim de ocorrência ou de autorização da família e não substitui a comunicação ao conselho tutelar exigida pelo ECA para crianças e adolescentes.",
+  "porAlt": [
+   "Correta: violência sexual é de notificação imediata, em até 24 horas, à secretaria municipal.",
+   "A periodicidade é imediata, e a notificação parte da suspeita, sem depender de confirmação policial.",
+   "A comunicação ao conselho tutelar é obrigatória pelo ECA, mas não substitui a notificação no SINAN.",
+   "A notificação é compulsória e independe de autorização familiar ou de boletim de ocorrência.",
+   "O prazo é de 24 horas e o destino é a secretaria municipal, e não um prazo semanal após a alta."
+  ]
+ },
+ {
+  "q": "Criança de 4 anos, sem registro vacinal, apresenta febre de 39 °C, exantema maculopapular iniciado na face, tosse, coriza e conjuntivite há dois dias. Qual é a conduta de vigilância adequada?",
+  "alts": [
+   "Aguardar a sorologia IgM reagente para então notificar o caso na semana",
+   "Notificar em até 7 dias e indicar quarentena de 21 dias aos contatos",
+   "Notificar somente se houver outro caso confirmado na mesma escola",
+   "Notificar o caso após a alta e vacinar apenas a criança doente",
+   "Notificar a suspeita em 24 horas, colher amostras e fazer bloqueio"
+  ],
+  "gab": 4,
+  "tema": "vigilancia",
+  "sub": "Sarampo: caso suspeito",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023; Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V, com as alterações até a Portaria GM/MS 11.211/2026",
+  "coment": "Sarampo é doença de notificação imediata, em até 24 horas, às três esferas. Todo caso suspeito, febre com exantema maculopapular acompanhado de tosse, coriza ou conjuntivite, deve ser notificado sem esperar confirmação laboratorial. A investigação inclui coleta de sangue para sorologia e de secreção nasofaríngea e urina para RT-PCR, além do bloqueio vacinal seletivo dos contatos em até 72 horas. Aguardar o resultado atrasa as medidas de controle de uma doença com altíssima transmissibilidade.",
+  "porAlt": [
+   "A notificação parte da suspeita clínica; esperar a sorologia atrasa o bloqueio.",
+   "O prazo é de 24 horas, e a medida central nos contatos é a vacinação de bloqueio.",
+   "Um único caso suspeito já exige notificação imediata e investigação.",
+   "A notificação é imediata, e o bloqueio vacinal visa os contatos suscetíveis, e não o caso.",
+   "Correta: sarampo suspeito exige notificação imediata, coleta de sorologia e RT-PCR e bloqueio vacinal dos contatos."
+  ]
+ },
+ {
+  "q": "Em um plantão de unidade de pronto atendimento, são atendidos cinco casos. Pela Lista Nacional de Notificação Compulsória, qual deles exige notificação imediata, em até 24 horas?",
+  "alts": [
+   "Tuberculose pulmonar com baciloscopia positiva",
+   "Hanseníase multibacilar em homem de 40 anos",
+   "Dengue sem sinais de alarme em adolescente",
+   "Óbito de adulto com suspeita de dengue",
+   "Sífilis adquirida em mulher não gestante"
+  ],
+  "gab": 3,
+  "tema": "vigilancia",
+  "sub": "Notificação imediata",
+  "cenario": "emg",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V, com as alterações até a Portaria GM/MS 11.211/2026",
+  "coment": "Na lista nacional, a dengue tem periodicidade diferente conforme o evento: casos são notificados semanalmente, e óbitos suspeitos são de notificação imediata às três esferas de gestão, para investigação rápida. Tuberculose, hanseníase e sífilis adquirida são de notificação semanal. Notificação imediata significa comunicação em até 24 horas a partir do conhecimento da suspeita, pelo meio mais rápido disponível, seguida do registro no sistema de informação.",
+  "porAlt": [
+   "Tuberculose é de notificação compulsória semanal.",
+   "Hanseníase é de notificação compulsória semanal.",
+   "Casos de dengue, sem óbito, são de notificação semanal.",
+   "Correta: óbito suspeito de dengue é de notificação imediata às três esferas de gestão.",
+   "Sífilis adquirida é de notificação compulsória semanal."
+  ]
+ },
+ {
+  "q": "Mulher de 38 anos, que cuida de gatos resgatados, apresenta nódulo ulcerado no dorso da mão após arranhadura e novos nódulos em cadeia ao longo do antebraço há três semanas. O médico suspeita de esporotricose. Quanto à vigilância, qual é a conduta?",
+  "alts": [
+   "Notificar exclusivamente à vigilância sanitária, que recolhe o animal",
+   "Não notificar, pois apenas a esporotricose animal é objeto de vigilância",
+   "Notificar apenas após cultura positiva, pois a suspeita clínica não basta",
+   "Notificar no SINAN, pois a doença entrou na lista nacional em 2025",
+   "Notificar somente se houver três ou mais casos no mesmo domicílio"
+  ],
+  "gab": 3,
+  "tema": "vigilancia",
+  "sub": "Esporotricose humana",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 6.734/2025 (altera o Anexo 1 do Anexo V da Portaria de Consolidação 4/2017), 2025",
+  "coment": "A Portaria GM/MS 6.734/2025 incluiu a esporotricose humana na Lista Nacional de Notificação Compulsória (Anexo 1 do Anexo V da Portaria de Consolidação 4/2017). A forma linfocutânea após arranhadura ou mordedura de gato é típica da transmissão zoonótica por Sporothrix brasiliensis, em expansão no país. A notificação compulsória vale para casos suspeitos ou confirmados e não substitui o tratamento com itraconazol nem a orientação sobre o cuidado do animal doente, que não deve ser abandonado.",
+  "porAlt": [
+   "A notificação vai ao SINAN, e o animal doente deve ser tratado, e não recolhido como regra.",
+   "Desde 2025 a esporotricose humana é de notificação compulsória em todo o país.",
+   "A notificação compulsória abrange casos suspeitos, e não apenas os confirmados por cultura.",
+   "Correta: a Portaria GM/MS 6.734/2025 incluiu a esporotricose humana na lista nacional.",
+   "A notificação é individual; não depende de agregado de casos."
+  ]
+ },
+ {
+  "q": "Após três casos de bacteremia por bactéria gram-negativa em pacientes de uma clínica de hemodiálise privada, técnicos do município inspecionam o tratamento da água, interditam uma máquina e lavram auto de infração. Pela Lei 8.080/1990, essas ações pertencem a qual área?",
+  "alts": [
+   "Saúde do trabalhador",
+   "Vigilância ambiental",
+   "Vigilância sanitária",
+   "Vigilância epidemiológica",
+   "Regulação assistencial"
+  ],
+  "gab": 2,
+  "tema": "vigilancia",
+  "sub": "Vigilância sanitária",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º, parágrafos 1º e 2º",
+  "coment": "A Lei 8.080/1990 define vigilância sanitária como o conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde. Inspecionar serviços, interditar equipamentos e autuar são expressões do poder de polícia administrativa, característico dessa área. A investigação dos casos de bacteremia envolve também a vigilância epidemiológica, mas fiscalizar e interditar o serviço é ação sanitária.",
+  "porAlt": [
+   "A saúde do trabalhador trata dos agravos ligados ao processo de trabalho, o que não é o foco do caso.",
+   "A ambiental cuida de fatores do meio, como água de abastecimento e solo, e não da fiscalização do serviço.",
+   "Correta: inspecionar, interditar e autuar serviços de interesse da saúde é ação de vigilância sanitária.",
+   "A epidemiológica investiga os casos e recomenda medidas, mas não exerce o poder de polícia sobre o serviço.",
+   "A regulação assistencial organiza o acesso a vagas e não fiscaliza estabelecimentos."
+  ]
+ },
+ {
+  "q": "A secretaria de saúde coleta amostras periódicas da água distribuída pela companhia de abastecimento, analisa coliformes e cloro residual livre e alerta a população quando os resultados estão fora do padrão de potabilidade. Esse programa pertence a qual área da vigilância em saúde?",
+  "alts": [
+   "Vigilância em saúde do trabalhador",
+   "Vigilância epidemiológica de agravos",
+   "Vigilância laboratorial de referência",
+   "Vigilância sanitária de serviços",
+   "Vigilância em saúde ambiental"
+  ],
+  "gab": 4,
+  "tema": "vigilancia",
+  "sub": "Vigilância ambiental",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 888/2021 (Anexo XX da Portaria de Consolidação 5/2017), 2021",
+  "coment": "A vigilância em saúde ambiental reúne ações de conhecimento e detecção de fatores do meio ambiente que interferem na saúde humana. Seu principal programa é o VIGIAGUA, vigilância da qualidade da água para consumo humano, que verifica de forma independente o padrão de potabilidade definido pelo Ministério da Saúde (Portaria GM/MS 888/2021, no Anexo XX da Portaria de Consolidação 5/2017), com parâmetros como coliformes totais, Escherichia coli, turbidez e cloro residual livre. Também integram a área o VIGISOLO e o VIGIAR.",
+  "porAlt": [
+   "A saúde do trabalhador foca riscos do processo de trabalho, e não o abastecimento da população.",
+   "A epidemiológica acompanha doenças e agravos, como surtos de diarreia, e não a qualidade da água em si.",
+   "O laboratório apoia as análises, mas o programa é conduzido pela vigilância ambiental.",
+   "A sanitária fiscaliza serviços e produtos; a água de abastecimento é objeto da vigilância ambiental.",
+   "Correta: o VIGIAGUA, vigilância da qualidade da água para consumo humano, é programa da vigilância ambiental."
+  ]
+ },
+ {
+  "q": "Na segunda-feira, a UBS atende nove pessoas com vômitos e diarreia que participaram de uma festa de casamento no sábado. A equipe de vigilância do município é acionada. Qual deve ser o primeiro passo da investigação?",
+  "alts": [
+   "Calcular a taxa de ataque de cada alimento servido",
+   "Divulgar o relatório final às autoridades e à imprensa",
+   "Confirmar o diagnóstico e a existência do surto",
+   "Formular a hipótese do alimento responsável",
+   "Interditar o bufê e recolher todos os alimentos"
+  ],
+  "gab": 2,
+  "tema": "vigilancia",
+  "sub": "Investigação de surto",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "A investigação de surto segue roteiro: confirmar o diagnóstico e verificar se há de fato excesso de casos em relação ao esperado; definir caso; buscar ativamente os casos e descrevê-los por tempo, lugar e pessoa; formular hipóteses; testá-las, por exemplo com taxas de ataque entre expostos e não expostos a cada alimento; implementar e avaliar medidas de controle; e divulgar os resultados. As medidas de controle podem ser adotadas assim que houver indício da fonte, mas não antecedem a confirmação de que o surto existe.",
+  "porAlt": [
+   "As taxas de ataque testam a hipótese e exigem antes a definição e a busca de casos.",
+   "A divulgação dos resultados é a etapa final da investigação.",
+   "Correta: a investigação começa confirmando o diagnóstico e o excesso de casos sobre o esperado.",
+   "A hipótese vem depois da definição de caso e da descrição por tempo, lugar e pessoa.",
+   "Medidas de controle podem vir cedo, mas dependem de indício da fonte e não são o primeiro passo."
+  ]
+ },
+ {
+  "q": "Na investigação de um surto de gastroenterite após um almoço em uma empresa, a curva epidêmica mostra elevação abrupta dos casos, pico único e término em cerca de 24 horas, todos dentro de um período de incubação. Que tipo de fonte esse padrão sugere?",
+  "alts": [
+   "Fonte comum pontual",
+   "Transmissão propagada",
+   "Fonte comum persistente",
+   "Fonte comum intermitente",
+   "Transmissão vetorial sazonal"
+  ],
+  "gab": 0,
+  "tema": "vigilancia",
+  "sub": "Curva epidêmica",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023; Rouquayrol MZ, Gurgel M. Epidemiologia e Saúde, 8ª ed., 2018",
+  "coment": "Na epidemia de fonte comum pontual, um grupo é exposto à mesma fonte em um curto intervalo, como uma refeição. Os casos surgem dentro de um único período de incubação, a curva sobe rapidamente, tem pico único e declina, e o intervalo entre o primeiro e o último caso se aproxima da variação do período de incubação. Na fonte persistente, a curva forma platô; na intermitente, picos irregulares; na transmissão propagada, de pessoa a pessoa, surgem ondas sucessivas separadas por um período de incubação.",
+  "porAlt": [
+   "Correta: exposição única e breve gera casos concentrados em um período de incubação, com pico único.",
+   "A transmissão de pessoa a pessoa produz ondas sucessivas, separadas por um período de incubação.",
+   "Na fonte persistente a exposição continua, e a curva forma platô prolongado.",
+   "Na fonte intermitente surgem picos irregulares conforme as exposições se repetem.",
+   "Transmissão por vetor gera curva prolongada e ligada à estação, e não pico de 24 horas."
+  ]
+ },
+ {
+  "q": "Um gestor quer calcular a taxa de mortalidade infantil do município usando os sistemas de informação do SUS. Quais sistemas e documentos-base fornecem o numerador e o denominador?",
+  "alts": [
+   "SINAN, pela ficha de notificação, e SIH, pela autorização de internação",
+   "SIM, pela declaração de óbito, e SINASC, pela declaração de nascido vivo",
+   "SINASC, pela declaração de nascido vivo, e SINAN, pela ficha de investigação",
+   "SIM, pela declaração de óbito, e IBGE, pela estimativa da população total",
+   "SIH, pela autorização de internação, e SIAB, pelo cadastro das famílias"
+  ],
+  "gab": 1,
+  "tema": "vigilancia",
+  "sub": "Sistemas de informação",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil, 2ª ed., 2008; Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "A taxa de mortalidade infantil tem como numerador os óbitos de menores de 1 ano, obtidos do Sistema de Informações sobre Mortalidade (SIM), cujo documento-base é a declaração de óbito, e como denominador os nascidos vivos, do Sistema de Informações sobre Nascidos Vivos (SINASC), alimentado pela declaração de nascido vivo. O SINAN registra agravos de notificação; o SIH registra internações pagas pelo SUS, por meio da AIH, com finalidade de faturamento. Onde a cobertura é insuficiente, usam-se estimativas.",
+  "porAlt": [
+   "O SINAN registra agravos de notificação, e o SIH registra internações pagas pelo SUS.",
+   "Correta: os óbitos de menores de 1 ano vêm do SIM, e os nascidos vivos, do SINASC.",
+   "O denominador está certo, mas os óbitos vêm do SIM, e não da ficha do SINAN.",
+   "O numerador está certo, mas o denominador é o número de nascidos vivos, e não a população total.",
+   "Internações e cadastros da atenção básica não fornecem óbitos nem nascidos vivos."
+  ]
+ },
+ {
+  "q": "Ao avaliar as coberturas vacinais de menores de 1 ano do município, a coordenação de imunização compara cada vacina com a meta preconizada pelo Programa Nacional de Imunizações. Para quais vacinas a meta de cobertura é de 90%, e não de 95%?",
+  "alts": [
+   "BCG e vacina rotavírus humano",
+   "Pneumocócica 10 e meningocócica C",
+   "Pentavalente e poliomielite inativada",
+   "Tríplice viral e vacina pentavalente",
+   "Poliomielite inativada e tríplice viral"
+  ],
+  "gab": 0,
+  "tema": "vigilancia",
+  "sub": "Coberturas do PNI",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Programa Nacional de Imunizações: metas de cobertura vacinal do calendário da criança, 2024; Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "O Programa Nacional de Imunizações adota meta de cobertura de 90% para BCG e para a vacina rotavírus humano, e de 95% para as demais vacinas do calendário de menores de 2 anos, como pentavalente, poliomielite inativada, pneumocócica 10-valente, meningocócica C e tríplice viral. Além da cobertura, avalia-se a homogeneidade, isto é, a proporção de municípios ou de vacinas que atingem a meta, porque bolsões de baixa cobertura permitem o retorno de doenças como sarampo e poliomielite.",
+  "porAlt": [
+   "Correta: BCG e rotavírus têm meta de 90%; as demais do calendário infantil, 95%.",
+   "Pneumocócica 10-valente e meningocócica C têm meta de 95%.",
+   "Pentavalente e poliomielite têm meta de 95%.",
+   "Tríplice viral e pentavalente têm meta de 95%.",
+   "Poliomielite e tríplice viral têm meta de 95%, críticas para manter a eliminação."
+  ]
+ },
+ {
+  "q": "O Programa Nacional de Imunizações foi formulado em 1973 e ganhou base legal em uma lei que também organizou as ações de vigilância epidemiológica e estabeleceu normas sobre a notificação compulsória de doenças. Que lei é essa?",
+  "alts": [
+   "Lei 9.782/1999",
+   "Lei 6.437/1977",
+   "Lei 8.080/1990",
+   "Lei 8.142/1990",
+   "Lei 6.259/1975"
+  ],
+  "gab": 4,
+  "tema": "vigilancia",
+  "sub": "PNI como política",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 6.259/1975; Decreto 78.231/1976",
+  "coment": "A Lei 6.259/1975, regulamentada pelo Decreto 78.231/1976, dispõe sobre a organização das ações de vigilância epidemiológica e sobre o Programa Nacional de Imunizações e estabelece normas relativas à notificação compulsória de doenças, inclusive o dever de notificar atribuído a médicos e outros profissionais. A Lei 9.782/1999 criou o Sistema Nacional de Vigilância Sanitária e a ANVISA; a Lei 6.437/1977 define infrações sanitárias e penalidades; as Leis 8.080 e 8.142, de 1990, são as leis orgânicas do SUS.",
+  "porAlt": [
+   "A Lei 9.782/1999 criou o Sistema Nacional de Vigilância Sanitária e a ANVISA.",
+   "A Lei 6.437/1977 define infrações à legislação sanitária e suas penalidades.",
+   "A Lei 8.080/1990 é a lei orgânica do SUS, posterior à criação do PNI.",
+   "A Lei 8.142/1990 trata da participação da comunidade e das transferências de recursos.",
+   "Correta: a Lei 6.259/1975 dispõe sobre vigilância epidemiológica, PNI e notificação compulsória."
+  ]
+ },
+ {
+  "q": "Lactente de 4 meses apresenta, 3 horas após a segunda dose da vacina pentavalente, palidez, hipotonia e diminuição da resposta a estímulos por cerca de 20 minutos, com recuperação completa. Além de notificar o evento, qual é a conduta para as próximas doses?",
+  "alts": [
+   "Suspender definitivamente qualquer vacina com componente pertussis",
+   "Aplicar apenas dupla infantil e adiar o reforço para os 7 anos",
+   "Aguardar 6 meses e repetir a pentavalente em ambiente hospitalar",
+   "Repetir a pentavalente celular com antitérmico profilático",
+   "Completar o esquema com a DTPa, menos reatogênica, disponível nos CRIE"
+  ],
+  "gab": 4,
+  "tema": "vigilancia",
+  "sub": "Eventos pós-vacinação",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual dos Centros de Referência para Imunobiológicos Especiais, 6ª ed., 2023; Manual de Vigilância Epidemiológica de Eventos Adversos Pós-Vacinação, 4ª ed., 2020",
+  "coment": "O episódio hipotônico-hiporresponsivo, com palidez, hipotonia e hiporresponsividade nas primeiras 48 horas após vacina com componente pertussis celular, é evento supostamente atribuível à vacinação e deve ser notificado e investigado. Tem evolução benigna e não contraindica o componente pertussis, mas o Manual dos Centros de Referência para Imunobiológicos Especiais indica completar o esquema com a vacina DTP acelular, que é menos reatogênica. Anafilaxia, ao contrário, contraindica doses seguintes da mesma vacina.",
+  "porAlt": [
+   "O episódio é benigno e não contraindica o componente pertussis; contraindicação definitiva cabe à anafilaxia.",
+   "Retirar o componente pertussis deixa o lactente desprotegido contra coqueluche sem necessidade.",
+   "Adiar o esquema prolonga a suscetibilidade, e a indicação é trocar para a vacina acelular.",
+   "Repetir a vacina celular expõe a novo evento quando há alternativa acelular indicada.",
+   "Correta: após episódio hipotônico-hiporresponsivo, o esquema segue com DTP acelular, de menor reatogenicidade."
+  ]
+ },
+ {
+  "q": "Operário de 29 anos sofre fratura do rádio ao cair de um andaime no trabalho. A empresa se recusa a emitir a Comunicação de Acidente de Trabalho, alegando descuido do empregado. Segundo a Lei 8.213/1991, qual é a situação correta?",
+  "alts": [
+   "A CAT deve ser emitida pelo médico perito do INSS após a perícia",
+   "A CAT só é exigida se houver afastamento superior a 15 dias",
+   "A culpa do empregado afasta a obrigação de comunicar o acidente",
+   "O médico que o atendeu pode emitir a CAT, sem prazo a cumprir",
+   "Somente a empresa pode emitir a CAT, e o médico deve aguardar"
+  ],
+  "gab": 3,
+  "tema": "trabalho",
+  "sub": "CAT",
+  "cenario": "emg",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.213/1991, arts. 19 a 22",
+  "coment": "O artigo 22 da Lei 8.213/1991 obriga a empresa a comunicar o acidente à Previdência até o primeiro dia útil seguinte à ocorrência e, em caso de morte, de imediato. Na falta dessa comunicação, podem formalizar a CAT o próprio acidentado, seus dependentes, a entidade sindical, o médico que o assistiu ou qualquer autoridade pública, e nesses casos não prevalece o prazo. A culpa do trabalhador não descaracteriza o acidente, e a CAT é devida mesmo sem afastamento. O afastamento por mais de 15 dias define o benefício do INSS, e não a obrigação de comunicar.",
+  "porAlt": [
+   "A perícia do INSS avalia a incapacidade e o nexo, mas não é quem emite a CAT.",
+   "A CAT é devida mesmo sem afastamento; os 15 dias definem quem paga o benefício.",
+   "A culpa do trabalhador não descaracteriza o acidente de trabalho.",
+   "Correta: na falta de comunicação pela empresa, o médico que assistiu o trabalhador pode formalizar a CAT, sem o prazo legal.",
+   "A lei autoriza acidentado, dependentes, sindicato, médico assistente e autoridade pública a emitir a CAT."
+  ]
+ },
+ {
+  "q": "Na classificação de Schilling, adotada pelo Ministério da Saúde para as doenças relacionadas ao trabalho, a silicose em um trabalhador de pedreira é exemplo de qual grupo?",
+  "alts": [
+   "Grupo III, em que o trabalho agrava doença latente",
+   "Grupo II, em que o trabalho é fator contributivo",
+   "Grupo II, em que o trabalho desencadeia distúrbio prévio",
+   "Grupo I, em que o trabalho é causa necessária",
+   "Grupo III, em que o trabalho é causa necessária"
+  ],
+  "gab": 3,
+  "tema": "trabalho",
+  "sub": "Classificação de Schilling",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Doenças relacionadas ao trabalho: manual de procedimentos para os serviços de saúde, 2001; Portaria GM/MS 1.999/2023",
+  "coment": "Schilling classificou as doenças relacionadas ao trabalho em três grupos. No grupo I, o trabalho é causa necessária, como nas intoxicações profissionais e nas pneumoconioses: sem exposição à sílica não há silicose. No grupo II, o trabalho é fator de risco contributivo, mas não necessário, como em doença coronariana, varizes e certas neoplasias. No grupo III, o trabalho provoca distúrbio latente ou agrava doença já estabelecida, como asma, dermatite de contato alérgica e transtornos mentais. A classificação ajuda a estabelecer o nexo.",
+  "porAlt": [
+   "O grupo III reúne agravamento ou desencadeamento de doença latente, como a asma.",
+   "O grupo II reúne doenças em que o trabalho contribui sem ser necessário, como a doença coronariana.",
+   "Desencadear distúrbio latente define o grupo III, e a silicose pertence ao grupo I.",
+   "Correta: sem exposição ocupacional à sílica não há silicose, por isso o trabalho é causa necessária.",
+   "Causa necessária define o grupo I, e não o grupo III."
+  ]
+ },
+ {
+  "q": "Metalúrgico de 48 anos, exposto há 20 anos a ruído de prensas, faz audiometria: perda neurossensorial bilateral e simétrica, com entalhe em 4.000 Hz e recuperação parcial em 8.000 Hz. Qual afirmação sobre esse quadro está correta?",
+  "alts": [
+   "É reversível com corticoide se o afastamento for imediato",
+   "Progride mesmo sem exposição e atinge primeiro 500 Hz",
+   "É irreversível e não deve progredir após cessar a exposição",
+   "É condutiva e regride com o uso de protetor auricular",
+   "Indica presbiacusia, pois a perda em 4 kHz é própria da idade"
+  ],
+  "gab": 2,
+  "tema": "trabalho",
+  "sub": "PAIR",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Perda auditiva induzida por ruído (PAIR): saúde do trabalhador, protocolos de complexidade diferenciada, 2006; Portaria GM/MS 1.999/2023",
+  "coment": "A perda auditiva induzida por ruído ocupacional é neurossensorial, quase sempre bilateral e simétrica, com entalhe inicial nas frequências de 3.000, 4.000 ou 6.000 Hz e recuperação em 8.000 Hz, o que a diferencia da presbiacusia, de curva descendente. É irreversível e, cessada a exposição, não progride por efeito do ruído. Integra a lista nacional de notificação compulsória como perda auditiva relacionada ao trabalho e a Lista de Doenças Relacionadas ao Trabalho (Portaria GM/MS 1.999/2023). O limite de tolerância da NR-15 é 85 dB(A) para 8 horas.",
+  "porAlt": [
+   "A perda crônica por ruído é permanente e não responde a corticoide.",
+   "A perda começa nas frequências agudas, de 3.000 a 6.000 Hz, e estabiliza sem exposição.",
+   "Correta: a perda induzida por ruído é definitiva, mas não progride por efeito do ruído após o fim da exposição.",
+   "A lesão é neurossensorial, coclear, e o protetor apenas previne nova perda.",
+   "A presbiacusia tem curva descendente sem recuperação em 8.000 Hz, diferente do entalhe descrito."
+  ]
+ },
+ {
+  "q": "Operadora de caixa de supermercado, 34 anos, refere dor no punho direito há quatro meses, pior ao registrar mercadorias, com teste de Finkelstein positivo. O médico da UBS diagnostica tenossinovite de De Quervain relacionada ao trabalho e indica afastamento de dez dias. Quanto aos registros, qual é a conduta?",
+  "alts": [
+   "Notificar no SINAN e providenciar a emissão da CAT",
+   "Encaminhar ao INSS, que decide se o caso deve ser notificado",
+   "Emitir a CAT apenas se o afastamento passar de 15 dias",
+   "Registrar apenas no prontuário, pois LER não é acidente de trabalho",
+   "Notificar no SINAN somente se houver incapacidade definitiva"
+  ],
+  "gab": 0,
+  "tema": "trabalho",
+  "sub": "LER/DORT",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V, com as alterações até a Portaria GM/MS 11.211/2026; Lei 8.213/1991, art. 20; Portaria GM/MS 1.999/2023",
+  "coment": "LER/DORT integram a Lista Nacional de Notificação Compulsória, com registro no SINAN, e são equiparadas a acidente de trabalho pela Lei 8.213/1991 quando há nexo com a atividade, o que exige CAT independentemente da duração do afastamento. A Lista de Doenças Relacionadas ao Trabalho (Portaria GM/MS 1.999/2023) inclui a tenossinovite estiloide radial entre as doenças ligadas a fatores ergonômicos, como movimentos repetitivos e posturas forçadas. O prazo de 15 dias define quem paga o afastamento, a empresa ou o INSS, e não a notificação.",
+  "porAlt": [
+   "Correta: LER/DORT é de notificação compulsória no SINAN e, com nexo ocupacional, exige CAT.",
+   "A notificação é dever do serviço de saúde que diagnostica, e não depende de decisão do INSS.",
+   "A CAT independe da duração do afastamento; os 15 dias definem quem paga o benefício.",
+   "A doença do trabalho é equiparada a acidente de trabalho pela Lei 8.213/1991.",
+   "A notificação vale para o caso diagnosticado, com ou sem incapacidade permanente."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos trabalhou 18 anos com jateamento de areia. A radiografia mostra pequenas opacidades nodulares nos lobos superiores e calcificação em casca de ovo de linfonodos hilares. Além de afastá-lo da exposição, qual cuidado é prioritário no seguimento?",
+  "alts": [
+   "Rastrear e tratar tuberculose, inclusive a infecção latente",
+   "Rastrear mesotelioma pleural com tomografia a cada seis meses",
+   "Fazer lavagem broncoalveolar total para remover a sílica",
+   "Iniciar corticoide em dose alta para regredir os nódulos",
+   "Prescrever oxigenoterapia domiciliar desde o diagnóstico"
+  ],
+  "gab": 0,
+  "tema": "trabalho",
+  "sub": "Pneumoconioses",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed., 2019; Portaria GM/MS 1.999/2023",
+  "coment": "Silicose é pneumoconiose fibrogênica causada pela inalação de sílica cristalina, comum em jateamento de areia, mineração, pedreiras e cerâmica. Não há tratamento que reverta a fibrose; a conduta central é cessar a exposição. A silicose aumenta muito o risco de tuberculose, e o Manual de Recomendações para o Controle da Tuberculose do Ministério da Saúde inclui o silicótico entre as indicações de investigação e tratamento da infecção latente. Mesotelioma relaciona-se ao asbesto. Pneumoconioses relacionadas ao trabalho são de notificação compulsória.",
+  "porAlt": [
+   "Correta: a silicose aumenta muito o risco de tuberculose e é indicação de investigar e tratar a infecção latente.",
+   "Mesotelioma relaciona-se ao asbesto, e não à sílica.",
+   "A lavagem pulmonar total é reservada à proteinose alveolar, e não remove a fibrose estabelecida.",
+   "Não há tratamento que reverta a fibrose silicótica, e corticoide não tem papel de rotina.",
+   "Oxigenoterapia depende de hipoxemia documentada, e não do diagnóstico em si."
+  ]
+ },
+ {
+  "q": "Técnica de enfermagem sofre perfuração com agulha oca, com sangue visível, após punção venosa de paciente com infecção pelo HIV em uso irregular de antirretroviral. O acidente ocorreu há 1 hora, e o teste rápido para HIV da profissional é não reagente. Qual é a conduta recomendada?",
+  "alts": [
+   "Iniciar profilaxia somente se surgir síndrome retroviral aguda",
+   "Iniciar zidovudina isolada por 14 dias e testar após 6 meses",
+   "Aguardar a carga viral da fonte antes de decidir a profilaxia",
+   "Iniciar tenofovir, lamivudina e dolutegravir por 28 dias",
+   "Iniciar tenofovir e lamivudina por 7 dias, sem terceira droga"
+  ],
+  "gab": 3,
+  "tema": "trabalho",
+  "sub": "Acidente com material biológico",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Profilaxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais, 2021",
+  "coment": "Exposição percutânea com agulha oca e sangue de fonte com HIV é de risco e indica profilaxia pós-exposição o mais cedo possível, idealmente nas duas primeiras horas e no máximo em 72 horas. O esquema preferencial do PCDT de PEP do Ministério da Saúde é tenofovir, lamivudina e dolutegravir por 28 dias. O teste rápido da profissional no início é obrigatório; se reagente, não é caso de PEP, e sim de tratamento. A decisão não espera a carga viral da fonte. O acidente deve ser notificado no SINAN e gerar CAT.",
+  "porAlt": [
+   "A PEP é preventiva e deve começar logo após a exposição, e não diante de sintomas.",
+   "Monoterapia com zidovudina é esquema abandonado, e a duração correta é de 28 dias.",
+   "A decisão não espera a carga viral da fonte; o benefício da PEP cai a cada hora de atraso.",
+   "Correta: é o esquema preferencial da PEP, iniciado o quanto antes e mantido por 28 dias.",
+   "A PEP usa três antirretrovirais por 28 dias, e não dois por 7 dias."
+  ]
+ },
+ {
+  "q": "Residente de cirurgia de 26 anos sofre ferimento com bisturi contaminado com sangue de paciente HBsAg reagente. Nunca foi vacinado contra hepatite B. O anti-HBs e o HBsAg do residente são não reagentes. Qual é a conduta para hepatite B?",
+  "alts": [
+   "Tenofovir por 28 dias associado à primeira dose da vacina",
+   "Imunoglobulina anti-hepatite B e início do esquema vacinal",
+   "Apenas uma dose de reforço da vacina, sem imunoglobulina",
+   "Apenas imunoglobulina, adiando a vacina por três meses",
+   "Nenhuma medida, pois o risco percutâneo para hepatite B é baixo"
+  ],
+  "gab": 1,
+  "tema": "trabalho",
+  "sub": "Acidente com material biológico",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Profilaxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais, 2021; Manual dos CRIE, 6ª ed., 2023",
+  "coment": "Profissional não vacinado exposto a fonte HBsAg reagente deve receber imunoglobulina humana anti-hepatite B, de preferência nas primeiras 48 horas e no máximo até 7 dias, e iniciar o esquema de três doses da vacina, aplicadas em local diferente. O risco de transmissão da hepatite B em exposição percutânea é muito maior que o do HIV e pode passar de 30% quando a fonte tem HBeAg reagente. Antirretroviral não é profilaxia de hepatite B. Quem tem vacinação completa com anti-HBs de 10 mUI/mL ou mais documentado não precisa de medida.",
+  "porAlt": [
+   "Antirretroviral não é profilaxia para hepatite B; a proteção vem da imunoglobulina e da vacina.",
+   "Correta: não vacinado exposto a fonte HBsAg reagente recebe imunoglobulina e inicia as três doses da vacina.",
+   "Quem nunca foi vacinado precisa do esquema completo, e a imunoglobulina é indicada pela fonte reagente.",
+   "A vacina deve começar junto com a imunoglobulina, em local diferente, sem adiamento.",
+   "O risco percutâneo para hepatite B é muito maior que o do HIV, e a profilaxia é indicada."
+  ]
+ },
+ {
+  "q": "Médico de UBS atende frentista com leucemia mieloide aguda e quer verificar se a exposição ao benzeno tem relação reconhecida com essa doença. Na Lista de Doenças Relacionadas ao Trabalho atualizada em 2023, como essa consulta pode ser feita?",
+  "alts": [
+   "Pela lista B, que contém apenas acidentes típicos e de trajeto",
+   "Pela lista A, organizada por agente ou fator de risco",
+   "Pela lista C, que reúne os agentes biológicos e as zoonoses",
+   "Pela tabela da NR-15, que substituiu a lista do Ministério da Saúde",
+   "Pelo rol de doenças do INSS, que exige perícia antes da consulta"
+  ],
+  "gab": 1,
+  "tema": "trabalho",
+  "sub": "Lista de Doenças do Trabalho",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 1.999/2023 (atualiza a Lista de Doenças Relacionadas ao Trabalho na Portaria de Consolidação 5/2017), 2023",
+  "coment": "A Lista de Doenças Relacionadas ao Trabalho foi atualizada pela Portaria GM/MS 1.999/2023, que alterou a Portaria de Consolidação 5/2017. Ela tem duas partes: a lista A, organizada por agentes e fatores de risco de natureza ocupacional, com as doenças a eles associadas, e a lista B, organizada por doenças segundo a CID, com os agentes correspondentes. O benzeno aparece associado a doenças hematológicas, entre elas leucemias e síndromes mielodisplásicas. A lista orienta o diagnóstico, o nexo e a vigilância, sem depender de perícia.",
+  "porAlt": [
+   "A lista B é organizada por doenças segundo a CID, e não por acidentes típicos.",
+   "Correta: a lista A parte do agente, como o benzeno, e mostra as doenças a ele relacionadas.",
+   "A lista tem duas partes, A e B; não existe lista C de agentes biológicos.",
+   "A NR-15 define limites de tolerância e insalubridade e não substituiu a lista do Ministério da Saúde.",
+   "A lista é de livre consulta pelos profissionais e não depende de perícia prévia."
+  ]
+ }
+]

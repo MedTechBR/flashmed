@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Dona Lurdes, 71 anos, é acompanhada há 14 anos pela mesma equipe de Saúde da Família. Ao chegar com tontura, o médico lembra que sintoma parecido surgiu quando a dose de anlodipino foi aumentada, sabe que ela cuida sozinha do marido com demência e que costuma minimizar as próprias queixas. Segundo Starfield, qual atributo da atenção primária está mais evidente nesse encontro?",
+  "alts": [
+   "Coordenação do cuidado",
+   "Acesso de primeiro contato",
+   "Longitudinalidade",
+   "Integralidade",
+   "Competência cultural"
+  ],
+  "gab": 2,
+  "tema": "aps",
+  "sub": "atributos de Starfield",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Starfield B. Atenção primária: equilíbrio entre necessidades de saúde, serviços e tecnologia. UNESCO/Ministério da Saúde, 2002",
+  "coment": "Longitudinalidade é a relação pessoal de longa duração entre a equipe e as pessoas do território, com uso regular da mesma fonte de cuidado ao longo do tempo, havendo ou não doença. O conhecimento acumulado sobre reações prévias a medicamentos, contexto familiar e modo de relatar sintomas é o produto típico desse atributo. Coordenação trata da integração de informações entre pontos da rede; integralidade, do leque de serviços ofertados ou garantidos; primeiro contato, da porta de entrada; competência cultural é atributo derivado (Starfield, 2002).",
+  "porAlt": [
+   "Coordenação exige integrar informações vindas de outros serviços, o que não é o centro do caso.",
+   "Primeiro contato diz respeito à porta de entrada preferencial a cada novo problema.",
+   "Correta: o vínculo de 14 anos permite usar a história acumulada da pessoa na decisão atual.",
+   "Integralidade se refere à oferta e ao reconhecimento de todo o leque de necessidades.",
+   "Competência cultural é atributo derivado ligado a características culturais da população."
+  ]
+ },
+ {
+  "q": "Na formulação de Barbara Starfield, adotada pela Política Nacional de Atenção Básica, a atenção primária tem quatro atributos essenciais e três atributos derivados. Quais são os atributos derivados?",
+  "alts": [
+   "Orientação familiar, orientação comunitária e competência cultural",
+   "Acesso de primeiro contato, longitudinalidade e coordenação do cuidado",
+   "Integralidade, orientação familiar e participação da comunidade",
+   "Resolutividade, territorialização e adscrição da clientela",
+   "Orientação comunitária, equidade e hierarquização da rede"
+  ],
+  "gab": 0,
+  "tema": "aps",
+  "sub": "atributos derivados",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Starfield B. Atenção primária: equilíbrio entre necessidades de saúde, serviços e tecnologia. UNESCO/Ministério da Saúde, 2002",
+  "coment": "Os atributos essenciais são acesso de primeiro contato, longitudinalidade, integralidade e coordenação do cuidado. Os derivados qualificam a atenção e dependem dos essenciais: orientação familiar (considerar o contexto e a dinâmica da família), orientação comunitária (reconhecer necessidades do território a partir de dados epidemiológicos e do contato com a comunidade) e competência cultural (adaptar o cuidado a características culturais específicas). Resolutividade, territorialização e adscrição são diretrizes da PNAB 2017, não atributos de Starfield.",
+  "porAlt": [
+   "Correta: são os três atributos derivados que qualificam a atenção primária.",
+   "Esses três são atributos essenciais, aos quais se soma a integralidade.",
+   "Integralidade é essencial e participação da comunidade é diretriz do SUS, não atributo derivado.",
+   "São diretrizes de organização da PNAB 2017, e não atributos de Starfield.",
+   "Equidade é princípio do SUS e hierarquização é diretriz organizativa da rede."
+  ]
+ },
+ {
+  "q": "Sr. Antônio, 66 anos, diabético acompanhado pela eSF, foi internado por pé diabético infectado e submetido a amputação do hálux. Recebeu alta há três dias e a filha comparece à UBS sem qualquer resumo de alta, sem saber quais antibióticos ele usa e quando retirar os pontos. Qual conduta da equipe expressa melhor o atributo coordenação do cuidado?",
+  "alts": [
+   "Reencaminhar ao cirurgião vascular para que ele assuma o seguimento do pé",
+   "Orientar a família a procurar o hospital sempre que houver dúvida no curativo",
+   "Aguardar a contrarreferência formal do hospital antes de reavaliar a ferida",
+   "Manter o retorno programado de rotina, sem mudança no plano de cuidado",
+   "Buscar o resumo de alta no hospital e integrá-lo ao plano de cuidado"
+  ],
+  "gab": 4,
+  "tema": "aps",
+  "sub": "coordenação do cuidado",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Atenção Básica (Portaria 2.436/2017, consolidada na Portaria de Consolidação 2/2017), 2017",
+  "coment": "Coordenar o cuidado é responsabilizar-se pela pessoa ao longo de toda a rede, reunindo informações produzidas em outros pontos de atenção e articulando-as num plano único. Diante de uma alta sem contrarreferência, a equipe de APS não transfere a responsabilidade nem espera passivamente: busca ativamente as informações (contato com o hospital, sumário de alta, prescrição) e reorganiza o cuidado, incluindo curativo, antibiótico e retirada de pontos. A PNAB 2017 coloca a coordenação do cuidado e a ordenação da rede entre as diretrizes da Atenção Básica.",
+  "porAlt": [
+   "Transferir o seguimento ao especialista fragmenta o cuidado e abandona a responsabilização da APS.",
+   "Delegar à família a busca de informações no hospital não integra o cuidado pela equipe.",
+   "Esperar a contrarreferência deixa o paciente sem cuidado em um período de risco de infecção.",
+   "Ignorar a mudança clínica recente desconsidera a nova necessidade de cuidado após a amputação.",
+   "Correta: a equipe busca ativamente a informação e a incorpora ao plano, coordenando o cuidado."
+  ]
+ },
+ {
+  "q": "O gestor de um município de grande porte organiza a expansão da Estratégia Saúde da Família e consulta a Política Nacional de Atenção Básica de 2017 para definir a população adscrita de cada equipe. Qual é a faixa populacional recomendada por equipe de Saúde da Família nessa política?",
+  "alts": [
+   "De 1.000 a 2.000 pessoas",
+   "De 2.000 a 3.500 pessoas",
+   "De 3.000 a 4.000 pessoas",
+   "De 4.000 a 4.500 pessoas",
+   "De 500 a 750 pessoas"
+  ],
+  "gab": 1,
+  "tema": "aps",
+  "sub": "população adscrita na PNAB",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Atenção Básica (Portaria 2.436/2017, consolidada na Portaria de Consolidação 2/2017), 2017",
+  "coment": "A PNAB 2017 recomenda população adscrita de 2.000 a 3.500 pessoas por equipe de Saúde da Família ou de Atenção Básica, admitindo outros arranjos conforme vulnerabilidade, risco e dinâmica do território. A PNAB de 2011 falava em no máximo 4.000 pessoas, com média recomendada de 3.000. O número de até 750 pessoas é o máximo por agente comunitário de saúde. Para o cofinanciamento federal de 2024, há outro parâmetro, de pessoas vinculadas por equipe, que varia com o porte do município.",
+  "porAlt": [
+   "Faixa abaixo da recomendada, sem previsão como parâmetro geral na PNAB 2017.",
+   "Correta: é a faixa recomendada pela PNAB 2017 para eSF e eAB.",
+   "Mistura a média de 3.000 e o teto de 4.000 da PNAB de 2011.",
+   "Ultrapassa qualquer parâmetro de adscrição da PNAB vigente.",
+   "Corresponde ao teto de pessoas por agente comunitário, não por equipe."
+  ]
+ },
+ {
+  "q": "Um município de 35 mil habitantes revisa o cadastro das suas equipes de Saúde da Família à luz da nova metodologia de cofinanciamento federal da Atenção Primária, instituída em 2024. No componente de vínculo e acompanhamento territorial, qual é o parâmetro de pessoas vinculadas por eSF para esse porte de município?",
+  "alts": [
+   "2.000 pessoas, com limite de 3.000",
+   "2.750 pessoas, com limite de 4.125",
+   "3.500 pessoas, com limite de 4.000",
+   "2.500 pessoas, com limite de 3.750",
+   "3.000 pessoas, com limite de 4.500"
+  ],
+  "gab": 3,
+  "tema": "aps",
+  "sub": "cofinanciamento da APS 2024",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 3.493/2024 (cofinanciamento federal da APS, altera a Portaria de Consolidação 6/2017), 2024",
+  "coment": "A Portaria GM/MS 3.493/2024 escalonou o parâmetro de pessoas vinculadas por eSF conforme o porte do município: até 20 mil habitantes, 2.000 (limite de 3.000); de 20 a 50 mil, 2.500 (limite de 3.750); de 50 a 100 mil, 2.750 (limite de 4.125); acima de 100 mil, 3.000 (limite de 4.500). O componente de vínculo e acompanhamento territorial considera também vulnerabilidade socioeconômica, perfil demográfico, qualidade do cadastro e acompanhamento das pessoas, com classificação em ótimo, bom, suficiente e regular.",
+  "porAlt": [
+   "É o parâmetro para municípios de até 20 mil habitantes.",
+   "É o parâmetro para municípios de 50 a 100 mil habitantes.",
+   "Mistura o teto da faixa da PNAB 2017 com o antigo limite de 4.000.",
+   "Correta: para municípios de 20 a 50 mil habitantes, 2.500 vinculados e limite de 3.750.",
+   "É o parâmetro para municípios acima de 100 mil habitantes."
+  ]
+ },
+ {
+  "q": "Em 2024, o Ministério da Saúde instituiu nova metodologia de cofinanciamento federal da Atenção Primária, que substituiu a lógica de capitação ponderada e pagamento por desempenho do Previne Brasil. Qual conjunto reúne componentes desse novo modelo?",
+  "alts": [
+   "Capitação ponderada, pagamento por desempenho e ações estratégicas",
+   "Componente fixo, de vínculo e acompanhamento territorial e de qualidade",
+   "PAB fixo, PAB variável e incentivo de implantação do NASF-AB",
+   "Pagamento por procedimento, teto de média complexidade e FAEC",
+   "Per capita por vulnerabilidade, PMAQ e incentivo ao Mais Médicos"
+  ],
+  "gab": 1,
+  "tema": "aps",
+  "sub": "cofinanciamento da APS 2024",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 3.493/2024 (cofinanciamento federal da APS), 2024",
+  "coment": "A Portaria GM/MS 3.493/2024 organiza o cofinanciamento federal da APS em componente fixo (manutenção e implantação de eSF e eAP), componente de vínculo e acompanhamento territorial, componente de qualidade, componente para programas, serviços e outras composições de equipes (como eMulti), componente de saúde bucal e componente per capita de base populacional. A qualidade é medida por indicadores (acesso, diabetes, hipertensão, desenvolvimento infantil, gestação, pessoa idosa, prevenção do câncer) e classificada em ótimo, bom, suficiente ou regular.",
+  "porAlt": [
+   "São os componentes do Previne Brasil, de 2019, substituído pelo novo modelo.",
+   "Correta: são três dos componentes previstos na Portaria GM/MS 3.493/2024.",
+   "PAB fixo e variável pertencem ao modelo anterior a 2019, assim como o incentivo ao NASF.",
+   "Descreve formas de financiamento da média e alta complexidade, não da APS.",
+   "O PMAQ foi extinto em 2019 e não integra o cofinanciamento de 2024."
+  ]
+ },
+ {
+  "q": "Um município com 7 equipes de Saúde da Família decide implantar uma equipe Multiprofissional na Atenção Primária (eMulti) vinculada a todas elas, com psicólogo, fisioterapeuta, nutricionista e farmacêutico. Segundo a portaria que instituiu as eMulti, em que modalidade essa equipe se enquadra e qual a carga horária mínima somada?",
+  "alts": [
+   "eMulti Ampliada, com no mínimo 300 horas semanais",
+   "eMulti Estratégica, com no mínimo 100 horas semanais",
+   "NASF-AB modalidade 1, com no mínimo 200 horas semanais",
+   "eMulti Complementar, com no mínimo 200 horas semanais",
+   "eMulti Complementar, com no mínimo 300 horas semanais"
+  ],
+  "gab": 3,
+  "tema": "aps",
+  "sub": "eMulti: modalidades",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 635/2023 (equipes Multiprofissionais na APS), 2023",
+  "coment": "A Portaria GM/MS 635/2023 define três modalidades de eMulti: Ampliada, vinculada a 10 a 12 equipes, com 300 horas semanais mínimas somadas; Complementar, vinculada a 5 a 9 equipes, com 200 horas; Estratégica, vinculada a 1 a 4 equipes, com 100 horas. Médicos devem ter ao menos 10 horas semanais e os demais profissionais ao menos 20 horas. Com 7 equipes vinculadas, o enquadramento é a modalidade Complementar. O NASF-AB perdeu o financiamento federal específico com o Previne Brasil e não é mais o arranjo vigente.",
+  "porAlt": [
+   "A Ampliada exige de 10 a 12 equipes vinculadas, acima das 7 do caso.",
+   "A Estratégica se destina a 1 a 4 equipes vinculadas.",
+   "O NASF-AB deixou de ser o arranjo financiado; o vigente é a eMulti.",
+   "Correta: 5 a 9 equipes vinculadas e carga mínima somada de 200 horas semanais.",
+   "A modalidade está certa, mas 300 horas é o mínimo da Ampliada."
+  ]
+ },
+ {
+  "q": "Na UBS, a psicóloga da eMulti atende junto com o médico de família uma adolescente com sintomas ansiosos, participa da discussão de casos da equipe, conduz um grupo de manejo do estresse e realiza, por videochamada assistida, o retorno de uma paciente de área rural. Qual descrição corresponde ao modo de trabalho previsto para a eMulti?",
+  "alts": [
+   "Apoio matricial, atendimento compartilhado e individual, inclusive remoto",
+   "Ambulatório especializado com agenda própria e porta de entrada independente",
+   "Atendimento de casos encaminhados, sem ações coletivas no território",
+   "Regulação dos encaminhamentos da APS para a atenção especializada municipal",
+   "Supervisão administrativa das eSF, com metas de produção por profissional"
+  ],
+  "gab": 0,
+  "tema": "aps",
+  "sub": "eMulti: processo de trabalho",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria GM/MS 635/2023 (equipes Multiprofissionais na APS), 2023",
+  "coment": "A Portaria GM/MS 635/2023 lista entre as ações da eMulti o atendimento individual, em grupo e domiciliar, as atividades coletivas, o apoio matricial, a discussão de casos, o atendimento compartilhado, a construção de projetos terapêuticos, as intervenções no território, as práticas intersetoriais e as ações de saúde a distância. O atendimento remoto assistido, mediado por tecnologias de informação e comunicação, é admitido e tem incentivo próprio. A eMulti não é porta de entrada separada nem serviço especializado de referência.",
+  "porAlt": [
+   "Correta: reúne o apoio às equipes e o cuidado direto, presencial ou remoto, previstos na portaria.",
+   "A eMulti integra a APS e não funciona como ambulatório de especialidade com porta própria.",
+   "A portaria prevê expressamente atividades coletivas e intervenções no território.",
+   "A regulação do acesso à atenção especializada é função do complexo regulador, não da eMulti.",
+   "A eMulti não tem papel de supervisão hierárquica das equipes vinculadas."
+  ]
+ },
+ {
+  "q": "Durante a territorialização de uma nova equipe de Saúde da Família, o enfermeiro divide a área em subáreas e distribui as famílias entre os agentes comunitários de saúde. Segundo a Política Nacional de Atenção Básica de 2017, a microárea corresponde a qual espaço?",
+  "alts": [
+   "Área de abrangência de uma eSF, com 2.000 a 3.500 pessoas",
+   "Território de uma UBS, com até quatro equipes de Saúde da Família",
+   "Distrito sanitário, com população definida pela regionalização",
+   "Setor censitário do IBGE, usado como unidade de cadastro",
+   "Área sob responsabilidade de um ACS, com até 750 pessoas"
+  ],
+  "gab": 4,
+  "tema": "aps",
+  "sub": "território e microárea",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Atenção Básica (Portaria 2.436/2017, consolidada na Portaria de Consolidação 2/2017), 2017",
+  "coment": "Na PNAB 2017, a área da equipe é subdividida em microáreas, cada uma sob responsabilidade de um agente comunitário de saúde, com no máximo 750 pessoas por ACS. Em áreas de risco e vulnerabilidade social, recomenda-se cobertura de 100% da população pelos agentes. A área da equipe corresponde à população adscrita, recomendada entre 2.000 e 3.500 pessoas, e a política sugere no máximo quatro equipes por UBS. A delimitação territorial deve ser revista periodicamente, conforme a dinâmica do território.",
+  "porAlt": [
+   "Descreve a área da equipe, que reúne várias microáreas.",
+   "Descreve a área de abrangência da UBS, unidade territorial maior.",
+   "O distrito sanitário é recorte de gestão municipal, muito maior que a microárea.",
+   "O setor censitário é recorte estatístico do IBGE e não define a microárea do ACS.",
+   "Correta: microárea é o espaço de atuação de um ACS, com teto de 750 pessoas."
+  ]
+ },
+ {
+  "q": "Uma equipe de Saúde da Família tem espera de 40 dias para consulta agendada, enquanto as pessoas com problemas agudos disputam poucas vagas na porta da unidade. A equipe decide implantar o modelo de acesso avançado. Qual medida é coerente com esse modelo?",
+  "alts": [
+   "Reservar turnos fixos por programa, como hipertensos às terças e gestantes às quintas",
+   "Distribuir senhas na abertura da unidade para limitar os atendimentos do dia",
+   "Atender no mesmo dia a maior parte da demanda, com poucas vagas pré-agendadas",
+   "Agendar retornos de crônicos com antecedência mínima de 60 dias para garantir vaga",
+   "Encaminhar a demanda espontânea ao pronto-atendimento para liberar a agenda"
+  ],
+  "gab": 2,
+  "tema": "aps",
+  "sub": "acesso avançado",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Murray M, Berwick DM. Advanced access: reducing waiting and delays in primary care. JAMA, 2003",
+  "coment": "O acesso avançado parte do princípio de fazer hoje o trabalho de hoje: a maior parte da agenda fica aberta para quem procura a unidade naquele dia, seja por problema agudo ou crônico, e apenas uma fração pequena é pré-agendada (por exemplo, pré-natal ou retornos com data clínica definida). Exige zerar a fila acumulada, equilibrar oferta e demanda, ter planos de contingência para férias e picos e reduzir retornos desnecessários. Agenda por programa, senhas e retornos muito antecipados aumentam o absenteísmo e a fila.",
+  "porAlt": [
+   "Agenda por programa engessa a oferta e não responde à demanda do dia.",
+   "Senhas restringem o acesso e mantêm a disputa pelas vagas na porta da unidade.",
+   "Correta: o modelo abre a maior parte da agenda para a demanda do próprio dia.",
+   "Retornos muito antecipados aumentam faltas e alimentam a fila que o modelo quer eliminar.",
+   "Repassar a demanda espontânea ao pronto-atendimento compromete o primeiro contato."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos, hipertenso em uso de losartana, chega à UBS sem agendamento pedindo renovação da receita, pois os comprimidos acabam em 10 dias. Está assintomático, com PA de 132 x 84 mmHg e frequência cardíaca de 76 bpm. Pela classificação de risco e vulnerabilidade proposta para o acolhimento à demanda espontânea na Atenção Básica, como essa situação se enquadra?",
+  "alts": [
+   "Situação não aguda, com intervenção programada (azul)",
+   "Atendimento imediato, por risco de vida (vermelho)",
+   "Atendimento prioritário, por risco moderado (amarelo)",
+   "Atendimento no dia, por risco baixo com vulnerabilidade (verde)",
+   "Atendimento no dia, por se tratar de doença crônica (verde)"
+  ],
+  "gab": 0,
+  "tema": "aps",
+  "sub": "acolhimento e classificação",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica 28, vol. 1: Acolhimento à demanda espontânea, 2013",
+  "coment": "O Caderno de Atenção Básica 28 propõe, para a demanda espontânea, quatro situações: atendimento imediato (alto risco de vida, vermelho), atendimento prioritário (risco moderado, amarelo), atendimento no dia (risco baixo ou ausência de risco, mas com vulnerabilidade importante, verde) e situação não aguda (azul), resolvida com orientação, agendamento ou intervenção programada. Pessoa assintomática, com pressão controlada e medicação para mais de uma semana, cabe na última categoria, com renovação organizada pela equipe, sem perder a oportunidade de cuidado.",
+  "porAlt": [
+   "Correta: não há queixa aguda nem vulnerabilidade que exija atendimento no mesmo dia.",
+   "O vermelho é reservado a risco de vida, como dor torácica com instabilidade.",
+   "O amarelo pressupõe risco moderado, ausente em pessoa assintomática e controlada.",
+   "O verde exige vulnerabilidade importante, que não está descrita no caso.",
+   "Ter doença crônica não basta para indicar atendimento no mesmo dia."
+  ]
+ },
+ {
+  "q": "Uma mulher de 52 anos com hipotireoidismo de difícil controle é encaminhada pela médica de família ao endocrinologista. Três meses depois, retorna à UBS com uma carta do especialista contendo o diagnóstico revisto, a dose ajustada de levotiroxina, os exames de controle e a indicação de seguimento pela equipe de APS. Esse documento caracteriza qual etapa do fluxo da rede?",
+  "alts": [
+   "Referência, com pergunta clínica ao especialista",
+   "Transferência definitiva do acompanhamento ao especialista",
+   "Regulação do acesso pela central de marcação de consultas",
+   "Autorização de procedimento de alto custo pelo gestor",
+   "Contrarreferência, com conduta, plano e seguimento definidos"
+  ],
+  "gab": 4,
+  "tema": "aps",
+  "sub": "referência e contrarreferência",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Atenção Básica (Portaria 2.436/2017, consolidada na Portaria de Consolidação 2/2017), 2017",
+  "coment": "Referência é o encaminhamento da APS a outro ponto de atenção, com resumo clínico e a pergunta que se quer responder. Contrarreferência é o retorno da informação do serviço especializado à equipe de origem, com o que foi feito, o plano proposto e quem fará o seguimento. É a peça que permite à APS exercer a coordenação do cuidado prevista na PNAB 2017, mantendo a pessoa vinculada à sua equipe. A ausência de contrarreferência é uma das falhas mais comuns da rede e obriga a equipe a buscar a informação.",
+  "porAlt": [
+   "A referência é o movimento de ida, da APS ao especialista, e não o retorno.",
+   "O documento devolve o seguimento à APS, o oposto de transferência definitiva.",
+   "A regulação organiza o acesso à vaga e não produz plano clínico.",
+   "Não há procedimento de alto custo nem autorização envolvidos no caso.",
+   "Correta: é o retorno do especialista à APS com plano e definição de quem acompanha."
+  ]
+ },
+ {
+  "q": "Uma médica de família atende, por videochamada e com a paciente presente na sala, uma mulher com psoríase extensa e conversa em tempo real com um dermatologista do núcleo de telessaúde sobre o início de terapia sistêmica. Segundo a Resolução CFM 2.314/2022, como se denomina essa modalidade?",
+  "alts": [
+   "Teleconsultoria",
+   "Telediagnóstico",
+   "Teleinterconsulta",
+   "Telemonitoramento",
+   "Teletriagem"
+  ],
+  "gab": 2,
+  "tema": "aps",
+  "sub": "telessaúde: modalidades",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Conselho Federal de Medicina. Resolução CFM 2.314/2022 (telemedicina), 2022",
+  "coment": "A Resolução CFM 2.314/2022 define teleinterconsulta como a troca de informações e opiniões entre médicos, com auxílio de tecnologias digitais, com ou sem a presença do paciente, para apoio diagnóstico ou terapêutico. Teleconsultoria, na resolução, é a consultoria entre médicos, gestores e outros profissionais para esclarecer procedimentos administrativos e ações de saúde; telediagnóstico é a emissão de laudo a distância; telemonitoramento acompanha parâmetros de saúde; teletriagem avalia sintomas para direcionar o paciente. No programa Telessaúde Brasil Redes, o mesmo apoio entre profissionais costuma ser chamado de teleconsultoria.",
+  "porAlt": [
+   "Na resolução do CFM, teleconsultoria é apoio entre médicos, gestores e outros profissionais sobre ações de saúde.",
+   "Telediagnóstico é a emissão de laudo de exame a distância por especialista.",
+   "Correta: é a troca de opiniões entre médicos sobre um paciente, com ou sem a presença dele.",
+   "Telemonitoramento é o acompanhamento a distância de parâmetros de saúde.",
+   "Teletriagem é a avaliação a distância de sintomas para direcionar a assistência."
+  ]
+ },
+ {
+  "q": "Uma paciente de 60 anos com diabetes é convidada pela UBS a realizar o retorno trimestral por teleconsulta. Ela diz que prefere ser atendida presencialmente, pois não se sente à vontade com o vídeo. De acordo com a lei que regulamenta a telessaúde no Brasil, qual afirmação se aplica?",
+  "alts": [
+   "A recusa depende de justificar falta de internet em casa",
+   "A primeira consulta deve ser presencial e as seguintes, remotas",
+   "A recusa exige termo assinado e reagendamento em 30 dias",
+   "Ela pode recusar, com garantia de atendimento presencial",
+   "O médico decide a modalidade, sem depender de consentimento"
+  ],
+  "gab": 3,
+  "tema": "aps",
+  "sub": "telessaúde: Lei 14.510",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 14.510/2022 (telessaúde, altera a Lei 8.080/1990), 2022",
+  "coment": "A Lei 14.510/2022 incluiu a telessaúde na Lei 8.080/1990 e listou seus princípios, entre eles o consentimento livre e informado do paciente e o direito de recusa ao atendimento na modalidade telessaúde, com garantia de atendimento presencial sempre que solicitado. Também assegura a autonomia do profissional para decidir sobre o uso da telessaúde, inclusive na primeira consulta, sem impor obrigatoriedade de que ela seja presencial. A recusa não depende de motivo nem de formalidades adicionais.",
+  "porAlt": [
+   "A recusa independe de justificativa, como falta de acesso à internet.",
+   "A lei não fixa que só a primeira consulta seja presencial nem obriga as seguintes a serem remotas.",
+   "A lei não cria termo de recusa nem prazo de reagendamento.",
+   "Correta: a lei garante o direito de recusa e o atendimento presencial quando solicitado.",
+   "A autonomia médica não dispensa o consentimento livre e informado do paciente."
+  ]
+ },
+ {
+  "q": "A Política Nacional de Atenção Básica de 2017 distingue princípios e diretrizes do SUS e das Redes de Atenção a serem operacionalizados na Atenção Básica. Qual conjunto corresponde aos princípios?",
+  "alts": [
+   "Regionalização, hierarquização e territorialização",
+   "Universalidade, equidade e integralidade",
+   "Longitudinalidade, coordenação do cuidado e resolutividade",
+   "População adscrita, cuidado centrado na pessoa e participação",
+   "Descentralização, ordenação da rede e resolutividade"
+  ],
+  "gab": 1,
+  "tema": "aps",
+  "sub": "princípios e diretrizes da PNAB",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Atenção Básica (Portaria 2.436/2017, consolidada na Portaria de Consolidação 2/2017), 2017",
+  "coment": "A PNAB 2017 define como princípios a universalidade, a equidade e a integralidade. As diretrizes são regionalização e hierarquização, territorialização, população adscrita, cuidado centrado na pessoa, resolutividade, longitudinalidade do cuidado, coordenação do cuidado, ordenação da rede e participação da comunidade. A distinção é cobrada com frequência: atributos como longitudinalidade e coordenação aparecem na política como diretrizes, e não como princípios.",
+  "porAlt": [
+   "São diretrizes organizativas da PNAB 2017, não princípios.",
+   "Correta: são os três princípios definidos pela PNAB 2017.",
+   "Constam da PNAB 2017 como diretrizes da Atenção Básica.",
+   "São diretrizes da PNAB 2017 voltadas à organização do cuidado.",
+   "Ordenação da rede e resolutividade são diretrizes; descentralização é diretriz do SUS."
+  ]
+ },
+ {
+  "q": "Uma equipe de Saúde da Família analisa os dados do território e identifica alta proporção de adolescentes grávidas em uma microárea. Em parceria com a escola, o conselho local de saúde e lideranças comunitárias, planeja ações de educação sexual e amplia o acesso a contraceptivos no próprio bairro. Segundo Starfield, qual atributo da APS orienta essa ação?",
+  "alts": [
+   "Competência cultural",
+   "Orientação familiar",
+   "Integralidade do cuidado",
+   "Orientação comunitária",
+   "Coordenação do cuidado"
+  ],
+  "gab": 3,
+  "tema": "aps",
+  "sub": "atributos derivados",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Starfield B. Atenção primária: equilíbrio entre necessidades de saúde, serviços e tecnologia. UNESCO/Ministério da Saúde, 2002",
+  "coment": "Orientação comunitária é o atributo derivado em que a equipe reconhece as necessidades de saúde da comunidade a partir de dados epidemiológicos e do contato direto com ela, planejando e avaliando ações conjuntas no território. O caso reúne os elementos típicos: diagnóstico de um problema coletivo, participação de atores locais e intervenção intersetorial. Orientação familiar foca a família de cada pessoa atendida; competência cultural, a adaptação do cuidado a características culturais de grupos específicos.",
+  "porAlt": [
+   "Competência cultural envolve adaptar o cuidado a valores e crenças de grupos específicos.",
+   "Orientação familiar foca o contexto de cada família, não o problema coletivo do território.",
+   "Integralidade é a oferta ampla de serviços, não o planejamento a partir de dados da comunidade.",
+   "Correta: a equipe parte de dados do território e age com a própria comunidade.",
+   "Coordenação integra informações sobre o cuidado de cada pessoa entre serviços."
+  ]
+ },
+ {
+  "q": "Na implantação de uma nova equipe de Saúde da Família, o gestor municipal pergunta qual é a composição mínima exigida pela Política Nacional de Atenção Básica de 2017. Qual é essa composição?",
+  "alts": [
+   "Médico, enfermeiro, técnico de enfermagem, ACS e cirurgião-dentista",
+   "Médico, enfermeiro, auxiliar ou técnico de enfermagem e ACS",
+   "Médico, enfermeiro, ACS e agente de combate às endemias",
+   "Médico, enfermeiro, técnico de enfermagem e psicólogo",
+   "Médico, enfermeiro, técnico de enfermagem e assistente social"
+  ],
+  "gab": 1,
+  "tema": "aps",
+  "sub": "composição da eSF",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Atenção Básica (Portaria 2.436/2017, consolidada na Portaria de Consolidação 2/2017), 2017",
+  "coment": "A PNAB 2017 define como composição mínima da eSF o médico, preferencialmente especialista em Medicina de Família e Comunidade, o enfermeiro, preferencialmente especialista em Saúde da Família, o auxiliar ou técnico de enfermagem e o agente comunitário de saúde. Podem fazer parte da equipe o agente de combate às endemias e os profissionais de saúde bucal, que compõem equipe própria. Psicólogo e assistente social atuam nas equipes multiprofissionais de apoio, hoje a eMulti.",
+  "porAlt": [
+   "A saúde bucal pode integrar a equipe, mas não faz parte da composição mínima da eSF.",
+   "Correta: é a composição mínima definida pela PNAB 2017.",
+   "Falta a enfermagem de nível médio e o agente de endemias é opcional.",
+   "O psicólogo atua na equipe multiprofissional, não na composição mínima da eSF.",
+   "O assistente social integra a eMulti, e o ACS é obrigatório na eSF."
+  ]
+ },
+ {
+  "q": "Em um sistema de saúde, a pessoa só consegue consulta com especialista focal mediante encaminhamento da equipe de atenção primária, que é a porta de entrada preferencial para cada novo problema. Segundo Starfield, essa função de filtro relaciona-se principalmente a qual atributo?",
+  "alts": [
+   "Longitudinalidade do cuidado",
+   "Coordenação do cuidado",
+   "Orientação familiar",
+   "Integralidade do cuidado",
+   "Acesso de primeiro contato"
+  ],
+  "gab": 4,
+  "tema": "aps",
+  "sub": "atributos de Starfield",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Starfield B. Atenção primária: equilíbrio entre necessidades de saúde, serviços e tecnologia. UNESCO/Ministério da Saúde, 2002",
+  "coment": "Acesso de primeiro contato é a acessibilidade e o uso do serviço de atenção primária a cada novo problema ou novo episódio de um problema. A função de filtro (gatekeeper), em que o acesso ao especialista depende do encaminhamento, é a expressão organizativa desse atributo. Para que funcione, o serviço precisa ser acessível em horário, localização e tempo de espera; sem isso, as pessoas buscam diretamente emergências e especialistas. Coordenação entra depois, ao integrar o que foi feito nos outros pontos.",
+  "porAlt": [
+   "Longitudinalidade é a relação contínua ao longo do tempo, não o filtro de acesso.",
+   "Coordenação integra informações após o encaminhamento, mas não define a porta de entrada.",
+   "Orientação familiar considera o contexto da família no cuidado.",
+   "Integralidade se refere ao leque de serviços disponíveis ou garantidos.",
+   "Correta: a APS como porta de entrada a cada novo problema é o acesso de primeiro contato."
+  ]
+ },
+ {
+  "q": "Homem de 48 anos, pedreiro, consulta por lombalgia há 3 semanas. O médico pergunta: o que o senhor acha que está causando essa dor? O que mais o preocupa nela? Como a dor tem atrapalhado o trabalho e a vida em casa? O que espera desta consulta? No método clínico centrado na pessoa, essas perguntas pertencem a qual componente?",
+  "alts": [
+   "Explorando a saúde, a doença e a experiência da doença",
+   "Entendendo a pessoa como um todo e seu contexto",
+   "Elaborando um plano conjunto de manejo",
+   "Intensificando a relação entre a pessoa e o médico",
+   "Incorporando prevenção e promoção da saúde"
+  ],
+  "gab": 0,
+  "tema": "ferramentas",
+  "sub": "método clínico centrado na pessoa",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Stewart M et al. Medicina centrada na pessoa: transformando o método clínico, 3ª ed. Artmed, 2017",
+  "coment": "No primeiro componente do método clínico centrado na pessoa, o médico explora a doença (história, exame, exames) e a experiência da doença, organizada em quatro dimensões: sentimentos (o que preocupa), ideias (o que acha que tem), funcionalidade (como afeta a vida diária) e expectativas (o que espera do atendimento). As perguntas do caso cobrem as quatro. Na 3ª edição, o método passou de seis para quatro componentes; incorporar prevenção e promoção e ser realista deixaram de ser componentes autônomos.",
+  "porAlt": [
+   "Correta: ideias, sentimentos, funcionalidade e expectativas compõem a experiência da doença.",
+   "Esse componente aborda a pessoa, seu ciclo de vida e o contexto próximo e remoto.",
+   "Esse componente busca terreno comum sobre problemas, metas e papéis.",
+   "Esse componente trata do vínculo e do uso terapêutico da relação.",
+   "Prevenção e promoção eram componente nas edições antigas e saíram na 3ª edição."
+  ]
+ },
+ {
+  "q": "Mulher de 56 anos com diabetes tipo 2 e hemoglobina glicada de 9,1% recusa iniciar insulina neste momento. O médico e a paciente conversam, definem como prioridade reduzir refrigerantes e caminhar, fixam meta de glicada em 3 meses e combinam o que cabe a cada um. No método clínico centrado na pessoa, quais elementos compõem esse terreno comum?",
+  "alts": [
+   "Sentimentos, ideias, funcionalidade e expectativas da pessoa",
+   "Contexto próximo e remoto da pessoa e do seu adoecimento",
+   "Definição conjunta de problemas, metas e papéis de cada um",
+   "Uso da relação terapêutica como instrumento de cuidado",
+   "Prescrição da terapia de maior eficácia segundo a diretriz"
+  ],
+  "gab": 2,
+  "tema": "ferramentas",
+  "sub": "método clínico centrado na pessoa",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Stewart M et al. Medicina centrada na pessoa: transformando o método clínico, 3ª ed. Artmed, 2017",
+  "coment": "O terceiro componente do método, elaborando um plano conjunto de manejo dos problemas, busca terreno comum em três áreas: definição dos problemas e prioridades, estabelecimento de metas do tratamento e definição dos papéis da pessoa e do médico. Respeitar a recusa momentânea da insulina, negociar metas e revisar em prazo definido é aplicação direta. Sentimentos, ideias, funcionalidade e expectativas pertencem ao primeiro componente; o contexto, ao segundo; a relação terapêutica, ao quarto.",
+  "porAlt": [
+   "Esses elementos descrevem a experiência da doença, do primeiro componente.",
+   "O contexto próximo e remoto integra o componente entendendo a pessoa como um todo.",
+   "Correta: problemas, metas e papéis são as três áreas do terreno comum.",
+   "A relação terapêutica é o foco do quarto componente do método.",
+   "Impor a melhor terapia sem negociação contraria a construção de terreno comum."
+  ]
+ },
+ {
+  "q": "Ao revisar o genograma de uma família, o residente de Medicina de Família observa que a linha de união entre os pais da paciente índice está cortada por dois traços transversais. Segundo a notação padronizada de McGoldrick, o que esse símbolo representa?",
+  "alts": [
+   "Separação do casal",
+   "União consensual",
+   "Relação conflituosa",
+   "Viuvez de um dos cônjuges",
+   "Divórcio do casal"
+  ],
+  "gab": 4,
+  "tema": "ferramentas",
+  "sub": "genograma: símbolos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "McGoldrick M, Gerson R, Petry S. Genogramas: avaliação e intervenção familiar, 3ª ed. Artmed, 2012",
+  "coment": "Na notação de McGoldrick, a linha de união do casal é contínua no casamento e tracejada na união não formalizada. Um traço transversal indica separação e dois traços, divórcio. O óbito é marcado por um X dentro do símbolo da pessoa, e o paciente índice por linha dupla no contorno. Padrões de relação, como conflito (linha em zigue-zague) ou fusão (linhas múltiplas), são desenhados em traçados próprios. Recomenda-se representar ao menos três gerações.",
+  "porAlt": [
+   "A separação é marcada por um único traço transversal na linha de união.",
+   "A união consensual é representada por linha tracejada entre os parceiros.",
+   "Conflito é desenhado com linha em zigue-zague entre os membros.",
+   "A morte de um cônjuge é indicada por um X dentro do símbolo da pessoa.",
+   "Correta: dois traços cortando a linha de união indicam divórcio."
+  ]
+ },
+ {
+  "q": "Um residente prepara o genograma de uma família acompanhada pela equipe para discutir o caso de um adolescente com uso abusivo de álcool. O preceptor revisa o desenho e corrige pontos de técnica. Qual orientação está de acordo com a construção padronizada do genograma?",
+  "alts": [
+   "Representar homens por círculos e mulheres por quadrados",
+   "Dispor os filhos do mais novo, à esquerda, ao mais velho",
+   "Incluir ao menos três gerações e destacar a pessoa índice",
+   "Limitar o desenho aos parentes que vivem no mesmo domicílio",
+   "Marcar os falecidos com um triângulo no lugar do símbolo"
+  ],
+  "gab": 2,
+  "tema": "ferramentas",
+  "sub": "genograma: construção",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "McGoldrick M, Gerson R, Petry S. Genogramas: avaliação e intervenção familiar, 3ª ed. Artmed, 2012",
+  "coment": "O genograma representa a estrutura familiar em pelo menos três gerações, com a pessoa índice destacada por linha dupla. Homens são quadrados e mulheres, círculos; filhos ficam em ordem de nascimento, do mais velho à esquerda ao mais novo à direita; óbitos recebem um X dentro do símbolo; gestações e perdas gestacionais usam triângulos ou pequenos círculos. Pessoas que vivem no mesmo domicílio são circundadas por linha pontilhada, mas parentes que vivem fora também entram, pois padrões transgeracionais, como o uso de álcool, são parte do objetivo.",
+  "porAlt": [
+   "A convenção é o inverso: quadrado para homens e círculo para mulheres.",
+   "Os filhos são ordenados do mais velho, à esquerda, para o mais novo, à direita.",
+   "Correta: três gerações e destaque da pessoa índice são regras básicas do genograma.",
+   "Parentes de outros domicílios entram, pois mostram padrões transgeracionais.",
+   "O óbito é marcado por um X dentro do símbolo, e o triângulo indica gestação."
+  ]
+ },
+ {
+  "q": "A equipe desenha, com a família de uma criança com paralisia cerebral, um diagrama com o domicílio no centro e círculos externos para escola, CRAS, igreja, UBS e trabalho do pai. A linha até a igreja é grossa e contínua, até o trabalho do pai é em zigue-zague e até a UBS é tracejada. Como se interpreta a linha tracejada até a UBS?",
+  "alts": [
+   "Vínculo forte e de apoio",
+   "Vínculo fraco ou tênue",
+   "Relação estressante",
+   "Fluxo de energia unidirecional",
+   "Rompimento da relação"
+  ],
+  "gab": 1,
+  "tema": "ferramentas",
+  "sub": "ecomapa",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Gusso G, Lopes JMC, Dias LC (org.). Tratado de Medicina de Família e Comunidade, 2ª ed. Artmed, 2019",
+  "coment": "O ecomapa representa as relações da família com pessoas, grupos e instituições do meio externo, complementando o genograma, que mostra a estrutura interna. Por convenção, linha contínua grossa indica vínculo forte; linha tracejada, vínculo fraco ou tênue; linha em zigue-zague ou cortada, relação estressante ou conflituosa; setas mostram a direção do fluxo de energia e recursos. No caso, a ligação frágil com a UBS é um achado de interesse direto para a equipe, que pode agir para fortalecê-la.",
+  "porAlt": [
+   "Vínculo forte é desenhado com linha contínua e espessa, como a da igreja.",
+   "Correta: a linha tracejada indica vínculo fraco ou tênue com o serviço.",
+   "Relação estressante é desenhada em zigue-zague, como a do trabalho do pai.",
+   "O sentido do fluxo de energia é indicado por setas, não pelo tipo de traço.",
+   "Não há símbolo de rompimento no caso; a relação com a UBS existe, mas é frágil."
+  ]
+ },
+ {
+  "q": "Casal de 46 e 44 anos procura a médica de família porque a filha de 15 anos passou a sair à noite com amigos, contesta horários e se recusa a acompanhar a família nos fins de semana. Ao mesmo tempo, a avó materna começou a precisar de ajuda nas atividades diárias. Segundo Carter e McGoldrick, qual tarefa caracteriza o estágio em que essa família se encontra?",
+  "alts": [
+   "Comprometer-se com um novo sistema e realinhar laços com as famílias de origem",
+   "Ajustar o sistema conjugal para abrir espaço aos filhos que chegam",
+   "Aceitar múltiplas saídas e entradas no sistema familiar",
+   "Flexibilizar fronteiras para permitir a independência do adolescente",
+   "Aceitar a mudança de papéis geracionais e lidar com perdas"
+  ],
+  "gab": 3,
+  "tema": "ferramentas",
+  "sub": "ciclo de vida familiar",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Carter B, McGoldrick M. As mudanças no ciclo de vida familiar: uma estrutura para a terapia familiar, 2ª ed. Artmed, 1995",
+  "coment": "No estágio de famílias com adolescentes, a tarefa central é aumentar a flexibilidade das fronteiras familiares para permitir a crescente independência dos filhos, mantendo o cuidado. Associam-se a ele o novo foco nas questões conjugais e profissionais da meia-idade e o início da mudança para cuidar da geração mais velha, exatamente o que ocorre com a avó. Comprometer-se com novo sistema é do novo casal; abrir espaço para filhos, da família com filhos pequenos; aceitar saídas e entradas, do lançamento dos filhos; mudar papéis geracionais, do estágio tardio.",
+  "porAlt": [
+   "É tarefa do estágio de união pelo casamento, a formação do novo casal.",
+   "É tarefa da família com filhos pequenos, que precisa acolher novos membros.",
+   "É tarefa do estágio de lançamento dos filhos, quando eles saem de casa.",
+   "Correta: flexibilizar fronteiras para a autonomia do adolescente define esse estágio.",
+   "É tarefa da família no estágio tardio da vida."
+  ]
+ },
+ {
+  "q": "Após o AVC do pai, os três filhos adultos passam a discutir com frequência sobre quem decide o uso do dinheiro da aposentadoria, a contratação de cuidadora e a ida a especialistas. O filho mais velho tomou para si as decisões e as irmãs se sentem desautorizadas. No modelo FIRO, de Schutz, essa tensão se situa principalmente em qual dimensão?",
+  "alts": [
+   "Controle",
+   "Inclusão",
+   "Intimidade",
+   "Comunicação",
+   "Coesão"
+  ],
+  "gab": 0,
+  "tema": "ferramentas",
+  "sub": "modelo FIRO",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Schutz WC. FIRO: a three-dimensional theory of interpersonal behavior, 1958; Doherty WJ, Baird MA. Family therapy and family medicine, 1983",
+  "coment": "O modelo FIRO (Fundamental Interpersonal Relations Orientation), adaptado por Doherty e Baird para a medicina de família, avalia três dimensões: inclusão (pertencimento, quem faz parte e com que papel), controle (poder, influência e tomada de decisão) e intimidade (abertura e troca de sentimentos). Em crises como o adoecimento grave de um membro, a família costuma reorganizar papéis, poder e proximidade. A disputa sobre quem decide finanças e tratamento é tensão típica de controle. Comunicação e coesão são conceitos de outros modelos.",
+  "porAlt": [
+   "Correta: a disputa sobre quem decide é tensão na dimensão de controle.",
+   "Inclusão trata de pertencimento e papéis, não da disputa pelo poder de decisão.",
+   "Intimidade envolve abertura emocional e troca de afeto entre os membros.",
+   "Comunicação é dimensão de outros instrumentos, como o PRACTICE, e não do FIRO.",
+   "Coesão é conceito de modelos como o circumplexo de Olson, não do FIRO."
+  ]
+ },
+ {
+  "q": "Uma médica de família organiza uma conferência familiar com a família de um idoso com insuficiência cardíaca avançada e usa o instrumento PRACTICE para estruturar a avaliação. Nesse acrônimo, a que se refere a letra T?",
+  "alts": [
+   "Tratamentos já tentados pela família",
+   "Tipo de estrutura e papéis familiares",
+   "Momento do ciclo de vida familiar",
+   "Temores e afetos expressos na reunião",
+   "Tensões com o ambiente e a rede social"
+  ],
+  "gab": 2,
+  "tema": "ferramentas",
+  "sub": "instrumento PRACTICE",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Gusso G, Lopes JMC, Dias LC (org.). Tratado de Medicina de Família e Comunidade, 2ª ed. Artmed, 2019",
+  "coment": "O PRACTICE é instrumento de avaliação familiar focado no problema, útil em conferências familiares. Suas letras correspondem a: Presenting problem (problema apresentado), Roles and structure (papéis e estrutura), Affect (afeto), Communication (comunicação), Time in life cycle (momento do ciclo de vida), Illness in family (doenças na família, passadas e atuais), Coping with stress (enfrentamento do estresse) e Ecology (meio ambiente e rede de apoio). O T, portanto, situa a família no ciclo de vida.",
+  "porAlt": [
+   "Não há item sobre tratamentos prévios; doenças na família ficam no I.",
+   "Estrutura e papéis correspondem ao R do acrônimo.",
+   "Correta: T vem de time in life cycle, o momento do ciclo de vida.",
+   "Afetos correspondem ao A do acrônimo.",
+   "Ambiente e rede de apoio correspondem ao E, de ecology."
+  ]
+ },
+ {
+  "q": "Mulher de 38 anos responde ao APGAR familiar de Smilkstein: quase sempre satisfeita com a ajuda que recebe da família (adaptação); algumas vezes com o modo como a família discute os problemas (participação); algumas vezes com o apoio a novos projetos (crescimento); algumas vezes com a expressão de afeto (afeição); quase nunca com o tempo compartilhado (resolução). Como se interpreta o resultado?",
+  "alts": [
+   "Moderada disfunção familiar",
+   "Família altamente funcional",
+   "Acentuada disfunção familiar",
+   "Funcionalidade limítrofe, sem disfunção",
+   "Disfunção que exige terapia familiar"
+  ],
+  "gab": 0,
+  "tema": "ferramentas",
+  "sub": "APGAR familiar",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Smilkstein G. The family APGAR: a proposal for a family function test and its use by physicians. J Fam Pract, 1978",
+  "coment": "O APGAR familiar tem cinco itens (adaptação, participação, crescimento, afeição e resolução), cada um pontuado em 2 (quase sempre), 1 (algumas vezes) ou 0 (quase nunca). Aqui a soma é 2 + 1 + 1 + 1 + 0 = 5. A interpretação usual é: 7 a 10, família funcional; 4 a 6, moderada disfunção; 0 a 3, acentuada disfunção. O resultado reflete a percepção de um membro e orienta a abordagem familiar, sem indicar por si só terapia especializada.",
+  "porAlt": [
+   "Correta: 5 pontos situam-se na faixa de 4 a 6, de moderada disfunção.",
+   "Boa funcionalidade exige de 7 a 10 pontos.",
+   "Acentuada disfunção corresponde a 0 a 3 pontos.",
+   "O instrumento não tem faixa limítrofe sem disfunção entre 4 e 6.",
+   "O escore orienta a abordagem pela equipe e não indica por si só terapia especializada."
+  ]
+ },
+ {
+  "q": "Um residente registra no prontuário: S: cefaleia occipital há 3 dias, acha que é da pressão. O: PA 158 x 96 mmHg; refere tomar o anti-hipertensivo só quando sente dor de cabeça. A: hipertensão não controlada, provável uso irregular. P: orientar uso diário, retorno em 2 semanas. Qual ajuste torna esse registro SOAP adequado?",
+  "alts": [
+   "Mover a hipótese de uso irregular para o Objetivo",
+   "Mover a pressão aferida para a Avaliação",
+   "Mover a crença sobre a cefaleia para a Avaliação",
+   "Mover o relato sobre o uso do remédio para o Subjetivo",
+   "Mover a orientação de uso diário para o Subjetivo"
+  ],
+  "gab": 3,
+  "tema": "ferramentas",
+  "sub": "registro SOAP",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Weed LL. Medical records that guide and teach. N Engl J Med, 1968",
+  "coment": "No registro clínico orientado por problemas, proposto por Weed, o SOAP separa o Subjetivo (o que a pessoa relata: queixas, percepções, crenças, uso de medicamentos), o Objetivo (dados do exame físico e de exames), a Avaliação (interpretação do profissional, hipóteses e situação do problema) e o Plano (condutas diagnósticas, terapêuticas e educativas). O modo como a pessoa diz usar o remédio é relato, logo pertence ao Subjetivo, ainda que relevante para a avaliação da adesão.",
+  "porAlt": [
+   "A hipótese é interpretação do profissional e já está corretamente na Avaliação.",
+   "A pressão aferida é dado objetivo e está no campo certo.",
+   "O que a pessoa pensa sobre a dor é relato e fica no Subjetivo.",
+   "Correta: o relato sobre o uso do remédio é informação subjetiva.",
+   "A orientação é conduta e pertence ao Plano."
+  ]
+ },
+ {
+  "q": "Uma médica de família registra no e-SUS APS o código K86 da Classificação Internacional de Atenção Primária, segunda edição, para hipertensão sem complicações. Na estrutura da CIAP-2, os números de 70 a 99 de cada capítulo correspondem a qual componente?",
+  "alts": [
+   "Sintomas e queixas",
+   "Procedimentos preventivos",
+   "Resultados de exames",
+   "Medicações e tratamentos",
+   "Diagnósticos ou doenças"
+  ],
+  "gab": 4,
+  "tema": "ferramentas",
+  "sub": "CIAP-2",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "WONCA. Classificação Internacional de Atenção Primária, 2ª ed. (CIAP-2), SBMFC, 2009",
+  "coment": "A CIAP-2 é biaxial: 17 capítulos identificados por letras, a maioria por sistemas (como K, circulatório; R, respiratório; P, psicológico) e um para problemas sociais (Z), cruzados com sete componentes numéricos iguais em todos os capítulos. Os números 1 a 29 são sintomas e queixas; 30 a 49, procedimentos diagnósticos e preventivos; 50 a 59, medicações e procedimentos terapêuticos; 60 e 61, resultados de exames; 62, administrativo; 63 a 69, acompanhamento e outros motivos; 70 a 99, diagnósticos ou doenças. Por isso K86 é um diagnóstico do capítulo circulatório.",
+  "porAlt": [
+   "Sintomas e queixas ocupam os números de 1 a 29.",
+   "Procedimentos diagnósticos e preventivos ocupam os números de 30 a 49.",
+   "Resultados de exames correspondem aos números 60 e 61.",
+   "Medicações e procedimentos terapêuticos ocupam os números de 50 a 59.",
+   "Correta: os números de 70 a 99 são reservados a diagnósticos ou doenças."
+  ]
+ },
+ {
+  "q": "Mulher de 41 anos procura a UBS sem queixa física: perdeu o emprego, está com o aluguel atrasado e não dorme bem há duas semanas, sem critérios para transtorno mental. A médica de família opta por codificar o atendimento pela CIAP-2 em vez da CID-10. Qual característica da CIAP-2 justifica essa escolha?",
+  "alts": [
+   "Exigir diagnóstico nosológico confirmado antes de qualquer codificação",
+   "Codificar o motivo da consulta pela visão da pessoa, inclusive problemas sociais",
+   "Classificar o atendimento pelo grupo de procedimentos da tabela SIGTAP",
+   "Substituir a lista de problemas por um código único por consulta",
+   "Restringir o registro às doenças de notificação compulsória"
+  ],
+  "gab": 1,
+  "tema": "ferramentas",
+  "sub": "CIAP-2",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "WONCA. Classificação Internacional de Atenção Primária, 2ª ed. (CIAP-2), SBMFC, 2009",
+  "coment": "A CIAP-2 foi criada para a atenção primária e permite codificar três elementos do episódio de cuidado: o motivo da consulta, como a pessoa o apresenta, os problemas identificados pelo profissional e as intervenções. Como muitos problemas na APS não chegam a diagnóstico nosológico, ela codifica sintomas, queixas e problemas sociais, estes no capítulo Z (por exemplo, problemas de pobreza ou de emprego). A CID-10 é centrada em doenças e é menos adequada para registrar o que acontece na consulta de atenção primária.",
+  "porAlt": [
+   "A CIAP-2 dispensa diagnóstico fechado e permite codificar sintomas e queixas.",
+   "Correta: ela registra o motivo da consulta e tem capítulo próprio para problemas sociais.",
+   "A tabela SIGTAP é de procedimentos para faturamento, não a CIAP-2.",
+   "A CIAP-2 alimenta a lista de problemas e não a substitui.",
+   "Ela não se restringe a agravos de notificação, abrangendo todo motivo de consulta."
+  ]
+ },
+ {
+  "q": "Um médico de família precisa informar a um homem de 63 anos o resultado da biópsia que confirmou adenocarcinoma gástrico. Já garantiu uma sala reservada, com a esposa presente, e desligou o telefone. Em seguida pergunta: o que o senhor entendeu até agora sobre os exames que fez? Segundo o protocolo SPIKES, qual etapa ele realiza com essa pergunta?",
+  "alts": [
+   "Preparação do ambiente",
+   "Percepção do paciente",
+   "Convite à informação",
+   "Transmissão do conhecimento",
+   "Resposta às emoções"
+  ],
+  "gab": 1,
+  "tema": "ferramentas",
+  "sub": "más notícias: SPIKES",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Baile WF et al. SPIKES: a six-step protocol for delivering bad news. Oncologist, 2000",
+  "coment": "O SPIKES organiza a comunicação de más notícias em seis etapas: Setting (preparar o ambiente e a si mesmo), Perception (avaliar o que a pessoa já sabe ou suspeita), Invitation (saber quanto ela quer saber), Knowledge (transmitir a informação em linguagem simples e em partes), Emotions (acolher as emoções com respostas empáticas) e Strategy and Summary (planejar os próximos passos e resumir). Perguntar o que ele já entendeu dos exames é a etapa de percepção, que vem depois de garantir o ambiente adequado.",
+  "porAlt": [
+   "A preparação do ambiente já foi feita ao reservar a sala e desligar o telefone.",
+   "Correta: perguntar o que a pessoa já sabe é a etapa de percepção.",
+   "O convite investiga quanto de informação a pessoa deseja receber.",
+   "A transmissão do conhecimento é a comunicação do diagnóstico em si.",
+   "A resposta às emoções acolhe as reações após a notícia."
+  ]
+ },
+ {
+  "q": "Após receber o diagnóstico de câncer de mama com metástases ósseas, uma mulher de 54 anos fica em silêncio e começa a chorar. A médica de família está diante da etapa de emoções do protocolo SPIKES. Qual é a conduta mais adequada nesse momento?",
+  "alts": [
+   "Prosseguir com as opções de tratamento para oferecer esperança logo",
+   "Atenuar a gravidade do diagnóstico para reduzir o sofrimento",
+   "Encerrar a consulta e marcar nova conversa para outro dia",
+   "Pedir que o acompanhante receba o restante das informações",
+   "Aguardar, nomear a emoção e responder com empatia antes de seguir"
+  ],
+  "gab": 4,
+  "tema": "ferramentas",
+  "sub": "más notícias: SPIKES",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Baile WF et al. SPIKES: a six-step protocol for delivering bad news. Oncologist, 2000",
+  "coment": "Na etapa de emoções, o profissional observa a reação, identifica a emoção, reconhece sua causa e responde de forma empática, por exemplo: vejo que essa notícia é muito difícil para a senhora. O silêncio respeitoso faz parte da resposta. Seguir para opções de tratamento enquanto a pessoa ainda está tomada pela emoção reduz a compreensão do que é dito. Atenuar a gravidade é desonesto; encerrar abruptamente ou transferir a conversa ao acompanhante rompem o vínculo e a autonomia da paciente.",
+  "porAlt": [
+   "Avançar para o tratamento antes de acolher a emoção prejudica a compreensão.",
+   "Minimizar o diagnóstico fere a veracidade e compromete decisões futuras.",
+   "Encerrar abruptamente deixa a pessoa sozinha no pior momento da notícia.",
+   "Transferir a informação ao acompanhante desrespeita a autonomia da paciente.",
+   "Correta: acolher com silêncio, nomear a emoção e responder com empatia é a conduta da etapa."
+  ]
+ },
+ {
+  "q": "Mulher de 32 anos consulta por cansaço, mal-estar e desconforto abdominal difuso leve há 5 dias. Não tem febre, perda de peso, sangramentos, vômitos nem alteração do hábito intestinal. O exame físico é normal e ela está tranquila quanto ao quadro. A médica conhece a paciente há anos e há retorno fácil na unidade. Qual é a melhor conduta?",
+  "alts": [
+   "Usar a demora permitida, com sinais de alarme e retorno combinado",
+   "Solicitar endoscopia digestiva alta e ultrassonografia de abdome total",
+   "Encaminhar ao gastroenterologista para investigação ambulatorial",
+   "Prescrever inibidor de bomba de prótons por oito semanas e dar alta",
+   "Tranquilizar e dar alta sem retorno, pois o exame físico é normal"
+  ],
+  "gab": 0,
+  "tema": "ferramentas",
+  "sub": "demora permitida",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Gusso G, Lopes JMC, Dias LC (org.). Tratado de Medicina de Família e Comunidade, 2ª ed. Artmed, 2019",
+  "coment": "Na APS, muitos problemas chegam em fase precoce e indiferenciada, sem diagnóstico definido. Na ausência de sinais de alarme, com exame normal e vínculo que garanta seguimento, o tempo funciona como instrumento diagnóstico: boa parte dos quadros se resolve sozinha e os que persistem se definem. A demora permitida exige orientar sinais de alarme e combinar reavaliação. Exames e encaminhamentos precoces em baixa probabilidade pré-teste geram falsos positivos, cascatas e iatrogenia; dar alta sem retorno ignora o risco de evolução.",
+  "porAlt": [
+   "Correta: sem sinais de alarme e com seguimento garantido, o tempo ajuda a definir o quadro.",
+   "Exames de imagem e endoscopia sem indicação aumentam falsos positivos e cascatas.",
+   "Encaminhar um quadro indiferenciado de 5 dias fragmenta o cuidado sem benefício.",
+   "Tratamento empírico prolongado sem reavaliação não é seguimento adequado.",
+   "A demora permitida exige retorno combinado e orientação de sinais de alarme."
+  ]
+ },
+ {
+  "q": "Homem de 29 anos, assintomático, sem antecedentes familiares relevantes, pede ao médico de família um check-up completo com marcadores tumorais, tomografia de corpo inteiro e teste ergométrico, pois viu a recomendação em uma rede social. O médico explica os riscos de achados falsos positivos e de exames desnecessários e propõe apenas as ações com benefício comprovado. Que nível de prevenção ele aplica?",
+  "alts": [
+   "Prevenção primária",
+   "Prevenção secundária",
+   "Prevenção quaternária",
+   "Prevenção terciária",
+   "Promoção da saúde"
+  ],
+  "gab": 2,
+  "tema": "ferramentas",
+  "sub": "prevenção quaternária",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "WONCA International Classification Committee. International Dictionary for General/Family Practice (prevenção quaternária, Jamoulle), 2003",
+  "coment": "Prevenção quaternária, conceito de Marc Jamoulle incorporado pela WONCA, é o conjunto de ações para identificar pessoas em risco de medicalização excessiva e protegê-las de intervenções desnecessárias ou danosas. Rastreamentos sem evidência em pessoa jovem e assintomática, como marcadores tumorais e tomografia de corpo inteiro, expõem a radiação, falsos positivos, ansiedade e cascatas de procedimentos. A prevenção secundária seria o rastreamento com benefício comprovado, e a terciária, a reabilitação de quem já tem doença estabelecida.",
+  "porAlt": [
+   "A prevenção primária atua antes da doença, como vacinação e controle de fatores de risco.",
+   "A prevenção secundária é a detecção precoce com benefício comprovado, não a contenção de excessos.",
+   "Correta: evitar intervenções desnecessárias e seus danos é prevenção quaternária.",
+   "A prevenção terciária reduz incapacidades em quem já tem doença estabelecida.",
+   "Promoção da saúde atua sobre determinantes amplos, sem foco na contenção de exames."
+  ]
+ },
+ {
+  "q": "Mulher de 78 anos, acompanhada na UBS, perdeu 5 kg no último ano sem intenção, refere que na maior parte da semana sente que tudo exige esforço e tem velocidade de marcha reduzida para sua altura. A força de preensão palmar está dentro do esperado e ela caminha 40 minutos por dia. Pelo fenótipo de fragilidade de Fried, como ela se classifica?",
+  "alts": [
+   "Robusta, pois mantém força de preensão",
+   "Pré-frágil, por ter dois critérios",
+   "Sarcopênica, pela perda de peso",
+   "Frágil, por reunir três critérios",
+   "Pré-frágil, por ter um critério"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "fragilidade na pessoa idosa",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Fried LP et al. Frailty in older adults: evidence for a phenotype. J Gerontol A Biol Sci Med Sci, 2001",
+  "coment": "O fenótipo de Fried tem cinco critérios: perda de peso não intencional (cerca de 4,5 kg ou 5% no último ano), exaustão autorrelatada, fraqueza pela força de preensão, lentidão da marcha e baixo nível de atividade física. Três ou mais critérios definem fragilidade; um ou dois, pré-fragilidade; nenhum, robustez. A paciente tem perda de peso, exaustão e lentidão, logo é frágil, mesmo com força e atividade física preservadas. A fragilidade prediz quedas, hospitalização, institucionalização e morte, e orienta o cuidado na APS.",
+  "porAlt": [
+   "Preservar a força não anula os três critérios presentes.",
+   "A contagem está errada: ela reúne três critérios, não dois.",
+   "Sarcopenia é conceito distinto e não é categoria do fenótipo de Fried.",
+   "Correta: perda de peso, exaustão e lentidão somam três critérios.",
+   "Um critério isolado definiria pré-fragilidade, o que não é o caso."
+  ]
+ },
+ {
+  "q": "Homem de 80 anos toma banho, veste-se, alimenta-se e vai ao banheiro sem ajuda. Porém, a filha relata que ele deixou de controlar o próprio dinheiro, esquece as doses dos remédios e não consegue mais usar o ônibus sozinho. Na avaliação multidimensional da pessoa idosa, qual instrumento quantifica melhor essas perdas?",
+  "alts": [
+   "Índice de Katz",
+   "Escala de Barthel",
+   "Escala de Tinetti",
+   "Escala de Lawton",
+   "Miniexame do estado mental"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "avaliação multidimensional",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica 19: Envelhecimento e saúde da pessoa idosa, 2006",
+  "coment": "As atividades instrumentais de vida diária (manejar dinheiro, usar medicamentos, usar transporte, fazer compras, usar telefone, preparar refeições, cuidar da casa) são avaliadas pela escala de Lawton e costumam ser perdidas antes das atividades básicas. As básicas (banho, vestir, higiene, transferência, continência, alimentação) são avaliadas pelo índice de Katz ou pela escala de Barthel. Tinetti avalia equilíbrio e marcha. O miniexame rastreia déficit cognitivo, que pode estar por trás da perda funcional e merece investigação, mas não mede a funcionalidade em si.",
+  "porAlt": [
+   "Katz mede atividades básicas, que estão preservadas no caso.",
+   "Barthel também avalia atividades básicas de vida diária.",
+   "Tinetti avalia equilíbrio e marcha, com foco no risco de quedas.",
+   "Correta: Lawton mede atividades instrumentais, como dinheiro, remédios e transporte.",
+   "O miniexame rastreia cognição, mas não quantifica a perda funcional."
+  ]
+ },
+ {
+  "q": "Mulher de 74 anos, com 3 anos de escolaridade, é avaliada na UBS por queixa de esquecimento relatada pela filha. Obtém 23 pontos no miniexame do estado mental. Considerando os pontos de corte por escolaridade de Brucki e colaboradores, como interpretar o resultado?",
+  "alts": [
+   "Normal, acima do corte de 20 usado para analfabetos",
+   "Normal, acima do corte geral de 18 pontos",
+   "Alterado, abaixo do corte de 25 para 1 a 4 anos",
+   "Diagnóstico de demência, por escore abaixo de 24",
+   "Inconclusivo, pois o teste não se aplica a quem estudou pouco"
+  ],
+  "gab": 2,
+  "tema": "grupos",
+  "sub": "rastreio cognitivo",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Brucki SMD et al. Sugestões para o uso do mini-exame do estado mental no Brasil. Arq Neuropsiquiatr, 2003",
+  "coment": "O miniexame do estado mental depende fortemente da escolaridade. Pelos pontos de corte de Brucki e colaboradores, usados no Brasil: 20 para analfabetos, 25 para 1 a 4 anos de estudo, 26,5 para 5 a 8 anos, 28 para 9 a 11 anos e 29 para mais de 11 anos. Com 3 anos de estudo e 23 pontos, o resultado está abaixo do esperado e indica investigar déficit cognitivo, com avaliação funcional, exames para causas reversíveis e outros testes. O miniexame é rastreio e não fecha diagnóstico de demência.",
+  "porAlt": [
+   "O corte de 20 vale para analfabetos, e ela tem 3 anos de estudo.",
+   "Não há corte geral de 18 pontos aplicável sem ajuste por escolaridade.",
+   "Correta: para 1 a 4 anos de estudo o corte é 25, e ela obteve 23.",
+   "O miniexame é instrumento de rastreio e não confirma demência.",
+   "O teste se aplica a pessoas de baixa escolaridade, com corte ajustado."
+  ]
+ },
+ {
+  "q": "Mulher de 82 anos usa amitriptilina 25 mg à noite há 2 anos, prescrita para insônia. Nos últimos meses teve duas quedas noturnas, constipação, boca seca e episódios de confusão. Não há sintomas depressivos. Pelos Critérios de Beers, qual é a conduta mais adequada?",
+  "alts": [
+   "Associar donepezila para tratar a confusão mental",
+   "Trocar por diazepam em dose baixa ao deitar",
+   "Manter e prescrever protetor de quadril noturno",
+   "Associar haloperidol à noite para a agitação",
+   "Retirar a amitriptilina de forma gradual"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "iatrogenia na pessoa idosa",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American Geriatrics Society. Beers Criteria for potentially inappropriate medication use in older adults, 2023",
+  "coment": "Os Critérios de Beers recomendam evitar antidepressivos tricíclicos terciários, como a amitriptilina, em idosos, pelo forte efeito anticolinérgico, sedação e hipotensão ortostática, que causam confusão, constipação, retenção urinária e quedas. Também recomendam evitar benzodiazepínicos, que aumentam quedas, fraturas e déficit cognitivo, e antipsicóticos para alterações de comportamento sem indicação precisa. A desprescrição gradual evita sintomas de retirada; a insônia deve ser abordada com higiene do sono e terapia cognitivo-comportamental.",
+  "porAlt": [
+   "Acrescentar fármaco para tratar efeito adverso de outro configura cascata de prescrição.",
+   "Benzodiazepínicos também estão entre os medicamentos a evitar em idosos.",
+   "Manter o fármaco ignora a causa das quedas e da confusão.",
+   "Antipsicótico para agitação induzida por fármaco agrava o risco e não trata a causa.",
+   "Correta: suspender gradualmente o tricíclico remove a causa anticolinérgica dos sintomas."
+  ]
+ },
+ {
+  "q": "Na reunião de equipe de uma UBS, discute-se como ampliar o cuidado aos homens adultos do território, que raramente procuram a unidade. Segundo a Política Nacional de Atenção Integral à Saúde do Homem, qual é um dos seus eixos temáticos prioritários?",
+  "alts": [
+   "Rastreamento populacional do câncer de próstata",
+   "Paternidade e cuidado, com pré-natal do parceiro",
+   "Saúde ocupacional restrita ao trabalhador formal",
+   "Atenção exclusiva à disfunção erétil e à andropausa",
+   "Cuidado centrado em homens de 60 anos ou mais"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "saúde do homem",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Atenção Integral à Saúde do Homem (Portaria GM/MS 1.944/2009), 2009",
+  "coment": "A PNAISH organiza suas ações em eixos temáticos: acesso e acolhimento, saúde sexual e saúde reprodutiva, paternidade e cuidado, doenças prevalentes na população masculina e prevenção de violências e acidentes. No eixo de paternidade e cuidado está o pré-natal do parceiro, que usa a gestação como porta de entrada para testagens, vacinação e consulta do homem. A política foi concebida com foco nos homens adultos jovens e de meia-idade, e o Ministério da Saúde não recomenda rastreamento populacional do câncer de próstata.",
+  "porAlt": [
+   "O Ministério da Saúde não recomenda rastreamento populacional do câncer de próstata.",
+   "Correta: paternidade e cuidado é eixo da PNAISH, com o pré-natal do parceiro.",
+   "A política não restringe o cuidado ao trabalhador com vínculo formal.",
+   "A saúde sexual é eixo amplo e não se limita à disfunção erétil.",
+   "A política foi concebida com foco nos homens adultos, não nos idosos."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos, assintomático, sem história familiar de câncer, comparece à UBS pedindo o exame de PSA porque viu uma campanha sobre câncer de próstata. Segundo a orientação do Ministério da Saúde e do INCA, qual é a conduta adequada?",
+  "alts": [
+   "Discutir riscos e benefícios e não indicar rastreamento de rotina",
+   "Solicitar PSA anual a partir dos 50 anos, associado ao toque retal",
+   "Solicitar PSA anual a partir dos 45 anos, por ser homem adulto",
+   "Solicitar ultrassonografia de próstata por via abdominal",
+   "Encaminhar ao urologista para decidir sobre o rastreamento"
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "saúde do homem: próstata",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Instituto Nacional de Câncer (INCA). Detecção precoce do câncer, 2021",
+  "coment": "O Ministério da Saúde e o INCA não recomendam o rastreamento populacional do câncer de próstata em homens assintomáticos, pois as evidências mostram benefício pequeno ou incerto na mortalidade e danos relevantes: sobrediagnóstico, sobretratamento, biópsias, incontinência urinária e disfunção erétil. Quando o homem procura o exame, cabe informar riscos e benefícios e respeitar uma decisão compartilhada. Ultrassonografia não é método de rastreamento e encaminhar ao urologista transfere uma decisão que a APS deve conduzir.",
+  "porAlt": [
+   "Correta: a orientação oficial é não rastrear de rotina e informar sobre riscos e benefícios.",
+   "Rastreamento anual com PSA e toque é recomendação de sociedades de especialistas, não do MS.",
+   "O MS não recomenda rastreamento, e 45 anos não é idade de indicação populacional.",
+   "A ultrassonografia não é método de rastreamento do câncer de próstata.",
+   "A decisão compartilhada sobre rastreamento cabe à própria APS."
+  ]
+ },
+ {
+  "q": "Mulher trans de 26 anos procura a UBS pela primeira vez. Seus documentos ainda trazem o nome civil masculino e ela se apresenta como Valentina. A recepcionista pergunta ao médico como proceder com o cadastro e o chamamento para a consulta. Qual é a conduta correta?",
+  "alts": [
+   "Usar o nome social no chamado e no cadastro, sem exigir retificação",
+   "Usar o nome civil até que ela apresente documento retificado",
+   "Usar o nome social mediante laudo de especialista",
+   "Usar o nome social ao chamar e o civil em todos os registros",
+   "Exigir decisão judicial antes de alterar o cartão SUS"
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "nome social",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Carta dos Direitos dos Usuários da Saúde (Portaria 1.820/2009) e Política Nacional de Saúde Integral LGBT (Portaria 2.836/2011), 2011",
+  "coment": "A Carta dos Direitos dos Usuários da Saúde assegura a identificação pelo nome social, independentemente do registro civil, e o cartão SUS admite o nome social. A Política Nacional de Saúde Integral LGBT reforça o respeito à identidade de gênero no acolhimento. Não se exige retificação documental, laudo ou decisão judicial para usar o nome social; o STF, em 2018, dispensou cirurgia e laudo até para a retificação no cartório. Chamar a pessoa pelo nome civil afasta a população trans dos serviços.",
+  "porAlt": [
+   "Correta: o nome social é direito no SUS e independe de retificação civil.",
+   "Aguardar retificação contraria a Carta dos Direitos dos Usuários da Saúde.",
+   "Não se exige laudo de nenhum especialista para usar o nome social.",
+   "O nome social deve constar também nos registros, como o cartão SUS.",
+   "Não há exigência de decisão judicial para registrar o nome social no SUS."
+  ]
+ },
+ {
+  "q": "Homem trans de 30 anos, em uso de testosterona há 4 anos, mantém útero e colo do útero. Tem vida sexual ativa com parceira cis e nunca fez exame preventivo. Pergunta se precisa fazer rastreamento do câncer do colo do útero. Qual é a orientação correta?",
+  "alts": [
+   "Dispensar o rastreamento, pois a testosterona reduz o risco",
+   "Rastrear se ele tiver parceiros sexuais com pênis",
+   "Substituir o rastreamento por ultrassonografia pélvica anual",
+   "Rastrear como mulheres cis da mesma idade, por manter colo",
+   "Rastrear apenas depois de concluir a cirurgia de afirmação"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "população LGBTQIA+",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Saúde Integral LGBT (Portaria 2.836/2011), 2011; INCA. Diretrizes brasileiras para o rastreamento do câncer do colo do útero, 2016",
+  "coment": "O rastreamento segue a anatomia presente, não a identidade de gênero: homens trans e pessoas não binárias com colo do útero devem ser rastreados pelos mesmos critérios de idade e periodicidade das mulheres cis, com o método vigente no programa. O HPV também se transmite em relações entre pessoas com vulva, e a testosterona não protege; ela pode atrofiar o epitélio e tornar a coleta desconfortável, o que pede abordagem cuidadosa, e não dispensa. Ultrassonografia não rastreia lesões precursoras.",
+  "porAlt": [
+   "A testosterona não reduz o risco de lesão por HPV e pode dificultar a coleta.",
+   "O HPV também se transmite em relações sem pênis, e o critério é a presença do colo.",
+   "A ultrassonografia não detecta lesões precursoras do câncer do colo.",
+   "Correta: quem tem colo do útero segue o rastreamento pelos critérios da população cis.",
+   "Enquanto houver colo, o rastreamento é indicado, sem esperar cirurgia."
+  ]
+ },
+ {
+  "q": "Um município pretende implantar uma equipe de Consultório na Rua composta por enfermeiro, psicólogo, assistente social, técnico de enfermagem, agente social, técnico em saúde bucal e um médico. Segundo as modalidades definidas para essas equipes, em qual modalidade ela se enquadra?",
+  "alts": [
+   "Modalidade I",
+   "Modalidade III",
+   "Modalidade II",
+   "eSF ampliada",
+   "eMulti Estratégica"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Consultório na Rua",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 122/2011 (equipes de Consultório na Rua, consolidada na Portaria de Consolidação 2/2017), 2011",
+  "coment": "As equipes de Consultório na Rua têm três modalidades: modalidade I, com no mínimo quatro profissionais, sendo dois de nível superior e dois de nível médio, excluído o médico; modalidade II, com no mínimo seis profissionais, três de nível superior e três de nível médio, excluído o médico; modalidade III, a modalidade II acrescida de médico. O caso tem três profissionais de nível superior além do médico (enfermeiro, psicólogo, assistente social), três de nível médio e o médico, logo modalidade III. As equipes integram a Atenção Básica e atuam de forma itinerante.",
+  "porAlt": [
+   "A modalidade I tem quatro profissionais, sem médico.",
+   "Correta: seis profissionais, três de nível superior e três de nível médio, mais o médico.",
+   "A modalidade II tem a mesma composição, porém sem o médico.",
+   "Não existe eSF ampliada como tipo de equipe de Consultório na Rua.",
+   "A eMulti Estratégica é equipe multiprofissional de apoio, não Consultório na Rua."
+  ]
+ },
+ {
+  "q": "Homem de 39 anos em situação de rua é abordado pela equipe de Consultório na Rua. Refere tosse produtiva há 8 dias, sem febre aferida. Fuma e usa crack. Está emagrecido, mas sem sinais de gravidade. Segundo o manual brasileiro de controle da tuberculose, qual é a conduta?",
+  "alts": [
+   "Investigar se a tosse durar três semanas ou mais",
+   "Tratar como infecção viral e reavaliar em 15 dias",
+   "Iniciar esquema básico empírico sem coletar escarro",
+   "Internar em hospital de referência para isolamento",
+   "Coletar escarro para TRM-TB, cultura e sensibilidade"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "população em situação de rua",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de recomendações para o controle da tuberculose no Brasil, 2ª ed., 2019",
+  "coment": "Para a população geral, o sintomático respiratório é quem tem tosse por três semanas ou mais. Em populações de maior risco, o manual reduz esse critério: na população em situação de rua, a tosse de qualquer duração já indica investigação. Recomenda-se coletar escarro para teste rápido molecular, cultura e teste de sensibilidade, aproveitando o momento do contato, pois o retorno é incerto. A equipe deve ainda oferecer testagem para HIV e organizar tratamento diretamente observado, articulado com a rede de assistência social.",
+  "porAlt": [
+   "O corte de três semanas vale para a população geral, não para quem vive na rua.",
+   "Adiar a investigação perde a oportunidade de contato e mantém a transmissão.",
+   "O tratamento empírico sem coleta impede confirmar o diagnóstico e a sensibilidade.",
+   "Sem gravidade, a investigação e o tratamento são feitos na APS, sem internação.",
+   "Correta: na rua, tosse de qualquer duração indica coletar escarro com cultura e sensibilidade."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos em situação de rua procura a UBS com ferida infectada no pé. Não tem documento com foto nem comprovante de residência. O vigilante diz que, sem endereço, ela deve procurar o pronto-socorro. Qual é a conduta adequada?",
+  "alts": [
+   "Atender a urgência e adiar o cadastro até haver endereço",
+   "Encaminhar ao pronto-socorro, que não exige comprovante de residência",
+   "Cadastrar e atender, pois a pessoa em situação de rua não precisa de endereço",
+   "Exigir declaração da assistência social antes de qualquer atendimento",
+   "Cadastrar com o endereço da própria UBS e agendar para outro dia"
+  ],
+  "gab": 2,
+  "tema": "grupos",
+  "sub": "população em situação de rua",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria GM/MS 940/2011 (Sistema Cartão Nacional de Saúde); Decreto 7.053/2009 (Política Nacional para a População em Situação de Rua), 2011",
+  "coment": "A regulamentação do Cartão Nacional de Saúde dispensa a exigência de endereço domiciliar para pessoas em situação de rua, e a falta de documentos não pode impedir o atendimento no SUS. A Política Nacional para a População em Situação de Rua prevê acesso amplo aos serviços públicos. A UBS deve acolher, tratar a ferida no mesmo dia e realizar o cadastro, articulando-se com a equipe de Consultório na Rua quando houver e com a assistência social. Mandar ao pronto-socorro rompe o primeiro contato e a longitudinalidade.",
+  "porAlt": [
+   "Negar o cadastro por falta de endereço contraria a regra do Cartão Nacional de Saúde.",
+   "Uma ferida infectada sem gravidade é demanda da APS, que não pode recusá-la.",
+   "Correta: a pessoa em situação de rua é dispensada de endereço para cadastro e atendimento.",
+   "Nenhuma declaração prévia é condição para o atendimento no SUS.",
+   "Adiar o atendimento de ferida infectada expõe a paciente a risco e é barreira de acesso."
+  ]
+ },
+ {
+  "q": "Um indígena de 52 anos, atendido pela equipe multidisciplinar de saúde indígena em sua aldeia, é referenciado para avaliação cirúrgica em hospital de uma cidade distante. Precisará permanecer alguns dias aguardando exames e consulta. Qual estrutura do Subsistema de Atenção à Saúde Indígena oferece hospedagem, alimentação e apoio nesse período?",
+  "alts": [
+   "Polo Base de referência do distrito",
+   "Unidade Básica de Saúde Indígena",
+   "Distrito Sanitário Especial Indígena",
+   "Conselho Distrital de Saúde Indígena",
+   "Casa de Saúde Indígena (CASAI)"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "saúde indígena: estrutura",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Fundação Nacional de Saúde. Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria 254/2002), 2002",
+  "coment": "No Subsistema de Atenção à Saúde Indígena, a atenção primária é prestada nas aldeias pelas equipes multidisciplinares, com apoio das unidades na aldeia e dos polos base, e a média e alta complexidade são referenciadas à rede do SUS. A Casa de Saúde Indígena (CASAI) recebe o indígena e seu acompanhante durante o período de atendimento fora da aldeia, oferecendo hospedagem, alimentação, apoio de enfermagem e articulação com os serviços, além do retorno à comunidade. O DSEI é a unidade gestora e o Conselho Distrital, a instância de controle social.",
+  "porAlt": [
+   "O polo base apoia as equipes na atenção primária e não hospeda pacientes referenciados.",
+   "A unidade na aldeia presta atenção primária no próprio território.",
+   "O DSEI é a unidade gestora descentralizada do subsistema.",
+   "O conselho distrital é instância de controle social, não de assistência.",
+   "Correta: a CASAI acolhe o indígena e o acompanhante durante a referência fora da aldeia."
+  ]
+ },
+ {
+  "q": "Em uma aula sobre saúde dos povos indígenas, o preceptor pergunta como está organizado o Subsistema de Atenção à Saúde Indígena, criado no âmbito do SUS em 1999. Qual é a base dessa organização?",
+  "alts": [
+   "Regiões de saúde estaduais, com gestão dos municípios das aldeias",
+   "Distritos Sanitários Especiais Indígenas, de base territorial e étnica",
+   "Consórcios intermunicipais, com financiamento municipal",
+   "Hospitais indígenas regionais como porta de entrada do sistema",
+   "Unidades conveniadas sob gestão direta da Fundação Nacional do Índio"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "saúde indígena: organização",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 9.836/1999 (Subsistema de Atenção à Saúde Indígena); Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria 254/2002), 1999",
+  "coment": "A Lei 9.836/1999, conhecida como Lei Arouca, acrescentou à Lei 8.080/1990 o Subsistema de Atenção à Saúde Indígena, financiado pela União e organizado em Distritos Sanitários Especiais Indígenas. O DSEI é um espaço territorial, populacional e étnico-cultural, que não segue necessariamente limites de municípios ou estados, e organiza a atenção primária nas aldeias e a referência para a rede do SUS. A gestão federal cabe à Secretaria de Saúde Indígena do Ministério da Saúde, criada em 2010, com controle social pelos conselhos locais e distritais.",
+  "porAlt": [
+   "O DSEI não segue os limites das regiões estaduais nem é gerido pelos municípios.",
+   "Correta: o subsistema se organiza em DSEIs, com critérios territoriais e étnico-culturais.",
+   "O financiamento do subsistema é responsabilidade da União.",
+   "A porta de entrada é a atenção primária na aldeia, não o hospital.",
+   "A Funai não faz a gestão da saúde indígena, que cabe ao Ministério da Saúde."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos recebe alta hospitalar após pneumonia, ainda com necessidade de antibiótico intravenoso por mais 7 dias. Está estável, consciente, tem acesso venoso periférico e a esposa pode ser a cuidadora. Não usa oxigênio nem ventilação. Na organização da atenção domiciliar do SUS, em que modalidade e por qual equipe ele deve ser acompanhado?",
+  "alts": [
+   "AD1, conduzida pela eSF com apoio da eMulti",
+   "AD3, pela necessidade de terapia venosa",
+   "AD2, conduzida pela EMAD com apoio da EMAP",
+   "Internação hospitalar, pois o domicílio não admite via venosa",
+   "AD1, com visitas do ACS e da enfermagem da UBS"
+  ],
+  "gab": 2,
+  "tema": "grupos",
+  "sub": "atenção domiciliar",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria de Consolidação 5/2017 (atenção domiciliar, origem na Portaria 825/2016), atualizada pela Portaria GM/MS 3.005/2024, 2024",
+  "coment": "A atenção domiciliar do SUS tem três modalidades. AD1, de responsabilidade da APS, atende pessoas estáveis que precisam de cuidados de menor frequência e intensidade. AD2 atende quadros agudos ou crônicos agudizados que exigem cuidados mais intensos e sequenciais, como terapia parenteral ou reabilitação, a cargo das equipes do Serviço de Atenção Domiciliar (EMAD com apoio da EMAP), o programa Melhor em Casa. AD3 acrescenta necessidade de equipamentos ou procedimentos especiais, como ventilação mecânica, diálise peritoneal ou paracenteses repetidas.",
+  "porAlt": [
+   "A antibioticoterapia venosa diária excede a intensidade de cuidado prevista para a AD1.",
+   "A terapia venosa isolada não exige os equipamentos especiais que caracterizam a AD3.",
+   "Correta: tratamento parenteral em paciente estável é cuidado de AD2, pelo Melhor em Casa.",
+   "Antibiótico intravenoso pode ser feito no domicílio, o que permite a desospitalização.",
+   "A AD1 não comporta a frequência de atendimentos exigida pela via venosa."
+  ]
+ },
+ {
+  "q": "Mulher de 79 anos, acamada há um ano após AVC, alimenta-se por gastrostomia funcionante, sem lesões por pressão e com quadro clínico estável. A filha foi treinada nos cuidados e precisa apenas de reavaliações periódicas e orientação. Na atenção domiciliar do SUS, qual é a modalidade e quem é responsável pelo cuidado?",
+  "alts": [
+   "AD1, sob responsabilidade da equipe de APS",
+   "AD2, sob responsabilidade da EMAD",
+   "AD3, sob responsabilidade da EMAP",
+   "AD2, sob responsabilidade da eMulti",
+   "AD3, pela presença de gastrostomia"
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "atenção domiciliar",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria de Consolidação 5/2017 (atenção domiciliar, origem na Portaria 825/2016), atualizada pela Portaria GM/MS 3.005/2024, 2024",
+  "coment": "A modalidade AD1 destina-se a pessoas com problemas de saúde controlados ou compensados e dificuldade ou impossibilidade de locomoção até a unidade, que precisam de cuidados de menor intensidade e frequência, e é responsabilidade da equipe de Atenção Primária, com visitas regulares e apoio da eMulti quando necessário. Gastrostomia funcionante e estável não caracteriza AD3, que exige equipamentos ou procedimentos especiais. Se houver agudização, a pessoa pode passar para AD2 e ser acompanhada pelas equipes do Melhor em Casa.",
+  "porAlt": [
+   "Correta: paciente estável que precisa de reavaliações periódicas é AD1, a cargo da APS.",
+   "A EMAD atua em AD2 e AD3, que exigem cuidado mais intenso que o do caso.",
+   "A EMAP apoia a EMAD e não assume sozinha o cuidado domiciliar.",
+   "A eMulti apoia a APS, mas não é responsável pela modalidade AD2.",
+   "Gastrostomia estável não é equipamento que caracterize a modalidade AD3."
+  ]
+ },
+ {
+  "q": "Para priorizar visitas domiciliares, uma equipe aplica a escala de risco familiar de Coelho e Savassi. Em um domicílio vivem 5 pessoas em 3 cômodos; entre elas, um homem de 74 anos acamado, hipertenso e diabético, e o filho dele, de 40 anos, está desempregado. Não há outros dados sentinela. Qual é a classificação da família?",
+  "alts": [
+   "Risco R1 (menor), com 6 pontos",
+   "Risco R2 (médio), com 8 pontos",
+   "Sem risco, por ter menos de 5 pontos",
+   "Risco R3 (máximo), com 11 pontos",
+   "Risco R2 (médio), com 7 pontos"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "visita domiciliar",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Coelho FLG, Savassi LCM. Aplicação de escala de risco familiar como instrumento de priorização das visitas domiciliares. Rev Bras Med Fam Comunidade, 2004",
+  "coment": "A escala de Coelho e Savassi usa dados sentinela da ficha de cadastro. Pontuam 3: acamado, deficiência física ou mental, baixas condições de saneamento, desnutrição grave e relação morador por cômodo maior que 1; pontuam 2: drogadição, desemprego e relação morador por cômodo igual a 1; pontuam 1: analfabetismo, menor de 6 meses, maior de 70 anos, hipertensão e diabetes. Aqui: acamado 3, mais de 70 anos 1, hipertensão 1, diabetes 1, desemprego 2 e 5 moradores em 3 cômodos 3, total 11. De 5 a 6 é R1, 7 a 8 é R2 e 9 ou mais é R3.",
+  "porAlt": [
+   "A soma esquece a relação morador por cômodo, que vale 3 pontos.",
+   "A soma subestima os pontos do acamado ou da densidade domiciliar.",
+   "A família soma 11 pontos, bem acima do mínimo para classificação de risco.",
+   "Correta: 3 + 1 + 1 + 1 + 2 + 3 somam 11 pontos, risco máximo.",
+   "A soma desconsidera parte dos dados sentinela presentes."
+  ]
+ }
+]

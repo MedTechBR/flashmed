@@ -1,0 +1,2823 @@
+<!doctype html>
+<html lang="pt-BR">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<!-- a barra de status acompanha o tema: fixa em branco, o modo escuro ficava com uma faixa clara -->
+<meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121417" media="(prefers-color-scheme: dark)">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="FlashMed">
+<title>FlashMed</title>
+<meta name="description" content="Preparatório ENARE e ENAMED: questões de provas reais comentadas, simulados no formato da prova, leituras e cartões.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/icon-180.png">
+<script>
+/* tema antes do CSS para não piscar */
+(function(){try{var t=localStorage.getItem("fl_tema")||"auto";
+if(t==="claro"||t==="escuro")document.documentElement.setAttribute("data-tema",t);}catch(e){}})();
+</script>
+<!-- conta + sincronização (cópia de ~/Documents/Claude/_mtsync/mtsync.js). Síncrono no <head>:
+     o portão cobre a tela antes do primeiro pixel do app e só sai com a conta confirmada. -->
+<script src="mtsync.js?v=3"></script>
+<!-- gramática visual do ecossistema: tokens da raiz do site + ícones Tabler (nunca emoji) -->
+<link rel="stylesheet" href="/_mttokens.css?v=2">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3/dist/tabler-icons.min.css">
+<style>
+/* ============================================================
+   ClínicaMed: fonte do sistema (SF/Segoe/Roboto), preto sobre papel, cantos de 6 px, sem sombra,
+   sem versalete, sem pílula. O teal aparece só no que é clicável. Cara de ferramenta, não de página gerada.
+   Os --mt-* vêm de /_mttokens.css; os nomes curtos abaixo são o contrato local.
+   ============================================================ */
+/* 16/09: sem cartões. Página branca, seções separadas por linha, quatro tamanhos de letra
+   (14 rótulo · 16 interface · 18 conteúdo · 22 título), conteúdo clínico em serifa do sistema
+   como prova impressa, interface em sans do sistema. Nenhuma fonte baixada. */
+:root{
+  --papel:#FFFFFF; --sup:#FFFFFF; --sup2:#F3F3F0;
+  --ink:#1C1C1C; --ink2:#5C5C58; --linha:#E3E3DF; --linhaF:#B9B9B4;
+  --brand:#0B6A72; --brandInk:#0B6A72; --brandSup:#E7F0F0; --brandTxt:#FFFFFF;
+  --ok:#1D6B3F; --okSup:#EAF4ED; --err:#B3372F; --errSup:#FBECEA;
+  --avi:#8A5F00; --aviSup:#FBF3DF;
+  --r:4px; --sombra:none;
+  --nav:0px;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --serif:"Iowan Old Style","Charter","Bitstream Charter",Georgia,"Noto Serif",serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-tema="claro"]){
+  --papel:#171717; --sup:#171717; --sup2:#232323;
+  --ink:#E7E5E0; --ink2:#A6A49E; --linha:#2E2E2D; --linhaF:#4E4E4B;
+  --brand:#5CB6BB; --brandInk:#5CB6BB; --brandSup:#152A2B; --brandTxt:#0E1414;
+  --ok:#62C08B; --okSup:#15271C; --err:#EE8178; --errSup:#2E1917;
+  --avi:#DDAA55; --aviSup:#2B2317;
+}}
+:root[data-tema="escuro"]{
+  --papel:#171717; --sup:#171717; --sup2:#232323;
+  --ink:#E7E5E0; --ink2:#A6A49E; --linha:#2E2E2D; --linhaF:#4E4E4B;
+  --brand:#5CB6BB; --brandInk:#5CB6BB; --brandSup:#152A2B; --brandTxt:#0E1414;
+  --ok:#62C08B; --okSup:#15271C; --err:#EE8178; --errSup:#2E1917;
+  --avi:#DDAA55; --aviSup:#2B2317;
+}
+:root[data-tema="escuro"]{color-scheme:dark}
+@media (prefers-color-scheme:dark){:root:not([data-tema="claro"]){color-scheme:dark}}
+*{box-sizing:border-box}
+html{-webkit-tap-highlight-color:transparent}
+body{margin:0;background:var(--papel);color:var(--ink);font:16px/1.5 var(--sans);
+  -webkit-text-size-adjust:100%;padding-bottom:calc(64px + var(--nav))}
+h1,h2,h3,h4{font-weight:700;line-height:1.25}
+h2{font-size:22px}h3{font-size:18px}
+button,input,select,textarea{font:inherit;color:inherit}
+a{color:var(--brandInk)}
+.ti{font-size:1.15em;line-height:1;vertical-align:-.12em}
+.num{font-variant-numeric:tabular-nums}
+
+/* cabeçalho: uma linha só (marca, abas, ferramentas), fio embaixo */
+header{position:sticky;top:0;z-index:30;background:var(--papel);border-bottom:1px solid var(--linhaF);
+  padding-top:env(safe-area-inset-top)}
+.topo{max-width:1040px;margin:0 auto;padding:0 16px;display:flex;align-items:stretch;gap:26px;min-height:52px}
+.marca{font-weight:700;font-size:18px;display:flex;align-items:center;color:var(--ink);text-decoration:none}
+.contador{margin-left:auto;display:flex;align-items:center;gap:4px}
+.btIco{width:36px;height:36px;border-radius:4px;border:0;background:transparent;color:var(--ink);
+  display:grid;place-items:center;cursor:pointer;font-size:20px;padding:0}
+.btIco:hover{background:var(--sup2)}
+.btConta{display:inline-flex;align-items:center;gap:6px;height:36px;padding:0 8px;background:transparent;border:0;border-radius:4px;cursor:pointer;font-size:15px;color:var(--ink)}
+.btConta:hover{background:var(--sup2)}
+nav.abas{display:flex;gap:22px;overflow-x:auto;scrollbar-width:none}
+nav.abas::-webkit-scrollbar{display:none}
+nav.abas button{white-space:nowrap;background:transparent;border:0;border-bottom:3px solid transparent;border-top:3px solid transparent;color:var(--ink2);display:inline-flex;align-items:center;gap:7px;
+  padding:0;cursor:pointer;font-weight:400;font-size:16px}
+nav.abas button .ti{display:none}
+nav.abas button:hover{color:var(--ink)}
+nav.abas button[aria-selected="true"]{border-bottom-color:var(--ink);color:var(--ink);font-weight:600}
+/* a regra de display acima vence o [hidden] do navegador — sem isto a aba Turma apareceria para todos */
+nav.abas button[hidden]{display:none!important}
+@media(min-width:641px){nav.abas button[data-aba="mais"]{display:none!important}}
+
+main{max-width:1040px;margin:0 auto;padding:24px 16px 48px}
+section[hidden]{display:none!important}
+/* .cx não é mais caixa: é um bloco. Blocos seguidos se separam por um fio. */
+.cx{background:transparent;border:0;border-radius:0;padding:0;box-shadow:none;margin:0 0 30px}
+.cx+.cx{border-top:1px solid var(--linha);padding-top:24px}
+.linha{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.bt{background:var(--brand);color:var(--brandTxt);border:1px solid var(--brand);border-radius:4px;padding:7px 16px;font-weight:600;cursor:pointer;min-height:40px;font-size:15px;
+  display:inline-flex;align-items:center;gap:7px;justify-content:center;text-decoration:none}
+.bt:hover{filter:brightness(.94)}
+.bt.sec{background:transparent;color:var(--ink);border-color:var(--linhaF);font-weight:400}
+.bt.sec:hover{background:var(--sup2);filter:none}
+.bt.mini{padding:4px 11px;min-height:34px;font-size:14px}
+.bt:disabled{opacity:.45;cursor:default}
+.bt .ti{display:none}
+select,input[type=text],input[type=number],input[type=search],input[type=email],input:not([type]),textarea{background:var(--papel);border:1px solid var(--linhaF);border-radius:4px;padding:7px 10px;min-height:40px;max-width:100%;color:var(--ink);font-size:15px}
+select:focus,input:focus,textarea:focus{outline:2px solid var(--brand);outline-offset:-1px}
+textarea{min-height:120px;line-height:1.5}
+label.cmp{display:flex;flex-direction:column;gap:4px;font-size:14px;color:var(--ink2);font-weight:400}
+/* "pílula" virou texto: rótulos em linha separados por ponto; cor só em acerto/erro */
+.pilula{display:inline;background:none;border:0;border-radius:0;padding:0;font-size:14px;color:var(--ink2);font-weight:400}
+.pilula.b{color:var(--ink);font-weight:600}
+.pilula.ok{color:var(--ok);font-weight:600}
+.pilula.er{color:var(--err);font-weight:600}
+.linha>.pilula+.pilula:before{content:"·";margin-right:6px;color:var(--ink2);font-weight:400}
+.enun{font:19px/1.6 var(--serif);margin:14px 0 20px}
+/* alternativas como na prova impressa: letra, texto, fio entre elas */
+#alts{border-bottom:1px solid var(--linha)}
+.alt{display:flex;gap:14px;width:100%;text-align:left;background:transparent;border:0;border-top:1px solid var(--linha);
+  border-radius:0;padding:12px 8px;margin:0;cursor:pointer;align-items:baseline;min-height:44px;font:17px/1.5 var(--serif);color:var(--ink)}
+.alt:hover{background:var(--sup2)}
+.alt .let{font:600 15px/1 var(--sans);color:var(--ink2);min-width:20px}
+.alt.certa{background:var(--okSup);box-shadow:inset 3px 0 var(--ok)}
+.alt.errada{background:var(--errSup);box-shadow:inset 3px 0 var(--err)}
+.alt[disabled]{cursor:default}
+.alt[disabled]:hover{background:transparent}
+.alt.certa[disabled]:hover{background:var(--okSup)}.alt.errada[disabled]:hover{background:var(--errSup)}
+.coment{border-left:3px solid var(--linhaF);padding:2px 0 2px 16px;margin-top:22px;font:17px/1.6 var(--serif)}
+.coment .base{font:14px/1.5 var(--sans);color:var(--ink2);margin-top:10px}
+.coment .linha{font-family:var(--sans)}
+.expl{font:15px/1.5 var(--serif);color:var(--ink2);margin:0 0 10px 42px}
+/* números: uma régua em linha, não quatro caixas */
+.grade2{display:flex;flex-wrap:wrap;border-top:1px solid var(--linha);border-bottom:1px solid var(--linha)}
+.kpi{padding:10px 22px 10px 0;margin-right:22px;border-right:1px solid var(--linha)}
+.kpi:last-child{border-right:0;margin-right:0}
+.kpi b{display:block;font-size:22px;font-weight:600;line-height:1.2;font-variant-numeric:tabular-nums}
+.kpi span{font-size:14px;color:var(--ink2)}
+.barra{height:4px;background:var(--sup2);border-radius:0;overflow:hidden;margin-top:6px}
+.barra i{display:block;height:100%;background:var(--ink2)}
+.rolagem{overflow-x:auto;-webkit-overflow-scrolling:touch}
+table{border-collapse:collapse;width:100%;font-size:15px;font-variant-numeric:tabular-nums}
+th,td{text-align:left;padding:8px 10px 8px 0;border-bottom:1px solid var(--linha)}
+th{font-size:14px;color:var(--ink);text-transform:none;font-weight:600;border-bottom:1px solid var(--ink)}
+.faixas{position:fixed;left:0;right:0;bottom:calc(var(--nav) + 0px);z-index:60;padding:10px;display:flex;flex-direction:column;gap:8px;pointer-events:none}
+.faixa{pointer-events:auto;max-width:640px;margin:0 auto;width:100%;display:flex;gap:10px;align-items:center;
+  border-radius:4px;padding:11px 13px;font-size:15px;box-shadow:0 2px 10px rgba(0,0,0,.12);background:var(--papel)}
+.faixa span{flex:1}
+.faixa button{background:transparent;border:0;cursor:pointer;font-size:16px;padding:4px 8px;min-height:36px;color:inherit}
+.faixa.ok{color:var(--ok);border:1px solid var(--ok)}
+.faixa.erro{color:var(--err);border:1px solid var(--err)}
+.faixa.avi{color:var(--avi);border:1px solid var(--avi)}
+.vazio{color:var(--ink2);font-size:16px;padding:22px 0}
+.crono{font-size:28px;font-weight:600;font-variant-numeric:tabular-nums}
+details{border:0;border-top:1px solid var(--linha);border-radius:0;padding:10px 0;margin:0;background:transparent}
+summary{cursor:pointer;font-weight:600}
+.quadro{width:100%;border:0;background:transparent}
+body.lendo{padding-bottom:0}
+body.lendo main{padding-bottom:0}
+hr{border:0;border-top:1px solid var(--linha);margin:14px 0}
+.mini{font-size:14px;color:var(--ink2)}
+/* modal */
+.fundo{position:fixed;inset:0;background:rgba(20,22,26,.5);z-index:80;display:flex;align-items:flex-start;
+  justify-content:center;padding:18px;overflow-y:auto}
+.modal{background:var(--papel);border:1px solid var(--linhaF);border-radius:4px;max-width:620px;width:100%;
+  padding:20px;box-shadow:0 8px 30px rgba(0,0,0,.2);margin:auto}
+.modal h3{margin:0 0 4px}
+.modal label.cmp{margin-top:12px}
+.modal textarea{width:100%}
+.opcs{display:flex;flex-direction:column;gap:6px;margin-top:6px}
+.opcs label{display:flex;gap:9px;align-items:flex-start;background:transparent;border:0;border-top:1px solid var(--linha);
+  border-radius:0;padding:10px 0;cursor:pointer;font-size:15px}
+.opcs input{margin-top:2px}
+.bt.mini{color:var(--brandTxt)}
+.bt.sec.mini{color:var(--ink)}
+
+/* busca global */
+.busca{max-width:680px}
+.busca .campo{display:flex;gap:8px;align-items:center}
+.busca .campo input{flex:1;font-size:16px}
+.hit{display:block;width:100%;text-align:left;background:transparent;border:0;border-top:1px solid var(--linha);border-radius:0;padding:10px 4px;margin:0;cursor:pointer;font-size:16px}
+.hit:hover{background:var(--sup2)}
+.hit small{display:block;color:var(--ink2);font-size:14px;margin-top:2px}
+.hit mark{background:var(--aviSup);color:inherit;border-radius:3px;padding:0 2px}
+.grupoB{font-size:14px;color:var(--ink);font-weight:600;margin:18px 0 4px;text-transform:none}
+
+/* convite de instalação e barra do download offline */
+.convite{display:flex;gap:12px;align-items:center;background:transparent;border-bottom:1px solid var(--linha);border-radius:0;padding:4px 0 14px;margin-bottom:16px}
+.convite .ti{display:none}
+.convite div{flex:1;min-width:0}
+.convite b{display:block;font-size:16px}
+.convite span{font-size:14px;color:var(--ink2)}
+.convite button{flex:0 0 auto}
+@media(max-width:520px){.convite{flex-wrap:wrap}.convite button{width:100%}}
+.progOff{height:4px;background:var(--sup2);border-radius:0;overflow:hidden;margin:10px 0 6px}
+.progOff i{display:block;height:100%;background:var(--brand);transition:width .2s}
+
+/* ---------- questões: dois filtros à vista, o resto recolhido ---------- */
+/* o <details> do app é um cartão com borda; aqui ele é só um disclosure de filtro */
+.maisF{width:100%;margin-top:2px;border:0;background:transparent;padding:0;box-shadow:none}
+.maisF>summary{cursor:pointer;list-style:none;font-size:15px;color:var(--ink2);padding:6px 0;
+  display:flex;align-items:center;gap:7px}
+.maisF>summary::-webkit-details-marker{display:none}
+.maisF>summary:before{content:"+";font-size:14px;color:var(--ink2);width:12px;text-align:center}
+.maisF[open]>summary:before{content:"−"}
+.maisF>summary .pt{width:6px;height:6px;border-radius:50%;background:var(--brand)}
+.maisF[open]{display:flex;flex-wrap:wrap;gap:10px}
+.maisF[open]>summary{flex-basis:100%}
+
+/* ---------- leitura aberta: sumário lateral + barra fina ---------- */
+.sumarioL{display:none}
+.leituraCol{min-width:0;display:flex;flex-direction:column}
+.barraL{display:flex;align-items:center;gap:8px;padding:0 2px 9px;margin-bottom:2px;
+  border-bottom:1px solid var(--linha)}
+.barraL .tituloL{font-size:15px;color:var(--ink2);margin-right:auto;overflow:hidden;
+  text-overflow:ellipsis;white-space:nowrap}
+@media(min-width:900px){
+  body.lendo #sec-leituras{grid-template-columns:248px minmax(0,1fr)}
+  .sumarioL{display:block;position:sticky;top:76px;max-height:calc(100vh - 130px);overflow:auto;
+    padding:0 10px 0 4px;border-right:1px solid var(--linha)}
+  .sumarioL b{display:block;font-size:14px;margin-bottom:9px}
+  .sumarioL ol{margin:0;padding:0;list-style:none;font-size:14px;line-height:1.4}
+  .sumarioL li{margin:0 0 7px}
+  .sumarioL a{color:var(--ink2);text-decoration:none}
+  .sumarioL a:hover{color:var(--brandInk)}
+  .sumarioL a.aqui{color:var(--brandInk);font-weight:600}
+}
+
+/* Filtro sem moldura: ele tinha a mesma caixa do cartão de questão e do alerta, nivelando a
+   importância de tudo. Agora se separa do conteúdo por uma linha, não por uma borda fechada. */
+#sec-leituras>.filtroL,#sec-questoes>.cx:first-child,#sec-pratica>.cx:first-child{
+  background:transparent;border:0;box-shadow:none;border-bottom:1px solid var(--linha);
+  border-radius:0;padding:0 0 14px;margin-bottom:6px}
+@media(min-width:900px){
+  #sec-leituras>.filtroL,#sec-questoes>.cx:first-child,#sec-pratica>.cx:first-child{
+    border-bottom:0;border-right:1px solid var(--linha);padding:0 20px 0 0;margin:0}
+}
+
+/* ---------- catálogo de leituras: lista, não grade de caixas ---------- */
+.listaL .itemL{padding:14px 4px 15px;border-top:1px solid var(--linha);cursor:pointer;background:transparent}
+.listaL .itemL:first-child{border-top:0}
+.listaL .itemL:hover,.listaL .itemL:focus-visible{background:var(--sup2);outline:0}
+.listaL .itemL h3{margin:0 0 4px;font-size:18px;line-height:1.3}
+/* duas linhas, e só: o resumo inteiro vive no dek da leitura */
+.resumoL{margin:0;color:var(--ink2);font-size:15px;line-height:1.45;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.metaL{display:flex;flex-wrap:wrap;gap:0 14px;margin-top:6px;font-size:14px;color:var(--ink2)}
+.metaL span{position:relative}
+.metaL span+span:before{content:"";position:absolute;left:-8px;top:50%;width:2px;height:2px;
+  border-radius:50%;background:currentColor;opacity:.55}
+.metaL .lido{color:var(--ok);font-weight:600}
+
+/* progresso de leitura no cartão */
+.progL{height:3px;background:var(--sup2);border-radius:0;overflow:hidden;margin-top:10px}
+.progL i{display:block;height:100%;background:var(--brand)}
+
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+
+/* ---------- computador: duas colunas onde há filtro + conteúdo ---------- */
+@media(min-width:900px){
+  #sec-questoes,#sec-leituras,#sec-pratica{display:grid;grid-template-columns:250px minmax(0,1fr);gap:32px;align-items:start}
+  #sec-questoes>.cx:first-child,#sec-leituras>.filtroL,#sec-pratica>.cx:first-child{position:sticky;top:76px}
+  /* coluna de conteúdo: blocos seguidos da coluna direita não herdam o fio do filtro */
+  #sec-questoes>.cx:first-child+.cx,#sec-pratica>.cx:first-child+.cx,#sec-leituras>.filtroL+.cx{border-top:0;padding-top:0}
+  #sec-questoes>.cx:not(:first-child),#sec-pratica>*:not(:first-child),#sec-leituras>*:not(.filtroL){max-width:720px}
+  #sec-questoes>.cx:first-child .linha,#sec-pratica>.cx:first-child .linha{flex-direction:column;align-items:stretch}
+  #sec-questoes>.cx:first-child label.cmp,#sec-pratica>.cx:first-child label.cmp{width:100%}
+  #sec-questoes>.cx:first-child select,#sec-pratica>.cx:first-child select{width:100%}
+  #sec-questoes>.cx:first-child .bt{align-self:stretch!important}
+  #sec-leituras>.filtroL .linha{flex-direction:column;align-items:stretch}
+  #sec-leituras>.filtroL label.cmp{width:100%;min-width:0!important}
+  #sec-leituras .listaL{min-width:0}
+  #sec-pratica>.cx:first-child .grade2{display:block}
+  #sec-pratica>.cx:first-child .kpi{border-right:0;margin:0;padding:8px 0;border-bottom:1px solid var(--linha)}
+  #sec-pratica>.cx:first-child .kpi:last-child{border-bottom:0}
+  #sec-pratica .listaP{min-width:0}
+  .fToggle{display:none}
+}
+/* cabeçalho de filtro recolhível: no computador fica sempre aberto (regra acima esconde o botão) */
+.fToggle{width:100%;display:flex;align-items:center;gap:8px;background:transparent;border:0;padding:4px 0;color:var(--ink);font-weight:600;font-size:16px;cursor:pointer;text-align:left}
+.fToggle .ti{font-size:18px;color:var(--ink2)}
+.fToggle .ti-adjustments-horizontal{display:none}
+.fToggle .resumo{color:var(--ink2);font-weight:400;margin-left:auto;font-size:15px}
+.fToggle .seta{transition:transform .15s}
+.filtros.aberto .fToggle .seta{transform:rotate(180deg)}
+
+/* ---------- modo app no celular ---------- */
+@media(max-width:640px){
+  :root{--nav:calc(58px + env(safe-area-inset-bottom))}
+  body{font-size:16px}
+  .topo{padding:0 8px 0 16px;gap:8px;min-height:48px}
+  .marca{font-size:18px}
+  .btIco{width:36px;height:36px;font-size:21px}
+  #btTema{display:none}
+  .btConta{height:36px;padding:0 6px}
+  .btConta.logado{background:transparent;color:var(--brandInk)}
+  main{padding:14px 16px calc(24px + var(--nav))}
+  .cx{margin:0 0 24px}
+  .cx+.cx{padding-top:20px}
+  /* barra inferior com 5 lugares: 4 abas principais + Mais */
+  nav.abas{position:fixed;left:0;right:0;bottom:0;z-index:55;margin:0;padding:4px 2px calc(4px + env(safe-area-inset-bottom));
+    background:var(--papel);border-top:1px solid var(--linhaF);
+    display:grid;grid-template-columns:repeat(5,1fr);gap:0;overflow:visible}
+  nav.abas button{display:none;flex-direction:column;gap:2px;padding:4px 2px;min-height:50px;font-size:12px;border:0;margin:0;justify-content:center;font-weight:400;color:var(--ink2)}
+  nav.abas button[data-prim],nav.abas button[data-aba="mais"]{display:inline-flex}
+  nav.abas button[hidden]{display:none!important}
+  nav.abas button .ti{display:block;font-size:22px}
+  nav.abas button[aria-selected="true"]{background:transparent;color:var(--ink);font-weight:600}
+  body.lendo nav.abas{display:none}
+  /* barra da leitura: o título truncado não cabe ao lado de três botões */
+  .barraL .tituloL{display:none}
+  .barraL .bt.mini{padding:6px 9px}
+  body.lendo main{padding:6px 10px 0}
+  input,select,textarea{font-size:16px}
+  /* filtros recolhidos: um toque abre */
+  .filtros .fCorpo{display:none;margin-top:10px}
+  .filtros.aberto .fCorpo{display:flex}
+  .linha label.cmp{flex:1 1 calc(50% - 5px);min-width:0}
+  .linha label.cmp select,.linha label.cmp input{width:100%}
+  /* questão: página inteira, alternativas em linhas */
+  .enun{font-size:18px;margin:10px 0 16px}
+  .alt{padding:13px 4px;gap:12px}
+  .expl{margin-left:36px}
+  #qCartao .linha:last-child .bt{flex:1 1 40%}
+  #qCartao .linha:last-child .mini{flex-basis:100%;text-align:center;margin:6px 0 0}
+  /* números: dois por linha */
+  .grade2{display:grid;grid-template-columns:1fr 1fr;border-bottom:0}
+  .kpi{margin:0;padding:10px 0;border-right:0;border-bottom:1px solid var(--linha)}
+  .kpi:last-child{border-bottom:1px solid var(--linha)}
+  /* leituras: linhas, não cartões */
+  .listaL .itemL h3{font-size:18px}
+  .listaL h3.grupo{margin:22px 0 4px;font-size:16px}
+  .listaL h3.grupo .mini{display:none}
+  /* cartões: o cartão é a tela */
+  #sec-cartoes .heroCard{min-height:calc(100vh - 150px - var(--nav));display:flex;flex-direction:column}
+  #sec-cartoes .heroCard .enun{font-size:21px;flex:1;display:flex;align-items:center;margin:20px 0}
+  #sec-cartoes .heroCard .bt{width:100%}
+  #sec-cartoes .heroCard .linha .bt{flex:1}
+  /* estações e simulado */
+  .crono{font-size:26px}
+  /* painel: a coluna de cobertura (barra) não cabe; a tabela já rola, mas sem ela não precisa */
+  #sec-painel table td:nth-child(5),#sec-painel table th:nth-child(5){display:none}
+  /* faixas acima da barra */
+  .faixas{bottom:calc(var(--nav) + 4px)}
+  .fundo{padding:10px;align-items:flex-end}
+  .modal{border-radius:6px 6px 0 0;max-height:88vh;overflow:auto}
+}
+/* folha "Mais" da barra inferior */
+.folha{position:fixed;inset:0;z-index:70;background:rgba(20,22,26,.35);display:flex;align-items:flex-end}
+.folha .cartao{background:var(--papel);width:100%;border-radius:6px 6px 0 0;padding:10px 12px calc(14px + env(safe-area-inset-bottom));box-shadow:0 -8px 30px rgba(0,0,0,.18)}
+.folha .puxador{width:38px;height:4px;border-radius:4px;background:var(--linhaF);margin:2px auto 10px}
+.folha button.item{display:flex;align-items:center;gap:14px;width:100%;background:transparent;border:0;padding:13px 8px;font-size:16px;color:var(--ink);cursor:pointer;border-radius:6px;text-align:left}
+.folha button.item .ti{font-size:22px;color:var(--ink2)}
+.folha button.item:hover{background:var(--sup2)}
+.folha button.item[aria-selected="true"]{background:var(--sup2);font-weight:600}
+
+/* ============================================================
+   17/09/2026 — cm-v92, interface moderna.
+   O Matheus rejeitou a "prova impressa" (cm-v76) por simples demais. A direção agora é de app
+   de estudo atual: navegação lateral com ícones no computador e barra inferior no celular,
+   tela inicial com metas e progresso, superfícies em cartão com raio grande sobre um fundo
+   levemente tingido, questão em blocos clicáveis. O que continua proibido (e denunciava IA):
+   gradiente, emoji, par de fontes baixado, versalete rastreado, etiqueta colorida em tudo.
+   Este bloco sobrescreve o anterior; as regras acima ficam como base.
+   ============================================================ */
+:root{
+  --papel:#F4F6F8; --sup:#FFFFFF; --sup2:#EEF1F4; --sup3:#E6EAEF;
+  --ink:#0F1720; --ink2:#5A6675; --ink3:#8793A3; --linha:#E3E7EC; --linhaF:#CCD3DC;
+  --brand:#0A7C74; --brandInk:#0A6E67; --brandSup:#E2F2EF; --brandTxt:#FFFFFF; --brand2:#0FA396;
+  --ok:#16803C; --okSup:#E6F4EA; --err:#D0372B; --errSup:#FCEBE9;
+  --avi:#B26A00; --aviSup:#FDF1DC; --fogo:#E8590C;
+  --r:12px; --rG:16px;
+  --sombra:0 1px 2px rgba(15,23,32,.04),0 1px 3px rgba(15,23,32,.06);
+  --sombraM:0 4px 16px rgba(15,23,32,.08),0 1px 3px rgba(15,23,32,.05);
+  --lado:256px;
+  --serif:var(--sans);
+}
+@media (prefers-color-scheme:dark){:root:not([data-tema="claro"]){
+  --papel:#0B0F14; --sup:#121820; --sup2:#19212B; --sup3:#212B37;
+  --ink:#E7ECF2; --ink2:#9AA6B5; --ink3:#6E7B8C; --linha:#212A35; --linhaF:#303B49;
+  --brand:#2BB8AB; --brandInk:#4CCABD; --brandSup:#0F2B2A; --brandTxt:#04130F; --brand2:#38D1C2;
+  --ok:#4CC27A; --okSup:#10261A; --err:#F2766B; --errSup:#2C1614;
+  --avi:#E3A64B; --aviSup:#2A2012; --fogo:#FF8A3D;
+  --sombra:0 1px 2px rgba(0,0,0,.4); --sombraM:0 6px 20px rgba(0,0,0,.45);
+}}
+:root[data-tema="escuro"]{
+  --papel:#0B0F14; --sup:#121820; --sup2:#19212B; --sup3:#212B37;
+  --ink:#E7ECF2; --ink2:#9AA6B5; --ink3:#6E7B8C; --linha:#212A35; --linhaF:#303B49;
+  --brand:#2BB8AB; --brandInk:#4CCABD; --brandSup:#0F2B2A; --brandTxt:#04130F; --brand2:#38D1C2;
+  --ok:#4CC27A; --okSup:#10261A; --err:#F2766B; --errSup:#2C1614;
+  --avi:#E3A64B; --aviSup:#2A2012; --fogo:#FF8A3D;
+  --sombra:0 1px 2px rgba(0,0,0,.4); --sombraM:0 6px 20px rgba(0,0,0,.45);
+}
+body{background:var(--papel);font:15.5px/1.55 var(--sans);letter-spacing:-.003em;
+  -webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+h1,h2,h3{letter-spacing:-.018em}
+h2{font-size:21px}h3{font-size:17px}
+::selection{background:var(--brandSup)}
+:focus-visible{outline:2px solid var(--brand);outline-offset:2px}
+
+/* ---------- marca ---------- */
+.marca{gap:10px;font-size:17px;font-weight:700;letter-spacing:-.02em}
+.marca .logo{width:32px;height:32px;border-radius:9px;background:var(--brand);color:#fff;display:grid;place-items:center;flex:0 0 auto}
+:root[data-tema="escuro"] .marca .logo{color:var(--brandTxt)}
+@media (prefers-color-scheme:dark){:root:not([data-tema="claro"]) .marca .logo{color:var(--brandTxt)}}
+.btIco .rot,.btIco kbd{display:none}
+kbd{font:600 11px/1 var(--sans);border:1px solid var(--linhaF);border-bottom-width:2px;border-radius:5px;padding:2px 5px;color:var(--ink2);background:var(--sup)}
+
+/* ---------- título da página ---------- */
+.pgTitulo{margin:0 0 22px}
+.pgTitulo:empty{display:none}
+.pgTitulo h1{font-size:28px;line-height:1.15;margin:0;font-weight:750;letter-spacing:-.028em}
+.pgTitulo p{margin:6px 0 0;color:var(--ink2);font-size:15px}
+body.lendo .pgTitulo{display:none}
+
+/* ---------- superfícies ---------- */
+.cx{background:var(--sup);border:1px solid var(--linha);border-radius:var(--rG);padding:22px 24px;box-shadow:var(--sombra);margin:0 0 18px}
+.cx+.cx{border-top:1px solid var(--linha);padding-top:22px}
+.cx>h2:first-child,.cx>h3:first-child{margin-top:0}
+.vazio{padding:10px 0}
+hr{border-top:1px solid var(--linha);margin:18px 0}
+.mini{font-size:13.5px}
+
+/* ---------- controles ---------- */
+.bt{border-radius:10px;min-height:42px;padding:8px 18px;font-weight:600;font-size:14.5px;transition:background .15s,border-color .15s,transform .05s,box-shadow .15s;box-shadow:0 1px 2px rgba(10,124,116,.25)}
+.bt:hover{filter:none;background:var(--brand2);border-color:var(--brand2)}
+.bt:active{transform:translateY(1px)}
+.bt .ti{display:inline-block;font-size:18px}
+.bt.sec{background:var(--sup);border-color:var(--linhaF);color:var(--ink);font-weight:600;box-shadow:var(--sombra)}
+.bt.sec:hover{background:var(--sup2);border-color:var(--linhaF)}
+.bt.mini{min-height:34px;padding:5px 12px;font-size:13.5px;border-radius:9px}
+select,input[type=text],input[type=number],input[type=search],input[type=email],input:not([type]),textarea{background:var(--sup);border:1px solid var(--linhaF);border-radius:10px;min-height:42px;padding:8px 12px;transition:border-color .15s,box-shadow .15s}
+select:focus,input:focus,textarea:focus{outline:0;border-color:var(--brand);box-shadow:0 0 0 3px var(--brandSup)}
+select{appearance:none;-webkit-appearance:none;padding-right:34px;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238793A3' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;background-position:right 11px center}
+label.cmp{font-size:13px;font-weight:600;color:var(--ink2);gap:6px}
+.pilula{font-size:13.5px}
+.pilula.ok,.pilula.er{display:inline-block;padding:2px 8px;border-radius:7px;font-size:13px}
+.pilula.ok{background:var(--okSup)}.pilula.er{background:var(--errSup)}
+.linha>.pilula.ok:before,.linha>.pilula.er:before{content:none}
+
+/* ---------- números ---------- */
+.grade2{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;border:0}
+.kpi{background:var(--sup2);border:0;border-radius:12px;padding:14px 16px;margin:0}
+.kpi:last-child{border:0}
+.kpi b{font-size:24px;font-weight:750;letter-spacing:-.02em}
+.kpi span{font-size:13px}
+.barra{height:6px;border-radius:6px;background:var(--sup3)}
+.barra i{background:var(--brand);border-radius:6px}
+table{font-size:14.5px}
+th{font-size:12.5px;color:var(--ink2);font-weight:600;border-bottom:1px solid var(--linha);padding-top:4px}
+td{border-bottom:1px solid var(--linha)}
+tr:last-child td{border-bottom:0}
+details{border-top:1px solid var(--linha)}
+
+/* ---------- avisos, modal, folha ---------- */
+.faixa{border-radius:12px;box-shadow:var(--sombraM);background:var(--sup)}
+.fundo{background:rgba(8,12,18,.55);backdrop-filter:blur(3px);-webkit-backdrop-filter:blur(3px)}
+.modal{background:var(--sup);border:1px solid var(--linha);border-radius:18px;padding:24px;box-shadow:var(--sombraM)}
+.folha .cartao{background:var(--sup);border-radius:20px 20px 0 0}
+.folha button.item{border-radius:12px}
+.opcs label{border-top:0;border:1px solid var(--linha);border-radius:10px;padding:10px 12px}
+
+/* ---------- questão ---------- */
+.qTopo{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+.qNum{font-size:13.5px;font-weight:650;color:var(--ink2);white-space:nowrap}
+.qNum b{color:var(--ink);font-size:15px}
+.qProg{flex:1;height:5px;border-radius:5px;background:var(--sup3);overflow:hidden;min-width:40px}
+.qProg i{display:block;height:100%;background:var(--brand);border-radius:5px}
+.qEstado{font-size:12.5px;font-weight:600;padding:3px 9px;border-radius:7px;white-space:nowrap}
+.qEstado.ok{background:var(--okSup);color:var(--ok)}.qEstado.er{background:var(--errSup);color:var(--err)}
+.btMarca{width:36px;height:36px;border-radius:10px;border:1px solid var(--linha);background:var(--sup);color:var(--ink2);display:grid;place-items:center;cursor:pointer;font-size:19px;padding:0}
+.btMarca:hover{background:var(--sup2);color:var(--ink)}
+.btMarca.on{color:var(--brandInk);background:var(--brandSup);border-color:transparent}
+.enun{font:17.5px/1.7 var(--sans);margin:4px 0 22px;color:var(--ink)}
+#alts{border:0;display:flex;flex-direction:column;gap:10px}
+.alt{border:1px solid var(--linha);border-radius:12px;background:var(--sup);padding:12px 14px;align-items:center;font:16px/1.5 var(--sans);gap:14px;
+  transition:border-color .15s,background .15s,box-shadow .15s}
+.alt:hover{background:var(--sup);border-color:var(--brand);box-shadow:0 0 0 3px var(--brandSup)}
+.alt .let{width:30px;height:30px;min-width:30px;border-radius:9px;background:var(--sup2);display:grid;place-items:center;font:700 13.5px/1 var(--sans);color:var(--ink2);transition:background .15s,color .15s}
+.alt:hover .let{background:var(--brandSup);color:var(--brandInk)}
+.alt[disabled]:hover{background:var(--sup);border-color:var(--linha);box-shadow:none}
+.alt[disabled]:hover .let{background:var(--sup2);color:var(--ink2)}
+.alt.certa,.alt.certa[disabled]:hover{background:var(--okSup);border-color:var(--ok);box-shadow:none}
+.alt.errada,.alt.errada[disabled]:hover{background:var(--errSup);border-color:var(--err);box-shadow:none}
+.alt.certa .let,.alt.certa[disabled]:hover .let{background:var(--ok);color:#fff}
+.alt.errada .let,.alt.errada[disabled]:hover .let{background:var(--err);color:#fff}
+.alt[disabled]:not(.certa):not(.errada){opacity:1}
+.expl{font:14px/1.55 var(--sans);margin:-4px 0 4px 58px;color:var(--ink2)}
+.coment{border:0;background:var(--sup2);border-radius:14px;padding:18px 20px;margin-top:20px;font:15.5px/1.65 var(--sans)}
+.coment>b:first-child{display:block;font-size:16px;margin-bottom:6px}
+.coment.ok>b:first-child{color:var(--ok)}.coment.er>b:first-child{color:var(--err)}
+.coment .base{font-size:13px}
+.qPe{display:flex;align-items:center;gap:10px;margin-top:22px;padding-top:18px;border-top:1px solid var(--linha)}
+.qPe .atalhos{margin-left:auto;font-size:12.5px;color:var(--ink2);display:flex;gap:6px;align-items:center}
+
+/* ---------- filtros ---------- */
+.maisF>summary{font-size:13.5px;font-weight:600}
+.fToggle{font-size:15px}
+
+/* ---------- leituras ---------- */
+.listaL{background:var(--sup);border:1px solid var(--linha);border-radius:var(--rG);padding:4px 8px;box-shadow:var(--sombra)}
+.listaL .itemL{border-radius:12px;padding:14px 14px 15px;border-top:1px solid var(--linha)}
+.listaL .itemL:hover{background:var(--sup2)}
+.listaL .itemL h3{font-size:16.5px}
+.listaL h3.grupo{padding:14px 14px 2px;margin:0;font-size:13px;color:var(--ink2)}
+.progL{height:5px;border-radius:5px}.progL i{border-radius:5px}
+.barraL{border-bottom:1px solid var(--linha);padding-bottom:10px}
+
+/* ---------- tela inicial ---------- */
+.ini{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:18px}
+.ini>.cx{margin:0}
+.ini .c12{grid-column:span 12}.ini .c8{grid-column:span 8}.ini .c7{grid-column:span 7}.ini .c6{grid-column:span 6}.ini .c5{grid-column:span 5}.ini .c4{grid-column:span 4}
+.cxTit{display:flex;align-items:baseline;gap:10px;margin:0 0 14px}
+.cxTit h3{margin:0;font-size:16px}
+.cxTit .mini{margin-left:auto}
+.cxTit a,.cxTit button.link{margin-left:auto;background:none;border:0;color:var(--brandInk);font-weight:600;font-size:13.5px;cursor:pointer;padding:0}
+.meta{display:flex;align-items:center;gap:22px}
+.anel{position:relative;width:132px;height:132px;flex:0 0 auto}
+.anel svg{transform:rotate(-90deg)}
+.anel .val{position:absolute;inset:0;display:grid;place-content:center;text-align:center}
+.anel .val b{font-size:30px;font-weight:750;letter-spacing:-.03em;line-height:1}
+.anel .val span{font-size:12.5px;color:var(--ink2);margin-top:4px}
+.metaTxt h2{margin:0 0 4px;font-size:22px}
+.metaTxt p{margin:0 0 14px;color:var(--ink2)}
+.statsL{display:flex;gap:26px;flex-wrap:wrap;margin-top:4px}
+.statsL div b{display:block;font-size:20px;font-weight:750;letter-spacing:-.02em}
+.statsL div span{font-size:12.5px;color:var(--ink2)}
+.fogo{color:var(--fogo)}
+.semana{display:grid;grid-template-columns:repeat(14,1fr);gap:6px;align-items:end;height:118px;margin-top:6px}
+.semana div{display:flex;flex-direction:column;align-items:center;gap:6px;height:100%;justify-content:flex-end}
+.semana i{display:block;width:100%;max-width:26px;border-radius:6px 6px 3px 3px;background:var(--sup3);min-height:4px}
+.semana i.cheio{background:var(--brand)}
+.semana i.hoje{background:var(--brand2);box-shadow:0 0 0 2px var(--brandSup)}
+.semana span{font-size:11px;color:var(--ink3)}
+.acoes{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.acao{display:flex;flex-direction:column;gap:10px;text-align:left;background:var(--sup);border:1px solid var(--linha);border-radius:14px;padding:16px;cursor:pointer;box-shadow:var(--sombra);
+  transition:border-color .15s,box-shadow .15s,transform .15s;color:var(--ink);min-width:0}
+.acao:hover{border-color:var(--brand);box-shadow:var(--sombraM);transform:translateY(-2px)}
+.acao .ic{width:38px;height:38px;border-radius:11px;display:grid;place-items:center;font-size:21px}
+.acao b{font-size:15px;display:block}
+.acao small{font-size:13px;color:var(--ink2);display:block;margin-top:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.acao .n{font-size:24px;font-weight:750;letter-spacing:-.02em;margin-top:auto}
+.foco .item{display:grid;grid-template-columns:10px minmax(0,1fr) 110px 52px;gap:12px;align-items:center;padding:10px 0;border-top:1px solid var(--linha)}
+.foco .item:first-child{border-top:0;padding-top:2px}
+.foco .pt{width:10px;height:10px;border-radius:3px}
+.foco .nome{font-weight:600;font-size:14.5px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.foco .nome small{display:block;font-weight:400;color:var(--ink2);font-size:12.5px}
+.foco .taxa{text-align:right;font-weight:700;font-variant-numeric:tabular-nums;font-size:14px}
+.cta{display:flex;align-items:center;gap:16px;background:var(--brandSup);border:1px solid transparent}
+.cta .ic{width:46px;height:46px;border-radius:13px;background:var(--brand);color:#fff;display:grid;place-items:center;font-size:24px;flex:0 0 auto}
+.cta h3{margin:0 0 2px}.cta p{margin:0;color:var(--ink2);font-size:14px}
+.cta .bt{margin-left:auto}
+
+/* ============ computador: barra lateral ============ */
+@media(min-width:900px){
+  body{padding-left:var(--lado)}
+  header{position:fixed;top:0;left:0;bottom:0;width:var(--lado);background:var(--sup);border-bottom:0;border-right:1px solid var(--linha);padding:0;z-index:40}
+  .topo{flex-direction:column;align-items:stretch;max-width:none;height:100%;padding:18px 14px 14px;gap:0;min-height:0}
+  .marca{padding:2px 8px 20px}
+  nav.abas{flex-direction:column;gap:2px;overflow-y:auto;flex:1}
+  nav.abas button{border:0;padding:0 12px;min-height:40px;border-radius:10px;font-size:14.5px;font-weight:550;color:var(--ink2);gap:12px;justify-content:flex-start;transition:background .12s,color .12s}
+  nav.abas button .ti{display:inline-block;font-size:20px}
+  nav.abas button:hover{background:var(--sup2);color:var(--ink)}
+  nav.abas button[aria-selected="true"]{background:var(--brandSup);color:var(--brandInk);font-weight:650;border:0}
+  .navGrupo{font-size:11.5px;font-weight:650;color:var(--ink3);padding:16px 12px 6px;letter-spacing:.04em}
+  .navGrupo:first-child{padding-top:2px}
+  .contador{margin:10px 0 0;padding-top:10px;border-top:1px solid var(--linha);flex-direction:column;align-items:stretch;gap:2px}
+  .contador .btIco,.contador .btConta{width:100%;height:40px;justify-content:flex-start;gap:12px;padding:0 12px;border-radius:10px;font-size:14.5px;font-weight:550;color:var(--ink2);display:flex;align-items:center}
+  .contador .btIco .ti,.contador .btConta .ti{font-size:20px}
+  .contador .btIco .rot{display:inline}
+  .contador .btIco kbd{display:inline-block;margin-left:auto}
+  .contador .btIco:hover,.contador .btConta:hover{background:var(--sup2);color:var(--ink)}
+  .btConta.logado{color:var(--brandInk)}
+  #btLinha{display:none!important}
+  main{max-width:1160px;padding:34px 40px 64px}
+  .faixas{left:var(--lado)}
+  #sec-questoes>.cx:first-child,#sec-leituras>.filtroL,#sec-pratica>.cx:first-child{
+    border:1px solid var(--linha);border-radius:var(--rG);padding:18px;background:var(--sup);position:sticky;top:24px;box-shadow:var(--sombra)}
+  #sec-questoes>.cx:not(:first-child),#sec-pratica>*:not(:first-child),#sec-leituras>*:not(.filtroL){max-width:none}
+  #sec-questoes,#sec-leituras,#sec-pratica{grid-template-columns:260px minmax(0,1fr);gap:24px}
+  #sec-questoes #qCartao{max-width:840px}
+  #sec-questoes #qCartao .cx{padding:26px 30px}
+  .sumarioL{top:24px}
+  body.lendo #sec-leituras{grid-template-columns:240px minmax(0,1fr)}
+}
+@media(min-width:900px) and (max-width:1180px){
+  :root{--lado:76px}
+  .marca span:not(.logo),.navGrupo,nav.abas button span,.contador .rot,.contador kbd,.contador .btConta span{display:none!important}
+  .marca{padding:2px 0 18px;justify-content:center}
+  nav.abas button,.contador .btIco,.contador .btConta{justify-content:center;padding:0}
+  main{padding:28px 28px 60px}
+  .ini .c8,.ini .c7,.ini .c5,.ini .c4{grid-column:span 12}
+}
+
+/* ============ tablet ============ */
+@media(min-width:641px) and (max-width:899px){
+  header{background:var(--sup);border-bottom:1px solid var(--linha)}
+  .topo{max-width:none;padding:0 18px;gap:18px;min-height:58px}
+  .navGrupo{display:none}
+  nav.abas{gap:4px;align-items:center}
+  nav.abas button{border:0;padding:7px 11px;border-radius:9px;font-size:14px;font-weight:550}
+  nav.abas button[aria-selected="true"]{background:var(--brandSup);color:var(--brandInk);border:0}
+  main{padding:26px 22px 56px}
+  .ini .c8,.ini .c7,.ini .c6,.ini .c5,.ini .c4{grid-column:span 12}
+  .acoes{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+
+/* ============ celular ============ */
+@media(max-width:640px){
+  :root{--nav:calc(66px + env(safe-area-inset-bottom))}
+  /* sem backdrop-filter no header: ele vira bloco de contenção e a barra fixa de baixo subiria junto */
+  header{background:var(--sup);border-bottom:1px solid var(--linha)}
+  .topo{min-height:56px;padding:0 10px 0 16px}
+  .marca .logo{width:30px;height:30px;border-radius:9px}
+  .navGrupo{display:none}
+  main{padding:18px 14px calc(28px + var(--nav))}
+  .pgTitulo{margin-bottom:16px}
+  .pgTitulo h1{font-size:25px}
+  .pgTitulo p{font-size:14px}
+  .cx{padding:18px 16px;border-radius:14px;margin-bottom:14px}
+  .cx+.cx{padding-top:18px}
+  nav.abas{background:color-mix(in srgb,var(--sup) 92%,transparent);backdrop-filter:saturate(1.6) blur(16px);-webkit-backdrop-filter:saturate(1.6) blur(16px);
+    border-top:1px solid var(--linha);padding:6px 4px calc(6px + env(safe-area-inset-bottom))}
+  nav.abas button{gap:4px;min-height:54px;font-size:11.5px;font-weight:550;color:var(--ink2)}
+  nav.abas button .ti{font-size:22px;padding:3px 18px;border-radius:14px;transition:background .15s}
+  nav.abas button[aria-selected="true"]{color:var(--ink);font-weight:700}
+  nav.abas button[aria-selected="true"] .ti{background:var(--brandSup);color:var(--brandInk)}
+  .enun{font-size:17px;line-height:1.65}
+  .alt{padding:12px 12px;font-size:15.5px;gap:12px}
+  .expl{margin-left:12px}
+  #qCartao .cx{padding:18px 16px}
+  .qPe .atalhos{display:none}
+  .qPe .bt{flex:1}
+  .ini{gap:14px}
+  .ini .cx{grid-column:span 12!important}
+  .meta{gap:16px;align-items:flex-start}
+  .metaTxt p{display:none}
+  .metaTxt h2{margin:6px 0 10px}
+  .statsL{gap:14px 20px}
+  .statsL div b{font-size:18px}
+  .qTopo{gap:8px;flex-wrap:nowrap}
+  .qProg{display:none}
+  .qUlt{display:none}
+  .qEstado{margin-left:auto;font-size:12px;padding:3px 7px}
+  .btMarca{margin-left:auto;flex:0 0 auto}
+  .qEstado+.btMarca{margin-left:0}
+  .anel{width:108px;height:108px}
+  .anel svg{width:108px;height:108px}
+  .anel .val b{font-size:24px}
+  .metaTxt h2{font-size:19px}
+  .acoes{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .acao{padding:14px}
+  .foco .item{grid-template-columns:10px minmax(0,1fr) 64px 44px}
+  .semana{gap:4px;height:100px}
+  .grade2{grid-template-columns:1fr 1fr;gap:10px}
+  .kpi{border:0;padding:12px 14px}
+  .cta{flex-wrap:wrap}.cta .bt{margin-left:0;width:100%}
+  .listaL{padding:2px 4px}
+  #sec-questoes>.cx:first-child,#sec-leituras>.filtroL,#sec-pratica>.cx:first-child{background:var(--sup);border:1px solid var(--linha);border-radius:14px;padding:12px 14px;margin-bottom:14px}
+}
+
+:root[data-tema="escuro"] .marca .logo{color:var(--brandInk)}
+@media(prefers-color-scheme:dark){:root:not([data-tema="claro"]) .marca .logo{color:var(--brandInk)}}
+/* Direção de produto: foco de estudo, hierarquia e superfícies contidas. */
+:root{--lado:224px;--r:8px;--rG:12px;--sombra:none;--sombraM:0 8px 28px #102a3110}
+body{line-height:1.6}
+.cx{border-radius:12px;box-shadow:none}
+.pgTitulo{margin-bottom:30px}.pgTitulo h1{font-size:32px;letter-spacing:-.04em}.pgTitulo p{max-width:65ch}
+.bt,.bt.mini,select,input[type=search],input[type=number]{border-radius:8px;box-shadow:none}
+.marca .logo{background:transparent;color:var(--brandInk);border:1px solid var(--linhaF);border-radius:8px}
+#sec-questoes{display:block;max-width:880px;margin:0 auto}
+#sec-questoes>.cx:first-child{position:static;border:1px solid var(--linha);border-radius:10px;padding:14px 18px;margin:0 0 20px;background:var(--sup);box-shadow:none}
+#sec-questoes .fToggle{display:flex;width:100%;align-items:center;text-align:left;gap:10px}
+#sec-questoes .fCorpo{display:none;margin-top:18px;flex-direction:row;align-items:flex-end;gap:14px}
+#sec-questoes .aberto .fCorpo{display:flex}
+#sec-questoes .fCorpo>label{flex:1;min-width:180px;width:auto}
+#sec-questoes #qCartao{max-width:none}#sec-questoes #qCartao .cx{padding:30px 36px}
+.qTopo{border-bottom:1px solid var(--linha);padding-bottom:18px;margin-bottom:24px}.qProg{height:3px}
+.enun{font-size:18px;line-height:1.8;margin-bottom:28px}
+.alt{border-radius:8px;padding:16px;align-items:center}.alt .let{border-radius:6px;width:28px;height:28px;min-width:28px}
+.alt:hover{box-shadow:none;background:var(--brandSup)}
+.listaL{padding:0 26px;border-radius:12px}.listaL .itemL{border-radius:0;padding:24px 0}.listaL .itemL:hover{background:transparent}
+.listaL .itemL h3{font-size:20px;letter-spacing:-.025em;display:flex;gap:16px;justify-content:space-between}.itemL h3 .ti{color:var(--ink3);font-size:20px;flex-shrink:0}
+.listaL .itemL:focus-visible{outline:2px solid var(--brand);outline-offset:4px}
+.listaL .itemL:hover h3{color:var(--brandInk)}.listaL h3.grupo{padding:24px 0 8px;font-size:14px}.resumoL{font-size:15px;line-height:1.65}.metaL{font-size:13px}
+@media(min-width:900px){
+ .topo{padding:26px 16px 18px}.marca{padding-bottom:30px}nav.abas button{min-height:44px;border-radius:7px;font-size:14px}
+ nav.abas button[aria-selected=true]{box-shadow:inset 3px 0 var(--brand)}
+ main{max-width:1250px;padding:42px 48px 64px}
+ #sec-leituras{grid-template-columns:220px minmax(0,1fr);gap:32px}
+ #sec-leituras>.filtroL .fToggle{display:none}
+ #sec-leituras>.filtroL{background:transparent;border:0;border-radius:0;padding:0;box-shadow:none}
+}
+@media(min-width:900px) and (max-width:1180px){:root{--lado:76px}main{padding:30px}.ini .c7{grid-column:span 7}.ini .c5{grid-column:span 5}}
+@media(max-width:899px){.sessaoPrincipal h2{max-width:22ch}.ini .atividadeInicio{padding:0}.atividadeInicio .semana{height:110px;margin-top:12px}}
+@media(max-width:640px){
+ main{padding:24px 16px calc(28px + var(--nav))}.pgTitulo h1{font-size:28px}.pgTitulo{margin-bottom:24px}
+ .ini{gap:22px}.ini .sessaoPrincipal{padding:24px}.sessaoPrincipal h2{font-size:29px}.sessaoRotulo{font-size:12px}
+ .resumoInicio{gap:12px;display:grid;grid-template-columns:repeat(3,1fr);font-size:12px}.resumoInicio b{display:block;font-size:22px}
+ .acoes{gap:20px 0}.acao{padding:0 16px}.acao:nth-child(odd){padding-left:0}.acao:nth-child(even){border:0}
+ #sec-questoes #qCartao .cx{padding:20px 16px}.enun{font-size:17px;line-height:1.7}.alt{padding:13px 11px;font-size:15.5px}
+ .listaL{padding:0 18px}.listaL .itemL h3{font-size:19px}.metaCompacta{gap:10px}.sessaoPrincipal .bt{width:100%}
+}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(assets/fonts/inter-400.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(assets/fonts/inter-500.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(assets/fonts/inter-600.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(assets/fonts/inter-700.ttf) format('truetype');
+}
+
+/* Referências: Inter e controles do MedTech; densidade e painéis do InternaMed. */
+:root{--sans:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;--serif:var(--sans);--papel:#f5f5f9;--sup:#fff;--sup2:#f0f2f6;--ink:#172033;--ink2:#59677b;--linha:#e2e8f0;--linhaF:#cbd5e1;--lado:224px;--rG:10px;--brand:#1e40af;--brandInk:#1e40af;--brandSup:#eff6ff;--brandTxt:#fff}
+:root[data-tema="escuro"]{--papel:#0c1017;--sup:#151b26;--sup2:#1d2634;--ink:#e7eef7;--ink2:#9aa9bd;--linha:#293344;--linhaF:#3b485c;--brand:#89adff;--brandInk:#a9c3ff;--brandSup:#203253;--brandTxt:#101827}
+@media(prefers-color-scheme:dark){:root:not([data-tema="claro"]){--papel:#0c1017;--sup:#151b26;--sup2:#1d2634;--ink:#e7eef7;--ink2:#9aa9bd;--linha:#293344;--linhaF:#3b485c;--brand:#89adff;--brandInk:#a9c3ff;--brandSup:#203253;--brandTxt:#101827}}
+body{font-size:14px;line-height:1.55;letter-spacing:0}h1,h2,h3{letter-spacing:-.02em;font-weight:600}
+.pgTitulo{margin-bottom:24px;padding:0;border:0}.pgTitulo h1{font-size:24px;font-weight:600;letter-spacing:-.4px}.pgTitulo p{font-size:13px;margin-top:5px}.pgTitulo p:empty{display:none}
+.bt{font-size:13px;font-weight:500;min-height:40px;border-radius:8px;padding:9px 15px}.bt.sec{font-weight:500}.cx{border-radius:10px;padding:20px;box-shadow:0 1px 2px #0f172a06}
+.mesaEstudo{display:grid;grid-template-columns:minmax(0,1fr) 240px;gap:20px;align-items:start}.estudoConteudo{min-width:0}
+.sessaoTexto,.estudoBiblioteca,.estudoMargem{background:var(--sup);border:1px solid var(--linha);border-radius:10px;padding:20px;box-shadow:0 1px 2px #0f172a06}
+.sessaoTexto{margin-bottom:20px}.indiceSecao{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:16px}.indiceSecao h2,.estudoMargem h2{font-size:14px;font-weight:600;margin:0}.indiceSecao>span{font-size:12px;color:var(--ink2)}
+.sessaoTexto h3{font-size:20px;font-weight:600;line-height:1.4;margin:0 0 12px}.trechoQuestao{font-size:14px;line-height:1.75;margin:0 0 18px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}.sessaoDescricao{color:var(--ink2);margin:0 0 18px}
+.estudoAbrir{gap:18px}.textoAcao{background:none;border:0;padding:8px 0;color:var(--brandInk);font-size:12px;font-weight:500;cursor:pointer}.textoAcao:hover{text-decoration:underline}
+.leituraLinha{width:100%;display:block;position:relative;border:0;border-top:1px solid var(--linha);text-align:left;background:transparent;padding:16px 25px 16px 0;cursor:pointer;color:var(--ink)}.leituraLinha:hover{background:var(--sup2)}.leituraLinha:last-child{padding-bottom:2px}.leituraDados{display:block;font-size:11px;color:var(--ink2);margin-bottom:5px}.leituraNome{display:block;font-size:15px;font-weight:600;line-height:1.4}.leituraResumo{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:12px;line-height:1.65;color:var(--ink2);margin-top:5px}.leituraSeta{position:absolute;right:0;top:40%;color:var(--ink2)}
+.estudoMargem h2{margin-bottom:12px}.linhaFerramenta{width:100%;display:flex;align-items:center;justify-content:space-between;gap:10px;border:0;border-bottom:1px solid var(--linha);padding:14px 0;background:none;font-size:13px;text-align:left;cursor:pointer}.linhaFerramenta span:last-child{color:var(--ink2)}.linhaFerramenta:hover{color:var(--brandInk)}.estudoProgresso{border:0;margin-top:20px;font-size:12px}.estudoProgresso summary{color:var(--ink2);cursor:pointer}.estudoProgresso p{font-size:13px}
+.listaL{padding:4px 20px;border:1px solid var(--linha);background:var(--sup);border-radius:10px}.listaL .itemL{padding:18px 0}.listaL .itemL h3{font-size:17px;font-weight:600}.resumoL{font-size:13px}.metaL{font-size:12px}
+#sec-questoes #qCartao .cx{padding:24px;border:1px solid var(--linha);border-radius:10px;background:var(--sup)}.enun{font-size:16px;line-height:1.8}.alt{font-size:14px;padding:13px 14px}.alt .let{font-size:12px;flex:0 0 28px}.alt>span:not(.let){min-width:0;flex:1}.qNum{font-size:12px}.qNum b{font-size:13px}
+@media(min-width:900px){header{background:#0b2149;border:0}.topo{padding:22px 12px 16px}.marca{font-size:19px;color:#fff;padding:0 10px 26px}.marca .logo{display:grid;background:#1e40af;border:0;color:#fff!important;width:30px;height:30px}.navGrupo{color:#8ba6ca;font-size:11px;letter-spacing:0;padding:16px 10px 8px}nav.abas button{font-size:13px;min-height:40px;border-radius:7px;padding:9px 10px;gap:10px;color:#bfdbfe;font-weight:400}nav.abas button .ti{font-size:18px}nav.abas button:hover{background:#16336b;color:#fff}nav.abas button[aria-selected=true]{background:#1e40af;box-shadow:none;color:#fff;font-weight:500}.contador{border-color:#294269}.contador .btIco,.contador .btConta{font-size:13px;color:#bfdbfe}.contador .btIco:hover,.contador .btConta:hover{background:#16336b;color:white}main{max-width:1230px;padding:30px 32px 60px}.contador kbd{background:#16336b;border-color:#476081;color:#bfdbfe}}
+@media(min-width:900px) and (max-width:1180px){:root{--lado:76px}.marca{padding:0 0 26px}.mesaEstudo{grid-template-columns:minmax(0,1fr) 220px}nav.abas button{padding:9px 0}}
+@media(max-width:899px){.mesaEstudo{grid-template-columns:1fr}.estudoMargem{margin-top:0}}
+@media(max-width:640px){main{padding:20px 14px calc(28px + var(--nav))}.pgTitulo h1{font-size:22px}.sessaoTexto,.estudoBiblioteca,.estudoMargem{padding:17px}.mesaEstudo{gap:16px}.sessaoTexto{margin-bottom:16px}.sessaoTexto h3{font-size:18px}.trechoQuestao{font-size:14px}.indiceSecao{gap:8px}.indiceSecao>span{font-size:11px}#sec-questoes #qCartao .cx{padding:18px 15px}.enun{font-size:16px}.alt{font-size:14px}.listaL{padding:4px 16px}.marca{font-family:var(--sans)}}
+
+/* ============================================================
+   23/09/2026, cm-v97: camada "viva". Pedido do Matheus: "muito quadrado, tudo da mesma cor e
+   pouco dinâmico". Três eixos:
+   1. forma: cartões com cantos de 22 px, botões e filtros em pílula, letras e ícones em círculo;
+   2. cor: cada seção tem a sua (--ac, definida por body[data-aba]); a barra lateral mostra as
+      cores de todas; indicadores em blocos tingidos, cada um de uma cor;
+   3. movimento: entrada escalonada das telas, contadores, anel e barras que se preenchem,
+      acerto que pulsa, erro que treme, cartão que vira, confete ao bater a meta.
+   Sem gradiente e sem emoji. Movimento reduzido respeitado no fim do bloco.
+   ============================================================ */
+:root{
+  --papel:#F7F5F0; --sup:#FFFFFF; --sup2:#F3F0E9; --sup3:#E9E4D9;
+  --ink:#1B1915; --ink2:#5F594F; --ink3:#736B5F; --linha:#ECE7DD; --linhaF:#DAD3C5;
+  --c-marca:#B13C0B;
+  --c-indigo:#5B5BF0; --c-azul:#2F7BF6; --c-laranja:#F76E1E; --c-verde:#11A870; --c-violeta:#8E5AF2;
+  --c-ambar:#F2A007; --c-ciano:#0AA5C2; --c-rosa:#E8468E; --c-cinza:#667085; --c-vermelho:#E5484D;
+  --ac:var(--c-marca); --acSup:#FBEDE5; --acInk:#9A3412;
+  --brand:var(--ac); --brandInk:var(--acInk); --brandSup:var(--acSup); --brandTxt:#fff;
+  --ok:#0B7A55; --okSup:#E3F8EF; --err:#C2262E; --errSup:#FFECEC;
+  --rG:22px; --r:14px;
+  --sombra:0 1px 2px rgba(20,24,39,.04),0 4px 14px rgba(20,24,39,.05);
+  --sombraM:0 10px 30px rgba(20,24,39,.10),0 2px 6px rgba(20,24,39,.05);
+  --mola:cubic-bezier(.34,1.56,.64,1);
+}
+:root[data-tema="escuro"]{
+  --papel:#12100D; --sup:#1C1915; --sup2:#24201B; --sup3:#2F2A23;
+  --ink:#F3EFE8; --ink2:#B5AC9E; --ink3:#9C9384; --linha:#2E2922; --linhaF:#3F382E;
+  --acSup:#23244A; --acInk:#A9A9FF; --brandTxt:#0D1017;
+  --okSup:#0F2A20; --errSup:#34181A;
+  --sombra:0 1px 2px rgba(0,0,0,.4); --sombraM:0 12px 30px rgba(0,0,0,.5);
+}
+@media(prefers-color-scheme:dark){:root:not([data-tema="claro"]){
+  --papel:#12100D; --sup:#1C1915; --sup2:#24201B; --sup3:#2F2A23;
+  --ink:#F3EFE8; --ink2:#B5AC9E; --ink3:#9C9384; --linha:#2E2922; --linhaF:#3F382E;
+  --acSup:#23244A; --acInk:#A9A9FF; --brandTxt:#0D1017;
+  --okSup:#0F2A20; --errSup:#34181A;
+  --sombra:0 1px 2px rgba(0,0,0,.4); --sombraM:0 12px 30px rgba(0,0,0,.5);
+}}
+/* cor da seção: a mesma variável pinta título, botões, anel, barra de progresso e aba ativa */
+/* FlashMed (07/10/2026): mesma camada do ClínicaMed com outra paleta. Marca âmbar queimado
+   (#C2410C, a cor da linha MedTech Provas), Questões verde, Simulado rosa, Leituras azul,
+   Cartões âmbar, Desempenho violeta. */
+/* O --ac de cada aba é o tom ESCURO da cor, nos dois temas: o .bt leva texto branco fixo, e com o
+   tom vivo ele reprovava (verde 2,9, âmbar 2,1, rosa 3,7). Medido com branco: verde 5,5, rosa 6,0,
+   azul 5,2, âmbar 5,0, violeta 5,7, cinza 5,4. No escuro o texto colorido usa --acInk (70% com branco). */
+body[data-aba="inicio"]{--ac:var(--c-marca)}
+body[data-aba="questoes"]{--ac:#047857}
+body[data-aba="simulado"]{--ac:#BE185D}
+body[data-aba="leituras"]{--ac:#2563EB}
+body[data-aba="cartoes"]{--ac:#B45309}
+body[data-aba="painel"]{--ac:#7C3AED}
+body[data-aba="ajustes"]{--ac:#5F6B7A}
+
+body[data-aba]{--acSup:color-mix(in srgb,var(--ac) 12%,var(--sup));--acInk:color-mix(in srgb,var(--ac) 80%,var(--ink))}
+:root[data-tema="escuro"] body[data-aba]{--acSup:color-mix(in srgb,var(--ac) 20%,var(--sup));--acInk:color-mix(in srgb,var(--ac) 70%,#fff)}
+@media(prefers-color-scheme:dark){:root:not([data-tema="claro"]) body[data-aba]{--acSup:color-mix(in srgb,var(--ac) 20%,var(--sup));--acInk:color-mix(in srgb,var(--ac) 70%,#fff)}}
+
+body{background:var(--papel);font-size:14.5px}
+h1,h2,h3{letter-spacing:-.02em}
+
+/* ---------- barra lateral clara, com a cor de cada seção ---------- */
+@media(min-width:900px){
+  header{background:var(--sup)!important;border-right:1px solid var(--linha)!important}
+  .topo{padding:22px 14px 16px!important}
+  .marca{color:var(--ink)!important;font-size:18px!important;padding:0 8px 24px!important}
+  .marca .logo{background:var(--c-marca)!important;color:#fff!important;border:0!important;border-radius:50%!important;width:34px!important;height:34px!important;
+    box-shadow:0 6px 16px color-mix(in srgb,var(--c-marca) 35%,transparent)}
+  .navGrupo{color:var(--ink3)!important;font-size:11px!important;font-weight:600;letter-spacing:.06em!important;text-transform:uppercase;padding:18px 12px 8px!important}
+  nav.abas{gap:3px}
+  nav.abas button{color:var(--ink2)!important;border-radius:999px!important;min-height:42px!important;padding:5px 14px 5px 6px!important;gap:12px!important;font-size:14px!important;font-weight:500!important;box-shadow:none!important;
+    transition:background .2s,color .2s,transform .15s}
+  nav.abas button .ti{width:32px;height:32px;border-radius:50%;display:grid!important;place-items:center;font-size:17px!important;
+    background:color-mix(in srgb,var(--c) 13%,transparent);color:var(--c);transition:transform .25s var(--mola),background .2s}
+  nav.abas button:hover{background:var(--sup2)!important;color:var(--ink)!important}
+  nav.abas button:hover .ti{transform:scale(1.1) rotate(-6deg)}
+  nav.abas button[aria-selected=true]{background:color-mix(in srgb,var(--c) 12%,var(--sup))!important;color:color-mix(in srgb,var(--c) 75%,var(--ink))!important;font-weight:650!important}
+  nav.abas button[aria-selected=true] .ti{background:var(--c);color:#fff;box-shadow:0 6px 14px color-mix(in srgb,var(--c) 40%,transparent)}
+  .contador{border-color:var(--linha)!important}
+  .contador .btIco,.contador .btConta{color:var(--ink2)!important;border-radius:999px!important}
+  .contador .btIco:hover,.contador .btConta:hover{background:var(--sup2)!important;color:var(--ink)!important}
+  .contador kbd{background:var(--sup2)!important;border-color:var(--linhaF)!important;color:var(--ink2)!important}
+  main{max-width:1240px!important;padding:34px 40px 64px!important}
+}
+@media(min-width:900px) and (max-width:1180px){
+  nav.abas button{padding:5px!important;justify-content:center!important;width:44px;margin:0 auto}
+  .navGrupo{display:none!important}
+}
+/* celular: barra inferior com o ícone da aba ativa em pílula colorida */
+@media(max-width:640px){
+  nav.abas button .ti{transition:transform .25s var(--mola),background .2s,color .2s}
+  nav.abas button[aria-selected="true"] .ti{background:var(--c)!important;color:#fff!important;transform:translateY(-2px)}
+  nav.abas button[aria-selected="true"]{color:color-mix(in srgb,var(--c) 75%,var(--ink))!important}
+  .marca .logo{background:var(--c-marca)!important;color:#fff!important;border-radius:50%!important}
+}
+
+/* ---------- título de página com selo colorido ---------- */
+.pgTitulo{display:grid;grid-template-columns:auto 1fr;column-gap:16px;align-items:center;margin-bottom:26px!important}
+.pgTitulo .selo{grid-row:span 2;width:52px;height:52px;border-radius:50%;display:grid;place-items:center;background:var(--ac);color:#fff;font-size:25px;
+  box-shadow:0 10px 24px color-mix(in srgb,var(--ac) 35%,transparent);animation:pop .5s var(--mola) both}
+.pgTitulo h1{font-size:27px!important;font-weight:700!important;letter-spacing:-.03em!important;margin:0}
+.pgTitulo p{margin:3px 0 0!important;font-size:14px!important;color:var(--ink2)}
+
+/* ---------- superfícies e controles ---------- */
+.cx,.sessaoTexto,.estudoBiblioteca,.estudoMargem,.listaL,#sec-questoes #qCartao .cx{border-radius:var(--rG)!important;border:1px solid var(--linha)!important;box-shadow:var(--sombra)!important;background:var(--sup)}
+.cx+.cx{border-top:1px solid var(--linha)}
+.bt{border-radius:999px!important;min-height:42px!important;padding:9px 20px!important;font-weight:600!important;font-size:14px!important;background:var(--ac);border-color:var(--ac);color:#fff;
+  box-shadow:0 6px 16px color-mix(in srgb,var(--ac) 28%,transparent)!important;transition:transform .15s var(--mola),box-shadow .2s,filter .2s}
+.bt:hover{background:var(--ac);border-color:var(--ac);filter:brightness(1.07);transform:translateY(-1px);box-shadow:0 10px 22px color-mix(in srgb,var(--ac) 34%,transparent)!important}
+.bt:active{transform:scale(.96)}
+.bt.sec{background:var(--sup);color:var(--ink);border-color:var(--linhaF);box-shadow:none!important}
+.bt.sec:hover{background:var(--sup2);border-color:var(--linhaF);filter:none}
+.bt.mini{min-height:34px!important;padding:5px 14px!important;font-size:13px!important}
+.bt:disabled{transform:none;box-shadow:none!important}
+select,input[type=text],input[type=number],input[type=search],input[type=email],input:not([type]),textarea{border-radius:14px!important}
+select:focus,input:focus,textarea:focus{border-color:var(--ac)!important;box-shadow:0 0 0 4px color-mix(in srgb,var(--ac) 16%,transparent)!important}
+.maisF>summary,.fToggle{border-radius:999px}
+#sec-questoes>.cx:first-child{border-radius:999px!important;padding:10px 22px!important}
+#sec-questoes>.cx.filtros.aberto{border-radius:var(--rG)!important;padding:18px 22px!important}
+.fToggle .resumo{background:var(--acSup);color:var(--acInk);padding:4px 12px;border-radius:999px;font-size:13px;font-weight:600}
+.barra,.qProg,.progL{height:8px!important;border-radius:999px!important;background:var(--sup3)!important;overflow:hidden}
+.barra i,.qProg i,.progL i{border-radius:999px!important;background:var(--ac);transition:width 1s cubic-bezier(.22,1,.36,1)}
+.pilula.ok,.pilula.er{border-radius:999px!important;padding:3px 10px!important}
+.kpi{border-radius:18px!important;background:color-mix(in srgb,var(--k,var(--ac)) 10%,var(--sup))!important;border:0!important;padding:16px 18px!important}
+.kpi b{color:color-mix(in srgb,var(--k,var(--ac)) 80%,var(--ink));font-size:26px!important}
+.grade2 .kpi:nth-child(4n+1){--k:var(--c-azul)}.grade2 .kpi:nth-child(4n+2){--k:var(--c-verde)}
+.grade2 .kpi:nth-child(4n+3){--k:var(--c-laranja)}.grade2 .kpi:nth-child(4n+4){--k:var(--c-violeta)}
+.grade2{gap:14px!important}
+.modal{border-radius:26px!important}
+.faixa{border-radius:999px!important;padding:12px 20px!important}
+
+/* ---------- questão ---------- */
+#sec-questoes #qCartao .cx{padding:30px 34px!important}
+.qTopo{border-bottom:0!important;margin-bottom:18px!important;padding-bottom:0!important}
+.qNum{background:var(--acSup);color:var(--acInk)!important;padding:6px 14px;border-radius:999px;font-weight:600}
+.qNum b{color:var(--acInk)!important}
+.qEstado{border-radius:999px!important;padding:5px 12px!important}
+.btMarca{border-radius:50%!important;width:40px!important;height:40px!important;transition:transform .2s var(--mola),background .2s}
+.btMarca:hover{transform:scale(1.08)}
+.btMarca.on{background:var(--c-ambar)!important;color:#fff!important;animation:pop .4s var(--mola)}
+.qCombo{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:5px 12px;font-size:12.5px;font-weight:700;background:color-mix(in srgb,var(--c-laranja) 14%,var(--sup));color:var(--c-laranja);animation:pop .45s var(--mola)}
+.enun{font-size:17px!important;line-height:1.75!important}
+#alts{gap:12px!important}
+.alt{border-radius:18px!important;border:1.5px solid var(--linha)!important;padding:14px 16px!important;background:var(--sup)!important;
+  transition:transform .18s var(--mola),border-color .15s,background .15s,box-shadow .2s!important}
+.alt .let{border-radius:50%!important;width:34px!important;height:34px!important;min-width:34px!important;flex:0 0 34px!important;font-size:14px!important;font-weight:700!important;
+  background:var(--sup2)!important;color:var(--ink2)!important;transition:background .2s,color .2s,transform .25s var(--mola)!important}
+.alt:not([disabled]):hover{border-color:var(--ac)!important;background:var(--acSup)!important;transform:translateX(4px);box-shadow:0 6px 18px color-mix(in srgb,var(--ac) 14%,transparent)!important}
+.alt:not([disabled]):hover .let{background:var(--ac)!important;color:#fff!important;transform:scale(1.08)}
+.alt:not([disabled]):active{transform:scale(.985)}
+.alt.certa,.alt.certa[disabled]:hover{background:var(--okSup)!important;border-color:var(--ok)!important;animation:acerto .55s var(--mola)}
+.alt.errada,.alt.errada[disabled]:hover{background:var(--errSup)!important;border-color:var(--err)!important;animation:treme .45s}
+.alt.certa .let{background:var(--ok)!important;color:#fff!important;font-size:0!important}
+.alt.certa .let::before{content:"";width:14px;height:8px;border-left:3px solid #fff;border-bottom:3px solid #fff;transform:translateY(-2px) rotate(-45deg);animation:marca .45s var(--mola) .1s both}
+.alt.errada .let{background:var(--err)!important;color:#fff!important}
+.expl{animation:desliza .35s ease both;margin-left:66px!important}
+.coment{border-radius:20px!important;animation:desliza .45s ease both}
+.coment.ok{background:var(--okSup)!important;border:1px solid color-mix(in srgb,var(--ok) 30%,transparent)!important}
+.coment.er{background:var(--errSup)!important;border:1px solid color-mix(in srgb,var(--err) 30%,transparent)!important}
+.coment .pilula{background:var(--sup);border-radius:999px;padding:3px 10px}
+.linha>.pilula+.pilula:before{content:none!important}
+.qPe{border-top:0!important;padding-top:6px!important}
+#qCartao.entra .cx{animation:entraQ .4s cubic-bezier(.22,1,.36,1) both}
+#qCartao.entra.volta .cx{animation-name:entraQv}
+
+/* ---------- leituras ---------- */
+.listaL{padding:10px!important;display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;background:transparent!important;border:0!important;box-shadow:none!important}
+.listaL h3.grupo{grid-column:1/-1;padding:14px 6px 2px!important;font-size:15px!important;color:var(--ink)!important}
+.listaL .itemL{background:var(--sup)!important;border:1px solid var(--linha)!important;border-radius:20px!important;padding:18px 18px 16px!important;box-shadow:var(--sombra);position:relative;overflow:hidden;
+  transition:transform .2s var(--mola),box-shadow .2s!important;border-top:1px solid var(--linha)!important}
+.listaL .itemL::before{content:"";position:absolute;left:0;top:0;right:0;height:5px;background:var(--ca,var(--ac))}
+.listaL .itemL:hover{transform:translateY(-4px);box-shadow:var(--sombraM)!important;background:var(--sup)!important}
+.listaL .itemL h3{font-size:16.5px!important}
+
+/* ---------- cartões ---------- */
+#sec-cartoes .heroCard,#sec-cartoes .cx{border-radius:26px!important}
+#verso .coment{animation:vira .5s cubic-bezier(.22,1,.36,1) both;transform-origin:top}
+
+/* ---------- tela Início ---------- */
+.vIni{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:18px}
+.vIni>*{min-width:0}
+.vHero{grid-column:span 8;position:relative;overflow:hidden;border-radius:28px;padding:30px 32px;background:var(--c-marca);color:#fff;
+  display:flex;gap:24px;align-items:center;box-shadow:0 18px 40px color-mix(in srgb,var(--c-marca) 30%,transparent)}
+.vHero .bola{position:absolute;border-radius:50%;background:#fff;opacity:.09;pointer-events:none}
+.vHero .b1{width:260px;height:260px;right:-70px;top:-90px;animation:flutua 9s ease-in-out infinite}
+.vHero .b2{width:130px;height:130px;right:170px;bottom:-60px;opacity:.07;animation:flutua 7s ease-in-out infinite reverse}
+.vHero .b3{width:46px;height:46px;left:44%;top:18px;opacity:.12;animation:flutua 6s ease-in-out infinite}
+.vHero .txt{flex:1;min-width:0;position:relative}
+.vHero small{display:inline-flex;align-items:center;gap:7px;font-size:12.5px;font-weight:600;background:rgba(255,255,255,.10);padding:5px 12px;border-radius:999px}
+.vHero h2{font-size:30px;line-height:1.15;margin:14px 0 8px;font-weight:750;letter-spacing:-.03em;color:#fff}
+.vHero p{margin:0 0 20px;opacity:.86;font-size:14.5px;max-width:46ch;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.vHero .bt{background:#fff!important;color:var(--c-marca)!important;border-color:#fff!important;box-shadow:0 8px 20px rgba(0,0,0,.18)!important}
+.vHero .bt.sec{background:rgba(255,255,255,.10)!important;color:#fff!important;border-color:rgba(255,255,255,.3)!important;box-shadow:none!important}
+.vHero .acoesH{display:flex;gap:10px;flex-wrap:wrap}
+.vAnel{position:relative;width:150px;height:150px;flex:0 0 auto}
+.vAnel svg{transform:rotate(-90deg)}
+.vAnel .arco{transition:stroke-dashoffset 1.4s cubic-bezier(.22,1,.36,1)}
+.vAnel .val{position:absolute;inset:0;display:grid;place-content:center;text-align:center}
+.vAnel .val b{font-size:36px;font-weight:800;line-height:1;letter-spacing:-.03em}
+.vAnel .val span{font-size:12px;opacity:.85;margin-top:4px}
+.vMeta{grid-column:span 4;border-radius:28px;padding:22px 24px;background:var(--sup);border:1px solid var(--linha);box-shadow:var(--sombra);display:flex;flex-direction:column}
+.vMeta h3{margin:0;font-size:15px}
+.vMeta .sub{font-size:12.5px;color:var(--ink2);margin-top:2px}
+.vSemana{display:flex;align-items:flex-end;gap:7px;height:118px;margin:auto 0 0;padding-top:16px}
+.vSemana div{flex:1;display:flex;flex-direction:column;align-items:center;gap:6px;height:100%;justify-content:flex-end}
+.vSemana i{width:100%;border-radius:999px;background:var(--sup3);min-height:8px;height:0;transition:height 1s cubic-bezier(.22,1,.36,1)}
+.vSemana i.cheio{background:var(--c-marca)}.vSemana i.parcial{background:color-mix(in srgb,var(--c-marca) 45%,var(--sup3))}
+.vSemana i.hoje{background:var(--c-laranja)}
+.vSemana span{font-size:11px;color:var(--ink3);font-weight:600}
+.vStats{grid-column:1/-1;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.vStat{--k:var(--c-azul);border-radius:24px;padding:18px 20px;background:color-mix(in srgb,var(--k) 11%,var(--sup));border:1px solid color-mix(in srgb,var(--k) 18%,transparent);
+  display:flex;gap:14px;align-items:center;cursor:pointer;text-align:left;color:var(--ink);transition:transform .2s var(--mola),box-shadow .2s;font:inherit}
+.vStat:hover{transform:translateY(-4px);box-shadow:0 12px 26px color-mix(in srgb,var(--k) 22%,transparent)}
+.vStat .ic{width:46px;height:46px;border-radius:50%;display:grid;place-items:center;background:var(--k);color:#fff;font-size:22px;flex:0 0 auto;box-shadow:0 8px 18px color-mix(in srgb,var(--k) 35%,transparent)}
+.vStat b{display:block;font-size:26px;font-weight:800;line-height:1.1;letter-spacing:-.03em;color:color-mix(in srgb,var(--k) 75%,var(--ink))}
+.vStat span{font-size:12.5px;color:var(--ink2);font-weight:500}
+.vStat.fogo .ic i{animation:chama 1.6s ease-in-out infinite;transform-origin:50% 90%}
+.vFoco,.vLer{grid-column:span 6;border-radius:28px;padding:22px 24px;background:var(--sup);border:1px solid var(--linha);box-shadow:var(--sombra)}
+.vTit{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.vTit h3{margin:0;font-size:16px}
+.vTit button{margin-left:auto;background:var(--sup2);border:0;border-radius:999px;padding:6px 12px;font-size:12.5px;font-weight:600;color:var(--ink2);cursor:pointer}
+.vTit button:hover{background:var(--acSup);color:var(--acInk)}
+.vArea{display:grid;grid-template-columns:36px minmax(0,1fr) 46px;gap:12px;align-items:center;padding:9px 0;cursor:pointer;border-radius:14px}
+.vArea:hover .nm{color:var(--ca)}
+.vArea .dot{width:36px;height:36px;border-radius:50%;background:color-mix(in srgb,var(--ca) 15%,var(--sup));color:color-mix(in srgb,var(--ca) 70%,var(--ink));display:grid;place-items:center;font-weight:800;font-size:13px}
+.vArea .nm{font-weight:600;font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;transition:color .2s}
+.vArea .barra{margin-top:6px}.vArea .barra i{background:var(--ca)!important}
+.vArea .tx{text-align:right;font-weight:800;font-size:14px;font-variant-numeric:tabular-nums}
+.vLeit{display:flex;gap:12px;overflow-x:auto;padding:4px 2px 8px;scroll-snap-type:x mandatory}
+.vLeit button{scroll-snap-align:start;flex:0 0 220px;text-align:left;border:1px solid var(--linha);background:var(--sup);border-radius:20px;padding:16px;cursor:pointer;
+  position:relative;overflow:hidden;color:var(--ink);font:inherit;transition:transform .2s var(--mola),box-shadow .2s}
+.vLeit button::before{content:"";position:absolute;inset:0 0 auto 0;height:5px;background:var(--ca)}
+.vLeit button:hover{transform:translateY(-4px);box-shadow:var(--sombraM)}
+.vLeit small{display:block;font-size:11.5px;font-weight:700;color:var(--ca);text-transform:uppercase;letter-spacing:.04em;margin:4px 0 6px}
+.vLeit b{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:14.5px;line-height:1.35;min-height:2.7em}
+.vLeit .progL{margin-top:12px}.vLeit .progL i{background:var(--ca)!important}
+.vLeit em{display:block;font-style:normal;font-size:12px;color:var(--ink2);margin-top:6px}
+.vAtalhos{grid-column:1/-1;display:flex;gap:10px;flex-wrap:wrap}
+.vAtalhos button{--k:var(--c-azul);display:inline-flex;align-items:center;gap:9px;border:0;border-radius:999px;padding:10px 18px 10px 10px;font:inherit;font-weight:600;font-size:13.5px;cursor:pointer;
+  background:color-mix(in srgb,var(--k) 12%,var(--sup));color:color-mix(in srgb,var(--k) 80%,var(--ink));transition:transform .2s var(--mola)}
+.vAtalhos button:hover{transform:translateY(-2px) scale(1.02)}
+.vAtalhos button i{width:30px;height:30px;border-radius:50%;background:var(--k);color:#fff;display:grid;place-items:center;font-size:16px}
+.vAtalhos select{border-radius:999px!important;min-height:40px}
+
+/* ---------- movimento ---------- */
+.anima>*{animation:sobe .55s cubic-bezier(.22,1,.36,1) both;animation-delay:calc(var(--i,0) * 60ms)}
+@keyframes sobe{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes pop{0%{transform:scale(.4);opacity:0}100%{transform:scale(1);opacity:1}}
+@keyframes marca{0%{transform:translateY(-2px) rotate(-45deg) scale(.2);opacity:0}100%{transform:translateY(-2px) rotate(-45deg) scale(1);opacity:1}}
+@keyframes acerto{0%{transform:scale(1)}35%{transform:scale(1.025)}100%{transform:scale(1)}}
+@keyframes treme{0%,100%{transform:translateX(0)}20%{transform:translateX(-7px)}40%{transform:translateX(6px)}60%{transform:translateX(-4px)}80%{transform:translateX(2px)}}
+@keyframes desliza{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
+@keyframes entraQ{from{opacity:0;transform:translateX(26px)}to{opacity:1;transform:none}}
+@keyframes entraQv{from{opacity:0;transform:translateX(-26px)}to{opacity:1;transform:none}}
+@keyframes flutua{0%,100%{transform:translate(0,0)}50%{transform:translate(-14px,12px)}}
+@keyframes chama{0%,100%{transform:scale(1) rotate(0)}30%{transform:scale(1.12) rotate(-5deg)}60%{transform:scale(.96) rotate(4deg)}}
+@keyframes vira{from{opacity:0;transform:perspective(700px) rotateX(-70deg)}to{opacity:1;transform:none}}
+.confete{position:fixed;inset:0;pointer-events:none;z-index:200}
+.bt .ti{display:inline-block!important;font-size:17px}
+
+/* ---------- responsivo ---------- */
+@media(max-width:1100px){.vHero{grid-column:1/-1}.vMeta{grid-column:1/-1}.vFoco,.vLer{grid-column:1/-1}.vStats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:640px){
+  .vIni{gap:14px}
+  .vHero{flex-direction:column-reverse;align-items:flex-start;padding:24px 22px;border-radius:24px}
+  .vHero h2{font-size:24px}.vAnel{width:120px;height:120px;align-self:center}.vAnel svg{width:120px;height:120px}.vAnel .val b{font-size:28px}
+  .vHero .acoesH .bt{flex:1;white-space:nowrap;padding:9px 14px!important}
+  .vSemana{height:78px;gap:5px}
+  .vMeta .sub{margin-bottom:4px}
+  .vStats{gap:10px}.vStat{padding:14px;gap:10px;border-radius:20px}.vStat .ic{width:38px;height:38px;font-size:18px}.vStat b{font-size:21px}
+  .vFoco,.vLer,.vMeta{padding:18px;border-radius:24px}
+  .pgTitulo .selo{width:44px;height:44px;font-size:21px}.pgTitulo h1{font-size:23px!important}
+  #sec-questoes #qCartao .cx{padding:20px 16px!important}
+  .alt{padding:12px!important;border-radius:16px!important}.alt .let{width:30px!important;height:30px!important;min-width:30px!important;flex-basis:30px!important}
+  .expl{margin-left:12px!important}
+  .alt:not([disabled]):hover{transform:none}
+  .listaL{grid-template-columns:1fr;padding:0!important}
+}
+/* 23/09/2026, cm-v98: a questão inteira cabe na tela ao abrir. Em 1512×763 o título da página,
+   a barra de filtros e alternativas de 65 px empurravam as alternativas D e E para baixo da dobra.
+   Na aba Questões o título vira só leitura de tela (a barra lateral já diz onde se está), a barra de
+   filtros afina, o cartão alarga e as alternativas ficam mais baixas sem perder a área de toque. */
+body[data-aba=questoes] main{padding-top:18px!important}
+body[data-aba=questoes] #pgTitulo{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);margin:0!important}
+#sec-questoes{max-width:1000px!important}
+#sec-questoes>.cx:first-child{padding:6px 8px 6px 20px!important;margin-bottom:12px!important}
+#sec-questoes>.cx.filtros.aberto{padding:14px 20px!important}
+#sec-questoes #qCartao .cx{padding:20px 30px 22px!important}
+#sec-questoes .qTopo{margin-bottom:12px!important}
+#sec-questoes .enun{margin:0 0 16px!important;line-height:1.65!important}
+#sec-questoes #alts{gap:8px!important}
+#sec-questoes .alt{padding:8px 14px!important;min-height:46px}
+#sec-questoes .alt .let{width:30px!important;height:30px!important;min-width:30px!important;flex-basis:30px!important;font-size:13px!important}
+#sec-questoes .qPe{margin-top:16px!important}
+@media(max-width:760px){
+  body[data-aba=questoes] main{padding-top:12px!important}
+  #sec-questoes #qCartao .cx{padding:16px 14px 18px!important}
+  #sec-questoes .alt{padding:8px 11px!important}
+}
+/* 24/09/2026, cm-v99: questão inteira (ou quase) ao abrir no celular/PWA. Em 430×840 (iPhone dele
+   descontadas barra de status e indicador) só 5% das questões cabiam: cabeçalho de 56 px, 28 px de
+   folga até os filtros, enunciado a 17 px com entrelinha 1,65. Enunciado fica em 15,5 px/1,5, que
+   ainda é leitura confortável no celular; alternativas mantêm 44 px de área de toque. */
+@media(max-width:760px){
+  header .topo{min-height:0!important;height:46px!important;padding-top:0!important;padding-bottom:0!important}
+  body[data-aba=questoes] main{padding:6px 8px 94px!important}
+  #sec-questoes{margin-top:0!important}
+  #sec-questoes>.cx:first-child{padding:2px 6px 2px 16px!important;margin:0 0 8px!important}
+  #sec-questoes .fToggle{min-height:36px}
+  #sec-questoes #qCartao .cx{padding:12px 11px 14px!important}
+  #sec-questoes .qTopo{margin-bottom:8px!important;gap:6px!important}
+  #sec-questoes #btFav{width:32px!important;height:32px!important}
+  #sec-questoes #btSinal{min-width:32px;min-height:32px;height:32px;padding:0 6px}
+  #sec-questoes .enun{font-size:15.5px!important;line-height:1.5!important;margin:0 0 12px!important}
+  #sec-questoes #alts{gap:6px!important}
+  #sec-questoes .alt{padding:6px 10px 6px 8px!important;min-height:44px;font-size:14px!important;line-height:1.4!important;gap:10px!important}
+  #sec-questoes .alt .let{width:27px!important;height:27px!important;min-width:27px!important;flex-basis:27px!important;font-size:12.5px!important}
+  #sec-questoes .qPe{margin-top:12px!important}
+}
+@media(prefers-reduced-motion:reduce){.anima>*,.vHero .bola,.vStat.fogo .ic i,#qCartao.entra .cx,.alt,.coment,.expl,#verso .coment,.pgTitulo .selo{animation:none!important}
+  .vAnel .arco,.barra i,.vSemana i{transition:none!important}}
+/* 25/09/2026: filtro de várias áreas (mtfiltro.js). O botão-resumo ocupa o lugar do <select> com a mesma cara.
+   Texto sobre a cor da aba em PRETO: branco dá 3,97:1 no azul, 3,06 no verde e 2,14 no âmbar; preto dá
+   5,28 / 6,86 / 4,89 (violeta) / 9,81 — medido, as cores de aba não mudam no escuro. */
+.mtt-btn,.mtt-pai{--mtt-borda:var(--linhaF);--mtt-campo:var(--papel);--mtt-sobre:#000}
+label.cmp>.mtt-btn{width:100%;justify-content:space-between;border-radius:14px;background:var(--papel);color:var(--ink);font-size:15px}
+label.cmp:has(>.mtt-btn){min-width:min(260px,100%);max-width:100%}
+.mtt-pai .mtt-busca{border-radius:12px!important}
+/* 26/09/2026: sinalizar questão (mtsinal.js). Texto sobre a cor da aba em preto pelo mesmo motivo do filtro (ciano do
+   Painel: branco 2,93:1, preto 7,17). O vermelho --err (#E5484D) dá 3,91:1 no claro e 4,40 no escuro como TEXTO
+   (tipo na lista, bandeira ligada): escurecido no claro (5,16 sobre --papel) e clareado no escuro (6,88). */
+.msn-btn,.msn-pai,.msn-lista{--msn-sobre:#000;--msn-borda:var(--linhaF);--msn-cor-alerta:#C62A2F}
+:root[data-tema="escuro"] :is(.msn-btn,.msn-pai,.msn-lista){--msn-cor-alerta:#FF7B7F}
+@media(prefers-color-scheme:dark){:root:not([data-tema="claro"]) :is(.msn-btn,.msn-pai,.msn-lista){--msn-cor-alerta:#FF7B7F}}
+.qTopo .msn-btn{margin-left:auto;border:1px solid var(--linha);background:var(--sup);color:var(--ink2);opacity:1}
+.qTopo .msn-btn+.btMarca{margin-left:0}
+.qTopo .msn-btn.msn-on{color:var(--msn-alerta);border-color:currentColor}
+.msn-pai textarea{border-radius:12px!important;background:var(--papel)}
+
+/* ============================================================
+   FlashMed (07/10/2026): componentes próprios por cima da camada viva do ClínicaMed.
+   chipsG = grandes áreas da prova (Questões e Simulado); gradeEx = provas reais na íntegra;
+   barrasG = acerto por grande área; incid = incidência nas provas reais.
+   ============================================================ */
+.chipsG{display:flex;flex-wrap:wrap;gap:8px}
+.chipG{--cg:var(--ac);display:inline-flex;align-items:center;gap:7px;border:1.5px solid var(--linhaF);background:var(--sup);
+  color:var(--ink);border-radius:999px;padding:7px 13px;font-size:14px;font-weight:600;cursor:pointer;
+  transition:transform .18s var(--mola),background .15s,border-color .15s}
+.chipG i{font-size:17px;color:var(--cg)}
+.chipG small{font-size:12px;font-weight:600;color:var(--ink2);background:var(--sup2);border-radius:999px;padding:1px 7px}
+.chipG:hover{transform:translateY(-1px);border-color:color-mix(in srgb,var(--cg) 55%,var(--linhaF))}
+.chipG.on{background:color-mix(in srgb,var(--cg) 14%,var(--sup));border-color:var(--cg);color:var(--ink)}
+.chipG.on small{background:color-mix(in srgb,var(--cg) 22%,var(--sup))}
+.chipG:focus-visible{outline:3px solid color-mix(in srgb,var(--cg) 45%,transparent);outline-offset:2px}
+.gradeEx{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:10px}
+.cartaoEx{display:flex;flex-direction:column;align-items:flex-start;gap:4px;text-align:left;border:1px solid var(--linha);
+  background:var(--sup);border-radius:16px;padding:13px 15px;cursor:pointer;color:var(--ink);box-shadow:var(--sombra);
+  transition:transform .18s var(--mola),border-color .15s}
+.cartaoEx:hover{transform:translateY(-2px);border-color:var(--ac)}
+.cartaoEx b{font-size:15px;line-height:1.3}
+.cartaoEx span{font-size:13px;color:var(--ink2)}
+.cartaoEx em{font-style:normal;font-size:12px;font-weight:700;color:var(--acInk);background:var(--acSup);border-radius:999px;padding:2px 8px}
+.barrasG{display:flex;flex-direction:column;gap:10px}
+.bG{display:grid;grid-template-columns:150px 1fr auto;align-items:center;gap:12px;font-size:14px}
+.bG .nm{display:flex;align-items:center;gap:8px;font-weight:600}
+.bG .nm i{font-size:18px}
+.bG .barra{height:10px;border-radius:999px}
+.bG .barra i{border-radius:999px}
+.bG .v{color:var(--ink2);white-space:nowrap}
+.incid td:first-child{white-space:nowrap}
+.chkL{display:inline-flex;align-items:center;gap:8px;white-space:nowrap;font-size:14px;color:var(--ink2);align-self:flex-end;min-height:42px}
+.chkL input{width:18px;height:18px;accent-color:var(--ac)}
+.miniBarra{display:inline-block;height:8px;border-radius:999px;vertical-align:middle;margin-right:8px;min-width:3px}
+.contagem{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:600;background:rgba(255,255,255,.10);
+  border-radius:999px;padding:4px 11px;margin-top:10px}
+@media(max-width:640px){.chkL{flex-basis:100%;min-height:32px}.bG{grid-template-columns:96px 1fr;}.bG .v{grid-column:1/-1;margin-top:-6px}.gradeEx{grid-template-columns:1fr 1fr}}
+@media(max-width:400px){.gradeEx{grid-template-columns:1fr}}
+</style>
+
+<header>
+ <div class="topo">
+  <a class="marca" href="./"><span class="logo" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none"><path d="M13.5 2.5L5 13.2h6l-1.2 8.3L19 10.6h-6.1z" stroke="currentColor" stroke-width="2" stroke-linejoin="round" fill="currentColor" fill-opacity=".18"/></svg></span><span>FlashMed</span></a>
+  <nav class="abas" id="abas" role="tablist"></nav>
+  <div class="contador">
+   <button class="btIco" id="btBusca" title="Buscar em tudo (/)" aria-label="Buscar"><i class="ti ti-search" aria-hidden="true"></i><span class="rot">Buscar</span><kbd>/</kbd></button>
+   <button class="btIco" id="btTema" title="Alternar tema" aria-label="Alternar tema"><i class="ti ti-moon" aria-hidden="true"></i><span class="rot">Tema</span></button>
+   <button class="btConta" id="btConta" hidden><i class="ti ti-user-circle" aria-hidden="true"></i><span>Entrar</span></button>
+   <button class="btIco" id="btLinha" title="MedTech Provas: outras plataformas de estudo" aria-label="MedTech Provas" hidden><i class="ti ti-grid-dots" aria-hidden="true"></i></button>
+  </div>
+ </div>
+</header>
+
+<main>
+ <div id="pgTitulo" class="pgTitulo"></div>
+ <section id="sec-inicio" hidden></section>
+ <section id="sec-questoes"></section>
+ <section id="sec-simulado" hidden></section>
+ <section id="sec-leituras" hidden></section>
+ <section id="sec-cartoes" hidden></section>
+ <section id="sec-painel" hidden></section>
+ <section id="sec-ajustes" hidden></section>
+</main>
+<div class="faixas" id="faixas"></div>
+
+<script src="taxonomia.js?v=3"></script>
+<script src="provas.js?v=3"></script>
+<script src="banco.js?v=3"></script>
+<script src="exames.js?v=3"></script>
+<script src="flash.js?v=3"></script>
+<script src="leituras.js?v=3"></script>
+<script src="indice-leituras.js?v=3"></script>
+<script src="migra.js?v=3"></script>
+<script src="nuvem.js?v=3"></script>
+<script src="mtfiltro.js?v=3"></script>
+<script src="mtsinal.js?v=3"></script>
+<script>
+"use strict";
+const V="2.0.0", PREF="fl_";
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const dataISO=(d=new Date())=>{const p=n=>String(n).padStart(2,"0");return `${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())}`};
+const LETRAS="ABCDE";
+const pct=(a,b)=>b?Math.round(a/b*100):0;
+
+/* ---------- chave estável por conteúdo (djb2+FNV com Math.imul) ----------
+   NUNCA indexar progresso por posição no banco: reordenar a leva desalinharia todo o histórico. */
+function hashTxt(s){let h1=5381,h2=0x811c9dc5;
+  for(let i=0;i<s.length;i++){const c=s.charCodeAt(i);h1=((h1<<5)+h1+c)>>>0;h2=Math.imul(h2^c,0x01000193)>>>0}
+  return (h1.toString(36)+h2.toString(36)).slice(0,10)}
+function chaveTxt(t){return hashTxt(String(t||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]/g,""))}
+const chaveQ=q=>chaveTxt(q.q);
+/* ---------- ordem de EXIBIÇÃO das alternativas (17/09/2026) ----------
+   O banco autoral concentrava o gabarito na letra A (36%). Reordenar o banco desalinharia o
+   histórico, que guarda o ÍNDICE ORIGINAL da alternativa (hist[].alt, sim.res). Então o banco não
+   muda: só a tela reordena. A posição da correta sai do hash da chave (estável entre aparelhos e
+   versões, uniforme em A–E); as demais mantêm a ordem relativa. Questão de prova real mantém a
+   ordem oficial. Todo código de tela usa q._ord (posição → índice original) e letraDe(q,j). */
+function ordemAlts(q){
+  if(q._ord)return q._ord;
+  const n=q.alts.length, idx=[...Array(n).keys()];
+  let alvo=q.gab;
+  if(!q.fonte&&n===5){let h=0;for(const c of q._ch)h=(h*31+c.charCodeAt(0))>>>0;alvo=h%5}
+  const outras=idx.filter(i=>i!==q.gab);
+  q._ord=[...outras.slice(0,alvo),q.gab,...outras.slice(alvo)];
+  q._pos=[];q._ord.forEach((orig,p)=>q._pos[orig]=p);
+  return q._ord;
+}
+const letraDe=(q,j)=>{ordemAlts(q);return LETRAS[q._pos[j]]};
+
+const BANCO=window.BANCO||[], TAX=window.TAXONOMIA||[], CEN=window.CENARIOS||[], COMP=window.COMPETENCIAS||[],
+      NIVEIS=window.NIVEIS||[], PROVAS=window.PROVAS||[], FLASH=window.FLASH||[], PRATICA=window.PRATICA||[],
+      LEITURAS=window.LEITURAS||[], GRANDES=window.GRANDES||[], EXAMES=window.EXAMES||[];
+/* FlashMed: duas camadas de área. `q.tema` é a subárea (taxonomia.js); GDE[tema] é a grande área
+   da prova (Clínica, Cirurgia, GO, Pediatria, MFC, Saúde Coletiva, Saúde Mental, Radiologia). */
+const GDE=Object.fromEntries((window.TAXONOMIA||[]).map(t=>[t.id,t.grande]));
+const NOMEG=Object.fromEntries(GRANDES.map(g=>[g.id,g.nome]));
+const CORG=Object.fromEntries(GRANDES.map(g=>[g.id,g.cor]));
+const QIDX=new Map();
+BANCO.forEach(q=>{const ch=chaveQ(q); if(QIDX.has(ch))console.warn("COLISÃO de chave:",ch,q.q.slice(0,60)); QIDX.set(ch,q); q._ch=ch});
+const NOME=Object.fromEntries(TAX.map(t=>[t.id,t.nome]));
+const NCEN=Object.fromEntries(CEN.map(t=>[t.id,t.nome]));
+const NCOMP=Object.fromEntries(COMP.map(t=>[t.id,t.nome]));
+const NNIV=Object.fromEntries(NIVEIS.map(t=>[t.id,t.nome]));
+
+const UI={banner(tipo,msg,fixa){
+  const d=document.createElement("div");d.className="faixa "+tipo;
+  d.innerHTML=`<span>${esc(msg)}</span><button aria-label="fechar"><i class="ti ti-x" aria-hidden="true"></i></button>`;
+  d.querySelector("button").onclick=()=>d.remove();
+  $("#faixas").appendChild(d); if(!fixa)setTimeout(()=>d.remove(),11000);
+}};
+
+/* ---------- blindagem de armazenamento ----------
+   load() que falha TRAVA a gravação da chave: melhor não salvar do que salvar vazio por cima. */
+const CHAVES=["resp","fav","flash","erros","cfg","sim","simativo","pos","treino","atividade","lidas","contest","prog","sinal"].map(k=>PREF+k);
+const LIVROS="fl-livros-v1";   /* balde do service worker que guarda leituras e figuras */
+const ARM={
+ db:null,travas:{},tsBackup:0,recuperado:null,persistOK:null,
+ async boot(){
+  this.db=await Promise.race([new Promise(r=>setTimeout(()=>r(null),2500)),new Promise(res=>{
+    try{const rq=indexedDB.open("fl-db",1);
+      rq.onupgradeneeded=()=>{const d=rq.result;
+        if(!d.objectStoreNames.contains("espelho"))d.createObjectStore("espelho");
+        if(!d.objectStoreNames.contains("backups"))d.createObjectStore("backups",{autoIncrement:true})};
+      rq.onsuccess=()=>res(rq.result);rq.onerror=()=>res(null);rq.onblocked=()=>res(null);
+    }catch(e){res(null)}})]);
+  let canario=null; try{canario=localStorage.getItem(PREF+"canary")}catch(e){}
+  if(!canario&&this.db){
+    const esp=await this.idbTudo("espelho");
+    const ks=Object.keys(esp).filter(k=>CHAVES.includes(k));
+    if(ks.length){ks.forEach(k=>{try{localStorage.setItem(k,esp[k])}catch(e){}});
+      this.recuperado={n:ks.length,quando:esp.__quando||"data desconhecida"}}
+  }
+  try{localStorage.setItem(PREF+"canary",new Date().toISOString())}catch(e){}
+  this.idbPut("__quando",new Date().toISOString());
+  if(navigator.storage&&navigator.storage.persist){try{this.persistOK=await navigator.storage.persist()}catch(e){this.persistOK=false}}
+ },
+ idbPut(k,v){if(!this.db)return;try{this.db.transaction("espelho","readwrite").objectStore("espelho").put(v,k)}catch(e){}},
+ idbTudo(loja){return new Promise(res=>{if(!this.db)return res({});
+   try{const out={},cur=this.db.transaction(loja,"readonly").objectStore(loja).openCursor();
+     cur.onsuccess=()=>{const c=cur.result;if(c){out[c.key]=c.value;c.continue()}else res(out)};
+     cur.onerror=()=>res({})}catch(e){res({})}})},
+ load(k,fb){let raw=null,falhou=false;
+   try{raw=localStorage.getItem(k)}catch(e){falhou=true;this.travas[k]="leitura falhou: "+e.message}
+   if(raw===null&&!falhou)return fb;
+   if(!falhou){try{return JSON.parse(raw)}catch(e){this.travas[k]="JSON corrompido"}}
+   UI.banner("erro",`Falha ao ler ${k} neste aparelho. Para não apagar nada, essa parte não será gravada até reabrir o app; o que já está na sua conta continua salvo.`,true);
+   return fb},
+ save(k,v){
+   if(this.travas[k]){UI.banner("erro",`Não gravei ${k}: a leitura falhou neste boot (proteção contra sobrescrita).`);return false}
+   let s;try{s=JSON.stringify(v)}catch(e){return false}
+   try{localStorage.setItem(k,s)}catch(e){UI.banner("erro","Armazenamento cheio ou indisponível: "+e.message,true);return false}
+   this.idbPut(k,s);
+   const ag=Date.now(); if(ag-this.tsBackup>6e5){this.tsBackup=ag;this.snapshot("auto")}
+   return true},
+ snapshot(motivo){return new Promise(res=>{if(!this.db)return res(false);
+   const foto={__quando:new Date().toISOString(),__motivo:motivo||"manual"};
+   CHAVES.forEach(k=>{try{const v=localStorage.getItem(k);if(v!==null)foto[k]=v}catch(e){}});
+   try{const tx=this.db.transaction("backups","readwrite"),st=tx.objectStore("backups");
+     st.add(foto);const rq=st.getAllKeys();
+     rq.onsuccess=()=>{const ks=rq.result;
+       if(ks.length>12){const tx2=this.db.transaction("backups","readwrite");
+         ks.slice(0,ks.length-12).forEach(k=>tx2.objectStore("backups").delete(k))}
+       res(true)};
+     rq.onerror=()=>res(false)}catch(e){res(false)}})},
+ listaBackups(){return new Promise(res=>{if(!this.db)return res([]);
+   try{const out=[],cur=this.db.transaction("backups","readonly").objectStore("backups").openCursor();
+     cur.onsuccess=()=>{const c=cur.result;
+       if(c){out.push({id:c.key,quando:c.value.__quando,motivo:c.value.__motivo,
+         n:Object.keys(c.value).filter(k=>k.startsWith(PREF)).length});c.continue()}
+       else res(out.reverse())};
+     cur.onerror=()=>res([])}catch(e){res([])}})},
+ restaura(id){return new Promise(res=>{if(!this.db)return res(false);
+   try{const rq=this.db.transaction("backups","readonly").objectStore("backups").get(id);
+     rq.onsuccess=async()=>{const foto=rq.result;if(!foto)return res(false);
+       await this.snapshot("antes-de-restaurar");
+       Object.keys(foto).filter(k=>k.startsWith(PREF)).forEach(k=>{try{localStorage.setItem(k,foto[k])}catch(e){}});
+       res(true)};
+     rq.onerror=()=>res(false)}catch(e){res(false)}})},
+ exporta(){const out={__app:"flashmed",__v:V,__quando:new Date().toISOString()};
+   CHAVES.forEach(k=>{try{const v=localStorage.getItem(k);if(v!==null)out[k]=v}catch(e){}});return out},
+ async importa(o){if(!o||o.__app!=="flashmed")return null;
+   await this.snapshot("antes-de-importar");let n=0;
+   CHAVES.forEach(k=>{if(typeof o[k]==="string"){try{JSON.parse(o[k])}catch(e){return}
+     try{localStorage.setItem(k,o[k]);this.idbPut(k,o[k]);n++}catch(e){}}});
+   return n}
+};
+
+let ST={};
+function carregaEstado(){ST={
+  resp:ARM.load(PREF+"resp",{}), fav:ARM.load(PREF+"fav",{}), flash:ARM.load(PREF+"flash",{}),
+  erros:ARM.load(PREF+"erros",[]), cfg:ARM.load(PREF+"cfg",{}), sim:ARM.load(PREF+"sim",[]),
+  simativo:ARM.load(PREF+"simativo",null), pos:ARM.load(PREF+"pos",{}), treino:ARM.load(PREF+"treino",{}),
+  atividade:ARM.load(PREF+"atividade",{}), lidas:ARM.load(PREF+"lidas",{}), contest:ARM.load(PREF+"contest",[]),
+  prog:ARM.load(PREF+"prog",{}), sinal:ARM.load(PREF+"sinal",{})
+}}
+/* Único funil de gravação do app — por isso o carimbo da nuvem nasce aqui, e não espalhado
+   por cada ponto de escrita. NUVEM.mudou avisa o mtsync, que compara com o que a nuvem já tem. */
+function salva(k,v){const ok=ARM.save(PREF+k,v);
+  if(ok&&typeof NUVEM!=="undefined")NUVEM.mudou(k);
+  return ok}
+/* Sinalizar questão com erro (26/09/2026). Pedido do Matheus: "está faltando um campo para sinalizar questões
+   com erro". Componente compartilhado mtsinal.js (window.MTSinal; fonte única em ~/Documents/Claude/_mtsinal/,
+   não editar a cópia daqui). O estado é ST.sinal {chave da questão (_ch): {tipo, nota, ts, q, tema, extra}},
+   gravado pelo funil salva() e sincronizado como coleção "mapa" (nuvem.js; tirar a bandeira propaga).
+   Cada mudança também vai à caixa central da administração (função mtSinal, medtechbr.com.br/sinalizacoes.html),
+   com o token da conta; sem rede ou sem login fica na fila localStorage["msn_fila:flashmed"].
+   Convive com o "Discordo desta questão" (mailto, ST.contest), que continua existindo. */
+const SINAL=MTSinal.cria({exemplo:"Ex.: a correta seria a C, pela diretriz vigente (qual, se souber)",
+  app:"FlashMed",
+  le:()=>ST.sinal,
+  grava:obj=>{ST.sinal=obj;salva("sinal",obj)},
+  central:{app:"flashmed",token:()=>typeof MTS!=="undefined"&&MTS.usuario&&MTS.usuario.getIdToken()}
+});
+/* "Revalida 2023.1 · questão 42" / "ENARE 2024/2025 Acesso Direto" */
+function rotuloFonte(q){const f=q.fonte;if(!f)return "autoral";
+  return (f.prova||(f.banca+" "+f.ano))+(f.n?" · questão "+f.n:"")}
+/* o que ajuda a achar a questão no banco: procedência (banca e edição, ou autoral) e a letra do gabarito como aparece na tela */
+function extraSinal(q){
+  /* mesmo rótulo da pílula de procedência do feedback ("Revalida 2021", "ENARE 2025/2026") */
+  const proc=rotuloFonte(q);
+  return `${proc} · gabarito ${letraDe(q,q.gab)}`;
+}
+function bandeira(el,q){if(el)SINAL.botao(el,{chave:q._ch,q:q.q,tema:NOME[q.tema]||q.tema,extra:extraSinal(q)})}
+/* redesenha a aba aberta — usado quando a nuvem traz novidade do outro aparelho */
+function repinta(){const a=(ST.cfg||{}).aba;if(PINTA[a])PINTA[a]()}
+function atividade(n){const d=dataISO();ST.atividade[d]=(ST.atividade[d]||0)+n;salva("atividade",ST.atividade)}
+function registraResposta(q,alt,ok,modo){
+  const r=ST.resp[q._ch]||(ST.resp[q._ch]={hist:[]});
+  r.hist.push({d:dataISO(),ok,alt,m:modo,ts:Date.now()});
+  if(r.hist.length>60)r.hist=r.hist.slice(-60);
+  salva("resp",ST.resp);atividade(1);
+  if(!ok){ if(!ST.erros.includes(q._ch)){ST.erros.push(q._ch);salva("erros",ST.erros)} }
+  else { const i=ST.erros.indexOf(q._ch); if(i>=0&&acertosSeguidos(q)>=2){ST.erros.splice(i,1);salva("erros",ST.erros)} }
+}
+const respostaDe=q=>ST.resp[q._ch];
+function acertosSeguidos(q){const h=(respostaDe(q)||{}).hist||[];let n=0;
+  for(let i=h.length-1;i>=0;i--){if(h[i].ok)n++;else break}return n}
+
+/* ---------- sorteio: Fisher-Yates de verdade ----------
+   sort(()=>Math.random()-0.5) NÃO embaralha: o comparador é inconsistente e enviesa o começo do vetor. */
+function embaralha(a){const b=a.slice();
+  for(let i=b.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[b[i],b[j]]=[b[j],b[i]]}return b}
+/* espalha por tema: a leva é temática, então a ordem crua sai agrupada. Sorteio PONDERADO pelo
+   que resta (o determinístico degenera em pingue-pongue entre os dois maiores temas). */
+function espalhaTemas(lista){
+  const grupos={};lista.forEach(q=>{(grupos[q.tema]=grupos[q.tema]||[]).push(q)});
+  Object.keys(grupos).forEach(k=>grupos[k]=embaralha(grupos[k]));
+  const out=[];let ant=null;
+  while(out.length<lista.length){
+    let cand=Object.keys(grupos).filter(k=>grupos[k].length&&k!==ant);
+    if(!cand.length)cand=Object.keys(grupos).filter(k=>grupos[k].length);
+    const total=cand.reduce((s,k)=>s+grupos[k].length,0);
+    let r=Math.random()*total,esc=cand[0];
+    for(const k of cand){r-=grupos[k].length;if(r<=0){esc=k;break}}
+    out.push(grupos[esc].shift());ant=esc;
+  }
+  return out;
+}
+</script>
+<script>
+/* ================= navegação ================= */
+const ABAS=[["inicio","Início","layout-dashboard"],["questoes","Questões","list-check"],["simulado","Simulado","stopwatch"],
+            ["leituras","Leituras","book"],["cartoes","Cartões","cards"],["painel","Desempenho","chart-bar"],
+            ["ajustes","Ajustes","settings"]];
+/* A aba Turma nasce escondida e só é revelada quando o backend confirma que este e-mail
+   é da coordenação. Esconder o botão é conveniência: a permissão é conferida na função,
+   a cada chamada — mexer no DOM daqui não dá acesso a nada. */
+const ABAS_RESTRITAS=[];
+/* no celular só estas quatro ficam na barra; o resto entra pela folha "Mais" */
+const ABAS_PRIM=["inicio","questoes","simulado","leituras"];
+/* Resolvido na hora da chamada: cada aba é declarada num bloco <script> posterior a este,
+   então referenciar a função aqui na criação do objeto quebraria o boot inteiro. */
+const PINTA={inicio:()=>pintaInicio(),questoes:()=>pintaQuestoes(),simulado:()=>pintaSimulado(),
+             leituras:()=>pintaLeituras(),cartoes:()=>pintaCartoes(),
+             painel:()=>pintaPainel(),ajustes:()=>pintaAjustes()};
+/* a barra inferior do celular é uma grade: precisa saber quantas abas estão visíveis */
+function ajustaNav(){const n=$$("#abas button").filter(b=>!b.hidden).length;
+  document.documentElement.style.setProperty("--nAbas",n)}
+function abreMais(){
+  if($("#folhaMais"))return;
+  const d=document.createElement("div");d.className="folha";d.id="folhaMais";
+  const itens=ABAS.filter(([id])=>!ABAS_PRIM.includes(id)&&!$(`#abas [data-aba="${id}"]`).hidden);
+  d.innerHTML=`<div class="cartao"><div class="puxador"></div>${itens.map(([id,n,ic])=>
+    `<button class="item" data-vai="${id}" aria-selected="${String(ST.cfg.aba===id)}"><i class="ti ti-${ic}"></i>${n}</button>`).join("")}</div>`;
+  document.body.appendChild(d);
+  d.onclick=e=>{if(e.target===d)d.remove()};
+  $$("#folhaMais [data-vai]").forEach(b=>b.onclick=()=>{d.remove();irAba(b.dataset.vai)});
+}
+/* caixa de filtros que recolhe no celular (no computador o botão some e ela fica aberta) */
+function filtroBox(k,resumo,corpo,extra){
+  const ab=!!(ST.cfg.fAb||{})[k];
+  return `<div class="cx filtros${ab?" aberto":""}" data-fk="${k}">
+    <button class="fToggle" type="button" aria-expanded="${ab}"><i class="ti ti-adjustments-horizontal"></i>Filtros<span class="resumo">${resumo}</span><i class="ti ti-chevron-down seta"></i></button>
+    <div class="linha fCorpo">${corpo}</div>${extra||""}</div>`;
+}
+document.addEventListener("click",e=>{
+  const b=e.target.closest(".fToggle"); if(!b)return;
+  const box=b.parentElement,k=box.dataset.fk;
+  ST.cfg.fAb=ST.cfg.fAb||{}; ST.cfg.fAb[k]=!ST.cfg.fAb[k]; salva("cfg",ST.cfg);
+  box.classList.toggle("aberto",ST.cfg.fAb[k]);
+  b.setAttribute("aria-expanded",String(ST.cfg.fAb[k]));
+});
+function montaAbas(){
+  const GRUPO={inicio:"Estudo",painel:"Acompanhamento"};
+  const COR_ABA={inicio:"marca",questoes:"verde",simulado:"rosa",leituras:"azul",cartoes:"ambar",painel:"violeta",ajustes:"cinza"};
+  $("#abas").innerHTML=ABAS.map(([id,n,ic])=>(GRUPO[id]?`<div class="navGrupo">${GRUPO[id]}</div>`:"")+
+    `<button role="tab" aria-label="${esc(n)}" title="${esc(n)}" data-aba="${id}" style="--c:var(--c-${COR_ABA[id]||"marca"})" aria-selected="false"${ABAS_RESTRITAS.includes(id)?" hidden":""}${ABAS_PRIM.includes(id)?" data-prim":""}><i class="ti ti-${ic}" aria-hidden="true"></i><span>${n}</span></button>`).join("")
+    +`<button data-aba="mais" aria-selected="false" hidden style="--c:var(--c-cinza)"><i class="ti ti-dots" aria-hidden="true"></i><span>Mais</span></button>`;
+  const mais=$('#abas [data-aba="mais"]');
+  mais.hidden=!matchMedia("(max-width:640px)").matches;
+  mais.onclick=abreMais;
+  matchMedia("(max-width:640px)").addEventListener("change",e=>{mais.hidden=!e.matches});
+  ajustaNav();
+  $$("#abas button").forEach(b=>{if(b.dataset.aba!=="mais")b.onclick=()=>irAba(b.dataset.aba)});
+}
+const TITULOS={
+  inicio:()=>["Estudo",""],
+  questoes:()=>["Questões",`${BANCO.length} questões, ${NREAIS} de provas reais, com comentário por alternativa.`],
+  simulado:()=>["Simulado","No formato do ENAMED ou do Revalida, por área, ou uma prova real na íntegra."],
+  leituras:()=>["Leituras","Textos de referência por área, com sumário e progresso."],
+  cartoes:()=>["Cartões","Revisão espaçada: o que vence hoje aparece primeiro."],
+  painel:()=>["Desempenho","Acerto por grande área e subárea, incidência nas provas e fila de erros."],
+  ajustes:()=>["Ajustes","Conta, tema, uso sem internet e dados."]
+};
+/* o título da página já está no topo: um h2/h3 igual logo no começo da seção vira ruído */
+function tiraTituloRepetido(id){
+  const t=($("#pgTitulo h1")||{}).textContent;if(!t)return;
+  $$(`#sec-${id} h2, #sec-${id} h3`).slice(0,2).forEach(h=>{if(h.textContent.trim()===t)h.remove()});
+}
+function irAba(id){
+  document.body.dataset.aba=id;
+  {const t=TITULOS[id]?TITULOS[id]():null, ic=(ABAS.find(a=>a[0]===id)||[])[2];
+   $("#pgTitulo").innerHTML=t?`${ic?`<span class="selo" aria-hidden="true"><i class="ti ti-${ic}"></i></span>`:""}<h1>${esc(t[0])}</h1><p>${esc(t[1])}</p>`:""}
+  $$("#abas button").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.aba===id||(b.dataset.aba==="mais"&&!ABAS_PRIM.includes(id)))));
+  ABAS.forEach(([a])=>$("#sec-"+a).hidden=(a!==id));
+  document.body.classList.toggle("lendo",id==="leituras"&&!!ST.cfg.lendo);
+  ST.cfg.aba=id;salva("cfg",ST.cfg);
+  PINTA[id]();
+  tiraTituloRepetido(id);
+  vivo($("#sec-"+id));
+  if(id!=="leituras")window.scrollTo(0,0);
+}
+
+/* ================= convite de instalação =================
+   Sem isto, instalar dependia de o usuário achar "adicionar à tela inicial" no menu do navegador.
+   O convite só aparece quando o navegador diz que dá (beforeinstallprompt) e o usuário não
+   dispensou antes; no iPhone, onde esse evento não existe, mostra a instrução do Safari. */
+let promptInstalar=null;
+addEventListener("beforeinstallprompt",e=>{e.preventDefault();promptInstalar=e;convidaInstalar()});
+addEventListener("appinstalled",()=>{promptInstalar=null;const c=$("#convite");if(c)c.remove()});
+function jaEhApp(){return matchMedia("(display-mode: standalone)").matches||navigator.standalone===true}
+function convidaInstalar(){
+  if(jaEhApp()||ST.cfg.semConvite||$("#convite"))return;
+  const iOS=/iPad|iPhone|iPod/.test(navigator.userAgent)&&!window.MSStream;
+  if(!promptInstalar&&!iOS)return;
+  const sec=$("#sec-"+((ST.cfg||{}).aba||"questoes")); if(!sec)return;
+  const d=document.createElement("div"); d.className="convite"; d.id="convite";
+  d.innerHTML=`<i class="ti ti-device-mobile" aria-hidden="true"></i>
+    <div><b>Instale o FlashMed no aparelho</b><span>${iOS
+      ? "No Safari: botão de compartilhar e depois “Adicionar à Tela de Início”."
+      : "Abre em tela cheia, entra pelo ícone e funciona sem internet."}</span></div>
+    ${promptInstalar?`<button class="bt mini" id="btInstalar">Instalar</button>`:""}
+    <button class="btIco" id="btNaoInstalar" aria-label="dispensar"><i class="ti ti-x"></i></button>`;
+  sec.prepend(d);
+  if($("#btInstalar"))$("#btInstalar").onclick=async()=>{
+    const p=promptInstalar; promptInstalar=null; d.remove();
+    p.prompt(); await p.userChoice;
+  };
+  $("#btNaoInstalar").onclick=()=>{ST.cfg.semConvite=1;salva("cfg",ST.cfg);d.remove()};
+}
+
+/* ================= modo offline =================
+   O ativo do app são 97 leituras e 41 figuras — 44 h de estudo. O service worker guarda o que
+   você abre, mas quem vai estudar no plantão precisa poder baixar tudo ANTES. O download é
+   explícito por causa da rede do hospital: ninguém deve gastar 2,6 MB de 4G sem ter pedido.
+   A página fala direto com a Cache API (mesmo balde que o SW lê), sem depender de mensagem. */
+const OFF={
+  urls(){
+    const v=(document.querySelector('script[src*="leituras.js"]').src.match(/v=(\d+)/)||[])[1]||"";
+    const u=LEITURAS.filter(l=>l.f).map(l=>"leituras/"+l.f);
+    u.push("leituras/_leitura.css?v="+v,"leituras/_leitura.js?v="+v);
+    /* FlashMed: FIGS traz o caminho relativo a leituras/ de toda figura (raiz e subpastas
+       importadas cm/ e cir/, SVG e raster), gerado por gera_indice.py */
+    (typeof FIGS!=="undefined"?FIGS:[]).forEach(f=>u.push("leituras/"+f));
+    return u;
+  },
+  async estado(){
+    try{
+      const c=await caches.open(LIVROS), ks=await c.keys();
+      /* comparar pela URL ABSOLUTA resolvida: recortar o prefixo "/clinicamed/" à mão dava
+         0 de 140 em qualquer caminho diferente (localhost, subpasta, domínio próprio). */
+      const tem=new Set(ks.map(r=>r.url));
+      const alvo=this.urls();
+      const faltam=alvo.filter(u=>!tem.has(new URL(u,location.href).href));
+      return {total:alvo.length, baixados:alvo.length-faltam.length, faltam};
+    }catch(e){ return {total:0,baixados:0,faltam:[],erro:e.message} }
+  },
+  async baixa(aoAndar){
+    const c=await caches.open(LIVROS);
+    const {faltam}=await this.estado();
+    let n=0;
+    for(let i=0;i<faltam.length;i+=6){
+      await Promise.all(faltam.slice(i,i+6).map(async u=>{
+        try{ const r=await fetch(u,{cache:"reload"}); if(r.ok)await c.put(u,r) }catch(e){}
+        n++; if(aoAndar)aoAndar(n,faltam.length);
+      }));
+    }
+    return n;
+  },
+  async remove(){ await caches.delete(LIVROS) }
+};
+/* ================= busca global =================
+   Procura em títulos e seções das leituras (indice-leituras.js), enunciados das questões,
+   cartões e estações. A seção da leitura abre já rolada até o cabeçalho (#id). */
+function normaliza(s){return String(s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"")}
+function marca(txt,q){const n=normaliza(txt),i=n.indexOf(q);if(i<0)return esc(txt);
+  return esc(txt.slice(0,i))+"<mark>"+esc(txt.slice(i,i+q.length))+"</mark>"+esc(txt.slice(i+q.length))}
+function buscaTudo(q){
+  q=normaliza(q).trim(); if(q.length<2)return null;
+  const out={leituras:[],secoes:[],questoes:[],cartoes:[],estacoes:[]};
+  const idx=(typeof IDXL!=="undefined")?IDXL:[];
+  LEITURAS.filter(l=>l.f).forEach(l=>{
+    if(normaliza(l.t+" "+l.s+" "+(l.tipo||"")).includes(q))out.leituras.push(l);
+    const ix=idx.find(x=>x.f===l.f); if(!ix)return;
+    ix.h.forEach(h=>{if(normaliza(h.t).includes(q))out.secoes.push({l,h})});
+  });
+  BANCO.forEach(x=>{if(out.questoes.length<40&&normaliza(x.q).includes(q))out.questoes.push(x)});
+  FLASH.forEach((c,i)=>{if(out.cartoes.length<20&&normaliza((c.f||c.frente||"")+" "+(c.v||c.verso||"")).includes(q))out.cartoes.push({c,i})});
+  PRATICA.forEach(e=>{if(normaliza((e.t||e.titulo||"")+" "+(e.caso||"")).includes(q))out.estacoes.push(e)});
+  return out;
+}
+function abreBusca(ini){
+  if($("#fundoBusca"))return;
+  const d=document.createElement("div");d.className="fundo";d.id="fundoBusca";
+  d.innerHTML=`<div class="modal busca">
+    <div class="campo"><i class="ti ti-search" style="color:var(--ink2)"></i>
+     <input id="qBusca" type="search" placeholder="pré-eclâmpsia, Lei 8.080, bronquiolite, CAPS…" autocomplete="off">
+     <button class="btIco" id="fechaBusca" aria-label="fechar"><i class="ti ti-x"></i></button></div>
+    <div id="resBusca"><p class="mini" style="margin:12px 0 0">Procura nas ${LEITURAS.filter(l=>l.f).length} leituras (por seção), nas ${BANCO.length} questões e nos cartões.</p></div></div>`;
+  document.body.appendChild(d);
+  const fecha=()=>d.remove();
+  $("#fechaBusca").onclick=fecha; d.onclick=e=>{if(e.target===d)fecha()};
+  d.onkeydown=e=>{if(e.key==="Escape")fecha()};
+  const inp=$("#qBusca"); inp.focus();
+  let deb; inp.oninput=()=>{clearTimeout(deb);deb=setTimeout(()=>pintaBusca(inp.value,fecha),180)};
+  if(ini){inp.value=ini;pintaBusca(ini,fecha)}
+}
+function pintaBusca(q,fecha){
+  const r=buscaTudo(q), box=$("#resBusca"); if(!box)return;
+  if(!r){box.innerHTML=`<p class="mini" style="margin:12px 0 0">Digite ao menos duas letras.</p>`;return}
+  const qn=normaliza(q).trim();
+  const total=r.leituras.length+r.secoes.length+r.questoes.length+r.cartoes.length+r.estacoes.length;
+  if(!total){box.innerHTML=`<p class="vazio">Nada com “${esc(q)}”.</p>`;return}
+  const grupo=(n,itens,f)=>itens.length?`<div class="grupoB">${n} (${itens.length})</div>${itens.slice(0,12).map(f).join("")}`:"";
+  box.innerHTML=
+    grupo("Leituras",r.leituras,l=>`<button class="hit" data-ler="${esc(l.f)}">${marca(l.t,qn)}<small>${esc(NOME[l.area]||"")} · ${l.min} min</small></button>`)+
+    grupo("Seções de leitura",r.secoes,x=>`<button class="hit" data-ler="${esc(x.l.f)}" data-sec="${esc(x.h.id)}">${marca(x.h.t,qn)}<small>em ${esc(x.l.t)}</small></button>`)+
+    grupo("Questões",r.questoes,x=>`<button class="hit" data-q="${esc(x._ch)}">${marca(x.q.length>160?x.q.slice(0,160)+"…":x.q,qn)}<small>${esc(NOME[x.tema]||x.tema)}${x.fonte?" · "+esc(x.fonte.banca+" "+x.fonte.ano):""}</small></button>`)+
+    grupo("Cartões",r.cartoes,x=>`<button class="hit" data-card="${x.i}">${marca(x.c.f||x.c.frente||"",qn)}</button>`)+
+    grupo("Estações",r.estacoes,e=>`<button class="hit" data-est="${esc(e.id)}">${marca(e.t||e.titulo||"",qn)}</button>`);
+  $$("#resBusca [data-ler]").forEach(b=>b.onclick=()=>{fecha();ST.cfg.lendo=b.dataset.ler;ST.cfg.secao=b.dataset.sec||null;salva("cfg",ST.cfg);irAba("leituras")});
+  $$("#resBusca [data-q]").forEach(b=>b.onclick=()=>{fecha();
+    abreQuestaoEm({area:"",areas:[],cen:"",comp:"",niv:"",modo:"todas",proc:""},b.dataset.q)});
+  $$("#resBusca [data-card]").forEach(b=>b.onclick=()=>{fecha();irAba("cartoes")});
+  $$("#resBusca [data-est]").forEach(b=>b.onclick=()=>{fecha();ST.cfg.estacao=b.dataset.est;salva("cfg",ST.cfg);irAba("pratica")});
+}
+$("#btBusca").onclick=()=>abreBusca();
+/* atalhos da questão: A–E responde, setas navegam (só na aba Questões, fora de campos) */
+addEventListener("keydown",e=>{
+  if((ST.cfg||{}).aba!=="questoes"||e.metaKey||e.ctrlKey||e.altKey||/input|textarea|select/i.test(e.target.tagName)||$(".fundo,.folha"))return;
+  const k=e.key.toUpperCase();
+  if("ABCDE".includes(k)&&k.length===1){const b=$$("#alts .alt")["ABCDE".indexOf(k)];if(b&&!b.disabled){e.preventDefault();b.click()}}
+  else if(e.key==="ArrowRight"){const b=$("#btProx");if(b&&!b.disabled){e.preventDefault();b.click()}}
+  else if(e.key==="ArrowLeft"){const b=$("#btAnt");if(b&&!b.disabled){e.preventDefault();b.click()}}
+});
+addEventListener("keydown",e=>{if(e.key==="/"&&!/input|textarea|select/i.test(e.target.tagName)&&!e.metaKey&&!e.ctrlKey){e.preventDefault();abreBusca()}});
+
+/* ================= referência das provas =================
+   O app NÃO tem modo/objetivo global: o banco é um só e a escolha de formato acontece na hora
+   de montar o simulado. `PROVAS` fica apenas como referência de formato e de datas. */
+function diasPara(iso){if(!iso)return null;
+  const h=new Date(dataISO()+"T12:00:00"),d=new Date(iso+"T12:00:00");
+  return Math.round((d-h)/864e5)}
+const provaPorId=id=>PROVAS.find(p=>p.id===id)||PROVAS[0];
+/* deslogado o chip abre o login; logado ele leva para Ajustes, onde está o estado da conta */
+$("#btConta").onclick=()=>irAba("ajustes");
+$("#btTema").onclick=()=>{
+  const seq=["auto","claro","escuro"],at=ST.cfg.tema||"auto",nv=seq[(seq.indexOf(at)+1)%3];
+  ST.cfg.tema=nv;salva("cfg",ST.cfg);aplicaTema();
+  UI.banner("ok","Tema: "+({auto:"segue o sistema",claro:"claro",escuro:"escuro"}[nv]));
+};
+function aplicaTema(){const t=ST.cfg.tema||"auto";
+  const ic=$("#btTema i");if(ic)ic.className="ti ti-"+({auto:"sun-moon",claro:"sun",escuro:"moon"}[t]);
+  if(t==="auto")document.documentElement.removeAttribute("data-tema");
+  else document.documentElement.setAttribute("data-tema",t);
+  try{localStorage.setItem(PREF+"tema",t)}catch(e){}
+  const ifr=$("#quadroLeitura"); if(ifr&&ifr.contentWindow)ifr.contentWindow.postMessage({cm:"tema",tema:temaEfetivo()},"*");
+}
+const temaEfetivo=()=>{const t=ST.cfg.tema||"auto";
+  return t!=="auto"?t:(matchMedia("(prefers-color-scheme:dark)").matches?"escuro":"claro")};
+
+/* ================= contestação de conteúdo =================
+   O app não tem backend. A contestação abre o e-mail do MedTech já preenchido com TODO o contexto
+   (enunciado, alternativas, gabarito, âncora, versão) e guarda uma cópia local — assim, se o
+   cliente de e-mail não abrir, o texto continua recuperável e copiável em Ajustes. */
+const EMAIL_MEDTECH="medtechbr1@gmail.com";
+const MOTIVOS={
+ questão:[
+  ["gabarito","O gabarito está errado; a alternativa correta é outra"],
+  ["desatualizado","A conduta está desatualizada frente à diretriz vigente"],
+  ["comentario","O comentário ou a explicação de alguma alternativa está incorreta"],
+  ["ambiguo","O enunciado é ambíguo ou tem mais de uma resposta defensável"],
+  ["fonte","A fonte citada não sustenta o que está escrito"],
+  ["outro","Outro motivo"]],
+ leitura:[
+  ["erro","Há informação clinicamente incorreta no texto"],
+  ["desatualizado","O texto está desatualizado frente à diretriz vigente"],
+  ["fonte","A fonte citada não sustenta o que está escrito"],
+  ["incompleto","Falta um ponto importante, ou está superficial demais"],
+  ["confuso","O texto está confuso ou mal explicado neste trecho"],
+  ["outro","Outro motivo"]]
+};
+
+function contextoQuestao(q){
+  const t=TAX.find(x=>x.id===q.tema)||{};
+  return {tipo:"questão", ref:q._ch, area:t.nome||q.tema,
+    corpo:[`Questão (chave ${q._ch})`,`Área: ${t.nome||q.tema} · ${NCEN[q.cenario]||""} · ${NCOMP[q.comp]||""} · ${NNIV[q.nivel]||""}`,
+      "", "ENUNCIADO:", q.q, "", "ALTERNATIVAS:",
+      ...ordemAlts(q).map((i,p)=>`${LETRAS[p]}${i===q.gab?" (gabarito)":""}) ${q.alts[i]}`),
+      "", "COMENTÁRIO:", q.coment, "", `ÂNCORA: ${q.base}`,
+      q.fonte?`PROCEDÊNCIA: ${q.fonte.banca} ${q.fonte.ano}`:"PROCEDÊNCIA: autoral"].join("\n")};
+}
+function contextoLeitura(f){
+  const l=LEITURAS.find(x=>x.f===f)||{};
+  return {tipo:"leitura", ref:f, area:NOME[l.area]||l.area||"",
+    corpo:[`Leitura: ${l.t||f}`,`Arquivo: leituras/${f}`,`Fonte declarada: ${l.tipo||""}`,`Área: ${NOME[l.area]||l.area||""}`].join("\n")};
+}
+
+function abreContestacao(ctx){
+  const d=document.createElement("div"); d.className="fundo";
+  d.innerHTML=`<div class="modal" role="dialog" aria-modal="true">
+   <h3>Discordo deste conteúdo</h3>
+   <p class="mini">A mensagem vai para ${EMAIL_MEDTECH} com o conteúdo completo anexado no corpo, para revisão.
+    Uma cópia fica salva aqui no aparelho, em Ajustes, mesmo que o e-mail não abra.</p>
+   <div class="opcs">${(MOTIVOS[ctx.tipo]||MOTIVOS["questão"]).map(([v,n],i)=>
+     `<label><input type="radio" name="motivo" value="${v}"${i===0?" checked":""}><span>${esc(n)}</span></label>`).join("")}</div>
+   <label class="cmp">O que está errado, e o que deveria ser (quanto mais específico, melhor)
+    <textarea id="cTexto" placeholder="Ex.: a diretriz X de 2026 mudou esse corte para Y; a alternativa C também estaria correta porque…"></textarea></label>
+   <label class="cmp">Seu e-mail, se quiser resposta (opcional)
+    <input type="text" id="cEmail" placeholder="voce@exemplo.com"></label>
+   <hr>
+   <div class="linha">
+    <button class="bt" id="cEnviar">Enviar por e-mail</button>
+    <button class="bt sec" id="cCopiar">Copiar texto</button>
+    <button class="bt sec" id="cFechar" style="margin-left:auto">Cancelar</button>
+   </div>
+  </div>`;
+  document.body.appendChild(d);
+  const fecha=()=>d.remove();
+  d.onclick=e=>{if(e.target===d)fecha()};
+  $("#cFechar",d).onclick=fecha;
+
+  const monta=()=>{
+    const motivo=($("input[name=motivo]:checked",d)||{}).value||"outro";
+    const lista=MOTIVOS[ctx.tipo]||MOTIVOS["questão"];
+    const nomeMotivo=(lista.find(m=>m[0]===motivo)||[])[1]||motivo;
+    const texto=$("#cTexto",d).value.trim(), email=$("#cEmail",d).value.trim();
+    const assunto=`[FlashMed] Contestação de ${ctx.tipo} · ${ctx.area} · ${ctx.ref}`;
+    const corpo=[`Motivo: ${nomeMotivo}`,"",
+      "O QUE O USUÁRIO APONTA:", texto||"(não preenchido)","",
+      email?`Contato: ${email}`:"Contato: não informado","",
+      "————————————————————————","CONTEÚDO CONTESTADO","————————————————————————",
+      ctx.corpo,"","————————————————————————",
+      `App: FlashMed ${V} · ${new Date().toISOString().slice(0,16).replace("T"," ")}`].join("\n");
+    return {motivo,nomeMotivo,texto,email,assunto,corpo};
+  };
+  const guarda=m=>{
+    ST.contest.unshift({quando:new Date().toISOString(),tipo:ctx.tipo,ref:ctx.ref,area:ctx.area,
+      motivo:m.nomeMotivo,texto:m.texto,assunto:m.assunto,corpo:m.corpo});
+    if(ST.contest.length>60)ST.contest=ST.contest.slice(0,60);
+    salva("contest",ST.contest);
+  };
+  $("#cEnviar",d).onclick=()=>{
+    const m=monta();
+    if(m.texto.length<10)return UI.banner("avi","Escreva o que está errado. Sem isso não dá para avaliar a contestação.");
+    guarda(m);
+    location.href=`mailto:${EMAIL_MEDTECH}?subject=${encodeURIComponent(m.assunto)}&body=${encodeURIComponent(m.corpo)}`;
+    fecha(); UI.banner("ok","Contestação registrada e e-mail aberto. A cópia fica em Ajustes.");
+  };
+  $("#cCopiar",d).onclick=async()=>{
+    const m=monta();
+    if(m.texto.length<10)return UI.banner("avi","Escreva o que está errado antes de copiar.");
+    guarda(m);
+    try{await navigator.clipboard.writeText(`Para: ${EMAIL_MEDTECH}\nAssunto: ${m.assunto}\n\n${m.corpo}`);
+      UI.banner("ok","Texto copiado. Cole em um e-mail para "+EMAIL_MEDTECH+".");
+    }catch(e){UI.banner("avi","Não consegui copiar; o texto está salvo em Ajustes.")}
+    fecha();
+  };
+}
+
+/* ================= aba QUESTÕES ================= */
+const NREAIS=BANCO.filter(q=>q.fonte).length;
+/* bancas com contagem, para o filtro de procedência (a mais numerosa primeiro) */
+const BANCAS=Object.entries(BANCO.reduce((m,q)=>{if(q.fonte)m[q.fonte.banca]=(m[q.fonte.banca]||0)+1;return m},{})).sort((a,b)=>b[1]-a[1]);
+/* Filtro de VÁRIAS áreas (25/09/2026). Pedido do Matheus: "conseguirmos filtrar alguns temas (hoje só é
+   possível filtrar 1 tema por vez)". Componente compartilhado mtfiltro.js (window.MTTemas, fonte única em
+   ~/Documents/Claude/_mtfiltro/ — não editar a cópia daqui).
+   O estado passou de string para LISTA: pos.fq.areas, cfg.fcs (cartões), cfg.fps (prática), cfg.fl.areas
+   (leituras). A chave antiga (string) continua gravada com a PRIMEIRA área da lista, para que uma versão
+   anterior aberta no mesmo aparelho (aba velha, SW atrasado) ainda leia algo coerente. Na leitura, a lista
+   só vale se a primeira dela bater com a string; se não bater, quem gravou por último foi a versão antiga
+   e a string vence. cfg e pos são deste aparelho: não sincronizam com a nuvem (ver nuvem.js).
+   A lista é guardada na ordem da taxonomia, então a primeira é estável. Vazia = todas. */
+const IDS_TAX=TAX.map(t=>t.id);
+function ordAreas(ids){const s=new Set(MTTemas.lista(ids));return IDS_TAX.filter(id=>s.has(id))}
+function leAreas(lista,str){str=str||"";return ordAreas(Array.isArray(lista)&&(lista[0]||"")===str?lista:MTTemas.lista(str))}
+const nomeAreas=(ids,todas)=>!ids.length?todas:ids.length===1?(NOME[ids[0]]||ids[0]):ids.length+" áreas";
+function seletorAreas(el,o){
+  if(!el)return null;
+  return MTTemas.monta(el,{titulo:"Áreas",rotuloTodos:"Todas as áreas",item:["área","áreas"],...o});
+}
+const NQ_AREA=BANCO.reduce((m,q)=>(m[q.tema]=(m[q.tema]||0)+1,m),{});
+function filtroAtual(){const f=ST.pos.fq||{}, areas=leAreas(f.areas,f.area);
+  return {area:areas[0]||"",areas,gr:f.gr||"",ex:f.ex||"",cen:f.cen||"",comp:f.comp||"",niv:f.niv||"",modo:f.modo||"todas",proc:f.proc||""}}
+function aplicaFiltro(f=filtroAtual()){
+  const as=new Set(f.areas);
+  let l=BANCO.filter(q=>(!as.size||as.has(q.tema))&&(!f.gr||GDE[q.tema]===f.gr)&&(!f.ex||(q.fonte&&q.fonte.ex===f.ex))&&(!f.cen||q.cenario===f.cen)&&(!f.comp||q.comp===f.comp)&&(!f.niv||q.nivel===f.niv));
+  if(f.modo==="erros")l=l.filter(q=>ST.erros.includes(q._ch));
+  if(f.modo==="fav")l=l.filter(q=>ST.fav[q._ch]);
+  if(f.modo==="novas")l=l.filter(q=>!respostaDe(q));
+  if(f.modo==="sinal")l=l.filter(q=>ST.sinal[q._ch]);
+  /* procedência: `fonte` só existe na questão copiada de prova real (banca+ano) */
+  if(f.proc==="real")l=l.filter(q=>q.fonte);
+  if(f.proc==="autoral")l=l.filter(q=>!q.fonte);
+  if(f.proc.startsWith("b:"))l=l.filter(q=>q.fonte&&q.fonte.banca===f.proc.slice(2));
+  return l;
+}
+/* A ordem embaralhada é refeita quando a assinatura muda. Mesma forma de antes, com a área como a lista
+   ordenada e unida por "|": com uma área (ou nenhuma) a assinatura é idêntica à antiga, então ninguém
+   perde a posição na lista ao atualizar o app. */
+/* Abre a aba Questões com um filtro novo PARADA numa questão. A ordem tem de ser refeita antes de pôr a
+   questão: ordemQuestoes() com assinatura nova volta a posição para a 1ª da lista embaralhada (antes a busca
+   caía na 1ª questão do banco, não na que foi clicada). */
+function abreQuestaoEm(fq,ch){
+  ST.pos.fq=fq;ST.pos.assq=null;ST.pos.chq=null;
+  const l=ordemQuestoes(); if(ch&&l.some(q=>q._ch===ch))ST.pos.chq=ch;
+  salva("pos",ST.pos);irAba("questoes");
+}
+const assinaturaFiltro=()=>{const f=filtroAtual();
+  return JSON.stringify({area:[...f.areas].sort().join("|"),gr:f.gr,ex:f.ex,cen:f.cen,comp:f.comp,niv:f.niv,modo:f.modo,proc:f.proc})};
+function ordemQuestoes(){
+  const lista=aplicaFiltro(), ass=assinaturaFiltro();
+  if(ST.pos.assq!==ass||!Array.isArray(ST.pos.ordq)||!ST.pos.ordq.length){
+    ST.pos.ordq=espalhaTemas(lista).map(q=>q._ch);ST.pos.assq=ass;ST.pos.chq=ST.pos.ordq[0]||null;
+    salva("pos",ST.pos);
+  }
+  const setch=new Set(lista.map(q=>q._ch));
+  let ord=ST.pos.ordq.filter(ch=>setch.has(ch));
+  /* Questão cuja chave não está na ordem salva entra no FIM, espalhada por tema — é o caso de
+     leva nova publicada e de enunciado corrigido (a chave deriva do texto). Sem isso ela ficaria
+     invisível; e se TODAS as chaves mudarem, a aba ficaria vazia para sempre com o filtro intacto. */
+  if(ord.length<lista.length){
+    const jaTem=new Set(ord);
+    ord=ord.concat(espalhaTemas(lista.filter(q=>!jaTem.has(q._ch))).map(q=>q._ch));
+    ST.pos.ordq=ord;salva("pos",ST.pos);
+  }
+  return ord.map(ch=>QIDX.get(ch)).filter(Boolean);
+}
+function pintaQuestoes(){
+  const l=ordemQuestoes(), f=filtroAtual();
+  if(!ST.pos.chq||!l.some(q=>q._ch===ST.pos.chq))ST.pos.chq=l.length?l[0]._ch:null;
+  const i=l.findIndex(q=>q._ch===ST.pos.chq), q=l[i];
+  const opt=(arr,v,vazio)=>`<option value="">${vazio}</option>`+arr.map(o=>
+    `<option value="${o.id}"${o.id===v?" selected":""}>${esc(o.nome)}</option>`).join("");
+  const resumoF=[f.gr&&!f.areas.length?(NOMEG[f.gr]||f.gr):nomeAreas(f.areas,"todas as áreas"),f.ex?(EXAMES.find(e=>e.id===f.ex)||{}).nome:null,f.modo&&f.modo!=="todas"?{novas:"não respondidas",erros:"meus erros",fav:"marcadas",sinal:"sinalizadas"}[f.modo]:null].filter(Boolean).join(" · ");
+  /* Seis seletores abertos competiam com o enunciado pela atenção. Ficam à vista os dois que se
+     mexem todo dia — área e conjunto —; cenário, competência, nível e procedência entram em
+     "mais filtros", que abre quando algum deles está em uso. */
+  const extraAtivo=!!(f.cen||f.comp||f.niv||f.proc||f.ex);
+  const nG=g=>BANCO.filter(q=>GDE[q.tema]===g).length;
+  $("#sec-questoes").innerHTML=filtroBox("q",`${l.length} · ${esc(resumoF)}`,`
+    <div class="chipsG" role="group" aria-label="Grande área" style="flex-basis:100%">
+     <button type="button" class="chipG${f.gr?"":" on"}" data-gr="">Todas</button>
+     ${GRANDES.map(g=>`<button type="button" class="chipG${f.gr===g.id?" on":""}" data-gr="${g.id}" style="--cg:${g.cor}"><i class="ti ti-${g.ic}" aria-hidden="true"></i>${esc(g.curto)}<small>${nG(g.id)}</small></button>`).join("")}
+    </div>
+    <label class="cmp">Subárea<button type="button" id="fArea"></button></label>
+    <label class="cmp">Conjunto<select id="fModo">
+      <option value="todas"${f.modo==="todas"?" selected":""}>todas</option>
+      <option value="novas"${f.modo==="novas"?" selected":""}>ainda não respondidas</option>
+      <option value="erros"${f.modo==="erros"?" selected":""}>meus erros</option>
+      <option value="fav"${f.modo==="fav"?" selected":""}>marcadas</option>
+      <option value="sinal"${f.modo==="sinal"?" selected":""}>sinalizadas com erro</option>
+    </select></label>
+    <details class="maisF"${extraAtivo?" open":""}><summary>mais filtros${extraAtivo?" <span class=\"pt\"></span>":""}</summary>
+     <label class="cmp">Cenário<select id="fCen">${opt(CEN,f.cen,"todos")}</select></label>
+     <label class="cmp">Competência<select id="fComp">${opt(COMP,f.comp,"todas")}</select></label>
+     <label class="cmp">Nível<select id="fNiv">${opt(NIVEIS,f.niv,"todos")}</select></label>
+     <label class="cmp">Prova<select id="fEx"><option value="">todas</option>
+       ${EXAMES.map(e=>`<option value="${e.id}"${f.ex===e.id?" selected":""}>${esc(e.nome)} (${e.n})</option>`).join("")}</select></label>
+     <label class="cmp">Procedência<select id="fProc">
+       <option value=""${f.proc?"":" selected"}>todas (${BANCO.length})</option>
+       <option value="real"${f.proc==="real"?" selected":""}>só de prova real (${NREAIS})</option>
+       <option value="autoral"${f.proc==="autoral"?" selected":""}>só autorais (${BANCO.length-NREAIS})</option>
+       ${BANCAS.map(([b,n])=>`<option value="b:${esc(b)}"${f.proc==="b:"+b?" selected":""}>${esc(b)} (${n})</option>`).join("")}
+     </select></label>
+    </details>
+    <button class="bt sec mini" id="btEmb">Embaralhar</button>
+    <div class="mini" style="flex-basis:100%">${l.length} ${l.length===1?"questão":"questões"} no filtro${l.length?`. Você está na ${i+1}ª`:""}</div>`)
+  +`<div id="qCartao"></div>`;
+  seletorAreas($("#fArea"),{
+    opcoes:TAX.filter(t=>!f.gr||t.grande===f.gr).map(t=>({id:t.id,nome:t.nome,n:NQ_AREA[t.id]||0})),
+    selecionados:f.areas,
+    conta:ids=>aplicaFiltro({...f,areas:ids}).length,   /* com conjunto, cenário, nível etc. aplicados */
+    aoMudar:ids=>mudaFiltro("areas",ids)});
+  $$("#sec-questoes [data-gr]").forEach(b=>b.onclick=()=>{const f2=filtroAtual();
+    f2.gr=b.dataset.gr; f2.areas=f2.areas.filter(id=>!f2.gr||GDE[id]===f2.gr); f2.area=f2.areas[0]||"";
+    ST.pos.fq=f2;ST.pos.assq=null;ST.pos.chq=null;salva("pos",ST.pos);pintaQuestoes()});
+  $("#fEx").onchange=e=>mudaFiltro("ex",e.target.value);
+  $("#fCen").onchange=e=>mudaFiltro("cen",e.target.value);
+  $("#fComp").onchange=e=>mudaFiltro("comp",e.target.value);
+  $("#fNiv").onchange=e=>mudaFiltro("niv",e.target.value);
+  $("#fProc").onchange=e=>mudaFiltro("proc",e.target.value);
+  $("#fModo").onchange=e=>mudaFiltro("modo",e.target.value);
+  $("#btEmb").onclick=()=>{ST.pos.assq=null;salva("pos",ST.pos);pintaQuestoes()};
+  pintaCartaoQuestao(q,l,i);
+}
+function mudaFiltro(k,v){const f=filtroAtual();
+  if(k==="areas"||k==="area"){f.areas=ordAreas(v);f.area=f.areas[0]||""}else f[k]=v;
+  ST.pos.fq=f;ST.pos.assq=null;ST.pos.chq=null;salva("pos",ST.pos);pintaQuestoes()}
+function pintaCartaoQuestao(q,l,i){
+  const alvo=$("#qCartao");
+  if(!q){alvo.innerHTML=`<div class="cx"><p class="vazio">Nenhuma questão neste filtro. Troque o conjunto ou tire alguma restrição.</p></div>`;return}
+  const t=TAX.find(t=>t.id===q.tema)||{}, resp=respostaDe(q), ja=(resp&&resp.hist.length)?resp.hist[resp.hist.length-1]:null;
+  alvo.innerHTML=`
+  <div class="cx">
+   <div class="qTopo">
+    <span class="qNum">Questão <b class="num">${i+1}</b> de <span class="num">${l.length}</span></span>
+    <span class="qProg"><i style="width:${Math.max(1,Math.round((i+1)/l.length*100))}%"></i></span>
+    ${ja?`<span class="qEstado ${ja.ok?"ok":"er"}">${ja.ok?"acertou":"errou"}<span class="qUlt"> da última vez</span></span>`:""}
+    <button id="btSinal"></button>
+    <button class="btMarca${ST.fav[q._ch]?" on":""}" id="btFav" title="${ST.fav[q._ch]?"Desmarcar":"Marcar para revisar"}" aria-pressed="${!!ST.fav[q._ch]}"><i class="ti ti-bookmark${ST.fav[q._ch]?"-filled":""}"></i></button>
+   </div>
+   <p class="enun">${esc(q.q)}</p>
+   <div id="alts">${ordemAlts(q).map((j,p)=>
+     `<button class="alt" data-j="${j}"><span class="let">${LETRAS[p]}</span><span>${esc(q.alts[j])}</span></button>`).join("")}</div>
+   <div id="fb"></div>
+   <div class="qPe">
+    <button class="bt sec" id="btAnt" ${i<=0?"disabled":""}><i class="ti ti-arrow-left"></i>Anterior</button>
+    <button class="bt" id="btProx" ${i>=l.length-1?"disabled":""}>Próxima<i class="ti ti-arrow-right"></i></button>
+    <span class="atalhos"><kbd>A</kbd>–<kbd>E</kbd> responder <kbd>←</kbd><kbd>→</kbd> navegar</span>
+   </div>
+  </div>`;
+  bandeira($("#btSinal"),q);
+  $("#btFav").onclick=()=>{ST.fav[q._ch]=!ST.fav[q._ch];if(!ST.fav[q._ch])delete ST.fav[q._ch];salva("fav",ST.fav);pintaCartaoQuestao(q,l,i)};
+  $("#btAnt").onclick=()=>{ST.pos.chq=l[i-1]._ch;salva("pos",ST.pos);pintaQuestoes();entraQuestao(true)};
+  $("#btProx").onclick=()=>{ST.pos.chq=l[i+1]._ch;salva("pos",ST.pos);pintaQuestoes();entraQuestao(false)};
+  $$("#alts .alt").forEach(b=>b.onclick=()=>responde(q,+b.dataset.j,l,i));
+}
+function responde(q,j,l,i){
+  const ok=j===q.gab;
+  const meta=Math.max(5,+(ST.cfg.meta||20)), antes=ST.atividade[dataISO()]||0;
+  registraResposta(q,j,ok,"estudo");
+  COMBO=ok?COMBO+1:0;
+  {const t=$(".qTopo"),v=$(".qCombo");if(v)v.remove();
+   if(t&&COMBO>=2){const c=document.createElement("span");c.className="qCombo";c.innerHTML=`<i class="ti ti-flame"></i>${COMBO} seguidas`;t.insertBefore(c,$("#btFav"))}}
+  if(antes<meta&&antes+1>=meta){confete();UI.banner("ok",`Meta do dia batida: ${meta} questões.`)}
+  $$("#alts .alt").forEach(b=>{
+    const k=+b.dataset.j;
+    b.disabled=true;
+    if(k===q.gab)b.classList.add("certa");
+    if(k===j&&!ok)b.classList.add("errada");
+    const e=document.createElement("div");e.className="expl";e.textContent=q.porAlt[k]||"";
+    b.after(e);
+  });
+  $("#fb").innerHTML=`
+   <div class="coment ${ok?"ok":"er"}">
+    <b>${ok?"Você acertou.":"Resposta correta: "+letraDe(q,q.gab)+"."}</b> ${esc(q.coment)}
+    <div class="base">Âncora: ${esc(q.base)}</div>
+    <div class="linha" style="gap:6px;margin-top:10px">
+     <span class="pilula b">${esc(NOMEG[GDE[q.tema]]||"")}</span>
+     <span class="pilula">${esc(NOME[q.tema]||q.tema)}${q.sub?" · "+esc(q.sub):""}</span>
+     <span class="pilula">${esc(NCEN[q.cenario]||"")}</span>
+     <span class="pilula">${esc(NCOMP[q.comp]||"")}</span>
+     ${q.fonte?`<span class="pilula">${esc(rotuloFonte(q))}</span>`:`<span class="pilula">autoral MedTech</span>`}
+    </div>
+   </div>
+   ${(()=>{const ls=LEITURAS.filter(l=>l.f&&l.area===q.tema).slice(0,2);return ls.length?`<div class="linha" style="margin-top:10px;gap:8px">
+    <span class="mini"><i class="ti ti-book"></i> Para estudar o tema:</span>
+    ${ls.map(l=>`<button class="bt sec mini" data-lerq="${esc(l.f)}">${esc(l.t)}</button>`).join("")}</div>`:""})()}
+   <div class="linha" style="margin-top:10px">
+    <button class="bt sec mini" id="btDiscordo">Discordo desta questão</button>
+    <span class="mini">Contestação vai para revisão no MedTech, com a questão inteira anexada.</span>
+   </div>`;
+  $$("#fb [data-lerq]").forEach(b=>b.onclick=()=>{ST.cfg.lendo=b.dataset.lerq;salva("cfg",ST.cfg);irAba("leituras")});
+  $("#btDiscordo").onclick=()=>abreContestacao(contextoQuestao(q));
+}
+
+/* ================= aba SIMULADO ================= */
+const FORMATOS=[
+ {id:"enamed", nome:"ENAMED / ENARE", n:100, min:300, det:"100 questões em 5 horas, 20 de cada área: Clínica Médica, Cirurgia, GO, Pediatria e o bloco de Medicina de Família com Saúde Coletiva e Saúde Mental, como na prova do INEP que é o acesso direto do ENARE."},
+ {id:"area",   nome:"Por grande área", n:30, min:90, det:"30 questões de uma grande área em 1 hora e meia, sorteadas pelo peso de cada subárea na prova."},
+ {id:"livre",  nome:"Treino curto", n:30, min:60, det:"30 questões em 1 hora, na mesma proporção entre áreas do ENAMED."}
+];
+/* Cotas do ENAMED: 20% para cada uma das quatro áreas clássicas e 20% para o bloco de MFC, que no
+   FlashMed reúne MFC, Saúde Coletiva/SUS e Saúde Mental (transversais na prova). Radiologia fica de fora. */
+const COTA_ENAMED={clinica:.20,cirurgia:.20,go:.20,ped:.20,mfc:.08,coletiva:.07,mental:.05};
+const formatoSimulado=()=>FORMATOS.find(f=>f.id===(ST.cfg.formato||"enamed"))||FORMATOS[0];
+/* sorteio dentro de um conjunto, PONDERADO pelo peso da subárea na prova */
+function sorteiaPeso(pool,n){
+  const porArea={};pool.forEach(q=>{(porArea[q.tema]=porArea[q.tema]||[]).push(q)});
+  Object.keys(porArea).forEach(k=>porArea[k]=embaralha(porArea[k]));
+  const peso=id=>{const t=TAX.find(x=>x.id===id);return Math.max(0.3,t?t.peso:1)};
+  const out=[];let guarda=0;
+  while(out.length<n&&guarda++<n*40){
+    const disp=Object.keys(porArea).filter(k=>porArea[k].length);
+    if(!disp.length)break;
+    const tot=disp.reduce((s,k)=>s+peso(k),0);let r=Math.random()*tot,esc=disp[0];
+    for(const k of disp){r-=peso(k);if(r<=0){esc=k;break}}
+    out.push(porArea[esc].shift());
+  }
+  return out;
+}
+function sorteiaProva(n,fmt){
+  fmt=fmt||formatoSimulado();
+  /* Nível de acesso direto por padrão: questões de título (nivel "tit") e de provas de especialidade/
+     pré-requisito são mais difíceis que o ENAMED e distorcem o treino. "incluir nível especialista" traz de volta. */
+  const ehPrereq=q=>q.fonte&&(EXAMES.find(e=>e.id===q.fonte.ex)||{}).tipo==="prereq";
+  let so=ST.cfg.simReal?BANCO.filter(q=>q.fonte):BANCO;
+  if(!ST.cfg.simEsp)so=so.filter(q=>q.nivel!=="tit"&&!ehPrereq(q));
+  if(fmt.id==="area"){const g=ST.cfg.simGr||"clinica";return espalhaTemas(sorteiaPeso(so.filter(q=>GDE[q.tema]===g),n))}
+  /* maiores restos: as cotas somam exatamente n */
+  const gs=Object.keys(COTA_ENAMED), bruto=gs.map(g=>COTA_ENAMED[g]*n), base=bruto.map(Math.floor);
+  let falta=n-base.reduce((a,b)=>a+b,0);
+  bruto.map((v,k)=>[v-base[k],k]).sort((a,b)=>b[0]-a[0]).forEach(([_,k])=>{if(falta>0){base[k]++;falta--}});
+  let out=[];
+  gs.forEach((g,k)=>{out=out.concat(sorteiaPeso(so.filter(q=>GDE[q.tema]===g),base[k]))});
+  /* se alguma área não tinha questões suficientes, completa com o resto (fora radiologia) */
+  if(out.length<n){const tem=new Set(out.map(q=>q._ch));
+    out=out.concat(sorteiaPeso(so.filter(q=>!tem.has(q._ch)&&GDE[q.tema]!=="imagem"),n-out.length))}
+  return espalhaTemas(out);
+}
+/* prova real na íntegra: as questões daquela edição que estão no banco, na ordem do caderno */
+function questoesDoExame(id){
+  return BANCO.filter(q=>q.fonte&&q.fonte.ex===id).sort((a,b)=>(a.fonte.n||999)-(b.fonte.n||999));
+}
+function iniciaExame(id){
+  const e=EXAMES.find(x=>x.id===id), qs=questoesDoExame(id);
+  if(!e||qs.length<5)return UI.banner("avi","Esta prova tem poucas questões no banco.");
+  ST.simativo={ini:Date.now(),dur:Math.round(qs.length*3)*60,qs:qs.map(q=>q._ch),res:{},i:0,prova:"ex:"+id};
+  salva("simativo",ST.simativo);pintaSimulado();
+}
+const nomeFormato=p=>p&&p.startsWith("ex:")?((EXAMES.find(e=>"ex:"+e.id===p)||{}).nome||"Prova real"):((FORMATOS.find(f=>f.id===p)||{}).nome||p||"");
+function pintaSimulado(){
+  const s=ST.simativo, fmt=formatoSimulado();
+  if(s&&s.fim)return pintaResultadoSim(s);
+  if(s)return pintaSimEmCurso(s);
+  const hist=ST.sim.slice().reverse().slice(0,10);
+  const gr=ST.cfg.simGr||"clinica";
+  const feitos={};ST.sim.forEach(h=>{if(h.prova&&h.prova.startsWith("ex:"))(feitos[h.prova]=feitos[h.prova]||[]).push(h)});
+  const tipos=[["revalida","Revalida e ENAMED (INEP)"],["enare","ENARE acesso direto"],["usp","USP acesso direto"],["prereq","Provas de especialidade e pré-requisito"]];
+  $("#sec-simulado").innerHTML=`
+  <div class="cx">
+   <h2 style="margin:0 0 6px">Simulado</h2>
+   <p class="mini">Sorteio ponderado pelo peso de cada subárea, temas espalhados, correção comentada no fim.</p>
+   <div class="linha" style="margin-top:12px">
+    ${FORMATOS.map(f=>`<button class="bt ${f.id===fmt.id?"":"sec"} mini" data-fmt="${f.id}">${esc(f.nome)}</button>`).join("")}
+   </div>
+   <p class="mini" style="margin-top:8px">${esc(fmt.det)}</p>
+   ${fmt.id==="area"?`<div class="chipsG" style="margin-top:10px">${GRANDES.map(g=>`<button type="button" class="chipG${gr===g.id?" on":""}" data-sgr="${g.id}" style="--cg:${g.cor}"><i class="ti ti-${g.ic}" aria-hidden="true"></i>${esc(g.curto)}</button>`).join("")}</div>`:""}
+   <div class="linha" style="margin-top:12px">
+    <label class="cmp">Questões<input type="number" id="simN" value="${fmt.n}" min="5" max="200" style="width:110px"></label>
+    <label class="cmp">Minutos<input type="number" id="simM" value="${fmt.min}" min="5" max="360" style="width:110px"></label>
+    <label class="chkL"><input type="checkbox" id="simReal"${ST.cfg.simReal?" checked":""}> só questões de prova real</label>
+    <label class="chkL" title="Questões de prova de título e de pré-requisito, mais difíceis que o ENAMED"><input type="checkbox" id="simEsp"${ST.cfg.simEsp?" checked":""}> incluir nível especialista</label>
+    <button class="bt" id="btIniciar" style="align-self:flex-end">Iniciar</button>
+   </div>
+  </div>
+  <div class="cx">
+   <h3 style="margin:0 0 4px">Provas reais na íntegra</h3>
+   <p class="mini">Cada edição com as questões dela que estão no banco, na ordem do caderno e com 3 minutos por questão. Ficaram de fora só as que dependiam de imagem e as que tinham gabarito contrário à norma vigente, por isso o número pode ser menor que o da prova.</p>
+   ${tipos.map(([t,nome])=>{const ex=EXAMES.filter(e=>e.tipo===t);if(!ex.length)return "";
+     return `<h4 style="margin:14px 0 8px">${esc(nome)}</h4><div class="gradeEx">${ex.map(e=>{const f=feitos["ex:"+e.id],ult=f&&f[f.length-1];
+       return `<button class="cartaoEx" data-ex="${e.id}"><b>${esc(e.nome)}</b><span>${e.n} questões · ${(Math.round(e.n*3/60*10)/10).toLocaleString("pt-BR")} h</span>${ult?`<em>última: ${Math.round(ult.acertos/ult.n*100)}%</em>`:""}</button>`}).join("")}</div>`}).join("")}
+  </div>
+  ${hist.length?`<div class="cx"><h3 style="margin:0 0 8px">Simulados anteriores</h3>
+   <div class="rolagem"><table><tr><th>Quando</th><th>Formato</th><th>Questões</th><th>Acertos</th><th>%</th><th>Tempo</th></tr>
+   ${hist.map(h=>`<tr><td>${esc(h.quando.slice(0,10))}</td><td>${esc(nomeFormato(h.prova))}</td><td>${h.n}</td><td>${h.acertos}</td>
+     <td><b>${pct(h.acertos,h.n)}%</b></td><td>${Math.round(h.dur/60)} min</td></tr>`).join("")}</table></div></div>`:""}`;
+  $$("[data-fmt]").forEach(b=>b.onclick=()=>{ST.cfg.formato=b.dataset.fmt;salva("cfg",ST.cfg);pintaSimulado()});
+  $$("[data-sgr]").forEach(b=>b.onclick=()=>{ST.cfg.simGr=b.dataset.sgr;salva("cfg",ST.cfg);pintaSimulado()});
+  $("#simReal").onchange=e=>{ST.cfg.simReal=e.target.checked?1:0;salva("cfg",ST.cfg)};
+  $("#simEsp").onchange=e=>{ST.cfg.simEsp=e.target.checked?1:0;salva("cfg",ST.cfg)};
+  $$("[data-ex]").forEach(b=>b.onclick=()=>iniciaExame(b.dataset.ex));
+  $("#btIniciar").onclick=()=>{
+    const n=Math.max(5,Math.min(+$("#simN").value||fmt.n,200)), min=Math.max(5,+$("#simM").value||fmt.min);
+    const qs=sorteiaProva(n,fmt);
+    if(qs.length<5)return UI.banner("avi","Poucas questões com esses filtros para montar um simulado.");
+    if(qs.length<n)UI.banner("avi",`Só havia ${qs.length} questões com esses filtros; o simulado usa todas.`);
+    ST.simativo={ini:Date.now(),dur:min*60,qs:qs.map(q=>q._ch),res:{},i:0,prova:fmt.id,gr:fmt.id==="area"?(ST.cfg.simGr||"clinica"):""};
+    salva("simativo",ST.simativo);pintaSimulado();
+  };
+}
+function pintaSimEmCurso(s){
+  const q=QIDX.get(s.qs[s.i]);
+  const rest=()=>Math.max(0,s.dur-Math.floor((Date.now()-s.ini)/1000));
+  $("#sec-simulado").innerHTML=`
+  <div class="cx">
+   <div class="linha">
+    <span class="crono" id="crono"></span>
+    <span class="mini">questão ${s.i+1} de ${s.qs.length} · ${Object.keys(s.res).length} respondidas</span>
+    <button class="bt sec mini" id="btEncerrar" style="margin-left:auto">Encerrar e corrigir</button>
+   </div>
+   <div class="barra" style="margin-top:10px"><i style="width:${pct(Object.keys(s.res).length,s.qs.length)}%"></i></div>
+  </div>
+  <div class="cx">
+   <p class="enun">${esc(q.q)}</p>
+   <div id="simAlts">${ordemAlts(q).map((j,p)=>
+     `<button class="alt${s.res[q._ch]===j?" certa":""}" data-j="${j}"><span class="let">${LETRAS[p]}</span><span>${esc(q.alts[j])}</span></button>`).join("")}</div>
+   <hr>
+   <div class="linha">
+    <button class="bt sec" id="sAnt" ${s.i<=0?"disabled":""}>anterior</button>
+    <button class="bt sec" id="sPular">pular</button>
+    <button class="bt" id="sProx" ${s.i>=s.qs.length-1?"disabled":""}>próxima</button>
+   </div>
+  </div>`;
+  const tick=()=>{const r=rest();
+    const el=$("#crono"); if(!el)return clearInterval(iv);
+    el.textContent=`${String(Math.floor(r/3600)).padStart(2,"0")}:${String(Math.floor(r%3600/60)).padStart(2,"0")}:${String(r%60).padStart(2,"0")}`;
+    if(r<=0){clearInterval(iv);encerraSim(true)}};
+  const iv=setInterval(tick,1000);tick();
+  $$("#simAlts .alt").forEach(b=>b.onclick=()=>{
+    s.res[q._ch]=+b.dataset.j;
+    if(s.i<s.qs.length-1)s.i++;                 /* clicar já avança: não clicar em "próxima" depois */
+    salva("simativo",s);clearInterval(iv);pintaSimulado();
+  });
+  $("#sAnt").onclick=()=>{s.i--;salva("simativo",s);clearInterval(iv);pintaSimulado()};
+  $("#sProx").onclick=()=>{s.i++;salva("simativo",s);clearInterval(iv);pintaSimulado()};
+  $("#sPular").onclick=()=>{if(s.i<s.qs.length-1)s.i++;salva("simativo",s);clearInterval(iv);pintaSimulado()};
+  $("#btEncerrar").onclick=()=>{clearInterval(iv);encerraSim(false)};
+}
+function notaSimulado(s,acertos){
+  /* O ENAMED calcula a nota por Teoria de Resposta ao Item (peso diferente por questão): não dá para
+     reproduzir aqui. O app mostra o percentual de acertos, que é o que se compara entre simulados. */
+  return acertos/Math.max(1,s.qs.length)*100;
+}
+function encerraSim(porTempo){
+  const s=ST.simativo;if(!s)return;
+  let acertos=0;
+  s.qs.forEach(ch=>{const q=QIDX.get(ch);const r=s.res[ch];
+    if(r!==undefined){const ok=r===q.gab;if(ok)acertos++;registraResposta(q,r,ok,"simulado")}});
+  s.fim=Date.now();s.acertos=acertos;s.nota=notaSimulado(s,acertos);
+  ST.sim.push({quando:new Date().toISOString(),n:s.qs.length,acertos,nota:s.nota,
+    dur:Math.floor((s.fim-s.ini)/1000),prova:s.prova,qs:s.qs,res:s.res});
+  salva("sim",ST.sim);salva("simativo",s);
+  if(porTempo)UI.banner("avi","O tempo acabou. A prova foi corrigida com o que estava marcado.");
+  pintaSimulado();
+}
+function pintaResultadoSim(s){
+  const nota=s.nota;
+  const porArea={}, porG={};
+  s.qs.forEach(ch=>{const q=QIDX.get(ch);if(!q)return;const a=porArea[q.tema]||(porArea[q.tema]={n:0,ok:0});
+    const g=porG[GDE[q.tema]]||(porG[GDE[q.tema]]={n:0,ok:0});
+    a.n++;g.n++;if(s.res[ch]===q.gab){a.ok++;g.ok++}});
+  $("#sec-simulado").innerHTML=`
+  <div class="cx">
+   <h2 style="margin:0 0 10px">Resultado</h2>
+   <div class="grade2">
+    <div class="kpi"><b>${nota.toFixed(0)}%</b><span>${esc(nomeFormato(s.prova))}</span></div>
+    <div class="kpi"><b>${s.acertos}/${s.qs.length}</b><span>acertos</span></div>
+    <div class="kpi"><b>${pct(s.acertos,s.qs.length)}%</b><span>aproveitamento</span></div>
+    <div class="kpi"><b>${Math.round((s.fim-s.ini)/60000)}</b><span>minutos usados</span></div>
+   </div>
+   <p class="mini" style="margin-top:12px">O ENAMED e o ENARE de acesso direto são classificatórios e a nota do ENAMED sai por Teoria de Resposta ao Item, que dá peso diferente a cada questão: o percentual daqui serve para comparar você com você mesmo ao longo do tempo e entre as áreas.</p>
+   <div class="linha" style="margin-top:12px">
+    <button class="bt" id="btRevisar">Revisar questão a questão</button>
+    <button class="bt sec" id="btNovo">Novo simulado</button>
+   </div>
+  </div>
+  <div class="cx"><h3 style="margin:0 0 8px">Por grande área</h3><div class="barrasG">
+   ${GRANDES.filter(g=>porG[g.id]).map(g=>{const a=porG[g.id],v=pct(a.ok,a.n);return `<div class="bG"><span class="nm"><i class="ti ti-${g.ic}" style="color:${g.cor}"></i>${esc(g.curto)}</span>
+     <span class="barra"><i style="width:${Math.max(2,v)}%;background:${g.cor}"></i></span><span class="v">${a.ok}/${a.n} · <b>${v}%</b></span></div>`}).join("")}
+  </div></div>
+  <div class="cx"><h3 style="margin:0 0 8px">Por subárea</h3><div class="rolagem"><table>
+   <tr><th>Subárea</th><th>Acertos</th><th>%</th></tr>
+   ${Object.entries(porArea).sort((a,b)=>pct(a[1].ok,a[1].n)-pct(b[1].ok,b[1].n)).map(([id,a])=>
+     `<tr><td>${esc(NOME[id]||id)}</td><td>${a.ok}/${a.n}</td>
+      <td><span class="pilula ${pct(a.ok,a.n)>=70?"ok":"er"}">${pct(a.ok,a.n)}%</span></td></tr>`).join("")}
+  </table></div></div>
+  <div id="revisao"></div>`;
+  $("#btNovo").onclick=()=>{ST.simativo=null;salva("simativo",null);pintaSimulado()};
+  $("#btRevisar").onclick=()=>{
+    $("#revisao").innerHTML=s.qs.map((ch,k)=>{const q=QIDX.get(ch),r=s.res[ch],ok=r===q.gab;
+      return `<div class="cx"><div class="linha" style="gap:6px">
+        <span class="pilula ${ok?"ok":"er"}">${k+1}. ${ok?"acertou":r===undefined?"em branco":"errou"}</span>
+        <span class="pilula b">${esc(NOME[q.tema]||q.tema)}</span>
+        <button class="simSinal" data-ch="${esc(ch)}" style="margin-left:auto"></button></div>
+       <p class="enun">${esc(q.q)}</p>
+       ${ordemAlts(q).map((j,p)=>`<div class="alt${j===q.gab?" certa":(j===r?" errada":"")}">
+         <span class="let">${LETRAS[p]}</span><span>${esc(q.alts[j])}</span></div>`).join("")}
+       <div class="coment">${esc(q.coment)}<div class="base">Âncora: ${esc(q.base)}${q.fonte?" · "+esc(rotuloFonte(q)):""}</div></div></div>`}).join("");
+    $$("#revisao .simSinal").forEach(b=>bandeira(b,QIDX.get(b.dataset.ch)));
+    $("#btRevisar").disabled=true;
+  };
+}
+</script>
+<script>
+/* ================= aba PRÁTICA (estações da 2ª fase) ================= */
+function pintaPratica(){
+  const ativo=ST.cfg.estacao&&PRATICA.find(e=>e.id===ST.cfg.estacao);
+  if(ativo)return pintaEstacao(ativo);
+  const feitas=Object.keys(ST.treino).length;
+  const fps=leAreas(ST.cfg.fps,ST.cfg.fp), sfp=new Set(fps);
+  const lista=fps.length?PRATICA.filter(e=>sfp.has(e.area)):PRATICA;
+  $("#sec-pratica").innerHTML=`
+  <div class="cx">
+   <h2 style="margin:0 0 6px">Estações de proficiência clínica</h2>
+   <p class="mini">Formato do edital: 2 estações de 10 minutos, entrega sequencial dos dados, avaliação por Conhecimento, Habilidade e Atitude, 5 pontos por estação e corte de 7 nos 10 possíveis. Escreva sua conduta sem olhar; só depois abra o espelho e marque item a item o que você realmente disse.</p>
+   <div class="grade2" style="margin-top:12px">
+    <div class="kpi"><b>${feitas}</b><span>estações treinadas</span></div>
+    <div class="kpi"><b>${PRATICA.length}</b><span>disponíveis</span></div>
+    <div class="kpi"><b>${notaMediaEstacoes()}</b><span>nota média (0 a 5)</span></div>
+   </div>
+   <div class="linha" style="margin-top:12px">
+    <label class="cmp">Área<button type="button" id="pArea"></button></label>
+    ${fps.length?`<button class="bt sec mini" id="pLimpa" style="align-self:flex-end">limpar</button>`:""}
+    <span class="mini" style="margin-left:auto;align-self:flex-end">${lista.length} de ${PRATICA.length}</span>
+   </div>
+  </div>
+  <div class="listaP">${lista.map(e=>{const t=ST.treino[e.id];
+    return `<div class="cx"><div class="linha" style="gap:6px">
+      <span class="pilula b">${esc(NOME[e.area]||e.area)}</span>
+      <span class="pilula">${esc(NCEN[e.cenario]||"")}</span>
+      <span class="pilula">${e.tempo} min</span>
+      ${t?`<span class="pilula ${t.nota>=3.5?"ok":"er"}">nota ${t.nota.toFixed(1)}</span>`:""}
+     </div>
+     <h3 style="margin:9px 0 4px">${esc(e.titulo)}</h3>
+     <p class="mini">${esc(e.abertura.slice(0,150))}…</p>
+     <button class="bt mini" data-est="${e.id}" style="margin-top:9px">${t?"treinar de novo":"iniciar estação"}</button>
+    </div>`}).join("")}</div>`;
+  const poeFps=ids=>{const a=ordAreas(ids);ST.cfg.fps=a;ST.cfg.fp=a[0]||"";salva("cfg",ST.cfg);pintaPratica()};
+  seletorAreas($("#pArea"),{
+    opcoes:TAX.filter(x=>PRATICA.some(e=>e.area===x.id)).map(x=>({id:x.id,nome:x.nome,n:PRATICA.filter(e=>e.area===x.id).length})),
+    selecionados:fps, unidade:["estação","estações"],
+    aoMudar:poeFps});
+  if($("#pLimpa"))$("#pLimpa").onclick=()=>poeFps([]);
+  $$("[data-est]").forEach(b=>b.onclick=()=>{ST.cfg.estacao=b.dataset.est;ST.cfg.etapa=0;ST.cfg.iniEst=Date.now();salva("cfg",ST.cfg);pintaPratica()});
+}
+function notaMediaEstacoes(){const v=Object.values(ST.treino);if(!v.length)return "—";
+  return (v.reduce((s,t)=>s+t.nota,0)/v.length).toFixed(1)}
+function pintaEstacao(e){
+  const et=ST.cfg.etapa||0, mostrando=Math.min(et,e.etapas.length-1);
+  const acabou=et>=e.etapas.length;
+  const rest=Math.max(0,e.tempo*60-Math.floor((Date.now()-(ST.cfg.iniEst||Date.now()))/1000));
+  $("#sec-pratica").innerHTML=`
+  <div class="cx">
+   <div class="linha">
+    <span class="crono" id="cronoEst">${String(Math.floor(rest/60)).padStart(2,"0")}:${String(rest%60).padStart(2,"0")}</span>
+    <span class="mini">${esc(e.titulo)}</span>
+    <button class="bt sec mini" id="sairEst" style="margin-left:auto">sair</button>
+   </div>
+  </div>
+  <div class="cx">
+   <b>Cenário</b>
+   <p class="enun" style="margin-top:6px">${esc(e.abertura)}</p>
+   ${e.etapas.slice(0,mostrando+1).map((p,k)=>`
+     <div class="coment" style="margin-bottom:10px">
+      <b>Etapa ${p.n}.</b> ${esc(p.tarefa)}
+      ${k<et?`<div class="base">${esc(p.entrega)}</div>`:""}
+     </div>`).join("")}
+   ${!acabou?`<button class="bt" id="btEtapa">Cumpri esta etapa: receber os dados</button>`:
+     `<label class="cmp" style="margin-top:10px">O que você disse/fez na estação (escreva antes de abrir o espelho)
+       <textarea id="txtEst" placeholder="Registre sua conduta como se estivesse falando com o examinador.">${esc((ST.treino[e.id]||{}).texto||"")}</textarea></label>
+      <button class="bt" id="btEspelho" style="margin-top:10px">Abrir o espelho de correção</button>`}
+  </div>
+  <div id="espelho"></div>`;
+  $("#sairEst").onclick=()=>{ST.cfg.estacao=null;salva("cfg",ST.cfg);pintaPratica()};
+  const cr=setInterval(()=>{const el=$("#cronoEst");if(!el)return clearInterval(cr);
+    const r=Math.max(0,e.tempo*60-Math.floor((Date.now()-(ST.cfg.iniEst||Date.now()))/1000));
+    el.textContent=`${String(Math.floor(r/60)).padStart(2,"0")}:${String(r%60).padStart(2,"0")}`;
+    if(r===0){clearInterval(cr);UI.banner("avi","Os 10 minutos acabaram. Na prova, o sinal soa aqui.")}},1000);
+  if($("#btEtapa"))$("#btEtapa").onclick=()=>{ST.cfg.etapa=et+1;salva("cfg",ST.cfg);clearInterval(cr);pintaPratica()};
+  if($("#btEspelho"))$("#btEspelho").onclick=()=>{
+    const texto=$("#txtEst").value.trim();
+    if(texto.length<30)return UI.banner("avi","Escreva sua conduta antes de abrir o espelho. Abrir primeiro contamina a autoavaliação.");
+    ST.treino[e.id]={texto,nota:0,marcados:[],quando:new Date().toISOString()};salva("treino",ST.treino);
+    clearInterval(cr);desenhaEspelho(e);
+  };
+}
+function desenhaEspelho(e){
+  const t=ST.treino[e.id];
+  const teto=e.espelho.reduce((s,i)=>s+i.peso,0);
+  const eixo={C:"Conhecimento",H:"Habilidade",A:"Atitude"};
+  $("#espelho").innerHTML=`
+   <div class="cx">
+    <h3 style="margin:0 0 4px">Espelho de correção</h3>
+    <p class="mini">Marque apenas o que você realmente escreveu ou disse, não o que você "sabia". A nota sai da razão entre os pesos marcados e o total de ${teto.toFixed(1)} pontos.</p>
+    ${["C","H","A"].map(x=>{const itens=e.espelho.filter(i=>i.eixo===x);if(!itens.length)return "";
+      return `<h4 style="margin:14px 0 6px">${eixo[x]}</h4>`+
+        itens.map(i=>{const k=e.espelho.indexOf(i);
+          return `<label class="alt" style="cursor:pointer"><input type="checkbox" data-k="${k}" ${t.marcados.includes(k)?"checked":""} style="min-height:auto;margin-top:3px">
+           <span>${esc(i.item)} <span class="pilula">${i.peso.toFixed(1)}</span></span></label>`}).join("")}).join("")}
+    <hr>
+    <div class="linha"><span class="crono" id="notaEst">0.0</span><span class="mini">de ${teto.toFixed(1)} pontos</span>
+     <button class="bt" id="btFecharEst" style="margin-left:auto">Salvar e voltar</button></div>
+    <p class="mini" style="margin-top:10px">Na prova real são 2 estações: soma-se as duas e o corte é 7 pontos em 10.</p>
+   </div>`;
+  const recalcula=()=>{
+    const ks=$$("#espelho input:checked").map(i=>+i.dataset.k);
+    const nota=ks.reduce((s,k)=>s+e.espelho[k].peso,0);
+    $("#notaEst").textContent=nota.toFixed(1);
+    ST.treino[e.id]={...ST.treino[e.id],nota,marcados:ks};salva("treino",ST.treino);
+  };
+  $$("#espelho input").forEach(i=>i.onchange=recalcula);recalcula();
+  $("#btFecharEst").onclick=()=>{ST.cfg.estacao=null;salva("cfg",ST.cfg);atividade(3);pintaPratica()};
+}
+
+/* ================= aba LEITURAS ================= */
+function pintaLeituras(){
+  const aberta=ST.cfg.lendo;
+  if(aberta){
+    const it=LEITURAS.find(l=>l.f===aberta);
+    /* O sumário sai de dentro do texto e vira coluna: no computador ele acompanha a leitura, em
+       vez de ocupar meia tela na abertura e nunca mais aparecer. Os cabeçalhos já estão indexados
+       em IDXL — o mesmo dado que alimenta a busca global. Os controles viram barra fina: eram uma
+       caixa com borda e sombra disputando atenção com o título do capítulo. */
+    const ixA=(typeof IDXL!=="undefined")?IDXL.find(x=>x.f===aberta):null;
+    const sumario=(ixA&&ixA.h&&ixA.h.length>2)?`<nav class="sumarioL" id="sumarioL">
+       <b>Sumário</b>
+       <ol>${ixA.h.map((h,i)=>`<li><a href="#${esc(h.id)}" data-sec="${esc(h.id)}">${esc(h.t)}</a></li>`).join("")}</ol>
+     </nav>`:`<div></div>`;
+    $("#sec-leituras").innerHTML=`
+     ${sumario}
+     <div class="leituraCol">
+      <div class="barraL">
+       <button class="bt sec mini" id="fecharL">voltar</button>
+       <span class="tituloL">${esc(it?it.t:"")}</span>
+       <button class="bt sec mini" id="discordoL">Discordo</button>
+       <button class="bt sec mini" id="marcaL">${ST.lidas[aberta]?'<i class="ti ti-check"></i> lida':'marcar como lida'}</button>
+      </div>
+      <iframe class="quadro" id="quadroLeitura" src="leituras/${aberta.split("/").map(encodeURIComponent).join("/")}?tema=${temaEfetivo()}&embutida=1${ST.cfg.secao?"#"+encodeURIComponent(ST.cfg.secao):""}" title="${esc(it?it.t:"leitura")}"></iframe>
+     </div>`;
+    $$("#sumarioL a").forEach(a=>a.onclick=e=>{
+      e.preventDefault();
+      const q=$("#quadroLeitura");
+      q.contentWindow.postMessage({cm:"ir",id:a.dataset.sec},"*");
+    });
+    /* Quem decide se o sumário de dentro some é a coluna lateral estar VISÍVEL, não a página
+       estar embutida: entre 700 e 900 px a coluna não cabe, e esconder os dois deixaria a
+       leitura sem sumário nenhum. O app avisa, e reavalia a cada resize. */
+    const avisaSumario=()=>{
+      const q=$("#quadroLeitura"); if(!q||!q.contentWindow)return;
+      const nav=$("#sumarioL");
+      const lateral=!!nav&&getComputedStyle(nav).display!=="none";
+      q.contentWindow.postMessage({cm:"sumario",lateral},"*");
+    };
+    $("#quadroLeitura").addEventListener("load",avisaSumario);
+    addEventListener("resize",avisaSumario);
+    ST.cfg.secao=null;
+    document.body.classList.add("lendo");
+    ajustaQuadro();addEventListener("resize",ajustaQuadro);
+    $("#fecharL").onclick=()=>{ST.cfg.lendo=null;salva("cfg",ST.cfg);document.body.classList.remove("lendo");pintaLeituras()};
+    $("#discordoL").onclick=()=>abreContestacao(contextoLeitura(aberta));
+    $("#marcaL").onclick=()=>{ST.lidas[aberta]=!ST.lidas[aberta];if(!ST.lidas[aberta])delete ST.lidas[aberta];
+      salva("lidas",ST.lidas);atividade(2);pintaLeituras()};
+    return;
+  }
+  document.body.classList.remove("lendo");
+  const fl=ST.cfg.fl||(ST.cfg.fl={area:"",areas:[],busca:"",so:""});
+  const fla=leAreas(fl.areas,fl.area), sfl=new Set(fla);
+  const todas=LEITURAS.filter(l=>l.f);
+  // areas que realmente tem leitura, na ordem de peso do edital
+  const comLeitura=TAX.filter(t=>todas.some(l=>l.area===t.id));
+  const termo=(fl.busca||"").trim().toLowerCase();
+  const casa=(l,sa=sfl)=>{
+    if(fl.gr && GDE[l.area]!==fl.gr) return false;
+    if(sa.size && !sa.has(l.area)) return false;
+    if(fl.so==="naolidas" && ST.lidas[l.f]) return false;
+    if(fl.so==="lidas" && !ST.lidas[l.f]) return false;
+    if(termo){
+      const alvo=`${l.t} ${l.s} ${l.tipo||""} ${NOME[l.area]||""}`.toLowerCase();
+      if(!alvo.includes(termo)) return false;
+    }
+    return true;
+  };
+  const vis=todas.filter(l=>casa(l));
+  const minVis=vis.reduce((s,l)=>s+(l.min||0),0);
+  const lidasVis=vis.filter(l=>ST.lidas[l.f]).length;
+  const filtrando=!!(fla.length||termo||fl.so||fl.gr);
+  // com filtro ativo, some com os separadores de secao e mostra lista corrida
+  const lista = filtrando
+    ? vis.map(cartaoLeitura).join("")
+    : LEITURAS.map(l=>l.grupo
+        ? `<h3 class="grupo" style="margin:20px 0 8px">${esc(l.grupo)}</h3>`
+        : cartaoLeitura(l)).join("");
+  const emCurso=Object.keys(ST.prog).filter(f=>!ST.lidas[f]&&ST.prog[f]>0&&ST.prog[f]<95)
+    .map(f=>({f,l:LEITURAS.find(x=>x.f===f)})).filter(x=>x.l).sort((a,b)=>ST.prog[b.f]-ST.prog[a.f]).slice(0,3);
+  const ab=!!(ST.cfg.fAb||{}).l;
+  $("#sec-leituras").innerHTML=LEITURAS.length?`
+  <div class="cx filtros filtroL${ab?" aberto":""}" data-fk="l">
+   <h2 style="margin:0 0 10px">Leituras</h2>
+   <input id="lBusca" type="search" placeholder="Buscar tema, diretriz, palavra do resumo…" value="${esc(fl.busca||"")}" style="width:100%">
+   <div class="chipsG" style="margin-top:10px"><button type="button" class="chipG${fl.gr?"":" on"}" data-lgr="">Todas</button>
+    ${GRANDES.filter(g=>todas.some(l=>GDE[l.area]===g.id)).map(g=>`<button type="button" class="chipG${fl.gr===g.id?" on":""}" data-lgr="${g.id}" style="--cg:${g.cor}"><i class="ti ti-${g.ic}" aria-hidden="true"></i>${esc(g.curto)}<small>${todas.filter(l=>GDE[l.area]===g.id).length}</small></button>`).join("")}</div>
+   <button class="fToggle" type="button" aria-expanded="${ab}" style="margin-top:8px"><i class="ti ti-adjustments-horizontal"></i>Filtros<span class="resumo">${esc(nomeAreas(fla,"todas as áreas"))}${fl.so?" · "+(fl.so==="lidas"?"lidas":"não lidas"):""}</span><i class="ti ti-chevron-down seta"></i></button>
+   <div class="linha fCorpo">
+    <label class="cmp">Área<button type="button" id="lArea"></button></label>
+    <label class="cmp">Mostrar<select id="lSo">
+      <option value=""${!fl.so?" selected":""}>todas</option>
+      <option value="naolidas"${fl.so==="naolidas"?" selected":""}>ainda não lidas</option>
+      <option value="lidas"${fl.so==="lidas"?" selected":""}>já lidas</option>
+    </select></label>
+    ${filtrando?`<button class="bt sec mini" id="lLimpa" style="align-self:flex-end">limpar</button>`:""}
+   </div>
+   <div class="mini" style="margin-top:10px">${vis.length} de ${todas.length} ${vis.length===1?"leitura":"leituras"}, cerca de ${Math.round(minVis/60)} h, ${lidasVis} já ${lidasVis===1?"lida":"lidas"}.</div>
+  </div>
+  <div class="listaL">
+  ${emCurso.length&&!filtrando?`<div class="cx continuar">
+    <div class="mini" style="color:var(--brandInk);font-weight:600;margin-bottom:6px"><i class="ti ti-book"></i> Continuar lendo</div>
+    <div class="linha">${emCurso.map(x=>`<button class="bt sec mini" data-ler="${esc(x.f)}">${esc(x.l.t)} · ${ST.prog[x.f]}%</button>`).join("")}</div>
+  </div>`:""}
+  ${vis.length?lista:`<div class="cx"><p class="vazio">Nenhuma leitura com esse filtro. <button class="bt sec mini" id="lLimpa2">limpar filtro</button></p></div>`}
+  </div>`
+  :`<div class="cx"><p class="vazio">Nenhuma leitura publicada ainda. As leituras entram por <code>leituras.js</code> + um arquivo em <code>leituras/</code>.</p></div>`;
+  const aplica=(k,v)=>{ST.cfg.fl[k]=v;salva("cfg",ST.cfg);pintaLeituras()};
+  const limpa=()=>{ST.cfg.fl={area:"",areas:[],busca:"",so:"",gr:""};salva("cfg",ST.cfg);pintaLeituras()};
+  $$("[data-lgr]").forEach(b=>b.onclick=()=>{ST.cfg.fl.gr=b.dataset.lgr;ST.cfg.fl.areas=(ST.cfg.fl.areas||[]).filter(id=>!b.dataset.lgr||GDE[id]===b.dataset.lgr);ST.cfg.fl.area=ST.cfg.fl.areas[0]||"";salva("cfg",ST.cfg);pintaLeituras()});
+  seletorAreas($("#lArea"),{
+    opcoes:comLeitura.filter(t=>!fl.gr||t.grande===fl.gr).map(t=>({id:t.id,nome:t.nome,n:todas.filter(l=>l.area===t.id).length})),
+    selecionados:fla, unidade:["leitura","leituras"],
+    conta:ids=>todas.filter(l=>casa(l,new Set(ids))).length,   /* com busca e lidas/não lidas aplicadas */
+    aoMudar:ids=>{const a=ordAreas(ids);ST.cfg.fl.areas=a;ST.cfg.fl.area=a[0]||"";salva("cfg",ST.cfg);pintaLeituras()}});
+  if($("#lSo"))$("#lSo").onchange=e=>aplica("so",e.target.value);
+  if($("#lLimpa"))$("#lLimpa").onclick=limpa;
+  if($("#lLimpa2"))$("#lLimpa2").onclick=limpa;
+  const cb=$("#lBusca");
+  if(cb){
+    let deb; cb.oninput=e=>{clearTimeout(deb);const v=e.target.value;
+      deb=setTimeout(()=>{const pos=cb.selectionStart;aplica("busca",v);
+        const n=$("#lBusca");if(n){n.focus();try{n.setSelectionRange(pos,pos)}catch(_){}}},250)};
+  }
+  $$("[data-ler]").forEach(b=>{
+    const abre=()=>{ST.cfg.lendo=b.dataset.ler;salva("cfg",ST.cfg);pintaLeituras()};
+    b.onclick=abre;
+    if(b.getAttribute("role")==="button")b.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();abre()}};
+  });
+}
+/* Item de catálogo, não cartão. Antes cada leitura era uma caixa com borda, sombra, cinco pílulas
+   e o resumo inteiro — dois materiais preenchiam a tela e percorrer 99 leituras era impossível.
+   Agora: título, duas linhas de resumo e UMA linha de procedência. O resumo completo está no dek
+   da própria leitura, que é onde ele serve. */
+function cartaoLeitura(l){
+  const pg=ST.prog[l.f]||0;
+  const estado=ST.lidas[l.f]?'<span class="lido"><i class="ti ti-check"></i>lida</span>'
+              :pg>0?`<span class="lido">${pg}% lido</span>`:"";
+  return `<article class="itemL" data-ler="${esc(l.f)}" tabindex="0" role="button" style="--ca:${corArea(l.area)}">
+    <h3>${esc(l.t)}<i class="ti ti-arrow-up-right" aria-hidden="true"></i></h3>
+    <p class="resumoL">${esc(l.s)}</p>
+    <div class="metaL"><span>${esc(NOME[l.area]||l.area||"")}</span><span>${esc(l.tipo||"")}</span><span>${l.min} min</span>${estado}</div>
+    ${pg>0&&!ST.lidas[l.f]?`<div class="progL"><i style="width:${pg}%"></i></div>`:""}
+  </article>`;
+}
+/* A leitura (iframe) avisa até onde rolou. Guarda o MÁXIMO por arquivo; a partir de 95% conta
+   como lida sozinha — quem chegou ao fim não deveria ter de voltar ao topo para marcar. */
+let progDeb;
+addEventListener("message",e=>{
+  const m=e.data; if(!m)return;
+  if(m.cm==="sec"&&m.id){
+    const nav=$("#sumarioL"); if(nav){
+      $$("#sumarioL a").forEach(a=>a.classList.toggle("aqui",a.dataset.sec===m.id));
+      const at=nav.querySelector("a.aqui");
+      if(at&&at.offsetTop<nav.scrollTop||at&&at.offsetTop>nav.scrollTop+nav.clientHeight-40)
+        nav.scrollTop=Math.max(0,at.offsetTop-nav.clientHeight/2);
+    }
+    return;
+  }
+  if(m.cm!=="prog"||!m.f)return;
+  const pct=Math.max(0,Math.min(100,Math.round(+m.pct||0)));
+  if(pct<=(ST.prog[m.f]||0))return;
+  ST.prog[m.f]=pct;
+  clearTimeout(progDeb); progDeb=setTimeout(()=>salva("prog",ST.prog),1500);
+  if(pct>=95&&!ST.lidas[m.f]){ST.lidas[m.f]=true;salva("lidas",ST.lidas);atividade(2);
+    const b=$("#marcaL");if(b)b.innerHTML='<i class="ti ti-check"></i> lida'}
+});
+function ajustaQuadro(){const f=$("#quadroLeitura");if(!f)return;
+  const topo=f.getBoundingClientRect().top;
+  f.style.height=Math.max(320,innerHeight-topo-12)+"px"}
+
+/* ================= aba CARTÕES (SM-2 enxuto) ================= */
+function cartaoDe(i){return ST.flash[i]||(ST.flash[i]={n:0,ef:2.5,int:0,prox:dataISO()})}
+function devidos(){return FLASH.map((c,i)=>({c,i,e:cartaoDe(i)})).filter(x=>x.e.prox<=dataISO())}
+function pintaCartoes(){
+  const fcs=leAreas(ST.cfg.fcs,ST.cfg.fc), sfc=new Set(fcs);
+  const todosDev=devidos();
+  const d=fcs.length?todosDev.filter(x=>sfc.has(x.c.tema)):todosDev;
+  // o seletor mostra a area e quantos cartoes dela estao vencidos hoje
+  const areasCard=TAX.filter(x=>FLASH.some(c=>c.tema===x.id));
+  const barra=`
+   <div class="linha" style="margin-bottom:10px">
+    <label class="cmp">Área<button type="button" id="cArea"></button></label>
+    ${fcs.length?`<button class="bt sec mini" id="cLimpa" style="align-self:flex-end">limpar</button>`:""}
+   </div>`;
+  const liga=()=>{
+    const poeFcs=ids=>{const a=ordAreas(ids);ST.cfg.fcs=a;ST.cfg.fc=a[0]||"";salva("cfg",ST.cfg);pintaCartoes()};
+    /* n = cartões da área que vencem hoje (o que o seletor antigo mostrava) */
+    seletorAreas($("#cArea"),{
+      opcoes:areasCard.map(x=>({id:x.id,nome:x.nome,n:todosDev.filter(y=>y.c.tema===x.id).length})),
+      selecionados:fcs, unidade:["cartão para hoje","cartões para hoje"],
+      aoMudar:poeFcs});
+    if($("#cLimpa"))$("#cLimpa").onclick=()=>poeFcs([]);
+  };
+  if(!d.length){
+    $("#sec-cartoes").innerHTML=`<div class="cx"><h2 style="margin:0 0 8px">Cartões</h2>${barra}
+      <p class="vazio">${fcs.length?`Nenhum cartão ${fcs.length===1?"desta área":"dessas áreas"} vence hoje.`:`Nada para revisar hoje. São ${FLASH.length} cartões no total; volte amanhã.`}</p></div>`;
+    return liga();
+  }
+  const {c,i}=d[0];
+  $("#sec-cartoes").innerHTML=`
+  <div class="cx heroCard">${barra}<div class="linha">
+    <span class="pilula b">${esc(NOME[c.tema]||c.tema)}</span>
+    <span class="mini" style="margin-left:auto">${d.length} para hoje</span></div>
+   <p class="enun">${esc(c.a)}</p>
+   <div id="verso"></div>
+   <button class="bt" id="btVirar">Mostrar a resposta</button>
+  </div>`;
+  liga();
+  $("#btVirar").onclick=()=>{
+    $("#verso").innerHTML=`<div class="coment">${esc(c.b)}</div>`;
+    $("#btVirar").outerHTML=`<div class="linha">
+      <button class="bt" data-q="0" style="--ac:#C2262E"><i class="ti ti-x"></i>errei</button>
+      <button class="bt" data-q="3" style="--ac:#B45309"><i class="ti ti-mood-empty"></i>difícil</button>
+      <button class="bt" data-q="5" style="--ac:#047857"><i class="ti ti-check"></i>fácil</button></div>`;
+    $$("[data-q]").forEach(b=>b.onclick=()=>{avaliaCartao(i,+b.dataset.q);atividade(1);pintaCartoes()});
+  };
+}
+function avaliaCartao(i,q){
+  const e=cartaoDe(i);
+  if(q<3){e.n=0;e.int=1}
+  else{e.n++;e.int=e.n===1?1:e.n===2?6:Math.round(e.int*e.ef);
+       e.ef=Math.max(1.3,e.ef+(0.1-(5-q)*(0.08+(5-q)*0.02)))}
+  const d=new Date();d.setDate(d.getDate()+e.int);e.prox=dataISO(d);
+  ST.flash[i]=e;salva("flash",ST.flash);
+}
+</script>
+<script>
+/* ================= aba PAINEL ================= */
+function estatArea(){
+  return TAX.map(t=>{
+    const qs=BANCO.filter(q=>q.tema===t.id);
+    let n=0,ok=0;
+    qs.forEach(q=>{const h=(respostaDe(q)||{}).hist||[];if(h.length){n++;if(h[h.length-1].ok)ok++}});
+    const taxa=n?ok/n:null, cob=qs.length?n/qs.length:0;
+    /* prioridade = peso na prova × (o que você erra) × (o quanto ainda não viu) */
+    const prio=t.peso*(1-(taxa===null?0.5:taxa))*(1.3-cob);
+    return {t,total:qs.length,n,ok,taxa,cob,prio};
+  }).sort((a,b)=>b.prio-a.prio);
+}
+/* ================= aba INÍCIO =================
+   Primeira tela: o que fazer agora. Meta do dia (questões respondidas hoje), sequência de dias,
+   atividade das duas últimas semanas, atalhos com número real e as áreas onde o ganho é maior
+   (a mesma prioridade do Desempenho: peso na prova × erro × o que falta ver). */
+const COR_AREA=["#0A7C74","#2563EB","#7C3AED","#DB2777","#EA580C","#CA8A04","#16A34A","#0891B2","#9333EA","#DC2626","#4F46E5","#65A30D","#0D9488","#C2410C","#475569"];
+/* FlashMed: a cor de uma subárea é a da grande área dela, a mesma dos filtros e do Desempenho */
+const corArea=id=>CORG[GDE[id]]||COR_AREA[Math.max(0,TAX.findIndex(t=>t.id===id))%COR_AREA.length];
+function diasSeguidos(){
+  let n=0;const d=new Date();
+  if(!ST.atividade[dataISO(d)])d.setDate(d.getDate()-1);
+  while(ST.atividade[dataISO(d)]){n++;d.setDate(d.getDate()-1)}
+  return n;
+}
+/* ---------- movimento: entrada escalonada, contadores, barras e anéis ---------- */
+let COMBO=0;
+function vivo(sec){
+  if(!sec)return;
+  const alvo=sec.querySelector(".vIni")||sec;
+  alvo.classList.remove("anima");void alvo.offsetWidth;alvo.classList.add("anima");
+  [...alvo.children].forEach((c,k)=>c.style.setProperty("--i",Math.min(k,12)));
+  const reduz=matchMedia("(prefers-reduced-motion:reduce)").matches;
+  sec.querySelectorAll("[data-conta]").forEach(el=>{
+    const fim=+el.dataset.conta, suf=el.dataset.suf||"";
+    if(reduz||!fim){el.textContent=fim+suf;return}
+    const t0=performance.now(),d=900;
+    const passo=t=>{const p=Math.min(1,(t-t0)/d),e=1-Math.pow(1-p,3);el.textContent=Math.round(fim*e)+suf;if(p<1)requestAnimationFrame(passo)};
+    requestAnimationFrame(passo);
+  });
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    sec.querySelectorAll("[data-w]").forEach(el=>el.style.width=el.dataset.w);
+    sec.querySelectorAll("[data-h]").forEach(el=>el.style.height=el.dataset.h);
+    sec.querySelectorAll("[data-off]").forEach(el=>el.style.strokeDashoffset=el.dataset.off);
+  }));
+}
+function entraQuestao(volta){
+  const c=$("#qCartao");if(!c)return;
+  c.classList.remove("entra","volta");void c.offsetWidth;c.classList.add("entra");if(volta)c.classList.add("volta");
+}
+/* confete leve em canvas: 1,4 s, some sozinho; nada se movimento reduzido */
+function confete(){
+  if(matchMedia("(prefers-reduced-motion:reduce)").matches)return;
+  const cv=document.createElement("canvas");cv.className="confete";document.body.appendChild(cv);
+  const W=cv.width=innerWidth*devicePixelRatio,H=cv.height=innerHeight*devicePixelRatio,x=cv.getContext("2d");
+  const cores=["#5B5BF0","#2F7BF6","#F76E1E","#11A870","#8E5AF2","#F2A007","#E8468E","#0AA5C2"];
+  const ps=[...Array(140)].map(()=>({x:W/2+(Math.random()-.5)*W*.3,y:H*.35,vx:(Math.random()-.5)*26*devicePixelRatio,vy:(-Math.random()*22-6)*devicePixelRatio,
+    s:(6+Math.random()*7)*devicePixelRatio,r:Math.random()*6,vr:(Math.random()-.5)*.4,c:cores[Math.random()*cores.length|0],f:Math.random()<.5}));
+  const t0=performance.now();
+  const q=t=>{const el=t-t0;x.clearRect(0,0,W,H);
+    ps.forEach(p=>{p.vy+=.9*devicePixelRatio;p.vx*=.985;p.x+=p.vx;p.y+=p.vy;p.r+=p.vr;x.save();x.translate(p.x,p.y);x.rotate(p.r);x.globalAlpha=Math.max(0,1-el/1600);x.fillStyle=p.c;
+      if(p.f)x.fillRect(-p.s/2,-p.s/4,p.s,p.s/2);else{x.beginPath();x.arc(0,0,p.s/3,0,7);x.fill()}x.restore()});
+    if(el<1600)requestAnimationFrame(q);else cv.remove()};
+  requestAnimationFrame(q);
+}
+
+/* ================= aba INÍCIO (23/09: colorida e em movimento) ================= */
+function pintaInicio(){
+  const meta=Math.max(5,+(ST.cfg.meta||20)), hoje=ST.atividade[dataISO()]||0, feito=Math.min(1,hoje/meta);
+  const fq=(ST.pos&&ST.pos.fq)||{}, qAtual=ST.pos&&ST.pos.chq?QIDX.get(ST.pos.chq):null;
+  const seq=diasSeguidos();
+  let acertos=0,tent=0;Object.values(ST.resp).forEach(r=>r.hist.forEach(h=>{tent++;if(h.ok)acertos++}));
+  const vistas=Object.keys(ST.resp).length, devs=devidos().length;
+  const R=62,C=2*Math.PI*R;
+  const h=new Date().getHours(), sauda=h<12?"Bom dia":h<18?"Boa tarde":"Boa noite";
+  const dias=[...Array(14)].map((_,k)=>{const d=new Date();d.setDate(d.getDate()-13+k);const iso=dataISO(d);
+    return {iso,n:ST.atividade[iso]||0,l:"DSTQQSS"[d.getDay()],hoje:k===13}});
+  const maxD=Math.max(meta,...dias.map(x=>x.n));
+  const pendentes=LEITURAS.filter(l=>l.f&&!ST.lidas[l.f]&&ST.prog[l.f]>0&&ST.prog[l.f]<95).sort((a,b)=>ST.prog[b.f]-ST.prog[a.f]);
+  const leituras=(pendentes.length?pendentes:LEITURAS.filter(l=>l.f&&!ST.lidas[l.f])).slice(0,8);
+  const foco=estatArea().slice(0,5);
+  const areaAtual=qAtual?(NOME[qAtual.tema]||"Questão"):nomeAreas(leAreas(fq.areas,fq.area),"Todas as áreas");
+  const dProva=ST.cfg.dataProva?diasPara(ST.cfg.dataProva):null;
+  $("#pgTitulo").innerHTML="";
+  $("#sec-inicio").innerHTML=`
+  <div class="vIni">
+   <section class="vHero">
+    <span class="bola b1"></span><span class="bola b2"></span><span class="bola b3"></span>
+    <div class="txt">
+     <small><i class="ti ti-sparkles"></i>${sauda} · ${new Date().toLocaleDateString("pt-BR",{weekday:"long",day:"numeric",month:"long"})}</small>
+     <h2>${hoje>=meta?"Meta do dia cumprida":qAtual?"Continue de onde parou":"Vamos começar?"}</h2>
+     <p>${qAtual?`${esc(areaAtual)}: ${esc(qAtual.q)}`:`${BANCO.length} questões comentadas (${NREAIS} de provas reais), ${LEITURAS.filter(l=>l.f).length} leituras e ${FLASH.length} cartões.`}</p>
+     ${dProva!==null&&dProva>=0?`<span class="contagem"><i class="ti ti-calendar-event"></i>${dProva===0?"A prova é hoje":dProva===1?"Falta 1 dia para a prova":`Faltam ${dProva} dias para a prova`}</span>`:""}
+     <div class="acoesH">
+      <button class="bt" data-ir="questoes"><i class="ti ti-player-play"></i>${qAtual?"Retomar questão":"Começar questões"}</button>
+      <button class="bt sec" data-ir="simulado"><i class="ti ti-stopwatch"></i>Simulado</button>
+     </div>
+    </div>
+    <div class="vAnel" aria-label="${hoje} de ${meta} questões hoje">
+     <svg width="150" height="150" viewBox="0 0 150 150">
+      <circle cx="75" cy="75" r="${R}" fill="none" stroke="rgba(255,255,255,.18)" stroke-width="13"/>
+      <circle class="arco" cx="75" cy="75" r="${R}" fill="none" stroke="#fff" stroke-width="13" stroke-linecap="round"
+       stroke-dasharray="${C.toFixed(1)}" stroke-dashoffset="${C.toFixed(1)}" data-off="${(C*(1-feito)).toFixed(1)}"${feito?"":' opacity="0"'}/></svg>
+     <div class="val"><b data-conta="${hoje}">0</b><span>de ${meta} hoje</span></div>
+    </div>
+   </section>
+   <section class="vMeta">
+    <h3>Últimas duas semanas</h3>
+    <div class="sub">${dias.reduce((a,x)=>a+x.n,0)} questões respondidas</div>
+    <div class="vSemana">${dias.map(x=>`<div title="${x.iso}: ${x.n}"><i class="${x.hoje?"hoje":x.n>=meta?"cheio":x.n?"parcial":""}" data-h="${Math.max(8,Math.round(x.n/maxD*86))}px"></i><span>${x.l}</span></div>`).join("")}</div>
+   </section>
+   <div class="vStats">
+    <button class="vStat fogo" style="--k:var(--c-laranja)" data-ir="painel"><span class="ic"><i class="ti ti-flame"></i></span><span><b data-conta="${seq}">0</b><span>${seq===1?"dia seguido":"dias seguidos"}</span></span></button>
+    <button class="vStat" style="--k:var(--c-verde)" data-ir="painel"><span class="ic"><i class="ti ti-target-arrow"></i></span><span><b data-conta="${pct(acertos,tent)}" data-suf="%">0</b><span>acerto geral</span></span></button>
+    <button class="vStat" style="--k:var(--c-azul)" data-ir="questoes"><span class="ic"><i class="ti ti-list-check"></i></span><span><b data-conta="${vistas}">0</b><span>de ${BANCO.length} vistas</span></span></button>
+    <button class="vStat" style="--k:var(--c-ambar)" data-ir="cartoes"><span class="ic"><i class="ti ti-cards"></i></span><span><b data-conta="${devs}">0</b><span>cartões para hoje</span></span></button>
+   </div>
+   <section class="vFoco">
+    <div class="vTit"><h3>Onde focar</h3><button data-ir="painel">Desempenho</button></div>
+    ${foco.map(a=>`<div class="vArea" style="--ca:${corArea(a.t.id)}" data-area="${a.t.id}">
+      <span class="dot">${esc(a.t.nome.slice(0,2))}</span>
+      <span><span class="nm">${esc(a.t.nome)}</span><div class="barra"><i style="width:0" data-w="${Math.max(3,Math.round(a.cob*100))}%"></i></div></span>
+      <span class="tx" style="color:${a.taxa===null?"var(--ink3)":a.taxa>=.7?"var(--ok)":"var(--err)"}">${a.taxa===null?"—":Math.round(a.taxa*100)+"%"}</span></div>`).join("")}
+   </section>
+   <section class="vLer">
+    <div class="vTit"><h3>${pendentes.length?"Continue lendo":"Para ler"}</h3><button data-ir="biblioteca">Biblioteca</button></div>
+    <div class="vLeit">${leituras.map(l=>`<button style="--ca:${corArea(l.area)}" data-ir="leitura" data-f="${esc(l.f)}">
+      <small>${esc(NOME[l.area]||l.area)}</small><b>${esc(l.t)}</b><em>${l.min} min${ST.prog[l.f]?` · ${ST.prog[l.f]}% lido`:""}</em>
+      <div class="progL"><i style="width:0" data-w="${ST.prog[l.f]||0}%"></i></div></button>`).join("")}</div>
+   </section>
+   <div class="vAtalhos">
+    <button style="--k:var(--c-vermelho)" data-ir="erros"><i class="ti ti-refresh-alert"></i>Revisar erros (${ST.erros.length})</button>
+    <button style="--k:var(--c-rosa)" data-ir="simulado"><i class="ti ti-file-certificate"></i>Provas na íntegra</button>
+    <button style="--k:var(--c-azul)" data-ir="biblioteca"><i class="ti ti-book-2"></i>Biblioteca</button>
+    <button style="--k:var(--c-violeta)" data-ir="painel"><i class="ti ti-chart-bar"></i>Desempenho</button>
+    <label class="cmp" style="flex-direction:row;align-items:center;gap:8px;margin-left:auto">Meta diária
+     <select id="iMeta">${[...new Set([10,20,30,40,60,80,meta])].sort((a,b)=>a-b).map(v=>`<option value="${v}"${v===meta?" selected":""}>${v} questões</option>`).join("")}</select></label>
+   </div>
+  </div>`;
+  $("#iMeta").onchange=e=>{ST.cfg.meta=+e.target.value;salva("cfg",ST.cfg);pintaInicio();vivo($("#sec-inicio"))};
+  $$("#sec-inicio .vArea").forEach(b=>b.onclick=()=>{ST.pos.fq={...filtroAtual(),area:b.dataset.area,areas:[b.dataset.area]};ST.pos.assq=null;ST.pos.chq=null;salva("pos",ST.pos);irAba("questoes")});
+  $$("#sec-inicio [data-ir]").forEach(b=>b.onclick=()=>{
+    const v=b.dataset.ir;
+    if(v==="erros"){ST.pos.fq={...filtroAtual(),modo:"erros"};ST.pos.assq=null;ST.pos.chq=null;salva("pos",ST.pos);irAba("questoes")}
+    else if(v==="leitura"){ST.cfg.lendo=b.dataset.f;salva("cfg",ST.cfg);irAba("leituras")}
+    else if(v==="biblioteca"){ST.cfg.lendo=null;ST.cfg.fl={area:"",areas:[],busca:"",so:""};salva("cfg",ST.cfg);irAba("leituras")}
+    else irAba(v);
+  });
+}
+
+function pintaPainel(){
+  const respondidas=Object.keys(ST.resp).length;
+  let acertos=0,tent=0;
+  Object.values(ST.resp).forEach(r=>r.hist.forEach(h=>{tent++;if(h.ok)acertos++}));
+  const dias=Object.keys(ST.atividade).length;
+  const ea=estatArea();
+  /* por grande área: última resposta de cada questão vista */
+  const eg=GRANDES.map(g=>{const xs=ea.filter(a=>a.t.grande===g.id);
+    const n=xs.reduce((s,a)=>s+a.n,0),ok=xs.reduce((s,a)=>s+a.ok,0),total=xs.reduce((s,a)=>s+a.total,0);
+    return {g,n,ok,total}});
+  /* incidência real: em que subáreas caem as questões das provas de ACESSO DIRETO do banco
+     (Revalida, ENAMED, ENARE e USP). As de especialidade/pré-requisito ficam fora: distorceriam. */
+  const reaisAD=BANCO.filter(q=>q.fonte&&q.fonte.ex&&(EXAMES.find(e=>e.id===q.fonte.ex)||{}).tipo!=="prereq");
+  const inc={};reaisAD.forEach(q=>inc[q.tema]=(inc[q.tema]||0)+1);
+  const incL=Object.entries(inc).sort((a,b)=>b[1]-a[1]).slice(0,25), incMax=incL.length?incL[0][1]:1;
+  const matriz={};
+  BANCO.forEach(q=>{const h=(respostaDe(q)||{}).hist||[];if(!h.length)return;
+    const k=q.cenario+"|"+q.comp,m=matriz[k]||(matriz[k]={n:0,ok:0});m.n++;if(h[h.length-1].ok)m.ok++});
+  $("#sec-painel").innerHTML=`
+  <div class="cx">
+   <h2 style="margin:0 0 12px">Resumo</h2>
+   <div class="grade2">
+    <div class="kpi"><b>${respondidas}/${BANCO.length}</b><span>questões vistas</span></div>
+    <div class="kpi"><b>${pct(acertos,tent)}%</b><span>acerto geral (${tent} tentativas)</span></div>
+    <div class="kpi"><b>${ST.erros.length}</b><span>na fila de erros</span></div>
+    <div class="kpi"><b>${dias}</b><span>dias com estudo</span></div>
+   </div>
+  </div>
+  <div class="cx">
+   <h3 style="margin:0 0 10px">Por grande área</h3>
+   <div class="barrasG">${eg.filter(x=>x.total).map(({g,n,ok,total})=>{const v=n?pct(ok,n):0;
+     return `<div class="bG" title="${n} de ${total} vistas"><span class="nm"><i class="ti ti-${g.ic}" style="color:${g.cor}"></i>${esc(g.curto)}</span>
+      <span class="barra"><i style="width:${n?Math.max(2,v):0}%;background:${g.cor}"></i></span>
+      <span class="v">${n?`<b>${v}%</b> de acerto · `:""}${n}/${total} vistas</span></div>`}).join("")}</div>
+  </div>
+  <div class="cx">
+   <h3 style="margin:0 0 4px">Por subárea</h3>
+   <p class="mini">Ordenado por peso na prova, taxa de erro e questões ainda não vistas: o topo é onde o estudo rende mais.</p>
+   <div class="rolagem" style="margin-top:10px"><table>
+    <tr><th>Área</th><th>Peso</th><th>Vistas</th><th>Acerto</th><th>Cobertura</th></tr>
+    ${ea.map(a=>`<tr>
+      <td><span style="display:inline-block;width:9px;height:9px;border-radius:3px;margin-right:9px;background:${corArea(a.t.id)}"></span>${esc(a.t.nome)}</td><td>${a.t.peso}</td><td>${a.n}/${a.total}</td>
+      <td>${a.taxa===null?'<span class="mini">—</span>':`<span class="pilula ${a.taxa>=0.7?"ok":"er"}">${Math.round(a.taxa*100)}%</span>`}</td>
+      <td><div class="barra" style="min-width:90px"><i style="width:${Math.max(2,Math.round(a.cob*100))}%;background:${corArea(a.t.id)}"></i></div></td></tr>`).join("")}
+   </table></div>
+  </div>
+  ${incL.length?`<div class="cx incid">
+   <h3 style="margin:0 0 4px">Incidência nas provas reais</h3>
+   <p class="mini">Em que subáreas caíram as ${reaisAD.length} questões de prova de acesso direto do banco (Revalida, ENAMED, ENARE e USP). É o mapa do que a banca cobra, ao lado do seu acerto em cada uma.</p>
+   <div class="rolagem" style="margin-top:10px"><table>
+    <tr><th>Subárea</th><th>Questões</th><th>Seu acerto</th></tr>
+    ${incL.map(([id,n])=>{const a=ea.find(x=>x.t.id===id)||{};const cor=CORG[GDE[id]]||"var(--ac)";
+      return `<tr><td><span class="miniBarra" style="width:${Math.round(n/incMax*90)}px;background:${cor}"></span>${esc(NOME[id]||id)}</td><td>${n} <span class="mini">(${pct(n,reaisAD.length)}%)</span></td>
+       <td>${a.taxa==null?'<span class="mini">—</span>':`<span class="pilula ${a.taxa>=0.7?"ok":"er"}">${Math.round(a.taxa*100)}%</span>`}</td></tr>`}).join("")}
+   </table></div></div>`:""}
+  <div class="cx">
+   <h3 style="margin:0 0 4px">Cenário e competência</h3>
+   <p class="mini">Cruza onde a questão se passa com o que ela cobra. Uma lacuna aqui costuma ser jeito de pensar, não falta de leitura.</p>
+   <div class="rolagem" style="margin-top:10px"><table>
+    <tr><th>Cenário</th>${COMP.map(c=>`<th>${esc(c.nome)}</th>`).join("")}</tr>
+    ${CEN.map(ce=>`<tr><td><b>${esc(ce.nome)}</b></td>${COMP.map(co=>{
+      const m=matriz[ce.id+"|"+co.id];
+      return `<td>${m?`<span class="pilula ${pct(m.ok,m.n)>=70?"ok":"er"}">${pct(m.ok,m.n)}%</span> <span class="mini">${m.n}</span>`:'<span class="mini">—</span>'}</td>`
+    }).join("")}</tr>`).join("")}
+   </table></div>
+  </div>
+  ${ST.erros.length?`<div class="cx"><h3 style="margin:0 0 8px">Erros a revisar</h3>
+   ${ST.erros.slice(0,12).map(ch=>{const q=QIDX.get(ch);if(!q)return "";
+     return `<details><summary>${esc(NOME[q.tema]||q.tema)} · ${esc(q.q.slice(0,90))}…</summary>
+      <p class="enun" style="font-size:15px">${esc(q.q)}</p>
+      <div class="coment"><b>Correta: ${letraDe(q,q.gab)}.</b> ${esc(q.alts[q.gab])}<br><br>${esc(q.coment)}
+       <div class="base">Âncora: ${esc(q.base)}</div></div></details>`}).join("")}
+   <button class="bt mini" id="btTreinarErros" style="margin-top:8px">Treinar só os erros</button></div>`:""}
+  <div class="cx" id="cxSinal"><h3 style="margin:0 0 4px">Questões sinalizadas</h3>
+   <p class="mini" style="margin:0 0 10px">As que você marcou com a bandeira por achar um erro. Elas vão para a equipe que revisa o banco.</p>
+   <div id="pSinal"></div>
+   ${SINAL.total()?`<button class="bt sec mini" id="btTreinarSinal" style="margin-top:4px">Ver só as sinalizadas em Questões</button>`:""}</div>
+  <div class="cx">
+   <h3 style="margin:0 0 12px">Leituras, cartões e simulados</h3>
+   <div class="grade2">
+    <div class="kpi"><b>${Object.keys(ST.lidas).length}/${LEITURAS.filter(l=>l.f).length||0}</b><span>leituras concluídas</span></div>
+    <div class="kpi"><b>${devidos().length}</b><span>cartões para hoje</span></div>
+    <div class="kpi"><b>${ST.sim.length}</b><span>simulados feitos</span></div>
+   </div>
+  </div>`;
+  if($("#btTreinarErros"))$("#btTreinarErros").onclick=()=>{
+    ST.pos.fq={area:"",areas:[],cen:"",comp:"",niv:"",modo:"erros"};ST.pos.assq=null;ST.pos.chq=null;
+    salva("pos",ST.pos);irAba("questoes")};
+  /* abrir uma sinalizada: conjunto "sinalizadas", sem outros filtros, parado nela */
+  const abreSinal=ch=>abreQuestaoEm({area:"",areas:[],cen:"",comp:"",niv:"",modo:"sinal",proc:""},ch);
+  SINAL.lista($("#pSinal"),{abreQuestao:ch=>{
+    if(!QIDX.has(ch))return UI.banner("avi","Essa questão foi corrigida ou saiu do banco depois que você a sinalizou.");
+    abreSinal(ch)}});
+  /* a lista se redesenha sozinha ao tirar itens; o botão não, então confere na hora */
+  if($("#btTreinarSinal"))$("#btTreinarSinal").onclick=()=>SINAL.total()?abreSinal(null):pintaPainel();
+}
+
+/* ================= aba AJUSTES ================= */
+async function pintaOffline(){
+  const cx=$("#cxOff"); if(!cx)return;
+  if(!("caches" in window)){cx.innerHTML=`<p class="mini">Este navegador não guarda páginas para uso offline.</p>`;return}
+  const e=await OFF.estado();
+  const tudo=e.faltam.length===0&&e.total>0;
+  cx.innerHTML=tudo
+    ? `<p class="mini" style="color:var(--ok);font-weight:600"><i class="ti ti-circle-check"></i> Biblioteca inteira no aparelho: ${e.total} arquivos.</p>
+       <div class="linha" style="margin-top:8px"><button class="bt sec mini" id="btOffRem">Liberar o espaço</button></div>`
+    : `<div class="linha"><button class="bt" id="btOffBaixa"><i class="ti ti-download"></i> Baixar a biblioteca</button>
+        <span class="mini">${e.baixados} de ${e.total} já guardados</span></div>
+       ${e.baixados?`<div class="progOff"><i style="width:${Math.round(100*e.baixados/e.total)}%"></i></div>`:""}`;
+  if($("#btOffRem"))$("#btOffRem").onclick=async()=>{
+    if(!confirm("Remover a biblioteca guardada? As leituras voltam a precisar de internet. Seu progresso não é afetado."))return;
+    await OFF.remove(); pintaOffline();
+  };
+  if($("#btOffBaixa"))$("#btOffBaixa").onclick=async()=>{
+    const b=$("#btOffBaixa"); b.disabled=true;
+    cx.innerHTML=`<p class="mini">Baixando… <span id="offN">0</span> de <span id="offT">?</span></p><div class="progOff"><i id="offBar" style="width:0"></i></div>`;
+    await OFF.baixa((n,tot)=>{
+      const a=$("#offN"),c2=$("#offT"),bar=$("#offBar");
+      if(a)a.textContent=n; if(c2)c2.textContent=tot; if(bar)bar.style.width=Math.round(100*n/tot)+"%";
+    });
+    UI.banner("ok","Biblioteca guardada. Agora ela abre sem internet.");
+    pintaOffline();
+  };
+}
+async function pintaAjustes(){
+  $("#sec-ajustes").innerHTML=`
+  <div class="cx">
+   <h3 style="margin:0 0 8px">Sua prova</h3>
+   <p class="mini">Informe a data da sua prova para ver a contagem regressiva no Início.</p>
+   <div class="linha" style="margin-top:8px"><label class="cmp">Data<input type="date" id="aData" value="${esc(ST.cfg.dataProva||"")}"></label>
+    ${ST.cfg.dataProva?`<button class="bt sec mini" id="aDataLimpa" style="align-self:flex-end">Tirar a data</button>`:""}</div>
+   ${PROVAS.map(p=>`<div style="margin-top:14px"><b>${esc(p.nome)}</b> <span class="pilula">${esc(p.org)}</span>
+      <p class="mini" style="margin-top:6px">${esc(p.regra)}</p>
+      ${p.edital?`<p class="mini">Fonte: ${esc(p.edital)}</p>`:""}</div>`).join("")}
+  </div>
+  <div class="cx">
+   <h3 style="margin:0 0 8px">Aparência</h3>
+   <div class="linha">
+    ${[["auto","segue o sistema"],["claro","claro"],["escuro","escuro"]].map(([v,n])=>
+      `<button class="bt ${((ST.cfg.tema||"auto")===v)?"":"sec"} mini" data-tema="${v}">${n}</button>`).join("")}
+   </div>
+  </div>
+  <div class="cx">
+   <h3 style="margin:0 0 8px">Conta</h3>
+   ${NUVEM.contaMarkup()}
+  </div>
+  <div class="cx">
+   <h3 style="margin:0 0 8px">Uso sem internet</h3>
+   <p class="mini">O app abre sem rede depois do primeiro acesso, e guarda sozinho toda leitura que você abrir. Para levar a <b>biblioteca inteira</b> (todas as leituras e as figuras), baixe de uma vez, de preferência no wi-fi: são alguns megabytes.</p>
+   <div id="cxOff" style="margin-top:10px"><p class="mini">verificando…</p></div>
+  </div>
+  <div class="cx">
+   <h3 style="margin:0 0 8px">Contestações que você enviou</h3>
+   <p class="mini">Toda vez que você discorda de uma questão ou de uma leitura, a mensagem vai para ${EMAIL_MEDTECH} e uma cópia integral fica aqui, útil se o e-mail não abriu ou se você quiser reenviar.</p>
+   ${ST.contest.length?ST.contest.slice(0,15).map((c,i)=>`
+     <details style="margin-top:8px"><summary>${esc(c.quando.slice(0,10))} · ${esc(c.tipo)} · ${esc(c.area||"")} · ${esc(c.motivo)}</summary>
+      <p class="mini" style="margin:8px 0">${esc(c.texto)}</p>
+      <div class="linha"><button class="bt sec mini" data-reenv="${i}">Reabrir e-mail</button>
+       <button class="bt sec mini" data-copiar="${i}">Copiar</button></div>
+     </details>`).join(""):`<p class="mini">Nenhuma contestação registrada.</p>`}
+  </div>
+  <div class="cx">
+   <h3 style="margin:0 0 8px">Sobre</h3>
+   <p class="mini">FlashMed ${V} · ${BANCO.length} questões (${NREAIS} de provas reais) · ${FLASH.length} cartões · ${LEITURAS.filter(l=>l.f).length} leituras.
+   As questões de prova reproduzem os cadernos oficiais públicos (INEP, EBSERH/FGV, FUVEST) com o gabarito definitivo; comentário, classificação e âncora são do MedTech. Questões cujo gabarito contraria a norma vigente ficaram de fora. As autorais e as de Clínica Médica, Cirurgia e Radiologia vêm do ClínicaMed, do CirurgiaMed e do RadioTítulo. Nenhuma conduta aqui substitui a diretriz na fonte: confira a versão vigente.</p>
+  </div>`;
+  $$("[data-tema]").forEach(b=>b.onclick=()=>{ST.cfg.tema=b.dataset.tema;salva("cfg",ST.cfg);aplicaTema();pintaAjustes()});
+  $("#aData").onchange=e=>{ST.cfg.dataProva=e.target.value||null;salva("cfg",ST.cfg);pintaAjustes()};
+  if($("#aDataLimpa"))$("#aDataLimpa").onclick=()=>{ST.cfg.dataProva=null;salva("cfg",ST.cfg);pintaAjustes()};
+  pintaOffline();
+  if($("#btSair"))$("#btSair").onclick=()=>{ if(confirm("Sair da conta? O FlashMed pede login, então a tela de entrada volta. Seu progresso fica salvo na conta."))NUVEM.sair() };
+  $$("[data-reenv]").forEach(b=>b.onclick=()=>{const c=ST.contest[+b.dataset.reenv];
+    location.href=`mailto:${EMAIL_MEDTECH}?subject=${encodeURIComponent(c.assunto)}&body=${encodeURIComponent(c.corpo)}`});
+  $$("[data-copiar]").forEach(b=>b.onclick=async()=>{const c=ST.contest[+b.dataset.copiar];
+    try{await navigator.clipboard.writeText(`Para: ${EMAIL_MEDTECH}\nAssunto: ${c.assunto}\n\n${c.corpo}`);
+      UI.banner("ok","Copiado.")}catch(e){UI.banner("avi","Não consegui copiar neste navegador.")}});
+}
+
+/* ================= boot ================= */
+(async function(){
+  carregaEstado();
+  await ARM.boot();
+  carregaEstado();
+  aplicaTema();
+  NUVEM.boot();   /* portão de login + sincronização automática (mtsync.js) */
+  matchMedia("(prefers-color-scheme:dark)").addEventListener("change",()=>{if((ST.cfg.tema||"auto")==="auto")aplicaTema()});
+  montaAbas();
+  /* deep-link das leituras: ../index.html?area=<tema>#questoes aplica o filtro e limpa a URL.
+     O parâmetro é `area` e não `tema` para não colidir com o ?tema= do claro/escuro. */
+  const par=new URLSearchParams(location.search), areaLink=par.get("area");
+  if(areaLink&&TAX.some(t=>t.id===areaLink)){
+    ST.pos.fq={area:areaLink,areas:[areaLink],cen:"",comp:"",niv:"",modo:"todas"};
+    ST.pos.assq=null;ST.pos.chq=null;salva("pos",ST.pos);ST.cfg.aba="questoes";ST.cfg.lendo=null;salva("cfg",ST.cfg);
+    history.replaceState(null,"",location.pathname);
+  }
+  irAba(ST.cfg.aba&&PINTA[ST.cfg.aba]?ST.cfg.aba:"inicio");
+  convidaInstalar();
+  /* atalho do toque longo no ícone (manifest shortcuts): ?ir=<aba> */
+  /* ?busca=<termo>: o "Treinar no FlashMed" do CondutAI (antes ?tema= no flashmed.html, que redireciona para cá) */
+  const buscaPar=par.get("busca");
+  if(buscaPar){history.replaceState(null,"",location.pathname);setTimeout(()=>abreBusca(buscaPar),300)}
+  const irPar=par.get("ir");
+  if(irPar&&PINTA[irPar]){ST.cfg.aba=irPar;salva("cfg",ST.cfg);history.replaceState(null,"",location.pathname)}
+  if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
+  window.__cm={ST,ARM,BANCO,QIDX,chaveQ,embaralha,espalhaTemas,irAba,estatArea,V};
+})();
+</script>
+</html>

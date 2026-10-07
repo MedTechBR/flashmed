@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "sus",
+  "a": "Quais são as três diretrizes do SUS no artigo 198 da Constituição?",
+  "b": "Descentralização com direção única em cada esfera, atendimento integral com prioridade preventiva e participação da comunidade (CF 1988, art. 198)."
+ },
+ {
+  "tema": "sus",
+  "a": "Como se distribuem as vagas de um conselho de saúde?",
+  "b": "50% usuários, 25% trabalhadores de saúde e 25% gestores e prestadores; paridade dos usuários (Lei 8.142/1990; Resolução CNS 453/2012)."
+ },
+ {
+  "tema": "sus",
+  "a": "Com que periodicidade se reúnem as conferências de saúde?",
+  "b": "A cada 4 anos, convocadas pelo Executivo ou, extraordinariamente, pela própria conferência ou pelo conselho de saúde (Lei 8.142/1990)."
+ },
+ {
+  "tema": "sus",
+  "a": "Quais os percentuais mínimos de aplicação em saúde de estados e municípios?",
+  "b": "Estados 12% e municípios 15% da arrecadação de impostos e transferências constitucionais (Lei Complementar 141/2012)."
+ },
+ {
+  "tema": "sus",
+  "a": "Quais são as portas de entrada do SUS?",
+  "b": "Atenção primária, urgência e emergência, atenção psicossocial e serviços especiais de acesso aberto (Decreto 7.508/2011, art. 9º)."
+ },
+ {
+  "tema": "sus",
+  "a": "O que uma região de saúde deve conter, no mínimo?",
+  "b": "Atenção primária, urgência e emergência, atenção psicossocial, atenção ambulatorial especializada e hospitalar e vigilância em saúde (Decreto 7.508/2011, art. 5º)."
+ },
+ {
+  "tema": "sus",
+  "a": "Qual o prazo para concluir um processo de incorporação de tecnologia no SUS?",
+  "b": "180 dias do protocolo, prorrogáveis por 90 dias (Lei 8.080/1990, art. 19-R, incluído pela Lei 12.401/2011; análise pela CONITEC)."
+ },
+ {
+  "tema": "sus",
+  "a": "Quais as três dimensões da Política Nacional de Regulação?",
+  "b": "Regulação de sistemas de saúde, regulação da atenção à saúde e regulação do acesso à assistência (Portaria GM/MS 1.559/2008)."
+ },
+ {
+  "tema": "sus",
+  "a": "Quem paga quando um beneficiário de plano é atendido no SUS?",
+  "b": "O atendimento é gratuito ao usuário; a operadora ressarce o SUS, cobrada pela ANS, se houver cobertura contratual (Lei 9.656/1998, art. 32)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Como prevalência, incidência e duração se relacionam?",
+  "b": "Em situação estável, prevalência é aproximadamente incidência vezes duração; tratamento que prolonga a vida sem curar eleva a prevalência sem mudar a incidência (Rouquayrol, 2018)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Quais os componentes da mortalidade infantil?",
+  "b": "Neonatal precoce (0 a 6 dias), neonatal tardio (7 a 27 dias) e pós-neonatal (28 a 364 dias); no Brasil predomina o neonatal precoce (RIPSA, 2008)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Qual o limite temporal da morte materna e da morte materna tardia?",
+  "b": "Materna: na gestação ou até 42 dias após o término. Tardia: de 43 dias a 1 ano, fora do cálculo padrão da razão por 100.000 nascidos vivos (CID-10, OMS, 2016)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "O que mede a razão de Swaroop-Uemura?",
+  "b": "Percentual de óbitos com 50 anos ou mais sobre o total; quanto maior, melhor o nível de saúde, e 75% ou mais é o primeiro nível (Rouquayrol, 2018)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Como se calcula o DALY (AVAI)?",
+  "b": "Anos de vida perdidos por morte prematura (YLL) somados aos anos vividos com incapacidade (YLD) (OMS, métodos do Global Burden of Disease, 2020)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Qual critério de Hill é indispensável para causalidade?",
+  "b": "Temporalidade: a exposição precisa anteceder o desfecho; os demais critérios apenas reforçam a inferência (Hill, 1965)."
+ },
+ {
+  "tema": "vigilancia",
+  "a": "Qual o prazo de notificação de violência sexual e tentativa de suicídio?",
+  "b": "Imediata, em até 24 horas, à secretaria municipal; as demais violências são semanais (Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V)."
+ },
+ {
+  "tema": "vigilancia",
+  "a": "Dengue: qual a periodicidade de notificação de casos e de óbitos?",
+  "b": "Casos: semanal. Óbitos suspeitos: imediata, em até 24 horas, às três esferas (Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V)."
+ },
+ {
+  "tema": "vigilancia",
+  "a": "Qual doença foi incluída na lista nacional de notificação compulsória em 2025?",
+  "b": "Esporotricose humana (Portaria GM/MS 6.734/2025, que alterou o Anexo 1 do Anexo V da Portaria de Consolidação 4/2017)."
+ },
+ {
+  "tema": "vigilancia",
+  "a": "Qual o primeiro passo da investigação de um surto?",
+  "b": "Confirmar o diagnóstico e a existência do surto (excesso sobre o esperado); depois definir caso e buscar ativamente (Guia de Vigilância em Saúde, 2023)."
+ },
+ {
+  "tema": "vigilancia",
+  "a": "Como é a curva epidêmica de fonte comum pontual?",
+  "b": "Subida abrupta, pico único e todos os casos dentro de um período de incubação, como após uma refeição contaminada (Guia de Vigilância em Saúde, 2023)."
+ },
+ {
+  "tema": "vigilancia",
+  "a": "Quais as metas de cobertura vacinal do PNI em menores de 1 ano?",
+  "b": "90% para BCG e rotavírus; 95% para as demais vacinas do calendário infantil (Ministério da Saúde, PNI, 2024)."
+ },
+ {
+  "tema": "vigilancia",
+  "a": "Conduta após episódio hipotônico-hiporresponsivo pós-pentavalente?",
+  "b": "Notificar e completar o esquema com DTP acelular nos CRIE; não contraindica o componente pertussis (Manual dos CRIE, 6ª ed., 2023)."
+ },
+ {
+  "tema": "trabalho",
+  "a": "Quem pode emitir a CAT se a empresa não a emitir?",
+  "b": "Acidentado, dependentes, sindicato, médico que o assistiu ou autoridade pública, sem o prazo do primeiro dia útil (Lei 8.213/1991, art. 22)."
+ },
+ {
+  "tema": "trabalho",
+  "a": "Qual o esquema e o prazo da PEP ao HIV?",
+  "b": "Tenofovir, lamivudina e dolutegravir por 28 dias, iniciar idealmente em até 2 horas e no máximo em 72 horas (PCDT PEP, Ministério da Saúde, 2021)."
+ },
+ {
+  "tema": "trabalho",
+  "a": "Qual o padrão audiométrico da PAIR?",
+  "b": "Neurossensorial bilateral e simétrica, entalhe em 3.000 a 6.000 Hz com recuperação em 8.000 Hz; irreversível e não progride sem exposição (Ministério da Saúde, PAIR, 2006)."
+ }
+]

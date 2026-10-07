@@ -1,0 +1,622 @@
+[
+ {
+  "pid": "u080",
+  "q": "Mulher, 24 anos de idade, com queixa de prurido e dor vaginais e secreção abundante com aspecto grumoso branco-amarelado. Ao exame clínico, observa-se o conteúdo vaginal aumentado com aspecto em grumos aderente às paredes vaginais. O exame do material apresenta: pH de 4; bacterioscopia (Gram) com aumento excessivo de Lactobacillus sp.; raros leucócitos; restos celulares (lise das células epiteliais). Não são identificados hifas ou esporos. Qual é o tratamento vaginal mais adequado?",
+  "alts": [
+   "Ácido acético.",
+   "Clotrimazol.",
+   "Probiótico.",
+   "Bicarbonato de sódio."
+  ],
+  "gab": 3,
+  "tema": "gininfec",
+  "sub": "Vaginose citolítica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Cibley LJ, Cibley LJ. Cytolytic vaginosis. Am J Obstet Gynecol, 1991; FEBRASGO. Tratado de Ginecologia, 2019",
+  "coment": "pH ácido (4), excesso de lactobacilos, raros leucócitos e lise de células epiteliais, sem hifas nem esporos: é o quadro da vaginose citolítica, causada pela proliferação exagerada de lactobacilos, que acidificam o meio e destroem o epitélio. Clinicamente imita a candidíase (prurido, ardor, secreção grumosa), mas o exame do conteúdo vaginal desfaz a confusão. O tratamento busca elevar o pH vaginal com bicarbonato de sódio em duchas ou banhos de assento, além de suspender os antifúngicos usados sem indicação, que não resolvem e mantêm a queixa.",
+  "porAlt": [
+   "Ácido acético acidifica ainda mais um meio que já está ácido pelo excesso de lactobacilos e pioraria a citólise.",
+   "Clotrimazol trata candidíase, afastada pela ausência de hifas e esporos; o uso repetido de antifúngico é o erro clássico nesse quadro.",
+   "Probiótico com lactobacilos acrescenta justamente o agente em excesso e não corrige o pH.",
+   "Correta: o bicarbonato de sódio alcaliniza o meio vaginal e reduz a proliferação de lactobacilos responsável pela citólise."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 80
+  }
+ },
+ {
+  "pid": "u082",
+  "q": "Mulher, 54 anos de idade, com antecedente de câncer de mama, submetida à cirurgia. No momento, encontra-se em remissão da doença e em uso de medicamento inibidor de aromatase. Refere fogachos intensos, seguidos de sudorese e de insônia. Qual é o tratamento mais eficiente e adequado neste momento?",
+  "alts": [
+   "Tamoxifeno.",
+   "Gestrinona.",
+   "Gabapentina.",
+   "Isoflavona."
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Fogachos após câncer de mama",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "The Menopause Society. 2023 Nonhormone Therapy Position Statement, 2023",
+  "coment": "Câncer de mama contraindica a terapia hormonal, e os inibidores de aromatase pioram os sintomas vasomotores ao suprimir o estrogênio residual. Nessas mulheres usam-se opções não hormonais com eficácia comprovada: gabapentina, inibidores seletivos da recaptação de serotonina e de serotonina e noradrenalina (venlafaxina, escitalopram), fezolinetante e terapia cognitivo-comportamental. A gabapentina tem a vantagem de melhorar também a insônia, queixa desta paciente, e não interfere no tratamento oncológico. Isoflavonas e outros fitoterápicos não mostraram eficácia consistente, segundo a declaração de posição da Menopause Society de 2023.",
+  "porAlt": [
+   "Tamoxifeno não trata fogachos: é modulador seletivo do receptor de estrogênio que frequentemente os provoca ou agrava.",
+   "Gestrinona é esteroide com ação androgênica e antiestrogênica, sem papel no tratamento de sintomas vasomotores e inadequada após câncer de mama.",
+   "Correta: gabapentina é opção não hormonal com eficácia demonstrada para fogachos, ajuda no sono e não interfere no inibidor de aromatase.",
+   "Isoflavona é fitoestrogênio sem eficácia consistente para fogachos e evitada em quem tratou câncer de mama hormônio-sensível."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 82
+  }
+ },
+ {
+  "pid": "u083",
+  "q": "Mulher, 60 anos de idade, faz uso de terapia hormonal com estrogênio e progesterona, além do uso de alendronato, colecalciferol e carbonato de cálcio. Qual dos seguintes procedimentos poderá ter seu resultado comprometido nesta paciente?",
+  "alts": [
+   "Litotripsia.",
+   "Cirurgia refrativa.",
+   "Cirurgia de varizes.",
+   "Implante dentário."
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Bisfosfonato e osteonecrose da mandíbula",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "American Association of Oral and Maxillofacial Surgeons. Position Paper on Medication-Related Osteonecrosis of the Jaw, 2022 update",
+  "coment": "O alendronato, bisfosfonato usado na osteoporose pós-menopausa, se deposita no osso e reduz a remodelação. Em procedimentos que expõem o osso da mandíbula ou da maxila, como extração e implante dentário, há risco de osteonecrose dos maxilares relacionada a medicamento e de falha na osseointegração do implante. Com doses de osteoporose o risco é baixo, mas cresce com o tempo de uso (acima de 4 anos) e com corticoide associado, segundo a AAOMS (2022). Por isso a paciente deve informar o dentista, e o plano odontológico é feito em conjunto. Terapia hormonal, cálcio e vitamina D não comprometem os demais procedimentos listados.",
+  "porAlt": [
+   "Litotripsia fragmenta cálculos urinários por ondas de choque, e a medicação da paciente não compromete seu resultado.",
+   "Cirurgia refrativa atua na córnea e não depende da remodelação óssea afetada pelo bisfosfonato.",
+   "Cirurgia de varizes pede atenção ao risco trombótico da terapia hormonal, mas seu resultado não é comprometido pelo esquema descrito.",
+   "Correta: o bisfosfonato reduz a remodelação óssea e expõe ao risco de osteonecrose dos maxilares e de falha de osseointegração do implante."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 83
+  }
+ },
+ {
+  "pid": "u085",
+  "q": "Mulher, 22 anos de idade, previamente hígida, comparece no pronto atendimento com dor abdominal em baixo ventre de início súbito há 1 hora, de forte intensidade. Vida sexual ativa, usa dispositivo intraútero de cobre há 2 anos. Não se lembra da data da última menstruação, refere ciclos irregulares desde a adolescência. Obstipada há 2 dias, no momento apresenta náusea intensa. Ao exame físico, apresentou regular estado geral, descorada, PA de 80x40 mmHg, FC de 120 bpm. Abdome rígido com defesa global e descompressão brusca positiva em hipogástrio. Toque vaginal intensamente doloroso. Exame de imagem apresentado a seguir: A conduta correta a ser adotada diante dos achados é:",
+  "alts": [
+   "Laparotomia.",
+   "Videolaparoscopia.",
+   "Tomografia de pelve.",
+   "Retirada do dispositivo intrautero."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Abdome agudo hemorrágico com choque",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; ACOG Practice Bulletin 193, Tubal Ectopic Pregnancy, 2018",
+  "coment": "Mulher em idade fértil com dor pélvica súbita, choque (PA 80x40 mmHg, FC 120 bpm, descorada) e peritonite difusa tem abdome agudo hemorrágico até prova em contrário. A principal causa é a gravidez ectópica rota, e o DIU não a exclui: quando a gravidez ocorre com DIU, a chance de ser ectópica é maior. Com instabilidade hemodinâmica, a conduta é cirurgia imediata por laparotomia, que permite controle rápido do sangramento, junto com reposição volêmica e reserva de sangue. A videolaparoscopia é a via preferida na paciente estável. Exames adicionais só atrasam a hemostasia.",
+  "porAlt": [
+   "Correta: choque com peritonite em mulher jovem indica hemoperitônio, e a instabilidade exige laparotomia imediata para hemostasia.",
+   "Videolaparoscopia é a via de escolha na paciente hemodinamicamente estável; no choque, o pneumoperitônio e o tempo de preparo pioram o quadro.",
+   "Tomografia em paciente chocada atrasa a cirurgia e não muda a conduta; a paciente instável não sai da sala de emergência para imagem.",
+   "Retirar o DIU não trata a causa do choque, porque o dispositivo não é a origem do sangramento intraperitoneal."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 85
+  }
+ },
+ {
+  "pid": "u089",
+  "q": "Paciente, 40 anos de idade, secundigesta com parto vaginal anterior, sem doenças, retorna em pré-natal com 24 semanas de gravidez e apresenta os exames a seguir: Hb: 11,4 mg/dL Ht: 34% Glicemia: 84 mg/dL Tipagem sanguínea: A negativo. Pesquisa anticorpos irregulares: positiva. Toxoplasmose: IgG positivo e IgM negativo. Rubéola: IgG negativo e IgM negativo. Hepatite B: vacinada. Hepatite C: negativo. HIV: negativo. VDRL: 1:2 FTA-ABS: negativo. Urocultura: E. coli > 106 UFC multi-sensível. Ultrassonografia: feto único, vivo, apresentação pélvica com dorso à esquerda. Placenta posterior Grannum 0. Peso fetal estimado 780 g (p90). Observa-se ascite e derrame pleural laminar fetal. Doppler de artéria umbilical normal, pico sistólico de artéria cerebral média de 52 cm/s (mediana para 24 semanas = 30,7 cm/s). A hipótese diagnóstica para o achado ultrassonográfico é:",
+  "alts": [
+   "Anemia fetal.",
+   "Infecção congênita.",
+   "Cardiopatia fetal.",
+   "Diabetes gestacional."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Aloimunização Rh com anemia fetal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Gestante Rh negativo com pesquisa de anticorpos irregulares positiva está aloimunizada. O rastreio de anemia fetal é feito pelo Doppler do pico de velocidade sistólica da artéria cerebral média: o sangue anêmico é menos viscoso e o débito aumenta, elevando a velocidade. O ponto de corte é 1,5 múltiplo da mediana (MoM); 52 dividido por 30,7 dá cerca de 1,7 MoM, indicando anemia moderada a grave. Ascite e derrame pleural caracterizam hidropisia, estágio avançado da doença hemolítica perinatal, com indicação de cordocentese e transfusão intrauterina em centro de referência (Manual de Gestação de Alto Risco, 2022).",
+  "porAlt": [
+   "Correta: aloimunização com pico sistólico da cerebral média acima de 1,5 MoM e hidropisia indica anemia fetal.",
+   "Toxoplasmose é imunidade antiga (IgG positivo, IgM negativo) e o VDRL 1:2 com FTA-ABS negativo é falso-positivo; nada sugere infecção congênita.",
+   "Cardiopatia pode causar hidropisia, mas não explica a velocidade elevada na cerebral média de uma gestante aloimunizada.",
+   "Glicemia de 84 mg/dL não indica diabetes, e o diabetes não causa hidropisia nem aumento da velocidade na cerebral média."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 89
+  }
+ },
+ {
+  "pid": "u091",
+  "q": "Primigesta, 18 anos de idade, comparece ao pré-natal com 33 semanas de gravidez. Refere falta de ar para a rotina domiciliar, sente-se cansada o tempo todo. Ultimamente, com mais dificuldade para dormir. Boa movimentação fetal, mas tem contrações dolorosas há 3 horas. Ao exame físico, apresentou-se descorada 1+/4+, FR de 18 ipm, FC de 118 bpm, saturação de O2 de 94%, PA de 130x90 mmHg. Sopro diastólico mitral 3+/6+ com reforço pré-sistólico, sopro sistólico aórtico 2+/6+ sem irradiações. Ausculta pulmonar com estertores e sibilos esparsos. Edema membros inferiores 2+/4+. Abdome gravídico, AU 30 cm, BCF+, dinâmica 3 contrações fracas em 10 minutos. Colo médio posterior, 4 cm de dilatação, bolsa íntegra, cefálico. A escolha terapêutica imediata é:",
+  "alts": [
+   "Terbutalina.",
+   "Metildopa.",
+   "Furosemida.",
+   "Sulfato de magnésio."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Estenose mitral descompensada na gestação",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; Sociedade Brasileira de Cardiologia. Posicionamento sobre Gravidez e Planejamento Familiar na Mulher Portadora de Cardiopatia, 2020",
+  "coment": "Sopro diastólico mitral com reforço pré-sistólico é estenose mitral, em geral reumática. A gestação aumenta volume e frequência cardíaca, encurta a diástole e eleva a pressão no átrio esquerdo, levando à congestão: dispneia, estertores, edema e taquicardia. A conduta imediata é tratar a congestão pulmonar com diurético de alça (furosemida), associado a betabloqueador para controlar a frequência. O trabalho de parto prematuro não deve ser inibido com beta-agonista, que aumenta a frequência cardíaca e pode precipitar edema agudo de pulmão. Com 33 semanas não há indicação de sulfato de magnésio para neuroproteção (reservado a menos de 32 semanas).",
+  "porAlt": [
+   "Terbutalina é beta-agonista: taquicardia e retenção hídrica precipitam edema agudo de pulmão na estenose mitral.",
+   "Metildopa trata hipertensão na gestação e não age sobre a congestão pulmonar causada pela valvopatia.",
+   "Correta: furosemida alivia a congestão pulmonar da estenose mitral descompensada pela sobrecarga de volume da gestação.",
+   "Sulfato de magnésio serve à neuroproteção fetal antes de 32 semanas e à pré-eclâmpsia grave, que não estão caracterizadas aqui."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 91
+  }
+ },
+ {
+  "pid": "u097",
+  "q": "Gestante, 22 anos de idade, secundigesta, previamente hígida, comparece no pronto-socorro em trabalho de parto em período expulsivo. A idade gestacional, pela data da última menstruação, é de 35 semanas. Evoluiu para parto vaginal 5 minutos após a admissão, bolsa rota no ato com líquido meconial. Ao nascer, o recém-nascido apresentava-se hipotônico e sem choro, sendo realizado clampeamento imediato do cordão umbilical. Realizados os passos da reanimação neonatal, que progrediram até a intubação orotraqueal e massagem cardíaca. Assinale a alternativa que apresenta a correlação adequada de compressões torácicas e ventilações durante a reanimação neonatal e a fração inspirada de oxigênio (FiO2) que deve ser utilizada.",
+  "alts": [
+   "3 compressões para 1 ventilação dessincronizada e FiO2 60%.",
+   "3 compressões para 1 ventilação e FiO2 100%.",
+   "15 compressões para 2 ventilações e FiO2 100%.",
+   "30 compressões para 2 ventilações e FiO2 60%."
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Massagem cardíaca na reanimação neonatal",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP, 2026",
+  "coment": "Com 35 semanas, aplica-se a diretriz da SBP de 2026 para o RN com 34 semanas ou mais. Se a FC segue abaixo de 60 bpm após 30 segundos de VPP com técnica adequada, na prática pela cânula, inicia-se a massagem com dois polegares no terço inferior do esterno, sincronizada com a ventilação na relação 3:1, 120 eventos por minuto (90 compressões e 30 ventilações). Ao começar a massagem, o oxigênio sobe para 100%, porque o oxímetro raramente lê no RN bradicárdico, e é reduzido assim que a FC se recupera. A reavaliação é após 60 segundos. As relações 15:2 e 30:2 pertencem à reanimação pediátrica e do adulto. Pela diretriz de 2026, o RN sem vitalidade recebe antes estímulo tátil no dorso por cerca de 15 segundos com o cordão intacto, e o clampeamento imediato fica para descolamento de placenta, placenta prévia sangrante ou nó verdadeiro.",
+  "porAlt": [
+   "Na reanimação neonatal compressões e ventilações são sincronizadas, e a FiO2 durante a massagem deve ser 100%.",
+   "Correta: a SBP preconiza 3 compressões para 1 ventilação, sincronizadas, com oxigênio a 100% durante a massagem.",
+   "A relação 15:2 é da reanimação pediátrica com dois socorristas, não do recém-nascido em sala de parto.",
+   "A relação 30:2 é do adulto ou do socorrista único em pediatria; 60% é a FiO2 logo após intubar, não durante a massagem."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 97
+  }
+ },
+ {
+  "pid": "u098",
+  "q": "Paciente, 8 meses de idade, do sexo masculino, é levado ao pronto atendimento por tosse há uma semana, com febre de até 39,5 °C há três dias. O responsável notou que ele apresenta cansaço e dificuldade para respirar. Ao exame físico, está letárgico, pálido e gemente, FC de 172 bpm, FR de 88 ipm, saturando 90% em máscara não reinalante, PA de 85x40 mmHg, temperatura axilar, no momento, de 36,9 °C. Sem alterações em ausculta cardíaca e pulmonar; com presença de tiragens intercostal, subdiafragmática e de fúrcula importantes. Tempo de enchimento capilar de 2 segundos, pulsos cheios. Restante do exame físico sem alterações. Assinale a alternativa que descreve a principal hipótese diagnóstica e a conduta indicada nesse momento.",
+  "alts": [
+   "Pneumonia; indicar intubação orotraqueal, mantendo o paciente em máscara não reinalante até que as medicações e materiais do procedimento estejam prontos.",
+   "Pneumonia; indicar cateter nasal de alto fluxo, mantendo o paciente em ventilações com bolsa-válvula-máscara até que o equipamento seja acoplado.",
+   "Bronquiolite; indicar intubação orotraqueal, mantendo o paciente em ventilações com bolsa-válvula-máscara até que as medicações e materiais do procedimento estejam prontos.",
+   "Bronquiolite; indicar cateter nasal de alto fluxo, mantendo o paciente em máscara não reinalante até que o equipamento seja acoplado."
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Insuficiência respiratória iminente no lactente",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "American Heart Association. Diretrizes de RCP e ACE 2025, Suporte Avançado de Vida em Pediatria, 2025",
+  "coment": "Febre alta há três dias, tosse e ausculta sem sibilos em lactente de 8 meses favorecem pneumonia; bronquiolite cursa com sibilos e crepitações, e febre alta é menos típica. O ponto decisivo é a gravidade: letargia, gemência, FR de 88 ipm, tiragens importantes e saturação de 90% mesmo em máscara não reinalante caracterizam insuficiência respiratória com rebaixamento de consciência, indicação de intubação. Enquanto material e drogas são preparados, a criança que respira espontaneamente mantém a máscara não reinalante para pré-oxigenação; bolsa-válvula-máscara fica para apneia ou ventilação ineficaz. Alto fluxo não é seguro com consciência rebaixada.",
+  "porAlt": [
+   "Correta: pneumonia com letargia e hipoxemia apesar da máscara não reinalante exige intubação, mantendo a máscara para pré-oxigenação.",
+   "Alto fluxo não é seguro em criança letárgica com falência respiratória, e ventilar com bolsa quem ainda respira espontaneamente não é necessário.",
+   "O quadro favorece pneumonia, e a bolsa-válvula-máscara é reservada à apneia ou à ventilação espontânea ineficaz.",
+   "Bronquiolite é menos provável sem sibilos e com febre alta, e o alto fluxo é inadequado para criança com rebaixamento de consciência."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 98
+  }
+ },
+ {
+  "pid": "u100",
+  "q": "Paciente de 10 meses de idade, previamente hígido, é levado ao pronto atendimento com história de febre de até 39 °C há dois dias. Responsável refere que não está aceitando nenhum alimento sólido desde o início do quadro febril, apenas seio materno. Apresenta cerca de 4 diureses por dia. Ao exame físico, encontra-se em bom estado geral, mantendo mucosas úmidas, sem alterações cardíaca, pulmonar e abdominal; otoscopia e oroscopia conforme imagens a seguir: Após manejo adequado, o paciente ainda manteve febre por mais dois dias, com melhora após este período e sem recorrência. Nos dias subsequentes, evoluiu com inapetência, vômitos e hipoatividade, sintomas que foram piorando progressivamente. Foi levado ao pronto-socorro, novamente, após cerca de 10 dias do atendimento anterior. Na admissão, o paciente estava letárgico e pálido, sendo levado à sala de emergência. A seguir, encontra-se a descrição da avaliação sistematizada, os dados de monitorização e a imagem da ultrassonografia pulmonar, com o padrão observado em todos os campos pulmonares: A: pérvia B: murmúrio vesicular presente, com estertores bilateralmente, FR 55 ipm, saturação 93%, tiragem subdiafragmática C: bulhas rítmicas, 2 tempos, normofonéticas, sem sopros, tempo de enchimento capilar de 6 segundos, pulsos finos, fígado a 5 cm do rebordo costal direito D: abertura ocular e resposta verbal ao estímulo doloroso; localiza dor; glicemia capilar 75 mg/dL E: nada digno de nota, fontanela anterior normotensa Considerando a principal hipótese diagnóstica, qual é a conduta inicial indicada para estabilizar o paciente?",
+  "alts": [
+   "Introduzir cefalosporina de 3ª geração.",
+   "Expandir com solução cristaloide.",
+   "Acoplar em ventilação não invasiva.",
+   "Iniciar inotrópico em bomba de infusão contínua."
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Choque cardiogênico por miocardite",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "American Heart Association. Diretrizes de RCP e ACE 2025, Suporte Avançado de Vida em Pediatria, 2025",
+  "coment": "Cerca de dez dias após um quadro febril viral, o lactente evolui com hipoatividade e sinais de baixo débito (enchimento capilar de 6 segundos, pulsos finos) associados a congestão: estertores bilaterais, padrão pulmonar difuso ao ultrassom e fígado a 5 cm do rebordo. Choque com congestão e hepatomegalia é cardiogênico, e a causa mais provável nessa história é miocardite viral. A estabilização usa inotrópico em infusão contínua (adrenalina, dobutamina ou milrinona, conforme a pressão). Expansão volêmica liberal piora o edema pulmonar; se feita, em alíquotas de 5 a 10 mL/kg com reavaliação. Ventilação não invasiva é contraindicada com rebaixamento de consciência.",
+  "porAlt": [
+   "Antibiótico não estabiliza o choque cardiogênico; a febre já se resolveu e o quadro é de falência de bomba após virose.",
+   "Expansão volêmica liberal agrava a congestão pulmonar e hepática do choque cardiogênico.",
+   "Ventilação não invasiva é contraindicada com rebaixamento do nível de consciência e não corrige o baixo débito.",
+   "Correta: no choque cardiogênico por miocardite, o inotrópico em infusão contínua melhora o débito e a perfusão."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 100
+  }
+ },
+ {
+  "pid": "u102",
+  "q": "Você está de plantão na enfermaria de pediatria e há disponibilidade de 3 leitos para internação. Há um quarto compartilhado de enfermaria que comporta dois leitos com distância de 2 metros entre eles e um quarto de isolamento respiratório com um leito. No pronto-socorro infantil, três crianças com bronquiolite aguardam internação: Enzo com vírus sincicial respiratório; Miguel com parainfluenza 3 e Caio com Influenza A. Além de precaução padrão, assinale a alternativa que apresenta a melhor opção de alocação dessas crianças.",
+  "alts": [
+   "Quarto de isolamento com precaução de gotícula para Miguel e quarto compartilhado com precauções de contato para Enzo e Caio.",
+   "Quarto de isolamento com precaução de gotícula para Enzo e quarto compartilhado com precauções de contato para Miguel e Caio.",
+   "Quarto de isolamento com precaução de gotícula para Caio e quarto compartilhado com precauções de contato para Enzo e Miguel.",
+   "Não é possível colocar dois destes pacientes em um mesmo quarto, deve-se optar por internar apenas os dois de maior gravidade em quartos diferentes."
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Precauções em viroses respiratórias",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "CDC. Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings, 2007",
+  "coment": "A alocação segue o modo de transmissão de cada vírus. Influenza exige precaução de gotícula, com quarto privativo ou coorte com o mesmo agente, por isso Caio fica no quarto de isolamento. Vírus sincicial respiratório e parainfluenza transmitem-se sobretudo por contato direto e por superfícies, e o CDC indica precaução de contato para ambos. Com um único quarto privativo, a melhor opção é Enzo e Miguel dividirem o quarto com leitos separados por mais de 1 metro, higiene rigorosa das mãos, luvas, avental e materiais de uso individual. Deixar de internar uma criança por falta de quarto não é aceitável quando há alocação segura.",
+  "porAlt": [
+   "Parainfluenza pede precaução de contato; o isolamento deve ficar com o influenza, que exige gotícula e não deve dividir quarto com outro vírus.",
+   "Vírus sincicial respiratório pede precaução de contato; deixar o influenza no quarto compartilhado expõe o colega à transmissão por gotículas.",
+   "Correta: influenza exige gotícula e vai para o isolamento; sincicial e parainfluenza, ambos de contato, dividem o quarto com distância e barreiras.",
+   "Existe alocação segura com os leitos disponíveis, e deixar de internar uma criança que precisa seria inadequado."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 102
+  }
+ },
+ {
+  "pid": "u103",
+  "q": "Na primeira consulta de rotina de um recém-nascido de 20 dias de vida, a mãe refere estar preocupada, pois acha que seu bebê é estrábico. A criança nasceu a termo de parto vaginal com aplicação de fórceps, boletim de Apgar de 7 no 1º minuto e 9 no 5º minuto, com peso de 2.980 g. Está em aleitamento materno exclusivo. Durante a consulta, a médica teve a oportunidade de observar dois momentos em que o paciente apresentou um desvio ocular convergente, bilateral e simultâneo, com duração de cerca de 3 segundos. Não foi observado nistagmo, as pupilas mostraram-se isocóricas e fotorreagentes e o teste do reflexo vermelho executado, durante a consulta, estava presente bilateralmente. O restante do exame clínico não revelou alterações significativas. Neste momento, a conduta frente à preocupação materna é:",
+  "alts": [
+   "Encaminhar ao oftalmologista pediátrico.",
+   "Solicitar ultrassonografia transfontanela.",
+   "Realizar exame de fundo de olho.",
+   "Observar clinicamente."
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Desvio ocular transitório do lactente",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "American Academy of Pediatrics, AAPOS e AAO. Visual System Assessment in Infants, Children, and Young Adults by Pediatricians, 2016",
+  "coment": "Nos primeiros meses a fixação binocular ainda está em maturação, e desvios oculares intermitentes, breves e variáveis, sobretudo convergentes, são comuns e fisiológicos, desaparecendo em geral até 3 a 4 meses. Com reflexo vermelho presente bilateralmente, pupilas normais, sem nistagmo e exame normal, a conduta é tranquilizar a mãe e reavaliar nas consultas seguintes. Indicam avaliação oftalmológica o desvio constante em qualquer idade, o desvio intermitente que persiste após 4 a 6 meses, reflexo vermelho alterado, nistagmo ou suspeita de baixa visão.",
+  "porAlt": [
+   "Encaminhar ao oftalmologista é indicado se o desvio for constante ou persistir após 4 a 6 meses, não diante de episódios breves aos 20 dias.",
+   "Ultrassonografia transfontanela não se justifica com exame neurológico normal e desvio ocular fisiológico.",
+   "Fundo de olho não acrescenta nesse momento: o reflexo vermelho normal bilateral já afasta opacidade de meios e grandes lesões centrais.",
+   "Correta: desvio convergente intermitente e breve no primeiro mês, com exame normal, é fisiológico e deve ser apenas acompanhado."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 103
+  }
+ },
+ {
+  "pid": "u105",
+  "q": "Gestante, 40 anos de idade, 36 semanas de gestação, com antecedente pessoal de epilepsia, em uso de fenitoína, apresentou escape convulsivo com queda da própria altura, entrou em trabalho de parto, sendo realizada cesárea por iteratividade. Recém-nascido pré-termo, nasceu com boa vitalidade, sem necessidade de manobras de reanimação neonatal. Boletim de Apgar 8 e 10. Mantido em contato pele a pele após o nascimento, ofertado seio materno na 1ª hora de vida e encaminhado ao alojamento conjunto. Com 13 horas de vida, recém-nascido evoluiu com episódios de vômitos com aspecto acastanhado com laivos de sangue vivo. Foi solicitado Apt-teste (teste de desnaturação alcalina da hemoglobina) e lavagem gástrica, com conteúdo apresentado na imagem a seguir: O resultado do Apt-teste foi positivo. Assinale a alternativa que justifica a origem do sangramento.",
+  "alts": [
+   "Sangue deglutido pelo recém-nascido devido a fissuras em seio materno.",
+   "Sangue deglutido pelo recém-nascido decorrente do parto cesáreo.",
+   "Doença hemorrágica do recém-nascido, forma clássica, devido à prematuridade.",
+   "Doença hemorrágica do recém-nascido, forma precoce, por medicamento."
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Doença hemorrágica precoce do RN",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, 2ª ed., 2014",
+  "coment": "O teste de Apt distingue a origem do sangue: a hemoglobina fetal resiste à desnaturação pelo álcali e a amostra mantém cor rosada, enquanto a hemoglobina adulta, de sangue materno deglutido, fica marrom. Resultado positivo para hemoglobina fetal indica que o sangue é do próprio recém-nascido, o que afasta sangue materno deglutido. Sangramento nas primeiras 24 horas de vida é a forma precoce da doença hemorrágica por deficiência de vitamina K, ligada a medicamentos maternos que interferem nessa vitamina, como anticonvulsivantes (fenitoína, fenobarbital, carbamazepina), rifampicina e varfarina. A forma clássica ocorre entre o 2º e o 7º dia.",
+  "porAlt": [
+   "Sangue de fissura mamilar é materno, com hemoglobina adulta, e daria teste de Apt negativo.",
+   "Sangue deglutido no parto também é materno, de hemoglobina adulta, e não explica Apt positivo.",
+   "A forma clássica surge entre o 2º e o 7º dia de vida, e aqui o sangramento começou com 13 horas.",
+   "Correta: Apt positivo indica sangue do RN, e sangramento nas primeiras 24 horas com mãe em uso de fenitoína é a forma precoce da doença hemorrágica."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 105
+  }
+ },
+ {
+  "pid": "u107",
+  "q": "Bebê, 5 meses de idade, previamente hígido, comparece à consulta oftalmológica. A mãe relata que “os olhos da criança são grandes desde o nascimento” e que o olho esquerdo ficou “mais branco” há 2 dias. Refere ainda, que a criança lacrimeja em excesso e tem dificuldade para abrir os olhos em ambientes claros. Qual é a principal hipótese diagnóstica?",
+  "alts": [
+   "Catarata.",
+   "Glaucoma.",
+   "Toxoplasmose.",
+   "Obstrução de vias lacrimais."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Glaucoma congênito",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "World Glaucoma Association. Childhood Glaucoma, Consensus Series 9, 2013",
+  "coment": "A tríade clássica do glaucoma congênito é epífora, fotofobia e blefaroespasmo. A pressão intraocular elevada distende o olho ainda complacente do lactente, produzindo córnea e globo aumentados (buftalmo, os olhos grandes percebidos desde o nascimento), e o edema de córnea deixa o olho esbranquiçado. É urgência oftalmológica, porque o tratamento é cirúrgico e o atraso causa perda visual irreversível. A obstrução de vias lacrimais também causa lacrimejamento, mas sem fotofobia, sem aumento do olho e sem opacidade corneana.",
+  "porAlt": [
+   "Catarata causa leucocoria, mas não aumenta o tamanho do olho nem provoca fotofobia com lacrimejamento.",
+   "Correta: olhos grandes, córnea esbranquiçada, epífora e fotofobia no lactente formam o quadro do glaucoma congênito.",
+   "Toxoplasmose congênita causa retinocoroidite e cicatriz macular, sem aumento do globo nem opacidade corneana com epífora.",
+   "Obstrução de vias lacrimais causa lacrimejamento e secreção, mas sem fotofobia, aumento ocular ou córnea esbranquiçada."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 107
+  }
+ },
+ {
+  "pid": "u108",
+  "q": "Lactente, do sexo feminino, 3 meses de idade, passou a apresentar sangramento vivo nas fezes 7 dias após a suspensão total do aleitamento materno e substituição por leite de vaca integral, adicionado de cereal infantil à base de arroz e aveia. Nasceu a termo, sem intercorrências no período perinatal. Está em bom estado geral, sem alterações ao exame clínico atual, pesando 5.830 g. Diante da impossibilidade de a paciente retornar ao aleitamento materno exclusivo, a primeira opção terapêutica, neste caso, será a substituição do leite atual por fórmula infantil à base de",
+  "alts": [
+   "proteína de soja.",
+   "proteína extensamente hidrolisada.",
+   "aminoácidos livres.",
+   "leite de vaca isento de lactose."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Proctocolite alérgica sem aleitamento",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria e Associação Brasileira de Alergia e Imunologia. Consenso Brasileiro sobre Alergia Alimentar, 2018",
+  "coment": "Sangue vivo nas fezes em lactente em bom estado, dias após a introdução do leite de vaca, é proctocolite alérgica, forma não mediada por IgE da alergia à proteína do leite de vaca. O ideal seria retomar o aleitamento com dieta materna isenta de leite; sem essa possibilidade, o Consenso Brasileiro de 2018 indica fórmula extensamente hidrolisada como primeira opção na maioria dos casos. Fórmula de aminoácidos fica para formas graves, anafilaxia, enteropatia com desnutrição ou falha da extensamente hidrolisada. Soja não serve abaixo de 6 meses nem nas formas gastrointestinais não IgE, e fórmula sem lactose mantém a proteína do leite.",
+  "porAlt": [
+   "Fórmula de soja não é indicada abaixo de 6 meses nem nas formas gastrointestinais não mediadas por IgE.",
+   "Correta: na alergia ao leite de vaca sem aleitamento possível, a primeira opção é fórmula extensamente hidrolisada.",
+   "Fórmula de aminoácidos é reservada às formas graves, anafilaxia, desnutrição ou falha da extensamente hidrolisada.",
+   "Fórmula sem lactose mantém a proteína do leite de vaca, que é o alérgeno; o problema não é a lactose."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 108
+  }
+ },
+ {
+  "pid": "u110",
+  "q": "Adolescente, 14 anos de idade, diabética, procura atendimento médico na Unidade Básica de Saúde devido à alteração nas unhas dos hálux direito e esquerdo. Refere que, há 3 meses, ambas as unhas se tornaram espessadas, amareladas, com perda de brilho, conforme imagem apresentada a seguir: As alterações tiveram início pela porção distal da unha. Nega trauma local. Assinale a alternativa que apresenta a terapêutica mais adequada a ser instituída, considerando a principal hipótese diagnóstica.",
+  "alts": [
+   "Avulsão da unha.",
+   "Terbinafina via oral por 12 semanas.",
+   "Miconazol pomada por 6 semanas.",
+   "Mupirocina pomada 2 semanas"
+  ],
+  "gab": 1,
+  "tema": "derma",
+  "sub": "Onicomicose dos hálux",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "British Association of Dermatologists. Guidelines for the management of onychomycosis, 2014",
+  "coment": "Unhas espessadas, amareladas e opacas, com início pela borda distal nos dois hálux, sem trauma, em paciente diabética: é onicomicose subungueal distal e lateral, geralmente por dermatófito (Trichophyton rubrum). Com espessamento e mais de uma unha acometida, o tratamento tópico isolado cura pouco, e a escolha é terbinafina oral, a mais eficaz contra dermatófitos, por 12 semanas nas unhas dos pés (6 semanas nas das mãos), segundo a diretriz britânica de 2014. O ideal é confirmar com micológico direto e cultura antes de tratar. No diabético, tratar também reduz porta de entrada para infecção bacteriana no pé.",
+  "porAlt": [
+   "Avulsão da unha é medida adjuvante em casos selecionados e não substitui o antifúngico sistêmico.",
+   "Correta: onicomicose por dermatófito com espessamento em duas unhas pede terbinafina oral por 12 semanas nas unhas dos pés.",
+   "Miconazol em pomada não penetra a lâmina ungueal espessada e tem cura muito baixa na onicomicose.",
+   "Mupirocina é antibacteriano tópico, sem ação antifúngica."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 110
+  }
+ },
+ {
+  "pid": "u111",
+  "q": "Lactente previamente hígido comparece à primeira consulta médica aos 2 meses de idade. Ao exame clínico, nota-se que o testículo direito não é palpável no escroto nem no canal inguinal. O testículo esquerdo encontra-se tópico. Não há outras alterações no exame físico. Qual é a conduta mais adequada no momento desta consulta?",
+  "alts": [
+   "Indicar avaliação do cirurgião pediátrico.",
+   "Encaminhar ao endocrinologista pediátrico.",
+   "Observar e reavaliar na próxima consulta.",
+   "Solicitar ultrassonografia de bolsa escrotal e abdome."
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Criptorquidia unilateral no lactente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Urological Association. Evaluation and Treatment of Cryptorchidism, 2014",
+  "coment": "Parte dos testículos fora da bolsa ao nascer desce espontaneamente nos primeiros meses, sob o pico hormonal da minipuberdade, sobretudo até 6 meses de idade corrigida; depois disso a descida é improvável. Por isso, aos 2 meses e com o restante do exame normal, a conduta é observar e reexaminar. Se o testículo não estiver na bolsa aos 6 meses, encaminha-se ao cirurgião pediátrico, com orquidopexia idealmente até 18 meses (AUA 2014). Ultrassonografia não é recomendada antes do encaminhamento: não localiza bem o testículo não palpável e não muda a conduta.",
+  "porAlt": [
+   "Avaliação cirúrgica é indicada se o testículo não descer até 6 meses; aos 2 meses ainda pode descer espontaneamente.",
+   "Endocrinologista é acionado na criptorquidia bilateral não palpável ou com hipospádia, pela suspeita de distúrbio da diferenciação sexual.",
+   "Correta: aos 2 meses a descida espontânea ainda é possível, e a conduta é reavaliar, encaminhando se persistir aos 6 meses.",
+   "Ultrassonografia não é recomendada na criptorquidia: não localiza com segurança o testículo não palpável e não altera a conduta."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 111
+  }
+ },
+ {
+  "pid": "u113",
+  "q": "Paciente, 6 anos de idade, com antecedente de síndrome nefrótica corticodependente, iniciou quadro de urina espumosa, edema periorbital e escrotal, lipotimia e derrame pleural após episódio de resfriado comum. Foi indicada a internação para controle da descompensação e indicada infusão de albumina. • Exames laboratoriais: Hb: 13,7g/dL Ht: 45,2% Leucócitos: 3.400/mm³, sem desvio Plaquetas: 409 mil/mm³ Na+: 125 mEq/L K+: 4,5 mEq/L Creatinina: 1,7 mg/dL (anterior de 0,9 mg/dL) Ureia: 69 mg/dL Albumina: 1,5 g/dL Evoluiu após 48 horas de internação com queixa de dor abdominal intensa, pior à palpação, com descompressão brusca positiva. Qual processo fisiopatológico está relacionado à complicação apresentada pelo paciente?",
+  "alts": [
+   "Redução da opsonização por perda urinária de imunoglobulinas.",
+   "Aumento da pressão oncótica e da viscosidade sanguínea.",
+   "Infusão de coloide em paciente com redução da tonicidade plasmática.",
+   "Perda urinária de proteínas C e S e antitrombina III."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Peritonite na síndrome nefrótica",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "KDIGO. Clinical Practice Guideline for the Management of Glomerular Diseases, 2021",
+  "coment": "Dor abdominal intensa com descompressão brusca positiva em criança nefrótica descompensada, com edema e derrames, sugere peritonite bacteriana espontânea, complicação infecciosa clássica da síndrome nefrótica, com o pneumococo como principal agente. O mecanismo é a perda urinária de imunoglobulina G e de fatores do complemento (como o fator B), que reduz a opsonização de bactérias encapsuladas, somada ao edema e ao corticoide. Diante da suspeita: paracentese, culturas e antibiótico parenteral. A trombose, ligada à perda de antitrombina III e proteínas C e S, é outra complicação, mas costuma se apresentar com dor lombar, hematúria ou trombose venosa.",
+  "porAlt": [
+   "Correta: a perda urinária de imunoglobulinas e de fatores do complemento reduz a opsonização e predispõe à peritonite pneumocócica.",
+   "Na síndrome nefrótica a pressão oncótica cai pela hipoalbuminemia, e a hemoconcentração favorece trombose, não infecção peritoneal.",
+   "A infusão de albumina não causa dor abdominal com irritação peritoneal; seu risco é hipervolemia e edema pulmonar.",
+   "Perda de antitrombina III e proteínas C e S explica trombose, que costuma dar dor lombar, hematúria ou trombose venosa, e não peritonite."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 113
+  }
+ },
+ {
+  "pid": "u115",
+  "q": "Paciente de um ano de idade, com antecedente de malformação anorretal com correção parcial, intestino curto e ileostomia, iniciou quadro de dor e distensão abdominal, com vômitos biliares há 1 dia, sendo diagnosticado com abdome agudo obstrutivo. Optou-se por tratamento conservador, mantendo paciente em jejum e reavaliação pela manhã. Faz uso de bicarbonato de sódio 3 mEq/kg/dia, mas não está aceitando as medicações via oral. Realizados os exames complementares a seguir: pH: 7,33 HCO3-: 17 mEq/L Glicose: 96 mg/dL Sódio: 135 mEq/L Potássio: 3.8 mEq/L Cloro: 112 mEq/L Creatinina: 0,5 mg/dL Ureia: 47 mg/dL Peso 10 kg (Bicarbonato de Sódio 8,4% = 1mEq/mL; NaCl 20% = 3,4mEq/mL). Assinale a alternativa que apresenta a melhor prescrição de soro de manutenção isotônico para o paciente.",
+  "alts": [
+   "Soro glicosado 10% 800 mL; Bicarbonato de sódio 8,4% 200 mL EV correr em 24 horas; KCl 19.1% 10 mL",
+   "Soro glicosado 10% 800 mL; Soro fisiológico 200 mL; Bicarbonato de sódio 8,4% 106 mL EV correr em 24 horas; KCl 19.1% 10 mL",
+   "Soro glicosado 10% 1000 mL; NaCl 20% 40 mL; Bicarbonato de sódio 8,4% 30 mL EV correr em 24 horas; KCl 19.1% 10 mL",
+   "Soro glicosado 10% 1000 mL; NaCl 20% 31 mL; Bicarbonato de sódio 8,4% 30 mL EV correr em 24 horas; KCl 19.1% 10 mL"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Soro de manutenção com bicarbonato",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "American Academy of Pediatrics. Clinical Practice Guideline: Maintenance Intravenous Fluids in Children, 2018",
+  "coment": "Pelo método de Holliday-Segar, 10 kg recebem 1.000 mL em 24 horas, e a AAP (2018) recomenda soro isotônico, com sódio perto do plasmático. Como a criança usa bicarbonato de sódio 3 mEq/kg/dia, os 30 mEq (30 mL a 8,4%) entram no soro e o sódio deles é descontado do NaCl: dos cerca de 136 mEq habituais restam 106 mEq, ou 31 mL de NaCl 20% (31 x 3,4 = 105 mEq). O sódio total fica perto de 135 mEq, com menos cloro, adequado a quem já tem acidose hiperclorêmica (cloro 112, bicarbonato 17 mEq/L). O KCl 19,1% 10 mL (cerca de 2,5 mEq/kg/dia) é a manutenção de potássio.",
+  "porAlt": [
+   "200 mEq de bicarbonato equivalem a 20 mEq/kg/dia, muito acima da dose de 3 mEq/kg/dia, com risco de alcalose e sobrecarga de sódio.",
+   "106 mL de bicarbonato a 8,4% dão mais de 10 mEq/kg/dia, mais de três vezes a dose em uso.",
+   "NaCl 20% 40 mL mais o sódio do bicarbonato somam cerca de 166 mEq, acima do isotônico e com cloro excessivo para quem tem acidose hiperclorêmica.",
+   "Correta: 31 mL de NaCl 20% mais 30 mEq de bicarbonato mantêm o sódio isotônico, perto de 135 mEq, e oferecem a dose diária de bicarbonato."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 115
+  }
+ },
+ {
+  "pid": "u116",
+  "q": "Recém-nascido, 36 horas de vida no alojamento conjunto, apresenta perda ponderal de 4% desde o nascimento e icterícia neonatal zona II de Kramer ao exame físico. Recebe seio materno em livre demanda. Checadas tipagens sanguíneas: - Mãe: A, Rh negativo e Coombs indireto negativo; - RN: B, Rh positivo e Coombs direto negativo. Realizada coleta de bilirrubina total e frações com 37 horas de vida devido à icterícia neonatal: - Bilirrubina total: 7 mg/dL - Bilirrubina indireta: 6,8 mg/dL - Bilirrubina direta: 0,2 mg/dL Em relação aos resultados de exames e a provável etiologia, assinale a alternativa correta.",
+  "alts": [
+   "Icterícia neonatal fisiológica, por redução de glicuronil transferase.",
+   "Icterícia neonatal fisiológica, por redução da circulação entero-hepática.",
+   "Doença hemolítica neonatal devido incompatibilidade ABO.",
+   "Doença hemolítica neonatal devido incompatibilidade Rh."
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Icterícia fisiológica do RN",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Academy of Pediatrics. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation, 2022",
+  "coment": "Icterícia após 24 horas, com bilirrubina total de 7 mg/dL às 37 horas e predomínio indireto, em recém-nascido bem e com perda de peso de 4%, é compatível com icterícia fisiológica. Seus mecanismos são maior oferta de bilirrubina (massa eritrocitária maior e hemácias de vida mais curta), conjugação hepática imatura pela baixa atividade da glicuronil transferase (UGT1A1) e circulação êntero-hepática aumentada. Não há doença hemolítica: Coombs direto negativo; a incompatibilidade ABO relevante ocorre quase só com mãe O, cujos anticorpos são IgG; e a mãe Rh negativo tem Coombs indireto negativo, sem aloimunização.",
+  "porAlt": [
+   "Correta: icterícia após 24 horas, bilirrubina baixa e Coombs negativo indicam quadro fisiológico, e a baixa atividade da glicuronil transferase é um de seus mecanismos.",
+   "Na icterícia fisiológica a circulação êntero-hepática está aumentada, não reduzida, pela betaglicuronidase intestinal e pela pouca flora.",
+   "Doença hemolítica ABO ocorre quase sempre com mãe O, e aqui a mãe é A e o Coombs direto é negativo.",
+   "Mãe Rh negativo com Coombs indireto negativo não está sensibilizada, e o Coombs direto do RN é negativo."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 116
+  }
+ },
+ {
+  "pid": "u118",
+  "q": "Lactente, do sexo masculino, 1 mês de idade, nascido a termo, é trazido ao pronto-socorro pelos pais com história de vômitos biliosos em grande quantidade há 12 horas, associados à distensão abdominal e parada de eliminação de gases e fezes. Ao exame físico, encontra-se febril, apresentando grau moderado de irritabilidade e prostração, além de estar levemente desidratado. Apresenta também o abdome distendido. O exame físico da região inguinal que apresenta hiperemia local e dor à palpação está apresentado a seguir: IMAGEM REMOVIDA NOS TERMOS DO ESTATUTO DA CRIANÇA E DO ADOLESCENTE. Com base nas informações fornecidas, a principal hipótese diagnóstica e a conduta neste momento é:",
+  "alts": [
+   "Torção testicular. Redução manual.",
+   "Torção testicular Cirurgia de emergência.",
+   "Hernia inguinal. Redução manual.",
+   "Hérnia inguinal. Cirurgia de emergência."
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Hérnia inguinal encarcerada no lactente",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Holcomb and Ashcraft's Pediatric Surgery, 7ª ed., 2020",
+  "coment": "Lactente com vômitos biliosos, distensão e parada de eliminação de fezes e gases tem obstrução intestinal; com região inguinal dolorosa e hiperemiada, a causa é hérnia inguinal encarcerada, frequente no primeiro ano de vida. Febre, prostração, irritabilidade e hiperemia local sugerem sofrimento de alça (estrangulamento). A redução manual sob analgesia e sedação só é tentada na hérnia encarcerada sem sinais de isquemia; com sinais de estrangulamento ou obstrução estabelecida, a conduta é cirurgia de emergência, após hidratação venosa, sonda gástrica e antibiótico. Torção testicular causa dor e edema escrotal, mas não obstrução intestinal.",
+  "porAlt": [
+   "Torção testicular não causa obstrução intestinal, e sua conduta é cirúrgica, não redução manual.",
+   "Torção testicular não explica vômitos biliosos e parada de eliminação de gases; o quadro é de alça encarcerada na hérnia.",
+   "Redução manual é contraindicada quando há febre, hiperemia e obstrução, sinais de possível estrangulamento.",
+   "Correta: hérnia inguinal encarcerada com obstrução e sinais de sofrimento de alça exige cirurgia de emergência."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 118
+  }
+ }
+]

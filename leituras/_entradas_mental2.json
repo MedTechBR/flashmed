@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Saúde Mental",
+  "f": "suicidio-e-emergencias-psiquiatricas.html",
+  "tipo": "NICE 2022 · ABP 2019 · resumo de prova",
+  "area": "emergpsiq",
+  "min": 56,
+  "t": "Suicídio e emergências psiquiátricas",
+  "s": "Avaliação do risco de suicídio, plano de segurança, conduta e notificação após tentativa, agitação psicomotora com doses de tranquilização rápida, delirium e psicose, síndrome neuroléptica maligna, síndrome serotoninérgica, catatonia e intoxicações por lítio e tricíclicos, pela NICE NG225 (2022), pelas diretrizes da ABP (2019), pela Lei 13.819/2019 e pela lista nacional de notificação compulsória."
+ },
+ {
+  "grupo": "Saúde Mental",
+  "f": "raps-e-legislacao.html",
+  "tipo": "PRC 3/2017 · Portaria 757/2023 · resumo de prova",
+  "area": "raps",
+  "min": 54,
+  "t": "RAPS e legislação em saúde mental",
+  "s": "Rede de Atenção Psicossocial pelo Anexo V da Portaria de Consolidação 3/2017 com a revogação da Portaria 3.588/2017 em 2023 e os ajustes de 2024: componentes, CAPS e critérios populacionais, Unidade de Acolhimento, Residências Terapêuticas, De Volta para Casa, leitos em hospital geral, comunidades terapêuticas, Leis 10.216/2001 e 13.840/2019, matriciamento, eMulti e saúde mental na APS."
+ },
+ {
+  "grupo": "Saúde Mental",
+  "f": "tdah-tea-e-transtornos-alimentares.html",
+  "tipo": "DSM-5-TR · PCDT 2022 · resumo de prova",
+  "area": "psiqinf",
+  "min": 51,
+  "t": "TDAH, autismo, transtornos alimentares, personalidade e insônia",
+  "s": "TDAH com o PCDT de 2022 e o uso do metilfenidato, transtorno do espectro autista com sinais precoces, M-CHAT-R/F e a legislação, anorexia, bulimia e compulsão alimentar com critérios de internação e síndrome de realimentação, transtornos de personalidade borderline e antissocial, e insônia com TCC-I e desprescrição de benzodiazepínicos, pelo DSM-5-TR, MS, SBP, NICE e diretrizes do sono."
+ }
+]

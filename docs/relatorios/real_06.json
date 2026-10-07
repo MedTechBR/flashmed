@@ -1,0 +1,39 @@
+{
+ "incluidas": 43,
+ "descartadas": [
+  {
+   "pid": "p0114",
+   "motivo": "Depende do traçado do monitor cardíaco (não reproduzido); sem ele não se sabe qual é o ritmo (taquiarritmia, bradiarritmia ou outro) e a conduta não pode ser definida pelo texto."
+  },
+  {
+   "pid": "p0116",
+   "motivo": "Depende da Figura 1 (palpação obstétrica) para definir apresentação e lado do dorso; o texto não informa a estática fetal."
+  },
+  {
+   "pid": "p0122",
+   "motivo": "Mais de uma resposta defensável: \"lombalgia inespecífica; dispensar investigação com exames complementares\" também é correta para lombalgia aguda sem sinais de alerta, e lombalgia mecânico-postural é um tipo de lombalgia inespecífica."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0125",
+   "nota": "A confirmação do X frágil é por PCR e Southern blot do FMR1 (expansão CGG), não por sequenciamento convencional; mantida porque é a única opção de teste genético e as demais são claramente erradas. O comentário explica o método correto."
+  },
+  {
+   "pid": "p0422",
+   "nota": "A alternativa oficial fala em manter SatO2 igual ou acima de 95%; para pré-termo o alvo usual é 90 a 95%. Mantida porque a essência (CPAP com O2 titulado e radiografia) é a conduta correta e as outras opções estão erradas; o comentário cita o alvo de 90 a 95%."
+  },
+  {
+   "pid": "p0429",
+   "nota": "Pelo ATLS, no hemotórax maciço a drenagem torácica é feita de imediato e orienta a toracotomia (mais de 1.500 mL, débito alto ou instabilidade persistente). Mantida porque o choque é refratário à reposição e as alternativas restantes são erradas (drenar só após estabilizar, punção, radiografia)."
+  },
+  {
+   "pid": "p0444",
+   "nota": "Aos 7 meses a radiografia de bacia costuma ser preferida à ultrassonografia do quadril (núcleo de ossificação presente). Mantida porque a essência (imagem do quadril e ortopedista pediátrico) é a única correta entre as opções."
+  },
+  {
+   "pid": "p0113",
+   "nota": "Atribuições do ACS com alguma sobreposição entre opções (ex.: aferir peso pode ocorrer no acompanhamento do Bolsa Família); a oficial é a mais coerente com a PNAB 2017 e a falta de cicatriz da BCG não indica mais revacinação (MS 2019)."
+  }
+ ]
+}

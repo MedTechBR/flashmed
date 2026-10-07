@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "ginecologia",
+  "a": "O que significam as siglas PALM e COEIN na classificação do sangramento uterino anormal?",
+  "b": "PALM (causas estruturais): pólipo, adenomiose, leiomioma, malignidade e hiperplasia. COEIN (não estruturais): coagulopatia, ovulatória, endometrial, iatrogênica e não classificada. FIGO, 2018."
+ },
+ {
+  "tema": "ginecologia",
+  "a": "Quando biopsiar o endométrio na mulher com sangramento uterino anormal em idade reprodutiva?",
+  "b": "A partir dos 45 anos; antes disso, se houver exposição estrogênica sem oposição (obesidade, SOP, anovulação crônica), falha do tratamento clínico ou sangramento persistente. ACOG, 2012."
+ },
+ {
+  "tema": "ginecologia",
+  "a": "Amenorreia sem sangramento após estrogênio seguido de progestagênio aponta para qual compartimento?",
+  "b": "Compartimento I (útero ou trato de saída), como sinéquias uterinas (síndrome de Asherman) após curetagem. A confirmação é por histeroscopia. ASRM, 2008."
+ },
+ {
+  "tema": "ginecologia",
+  "a": "Amenorreia primária, mamas normais, útero ausente e pelos escassos: qual a hipótese e o exame?",
+  "b": "Insensibilidade completa aos androgênios, com cariótipo 46,XY. Na agenesia mülleriana (Rokitansky) o cariótipo é 46,XX e a pilificação é normal. ASRM, 2008."
+ },
+ {
+  "tema": "ginecologia",
+  "a": "Quais são os critérios de Rotterdam para SOP em adultas?",
+  "b": "Dois de três: disfunção ovulatória, hiperandrogenismo clínico ou laboratorial e morfologia policística (ou AMH elevado), após excluir tireoidopatia, hiperprolactinemia e hiperplasia adrenal. Diretriz internacional de SOP, 2023."
+ },
+ {
+  "tema": "ginecologia",
+  "a": "Qual a primeira linha farmacológica para induzir ovulação na SOP?",
+  "b": "Letrozol, com mais ovulação e nascidos vivos que o clomifeno. Metformina isolada é adjuvante; gonadotrofinas e drilling ovariano são segunda linha. Diretriz internacional de SOP, 2023."
+ },
+ {
+  "tema": "ginecologia",
+  "a": "É preciso laparoscopia para iniciar tratamento da endometriose?",
+  "b": "Não. Com suspeita clínica, inicia-se tratamento hormonal empírico (progestagênio, como dienogeste, ou combinado). Ultrassonografia normal não exclui a doença. ESHRE, 2022."
+ },
+ {
+  "tema": "ginecologia",
+  "a": "Quais as principais contraindicações à terapia hormonal da menopausa?",
+  "b": "Câncer de mama ou de endométrio, sangramento vaginal não esclarecido, doença hepática ativa, tromboembolismo venoso, doença coronariana ou AVC. Com útero, sempre associar progestagênio. NAMS, 2022."
+ },
+ {
+  "tema": "ginonco",
+  "a": "Qual o exame primário e o intervalo do rastreamento do colo do útero no SUS desde 2025?",
+  "b": "Teste de DNA-HPV oncogênico com genotipagem, a partir dos 25 anos, repetido a cada 5 anos se negativo. Encerra quando o último teste após os 60 anos é negativo. INCA, 2025 (Portaria Conjunta 13/2025)."
+ },
+ {
+  "tema": "ginonco",
+  "a": "DNA-HPV detectável para HPV 16 ou 18: qual a conduta?",
+  "b": "Colposcopia direta, sem citologia. Para outros tipos oncogênicos, faz-se citologia reflexa na mesma amostra. INCA, 2025."
+ },
+ {
+  "tema": "ginonco",
+  "a": "HPV de outros tipos com citologia reflexa: qual a conduta conforme o resultado?",
+  "b": "Citologia ASC-US ou pior, ou insatisfatória: colposcopia. Citologia negativa: novo DNA-HPV em 12 meses; positivo persistente em 24 meses leva à colposcopia. INCA, 2025."
+ },
+ {
+  "tema": "ginonco",
+  "a": "Como rastrear o colo do útero em mulheres vivendo com HIV pelas diretrizes de 2025?",
+  "b": "Iniciar após o início da atividade sexual, repetir a cada 3 anos se negativo, não encerrar por idade e encaminhar à colposcopia qualquer HPV oncogênico detectado. INCA, 2025."
+ },
+ {
+  "tema": "ginonco",
+  "a": "Na citologia (diretriz de 2016), qual a conduta para ASC-US e LSIL a partir dos 25 anos?",
+  "b": "ASC-US: repetir em 12 meses entre 25 e 29 anos e em 6 meses a partir dos 30. LSIL: repetir em 6 meses. Persistência leva à colposcopia. Vale onde o DNA-HPV não foi implantado. INCA, 2016."
+ },
+ {
+  "tema": "ginonco",
+  "a": "Como ficou o rastreamento mamográfico no SUS em 2025?",
+  "b": "Rastreamento organizado bienal de 50 a 74 anos. De 40 a 49 anos, mamografia sob demanda após decisão compartilhada. Lei 15.284/2025 garante o exame no SUS a partir dos 40 anos. MS, 2025."
+ },
+ {
+  "tema": "ginonco",
+  "a": "Qual a conduta para BI-RADS 3, 4 e 0?",
+  "b": "BI-RADS 3: controle em 6 meses (risco de malignidade até 2%). BI-RADS 4 e 5: biópsia percutânea. BI-RADS 0: exame incompleto, complementar com incidências ou ultrassonografia. ACR BI-RADS, 2013."
+ },
+ {
+  "tema": "ginonco",
+  "a": "Sangramento pós-menopausa: qual espessura endometrial indica biópsia?",
+  "b": "Endométrio acima de 4 mm à ultrassonografia transvaginal, ou sangramento persistente com qualquer espessura, exige amostragem histológica. ACOG, 2018."
+ },
+ {
+  "tema": "gininfec",
+  "a": "Quais são os critérios de Amsel para vaginose bacteriana?",
+  "b": "Três de quatro: corrimento homogêneo fino, pH vaginal acima de 4,5, teste das aminas positivo e células-alvo (clue cells). Tratamento: metronidazol 500 mg VO 12/12 h por 7 dias, sem tratar parceria. PCDT IST, 2022."
+ },
+ {
+  "tema": "gininfec",
+  "a": "Como tratar a candidíase vulvovaginal recorrente?",
+  "b": "Quatro ou mais episódios por ano: fluconazol 150 mg VO nos dias 1, 4 e 7, depois 150 mg semanal por 6 meses, e investigar fatores predisponentes. PCDT IST, 2022."
+ },
+ {
+  "tema": "gininfec",
+  "a": "Úlcera genital sem vesículas e sem diagnóstico etiológico: qual o tratamento sindrômico?",
+  "b": "Benzilpenicilina benzatina 2,4 milhões UI IM e azitromicina 1 g VO, em dose única (sífilis e cancroide). Úlcera com mais de 4 semanas: biópsia e cobertura para donovanose. PCDT IST, 2022."
+ },
+ {
+  "tema": "gininfec",
+  "a": "Qual o tratamento da sífilis latente tardia ou de duração ignorada?",
+  "b": "Benzilpenicilina benzatina 2,4 milhões UI IM semanal por 3 semanas (7,2 milhões UI). Sífilis recente: dose única de 2,4 milhões UI. PCDT IST, 2022."
+ },
+ {
+  "tema": "gininfec",
+  "a": "Qual o esquema ambulatorial da doença inflamatória pélvica?",
+  "b": "Ceftriaxona 500 mg IM dose única, doxiciclina 100 mg VO 12/12 h por 14 dias e metronidazol 500 mg VO 12/12 h por 14 dias. Reavaliar em 72 h; o DIU pode ser mantido. PCDT IST, 2022."
+ },
+ {
+  "tema": "gininfec",
+  "a": "Quais tratamentos de condiloma são contraindicados na gestação?",
+  "b": "Podofilina, podofilotoxina e imiquimode. Usar ácido tricloroacético 80 a 90%, crioterapia, eletrocauterização ou exérese. PCDT IST, 2022."
+ },
+ {
+  "tema": "reprodutiva",
+  "a": "Quais situações são categoria 4 da OMS para contraceptivos combinados?",
+  "b": "Enxaqueca com aura, 35 anos ou mais com 15 ou mais cigarros por dia, PA a partir de 160/100 mmHg, tromboembolismo, câncer de mama atual e lactação com menos de 6 semanas. OMS, 2015."
+ },
+ {
+  "tema": "reprodutiva",
+  "a": "Quais os critérios da laqueadura e da vasectomia pela Lei 14.443/2022?",
+  "b": "Maiores de 21 anos ou com pelo menos 2 filhos vivos, prazo mínimo de 60 dias entre a manifestação e a cirurgia, sem consentimento do cônjuge. No parto, só se cumprido o prazo de 60 dias."
+ },
+ {
+  "tema": "reprodutiva",
+  "a": "Quais as profilaxias após violência sexual com penetração?",
+  "b": "Até 72 h: PEP de HIV (tenofovir, lamivudina e dolutegravir por 28 dias), levonorgestrel 1,5 mg, profilaxia de IST e vacina ou imunoglobulina para hepatite B se suscetível. PCDT PEP, 2021."
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Saúde Coletiva e SUS",
+  "f": "vigilancia-em-saude.html",
+  "tipo": "PRC 4/2017 redação 2026 · resumo de prova",
+  "area": "vigilancia",
+  "min": 52,
+  "t": "Vigilância em saúde",
+  "s": "Componentes da vigilância, notificação compulsória pela lista nacional vigente (Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V, com as alterações de 2025 e 2026), sistemas de informação, investigação de surto, curva epidêmica, canal endêmico e o Programa Nacional de Imunizações como política."
+ },
+ {
+  "grupo": "Saúde Coletiva e SUS",
+  "f": "etica-medica-e-documentos.html",
+  "tipo": "CFM 2018 a 2024 e STF 2024 · resumo de prova",
+  "area": "etica",
+  "min": 56,
+  "t": "Ética médica e documentos médicos",
+  "s": "Código de Ética Médica (Resolução CFM 2.217/2018) e as resoluções que caem com ele: consentimento e recusa terapêutica (CFM 2.232/2019 e o STF em 2024), sigilo e suas exceções, prontuário, publicidade (CFM 2.336/2023), atestados (CFM 2.381/2024), declaração de óbito (CFM 1.779/2005), bioética e noções de medicina legal."
+ },
+ {
+  "grupo": "Saúde Coletiva e SUS",
+  "f": "saude-do-trabalhador.html",
+  "tipo": "MS 2023, Lei 8.213 e CFM 2022 · resumo de prova",
+  "area": "trabalho",
+  "min": 53,
+  "t": "Saúde do trabalhador",
+  "s": "Política Nacional de Saúde do Trabalhador e da Trabalhadora, nexo causal e classificação de Schilling, CAT e notificação, Lista de Doenças Relacionadas ao Trabalho (Portaria GM/MS 1.999/2023), LER/DORT, perda auditiva por ruído, pneumoconioses, chumbo, benzeno, agrotóxicos, dermatoses, acidente com material biológico e o papel do médico assistente no afastamento."
+ }
+]

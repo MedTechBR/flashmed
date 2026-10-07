@@ -1,0 +1,200 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Desenhos de estudo e bioestatística (GRADE, CONSORT)</title>
+<link rel="stylesheet" href="_leitura.css?v=3"><script src="_leitura.js?v=3"></script>
+<div class="wrap">
+<p class="kicker">Saúde Coletiva · 46 min · Epidemiologia clínica, GRADE Working Group e CONSORT 2010</p>
+<h1>Desenhos de estudo e bioestatística</h1>
+<p class="dek">Desenhos de estudo com suas medidas, risco relativo, razão de chances, risco atribuível, NNT e NNH, testes diagnósticos e efeito da prevalência, vieses e confusão, valor-p, intervalo de confiança, erros tipo I e II, intenção de tratar e GRADE, com tabelas 2×2 resolvidas.</p>
+
+<nav class="toc"><b>Sumário</b><ol>
+<li><a href="#desenhos">Desenhos de estudo</a></li>
+<li><a href="#associacao">Medidas de associação e de impacto</a></li>
+<li><a href="#diagnostico">Testes diagnósticos</a></li>
+<li><a href="#vieses">Vieses e confusão</a></li>
+<li><a href="#inferencia">Valor-p, intervalo de confiança e poder</a></li>
+<li><a href="#ensaio">Ensaio clínico e intenção de tratar</a></li>
+<li><a href="#evidencia">Níveis de evidência e GRADE</a></li>
+<li><a href="#armadilhas">Erros frequentes</a></li>
+<li><a href="#autoteste">Perguntas de revisão</a></li>
+</ol></nav>
+
+<h2 id="desenhos">Desenhos de estudo</h2>
+<p>Três perguntas classificam qualquer estudo. <b>O pesquisador decidiu quem recebe a exposição?</b> Se sim, é experimental (ensaio clínico); se não, observacional. <b>A unidade de análise é o indivíduo ou um grupo?</b> Grupo (município, país) é estudo ecológico. <b>Em que ordem se olham exposição e desfecho?</b> Ao mesmo tempo é transversal; partindo da exposição e seguindo até o desfecho é coorte; partindo do desfecho e olhando para trás à procura da exposição é caso-controle.</p>
+<div class="rolagem"><table>
+<tr><th>Desenho</th><th>Como funciona</th><th>Medida típica</th><th>Vantagens</th><th>Limitações</th></tr>
+<tr><td><b>Ecológico</b></td><td>Compara agregados populacionais (taxa de consumo de sal e mortalidade por AVC entre países)</td><td>Correlação entre taxas</td><td>Barato, rápido, usa dados secundários; gera hipóteses; avalia efeito de políticas</td><td><b>Falácia ecológica</b>: associação entre grupos não garante associação no indivíduo; confusão difícil de controlar</td></tr>
+<tr><td><b>Transversal</b></td><td>Exposição e desfecho medidos no mesmo momento, numa amostra da população</td><td><b>Prevalência</b>; razão de prevalências</td><td>Rápido, barato, retrata a carga de doença; base dos inquéritos (PNS, VIGITEL)</td><td>Não estabelece temporalidade (causalidade reversa); favorece doenças longas (viés de prevalência)</td></tr>
+<tr><td><b>Caso-controle</b></td><td>Parte de doentes (casos) e não doentes (controles) e compara a exposição passada</td><td><b>Razão de chances (OR)</b></td><td>Ideal para <b>doença rara</b> e de latência longa; estuda várias exposições; rápido e barato</td><td>Viés de memória e de seleção de controles; não calcula incidência nem risco relativo diretamente</td></tr>
+<tr><td><b>Coorte</b></td><td>Parte de expostos e não expostos sem a doença e acompanha o surgimento de casos. Prospectiva (segue para o futuro) ou histórica (reconstrói a coorte com registros do passado)</td><td><b>Incidência</b>; <b>risco relativo</b>; risco atribuível</td><td>Temporalidade clara; ideal para <b>exposição rara</b>; estuda vários desfechos de uma exposição</td><td>Caro e longo; perdas de seguimento; ineficiente para doença rara</td></tr>
+<tr><td><b>Ensaio clínico randomizado</b></td><td>O pesquisador aloca aleatoriamente a intervenção</td><td>Risco relativo, redução de risco, NNT</td><td>Randomização distribui por igual os confundidores conhecidos e desconhecidos; melhor desenho para eficácia</td><td>Caro; população selecionada (validade externa limitada); antiético para exposições nocivas</td></tr>
+<tr><td><b>Revisão sistemática e metanálise</b></td><td>Busca sistemática e reprodutível de todos os estudos sobre uma pergunta; a metanálise combina estatisticamente os resultados</td><td>Medida combinada (gráfico de floresta)</td><td>Aumenta precisão; explora consistência</td><td>Qualidade limitada pela dos estudos incluídos; heterogeneidade; viés de publicação (gráfico de funil)</td></tr>
+</table></div>
+<div class="cx chave"><b>Regra de bolso da banca</b>Doença rara: caso-controle. Exposição rara: coorte. Prevalência ou inquérito: transversal. Dados agregados por município ou país: ecológico. Eficácia de intervenção: ensaio clínico randomizado.</div>
+
+<div class="fluxo"><div class="leg"><b>Fluxograma 1</b>Identificar o desenho do estudo</div>
+<pre class="mermaid">
+flowchart TD
+  A["Estudo"] --> B{"Pesquisador alocou<br/>a exposição?"}
+  B -->|"sim"| C{"Alocação aleatória?"}
+  C -->|"sim"| D["Ensaio clínico<br/>randomizado"]
+  C -->|"não"| E["Ensaio não<br/>randomizado"]
+  B -->|"não"| F{"Unidade é<br/>grupo populacional?"}
+  F -->|"sim"| G["Ecológico"]
+  F -->|"não"| H{"Ponto de partida"}
+  H -->|"exposição"| I["Coorte"]
+  H -->|"desfecho"| J["Caso-controle"]
+  H -->|"mesmo momento"| K["Transversal"]
+</pre></div>
+
+<h2 id="associacao">Medidas de associação e de impacto</h2>
+<p>Toda a matemática parte da tabela 2×2 com a exposição nas linhas e o desfecho nas colunas: <b>a</b> = expostos doentes, <b>b</b> = expostos sem doença, <b>c</b> = não expostos doentes, <b>d</b> = não expostos sem doença. Montar a tabela sempre nessa orientação evita a maioria dos erros de conta.</p>
+<p><b>Exemplo 1, coorte.</b> 1.000 fumantes e 2.000 não fumantes, sem doença no início, seguidos por 10 anos; 30 fumantes e 10 não fumantes desenvolvem a doença.</p>
+<table class="criterio">
+<tr><th></th><th>Doença</th><th>Sem doença</th><th>Total</th></tr>
+<tr><td><b>Fumantes</b></td><td>a = 30</td><td>b = 970</td><td>1.000</td></tr>
+<tr><td><b>Não fumantes</b></td><td>c = 10</td><td>d = 1.990</td><td>2.000</td></tr>
+</table>
+<ol class="passos">
+<li><b>Incidência nos expostos</b> = a ÷ (a + b) = 30 ÷ 1.000 = 3%. <b>Nos não expostos</b> = c ÷ (c + d) = 10 ÷ 2.000 = 0,5%.</li>
+<li><b>Risco relativo</b> = 3% ÷ 0,5% = <b>6</b>. Fumantes têm seis vezes o risco dos não fumantes. RR igual a 1 é ausência de associação; abaixo de 1, proteção.</li>
+<li><b>Risco atribuível</b> (diferença de riscos) = 3% − 0,5% = <b>2,5%</b>, ou 25 casos por 1.000 fumantes em 10 anos, que seriam evitados se não fumassem.</li>
+<li><b>Fração atribuível nos expostos</b> = (RR − 1) ÷ RR = 5 ÷ 6 ≈ <b>83%</b> dos casos entre fumantes se devem ao fumo.</li>
+</ol>
+<p>O risco relativo mede a <b>força</b> da associação e interessa à etiologia; o risco atribuível mede o <b>impacto</b> e interessa à saúde pública, porque diz quantos casos uma intervenção evitaria. Uma exposição com RR alto mas rara pode ter pouco impacto populacional; uma com RR modesto mas muito frequente pode ter impacto enorme. O <b>risco atribuível populacional</b> leva em conta a prevalência da exposição na população inteira.</p>
+<p><b>Exemplo 2, caso-controle.</b> 200 pacientes com a doença e 400 controles; 120 casos e 100 controles relatam a exposição.</p>
+<table class="criterio">
+<tr><th></th><th>Casos</th><th>Controles</th></tr>
+<tr><td><b>Expostos</b></td><td>a = 120</td><td>b = 100</td></tr>
+<tr><td><b>Não expostos</b></td><td>c = 80</td><td>d = 300</td></tr>
+</table>
+<p><b>Razão de chances</b> = (a × d) ÷ (b × c) = (120 × 300) ÷ (100 × 80) = 36.000 ÷ 8.000 = <b>4,5</b>. A chance de exposição entre os casos é 4,5 vezes a dos controles. Não se calcula risco relativo aqui, porque quem fixou quantos doentes e não doentes entram no estudo foi o pesquisador, e a incidência fica artificial. Quando a doença é <b>rara</b> (abaixo de cerca de 10% na população), a razão de chances se aproxima do risco relativo.</p>
+<p><b>Exemplo 3, ensaio clínico.</b> Mortalidade em 1 ano de 10% no grupo controle e de 7,5% no grupo tratado; sangramento maior de 2% no controle e de 4% no tratado.</p>
+<div class="dose"><b>Medidas de efeito do tratamento</b><ul>
+<li><b>Risco relativo</b> = 7,5 ÷ 10 = 0,75</li>
+<li><b>Redução relativa do risco</b> = 1 − 0,75 = <b>25%</b></li>
+<li><b>Redução absoluta do risco</b> = 10% − 7,5% = <b>2,5 pontos percentuais</b></li>
+<li><b>NNT</b> = 1 ÷ 0,025 = <b>40</b>: tratar 40 pacientes por 1 ano evita um óbito</li>
+<li><b>Aumento absoluto do risco</b> de sangramento = 4% − 2% = 2 pontos; <b>NNH</b> = 1 ÷ 0,02 = <b>50</b>: a cada 50 tratados, um sangramento maior a mais</li>
+</ul></div>
+<p>A redução relativa impressiona e é a que aparece na propaganda; a absoluta e o NNT dizem o que acontece com o paciente. A mesma redução relativa de 25% dá NNT de 40 num grupo com risco basal de 10%, mas de 400 num grupo com risco basal de 1%. Por isso o benefício absoluto de um tratamento depende do risco de quem o recebe. NNT e NNH sempre se arredondam para cima e sempre vêm com o tempo de seguimento.</p>
+<div class="ancora"><b>Questão-âncora</b>Um ensaio mostra que um fármaco reduz o infarto de 4% para 3% em 5 anos. O representante diz que ele "reduz o infarto em 25%". Qual o NNT? <details><summary>Resposta</summary>Redução absoluta de 1 ponto percentual: NNT = 1 ÷ 0,01 = <b>100</b> pacientes tratados por 5 anos para evitar um infarto. Os 25% são a redução relativa (1 − 3/4), verdadeira mas pouco informativa sem o risco basal.</details></div>
+
+<h2 id="diagnostico">Testes diagnósticos</h2>
+<p>A tabela 2×2 do teste diagnóstico tem o <b>resultado do teste nas linhas</b> e a <b>doença pelo padrão-ouro nas colunas</b>. <b>Sensibilidade</b> e <b>especificidade</b> leem-se nas colunas e são propriedades do teste; <b>valores preditivos</b> leem-se nas linhas e dependem da prevalência.</p>
+<p><b>Exemplo 4.</b> Teste com sensibilidade de 90% e especificidade de 80%, aplicado a 1.000 pessoas com prevalência de 10% (100 doentes).</p>
+<table class="criterio">
+<tr><th></th><th>Doentes</th><th>Não doentes</th><th>Total</th></tr>
+<tr><td><b>Teste positivo</b></td><td>VP = 90</td><td>FP = 180</td><td>270</td></tr>
+<tr><td><b>Teste negativo</b></td><td>FN = 10</td><td>VN = 720</td><td>730</td></tr>
+<tr><td><b>Total</b></td><td>100</td><td>900</td><td>1.000</td></tr>
+</table>
+<div class="rolagem"><table>
+<tr><th>Medida</th><th>Fórmula</th><th>No exemplo</th><th>Pergunta que responde</th></tr>
+<tr><td><b>Sensibilidade</b></td><td>VP ÷ (VP + FN)</td><td>90 ÷ 100 = 90%</td><td>Entre os doentes, quantos o teste detecta?</td></tr>
+<tr><td><b>Especificidade</b></td><td>VN ÷ (VN + FP)</td><td>720 ÷ 900 = 80%</td><td>Entre os sadios, quantos o teste reconhece como negativos?</td></tr>
+<tr><td><b>Valor preditivo positivo</b></td><td>VP ÷ (VP + FP)</td><td>90 ÷ 270 = 33%</td><td>Com teste positivo, qual a chance de ter a doença?</td></tr>
+<tr><td><b>Valor preditivo negativo</b></td><td>VN ÷ (VN + FN)</td><td>720 ÷ 730 = 98,6%</td><td>Com teste negativo, qual a chance de não ter?</td></tr>
+<tr><td><b>Acurácia</b></td><td>(VP + VN) ÷ total</td><td>810 ÷ 1.000 = 81%</td><td>Proporção de acertos</td></tr>
+<tr><td><b>Razão de verossimilhança positiva</b></td><td>sensibilidade ÷ (1 − especificidade)</td><td>0,9 ÷ 0,2 = 4,5</td><td>Quanto um positivo multiplica a chance pré-teste</td></tr>
+<tr><td><b>Razão de verossimilhança negativa</b></td><td>(1 − sensibilidade) ÷ especificidade</td><td>0,1 ÷ 0,8 = 0,125</td><td>Quanto um negativo reduz a chance pré-teste</td></tr>
+</table></div>
+<p><b>Efeito da prevalência.</b> O mesmo teste num ambulatório de referência onde metade dos pacientes tem a doença (500 de 1.000): VP 450, FN 50, VN 400, FP 100. O VPP sobe para 450 ÷ 550 = <b>82%</b> e o VPN cai para 400 ÷ 450 = <b>89%</b>. Sensibilidade e especificidade não mudaram. Conclusão que a banca cobra: <b>prevalência maior aumenta o VPP e reduz o VPN</b>; prevalência menor faz o contrário. É por isso que rastrear doença rara na população geral gera muitos falsos positivos, mesmo com teste bom.</p>
+<p><b>Razão de verossimilhança</b> não depende da prevalência e permite ir da probabilidade pré-teste à pós-teste: converte-se a probabilidade em chance (p ÷ (1 − p)), multiplica-se pela RV e reconverte-se (chance ÷ (1 + chance)). No exemplo 4: chance pré-teste 0,1 ÷ 0,9 = 0,111; × 4,5 = 0,5; probabilidade pós-teste 0,5 ÷ 1,5 = 33%, o mesmo VPP. RV positiva acima de 10 ou negativa abaixo de 0,1 mudam muito a probabilidade; perto de 1, quase nada.</p>
+<div class="compara">
+<div><b>Alta sensibilidade</b>Poucos falsos negativos. Um resultado <b>negativo</b> afasta a doença. Serve para <b>rastreamento</b> e para excluir doença grave que não se pode perder. Mnemônico: <b>SnNout</b>.</div>
+<div><b>Alta especificidade</b>Poucos falsos positivos. Um resultado <b>positivo</b> confirma a doença. Serve para <b>confirmação</b>, sobretudo quando o falso positivo leva a tratamento agressivo ou estigma. Mnemônico: <b>SpPin</b>.</div>
+</div>
+<p><b>Curva ROC.</b> Para testes com resultado contínuo (troponina, glicemia, PSA), cada ponto de corte gera um par de sensibilidade e especificidade. A curva ROC plota sensibilidade no eixo vertical contra 1 − especificidade no horizontal. Baixar o corte aumenta a sensibilidade e reduz a especificidade; subir faz o inverso. O ponto mais próximo do canto superior esquerdo equilibra os dois, e a <b>área sob a curva</b> resume o desempenho global: 0,5 é o acaso (a diagonal), 1,0 é o teste perfeito. Comparando dois testes, o de maior área discrimina melhor.</p>
+<p><b>Testes combinados.</b> Em <b>paralelo</b> (positivo se qualquer um for positivo) aumentam a sensibilidade e reduzem a especificidade, útil na urgência. Em <b>série</b> (positivo só se todos forem positivos, o segundo feito apenas nos positivos do primeiro) aumentam a especificidade e reduzem a sensibilidade, como na triagem sorológica seguida de teste confirmatório.</p>
+
+<div class="fluxo"><div class="leg"><b>Fluxograma 2</b>Escolher o teste pelo objetivo</div>
+<pre class="mermaid">
+flowchart TD
+  A["Objetivo do teste"] --> B{"Afastar ou<br/>confirmar?"}
+  B -->|"afastar ou rastrear"| C["Alta sensibilidade<br/>negativo exclui"]
+  B -->|"confirmar"| D["Alta especificidade<br/>positivo confirma"]
+  C --> E{"Dois testes?"}
+  D --> E
+  E -->|"em paralelo"| F["Ganha sensibilidade"]
+  E -->|"em série"| G["Ganha especificidade"]
+</pre></div>
+
+<h2 id="vieses">Vieses e confusão</h2>
+<p>Viés é erro <b>sistemático</b>, que desloca o resultado numa direção e não diminui com o aumento da amostra. Erro aleatório é o acaso, que diminui com amostras maiores e se mede pelo intervalo de confiança. A banca separa os vieses em três famílias.</p>
+<div class="sind">
+<div><b>Seleção</b><ul><li><b>Berkson</b>: casos e controles hospitalares, com probabilidades diferentes de internação conforme a exposição</li><li><b>Voluntário</b> ou autosseleção: quem aceita participar difere de quem recusa</li><li><b>Perdas de seguimento</b> diferentes entre os grupos da coorte ou do ensaio</li><li><b>Sobrevivência</b> (Neyman): estudar casos prevalentes deixa de fora quem morreu cedo</li><li><b>Trabalhador sadio</b>: trabalhadores são mais saudáveis que a população geral</li></ul></div>
+<div><b>Informação</b><ul><li><b>Memória</b> (recordatório): casos lembram mais de exposições que controles; típico do caso-controle</li><li><b>Entrevistador</b>: quem pergunta conhece o grupo e investiga de forma diferente</li><li><b>Classificação incorreta não diferencial</b>: erro igual nos grupos, tende a aproximar a medida de 1</li><li><b>Diferencial</b>: erro diferente entre os grupos, pode afastar para qualquer lado</li></ul></div>
+<div><b>Rastreamento</b><ul><li><b>Tempo de antecipação</b> (lead time): o diagnóstico precoce parece aumentar a sobrevida só porque o relógio começou antes</li><li><b>Duração</b> (length): o rastreamento acha mais os tumores lentos, de melhor prognóstico</li><li><b>Sobrediagnóstico</b>: doença que nunca daria sintomas</li><li>Por isso o desfecho válido para avaliar rastreamento é <b>mortalidade</b>, não sobrevida</li></ul></div>
+</div>
+<p><b>Confusão</b> é a distorção da associação por uma terceira variável que está associada à exposição, é fator de risco para o desfecho independentemente da exposição e <b>não</b> é um passo intermediário entre as duas. O clássico: café associado a câncer de pulmão porque quem bebe café fuma mais. Se a variável está no caminho causal (obesidade entre sedentarismo e diabetes), ajustar para ela esconde o efeito real.</p>
+<p>Controla-se a confusão no <b>desenho</b>, por randomização (a única que distribui também os confundidores desconhecidos), restrição e pareamento, ou na <b>análise</b>, por estratificação e regressão multivariada. <b>Modificação de efeito</b> é outra coisa: a força da associação muda de verdade entre estratos (a vacina protege menos idosos), e deve ser relatada separadamente, não ajustada.</p>
+<div class="ancora"><b>Questão-âncora</b>Estudo caso-controle sobre malformação congênita: mães de crianças malformadas relatam uso de medicamentos na gestação com mais frequência que mães de crianças saudáveis, sem registro em prontuário. Qual viés e como reduzi-lo? <details><summary>Resposta</summary><b>Viés de memória</b> (recordatório): mães de casos buscam lembranças com mais empenho. Reduz-se com fonte de exposição registrada antes do desfecho (prontuário de pré-natal, receitas, dispensação), ou com controles também de crianças com outro problema de saúde, que têm motivação semelhante para lembrar.</details></div>
+
+<h2 id="inferencia">Valor-p, intervalo de confiança e poder</h2>
+<p>O teste de hipótese parte da <b>hipótese nula</b> (H0: não há diferença). O <b>valor-p</b> é a probabilidade de observar um resultado tão extremo quanto o obtido, ou mais, <b>se H0 fosse verdadeira</b>. Não é a probabilidade de H0 ser verdadeira, nem a de o resultado ser fruto do acaso, nem mede o tamanho do efeito. Com o nível de significância (α) convencional de 0,05, p menor que 0,05 leva a rejeitar H0.</p>
+<table class="criterio">
+<tr><th></th><th>H0 é verdadeira (não há efeito)</th><th>H0 é falsa (há efeito)</th></tr>
+<tr><td><b>Rejeita H0</b></td><td><b>Erro tipo I</b> (α): falso positivo, achar diferença que não existe</td><td>Acerto: <b>poder</b> = 1 − β</td></tr>
+<tr><td><b>Não rejeita H0</b></td><td>Acerto</td><td><b>Erro tipo II</b> (β): falso negativo, não achar diferença que existe</td></tr>
+</table>
+<p><b>Poder</b> é a probabilidade de detectar um efeito que existe; o convencional é 80% ou 90% (β de 20% ou 10%). O poder aumenta com amostra maior, efeito maior, variabilidade menor e α maior. Estudo pequeno e "negativo" muitas vezes é só estudo sem poder: ausência de evidência não é evidência de ausência. O <b>cálculo do tamanho da amostra</b> é feito antes do estudo justamente com α, poder, tamanho do efeito clinicamente relevante e variabilidade esperada.</p>
+<p>O <b>intervalo de confiança de 95%</b> dá a faixa de valores compatíveis com os dados e informa ao mesmo tempo significância e precisão. Para <b>razões</b> (RR, OR, razão de riscos), o valor nulo é <b>1</b>; para <b>diferenças</b> (redução absoluta, diferença de médias), é <b>0</b>. Se o intervalo contém o valor nulo, o resultado não é estatisticamente significativo ao nível de 5%. Intervalo estreito indica precisão (amostra grande); largo, imprecisão.</p>
+<div class="cx armadilha"><b>Significância não é relevância</b>Um RR de 0,98 com intervalo de 0,97 a 0,99 num ensaio de 100 mil pacientes é estatisticamente significativo e clinicamente irrelevante. Um RR de 0,60 com intervalo de 0,30 a 1,20 não é significativo, mas não exclui benefício importante: falta poder. Comparações múltiplas e análises de subgrupo aumentam a chance de erro tipo I e devem ser lidas como geradoras de hipótese.</div>
+
+<h2 id="ensaio">Ensaio clínico e intenção de tratar</h2>
+<p>A validade de um ensaio depende de quatro cuidados. <b>Randomização</b>: alocação por sorteio, que torna os grupos comparáveis. <b>Ocultação da alocação</b>: quem inclui o paciente não sabe para qual grupo ele irá, o que protege a randomização (é diferente de cegamento). <b>Cegamento</b>: paciente, equipe e avaliador do desfecho não sabem o grupo, o que protege contra viés de desempenho e de aferição; é mais importante quanto mais subjetivo o desfecho. <b>Seguimento completo</b> com análise adequada.</p>
+<p>Na <b>análise por intenção de tratar</b>, cada paciente é analisado no grupo para o qual foi <b>randomizado</b>, tenha ou não recebido ou completado a intervenção. Ela preserva a comparabilidade criada pela randomização e estima a efetividade da estratégia no mundo real; tende a ser conservadora, aproximando os grupos. Na <b>análise por protocolo</b>, entram só os que seguiram o tratamento como planejado; estima a eficácia biológica, mas quebra a randomização, porque quem abandona difere de quem adere. Em ensaio de <b>superioridade</b>, a intenção de tratar é a análise principal. Em ensaio de <b>não inferioridade</b>, como a intenção de tratar favorece a conclusão de equivalência, apresentam-se as duas, e a conclusão é mais robusta quando concordam; a margem de não inferioridade precisa ser definida antes.</p>
+<table class="criterio">
+<tr><th>Fase</th><th>Objetivo</th></tr>
+<tr><td><b>I</b></td><td>Segurança, farmacocinética e dose em poucos voluntários, em geral sadios</td></tr>
+<tr><td><b>II</b></td><td>Eficácia preliminar e dose em pacientes com a doença</td></tr>
+<tr><td><b>III</b></td><td>Eficácia e segurança comparativas em larga escala; base do registro</td></tr>
+<tr><td><b>IV</b></td><td>Farmacovigilância pós-comercialização; eventos raros e uso no mundo real</td></tr>
+</table>
+
+<h2 id="evidencia">Níveis de evidência e GRADE</h2>
+<p>A hierarquia clássica para perguntas de tratamento põe, de cima para baixo: revisão sistemática de ensaios randomizados, ensaio randomizado, coorte, caso-controle, série de casos e opinião de especialista. Ela é útil para memorizar, mas é rígida: um ensaio mal conduzido pode valer menos que uma coorte grande e bem feita, e a pergunta muda a hierarquia (prognóstico se responde com coorte; diagnóstico, com estudo transversal de acurácia).</p>
+<p>O <b>GRADE</b> corrige isso. A certeza da evidência é avaliada <b>por desfecho</b>, não por estudo, em quatro níveis: <b>alta, moderada, baixa e muito baixa</b>. Ensaios randomizados começam como alta; estudos observacionais começam como baixa. Depois se rebaixa ou se eleva.</p>
+<div class="compara">
+<div><b>Rebaixam a certeza (cinco)</b><ul><li>Risco de viés</li><li>Inconsistência entre estudos</li><li>Evidência indireta (população, intervenção ou desfecho diferentes da pergunta)</li><li>Imprecisão (intervalos largos, poucos eventos)</li><li>Viés de publicação</li></ul></div>
+<div><b>Elevam a certeza do observacional (três)</b><ul><li>Efeito de grande magnitude</li><li>Gradiente dose-resposta</li><li>Confusão residual plausível que reduziria o efeito observado</li></ul></div>
+</div>
+<p>A <b>força da recomendação</b> é separada da certeza: <b>forte</b> ou <b>condicional</b> (fraca), a favor ou contra. Ela pesa o balanço entre benefícios e danos, a certeza da evidência, os valores e preferências dos pacientes e o uso de recursos. Por isso pode haver recomendação forte com evidência de baixa certeza (quando o dano potencial de não agir é grande) e recomendação condicional com evidência alta (quando o benefício é pequeno e os pacientes divergem). O Ministério da Saúde adota o GRADE nas diretrizes metodológicas que orientam os PCDT e as avaliações da CONITEC.</p>
+<div class="ancora"><b>Questão-âncora</b>Uma metanálise de coortes mostra que fumar aumenta o risco de câncer de pulmão com RR de 15 e clara relação dose-resposta. Qual a certeza GRADE? <details><summary>Resposta</summary>Começa <b>baixa</b> por ser observacional, mas sobe por efeito de grande magnitude e por gradiente dose-resposta; sem motivos para rebaixar, chega a <b>moderada ou alta</b>. É o caso clássico em que o observacional basta, porque randomizar a exposição seria antiético.</details></div>
+
+<h2 id="armadilhas">Erros frequentes</h2>
+<ul>
+<li><b>Calcular risco relativo em caso-controle.</b> Usa-se razão de chances; ela aproxima o RR só quando a doença é rara.</li>
+<li><b>Transversal para causalidade.</b> Ele mede prevalência e não estabelece temporalidade.</li>
+<li><b>Valor preditivo como propriedade do teste.</b> Depende da prevalência; sensibilidade e especificidade não.</li>
+<li><b>Teste sensível para confirmar.</b> Sensível exclui (negativo); específico confirma (positivo).</li>
+<li><b>Valor-p como probabilidade de H0 ser verdadeira.</b> É a probabilidade dos dados, ou de dados mais extremos, supondo H0 verdadeira.</li>
+<li><b>Intervalo de RR contendo 0.</b> Para razões o nulo é 1; para diferenças, 0.</li>
+<li><b>Redução relativa como benefício para o paciente.</b> Use a absoluta e o NNT, com o tempo de seguimento.</li>
+<li><b>Ocultação da alocação igual a cegamento.</b> Ocultação protege a randomização; cegamento protege a aferição.</li>
+<li><b>Análise por protocolo como principal em superioridade.</b> A principal é a intenção de tratar.</li>
+<li><b>Ajustar para variável do caminho causal.</b> Isso não é controlar confusão, é apagar parte do efeito.</li>
+</ul>
+
+<h2 id="autoteste">Perguntas de revisão</h2>
+<details><summary>1. Qual o desenho mais indicado para doença rara e para exposição rara?</summary>Doença rara: caso-controle. Exposição rara: coorte.</details>
+<details><summary>2. Numa coorte, incidência de 20% nos expostos e 5% nos não expostos. RR, risco atribuível e fração atribuível nos expostos?</summary>RR = 4; risco atribuível = 15 pontos percentuais; fração atribuível nos expostos = (4 − 1) ÷ 4 = 75%.</details>
+<details><summary>3. Um tratamento reduz a mortalidade de 20% para 15%. RRR, RAR e NNT?</summary>RR 0,75; RRR 25%; RAR 5 pontos percentuais; NNT 20.</details>
+<details><summary>4. O que acontece com VPP e VPN quando o mesmo teste é aplicado numa população de prevalência maior?</summary>VPP aumenta e VPN diminui; sensibilidade e especificidade não mudam.</details>
+<details><summary>5. Sensibilidade 80% e especificidade 90%: quais as razões de verossimilhança?</summary>RV positiva = 0,8 ÷ 0,1 = 8; RV negativa = 0,2 ÷ 0,9 ≈ 0,22.</details>
+<details><summary>6. O que é erro tipo II e como reduzi-lo?</summary>Não rejeitar H0 quando ela é falsa (falso negativo). Reduz-se aumentando o poder: amostra maior, efeito maior ou menor variabilidade.</details>
+<details><summary>7. Por que a análise por intenção de tratar é a principal em ensaios de superioridade?</summary>Porque mantém os pacientes nos grupos sorteados, preservando a comparabilidade da randomização, e estima a efetividade real da estratégia.</details>
+<details><summary>8. Quais fatores rebaixam a certeza da evidência no GRADE?</summary>Risco de viés, inconsistência, evidência indireta, imprecisão e viés de publicação.</details>
+
+<a class="vaiQuestoes" href="../index.html?area=bioestat#questoes">Treinar questões de bioestatística</a>
+
+<footer><b>Fontes primárias</b><ol>
+<li>Guyatt GH, Oxman AD, Vist GE, et al. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ. 2008;336:924-6.</li>
+<li>Balshem H, Helfand M, Schünemann HJ, et al. GRADE guidelines: 3. Rating the quality of evidence. J Clin Epidemiol. 2011;64:401-6.</li>
+<li>Ministério da Saúde. Diretrizes metodológicas: Sistema GRADE, manual de graduação da qualidade da evidência e força de recomendação para tomada de decisão em saúde. Brasília; 2014.</li>
+<li>Schulz KF, Altman DG, Moher D; CONSORT Group. CONSORT 2010 Statement: updated guidelines for reporting parallel group randomised trials. BMJ. 2010;340:c332.</li>
+<li>Hill AB. The environment and disease: association or causation? Proc R Soc Med. 1965;58:295-300.</li>
+<li>Fletcher GS. Epidemiologia clínica: elementos essenciais. 6ª ed. Porto Alegre: Artmed; 2021.</li>
+<li>Gordis L, Celentano DD, Szklo M. Gordis Epidemiology. 6ª ed. Philadelphia: Elsevier; 2019.</li>
+</ol></footer>
+</div>

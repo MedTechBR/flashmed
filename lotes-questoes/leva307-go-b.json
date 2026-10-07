@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Adolescente de 14 anos, menarca há 1 ano, procura a UBS com a mãe por menstruações de 9 dias, com troca de absorvente noturno a cada 2 horas, desde o primeiro ciclo. Relata epistaxes frequentes na infância e sangramento prolongado após extração dentária. Hemoglobina de 9,2 g/dL, plaquetas de 260.000/mm³, beta-hCG negativo e ultrassonografia pélvica normal. Pela classificação PALM-COEIN, qual a hipótese principal e o próximo passo?",
+  "alts": [
+   "Disfunção ovulatória da imaturidade; apenas observar",
+   "Coagulopatia; investigar doença de von Willebrand",
+   "Causa endometrial primária; realizar biópsia endometrial",
+   "Pólipo endometrial; indicar histeroscopia diagnóstica",
+   "Adenomiose precoce; solicitar ressonância da pelve"
+  ],
+  "gab": 1,
+  "tema": "ginecologia",
+  "sub": "PALM-COEIN: coagulopatia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "FIGO. Sistema PALM-COEIN de classificação do sangramento uterino anormal (revisão), 2018",
+  "coment": "Sangramento intenso desde a menarca, associado a história pessoal de sangramentos (epistaxes, sangramento após extração dentária), aponta para a categoria C (coagulopatia) do sistema PALM-COEIN da FIGO. A doença de von Willebrand é a coagulopatia hereditária mais comum nesse cenário, e a contagem de plaquetas normal não a exclui. A investigação inclui coagulograma, fator VIII, antígeno e atividade do fator de von Willebrand. A anovulação é frequente nos primeiros anos após a menarca, mas os sinais de sangramento sistêmico mudam a prioridade. FIGO, 2018.",
+  "porAlt": [
+   "A imaturidade do eixo é comum, mas a história de sangramentos sistêmicos obriga investigar coagulopatia.",
+   "Correta: sangramento intenso desde a menarca com história de sangramentos sugere coagulopatia, sobretudo von Willebrand.",
+   "Biópsia endometrial não se aplica a adolescente sem fatores de risco para hiperplasia.",
+   "A ultrassonografia normal e a idade tornam o pólipo improvável como causa principal.",
+   "Adenomiose é rara na adolescência e não explica epistaxes e sangramento pós-extração."
+  ]
+ },
+ {
+  "q": "Mulher de 33 anos, nuligesta, com sangramento menstrual aumentado há 1 ano e anemia ferropriva. Deseja engravidar em breve. A ultrassonografia transvaginal mostra mioma de 2,5 cm totalmente intracavitário e pediculado (FIGO tipo 0), com útero de volume normal e sem outros nódulos. Qual o tratamento mais adequado?",
+  "alts": [
+   "DIU com levonorgestrel e observação",
+   "Miomectomia por laparotomia",
+   "Embolização das artérias uterinas",
+   "Análogo do GnRH por tempo indefinido",
+   "Miomectomia por histeroscopia"
+  ],
+  "gab": 4,
+  "tema": "ginecologia",
+  "sub": "Mioma submucoso FIGO 0",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "ACOG Practice Bulletin 228, Management of Symptomatic Uterine Leiomyomas, 2021",
+  "coment": "Mioma submucoso FIGO tipo 0 (pediculado, totalmente na cavidade) é a lesão estrutural com melhor resposta à ressecção histeroscópica, que trata o sangramento e preserva a fertilidade sem incisão no miométrio. A via abdominal é reservada a miomas intramurais ou subserosos volumosos. A embolização não é a escolha para quem deseja gestar. O análogo do GnRH é usado por poucos meses antes da cirurgia para corrigir anemia ou reduzir volume. O DIU hormonal tem resposta pobre e maior expulsão quando o mioma distorce a cavidade. ACOG, 2021.",
+  "porAlt": [
+   "Mioma que ocupa a cavidade reduz a eficácia e aumenta a expulsão do DIU.",
+   "A via abdominal é para miomas intramurais ou subserosos, não para lesão intracavitária.",
+   "A embolização não é a escolha para quem deseja gestar em breve.",
+   "O análogo do GnRH é ponte pré-operatória de curta duração, pelos efeitos hipoestrogênicos.",
+   "Correta: mioma tipo 0 é ressecado por histeroscopia, com preservação da fertilidade."
+  ]
+ },
+ {
+  "q": "Mulher de 47 anos, IMC de 34 kg/m², relata ciclos irregulares com sangramentos prolongados e intermenstruais há 8 meses. Beta-hCG negativo e TSH normal. A ultrassonografia transvaginal mostra útero de volume normal, sem miomas, com endométrio heterogêneo de 11 mm. Qual a conduta mais adequada?",
+  "alts": [
+   "Ácido tranexâmico apenas nos dias de fluxo",
+   "Anticoncepcional oral combinado por 3 meses",
+   "Repetir a ultrassonografia em 6 meses",
+   "Amostragem histológica do endométrio",
+   "Dosagem de FSH para confirmar a perimenopausa"
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "SUA: quando biopsiar endométrio",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ACOG Practice Bulletin 128, Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women, 2012",
+  "coment": "Em mulheres com sangramento uterino anormal a partir dos 45 anos, ou mais jovens com exposição estrogênica sem oposição (obesidade, anovulação crônica, SOP) ou falha do tratamento clínico, recomenda-se avaliar o endométrio por amostragem histológica (biópsia aspirativa ou histeroscopia com biópsia) antes de qualquer tratamento hormonal. A paciente reúne idade, obesidade e padrão anovulatório, fatores de risco para hiperplasia e carcinoma endometrial. Tratar empiricamente ou apenas repetir a imagem pode atrasar o diagnóstico. ACOG, 2012.",
+  "porAlt": [
+   "O antifibrinolítico controla o fluxo, mas não exclui causa endometrial maligna.",
+   "Tratar com hormônio antes da biópsia pode mascarar hiperplasia ou carcinoma.",
+   "Adiar a investigação em paciente de risco atrasa o diagnóstico de neoplasia.",
+   "Correta: idade acima de 45 anos e obesidade com anovulação indicam avaliação histológica do endométrio.",
+   "O FSH não muda a conduta e oscila muito na transição menopausal."
+  ]
+ },
+ {
+  "q": "Adolescente de 16 anos procura atendimento por nunca ter menstruado. Tem 1,72 m, mamas em estágio M5 de Tanner e pelos pubianos e axilares escassos. Ao exame, vagina curta em fundo cego. A ultrassonografia não identifica útero e mostra imagens sugestivas de gônadas nos canais inguinais. Qual exame melhor esclarece o diagnóstico?",
+  "alts": [
+   "Cariótipo em sangue periférico",
+   "Dosagem de 17-hidroxiprogesterona",
+   "Teste de privação com progesterona",
+   "Dosagem de prolactina e de TSH",
+   "Ressonância magnética da sela túrcica"
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Amenorreia primária sem útero",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ASRM Practice Committee. Current evaluation of amenorrhea, 2008",
+  "coment": "Amenorreia primária com mamas desenvolvidas, útero ausente e pelos escassos sugere insensibilidade completa aos androgênios (cariótipo 46,XY, testosterona em níveis masculinos). A agenesia mülleriana (síndrome de Mayer-Rokitansky-Küster-Hauser) também cursa com vagina curta e útero ausente, mas tem cariótipo 46,XX e pilificação normal. O cariótipo diferencia as duas e orienta a gonadectomia, indicada na insensibilidade androgênica pelo risco de neoplasia gonadal, em geral após a puberdade. Sem útero, o teste da progesterona não faz sentido. ASRM, 2008.",
+  "porAlt": [
+   "Correta: o cariótipo separa insensibilidade androgênica (46,XY) de agenesia mülleriana (46,XX).",
+   "A 17-hidroxiprogesterona investiga hiperplasia adrenal, que cursa com virilização, não com este quadro.",
+   "Sem útero não há endométrio para responder à progesterona, e o teste não informa a causa.",
+   "Prolactina e TSH investigam causas centrais, mas o quadro aponta defeito anatômico e de cariótipo.",
+   "O desenvolvimento mamário completo com útero ausente afasta causa hipofisária como hipótese principal."
+  ]
+ },
+ {
+  "q": "Mulher de 29 anos refere ausência de menstruação há 7 meses. Há 9 meses foi submetida a curetagem uterina por abortamento retido, complicada por endometrite. Beta-hCG negativo, TSH e prolactina normais, FSH normal. Não houve sangramento após teste com progestagênio nem após estrogênio seguido de progestagênio. Qual a hipótese e o exame confirmatório?",
+  "alts": [
+   "Adenoma hipofisário; ressonância da sela túrcica",
+   "Insuficiência ovariana prematura; FSH seriado",
+   "Amenorreia hipotalâmica; dosagem de LH e estradiol",
+   "Sinéquias uterinas; histeroscopia",
+   "Síndrome dos ovários policísticos; ultrassonografia"
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Amenorreia secundária: Asherman",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ASRM Practice Committee. Current evaluation of amenorrhea, 2008",
+  "coment": "A ausência de sangramento após estrogênio seguido de progestagênio indica que o defeito está no órgão-alvo (compartimento I: útero ou trato de saída), pois o estímulo hormonal foi adequado. A curetagem com endometrite torna a síndrome de Asherman (sinéquias intrauterinas) a principal hipótese. A histeroscopia confirma e permite a lise das aderências. Causas ovarianas, hipofisárias e hipotalâmicas respondem ao teste com estrogênio e progestagênio, e o FSH normal afasta insuficiência ovariana. ASRM, 2008.",
+  "porAlt": [
+   "Prolactina normal e ausência de resposta ao estrogênio não apontam adenoma hipofisário.",
+   "FSH normal e falta de resposta ao estrogênio afastam a origem ovariana.",
+   "Na causa hipotalâmica haveria sangramento após estrogênio seguido de progestagênio.",
+   "Correta: falha após estrogênio e progestagênio com curetagem prévia aponta sinéquias uterinas.",
+   "Na SOP há estrogênio endógeno e sangramento após o teste com progestagênio."
+  ]
+ },
+ {
+  "q": "Estudante de 21 anos, corredora de longa distância, refere amenorreia há 8 meses. Perdeu 7 kg no último ano e está com IMC de 17,8 kg/m². Beta-hCG negativo, TSH e prolactina normais, FSH e LH baixos, estradiol baixo. Não houve sangramento após teste com progestagênio. Qual a conduta inicial prioritária?",
+  "alts": [
+   "Iniciar clomifeno para restaurar a ovulação",
+   "Aumentar a ingestão energética e reduzir o treino",
+   "Prescrever metformina para corrigir resistência insulínica",
+   "Prescrever anticoncepcional oral para proteger o osso",
+   "Pesquisar cariótipo por suspeita de disgenesia gonadal"
+  ],
+  "gab": 1,
+  "tema": "ginecologia",
+  "sub": "Amenorreia hipotalâmica funcional",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Endocrine Society. Functional Hypothalamic Amenorrhea: Clinical Practice Guideline, 2017",
+  "coment": "O quadro é de amenorreia hipotalâmica funcional por baixa disponibilidade energética (gonadotrofinas e estradiol baixos, sem sangramento após progestagênio), associada ao exercício intenso e à perda de peso, componente da tríade da mulher atleta. A primeira linha é corrigir o déficit energético, com aumento da ingestão calórica e redução da carga de treino, com apoio nutricional e psicológico. A Endocrine Society desaconselha o anticoncepcional oral com o objetivo de recuperar a massa óssea, pois ele não restaura a saúde óssea e mascara a volta dos ciclos. Endocrine Society, 2017.",
+  "porAlt": [
+   "Indutor de ovulação não trata a causa e não é prioridade sem desejo de gestar.",
+   "Correta: corrigir o déficit energético restaura o eixo e é a primeira linha.",
+   "Metformina é usada na SOP com resistência insulínica, não na amenorreia hipotalâmica.",
+   "O anticoncepcional não recupera a massa óssea nesse quadro e mascara a volta dos ciclos.",
+   "Gonadotrofinas baixas indicam causa central, enquanto a disgenesia gonadal eleva o FSH."
+  ]
+ },
+ {
+  "q": "Mulher de 24 anos refere ciclos a cada 50 a 70 dias desde a menarca e pelos terminais em mento, linha alba e região periareolar (índice de Ferriman-Gallwey 14). Beta-hCG negativo; TSH, prolactina e 17-hidroxiprogesterona normais. A ultrassonografia transvaginal mostra ovários com volume e contagem folicular normais. Sobre o diagnóstico, qual afirmação está correta?",
+  "alts": [
+   "Indica hiperplasia adrenal, pela presença de hirsutismo",
+   "Exige ovários policísticos à ultrassonografia para SOP",
+   "Exige hiperandrogenemia laboratorial para fechar SOP",
+   "Indica SOP só se houver resistência insulínica comprovada",
+   "Fecha 2 de 3 critérios de SOP, mesmo sem ovários policísticos"
+  ],
+  "gab": 4,
+  "tema": "ginecologia",
+  "sub": "SOP: critérios de Rotterdam",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "International Evidence-based Guideline for the Assessment and Management of PCOS, 2023",
+  "coment": "Pelos critérios de Rotterdam (2003), mantidos na diretriz internacional de 2023, o diagnóstico de SOP em adultas exige dois de três: disfunção ovulatória, hiperandrogenismo clínico ou laboratorial e morfologia policística (ou AMH elevado), após exclusão de outras causas. Oligomenorreia e hirsutismo bastam, com TSH, prolactina e 17-hidroxiprogesterona normais excluindo os diferenciais. Resistência insulínica é comum, mas não é critério diagnóstico. A hiperplasia adrenal não clássica foi afastada pela 17-hidroxiprogesterona normal. Diretriz internacional de SOP, 2023.",
+  "porAlt": [
+   "A 17-hidroxiprogesterona normal afasta hiperplasia adrenal não clássica como causa do hirsutismo.",
+   "A morfologia ovariana é um dos três critérios, dispensável quando os outros dois estão presentes.",
+   "O hiperandrogenismo pode ser clínico; o hirsutismo dispensa a confirmação laboratorial.",
+   "Resistência insulínica é frequente na SOP, mas não faz parte dos critérios diagnósticos.",
+   "Correta: disfunção ovulatória e hiperandrogenismo clínico, com exclusões feitas, bastam pelos critérios de Rotterdam."
+  ]
+ },
+ {
+  "q": "Mulher de 29 anos com SOP, IMC de 31 kg/m², tenta engravidar há 14 meses. Ciclos a cada 60 dias, sem ovulação documentada. Histerossalpingografia com trompas pérvias e espermograma do parceiro normal. Além da orientação de mudança de estilo de vida, qual a primeira linha farmacológica para induzir a ovulação?",
+  "alts": [
+   "Drilling ovariano por laparoscopia",
+   "Metformina oral como monoterapia",
+   "Gonadotrofinas injetáveis em baixa dose",
+   "Letrozol oral no início do ciclo",
+   "Fertilização in vitro como primeira etapa"
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "SOP: indução da ovulação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "International Evidence-based Guideline for the Assessment and Management of PCOS, 2023",
+  "coment": "A diretriz internacional de SOP de 2023 recomenda o letrozol como primeira linha farmacológica para indução da ovulação em mulheres anovulatórias com SOP, por apresentar maiores taxas de ovulação e de nascidos vivos que o clomifeno. A metformina isolada tem efeito menor e fica como adjuvante. Gonadotrofinas e drilling ovariano são segunda linha, após falha dos orais, e a fertilização in vitro é reservada à falha das etapas anteriores ou a outros fatores de infertilidade. Trompas pérvias e espermograma normal permitem iniciar a indução. Diretriz internacional de SOP, 2023.",
+  "porAlt": [
+   "O drilling ovariano é opção de segunda linha após falha dos indutores orais.",
+   "Metformina isolada é menos eficaz e fica como adjuvante, sobretudo com intolerância à glicose.",
+   "Gonadotrofinas são segunda linha, com maior risco de gestação múltipla e hiperestímulo.",
+   "Correta: o letrozol é a primeira linha na indução da ovulação na SOP, com mais nascidos vivos que o clomifeno.",
+   "A fertilização in vitro é reservada a falhas das etapas anteriores ou a fator tubário ou masculino."
+  ]
+ },
+ {
+  "q": "Mulher de 27 anos refere dismenorreia progressiva há 3 anos, dispareunia de profundidade e dor pélvica cíclica que melhora pouco com anti-inflamatórios. Não deseja engravidar no momento. Ao exame, dor à mobilização uterina, sem nódulos palpáveis. A ultrassonografia transvaginal é normal. Qual a conduta mais adequada?",
+  "alts": [
+   "Tratamento hormonal empírico, como o dienogeste 2 mg contínuo",
+   "Videolaparoscopia diagnóstica antes de qualquer tratamento",
+   "Manter anti-inflamatório e repetir a ultrassonografia",
+   "Dosagem de CA-125 para confirmar a endometriose",
+   "Análogo do GnRH por 2 anos como terapia inicial"
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Endometriose: tratamento empírico",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "ESHRE Guideline: Endometriosis, 2022",
+  "coment": "A suspeita clínica de endometriose (dismenorreia progressiva, dispareunia profunda, dor pélvica) permite iniciar tratamento hormonal empírico sem confirmação cirúrgica, segundo a ESHRE. Ultrassonografia normal não exclui doença peritoneal superficial. Progestagênios, como o dienogeste, ou anticoncepcional combinado são primeira linha; o análogo do GnRH é segunda linha, por tempo limitado e com add-back. A laparoscopia fica para falha do tratamento clínico ou para lesões que exijam cirurgia. O CA-125 não tem acurácia para o diagnóstico. ESHRE, 2022.",
+  "porAlt": [
+   "Correta: a suspeita clínica autoriza tratamento hormonal empírico de primeira linha.",
+   "A laparoscopia deixou de ser exigida para iniciar tratamento; fica para falha clínica ou indicação cirúrgica.",
+   "Manter apenas anti-inflamatório com dor refratária retarda o tratamento eficaz.",
+   "O CA-125 tem baixa sensibilidade e especificidade e não confirma endometriose.",
+   "O análogo do GnRH é segunda linha e não é usado por 2 anos sem add-back como início."
+  ]
+ },
+ {
+  "q": "Mulher de 35 anos, infértil há 3 anos, tem endometrioma de 3,5 cm no ovário direito, reserva ovariana reduzida (AMH baixo) e indicação de fertilização in vitro. Está assintomática. Antes da FIV, qual a conduta recomendada em relação ao endometrioma?",
+  "alts": [
+   "Não operar de rotina e seguir para a FIV",
+   "Cistectomia laparoscópica antes da FIV",
+   "Drenagem por punção e escleroterapia",
+   "Ooforectomia direita antes da estimulação",
+   "Análogo do GnRH por 6 meses e depois cirurgia"
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Endometrioma antes da FIV",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ESHRE Guideline: Endometriosis, 2022",
+  "coment": "A ESHRE não recomenda cirurgia de rotina do endometrioma antes da reprodução assistida para melhorar a taxa de nascidos vivos, pois a cistectomia remove tecido ovariano sadio e reduz ainda mais a reserva ovariana, já baixa nesta paciente. A cirurgia fica reservada para dor refratária, suspeita de malignidade ou cisto que impeça o acesso aos folículos na captação. A ooforectomia sacrifica reserva sem necessidade, e a supressão prolongada atrasa o tratamento sem ganho comprovado. ESHRE, 2022.",
+  "porAlt": [
+   "Correta: a cirurgia de rotina antes da FIV não melhora nascidos vivos e reduz a reserva ovariana.",
+   "A cistectomia retira córtex ovariano sadio e piora a reserva já reduzida.",
+   "A escleroterapia não é recomendada de rotina e não melhora o resultado da FIV.",
+   "Remover o ovário sacrifica folículos sem indicação oncológica.",
+   "Supressão longa seguida de cirurgia atrasa a FIV em mulher com reserva baixa."
+  ]
+ },
+ {
+  "q": "Mulher de 53 anos, menopausa há 2 anos, tem fogachos intensos que prejudicam o sono. Tratou carcinoma ductal invasivo de mama com receptor hormonal positivo há 4 anos e usa tamoxifeno. Pressão arterial normal, sem outras comorbidades. Qual a melhor opção para os sintomas vasomotores?",
+  "alts": [
+   "Venlafaxina em dose baixa",
+   "Paroxetina em dose baixa",
+   "Estradiol transdérmico com progestagênio",
+   "Tibolona em dose diária",
+   "Estrogênio conjugado oral isolado"
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Fogachos após câncer de mama",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "The North American Menopause Society. Nonhormone therapy position statement, 2023",
+  "coment": "Câncer de mama é contraindicação à terapia hormonal sistêmica, inclusive à tibolona, que aumentou a recorrência em sobreviventes de câncer de mama no estudo LIBERATE. As opções não hormonais com evidência incluem inibidores da recaptação de serotonina e noradrenalina, ISRS, gabapentina e antagonistas do receptor de neurocinina 3. Em usuárias de tamoxifeno, paroxetina e fluoxetina devem ser evitadas por inibirem a CYP2D6 e reduzirem a formação do endoxifeno, metabólito ativo; a venlafaxina tem interação mínima. NAMS, 2023.",
+  "porAlt": [
+   "Correta: a venlafaxina reduz fogachos e não interfere de forma relevante na ativação do tamoxifeno.",
+   "A paroxetina inibe a CYP2D6 e reduz a eficácia do tamoxifeno.",
+   "A terapia hormonal sistêmica é contraindicada após câncer de mama.",
+   "A tibolona aumentou a recorrência em mulheres tratadas por câncer de mama.",
+   "Estrogênio isolado em mulher com útero e câncer de mama prévio é duplamente contraindicado."
+  ]
+ },
+ {
+  "q": "Mulher de 51 anos, menopausa há 1 ano, com fogachos frequentes e insônia. Tem útero, IMC de 33 kg/m² e hipertensão controlada. Nega câncer de mama, doença coronariana, tromboembolismo ou sangramento anormal. Mamografia recente BI-RADS 1. Deseja terapia hormonal. Qual o esquema mais adequado?",
+  "alts": [
+   "Estrogênio oral associado a progestagênio",
+   "Estrogênio oral isolado em dose padrão",
+   "Estradiol transdérmico isolado, sem progestagênio",
+   "Estradiol transdérmico associado a progestagênio",
+   "Tibolona, por estar contraindicada a terapia estrogênica"
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Terapia hormonal: via e esquema",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "The North American Menopause Society. Hormone therapy position statement, 2022",
+  "coment": "A paciente está na janela de oportunidade (menos de 60 anos e menos de 10 anos de menopausa), tem sintomas vasomotores moderados a intensos e nenhuma contraindicação (câncer de mama ou de endométrio, sangramento não esclarecido, doença hepática ativa, tromboembolismo, doença coronariana ou AVC). Por ter útero, precisa de progestagênio para proteger o endométrio. Obesidade e hipertensão aumentam o risco trombótico, e a via transdérmica, sem primeira passagem hepática, tem menor risco de tromboembolismo venoso que a oral. NAMS, 2022.",
+  "porAlt": [
+   "A via oral aumenta o risco de tromboembolismo, já elevado pela obesidade.",
+   "Estrogênio isolado em mulher com útero aumenta o risco de hiperplasia e câncer de endométrio.",
+   "Mesmo pela via transdérmica, o estrogênio sem progestagênio expõe o endométrio.",
+   "Correta: a via transdérmica reduz o risco trombótico, e o progestagênio protege o endométrio.",
+   "Não há contraindicação ao estrogênio aqui; a tibolona não é substituta obrigatória."
+  ]
+ },
+ {
+  "q": "Mulher de 34 anos, assintomática, faz rastreamento do câncer do colo do útero com teste de DNA-HPV oncogênico, em município que já implantou o novo modelo. O resultado é detectável para HPV 16 e não detectável para os demais tipos. Segundo as diretrizes brasileiras de 2025, qual a conduta?",
+  "alts": [
+   "Realizar citologia reflexa e decidir pelo resultado",
+   "Encaminhar diretamente para colposcopia",
+   "Repetir o teste de DNA-HPV em 12 meses",
+   "Repetir o teste de DNA-HPV em 5 anos",
+   "Indicar excisão da zona de transformação"
+  ],
+  "gab": 1,
+  "tema": "ginonco",
+  "sub": "DNA-HPV 16/18 detectado",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, Parte I (Portaria Conjunta SAES/SECTICS 13/2025), 2025",
+  "coment": "Nas Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA, 2025, aprovadas pela Portaria Conjunta SAES/SECTICS 13/2025), o teste de DNA-HPV oncogênico com genotipagem é o exame primário a partir dos 25 anos. A detecção de HPV 16 e/ou 18 indica encaminhamento direto para colposcopia, sem citologia, pelo alto risco de lesão de alto grau. A citologia reflexa é reservada aos outros tipos oncogênicos, e o teste negativo leva a repetição em 5 anos. Tratamento excisional depende da colposcopia ou da histologia.",
+  "porAlt": [
+   "A citologia reflexa é usada só quando são detectados outros tipos que não 16 ou 18.",
+   "Correta: HPV 16 ou 18 detectado leva à colposcopia, sem triagem citológica.",
+   "Repetir em 12 meses é a conduta para outros tipos com triagem negativa, não para HPV 16.",
+   "O intervalo de 5 anos vale para teste negativo.",
+   "Excisão sem colposcopia não é indicada com base apenas no teste de HPV."
+  ]
+ },
+ {
+  "q": "Mulher de 41 anos tem teste de DNA-HPV oncogênico detectável para outros tipos que não 16 ou 18. A citologia reflexa, processada na mesma amostra, é negativa para lesão intraepitelial ou malignidade. Pelas diretrizes do INCA de 2025, qual o próximo passo?",
+  "alts": [
+   "Novo teste de DNA-HPV em 12 meses",
+   "Colposcopia imediata, por HPV detectável",
+   "Retorno ao rastreamento em 5 anos",
+   "Nova citologia em 6 meses",
+   "Novo teste de DNA-HPV em 3 anos"
+  ],
+  "gab": 0,
+  "tema": "ginonco",
+  "sub": "HPV outros, citologia negativa",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, Parte I (Portaria Conjunta SAES/SECTICS 13/2025), 2025",
+  "coment": "Quando o teste detecta tipos oncogênicos diferentes de 16 e 18, a diretriz de 2025 indica citologia reflexa na mesma amostra. Se a citologia for negativa, repete-se o DNA-HPV em 12 meses. Se o novo teste for negativo, a mulher volta ao intervalo de 5 anos; se vier HPV 16 ou 18, vai à colposcopia; se persistirem outros tipos com citologia negativa, repete-se em mais 12 meses e, persistindo positivo em 24 meses, encaminha-se à colposcopia independentemente da citologia. INCA, 2025.",
+  "porAlt": [
+   "Correta: outros tipos com citologia reflexa negativa levam a novo teste em 12 meses.",
+   "A colposcopia imediata fica para HPV 16 ou 18 ou para citologia reflexa alterada.",
+   "O intervalo de 5 anos vale após teste negativo, não após HPV detectável.",
+   "Repetir citologia em 6 meses pertence ao modelo citológico de 2016, não ao novo fluxo.",
+   "Três anos é o intervalo após teste negativo em imunossuprimidas, não nesta situação."
+  ]
+ },
+ {
+  "q": "Mulher de 38 anos tem teste de DNA-HPV detectável para outros tipos oncogênicos (não 16 ou 18). A citologia reflexa mostra células escamosas atípicas de significado indeterminado, possivelmente não neoplásicas (ASC-US). Pelas diretrizes brasileiras de rastreamento de 2025, qual a conduta?",
+  "alts": [
+   "Retornar ao rastreamento em 3 anos",
+   "Repetir a citologia em 6 meses",
+   "Repetir o teste de DNA-HPV em 12 meses",
+   "Tratar inflamação e repetir a citologia",
+   "Encaminhar para colposcopia"
+  ],
+  "gab": 4,
+  "tema": "ginonco",
+  "sub": "HPV outros, citologia ASC-US",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, Parte I (Portaria Conjunta SAES/SECTICS 13/2025), 2025",
+  "coment": "No fluxo com DNA-HPV, a citologia reflexa é a triagem para os outros tipos oncogênicos. Qualquer alteração a partir de ASC-US (inclusive LSIL, HSIL, ASC-H e atipias glandulares) ou amostra insatisfatória indica colposcopia. É uma diferença importante em relação à diretriz citológica de 2016, em que ASC-US isolado levava a repetição da citologia em 6 ou 12 meses conforme a idade: aqui o HPV oncogênico já foi detectado, o que eleva o risco de lesão. INCA, 2025.",
+  "porAlt": [
+   "Retorno em 3 anos ignora a combinação de HPV oncogênico com atipia citológica.",
+   "Repetir a citologia em 6 meses era a conduta para ASC-US na diretriz citológica de 2016.",
+   "Repetir o teste em 12 meses vale apenas quando a citologia reflexa é negativa.",
+   "Não há indicação de tratar inflamação; a atipia com HPV detectado exige colposcopia.",
+   "Correta: HPV de outros tipos com citologia reflexa ASC-US ou pior indica colposcopia."
+  ]
+ },
+ {
+  "q": "Mulher de 31 anos vivendo com HIV, em terapia antirretroviral regular e com carga viral indetectável, faz rastreamento com DNA-HPV. O resultado é detectável para outros tipos que não 16 ou 18, e a citologia reflexa é negativa. Segundo as diretrizes de 2025, qual a conduta?",
+  "alts": [
+   "Repetir o teste de DNA-HPV em 3 anos",
+   "Repetir o teste de DNA-HPV em 12 meses",
+   "Encaminhar para colposcopia",
+   "Repetir a citologia em 6 meses",
+   "Repetir o teste de DNA-HPV em 5 anos"
+  ],
+  "gab": 2,
+  "tema": "ginonco",
+  "sub": "Rastreamento na mulher com HIV",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, Parte I (Portaria Conjunta SAES/SECTICS 13/2025), 2025",
+  "coment": "Para mulheres vivendo com HIV ou com outras formas de imunodepressão ou imunossupressão, as diretrizes de 2025 têm regras próprias: iniciar o rastreamento após o início da atividade sexual (e não aos 25 anos), intervalo de 3 anos após teste negativo, não encerrar o rastreamento por idade e encaminhar à colposcopia qualquer teste positivo, independentemente do tipo de HPV e do resultado da citologia reflexa. A carga viral indetectável não muda essas recomendações. INCA, 2025.",
+  "porAlt": [
+   "Três anos é o intervalo após teste negativo nessa população, não após teste positivo.",
+   "Repetir em 12 meses vale para a população de risco-padrão, não para mulheres com HIV.",
+   "Correta: em imunossuprimidas, qualquer HPV oncogênico detectado indica colposcopia.",
+   "Repetir a citologia em 6 meses não faz parte do fluxo com DNA-HPV.",
+   "Cinco anos é o intervalo após teste negativo na população de risco-padrão."
+  ]
+ },
+ {
+  "q": "Mulher de 66 anos, assintomática, comparece à UBS. Nunca fez rastreamento do câncer do colo do útero. Teve 3 partos vaginais e não tem histórico de lesão cervical. O município já usa o teste de DNA-HPV. Segundo as diretrizes de 2025, qual a orientação?",
+  "alts": [
+   "Fazer o teste; se negativo, encerrar o rastreio",
+   "Não rastrear, por ter ultrapassado o limite de idade",
+   "Realizar duas citologias anuais antes de encerrar",
+   "Fazer o teste e repeti-lo a cada 5 anos até os 74 anos",
+   "Realizar colposcopia direta, pela ausência de exames"
+  ],
+  "gab": 0,
+  "tema": "ginonco",
+  "sub": "Encerramento do rastreamento",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, Parte I (Portaria Conjunta SAES/SECTICS 13/2025), 2025",
+  "coment": "As diretrizes de 2025 recomendam encerrar o rastreamento quando o último teste de DNA-HPV realizado após os 60 anos for negativo. Mulheres com mais de 60 anos que nunca fizeram o teste devem realizá-lo: se negativo, o rastreamento é encerrado; se positivo, segue-se o fluxo habitual (colposcopia para HPV 16 ou 18, citologia reflexa para outros tipos). A idade, isoladamente, não dispensa o exame de quem nunca foi rastreada. Mantêm o rastreio as mulheres tratadas por NIC 2, NIC 3 ou adenocarcinoma in situ e as imunossuprimidas. INCA, 2025.",
+  "porAlt": [
+   "Correta: acima de 60 anos sem teste prévio, faz-se o DNA-HPV e, se negativo, encerra-se o rastreio.",
+   "Nunca ter sido rastreada é justamente o que indica fazer o teste, apesar da idade.",
+   "Duas citologias negativas eram a regra de encerramento no modelo de 2016, não no atual.",
+   "Não há rastreamento quinquenal até 74 anos; o teste negativo após os 60 anos encerra o rastreio.",
+   "Colposcopia não é exame de rastreamento e só é indicada após teste positivo."
+  ]
+ },
+ {
+  "q": "Em município que ainda não implantou o teste de DNA-HPV, mulher de 28 anos tem citologia oncótica com lesão intraepitelial escamosa de baixo grau (LSIL). O exame anterior, há 3 anos, era normal. Segundo as diretrizes do INCA para o rastreamento citológico, qual a conduta?",
+  "alts": [
+   "Repetir a citologia em 3 anos",
+   "Encaminhar para colposcopia imediata",
+   "Repetir a citologia em 6 meses",
+   "Realizar excisão da zona de transformação",
+   "Repetir a citologia em 12 meses"
+  ],
+  "gab": 2,
+  "tema": "ginonco",
+  "sub": "Citologia: LSIL",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, 2ª ed., 2016",
+  "coment": "Onde o DNA-HPV ainda não foi implantado, as diretrizes de 2025 mantêm o rastreamento citológico (trienal após dois exames anuais negativos), com as condutas da diretriz do INCA de 2016. Para LSIL em mulheres com 25 anos ou mais, repete-se a citologia em 6 meses: se dois exames seguidos forem negativos, volta-se ao rastreio trienal; se a alteração persistir (LSIL ou pior), encaminha-se à colposcopia. A maioria das LSIL regride espontaneamente, o que justifica a vigilância. INCA, 2016.",
+  "porAlt": [
+   "O intervalo trienal só é retomado após duas citologias negativas consecutivas.",
+   "A colposcopia é indicada se a LSIL persistir na repetição, não de imediato.",
+   "Correta: LSIL em mulher com 25 anos ou mais é seguida com nova citologia em 6 meses.",
+   "Tratamento excisional não é indicado para LSIL citológica sem confirmação de alto grau.",
+   "Doze meses é o intervalo para ASC-US entre 25 e 29 anos, não para LSIL."
+  ]
+ },
+ {
+  "q": "Mulher de 33 anos, em município que ainda rastreia por citologia, tem resultado de lesão intraepitelial escamosa de alto grau (HSIL). À colposcopia, a zona de transformação é tipo 1, com achado maior restrito à ectocérvice e sem suspeita de invasão. Segundo a diretriz do INCA de 2016, qual a conduta preferencial?",
+  "alts": [
+   "Excisão da zona de transformação (ver e tratar)",
+   "Biópsia dirigida e aguardar o resultado para decidir",
+   "Repetir citologia e colposcopia em 6 meses",
+   "Histerectomia total, pela lesão de alto grau",
+   "Conização a frio em centro cirúrgico"
+  ],
+  "gab": 0,
+  "tema": "ginonco",
+  "sub": "HSIL: ver e tratar",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, 2ª ed., 2016",
+  "coment": "Na diretriz de 2016, mulheres com 25 anos ou mais com citologia HSIL e colposcopia com achados maiores, zona de transformação tipo 1 ou 2 e sem suspeita de invasão ou doença glandular devem preferencialmente ser submetidas ao método ver e tratar: excisão da zona de transformação no mesmo ato, em ambulatório, sob visão colposcópica. Isso reduz perdas de seguimento e custos. A conização a frio é reservada a zona de transformação tipo 3, suspeita de invasão ou lesão glandular. Histerectomia não é tratamento de lesão precursora. INCA, 2016.",
+  "porAlt": [
+   "Correta: HSIL com achado maior e zona tipo 1 permite excisão no mesmo ato.",
+   "A biópsia prévia é aceitável quando o ver e tratar não é possível, mas não é a preferência.",
+   "Adiar a abordagem diante de HSIL com achado maior aumenta o risco de perda de seguimento.",
+   "Histerectomia é desproporcional para lesão precursora e não é tratamento de primeira escolha.",
+   "A conização a frio fica para zona tipo 3, suspeita de invasão ou doença glandular."
+  ]
+ },
+ {
+  "q": "Mulher de 27 anos, nuligesta, sem queixas, em região que ainda rastreia por citologia porque o teste de DNA-HPV não foi implantado, tem resultado de células escamosas atípicas de significado indeterminado, possivelmente não neoplásicas (ASC-US). Os dois exames anteriores foram normais. Segundo a diretriz do INCA de 2016, qual a conduta?",
+  "alts": [
+   "Repetir a citologia em 6 meses",
+   "Repetir a citologia em 12 meses",
+   "Encaminhar para colposcopia",
+   "Repetir a citologia em 3 anos",
+   "Solicitar teste de DNA-HPV de triagem"
+  ],
+  "gab": 1,
+  "tema": "ginonco",
+  "sub": "Citologia: ASC-US por idade",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, 2ª ed., 2016",
+  "coment": "Na diretriz citológica de 2016, a conduta para ASC-US depende da idade: entre 25 e 29 anos, repete-se a citologia em 12 meses; a partir dos 30 anos, em 6 meses; abaixo dos 25 anos, em 3 anos. Se a repetição mostrar ASC-US ou alteração mais grave, encaminha-se à colposcopia; se for negativa, faz-se nova citologia no mesmo intervalo e, com dois exames negativos, retorna-se ao rastreio trienal. Essa regra vale onde o DNA-HPV ainda não substituiu a citologia. INCA, 2016.",
+  "porAlt": [
+   "Seis meses é o intervalo para ASC-US a partir dos 30 anos.",
+   "Correta: ASC-US entre 25 e 29 anos é repetido em 12 meses.",
+   "Colposcopia imediata é indicada para ASC-H, HSIL ou atipias glandulares, não para ASC-US isolado.",
+   "Três anos é o intervalo para ASC-US em menores de 25 anos.",
+   "A diretriz citológica de 2016 não incluía teste de HPV na triagem de ASC-US no SUS."
+  ]
+ },
+ {
+  "q": "Mulher de 44 anos, assintomática, sem história familiar de câncer de mama ou de ovário e com exame clínico das mamas normal, pergunta na UBS se deve fazer mamografia. Segundo a recomendação do Ministério da Saúde de 2025 e a Lei 15.284/2025, qual a orientação?",
+  "alts": [
+   "Negar o exame, pois o rastreamento começa aos 50 anos",
+   "Oferecer mamografia após decisão compartilhada",
+   "Convocar para mamografia anual, como rastreio organizado",
+   "Solicitar ultrassonografia mamária no lugar da mamografia",
+   "Indicar ressonância anual das mamas pela idade"
+  ],
+  "gab": 1,
+  "tema": "ginonco",
+  "sub": "Mamografia de 40 a 49 anos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Recomendações para o rastreamento do câncer de mama, 2025; Lei 15.284/2025",
+  "coment": "Em 2025, o Ministério da Saúde ampliou o rastreamento mamográfico organizado para 50 a 74 anos, a cada 2 anos, e passou a garantir a mamografia para mulheres assintomáticas de 40 a 49 anos sob demanda, após decisão compartilhada sobre benefícios e riscos (falso-positivos, biópsias, sobrediagnóstico). A Lei 15.284/2025 assegura o direito ao exame no SUS a partir dos 40 anos, com periodicidade definida em norma técnica. Ultrassonografia e ressonância não são métodos de rastreio populacional em mulheres de risco habitual.",
+  "porAlt": [
+   "Negar o exame contraria a recomendação de 2025 e a Lei 15.284/2025.",
+   "Correta: entre 40 e 49 anos, a mamografia é oferecida sob demanda com decisão compartilhada.",
+   "A convocação ativa bienal é para 50 a 74 anos; não há rastreio anual organizado aos 40.",
+   "A ultrassonografia não substitui a mamografia no rastreio de mulheres assintomáticas.",
+   "Ressonância anual é reservada a alto risco, como mutação de BRCA ou radioterapia torácica prévia."
+  ]
+ },
+ {
+  "q": "Mulher de 72 anos, ativa e sem comorbidades graves, sem história familiar de câncer de mama, teve a última mamografia de rastreamento há 2 anos, com resultado BI-RADS 2 e pergunta se ainda precisa repetir o exame. Pela recomendação do Ministério da Saúde de 2025, qual a orientação?",
+  "alts": [
+   "Repetir anualmente pela idade avançada",
+   "Encerrar, pois o rastreio vai até os 69 anos",
+   "Repetir agora e manter a cada 2 anos",
+   "Substituir por exame clínico anual das mamas",
+   "Repetir somente após 5 anos do último exame"
+  ],
+  "gab": 2,
+  "tema": "ginonco",
+  "sub": "Mamografia até 74 anos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Recomendações para o rastreamento do câncer de mama, 2025",
+  "coment": "A recomendação do Ministério da Saúde de 2025 estendeu o rastreamento mamográfico bienal até os 74 anos (antes, 50 a 69 anos). Aos 72 anos, com boa expectativa de vida e última mamografia há 2 anos, a paciente deve repetir o exame agora. O rastreamento anual não mostrou benefício adicional suficiente e aumenta falso-positivos. O exame clínico das mamas não substitui a mamografia. Acima dos 74 anos, a decisão passa a ser individualizada, considerando comorbidades e expectativa de vida. Ministério da Saúde, 2025.",
+  "porAlt": [
+   "O intervalo recomendado é bienal; o anual aumenta falso-positivos sem ganho comprovado.",
+   "O limite de 69 anos foi substituído por 74 anos em 2025.",
+   "Correta: o rastreio bienal vai até os 74 anos desde a recomendação de 2025.",
+   "O exame clínico não substitui a mamografia no rastreamento.",
+   "Intervalo de 5 anos não corresponde a nenhuma recomendação de rastreio mamográfico."
+  ]
+ },
+ {
+  "q": "Mulher de 46 anos, assintomática e sem história familiar de câncer de mama, faz mamografia que mostra nódulo oval, circunscrito, de 8 mm, sem microcalcificações e sem exame anterior para comparação. A ultrassonografia complementar mostra nódulo sólido com as mesmas características, classificado como BI-RADS 3. Qual a conduta?",
+  "alts": [
+   "Rastreamento habitual em 2 anos",
+   "Biópsia percutânea com agulha grossa",
+   "Exérese cirúrgica do nódulo",
+   "Controle por imagem em 6 meses",
+   "Ressonância magnética das mamas"
+  ],
+  "gab": 3,
+  "tema": "ginonco",
+  "sub": "BI-RADS 3",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American College of Radiology. ACR BI-RADS Atlas, 5ª ed., 2013",
+  "coment": "BI-RADS 3 indica achado provavelmente benigno, com risco de malignidade de até 2%. A conduta é controle por imagem em intervalo curto: novo exame em 6 meses, depois aos 12 e 24 meses; se estável por 2 anos, reclassifica-se como benigno (BI-RADS 2). A biópsia é indicada para BI-RADS 4 e 5, ou no BI-RADS 3 quando o seguimento não é possível, há ansiedade importante ou o achado cresce. Ressonância não é complemento de rotina para BI-RADS 3. ACR BI-RADS, 2013.",
+  "porAlt": [
+   "Voltar ao rastreio habitual corresponde a BI-RADS 1 ou 2, não a BI-RADS 3.",
+   "Biópsia é a conduta para BI-RADS 4 e 5, ou para BI-RADS 3 em situações específicas.",
+   "Exérese cirúrgica é excessiva para achado com risco de malignidade de até 2%.",
+   "Correta: achado provavelmente benigno é seguido com controle em 6 meses.",
+   "A ressonância não é complemento de rotina e não substitui o seguimento de curto prazo."
+  ]
+ },
+ {
+  "q": "Mulher de 23 anos palpou nódulo na mama esquerda há 1 mês. Ao exame, nódulo de 2 cm, fibroelástico, móvel, indolor, de limites precisos, sem linfonodos axilares palpáveis. Sem história familiar de câncer de mama. Qual o primeiro exame de imagem indicado?",
+  "alts": [
+   "Ultrassonografia das mamas",
+   "Mamografia bilateral com compressão",
+   "Ressonância magnética das mamas",
+   "Tomossíntese digital da mama",
+   "Cintilografia mamária"
+  ],
+  "gab": 0,
+  "tema": "ginonco",
+  "sub": "Nódulo mamário na jovem",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ACR Appropriateness Criteria: Palpable Breast Masses, 2022",
+  "coment": "Em mulheres com menos de 30 anos e nódulo palpável, a ultrassonografia é o primeiro exame de imagem: a mama jovem é densa, o que reduz a sensibilidade da mamografia, e o ultrassom diferencia cisto de nódulo sólido e caracteriza margens e forma. O quadro (nódulo móvel, fibroelástico, bem delimitado, em mulher jovem) sugere fibroadenoma. Achado típico BI-RADS 3 pode ser seguido; achados suspeitos indicam biópsia por agulha grossa. A mamografia entra como complemento se o ultrassom for suspeito. ACR, 2022.",
+  "porAlt": [
+   "Correta: abaixo dos 30 anos, o ultrassom é o primeiro exame para nódulo palpável.",
+   "A mamografia perde sensibilidade na mama densa jovem e expõe à radiação sem necessidade.",
+   "Ressonância não é exame inicial de nódulo palpável em mulher jovem de risco habitual.",
+   "A tomossíntese é variante da mamografia e tem as mesmas limitações na mama jovem.",
+   "Cintilografia não tem papel na avaliação inicial de nódulo mamário."
+  ]
+ },
+ {
+  "q": "Mulher de 61 anos, menopausa aos 52, sem terapia hormonal, obesa e diabética, refere sangramento vaginal em pequena quantidade há 3 semanas. Exame especular sem lesões em colo e vagina. A ultrassonografia transvaginal mostra espessura endometrial de 9 mm. Qual a conduta?",
+  "alts": [
+   "Tratar atrofia com estrogênio vaginal",
+   "Repetir a ultrassonografia em 3 meses",
+   "Progestagênio oral e reavaliar o sangramento",
+   "Dosar CA-125 antes de decidir a investigação",
+   "Amostragem histológica do endométrio"
+  ],
+  "gab": 4,
+  "tema": "ginonco",
+  "sub": "Sangramento pós-menopausa",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ACOG Committee Opinion 734, Role of Transvaginal Ultrasonography in the Evaluation of Postmenopausal Bleeding, 2018",
+  "coment": "Sangramento pós-menopausa é carcinoma de endométrio até prova em contrário, sobretudo com obesidade, diabetes e exposição estrogênica. Endométrio de até 4 mm à ultrassonografia transvaginal tem alto valor preditivo negativo; acima disso, ou com sangramento persistente, é obrigatória a amostragem histológica, por biópsia aspirativa ou histeroscopia com biópsia dirigida. Tratar atrofia, prescrever progestagênio ou repetir a imagem sem histologia pode atrasar o diagnóstico. O CA-125 não tem papel no diagnóstico inicial. ACOG, 2018.",
+  "porAlt": [
+   "Atrofia só é diagnóstico de exclusão com endométrio fino; aqui o eco está espessado.",
+   "Repetir a imagem sem biópsia atrasa o diagnóstico de possível carcinoma.",
+   "Tratamento hormonal antes da histologia pode mascarar hiperplasia ou câncer.",
+   "O CA-125 não diagnostica câncer de endométrio e não muda a indicação da biópsia.",
+   "Correta: endométrio acima de 4 mm com sangramento pós-menopausa exige histologia."
+  ]
+ },
+ {
+  "q": "Mulher de 63 anos refere distensão abdominal e saciedade precoce há 2 meses. A ultrassonografia transvaginal mostra massa anexial direita de 9 cm, multilocular, com componente sólido vascularizado e septos espessos, além de ascite. CA-125 de 480 U/mL. Qual a conduta mais adequada?",
+  "alts": [
+   "Quimioterapia empírica sem diagnóstico histológico",
+   "Punção guiada da massa para estudo citológico",
+   "Repetir a ultrassonografia em 6 a 8 semanas",
+   "Cistectomia laparoscópica no hospital geral",
+   "Cirurgia por equipe de oncologia ginecológica"
+  ],
+  "gab": 4,
+  "tema": "ginonco",
+  "sub": "Massa anexial suspeita",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin 174, Evaluation and Management of Adnexal Masses, 2016",
+  "coment": "Massa anexial na pós-menopausa com componente sólido vascularizado, septos espessos, ascite e CA-125 muito elevado tem alta suspeita de câncer de ovário (regras simples da IOTA e O-RADS de alto risco). A conduta é encaminhar a centro com oncologia ginecológica para laparotomia de estadiamento e citorredução, o que melhora a sobrevida. A punção da massa é contraindicada pelo risco de disseminação e pela baixa acurácia. Cistectomia laparoscópica em serviço sem retaguarda oncológica arrisca ruptura e estadiamento inadequado. ACOG, 2016.",
+  "porAlt": [
+   "Quimioterapia sem diagnóstico e estadiamento não é a abordagem inicial.",
+   "A punção pode disseminar células tumorais e tem baixa acurácia diagnóstica.",
+   "Observar massa sólida com ascite e CA-125 alto atrasa o tratamento.",
+   "Cistectomia laparoscópica sem retaguarda oncológica arrisca ruptura e estadiamento incompleto.",
+   "Correta: massa com critérios de malignidade deve ser operada por equipe de oncologia ginecológica."
+  ]
+ },
+ {
+  "q": "Mulher de 26 anos, não gestante, refere corrimento acinzentado com odor de peixe, que piora após a relação sexual, sem prurido. Ao exame especular, conteúdo vaginal homogêneo e fino, sem hiperemia; pH vaginal de 5,0; teste das aminas positivo; microscopia com células-alvo (clue cells). Qual o tratamento recomendado?",
+  "alts": [
+   "Fluconazol 150 mg VO em dose única",
+   "Metronidazol 500 mg VO 12/12 h por 7 dias",
+   "Metronidazol 2 g VO em dose única para o casal",
+   "Ceftriaxona 500 mg IM e azitromicina 1 g VO",
+   "Clindamicina creme e tratamento do parceiro"
+  ],
+  "gab": 1,
+  "tema": "gininfec",
+  "sub": "Vaginose bacteriana",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "O quadro preenche os critérios de Amsel para vaginose bacteriana (corrimento homogêneo, pH acima de 4,5, teste das aminas positivo e células-alvo). O PCDT de IST de 2022 indica metronidazol 500 mg VO de 12/12 horas por 7 dias ou metronidazol gel vaginal por 5 noites; a clindamicina é alternativa. A vaginose não é considerada IST, e o tratamento da parceria sexual não é recomendado. A dose única de 2 g é esquema de tricomoníase. Ministério da Saúde, PCDT IST, 2022.",
+  "porAlt": [
+   "Fluconazol trata candidíase, que cursa com prurido e pH vaginal normal.",
+   "Correta: metronidazol 500 mg de 12/12 horas por 7 dias é o esquema de primeira escolha.",
+   "Dose única com tratamento do casal corresponde à tricomoníase, não à vaginose.",
+   "Ceftriaxona com azitromicina trata cervicite por gonococo e clamídia.",
+   "A clindamicina é alternativa, mas tratar o parceiro não reduz a recorrência da vaginose."
+  ]
+ },
+ {
+  "q": "Mulher de 32 anos, não gestante, com glicemia normal e HIV negativo, apresenta o quinto episódio de candidíase vulvovaginal no último ano, todos confirmados por microscopia. Está sintomática no momento. Segundo o PCDT de IST de 2022, qual o esquema indicado?",
+  "alts": [
+   "Fluconazol 150 mg em dose única a cada novo episódio sintomático",
+   "Fluconazol nos dias 1, 4 e 7 e depois semanal por 6 meses",
+   "Metronidazol 500 mg de 12/12 horas por 7 dias e parceiro",
+   "Nistatina vaginal por 14 noites com tratamento do parceiro",
+   "Itraconazol 200 mg ao dia por 30 dias seguidos"
+  ],
+  "gab": 1,
+  "tema": "gininfec",
+  "sub": "Candidíase recorrente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Candidíase vulvovaginal recorrente é definida por 4 ou mais episódios sintomáticos em 1 ano. O PCDT de IST de 2022 indica fase de indução com fluconazol 150 mg VO nos dias 1, 4 e 7, seguida de manutenção com fluconazol 150 mg VO semanal por 6 meses. Deve-se investigar fatores predisponentes (diabetes, imunossupressão, corticoides, antibióticos). O tratamento da parceria não é recomendado de rotina, pois a candidíase não é considerada IST. Ministério da Saúde, PCDT IST, 2022.",
+  "porAlt": [
+   "Tratar cada episódio isoladamente não previne novas recorrências.",
+   "Correta: candidíase recorrente exige indução com 3 doses e manutenção semanal por 6 meses.",
+   "Metronidazol trata vaginose e tricomoníase e pode até favorecer candidíase.",
+   "A nistatina tem eficácia inferior, e tratar o parceiro não reduz recorrências.",
+   "Itraconazol diário por 30 dias não é o esquema preconizado pelo PCDT."
+  ]
+ },
+ {
+  "q": "Mulher de 30 anos, com parceiro fixo há 2 meses, refere corrimento amarelo-esverdeado, bolhoso e com odor, além de prurido e disúria há 1 semana. Ao exame especular, colo com pontilhado hemorrágico (aspecto de framboesa); pH vaginal de 6,0. A microscopia a fresco mostra protozoários flagelados móveis. Qual a conduta?",
+  "alts": [
+   "Metronidazol oral, sem tratar a parceria sexual",
+   "Metronidazol 2 g VO e tratamento da parceria sexual",
+   "Fluconazol oral e tratamento da parceria sexual",
+   "Clindamicina vaginal, sem tratar a parceria",
+   "Azitromicina oral e tratamento da parceria sexual"
+  ],
+  "gab": 1,
+  "tema": "gininfec",
+  "sub": "Tricomoníase",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Corrimento amarelo-esverdeado bolhoso, colpite com colo em framboesa, pH acima de 4,5 e protozoários flagelados à microscopia confirmam tricomoníase, uma IST. O PCDT de 2022 indica metronidazol 2 g VO em dose única ou 500 mg de 12/12 horas por 7 dias, com tratamento simultâneo da parceria sexual e abstinência até a cura. Também se oferece testagem para HIV, sífilis e hepatites B e C. Clindamicina e azitromicina não tratam o Trichomonas. Ministério da Saúde, PCDT IST, 2022.",
+  "porAlt": [
+   "Não tratar a parceria mantém a reinfecção, pois a tricomoníase é transmitida sexualmente.",
+   "Correta: tricomoníase é IST e exige metronidazol para a paciente e para a parceria.",
+   "Fluconazol trata candidíase e não tem ação contra Trichomonas.",
+   "Clindamicina é opção para vaginose, sem eficácia contra o protozoário.",
+   "Azitromicina trata clamídia e não é ativa contra Trichomonas vaginalis."
+  ]
+ },
+ {
+  "q": "Homem de 28 anos procura a UBS com úlcera única em sulco balanoprepucial há 6 dias, pouco dolorosa, sem vesículas prévias, e linfonodo inguinal discretamente aumentado. A unidade não dispõe de exames para diagnóstico etiológico imediato. Segundo a abordagem sindrômica do PCDT de IST de 2022, qual o tratamento?",
+  "alts": [
+   "Doxiciclina 100 mg VO de 12/12 horas por 21 dias",
+   "Aciclovir 400 mg VO de 8/8 horas por 7 a 10 dias",
+   "Penicilina benzatina 2,4 milhões UI e azitromicina 1 g VO",
+   "Ceftriaxona 500 mg IM e azitromicina 1 g em dose única",
+   "Penicilina benzatina 7,2 milhões UI em 3 doses semanais"
+  ],
+  "gab": 2,
+  "tema": "gininfec",
+  "sub": "Úlcera genital: abordagem sindrômica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Na abordagem sindrômica da úlcera genital sem diagnóstico etiológico disponível, o PCDT de 2022 orienta: se houver história ou evidência de lesões vesiculosas, tratar herpes; se não, tratar sífilis primária e cancroide, com benzilpenicilina benzatina 2,4 milhões UI IM em dose única e azitromicina 1 g VO em dose única. Úlceras com mais de 4 semanas exigem biópsia e cobertura para donovanose. Deve-se testar para HIV, sífilis e hepatites e tratar as parcerias. Ministério da Saúde, PCDT IST, 2022.",
+  "porAlt": [
+   "Doxiciclina por 21 dias é esquema de linfogranuloma venéreo, não de úlcera recente.",
+   "Aciclovir é indicado quando há vesículas ou história sugestiva de herpes.",
+   "Correta: úlcera sem vesículas recebe cobertura para sífilis primária e cancroide.",
+   "Ceftriaxona com azitromicina é o esquema de uretrite e cervicite, não de úlcera genital.",
+   "Três doses semanais tratam sífilis latente tardia, não a úlcera primária."
+  ]
+ },
+ {
+  "q": "Mulher de 22 anos apresenta, há 2 dias, múltiplas vesículas e úlceras rasas muito dolorosas em pequenos lábios, com febre baixa, mal-estar e linfonodos inguinais dolorosos. Nega episódios anteriores e tem parceiro novo há 3 semanas. Qual o tratamento indicado pelo PCDT de IST de 2022?",
+  "alts": [
+   "Valaciclovir 500 mg VO em dose única",
+   "Aciclovir 400 mg VO de 8/8 horas por 5 dias",
+   "Penicilina benzatina 2,4 milhões UI e azitromicina 1 g",
+   "Aciclovir 400 mg VO de 12/12 horas por 6 meses",
+   "Aciclovir 400 mg VO de 8/8 horas por 7 a 10 dias"
+  ],
+  "gab": 4,
+  "tema": "gininfec",
+  "sub": "Herpes genital: primeiro episódio",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Vesículas agrupadas que evoluem para úlceras dolorosas, com sintomas sistêmicos e adenopatia dolorosa, em primeiro episódio, caracterizam primoinfecção por herpes simples. O PCDT de 2022 indica aciclovir 400 mg (2 comprimidos de 200 mg) VO de 8/8 horas por 7 a 10 dias, iniciado o mais cedo possível. Nas recorrências, usa-se o mesmo esquema por 5 dias; a terapia supressiva (400 mg de 12/12 horas por até 6 meses) é reservada a 6 ou mais episódios por ano. Úlcera com vesículas dispensa cobertura empírica para sífilis e cancroide, mas exige testagem. Ministério da Saúde, PCDT IST, 2022.",
+  "porAlt": [
+   "Dose única não é esquema de tratamento do primeiro episódio de herpes no PCDT.",
+   "Cinco dias é o esquema das recorrências, não da primoinfecção.",
+   "Lesões vesiculosas direcionam para herpes, sem necessidade de cobrir sífilis e cancroide.",
+   "O esquema de 12/12 horas por meses é supressivo, para recorrências frequentes.",
+   "Correta: o primeiro episódio de herpes genital é tratado por 7 a 10 dias."
+  ]
+ },
+ {
+  "q": "Mulher de 35 anos, não gestante, assintomática, tem teste rápido treponêmico reagente em ação de testagem e VDRL de 1:8. Nunca foi tratada para sífilis e não sabe quando poderia ter se infectado. Exame físico sem lesões cutâneas, mucosas ou neurológicas. Qual o tratamento?",
+  "alts": [
+   "Ceftriaxona 1 g IM ao dia por 10 dias",
+   "Penicilina benzatina 2,4 milhões UI IM em dose única",
+   "Penicilina cristalina IV por 14 dias em internação",
+   "Doxiciclina 100 mg VO de 12/12 horas por 15 dias",
+   "Penicilina benzatina 2,4 milhões UI IM semanal, 3 doses"
+  ],
+  "gab": 4,
+  "tema": "gininfec",
+  "sub": "Sífilis latente tardia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Sífilis sem tempo de evolução conhecido é classificada como latente tardia (ou de duração ignorada) e tratada como tal. O PCDT de 2022 indica benzilpenicilina benzatina 2,4 milhões UI IM semanal por 3 semanas (total de 7,2 milhões UI). A dose única serve para sífilis recente (primária, secundária ou latente com menos de 1 ano). A penicilina cristalina é reservada à neurossífilis. Na impossibilidade de penicilina em não gestante, a doxiciclina por 30 dias é alternativa para a forma tardia. O seguimento é com VDRL trimestral. Ministério da Saúde, PCDT IST, 2022.",
+  "porAlt": [
+   "Ceftriaxona não é o esquema padrão para sífilis latente tardia no PCDT.",
+   "Dose única trata apenas a sífilis recente, com menos de 1 ano de evolução.",
+   "Penicilina cristalina IV é reservada à neurossífilis, não suspeitada aqui.",
+   "Na forma tardia, a doxiciclina alternativa é usada por 30 dias, não por 15.",
+   "Correta: latente de duração ignorada é tratada com três doses semanais de benzatina."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos foi tratado para sífilis secundária com penicilina benzatina 2,4 milhões UI. O VDRL era 1:32 antes do tratamento e caiu para 1:4 após 6 meses. No controle seguinte, 3 meses depois, o VDRL é 1:32, e ele relata nova parceria sem preservativo. Está assintomático. Qual a interpretação e a conduta?",
+  "alts": [
+   "Reação de Jarisch-Herxheimer; observar e repetir",
+   "Cicatriz sorológica; manter apenas o seguimento",
+   "Reinfecção; retratar e abordar a parceria",
+   "Falso-positivo; solicitar teste treponêmico novo",
+   "Resposta adequada; encerrar o seguimento sorológico"
+  ],
+  "gab": 2,
+  "tema": "gininfec",
+  "sub": "Sífilis: reinfecção no seguimento",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Após tratamento adequado da sífilis recente, espera-se queda de pelo menos duas diluições do teste não treponêmico em até 6 meses, o que ocorreu (de 1:32 para 1:4). Elevação de duas ou mais diluições em relação ao último exame (de 1:4 para 1:32) indica reinfecção ou reativação e exige retratamento, além de testagem e tratamento das parcerias sexuais. O teste treponêmico permanece reagente por toda a vida e não serve para o seguimento. Ministério da Saúde, PCDT IST, 2022.",
+  "porAlt": [
+   "A reação de Jarisch-Herxheimer ocorre horas após a dose e não altera o VDRL meses depois.",
+   "Cicatriz sorológica é título baixo e estável, não elevação de quatro vezes.",
+   "Correta: aumento de duas ou mais diluições após queda indica reinfecção e exige retratamento.",
+   "O teste treponêmico fica reagente por toda a vida e não esclarece o aumento do título.",
+   "Elevação de duas diluições não é resposta adequada e impede encerrar o seguimento."
+  ]
+ },
+ {
+  "q": "Mulher de 21 anos, assintomática, comparece com o parceiro, que tem uretrite purulenta. Ao exame especular, o colo apresenta secreção mucopurulenta pelo orifício externo e sangra facilmente ao toque da espátula. Não há dor à mobilização do colo nem à palpação anexial. Não há exames laboratoriais disponíveis na hora. Qual o tratamento?",
+  "alts": [
+   "Azitromicina 1 g VO isolada, em dose única",
+   "Ceftriaxona 500 mg IM, doxiciclina e metronidazol por 14 dias",
+   "Metronidazol 2 g VO em dose única para ela e o parceiro",
+   "Ceftriaxona 500 mg IM e azitromicina 1 g VO, dose única",
+   "Penicilina benzatina 2,4 milhões UI IM em dose única"
+  ],
+  "gab": 3,
+  "tema": "gininfec",
+  "sub": "Cervicite",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Secreção mucopurulenta endocervical e colo friável caracterizam cervicite, causada principalmente por Neisseria gonorrhoeae e Chlamydia trachomatis; a parceria com uretrite reforça a hipótese. Sem diagnóstico etiológico, o PCDT de 2022 indica tratar ambos: ceftriaxona 500 mg IM em dose única e azitromicina 1 g VO em dose única, além de tratar a parceria e testar para HIV, sífilis e hepatites. A ausência de dor à mobilização do colo e anexial afasta doença inflamatória pélvica, que exigiria o esquema de 14 dias. Ministério da Saúde, PCDT IST, 2022.",
+  "porAlt": [
+   "Azitromicina isolada deixa o gonococo sem cobertura adequada.",
+   "O esquema de 14 dias com metronidazol é para DIP, ausente neste exame.",
+   "Metronidazol trata tricomoníase e vaginose, não gonococo nem clamídia.",
+   "Correta: cervicite sem etiologia definida recebe cobertura para gonococo e clamídia.",
+   "Penicilina benzatina trata sífilis e não é ativa contra clamídia."
+  ]
+ },
+ {
+  "q": "Mulher de 24 anos refere dor em baixo ventre há 4 dias, corrimento e dispareunia. Temperatura de 37,9 °C, bom estado geral, aceitando dieta oral. Dor à mobilização do colo e à palpação anexial bilateral, sem massa palpável. Beta-hCG negativo; ultrassonografia sem abscesso. Qual o tratamento ambulatorial recomendado pelo PCDT de IST de 2022?",
+  "alts": [
+   "Amoxicilina com clavulanato VO por 10 dias isoladamente",
+   "Ceftriaxona IM e azitromicina 1 g VO, ambas em dose única",
+   "Ciprofloxacino e metronidazol VO por 7 dias, sem injeção",
+   "Ceftriaxona 500 mg IM, doxiciclina e metronidazol por 14 dias",
+   "Doxiciclina e metronidazol VO por 7 dias, sem ceftriaxona"
+  ],
+  "gab": 3,
+  "tema": "gininfec",
+  "sub": "DIP: esquema ambulatorial",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Dor pélvica com dor à mobilização do colo e anexial em mulher sexualmente ativa, sem outra causa, define doença inflamatória pélvica. Sem critérios de internação (abscesso tubo-ovariano, gestação, intolerância oral, quadro grave, dúvida com emergência cirúrgica), o PCDT de 2022 indica ceftriaxona 500 mg IM em dose única, doxiciclina 100 mg VO de 12/12 horas por 14 dias e metronidazol 500 mg VO de 12/12 horas por 14 dias, com reavaliação em 72 horas e tratamento da parceria. Ministério da Saúde, PCDT IST, 2022.",
+  "porAlt": [
+   "Amoxicilina com clavulanato isolada não cobre clamídia de forma adequada.",
+   "Dose única trata cervicite, mas é insuficiente para infecção do trato genital superior.",
+   "Quinolona não é recomendada pela resistência do gonococo, e 7 dias é tempo insuficiente.",
+   "Correta: o esquema ambulatorial da DIP associa ceftriaxona em dose única a doxiciclina e metronidazol por 14 dias.",
+   "Sem ceftriaxona, o gonococo fica sem cobertura, e 7 dias é tempo insuficiente."
+  ]
+ },
+ {
+  "q": "Mulher de 29 anos, usuária de DIU de cobre há 2 anos, tem diagnóstico clínico de doença inflamatória pélvica leve, sem abscesso à ultrassonografia, e inicia tratamento ambulatorial. Pergunta se precisa retirar o DIU. Segundo o PCDT de IST de 2022, qual a orientação?",
+  "alts": [
+   "Retirar o DIU antes da primeira dose do antibiótico",
+   "Manter o DIU e reavaliar a resposta em 72 horas",
+   "Retirar o DIU após 24 horas de antibiótico",
+   "Retirar o DIU e contraindicar novo DIU no futuro",
+   "Manter o DIU só se substituído por DIU hormonal"
+  ],
+  "gab": 1,
+  "tema": "gininfec",
+  "sub": "DIP em usuária de DIU",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Em usuárias de DIU com doença inflamatória pélvica, não é necessário remover o dispositivo para tratar a infecção. O PCDT de 2022 orienta manter o DIU e reavaliar em 48 a 72 horas; se não houver melhora clínica, considera-se a remoção, além de revisar o diagnóstico e o esquema. A retirada de rotina não melhora o desfecho e deixa a mulher sem contracepção. O risco de DIP associado ao DIU concentra-se nas primeiras semanas após a inserção, e uma DIP tratada não contraindica o método no futuro. Ministério da Saúde, PCDT IST, 2022.",
+  "porAlt": [
+   "A retirada antes do antibiótico não é necessária e não melhora a evolução.",
+   "Correta: o DIU pode ser mantido, com retirada considerada só se não houver melhora em 72 horas.",
+   "Não há indicação de retirada programada após 24 horas de tratamento.",
+   "DIP tratada não contraindica o uso futuro do DIU.",
+   "Trocar o tipo de DIU não é exigência para manter o dispositivo durante o tratamento."
+  ]
+ },
+ {
+  "q": "Gestante de 24 semanas, primigesta, com pré-natal sem intercorrências, apresenta múltiplas lesões verrucosas exofíticas, pequenas, em vulva e região perineal, compatíveis com condilomas acuminados. Não há lesões no colo nem obstrução do canal vaginal. Qual a conduta adequada durante a gestação?",
+  "alts": [
+   "Podofilina 10 a 25% aplicada no serviço",
+   "Imiquimode creme aplicado pela própria gestante",
+   "Ácido tricloroacético a 80 a 90% no serviço",
+   "Podofilotoxina creme em ciclos domiciliares",
+   "Cesariana obrigatória pela presença das lesões"
+  ],
+  "gab": 2,
+  "tema": "gininfec",
+  "sub": "Condiloma na gestação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Na gestação, as verrugas anogenitais podem crescer pela imunomodulação. O PCDT de 2022 contraindica podofilina, podofilotoxina e imiquimode na gestação, pelos riscos ao feto ou falta de segurança estabelecida. Opções seguras são ácido tricloroacético a 80 a 90%, crioterapia, eletrocauterização ou exérese cirúrgica. A presença de condilomas não indica cesariana, exceto quando as lesões obstruem o canal de parto ou há risco de sangramento importante. Ministério da Saúde, PCDT IST, 2022.",
+  "porAlt": [
+   "A podofilina é contraindicada na gestação por toxicidade.",
+   "O imiquimode não tem segurança estabelecida na gestação e é contraindicado pelo PCDT.",
+   "Correta: o ácido tricloroacético aplicado pelo profissional é seguro na gestação.",
+   "A podofilotoxina também é contraindicada durante a gestação.",
+   "Condiloma só indica cesariana se obstruir o canal de parto ou houver risco de sangramento."
+  ]
+ },
+ {
+  "q": "Menina de 13 anos comparece à UBS com a mãe para atualizar a caderneta. Nunca recebeu vacina contra HPV, não tem imunossupressão e ainda não iniciou a vida sexual. As demais vacinas estão em dia. Segundo o esquema do Programa Nacional de Imunizações adotado em 2024, como deve ser vacinada?",
+  "alts": [
+   "Três doses, nos meses 0, 2 e 6",
+   "Duas doses, com intervalo de 6 meses",
+   "Dose única da vacina quadrivalente",
+   "Duas doses, com intervalo de 12 meses",
+   "Dose única, só após início da vida sexual"
+  ],
+  "gab": 2,
+  "tema": "gininfec",
+  "sub": "Vacina HPV: dose única",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Calendário Nacional de Vacinação, esquema de dose única da vacina HPV, 2024",
+  "coment": "Em 2024, o Programa Nacional de Imunizações adotou o esquema de dose única da vacina HPV quadrivalente para meninas e meninos de 9 a 14 anos, com base em evidências de proteção equivalente ao esquema de duas doses e na recomendação da OMS de 2022. O ideal é vacinar antes do início da vida sexual, mas a vacina não depende disso. Pessoas imunossuprimidas e vivendo com HIV mantêm esquema de três doses (0, 2 e 6 meses). A vacinação não dispensa o rastreamento do câncer do colo do útero na idade adulta. Ministério da Saúde, 2024.",
+  "porAlt": [
+   "Três doses são reservadas a imunossuprimidos e pessoas vivendo com HIV.",
+   "Duas doses com 6 meses de intervalo era o esquema anterior a 2024.",
+   "Correta: de 9 a 14 anos, o esquema do PNI desde 2024 é de dose única.",
+   "Não existe esquema de duas doses com 12 meses no calendário atual.",
+   "A vacina é feita de preferência antes do início da vida sexual, não depois."
+  ]
+ },
+ {
+  "q": "Mulher de 26 anos, saudável, não tabagista, deseja anticoncepção. Tem enxaqueca com aura visual (escotomas cintilantes que precedem a cefaleia), cerca de 2 episódios por mês. Pressão arterial normal. Segundo os critérios médicos de elegibilidade da OMS, qual opção é adequada?",
+  "alts": [
+   "Adesivo transdérmico combinado semanal",
+   "Anticoncepcional oral combinado de baixa dose",
+   "Anel vaginal combinado de uso mensal",
+   "DIU de cobre ou método com progestagênio isolado",
+   "Injetável combinado de aplicação mensal"
+  ],
+  "gab": 3,
+  "tema": "reprodutiva",
+  "sub": "Enxaqueca com aura e contracepção",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "OMS. Medical Eligibility Criteria for Contraceptive Use, 5ª ed., 2015",
+  "coment": "Enxaqueca com aura, em qualquer idade, é categoria 4 da OMS para todos os métodos hormonais combinados (pílula, anel, adesivo e injetável mensal), pelo aumento do risco de AVC isquêmico. Os métodos só de progestagênio não têm essa restrição (categorias 1 ou 2), e o DIU de cobre é categoria 1, pois não contém hormônio. A aura é o dado decisivo: na enxaqueca sem aura em mulher com menos de 35 anos, o combinado é categoria 2 para início. OMS, 2015.",
+  "porAlt": [
+   "O adesivo combinado também é categoria 4 nesse cenário.",
+   "A pílula combinada é categoria 4 na enxaqueca com aura pelo risco de AVC.",
+   "O anel combinado contém estrogênio e tem a mesma restrição da pílula.",
+   "Correta: sem estrogênio, DIU de cobre e progestagênio isolado são permitidos na enxaqueca com aura.",
+   "O injetável mensal contém estrogênio e é categoria 4 na enxaqueca com aura."
+  ]
+ },
+ {
+  "q": "Mulher de 37 anos fuma 20 cigarros por dia há 15 anos e usa anticoncepcional oral combinado há 10 anos. Pressão arterial de 124/80 mmHg, sem outras doenças. Comparece para renovar a receita. Segundo os critérios de elegibilidade da OMS, qual a conduta?",
+  "alts": [
+   "Trocar pelo injetável combinado mensal",
+   "Manter a pílula com dose menor de etinilestradiol",
+   "Manter a pílula, pois é usuária antiga sem eventos",
+   "Trocar pelo adesivo combinado transdérmico",
+   "Trocar por método sem estrogênio"
+  ],
+  "gab": 4,
+  "tema": "reprodutiva",
+  "sub": "Tabagismo após 35 anos",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "OMS. Medical Eligibility Criteria for Contraceptive Use, 5ª ed., 2015",
+  "coment": "Tabagismo em mulheres com 35 anos ou mais é categoria 3 para os combinados quando há menos de 15 cigarros por dia e categoria 4 com 15 ou mais cigarros por dia, pelo risco somado de infarto e AVC. Todas as vias combinadas (pílula, adesivo, anel e injetável mensal) seguem a mesma classificação, e a dose menor de etinilestradiol não remove a contraindicação. São opções o DIU de cobre, o DIU hormonal, o implante e os métodos só de progestagênio, além do aconselhamento para cessação do tabagismo. OMS, 2015.",
+  "porAlt": [
+   "O injetável mensal contém estrogênio e é igualmente contraindicado.",
+   "Reduzir a dose de etinilestradiol não muda a categoria 4.",
+   "O uso prévio sem eventos não reduz o risco cardiovascular atual.",
+   "O adesivo combinado tem a mesma restrição da pílula.",
+   "Correta: 35 anos ou mais com 15 ou mais cigarros por dia é categoria 4 para estrogênio."
+  ]
+ },
+ {
+  "q": "Puérpera de 24 anos, 3 semanas após parto vaginal, em aleitamento materno exclusivo, deseja iniciar anticoncepção hoje. Não tem outras condições clínicas, e a pressão arterial está normal. Segundo os critérios de elegibilidade da OMS, qual a opção adequada para início nesta consulta?",
+  "alts": [
+   "Pílula combinada de baixa dose",
+   "Pílula só de progestagênio",
+   "Inserção de DIU de cobre hoje",
+   "Anel vaginal combinado mensal",
+   "Injetável combinado mensal"
+  ],
+  "gab": 1,
+  "tema": "reprodutiva",
+  "sub": "Contracepção na lactação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "OMS. Medical Eligibility Criteria for Contraceptive Use, 5ª ed., 2015",
+  "coment": "Em lactantes com menos de 6 semanas pós-parto, os métodos combinados são categoria 4, pela possível redução da produção de leite e pelo risco tromboembólico do puerpério. A pílula só de progestagênio é categoria 2 e pode ser iniciada. O DIU inserido entre 48 horas e 4 semanas após o parto é categoria 3, pelo maior risco de perfuração e expulsão; pode ser inserido nas primeiras 48 horas ou a partir de 4 semanas. Por isso, aos 21 dias, o DIU deve aguardar mais uma semana. OMS, 2015.",
+  "porAlt": [
+   "Métodos combinados são categoria 4 na lactação antes de 6 semanas.",
+   "Correta: o progestagênio isolado é permitido na lactação com menos de 6 semanas.",
+   "O DIU entre 48 horas e 4 semanas pós-parto é categoria 3.",
+   "O anel contém estrogênio e segue a restrição dos combinados.",
+   "O injetável mensal é combinado e é categoria 4 neste período."
+  ]
+ },
+ {
+  "q": "Mulher de 27 anos procura a UBS 4 dias após relação sexual desprotegida, no meio do ciclo. Não deseja engravidar nos próximos anos e gostaria de um método de longa duração sem hormônio. Beta-hCG negativo, sem sinais de infecção genital. Qual a melhor conduta?",
+  "alts": [
+   "Explicar que o prazo da contracepção já passou",
+   "Levonorgestrel 1,5 mg e DIU no próximo ciclo",
+   "Inserir DIU de cobre nesta consulta",
+   "Levonorgestrel 0,75 mg em duas doses de 12 h",
+   "Iniciar pílula combinada em dose dobrada hoje"
+  ],
+  "gab": 2,
+  "tema": "reprodutiva",
+  "sub": "DIU de cobre de emergência",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "OMS. Family Planning: A Global Handbook for Providers, 2018",
+  "coment": "O DIU de cobre é o método de contracepção de emergência mais eficaz, com falha inferior a 0,1%, e pode ser inserido em até 5 dias (120 horas) após a relação desprotegida, permanecendo como método de longa duração. O levonorgestrel também pode ser usado até o quinto dia, mas sua eficácia cai com o tempo e é menor em mulheres com IMC elevado. O método de Yuzpe (combinado em dose alta) tem mais efeitos adversos e menor eficácia. Como a paciente deseja contracepção duradoura sem hormônio, o DIU atende às duas demandas. OMS, 2018.",
+  "porAlt": [
+   "A contracepção de emergência pode ser feita até 5 dias após a relação.",
+   "O levonorgestrel é menos eficaz no quarto dia, e adiar o DIU deixa a paciente desprotegida.",
+   "Correta: o DIU de cobre até o quinto dia é a contracepção de emergência mais eficaz e já serve de método.",
+   "A dose fracionada tem eficácia igual à dose única, mas inferior ao DIU no quarto dia.",
+   "O método de Yuzpe tem menor eficácia e mais náuseas que as alternativas."
+  ]
+ },
+ {
+  "q": "Adolescente de 15 anos chega sozinha à UBS 18 horas após relação sexual consentida com o namorado de 16 anos, em que o preservativo rompeu. Pede contracepção de emergência e não quer que os pais saibam. Qual a conduta adequada?",
+  "alts": [
+   "Solicitar beta-hCG antes de prescrever o método",
+   "Exigir a presença de responsável para prescrever",
+   "Prescrever levonorgestrel 1,5 mg e manter o sigilo",
+   "Notificar o Conselho Tutelar antes de prescrever",
+   "Negar o método e orientar retorno com a mãe"
+  ],
+  "gab": 2,
+  "tema": "reprodutiva",
+  "sub": "Contracepção de emergência na adolescente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 26, Saúde Sexual e Saúde Reprodutiva, 2013",
+  "coment": "Adolescentes têm direito a atendimento com privacidade e sigilo, inclusive para contracepção de emergência, sem exigência da presença de responsáveis, segundo o Estatuto da Criança e do Adolescente e o Código de Ética Médica, salvo risco à vida ou à saúde. O levonorgestrel 1,5 mg em dose única deve ser usado o mais cedo possível, idealmente nas primeiras 72 horas. Não é abortivo e não exige teste de gravidez. Relação consentida entre adolescentes de 15 e 16 anos não configura estupro de vulnerável (menor de 14 anos) e não exige notificação. Ministério da Saúde, 2013.",
+  "porAlt": [
+   "O teste de gravidez não é necessário, pois o método não interrompe gestação estabelecida.",
+   "Exigir responsável é barreira indevida e atrasa um método que depende do tempo.",
+   "Correta: a adolescente tem direito à contracepção de emergência com sigilo.",
+   "Relação consentida entre adolescentes dessa idade não exige notificação ao Conselho Tutelar.",
+   "Negar o método viola o direito ao atendimento e aumenta o risco de gestação."
+  ]
+ },
+ {
+  "q": "Adolescente de 17 anos, nuligesta, com vida sexual ativa e uso irregular de pílula, deseja DIU com levonorgestrel. Não tem IST atual nem alterações ao exame. Segundo os critérios de elegibilidade da OMS, como se classifica o uso do DIU nesta paciente?",
+  "alts": [
+   "Categoria 2: vantagens superam os riscos",
+   "Categoria 4: proibido antes do primeiro parto",
+   "Categoria 3: reservado à falta de alternativas",
+   "Categoria 1: sem restrição, como em adultas",
+   "Categoria 4: proibido em menores de 18 anos"
+  ],
+  "gab": 0,
+  "tema": "reprodutiva",
+  "sub": "DIU na adolescente nuligesta",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "OMS. Medical Eligibility Criteria for Contraceptive Use, 5ª ed., 2015",
+  "coment": "Pelos critérios da OMS, idade entre a menarca e 20 anos e nuliparidade são categoria 2 para o DIU de cobre e para o DIU com levonorgestrel: as vantagens geralmente superam os riscos teóricos ou comprovados (maior chance de expulsão e preocupação histórica com IST). Os métodos de longa duração são recomendados para adolescentes pela alta eficácia, já que não dependem do uso diário. O rastreio de IST pode ser feito no dia da inserção, sem adiar o método em quem não tem sinais de infecção. OMS, 2015.",
+  "porAlt": [
+   "Correta: adolescência e nuliparidade são categoria 2, e o DIU pode ser usado.",
+   "Nuliparidade não proíbe o DIU; é apenas categoria 2.",
+   "A categoria 3 não se aplica à idade ou à nuliparidade isoladas.",
+   "Idade abaixo de 20 anos não é categoria 1, pelo maior risco de expulsão.",
+   "Não há limite de 18 anos para o DIU nos critérios da OMS."
+  ]
+ },
+ {
+  "q": "Mulher de 23 anos, casada, sem filhos, refere decisão firme de não ter filhos e solicita laqueadura tubária no SUS. O marido discorda e diz que ela precisa da assinatura dele. Segundo a Lei 9.263/1996, com a redação dada pela Lei 14.443/2022, qual a orientação correta?",
+  "alts": [
+   "Não pode, pois precisa ter 21 anos e também 2 filhos vivos",
+   "Não pode, pois a lei ainda exige 25 anos ou 2 filhos vivos",
+   "Pode realizar somente com o consentimento expresso do cônjuge",
+   "Pode, respeitados o prazo de 60 dias e o aconselhamento",
+   "Pode realizar de imediato, sem prazo, por ser procedimento eletivo"
+  ],
+  "gab": 3,
+  "tema": "reprodutiva",
+  "sub": "Laqueadura: Lei 14.443/2022",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 9.263/1996, alterada pela Lei 14.443/2022",
+  "coment": "A Lei 14.443/2022, em vigor desde março de 2023, alterou a Lei do Planejamento Familiar: a esterilização voluntária é permitida a pessoas com capacidade civil plena e maiores de 21 anos ou, pelo menos, com 2 filhos vivos, observado o prazo mínimo de 60 dias entre a manifestação da vontade e a cirurgia, período em que se oferece aconselhamento por equipe multidisciplinar para desencorajar a esterilização precoce. A lei revogou a exigência de consentimento do cônjuge. Lei 14.443/2022.",
+  "porAlt": [
+   "Os critérios são alternativos: mais de 21 anos ou 2 filhos vivos.",
+   "O critério de 25 anos foi reduzido para 21 anos pela Lei 14.443/2022.",
+   "A exigência de consentimento do cônjuge foi revogada em 2022.",
+   "Correta: com mais de 21 anos, basta cumprir o prazo de 60 dias e o aconselhamento.",
+   "O prazo mínimo de 60 dias entre a manifestação e a cirurgia continua obrigatório."
+  ]
+ },
+ {
+  "q": "Gestante de 30 anos, com 2 filhos vivos, está com 37 semanas e tem cesariana eletiva marcada para daqui a 10 dias por duas cesáreas anteriores. Manifestou por escrito o desejo de laqueadura tubária há 25 dias. Segundo a Lei 14.443/2022, qual a orientação?",
+  "alts": [
+   "Não realizar, pois a lei proíbe laqueadura no parto",
+   "Realizar no parto, pois tem 2 filhos vivos",
+   "Realizar no parto, pois há risco em nova cesárea",
+   "Não realizar no parto, por não cumprir 60 dias",
+   "Realizar no parto se o marido assinar a autorização"
+  ],
+  "gab": 3,
+  "tema": "reprodutiva",
+  "sub": "Laqueadura durante o parto",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 9.263/1996, alterada pela Lei 14.443/2022",
+  "coment": "A Lei 14.443/2022 passou a permitir a esterilização durante o parto, desde que observados o prazo mínimo de 60 dias entre a manifestação da vontade e o parto e as devidas condições médicas. Aqui, entre a manifestação e a cesárea haverá cerca de 35 dias, abaixo do mínimo legal. O número de filhos e as cesáreas prévias não dispensam o prazo, e o consentimento do cônjuge deixou de ser exigido. A laqueadura poderá ser feita em outro momento, mantendo-se contracepção no puerpério. Lei 14.443/2022.",
+  "porAlt": [
+   "Desde 2022, a laqueadura no parto é permitida se cumpridos o prazo e as condições médicas.",
+   "Ter 2 filhos vivos cumpre o critério de elegibilidade, mas não dispensa o prazo de 60 dias.",
+   "Cesáreas prévias não dispensam o prazo legal mínimo.",
+   "Correta: a lei exige 60 dias entre a manifestação e o parto para laqueadura no ato.",
+   "O consentimento do cônjuge foi revogado e não supre a falta do prazo."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos, casado, com 2 filhos, fez vasectomia no SUS há 2 semanas, sem complicações. A esposa usava pílula e pretende suspendê-la. Ele pergunta a partir de quando o casal poderá ter relações sem nenhum outro método contraceptivo. Qual a orientação correta?",
+  "alts": [
+   "Após 1 ano, quando a esterilidade é definitiva",
+   "Imediatamente, pois os ductos foram ligados",
+   "Após 2 semanas, com a cicatrização completa",
+   "Após 20 ejaculações, sem necessidade de exame",
+   "Após espermograma mostrar azoospermia"
+  ],
+  "gab": 4,
+  "tema": "reprodutiva",
+  "sub": "Vasectomia: liberação",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "American Urological Association. Vasectomy Guideline, 2012 (emendada em 2015)",
+  "coment": "Após a vasectomia, espermatozoides viáveis permanecem nos ductos deferentes distais por semanas a meses. O casal deve manter outro método até a confirmação de azoospermia (ou de espermatozoides raros e imóveis, conforme critério urológico) no espermograma, em geral feito cerca de 3 meses após a cirurgia. A contagem de ejaculações isolada, sem exame, não garante eficácia. Pela Lei 14.443/2022, homens seguem os mesmos critérios de idade ou número de filhos e o prazo de 60 dias. AUA, 2012.",
+  "porAlt": [
+   "Não é preciso esperar 1 ano; o espermograma define a liberação.",
+   "Há espermatozoides residuais nos ductos distais logo após a cirurgia.",
+   "A cicatrização da pele não indica eliminação dos espermatozoides residuais.",
+   "O número de ejaculações orienta o momento do exame, mas não o substitui.",
+   "Correta: só o espermograma pós-vasectomia confirma a esterilidade."
+  ]
+ },
+ {
+  "q": "Casal procura a UBS porque tenta engravidar há 7 meses, com relações 3 vezes por semana, sem contracepção. A mulher tem 36 anos, ciclos regulares e nenhuma doença conhecida; o homem tem 38 anos e nenhuma queixa. Qual a conduta adequada?",
+  "alts": [
+   "Encaminhar direto para fertilização in vitro",
+   "Aguardar completar 12 meses antes de investigar",
+   "Investigar só a mulher, por ter mais de 35 anos",
+   "Prescrever clomifeno empírico por 3 ciclos",
+   "Investigar o casal após 6 meses, com espermograma"
+  ],
+  "gab": 4,
+  "tema": "reprodutiva",
+  "sub": "Infertilidade: quando investigar",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ASRM Practice Committee. Definitions of infertility and recurrent pregnancy loss, 2020",
+  "coment": "Infertilidade é a ausência de gestação após 12 meses de relações regulares sem contracepção; em mulheres com 35 anos ou mais, a investigação deve começar após 6 meses, pela queda da reserva ovariana. A avaliação inicial é do casal: na mulher, confirmação da ovulação, reserva ovariana e permeabilidade tubária (histerossalpingografia); no homem, espermograma, já que o fator masculino participa de cerca de metade dos casos. Indutor de ovulação empírico em mulher ovulatória sem diagnóstico não é recomendado. ASRM, 2020.",
+  "porAlt": [
+   "A fertilização in vitro só é indicada após investigação e definição da causa.",
+   "O prazo de 12 meses vale para mulheres com menos de 35 anos.",
+   "O fator masculino responde por cerca de metade dos casos e deve ser avaliado desde o início.",
+   "Clomifeno empírico sem diagnóstico em mulher ovulatória não é recomendado.",
+   "Correta: com 35 anos ou mais, a investigação do casal começa após 6 meses."
+  ]
+ },
+ {
+  "q": "Mulher de 22 anos chega ao serviço de referência 30 horas após estupro com penetração vaginal, sem preservativo, por agressor desconhecido. Não usa contraceptivo, tem esquema completo de vacina contra hepatite B e teste rápido de HIV não reagente. Além do acolhimento e da notificação, qual o conjunto de condutas indicado?",
+  "alts": [
+   "Levonorgestrel e profilaxia de IST, sem PEP após 24 horas",
+   "PEP de HIV, imunoglobulina anti-hepatite B e levonorgestrel",
+   "PEP de HIV por 28 dias, levonorgestrel e profilaxia contra IST",
+   "PEP de HIV só se o agressor for identificado e testado",
+   "PEP de HIV por 7 dias e repetir testes em 30 dias"
+  ],
+  "gab": 2,
+  "tema": "reprodutiva",
+  "sub": "Violência sexual: profilaxias",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Profilaxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais, 2021",
+  "coment": "Após violência sexual, a PEP de HIV deve começar o mais cedo possível e até 72 horas, com tenofovir, lamivudina e dolutegravir por 28 dias, sem depender da identificação do agressor. A contracepção de emergência com levonorgestrel 1,5 mg é indicada em mulheres sem método eficaz, e a profilaxia das IST não virais inclui ceftriaxona, azitromicina, penicilina benzatina e metronidazol (este pode ser adiado). Com esquema completo de hepatite B, não há indicação de imunoglobulina. Ministério da Saúde, PCDT PEP, 2021.",
+  "porAlt": [
+   "A PEP pode ser iniciada até 72 horas após a exposição.",
+   "Com vacinação completa contra hepatite B, a imunoglobulina não é indicada.",
+   "Correta: dentro de 72 horas, indicam-se PEP por 28 dias, contracepção de emergência e profilaxia de IST.",
+   "A PEP não depende da identificação ou testagem do agressor.",
+   "A PEP de HIV dura 28 dias, não 7 dias."
+  ]
+ },
+ {
+  "q": "Mulher de 19 anos, com gestação de 9 semanas confirmada por ultrassonografia, relata que a gravidez resultou de estupro. Não registrou boletim de ocorrência e solicita interrupção da gestação em hospital de referência. Segundo o Código Penal e a norma técnica do Ministério da Saúde, qual a conduta?",
+  "alts": [
+   "Realizar com consentimento escrito, sem exigir boletim policial",
+   "Exigir boletim de ocorrência antes de qualquer procedimento",
+   "Exigir autorização judicial para a interrupção da gestação",
+   "Exigir laudo do Instituto Médico Legal confirmando o estupro",
+   "Negar, pois a idade gestacional ultrapassa 8 semanas"
+  ],
+  "gab": 0,
+  "tema": "reprodutiva",
+  "sub": "Aborto legal por estupro",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Código Penal, art. 128, II, 1940; Ministério da Saúde. Norma Técnica Prevenção e Tratamento dos Agravos Resultantes da Violência Sexual contra Mulheres e Adolescentes, 2012",
+  "coment": "O artigo 128, inciso II, do Código Penal não pune o aborto praticado por médico quando a gravidez resulta de estupro e há consentimento da gestante ou, se incapaz, de seu representante legal. A norma técnica do Ministério da Saúde estabelece que não se exige boletim de ocorrência, laudo do IML nem autorização judicial: a palavra da mulher tem presunção de veracidade, e a equipe registra o relato, o consentimento e a compatibilidade da idade gestacional. O médico pode alegar objeção de consciência, mas o serviço deve garantir o atendimento. Ministério da Saúde, 2012.",
+  "porAlt": [
+   "Correta: a lei e a norma técnica dispensam boletim de ocorrência, laudo e autorização judicial.",
+   "Boletim de ocorrência não é requisito para o aborto previsto em lei.",
+   "Autorização judicial não é exigida no aborto por estupro.",
+   "Laudo do IML não é condição para o atendimento.",
+   "Nove semanas está dentro da idade gestacional prevista na norma técnica."
+  ]
+ }
+]

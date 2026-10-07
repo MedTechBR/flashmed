@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "trauma",
+  "a": "O que muda na sequência do atendimento primário no ATLS 11ª edição?",
+  "b": "Passa a ser xABCDE: a hemorragia externa exsanguinante (torniquete, compressão direta, hemostáticos) é controlada antes da via aérea. Reforça também reanimar o choque antes da intubação em sequência rápida. ATLS, 11ª edição, 2025."
+ },
+ {
+  "tema": "trauma",
+  "a": "Qual é a dose e a janela do ácido tranexâmico no trauma com hemorragia grave?",
+  "b": "1 g IV em 10 minutos e 1 g em 8 horas, iniciado em até 3 horas do trauma; depois de 3 horas não há benefício (CRASH-2). No TCE, há suporte para bolus de 2 g. ATLS, 11ª edição, 2025."
+ },
+ {
+  "tema": "trauma",
+  "a": "Quais são os quatro itens do escore ABC para transfusão maciça?",
+  "b": "Mecanismo penetrante, FAST positivo, PA sistólica de até 90 mmHg e FC de 120 bpm ou mais, 1 ponto cada. Escore de 2 ou mais prediz necessidade de transfusão maciça. Nunez et al., J Trauma, 2009."
+ },
+ {
+  "tema": "trauma",
+  "a": "O que define via aérea definitiva no trauma?",
+  "b": "Tubo na traqueia com balonete insuflado, fixado e conectado a fonte de oxigênio: orotraqueal, nasotraqueal ou cirúrgica. Máscara laríngea e cricotireoidostomia por punção não são definitivas. ATLS, 11ª edição, 2025."
+ },
+ {
+  "tema": "trauma",
+  "a": "O que indica toracotomia no hemotórax traumático?",
+  "b": "ATLS 11ª ed. (2025): o estado fisiológico (choque) e a continuação do sangramento, não um débito específico do dreno. Os números clássicos da 10ª ed. (cerca de 1.500 mL imediatos ou mais de 200 mL/h por 2 a 4 h) ainda caem em prova."
+ },
+ {
+  "tema": "trauma",
+  "a": "Quais são as classes de choque hemorrágico do ATLS por perda de volemia?",
+  "b": "Classe I até 15%; II de 15 a 30%; III de 31 a 40% (hipotensão, confusão, oligúria, déficit de bases de 6 a 10, transfusão necessária); IV acima de 40% (transfusão maciça). ATLS, 10ª edição, 2018."
+ },
+ {
+  "tema": "trauma",
+  "a": "Quais critérios indicam encaminhar o queimado a centro de tratamento de queimados?",
+  "b": "Segundo grau acima de 10% da superfície corporal, qualquer terceiro grau, face, mãos, pés, genitália, períneo ou grandes articulações, queimadura elétrica ou química, lesão inalatória, trauma associado ou comorbidade relevante. ATLS, 10ª edição, 2018."
+ },
+ {
+  "tema": "trauma",
+  "a": "Qual é o alvo de diurese na reposição volêmica do grande queimado adulto?",
+  "b": "0,5 mL/kg/h no adulto (cerca de 30 a 50 mL/h) e 1 mL/kg/h na criança pequena; a fórmula inicial do ATLS 11ª ed. (2025) é 2 mL x kg x % de superfície queimada no adulto, ajustada pela diurese."
+ },
+ {
+  "tema": "trauma",
+  "a": "Quais são os critérios da regra NEXUS para dispensar imagem da coluna cervical?",
+  "b": "Sem dor na linha média posterior, sem déficit neurológico focal, alerta, sem intoxicação e sem lesão dolorosa que distraia. Presentes os cinco, a imagem é dispensável. Hoffman et al., NEJM, 2000."
+ },
+ {
+  "tema": "abdome",
+  "a": "Quais itens compõem o escore de Alvarado e quanto vale cada um?",
+  "b": "Migração da dor 1, anorexia 1, náuseas ou vômitos 1, dor em fossa ilíaca direita 2, descompressão dolorosa 1, temperatura de 37,3 °C ou mais 1, leucocitose 2, desvio à esquerda 1; máximo 10. Alvarado, 1986."
+ },
+ {
+  "tema": "abdome",
+  "a": "Quando a colangite aguda é grau II (moderada) pelas Diretrizes de Tóquio 2018?",
+  "b": "Dois ou mais entre: leucócitos acima de 12.000 ou abaixo de 4.000/mm³, febre de 39 °C ou mais, idade de 75 anos ou mais, bilirrubina total de 5 mg/dL ou mais e hipoalbuminemia. Disfunção orgânica define grau III. TG18, 2018."
+ },
+ {
+  "tema": "abdome",
+  "a": "Como se classifica a gravidade da pancreatite aguda pela Atlanta revisada?",
+  "b": "Leve: sem falência orgânica nem complicações. Moderadamente grave: falência transitória (até 48 horas) ou complicação local ou sistêmica. Grave: falência orgânica persistente por mais de 48 horas. Banks et al., Gut, 2013."
+ },
+ {
+  "tema": "abdome",
+  "a": "Como tratar necrose pancreática infectada?",
+  "b": "Antibiótico com boa penetração (carbapenêmico, por exemplo) e intervenção pela abordagem em etapas, drenagem percutânea ou endoscópica e depois necrosectomia minimamente invasiva, adiada de preferência até cerca de 4 semanas, com a necrose encapsulada. IAP/APA, 2013."
+ },
+ {
+  "tema": "abdome",
+  "a": "Quais são os quatro estágios de Hinchey na diverticulite complicada?",
+  "b": "I: abscesso pericólico. II: abscesso pélvico, distante ou retroperitoneal. III: peritonite purulenta generalizada. IV: peritonite fecal. Hinchey et al., 1978; conduta conforme WSES, 2020."
+ },
+ {
+  "tema": "abdome",
+  "a": "Diverticulite não complicada em imunocompetente precisa sempre de antibiótico?",
+  "b": "Não. Em paciente imunocompetente, sem sinais de sepse e com tomografia sem complicações, o tratamento ambulatorial sem antibiótico é seguro (ensaios AVOD e DIABOLO). WSES, 2020; AGA, 2021."
+ },
+ {
+  "tema": "abdome",
+  "a": "Quando operar a obstrução de delgado por bridas tratada de forma conservadora?",
+  "b": "Diante de sinais de estrangulamento (peritonite, febre, lactato elevado, isquemia na tomografia) a qualquer momento, ou se não houver resolução em até 72 horas. Contraste hidrossolúvel que não chega ao cólon em 24 horas prediz falha. WSES, 2018."
+ },
+ {
+  "tema": "hernias",
+  "a": "Quais são os tipos da classificação de Nyhus para hérnias da virilha?",
+  "b": "I indireta com anel interno normal; II indireta com anel dilatado e parede posterior íntegra; IIIa direta; IIIb indireta com parede posterior comprometida; IIIc femoral; IV recidivada. Nyhus, 1991."
+ },
+ {
+  "tema": "hernias",
+  "a": "Até que idade se observa a hérnia umbilical da criança?",
+  "b": "A maioria fecha de forma espontânea; indica-se correção se persistir após 4 a 5 anos, se o defeito for grande ou se houver encarceramento. No adulto, tela a partir de 1 cm de defeito. EHS e AHS, 2020."
+ },
+ {
+  "tema": "periop",
+  "a": "Quais são os tempos mínimos de jejum pré-operatório da ASA para adultos?",
+  "b": "Líquidos claros 2 horas (inclusive bebidas com carboidrato), leite materno 4 horas, refeição leve e leite não humano 6 horas, refeição gordurosa ou com carne 8 horas ou mais. ASA, 2017, atualização 2023."
+ },
+ {
+  "tema": "periop",
+  "a": "Como se classifica o estado físico ASA de um paciente com hipertensão controlada e IMC de 32?",
+  "b": "ASA II: doença sistêmica leve, sem limitação funcional (hipertensão ou diabetes bem controlados, obesidade com IMC entre 30 e 40, tabagismo). ASA III tem doença sistêmica grave ou IMC de 40 ou mais. ASA, 2020."
+ },
+ {
+  "tema": "periop",
+  "a": "Quais são as faixas de risco do escore de Caprini e a profilaxia em cada uma?",
+  "b": "0 muito baixo: deambulação; 1 a 2 baixo: método mecânico; 3 a 4 moderado: heparina ou mecânico; 5 ou mais alto: heparina associada a método mecânico, estendida por 4 semanas em cirurgia oncológica abdominal ou pélvica. ACCP, 2012."
+ },
+ {
+  "tema": "periop",
+  "a": "Em que ordem o trânsito volta após laparotomia no íleo pós-operatório fisiológico?",
+  "b": "Intestino delgado em até 24 horas, estômago em 24 a 48 horas e cólon em 48 a 72 horas. Íleo além de 5 dias pede revisão de eletrólitos (potássio, magnésio), opioides e tomografia para afastar obstrução ou abscesso. Sabiston, 2022."
+ },
+ {
+  "tema": "digestivo",
+  "a": "Como diferenciar os tipos de acalasia pela classificação de Chicago 4.0?",
+  "b": "Todos com pressão de relaxamento integrada elevada e sem peristalse. Tipo I: 100% de contrações falhas. Tipo II: pan-pressurização em 20% ou mais. Tipo III: contrações prematuras em 20% ou mais, com melhor resposta ao POEM. Chicago 4.0, 2021."
+ },
+ {
+  "tema": "digestivo",
+  "a": "Qual escore de Glasgow-Blatchford permite manejo ambulatorial na hemorragia digestiva alta?",
+  "b": "Escore de 0 ou 1: baixo risco, pode receber alta sem endoscopia de urgência e fazer o exame ambulatorialmente. Endoscopia nas primeiras 24 horas após reanimação para os demais. ESGE, 2021."
+ },
+ {
+  "tema": "digestivo",
+  "a": "Qual é o tratamento inicial e o cirúrgico da fissura anal crônica?",
+  "b": "Inicial: fibras, banho de assento e relaxante esfincteriano tópico (diltiazem ou nitrato) por 6 a 8 semanas; toxina botulínica é alternativa. Refratária: esfincterotomia lateral interna. Fissura fora da linha média sugere Crohn, infecção ou câncer. ASCRS, 2017."
+ }
+]

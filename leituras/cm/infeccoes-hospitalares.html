@@ -1,0 +1,346 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Infecções relacionadas à assistência e multirresistência</title>
+<link rel="stylesheet" href="../_leitura.css?v=3"><script src="../_leitura.js?v=3"></script>
+<div class="wrap">
+<p class="kicker">Infectologia · 75 min · ANVISA 2026, IDSA 2026 · monografia</p>
+<h1>Infecções relacionadas à assistência e multirresistência</h1>
+<p class="dek">Infecções relacionadas à assistência segundo a Nota Técnica ANVISA 03/2026, a IDSA/ATS 2016 e a ERS/ESICM 2017 (pneumonia hospitalar), a IDSA 2009 e o consenso IDSA/ESCMID 2026 (cateter e <i>S. aureus</i>), a IDSA/SHEA (<i>C. difficile</i>), a IDSA 2026 para Gram-negativos resistentes e os pacotes de prevenção da SHEA.</p>
+
+<nav class="toc"><b>Sumário</b><ol>
+<li><a href="#conceito">Definições e vigilância pela ANVISA</a></li>
+<li><a href="#pneumonia">Pneumonia hospitalar e associada à ventilação</a></li>
+<li><a href="#cateter">Corrente sanguínea e cateter</a></li>
+<li><a href="#itu">Infecção urinária associada a sonda</a></li>
+<li><a href="#cirurgico">Sítio cirúrgico</a></li>
+<li><a href="#difficile">Clostridioides difficile</a></li>
+<li><a href="#resistencia">Gram-negativos resistentes</a></li>
+<li><a href="#empirico">Escolher o empírico</a></li>
+<li><a href="#stewardship">Uso racional de antimicrobianos</a></li>
+<li><a href="#prevencao">Pacotes de prevenção</a></li>
+<li><a href="#armadilhas">Erros frequentes</a></li>
+<li><a href="#autoteste">Perguntas de revisão</a></li>
+</ol></nav>
+
+<h2 id="conceito">Definições e vigilância pela ANVISA</h2>
+<p>Infecção relacionada à assistência à saúde (IRAS) é a que tem o primeiro elemento do critério diagnóstico a partir do <b>terceiro dia de internação</b> (D3, sendo D1 o dia da admissão). O que aparece no D1 ou no D2 é tratado como <b>presente na admissão</b>. Para sítio cirúrgico a lógica é outra: a vigilância acompanha o paciente por <b>30 ou 90 dias</b> depois da cirurgia, conforme o procedimento, contando a data da operação como dia 1.</p>
+<p>A Nota Técnica ANVISA nº 03/2026 manteve os critérios das infecções associadas a dispositivo e passou a exigir, no sítio cirúrgico, a síndrome específica (mediastinite, osteomielite, infecção periprotética) em vez do rótulo genérico "órgão/cavidade". Três conceitos organizam tudo:</p>
+<ul>
+<li><b>Janela de infecção</b>: sete dias, os três anteriores e os três posteriores à coleta do primeiro exame laboratorial positivo ou ao primeiro exame de imagem alterado (sem exame, ao primeiro sinal ou sintoma específico do critério). Todos os elementos precisam caber nela.</li>
+<li><b>Data da infecção</b>: o dia em que o primeiro elemento aparece dentro da janela. Decide a origem, a unidade e o dispositivo.</li>
+<li><b>Período de repetição da infecção</b>: 14 dias a partir da data da infecção. Nova positividade na mesma topografia é o mesmo episódio.</li>
+</ul>
+<p>A associação a dispositivo exige uso por <b>mais de dois dias consecutivos</b>, contando como D1 o dia da instalação, e o dispositivo tem de estar presente na data da infecção ou ter sido retirado no dia anterior. São de notificação obrigatória a corrente sanguínea associada a cateter central, a pneumonia associada à ventilação e a urinária associada a cateter vesical e, entre as cirúrgicas de 2026, cesariana (30 dias), prótese mamária, de quadril e de joelho, revascularização do miocárdio, derivação ventricular e facectomia (90 dias).</p>
+
+<figure class="fig"><svg viewBox="0 0 640 200" role="img" aria-label="Linha do tempo da vigilância: dias 1 e 2 presentes na admissão, a partir do dia 3 infecção relacionada à assistência, janela de infecção de sete dias e período de repetição de 14 dias">
+<style>text{font-family:-apple-system,system-ui,sans-serif}.t{font-size:12px;font-weight:600;fill:var(--ink)}.l{font-size:11px;fill:var(--ink2)}.d{font-size:11px;fill:var(--ink);text-anchor:middle}</style>
+<text class="t" x="76" y="42" text-anchor="middle">Na admissão</text>
+<text class="t" x="356" y="42" text-anchor="middle">Relacionada à assistência</text>
+<g stroke="var(--linha)" stroke-width="1.2">
+<rect x="20" y="52" width="56" height="28" fill="none"/><rect x="76" y="52" width="56" height="28" fill="none"/>
+<rect x="132" y="52" width="448" height="28" fill="var(--brand)" fill-opacity="0.14"/>
+<line x1="188" y1="52" x2="188" y2="80"/><line x1="244" y1="52" x2="244" y2="80"/><line x1="300" y1="52" x2="300" y2="80"/><line x1="356" y1="52" x2="356" y2="80"/><line x1="412" y1="52" x2="412" y2="80"/><line x1="468" y1="52" x2="468" y2="80"/><line x1="524" y1="52" x2="524" y2="80"/>
+</g>
+<text class="d" x="48" y="70">D1</text><text class="d" x="104" y="70">D2</text><text class="d" x="160" y="70">D3</text><text class="d" x="216" y="70">D4</text><text class="d" x="272" y="70">D5</text><text class="d" x="328" y="70">D6</text><text class="d" x="384" y="70">D7</text><text class="d" x="440" y="70">D8</text><text class="d" x="496" y="70">D9</text><text class="d" x="552" y="70">D10</text>
+<path d="M328 86 l-6 10 h12 z" fill="var(--err)"/>
+<text class="l" x="342" y="96">1º exame positivo (cultura, imagem)</text>
+<g stroke="var(--ink2)" stroke-width="1.2"><line x1="160" y1="112" x2="496" y2="112"/><line x1="160" y1="106" x2="160" y2="118"/><line x1="496" y1="106" x2="496" y2="118"/></g>
+<text class="l" x="328" y="132" text-anchor="middle">Janela de infecção: 3 dias antes e 3 dias depois (7 dias)</text>
+<g stroke="var(--ok)" stroke-width="1.6"><line x1="328" y1="152" x2="614" y2="152"/><path d="M614 147 l10 5 l-10 5 z" fill="var(--ok)"/></g>
+<text class="l" x="328" y="172">Período de repetição: 14 dias a partir da data da infecção</text>
+<text class="l" x="328" y="188">mesma topografia nesse intervalo = mesmo episódio</text>
+</svg><figcaption><b>Figura 1.</b> Como a vigilância data uma infecção. A janela se abre em torno do primeiro exame positivo; a data da infecção é a do primeiro elemento do critério dentro dela. Se essa data cai no D1 ou D2, a infecção é presente na admissão; do D3 em diante, relacionada à assistência. A associação a dispositivo segue a mesma contagem, com D1 no dia da instalação.</figcaption></figure>
+
+<div class="rolagem"><table class="criterio">
+<tr><th>Infecção (adulto)</th><th>Critério de vigilância da ANVISA 2026</th></tr>
+<tr><td><b>Corrente sanguínea associada a cateter central</b>, patógeno</td><td>Cateter central por mais de 2 dias consecutivos; patógeno reconhecido (<i>S. aureus</i>, enterobactéria, <i>Pseudomonas</i>, <i>Candida</i>) em <b>uma</b> hemocultura ou em teste molecular validado; sem relação com outro foco. Não exige sinal clínico.</td></tr>
+<tr><td><b>Corrente sanguínea associada a cateter central</b>, comensal de pele</td><td>Pelo menos um sinal: febre acima de 38 °C, calafrio ou sistólica ≤ 90 mmHg; e o mesmo comensal (estafilococo coagulase-negativo, <i>Corynebacterium</i>, <i>Bacillus</i>, estreptococo do grupo viridans, <i>Micrococcus</i>) em <b>duas ou mais</b> hemoculturas de coletas distintas, no mesmo dia ou no dia seguinte</td></tr>
+<tr><td><b>Pneumonia associada à ventilação</b> (definida clinicamente)</td><td>Ventilação por mais de 2 dias; imagem com infiltrado, consolidação, cavitação ou pneumatocele (duas imagens seriadas se houver doença cardíaca ou pulmonar de base, como SDRA ou DPOC); ao menos um de: febre acima de 38 °C, leucócitos abaixo de 4.000 ou acima de 12.000/mm³, alteração de consciência sem outra causa em quem tem 70 anos ou mais; e ao menos dois de: secreção purulenta ou mudança da secreção, taquipneia ou dispneia ou tosse, sibilos ou estertores, piora da troca gasosa por pelo menos 2 dias</td></tr>
+<tr><td><b>Infecção urinária associada a cateter vesical</b></td><td>Cateter por mais de 2 dias; ao menos um de: febre acima de 38 °C, dor suprapúbica ou lombar, hematúria, urgência, polaciúria ou disúria (os três últimos só após a retirada da sonda); urocultura com até duas espécies bacterianas e ao menos uma com <b>≥ 10⁵ UFC/mL</b>. <i>Candida</i> na urina não entra no critério.</td></tr>
+</table></div>
+<div class="cx nota"><b>Critério de vigilância não é critério de tratamento</b>Os critérios servem para comparar serviços, não para indicar antibiótico: quem cumpre o de pneumonia pode ter atelectasia, e quem precisa de tratamento pode não fechá-lo. Na pneumonia, estafilococo coagulase-negativo, enterococo e <i>Candida</i> nunca contam como agente, nem quando crescem em hemocultura, salvo em líquido pleural ou tecido pulmonar.</div>
+
+<h2 id="pneumonia">Pneumonia hospitalar e associada à ventilação</h2>
+<p>Pela IDSA/ATS 2016, pneumonia hospitalar é a que surge <b>48 horas ou mais</b> após a internação, sem estar incubada na chegada; associada à ventilação é a que surge 48 horas ou mais após a intubação. A diretriz abandonou o rótulo "associada a cuidados de saúde". A europeia (ERS/ESICM/ESCMID/ALAT 2017) lembra que quem é intubado <b>por causa</b> da pneumonia hospitalar não tem pneumonia associada à ventilação.</p>
+<p>Febre, secreção purulenta e piora da oxigenação com infiltrado novo também aparecem em atelectasia, congestão, SDRA e embolia pulmonar. A amostra respiratória colhida <b>antes</b> do antibiótico é o que permite descalonar ou suspender no terceiro dia.</p>
+<table class="rec">
+<tr><th>IDSA/ATS 2016: diagnóstico</th><th>Força · qualidade</th></tr>
+<tr><td>Amostra <b>não invasiva</b> (aspirado traqueal) com cultura <b>semiquantitativa</b> para diagnosticar pneumonia associada à ventilação, em vez de broncoscopia com cultura quantitativa</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">baixa</span></td></tr>
+<tr><td>Decidir <b>iniciar</b> antibiótico pelo quadro clínico isolado, e não por procalcitonina somada à clínica</td><td class="c"><span class="cls c1">forte</span><span class="niv">moderada</span></td></tr>
+<tr><td>Não usar o escore CPIS para decidir iniciar antibiótico</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">baixa</span></td></tr>
+<tr><td>Pneumonia hospitalar fora da ventilação: tratar guiado por amostra respiratória não invasiva, em vez de empiricamente sem amostra</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">muito baixa</span></td></tr>
+</table>
+<h3>Quem precisa de cobertura ampliada</h3>
+<p>A IDSA/ATS cruza dois eixos: fator de risco do paciente e resistência da unidade. Na pneumonia associada à ventilação, os fatores de risco para multirresistência são: <b>antibiótico intravenoso nos 90 dias anteriores</b>, <b>choque séptico</b> no momento do diagnóstico, <b>SDRA</b> precedendo a pneumonia, <b>cinco dias ou mais de internação</b> antes do quadro e <b>terapia renal substitutiva aguda</b> antes do início. Na pneumonia hospitalar fora da ventilação, o antibiótico intravenoso em 90 dias é o fator que pesa, e o alto risco de morte é definido por <b>necessidade de suporte ventilatório pela pneumonia</b> ou <b>choque séptico</b>.</p>
+<table class="rec">
+<tr><th>IDSA/ATS 2016: empírico</th><th>Força · qualidade</th></tr>
+<tr><td>Ventilação: cobrir <b>MRSA</b> só se houver fator de risco para resistência, unidade com <b>mais de 10 a 20%</b> de <i>S. aureus</i> resistente à meticilina, ou prevalência desconhecida</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">muito baixa</span></td></tr>
+<tr><td>Quando indicado, cobrir MRSA com <b>vancomicina ou linezolida</b></td><td class="c"><span class="cls c1">forte</span><span class="niv">moderada</span></td></tr>
+<tr><td>Ventilação: <b>dois antipseudomonas de classes diferentes</b> só se houver fator de risco para resistência, unidade com <b>mais de 10%</b> dos Gram-negativos resistentes ao agente que seria usado sozinho, ou sensibilidade local desconhecida</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">baixa</span></td></tr>
+<tr><td>Ventilação sem esses fatores, em unidade com até 10% de resistência: <b>um</b> antipseudomonas</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">baixa</span></td></tr>
+<tr><td>Evitar aminoglicosídeo e colistina quando houver alternativa ativa contra Gram-negativos</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">baixa a muito baixa</span></td></tr>
+<tr><td>Hospitalar sem ventilação: cobrir <b>MRSA</b> se antibiótico intravenoso em 90 dias, unidade com <b>mais de 20%</b> de MRSA ou prevalência desconhecida, ou alto risco de morte</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">muito baixa</span></td></tr>
+<tr><td>Hospitalar sem ventilação: sempre cobrir <i>P. aeruginosa</i> e Gram-negativos; dois antipseudomonas se antibiótico intravenoso em 90 dias ou alto risco de morte</td><td class="c"><span class="cls c1">forte</span><span class="niv">muito baixa</span></td></tr>
+<tr><td>Nunca aminoglicosídeo como único antipseudomonas</td><td class="c"><span class="cls c1">forte</span><span class="niv">muito baixa</span></td></tr>
+</table>
+<p>Na europeia, paciente de <b>baixo risco</b> (sem choque séptico, sem outro fator de risco para multirresistência e em hospital com prevalência de resistentes de até 25%) com pneumonia de início precoce pode receber espectro estreito: <b>ertapeném, ceftriaxona, cefotaxima, moxifloxacino ou levofloxacino</b>. No alto risco, a terapia inicial depende do choque: sem choque, em UTI onde um único agente de largo espectro cobre mais de 90% dos Gram-negativos prováveis pelo antibiograma local, basta um agente; com choque séptico, a combinação inicial aumenta a chance de acertar. Nas duas, <b>o antibiograma da própria UTI decide</b>, e a combinação é ponte até a cultura.</p>
+<div class="dose"><b>Doses da IDSA/ATS 2016 (função renal normal)</b><ul>
+<li>Anti-MRSA: <b>vancomicina</b> 15 mg/kg a cada 8 a 12 h (considerar ataque de 25 a 30 mg/kg no paciente grave) ou <b>linezolida</b> 600 mg a cada 12 h</li>
+<li>Betalactâmicos antipseudomonas: <b>piperacilina-tazobactam</b> 4,5 g a cada 6 h; <b>cefepima</b> 2 g a cada 8 h; <b>ceftazidima</b> 2 g a cada 8 h; <b>imipeném</b> 500 mg a cada 6 h; <b>meropeném</b> 1 g a cada 8 h; <b>aztreonam</b> 2 g a cada 8 h</li>
+<li>Segundo agente não betalactâmico: <b>levofloxacino</b> 750 mg/dia; <b>ciprofloxacino</b> 400 mg a cada 8 h; <b>amicacina</b> 15 a 20 mg/kg/dia; <b>gentamicina</b> ou <b>tobramicina</b> 5 a 7 mg/kg/dia</li>
+<li>Polimixinas, só quando não há alternativa: <b>polimixina B</b> 2,5 a 3 mg/kg/dia em duas doses</li>
+</ul></div>
+
+<div class="fluxo"><div class="leg"><b>Fluxograma 1</b>Pneumonia associada à ventilação: o empírico pela IDSA/ATS 2016</div>
+<pre class="mermaid">
+flowchart TD
+  A["Suspeita de pneumonia<br/>associada à ventilação<br/>culturas antes do antibiótico"] --> C{"Risco de<br/>resistência?"}
+  C -->|"sim"| E["Anti-MRSA e<br/>dois antipseudomonas"]
+  C -->|"não"| D{"MRSA na UTI<br/>acima de 10 a 20%?"}
+  D -->|"sim ou<br/>desconhecido"| F["Anti-MRSA"]
+  D -->|"não"| G["Cobrir MSSA"]
+  F --> H{"Gram-negativos<br/>acima de 10%<br/>resistentes?"}
+  G --> H
+  H -->|"sim ou<br/>desconhecido"| I["Dois antipseudomonas"]
+  H -->|"não"| J["Um antipseudomonas"]
+  E --> K["Dia 2 a 3: descalonar<br/>pela cultura; total<br/>de 7 dias"]
+  I --> K
+  J --> K
+</pre></div>
+
+<h3>Ajuste, duração e o que não tratar</h3>
+<table class="rec">
+<tr><th>IDSA/ATS 2016: depois da cultura</th><th>Força · qualidade</th></tr>
+<tr><td>Pneumonia associada à ventilação: curso de <b>7 dias</b>, e não mais longo</td><td class="c"><span class="cls c1">forte</span><span class="niv">moderada</span></td></tr>
+<tr><td>Pneumonia hospitalar: curso de <b>7 dias</b></td><td class="c"><span class="cls c1">forte</span><span class="niv">muito baixa</span></td></tr>
+<tr><td><b>Descalonar</b> em vez de manter o esquema fixo</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">muito baixa</span></td></tr>
+<tr><td>Procalcitonina somada à clínica para decidir <b>suspender</b></td><td class="c"><span class="cls c2a">fraca</span><span class="niv">baixa</span></td></tr>
+<tr><td><i>P. aeruginosa</i> sensível, sem choque: <b>monoterapia</b> com agente ativo</td><td class="c"><span class="cls c1">forte</span><span class="niv">baixa</span></td></tr>
+<tr><td><i>P. aeruginosa</i> com choque persistente ou alto risco de morte: dois agentes ativos</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">muito baixa</span></td></tr>
+<tr><td><i>Acinetobacter</i>: não usar tigeciclina</td><td class="c"><span class="cls c3">contra</span><span class="niv">baixa</span></td></tr>
+</table>
+<p>Os 7 dias americanos valem também para não fermentadores; a europeia sugere 7 a 8 dias em quem responde bem e reconhece mais recorrência com o curso curto em <i>Pseudomonas</i> no ensaio de 8 contra 15 dias, sem diferença de mortalidade. Empiema, abscesso, necrose e imunodepressão grave são decididos caso a caso. Uma regra atravessa as duas: <b><i>Candida</i> no aspirado traqueal é colonização</b> e quase nunca exige antifúngico (IDSA 2016 de candidíase, forte, qualidade moderada).</p>
+<div class="ancora"><b>Questão-âncora</b>Homem de 58 anos, sexto dia de ventilação após AVC, febre, secreção purulenta e novo infiltrado em base direita. Recebeu ceftriaxona nos primeiros dias. Sem choque. A UTI tem 30% de MRSA entre os <i>S. aureus</i> e 18% dos Gram-negativos resistentes a piperacilina-tazobactam. <details><summary>Leitura</summary>Dois fatores de risco para resistência (antibiótico intravenoso em 90 dias e cinco ou mais dias de internação) já bastam para <b>anti-MRSA mais dois antipseudomonas</b>, por exemplo vancomicina, piperacilina-tazobactam 4,5 g a cada 6 h e amicacina. Com a cultura no terceiro dia, retira-se o que não tem alvo; o total é de 7 dias se houver boa resposta.</details></div>
+
+<h2 id="cateter">Corrente sanguínea e cateter</h2>
+<p>Suspeita-se diante de febre, calafrio ou instabilidade sem outro foco em quem tem acesso central; sinais no óstio costumam faltar. O estafilococo coagulase-negativo em <b>um único frasco</b> é, quase sempre, contaminação de coleta.</p>
+<table class="rec">
+<tr><th>IDSA 2009: diagnóstico e empírico</th><th>Força · evidência</th></tr>
+<tr><td>Colher hemoculturas <b>pareadas</b>, do cateter e de veia periférica, antes do antimicrobiano</td><td class="c"><span class="cls c1">A</span><span class="niv">II</span></td></tr>
+<tr><td>Crescimento na amostra do cateter <b>ao menos 2 horas antes</b> da periférica (tempo diferencial de positivação) define a infecção relacionada ao cateter</td><td class="c"><span class="cls c1">A</span><span class="niv">II</span></td></tr>
+<tr><td>Contagem na amostra do cateter <b>ao menos 3 vezes maior</b> que na periférica, em hemocultura quantitativa</td><td class="c"><span class="cls c1">A</span><span class="niv">II</span></td></tr>
+<tr><td>Ponta com <b>mais de 15 UFC</b> em cultura semiquantitativa (rolamento) indica colonização do cateter; só tem sentido com hemocultura concomitante</td><td class="c"><span class="cls c1">A</span><span class="niv">I</span></td></tr>
+<tr><td><b>Vancomicina</b> empírica onde a prevalência de MRSA é elevada; Gram-negativos cobertos conforme a sensibilidade local e a gravidade</td><td class="c"><span class="cls c1">A</span><span class="niv">II</span></td></tr>
+<tr><td>Antifúngico empírico (equinocandina) no séptico com nutrição parenteral, antibiótico de largo espectro prolongado, neoplasia hematológica, transplante, cateter femoral ou colonização por <i>Candida</i> em vários sítios</td><td class="c"><span class="cls c2a">B</span><span class="niv">II</span></td></tr>
+</table>
+<h3>Retirar ou tentar salvar</h3>
+<p>O cateter de curta permanência é retirado na infecção por <b>Gram-negativo, <i>S. aureus</i>, enterococo, fungo ou micobactéria</b> (A-II). O de longa permanência sai se houver sepse grave, tromboflebite supurada, endocardite, bacteremia que persiste após <b>72 horas</b> de antimicrobiano ativo, ou infecção por <i>S. aureus</i>, <i>P. aeruginosa</i>, fungo ou micobactéria (A-II). Fora disso, sobretudo com estafilococo coagulase-negativo, pode-se tentar o <b>selo de antibiótico</b> junto do tratamento sistêmico, ambos por 10 a 14 dias (B-II).</p>
+<div class="rolagem"><table>
+<tr><th>Agente</th><th>Cateter</th><th>Duração, a partir da primeira hemocultura negativa quando indicado</th></tr>
+<tr><td><b><i>S. aureus</i></b></td><td><b>Retirar</b></td><td>14 dias se não houver foco profundo após a avaliação (IDSA/ESCMID 2026); prolongar conforme o foco (endocardite, osteomielite, abscesso), classicamente 4 a 6 semanas</td></tr>
+<tr><td><b><i>Candida</i></b></td><td><b>Retirar</b> assim que seguro</td><td>14 dias após a hemocultura negativa e a resolução dos sintomas</td></tr>
+<tr><td>Gram-negativo</td><td>Retirar (curta permanência)</td><td>7 a 14 dias pela IDSA 2009; 7 dias bastam na bacteremia não complicada com boa resposta (ensaio BALANCE)</td></tr>
+<tr><td>Enterococo</td><td>Retirar (curta permanência)</td><td>7 a 14 dias (C-III)</td></tr>
+<tr><td>Estafilococo coagulase-negativo</td><td>Preferível retirar</td><td>5 a 7 dias se retirado; 10 a 14 dias com selo se mantido (B-III)</td></tr>
+</table></div>
+
+<h3>Bacteremia por <i>S. aureus</i>: o consenso IDSA/ESCMID 2026</h3>
+<p><i>S. aureus</i> no sangue nunca é contaminante. O consenso IDSA/ESCMID de setembro de 2026 troca a lista de 2009 (não diabético, sem prótese, bacteremia resolvida em 72 horas) por uma <b>estratificação de risco</b> de foco profundo ou recaída. Os três fatores mais consistentes são: <b>início comunitário</b>, <b>hemocultura ainda positiva 48 horas ou mais</b> após a primeira e <b>dispositivo intracardíaco</b>. Outros: valvopatia predisponente, uso de droga injetável, enxerto endovascular, bacteremia por <i>S. aureus</i> nos 90 dias anteriores, sinais de foco profundo, embolia, mais de um foco não contíguo e foco desconhecido. Todas as declarações são de consenso, sem graduação.</p>
+<table class="rec">
+<tr><th>IDSA/ESCMID 2026 (adultos)</th><th>Força</th></tr>
+<tr><td>Hemoculturas de controle: <b>ao menos dois pares 48 horas</b> após a primeira positiva, depois um ou dois pares a cada 24 a 48 horas até negativar</td><td class="c"><span class="cls c2a">consenso</span></td></tr>
+<tr><td><b>Ecocardiograma transtorácico em todo adulto</b>: o painel não conseguiu definir um grupo de risco muito baixo para endocardite</td><td class="c"><span class="cls c2a">consenso</span></td></tr>
+<tr><td><b>Transesofágico</b> mesmo com transtorácico negativo e de boa qualidade se houver dispositivo intracardíaco, valvopatia predisponente ou endocardite prévia, hemocultura positiva 48 horas ou mais após a primeira, embolia, ou mais de um foco não contíguo</td><td class="c"><span class="cls c2a">consenso</span></td></tr>
+<tr><td>Considerar transesofágico no início comunitário e no uso de droga injetável; pode ser dispensado com transtorácico negativo de boa qualidade e nenhum desses fatores</td><td class="c"><span class="cls c2a">consenso</span></td></tr>
+<tr><td>Risco aumentado com foco desconhecido: imagem de corpo inteiro (PET-CT com FDG) ou combinação de exames dirigidos</td><td class="c"><span class="cls c2a">consenso</span></td></tr>
+<tr><td>Sem foco profundo ou metastático após a avaliação: <b>14 dias</b>, tanto no baixo quanto no risco aumentado; considerar mais de 14 dias na bacteremia prolongada com avaliação incompleta</td><td class="c"><span class="cls c2a">consenso</span></td></tr>
+</table>
+<p>A escolha do antimicrobiano ficou para a segunda parte do consenso, ainda não publicada: no <i>S. aureus</i> sensível à meticilina, <b>oxacilina ou cefazolina</b>, porque contra o germe sensível o betalactâmico tem desfecho melhor que a vancomicina; no MRSA, <b>vancomicina ou daptomicina</b> (IDSA 2011 de MRSA). A troca precoce para via oral no baixo risco foi não inferior no ensaio SABATO. E um ajuste: <b>fundo de olho de rotina não é recomendação</b> na bacteremia por <i>S. aureus</i>; ele é obrigatório na candidemia.</p>
+
+<div class="fluxo"><div class="leg"><b>Fluxograma 2</b>Hemocultura positiva para <i>S. aureus</i></div>
+<pre class="mermaid">
+flowchart TD
+  A["Hemocultura com<br/>S. aureus"] --> B["Retirar cateter<br/>e drenar foco<br/>Iniciar tratamento"]
+  B --> C["Controle: 2 pares<br/>em 48 h, depois<br/>a cada 24 a 48 h"]
+  B --> D["Ecocardiograma<br/>transtorácico<br/>em todos"]
+  D --> E{"Dispositivo cardíaco,<br/>valvopatia, embolia,<br/>positiva após 48 h?"}
+  E -->|"sim"| F["Transesofágico"]
+  E -->|"não"| G{"Foco profundo<br/>ou metastático?"}
+  F --> G
+  G -->|"não"| H["14 dias"]
+  G -->|"sim"| I["Tratar o foco<br/>curso prolongado<br/>4 a 6 semanas<br/>na endocardite"]
+  G -->|"desconhecido<br/>e risco alto"| J["PET-CT ou<br/>imagens dirigidas"]
+</pre></div>
+
+<h3>Candidemia</h3>
+<table class="rec">
+<tr><th>IDSA 2016, candidemia sem neutropenia</th><th>Força · qualidade</th></tr>
+<tr><td><b>Equinocandina</b> inicial: caspofungina 70 mg de ataque e 50 mg/dia, micafungina 100 mg/dia ou anidulafungina 200 mg de ataque e 100 mg/dia</td><td class="c"><span class="cls c1">forte</span><span class="niv">alta</span></td></tr>
+<tr><td>Fluconazol 800 mg (12 mg/kg) de ataque e 400 mg (6 mg/kg) ao dia em quem não está grave e tem baixa chance de resistência</td><td class="c"><span class="cls c1">forte</span><span class="niv">alta</span></td></tr>
+<tr><td>Trocar para fluconazol, em geral em 5 a 7 dias, se estável, isolado sensível e hemocultura de controle negativa</td><td class="c"><span class="cls c1">forte</span><span class="niv">moderada</span></td></tr>
+<tr><td><b>Fundoscopia sob midríase</b> na primeira semana</td><td class="c"><span class="cls c1">forte</span><span class="niv">baixa</span></td></tr>
+<tr><td>Hemoculturas diárias ou em dias alternados até negativar; tratar <b>2 semanas após a negativação</b> e a resolução dos sintomas</td><td class="c"><span class="cls c1">forte</span><span class="niv">baixa a moderada</span></td></tr>
+<tr><td>Retirar o cateter central o quanto antes quando ele é a fonte presumida e a retirada é segura</td><td class="c"><span class="cls c1">forte</span><span class="niv">moderada</span></td></tr>
+</table>
+<div class="ancora"><b>Questão-âncora</b>Mulher de 64 anos, diabética, cateter de hemodiálise tunelizado, febre durante a sessão. Duas hemoculturas com <i>S. aureus</i> sensível à meticilina; o controle de 48 horas ainda é positivo. Transtorácico sem vegetação. <details><summary>Leitura</summary>Retirar o cateter (é <i>S. aureus</i>), trocar a vancomicina empírica por cefazolina, que se dá após a diálise nessa paciente, e pedir <b>transesofágico</b>: hemocultura positiva 48 horas após a primeira é o preditor mais robusto de complicação e indicação de ecocardiograma transesofágico mesmo com transtorácico normal. Os 14 dias só valem sem foco profundo.</details></div>
+
+<h2 id="itu">Infecção urinária associada a sonda</h2>
+<div class="cx armadilha"><b>Bacteriúria assintomática não se trata</b>Todo paciente sondado por alguns dias terá bactéria na urina, e tratar isso não previne infecção: seleciona resistência e provoca colite por <i>C. difficile</i>. <b>Urocultura não é exame de rotina em paciente sondado</b>; pede-se quando há sinais de infecção. Também não se troca a sonda "para melhorar a urina". As exceções em que a bacteriúria assintomática é tratada são poucas: <b>gestantes</b> e <b>antes de procedimento urológico com previsão de sangramento de mucosa</b>.</div>
+<p>O diagnóstico clínico exige sintoma sem outra causa (febre, dor suprapúbica ou lombar, instabilidade, delirium novo sem outra explicação, hematúria) com urocultura positiva. A IDSA 2009 aceita, para o diagnóstico clínico, <b>10³ UFC/mL ou mais</b> de ao menos uma espécie em amostra da sonda ou em jato médio até 48 horas após a retirada (A-III). O número difere do de vigilância (10⁵ UFC/mL) de propósito. <b>Piúria isolada não diagnostica</b> (A-II), e urina turva ou com odor forte não é indicação de antibiótico.</p>
+<p>Antes de colher, <b>trocar a sonda</b> se ela estiver no lugar há mais de duas semanas e ainda for necessária, e colher da sonda nova (A-I): a amostra da sonda antiga cultiva o biofilme e não a bexiga. A duração segue a diretriz da IDSA de 2025 para infecção urinária complicada, que inclui a associada a cateter: com melhora sob tratamento ativo, <b>5 a 7 dias de fluoroquinolona ou 7 dias de outro antibiótico</b>, com ou sem bacteremia associada; o homem febril com suspeita de prostatite aguda pode precisar de 10 a 14 dias. <i>Candida</i> na urina do sondado quase sempre é colonização: retira-se ou troca-se a sonda e não se trata sem sintomas, salvo no neutropênico e antes de manipulação urológica (IDSA 2016).</p>
+<p>Prevenção: sonda só com indicação (retenção urinária, monitorização rigorosa de débito no paciente crítico, cirurgia urológica, cuidado de lesão sacral ou perineal no incontinente, conforto em fim de vida), inserção asséptica, sistema fechado, bolsa abaixo do nível da bexiga sem tocar o chão, e <b>retirada precoce</b> com lembrete ou ordem automática de suspensão.</p>
+
+<h2 id="cirurgico">Sítio cirúrgico</h2>
+<p>Classifica-se pela profundidade: <b>incisional superficial</b> (pele e subcutâneo), <b>incisional profunda</b> (fáscia e músculo) e <b>de órgão ou cavidade</b> (qualquer estrutura manipulada além da parede). A notificação segue a camada mais profunda acometida. Na vigilância da ANVISA de 2026, cesariana é acompanhada por 30 dias e os procedimentos com implante ou de maior risco (prótese mamária, de quadril e de joelho, revascularização do miocárdio, derivação ventricular, facectomia) por 90 dias.</p>
+<p>A superficial se trata abrindo e drenando; a de órgão ou cavidade exige controle de foco. O clínico erra mais na profilaxia.</p>
+<div class="dose"><b>Profilaxia antimicrobiana (ASHP/IDSA/SIS/SHEA 2013)</b><ul>
+<li><b>Cefazolina 2 g</b> intravenosa; <b>3 g</b> se peso de 120 kg ou mais</li>
+<li>Dose nos <b>60 minutos antes da incisão</b>; vancomicina e fluoroquinolonas, que infundem devagar, nos 120 minutos antes</li>
+<li><b>Redose</b> de cefazolina a cada 4 horas de cirurgia e se o sangramento passar de 1.500 mL</li>
+<li>Duração: suspender no fechamento; nunca além de 24 horas</li>
+</ul></div>
+<table class="rec">
+<tr><th>CDC 2017: prevenção de infecção de sítio cirúrgico</th><th>Categoria</th></tr>
+<tr><td>Em cirurgia limpa e potencialmente contaminada, <b>nenhuma dose adicional</b> de profilaxia depois do fechamento da incisão na sala, <b>mesmo com dreno</b></td><td class="c"><span class="cls c1">IA</span></td></tr>
+<tr><td>Controle glicêmico perioperatório com alvo <b>abaixo de 200 mg/dL</b>, em diabéticos e não diabéticos</td><td class="c"><span class="cls c1">IA</span></td></tr>
+<tr><td>Manter <b>normotermia</b> perioperatória</td><td class="c"><span class="cls c1">IA</span></td></tr>
+<tr><td>Função pulmonar normal, anestesia geral com intubação: fração inspirada de oxigênio aumentada na cirurgia e logo após a extubação</td><td class="c"><span class="cls c1">IA</span></td></tr>
+<tr><td>Antissepsia da pele com <b>solução alcoólica</b>, salvo contraindicação</td><td class="c"><span class="cls c1">IA</span></td></tr>
+<tr><td>Banho de corpo inteiro com sabão ou antisséptico ao menos na noite anterior</td><td class="c"><span class="cls c1">IB</span></td></tr>
+<tr><td>Não aplicar antimicrobiano tópico (pomada, solução, pó) na incisão</td><td class="c"><span class="cls c3">IB · não fazer</span></td></tr>
+<tr><td>Não negar transfusão necessária como forma de prevenir infecção</td><td class="c"><span class="cls c3">IB · não fazer</span></td></tr>
+</table>
+<p>Tricotomia, quando necessária, com tosquiadeira e perto da cirurgia; lâmina aumenta infecção por microlesões. Parar de fumar antes de cirurgia eletiva também reduz complicação de ferida. Prolongar a profilaxia "porque tem dreno" não reduz infecção e aumenta resistência, lesão renal e colite.</p>
+
+<h2 id="difficile">Clostridioides difficile</h2>
+<p>Diarreia durante ou até semanas após antibiótico, em paciente internado ou institucionalizado. Fatores de risco: o próprio antimicrobiano (sobretudo clindamicina, cefalosporinas de amplo espectro, fluoroquinolonas e carbapenêmicos), idade avançada, imunossupressão e inibidor de bomba de prótons. Reduzir os antibióticos de alto risco é recomendação forte da IDSA/SHEA 2016.</p>
+<p>O teste se faz em quem tem diarreia nova e inexplicada, <b>três ou mais evacuações não formadas em 24 horas</b>, fora de laxante. Pesquisa de antígeno (glutamato desidrogenase) com toxina, ou teste molecular com toxina, em algoritmo de etapas, evita tratar o colonizado cujo teste molecular é positivo sem toxina. <b>Não se testa assintomático</b>, não se repete o teste em sete dias e <b>não se faz controle de cura</b>: a colonização persiste semanas depois do tratamento eficaz.</p>
+<div class="rolagem"><table>
+<tr><th>Situação</th><th>Critério</th><th>Tratamento (IDSA/SHEA 2017 e atualização de 2021)</th></tr>
+<tr><td><b>Episódio inicial, não grave</b></td><td>Leucócitos abaixo de 15.000/µL e creatinina abaixo de 1,5 mg/dL</td><td><b>Fidaxomicina 200 mg</b> 2 vezes ao dia por 10 dias, preferida; <b>vancomicina oral 125 mg</b> 4 vezes ao dia por 10 dias, alternativa aceitável; metronidazol 500 mg 3 vezes ao dia por 10 a 14 dias só se as outras não estiverem disponíveis</td></tr>
+<tr><td><b>Episódio inicial, grave</b></td><td>Leucócitos a partir de 15.000/µL ou creatinina acima de 1,5 mg/dL</td><td>Fidaxomicina ou vancomicina oral, nas mesmas doses; metronidazol não serve</td></tr>
+<tr><td><b>Fulminante</b></td><td>Hipotensão ou choque, íleo, megacólon</td><td><b>Vancomicina 500 mg</b> 4 vezes ao dia por via oral ou sonda, com vancomicina retal se houver íleo, mais <b>metronidazol 500 mg intravenoso</b> a cada 8 horas; avaliação cirúrgica precoce</td></tr>
+<tr><td><b>Recorrência</b></td><td>Nova diarreia com teste positivo após resolução</td><td>Fidaxomicina (padrão ou estendida em pulsos) preferida; ou vancomicina em desmame e pulsos (125 mg 4 vezes ao dia por 10 a 14 dias, 2 vezes ao dia por 7, 1 vez ao dia por 7, depois a cada 2 a 3 dias por 2 a 8 semanas); ou vancomicina seguida de rifaximina</td></tr>
+<tr><td><b>Múltiplas recorrências</b></td><td>A partir da segunda recorrência</td><td><b>Transplante de microbiota fecal</b> após tratamento antibiótico adequado</td></tr>
+</table></div>
+<p>O esquema estendido de fidaxomicina é de 200 mg duas vezes ao dia do primeiro ao quinto dia e, depois, uma vez em dias alternados do sétimo ao vigésimo quinto. O <b>bezlotoxumabe</b>, que a atualização de 2021 sugeria como adjuvante na recorrência dos últimos seis meses, foi descontinuado pelo fabricante em janeiro de 2025 e não é mais opção. Sempre que possível, <b>suspender o antibiótico desencadeante</b> e rever o inibidor de bomba de prótons sem indicação.</p>
+<div class="cx chave"><b>Precaução e limpeza</b>Isolamento de contato, <b>higiene das mãos com água e sabão</b> ao cuidar do paciente (a preparação alcoólica não elimina o esporo) e limpeza do ambiente com <b>agente esporicida</b>.</div>
+
+<h2 id="resistencia">Gram-negativos resistentes</h2>
+<p>A orientação da IDSA para Gram-negativos resistentes ganhou versão de <b>2026</b>, que substitui a de 2024. Ela trata por <b>mecanismo</b>, e não por nome de bactéria, porque é a enzima que decide qual betalactâmico sobrevive. As sugestões são de painel de especialistas, sem graduação formal, e listam agentes preferidos e alternativos.</p>
+<div class="rolagem"><table>
+<tr><th>Perfil</th><th>Infecção invasiva, fora do trato urinário (IDSA 2026)</th></tr>
+<tr><td><b>ESBL</b> (<i>E. coli</i>, <i>Klebsiella</i>; ceftriaxona com CIM ≥ 4 sugere)</td><td><b>Carbapenêmico</b>: ertapeném, meropeném ou imipeném; meropeném ou imipeném no grave ou com albumina abaixo de 2,5 g/dL. Alternativa: cefepima-enmetazobactam. Com resposta, trocar para ciprofloxacino, levofloxacino ou sulfametoxazol-trimetoprima orais se sensíveis. <b>Piperacilina-tazobactam não</b>, mesmo sensível (ensaio MERINO); na pielonefrite sem gravidade e sem bacteremia virou alternativa. Cefepima não.</td></tr>
+<tr><td><b>AmpC induzível</b> (<i>Enterobacter cloacae</i>, <i>Klebsiella aerogenes</i>, <i>Citrobacter freundii</i>, <i>Hafnia alvei</i>)</td><td><b>Cefepima</b> se CIM ≤ 8 µg/mL. Ceftriaxona, cefotaxima e ceftazidima não em infecção invasiva (a resistência emerge durante o tratamento); manter ceftriaxona já iniciada só no quadro não grave, com melhora e foco controlado. Piperacilina-tazobactam não. <i>Serratia</i>, <i>Morganella</i> e <i>Providencia</i> são de baixo risco.</td></tr>
+<tr><td><b>KPC</b> (carbapenemase de classe A)</td><td><b>Ceftazidima-avibactam, meropeném-vaborbactam ou imipeném-relebactam</b>. Resistência emergente em cerca de 10% com ceftazidima-avibactam e menos de 3% com os outros dois. Alternativas: aztreonam-avibactam, cefiderocol; tigeciclina e eravaciclina fora de sangue e urina.</td></tr>
+<tr><td><b>NDM</b> e outras metalobetalactamases (classe B)</td><td><b>Aztreonam-avibactam ou cefiderocol</b>. Sem aztreonam-avibactam: <b>ceftazidima-avibactam mais aztreonam</b>, infundidos juntos. O avibactam não inibe metalobetalactamase; o aztreonam resiste a ela, e o avibactam o protege das ESBL e AmpC que vêm junto.</td></tr>
+<tr><td><b>OXA-48</b> (classe D)</td><td><b>Ceftazidima-avibactam</b>; alternativas aztreonam-avibactam e cefiderocol</td></tr>
+<tr><td>Enterobactéria resistente a ertapeném, sensível a meropeném, sem carbapenemase</td><td><b>Meropeném ou imipeném em infusão estendida</b></td></tr>
+<tr><td><b><i>P. aeruginosa</i> DTR</b> (sem sensibilidade a piperacilina-tazobactam, ceftazidima, cefepima, aztreonam, meropeném, imipeném, ciprofloxacino e levofloxacino)</td><td><b>Ceftazidima-avibactam, ceftolozano-tazobactam ou imipeném-relebactam</b>; na pneumonia, <b>ceftolozano-tazobactam</b> é o preferido. Alternativa: cefiderocol. Se o isolado é resistente a carbapenêmico mas sensível a betalactâmico tradicional, usar este em dose alta e infusão prolongada.</td></tr>
+<tr><td><b><i>Acinetobacter baumannii</i> resistente a carbapenêmico</b></td><td><b>Sulbactam-durlobactam com imipeném ou meropeném</b>. Sem ele, só como ponte: <b>ampicilina-sulbactam em dose alta</b> (9 g/dia de sulbactam) com outro agente (cefiderocol, minociclina ou polimixina B). Cefiderocol, minociclina e polimixina B entram sempre combinados.</td></tr>
+<tr><td><b><i>Stenotrophomonas maltophilia</i></b></td><td><b>Cefiderocol</b> em monoterapia (preferência baseada em modelos animais). Alternativas: aztreonam-avibactam, de preferência combinado; levofloxacino, minociclina ou sulfametoxazol-trimetoprima, cada um como parte de combinação. <b>Ceftazidima não</b>.</td></tr>
+</table></div>
+<p>Três princípios atravessam a tabela. Primeiro, <b>combinação não é rotina</b> depois de confirmado um betalactâmico ativo: é ponte empírica, e mantida só soma toxicidade. Segundo, resistência emerge durante o tratamento com os betalactâmicos novos em cerca de 20% das <i>Pseudomonas</i> DTR, e cultura de controle na falha clínica é obrigatória. Terceiro, antibiótico nebulizado não é rotina quando há betalactâmico sistêmico ativo; a posição contrária de 2024 foi atenuada.</p>
+<div class="dose"><b>Doses da IDSA 2026 (função renal normal)</b><ul><li>Ceftazidima-avibactam 2,5 g a cada 8 h, em 3 h; meropeném-vaborbactam 4 g a cada 8 h, em 3 h; imipeném-relebactam 1,25 g a cada 6 h</li><li>Ceftolozano-tazobactam 3 g a cada 8 h, em 3 h; cefiderocol 2 g a cada 8 h, em 3 h</li><li>Sulbactam-durlobactam 1 g/1 g a cada 6 h, em 3 h; meropeném 1 a 2 g a cada 8 h, em 3 h</li></ul></div>
+<div class="cx nota"><b>E no Brasil</b>A KPC é a carbapenemase mais frequente em enterobactérias brasileiras, mas a NDM cresce, e o <i>Acinetobacter</i> tem as maiores taxas de resistência a carbapenêmico. A diretriz da Sociedade Brasileira de Infectologia de 2025 prefere ceftazidima-avibactam ou imipeném-relebactam na KPC e ceftazidima-avibactam com aztreonam na metalobetalactamase, e reserva as combinações com polimixina para quando os novos agentes não existem. Saber a carbapenemase do isolado muda a droga.</div>
+<p>Entre os Gram-positivos, o raciocínio é mais simples: <b>MRSA</b> (PBP2a) exige vancomicina, daptomicina (nunca no pulmão, onde o surfactante a inativa), linezolida ou ceftarolina; <b>enterococo resistente à vancomicina</b> se trata com linezolida ou daptomicina. E vale a regra que evita mais antibiótico do que qualquer esquema: <b>swab de vigilância positivo é colonização</b>, indica precaução de contato e orienta o empírico se o paciente infectar, mas sozinho não se trata.</p>
+
+<div class="fluxo"><div class="leg"><b>Fluxograma 3</b>Enterobactéria resistente a carbapenêmico em infecção invasiva</div>
+<pre class="mermaid">
+flowchart TD
+  A["Enterobactéria<br/>resistente a<br/>carbapenêmico"] --> B{"Produz<br/>carbapenemase?"}
+  B -->|"não, e sensível<br/>a meropeném"| C["Meropeném ou<br/>imipeném em<br/>infusão estendida"]
+  B -->|"sim"| D{"Qual enzima?"}
+  D -->|"KPC"| E["Ceftazidima-avibactam<br/>meropeném-vaborbactam<br/>imipeném-relebactam"]
+  D -->|"NDM"| F["Aztreonam-avibactam<br/>ou cefiderocol<br/>ou ceftazidima-avibactam<br/>com aztreonam"]
+  D -->|"OXA-48"| G["Ceftazidima-<br/>avibactam"]
+</pre></div>
+
+<h2 id="empirico">Escolher o empírico</h2>
+<ol class="passos">
+<li><b>Definir foco e gravidade.</b> O empírico do estável não é o do choque séptico.</li>
+<li><b>Colher culturas antes</b> da primeira dose, sem atrasar o tratamento do grave.</li>
+<li><b>Consultar o antibiograma da unidade</b>: é ele que define os limiares de 10 e 20% da pneumonia e a escolha entre carbapenêmico e piperacilina-tazobactam.</li>
+<li><b>Checar exposição e colonização</b>: antibiótico em 90 dias, swab com KPC ou <i>Acinetobacter</i>.</li>
+<li><b>Cobrir amplo no choque e descalonar em 48 a 72 horas</b> com a cultura.</li>
+<li><b>Definir a duração no primeiro dia.</b> Cursos curtos são equivalentes na maioria das infecções.</li>
+</ol>
+
+<h2 id="stewardship">Uso racional de antimicrobianos</h2>
+<p>No Brasil, o programa de gerenciamento de antimicrobianos segue a diretriz da ANVISA (revisão de 2023), com equipe multiprofissional e indicadores de consumo. As intervenções com melhor evidência vêm da IDSA/SHEA 2016:</p>
+<table class="rec">
+<tr><th>IDSA/SHEA 2016</th><th>Força · qualidade</th></tr>
+<tr><td><b>Pré-autorização e/ou auditoria prospectiva com retorno</b> ao prescritor</td><td class="c"><span class="cls c1">forte</span><span class="niv">moderada</span></td></tr>
+<tr><td>Troca oportuna de via <b>intravenosa para oral</b> e uso oral desde o início quando adequado</td><td class="c"><span class="cls c1">forte</span><span class="niv">moderada</span></td></tr>
+<tr><td>Estratégias para a <b>menor duração eficaz</b></td><td class="c"><span class="cls c1">forte</span><span class="niv">moderada</span></td></tr>
+<tr><td>Procalcitonina seriada na UTI para reduzir uso de antibiótico</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">moderada</span></td></tr>
+<tr><td>Teste diagnóstico rápido em hemocultura, se houver equipe de <i>stewardship</i> agindo sobre o resultado</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">moderada</span></td></tr>
+<tr><td>Pausa programada ("time-out") e ordem de suspensão automática</td><td class="c"><span class="cls c2a">fraca</span><span class="niv">baixa</span></td></tr>
+<tr><td>Não depender só de material educativo</td><td class="c"><span class="cls c3">contra</span><span class="niv">baixa</span></td></tr>
+</table>
+<div class="rolagem"><table>
+<tr><th>Infecção</th><th>Duração usual com boa resposta</th></tr>
+<tr><td>Pneumonia hospitalar ou associada à ventilação</td><td>7 dias</td></tr>
+<tr><td>Infecção urinária complicada, pielonefrite, associada a sonda</td><td>5 a 7 dias com quinolona; 7 dias com os demais</td></tr>
+<tr><td>Bacteremia por Gram-negativo com foco controlado</td><td>7 dias</td></tr>
+<tr><td>Bacteremia por <i>S. aureus</i> sem foco profundo</td><td>14 dias</td></tr>
+<tr><td>Candidemia sem complicação</td><td>14 dias após a negativação</td></tr>
+<tr><td><i>C. difficile</i></td><td>10 dias</td></tr>
+</table></div>
+
+<h2 id="prevencao">Pacotes de prevenção</h2>
+<p>A base é a <b>higiene das mãos</b> nos cinco momentos, com preparação alcoólica, exceto no <i>C. difficile</i>. Precaução <b>padrão</b> para todos; <b>contato</b> para multirresistentes, <i>C. difficile</i>, escabiose e diarreia infecciosa; <b>gotículas</b> para meningococo, influenza e coqueluche; <b>aerossóis</b>, com quarto de pressão negativa e máscara N95, para tuberculose, sarampo e varicela. O compêndio SHEA/IDSA/APIC de 2022 organiza os pacotes:</p>
+<div class="compara">
+<div><b>Cateter central</b>Lista de indicações; <b>checklist</b> na inserção; <b>subclávia</b> preferida na UTI; <b>guia por ultrassom</b>; barreira máxima; <b>clorexidina alcoólica</b> na pele; banho diário com clorexidina na UTI; curativo com clorexidina; desinfetar conectores antes de cada acesso; equipos trocados em até 7 dias; revisar a necessidade todo dia. Não fazer: antibiótico profilático na inserção, troca rotineira do cateter.</div>
+<div><b>Ventilação mecânica</b>Evitar intubação com cateter nasal de alto fluxo ou ventilação não invasiva; <b>sedação mínima</b> com despertar diário e teste de respiração espontânea; mobilização precoce; cabeceira elevada; <b>escovação dentária sem clorexidina</b>; dieta enteral precoce; circuito trocado só se sujo. Aspiração subglótica virou medida adicional. Não recomendados: clorexidina oral e probióticos.</div>
+<div><b>Pneumonia fora da ventilação</b>Higiene oral regular, triagem e manejo de disfagia, mobilização precoce e prevenção de transmissão de vírus respiratórios. A evidência é mais fraca, a maioria de estudos antes e depois.</div>
+</div>
+<div class="cx chave"><b>A pergunta diária</b>Para cada dispositivo (cateter central, sonda vesical, tubo, dreno): <b>ainda é necessário?</b> O risco de infecção cresce com os dias de permanência, e retirar cedo o que não precisa mais estar lá é a medida isolada que mais reduz infecção associada a dispositivo.</div>
+
+<h2 id="armadilhas">Erros frequentes</h2>
+<ul>
+<li>Tratar critério de vigilância como indicação de antibiótico, ou o contrário.</li>
+<li>Pedir urocultura de rotina no sondado e tratar bacteriúria assintomática ou candidúria.</li>
+<li>Tratar <i>Candida</i> no aspirado traqueal ou swab de vigilância positivo.</li>
+<li>Manter o cateter na bacteremia por <i>S. aureus</i> ou <i>Candida</i>.</li>
+<li>Dispensar ecocardiograma na bacteremia por <i>S. aureus</i>, ou dar 14 dias sem afastar foco profundo.</li>
+<li>Prolongar a profilaxia cirúrgica depois do fechamento "por causa do dreno".</li>
+<li>Usar preparação alcoólica no cuidado do <i>C. difficile</i> ou repetir o teste como controle de cura.</li>
+<li>Piperacilina-tazobactam em bacteremia por ESBL; ceftriaxona em <i>Enterobacter cloacae</i> invasivo.</li>
+<li>Ceftazidima-avibactam sozinha em NDM; ceftazidima em <i>Stenotrophomonas</i>.</li>
+<li>Manter combinação depois de confirmado um betalactâmico ativo.</li>
+</ul>
+
+<h2 id="autoteste">Perguntas de revisão</h2>
+<details><summary>Paciente sondado desde a admissão tem febre de 38,6 °C no D2 e urocultura com <i>E. coli</i> acima de 10⁵ UFC/mL no D4. Pela ANVISA, é infecção relacionada à assistência?</summary><p>Não. A janela vai do D1 ao D7 em torno da urocultura; a febre do D2 é o primeiro elemento dentro dela e vira a data da infecção. Data no D1 ou D2 é infecção presente na admissão (exemplo da própria nota técnica).</p></details>
+<details><summary>Quais são os fatores de risco para multirresistência na pneumonia associada à ventilação?</summary><p>Antibiótico intravenoso em 90 dias, choque séptico no diagnóstico, SDRA precedendo, cinco ou mais dias de internação antes e terapia renal substitutiva aguda.</p></details>
+<details><summary>Hemocultura com <i>S. aureus</i>, transtorácico normal, controle de 48 horas ainda positivo. Próximo passo?</summary><p>Transesofágico e busca de foco profundo; bacteremia após 48 horas é o preditor mais robusto de complicação. Cateter fora.</p></details>
+<details><summary>Qual o tratamento do episódio inicial de <i>C. difficile</i>?</summary><p>Fidaxomicina 200 mg duas vezes ao dia por 10 dias, preferida; vancomicina oral 125 mg quatro vezes ao dia por 10 dias, alternativa.</p></details>
+<details><summary><i>Klebsiella</i> produtora de NDM em bacteremia. Qual esquema?</summary><p>Aztreonam-avibactam ou cefiderocol; sem aztreonam-avibactam, ceftazidima-avibactam com aztreonam. O avibactam sozinho não inibe metalobetalactamase.</p></details>
+<details><summary>Qual o preferido na pneumonia por <i>P. aeruginosa</i> DTR?</summary><p>Ceftolozano-tazobactam, pela IDSA 2026.</p></details>
+
+<a class="vaiQuestoes" href="../../index.html?area=infecto#questoes">Treinar questões de infectologia</a>
+
+<footer><b>Fontes primárias</b><ol>
+<li>ANVISA. Nota Técnica GVIMS/GGTES/DIRE3/ANVISA nº 03/2026: critérios diagnósticos das IRAS de notificação nacional obrigatória. 2026.</li>
+<li>Kalil AC, et al. Hospital-acquired and ventilator-associated pneumonia: IDSA/ATS 2016. Clin Infect Dis. 2016;63:e61-e111. doi:10.1093/cid/ciw353.</li>
+<li>Torres A, et al. ERS/ESICM/ESCMID/ALAT guidelines for HAP and VAP. Eur Respir J. 2017;50:1700582. doi:10.1183/13993003.00582-2017.</li>
+<li>Mermel LA, et al. Intravascular catheter-related infection: 2009 update by the IDSA. Clin Infect Dis. 2009;49:1-45. doi:10.1086/599376.</li>
+<li>IDSA/ESCMID 2026 consensus statements on <i>Staphylococcus aureus</i> bacteremia (parte 1). Clin Infect Dis. 2026.</li>
+<li>Liu C, et al. IDSA guidelines for MRSA infections. Clin Infect Dis. 2011;52:e18-e55. doi:10.1093/cid/ciq146.</li>
+<li>Kaasch AJ, et al. Early oral switch in low-risk <i>S. aureus</i> bloodstream infection (SABATO). Lancet Infect Dis. 2024.</li>
+<li>BALANCE Investigators. Antibiotic treatment for 7 versus 14 days in bloodstream infections. N Engl J Med. 2025.</li>
+<li>Pappas PG, et al. Candidiasis: 2016 update by the IDSA. Clin Infect Dis. 2016;62:e1-e50. doi:10.1093/cid/civ933.</li>
+<li>Hooton TM, et al. Catheter-associated urinary tract infection: IDSA 2009. Clin Infect Dis. 2010;50:625-663. doi:10.1086/650482.</li>
+<li>Trautner BW, et al. IDSA 2025 complicated UTI: duration of antibiotics. Clin Infect Dis. 2026;82(Suppl 3):i79-i88. doi:10.1093/cid/ciaf462.</li>
+<li>Bratzler DW, et al. Antimicrobial prophylaxis in surgery (ASHP/IDSA/SIS/SHEA). Am J Health Syst Pharm. 2013;70:195-283. doi:10.2146/ajhp120568.</li>
+<li>Berríos-Torres SI, et al. CDC guideline for prevention of surgical site infection, 2017. JAMA Surg. 2017;152:784-791. doi:10.1001/jamasurg.2017.0904.</li>
+<li>McDonald LC, et al. <i>C. difficile</i>: IDSA/SHEA 2017. Clin Infect Dis. 2018;66:e1-e48. doi:10.1093/cid/cix1085. Johnson S, et al. Focused update 2021. Clin Infect Dis. 2021;73:e1029-e1044. doi:10.1093/cid/ciab549.</li>
+<li>Tamma PD, et al. IDSA 2026 guidance on antimicrobial-resistant Gram-negative infections. Clin Infect Dis. 2026. doi:10.1093/cid/ciag481.</li>
+<li>Zavascki AP, et al. Multidrug-resistant Gram-negative infections: Sociedade Brasileira de Infectologia. Braz J Infect Dis. 2025;29:104589. doi:10.1016/j.bjid.2025.104589.</li>
+<li>Harris PNA, et al. Piperacillin-tazobactam vs meropenem (MERINO). JAMA. 2018;320:984-994. doi:10.1001/jama.2018.12163.</li>
+<li>Barlam TF, et al. Antibiotic stewardship: IDSA/SHEA 2016. Clin Infect Dis. 2016;62:e51-e77. doi:10.1093/cid/ciw118. ANVISA. Diretriz nacional de gerenciamento do uso de antimicrobianos, revisão 2023.</li>
+<li>Klompas M, et al. Prevention of VAP, VAE and NV-HAP: 2022 update. Infect Control Hosp Epidemiol. 2022;43:687-713. doi:10.1017/ice.2022.88. Buetti N, et al. Prevention of CLABSI: 2022 update. Infect Control Hosp Epidemiol. 2022;43:553-569. doi:10.1017/ice.2022.87.</li>
+</ol>
+<p style="margin-top:10px">Material de estudo. Confira condutas na fonte antes de aplicar ao paciente.</p>
+</footer>
+</div>

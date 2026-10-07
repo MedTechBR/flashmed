@@ -1,0 +1,51 @@
+{
+ "incluidas": 40,
+ "descartadas": [
+  {
+   "pid": "p0513",
+   "motivo": "Mais de uma resposta defensável: lesão ureteral diagnosticada tardiamente no pós-operatório de ferimento por arma de fogo tem como conduta inicial recomendada a derivação (nefrostomia percutânea ou cateter duplo J) com reparo diferido (diretrizes de urotrauma AUA e EAU); a reabordagem imediata com reimplante só é preferida quando o diagnóstico é precoce, dado que o enunciado não informa."
+  },
+  {
+   "pid": "p0514",
+   "motivo": "Gabarito contraria o calendário vigente do PNI: desde novembro de 2024 a VOP foi retirada e o reforço dos 15 meses é feito com VIP (vacina inativada); a alternativa oficial inclui poliomielite oral."
+  },
+  {
+   "pid": "p0516",
+   "motivo": "Gabarito com erro: em doença hemolítica com mãe O Rh negativo e RN B Rh positivo, a exsanguineotransfusão usa hemácias O Rh negativo (compatíveis com os anticorpos maternos anti-B e anti-D), não B negativo; além disso, a BT de 15 mg/dL está abaixo do limiar de 16 mg/dL da própria tabela e há espaço defensável para imunoglobulina antes da EST."
+  },
+  {
+   "pid": "p0528",
+   "motivo": "Mais de uma resposta defensável: o PCDT IST 2022 indica tratar após um único teste reagente pessoas sem diagnóstico prévio de sífilis e com quadro sugestivo de sífilis primária (o cancro recente regrediu em doadora de sangue habitual, logo infecção recente), o que sustenta a penicilina benzatina em dose única com VDRL de controle tanto quanto o pedido de VDRL."
+  },
+  {
+   "pid": "p0534",
+   "motivo": "Mais de uma resposta defensável: em gestação única com parto prematuro espontâneo prévio e colo menor que 25 mm antes de 24 semanas, a cerclagem é recomendada (ACOG Practice Bulletin 234, 2021), tanto quanto a progesterona vaginal."
+  },
+  {
+   "pid": "p0127",
+   "motivo": "Depende de figura: o eletrocardiograma citado no enunciado não está no texto, e a conduta (marca-passo vs. atropina) depende do tipo de bloqueio."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0503",
+   "nota": "A alternativa oficial diz \"sem necessidade de confirmação pela urocultura\"; mantida na leitura de que o antibiótico não espera a urocultura. O comentário reforça que a urocultura continua obrigatória e é colhida antes da primeira dose."
+  },
+  {
+   "pid": "p0492",
+   "nota": "Atelectasia como causa de febre no pós-operatório imediato é contestada; mantida porque, em paciente intubado no 1º dia, o foco pulmonar (atelectasia ou pneumonia) segue sendo o primeiro a investigar."
+  },
+  {
+   "pid": "p0500",
+   "nota": "O enunciado chama de normal a força grau 3, quando na escala da ASIA o normal é grau 5; a resposta (quadríceps, L3) não muda, e o comentário corrige a escala."
+  },
+  {
+   "pid": "p0494",
+   "nota": "Conduta de repetir a citologia em 6 meses vem das diretrizes INCA 2016, mantidas pelas diretrizes de 2025 apenas onde o rastreio ainda é por citologia; onde o DNA-HPV já foi implantado, a citologia é só triagem reflexa."
+  },
+  {
+   "pid": "p0129",
+   "nota": "Repouso relativo na ameaça de aborto não tem evidência de benefício; mantida porque o diagnóstico é o ponto central e as demais alternativas estão erradas."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+[
+ {
+  "grupo": "Pediatria",
+  "f": "emergencias-pediatricas.html",
+  "tipo": "AHA 2025 · resumo de prova",
+  "area": "pedemerg",
+  "min": 55,
+  "t": "Emergências pediátricas",
+  "s": "Avaliação inicial da criança grave, parada cardiorrespiratória pela AHA/AAP 2025, choque séptico pela Surviving Sepsis Campaign pediátrica 2020 e critérios de Phoenix, crise asmática pela GINA 2026, convulsão febril e estado de mal epiléptico, intoxicações, aspiração de corpo estranho e maus-tratos com as obrigações do ECA."
+ },
+ {
+  "grupo": "Pediatria",
+  "f": "pediatria-geral.html",
+  "tipo": "GINA 2026 · resumo de prova",
+  "area": "pedgeral",
+  "min": 54,
+  "t": "Pediatria geral",
+  "s": "Os temas de ambulatório pediátrico que mais caem no ENAMED: asma pela GINA 2026, alergia à proteína do leite de vaca, refluxo e constipação pelos critérios de Roma IV, sopro e cardiopatias congênitas, puberdade, baixa estatura, anemia ferropriva, sinais de alerta de câncer, síndrome nefrótica, glomerulonefrite pós-estreptocócica, infecção urinária e sigilo na consulta do adolescente."
+ }
+]

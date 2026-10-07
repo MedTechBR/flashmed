@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Mulher de 42 anos procura a UBS por tristeza na maior parte do dia há 5 semanas, perda de interesse pelo trabalho, insônia terminal, cansaço, sentimento de culpa excessiva e dificuldade de concentração. Faltou ao serviço várias vezes. Nega ideação suicida, uso de álcool ou outras substâncias e episódios prévios de euforia ou de redução da necessidade de sono. TSH e hemograma recentes normais. Qual o diagnóstico mais provável?",
+  "alts": [
+   "Transtorno de adaptação com humor deprimido",
+   "Transtorno depressivo persistente (distimia)",
+   "Transtorno de ansiedade generalizada com humor triste",
+   "Transtorno bipolar tipo II em fase depressiva",
+   "Transtorno depressivo maior, episódio único"
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Diagnóstico de depressão maior",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "O DSM-5-TR exige cinco ou mais de nove sintomas, por pelo menos duas semanas, sendo um deles humor deprimido ou anedonia, com sofrimento ou prejuízo e sem explicação por substância ou doença clínica. A paciente tem seis sintomas há cinco semanas. O transtorno de adaptação só é diagnosticado quando não se cumprem critérios de outro transtorno; a distimia exige dois anos; o tipo II exige hipomania prévia, que foi negada; e a preocupação excessiva e difusa da ansiedade generalizada não domina o quadro.",
+  "porAlt": [
+   "O transtorno de adaptação é excluído quando o quadro preenche critérios de depressão maior.",
+   "A distimia requer sintomas depressivos na maior parte dos dias por pelo menos dois anos.",
+   "O quadro é centrado em humor e anedonia, sem preocupação excessiva e difusa por seis meses.",
+   "O bipolar tipo II exige ao menos um episódio de hipomania, que foi ativamente negado.",
+   "Correta: seis sintomas, incluindo humor deprimido e anedonia, por mais de duas semanas e com prejuízo funcional."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos, acompanhado na UBS, tem diagnóstico de episódio depressivo moderado a grave há 6 semanas, com PHQ-9 de 18, sem ideação suicida, sem sintomas psicóticos e sem história de mania. Mantém suporte familiar e aceita tratamento. Qual a conduta inicial mais adequada na atenção primária?",
+  "alts": [
+   "Encaminhar ao CAPS para iniciar o tratamento, sem prescrição na unidade de saúde",
+   "Iniciar ISRS, como sertralina 50 mg, associar psicoterapia e reavaliar em 2 a 4 semanas",
+   "Iniciar amitriptilina 150 mg à noite como primeira escolha e retorno em 3 meses",
+   "Iniciar clonazepam contínuo e reavaliar a necessidade de antidepressivo em 3 meses",
+   "Orientar atividade física e retorno em 3 meses antes de prescrever qualquer fármaco"
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Tratamento inicial na APS",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE. Depression in adults: treatment and management (NG222), 2022; Ministério da Saúde. Cadernos de Atenção Básica 34: Saúde Mental, 2013",
+  "coment": "Na depressão moderada a grave, a combinação de antidepressivo e psicoterapia é superior a cada estratégia isolada. Os ISRS são primeira escolha pela segurança e tolerabilidade, e a reavaliação precoce, em 2 a 4 semanas, serve para checar adesão, efeitos adversos e risco de suicídio. O caso não tem critério de gravidade para o CAPS, que se destina a transtornos graves e persistentes; benzodiazepínico não trata depressão; tricíclico em dose plena não é primeira linha e é letal em superdosagem.",
+  "porAlt": [
+   "O CAPS atende transtornos graves e persistentes; este caso é manejável pela equipe da APS.",
+   "Correta: ISRS com psicoterapia e reavaliação precoce é a conduta para depressão moderada a grave na APS.",
+   "Tricíclico em dose plena tem mais efeitos adversos e alta letalidade em superdosagem.",
+   "Benzodiazepínico não trata depressão e adiar o antidepressivo prolonga o sofrimento e o risco.",
+   "Atividade física ajuda, mas isolada não basta para episódio moderado a grave com prejuízo."
+  ]
+ },
+ {
+  "q": "Mulher de 33 anos com depressão moderada iniciou fluoxetina 20 mg/dia há 10 dias. Retorna dizendo que ainda se sente triste e que teve náusea leve nos primeiros dias, já em melhora. Quer saber se o remédio não funciona para ela. Não tem ideação suicida. Qual a conduta?",
+  "alts": [
+   "Suspender a fluoxetina pela náusea e iniciar amitriptilina em dose antidepressiva",
+   "Associar carbonato de lítio para potencializar a resposta já na segunda semana",
+   "Aumentar para 60 mg/dia, pois a falta de melhora no décimo dia indica dose baixa",
+   "Manter a dose, explicar a latência e reavaliar a resposta em 4 a 6 semanas",
+   "Trocar por sertralina, pois a ausência de resposta em 10 dias indica falha do ISRS"
+  ],
+  "gab": 3,
+  "tema": "humor",
+  "sub": "Latência do antidepressivo",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE. Depression in adults: treatment and management (NG222), 2022",
+  "coment": "Os antidepressivos começam a mostrar efeito em 2 a 4 semanas, e a resposta só deve ser julgada após 4 a 6 semanas em dose terapêutica. Efeitos adversos gastrointestinais dos ISRS costumam ser transitórios. Trocar, aumentar a dose ou potencializar no décimo dia expõe a paciente a efeitos adversos sem benefício comprovado e cria a falsa impressão de refratariedade. A psicoeducação sobre o tempo de resposta é uma das principais medidas de adesão ao tratamento.",
+  "porAlt": [
+   "A náusea já está melhorando e o tricíclico tem pior tolerância e maior letalidade.",
+   "Potencialização com lítio é reservada a resposta insuficiente após tentativas adequadas.",
+   "O aumento precoce eleva efeitos adversos sem ganho, já que o efeito ainda não teve tempo de surgir.",
+   "Correta: dez dias é cedo demais para julgar resposta; a avaliação é feita após 4 a 6 semanas.",
+   "Não há falha terapêutica antes de 4 a 6 semanas em dose adequada."
+  ]
+ },
+ {
+  "q": "Homem de 38 anos teve primeiro episódio depressivo maior tratado com sertralina 100 mg/dia. Está em remissão completa há 2 meses, sem efeitos adversos, trabalha normalmente e não tem história familiar de transtorno bipolar. Na consulta de retorno na UBS, pergunta por quanto tempo deve usar o medicamento. Qual a orientação adequada?",
+  "alts": [
+   "Manter por 2 anos, reduzindo 25 mg a cada 6 meses a partir deste retorno",
+   "Reduzir à metade da dose agora e suspender em 4 semanas se seguir sem sintomas",
+   "Manter por toda a vida, pois todo episódio depressivo maior tende a recorrer",
+   "Manter a dose por 6 a 12 meses após a remissão, com retirada gradual",
+   "Suspender agora, pois 2 meses de remissão completa encerram o tratamento"
+  ],
+  "gab": 3,
+  "tema": "humor",
+  "sub": "Duração do antidepressivo",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "OMS. mhGAP Intervention Guide 2.0, 2016; NICE. Depression in adults: treatment and management (NG222), 2022",
+  "coment": "Após o primeiro episódio, a fase de continuação dura de 6 a 12 meses depois da remissão, na mesma dose que levou à resposta, porque a retirada precoce aumenta muito o risco de recaída. A suspensão deve ser gradual, em semanas, para evitar síndrome de descontinuação. Manutenção prolongada, de 2 anos ou mais, fica para episódios recorrentes (três ou mais), sintomas residuais ou episódios graves. Reduzir a dose durante a continuação também aumenta a recaída.",
+  "porAlt": [
+   "Reduzir a dose desde já contraria o princípio de manter a dose que levou à remissão.",
+   "Reduzir a dose na fase de continuação aumenta a recaída e a retirada em 4 semanas é precoce.",
+   "Manutenção indefinida é reservada a episódios recorrentes ou de alto risco, não ao primeiro.",
+   "Correta: a continuação dura 6 a 12 meses após a remissão, na dose eficaz, seguida de retirada lenta.",
+   "Suspender com 2 meses de remissão eleva o risco de recaída."
+  ]
+ },
+ {
+  "q": "Homem de 61 anos, com infarto agudo do miocárdio há 2 meses, insuficiência cardíaca com fração de ejeção de 40% e uso de AAS, clopidogrel, betabloqueador e estatina, apresenta episódio depressivo moderado diagnosticado na UBS. Qual antidepressivo é a escolha mais segura?",
+  "alts": [
+   "Amitriptilina",
+   "Sertralina",
+   "Venlafaxina",
+   "Clomipramina",
+   "Nortriptilina"
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Antidepressivo no cardiopata",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NICE. Depression in adults with a chronic physical health problem (CG91), 2009; AHA Science Advisory on depression and coronary heart disease, 2008",
+  "coment": "A sertralina é o antidepressivo com melhor evidência de segurança após síndrome coronariana aguda e na insuficiência cardíaca (estudos SADHART), com efeito mínimo sobre condução, pressão e frequência cardíaca. Os tricíclicos são contraindicados no pós-infarto recente por efeito quinidina-símile, hipotensão ortostática e arritmias. A venlafaxina pode elevar a pressão arterial e a frequência cardíaca. Com dupla antiagregação, orientar o risco aumentado de sangramento com ISRS e considerar proteção gástrica.",
+  "porAlt": [
+   "Tricíclico com efeito quinidina-símile, arritmogênico e contraindicado no pós-infarto recente.",
+   "Correta: ISRS com segurança cardiovascular demonstrada no pós-infarto e na insuficiência cardíaca.",
+   "Pode elevar a pressão arterial e a frequência cardíaca, efeito indesejável no pós-infarto.",
+   "Tricíclico com forte efeito anticolinérgico e risco de distúrbios de condução cardíaca.",
+   "Apesar de menos anticolinérgica, segue sendo tricíclico com risco de arritmia e de hipotensão."
+  ]
+ },
+ {
+  "q": "Mulher de 27 anos é trazida ao pronto-socorro 2 horas após ingerir cerca de 30 comprimidos de amitriptilina 25 mg. Está sonolenta, com pupilas midriáticas, pele seca, FC 128 bpm e PA 84 x 50 mmHg. O ECG mostra taquicardia sinusal com QRS de 140 ms. Além da via aérea e da monitorização, qual a medida específica prioritária?",
+  "alts": [
+   "Fisostigmina intravenosa para o quadro anticolinérgico",
+   "Flumazenil intravenoso em dose de 0,2 mg",
+   "Lavagem gástrica seguida de diurese forçada",
+   "Bicarbonato de sódio intravenoso em bolus",
+   "Amiodarona intravenosa para estreitar o QRS"
+  ],
+  "gab": 3,
+  "tema": "humor",
+  "sub": "Intoxicação por tricíclico",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Goldfrank's Toxicologic Emergencies, 11ª edição, 2019",
+  "coment": "Na intoxicação por tricíclicos, o bloqueio dos canais de sódio alarga o QRS e é o principal determinante de arritmia ventricular e convulsão. QRS acima de 100 ms, hipotensão ou arritmia indicam bicarbonato de sódio (1 a 2 mEq/kg em bolus), que alcaliniza o sangue e aumenta a oferta de sódio. Flumazenil e fisostigmina podem precipitar convulsões e assistolia; antiarrítmicos das classes Ia, Ic e III agravam a cardiotoxicidade; a diurese forçada não remove o fármaco, muito ligado a proteínas.",
+  "porAlt": [
+   "Fisostigmina na intoxicação por tricíclico está associada a bradiarritmia e assistolia.",
+   "Flumazenil pode precipitar convulsões, sobretudo em intoxicação por pró-convulsivantes como tricíclicos.",
+   "O fármaco é lipofílico e ligado a proteínas, não sendo removido por diurese forçada.",
+   "Correta: QRS acima de 100 ms com hipotensão indica alcalinização e carga de sódio imediatas.",
+   "Amiodarona prolonga a repolarização e pode agravar a cardiotoxicidade do tricíclico."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos em uso de sertralina 150 mg/dia recebeu tramadol para lombalgia há 2 dias. Chega ao pronto-socorro agitado, com sudorese, diarreia, tremor, T 38,6 °C, FC 120 bpm, midríase, hiper-reflexia e clônus induzível e ocular. Não há rigidez em cano de chumbo. Qual a conduta inicial?",
+  "alts": [
+   "Dantrolene e bromocriptina, pela hipótese de síndrome neuroléptica maligna",
+   "Fisostigmina intravenosa para reverter a síndrome anticolinérgica central",
+   "Manter a sertralina, trocar o tramadol por morfina e observar por 6 horas",
+   "Haloperidol intramuscular para controle da agitação psicomotora intensa",
+   "Suspender sertralina e tramadol, benzodiazepínico e medidas de suporte"
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Síndrome serotoninérgica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Boyer EW, Shannon M. The serotonin syndrome. N Engl J Med, 2005",
+  "coment": "Clônus induzível ou ocular, hiper-reflexia, agitação, diarreia e hipertermia após associação de dois serotoninérgicos (ISRS com tramadol) cumprem os critérios de Hunter para síndrome serotoninérgica. O tratamento é suspender os agentes, sedar com benzodiazepínico, hidratar e resfriar; a ciproeptadina é opção nos casos moderados que persistem. A síndrome neuroléptica maligna tem rigidez e instalação em dias; antipsicótico pode piorar a hipertermia; a síndrome anticolinérgica cursa com pele seca e íleo, não com diarreia e sudorese.",
+  "porAlt": [
+   "Não há exposição a antipsicótico nem rigidez; clônus e hiper-reflexia apontam para quadro serotoninérgico.",
+   "Sudorese e diarreia afastam síndrome anticolinérgica, que cursa com pele seca e íleo.",
+   "Manter o ISRS perpetua o excesso serotoninérgico; o quadro exige suspensão e tratamento ativo.",
+   "Antipsicótico prejudica a termorregulação e pode piorar a hipertermia nesse contexto.",
+   "Correta: suspender os serotoninérgicos e sedar com benzodiazepínico é a base do tratamento."
+  ]
+ },
+ {
+  "q": "Mulher de 72 anos, há 2 meses com tristeza, emagrecimento de 6 kg e insônia, passou a afirmar que está falida, que cometeu um pecado imperdoável e que merece morrer, mesmo com a família mostrando o extrato bancário. Não há rebaixamento de consciência, e os exames clínicos e laboratoriais estão normais. Qual o tratamento indicado?",
+  "alts": [
+   "Lítio em monoterapia, por se tratar de depressão bipolar com delírios",
+   "Inibidor da colinesterase, pela hipótese de demência com delírios",
+   "Antidepressivo associado a antipsicótico, ou eletroconvulsoterapia",
+   "Antidepressivo em monoterapia, pois os delírios cedem com o humor",
+   "Antipsicótico em monoterapia, por se tratar de esquizofrenia tardia"
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Depressão com sintomas psicóticos",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NICE. Depression in adults: treatment and management (NG222), 2022; DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "Delírios congruentes com o humor (ruína, culpa, merecimento de punição) em episódio depressivo grave definem depressão com características psicóticas pelo DSM-5-TR. A resposta ao antidepressivo isolado é inferior; indica-se a combinação de antidepressivo e antipsicótico, e a eletroconvulsoterapia é opção de primeira linha, sobretudo em idosos, com risco de suicídio ou recusa alimentar. Esquizofrenia de início tardio não explica um quadro afetivo primário, e não há déficit cognitivo progressivo sugerindo demência.",
+  "porAlt": [
+   "Não há história de mania ou hipomania que sustente diagnóstico de transtorno bipolar.",
+   "Não há declínio cognitivo progressivo; os delírios acompanham um episódio depressivo grave.",
+   "Correta: depressão psicótica responde melhor à combinação ou à eletroconvulsoterapia.",
+   "O antidepressivo isolado tem resposta inferior quando há delírios congruentes com o humor.",
+   "O quadro é afetivo primário com delírios de ruína e culpa, não esquizofrenia de início tardio."
+  ]
+ },
+ {
+  "q": "Mulher de 35 anos relata, há cerca de 8 meses, preocupação excessiva e difícil de controlar com o trabalho, a saúde dos filhos e as finanças, acompanhada de tensão muscular, irritabilidade, cansaço e sono não reparador. Não tem ataques de pânico. Exame físico e TSH normais. Além da psicoeducação, qual o tratamento de primeira linha?",
+  "alts": [
+   "Terapia cognitivo-comportamental e ISRS ou IRSN, como sertralina ou duloxetina",
+   "Amitriptilina em dose antidepressiva como fármaco de primeira escolha",
+   "Propranolol isolado em dose fixa, pois controla os sintomas somáticos",
+   "Quetiapina em baixa dose à noite como primeira opção farmacológica",
+   "Clonazepam contínuo como tratamento de manutenção por tempo indeterminado"
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Transtorno de ansiedade generalizada",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE. Generalised anxiety disorder and panic disorder in adults (CG113), 2011",
+  "coment": "Preocupação excessiva e de difícil controle por pelo menos 6 meses, com três ou mais sintomas como tensão, fadiga, irritabilidade e alteração do sono, define transtorno de ansiedade generalizada no DSM-5-TR. A primeira linha é terapia cognitivo-comportamental e, quando indicado fármaco, ISRS ou IRSN. Benzodiazepínicos ficam restritos a uso curto pelo risco de dependência e prejuízo cognitivo; tricíclicos e antipsicóticos têm pior perfil de efeitos adversos; o propranolol não trata o componente cognitivo.",
+  "porAlt": [
+   "Correta: TCC e ISRS ou IRSN são a primeira linha no transtorno de ansiedade generalizada.",
+   "Tricíclicos têm eficácia, mas pior tolerabilidade e maior letalidade, ficando como segunda linha.",
+   "Betabloqueador reduz tremor e taquicardia, mas não atua sobre a preocupação excessiva.",
+   "Antipsicóticos têm risco metabólico e não são recomendados como primeira opção na ansiedade.",
+   "Benzodiazepínico contínuo gera tolerância, dependência e prejuízo cognitivo; uso só por curto prazo."
+  ]
+ },
+ {
+  "q": "Estudante de 22 anos chega ao pronto-socorro com palpitação, falta de ar, formigamento nas mãos, tremor e medo intenso de morrer, que começaram de repente durante uma aula e atingiram o pico em 10 minutos. É o primeiro episódio. ECG, glicemia, troponina e eletrólitos normais; nega uso de estimulantes. Qual a interpretação correta do quadro?",
+  "alts": [
+   "Ataque de pânico, sem critério para transtorno de pânico",
+   "Transtorno de ansiedade de doença, pela busca do pronto-socorro",
+   "Agorafobia, pelo início dos sintomas em local cheio de pessoas",
+   "Transtorno de ansiedade generalizada em descompensação aguda",
+   "Transtorno de pânico, já que o ataque foi inesperado e intenso"
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Ataque de pânico no PS",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "O ataque de pânico é um surto abrupto de medo com pico em minutos e quatro ou mais sintomas físicos ou cognitivos. Para transtorno de pânico, o DSM-5-TR exige ataques recorrentes e inesperados, seguidos por pelo menos 1 mês de preocupação com novos ataques ou de mudança desadaptativa de comportamento. Após episódio único, cabe excluir causas clínicas, como foi feito, explicar a natureza benigna dos sintomas e acompanhar. A agorafobia exige medo ou evitação em duas ou mais situações.",
+  "porAlt": [
+   "Correta: houve um ataque típico, mas faltam recorrência e 1 mês de preocupação ou mudança de comportamento.",
+   "Procurar o serviço diante de sintoma agudo intenso é esperado e não define ansiedade de doença.",
+   "Agorafobia exige medo ou evitação persistente de duas ou mais situações, não descrito aqui.",
+   "Não há relato de preocupação excessiva e difusa por 6 meses, núcleo da ansiedade generalizada.",
+   "Um único ataque não basta; o transtorno exige ataques recorrentes e 1 mês de consequências."
+  ]
+ },
+ {
+  "q": "Homem de 30 anos tem, há 4 meses, ataques de pânico recorrentes e inesperados, com medo constante de novas crises; deixou de dirigir e de usar ônibus. A investigação clínica é normal. Usa alprazolam prescrito no pronto-socorro quando sente a crise chegando. Qual a melhor estratégia de tratamento?",
+  "alts": [
+   "Alprazolam em doses fixas três vezes ao dia como tratamento de manutenção",
+   "Propranolol contínuo, já que as crises são dominadas por taquicardia",
+   "ISRS em dose baixa com titulação, associado a TCC com exposição",
+   "Quetiapina à noite associada a orientação para evitar situações de gatilho",
+   "Manter o alprazolam se necessário e evitar antidepressivos pela ativação"
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Tratamento do transtorno de pânico",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE. Generalised anxiety disorder and panic disorder in adults (CG113), 2011",
+  "coment": "No transtorno de pânico, a primeira linha é ISRS, iniciado em dose baixa porque esses pacientes são sensíveis à ativação inicial, e terapia cognitivo-comportamental com exposição interoceptiva e situacional. O benzodiazepínico usado conforme necessidade reforça a esquiva e o medo das sensações, além de causar dependência; se usado, deve ser ponte curta. Propranolol não previne crises, e orientar a evitar gatilhos consolida a agorafobia. O tratamento eficaz é mantido por 6 a 12 meses após a resposta.",
+  "porAlt": [
+   "Benzodiazepínico em manutenção gera dependência e não é tratamento de longo prazo do pânico.",
+   "Betabloqueador não previne os ataques nem trata a ansiedade antecipatória.",
+   "Correta: ISRS titulado a partir de dose baixa e TCC com exposição formam a primeira linha.",
+   "Evitar gatilhos consolida a agorafobia, e antipsicótico não é recomendado para pânico.",
+   "Uso conforme necessidade reforça a esquiva; a ativação inicial se contorna com dose baixa."
+  ]
+ },
+ {
+  "q": "Mulher de 26 anos com transtorno obsessivo-compulsivo (pensamentos de contaminação e lavagem das mãos por 3 horas ao dia) usa fluoxetina 20 mg/dia há 4 semanas, com melhora discreta e boa tolerância. Faz terapia de exposição com prevenção de resposta. Qual a conduta farmacológica mais adequada agora?",
+  "alts": [
+   "Trocar por clonazepam, mais eficaz contra as compulsões de limpeza",
+   "Associar risperidona, pela resposta insuficiente já na quarta semana",
+   "Manter 20 mg/dia por mais 4 semanas e suspender se não houver remissão",
+   "Aumentar a fluoxetina até 80 mg/dia, se tolerada, e avaliar por 8 a 12 semanas",
+   "Trocar por clomipramina, pois 4 semanas sem remissão definem refratariedade"
+  ],
+  "gab": 3,
+  "tema": "humor",
+  "sub": "Farmacoterapia do TOC",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NICE. Obsessive-compulsive disorder and body dysmorphic disorder (CG31), 2005; APA Practice Guideline for OCD, 2007",
+  "coment": "No TOC, os ISRS costumam exigir doses mais altas do que na depressão (fluoxetina 40 a 80 mg/dia) e latência maior, de 8 a 12 semanas em dose máxima tolerada, antes de se considerar falha. Com boa tolerância e melhora parcial, o passo é subir a dose. Troca por clomipramina ou potencialização com antipsicótico em baixa dose ficam para resposta insuficiente após tentativa adequada. Benzodiazepínicos não tratam obsessões nem compulsões. A exposição com prevenção de resposta é a psicoterapia de escolha.",
+  "porAlt": [
+   "Benzodiazepínicos não têm eficácia sobre obsessões e compulsões.",
+   "Potencialização com antipsicótico só após falha de ISRS em dose e tempo adequados.",
+   "Manter dose baixa e suspender sem otimizar desperdiça uma tentativa que ainda pode funcionar.",
+   "Correta: no TOC o ISRS exige dose alta e 8 a 12 semanas antes de se falar em falha.",
+   "Quatro semanas em dose baixa não configuram tentativa adequada nem refratariedade."
+  ]
+ },
+ {
+  "q": "Mulher de 29 anos sofreu assalto à mão armada há 3 meses. Desde então tem lembranças intrusivas, pesadelos, evita a rua onde ocorreu o fato, sente-se constantemente em alerta e se assusta com facilidade, com prejuízo no trabalho. Não usa álcool ou outras drogas. Qual o tratamento de primeira escolha?",
+  "alts": [
+   "Aguardar 6 meses, pois antes disso o quadro é de estresse agudo",
+   "Psicoterapia focada no trauma, como TCC focada no trauma ou EMDR",
+   "Clonazepam regular para reduzir a hipervigilância e os pesadelos",
+   "Sessão única de debriefing psicológico para relatar o evento em detalhes",
+   "Risperidona em baixa dose como monoterapia para os sintomas intrusivos"
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Tratamento do TEPT",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE. Post-traumatic stress disorder (NG116), 2018",
+  "coment": "Sintomas de intrusão, evitação, alterações negativas e hiperexcitabilidade por mais de 1 mês após trauma, com prejuízo, definem transtorno de estresse pós-traumático; entre 3 dias e 1 mês, fala-se em estresse agudo. A primeira escolha é psicoterapia focada no trauma (TCC focada no trauma ou EMDR); ISRS como sertralina ou paroxetina, ou venlafaxina, são alternativa quando a pessoa prefere fármaco. Benzodiazepínicos não são recomendados e podem piorar o desfecho; o debriefing em sessão única não previne e pode agravar.",
+  "porAlt": [
+   "Com mais de 1 mês de sintomas o diagnóstico já é TEPT, e o tratamento não deve ser adiado.",
+   "Correta: psicoterapias focadas no trauma são o tratamento de primeira escolha do TEPT.",
+   "Benzodiazepínicos não tratam o TEPT e se associam a pior evolução.",
+   "Debriefing em sessão única não previne TEPT e pode aumentar os sintomas.",
+   "Antipsicótico em monoterapia não é tratamento de primeira linha para TEPT."
+  ]
+ },
+ {
+  "q": "Motorista de 40 anos sobreviveu a um acidente grave na rodovia há 12 dias, em que outra pessoa morreu. Desde então tem flashbacks, pesadelos, evita dirigir, sente-se fora do próprio corpo em alguns momentos e dorme mal, com dificuldade de voltar ao trabalho. Qual o diagnóstico segundo o DSM-5-TR?",
+  "alts": [
+   "Transtorno dissociativo de identidade",
+   "Transtorno de estresse pós-traumático",
+   "Transtorno de estresse agudo",
+   "Transtorno de adaptação com ansiedade",
+   "Transtorno de pânico com agorafobia"
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Estresse agudo x TEPT",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "O transtorno de estresse agudo é diagnosticado quando sintomas de intrusão, humor negativo, dissociação, evitação e excitação surgem após exposição a trauma e duram de 3 dias a 1 mês. Só após 1 mês de persistência o diagnóstico passa a ser transtorno de estresse pós-traumático. O transtorno de adaptação se aplica a estressores que não preenchem o critério de trauma ou a quadros que não cumprem critérios de estresse agudo. Despersonalização transitória é comum no estresse agudo e não indica transtorno dissociativo de identidade.",
+  "porAlt": [
+   "Despersonalização transitória não equivale a identidades distintas e alternantes.",
+   "O TEPT exige persistência dos sintomas por mais de 1 mês após o trauma.",
+   "Correta: sintomas pós-trauma com duração entre 3 dias e 1 mês definem estresse agudo.",
+   "Há trauma com risco de morte e quadro que cumpre critérios de estresse agudo.",
+   "Não há ataques de pânico inesperados; a evitação é ligada às lembranças do trauma."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos perdeu a esposa há 3 meses. Na consulta na UBS chora ao falar dela, sente saudade em ondas, dorme pior e perdeu um pouco do apetite, mas mantém a autoestima, conversa com os netos com prazer e diz que às vezes ainda sente a presença dela em casa. Não tem ideação suicida. Qual a conduta mais adequada?",
+  "alts": [
+   "Diagnosticar transtorno de luto prolongado e iniciar psicoterapia formal",
+   "Iniciar ISRS, pois tristeza e insônia após 2 meses configuram depressão",
+   "Prescrever benzodiazepínico para insônia por 6 meses e retorno após",
+   "Reconhecer luto esperado, oferecer escuta e acompanhamento na unidade",
+   "Encaminhar ao CAPS por alucinação, pela sensação de presença da falecida"
+  ],
+  "gab": 3,
+  "tema": "humor",
+  "sub": "Luto x depressão",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022; Ministério da Saúde. Cadernos de Atenção Básica 34: Saúde Mental, 2013",
+  "coment": "No luto, o afeto predominante é saudade e vazio, que vêm em ondas ligadas a lembranças do falecido, com autoestima preservada e capacidade de sentir prazer em outros momentos. Sentir a presença da pessoa é experiência comum e não é sintoma psicótico. O DSM-5-TR orienta distinguir luto de episódio depressivo pela qualidade dos sintomas: culpa difusa, desvalia e anedonia global falam a favor de depressão. O transtorno de luto prolongado exige pelo menos 12 meses após a perda em adultos. A conduta é apoio e seguimento.",
+  "porAlt": [
+   "O luto prolongado exige ao menos 12 meses após a perda em adultos.",
+   "Tristeza e insônia no luto não bastam para depressão sem desvalia e anedonia global.",
+   "Benzodiazepínico prolongado no luto gera dependência e pode dificultar a elaboração da perda.",
+   "Correta: saudade em ondas com autoestima e prazer preservados caracteriza luto esperado.",
+   "Sentir a presença do falecido é experiência comum no luto, não alucinação psicótica."
+  ]
+ },
+ {
+  "q": "Mulher de 52 anos perdeu o filho em acidente há 15 meses. Desde então pensa nele quase todos os dias com saudade intensa, sente que parte de si morreu, não aceita a morte, evita tudo o que lembre a perda e não retomou o trabalho nem os contatos sociais. Os sintomas excedem o esperado em sua cultura. Qual o diagnóstico?",
+  "alts": [
+   "Transtorno de luto prolongado",
+   "Transtorno de adaptação crônico",
+   "Luto normal com evolução esperada",
+   "Transtorno de estresse pós-traumático",
+   "Transtorno depressivo persistente"
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Transtorno de luto prolongado",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "O DSM-5-TR incluiu o transtorno de luto prolongado: em adultos, pelo menos 12 meses após a morte de alguém próximo (6 meses em crianças e adolescentes), com saudade intensa ou preocupação com o falecido quase todo dia, somadas a pelo menos três manifestações como sensação de que parte de si morreu, descrença na morte, evitação de lembranças, dor emocional intensa, dificuldade de retomar a vida e entorpecimento, com prejuízo e acima das normas culturais. O TEPT exige revivência de trauma vivido, e a distimia, humor deprimido por 2 anos.",
+  "porAlt": [
+   "Correta: mais de 12 meses de saudade intensa, com sintomas associados e prejuízo, acima do esperado.",
+   "Quando o quadro cumpre critérios de luto prolongado, não se diagnostica transtorno de adaptação.",
+   "O prejuízo persistente e acima das normas culturais após 15 meses afasta luto esperado.",
+   "Não há exposição direta ao trauma com revivência; o núcleo é a saudade e a não aceitação.",
+   "A distimia exige humor deprimido crônico por pelo menos 2 anos."
+  ]
+ },
+ {
+  "q": "Mulher de 47 anos consulta na UBS quase todo mês há 2 anos com queixas que mudam: dor abdominal, cefaleia, palpitação, formigamentos. Já fez endoscopia, ultrassonografias, ecocardiograma e exames laboratoriais, todos normais. Está muito preocupada com a saúde e sofre com os sintomas. Vive conflito conjugal. Qual a abordagem recomendada?",
+  "alts": [
+   "Consultas regulares, validação do sofrimento e exames só se indicados",
+   "Explicar que os sintomas são imaginários e dar alta do acompanhamento",
+   "Encaminhar a cada especialista conforme o órgão de cada nova queixa",
+   "Solicitar tomografia de corpo inteiro para encerrar a investigação de vez",
+   "Prescrever benzodiazepínico contínuo e retorno apenas em caso de piora"
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Sintomas somáticos na APS",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica 34: Saúde Mental, 2013; DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "Sintomas somáticos persistentes, com sofrimento e pensamentos, sentimentos ou comportamentos excessivos em relação a eles por mais de 6 meses, caracterizam o transtorno de sintomas somáticos (DSM-5-TR). Na APS, recomenda-se vínculo com um mesmo profissional, consultas programadas que não dependam de nova queixa, legitimar o sofrimento sem negar os sintomas, exame físico breve a cada consulta, evitar exames e encaminhamentos sem indicação e explorar o contexto psicossocial. Dizer que é imaginário rompe o vínculo e aumenta a procura.",
+  "porAlt": [
+   "Correta: vínculo, consultas programadas, validação e parcimônia diagnóstica são o núcleo do cuidado.",
+   "Negar o sofrimento rompe o vínculo e aumenta a busca por outros serviços.",
+   "Encaminhamentos fragmentados multiplicam exames e não tratam o sofrimento de base.",
+   "Exames sem indicação reforçam a preocupação e geram achados incidentais e iatrogenia.",
+   "Benzodiazepínico contínuo gera dependência e não aborda o problema central."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos, agricultor, com depressão grave, diz na consulta da UBS que pensa em se matar todos os dias, que já decidiu tomar no fim de semana o veneno que guarda no galpão e que escreveu cartas de despedida. Mora sozinho. Qual a conduta mais adequada?",
+  "alts": [
+   "Não deixá-lo só, envolver a família e encaminhar acompanhado à urgência psiquiátrica",
+   "Encaminhar para psicoterapia ambulatorial pela fila regular da regulação",
+   "Iniciar fluoxetina, firmar contrato de não suicídio e marcar retorno em 15 dias",
+   "Prescrever amitriptilina para 30 dias e orientar a família a esconder o veneno",
+   "Evitar perguntar mais sobre o plano para não reforçar a ideia de suicídio"
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Risco de suicídio na APS",
+  "cenario": "amb",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "OMS. mhGAP Intervention Guide 2.0, 2016; Ministério da Saúde. Cadernos de Atenção Básica 34: Saúde Mental, 2013",
+  "coment": "Ideação diária com plano definido, meio letal acessível, data marcada e cartas de despedida indicam risco iminente. A conduta é garantir a segurança: não deixar a pessoa só, acionar familiares ou rede de apoio, restringir o acesso ao meio e encaminhar com acompanhamento para avaliação em serviço de urgência, como SAMU, UPA ou CAPS III, conforme a rede local. Contrato de não suicídio não protege. Perguntar diretamente sobre ideação e plano não aumenta o risco e é essencial. Tricíclicos em grande quantidade são meio letal.",
+  "porAlt": [
+   "Correta: risco iminente exige proteção contínua, rede de apoio e avaliação de urgência.",
+   "A fila ambulatorial não responde a um risco iminente com plano e data definidos.",
+   "Contrato de não suicídio não protege e o intervalo de 15 dias é incompatível com risco iminente.",
+   "Prescrever tricíclico para 30 dias entrega outro meio letal a quem tem plano estruturado.",
+   "Perguntar sobre ideação e plano não aumenta o risco e é parte essencial da avaliação."
+  ]
+ },
+ {
+  "q": "Adolescente de 15 anos tem episódio depressivo moderado a grave, sem resposta a 6 semanas de psicoterapia na unidade, sem ideação suicida atual, sem uso de substâncias e sem história de mania. As notas caíram e ele se isolou dos amigos. A família pergunta sobre medicação. Qual a conduta farmacológica mais adequada?",
+  "alts": [
+   "Paroxetina como primeira escolha por ser mais sedativa e bem tolerada",
+   "Nenhum antidepressivo, pois todos são proibidos abaixo de 18 anos",
+   "Fluoxetina com psicoterapia e vigilância de ideação suicida",
+   "Venlafaxina em dose plena, sem necessidade de vigilância adicional",
+   "Amitriptilina em dose baixa, mais segura que ISRS nessa faixa etária"
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Depressão na adolescência",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NICE. Depression in children and young people (NG134), 2019",
+  "coment": "Em crianças e adolescentes com depressão moderada a grave sem resposta à psicoterapia, a fluoxetina é o antidepressivo de primeira escolha, associada à psicoterapia. Os antidepressivos carregam alerta de aumento de pensamentos e comportamentos suicidas abaixo de 25 anos, sobretudo nas primeiras semanas, o que exige monitorização próxima, e não proibição. Paroxetina e venlafaxina tiveram pior relação entre risco e benefício nessa faixa, e os tricíclicos não mostraram eficácia e são letais em superdosagem.",
+  "porAlt": [
+   "A paroxetina teve pior relação entre risco e benefício em menores de 18 anos.",
+   "Há alerta de suicidalidade, não proibição; a fluoxetina é indicada com monitorização.",
+   "Correta: fluoxetina com psicoterapia e monitorização é a primeira escolha nessa faixa etária.",
+   "A venlafaxina não é primeira escolha e todo antidepressivo exige vigilância nessa idade.",
+   "Tricíclicos não mostraram eficácia em adolescentes e são letais em superdosagem."
+  ]
+ },
+ {
+  "q": "Mulher de 40 anos suspendeu por conta própria a paroxetina 40 mg/dia que usava havia 2 anos. Três dias depois tem tontura, sensação de choque ao mexer os olhos, náusea, irritabilidade, sudorese e sono agitado, sem retorno da tristeza. Qual a melhor explicação e conduta?",
+  "alts": [
+   "Síndrome serotoninérgica; suspender todos os serotoninérgicos e sedar",
+   "Recaída depressiva; reintroduzir em dose dobrada e manter por 2 anos",
+   "Síndrome de descontinuação; reintroduzir e retirar de forma lenta",
+   "Crise de pânico; iniciar alprazolam e reavaliar o diagnóstico em 1 mês",
+   "Neuropatia periférica; solicitar eletroneuromiografia e vitamina B12"
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Síndrome de descontinuação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE. Depression in adults: treatment and management (NG222), 2022",
+  "coment": "Os sintomas surgem 2 a 4 dias após parada abrupta de antidepressivo e lembram um quadro gripal com tontura, parestesias em choque, náusea, irritabilidade e insônia, configurando a síndrome de descontinuação, mais frequente com fármacos de meia-vida curta como paroxetina e venlafaxina. A conduta é reintroduzir o antidepressivo e retirá-lo ao longo de semanas ou meses, ou trocar por fluoxetina, de meia-vida longa, antes de suspender. A recaída tem início mais tardio e predomínio de humor deprimido.",
+  "porAlt": [
+   "A síndrome serotoninérgica decorre de excesso, não de retirada do serotoninérgico.",
+   "Sem retorno da tristeza e com início em 3 dias, o quadro não é recaída depressiva.",
+   "Correta: parada abrupta de paroxetina causa descontinuação, tratada com reintrodução e retirada lenta.",
+   "Os sintomas têm relação temporal clara com a suspensão e não são ataques de pânico.",
+   "Parestesias em choque após suspensão de ISRS não sugerem neuropatia periférica."
+  ]
+ },
+ {
+  "q": "Homem de 21 anos é levado ao pronto-socorro pela família por 3 semanas de insônia, desconfiança de que os vizinhos o vigiam e vozes que comentam suas ações. Está orientado, sem febre e sem sinais neurológicos focais. Nunca teve quadro semelhante. Antes de atribuir o quadro a transtorno psicótico primário, qual a conduta?",
+  "alts": [
+   "Dispensar exames, pois a ausência de febre e déficit focal exclui causa orgânica",
+   "Investigar causas clínicas e drogas com exames gerais, toxicológico, sífilis e HIV",
+   "Solicitar dosagem sérica de dopamina para confirmar o diagnóstico de esquizofrenia",
+   "Solicitar ressonância de crânio e EEG como únicos exames de triagem do episódio",
+   "Iniciar clozapina e investigar causas clínicas só se não houver resposta em 6 semanas"
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Primeiro episódio psicótico",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "NICE. Psychosis and schizophrenia in adults (CG178), 2014",
+  "coment": "Todo primeiro episódio psicótico exige excluir causas secundárias: uso ou abstinência de substâncias, delirium, doenças endócrinas, metabólicas, infecciosas e neurológicas. A avaliação inicial inclui exame físico e neurológico, hemograma, glicemia, eletrólitos, funções renal, hepática e tireoidiana, pesquisa toxicológica, sorologias para sífilis e HIV e, quando há sinais atípicos ou focais, neuroimagem e EEG. A ausência de febre não exclui causa orgânica. Não existe marcador laboratorial de esquizofrenia, e a clozapina não é tratamento inicial.",
+  "porAlt": [
+   "Neurossífilis, HIV, endocrinopatias e drogas podem causar psicose sem febre ou déficit focal.",
+   "Correta: o primeiro episódio exige afastar causas clínicas e uso de substâncias antes do diagnóstico primário.",
+   "Não existe exame laboratorial que confirme esquizofrenia; o diagnóstico é clínico.",
+   "Neuroimagem e EEG são dirigidos por sinais atípicos e não substituem os exames gerais.",
+   "A clozapina é reservada à refratariedade e a investigação orgânica precede o tratamento."
+  ]
+ },
+ {
+  "q": "Mulher de 23 anos, sem uso de substâncias e com investigação clínica normal, apresenta há 4 meses delírios persecutórios, alucinações auditivas e discurso desorganizado, com isolamento social. Antes disso trabalhava e estudava normalmente. Não há sintomas depressivos ou maníacos proeminentes. Qual o diagnóstico pelo DSM-5-TR?",
+  "alts": [
+   "Transtorno esquizofreniforme",
+   "Transtorno delirante",
+   "Transtorno psicótico breve",
+   "Esquizofrenia de início recente",
+   "Transtorno esquizoafetivo"
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Classificação pela duração",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "O DSM-5-TR separa os quadros psicóticos primários pela duração total, incluindo pródromo e fase residual: transtorno psicótico breve dura de 1 dia a menos de 1 mês, com retorno ao funcionamento prévio; transtorno esquizofreniforme, de 1 a menos de 6 meses; esquizofrenia, 6 meses ou mais, com pelo menos 1 mês de sintomas ativos. O transtorno delirante tem delírio sem outros sintomas psicóticos proeminentes, e o esquizoafetivo exige episódio de humor maior concomitante. Com 4 meses, o quadro é esquizofreniforme.",
+  "porAlt": [
+   "Correta: sintomas de esquizofrenia com duração entre 1 e menos de 6 meses.",
+   "Há alucinações e desorganização proeminentes, o que exclui transtorno delirante.",
+   "O transtorno psicótico breve dura menos de 1 mês.",
+   "A esquizofrenia exige 6 meses ou mais de perturbação contínua.",
+   "Não há episódio depressivo ou maníaco concomitante aos sintomas psicóticos."
+  ]
+ },
+ {
+  "q": "Homem de 28 anos com esquizofrenia há 6 anos, sem delírios ou alucinações ativos com risperidona, sem rigidez ou tremor. A família relata que ele passa o dia deitado, só toma banho com insistência, fala pouco, mostra pouca expressão facial e não se interessa por amigos. Nega tristeza. Como se classificam esses achados?",
+  "alts": [
+   "Sintomas positivos em remissão parcial",
+   "Sintomas desorganizados do pensamento",
+   "Acatisia induzida por antipsicótico",
+   "Episódio depressivo maior sobreposto",
+   "Sintomas negativos da esquizofrenia"
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Sintomas negativos",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "Os sintomas negativos são a redução de funções normais: expressão emocional diminuída (embotamento afetivo), avolição, alogia, anedonia e associabilidade. Respondem pouco aos antipsicóticos e pesam muito no prognóstico funcional. Antes de atribuí-los à doença, convém excluir causas secundárias, como depressão, parkinsonismo medicamentoso e sedação, o que o caso faz ao negar tristeza, rigidez e tremor. A acatisia é inquietação motora, o oposto da inércia descrita.",
+  "porAlt": [
+   "Sintomas positivos são delírios e alucinações, ausentes neste momento.",
+   "Desorganização envolve discurso e comportamento incoerentes, não pobreza de iniciativa.",
+   "Acatisia é inquietação com necessidade de se mover, oposta à inércia descrita.",
+   "Sem tristeza relatada, o quadro não sustenta episódio depressivo sobreposto.",
+   "Correta: avolição, alogia, embotamento e associabilidade são sintomas negativos."
+  ]
+ },
+ {
+  "q": "Jovem de 24 anos teve primeiro episódio de esquizofrenia e está em remissão completa há 3 meses com risperidona 3 mg/dia, bem tolerada, sem uso de substâncias. Voltou a estudar e frequenta o CAPS uma vez por mês. Ele e a família perguntam quando poderão suspender o remédio. Qual a orientação adequada?",
+  "alts": [
+   "Trocar por antipsicótico de depósito, obrigatório após o primeiro episódio",
+   "Reduzir para 1 mg/dia já e suspender em 1 mês se não houver sintomas",
+   "Manter por pelo menos 1 a 2 anos após a remissão do episódio",
+   "Suspender agora, pois 3 meses de remissão encerram o tratamento",
+   "Manter apenas enquanto houver sintomas residuais e suspender ao fim deles"
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Manutenção do antipsicótico",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE. Psychosis and schizophrenia in adults (CG178), 2014; APA Practice Guideline for the Treatment of Patients With Schizophrenia, 2020",
+  "coment": "Após o primeiro episódio psicótico, a suspensão precoce do antipsicótico multiplica o risco de recaída, que chega a cerca de 80% em 5 anos sem tratamento. As diretrizes recomendam manter o antipsicótico por pelo menos 1 a 2 anos após a remissão e, se houver retirada, fazê-la de forma gradual, com monitorização de sinais precoces de recaída por pelo menos 2 anos. O antipsicótico de depósito é opção para baixa adesão ou por preferência, não regra.",
+  "porAlt": [
+   "O depósito é indicado por má adesão ou preferência, não de forma obrigatória.",
+   "Redução rápida e suspensão em 1 mês aumentam a recaída após primeiro episódio.",
+   "Correta: manter ao menos 1 a 2 anos após a remissão reduz muito a recaída.",
+   "Suspender com 3 meses de remissão expõe a alto risco de recaída.",
+   "A ausência de sintomas residuais não autoriza suspensão; a manutenção previne recaídas."
+  ]
+ },
+ {
+  "q": "Homem de 19 anos recebeu haloperidol 5 mg IM no pronto-socorro por agitação psicótica. Três horas depois apresenta torção do pescoço para a esquerda, protrusão da língua e desvio sustentado do olhar para cima, com muita dor e angústia. Sinais vitais normais e sem febre. Qual a conduta?",
+  "alts": [
+   "Dantrolene intravenoso",
+   "Propranolol por via oral",
+   "Nova dose de haloperidol",
+   "Fisostigmina intravenosa",
+   "Biperideno intramuscular"
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Distonia aguda",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Stahl SM. Psicofarmacologia: bases neurocientíficas e aplicações práticas, 5ª edição, 2021",
+  "coment": "Distonia aguda é o efeito extrapiramidal mais precoce, em horas a poucos dias, mais comum em homens jovens com antipsicóticos típicos de alta potência como o haloperidol. Manifesta-se por torcicolo, crise oculógira, protrusão de língua e opistótono. O tratamento é anticolinérgico parenteral, como biperideno 5 mg IM, ou anti-histamínico como prometazina, com resposta em minutos; depois, mantém-se anticolinérgico oral por alguns dias. Dantrolene é para síndrome neuroléptica maligna, e propranolol, para acatisia.",
+  "porAlt": [
+   "Dantrolene é adjuvante na síndrome neuroléptica maligna, ausente sem febre e rigidez.",
+   "Propranolol é usado na acatisia, não na distonia aguda.",
+   "Mais haloperidol agravaria o bloqueio dopaminérgico que causou a distonia.",
+   "Fisostigmina é colinérgica e pioraria o desequilíbrio entre dopamina e acetilcolina.",
+   "Correta: anticolinérgico parenteral reverte a distonia aguda em minutos."
+  ]
+ },
+ {
+  "q": "Mulher de 34 anos com esquizofrenia teve o haloperidol aumentado há 1 semana. Agora relata inquietação interna intensa, não consegue ficar sentada, cruza e descruza as pernas e anda de um lado para o outro. Nega piora das vozes. Não há rigidez nem febre. Qual a conduta mais adequada?",
+  "alts": [
+   "Suspender o haloperidol e iniciar dantrolene pela hipótese de SNM",
+   "Aumentar o haloperidol, pois a inquietação indica agitação psicótica",
+   "Associar biperideno em dose alta, tratamento de escolha da acatisia",
+   "Reduzir a dose do antipsicótico e associar propranolol oral em dose baixa",
+   "Associar fluoxetina, pois a inquietação corresponde a ansiedade"
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Acatisia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Stahl SM. Psicofarmacologia: bases neurocientíficas e aplicações práticas, 5ª edição, 2021; NICE. Psychosis and schizophrenia in adults (CG178), 2014",
+  "coment": "Acatisia é sensação subjetiva de inquietação com necessidade de se mover, surge em dias a semanas após início ou aumento do antipsicótico e é frequentemente confundida com piora psicótica, o que leva ao erro de aumentar a dose. A conduta é reduzir a dose ou trocar por antipsicótico de menor risco e, se necessário, associar propranolol em dose baixa; mirtazapina em baixa dose e benzodiazepínicos são alternativas. Anticolinérgicos têm pouca eficácia, e a acatisia aumenta o risco de suicídio e de abandono.",
+  "porAlt": [
+   "Sem febre, rigidez ou instabilidade autonômica não há base para síndrome neuroléptica maligna.",
+   "Aumentar o haloperidol agrava a acatisia, que é efeito adverso e não piora psicótica.",
+   "Anticolinérgicos têm eficácia limitada na acatisia, ao contrário da distonia.",
+   "Correta: reduzir o antipsicótico e usar betabloqueador lipofílico é o manejo da acatisia.",
+   "ISRS pode piorar a inquietação e não trata a causa medicamentosa."
+  ]
+ },
+ {
+  "q": "Homem de 38 anos internado em enfermaria psiquiátrica recebeu doses repetidas de haloperidol nos últimos 3 dias. Evolui com confusão, rigidez muscular generalizada em cano de chumbo, T 40,1 °C, PA lábil, sudorese e CPK de 18.000 U/L. Qual o diagnóstico e a conduta inicial?",
+  "alts": [
+   "Síndrome neuroléptica maligna; suspender o antipsicótico e suporte em UTI",
+   "Catatonia psicótica; aumentar o haloperidol para controlar a rigidez muscular",
+   "Distonia aguda; biperideno intramuscular e manter o antipsicótico em uso",
+   "Hipertermia maligna; iniciar dantrolene e manter o antipsicótico na mesma dose",
+   "Síndrome serotoninérgica; associar ciproeptadina e manter o haloperidol em uso"
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Síndrome neuroléptica maligna",
+  "cenario": "enf",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Gurrera RJ et al. Consenso internacional de critérios diagnósticos da síndrome neuroléptica maligna, J Clin Psychiatry, 2011",
+  "coment": "Rigidez em cano de chumbo, hipertermia, alteração do nível de consciência, instabilidade autonômica e CPK muito elevada após exposição a antagonista dopaminérgico definem a síndrome neuroléptica maligna. A conduta é suspender imediatamente o antipsicótico, internar em terapia intensiva, hidratar vigorosamente pelo risco de rabdomiólise e lesão renal, resfriar e usar benzodiazepínico; dantrolene e bromocriptina são adjuvantes nos casos graves. A síndrome serotoninérgica tem clônus e hiper-reflexia, e a hipertermia maligna ocorre com anestésicos inalatórios.",
+  "porAlt": [
+   "Correta: a tétrade de rigidez, febre, confusão e disautonomia após antipsicótico define SNM.",
+   "Aumentar o antipsicótico na SNM é potencialmente fatal.",
+   "Distonia não causa hipertermia, disautonomia nem CPK tão elevada.",
+   "Hipertermia maligna ocorre com anestésicos inalatórios ou succinilcolina, não com haloperidol.",
+   "Não há serotoninérgico nem clônus, e manter o haloperidol pioraria o quadro."
+  ]
+ },
+ {
+  "q": "Mulher de 27 anos com esquizofrenia estável com risperidona 4 mg/dia há 8 meses relata amenorreia há 4 meses e saída de leite pelas mamas. Beta-hCG negativo, TSH normal e prolactina de 110 ng/mL. Ela quer manter o tratamento. Qual a conduta mais adequada?",
+  "alts": [
+   "Suspender o antipsicótico até a normalização da prolactina e reiniciar",
+   "Trocar para haloperidol, que eleva menos a prolactina que a risperidona",
+   "Manter a risperidona, pois a hiperprolactinemia é efeito benigno e passageiro",
+   "Solicitar ressonância de sela e iniciar cabergolina, mantendo a risperidona",
+   "Trocar para antipsicótico poupador de prolactina, como aripiprazol"
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Hiperprolactinemia por antipsicótico",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Endocrine Society. Diagnosis and treatment of hyperprolactinemia, 2011",
+  "coment": "Risperidona e paliperidona são os antipsicóticos de segunda geração que mais elevam a prolactina, por bloqueio D2 na via túbero-infundibular, causando amenorreia, galactorreia, disfunção sexual e perda de massa óssea. Excluídos gravidez e hipotireoidismo, a conduta preferida é reduzir a dose ou trocar por antipsicótico poupador de prolactina, como aripiprazol ou quetiapina, ou associar aripiprazol em baixa dose. Agonista dopaminérgico pode piorar a psicose, e o haloperidol também eleva a prolactina.",
+  "porAlt": [
+   "Suspender o antipsicótico expõe a paciente estável a alto risco de recaída psicótica.",
+   "O haloperidol, antagonista D2 potente, também eleva a prolactina de forma importante.",
+   "A hiperprolactinemia sintomática traz amenorreia, perda óssea e disfunção sexual e deve ser tratada.",
+   "Com causa medicamentosa evidente, o primeiro passo é ajustar o fármaco; cabergolina pode piorar a psicose.",
+   "Correta: trocar por antipsicótico poupador de prolactina resolve a causa sem desestabilizar a doença."
+  ]
+ },
+ {
+  "q": "Homem de 30 anos com esquizofrenia vai iniciar olanzapina 10 mg/dia na unidade. Pesa 78 kg, IMC de 25 kg/m², PA 122 x 78 mmHg, sem diabetes ou dislipidemia conhecidos. O pai tem diabetes tipo 2. Fuma 10 cigarros por dia. Qual o esquema de monitorização metabólica recomendado?",
+  "alts": [
+   "Apenas hemograma semanal nas primeiras 18 semanas, pelo risco de agranulocitose",
+   "Litemia, creatinina e cálcio no início e a cada 6 meses durante o tratamento",
+   "Peso, cintura, PA, glicemia e lipídios na linha de base e em 12 semanas",
+   "Eletroencefalograma e função tireoidiana no início e a cada 6 meses de uso",
+   "Nenhum exame de rotina, pois o ganho de peso só ocorre com antipsicótico típico"
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Monitorização metabólica",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "ADA/APA/AACE/NAASO. Consensus development conference on antipsychotic drugs and obesity and diabetes, 2004",
+  "coment": "Olanzapina e clozapina são os antipsicóticos de maior risco metabólico, com ganho de peso, resistência à insulina, diabetes e dislipidemia. O consenso ADA/APA recomenda, antes de iniciar antipsicótico de segunda geração, registrar história, peso e IMC, circunferência abdominal, pressão arterial, glicemia de jejum e perfil lipídico; repetir o peso mensalmente no início e repetir pressão, glicemia e lipídios em 12 semanas, com controles periódicos depois, conforme o risco. Hemograma seriado é exigência da clozapina, não da olanzapina.",
+  "porAlt": [
+   "Hemograma seriado é exigido para clozapina, não para olanzapina.",
+   "Litemia, creatinina e cálcio são a monitorização do lítio.",
+   "Correta: avaliação metabólica basal e em 12 semanas é o mínimo com antipsicótico de segunda geração.",
+   "EEG e função tireoidiana não fazem parte da monitorização de rotina da olanzapina.",
+   "Os antipsicóticos atípicos, sobretudo olanzapina e clozapina, são os que mais engordam."
+  ]
+ },
+ {
+  "q": "Homem de 32 anos com esquizofrenia mantém alucinações e delírios incapacitantes após uso, com boa adesão confirmada, de risperidona 6 mg/dia por 8 semanas e, depois, de olanzapina 20 mg/dia por 8 semanas. Não há uso de substâncias. Qual a conduta indicada?",
+  "alts": [
+   "Aumentar a olanzapina para 60 mg/dia e reavaliar em 12 semanas",
+   "Iniciar clozapina com titulação lenta e hemograma seriado",
+   "Trocar por antipsicótico de depósito, indicado na refratariedade",
+   "Trocar por quetiapina, pois a refratariedade exige três falhas",
+   "Associar haloperidol à olanzapina para potencializar o efeito"
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Esquizofrenia resistente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE. Psychosis and schizophrenia in adults (CG178), 2014; APA Practice Guideline for the Treatment of Patients With Schizophrenia, 2020",
+  "coment": "Esquizofrenia resistente ao tratamento é a persistência de sintomas significativos após dois antipsicóticos diferentes, em dose adequada e por pelo menos 6 semanas cada, com adesão confirmada. Nessa situação a clozapina é o único antipsicótico com eficácia superior comprovada, reduzindo também o comportamento suicida. Exige titulação lenta e monitorização do hemograma pelo risco de neutropenia grave. A associação de antipsicóticos e as doses acima do máximo não têm respaldo como etapa anterior à clozapina. O depósito resolve má adesão, que foi excluída.",
+  "porAlt": [
+   "Doses muito acima do máximo aumentam efeitos adversos sem ganho comprovado de eficácia.",
+   "Correta: falha de dois antipsicóticos adequados define resistência e indica clozapina.",
+   "O depósito trata baixa adesão, que foi excluída neste caso.",
+   "A definição de resistência exige duas falhas adequadas, não três.",
+   "Associar antipsicóticos antes da clozapina não tem respaldo e soma efeitos adversos."
+  ]
+ },
+ {
+  "q": "Homem de 35 anos, na 10ª semana de clozapina 300 mg/dia, procura o pronto-socorro com febre de 38,8 °C, dor de garganta e prostração há 1 dia. Está hemodinamicamente estável, sem dor torácica, e os sintomas psicóticos estão bem controlados desde o início do fármaco. Qual a conduta inicial mais adequada?",
+  "alts": [
+   "Suspender a clozapina de forma definitiva sem colher exames",
+   "Amoxicilina por 10 dias e manter a clozapina sem exames adicionais",
+   "Manter a clozapina e prescrever antitérmico, pois a febre é benigna",
+   "Reduzir a clozapina à metade e repetir hemograma na consulta de rotina",
+   "Hemograma urgente e suspender a clozapina se houver neutropenia"
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Clozapina e neutropenia",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Taylor D et al. The Maudsley Prescribing Guidelines in Psychiatry, 14ª edição, 2021; NICE. Psychosis and schizophrenia in adults (CG178), 2014",
+  "coment": "A clozapina pode causar neutropenia grave e agranulocitose, com maior risco nas primeiras 18 semanas. Febre, dor de garganta ou qualquer sinal de infecção exigem hemograma com contagem absoluta de neutrófilos imediata. Se houver neutropenia, suspende-se a clozapina; na agranulocitose com febre, trata-se como neutropenia febril, com isolamento e antibiótico de amplo espectro. Febre nas primeiras semanas também pode ser benigna ou indicar miocardite, o que reforça a necessidade de avaliar antes de decidir.",
+  "porAlt": [
+   "Suspender sem exame impede o diagnóstico e pode interromper sem necessidade um tratamento eficaz.",
+   "Tratar empiricamente sem hemograma ignora a possibilidade de agranulocitose.",
+   "Febre com dor de garganta nas primeiras 18 semanas não pode ser presumida benigna.",
+   "Reduzir a dose não protege contra agranulocitose e adiar o hemograma é perigoso.",
+   "Correta: infecção em uso de clozapina exige contagem de neutrófilos imediata para decidir a suspensão."
+  ]
+ },
+ {
+  "q": "Homem de 29 anos é trazido ao pronto-socorro após 8 dias dormindo 2 horas por noite, falando sem parar, gastando todo o salário, com ideias de que será presidente e irritabilidade. Há 1 mês iniciou sertralina por depressão. Exames clínicos e toxicológico normais. Qual a conduta mais adequada?",
+  "alts": [
+   "Trocar sertralina por bupropiona, que não induz virada maníaca",
+   "Suspender o ISRS e iniciar lítio, valproato ou um antipsicótico atípico",
+   "Dobrar a sertralina, pois a irritabilidade indica depressão ansiosa",
+   "Manter a sertralina e associar clonazepam para corrigir a insônia",
+   "Manter a sertralina e associar haloperidol só durante a internação"
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Mania após antidepressivo",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "CANMAT/ISBD. Guidelines for the management of patients with bipolar disorder, 2018; DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "Humor elevado ou irritável com aumento de energia por pelo menos 1 semana, com redução da necessidade de sono, pressão para falar, grandiosidade e gastos excessivos, define episódio maníaco. O DSM-5-TR considera que mania plena que persiste além do efeito fisiológico do antidepressivo sustenta o diagnóstico de transtorno bipolar tipo I. A conduta é suspender o antidepressivo e iniciar lítio, valproato ou antipsicótico de segunda geração, isolados ou associados nos casos graves. Benzodiazepínico ajuda na sedação, mas não trata a mania.",
+  "porAlt": [
+   "Qualquer antidepressivo pode induzir virada; a mania exige suspensão e estabilização.",
+   "Correta: suspender o antidepressivo e iniciar antimaníaco é o tratamento do episódio maníaco.",
+   "O quadro é maníaco, e aumentar o antidepressivo agravaria a virada.",
+   "Manter o antidepressivo perpetua a mania; benzodiazepínico é apenas adjuvante.",
+   "O antidepressivo deve ser suspenso, e o tratamento antimaníaco não se limita à internação."
+  ]
+ },
+ {
+  "q": "Mulher de 31 anos com transtorno bipolar tipo I, em remissão de episódio maníaco tratado com antipsicótico, vai iniciar carbonato de lítio para manutenção. Não tem doenças renais ou tireoidianas conhecidas e usa anticoncepcional oral. Qual o plano de exames correto?",
+  "alts": [
+   "Transaminases mensais e ultrassonografia hepática a cada 6 meses de uso",
+   "Litemia só diante de sintomas de toxicidade, sem necessidade de exames basais",
+   "Creatinina, TSH e cálcio basais; litemia 12 h após a dose, 5 dias após ajustes",
+   "Hemograma semanal nas primeiras 18 semanas pelo risco de agranulocitose",
+   "Litemia 2 horas após a dose, já no primeiro dia, e depois só se houver tremor"
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Monitorização do lítio",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "NICE. Bipolar disorder: assessment and management (CG185), 2014",
+  "coment": "O lítio tem janela terapêutica estreita e eliminação renal. Antes de iniciar, avaliam-se creatinina e taxa de filtração, TSH, cálcio, peso, ECG se houver cardiopatia ou idade avançada e teste de gravidez em mulheres em idade fértil. A litemia é colhida 12 horas após a última dose, 5 a 7 dias após início ou mudança de dose, com alvo de manutenção em torno de 0,6 a 0,8 mmol/L. Depois, litemia a cada 3 meses no primeiro ano e função renal, TSH e cálcio a cada 6 meses.",
+  "porAlt": [
+   "O lítio não é hepatotóxico; seus alvos de monitorização são rim, tireoide e paratireoide.",
+   "A janela terapêutica estreita exige exames basais e litemia programada, não só na toxicidade.",
+   "Correta: exames renais, tireoidianos e de cálcio, com litemia no vale após atingir o estado de equilíbrio.",
+   "Hemograma seriado é exigência da clozapina, não do lítio.",
+   "A litemia é colhida no vale, 12 horas após a dose, e só após 5 a 7 dias de uso."
+  ]
+ },
+ {
+  "q": "Homem de 70 anos em uso de lítio há anos, com litemias estáveis, iniciou hidroclorotiazida e ibuprofeno há 10 dias. Chega ao pronto-socorro com vômitos, diarreia, tremor grosseiro, ataxia, confusão e mioclonias. Creatinina 2,4 mg/dL (basal 1,1) e litemia 4,2 mmol/L. Além de suspender o lítio e hidratar, qual o tratamento indicado?",
+  "alts": [
+   "Bicarbonato IV",
+   "Flumazenil",
+   "Furosemida IV",
+   "Carvão ativado",
+   "Hemodiálise"
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Intoxicação por lítio",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "EXTRIP Workgroup. Extracorporeal treatment for lithium poisoning, Clin J Am Soc Nephrol, 2015",
+  "coment": "Tiazídicos, anti-inflamatórios, IECA e desidratação reduzem a excreção renal de lítio e são causas clássicas de intoxicação. Pelas recomendações do grupo EXTRIP, há indicação de hemodiálise quando a litemia passa de 4,0 mmol/L com função renal comprometida ou quando há rebaixamento de consciência, convulsões ou arritmias, qualquer que seja o nível. O lítio, pequeno e hidrossolúvel, é bem removido por diálise. Carvão ativado não adsorve lítio, e diuréticos de alça pioram a função renal; a reposição com cristaloide é medida inicial.",
+  "porAlt": [
+   "Alcalinizar a urina não aumenta de modo útil a eliminação do lítio.",
+   "Flumazenil é antagonista de benzodiazepínico e não tem papel na intoxicação por lítio.",
+   "Diurético de alça agrava a depleção de volume e a lesão renal.",
+   "O carvão ativado não adsorve lítio.",
+   "Correta: litemia acima de 4,0 com lesão renal e confusão indica remoção extracorpórea."
+  ]
+ },
+ {
+  "q": "Mulher de 36 anos com transtorno bipolar tipo I, sem uso de medicação há 1 ano, apresenta episódio depressivo moderado há 4 semanas, sem sintomas mistos e sem ideação suicida. Não está grávida. Qual a opção farmacológica de primeira linha?",
+  "alts": [
+   "Clonazepam em monoterapia",
+   "Sertralina em monoterapia",
+   "Venlafaxina em monoterapia",
+   "Quetiapina ou lítio",
+   "Amitriptilina em monoterapia"
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Depressão bipolar",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "CANMAT/ISBD. Guidelines for the management of patients with bipolar disorder, 2018",
+  "coment": "Na depressão bipolar, antidepressivo em monoterapia é desaconselhado no tipo I pelo risco de virada maníaca e ciclagem e pela falta de eficácia comprovada; tricíclicos e venlafaxina têm maior risco de virada. As diretrizes CANMAT/ISBD colocam como primeira linha quetiapina, lurasidona, lítio e lamotrigina, além de associações de lurasidona ou lamotrigina com estabilizador, que é mantido também na prevenção de novos episódios. Benzodiazepínico não trata depressão. Se for usado antidepressivo, deve ser associado a estabilizador.",
+  "porAlt": [
+   "Benzodiazepínico não tem ação antidepressiva.",
+   "ISRS em monoterapia no bipolar tipo I arrisca virada maníaca sem eficácia comprovada.",
+   "A venlafaxina tem risco de virada maníaca maior que os ISRS.",
+   "Correta: quetiapina e lítio estão entre as opções de primeira linha na depressão bipolar.",
+   "Tricíclicos têm o maior risco de virada e de ciclagem rápida."
+  ]
+ },
+ {
+  "q": "Homem de 46 anos, motorista, responde ao AUDIT na consulta de rotina da UBS e soma 23 pontos. Relata beber todos os dias, já tentou parar sem conseguir e tem tremores pela manhã. Segundo as faixas de risco propostas pela OMS para o instrumento, qual a conduta indicada?",
+  "alts": [
+   "Orientação simples sobre o consumo e nova aplicação do AUDIT em 1 ano",
+   "Avaliação diagnóstica e encaminhamento para tratamento especializado",
+   "Internação compulsória imediata por pontuação acima de 20 no AUDIT",
+   "Intervenção breve isolada, pois só acima de 30 pontos há dependência",
+   "Educação sobre consumo de baixo risco, sem outra intervenção necessária"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Rastreio com AUDIT",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "OMS. AUDIT: The Alcohol Use Disorders Identification Test, 2ª edição, 2001",
+  "coment": "O AUDIT tem 10 questões e pontuação de 0 a 40. A OMS propõe quatro zonas: 0 a 7, educação sobre álcool; 8 a 15, orientação simples; 16 a 19, orientação com aconselhamento breve e monitorização; 20 a 40, encaminhamento para avaliação diagnóstica e tratamento da dependência. Com 23 pontos, tentativas frustradas de parar e tremor matinal sugestivo de abstinência, o paciente está na zona IV, o que na rede pública significa articular o cuidado com o CAPS AD sem perder o vínculo com a equipe da APS.",
+  "porAlt": [
+   "Orientação simples é a conduta da zona de 8 a 15 pontos.",
+   "Correta: 20 pontos ou mais no AUDIT indicam avaliação de dependência e tratamento especializado.",
+   "Pontuação no AUDIT não indica internação compulsória, medida excepcional e judicial.",
+   "Não existe corte de 30 pontos para dependência; a partir de 20 já se indica avaliação.",
+   "Educação isolada corresponde à zona de baixo risco, de 0 a 7 pontos."
+  ]
+ },
+ {
+  "q": "Na intervenção breve para uso de risco de álcool na atenção primária, o modelo FRAMES organiza os elementos efetivos do aconselhamento. O que corresponde ao componente R (responsibility)?",
+  "alts": [
+   "Registrar o caso no prontuário para notificação compulsória ao município",
+   "Repetir o AUDIT a cada consulta para registrar a evolução do consumo",
+   "Responsabilizar a família pelo controle da bebida dentro de casa",
+   "Enfatizar que a decisão e a responsabilidade pela mudança são do paciente",
+   "Recomendar abstinência total como única meta aceitável da intervenção"
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Intervenção breve FRAMES",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "OMS. Brief intervention for hazardous and harmful drinking: a manual for use in primary care, 2001",
+  "coment": "FRAMES resume os componentes de intervenções breves eficazes: Feedback (devolutiva personalizada do risco, por exemplo a partir do AUDIT), Responsibility (a responsabilidade pela mudança é do paciente), Advice (conselho claro para reduzir ou parar), Menu (opções de estratégias), Empathy (postura empática, sem confronto) e Self-efficacy (reforço da confiança na capacidade de mudar). A intervenção dura de 5 a 30 minutos, pode ser feita por qualquer profissional treinado e aceita metas de redução, não só abstinência.",
+  "porAlt": [
+   "Uso de álcool não é agravo de notificação compulsória.",
+   "Reaplicar o AUDIT é monitorização, não o componente de responsabilidade.",
+   "Transferir o controle para a família contraria o princípio de autonomia do modelo.",
+   "Correta: o R de FRAMES reforça a autonomia, deixando a decisão de mudar com o paciente.",
+   "A intervenção breve aceita metas de redução; o menu de opções é um de seus componentes."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos, que bebe cerca de 1 litro de cachaça por dia, está internado para colecistectomia. Trinta e seis horas após a última dose apresenta tremor, sudorese, ansiedade, náusea e FC 112 bpm, orientado e sem alucinações. CIWA-Ar de 18. Função hepática preservada. Qual a conduta?",
+  "alts": [
+   "Fenitoína profilática e glicose hipertônica para prevenir hipoglicemia",
+   "Observar e reaplicar o CIWA-Ar em 24 horas, sem medicação inicial",
+   "Clonidina isolada para controlar taquicardia, sudorese e ansiedade",
+   "Diazepam guiado pelo CIWA-Ar e tiamina parenteral antes de glicose",
+   "Haloperidol intramuscular em doses fixas até o controle do tremor"
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Abstinência alcoólica e CIWA-Ar",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "ASAM. Clinical Practice Guideline on Alcohol Withdrawal Management, 2020; Sullivan JT et al. CIWA-Ar, Br J Addict, 1989",
+  "coment": "A abstinência alcoólica começa 6 a 24 horas após a última dose. O CIWA-Ar quantifica a gravidade: abaixo de 8 a 10 pontos, sintomas leves; de 10 a 15, moderados; acima de 15, graves, com maior risco de convulsão e delirium. Benzodiazepínicos são o tratamento de escolha, e o diazepam, de meia-vida longa, é preferido quando o fígado está preservado, em esquema guiado pelos sintomas com reavaliação frequente. Tiamina parenteral deve preceder a glicose. Antipsicóticos baixam o limiar convulsivo, e clonidina mascara sinais sem prevenir complicações.",
+  "porAlt": [
+   "Fenitoína não previne convulsão de abstinência, e glicose sem tiamina pode precipitar Wernicke.",
+   "CIWA-Ar acima de 15 indica tratamento imediato e reavaliação em 1 a 2 horas.",
+   "Clonidina controla sinais adrenérgicos, mas não previne convulsão nem delirium.",
+   "Correta: abstinência grave pelo CIWA-Ar exige benzodiazepínico e reposição de tiamina.",
+   "Antipsicótico reduz o limiar convulsivo e não previne convulsão nem delirium."
+  ]
+ },
+ {
+  "q": "Homem de 48 anos internado por fratura de fêmur teve a última dose de álcool há 3 dias. Evolui com desorientação flutuante, agitação, alucinações visuais de insetos na parede, tremor intenso, sudorese, T 38,3 °C, FC 130 bpm e PA 170 x 100 mmHg. Glicemia normal. Qual o diagnóstico mais provável?",
+  "alts": [
+   "Alucinose alcoólica",
+   "Síndrome de Korsakoff",
+   "Encefalopatia hepática",
+   "Delirium tremens",
+   "Encefalopatia de Wernicke"
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Delirium tremens",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ASAM. Clinical Practice Guideline on Alcohol Withdrawal Management, 2020",
+  "coment": "O delirium tremens surge tipicamente 48 a 96 horas após a última dose, com rebaixamento e flutuação da atenção, desorientação, alucinações vívidas (frequentemente visuais e táteis) e hiperatividade autonômica intensa, com febre, taquicardia e hipertensão. Tem mortalidade relevante e exige benzodiazepínico em doses altas, suporte em terapia intensiva e busca de complicações. Na alucinose alcoólica há alucinações com sensório claro e sinais vitais pouco alterados, geralmente nas primeiras 12 a 48 horas. Wernicke cursa com ataxia e oftalmoplegia.",
+  "porAlt": [
+   "Na alucinose o sensório é claro e não há disautonomia intensa.",
+   "Korsakoff é amnésia crônica com confabulação, não um quadro agudo hiperadrenérgico.",
+   "Não há dados de hepatopatia, e encefalopatia hepática não causa hiperatividade autonômica.",
+   "Correta: delirium com hiperatividade autonômica 48 a 96 horas após a última dose define delirium tremens.",
+   "Wernicke cursa com ataxia e oftalmoplegia, sem disautonomia hiperadrenérgica marcante."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos com cirrose alcoólica Child-Pugh C, internado por ascite, apresenta 24 horas após a internação tremor, sudorese, ansiedade e taquicardia, com CIWA-Ar de 16. Não há sinais de encefalopatia hepática; bilirrubina de 4,2 mg/dL e INR de 2,1. Qual o benzodiazepínico mais adequado?",
+  "alts": [
+   "Flunitrazepam",
+   "Clonazepam",
+   "Lorazepam",
+   "Diazepam",
+   "Clordiazepóxido"
+  ],
+  "gab": 2,
+  "tema": "drogas",
+  "sub": "Abstinência no hepatopata",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ASAM. Clinical Practice Guideline on Alcohol Withdrawal Management, 2020",
+  "coment": "Na hepatopatia grave e em idosos, prefere-se benzodiazepínico de meia-vida intermediária e sem metabólitos ativos, como lorazepam ou oxazepam, que são conjugados por glicuronidação, via relativamente preservada na cirrose. Diazepam e clordiazepóxido dependem de oxidação hepática e formam metabólitos ativos de meia-vida longa, com risco de acúmulo e de precipitar encefalopatia. O esquema continua guiado pelo CIWA-Ar, com doses menores e reavaliação frequente do nível de consciência.",
+  "porAlt": [
+   "Hipnótico potente, sem papel no tratamento da abstinência alcoólica.",
+   "Tem meia-vida longa e não é o padrão para tratar abstinência alcoólica.",
+   "Correta: metabolizado por glicuronidação e sem metabólitos ativos, é seguro na cirrose.",
+   "Depende de oxidação hepática e gera metabólitos ativos de meia-vida longa que se acumulam.",
+   "Também sofre oxidação hepática e tem metabólitos ativos, com risco de acúmulo na cirrose."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos em situação de rua é trazido à UPA confuso, com marcha atáxica, nistagmo horizontal e paresia do olhar lateral. Tem história de alcoolismo e emagrecimento. Glicemia capilar de 52 mg/dL. Qual a conduta imediata mais adequada?",
+  "alts": [
+   "Haloperidol intravenoso para controle da confusão mental",
+   "Tiamina intravenosa em dose alta, antes ou junto da glicose IV",
+   "Glicose hipertônica isolada e tiamina oral após a alta",
+   "Vitamina B12 intramuscular e ácido fólico por via oral",
+   "Tomografia de crânio antes de qualquer reposição vitamínica"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Encefalopatia de Wernicke",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "EFNS. Guidelines for diagnosis, therapy and prevention of Wernicke encephalopathy, 2010",
+  "coment": "Confusão, ataxia e oftalmoplegia (nistagmo, paresia do reto lateral) em pessoa com etilismo e desnutrição sugerem encefalopatia de Wernicke, emergência por deficiência de tiamina; a tríade completa aparece em minoria dos casos. A tiamina deve ser dada por via parenteral e em dose alta, antes ou junto da glicose, porque a oferta de glicose consome tiamina e pode precipitar ou agravar o quadro; a hipoglicemia, porém, não deve esperar. A via oral é insuficiente pela má absorção. Sem tratamento, evolui para síndrome de Korsakoff.",
+  "porAlt": [
+   "Antipsicótico não trata a causa e pode piorar o quadro neurológico.",
+   "Correta: tiamina parenteral em dose alta com a correção da hipoglicemia trata Wernicke.",
+   "Glicose sem tiamina pode agravar Wernicke, e a via oral tem absorção insuficiente.",
+   "O déficit é de tiamina; B12 e folato não revertem a encefalopatia de Wernicke.",
+   "O diagnóstico é clínico e a tiamina não deve esperar exame de imagem."
+  ]
+ },
+ {
+  "q": "A esposa de um homem de 55 anos com dependência de álcool pede ao médico de família uma receita de dissulfiram para colocar escondido no café do marido, que não aceita tratamento. Conta que ele bebe todos os dias, fica agressivo verbalmente e já perdeu o emprego. Qual a conduta adequada?",
+  "alts": [
+   "Prescrever naltrexona no lugar, que pode ser dada sem o conhecimento dele",
+   "Prescrever o dissulfiram, pois a família pode decidir pelo paciente dependente",
+   "Prescrever o dissulfiram e orientar a dose máxima para efeito mais rápido",
+   "Solicitar internação compulsória para iniciar o dissulfiram na instituição",
+   "Recusar o uso oculto, acolher a esposa e propor abordagem motivacional ao paciente"
+  ],
+  "gab": 4,
+  "tema": "drogas",
+  "sub": "Dissulfiram e consentimento",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica 34: Saúde Mental, 2013; CFM. Código de Ética Médica (Resolução CFM 2.217/2018)",
+  "coment": "O dissulfiram inibe a aldeído desidrogenase e provoca reação intensa com álcool (rubor, taquicardia, hipotensão, vômitos), que pode ser grave e até fatal. Só pode ser usado com consentimento livre e esclarecido, após pelo menos 12 horas de abstinência, em paciente motivado e ciente dos riscos. A administração oculta viola a autonomia e o Código de Ética Médica, além de expor o paciente a risco. A conduta é acolher a família, orientá-la e construir aproximação com o paciente, por exemplo com entrevista motivacional.",
+  "porAlt": [
+   "Qualquer medicamento dado sem conhecimento do paciente viola sua autonomia.",
+   "A família não pode consentir por adulto capaz, e a reação com álcool pode ser fatal.",
+   "Além de oculto, o uso em dose alta aumenta o risco de reação grave ao álcool.",
+   "Internação compulsória é judicial e excepcional, não meio para impor dissulfiram.",
+   "Correta: o dissulfiram exige consentimento; a família deve ser acolhida e o paciente abordado."
+  ]
+ },
+ {
+  "q": "Mulher de 38 anos fuma 5 cigarros por dia, acende o primeiro cerca de 2 horas após acordar e tem escore de Fagerström de 2. Nega sintomas de abstinência em tentativas anteriores e quer parar de fumar. Segundo o PCDT do Tabagismo do Ministério da Saúde, qual a abordagem preferencial?",
+  "alts": [
+   "Bupropiona 300 mg/dia associada a adesivo de nicotina de 14 mg/dia",
+   "Adesivo de nicotina 21 mg/dia por 12 semanas desde a primeira consulta",
+   "Aconselhamento estruturado, sem farmacoterapia de rotina",
+   "Vareniclina pelo SUS, por ser o fármaco mais eficaz disponível",
+   "Terapia de reposição combinada de adesivo de 7 mg e goma de 2 mg"
+  ],
+  "gab": 2,
+  "tema": "drogas",
+  "sub": "Tabagismo de baixa dependência",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT do Tabagismo (Portaria Conjunta SAES/SCTIE nº 10), 2020",
+  "coment": "O PCDT do Tabagismo (2020) indica preferencialmente o aconselhamento estruturado ou a abordagem intensiva isolada quando há uma ou mais destas características: ausência de sintomas de abstinência, consumo de até 5 cigarros por dia, primeiro cigarro 1 hora ou mais após acordar e Fagerström de até 4. Fora desses casos, a associação com farmacoterapia é mais eficaz. O adesivo não é indicado para quem fuma até 5 cigarros por dia, e a vareniclina não foi incorporada ao SUS.",
+  "porAlt": [
+   "Associar dois fármacos em baixa dependência expõe a efeitos adversos sem indicação.",
+   "Com até 5 cigarros por dia o PCDT não indica adesivo, e 21 mg seria dose excessiva.",
+   "Correta: baixa dependência pelos critérios do PCDT favorece o aconselhamento estruturado isolado.",
+   "A vareniclina não foi incorporada ao SUS.",
+   "O PCDT não indica adesivo para quem fuma até 5 cigarros por dia."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos fuma 25 cigarros por dia há 25 anos, acende o primeiro 5 minutos após acordar e tem Fagerström de 8. Não tem doença cardiovascular aguda nem epilepsia. Participa do grupo de cessação da UBS e marcou a data de parada. Segundo o PCDT do Tabagismo, qual o tratamento farmacológico preferencial?",
+  "alts": [
+   "Adesivo de 21 mg/dia e goma ou pastilha de 2 mg, a partir do dia de parada",
+   "Adesivo de 21 mg/dia usado junto com o cigarro até a redução gradual",
+   "Goma de nicotina de 2 mg isolada, no máximo 5 unidades ao dia",
+   "Bupropiona 150 mg/dia isolada por 7 dias, sem associação com nicotina",
+   "Adesivo de 7 mg/dia isolado, iniciado 2 semanas antes de parar de fumar"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Terapia de reposição de nicotina",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT do Tabagismo (Portaria Conjunta SAES/SCTIE nº 10), 2020",
+  "coment": "Para quem tem indicação de fármaco, o PCDT do Tabagismo (2020) aponta a terapia de reposição de nicotina combinada, com forma de liberação lenta (adesivo) e rápida (goma ou pastilha para fissura), como preferencial pela maior eficácia; bupropiona, TRN isolada ou bupropiona com TRN são alternativas. A dose inicial do adesivo considera cerca de 1 mg por cigarro: 20 ou mais cigarros por dia, 21 mg; 11 a 19, 14 mg; 6 a 10, 7 mg. A TRN começa na data de parada e não deve ser usada junto com o cigarro.",
+  "porAlt": [
+   "Correta: TRN combinada com adesivo de 21 mg e forma rápida para fissura é a preferencial do PCDT.",
+   "O PCDT orienta não usar TRN junto com o cigarro.",
+   "Goma isolada em até 5 unidades é o esquema para quem fuma até 5 cigarros por dia.",
+   "A bupropiona é alternativa, e o esquema do PCDT dura 12 semanas, não 7 dias.",
+   "O adesivo de 7 mg é para 6 a 10 cigarros por dia, e o PCDT inicia a TRN na data de parada."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos, tabagista de 30 cigarros por dia, quer usar bupropiona para parar de fumar, pois já tentou a reposição de nicotina e teve reação cutânea ao adesivo. Revisando seus antecedentes, qual condição de sua história contraindica o fármaco segundo o PCDT do Tabagismo?",
+  "alts": [
+   "DPOC estável com broncodilatador inalatório",
+   "Traumatismo cranioencefálico com convulsão",
+   "Episódio depressivo leve tratado há 2 anos",
+   "Hipertensão arterial bem controlada com losartana",
+   "Diabetes tipo 2 controlado com metformina"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Contraindicações da bupropiona",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT do Tabagismo (Portaria Conjunta SAES/SCTIE nº 10), 2020",
+  "coment": "A bupropiona reduz o limiar convulsivo, com risco de convulsão de cerca de 1 em 1.000 na dose máxima de 300 mg/dia. O PCDT do Tabagismo (2020) lista como contraindicações absolutas epilepsia, convulsão febril na infância, tumor do sistema nervoso central, traumatismo cranioencefálico, anormalidades no eletroencefalograma e uso de IMAO, com intervalo de 15 dias após a suspensão. Hipertensão controlada, diabetes e DPOC não contraindicam, e a depressão é situação em que a bupropiona pode ser preferida.",
+  "porAlt": [
+   "DPOC estável é situação em que a cessação é prioritária e a bupropiona pode ser usada.",
+   "Correta: traumatismo cranioencefálico é contraindicação absoluta pelo risco de convulsão.",
+   "Depressão não contraindica; o PCDT considera a bupropiona nesses pacientes.",
+   "Hipertensão controlada não contraindica, apenas pede monitorização da pressão.",
+   "Diabetes controlado não contraindica; há apenas interação potencial com hipoglicemiantes."
+  ]
+ },
+ {
+  "q": "Gestante de 24 anos, com 14 semanas, fuma 10 cigarros por dia e quer parar. Não tem outras doenças, faz pré-natal na UBS e diz que tentou reduzir sozinha, sem sucesso. Pergunta se pode usar o adesivo que o cunhado usou. Segundo o PCDT do Tabagismo do Ministério da Saúde, qual a conduta recomendada?",
+  "alts": [
+   "Adesivo de nicotina de 7 mg/dia por 12 semanas, iniciado já",
+   "Reduzir para 5 cigarros por dia e adiar a cessação até o parto",
+   "Bupropiona 150 mg/dia a partir do segundo trimestre de gestação",
+   "Goma de nicotina de 2 mg a cada 1 a 2 horas por 12 semanas",
+   "Aconselhamento estruturado, tentando parar sem medicamento"
+  ],
+  "gab": 4,
+  "tema": "drogas",
+  "sub": "Tabagismo na gestação",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT do Tabagismo (Portaria Conjunta SAES/SCTIE nº 10), 2020",
+  "coment": "Para gestantes e nutrizes, o PCDT do Tabagismo (2020) indica aconselhamento estruturado, com benefício demonstrado até após o parto, e orienta que tentem parar sem medicamento, pois não há evidência suficiente de eficácia e segurança da TRN e da bupropiona na gestação. Parar em qualquer momento da gravidez reduz risco de baixo peso, prematuridade e descolamento de placenta, e não há benefício em adiar. A gravidez está entre as contraindicações listadas para o adesivo.",
+  "porAlt": [
+   "A gravidez consta entre as contraindicações do adesivo no PCDT.",
+   "Adiar a cessação mantém a exposição fetal, e parar a qualquer momento traz benefício.",
+   "O PCDT não recomenda bupropiona na gestação por falta de evidência de segurança.",
+   "O PCDT orienta que gestantes tentem parar sem qualquer forma de TRN.",
+   "Correta: o PCDT recomenda aconselhamento estruturado e cessação sem fármaco na gestação."
+  ]
+ },
+ {
+  "q": "Homem de 32 anos chega ao pronto-socorro com dor torácica opressiva 1 hora após usar cocaína inalada. Está agitado, com PA 178 x 104 mmHg, FC 118 bpm, sudorese e midríase. ECG sem supradesnivelamento de ST; troponina inicial em análise. Qual a conduta inicial mais adequada?",
+  "alts": [
+   "Haloperidol intramuscular para controle da agitação psicomotora intensa",
+   "Metoprolol intravenoso para controle da frequência e da pressão arterial",
+   "Alta com orientação, pois dor por cocaína é sempre de origem não cardíaca",
+   "Trombólise imediata, pois a dor após cocaína indica infarto com supra",
+   "Benzodiazepínico, AAS e nitrato, evitando betabloqueador na fase aguda"
+  ],
+  "gab": 4,
+  "tema": "drogas",
+  "sub": "Dor torácica por cocaína",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "AHA Scientific Statement. Management of cocaine-associated chest pain and myocardial infarction, 2008",
+  "coment": "Na dor torácica associada à cocaína, o excesso simpático e o vasoespasmo coronariano podem causar isquemia e infarto. Benzodiazepínicos reduzem agitação, taquicardia e hipertensão e são a base do tratamento, junto com AAS e nitrato; bloqueador de canal de cálcio é alternativa. Betabloqueador na fase aguda é evitado pelo risco de estímulo alfa sem oposição, com piora do vasoespasmo. Antipsicóticos reduzem o limiar convulsivo e prejudicam a termorregulação. A investigação de síndrome coronariana segue o protocolo usual.",
+  "porAlt": [
+   "Antipsicótico reduz o limiar convulsivo e prejudica a termorregulação na intoxicação simpaticomimética.",
+   "Betabloqueador na fase aguda pode deixar o estímulo alfa sem oposição e piorar o vasoespasmo.",
+   "Cocaína causa vasoespasmo e infarto; a dor exige investigação de síndrome coronariana.",
+   "Não há supradesnivelamento de ST, o que afasta indicação de trombólise.",
+   "Correta: benzodiazepínico com AAS e nitrato controla o excesso simpático e o vasoespasmo."
+  ]
+ },
+ {
+  "q": "Homem de 30 anos é encontrado inconsciente após uso de heroína injetável. Tem frequência respiratória de 5 irpm, SpO2 de 82%, pupilas puntiformes e pulso presente, sem trauma aparente. Há uma seringa ao lado. A equipe chegou pelo SAMU com bolsa-válvula-máscara e medicação de urgência. Qual a conduta inicial mais adequada?",
+  "alts": [
+   "Bicarbonato de sódio e lavagem gástrica pela possível coingestão de drogas",
+   "Ventilar com bolsa-válvula-máscara e naloxona IV em doses tituladas",
+   "Flumazenil intravenoso em bolus e observação por 2 horas na sala de emergência",
+   "Naloxona de 2 mg IV em bolus único para despertar completo e alta precoce",
+   "Intubação sem naloxona, que é contraindicada em usuários de opioide"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Intoxicação por opioide",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "OMS. Community management of opioid overdose, 2014",
+  "coment": "Coma, bradipneia e miose sugerem intoxicação por opioide. A prioridade é oxigenar e ventilar com bolsa-válvula-máscara e, em seguida, dar naloxona, antagonista competitivo dos receptores mu. Em pessoas com dependência, doses tituladas a partir de 0,04 a 0,4 mg IV, repetidas a cada 2 a 3 minutos, buscam restabelecer a respiração sem precipitar abstinência intensa, vômito e agitação. Como a naloxona age por 30 a 90 minutos, menos que muitos opioides, o paciente deve ser observado pelo risco de nova depressão respiratória.",
+  "porAlt": [
+   "A via de uso foi injetável; lavagem e bicarbonato não tratam a depressão respiratória.",
+   "Correta: ventilar e titular naloxona restaura a respiração sem precipitar abstinência intensa.",
+   "Flumazenil reverte benzodiazepínico, não opioide, e pode precipitar convulsões.",
+   "Bolus alto precipita abstinência intensa, e a ação curta da naloxona contraindica alta precoce.",
+   "A naloxona não é contraindicada em usuários de opioide e muitas vezes evita a intubação."
+  ]
+ },
+ {
+  "q": "Equipe de Consultório na Rua acompanha homem de 34 anos em situação de rua que usa crack diariamente, tem tosse há 10 dias e diz que não quer parar de usar agora. Qual a conduta alinhada à política de redução de danos do SUS?",
+  "alts": [
+   "Manter vínculo, investigar tuberculose e cuidar sem exigir abstinência",
+   "Condicionar o atendimento da tosse ao compromisso de abstinência imediata",
+   "Encaminhar ao CAPS AD e suspender o cuidado clínico na equipe de rua",
+   "Solicitar internação involuntária como primeira medida para iniciar o cuidado",
+   "Encerrar o acompanhamento até que ele manifeste desejo de parar de usar"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Redução de danos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria GM/MS 1.028/2005; Portaria GM/MS 3.088/2011 (RAPS); Manual de Recomendações para o Controle da Tuberculose no Brasil, 2019",
+  "coment": "A redução de danos, regulamentada pela Portaria GM/MS 1.028/2005 e incorporada à Rede de Atenção Psicossocial, busca reduzir os prejuízos à saúde associados ao uso de drogas sem condicionar o cuidado à abstinência. Vínculo e acesso são prioritários. Na população em situação de rua, tosse de qualquer duração já justifica investigar tuberculose. A internação involuntária é medida excepcional, quando outros recursos da rede forem insuficientes, e o CAPS AD atua junto com a equipe de rua, sem substituí-la.",
+  "porAlt": [
+   "Correta: a redução de danos oferece cuidado sem exigir abstinência e prioriza o vínculo.",
+   "Condicionar o cuidado à abstinência afasta o usuário e contraria a redução de danos.",
+   "O CAPS AD compartilha o cuidado, sem substituir a atenção clínica da equipe de rua.",
+   "A internação involuntária é excepcional e só cabe quando a rede extra-hospitalar é insuficiente.",
+   "Encerrar o acompanhamento rompe o vínculo e deixa sem cuidado uma possível tuberculose."
+  ]
+ },
+ {
+  "q": "Mulher de 28 anos em uso diário de oxicodona sem prescrição há 1 ano está sem a droga há 18 horas. Chega à UPA ansiosa, com bocejos, rinorreia, lacrimejamento, piloereção, cólicas, diarreia, mialgia e pupilas dilatadas. Está lúcida, com FC 104 bpm. Qual o diagnóstico e o significado clínico?",
+  "alts": [
+   "Abstinência de opioide, desconfortável mas raramente fatal em adultos",
+   "Intoxicação por opioide, com risco iminente de parada respiratória e coma",
+   "Síndrome serotoninérgica, pela associação de midríase e diarreia",
+   "Intoxicação por cocaína, pela midríase, taquicardia e ansiedade",
+   "Abstinência de opioide, com alto risco de convulsões e de delirium grave"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Abstinência de opioides",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "A abstinência de opioides surge em 8 a 24 horas para os de ação curta e se manifesta por disforia, bocejos, rinorreia, lacrimejamento, piloereção, midríase, cólicas, diarreia, vômitos e mialgia. É muito desconfortável, mas raramente ameaça a vida em adultos saudáveis, ao contrário da abstinência de álcool e de benzodiazepínicos, que pode causar convulsões e delirium; há risco relevante em neonatos e por desidratação. A intoxicação por opioide, ao contrário, cursa com miose, sonolência e bradipneia.",
+  "porAlt": [
+   "Correta: quadro típico de abstinência de opioide, intenso porém raramente letal em adultos.",
+   "A intoxicação por opioide cursa com miose, sonolência e bradipneia, o oposto do quadro.",
+   "Não há clônus, hiper-reflexia ou exposição a serotoninérgico.",
+   "Piloereção, bocejos, rinorreia e cólicas após parada de opioide apontam para abstinência.",
+   "Convulsões e delirium são próprios da abstinência de álcool e benzodiazepínicos."
+  ]
+ }
+]

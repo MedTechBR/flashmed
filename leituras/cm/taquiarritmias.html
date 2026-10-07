@@ -1,0 +1,295 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Taquiarritmias</title>
+<link rel="stylesheet" href="../_leitura.css?v=3"><script src="../_leitura.js?v=3"></script>
+<div class="wrap">
+<p class="kicker">Cardiologia · 73 min · ESC 2019 · monografia</p>
+<h1>Taquiarritmias</h1>
+<p class="dek">Taquicardias supraventriculares e ventriculares segundo a ESC 2019, cruzadas com a ESC 2022 e a AHA 2025: leitura do QRS estreito e largo, manobras vagais, adenosina, reentrada nodal e atrioventricular, taquicardia atrial, flutter, TV, torsades, fibrilação atrial pré-excitada e indicações de ablação.</p>
+
+<nav class="toc"><b>Sumário</b><ol>
+<li><a href="#duas">As perguntas que ordenam a conduta</a></li>
+<li><a href="#ler">Leitura do QRS estreito</a></li>
+<li><a href="#vagal">Manobras vagais</a></li>
+<li><a href="#adenosina">Adenosina</a></li>
+<li><a href="#nodal">Reentrada nodal</a></li>
+<li><a href="#avrt">Reentrada atrioventricular</a></li>
+<li><a href="#atrial">Taquicardia atrial focal e multifocal</a></li>
+<li><a href="#flutter">Flutter atrial e os circuitos</a></li>
+<li><a href="#largo">QRS largo</a></li>
+<li><a href="#tv">TV monomórfica, polimórfica e torsades</a></li>
+<li><a href="#preexcitada">Fibrilação atrial pré-excitada</a></li>
+<li><a href="#ablacao">Ablação, pré-excitação assintomática e taquicardiomiopatia</a></li>
+<li><a href="#armadilhas">Erros frequentes</a></li>
+<li><a href="#autoteste">Perguntas de revisão</a></li>
+</ol></nav>
+
+<h2 id="duas">As perguntas que ordenam a conduta</h2>
+<ol class="passos">
+<li><b>A taquicardia está causando instabilidade?</b> Hipotensão, alteração aguda do sensório, choque, dor isquêmica, insuficiência cardíaca aguda. Se sim, <b>cardioversão sincronizada</b>, classe I na ESC 2019 no QRS estreito e no largo.</li>
+<li><b>O QRS é estreito (≤120 ms) ou largo (&gt;120 ms)?</b> Estreito significa ativação pelo His-Purkinje, e origem acima ou dentro do feixe de His. Largo significa <b>taquicardia ventricular até prova em contrário</b>.</li>
+<li><b>É regular ou irregular?</b> No estreito, irregular aponta fibrilação atrial, taquicardia atrial multifocal ou flutter com condução variável. No largo, aponta fibrilação atrial pré-excitada ou TV polimórfica: os dois cenários em que errar o fármaco custa caro.</li>
+</ol>
+<p>Antes de assumir que o paciente é jovem: a prevalência de taquicardia supraventricular é de <b>2,25 por mil</b>, mulheres têm o dobro do risco dos homens e quem tem 65 anos ou mais, mais de cinco vezes o risco dos jovens. <i>Nem toda taquicardia supraventricular é arritmia do jovem</i>: essa é a primeira mensagem-chave da diretriz. E o exame que decide todo o seguimento é o <b>ECG de 12 derivações durante a taquicardia</b>, classe I C nas duas larguras de QRS e o que mais se perde na correria.</p>
+<div class="cx chave"><b>Estabilidade não é argumento diagnóstico</b>A instabilidade decide sozinha; a classificação fina vem depois. O corolário cai em prova: uma TV pode ser bem tolerada por horas. A ESC diz que a instabilidade é <i>mais provável</i> na TV, não que a estabilidade a exclua.</div>
+
+<div class="fluxo"><div class="leg"><b>Fluxograma 1</b>Taquicardia com pulso. As três perguntas em ordem, com as classes da ESC 2019</div>
+<pre class="mermaid">
+flowchart TD
+  A["Taquicardia com pulso"] --> B{"Instabilidade causada<br/>pela taquicardia?"}
+  B -->|"sim"| C["Cardioversão sincronizada · I B<br/>polimórfica: desfibrilar,<br/>sem sincronizar"]
+  B -->|"não"| D{"QRS > 120 ms?"}
+  D -->|"não"| E{"Regular?"}
+  E -->|"não"| E2["FA, TA multifocal<br/>ou flutter variável:<br/>controlar a frequência"]
+  E -->|"sim"| V["Manobra vagal · I B"]
+  V --> AD["Adenosina 6 a 18 mg · I B"]
+  AD --> BL["Verapamil ou diltiazem<br/>IIa B, ou β-bloqueador<br/>IIa C"]
+  BL --> CV["Cardioversão<br/>sincronizada · I B"]
+  D -->|"sim"| W["TV até prova em contrário<br/>regular: Fluxograma 2<br/>irregular: FA pré-excitada,<br/>ibutilida ou procainamida<br/>IV · IIa B"]
+</pre></div>
+
+<h2 id="ler">Leitura do QRS estreito</h2>
+<p>Com ritmo regular, a leitura tem três passos: há onda P visível? Se não, o mais provável é reentrada nodal típica, com a P sepultada no QRS. A frequência atrial é maior que a ventricular? Pense em flutter e taquicardia atrial. Se a relação é 1:1, meça o <b>intervalo RP</b>.</p>
+<figure class="fig"><div class="zoom"><img src="fig/real-tsv.svg" alt="Tira de ritmo de paciente com taquicardia supraventricular regular de QRS estreito"></div>
+<figcaption><b>Figura 1.</b> Taquicardia regular de QRS estreito em traçado de paciente, derivação II (laudo do banco: TSV sem onda P evidente). Não há P entre os complexos, o padrão da reentrada nodal comum, em que a P retrógrada cai dentro do QRS. A confirmação no ECG de 12 derivações é o pseudo-r' em V1, deflexão que não existe no traçado sinusal do mesmo paciente e não aparece nesta derivação.</figcaption></figure>
+<div class="rolagem"><table class="criterio">
+<tr><th>Padrão do RP</th><th>Diagnósticos</th><th>Comentário</th></tr>
+<tr><td><b>RP curto ≤90 ms</b></td><td>Reentrada nodal típica (lenta-rápida)</td><td>O corte de 90 ms na superfície é admitidamente arbitrário e só vale com P visível; no laboratório, o corte ventrículo-atrial é 70 ms</td></tr>
+<tr><td><b>RP curto &gt;90 ms</b> (RP &lt; PR)</td><td>Reentrada atrioventricular ortodrômica; taquicardia atrial; reentrada nodal atípica</td><td>Na ortodrômica o RP é constante e vai até metade do ciclo</td></tr>
+<tr><td><b>RP longo</b> (RP ≥ PR)</td><td>Taquicardia atrial; reentrada nodal atípica; taquicardia juncional ectópica</td><td>Ondas U na reentrada nodal típica podem simular RP longo</td></tr>
+</table></div>
+<p>Separam nodal de atrioventricular o <b>pseudo-r' em V1</b> e a <b>pseudo-S nas inferiores</b>, específicos (91% a 100%), pouco sensíveis (58% e 14%). Dois raciocínios que resolvem casos: bloqueio ou dissociação atrioventricular num QRS estreito <b>exclui reentrada atrioventricular</b>, porque átrios e ventrículos são partes obrigatórias daquele circuito; e frequência perto de 150 bpm obriga a procurar <b>flutter 2:1</b>, já que a frequência atrial do flutter é de 250 a 330 por minuto.</p>
+<div class="ancora"><b>Questão-âncora</b>Mulher de 34 anos, palpitações de início e término súbitos há dois anos; ECG na crise com taquicardia regular de QRS estreito a 190 bpm sem P visível, e no traçado sinusal V1 não tem r'. <details><summary>Como o r' de V1 fecha o raciocínio</summary>O pseudo-r' em V1 que só aparece na taquicardia é a P retrógrada quase simultânea ao QRS, assinatura da <b>reentrada nodal típica</b>. Conduta aguda: manobra vagal, depois adenosina. Crônica: ablação da via lenta, 97% de sucesso e risco de bloqueio abaixo de 1%.</details></div>
+
+<h2 id="vagal">Manobras vagais</h2>
+<p>É a primeira medida no paciente estável com taquicardia regular de QRS estreito, <b>classe I B</b>. A Valsalva convencional bem executada reverte entre 19% e 54% dos casos; a versão modificada do ensaio <b>REVERT</b> elevou a conversão de <b>17% para 43%</b>, sem custo nem risco adicional.</p>
+<div class="dose"><b>Valsalva modificada</b><ul>
+<li>Paciente <b>semirreclinado</b>, sopro contra resistência por <b>15 segundos</b>, padronizado pelo êmbolo de uma seringa de 10 mL.</li>
+<li>Ao fim do esforço, <b>decúbito dorsal com elevação passiva das pernas</b> por cerca de 15 segundos. É essa etapa que faz a diferença, ao aumentar o retorno venoso na fase de reflexo vagal.</li>
+<li><b>Massagem carotídea</b>: sempre <b>unilateral</b>, no máximo <b>5 segundos</b>, monitorizada. Evitar em quem teve ataque isquêmico transitório ou acidente vascular cerebral e em quem tem sopro carotídeo.</li>
+</ul></div>
+<table class="rec">
+<tr><th>Taquicardia regular de QRS estreito sem diagnóstico estabelecido: ESC 2019</th><th>Classe</th></tr>
+<tr><td>Cardioversão sincronizada no paciente <b>instável</b></td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>ECG de 12 derivações durante a taquicardia</td><td class="c"><span class="cls c1">I</span><span class="niv">C</span></td></tr>
+<tr><td>Manobras vagais, preferencialmente em decúbito com elevação das pernas</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Adenosina 6–18 mg em bólus IV, se as manobras vagais falharem</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Verapamil ou diltiazem IV, se vagal e adenosina falharem</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">B</span></td></tr>
+<tr><td>β-bloqueador IV (esmolol ou metoprolol), se vagal e adenosina falharem</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">C</span></td></tr>
+<tr><td>Cardioversão sincronizada quando o fármaco falha em reverter ou controlar</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+</table>
+<div class="cx nota"><b>Contraindicações que a própria tabela carrega</b>β-bloqueador IV é contraindicado na insuficiência cardíaca descompensada; verapamil e diltiazem IV, na hipotensão e na fração de ejeção reduzida. Associar os dois por via IV potencializa hipotensão e bradicardia.</div>
+
+<h2 id="adenosina">Adenosina</h2>
+<p>Nucleosídeo purínico endógeno que age nos receptores A1 cardíacos e prolonga a condução à custa do intervalo átrio-His, sem efeito sobre o His-ventrículo, até produzir o bloqueio transitório que interrompe a taquicardia.</p>
+<div class="dose"><b>Adenosina</b><ul>
+<li><b>6 a 18 mg</b> IV: 6 mg, depois 12 mg, considerar 18 mg conforme tolerância. A dose média para reverter é 6 mg e o sucesso passa de <b>90%</b> nas arritmias dependentes do nó.</li>
+<li><b>Bólus rápido</b> com <i>flush</i> imediato de salina, em veia <b>proximal e calibrosa</b> (antecubital), com o membro elevado.</li>
+<li>Meia-vida plasmática de <b>segundos</b>, efeito completo em <b>20 a 30 segundos</b>: repetir em 1 minuto é seguro, e a injeção lenta não entrega concentração útil ao coração.</li>
+<li>Avisar: rubor, dispneia transitória e dor torácica, intensos e passageiros.</li>
+</ul></div>
+<div class="rolagem"><table class="criterio">
+<tr><th>Resposta</th><th>Diagnóstico sugerido</th></tr>
+<tr><td>Nenhum efeito</td><td>Dose ou técnica inadequadas; taquicardia ventricular septal alta</td></tr>
+<tr><td>Lentificação gradual seguida de reaceleração</td><td>Taquicardia sinusal; atrial focal automática; juncional ectópica</td></tr>
+<tr><td>Término súbito</td><td>Reentrada nodal; reentrada atrioventricular; reentrada sinoatrial; atrial por atividade deflagrada</td></tr>
+<tr><td>Atrial persiste com bloqueio transitório de alto grau</td><td>Flutter; atrial microrreentrante. A adenosina foi <b>diagnóstica</b>, não terapêutica</td></tr>
+</table></div>
+<p>A adenosina <b>não interrompe</b> macrorreentradas atriais, e as TV fasciculares respondem a <b>verapamil, não a adenosina</b>.</p>
+<div class="cx armadilha"><b>Cautelas reais e mitos</b>Broncoconstrição clinicamente relevante é <b>rara</b> com adenosina intravenosa. A inalada broncoconstringe no asmático, a intravenosa não teve impacto nas vias aéreas em estudos experimentais. Por relatos isolados, a diretriz mantém <b>cautela na asma</b> e sugere verapamil na <b>asma grave</b>. No transplantado cardíaco a contraindicação clássica foi revista, e a evidência recente apoia o uso; o que exige cuidado real é a <b>doença do nó sinusal</b>. Dois efeitos adversos importam: a adenosina pode <b>induzir fibrilação atrial</b> e <b>acelerar arritmias pré-excitadas</b>, daí não usá-la no QRS largo quando o ECG basal mostra pré-excitação.</div>
+<p>Falhando a adenosina: <b>verapamil</b> 0,075–0,15 mg/kg (5–10 mg) ou <b>diltiazem</b> 0,25 mg/kg (20 mg) em 2 min, que terminam a arritmia em 64% a 98% dos casos ao custo de hipotensão; ou <b>β-bloqueador</b>, esmolol 0,5 mg/kg em bólus ou 0,05–0,3 mg/kg/min, metoprolol 2,5 a 15 mg, mais eficaz em reduzir a frequência do que em reverter o ritmo.</p>
+
+<h2 id="nodal">Reentrada nodal</h2>
+<p>É a arritmia regular mais comum do ser humano; o substrato da via lenta são as <b>extensões nodais inferiores</b>. Na forma <b>típica</b> (lenta-rápida, ~94%), a ativação atrial retrógrada ocorre antes, junto ou logo depois do QRS, daí a P invisível; a <b>atípica</b> responde por 6%. Bloqueio atrioventricular durante a crise é excepcional, porque nem átrios nem ventrículos são necessários ao circuito, e o infradesnivelamento de ST que acompanha a crise não significa isquemia.</p>
+<table class="rec">
+<tr><th>Reentrada nodal: ESC 2019</th><th>Classe</th></tr>
+<tr><td>Instável: cardioversão sincronizada</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Estável: manobras vagais → adenosina 6–18 mg IV</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Estável: verapamil ou diltiazem IV se vagal e adenosina falharem</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">B</span></td></tr>
+<tr><td>Estável: β-bloqueador IV se vagal e adenosina falharem</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">C</span></td></tr>
+<tr><td>Crônico: <b>ablação por cateter</b> na reentrada nodal sintomática e recorrente</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Crônico: diltiazem/verapamil ou β-bloqueador, se a ablação não for desejada ou factível</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">B</span></td></tr>
+<tr><td>Crônico: <b>abstenção de terapia</b> em paciente minimamente sintomático, com episódios raros e curtos</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">C</span></td></tr>
+</table>
+<p>A recomendação de <b>não tratar</b> merece atenção: metade dos pacientes com crises curtas e raras fica assintomática em um a três anos, e o antiarrítmico crônico abole episódios com sucesso entre 13% e 82%. Diante de uma ablação com 97% de sucesso, ele perdeu quase todo o espaço no jovem sintomático. Para crises esporádicas, dose única oral de <b>diltiazem 120 mg com propranolol 80 mg</b> converte até 94%.</p>
+
+<h2 id="avrt">Reentrada atrioventricular</h2>
+<p>Vias acessórias conectam diretamente átrio e ventrículo pelo anel atrioventricular; <b>60%</b> ficam ao longo da valva mitral e <b>25%</b> na região septal. A síndrome de Wolff-Parkinson-White combina via <b>manifesta</b> (<b>PR curto ≤120 ms, onda delta e QRS alargado</b> em ritmo sinusal) com taquiarritmias recorrentes.</p>
+<figure class="fig"><div class="zoom"><img src="fig/real-wpw.svg" alt="Eletrocardiograma de paciente com pré-excitação ventricular"></div>
+<figcaption><b>Figura 2.</b> Pré-excitação em ritmo sinusal, em traçado de paciente. O QRS é uma fusão: parte do ventrículo é despolarizada pela via acessória, parte pelo sistema normal. Guardar este traçado muda a conduta se o paciente voltar com taquicardia irregular de QRS largo.</figcaption></figure>
+<div class="compara">
+<div><b>Ortodrômica</b>Mais de <b>90%</b> das reentradas atrioventriculares e 20% a 30% de todas as TSV sustentadas. Desce pelo nó, sobe pela via. <b>QRS estreito</b>, 150 a raramente mais de 220 bpm, RP constante. Bloqueio de ramo funcional ipsilateral à via prolonga o ciclo, pista de localização.</div>
+<div><b>Antidrômica</b><b>3% a 8%</b> dos portadores de Wolff-Parkinson-White. Desce pela via, sobe pelo nó ou por outra via. <b>QRS largo totalmente pré-excitado</b>, na prática indistinguível de TV. Em 30% a 60% dos casos há múltiplas vias acessórias.</div>
+<div><b>Espectadora e oculta</b>Na <b>espectadora</b>, o QRS sai pré-excitado durante taquicardia atrial, flutter, fibrilação atrial ou reentrada nodal sem que a via participe do circuito. A <b>oculta</b> só conduz retrogradamente: não há delta no ECG basal e ela só se manifesta como reentrada ortodrômica.</div>
+</div>
+<table class="rec">
+<tr><th>Reentrada atrioventricular por via manifesta ou oculta: ESC 2019</th><th>Classe</th></tr>
+<tr><td>Instável: cardioversão sincronizada. Estável: manobras vagais</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Na <b>ortodrômica</b>: adenosina 6–18 mg IV se as manobras vagais falharem</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Na <b>ortodrômica</b>: verapamil ou diltiazem IV se vagal e adenosina falharem</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">B</span></td></tr>
+<tr><td>Na <b>ortodrômica</b>: β-bloqueador IV, sem insuficiência cardíaca descompensada</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">C</span></td></tr>
+<tr><td>Na <b>antidrômica</b>: ibutilida, procainamida, flecainida ou propafenona IV, ou cardioversão sincronizada</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">B</span></td></tr>
+<tr><td>Na <b>antidrômica</b>: amiodarona IV em casos refratários</td><td class="c"><span class="cls c2b">IIb</span><span class="niv">B</span></td></tr>
+<tr><td>Crônico: <b>ablação da via acessória</b> na reentrada sintomática e recorrente</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Crônico: β-bloqueador ou verapamil/diltiazem se <b>não houver pré-excitação</b> no ECG basal; propafenona ou flecainida sem cardiopatia isquêmica ou estrutural são IIb B</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">B</span></td></tr>
+<tr><td><b>Digoxina, β-bloqueadores, diltiazem, verapamil e amiodarona na fibrilação atrial pré-excitada</b></td><td class="c"><span class="cls c3">III</span><span class="niv">B</span></td></tr>
+</table>
+<div class="cx armadilha"><b>Por que a adenosina é classe I na ortodrômica e proibida na pré-excitada</b>Na ortodrômica o nó é a perna anterógrada do circuito: bloqueá-lo interrompe a arritmia. Na fibrilação atrial pré-excitada o nó é o <b>freio</b> que impede a fibrilação de descer inteira pela via acessória; bloqueá-lo libera a via. Pior, a adenosina pode <b>induzir fibrilação atrial</b>, e na antidrômica esse efeito pode precipitar parada.</div>
+
+<h2 id="atrial">Taquicardia atrial focal e multifocal</h2>
+<p>A <b>focal</b> é um ritmo atrial organizado acima de 100 bpm que nasce de um foco discreto e se espalha em padrão centrífugo; as P diferem das sinusais e vêm com PR igual ou maior que o basal.</p>
+<table class="rec">
+<tr><th>Taquicardia atrial focal: ESC 2019</th><th>Classe</th></tr>
+<tr><td>Instável: cardioversão sincronizada; e quando o fármaco falha em reverter ou controlar</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Estável: adenosina 6–18 mg IV</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">B</span></td></tr>
+<tr><td>Estável: β-bloqueador IV, ou verapamil/diltiazem IV, se a adenosina falhar</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">C</span></td></tr>
+<tr><td>Estável: ibutilida, ou flecainida/propafenona, ou amiodarona IV, se o acima falhar</td><td class="c"><span class="cls c2b">IIb</span><span class="niv">C</span></td></tr>
+<tr><td>Crônico: <b>ablação</b> na focal recorrente, sobretudo se incessante ou causadora de taquicardiomiopatia</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Crônico: β-bloqueador, verapamil/diltiazem, ou propafenona/flecainida sem cardiopatia estrutural</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">C</span></td></tr>
+<tr><td>Crônico: ivabradina com β-bloqueador, ou amiodarona, se as medidas acima falharem</td><td class="c"><span class="cls c2b">IIb</span><span class="niv">C</span></td></tr>
+</table>
+<p>A <b>multifocal</b> é um ritmo rápido e irregular com pelo menos <b>três morfologias de onda P</b>, separada da fibrilação atrial pela <b>linha isoelétrica entre as P</b>, daí pedir ECG de 12 derivações, porque numa derivação só as duas se confundem. Associa-se a doença pulmonar, hipertensão pulmonar, doença coronariana e valvar, <b>hipomagnesemia</b> e <b>teofilina</b>.</p>
+<div class="cx chave"><b>Multifocal: o tratamento é da doença de base</b>Antiarrítmico em geral não a suprime; a primeira linha é tratar a condição subjacente (classe I C). Magnésio IV pode ajudar <b>mesmo com magnesemia normal</b>. Para controle de frequência, β-bloqueador ou verapamil/diltiazem IV são IIa B, com cautela no β-bloqueador se houver descompensação respiratória. No refratário com disfunção ventricular, ablação do nó com marcapasso é IIa C.</div>
+
+<h2 id="flutter">Flutter atrial e os circuitos</h2>
+<p>O <b>flutter típico</b> é uma macrorreentrada em torno do anel tricúspide que usa o <b>istmo cavotricuspídeo</b> como passagem crítica. Na forma comum a ativação desce pela parede livre do átrio direito, cruza o istmo e sobe pelo septo, giro <b>anti-horário</b> visto do ápice, com frequência atrial de <b>250 a 330 por minuto</b> e ondas em dente de serra <b>negativas nas inferiores</b>, positivas em V1; no giro <b>horário</b> o padrão se inverte. Um ECG atípico <b>não exclui</b> circuito dependente do istmo quando a ativação atrial foi modificada por cirurgia, ablação prévia ou antiarrítmico.</p>
+<figure class="fig"><div class="zoom"><img src="fig/real-flutter.svg" alt="Tira de ritmo de paciente com flutter atrial e condução 2:1"></div>
+<figcaption><b>Figura 3.</b> Flutter com condução 2:1, em traçado de paciente. Uma das ondas F se esconde no QRS ou na T, e o traçado passa por taquicardia supraventricular regular a 150 bpm. A adenosina, ao aumentar o grau de bloqueio, desmascara as ondas F.</figcaption></figure>
+<div class="cx armadilha"><b>O flutter que fica mais lento e por isso mais perigoso</b>Flutter surgido durante tratamento de fibrilação atrial com classe IC ou amiodarona pode ter a frequência atrial reduzida abaixo de 200 por minuto e, mais lento, passar a conduzir <b>1:1</b>. Somado ao efeito do fármaco sobre a ativação ventricular, o resultado é uma <b>taquicardia de QRS largo</b> muito rápida. Por isso <b>classe IC nunca deve ser usada sem bloqueador do nó associado</b>, e propafenona e flecainida são <b>classe III B</b> para reverter flutter.</div>
+<table class="rec">
+<tr><th>Flutter e taquicardias atriais macrorreentrantes: ESC 2019</th><th>Classe</th></tr>
+<tr><td>Anticoagulação como na fibrilação atrial, quando há fibrilação atrial concomitante</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Considerar anticoagulação no flutter <b>sem</b> fibrilação atrial. O limiar de início não está estabelecido</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">C</span></td></tr>
+<tr><td>Instável: cardioversão sincronizada. Estável: ibutilida IV, ou dofetilida IV ou oral intra-hospitalar; ou cardioversão elétrica de <b>baixa energia (≤100 J bifásico)</b>; ou estimulação atrial de alta frequência em portador de dispositivo</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>β-bloqueador ou verapamil/diltiazem IV para controle da resposta ventricular</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">B</span></td></tr>
+<tr><td>Amiodarona IV se o acima não estiver disponível ou desejável</td><td class="c"><span class="cls c2b">IIb</span><span class="niv">C</span></td></tr>
+<tr><td><b>Propafenona e flecainida não são recomendadas</b> para reversão</td><td class="c"><span class="cls c3">III</span><span class="niv">B</span></td></tr>
+<tr><td>Crônico: <b>ablação</b> nos episódios sintomáticos e recorrentes de flutter dependente do istmo</td><td class="c"><span class="cls c1">I</span><span class="niv">A</span></td></tr>
+<tr><td>Crônico: ablação em centro experiente no flutter <b>não</b> dependente do istmo; e no flutter persistente ou com disfunção sistólica por taquicardiomiopatia</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Crônico: ablação já <b>após o primeiro episódio</b> sintomático de flutter típico</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">B</span></td></tr>
+<tr><td>Crônico: β-bloqueador ou verapamil/diltiazem, sem insuficiência cardíaca de fração reduzida, se a ablação não for desejada ou factível</td><td class="c"><span class="cls c2a">IIa</span><span class="niv">C</span></td></tr>
+</table>
+<p>A cardioversão elétrica do flutter é <b>mais eficaz e exige menos energia</b> que a da fibrilação atrial; o controle farmacológico da frequência, ao contrário, é difícil. Dofetilida e ibutilida revertem; classes IA e IC praticamente não; a amiodarona reverte mal, mas ajuda na frequência.</p>
+<div class="cx chave"><b>Anticoagulação no flutter</b>O risco embólico é <b>menor</b> que o da fibrilação atrial, mas significativo, e a associação frequente entre as duas justifica a profilaxia nos mesmos moldes, inclusive antes de cardioversão quando o flutter dura mais de 48 h. A diretriz é honesta sobre o que falta: não há estudo randomizado dedicado, o valor do escore de risco da fibrilação atrial no flutter isolado <b>não está estabelecido</b>, e sem fibrilação concomitante o limiar parece mais alto. Como a prevalência de fibrilação atrial após ablação do istmo chega a 70%, a ablação <b>não encerra a discussão da anticoagulação</b>.</div>
+
+<h2 id="largo">QRS largo</h2>
+<p>As proporções relatadas são <b>80% de taquicardia ventricular, 15% de supraventricular com aberrância e 5% de condução por via acessória</b>, e acima de 90% de TV em quem tem cardiopatia estrutural ou infarto prévio. A ESC é inequívoca: <i>o diagnóstico padrão deve ser taquicardia ventricular até prova em contrário</i>. O diferencial inclui bloqueio de ramo preexistente ou funcional, condução por via acessória, alargamento induzido por <b>fármaco ou distúrbio eletrolítico</b>, sobretudo classes IA e IC, e <i>loop</i> sem fim por marcapasso.</p>
+<figure class="fig"><div class="zoom"><img src="fig/real-tv-sustentada.svg" alt="Tira de ritmo de paciente com taquicardia ventricular sustentada"></div>
+<figcaption><b>Figura 4.</b> TV monomórfica sustentada em traçado de paciente: QRS largo, morfologia constante. Procure ondas P marchando dissociadas, batimentos de captura (um QRS estreito no meio da salva) e de fusão. Achar qualquer um deles fecha o diagnóstico e dispensa algoritmo.</figcaption></figure>
+<div class="rolagem"><table class="criterio">
+<tr><th>Achado</th><th>O que significa</th></tr>
+<tr><td><b>Dissociação atrioventricular</b> e <b>batimentos de captura e de fusão</b></td><td>Achados-chave de TV; a P se esconde no QRS largo e na T, então procure nas inferiores e na derivação de Lewis</td></tr>
+<tr><td><b>Concordância negativa</b> de V1 a V6</td><td>Quase diagnóstica de TV, especificidade &gt;90%, mas presente em só 20% delas. A concordância <b>positiva</b> indica TV ou antidrômica por via posterior/lateral esquerda</td></tr>
+<tr><td>QRS <b>&gt;140 ms</b> com ramo direito ou <b>&gt;160 ms</b> com ramo esquerdo; <b>ausência de RS</b> nas precordiais ou <b>RS &gt;100 ms</b>; pico da R em DII <b>≥50 ms</b></td><td>Critérios de TV. A duração do QRS não vale na taquicardia pré-excitada nem sob classe IA/IC</td></tr>
+<tr><td><b>Eixo entre −90° e ±180°</b></td><td>Fortemente indicativo de TV. Na aberrância o eixo fica entre −60° e +120°</td></tr>
+<tr><td>Com padrão de <b>ramo direito</b>: em V1, R monofásica, qR ou "orelha de coelho" com pico esquerdo mais alto; em V6, R:S &lt;1. Com padrão de <b>ramo esquerdo</b>: em V1, R larga com nadir da S atrasado; em V6, qualquer Q ou QS</td><td>TV. O contrário, rSR' com orelha direita mais alta e R:S &gt;1 em V6, é aberrância</td></tr>
+<tr><td><b>Morfologia idêntica</b> ao ECG sinusal com bloqueio de ramo</td><td>Provavelmente não é TV. Exceções: reentrada ramo a ramo e TV septal alta</td></tr>
+</table></div>
+<figure class="fig"><div class="zoom"><img src="fig/real-tv-fusao.svg" alt="Tira de ritmo de paciente com salva de taquicardia ventricular e batimento de fusão anotado"></div>
+<figcaption><b>Figura 5.</b> Salva de taquicardia ventricular em traçado de paciente, com <b>batimento de fusão</b> anotado pelos cardiologistas do banco: morfologia intermediária entre o sinusal e o ventricular, porque um impulso supraventricular e o foco ventricular ativaram o ventrículo ao mesmo tempo. O batimento de captura é o parente próximo: um QRS inteiramente estreito no meio da salva. Os dois provam que existem duas fontes independentes, isto é, dissociação atrioventricular.</figcaption></figure>
+
+<p>Os algoritmos organizados, <b>Brugada</b> (ausência de RS nas precordiais, RS &gt;100 ms, dissociação, morfologia em V1 e V6) e <b>Vereckei</b> (análise de aVR: R inicial, R ou Q inicial &gt;40 ms, entalhe no ramo descendente de complexo negativo, razão entre velocidade de ativação inicial e terminal), não são detalhados na ESC 2019, e a diretriz é implacável quanto ao desempenho deles: <b>especificidade de 40% a 80% e acurácia em torno de 75%</b> em estudos independentes. Como só 25% a 30% das taquicardias de QRS largo são supraventriculares, <b>chamar tudo de TV sem esforço nenhum alcança acurácia semelhante</b>, o melhor argumento a favor da regra de segurança.</p>
+<div class="cx armadilha"><b>Onde os critérios falham</b>Nenhum critério morfológico é preenchido em 4% das supraventriculares e 6% das ventriculares, e em um terço dos casos V1 e V6 apontam diagnósticos opostos. E separar TV de <b>reentrada antidrômica</b> é extremamente difícil, porque nesta o QRS nasce da inserção ventricular da via acessória, exatamente como numa TV.</div>
+
+<div class="fluxo"><div class="leg"><b>Fluxograma 2</b>Taquicardia de QRS largo sem diagnóstico estabelecido: ESC 2019</div>
+<pre class="mermaid">
+flowchart TD
+  A["Taquicardia de QRS largo &gt; 120 ms"] --> B{"Instabilidade hemodinâmica?"}
+  B -->|"sim"| C["Cardioversão sincronizada — I B"]
+  B -->|"não"| D["ECG de 12 derivações durante a taquicardia — I C<br/>Manobras vagais em decúbito com elevação das pernas — I C"]
+  D --> E{"Há pré-excitação no ECG basal?"}
+  E -->|"sim"| F["NÃO usar adenosina<br/>Tratar como pré-excitada"]
+  E -->|"não"| G["Adenosina IV — IIa C"]
+  G --> H{"Reverteu ou esclareceu?"}
+  H -->|"não"| I["Procainamida IV — IIa B<br/>Amiodarona IV — IIb B<br/>Verapamil: III B"]
+  F --> I
+  I --> J{"Reverteu ou controlou?"}
+  J -->|"não"| C
+  J -->|"sim"| K["Documentar · investigar substrato · estratificar risco"]
+</pre></div>
+
+<h2 id="tv">TV monomórfica, polimórfica e torsades</h2>
+<p>Taquicardia ventricular são três ou mais batimentos consecutivos acima de 100 bpm originados nos ventrículos: <b>não sustentada</b> até 30 segundos, <b>sustentada</b> acima disso ou quando exige intervenção; <b>monomórfica</b> mantém a morfologia, <b>polimórfica</b> muda continuamente, e <b>torsades de pointes</b> é a polimórfica no contexto de QT prolongado.</p>
+<p>No paciente estável com TV monomórfica sustentada, a ESC 2022 recomenda <b>cardioversão elétrica como primeira linha</b> mesmo quando a arritmia é tolerada, desde que o risco anestésico seja baixo (I C). Entre os fármacos, a <b>procainamida IV</b> é IIa B quando há cardiopatia estrutural conhecida ou suspeita, com base no <b>PROCAMIO</b>, em que produziu menos eventos adversos cardíacos maiores e mais términos em 40 minutos que a amiodarona; a <b>amiodarona IV</b> é IIb B; sem cardiopatia significativa, flecainida, ajmalina ou sotalol são IIb C; o <b>verapamil IV é classe III B</b>. Duas TV <b>idiopáticas</b> têm tratamento próprio e classe I: a da <b>via de saída do ventrículo direito</b> (ramo esquerdo, eixo inferior) responde a <b>β-bloqueador</b>; a <b>fascicular</b> (ramo direito com desvio de eixo), a <b>verapamil</b>.</p>
+<div class="cx nota"><b>Coerência com a AHA 2025</b>Cardioversão sincronizada é classe 1 no QRS largo instável e no estável após falha de manobras e fármacos; amiodarona, procainamida ou sotalol IV são 2b; adenosina é 2b <b>só</b> no QRS largo regular e monomórfico; verapamil e diltiazem no QRS largo são <b>3: dano</b>, assim como adenosina no QRS largo instável, irregular ou polimórfico. A procainamida não deve correr acima de <b>50 mg/min</b>, e antiarrítmicos <b>não se somam</b>, a combinação é arritmogênica.</div>
+<p>A <b>polimórfica</b> se trata diferente por razão mecânica: cada QRS tem morfologia distinta e o aparelho não sincroniza, então o choque é <b>não sincronizado e em alta energia</b>. A AHA 2025 a classifica como <b>sempre instável</b>, com desfibrilação imediata (classe 1).</p>
+<figure class="fig"><div class="zoom"><img src="fig/real-flutter-ventricular.svg" alt="Tira de ritmo de paciente com flutter ventricular fusiforme"></div>
+<figcaption><b>Figura 6.</b> Flutter ventricular em traçado de paciente. O aspecto fusiforme, de amplitude que cresce e decresce, é o mesmo da torsades de pointes. O diagnóstico de torsades não vem só da torção: vem do QT longo entre as salvas e da sequência curto-longo-curto que deflagra o episódio. Sem QT longo, uma polimórfica é isquemia até prova em contrário.</figcaption></figure>
+<div class="dose"><b>Torsades de pointes</b><ul>
+<li><b>Sulfato de magnésio IV</b> com reposição de potássio. Classe I C na ESC 2022, e funciona <b>mesmo com magnesemia normal</b>.</li>
+<li><b>Retirar o agente causador</b>: classe I B quando se suspeita de arritmia induzida por fármaco.</li>
+<li>Se recorre apesar da correção dos precipitantes e do magnésio, <b>acelerar a frequência</b> com isoproterenol ou estimulação transvenosa. Classe I C no QT longo adquirido.</li>
+<li>Na AHA 2025, magnésio para recorrências <b>com</b> QT longo é 2b; <b>sem</b> QT longo, lidocaína, amiodarona e tratamento da isquemia, também 2b.</li>
+</ul></div>
+<p>Na <b>tempestade elétrica</b>, três ou mais episódios sustentados em 24 h, cada um exigindo intervenção, a sedação leve a moderada é classe I C por reduzir o tônus adrenérgico, o <b>β-bloqueador não seletivo com amiodarona IV</b> é I B na cardiopatia estrutural, e a ablação é I B na taquicardia incessante ou refratária.</p>
+<div class="ancora"><b>Questão-âncora</b>Homem de 68 anos, infarto anterior há seis anos, taquicardia regular de QRS largo a 170 bpm, pressão 105/70, lúcido. O plantonista propõe verapamil "porque a pressão está boa e parece supra com aberrância". <details><summary>O que responder</summary>A estabilidade não sustenta o diagnóstico: a probabilidade pré-teste de TV neste paciente passa de 90% só pela história de infarto. <b>Verapamil é classe III B</b> no QRS largo de etiologia desconhecida e pode causar deterioração grave numa TV até então estável. Conduta: registrar o ECG de 12 derivações, procurar dissociação, capturas e fusão, e tratar como TV. Cardioversão sincronizada sob sedação (I C) ou procainamida IV (IIa B).</details></div>
+
+<h2 id="preexcitada">Fibrilação atrial pré-excitada</h2>
+<p>Fibrilação atrial paroxística ocorre em cerca de <b>50%</b> dos portadores de Wolff-Parkinson-White e pode ser a arritmia de apresentação. Quando desce por uma via com <b>período refratário anterógrado curto</b>, a resposta ventricular pode ser altíssima e degenerar em <b>fibrilação ventricular</b>.</p>
+<figure class="fig"><div class="zoom"><img src="fig/real-fa-pre-excitada.svg" alt="Eletrocardiograma de paciente com fibrilação atrial pré-excitada"></div>
+<figcaption><b>Figura 7.</b> Fibrilação atrial pré-excitada, em traçado de paciente com WPW. O padrão é “rápido, largo e irregular”, com alguns complexos estreitos no meio: a morfologia muda a cada batimento porque cada complexo é uma fusão diferente entre a via e o nó.</figcaption></figure>
+<table class="rec">
+<tr><th>Fibrilação atrial pré-excitada, tratamento agudo: ESC 2019</th><th>Classe</th></tr>
+<tr><td>Cardioversão sincronizada no paciente <b>instável</b>, e quando o fármaco falha em reverter ou controlar</td><td class="c"><span class="cls c1">I</span><span class="niv">B</span></td></tr>
+<tr><td>Estável: <b>ibutilida ou procainamida IV</b></td><td class="c"><span class="cls c2a">IIa</span><span class="niv">B</span></td></tr>
+<tr><td>Estável: flecainida ou propafenona IV</td><td class="c"><span class="cls c2b">IIb</span><span class="niv">B</span></td></tr>
+<tr><td><b>Amiodarona IV não é recomendada</b></td><td class="c"><span class="cls c3">III</span><span class="niv">B</span></td></tr>
+</table>
+<div class="cx armadilha"><b>A lista completa do que não se faz</b>São <b>classe III B</b>, não recomendados e potencialmente danosos: <b>digoxina, β-bloqueadores, diltiazem, verapamil e amiodarona</b>. A adenosina entra na mesma lógica. A AHA 2025 a classifica como <b>3: dano</b> no QRS largo irregular. Sobre a amiodarona a ESC é explícita: ela <b>não é tão segura quanto se pensava</b>, porque foram relatados aumento da condução pela via acessória e fibrilação ventricular; a procainamida parece mais segura. As classes IC agem sobre a via mesmo quando não restauram o ritmo sinusal, mas exigem cautela porque também atuam sobre o nó.</div>
+<p>Na beira do leito: taquicardia <b>rápida, larga e irregular</b> é fibrilação atrial pré-excitada até prova em contrário; nenhum bloqueador do nó; cardioversão se instável. O definitivo é a <b>ablação da via acessória</b>.</p>
+
+<h2 id="ablacao">Ablação, pré-excitação assintomática e taquicardiomiopatia</h2>
+<p>A diretriz afirma que <b>em todas as arritmias reentrantes e na maioria das focais a ablação deve ser oferecida como escolha inicial</b>. O que sustenta a frase é o desempenho na era atual.</p>
+<div class="rolagem"><table class="criterio">
+<tr><th>Arritmia</th><th>Sucesso agudo</th><th>Recorrência</th><th>Complicações</th><th>Mortalidade</th></tr>
+<tr><td>Taquicardia atrial focal</td><td>85%</td><td>20%</td><td>1,4%</td><td>0,1%</td></tr>
+<tr><td>Flutter dependente do istmo cavotricuspídeo</td><td>95%</td><td>10%</td><td>2%</td><td>0,2%</td></tr>
+<tr><td><b>Reentrada nodal</b></td><td><b>97%</b></td><td>2%</td><td>0,3%</td><td>0,01%</td></tr>
+<tr><td>Reentrada atrioventricular</td><td>92%</td><td>8%</td><td>1,5%</td><td>0,1%</td></tr>
+</table></div>
+<p>Na reentrada nodal, mirar a extensão nodal inferior e evitar o médio-septo reduziu o risco de bloqueio a quase nada; a <b>crioablação</b> tem menos bloqueio e mais recorrência. No flutter, a ablação do istmo com <b>bloqueio bidirecional confirmado</b> leva a recorrência abaixo de 10%. Macrorreentradas <b>após cirurgia atrial</b> vão para centro especializado, e taquicardias atriais surgidas <b>depois de ablação de fibrilação atrial</b> esperam ao menos 3 meses.</p>
+<div class="cx nota"><b>E a onda delta achada por acaso?</b>Na <b>pré-excitação assintomática</b>, os marcadores de alto risco no estudo eletrofisiológico são <b>SPERRI ≤250 ms</b> (menor RR pré-excitado durante fibrilação atrial), <b>período refratário anterógrado da via ≤250 ms</b>, múltiplas vias e taquicardia mediada pela via induzível; neles a ablação é <b>classe I C</b>. O estudo invasivo é I C em quem não tem características de baixo risco na avaliação não invasiva. A <b>pré-excitação intermitente</b> foi rebaixada a marcador imperfeito de baixo risco: mais de um quinto desses pacientes tem período refratário da via abaixo de 250 ms. No único ensaio randomizado do tema, a ablação reduziu eventos arrítmicos de <b>77% para 7%</b> em 5 anos.</div>
+<p>A <b>taquicardiomiopatia</b> é causa <b>reversível</b> de disfunção ventricular produzida por taquicardia persistente ou extrassistolia muito frequente. Considerá-la em paciente com <b>fração de ejeção reduzida e frequência acima de 100 bpm</b> é <b>classe I B</b>; a <b>ablação</b> da arritmia responsável é <b>I B</b>; e a ablação do nó com marcapasso biventricular ou hisiano é <b>I C</b> quando a taquicardia não pode ser ablada nem controlada. A função costuma melhorar após 3 meses de frequência normalizada.</p>
+<div class="ancora"><b>Questão-âncora</b>Homem de 52 anos, fadiga há 4 meses, fração de ejeção de 32%, ECG com taquicardia regular de QRS estreito a 115 bpm e ondas P de morfologia diferente da sinusal, com PR maior que o basal. Foi rotulado como cardiomiopatia dilatada e recebeu terapia otimizada. <details><summary>O que está faltando</summary>Fração reduzida com frequência acima de 100 bpm obriga a <b>considerar taquicardiomiopatia</b> (I B), e o traçado descreve taquicardia atrial focal incessante. A conduta é <b>ablação</b> (I B), mantendo β-bloqueador e inibidor da enzima conversora antes e depois. A função costuma melhorar em cerca de 3 meses, e o seguimento continua, porque a arritmia pode voltar.</details></div>
+
+<h2 id="armadilhas">Erros frequentes</h2>
+<ul>
+<li><b>Classificar a arritmia antes de olhar a estabilidade.</b> A cardioversão sincronizada é classe I em qualquer taquicardia com pulso instável.</li>
+<li><b>Usar a estabilidade como argumento diagnóstico.</b> TV pode ser tolerada por horas.</li>
+<li><b>Tratar QRS largo como supraventricular com aberrância.</b> Verapamil no QRS largo de mecanismo desconhecido é <b>classe III B</b> na ESC 2019 e <b>3: dano</b> na AHA 2025.</li>
+<li><b>Qualquer bloqueador do nó na fibrilação atrial pré-excitada</b>: digoxina, β-bloqueador, diltiazem, verapamil e <b>amiodarona</b>, todos classe III B; adenosina entra na mesma proibição no QRS largo irregular.</li>
+<li><b>Adenosina no QRS largo com pré-excitação no ECG basal</b>: pode induzir fibrilação atrial e, na antidrômica, precipitar parada.</li>
+<li><b>Sincronizar o choque na TV polimórfica</b>: cada QRS é diferente e o aparelho não sincroniza.</li>
+<li><b>Esquecer o magnésio na torsades</b>, ou dar magnésio empírico em polimórfica sem QT longo, onde o que resolve é tratar a isquemia.</li>
+<li><b>Classe IC no flutter sem bloqueador do nó</b>: a frequência atrial cai, a condução vira 1:1 e sai uma taquicardia de QRS largo muito rápida.</li>
+<li><b>Suspender a anticoagulação após ablação de flutter</b>: a incidência de fibrilação atrial depois chega a 70%.</li>
+<li><b>Considerar a pré-excitação intermitente sinal de segurança</b>: mais de um quinto tem período refratário da via ≤250 ms.</li>
+<li><b>Não pensar em taquicardiomiopatia</b> diante de fração reduzida com frequência acima de 100 bpm.</li>
+<li><b>Manter antiarrítmico crônico em jovem com reentrada nodal sintomática</b> quando a ablação tem 97% de sucesso, e, no extremo oposto, medicar quem tem episódios raros e curtos, para quem a abstenção é classe IIa.</li>
+</ul>
+
+<h2 id="autoteste">Perguntas de revisão</h2>
+<details><summary>1. Quais são as duas perguntas que ordenam a conduta?</summary><p>A taquicardia causa instabilidade? Se sim, cardioversão sincronizada, classe I, qualquer que seja o mecanismo. Depois: o QRS é estreito ou largo?</p></details>
+<details><summary>2. Descreva a Valsalva modificada e quanto ela acrescenta.</summary><p>Sopro contra resistência por 15 segundos, semirreclinado, contra o êmbolo de uma seringa de 10 mL; em seguida decúbito dorsal com elevação passiva das pernas. A conversão passou de <b>17% para 43%</b> no REVERT. Classe I B.</p></details>
+<details><summary>3. Adenosina: dose, técnica e a razão farmacológica de cada detalhe.</summary><p>6 mg, depois 12 mg, considerar 18 mg. Bólus <b>rápido</b> em veia proximal e calibrosa, com <i>flush</i> imediato: a meia-vida é de segundos e o efeito termina em 20 a 30 segundos, por isso a injeção lenta não funciona e repetir em 1 minuto é seguro.</p></details>
+<details><summary>4. A adenosina expõe ondas em serrilhado a 300 por minuto e a taquicardia não reverte.</summary><p>Flutter atrial: a adenosina foi <b>diagnóstica</b>, não terapêutica. No estável: ibutilida ou dofetilida, ou cardioversão de baixa energia ≤100 J bifásico (I B). Ablação do istmo é I A no recorrente sintomático.</p></details>
+<details><summary>5. Como o intervalo RP orienta o QRS estreito regular?</summary><p>RP ≤90 ms: reentrada nodal típica. RP curto &gt;90 ms: ortodrômica, atrial, nodal atípica. RP longo (≥ PR): atrial, nodal atípica, juncional ectópica.</p></details>
+<details><summary>6. Ortodrômica × antidrômica.</summary><p>Ortodrômica: mais de 90% das reentradas atrioventriculares; desce pelo nó, sobe pela via; <b>QRS estreito</b>. Antidrômica: 3% a 8% dos portadores de Wolff-Parkinson-White; desce pela via; <b>QRS largo totalmente pré-excitado</b>, indistinguível de TV.</p></details>
+<details><summary>7. Que achados praticamente fecham o diagnóstico de taquicardia ventricular?</summary><p>Dissociação atrioventricular e batimentos de captura ou fusão. Concordância negativa de V1 a V6 tem especificidade acima de 90%, mas aparece em só 20% das TV. Também favorecem eixo entre −90° e ±180°, QRS &gt;140 ms com ramo direito ou &gt;160 ms com ramo esquerdo e pico da R em DII ≥50 ms.</p></details>
+<details><summary>8. Por que a diretriz relativiza Brugada e Vereckei?</summary><p>Especificidade de 40% a 80% e acurácia em torno de 75% em estudos independentes, e, como só 25% a 30% das taquicardias de QRS largo são supraventriculares, chamar todas de TV alcança acurácia semelhante.</p></details>
+<details><summary>9. Taquicardia irregular, larga, muito rápida e de morfologia variável em jovem. O que é proibido?</summary><p>É fibrilação atrial pré-excitada. Classe III B: digoxina, β-bloqueadores, diltiazem, verapamil e <b>amiodarona</b>; adenosina também proibida no QRS largo irregular. Cardioversão se instável; ibutilida ou procainamida IV se estável (IIa B).</p></details>
+<details><summary>10. Que marcadores caracterizam uma via acessória de alto risco?</summary><p>SPERRI ≤250 ms, período refratário efetivo anterógrado da via ≤250 ms, múltiplas vias e taquicardia mediada pela via induzível. Nesses casos a ablação é classe I C.</p></details>
+
+<footer>
+<b>Fontes primárias</b>
+<ol>
+<li>Brugada J, Katritsis DG, Arbelo E, et al. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. <i>Eur Heart J</i>. 2020;41(5):655–720. doi:10.1093/eurheartj/ehz467. Fonte de todas as classes e níveis deste texto, salvo indicação em contrário.</li>
+<li>Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death. <i>Eur Heart J</i>. 2022;43(40):3997–4126. doi:10.1093/eurheartj/ehac262. Definições, TV monomórfica sustentada, TV idiopáticas, torsades e tempestade elétrica.</li>
+<li>American Heart Association. 2025 Guidelines for CPR and ECC. Part 9: Adult Advanced Life Support. <i>Circulation</i>. 2025, peri-parada nas taquicardias com pulso.</li>
+<li>Appelboam A, Reuben A, Mann C, et al. Postural modification to the standard Valsalva manoeuvre for emergency treatment of supraventricular tachycardias (REVERT). <i>Lancet</i>. 2015;386:1747–1753.</li>
+<li>Ortiz M, Martín A, Arribas F, et al. Intravenous procainamide vs. amiodarone for tolerated wide QRS tachycardia: PROCAMIO. <i>Eur Heart J</i>. 2017;38:1329–1335.</li>
+</ol>
+<p style="margin-top:10px">Material de estudo. Confira as diretrizes na fonte antes de aplicar doses, energias ou classes ao paciente.</p>
+<a class="vaiQuestoes" href="../../index.html?area=cardio#questoes">Treinar as questões desta área</a>
+<p class="nota-fig"><b>Sobre os eletrocardiogramas.</b> Todos os traçados são de <b>pacientes reais</b>, desenhados a partir dos sinais de bancos públicos do PhysioNet: PTB-XL (CC BY 4.0), PTB Diagnostic ECG Database, MIT-BIH Arrhythmia Database e MIT-BIH Malignant Ventricular Ectopy Database (ODC-BY 1.0). Nenhuma imagem de terceiro foi reproduzida: o que se baixa é o sinal, e o papel milimetrado é desenhado aqui, a 25 mm/s, com o ganho declarado e o registro identificado no rodapé de cada figura. O diagnóstico de cada traçado é o do laudo ou da anotação do banco, feitos por cardiologistas; medições próprias serviram só para descartar registros ilegíveis.</p>
+</footer>
+</div>

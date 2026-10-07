@@ -1,0 +1,1224 @@
+[
+ {
+  "pid": "p0395",
+  "q": "Recém-nascido de 36 semanas de idade gestacional encontra-se em alojamento conjunto de maternidade municipal, em companhia de sua mãe. Médico assistente verificou que o bebê é filho de mãe diabética, possui dois irmãos saudáveis e o parto foi cesariano. O peso ao nascimento foi 2,5 kg. O grupo sanguíneo da mãe é A negativo, e o da criança, A positivo. No exame, o recém-nascido mostrou-se ativo, mamando e corado. Icterícia presente até a zona 2. Exames cardiovascular, respiratório e segmentar normais para a idade. O médico solicitou dosagem de bilirrubina total e o valor encontrado, às 18 horas de vida do recém-nascido, foi de 12 mg/dL. Nesse caso, visando-se evitar a principal complicação advinda da condição descrita, a conduta recomendada pela Sociedade Brasileira de Pediatria é",
+  "alts": [
+   "fototerapia",
+   "observação clínica",
+   "hidratação venosa",
+   "exsanguineotransfusão"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Icterícia nas primeiras 24 horas",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria, Departamento de Neonatologia. Hiperbilirrubinemia indireta no período neonatal (atualização), 2021; American Academy of Pediatrics. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation, 2022",
+  "coment": "Icterícia antes de 24 horas de vida é sempre patológica e sugere hemólise; aqui há possível incompatibilidade Rh (mãe Rh negativo, RN Rh positivo), prematuridade tardia (36 semanas) e mãe diabética, fatores que aumentam o risco de neurotoxicidade. Bilirrubina total de 12 mg/dL com 18 horas está bem acima do limiar de fototerapia para essa idade e esse risco (em torno de 8 a 10 mg/dL com 24 horas no RN de 35 a 37 semanas com fatores de risco), mas abaixo do nível de exsanguineotransfusão. A conduta é fototerapia intensiva imediata para prevenir a encefalopatia bilirrubínica (kernicterus), com investigação de hemólise (Coombs direto, hematócrito, reticulócitos) e nova dosagem em 4 a 6 horas.",
+  "porAlt": [
+   "Correta: a bilirrubina com 18 horas ultrapassa o limiar de fototerapia para a idade e o risco, e a fototerapia intensiva previne o kernicterus.",
+   "Observação clínica é inadequada para icterícia precoce, com provável hemólise e valor acima da curva de fototerapia.",
+   "Hidratação venosa não reduz a bilirrubina de forma relevante em RN que mama bem e não está desidratado.",
+   "Exsanguineotransfusão fica para níveis acima da curva própria ou falha da fototerapia intensiva, o que não ocorre com 12 mg/dL."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0396",
+  "q": "Puérpera de 40 anos de idade, no 1º dia após cesariana, apresentou insuficiência respiratória aguda grave com queda na saturação secundária à covid-19. Foi entubada na unidade de terapia intensiva, por covid-19, e evoluiu para óbito 72 h após a entubação. Como se classifica essa morte materna?",
+  "alts": [
+   "Direta",
+   "Indireta",
+   "Suspeita",
+   "Não obstétrica"
+  ],
+  "gab": 1,
+  "tema": "vigilancia",
+  "sub": "Classificação da morte materna",
+  "cenario": "uti",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância Epidemiológica do Óbito Materno, 2009; Organização Mundial da Saúde. Application of ICD-10 to deaths during pregnancy, childbirth and the puerperium (CID-MM), 2012",
+  "coment": "Morte materna é a que ocorre na gestação ou até 42 dias após seu término, por causa relacionada ou agravada pela gravidez, excluídas causas acidentais ou incidentais. É direta quando decorre de complicação obstétrica (hemorragia, pré-eclâmpsia, infecção puerperal, complicação anestésica) e indireta quando decorre de doença preexistente ou surgida na gestação, sem causa obstétrica, mas agravada pelos efeitos fisiológicos da gravidez. A covid-19 grave na gestante ou puérpera entra nessa segunda categoria: o Ministério da Saúde orientou registrar esses óbitos como morte materna obstétrica indireta, codificada no capítulo O (O98.5) junto ao código da covid-19.",
+  "porAlt": [
+   "Morte direta exige causa obstétrica, como hemorragia, eclâmpsia ou infecção puerperal, e a insuficiência respiratória foi causada pela covid-19.",
+   "Correta: doença não obstétrica agravada pelas alterações fisiológicas do ciclo gravídico-puerperal, até 42 dias após o parto, define morte indireta.",
+   "Suspeita não é categoria de classificação da causa; o óbito tem causa conhecida e cumpre os critérios de morte materna.",
+   "Morte não obstétrica é a acidental ou incidental; covid-19 agravada pelo puerpério não entra nessa categoria."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0397",
+  "q": "Primigesta de 24 anos, vendedora, compareceu a unidade de saúde da família (USF) com os resultados de exames solicitados na primeira consulta de pré-natal, realizada havia quatro semanas, ao final do primeiro trimestre de gestação. Estava com idade gestacional de 16 semanas. Negou queixas e referiu estar em uso regular do ácido fólico e do sulfato ferroso prescritos. Disse estar preocupada com o resultado do exame de toxoplasmose. O médico verificou que a gestante apresentava IgG reagente e IgM não reagente para toxoplasmose. Assinale a opção que indica, respectivamente, o que o exame sugere e a conduta a ser tomada.",
+  "alts": [
+   "Possivelmente um falso-positivo para toxoplasmose; repetir os exames e encaminhar a paciente para acompanhamento no pré-natal de alto risco",
+   "Compatibilidade com toxoplasmose aguda; iniciar o tratamento específico e encaminhar a paciente para acompanhamento no pré-natal de alto risco",
+   "Toxoplasmose pregressa; tranquilizar a paciente de que não há motivos de preocupação e orientá-la a continuar o acompanhamento habitual no pré-natal na USF",
+   "Suscetibilidade à toxoplasmose; orientar a paciente sobre medidas de prevenção e indicar que ela continue o acompanhamento no pré-natal na USF"
+  ],
+  "gab": 2,
+  "tema": "obstetricia",
+  "sub": "Sorologia para toxoplasmose no pré-natal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 32 (pré-natal de baixo risco), 2012, com Manual de Gestação de Alto Risco, 2022",
+  "coment": "IgG reagente com IgM não reagente indica infecção antiga e imunidade. A IgM surge cerca de uma semana após a infecção aguda e permanece por meses, então sua ausência no primeiro trimestre afasta infecção recente. Gestante imune não precisa repetir a sorologia nem receber tratamento, e o pré-natal segue de risco habitual na USF. Medidas de prevenção primária e sorologia repetida a cada trimestre são para a gestante suscetível (IgG e IgM não reagentes); espiramicina e encaminhamento ao alto risco são para infecção aguda ou suspeita (IgM reagente, com teste de avidez da IgG).",
+  "porAlt": [
+   "Não há motivo para suspeitar de falso-positivo da IgG, e o resultado não justifica repetir exames nem encaminhar ao alto risco.",
+   "Infecção aguda exigiria IgM reagente, idealmente com avidez de IgG baixa; com IgM negativa não há indicação de tratamento.",
+   "Correta: IgG reagente e IgM não reagente indicam infecção pregressa e imunidade, e o pré-natal segue habitual na USF.",
+   "Suscetibilidade corresponde a IgG e IgM não reagentes; esta gestante já é imune à toxoplasmose."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0398",
+  "q": "Lactente de 40 dias de vida apresenta quadro de vômitos há cerca de 15 dias. Segundo relato da mãe, os vômitos são em jato, não biliosos e ocorrem sempre após as mamadas. O lactente tem ganhado pouco peso desde o nascimento e mostra-se irritado. Gestação sem intercorrências, exceto por tabagismo materno. No exame físico, a criança encontra-se desidratado 1+/4+ e emagrecido. Aparelho respiratório e ausculta cardíaca sem anormalidades. Abdome evidencia distensão do andar superior, peristalse aumentada e oliva palpável. Considerando a principal hipótese diagnóstica para o caso descrito, assinale a opção que contém o exame de primeira escolha para confirmação diagnóstica, a ser realizado no abdome.",
+  "alts": [
+   "Ultrassonografia",
+   "Ressonância magnética",
+   "Radiografia panorâmica",
+   "Tomografia computadorizada"
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Estenose hipertrófica do piloro",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 21ª ed., 2020",
+  "coment": "Lactente de 3 a 6 semanas com vômitos em jato, não biliosos, após as mamadas, baixo ganho de peso e oliva pilórica palpável tem estenose hipertrófica do piloro; tabagismo materno é fator de risco descrito. A ultrassonografia abdominal é o exame de escolha: confirma o diagnóstico com espessura do músculo pilórico de 3 mm ou mais e comprimento do canal de 15 mm ou mais, sem radiação. A seriografia contrastada fica como alternativa se o ultrassom não estiver disponível ou for inconclusivo. Antes da piloromiotomia, corrige-se a alcalose metabólica hipoclorêmica e hipocalêmica.",
+  "porAlt": [
+   "Correta: a ultrassonografia mede espessura e comprimento do piloro, é sensível, rápida e sem radiação, sendo a primeira escolha.",
+   "Ressonância magnética não tem papel no diagnóstico, exige sedação do lactente e não acrescenta ao ultrassom.",
+   "Radiografia simples pode mostrar estômago distendido, mas não visualiza o músculo pilórico nem confirma o diagnóstico.",
+   "Tomografia expõe o lactente a radiação sem vantagem diagnóstica sobre a ultrassonografia."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0399",
+  "q": "Em atendimento em unidade de saúde da família, você atende pela primeira vez uma mulher, com 32 anos, parda, mãe de dois filhos. Ela se encontra assintomática e realizou exames laboratoriais de hemograma colesterol total e frações, glicemia e perfil hormonal tireoidiano, que resultaram normais. Mostrou, ainda, um ultrassom cervical recente, que evidencia um nódulo sólido, no 1/3 superior do lobo direito da tireoide, com 1 cm, espongiforme, sem calcificações, mais largo que alto e de limites precisos. Seu exame físico confirmou os achados ultrassonográficos. Nesse caso, a conduta mais apropriada é",
+  "alts": [
+   "supressão hormonal",
+   "tratamento cirúrgico",
+   "controle clínico/imaginológico",
+   "punção aspirativa por agulha fina"
+  ],
+  "gab": 2,
+  "tema": "endocrino",
+  "sub": "Nódulo tireoidiano de baixa suspeição",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American College of Radiology. ACR TI-RADS, 2017; American Thyroid Association. Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer, 2015",
+  "coment": "Com TSH normal, o passo seguinte no nódulo tireoidiano é estratificar o risco pelo ultrassom. Padrão espongiforme, mais largo que alto, margens regulares e sem calcificações é de muito baixa suspeição pela ATA e TR1 a TR2 pelo ACR TI-RADS. Para esse padrão, a ATA só considera punção a partir de 2 cm, e o TI-RADS não indica punção para TR1 e TR2. Com 1 cm, a conduta é acompanhamento clínico e ultrassonográfico. A supressão com levotiroxina foi abandonada, e a cirurgia fica para nódulos com citologia suspeita ou maligna, ou compressivos.",
+  "porAlt": [
+   "Supressão com levotiroxina não reduz nódulos de forma relevante e traz riscos cardíacos e ósseos; foi abandonada.",
+   "Cirurgia não se justifica em nódulo pequeno, de aspecto benigno ao ultrassom e assintomático.",
+   "Correta: nódulo de 1 cm com padrão espongiforme e sem sinais suspeitos pede apenas seguimento clínico e ultrassonográfico.",
+   "Para padrão espongiforme a punção só é considerada a partir de 2 cm; com 1 cm não há indicação."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0400",
+  "q": "Primigesta de 17 anos de idade, na 32ª semana de gestação, com quadro de pré-eclâmpsia leve, foi encaminhada do ambulatório de pré-natal de alto risco diretamente para a maternidade. Qual situação clínica determinou acertadamente essa conduta?",
+  "alts": [
+   "Proteinúria de 5 g",
+   "Creatinina sérica de 0,9 mg/dL",
+   "Desidrogenase láctica de 490 UI",
+   "Nível tensional de 150 × 110 mmHg, mantido por 4 horas"
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Pré-eclâmpsia com sinais de gravidade",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; International Society for the Study of Hypertension in Pregnancy (ISSHP). Classification, diagnosis and management recommendations, 2021",
+  "coment": "A pré-eclâmpsia ganha sinais de gravidade, com indicação de internação para estabilização e avaliação materno-fetal, quando há sistólica de 160 mmHg ou mais ou diastólica de 110 mmHg ou mais confirmada, sintomas de iminência de eclâmpsia, creatinina acima de 1,1 mg/dL, plaquetas abaixo de 100.000/mm³, transaminases no dobro do normal, DHL de 600 UI/L ou mais, edema pulmonar ou comprometimento fetal. Diastólica de 110 mmHg mantida por horas é hipertensão grave e exige internação e anti-hipertensivo de ação rápida. O volume da proteinúria deixou de ser critério de gravidade.",
+  "porAlt": [
+   "Proteinúria maciça deixou de ser critério de gravidade e, isolada, não indica internação nem parto.",
+   "Creatinina de 0,9 mg/dL está abaixo do corte de 1,1 mg/dL usado como critério de lesão renal.",
+   "DHL de 490 UI/L não atinge o valor de 600 UI/L usado para caracterizar hemólise na síndrome HELLP.",
+   "Correta: diastólica de 110 mmHg persistente define hipertensão grave e indica internação imediata na maternidade."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0401",
+  "q": "Paciente de 31 anos, sexo masculino, solteiro, queixa-se de aumento do volume do testículo direito, indolor, associado a sensação de \"caroço\" endurecido, há seis meses. Conforme ultrassom de região escrotal trazido pelo paciente, identifica-se lesão aproximadamente 2 cm, com bordas irregulares e de aspecto heterogêneo, com calcificações numerosas. Nesse caso, qual é a principal hipótese diagnóstica?",
+  "alts": [
+   "Torção do cordão espermático",
+   "Hérnia inguinal escrotal",
+   "Tumor de testículo",
+   "Orquiepididimite"
+  ],
+  "gab": 2,
+  "tema": "especialidades",
+  "sub": "Massa testicular indolor",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "European Association of Urology. EAU Guidelines on Testicular Cancer, 2024",
+  "coment": "Massa testicular endurecida e indolor em homem jovem (pico entre 15 e 40 anos) é tumor de testículo até prova em contrário. Ao ultrassom, lesão intratesticular sólida, heterogênea e com calcificações reforça a hipótese de tumor de células germinativas. A conduta é dosar marcadores (alfafetoproteína, beta-hCG e DHL), estadiar e indicar orquiectomia radical por via inguinal, nunca biópsia ou acesso escrotal. Torção e orquiepididimite cursam com dor aguda, e a hérnia escrotal tem conteúdo separado do testículo e costuma ser redutível.",
+  "porAlt": [
+   "Torção do cordão é quadro agudo e muito doloroso, incompatível com aumento indolor há seis meses.",
+   "Hérnia inguinoescrotal não forma lesão sólida intratesticular com calcificações e geralmente é redutível.",
+   "Correta: nódulo testicular endurecido, indolor, sólido e heterogêneo com calcificações em adulto jovem sugere neoplasia germinativa.",
+   "Orquiepididimite cursa com dor, edema e sinais inflamatórios, e não com nódulo indolor de evolução lenta."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0403",
+  "q": "Mulher de 25 anos apresentou edema, rubor e dor na pálpebra superior direita, com resolução espontânea do quadro em 48 horas. No momento, apresenta nodulação de 0,3 cm, indolor, localizada na face interna do terço médio da pálpebra superior direita. Nega febre ou qualquer outro sintoma. Nesse caso, qual é o diagnóstico mais provável?",
+  "alts": [
+   "Calázio",
+   "Hordéolo",
+   "Canaliculite",
+   "Dacriocistite"
+  ],
+  "gab": 0,
+  "tema": "cronicas",
+  "sub": "Calázio palpebral",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Salmon JF. Kanski's Clinical Ophthalmology: A Systematic Approach, 9ª ed., 2020",
+  "coment": "Calázio é lipogranuloma crônico estéril por obstrução de glândula de Meibômio: nódulo palpebral firme, indolor, voltado para a face tarsal (interna), que pode surgir depois de um episódio inflamatório agudo que regride. O hordéolo é a infecção aguda, em geral estafilocócica, dolorosa e com rubor. Aqui a inflamação resolveu em 48 horas e restou nódulo indolor de 0,3 cm na face interna do terço médio da pálpebra, o que define calázio. O tratamento é compressa morna e higiene palpebral; se persistir, injeção de corticoide ou curetagem.",
+  "porAlt": [
+   "Correta: nódulo indolor residual na pálpebra após a regressão da inflamação aguda é o quadro típico de calázio.",
+   "Hordéolo é a fase aguda, dolorosa e com rubor; o quadro atual é nódulo indolor sem inflamação.",
+   "Canaliculite acomete o canalículo lacrimal junto ao ângulo medial, com epífora e secreção pelo ponto lacrimal.",
+   "Dacriocistite é inflamação do saco lacrimal no canto medial, não nódulo no terço médio da pálpebra superior."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0404",
+  "q": "Pré-escolar de três anos de idade, sexo masculino, previamente hígido, foi levado à emergência, apresentando agitação psicomotora, midríase, boca seca e rubor facial. A mãe dele informou que tinha percebido os sintomas havia uma hora, ao chegar do trabalho. O menor fica em casa com a irmã, de 10 anos, durante o período da tarde, até a mãe retornar do trabalho. Conforme o quadro clínico apresentado, trata-se de intoxicação por",
+  "alts": [
+   "dipirona",
+   "salbutamol",
+   "clorpromazina",
+   "dexclorfeniramina"
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Síndrome anticolinérgica na criança",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Nelson LS et al. Goldfrank's Toxicologic Emergencies, 11ª ed., 2019",
+  "coment": "Agitação, midríase, mucosas secas e rubor facial compõem a síndrome anticolinérgica, que também cursa com taquicardia, hipertermia, retenção urinária e redução dos ruídos intestinais. Em criança pequena, a causa doméstica mais comum é a ingestão de anti-histamínico H1 de primeira geração, como a dexclorfeniramina dos xaropes antialérgicos. Salbutamol causa taquicardia, tremor e hipocalemia sem mucosa seca; clorpromazina tem efeito anticolinérgico, mas predominam sedação, hipotensão e sinais extrapiramidais; dipirona não causa toxíndrome autonômica. O tratamento é suporte, benzodiazepínico para agitação e, em casos selecionados, fisostigmina.",
+  "porAlt": [
+   "Dipirona em superdosagem causa sintomas gastrintestinais e, raramente, hipotensão, sem toxíndrome anticolinérgica.",
+   "Salbutamol produz quadro beta-adrenérgico, com tremor, taquicardia e hipocalemia, mas sem boca seca nem rubor.",
+   "Clorpromazina tende a causar sedação, hipotensão e sinais extrapiramidais, e não agitação com midríase e rubor.",
+   "Correta: anti-histamínico H1 de primeira geração é a causa clássica de síndrome anticolinérgica por ingestão acidental em crianças."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0405",
+  "q": "Tercigesta, com ambas as gravidezes anteriores acometidas por pré-eclâmpsia, apresenta restrição de crescimento fetal intrauterino por insuficiência placentária. Encontra-se na 35ª semana de gestação, com dopplervelocimetria da artéria umbilical com diástole zero, mas com duto venoso normal. Qual é a conduta obstétrica indicada para essa paciente?",
+  "alts": [
+   "Cesariana eletiva",
+   "Neuroproteção fetal",
+   "Perfil biofísico fetal a cada 3 dias",
+   "Dopplervelocimetria fetal a cada semana"
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "CIUR com diástole zero",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; ISUOG Practice Guidelines: diagnosis and management of small-for-gestational-age fetus and fetal growth restriction, 2020",
+  "coment": "Na restrição de crescimento por insuficiência placentária, diástole zero na artéria umbilical indica resistência placentária grave. Antes de 32 a 34 semanas, a decisão depende do ducto venoso e da cardiotocografia; a partir de 34 semanas, o risco de manter a gestação supera o da prematuridade tardia e a recomendação é o parto. Com diástole zero ou reversa, a via indicada é a cesariana, porque o feto tolera mal as contrações. Com 35 semanas, não cabem vigilância seriada nem neuroproteção com sulfato de magnésio, que é indicada no parto antes de 32 semanas.",
+  "porAlt": [
+   "Correta: diástole zero na artéria umbilical a partir de 34 semanas indica interrupção da gestação por cesariana.",
+   "Neuroproteção com sulfato de magnésio é indicada no parto iminente antes de 32 semanas, não com 35 semanas.",
+   "Perfil biofísico seriado serve para ganhar tempo em idades gestacionais precoces; com 35 semanas e diástole zero, o parto é indicado.",
+   "Doppler semanal é seguimento da restrição sem alteração grave do fluxo umbilical; diástole zero exige conduta ativa."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0406",
+  "q": "A equipe de uma unidade de saúde da família está organizando atividades educativas com a comunidade sobre métodos contraceptivos e planejamento familiar. Com relação aos direitos reprodutivos e sexuais na Atenção Primária à Saúde (APS), assinale a opção correta.",
+  "alts": [
+   "A avaliação global e o acolhimento com escuta qualificada são função exclusiva dos médicos e enfermeiros na APS",
+   "É função específica da enfermagem a orientação com relação aos métodos contraceptivos de barreira",
+   "O método contraceptivo definitivo somente é aplicado para homem ou mulher com capacidade civil plena e que tenha idade acima de 25 anos e pelo menos dois filhos vivos",
+   "Para prescrição de anticoncepcional oral, não é necessária a realização prévia de colpocitologia oncótica nem exame de mamas"
+  ],
+  "gab": 3,
+  "tema": "reprodutiva",
+  "sub": "Contracepção e direitos reprodutivos na APS",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Lei 14.443/2022 (altera a Lei 9.263/1996, planejamento familiar); Ministério da Saúde. Caderno de Atenção Básica nº 26 (saúde sexual e saúde reprodutiva), 2010; CDC. U.S. Selected Practice Recommendations for Contraceptive Use, 2024",
+  "coment": "Para iniciar anticoncepcional oral combinado bastam anamnese dirigida às contraindicações e aferição da pressão arterial; exame das mamas, exame pélvico e citologia oncótica não são pré-requisitos e não devem atrasar o acesso ao método. Acolhimento e orientação sobre métodos são atribuições de toda a equipe, inclusive dos agentes comunitários. Desde a Lei 14.443/2022, a esterilização voluntária exige capacidade civil plena e idade acima de 21 anos ou pelo menos dois filhos vivos (critérios alternativos, não cumulativos), sem consentimento do cônjuge.",
+  "porAlt": [
+   "Acolhimento e escuta qualificada são atribuições comuns a todos os profissionais da equipe de APS.",
+   "Orientação sobre métodos de barreira cabe a toda a equipe, incluindo médicos e agentes comunitários, não só à enfermagem.",
+   "Idade e número de filhos são critérios alternativos, e a Lei 14.443/2022 reduziu a idade mínima para 21 anos.",
+   "Correta: citologia oncótica e exame das mamas não são necessários antes de prescrever anticoncepcional oral."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0407",
+  "q": "Homem de 75 anos foi levado ao serviço de urgência devido a confusão mental. Os familiares relataram que o homem é diabético (em uso de metformina 500 mg 2 vezes ao dia) e tabagista (1 maço a cada 2 dias). Informaram que ele está no quarto dia de pós-operatório de colecistectomia por via laparoscópica e recebera alta no segundo dia de pós-operatório, evoluindo bem. Contudo, ontem, tinha apresentado episódio de confusão mental, trocando os nomes dos filhos e esquecendo-se de que havia jantado ou não. Hoje, pela manhã, apresentou quadro semelhante de confusão mental, relatando já ter tomado o café da manhã, mesmo sem tê-lo feito. No exame, apresenta-se consciente, com pontuação de 14 na Escala de Coma de Glasgow. Sua temperatura é de 38,6 °C, pulso de 120 batimentos por minuto, 26 incursões respiratórias por minuto, saturação de O2 de 93% com cateter nasal de oxigênio. Na ausculta pulmonar, apresentou crepitações em base direita. Sua pressão arterial é de 96 × 60 mmHg. Sem alterações na ausculta cardíaca. Abdome normotenso, indolor, sem visceromegalias, com ferida cirúrgica em bom estado, sem secreção purulenta. No caso apresentado, a conduta a ser adotada é",
+  "alts": [
+   "manter o paciente em regime ambulatorial e prescrever antibiótico via oral",
+   "internar o paciente para realização de exames laboratoriais, e iniciar antimicrobianos via intravenosa",
+   "solicitar tomografia computadorizada de abdome com contraste e prescrever antitérmico e sintomáticos",
+   "solicitar tomografia computadorizada do encéfalo e prescrever haloperidol"
+  ],
+  "gab": 1,
+  "tema": "infecto",
+  "sub": "Pneumonia com sepse no pós-operatório",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Surviving Sepsis Campaign, 2026; IDSA/ATS. Management of Adults With Hospital-acquired and Ventilator-associated Pneumonia, 2016",
+  "coment": "Idoso no pós-operatório recente com febre, taquicardia, taquipneia, hipoxemia com oxigênio, crepitações em base direita, pressão limítrofe e confusão aguda tem pneumonia com disfunção orgânica, isto é, sepse (qSOFA de 3 pontos: frequência respiratória de 22 ou mais, alteração mental e sistólica de 100 mmHg ou menos). O delirium é manifestação da infecção, não doença neurológica primária. A conduta é internar, colher lactato, hemoculturas e exames, iniciar antimicrobiano intravenoso de amplo espectro na primeira hora, considerando a internação recente, e repor volume. Abdome e ferida sem alterações afastam foco cirúrgico.",
+  "porAlt": [
+   "Paciente com hipoxemia, hipotensão e confusão tem sepse e não pode ser tratado em regime ambulatorial com antibiótico oral.",
+   "Correta: sinais de sepse com foco pulmonar exigem internação, exames, culturas e antimicrobiano intravenoso precoce.",
+   "Abdome indolor e ferida limpa não sugerem foco abdominal, e tratar só os sintomas atrasa o antibiótico na sepse.",
+   "A confusão é delirium secundário à infecção; tomografia de crânio e haloperidol não tratam a causa e atrasam o antibiótico."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0408",
+  "q": "Mulher de 47 anos procurou atendimento por quadro de dor e abaulamento irredutível em região inguinal direita havia 2 dias, associado a vômitos, distensão abdominal e parada de eliminação de gases. No exame físico, o abdome encontrava-se distendido, com cicatriz cirúrgica subcostal à direita, abaulamento abaixo do ligamento inguinal à direita, irredutível, sem sinais flogísticos, ruídos hidroaéreos diminuídos, hipertimpânico, dor à palpação superficial e profunda generalizada, descompressão brusca negativa, toque retal com presença de fezes em ampola. No caso apresentado, o diagnóstico mais provável é abdome agudo obstrutivo por hérnia",
+  "alts": [
+   "femoral encarcerada",
+   "incisional encarcerada",
+   "inguinal direta encarcerada",
+   "inguinal indireta encarcerada"
+  ],
+  "gab": 0,
+  "tema": "hernias",
+  "sub": "Hérnia femoral encarcerada",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "HerniaSurge Group. International guidelines for groin hernia management, 2018",
+  "coment": "O ligamento inguinal separa as hérnias da virilha: as inguinais (direta e indireta) surgem acima dele, e a femoral surge abaixo, pelo canal femoral, medial à veia femoral. Mulher com abaulamento irredutível abaixo do ligamento inguinal e quadro obstrutivo tem hérnia femoral encarcerada. A femoral é mais comum em mulheres e tem o maior risco de encarceramento e estrangulamento entre as hérnias da virilha, por isso é operada mesmo quando assintomática e, se encarcerada, em caráter de urgência. A cicatriz subcostal é de cirurgia biliar e não explica abaulamento na virilha.",
+  "porAlt": [
+   "Correta: abaulamento irredutível abaixo do ligamento inguinal em mulher, com obstrução intestinal, indica hérnia femoral encarcerada.",
+   "A cicatriz é subcostal, distante da virilha; hérnia incisional surgiria no trajeto da incisão.",
+   "Hérnia inguinal direta surge acima do ligamento inguinal, no triângulo de Hesselbach, e raramente encarcera.",
+   "Hérnia inguinal indireta também se exterioriza acima do ligamento inguinal, pelo anel inguinal interno."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0409",
+  "q": "Pré-escolar de 3 anos e 4 meses de idade deu entrada no pronto-socorro apresentando rigidez e espasmos musculares e hipertermia. Não apresentava dificuldade respiratória. Ausculta cardíaca sem anormalidades. Sem história de doença cardíaca. O paciente estava recebendo oxigenoterapia quando um primo dele, de quatro anos, deu entrada no mesmo hospital, com quadro semelhante. Ambos haviam passado as últimas 12 horas na casa da avó materna, que há anos faz tratamento de esquizofrenia e hipertensão arterial. As evidências clínicas dessa história induzem à necessidade de o médico investigar",
+  "alts": [
+   "cardiopatia congênita cianótica",
+   "intoxicação exógena por captopril",
+   "intoxicação exógena de haloperidol",
+   "ingestão exógena por benzodiazepínico"
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Intoxicação por haloperidol",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Nelson LS et al. Goldfrank's Toxicologic Emergencies, 11ª ed., 2019",
+  "coment": "Duas crianças com quadro semelhante depois de passarem horas na casa de uma avó em tratamento de esquizofrenia apontam exposição comum a antipsicótico. O haloperidol, de alta potência, causa reações extrapiramidais (distonia aguda com rigidez e espasmos musculares) e, nos casos graves, quadro semelhante à síndrome neuroléptica maligna, com rigidez e hipertermia. A conduta é suporte, resfriamento, monitorização cardíaca pelo risco de QT longo e, para a distonia, difenidramina ou biperideno. Captopril causa hipotensão, benzodiazepínico causa sedação com hipotonia, e não há sinal de cardiopatia.",
+  "porAlt": [
+   "Cardiopatia congênita cianótica não explica rigidez, espasmos e hipertermia em duas crianças expostas ao mesmo ambiente.",
+   "Intoxicação por captopril causa hipotensão e, raramente, hipercalemia, sem rigidez muscular.",
+   "Correta: rigidez, espasmos e hipertermia após acesso a antipsicótico indicam intoxicação por haloperidol.",
+   "Benzodiazepínico causa sonolência, ataxia e hipotonia, o oposto da rigidez muscular descrita."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0410",
+  "q": "Paciente de 30 anos, com 25 semanas de gestação, portadora de diabetes mellitus tipo 1, compareceu a consulta no pré-natal de alto risco, com queixa de corrimento vaginal com prurido e ardência. Relatou também dispareunia de introito vaginal e disúria. No exame, confirmou-se a presença de eritema e fissuras vulvares, corrimento grumoso, com placas aderidas à parede vaginal, de cor branca, edema vulvar e escoriações. Desde o início da gestação, a paciente já tinha tratado 4 vezes os mesmos sintomas. Qual é o tratamento a ser proposto para a paciente?",
+  "alts": [
+   "Indução com fluconazol 150 mg, via oral, 1 vez ao dia, dias 1, 4 e 7. Manutenção com fluconazol 150 mg, via oral, 1 vez por semana, por 6 meses",
+   "Indução com itraconazol 100 mg, 2 comprimidos, via oral, 2 vezes ao dia, por 1 dia. Manutenção com miconazol óvulo vaginal, 1 vez por semana, durante 3 meses",
+   "Indução com miconazol creme vaginal tópico diário por 10 a 14 dias. Manutenção com miconazol creme vaginal tópico, 2 vezes por semana, durante 6 meses",
+   "Indução com miconazol creme vaginal tópico diário por 7 dias. Manutenção com miconazol óvulo vaginal, 1 vez por semana, durante 3 meses"
+  ],
+  "gab": 2,
+  "tema": "gininfec",
+  "sub": "Candidíase recorrente na gestação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis (PCDT IST), 2022",
+  "coment": "Quatro ou mais episódios sintomáticos em um ano definem candidíase vulvovaginal recorrente, favorecida aqui pela gestação e pelo diabetes. O PCDT IST indica indução de 10 a 14 dias seguida de manutenção por 6 meses. Na gestação, os azóis orais (fluconazol, itraconazol) devem ser evitados pela associação com efeitos fetais, e usa-se apenas a via vaginal. O esquema adequado é miconazol creme vaginal diário por 10 a 14 dias e, depois, manutenção tópica duas vezes por semana por 6 meses, junto com a otimização do controle glicêmico.",
+  "porAlt": [
+   "Fluconazol oral é o esquema de indução e manutenção fora da gestação, mas deve ser evitado na gestante.",
+   "Itraconazol oral é contraindicado na gestação, e manutenção por 3 meses é mais curta que os 6 meses recomendados.",
+   "Correta: na gestante com candidíase recorrente, indução vaginal de 10 a 14 dias e manutenção tópica por 6 meses seguem o PCDT IST.",
+   "Indução de 7 dias é a do episódio isolado, e manutenção por 3 meses é curta para doença recorrente."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0411",
+  "q": "Paciente de 30 anos, sexo feminino, foi submetida a punção de veia jugular interna direita para início de nutrição parenteral hospitalar, em primeira tentativa. Foi acoplado o equipo com frasco de SF 0,9% 500 ml. O teste do retorno sanguíneo foi positivo. Percebeu-se, então, fluxo ascendente da coluna de sangue dentro do equipo. Nessa situação, qual deve ser a conduta subsequente?",
+  "alts": [
+   "Solicitação de ultrassonografia diagnóstica",
+   "Retirada da punção profunda e compressão",
+   "Instalação de infusão lenta de SG 5% 500 ml",
+   "Solicitação de radiografia de tórax de controle"
+  ],
+  "gab": 1,
+  "tema": "periop",
+  "sub": "Punção arterial inadvertida em acesso central",
+  "cenario": "enf",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American Society of Anesthesiologists. Practice Guidelines for Central Venous Access 2020",
+  "coment": "Na punção da jugular interna, sangue que sobe pelo equipo contra a coluna de soro indica pressão arterial no sistema: a punção atingiu a carótida. A pressão venosa central é baixa e não empurra sangue para cima do equipo. Quando a artéria é puncionada só com agulha ou cateter de pequeno calibre, a conduta é retirar e comprimir o local por alguns minutos, e depois tentar em outro ponto, de preferência guiado por ultrassom. Se já houver dilatador ou cateter calibroso na artéria, a ASA recomenda mantê-lo e acionar cirurgião vascular ou intervencionista. Infundir solução ou pedir radiografia antes de retirar só aumenta o risco.",
+  "porAlt": [
+   "O fluxo ascendente no equipo já diagnostica a punção arterial; ultrassom diagnóstico só atrasa a retirada.",
+   "Correta: fluxo ascendente no equipo indica punção da carótida, e a punção deve ser retirada com compressão local.",
+   "Infundir soro glicosado por punção situada na artéria é inadequado e arrisca embolia e lesão arterial.",
+   "Radiografia de controle confirma a posição de cateter venoso bem-sucedido, não conduz punção arterial já evidente."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0412",
+  "q": "Pré-escolar de três anos de idade foi admitido na emergência, com quadro de edema e oligúria havia cinco dias. Exame físico: pressão arterial de 80 × 60 mmHg; edema palpebral e de membros inferiores. Exame de urina: densidade urinária = 1.015; hemácias = 3/campo; proteinúria = 3+/4+; piócitos = 4/campo. Considerando-se a principal hipótese diagnóstica, o tratamento medicamentoso indicado é",
+  "alts": [
+   "diurético",
+   "corticoide",
+   "antibiótico",
+   "anti-inflamatório não hormonal"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Síndrome nefrótica na infância",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases, 2021",
+  "coment": "Pré-escolar com edema, oligúria, proteinúria de 3+ a 4+, hematúria mínima e pressão normal tem síndrome nefrótica idiopática, cuja causa mais comum nessa idade é a doença de lesões mínimas, muito responsiva a corticoide. O tratamento inicial é prednisona ou prednisolona 60 mg/m²/dia (ou 2 mg/kg/dia, máximo de 60 mg) por 4 a 6 semanas, seguida de dias alternados, sem biópsia prévia. Diurético pode aliviar edema sintomático, com cautela pela hipovolemia, mas não trata a doença. Antibiótico e anti-inflamatório não hormonal não têm papel, e o AINE pode piorar a função renal.",
+  "porAlt": [
+   "Diurético alivia edema em casos selecionados, mas não trata a causa e pode agravar a hipovolemia da síndrome nefrótica.",
+   "Correta: síndrome nefrótica idiopática na criança, provavelmente por lesões mínimas, é tratada com corticoide oral.",
+   "Não há sinais de infecção nem de glomerulonefrite pós-infecciosa; antibiótico não trata síndrome nefrótica.",
+   "Anti-inflamatório não hormonal não reduz a proteinúria e pode precipitar lesão renal aguda."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0413",
+  "q": "Criança de 5 anos foi levada por familiar para consulta na unidade básica de saúde, com quadro de febre não aferida havia 3 dias, odinofagia e recusa alimentar. No exame físico, observou-se presença de lesões vesiculares na mucosa bucal e na língua, além de erupções papulovesiculares localizadas em regiões palmares e plantares bilateralmente. Considerando-se como principal hipótese diagnóstica a síndrome mão-pé-boca, qual é a conduta correta?",
+  "alts": [
+   "Orientar isolamento e afastar a criança da creche por sete dias ou até o desaparecimento das lesões cutâneas",
+   "Notificar imediatamente o caso ao serviço de vigilância epidemiológica e agendar visita à creche para busca ativa de casos",
+   "Recomendar isolamento domiciliar por sete dias e instituir tratamento ambulatorial com antiviral plenaril",
+   "Encaminhar a criança para internação hospitalar, para hidratação, se necessária, tratamento sintomático e aplicação de imunoglobulina endovenosa"
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Doença mão-pé-boca",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 21ª ed., 2020; Ministério da Saúde. Portaria de Consolidação GM/MS nº 4/2017 (lista nacional de notificação compulsória, com atualizações)",
+  "coment": "A doença mão-pé-boca, causada por enterovírus (sobretudo Coxsackie A16 e enterovírus 71), é autolimitada e resolve em 7 a 10 dias. O tratamento é sintomático: antitérmico, analgesia, hidratação e alimentos frios e pastosos. A transmissão é por contato com secreções e fezes, por isso a criança fica afastada da creche na fase aguda, em geral cerca de sete dias ou até as lesões secarem, com reforço da higiene das mãos e superfícies. Não há antiviral nem indicação de imunoglobulina, e caso isolado não é de notificação compulsória individual; apenas surtos são comunicados à vigilância.",
+  "porAlt": [
+   "Correta: doença autolimitada transmitida por contato, com afastamento da creche na fase aguda e tratamento sintomático.",
+   "Caso isolado de mão-pé-boca não é de notificação compulsória imediata; somente surtos são comunicados à vigilância.",
+   "Não existe antiviral indicado para a doença mão-pé-boca; o tratamento é apenas sintomático.",
+   "Internação e imunoglobulina não se aplicam a criança estável; internação fica para desidratação ou complicação neurológica."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2022,
+   "prova": "Revalida 2022.2",
+   "ex": "rev2022_2"
+  }
+ },
+ {
+  "pid": "p0040",
+  "q": "Uma lactente com 6 meses, nascida a termo, sem doenças prévias, encontra-se em consulta médica de puericultura. A mãe refere uso de leite de cabra in natura exclusivo na alimentação da criança desde o nascimento. Ao exame físico, a criança apresenta palidez cutâneo-mucosa importante e língua lisa. Foi solicitado hemograma, que apresentou anemia macrocítica, neutropenia com hipersegmentação de neutrófilos e plaquetopenia. Ampliada a investigação, o mielograma apresentou-se normal. Considerando-se a hipótese diagnóstica mais provável, além de adequação dietética, o tratamento medicamentoso indicado para reverter essa situação é a administração de",
+  "alts": [
+   "vitamina E e iodo.",
+   "vitamina B12 e folato.",
+   "zinco e ácido ascórbico.",
+   "sais de ferro e vitamina A."
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Anemia megaloblástica por leite de cabra",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria, Departamento de Nutrologia. Manual de Alimentação: da infância à adolescência, 4ª ed., 2018",
+  "coment": "Leite de cabra in natura é pobre em folato e vitamina B12 e não substitui o leite materno nem a fórmula infantil. O lactente alimentado só com ele desenvolve anemia megaloblástica: macrocitose, neutrófilos hipersegmentados, glossite (língua lisa) e, com frequência, neutropenia e plaquetopenia. O tratamento é corrigir a dieta (leite materno ou fórmula infantil adequada, com alimentação complementar a partir dos 6 meses) e repor folato e vitamina B12. Repor só folato quando também falta B12 pode corrigir o hemograma e deixar progredir o dano neurológico.",
+  "porAlt": [
+   "Vitamina E e iodo não corrigem anemia macrocítica com hipersegmentação de neutrófilos.",
+   "Correta: o leite de cabra é deficiente em folato e B12, e a anemia megaloblástica responde à reposição de ambos.",
+   "Zinco e vitamina C não tratam anemia megaloblástica; a vitamina C apenas favorece a absorção de ferro.",
+   "Ferro trata anemia microcítica, e a vitamina A não corrige macrocitose nem hipersegmentação."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 3
+  }
+ },
+ {
+  "pid": "p0041",
+  "q": "Uma paciente com 21 anos, nuligesta, comparece à consulta em um centro de saúde com queixa de amenorreia há 6 meses, acne com pústulas, aumento de pelos, principalmente na face e nos membros inferiores. Relata dificuldade em perder peso e ciclos menstruais irregulares e longos desde a menarca. Afirma ser sexualmente ativa. É realizado, durante o atendimento, teste rápido para gravidez, com resultado negativo. Ao exame físico, apresenta índice de massa corpórea de 30 kg/m², pressão arterial de 120 × 70 mmHg. Considerando-se o quadro clínico da paciente, qual é a conduta inicial mais adequada no momento desse atendimento?",
+  "alts": [
+   "Dosar TSH, T4 livre, prolactina e 17 hidroxiprogesterona, para descartar patologias sistêmicas.",
+   "Dosar cortisol livre, dehidroepiandrosterona e perfil metabólico, para confirmar perfil androgênico.",
+   "Prescrever etinilestradiol 10 mg 1 vez ao dia, por 10 dias, para descartar causas uterinas de amenorreia.",
+   "Iniciar espironolactona 50 mg 2 vezes ao dia e solicitar ultrassonografia, para confirmar diagnóstico de síndrome dos ovários policísticos."
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Investigação de hiperandrogenismo e amenorreia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "International evidence-based guideline for the assessment and management of polycystic ovary syndrome, 2023",
+  "coment": "Oligomenorreia desde a menarca, amenorreia, acne, hirsutismo e obesidade sugerem síndrome dos ovários policísticos, que é diagnóstico de exclusão. Afastada a gravidez, a avaliação inicial dosa TSH (disfunção tireoidiana), prolactina (hiperprolactinemia) e 17-hidroxiprogesterona (hiperplasia adrenal congênita não clássica), além de testosterona para documentar hiperandrogenismo bioquímico. Na adulta com ciclos irregulares e hiperandrogenismo clínico, o ultrassom nem é obrigatório pelos critérios de Rotterdam. Cortisol e DHEA-S entram se houver sinais de Cushing ou virilização rápida.",
+  "porAlt": [
+   "Correta: antes de firmar SOP, excluem-se disfunção tireoidiana, hiperprolactinemia e hiperplasia adrenal não clássica.",
+   "Cortisol e DHEA só são pedidos com suspeita clínica de Cushing ou tumor virilizante, não como rotina inicial.",
+   "O teste com estrogênio só entra após teste do progestagênio negativo e não se aplica a quadro de hiperandrogenismo com ciclos longos.",
+   "Iniciar tratamento antes de excluir os diagnósticos diferenciais é inadequado, e a espironolactona exige contracepção eficaz."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 4
+  }
+ },
+ {
+  "pid": "p0042",
+  "q": "Um recém-nascido a termo recebeu alta com orientações gerais, mas retornou para avaliação após 72 horas. A mãe relata que, embora ele estivesse bem, estava preocupada, pois achava que o “amarelão” estava ficando cada vez mais acentuado. Na avaliação médica, observou-se icterícia (3+/4+), Zona 4 de Kramer. A criança foi internada e foram solicitados exames laboratoriais. A bilirrubina total era de 25,6 mg/dL às custas da fração de bilirrubina indireta. Não havia histórico de incompatibilidade ABO ou Rh. Considerando o caso clínico, assinale a opção que apresenta, corretamente, a causa de hiperbilirrubinemia indireta neonatal associada à sua fisiopatologia, a avaliação complementar de diagnóstico e a conduta imediata, respectivamente.",
+  "alts": [
+   "Alfatalassemia (doença hemolítica); teste do pezinho; fototerapia.",
+   "Hipotireoidismo (policitemia); dosagem de hormônio tireoidiano; exsanguíneo transfusão.",
+   "Síndrome de Crigler Najjar (doença hemolítica); teste do pezinho; exsanguíneo transfusão.",
+   "Estenose hipertrófica de piloro (coleção sanguínea extravascular); ultrassonografia abdominal; fototerapia."
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Hiperbilirrubinemia indireta grave no termo",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria, Departamento de Neonatologia. Hiperbilirrubinemia indireta no período neonatal (atualização), 2021; American Academy of Pediatrics. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation, 2022",
+  "coment": "RN a termo com bilirrubina indireta de 25,6 mg/dL com 72 horas tem hiperbilirrubinemia grave, perto ou acima do limiar de exsanguineotransfusão; a primeira medida é fototerapia intensiva imediata, preparando a exsanguineotransfusão se não houver queda rápida ou surgirem sinais de encefalopatia. Sem incompatibilidade ABO ou Rh, pensa-se em hemólise por defeito da hemácia (deficiência de G6PD, esferocitose, hemoglobinopatias). A alfatalassemia é doença hemolítica, e a triagem neonatal detecta a hemoglobina de Bart's. As demais combinam mecanismo errado: Crigler-Najjar é defeito de conjugação, hipotireoidismo reduz a conjugação e a estenose do piloro aumenta a circulação êntero-hepática.",
+  "porAlt": [
+   "Correta: a alfatalassemia causa hemólise, é detectada na triagem neonatal pela hemoglobina de Bart's, e a fototerapia intensiva é a medida imediata.",
+   "Hipotireoidismo causa icterícia prolongada por menor conjugação hepática, não por policitemia.",
+   "Crigler-Najjar é deficiência de glicuroniltransferase, não doença hemolítica, e não é detectada pelo teste do pezinho.",
+   "Estenose do piloro surge após a terceira semana e eleva a bilirrubina pela circulação êntero-hepática, não por coleção sanguínea."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 8
+  }
+ },
+ {
+  "pid": "p0043",
+  "q": "A vulvovaginite constitui uma das doenças mais comuns que motivam as mulheres a procurar o/a ginecologista. Nesse contexto, considerando a importância do diagnóstico etiológico, assinale a opção correta.",
+  "alts": [
+   "Na infecção por clamídea, o corrimento apresenta-se em moderada quantidade com intensa reação inflamatória nas paredes vaginais.",
+   "Na tricomoníase, o corrimento é escasso, e o diagnóstico é realizado com base no resultado da bacterioscopia e da cultura de meio vaginal.",
+   "Na candidíase vaginal, o corrimento no exame direto apresenta aspecto branco, habitualmente espesso ou grumoso, aderido ao colo e às paredes vaginais.",
+   "Na vaginite citolítica, o pH da vagina é maior que 4,5, o corrimento tem aspecto homogêneo, e a bacterioscopia mostra a presença de germes Gram negativos."
+  ],
+  "gab": 2,
+  "tema": "gininfec",
+  "sub": "Diagnóstico diferencial das vulvovaginites",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis (PCDT IST), 2022",
+  "coment": "Na candidíase vulvovaginal o corrimento é branco, espesso e grumoso (aspecto de leite coalhado), aderido às paredes vaginais e ao colo, com prurido, ardor, edema e eritema vulvar; o pH vaginal fica abaixo de 4,5 e o exame a fresco com KOH mostra hifas e pseudo-hifas. A tricomoníase dá corrimento abundante, amarelo-esverdeado e bolhoso, com colpite em framboesa e pH acima de 4,5. A clamídia causa cervicite, muitas vezes assintomática, e não vaginite intensa. Na vaginose citolítica há excesso de lactobacilos, pH ácido e lise das células epiteliais.",
+  "porAlt": [
+   "Clamídia infecta o colo (cervicite mucopurulenta), frequentemente assintomática, sem inflamação intensa das paredes vaginais.",
+   "O corrimento da tricomoníase costuma ser abundante, amarelo-esverdeado e bolhoso, com diagnóstico usual pelo exame a fresco.",
+   "Correta: corrimento branco, espesso, grumoso e aderido às paredes e ao colo é o achado típico da candidíase.",
+   "Na vaginose citolítica o pH é ácido, abaixo de 4,5, com excesso de lactobacilos Gram positivos e citólise."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 9
+  }
+ },
+ {
+  "pid": "p0044",
+  "q": "Uma mulher com 26 anos, foi atendida pela equipe de triagem de uma unidade de saúde da família localizada na área rural de um município de pequeno porte. Em razão de queixa de atraso de alguns dias da menstruação, a paciente realizou um teste rápido de gravidez, que se revelou positivo. O médico que a atende, após anamnese completa e exame clínico, classifica-a como gestante de baixo risco e solicita testes rápidos para hepatite B, sífilis (teste treponêmico) e HIV. Os resultados de todos os exames, exceto o de sífilis, são negativos. A paciente relata que não tem alergia a medicamentos, que nunca teve sífilis nem realizou tratamento medicamentoso para essa doença. O médico solicita que ela compareça com seu parceiro à próxima consulta, para que ele também realize os testes rápidos e decide, então, iniciar, para a paciente, o tratamento para sífilis tardia. Após solicitar todos os exames laboratoriais para o pré-natal de baixo risco e o exame VDRL confirmar a doença, o médico prescreve que seja administrado à paciente, na unidade de saúde, benzilpenicilina benzatina de 1.200.000 UI (intramuscular), em",
+  "alts": [
+   "1 dose por semana, durante 3 semanas; o VDRL deverá ser monitorado mensalmente; o indicador de cura é que o VDRL reduza pelo menos 1 diluição em relação ao VDRL constatado no momento do diagnóstico.",
+   "2 doses por semana, durante 3 semanas; o VDRL deverá ser monitorado mensalmente; o indicador de cura é que o VDRL reduza pelo menos 2 diluições em relação ao VDRL constatado no momento do diagnóstico.",
+   "2 doses por semana, durante 2 semanas; o VDRL deverá ser monitorado no 3°, no 9° e no 12° mês após o diagnóstico; o indicador de cura é que o VDRL reduza pelo menos 1 diluição em relação ao VDRL verificado no momento do diagnóstico.",
+   "1 dose por semana, durante 2 semanas; o VDRL deverá ser monitorado no 3°, no 9° e no 12° mês após o diagnóstico; o indicador de cura é que o VDRL reduza pelo menos 2 diluições em relação ao VDRL verificado no momento do diagnóstico."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Sífilis latente tardia na gestação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis (PCDT IST), 2022",
+  "coment": "Gestante com teste treponêmico reagente, sem tratamento prévio e sem como datar a infecção, é tratada como sífilis latente tardia, iniciando a primeira dose logo após o teste rápido, sem esperar o não treponêmico. O esquema é benzilpenicilina benzatina 2,4 milhões UI por semana (duas ampolas de 1,2 milhão, uma em cada glúteo) por 3 semanas, total de 7,2 milhões UI. Na gestação, o VDRL é repetido mensalmente até o parto. Resposta adequada é queda de duas diluições (quatro vezes) em até 3 meses ou de quatro diluições em até 6 meses. A parceria sexual deve ser testada e tratada.",
+  "porAlt": [
+   "Uma ampola de 1,2 milhão UI por semana é metade da dose semanal, e queda de uma diluição não define resposta adequada.",
+   "Correta: 2,4 milhões UI semanais por 3 semanas, VDRL mensal na gestação e queda de ao menos duas diluições como critério de resposta.",
+   "Duas semanas totalizam 4,8 milhões UI, insuficiente para sífilis tardia, e na gestante o VDRL é mensal.",
+   "A dose semanal correta é de 2,4 milhões UI por 3 semanas, e o seguimento na gestante é mensal."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 10
+  }
+ },
+ {
+  "pid": "p0046",
+  "q": "Um recém-nascido de 2 dias de vida, a termo, sem pré-natal adequado e que está em alojamento conjunto, vem apresentando icterícia e hepatomegalia. Na investigação, foi realizado o diagnóstico de toxoplasmose congênita. Como uma complicação dessa doença, a criança poderá apresentar",
+  "alts": [
+   "hipoglicemia.",
+   "coriorretinite.",
+   "pneumonia alba.",
+   "hipogamaglobulinemia."
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Toxoplasmose congênita",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, volume 2, 2ª ed., 2014",
+  "coment": "A coriorretinite é a manifestação mais frequente da toxoplasmose congênita e pode aparecer ao nascimento ou anos depois, inclusive em crianças assintomáticas ao nascer, o que exige fundoscopia em todo RN infectado e seguimento oftalmológico prolongado. A tríade clássica de Sabin reúne coriorretinite, hidrocefalia e calcificações intracranianas difusas. Outros achados são hepatoesplenomegalia, icterícia, anemia, plaquetopenia, microcefalia e convulsões. O tratamento no primeiro ano usa sulfadiazina, pirimetamina e ácido folínico.",
+  "porAlt": [
+   "Hipoglicemia não é complicação característica da toxoplasmose congênita; associa-se a filho de mãe diabética, prematuridade e sepse.",
+   "Correta: a coriorretinite é a lesão mais comum da toxoplasmose congênita e pode surgir tardiamente.",
+   "Pneumonia alba é manifestação da sífilis congênita, não da toxoplasmose.",
+   "Hipogamaglobulinemia não faz parte do quadro; na infecção congênita há produção fetal de IgM e IgA."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 18
+  }
+ },
+ {
+  "pid": "p0047",
+  "q": "Uma paciente com 45 anos, casada, G2P2, 2 partos normais, comparece ao ambulatório de ginecologia para avaliação de resultado de ultrassonografia transvaginal que evidenciou útero em anteversoflexão, contornos regulares, miométrio heterogêneo, com pequenos miomas intramurais e subserosos, estando o maior localizado na parede posterior/fúndica, intramural, medindo 2,0 × 1,9 cm; volume uterino de 198,6 cm³ (valor do percentil 95 para a faixa etária e paridade - 136 cm³); ovários de topografia, dimensões e ecotextura usuais; endométrio centrado, regular, medindo 6,8 mm de espessura (normal para faixa etária e paridade). A paciente relata ciclos menstruais regulares de 28 dias, fluxo moderado com duração de 5 dias, nega dismenorreia ou dispareunia. Afirma que é sexualmente ativa e que o marido é vasectomizado. Para essa paciente, a conduta mais adequada é",
+  "alts": [
+   "manter acompanhamento clínico e ultrassonográfico, para monitorar queixas, volume e crescimento dos miomas.",
+   "proceder à miomectomia por via laparoscópica, dada a presença de miomas subserosos e intramurais concomitantes.",
+   "realizar histerectomia com salpingectomia bilateral, dado o tamanho do útero, o histórico de gestações e a idade da paciente.",
+   "indicar uso de antifibrinolítico no período da menstruação, para prevenir sangramentos abundantes devido aos miomas intramurais."
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Miomatose uterina assintomática",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "ACOG Practice Bulletin No. 228: Management of Symptomatic Uterine Leiomyomas, 2021",
+  "coment": "Miomas pequenos e assintomáticos são achado comum após os 40 anos e não exigem tratamento: a conduta é expectante, com acompanhamento clínico e ultrassonográfico. A indicação de tratamento clínico ou cirúrgico depende de sintomas (sangramento uterino aumentado, dor, compressão, infertilidade), e não do achado de imagem. Aqui os ciclos são regulares, o fluxo é moderado, não há dor, o maior nódulo tem 2 cm e o endométrio é normal. Miomectomia e histerectomia trariam risco cirúrgico sem benefício, e antifibrinolítico só se usa com sangramento aumentado. Com a menopausa, os miomas tendem a regredir.",
+  "porAlt": [
+   "Correta: miomas pequenos em mulher assintomática pedem apenas seguimento clínico e ultrassonográfico.",
+   "Miomectomia é reservada a miomas sintomáticos ou que comprometem a fertilidade, o que não é o caso.",
+   "Histerectomia em mulher assintomática com miomas pequenos é intervenção desproporcional e sem indicação.",
+   "Ácido tranexâmico trata sangramento menstrual aumentado; a paciente tem fluxo normal e nada a prevenir."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 19
+  }
+ },
+ {
+  "pid": "p0049",
+  "q": "Uma adolescente com 16 anos procura a unidade básica de saúde para avaliação de uma mancha na pele. Relata que, há cerca de 1 mês, desenvolveu uma lesão caracterizada como uma placa eritematosa, liquenificada e pruriginosa, localizada acima da região umbilical, próxima ao local onde colocou um piercing. Ao ser examinada, a lesão foi confirmada e constatou-se também que o desenvolvimento puberal era M1P1, conforme os critérios de Tanner. A adolescente também apresentava baixa estatura, pescoço alado e implantação baixa de orelhas. Ao ser questionada sobre o fluxo menstrual, ela informou que ainda não tinha menstruado. Considerando-se o quadro clínico e o exame físico descritos, os diagnósticos mais prováveis são",
+  "alts": [
+   "tinea corporis; síndrome de Kabuki.",
+   "dermatite atópica; síndrome de Noonan.",
+   "dermatite de contato; síndrome de Turner.",
+   "dermatite seborreica; síndrome de Carpenter."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Síndrome de Turner e dermatite de contato",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Gravholt CH et al. Clinical practice guidelines for the care of girls and women with Turner syndrome, 2024",
+  "coment": "Placa eritematosa, pruriginosa e liquenificada exatamente no local do piercing aponta dermatite de contato alérgica, em geral ao níquel. Adolescente de 16 anos com baixa estatura, pescoço alado, implantação baixa das orelhas, ausência de desenvolvimento mamário (M1) e amenorreia primária tem síndrome de Turner (45,X ou mosaicismos), com disgenesia gonadal e hipogonadismo hipergonadotrófico. Confirma-se pelo cariótipo e investigam-se cardiopatia (valva aórtica bicúspide, coarctação), malformação renal, hipotireoidismo e perda auditiva. A síndrome de Noonan tem fenótipo parecido, mas cariótipo normal e puberdade geralmente presente.",
+  "porAlt": [
+   "Tinea corporis forma placa anular de borda ativa, e a síndrome de Kabuki tem fácies própria, sem o quadro de disgenesia gonadal.",
+   "Dermatite atópica acomete dobras e não se restringe ao local do piercing, e Noonan não costuma causar ausência de puberdade.",
+   "Correta: dermatite restrita ao contato com o piercing e fenótipo de Turner com amenorreia primária e M1.",
+   "Dermatite seborreica atinge áreas sebáceas, e a síndrome de Carpenter cursa com craniossinostose e polidactilia."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 23
+  }
+ },
+ {
+  "pid": "p0051",
+  "q": "Uma mulher leva sua filha de 6 anos para uma consulta na unidade básica de saúde do bairro, por suspeitar que a filha esteja sendo abusada sexualmente pelo tio de 24 anos de idade. O tio toma conta da menina quando ela se ausenta para trabalhar como faxineira. A menina conta que brinca de \"papai e mamãe\" com o tio, mas afirma não querer falar mais sobre o assunto, dizendo que o tio lhe havia dito que a “brincadeira” era um segredo apenas entre os dois. Com relação a situações de suspeita de abuso infantil, a exemplo da descrita, é correto afirmar que",
+  "alts": [
+   "o mais comum é o agressor/abusador ser uma pessoa conhecida da família, ou um membro dela, o que favorece a repetição do abuso.",
+   "os casos de abusos sexuais contra meninos são mais recorrentes do que contra meninas, pois eles tendem a esconder mais as agressões de que são vítimas.",
+   "as crianças muito novas que sofrem abuso sexual tendem a esquecer o que aconteceu na fase adulta, havendo, portanto, pouca repercussão desse abuso no futuro.",
+   "a equipe de saúde da família deve se restringir ao tratamento das lesões físicas e eventuais danos psicológicos, sem se envolver no encaminhamento da denúncia às autoridades policiais."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Abuso sexual infantil",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.069/1990 (Estatuto da Criança e do Adolescente); Ministério da Saúde. Linha de cuidado para a atenção integral à saúde de crianças, adolescentes e suas famílias em situação de violências, 2010",
+  "coment": "Na maioria dos casos de abuso sexual infantil, o agressor é alguém próximo e de confiança: familiar, padrasto ou conhecido da família. A proximidade facilita o acesso repetido à criança, a imposição de segredo e a cronicidade do abuso. As meninas são as vítimas mais frequentes, e o abuso precoce deixa repercussões duradouras, como depressão, ansiedade, transtorno de estresse pós-traumático e comportamento sexual de risco. Diante da suspeita, a equipe de saúde deve notificar no SINAN e comunicar ao Conselho Tutelar, conforme o ECA, além de proteger e acompanhar a criança e a família.",
+  "porAlt": [
+   "Correta: o agressor costuma ser conhecido ou membro da família, o que favorece a repetição e o segredo.",
+   "As meninas são as vítimas mais frequentes; a subnotificação entre meninos não inverte essa proporção.",
+   "O abuso precoce deixa repercussões psíquicas e comportamentais duradouras, mesmo sem memória explícita do evento.",
+   "Suspeita de violência contra criança é de notificação compulsória, e o ECA obriga a comunicação ao Conselho Tutelar."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 25
+  }
+ },
+ {
+  "pid": "p0052",
+  "q": "Um lactente com 2 anos, previamente hígido, com história de um dia de febre, tosse e coriza, é atendido no pronto-socorro. A mãe conta que, desde a madrugada, ele apresenta obstrução nasal, sono agitado e cansaço. Ao exame de entrada, mostra-se em bom estado geral, corado, acianótico, agitado; à ausculta pulmonar, são notados murmúrios vesiculares diminuídos e simétricos, tiragem de fúrcula moderada e estridor leve ao repouso. Com base na principal hipótese diagnóstica para esse quadro clínico, a conduta mais adequada no momento é indicar",
+  "alts": [
+   "salmeterol inalatório e claritromicina.",
+   "salbutamol inalatório e metilprednisolona.",
+   "dexametasona e nebulização com epinefrina.",
+   "prednisolona e nebulização com soro fisiológico."
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Crupe viral moderado",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Canadian Paediatric Society. Acute management of croup in the emergency department, 2017",
+  "coment": "Pródromo viral seguido de estridor, tosse e desconforto respiratório em criança de 6 meses a 3 anos indica laringotraqueobronquite viral (crupe). Estridor em repouso com tiragem moderada classifica o quadro como moderado. O tratamento é dexametasona em dose única (0,15 a 0,6 mg/kg, oral ou intramuscular) para todos os casos, associada a nebulização com epinefrina nos casos moderados e graves, com observação de 2 a 4 horas pelo risco de efeito rebote. Beta-2 agonista não age na obstrução subglótica, e antibiótico não tem papel no crupe viral.",
+  "porAlt": [
+   "Salmeterol não age na obstrução laríngea e não é usado na crise; claritromicina não trata infecção viral.",
+   "Salbutamol atua no broncoespasmo, não no edema subglótico do crupe.",
+   "Correta: crupe com estridor em repouso e tiragem moderada é tratado com dexametasona e epinefrina nebulizada.",
+   "Prednisolona pode substituir a dexametasona, mas nebulização com soro não reduz o edema nem trata o estridor em repouso."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 28
+  }
+ },
+ {
+  "pid": "p0054",
+  "q": "Um escolar com 8 anos, acompanhado da mãe, chega à unidade básica de saúde com queixa de estar muito cansado e sonolento. A mãe refere que, há aproximadamente 20 dias, ele vem perdendo peso (cerca de 5 kg). Ela relata ainda que o filho, embora tenha controle esfincteriano noturno desde os 5 anos, tem agora apresentado enurese noturna, desde o início do quadro. Conta também que, no mesmo período, passou a demonstrar apetite exagerado e que, há 5 dias, começou a apresentar dor abdominal de moderada intensidade, sem localização específica, intermitente, associada a náuseas e vômitos (1 vez ao dia). Ao exame físico, a criança se apresenta em regular estado geral, hipocorado (+1/+4), afebril, acianótico, mucosas secas, hipoativo, fácies de dor, normotenso. À ausculta pulmonar, não há ruídos adventícios; frequência respiratória de 50 incursões respiratórias por minuto, com movimentos respiratórios amplos; ausculta cardíaca sem alterações, frequência cardíaca de 90 batimentos por minuto; abdome doloroso à palpação profunda, com ruídos hidroaéreos presentes, sem massas ou visceromegalias. Após o manejo inicial, qual das opções a seguir apresenta o seguimento a longo prazo adequado para essa doença?",
+  "alts": [
+   "O apoio familiar é fundamental para que o problema possa ser controlado, evitando-se as complicações, uma vez que se trata de uma doença crônica.",
+   "O uso ambulatorial farmacológico com análogo sintético da vasopressina, associado ao tratamento psicológico com alarme, costuma levar à remissão do processo por volta dos 15 anos.",
+   "Os pacientes apresentam, com frequência, períodos de remissão que geralmente duram décadas, conhecidos por lua de mel, sendo desnecessária reposição hormonal ao término desses períodos.",
+   "A adoção de um estilo de vida saudável, alimentação balanceada e prática de exercícios físicos regulares, é considerada um pilar do tratamento, sendo desnecessária terapia farmacológica a longo prazo."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Diabetes tipo 1 na infância",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "American Diabetes Association. Standards of Care in Diabetes, 2026; ISPAD Clinical Practice Consensus Guidelines, 2022",
+  "coment": "Poliúria com enurese secundária, polifagia, emagrecimento, desidratação, dor abdominal, vômitos e respiração ampla e rápida (Kussmaul) indicam diabetes tipo 1 com cetoacidose. Após o tratamento agudo, o diabetes tipo 1 é doença crônica que exige insulina por toda a vida, automonitorização, educação em diabetes e acompanhamento multiprofissional; o envolvimento da família é decisivo para a adesão e para prevenir complicações agudas e crônicas. A lua de mel é remissão parcial transitória, de semanas a meses, e não dispensa insulina. Desmopressina e alarme tratam enurese primária, não esta.",
+  "porAlt": [
+   "Correta: diabetes tipo 1 é doença crônica, e o apoio familiar é central para o controle e a prevenção de complicações.",
+   "Desmopressina e alarme tratam enurese noturna primária; aqui a enurese é secundária à poliúria do diabetes.",
+   "A lua de mel dura semanas a meses, não décadas, e a necessidade de insulina retorna ao fim dela.",
+   "Hábitos saudáveis complementam, mas o diabetes tipo 1 exige insulina por toda a vida."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 33
+  }
+ },
+ {
+  "pid": "p0055",
+  "q": "Paciente secundigesta, pesando 70 kg, é encaminhada ao pré-natal de alto risco, em razão de história de abortamento espontâneo na 8ª semana, na gestação anterior. Traz consigo um exame de mutação homozigótica do gene da enzima metilenotetrahidrofolato redutase. A paciente nega história pessoal ou familiar de trombose. Nesse caso, a conduta imediata deve ser",
+  "alts": [
+   "dar seguimento de pré-natal habitual.",
+   "solicitar exames laboratoriais para o diagnóstico de trombofilia gestacional.",
+   "prescrever ácido acetilsalicílico, 100 mg/dia, associado à enoxparina, 40 mg/dia.",
+   "solicitar exames laboratoriais: anticoagulante lúpico, anticardiolipina e anti-beta 2 glicoproteína 1."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Mutação MTHFR e perda gestacional",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin No. 197: Inherited Thrombophilias in Pregnancy, 2018; Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Polimorfismos do gene MTHFR, mesmo em homozigose, são muito frequentes, não aumentam de forma relevante o risco de trombose ou de perda gestacional e não são considerados trombofilia; o ACOG recomenda não pesquisar MTHFR nem homocisteína. Um aborto espontâneo isolado de primeiro trimestre é evento comum e não justifica investigar trombofilia nem síndrome antifosfolípide, considerada a partir de três perdas precoces consecutivas, perda fetal após 10 semanas ou parto prematuro por pré-eclâmpsia grave ou insuficiência placentária. Sem trombose pessoal ou familiar, não há indicação de AAS ou heparina: segue-se pré-natal habitual.",
+  "porAlt": [
+   "Correta: MTHFR não é trombofilia, e uma perda precoce isolada sem trombose não muda o pré-natal.",
+   "Investigar trombofilia hereditária não está indicado após uma única perda precoce sem trombose pessoal ou familiar.",
+   "AAS com enoxaparina não tem indicação para mutação MTHFR, e a anticoagulação traz risco sem benefício.",
+   "Pesquisa de síndrome antifosfolípide exige critério clínico, como três perdas precoces ou perda após 10 semanas, ausente aqui."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 34
+  }
+ },
+ {
+  "pid": "p0056",
+  "q": "Uma paciente secundigesta, com 27 anos, foi encaminhada pela atenção primária de saúde ao ambulatório de gestação de alto risco para iniciar pré-natal, devido à história obstétrica anterior de pré-eclâmpsia leve e descolamento prematuro de placenta intraparto. Durante a consulta, evidenciou-se que a gestante se encontrava com 16 semanas de gestação, apresentando pressão arterial de 135 × 83 mmHg. Foi realizada a avaliação de proteinúria com fita, cujo resultado foi negativo. A conduta a ser imediatamente adotada, a fim de melhorar o prognóstico materno e perinatal dessa gestação, é a prescrição de",
+  "alts": [
+   "hidralazina 25 mg, duas vezes ao dia, via oral.",
+   "metildopa 250 mg, duas vezes ao dia, via oral.",
+   "ácido acetilsalicílico 100 mg, uma vez ao dia, via oral.",
+   "enoxparina 1 mg/kg, duas vezes ao dia, via subcutânea."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Prevenção da pré-eclâmpsia com AAS",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; U.S. Preventive Services Task Force. Aspirin Use to Prevent Preeclampsia and Related Morbidity and Mortality, 2021",
+  "coment": "Pré-eclâmpsia em gestação anterior é fator de alto risco para recorrência, e a intervenção com benefício comprovado na prevenção é o ácido acetilsalicílico em baixa dose, iniciado de preferência entre 12 e 16 semanas (até 20 semanas) e mantido até cerca de 36 semanas, associado a cálcio quando a ingestão é baixa. Pressão de 135 × 83 mmHg não configura hipertensão, logo não há indicação de anti-hipertensivo. Enoxaparina não previne pré-eclâmpsia e não tem indicação sem trombofilia ou trombose.",
+  "porAlt": [
+   "Hidralazina oral não é usada sem hipertensão, e 135 × 83 mmHg está abaixo do limiar diagnóstico.",
+   "Metildopa trata hipertensão estabelecida e não previne pré-eclâmpsia em gestante normotensa.",
+   "Correta: AAS em baixa dose iniciado antes de 20 semanas reduz o risco de pré-eclâmpsia em gestante de alto risco.",
+   "Heparina de baixo peso molecular não previne pré-eclâmpsia, e 1 mg/kg duas vezes ao dia é dose terapêutica."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 39
+  }
+ },
+ {
+  "pid": "p0057",
+  "q": "Um paciente desnutrido, com 6 meses, deu entrada no pronto-socorro, acompanhado por familiares que relatam diarreia abundante e piora progressiva do nível de consciência, que vem ocorrendo há 2 dias. Ao exame, o paciente encontra-se desidratado, hipocorado, sonolento, comatoso e sem sinais localizatórios. Mantido em ar ambiente, colheu-se uma gasometria arterial, que revelou pH = 7,22; pressão parcial de CO2 de 48 mmHg; pressão parcial de O2 de 75 mmHg; saturação de O2 de 94%; bicarbonato de 12,5 mEq/L e excesso de bases (BE) = -13. Considerando o quadro descrito, assinale a opção que apresenta o diagnóstico correto para o caso.",
+  "alts": [
+   "Acidose mista, respiratória e metabólica.",
+   "Acidose metabólica compensada por hiperventilação alveolar.",
+   "Alcalose respiratória compensada por uma acidose metabólica.",
+   "Acidose metabólica compensada por uma alcalose respiratória."
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Distúrbio ácido-básico misto",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Berend K, de Vries APJ, Gans ROB. Physiological approach to assessment of acid-base disturbances. N Engl J Med, 2014",
+  "coment": "pH de 7,22 com bicarbonato de 12,5 mEq/L e BE de -13 indica acidose metabólica, compatível com a diarreia volumosa. A resposta esperada é hiperventilação, com PaCO2 prevista pela fórmula de Winter: 1,5 × 12,5 + 8 = 26,75 mmHg (mais ou menos 2). A PaCO2 medida de 48 mmHg está muito acima do esperado, e acima até do normal, o que revela acidose respiratória associada, aqui por hipoventilação no lactente desnutrido e comatoso. Por isso o distúrbio é misto. Alcalose respiratória exigiria PaCO2 abaixo de 35 mmHg.",
+  "porAlt": [
+   "Correta: bicarbonato baixo com PaCO2 acima da prevista pela fórmula de Winter define acidose mista, metabólica e respiratória.",
+   "Compensação por hiperventilação levaria a PaCO2 próxima de 27 mmHg, não a 48 mmHg.",
+   "O pH de 7,22 indica acidemia, e PaCO2 de 48 mmHg não é alcalose respiratória.",
+   "Alcalose respiratória compensatória exigiria PaCO2 baixa, mas ela está elevada."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 43
+  }
+ },
+ {
+  "pid": "p0058",
+  "q": "Uma paciente primigesta de 16 anos, com 36 semanas de idade gestacional, procura a unidade básica de saúde apresentando ruptura prematura de membranas ovulares. Encaminhada ao hospital em franco trabalho de parto, é admitida em período expulsivo. O recém-nascido (RN), acolhido pela equipe de neonatologia, tem peso adequado para a idade gestacional e sua avaliação na escala Apgar é de 9/9 no primeiro e quinto minutos. No entanto, após 36 horas do nascimento, o RN apresenta quadro de pneumonia e evolui rapidamente para sepse. Nesse caso, para prevenir a ocorrência da sepse, deveria ter sido realizado durante o pré-natal o rastreio e a quimioprofilaxia de qual agente etiológico?",
+  "alts": [
+   "Streptococcus β-hemolíticos do grupo B.",
+   "Chlamydia trachomatis.",
+   "Staphylococcus aureus.",
+   "Escherichia coli."
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Rastreamento do estreptococo do grupo B",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "ACOG Committee Opinion No. 797: Prevention of Group B Streptococcal Early-Onset Disease in Newborns, 2020",
+  "coment": "Sepse neonatal precoce (nas primeiras 72 horas) com pneumonia, em RN de mãe com bolsa rota e trabalho de parto pré-termo, é tipicamente causada pelo estreptococo do grupo B (Streptococcus agalactiae), que coloniza vagina e reto de 10 a 30% das gestantes. A prevenção é a cultura de swab vaginal e retal com 36 a 37 semanas e antibioticoprofilaxia intraparto com penicilina ou ampicilina para as colonizadas; sem cultura, a profilaxia é dada por fatores de risco, como trabalho de parto antes de 37 semanas, bolsa rota há 18 horas ou mais e febre intraparto. A profilaxia reduz a doença precoce, não a tardia.",
+  "porAlt": [
+   "Correta: o estreptococo do grupo B é a principal causa de sepse neonatal precoce prevenível por rastreio e profilaxia intraparto.",
+   "Clamídia causa conjuntivite e pneumonia afebril após a segunda semana de vida, não sepse fulminante em 36 horas.",
+   "Staphylococcus aureus não é alvo de rastreamento e profilaxia no pré-natal.",
+   "Escherichia coli causa sepse precoce, mas não há rastreio pré-natal com quimioprofilaxia dirigida a ela."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 44
+  }
+ },
+ {
+  "pid": "p0059",
+  "q": "Uma paciente com 40 anos, índice de massa corpórea de 38kg/m², com história de colelitíase sintomática há 2 anos, apresenta-se para cirurgia de colecistectomia videolaparoscópica. Os resultados de seus exames laboratoriais são normais e a ultrassonografia de abdome mostra múltiplos cálculos em vesícula biliar. É realizada a operação, descrita como tecnicamente difícil em razão da obesidade e das aderências inflamatórias no leito vesicular. A paciente foi encaminhada à enfermaria, acordada e sem queixas. Foram reiniciadas dieta e deambulação nas primeiras 24 horas de pós-operatório. Após 36 horas de pós-operatório, apresentou pico febril de 39 °C, dor abdominal e discreta icterícia. Novos exames laboratoriais mostraram leucograma de 20.500 leucócitos com 8% bastões, bilirrubina direta 2,0 mg/dL, bilirrubina indireta 1,0 mg/dL, aspartato aminotransferase 60 U/L, alanina aminotransferase 80 U/L, fosfatase alcalina 230 U/L e gamaglutamiltransferase 450 U/L. A paciente evoluiu, em 4 horas, com hipotensão, prostração e queda do estado geral. Acerca desse quadro clínico, assinale a opção correta.",
+  "alts": [
+   "A incidência de lesão de via biliar na via videolaparoscópica é menor que na cirurgia aberta, por ser procedimento menos invasivo e proporcionar melhor e mais rápida recuperação; a complicação em curso pode ser sepse de origem pulmonar, pois a obesidade e a dor no pós-operatório facilitam restrição respiratória e infecção, devendo-se, portanto, iniciar antibioticoterapia de amplo espectro imediatamente.",
+   "A colecistectomia aberta é a técnica recomendada para pacientes obesos, dado o risco de complicações; o quadro de possível fístula biliar deve ser tratado imediatamente com antibióticos e drenagem percutânea guiada por ultrassonografia, evitando-se nova abordagem e a possibilidade de ocorrência de danos secundários.",
+   "A possibilidade de lesão de via biliar como complicação precisa ser informada à paciente e à sua família, devendo ser solicitada a transferência para um centro com unidade de terapia intensiva, tendo em vista suporte e antibioticoterapia de largo espectro, aguardando-se o esfriamento do processo para planejar a reabordagem.",
+   "A possibilidade de lesão de via biliar como complicação precisa ser informada à paciente e à sua família, devendo ser solicitada a transferência para um centro com unidade de terapia intensiva e acesso a equipe especializada e a métodos diagnósticos, como a colangiorressonância magnética."
+  ],
+  "gab": 3,
+  "tema": "hepatobiliar",
+  "sub": "Lesão de via biliar pós-colecistectomia",
+  "cenario": "enf",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "de'Angelis N et al. 2020 WSES guidelines for the detection and management of bile duct injury during cholecystectomy, 2021; Tokyo Guidelines 2018",
+  "coment": "Febre, dor, icterícia colestática (bilirrubina direta e enzimas canaliculares elevadas) e evolução para hipotensão 36 horas após colecistectomia difícil sugerem lesão de via biliar com colangite ou coleperitônio e sepse. A conduta é informar paciente e família, ressuscitar, iniciar antibiótico e transferir para centro com terapia intensiva, cirurgia hepatobiliar e métodos diagnósticos (ultrassom ou tomografia para coleções, colangiorressonância para mapear a lesão, CPRE ou drenagem percutânea para controle do foco). A reconstrução definitiva é planejada após o controle da sepse. A lesão é mais frequente na via laparoscópica que na aberta.",
+  "porAlt": [
+   "A lesão de via biliar é mais frequente na via laparoscópica, e o quadro colestático aponta foco biliar, não pulmonar.",
+   "Obesidade não contraindica a via laparoscópica, e drenagem isolada sem definir a anatomia da lesão é insuficiente.",
+   "Na sepse com hipotensão não basta aguardar o esfriamento: é preciso definir a lesão e controlar o foco antes da reconstrução tardia.",
+   "Correta: informar a complicação e transferir para centro com UTI, equipe especializada e colangiorressonância é a conduta adequada."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 47
+  }
+ },
+ {
+  "pid": "p0060",
+  "q": "Um pediatra é chamado para atendimento de um recém-nascido (RN) em sala de parto, sendo informado de que a gestante não realizou pré-natal. A criança nasce em apneia. O cordão umbilical foi clampeado imediatamente e o RN é levado à mesa de reanimação. O pediatra realiza os passos iniciais em, no máximo, 30 segundos, mas o RN continua em apneia. Considerando-se o quadro clínico descrito, qual é a conduta adequada nesse momento?",
+  "alts": [
+   "Oferecer oxigênio inalatório.",
+   "Indicar a entubação traqueal.",
+   "Aplicar estímulo tátil com fricção circular no abdome.",
+   "Iniciar a ventilação com pressão positiva por máscara."
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Apneia após os passos iniciais",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP, 2026",
+  "coment": "Pela diretriz da SBP de 2026, o RN que nasce sem boa vitalidade recebe estímulo tátil delicado no dorso por cerca de 15 segundos ainda com o cordão intacto; sem resposta, clampeia-se (a ordenha com clampeamento abaixo de 30 segundos é opção) e seguem os passos iniciais em até 30 segundos. Se após eles persiste apneia, respiração irregular ou FC abaixo de 100 bpm, inicia-se ventilação com pressão positiva por máscara facial dentro do primeiro minuto, em ar ambiente no RN de 34 semanas ou mais, a 30 a 60 movimentos por minuto. Ventilar é o procedimento mais importante da reanimação. Oxigênio inalatório não trata apneia, insistir no estímulo atrasa a ventilação e a intubação fica para falha da máscara, VPP prolongada ou necessidade de massagem.",
+  "porAlt": [
+   "Oxigênio inalatório não ventila um RN em apneia; o necessário é ventilação com pressão positiva.",
+   "Intubação não é o primeiro passo; fica para falha da ventilação com máscara, VPP prolongada ou massagem.",
+   "O estímulo tátil é feito no dorso, por cerca de 15 segundos, antes do clampeamento; repeti-lo após os passos atrasa a VPP.",
+   "Correta: RN em apneia após os passos iniciais deve receber ventilação com pressão positiva por máscara no primeiro minuto."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 53
+  }
+ },
+ {
+  "pid": "p0061",
+  "q": "O nascimento prematuro continua sendo a principal causa de mortalidade e morbidade perinatais, sendo responsável por até dois terços das mortes neonatais e por déficits físicos, mentais e do desenvolvimento de longo prazo. Nos últimos trinta anos, os avanços foram significativos nos cuidados neonatais e na redução da mortalidade infantil na prematuridade, porém as morbidades e as consequências em longo prazo permanecem. Acerca dos cuidados gestacionais para evitar a prematuridade, assinale a opção correta.",
+  "alts": [
+   "As evidências científicas indicam a eficácia de uso de progesterona por toda gestante na prevenção à prematuridade.",
+   "As pacientes no estágio 3, conforme a Classificação de Risco de Hobel, devem continuar em acompanhamento ambulatorial.",
+   "A infecção urinária é fator de risco para a prematuridade, devendo toda gestante com bacteriúria assintomática ser submetida à antibioticoterapia.",
+   "Os bloqueadores de canal de cálcio são medicamentos proibidos na inibição dos trabalhos de parto por causarem hipotensão materna e baixo fluxo placentário."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Prevenção da prematuridade",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; U.S. Preventive Services Task Force. Screening for Asymptomatic Bacteriuria in Adults, 2019",
+  "coment": "Bacteriúria assintomática na gestação, se não tratada, evolui para pielonefrite em parcela importante dos casos e associa-se a parto prematuro e baixo peso. Por isso toda gestante faz urocultura no pré-natal e, se positiva, recebe antibiótico guiado pelo antibiograma, com urocultura de controle. A progesterona vaginal tem benefício em grupos selecionados (colo curto, prematuridade espontânea prévia), não em toda gestante. O nifedipino, bloqueador de canal de cálcio, é uma das drogas de escolha para tocólise. Gestante classificada no maior risco precisa de seguimento especializado.",
+  "porAlt": [
+   "Progesterona só tem benefício comprovado em gestantes selecionadas, como colo curto ou prematuridade espontânea prévia.",
+   "Gestantes classificadas no maior risco precisam de seguimento especializado, não de acompanhamento ambulatorial habitual.",
+   "Correta: bacteriúria assintomática na gestação deve ser sempre tratada, pois aumenta o risco de pielonefrite e parto prematuro.",
+   "Nifedipino, bloqueador de canal de cálcio, é tocolítico de primeira linha, e não medicamento proibido."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 54
+  }
+ },
+ {
+  "pid": "p0062",
+  "q": "Um adolescente de 12 anos, pesando 85 kg e com índice de massa corpórea de 30 kg/m², é atendido na emergência queixando-se de fortes dores no quadril direito e de impotência funcional do membro inferior direito. O pai informa ao médico de plantão que o menino é hipertenso, que realiza um tratamento para emagrecer e nega associação do problema na perna a trauma. Nesse caso, a hipótese diagnóstica mais provável é de",
+  "alts": [
+   "epifisiólise femural.",
+   "artrite séptica do quadril.",
+   "artrite reumatoide juvenil.",
+   "sinovite transitória do quadril."
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Epifisiólise proximal do fêmur",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 21ª ed., 2020",
+  "coment": "Adolescente obeso, no estirão puberal (10 a 16 anos, mais em meninos), com dor no quadril, que pode irradiar para o joelho, e impotência funcional sem trauma tem epifisiólise proximal do fêmur até prova em contrário. Incapacidade de apoiar o membro sugere forma instável, com maior risco de necrose avascular. Hipotireoidismo e outras endocrinopatias reforçam a suspeita. O diagnóstico é por radiografia do quadril em AP e perfil (posição de rã), e o tratamento é fixação cirúrgica in situ, com suspensão imediata da carga. Sinovite transitória ocorre em crianças menores após infecção viral, e artrite séptica cursa com febre.",
+  "porAlt": [
+   "Correta: obesidade, idade puberal e dor no quadril com impotência funcional sem trauma são típicas de epifisiólise.",
+   "Artrite séptica cursaria com febre e sinais inflamatórios sistêmicos, ausentes no relato.",
+   "Artrite idiopática juvenil tem evolução crônica e rigidez matinal, e não impotência funcional aguda isolada.",
+   "Sinovite transitória acomete crianças de 3 a 8 anos, após infecção viral, com bom estado geral e claudicação leve."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 58
+  }
+ },
+ {
+  "pid": "p0063",
+  "q": "Uma paciente com 24 anos apresenta sangramento vaginal volumoso no puerpério imediato de parto vaginal sem episiotomia. Relata como antecedentes pré-natal e parto vaginal sem intercorrências ou morbidade associada à gestação. Ao exame físico, apresenta-se: em regular estado geral; confusa; com frequência cardíaca de 138 batimentos por minuto; pressão arterial de 80 × 50 mmHg; à ausculta cardíaca, com ritmo cardíaco regular em dois tempos, bulhas hipofonéticas, sem sopros; à ausculta pulmonar, com murmúrios vesiculares sem ruídos adventícios. O exame do abdome da paciente evidencia útero amolecido e palpável 8 cm acima da cicatriz umbilical. Em análise do partograma, foi constatado uso de ocitocina 05 UI durante as 14 horas de condução do trabalho de parto. Diante do quadro apresentado, a conduta inicial adequada é",
+  "alts": [
+   "iniciar imediatamente a infusão de Ringer Lactato 1.000 ml em acesso venoso calibroso, realizar massagem uterina e usar drogas uterotônicas.",
+   "encaminhar a paciente para a ultrassonografia de urgência e solicitar hemograma, para avaliar necessidade de hemotransfusão.",
+   "realizar laparotomia de urgência e histerectomia, com hemotransfusão, sem necessidade de prova cruzada.",
+   "tranquilizar a paciente, esclarecendo que se trata de loquiação fisiológica do puerpério imediato."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Hemorragia pós-parto por atonia",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Organização Pan-Americana da Saúde. Recomendações assistenciais para prevenção, diagnóstico e tratamento da hemorragia obstétrica, 2018",
+  "coment": "Sangramento volumoso no puerpério imediato com útero amolecido e acima da cicatriz umbilical, após trabalho de parto prolongado com ocitocina, é hemorragia pós-parto por atonia uterina. O índice de choque (frequência cardíaca dividida pela sistólica) de 1,7 indica choque grave. A conduta inicial é simultânea: pedir ajuda, dois acessos calibrosos, cristaloide aquecido, massagem uterina bimanual, ocitocina, ácido tranexâmico nas primeiras 3 horas e outros uterotônicos, com hemotransfusão precoce. Exames e ultrassom não podem atrasar o tratamento, e histerectomia só entra após falha das medidas clínicas e cirúrgicas conservadoras.",
+  "porAlt": [
+   "Correta: na atonia com choque, volume em acesso calibroso, massagem uterina e uterotônicos são as medidas iniciais.",
+   "Levar a paciente em choque para ultrassonografia atrasa o tratamento; o diagnóstico de atonia é clínico.",
+   "Histerectomia é a última etapa, após falha de uterotônicos, balão e técnicas cirúrgicas conservadoras.",
+   "Sangramento volumoso com taquicardia, hipotensão e confusão é choque hemorrágico, não lóquio fisiológico."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 59
+  }
+ },
+ {
+  "pid": "p0064",
+  "q": "Um menino com 2 anos chega para atendimento no serviço de urgência com a mãe, que conta que ele ingeriu desinfetante há menos de uma hora. Ao exame, a criança apresenta-se consciente, irritada, chorosa, normotérmica, corada e hidratada, exalando um leve odor de desinfetante pela boca. Suas conjuntivas estão claras, as pupilas, isocóricas e fotorreativas; o ritmo cardíaco é regular em 2 tempos, sem sopros. Além disso, apresenta: perfusão periférica normal; frequência cardíaca de 120 batimentos por minuto; pressão arterial de 80 × 50 mmHg; frequência respiratória de 20 incursões por minuto, eupneica; murmúrio vesicular fisiológico sem ruídos adventícios. A conduta inicial no atendimento dessa criança é",
+  "alts": [
+   "usar agentes neutralizantes ou substâncias diluentes, como leite e água.",
+   "fazer lavagem gástrica e utilizar carvão ativado para adsorver a substância.",
+   "induzir vômito para eliminar a maior quantidade possível da substância ingerida.",
+   "examinar a mucosa oral e observar por 2 a 4 horas para verificar se permanece íntegra."
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Ingestão de desinfetante doméstico",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Nelson LS et al. Goldfrank's Toxicologic Emergencies, 11ª ed., 2019",
+  "coment": "Na ingestão de produtos de limpeza, a descontaminação gastrointestinal é contraindicada: indução de vômito e lavagem gástrica reexpõem o esôfago ao agente e aumentam o risco de aspiração, e o carvão ativado não adsorve cáusticos e prejudica a endoscopia. Neutralizantes geram reação exotérmica, e grandes volumes de diluente podem provocar vômito. Criança assintomática, sem lesão oral, salivação, disfagia, estridor ou dor, após ingerir desinfetante doméstico de baixa concentração, deve ter a mucosa oral examinada e ficar em observação por algumas horas. Sintomas ou lesão indicam endoscopia em 12 a 24 horas.",
+  "porAlt": [
+   "Neutralizantes geram reação exotérmica e lesão adicional, e diluição em grande volume pode induzir vômito.",
+   "Lavagem gástrica é contraindicada na ingestão de cáusticos, e o carvão ativado não adsorve esses produtos.",
+   "Induzir vômito reexpõe a mucosa ao agente e aumenta o risco de aspiração.",
+   "Correta: em criança assintomática, examina-se a mucosa oral e observa-se por algumas horas antes da alta."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 63
+  }
+ },
+ {
+  "pid": "p0066",
+  "q": "Um paciente com 10 anos, pertencente a uma comunidade ribeirinha na região do Tapajós, é atendido em unidade básica de saúde fluvial por médico de família e comunidade, queixando-se de parestesia e fraqueza em membros inferiores, desequilíbrio, tremores, além de dificuldade de aprendizagem, tonturas e irritabilidade. Os pais relatam que, mais recentemente, a criança vem apresentando também dificuldade para falar. Durante a avaliação dos hábitos da criança, os pais também informam que consomem basicamente mandioca, plantada por eles, e peixes do rio. Referem, ainda, que residem em uma área que já vem sendo ocupada por grupos de garimpeiros ilegais há alguns anos, o que tem alterado as características das águas do rio. Qual é o principal diagnóstico para o caso desse paciente?",
+  "alts": [
+   "Poliomielite.",
+   "Intoxicação por mercúrio.",
+   "Síndrome de Guillain-Barré.",
+   "Intoxicação por organofosforados."
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Intoxicação por mercúrio em ribeirinhos",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Convenção de Minamata sobre Mercúrio, 2013 (promulgada no Brasil pelo Decreto 9.470/2018); Nelson LS et al. Goldfrank's Toxicologic Emergencies, 11ª ed., 2019",
+  "coment": "O garimpo de ouro usa mercúrio metálico, que contamina os rios, é convertido em metilmercúrio e se acumula nos peixes. Populações ribeirinhas cuja dieta depende do peixe têm exposição crônica. O metilmercúrio é neurotóxico: causa parestesias, ataxia, tremor, disartria, alterações visuais, irritabilidade e prejuízo cognitivo, com maior gravidade em crianças e fetos. Diante da suspeita, dosa-se mercúrio no cabelo ou no sangue, notifica-se a intoxicação exógena e orienta-se reduzir o consumo de peixes predadores. Poliomielite e Guillain-Barré causam fraqueza flácida aguda sem tremor nem déficit cognitivo, e organofosforado produz síndrome colinérgica aguda.",
+  "porAlt": [
+   "Poliomielite causa paralisia flácida aguda assimétrica, sem tremor, ataxia ou dificuldade de aprendizagem.",
+   "Correta: garimpo, consumo de peixe do rio e quadro neurológico crônico com ataxia, tremor e disartria indicam intoxicação por metilmercúrio.",
+   "Guillain-Barré é polirradiculoneuropatia aguda ascendente com arreflexia, sem tremor nem alterações cognitivas.",
+   "Organofosforados causam síndrome colinérgica aguda (miose, sialorreia, broncorreia, bradicardia), não quadro crônico ligado ao garimpo."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1",
+   "ex": "rev2023_1",
+   "n": 65
+  }
+ }
+]

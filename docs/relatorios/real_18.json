@@ -1,0 +1,87 @@
+{
+ "incluidas": 20,
+ "descartadas": [
+  {
+   "pid": "u079",
+   "motivo": "Depende da figura: a ultrassonografia transvaginal define o diagnóstico (adenomiose, pólipo, mioma) que orienta o tratamento; o texto não basta."
+  },
+  {
+   "pid": "u081",
+   "motivo": "Gabarito (prednisolona) contra diretriz vigente: a Endocrine Society (CAH, 2018) sugere contraceptivo combinado e/ou antiandrogênico como primeira linha para hirsutismo e irregularidade menstrual na forma não clássica, reservando glicocorticoide para infertilidade ou falha; mais de uma resposta defensável."
+  },
+  {
+   "pid": "u087",
+   "motivo": "Depende da figura: cardiotocografia e partograma decidem a resposta."
+  },
+  {
+   "pid": "u088",
+   "motivo": "Mais de uma resposta defensável: o perfil tem mais de 50% das glicemias de 1 hora pós-prandiais acima de 140 e jejum também alterado; o Manual de Gestação de Alto Risco (MS 2022) usa NPH para jejum e regular para pós-prandial, então NPH + R é tão defensável quanto NPH isolada."
+  },
+  {
+   "pid": "u090",
+   "motivo": "Gabarito oficial (depressão psicótica) não sustentado pelo texto: não há delírio nem alucinação descritos; depressão perinatal (início na gestação, DSM-5-TR) é igualmente ou mais defensável."
+  },
+  {
+   "pid": "u092",
+   "motivo": "Depende da figura: cardiotocografia decide a conduta."
+  },
+  {
+   "pid": "u093",
+   "motivo": "Depende da figura: o Doppler de umbilical e cerebral média define a programação do parto no feto pequeno."
+  },
+  {
+   "pid": "u094",
+   "motivo": "Mais de uma resposta defensável: 40 semanas e 5 dias com perfil biofísico 10; o MS (Caderno 32) indica indução a partir de 41 semanas, o que torna \"reavaliar em 48 horas\" também defensável, e o Bishop descrito é incompleto."
+  },
+  {
+   "pid": "u095",
+   "motivo": "Depende da figura: o foco de ausculta na imagem é a única informação."
+  },
+  {
+   "pid": "u096",
+   "motivo": "Depende da figura: as imagens do exame físico (mamas) decidem entre ingurgitamento, mastite e endometrite."
+  },
+  {
+   "pid": "u099",
+   "motivo": "Depende da figura: otoscopia e oroscopia definem o diagnóstico."
+  },
+  {
+   "pid": "u101",
+   "motivo": "Depende da figura: o hemograma (contagem de plaquetas e demais séries) só está na imagem."
+  },
+  {
+   "pid": "u106",
+   "motivo": "Depende da figura: o ECG decide se a hipocalemia exige reposição rápida em bolo ou só aumento do potássio na manutenção."
+  },
+  {
+   "pid": "u109",
+   "motivo": "Depende da figura: as radiografias definem o diagnóstico (atelectasia, pneumotórax ou derrame)."
+  },
+  {
+   "pid": "u112",
+   "motivo": "Depende da figura: os dados de monitorização após a ventilação (FC, ritmo) estão só na imagem."
+  },
+  {
+   "pid": "u120",
+   "motivo": "Depende da figura: as saturações pré e pós-ductal estão só na imagem."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "u102",
+   "nota": "Coorte de dois vírus diferentes (sincicial e parainfluenza) no mesmo quarto não é o ideal pelo CDC (o preferível é coorte do mesmo agente), mas, com só um isolamento, é a melhor das opções oferecidas e ambas são de contato; mantida."
+  },
+  {
+   "pid": "u115",
+   "nota": "O soro com NaCl 20% 40 mL mais bicarbonato também seria chamado de isotônico por alguns; a oficial se sustenta por descontar o sódio do bicarbonato (Na total perto de 135 mEq) e reduzir cloro em acidose hiperclorêmica; mantida."
+  },
+  {
+   "pid": "u085",
+   "nota": "Questão cita exame de imagem não disponível, mas a conduta (laparotomia) decorre só da instabilidade hemodinâmica com peritonite; mantida."
+  },
+  {
+   "pid": "u100",
+   "nota": "Questão cita imagens (oroscopia, ultrassom pulmonar), mas o diagnóstico de choque cardiogênico sai do exame descrito em texto; mantida."
+  }
+ ]
+}

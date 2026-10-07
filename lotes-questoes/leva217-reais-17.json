@@ -1,0 +1,901 @@
+[
+ {
+  "pid": "u040",
+  "q": "Você vai realizar uma consulta domiciliar para um paciente de 72 anos de idade, que recebeu alta há dois dias. Ele estava internado devido a uma descompensação de insuficiência cardíaca. É a quinta internação ao longo de 1 ano. Ele permanece a maior parte do dia sentado com dispneia, mesmo com o tratamento otimizado. Antecedentes: infarto agudo do miocárdio, diabetes melito, hipertensão arterial e dislipidemia. Aposentado há 8 anos, é casado, tem dois filhos e uma neta com quem tem ótima relação. Mini exame do estado mental: 28/30. Em relação ao seguimento, deve-se",
+  "alts": [
+   "explicar a gravidade da situação para a família e avaliar o quanto o paciente está disponível para receber essa informação.",
+   "introduzir a abordagem de cuidados paliativos e o assunto sobre as diretivas antecipadas de vontade para o paciente.",
+   "abordar estratégias de reabilitação a fim de melhorar a qualidade de vida, mas ainda não há necessidade de introduzir os cuidados paliativos.",
+   "encaminhar o paciente para internação em serviço especializado em cuidados paliativos."
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Cuidados paliativos na insuficiência cardíaca",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Resolução CFM 1.995/2012 (diretivas antecipadas de vontade); Diretriz ESC de Insuficiência Cardíaca 2026",
+  "coment": "Insuficiência cardíaca com dispneia ao repouso apesar de tratamento otimizado (classe IV da NYHA) e cinco internações em um ano indica doença avançada, com prognóstico reservado: é o momento de introduzir cuidados paliativos, que convivem com o tratamento da doença e não exigem fase terminal. Com MEEM de 28/30, o paciente é capaz e é o titular da conversa. Discutir valores, prognóstico e diretivas antecipadas de vontade (Resolução CFM 1.995/2012, que pede registro em prontuário) permite planejar cuidados futuros antes de uma nova descompensação. Internação em unidade paliativa não é necessária para começar essa abordagem.",
+  "porAlt": [
+   "Paciente lúcido e capaz é o primeiro a receber a informação sobre sua doença; a família participa conforme o desejo dele.",
+   "Correta: IC avançada com internações repetidas indica introduzir cuidados paliativos e discutir diretivas antecipadas com o próprio paciente.",
+   "Reabilitação pode compor o plano, mas a doença já é avançada e os cuidados paliativos devem começar agora, junto ao tratamento.",
+   "Cuidados paliativos começam no ambulatório e no domicílio; internação especializada não é pré-requisito nem está indicada neste momento."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 40
+  }
+ },
+ {
+  "pid": "u041",
+  "q": "Um estudo realizado no Brasil demonstrou que, nos municípios com aumento da cobertura de um programa de transferência de renda, observou-se a redução da taxa de detecção de casos novos de hanseníase. Que tipo de estudo epidemiológico foi esse?",
+  "alts": [
+   "Coorte.",
+   "Ecológico.",
+   "Transversal.",
+   "Caso-controle."
+  ],
+  "gab": 1,
+  "tema": "bioestat",
+  "sub": "Estudo ecológico",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed., 2018",
+  "coment": "A unidade de análise define o desenho. Aqui se compararam municípios: cobertura do programa de transferência de renda (exposição agregada) contra taxa de detecção de hanseníase (desfecho agregado), sem dado individual de quem recebeu o benefício e de quem adoeceu. Estudo em que exposição e desfecho são medidos em grupos populacionais é ecológico. Ele gera hipóteses e avalia efeitos de políticas, mas está sujeito à falácia ecológica: a associação observada entre municípios não garante que ela exista no nível individual.",
+  "porAlt": [
+   "Coorte segue indivíduos expostos e não expostos ao longo do tempo; aqui os dados são agregados por município.",
+   "Correta: exposição e desfecho foram medidos em municípios (dados agregados), o que caracteriza o estudo ecológico.",
+   "O transversal mede exposição e desfecho no mesmo indivíduo em um só momento; não é o caso de comparação entre municípios.",
+   "Caso-controle parte de indivíduos doentes e não doentes e investiga exposição passada, o que não foi feito."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 41
+  }
+ },
+ {
+  "pid": "u042",
+  "q": "Quanto ao trabalho em equipe interprofissional, pode-se dizer que o seu sucesso depende",
+  "alts": [
+   "da correta justaposição das expertises técnicas de cada profissional.",
+   "da articulação e da interação entre os membros da equipe.",
+   "da superação das particularidades de cada profissão em prol de um saber comum.",
+   "do ordenamento formal da hierarquia na equipe."
+  ],
+  "gab": 1,
+  "tema": "aps",
+  "sub": "Trabalho em equipe interprofissional",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Peduzzi M. Equipe multiprofissional de saúde: conceito e tipologia. Revista de Saúde Pública, 2001; Portaria GM/MS 2.436/2017 (PNAB)",
+  "coment": "Peduzzi distingue a equipe agrupamento, em que os profissionais apenas justapõem ações, da equipe integração, em que há articulação das ações e interação comunicativa entre os membros. O trabalho interprofissional bem-sucedido depende dessa articulação e interação, preservando as especificidades de cada profissão: a diferença técnica é recurso, e não obstáculo. A PNAB (Portaria 2.436/2017) também define o trabalho em equipe multiprofissional na ESF pela integração das práticas, não pela hierarquia formal.",
+  "porAlt": [
+   "Justapor expertises é a marca da equipe agrupamento, em que cada um faz sua parte sem integração das ações.",
+   "Correta: o sucesso do trabalho interprofissional depende da articulação das ações e da interação comunicativa entre os membros.",
+   "A integração preserva as especificidades de cada profissão; não se busca apagá-las em um saber único.",
+   "Hierarquia formal rígida dificulta a comunicação e a colaboração; não é o que sustenta a equipe integrada."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 42
+  }
+ },
+ {
+  "pid": "u044",
+  "q": "O gerente de sua UBS está propondo a elaboração de indicadores para acompanhar como está o cuidado das pessoas com Hipertensão Arterial Sistêmica (HAS) na sua comunidade. Você tem à disposição os seguintes dados: - Número total de pessoas cadastradas na UBS: 30 mil - Número de pessoas cadastradas com 40 anos de idade ou mais: 10 mil - Número de pessoas cadastradas com 40 anos de idade ou mais com HAS: 5 mil Os dados da tabela a seguir referem-se apenas aos atendimentos das pessoas cadastradas:\nMedidas de Pressão Arterial (PA), em qualquer atendimento, por ano, em pessoas com mais de 40 anos\n| Qualquer pessoa | Pessoas com HAS\n2 ou mais medidas | 4.000 | 3.000\n1 medida | 3.000 | 1.500\nPessoas atendidas sem medida de PA | 2.000 | 300\nPessoas sem atendimento no ano | 1.000 | 200\nConsiderando a disponibilidade desses dados, qual é o melhor indicador a ser utilizado para acompanhar a captação de pessoas para o rastreamento e o seu respectivo valor?",
+  "alts": [
+   "Proporção de pessoas com mais de 40 anos de idade, sem hipertensão arterial sistêmica conhecida, sem medida de pressão arterial no ano. - Valor atual: 25%",
+   "Prevalência de hipertensão arterial sistêmica na comunidade. - Valor atual:16,6%",
+   "Prevalência de hipertensão arterial sistêmica entre as pessoas com mais de 40 anos de idade. - Valor atual: 50%",
+   "Proporção de pessoas com duas ou mais medidas de pressão arterial no ano, entre as pessoas com mais de 40 anos de idade. - Valor atual: 40%"
+  ],
+  "gab": 0,
+  "tema": "epidemio",
+  "sub": "Indicador de captação para rastreamento de HAS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 37 (Hipertensão Arterial Sistêmica), 2013; Diretriz Brasileira de Hipertensão 2025",
+  "coment": "Captação para rastreamento interessa a quem ainda não tem diagnóstico. Entre os 10 mil cadastrados com 40 anos ou mais, 5 mil não têm HAS conhecida. Desses, ficaram sem medida de PA no ano 1.700 atendidos sem aferição (2.000 menos 300) e 800 sem atendimento (1.000 menos 200), total de 2.500, ou 25% da população de 40 anos ou mais. O indicador aponta diretamente quem escapou do rastreamento. Prevalências descrevem a carga da doença, e a proporção com duas medidas mistura hipertensos já diagnosticados, sem medir a captação de quem precisa ser rastreado.",
+  "porAlt": [
+   "Correta: a proporção de pessoas sem HAS conhecida e sem medida de PA no ano mede quem ficou fora do rastreamento (2.500 de 10 mil, 25%).",
+   "Prevalência na população total mede carga da doença e inclui jovens fora da faixa analisada; não acompanha a captação.",
+   "Prevalência entre maiores de 40 anos descreve a doença diagnosticada, sem dizer quantos deixaram de ser rastreados.",
+   "Duas ou mais medidas inclui hipertensos já conhecidos e mede seguimento, não a captação de não diagnosticados."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 44
+  }
+ },
+ {
+  "pid": "u045",
+  "q": "Mulher, 25 anos de idade, procurou recentemente uma Unidade Básica de Saúde na cidade de São Paulo, debilitada fisicamente, com queixa de febre, especialmente à tarde, astenia e tosse. Não sabe precisar exatamente há quanto tempo. Ela não é moradora da região, diz não ter residência fixa e que trabalha nas ruas próximas à Unidade como profissional do sexo. Relata ter diagnóstico de soropositividade para o HIV. Não sendo moradora da área de cobertura da Unidade, qual deve ser a conduta do serviço frente ao caso?",
+  "alts": [
+   "Deve ser encaminhada para Unidade de Saúde que desenvolve ações voltadas à população de rua (Consultório na Rua).",
+   "Deve ser orientada a procurar um serviço de pronto atendimento, pela importância clínica do caso.",
+   "Deve ser acolhida, coletar e aguardar resultados das sorologias para ser encaminhada para serviço especializado.",
+   "Deve ser acolhida e avaliada imediatamente, pela importância clínica e epidemiológica do caso."
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "Acesso de pessoa sem domicílio à UBS",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB); Decreto 7.053/2009 (Política Nacional para a População em Situação de Rua); Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose no Brasil, 2019",
+  "coment": "Pessoa vivendo com HIV, sem residência fixa, com febre vespertina, tosse e astenia é sintomática respiratória com alta suspeita de tuberculose, possivelmente com imunossupressão. O acesso universal (Lei 8.080/1990) e a PNAB garantem acolhimento a quem procura a UBS, mesmo fora da área adscrita; a população em situação de rua não pode ser recusada por falta de comprovante de endereço. Pelo Manual de Tuberculose de 2019, o sintomático respiratório deve ser avaliado e ter escarro coletado no mesmo atendimento. Encaminhar sem avaliar adia diagnóstico e mantém a transmissão.",
+  "porAlt": [
+   "O Consultório na Rua amplia o acesso, mas não autoriza recusar o atendimento de quem já está na UBS com quadro relevante.",
+   "Não há sinal de gravidade que exija pronto atendimento; mandar embora sem avaliar perde a oportunidade de diagnóstico.",
+   "Aguardar sorologias antes de qualquer conduta atrasa a investigação de tuberculose, que deve começar no mesmo dia.",
+   "Correta: a UBS deve acolher e avaliar de imediato, pela suspeita de tuberculose em pessoa com HIV e pelo risco de transmissão."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 45
+  }
+ },
+ {
+  "pid": "u046",
+  "q": "Mulher, 25 anos de idade, procurou recentemente uma Unidade Básica de Saúde na cidade de São Paulo, debilitada fisicamente, com queixa de febre, especialmente à tarde, astenia e tosse. Não sabe precisar exatamente há quanto tempo. Ela não é moradora da região, diz não ter residência fixa e que trabalha nas ruas próximas à Unidade como profissional do sexo. Relata ter diagnóstico de soropositividade para o HIV. Sob a perspectiva das análises de vulnerabilidade, chama a atenção na descrição do caso a",
+  "alts": [
+   "vulnerabilidade programática, pois não há como fazer seguimento da paciente na sua condição de vida.",
+   "vulnerabilidade social, considerando sua atividade ocupacional e as condições em que vive.",
+   "vulnerabilidade individual, pois o caso clínico é de debilidade física e sintomas de coinfecção por tuberculose.",
+   "vulnerabilidade individual, considerando seu estado clínico e sua atividade ocupacional."
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Vulnerabilidade individual, social e programática",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ayres JRCM et al. O conceito de vulnerabilidade e as práticas de saúde, 2003 (em Czeresnia D, Freitas CM. Promoção da Saúde)",
+  "coment": "O quadro de vulnerabilidade de Ayres tem três planos. O individual reúne conhecimentos, comportamentos e condições biológicas da pessoa. O social envolve condições materiais, culturais e de acesso: moradia, trabalho, renda, gênero, estigma. O programático diz respeito à resposta das instituições e serviços. No caso, a atividade como profissional do sexo e a ausência de moradia fixa são determinantes sociais que ampliam a exposição ao HIV e à tuberculose e dificultam o cuidado, caracterizando vulnerabilidade social.",
+  "porAlt": [
+   "Vulnerabilidade programática refere-se à resposta dos serviços; a dificuldade descrita decorre das condições de vida, que são sociais.",
+   "Correta: atividade ocupacional e ausência de moradia são condições sociais que ampliam a exposição e reduzem o acesso ao cuidado.",
+   "Os sintomas clínicos são dado individual, mas o que mais chama atenção no caso são as condições sociais de vida e trabalho.",
+   "Atividade ocupacional e condições de vida pertencem ao plano social, não ao individual, no modelo de vulnerabilidade."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 46
+  }
+ },
+ {
+  "pid": "u047",
+  "q": "Com as limitações das medidas de controle atualmente disponíveis, as vacinas contra dengue vêm gerando grande interesse, não apenas entre os cientistas e profissionais de saúde, mas de toda a sociedade. Em relação às vacinas contra dengue, assinale a alternativa correta.",
+  "alts": [
+   "A vacina CYD-TVD (Dengvaxia®) teve seu uso limitado por sua baixa eficácia.",
+   "A vacina TAK-003 (Qdenga®) pode ser usada por todos a partir de um ano de idade.",
+   "A vacina candidata Butantan-DV não tem eficácia comprovada contra todos os sorotipos.",
+   "Não houve evidências do efeito de resposta imune exacerbada por anticorpos em nenhuma das vacinas."
+  ],
+  "gab": 2,
+  "tema": "vigilancia",
+  "sub": "Vacinas contra dengue",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Kallás EG et al. Live, attenuated, tetravalent Butantan-dengue vaccine, NEJM 2024; OMS. Position paper sobre vacinas de dengue, 2024; Ministério da Saúde, suspensão da estratégia com a Butantan-DV, junho de 2026",
+  "coment": "No ensaio de fase 3 da Butantan-DV (NEJM 2024), a eficácia foi demonstrada contra DENV-1 e DENV-2; DENV-3 e DENV-4 quase não circularam no período, sem eficácia comprovada para eles. A Dengvaxia teve uso restringido não por baixa eficácia, mas pelo aumento de dengue grave em soronegativos vacinados, efeito atribuído à amplificação dependente de anticorpos, o que também torna falsa a última afirmação. A Qdenga é licenciada a partir dos 4 anos. Atualização: a Butantan-DV foi incorporada ao PNI em 2026 e teve a estratégia suspensa pelo Ministério da Saúde em 8 de junho de 2026; a Qdenga segue no SUS dos 10 aos 14 anos.",
+  "porAlt": [
+   "A Dengvaxia foi restringida pelo risco de dengue grave em soronegativos vacinados, não por baixa eficácia.",
+   "A Qdenga é licenciada a partir dos 4 anos de idade, não a partir de 1 ano.",
+   "Correta: no ensaio de fase 3, a Butantan-DV mostrou eficácia contra DENV-1 e DENV-2, sem dados suficientes para DENV-3 e DENV-4.",
+   "Houve evidência de resposta exacerbada por anticorpos com a Dengvaxia em soronegativos, o que limitou seu uso."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 47
+  }
+ },
+ {
+  "pid": "u049",
+  "q": "Homem, 64 anos de idade, tentou suicídio com ferimento por arma branca no tórax. No atendimento inicial, o paciente encontrava-se com a faca introduzida na parede anterior do tórax, bastante agitado e com PA de 140x90 mmHg e FC de 110 bpm. Devido à agitação, optou-se pela intubação para transporte. Na admissão no Centro de Trauma encontrava-se: A: Intubado. Saturação de oxigênio de 97%. B: MV presentes e sem alterações. Inspeção torácica demonstrada na figura a seguir. C: PA de 130x80 mmHg; FC de 110 bpm; e-FAST negativo. D: Sedado com pupilas mióticas. Escala de coma de Glasgow 3. E: Sem outros achados além da lesão torácica. Assinale a alternativa que indica o próximo passo a ser realizado na condução do caso.",
+  "alts": [
+   "Retirada da faca.",
+   "Tomografia de tórax.",
+   "Toracotomia esquerda.",
+   "Janela pericárdica."
+  ],
+  "gab": 1,
+  "tema": "trauma",
+  "sub": "Objeto empalado no tórax em paciente estável",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ATLS 11ª ed. (2025)",
+  "coment": "O paciente está hemodinamicamente estável (PA 130x80 mmHg), com murmúrio vesicular presente e e-FAST negativo, ou seja, sem tamponamento, hemotórax ou pneumotórax evidentes. O Glasgow 3 decorre da sedação para intubação. Objeto empalado não deve ser retirado fora do centro cirúrgico, porque pode estar tamponando uma lesão vascular. No estável, o passo seguinte é a tomografia (angiotomografia) do tórax para definir trajeto, relação com coração, grandes vasos e mediastino, e planejar a retirada controlada no centro cirúrgico. Toracotomia e janela pericárdica ficam para instabilidade ou e-FAST positivo ou duvidoso.",
+  "porAlt": [
+   "A retirada fora do centro cirúrgico pode desfazer o tamponamento de uma lesão vascular e causar hemorragia maciça.",
+   "Correta: paciente estável com e-FAST negativo deve fazer tomografia do tórax para definir o trajeto antes da retirada controlada.",
+   "Toracotomia de urgência é para instabilidade hemodinâmica ou sangramento torácico importante, ausentes aqui.",
+   "Janela pericárdica é reservada para suspeita de lesão cardíaca com e-FAST duvidoso; o exame foi negativo e o paciente está estável."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 49
+  }
+ },
+ {
+  "pid": "u050",
+  "q": "Homem, 63 anos de idade, foi admitido no Serviço de Emergência com dor na região inguinal à direita e com abaulamento local há 8 horas, acompanhados de distensão abdominal e dois episódios de vômitos. Tem antecedente de doença pulmonar obstrutiva crônica em uso de oxigênio domiciliar. Ao exame físico, encontrava-se em regular estado geral e desidratado, ausculta pulmonar e cardíaca sem alterações; abdome distendido, sem dor à palpação profunda e sem sinais de irritação peritoneal; região inguinal direita com abaulamento local endurecido de 4 cm, sem hiperemia e doloroso à palpação. Exames laboratoriais: Hb: 17,1 g/dL Ht: 51% Leucograma: 8.274/mm³ Creatinina: 1,9 mg/dL Ureia: 91 mg/dL Além da hidratação e suporte clínico, qual é a melhor conduta neste caso?",
+  "alts": [
+   "Laparoscopia.",
+   "Inguinotomia.",
+   "Laparotomia mediana.",
+   "Redução manual da hérnia."
+  ],
+  "gab": 1,
+  "tema": "hernias",
+  "sub": "Hérnia inguinal encarcerada com obstrução",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "HerniaSurge Group. International guidelines for groin hernia management, Hernia 2018",
+  "coment": "Abaulamento inguinal endurecido e doloroso há 8 horas com distensão abdominal e vômitos indica hérnia encarcerada com obstrução intestinal e risco de estrangulamento. A redução manual só é tentada em hérnia encarcerada recente, sem sinais de sofrimento; com obstrução e evolução de horas, está contraindicada pelo risco de reduzir alça isquêmica. A inguinotomia permite avaliar a viabilidade da alça, ressecar se necessário e corrigir a hérnia, e pode ser feita sob bloqueio, o que é vantajoso no portador de DPOC em oxigênio domiciliar. Laparotomia mediana fica para alça inviável não acessível pela região inguinal.",
+  "porAlt": [
+   "Laparoscopia exige pneumoperitônio e anestesia geral, mal tolerados por paciente com DPOC em oxigênio domiciliar e abdome distendido.",
+   "Correta: a inguinotomia permite avaliar e tratar a alça encarcerada e corrigir a hérnia, inclusive sob bloqueio.",
+   "Laparotomia mediana não é a via inicial; fica para quando a alça inviável não pode ser abordada pela região inguinal.",
+   "Redução manual com obstrução e horas de evolução pode devolver ao abdome uma alça isquêmica."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 50
+  }
+ },
+ {
+  "pid": "u051",
+  "q": "Mulher, 52 anos de idade, queixa-se de dor retroesternal diurna em queimação há 3 anos. Nega relação direta com alimentação e piora noturna dos sintomas. Realizou endoscopia com achado de hérnia hiatal de 2 cm e esofagite erosiva grau A de Los Angeles, além de pangastrite enantematosa leve e teste de urease positivo. Na época, fez tratamento de H. pylori, com alívio parcial, porém interrompeu a medicação. Há 1 ano, a dor passou a ser mais frequente e iniciou omeprazol 20 mg duas vezes ao dia. Teve melhora parcial da dor, mas mantendo sintoma. Mantém o uso de omeprazol na mesma dose. Repetiu endoscopia, que evidenciou hérnia hiatal de 2 cm e esofagite erosiva distal grau A de Los Angeles. Qual é a melhor conduta a ser tomada no momento?",
+  "alts": [
+   "Trocar o inibidor de bomba de próton e associar procinético.",
+   "Realizar manometria e pH-metria.",
+   "Indicar tratamento cirúrgico do refluxo gastroesofágico.",
+   "Iniciar amitriptilina e acompanhamento psicológico."
+  ],
+  "gab": 1,
+  "tema": "digestivo",
+  "sub": "DRGE refratária ao IBP",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Consenso de Lyon 2.0 (Gyawali CP et al., Gut 2024); ACG Clinical Guideline for GERD (Katz PO et al., 2022)",
+  "coment": "A paciente mantém sintoma apesar de IBP em dose dobrada, e a endoscopia mostra apenas esofagite grau A de Los Angeles, achado que pelo Consenso de Lyon 2.0 não confirma DRGE. Antes de trocar remédio, rotular como funcional ou operar, é preciso documentar refluxo: pH-metria (ou pH-impedanciometria) define exposição ácida e associação sintoma-refluxo, e a manometria exclui distúrbio motor como acalasia e é obrigatória antes de qualquer fundoplicatura. Sem essa confirmação, cirurgia antirrefluxo tem alto risco de falha, e neuromodulador só entra depois de excluído refluxo patológico.",
+  "porAlt": [
+   "Trocar IBP e associar procinético sem confirmar o diagnóstico mantém a incerteza; procinéticos têm benefício pequeno na DRGE.",
+   "Correta: na refratariedade com esofagite grau A, que não confirma DRGE, manometria e pH-metria são o passo diagnóstico obrigatório.",
+   "Cirurgia antirrefluxo exige DRGE documentada e manometria prévia; operar sem isso aumenta o risco de falha.",
+   "Neuromodulador para hipersensibilidade ou pirose funcional só se indica após excluir refluxo patológico pela pH-metria."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 51
+  }
+ },
+ {
+  "pid": "u052",
+  "q": "Mulher, 42 anos de idade, foi admitida no Serviço de Emergência com icterícia há 1 semana, acompanhada de queda do estado geral e dor abdominal há 2 dias. Relata a urina mais escurecida. Ao exame físico, encontra-se em regular estado geral, temperatura de 38,1 °C, ictérica, FC de 110 bpm, PA de 100x60 mmHg; abdome flácido, doloroso à palpação profunda do hipocôndrio direito, sem massas palpáveis; sem outras alterações. • Exames laboratoriais: Hb: 13,9 g/dL Ht: 40% Leucograma: 15.326/mm³ Creatinina: 1,5 mg/dL Ureia: 60 mg/dL PCR: 180 mg/L TGO/AST: 269 U/L TGP/ALT: 211 U/L FA: 301 U/L GGT: 441 U/L Bilirrubina total: 9,7 mg/dL Bilirrubina direta: 8,5 mg/dL Amilase: 130 U/L Foi realizada ultrassonografia de abdome com os seguintes achados: vesícula biliar com múltiplos cálculos de até 0,5 cm, paredes finas e sem delaminação, via biliar extra-hepática com 1,1 cm, sem identificação de fatores obstrutivos evidentes ao método. Considerando a principal hipótese diagnóstica, qual é a melhor conduta?",
+  "alts": [
+   "Colangioressonância.",
+   "Colangiografia endoscópica.",
+   "Colecistectomia com colangiografia.",
+   "Colecistostomia percutânea."
+  ],
+  "gab": 1,
+  "tema": "hepatobiliar",
+  "sub": "Colangite aguda moderada",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Tokyo Guidelines 2018 (TG18)",
+  "coment": "Febre, icterícia e dor no hipocôndrio direito (tríade de Charcot), com colestase, leucocitose, PCR elevada e via biliar dilatada (1,1 cm) em paciente com colelitíase, firmam colangite aguda por coledocolitíase, mesmo sem o cálculo visto ao ultrassom. Pelos critérios de Tóquio 2018 é grau II (moderada): leucócitos acima de 12.000 e bilirrubina acima de 5 mg/dL; não há disfunção orgânica de grau III (creatinina abaixo de 2,0). A conduta é antibiótico e drenagem biliar precoce, preferencialmente endoscópica por CPRE, que também remove o cálculo. Colecistectomia fica para depois, na mesma internação.",
+  "porAlt": [
+   "Colangiorressonância é útil quando a suspeita de coledocolitíase é intermediária; aqui há colangite, que exige drenagem e não mais diagnóstico.",
+   "Correta: colangite grau II de Tóquio exige drenagem biliar precoce, preferencialmente por colangiografia endoscópica (CPRE).",
+   "Colecistectomia não drena a via biliar infectada; é feita após resolvida a colangite.",
+   "Colecistostomia drena a vesícula, não o colédoco; é opção para colecistite grave em paciente de alto risco."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 52
+  }
+ },
+ {
+  "pid": "u053",
+  "q": "Mulher, 78 anos de idade, bateu a cabeça no chão há 2 horas, após escorregar. Nega perda de consciência e lembra de tudo que aconteceu. Tem ferimento cortocontuso frontal. Faz uso de losartana e hidroclorotiazida. Ao exame físico, encontra-se com a escala de coma de Glasgow de 15, pupilas sem alterações e com ferimento frontal de 2 cm. Após a realização da sutura, qual é a conduta mais adequada?",
+  "alts": [
+   "Tomografia de crânio.",
+   "Ultrassonografia do nervo óptico.",
+   "Reavaliação ambulatorial em 24 horas.",
+   "Internação por 24 horas."
+  ],
+  "gab": 0,
+  "tema": "trauma",
+  "sub": "TCE leve no idoso",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Canadian CT Head Rule (Stiell IG et al., Lancet 2001); ATLS 11ª ed. (2025)",
+  "coment": "TCE leve com Glasgow 15, sem perda de consciência nem amnésia, normalmente não exigiria imagem. A idade, porém, muda a conduta: pela regra canadense, 65 anos ou mais é critério de alto risco para lesão que requer intervenção, e o idoso tem maior risco de hematoma por atrofia cerebral e fragilidade das veias pontes. Por isso a paciente de 78 anos deve fazer tomografia de crânio sem contraste antes da alta. Uso de anticoagulante ou antiagregante reforçaria a indicação, mas não é necessário para ela.",
+  "porAlt": [
+   "Correta: idade de 65 anos ou mais é critério de alto risco na regra canadense e indica tomografia de crânio no TCE leve.",
+   "Ultrassonografia do nervo óptico estima pressão intracraniana em contexto específico; não substitui a tomografia para lesão intracraniana.",
+   "Reavaliação ambulatorial sem imagem deixaria passar hematoma em paciente de alto risco pela idade.",
+   "Internação não substitui a imagem; a tomografia define se há lesão e orienta a necessidade de observação."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 53
+  }
+ },
+ {
+  "pid": "u054",
+  "q": "Mulher, 69 anos de idade, foi submetida à laparotomia exploradora para reconstrução de trânsito intestinal 6 meses após retossigmoidectomia com colostomia terminal devido à diverticulite aguda. No intraoperatório foi necessário realizar lise de aderências de intestino. O procedimento foi realizado sem intercorrências com duração de 6 horas e a paciente foi encaminhada para enfermaria. Desde o primeiro dia pós-operatório, estava deambulando. No terceiro dia pós-operatório, evoluiu com distensão abdominal e vômitos. Neste momento, foi realizada a passagem de sonda nasogástrica com saída de 900 mL. No sexto dia pós-operatório, manteve débito elevado pela sonda (> 1000 mL/dia). Ainda não evacuou e sem eliminação de gases. Ao exame físico, encontra-se em bom estado geral, FC de 80 bpm e PA de 130x80 mmHg, hidratada, abdome com ferida de bom aspecto, distendido, ruídos diminuídos e pouca dor à palpação profunda, sem sinais de irritação peritoneal. Dreno com débito seroso (média de 80 mL/dia). • Exames laboratoriais: Hb: 10,1 g/dL Ht: 31% Leucograma: 8.120/mm³ Creatinina: 0,9 mg/dL Ureia: 54 mg/dL PCR: 41 mg/L (prévio de dois dias atrás 81 mg/L) Assinale a principal hipótese diagnóstica para este caso.",
+  "alts": [
+   "Íleo paralítico.",
+   "Gastroparesia.",
+   "Obstrução por brida.",
+   "Deiscência de anastomose."
+  ],
+  "gab": 0,
+  "tema": "periop",
+  "sub": "Íleo pós-operatório prolongado",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Vather R, Trivedi S, Bissett I. Defining postoperative ileus: results of a systematic review and global survey, J Gastrointest Surg 2013",
+  "coment": "Após operação longa com lise extensa de aderências e manipulação de alças, a paciente não elimina gases nem fezes no 6º dia, com distensão, ruídos diminuídos e alto débito gástrico, porém em bom estado geral, sem taquicardia, sem leucocitose, com PCR em queda, dreno seroso e sem sinais peritoneais. Esse conjunto define íleo paralítico prolongado (mais de 4 dias após a cirurgia). Deiscência cursaria com piora clínica, febre, taquicardia e PCR em ascensão. Obstrução por brida precoce costuma ter dor em cólica e ruídos aumentados. O manejo inclui sonda, correção eletrolítica e nutrição se o íleo persistir.",
+  "porAlt": [
+   "Correta: distensão, ruídos diminuídos e alto débito sem sinais inflamatórios após cirurgia longa com lise de aderências definem íleo paralítico.",
+   "Gastroparesia isolada não explica distensão abdominal com ausência de gases e evacuações.",
+   "Obstrução por brida precoce costuma ter dor em cólica e ruídos aumentados, e não ruídos diminuídos com pouca dor.",
+   "Deiscência cursaria com febre, taquicardia, PCR em ascensão ou sinais peritoneais, ausentes aqui."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 54
+  }
+ },
+ {
+  "pid": "u055",
+  "q": "Mulher, 52 anos de idade, apresentou lesão cutânea hipercrômica em antebraço direito. Foi realizada biópsia excisional da lesão, com o seguinte anatomopatológico: • Melanoma cutâneo invasivo; • Tipo histológico: extensivo superficial; • Nível IV de Clark; • Breslow: 4,1 mm; • Ulceração: presente; • Índice mitótico: 3/mm²; • Invasão perineural: presente; • Margens cirúrgicas radiais: comprometidas; • Margens cirúrgicas profundas: livres. Quais são os fatores de maior impacto prognóstico no anatomopatológico do caso apresentado?",
+  "alts": [
+   "Índice mitótico e tipo histológico.",
+   "Índice mitótico e invasão perineural.",
+   "Breslow e margem radial comprometida.",
+   "Breslow e ulceração."
+  ],
+  "gab": 3,
+  "tema": "cironco",
+  "sub": "Fatores prognósticos do melanoma",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "AJCC Cancer Staging Manual, 8ª ed., 2017 (melanoma)",
+  "coment": "No melanoma localizado, os dois fatores do anatomopatológico de maior impacto prognóstico são a espessura de Breslow e a ulceração, e por isso definem a categoria T no AJCC 8ª edição. Breslow de 4,1 mm com ulceração é T4b, estádio IIC sem linfonodo acometido, de alto risco. O índice mitótico saiu do estadiamento T na 8ª edição, embora siga como marcador. O nível de Clark perdeu valor independente. Tipo histológico e invasão perineural têm peso menor. Margem radial comprometida exige ampliação, mas é questão de tratamento e não fator prognóstico do tumor.",
+  "porAlt": [
+   "Índice mitótico deixou de compor o T no AJCC 8ª edição, e o tipo histológico não tem valor prognóstico independente relevante.",
+   "Índice mitótico e invasão perineural têm peso menor que Breslow e ulceração, que definem o T.",
+   "Margem radial comprometida indica ampliação cirúrgica; não é fator prognóstico do tumor no estadiamento.",
+   "Correta: espessura de Breslow e ulceração são os fatores de maior impacto e definem a categoria T no AJCC 8ª edição."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 55
+  }
+ },
+ {
+  "pid": "u059",
+  "q": "Homem, 47 anos de idade, foi vítima de queda de andaime de 6 metros de altura. No atendimento pré-hospitalar, encontrava-se inconsciente, com PA de 90x60 mmHg e FC de 110 bpm. Foi realizada a intubação orotraqueal e infusão de 500 mL de cristaloide. Na admissão no Centro de Trauma, encontrava-se: A: Intubado com saturação de oxigênio de 97%. B: MV presente e sem deformidades no tórax. C: PA de 90x60 mmHg; FC de 120 bpm; FAST com líquido no espaço hepatorrenal. D: Sedação. Escala de coma de Glasgow de 3. Deformidade frontal. E: Sem alterações. A equipe médica iniciou a reanimação volêmica com 3 concentrados de hemácias, 3 bolsas de plasma fresco congelado e uma aférese de plaquetas. Qual das alternativas a seguir apresenta os fatores que justificam a reanimação volêmica realizada neste caso?",
+  "alts": [
+   "Trauma de crânio; mecanismo de trauma.",
+   "Trauma de crânio; pressão arterial.",
+   "FAST positivo; pressão arterial.",
+   "FAST positivo; mecanismo de trauma."
+  ],
+  "gab": 2,
+  "tema": "trauma",
+  "sub": "Indicação de transfusão maciça",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ATLS 11ª ed. (2025); escore ABC (Nunez TC et al., J Trauma 2009)",
+  "coment": "O protocolo de transfusão maciça com hemácias, plasma e plaquetas em proporção equilibrada foi acionado por choque hemorrágico. O escore ABC usa quatro critérios: mecanismo penetrante, PA sistólica de 90 mmHg ou menos, FC de 120 bpm ou mais e FAST positivo; dois ou mais predizem necessidade de transfusão maciça. O paciente tem PAS de 90 mmHg, FC de 120 bpm e FAST com líquido no espaço hepatorrenal, sem resposta ao cristaloide. Queda de andaime é trauma contuso e não pontua no critério de mecanismo. O TCE não justifica reposição volêmica com hemoderivados.",
+  "porAlt": [
+   "TCE não causa choque hemorrágico no adulto e trauma contuso não pontua no escore ABC.",
+   "O TCE não justifica hemoderivados; a hipotensão aqui é hemorrágica, de origem abdominal.",
+   "Correta: FAST positivo e PAS de 90 mmHg são critérios do escore ABC que justificam a transfusão maciça.",
+   "O mecanismo só pontua no escore ABC quando é penetrante; queda de altura é trauma contuso."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 59
+  }
+ },
+ {
+  "pid": "u060",
+  "q": "Homem, 47 anos de idade, foi vítima de queda de andaime de 6 metros de altura. No atendimento pré-hospitalar, encontrava-se inconsciente, com PA de 90x60 mmHg e FC de 110 bpm. Foi realizada a intubação orotraqueal e infusão de 500 mL de cristaloide. Na admissão no Centro de Trauma, encontrava-se: A: Intubado com saturação de oxigênio de 97%. B: MV presente e sem deformidades no tórax. C: PA de 90x60 mmHg; FC de 120 bpm; FAST com líquido no espaço hepatorrenal. D: Sedação. Escala de coma de Glasgow de 3. Deformidade frontal. E: Sem alterações. A equipe médica iniciou a reanimação volêmica com 3 concentrados de hemácias, 3 bolsas de plasma fresco congelado e uma aférese de plaquetas. Qual é o distúrbio eletrolítico esperado relacionado ao esquema de reanimação realizado?",
+  "alts": [
+   "Hipercalcemia.",
+   "Hiperpotassemia.",
+   "Hipocalcemia.",
+   "Hipopotassemia."
+  ],
+  "gab": 2,
+  "tema": "trauma",
+  "sub": "Hipocalcemia na transfusão maciça",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ATLS 11ª ed. (2025)",
+  "coment": "Hemocomponentes são anticoagulados com citrato, que quela o cálcio ionizado. Na transfusão rápida e volumosa, sobretudo com plasma, o fígado hipoperfundido não metaboliza o citrato a tempo e surge hipocalcemia, que piora a contratilidade miocárdica, o tônus vascular e a coagulação (o cálcio é cofator da cascata). Ela integra o chamado diamante letal com hipotermia, acidose e coagulopatia. O ATLS recomenda monitorar o cálcio ionizado e repor cálcio durante o protocolo de transfusão maciça. Hiperpotassemia pode ocorrer com sangue estocado, mas é menos frequente.",
+  "porAlt": [
+   "O citrato dos hemocomponentes quela o cálcio, levando a hipocalcemia e não a hipercalcemia.",
+   "Hiperpotassemia pode ocorrer com sangue estocado, mas o distúrbio típico e mais frequente é a hipocalcemia pelo citrato.",
+   "Correta: o citrato usado como anticoagulante nos hemocomponentes quela o cálcio ionizado e causa hipocalcemia.",
+   "Hipopotassemia pode surgir tardiamente pelo metabolismo do citrato, mas não é o distúrbio esperado na reanimação."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 60
+  }
+ },
+ {
+  "pid": "u061",
+  "q": "Mulher, 32 anos de idade, com obesidade grau III (IMC de 46 kg/m²), foi submetida a bypass gástrico em Y de Roux por videolaparoscopia. No primeiro dia pós-operatório, encontra-se deitada. Ao exame físico, apresentou bom estado geral com FC de 113 bpm, PA de 110x60 mmHg, FR de 22 ipm, saturação de oxigênio de 92%; ausculta pulmonar diminuída nas bases; abdome flácido, pouco doloroso à palpação profunda, com ruídos hidroaéreos presentes e com curativos secos. O dreno abdominal exteriorizado em hipocôndrio esquerdo está com débito hemático em pequena quantidade. Qual é a melhor conduta neste momento?",
+  "alts": [
+   "Abertura de protocolo de sepse e transferência para UTI.",
+   "Angiotomografia de tórax para investigar tromboembolismo pulmonar.",
+   "Otimizar analgesia e fisioterapia motora/respiratória.",
+   "Tomografia de abdome com contraste via oral."
+  ],
+  "gab": 2,
+  "tema": "periop",
+  "sub": "Taquicardia no pós-operatório de bariátrica",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "AACE/TOS/ASMBS/OMA/ASA. Clinical practice guidelines for the perioperative nutrition, metabolic, and nonsurgical support of patients undergoing bariatric procedures, 2019 update (Mechanick JI et al.)",
+  "coment": "No primeiro dia após bypass gástrico, a paciente deitada, com murmúrio diminuído nas bases, taquipneia leve e saturação de 92%, tem quadro típico de atelectasia, muito comum no obeso grave pela restrição respiratória e hipoventilação por dor. Está em bom estado geral, abdome sem peritonite, dreno com pouco sangue. A FC de 113 bpm é moderada e acompanha o quadro respiratório; taquicardia sustentada acima de 120 bpm seria sinal de alarme para fístula ou tromboembolismo. A conduta é otimizar analgesia, sentar e deambular, e fisioterapia respiratória e motora, com reavaliação estreita.",
+  "porAlt": [
+   "Não há critérios de sepse: bom estado geral, abdome flácido e sem peritonite; a hipótese principal é atelectasia.",
+   "Angiotomografia seria indicada com taquicardia sustentada acima de 120 bpm ou hipoxemia desproporcional; aqui o quadro é explicado pela atelectasia.",
+   "Correta: atelectasia no obeso no pós-operatório imediato é tratada com analgesia, mobilização e fisioterapia respiratória.",
+   "Tomografia com contraste oral investiga fístula, que exigiria sinais abdominais ou taquicardia acima de 120 bpm, ausentes aqui."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 61
+  }
+ },
+ {
+  "pid": "u064",
+  "q": "Criança, do sexo feminino, 5 anos de idade, apresenta dor e aumento do volume abdominal há 3 meses, acompanhados de febre intermitente e inapetência. Nascida de parto normal, sem intercorrências. Nega outras doenças. Ao exame físico, encontra-se em regular estado geral, descorada, eupneica, afebril, anictérica; PA de 100x60 mmHg, FC de 92 bpm, abdome com massa indolor palpável no flanco esquerdo. Genitais externos sem alterações. • Exames laboratoriais: Hb: 8,4 g/dL Leucócitos: 6.200/mm³ sem desvio Creatinina: 0,44 mg/dL Ureia: 0,28 mg/dL Urina tipo I: 1 milhão de hemácias/mL e 68.000 leucócitos/mL Ressonância de abdome apresentada a seguir: Em relação ao caso apresentado, assinale a hipótese diagnóstica mais provável.",
+  "alts": [
+   "Neuroblastoma.",
+   "Hidronefrose.",
+   "Tumor de Wilms.",
+   "Tumor ovariano."
+  ],
+  "gab": 2,
+  "tema": "especialidades",
+  "sub": "Massa abdominal na infância",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 22ª ed., 2024",
+  "coment": "Criança de 5 anos com massa de flanco indolor, hematúria maciça, anemia e sintomas constitucionais aponta para tumor de Wilms (nefroblastoma), o tumor renal mais comum da infância, com pico entre 3 e 4 anos. A hematúria indica origem renal da massa. O neuroblastoma incide mais em menores de 2 anos, costuma cruzar a linha média, calcifica, envolve vasos e cursa com doença disseminada (dor óssea, equimose periorbitária) e catecolaminas urinárias elevadas, sem hematúria. A ressonância confirmaria a origem renal (sinal da garra). Hidronefrose não causa febre com anemia, e tumor ovariano não explica hematúria.",
+  "porAlt": [
+   "Neuroblastoma é mais comum antes dos 2 anos e é suprarrenal, sem hematúria; a origem renal favorece Wilms.",
+   "Hidronefrose não explica anemia, febre intermitente e massa sólida com hematúria maciça.",
+   "Correta: massa renal indolor com hematúria e anemia aos 5 anos é a apresentação típica do tumor de Wilms.",
+   "Tumor ovariano é raro nessa idade e não explicaria a hematúria, que indica origem urinária."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 64
+  }
+ },
+ {
+  "pid": "u065",
+  "q": "Homem, 71 anos de idade, está em programação de tratamento operatório eletivo de hérnia incisional de laparotomia mediana. Faz uso regular de ácido acetilsalicílico, clopidogrel e metformina. Após avaliação pré-operatória, foi liberado pelo clínico para o procedimento. Como deve ser a orientação referente ao uso dos medicamentos?",
+  "alts": [
+   "Ácido acetil salicílico: Manter; Clopidogrel: Suspender 5 dias antes; Metformina: Suspender 24 horas antes",
+   "Ácido acetil salicílico: Manter; Clopidogrel: Suspender 48 horas antes; Metformina: Suspender 24 horas antes",
+   "Ácido acetil salicílico: Suspender 5 dias antes; Clopidogrel: Suspender 48 horas antes; Metformina: Suspender 3 dias antes",
+   "Ácido acetil salicílico: Suspender 5 dias antes; Clopidogrel: Suspender 5 dias antes; Metformina: Suspender 3 dias antes"
+  ],
+  "gab": 0,
+  "tema": "periop",
+  "sub": "Antiagregantes e metformina no pré-operatório",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACC/AHA Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, 2024; ADA Standards of Care in Diabetes 2026",
+  "coment": "Em cirurgia eletiva com baixo risco de sangramento grave, como herniorrafia incisional, o AAS é mantido, sobretudo no paciente com indicação cardiovascular, porque suspender aumenta eventos trombóticos. O clopidogrel deve ser suspenso 5 dias antes (7 para prasugrel), tempo para renovar as plaquetas. A metformina é suspensa na véspera ou no dia da cirurgia (cerca de 24 horas), pelo jejum e risco de lesão renal e acidose láctica, e retomada com dieta e função renal estáveis. Se o paciente usasse dupla antiagregação por stent recente, a cirurgia eletiva deveria ser adiada.",
+  "porAlt": [
+   "Correta: mantém AAS, suspende clopidogrel 5 dias antes e metformina cerca de 24 horas antes da cirurgia.",
+   "Suspender clopidogrel só 48 horas antes não basta para recuperar a função plaquetária.",
+   "Suspender o AAS aumenta risco trombótico sem necessidade, e 48 horas é pouco para o clopidogrel.",
+   "Suspender o AAS em cirurgia de baixo risco hemorrágico é desnecessário, e metformina não precisa de 3 dias de suspensão."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 65
+  }
+ },
+ {
+  "pid": "u066",
+  "q": "Mulher, 59 anos de idade, teve diagnóstico de adenocarcinoma de cólon direito há 1 mês e meio. Foi realizada tomografia de abdome que revelou quatro nódulos hepáticos nos segmentos 5, 6 e 7 de cerca de 2,5 cm cada um. A dosagem do CEA foi de 20 mg/dL. Enquanto aguardava encaminhamento para o centro de referência para o tratamento, evoluiu com quadro de obstrução intestinal. A paciente encontra-se estável no Serviço de Emergência. Qual é a melhor conduta neste momento?",
+  "alts": [
+   "Colostomia em alça.",
+   "Colocação de stent cólico.",
+   "Ressecção do tumor primário com linfadenectomia.",
+   "Ressecção do tumor primário sem linfadenectomia."
+  ],
+  "gab": 2,
+  "tema": "digestivo",
+  "sub": "Obstrução por câncer de cólon direito",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "WSES. 2017 guidelines on colon and rectal cancer emergencies: obstruction and perforation (Pisano M et al., World J Emerg Surg 2018); ESMO Clinical Practice Guideline for metastatic colorectal cancer, 2023",
+  "coment": "Obstrução por adenocarcinoma de cólon direito em paciente estável tem como tratamento de escolha a colectomia direita oncológica com anastomose primária, mesmo com metástases hepáticas. As metástases são poucas (4 nódulos em segmentos 5, 6 e 7), potencialmente ressecáveis, e o objetivo segue curativo, o que exige linfadenectomia adequada para estadiamento e controle locorregional. Stent cólico tem papel principal no cólon esquerdo, com resultados piores à direita. Colostomia em alça não se aplica bem ao cólon direito e adia o tratamento do tumor.",
+  "porAlt": [
+   "Colostomia em alça é derivação para obstrução distal e não resolve o tumor do cólon direito; a ressecção primária é viável.",
+   "Stent é ponte usada principalmente no cólon esquerdo; no direito tem menor sucesso, e a ressecção imediata é a escolha.",
+   "Correta: colectomia direita com linfadenectomia trata a obstrução e mantém a intenção curativa com metástases hepáticas ressecáveis.",
+   "Ressecar sem linfadenectomia compromete o estadiamento e o controle oncológico em doença com intenção curativa."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 66
+  }
+ },
+ {
+  "pid": "u067",
+  "q": "Homem, 55 anos de idade, após apresentar melena, foi submetido à endoscopia digestiva alta que mostrou varizes de esôfago com sinais de sangramento recente. Feito diagnóstico de cirrose por vírus C. O cálculo do escore de Child era de B8 e MELD-Na de 20. A tomografia de abdome demonstrou fígado com superfícies irregulares, diminuído de tamanho, recanalização da veia paraumbilical com nódulos de 3 cm no segmento VII e 2 cm no segmento VI, com realce na fase arterial e lavagem na fase tardia (wash-out), esplenomegalia, varizes perigástricas, periesplênicas e shunt esplenorrenal. Qual é a melhor conduta neste caso?",
+  "alts": [
+   "Transplante hepático.",
+   "Hepatectomia regrada.",
+   "Hepatectomia não regrada.",
+   "Quimioterapia exclusiva."
+  ],
+  "gab": 0,
+  "tema": "hepatobiliar",
+  "sub": "Carcinoma hepatocelular na cirrose",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "BCLC 2022 (Reig M et al., J Hepatol 2022); critérios de Milão (Mazzaferro V et al., NEJM 1996)",
+  "coment": "Nódulos com realce arterial e lavagem tardia em fígado cirrótico têm diagnóstico radiológico de carcinoma hepatocelular, sem biópsia. Dois nódulos de 3 cm e 2 cm estão dentro dos critérios de Milão (nódulo único até 5 cm ou até 3 nódulos de até 3 cm). O paciente tem Child B8, MELD-Na 20 e hipertensão portal clinicamente significativa (varizes sangrantes, shunts, esplenomegalia): a hepatectomia teria alto risco de descompensação. O transplante hepático trata ao mesmo tempo o tumor e a cirrose, e é a melhor conduta pelo BCLC 2022.",
+  "porAlt": [
+   "Correta: CHC dentro dos critérios de Milão com cirrose Child B e hipertensão portal tem no transplante o tratamento de escolha.",
+   "Hepatectomia regrada em Child B com hipertensão portal significativa tem alto risco de insuficiência hepática pós-operatória.",
+   "Mesmo ressecção não regrada é contraindicada pela hipertensão portal e função hepática limítrofe, além de deixar o fígado doente.",
+   "Quimioterapia sistêmica é para doença avançada; o paciente tem tumor tratável com intenção curativa."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 67
+  }
+ },
+ {
+  "pid": "u068",
+  "q": "Homem, 67 anos de idade, apresentou melena em grande quantidade há 1 hora. Tem antecedente de troca de valva mitral e faz uso contínuo de varfarina. • Exames laboratoriais: Hb: 6,3 g/dL Ht: 19% Plaquetas: 135 mil/mm³ TP com INR de 5,1 TTPa com R de 1,14 Na sala de emergência, além da reanimação volêmica, qual deve ser a conduta mais adequada antes da realização da endoscopia digestiva alta?",
+  "alts": [
+   "Vitamina K.",
+   "Fibrinogênio.",
+   "Aférese de plaquetas.",
+   "Complexo protrombínico."
+  ],
+  "gab": 3,
+  "tema": "emergencias",
+  "sub": "Reversão da varfarina em hemorragia grave",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants, 2020",
+  "coment": "Hemorragia digestiva maciça com Hb de 6,3 g/dL em uso de varfarina com INR 5,1 é sangramento ameaçador à vida. A reversão deve ser imediata com complexo protrombínico de 4 fatores, que normaliza o INR em minutos, associado a vitamina K intravenosa, que sustenta o efeito, pois o complexo tem meia-vida curta. Vitamina K isolada leva horas para agir. Plasma é alternativa se o complexo faltar, com mais volume e demora. O paciente com prótese mitral tem alto risco trombótico, mas, diante do sangramento grave, a reversão vem primeiro e a anticoagulação é retomada após a hemostasia.",
+  "porAlt": [
+   "Vitamina K é necessária, mas isolada demora horas para reduzir o INR, tempo inaceitável em sangramento maciço.",
+   "Fibrinogênio não repõe os fatores dependentes de vitamina K bloqueados pela varfarina.",
+   "Plaquetas estão em 135 mil e a coagulopatia é por varfarina, não por plaquetopenia.",
+   "Correta: o complexo protrombínico de 4 fatores reverte a varfarina em minutos no sangramento grave, junto com vitamina K IV."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 68
+  }
+ },
+ {
+  "pid": "u069",
+  "q": "Mulher, 52 anos de idade, foi internada com hemorragia digestiva. Após investigação, foi diagnosticado câncer gástrico com indicação de gastrectomia total. Durante a internação, evoluiu com um edema assimétrico de membros inferiores. A ultrassonografia Doppler demonstrou extensa trombose venosa profunda iliacofemoral à esquerda. Assinale a alternativa que apresenta a conduta mais adequada para o caso.",
+  "alts": [
+   "Manter a operação; iniciar enoxaparina em dose plena, suspender 12 horas antes e reiniciar 48 horas após a operação.",
+   "Manter a operação; passar filtro de cava no pré-operatório e iniciar enoxaparina em dose plena 48 horas após a operação.",
+   "Adiar a operação em 4 semanas; passar filtro de cava no pré-operatório e iniciar enoxaparina em dose plena 48 horas após a operação.",
+   "Adiar a operação em 4 semanas; iniciar enoxaparina em dose plena, suspender 12 horas antes e reiniciar 48 horas após a operação."
+  ],
+  "gab": 1,
+  "tema": "periop",
+  "sub": "TVP aguda antes de cirurgia oncológica",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "CHEST. Antithrombotic Therapy for VTE Disease, Guideline and Expert Panel Report, 2016 (atualização 2021); ASCO. VTE prophylaxis and treatment in patients with cancer, guideline update 2023",
+  "coment": "TVP iliacofemoral aguda no pré-operatório tem alto risco de embolia nas primeiras semanas, quando a anticoagulação não pode ser interrompida. Aqui há motivos para não anticoagular plenamente antes da cirurgia: a paciente foi internada por hemorragia digestiva do próprio tumor. Adiar 4 semanas um câncer gástrico que sangra também não é razoável. Quando o tromboembolismo é recente e a anticoagulação está contraindicada, as diretrizes indicam filtro de veia cava inferior, que permite operar. A anticoagulação plena começa assim que o risco hemorrágico pós-operatório permitir, e o filtro deve ser removido quando não for mais necessário.",
+  "porAlt": [
+   "Anticoagular plenamente quem acaba de sangrar pelo tumor e interromper a anticoagulação com TVP de dias expõe a sangramento e embolia.",
+   "Correta: TVP aguda com contraindicação à anticoagulação e cirurgia que não deve esperar indica filtro de cava e anticoagulação no pós-operatório.",
+   "Adiar 4 semanas um câncer gástrico que sangra é inadequado, e o filtro existe justamente para permitir operar sem esperar.",
+   "Adiar a cirurgia e anticoagular plenamente desconsidera o sangramento tumoral, que contraindica a anticoagulação."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 69
+  }
+ },
+ {
+  "pid": "u071",
+  "q": "Homem, 27 anos idade, realizou tomografia de tórax com achado incidental de nódulo na tireoide. Na sequência, foi submetido à ultrassonografia Doppler da tireoide que revelou nódulo em terço inferior de lobo esquerdo, predominantemente sólido, hipoecogênico, mais alto do que largo, de margens pouco definidas, com numerosos focos puntiformes hiperecogênicos de permeio, medindo 2,1 x 1,8 x 1,6 cm (TI-RADS ACR 5 - Thyroid Imaging Reporting and Data System American College of Radiology), com fluxo central e periférico equivalentes ao Doppler colorido (Chammas III). Diante desse cenário, qual deve ser a próxima conduta?",
+  "alts": [
+   "Ablação por radiofrequência.",
+   "Tireoidectomia parcial esquerda.",
+   "Acompanhamento ultrassonográfico em 6 meses.",
+   "Punção aspirativa por agulha fina e análise citológica."
+  ],
+  "gab": 3,
+  "tema": "cabeca",
+  "sub": "Nódulo de tireoide TI-RADS 5",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ACR TI-RADS (Tessler FN et al., J Am Coll Radiol 2017)",
+  "coment": "O nódulo soma achados de alta suspeição: sólido, hipoecoico, mais alto que largo, margens mal definidas e microcalcificações (focos puntiformes hiperecogênicos), classificado como ACR TI-RADS 5. Nessa categoria, a punção aspirativa com agulha fina é indicada a partir de 1 cm, e o nódulo mede 2,1 cm. A citologia, classificada por Bethesda, define a conduta cirúrgica e sua extensão. Operar sem citologia ou apenas acompanhar seriam condutas inadequadas, e a ablação por radiofrequência é para nódulos benignos confirmados.",
+  "porAlt": [
+   "Ablação por radiofrequência é reservada a nódulos benignos sintomáticos com citologia benigna confirmada.",
+   "Cirurgia sem diagnóstico citológico não é indicada; a punção define a necessidade e a extensão da operação.",
+   "Acompanhamento só é aceito em TI-RADS 5 abaixo de 1 cm; com 2,1 cm a punção é indicada.",
+   "Correta: TI-RADS 5 com 1 cm ou mais tem indicação de punção aspirativa por agulha fina e citologia."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 71
+  }
+ },
+ {
+  "pid": "u072",
+  "q": "Lactente, 4 meses de idade, nascido de parto normal, com 3.200 g, apresenta icterícia persistente desde o 20º dia de vida. Ao exame físico, encontra-se em bom estado geral, peso atual de 5.100 g, hepatomegalia discreta, endurecida e baço aumentado de volume. Não apresenta nenhuma massa palpável. Além de colúria, apresenta acolia persistente avaliada durante a internação e ascite discreta. As últimas dosagens de bilirrubinas mostraram níveis da fração direta de 12 mg/dL e indireta de 3 mg/dL; TGO/AST de 124 U/L; TGP/ALT de 96 U/L. A ultrassonografia de abdome realizada logo após a mamada, não descreveu nenhuma alteração. A biópsia hepática por agulha mostrou proliferação biliar ductal, trombos biliares e fibrose portal. Qual é o principal diagnóstico e a conduta mais adequada, respectivamente?",
+  "alts": [
+   "Cisto de colédoco, correção cirúrgica.",
+   "Cisto de colédoco, transplante hepático.",
+   "Atresia de vias biliares, portoenteroanastomose.",
+   "Atresia de vias biliares, transplante hepático."
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Atresia de vias biliares diagnosticada tardiamente",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "NASPGHAN/ESPGHAN. Guideline for the evaluation of cholestatic jaundice in infants (Fawaz R et al., J Pediatr Gastroenterol Nutr 2017)",
+  "coment": "Icterícia colestática persistente com acolia, colúria, hepatoesplenomegalia e biópsia com proliferação ductal, trombos biliares e fibrose portal confirma atresia de vias biliares; o ultrassom normal não exclui. A portoenterostomia de Kasai tem melhores resultados até 60 dias de vida e perde muito o benefício após 90 a 100 dias. Aos 4 meses, já com ascite e esplenomegalia por cirrose estabelecida e hipertensão portal, o tratamento indicado é o transplante hepático primário. O cisto de colédoco seria visto ao ultrassom como dilatação cística da via biliar.",
+  "porAlt": [
+   "Cisto de colédoco aparece ao ultrassom como dilatação cística da via biliar, e o exame foi normal.",
+   "Cisto de colédoco não foi visto ao ultrassom, e a biópsia é típica de atresia de vias biliares.",
+   "Kasai aos 4 meses, com ascite e cirrose estabelecida, tem baixa chance de sucesso; a janela ideal é até 60 dias.",
+   "Correta: atresia de vias biliares diagnosticada aos 4 meses com cirrose e hipertensão portal tem indicação de transplante hepático."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 72
+  }
+ },
+ {
+  "pid": "u073",
+  "q": "Adolescente, 16 anos de idade, queixa-se de ainda não ter menstruado. Apresenta peso no percentil 60 e altura no percentil 20 em relação às curvas da Organização Mundial da Saúde (OMS). Avaliação de mamas Tanner 2; genitália externa com baixa pilificação (P2), introito vaginal com formação de pequenos lábios e hímen íntegro e perfurado. A ultrassonografia realizada por via abdominal visualiza gônadas pélvicas junto ao útero e volume reduzido, inferior a 2 cm³, com raros folículos e útero diminuído com linha endometrial tênue. Qual é o cariótipo compatível?",
+  "alts": [
+   "45 X.",
+   "46 XY.",
+   "47 XXY.",
+   "46 XX+21."
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Amenorreia primária com disgenesia gonadal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Gravholt CH et al. Clinical practice guidelines for the care of girls and women with Turner syndrome, Eur J Endocrinol 2024",
+  "coment": "Amenorreia primária aos 16 anos com puberdade incompleta (mamas Tanner 2), útero presente, mas pequeno, e gônadas pequenas com raros folículos indica disgenesia gonadal com falência ovariana precoce. Entre as opções, o cariótipo compatível é 45,X (síndrome de Turner), em que os ovários sofrem atresia folicular acelerada; parte das pacientes inicia puberdade espontânea, sobretudo nos mosaicos. Na disgenesia 46,XY (Swyer) não há folículos, só gônada em fita, e a estatura é normal ou alta. A baixa estatura é a regra no Turner; a altura no percentil 20 é atípica, mas o folículo ovariano exclui o 46,XY.",
+  "porAlt": [
+   "Correta: disgenesia gonadal com útero presente, gônadas pequenas e raros folículos é compatível com 45,X.",
+   "Na disgenesia 46,XY a gônada é em fita, sem folículos ovarianos, o que não corresponde ao achado de folículos.",
+   "47,XXY é a síndrome de Klinefelter, de fenótipo masculino, incompatível com útero e genitália feminina.",
+   "Trissomia do 21 não causa disgenesia gonadal com amenorreia primária, e o cariótipo correto seria 47,XX,+21."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 73
+  }
+ },
+ {
+  "pid": "u075",
+  "q": "Mulher, 27 anos de idade, refere dor mamária que se inicia cerca de 15 dias antes da menstruação. A dor é bilateral e intensa, dificultando uso de vestimenta e a realização de atividade física. Faz uso de anti-inflamatórios e analgésicos, sem resultado adequado. Apresenta ciclos menstruais regulares com intervalo de 30 dias. Faz uso de preservativo como contraceptivo. O exame clínico realizado no décimo dia do ciclo menstrual, revela mamas simétricas, sem abaulamentos ou retrações e a palpação é de tecido fibroglandular sem nódulos ou espessamentos identificados. Qual é o tratamento mais eficiente para esta paciente?",
+  "alts": [
+   "Vitamina E.",
+   "Tamoxifeno.",
+   "Espironolactona.",
+   "Progesterona natural."
+  ],
+  "gab": 1,
+  "tema": "ginecologia",
+  "sub": "Mastalgia cíclica refratária",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Federação Brasileira das Associações de Ginecologia e Obstetrícia. Tratado de Ginecologia FEBRASGO, 2019",
+  "coment": "Mastalgia cíclica, bilateral, pré-menstrual, com exame normal é condição benigna, e a primeira medida é tranquilizar e orientar (sutiã adequado, analgesia). Quando a dor é intensa e refratária, comprometendo atividades, indica-se tratamento hormonal. O tamoxifeno em dose baixa (10 mg ao dia, por 3 a 6 meses) é o fármaco com maior eficácia comprovada, superior ao danazol e com menos efeitos adversos que ele. Exige contracepção eficaz não hormonal, pois é teratogênico. Vitamina E, espironolactona e progesterona não mostraram benefício consistente sobre o placebo.",
+  "porAlt": [
+   "Vitamina E não mostrou benefício consistente sobre o placebo na mastalgia cíclica.",
+   "Correta: o tamoxifeno em dose baixa é o tratamento com maior eficácia comprovada na mastalgia cíclica intensa e refratária.",
+   "Espironolactona não tem eficácia comprovada para mastalgia cíclica.",
+   "Progesterona natural tópica ou oral não mostrou eficácia superior ao placebo na mastalgia."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 75
+  }
+ },
+ {
+  "pid": "u077",
+  "q": "Mulher, 24 anos de idade, queixa-se de irregularidade menstrual (ciclos com intervalo de 40 dias e duração de 3 dias), aumento de pelos faciais e acne persistente na face e no tronco há cerca de três anos. Refere dificuldade para perder peso. Ao exame clínico, apresentou bom estado geral, corada, hidratada, anictérica, acianótica e afebril; peso de 78 kg, altura 1,65 m e IMC de 27,5 kg/m²; PA de 120x80 mmHg; exame ginecológico com trofismo genital preservado, sem alterações. O exame da pele da face é apresentado na imagem a seguir: • Exames laboratoriais: Glicose: 88 mg/dL Hemoglobina glicada: 5,2% Insulina: 12 mU/L Cálculo do HOMA-IR: 2,6 TSH: 1,2 mUI/L Testosterona livre: 34 pmol/L Estradiol na fase folicular: 8,3 ng/dL LH na fase folicular: 16,9 U/L FSH na fase folicular: 2,8 UI/L Prolactina: 33 μg/L Qual é o objetivo do tratamento desta condição com contraceptivo hormonal oral combinado?",
+  "alts": [
+   "Aumentar a liberação de FSH para contrabalançar o efeito do LH.",
+   "Bloquear diretamente a produção de androgênios ovarianos.",
+   "Reduzir o efeito do LH sobre as células da teca interna.",
+   "Proporcionar o crescimento endometrial de forma adequada."
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Anticoncepcional oral na SOP",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Teede HJ et al. International evidence-based guideline for the assessment and management of polycystic ovary syndrome, 2023",
+  "coment": "Ciclos espaçados, hirsutismo e acne com testosterona livre elevada e relação LH/FSH aumentada configuram síndrome dos ovários policísticos pelos critérios de Rotterdam. Na SOP, o LH elevado estimula as células da teca interna a produzir androgênios. O contraceptivo combinado suprime a secreção hipofisária de LH, reduzindo o estímulo sobre a teca e, assim, a produção ovariana de androgênios; o estrogênio também aumenta a SHBG, diminuindo a testosterona livre. É a primeira linha para hiperandrogenismo e irregularidade menstrual na diretriz internacional de 2023. O efeito é indireto, via eixo hipotálamo-hipófise.",
+  "porAlt": [
+   "O contraceptivo combinado suprime as gonadotrofinas, inclusive o FSH; não aumenta sua liberação.",
+   "O efeito sobre os androgênios ovarianos é indireto, pela supressão do LH, e não um bloqueio direto da esteroidogênese.",
+   "Correta: o contraceptivo suprime o LH e reduz seu estímulo sobre as células da teca, diminuindo a produção de androgênios.",
+   "O progestagênio do contraceptivo protege o endométrio contra hiperplasia; não visa promover seu crescimento."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 77
+  }
+ },
+ {
+  "pid": "u078",
+  "q": "Mulher, 24 anos de idade, queixa-se de irregularidade menstrual (ciclos com intervalo de 40 dias e duração de 3 dias), aumento de pelos faciais e acne persistente na face e no tronco há cerca de três anos. Refere dificuldade para perder peso. Ao exame clínico, apresentou bom estado geral, corada, hidratada, anictérica, acianótica e afebril; peso de 78 kg, altura 1,65 m e IMC de 27,5 kg/m²; PA de 120x80 mmHg; exame ginecológico com trofismo genital preservado, sem alterações. O exame da pele da face é apresentado na imagem a seguir: • Exames laboratoriais: Glicose: 88 mg/dL Hemoglobina glicada: 5,2% Insulina: 12 mU/L Cálculo do HOMA-IR: 2,6 TSH: 1,2 mUI/L Testosterona livre: 34 pmol/L Estradiol na fase folicular: 8,3 ng/dL LH na fase folicular: 16,9 U/L FSH na fase folicular: 2,8 UI/L Prolactina: 33 μg/L A acne apresentada pela paciente poderá ser adequadamente tratada com qual dos seguintes medicamentos?",
+  "alts": [
+   "Estrona.",
+   "Finasterida.",
+   "Cabergolina.",
+   "Progesterona."
+  ],
+  "gab": 1,
+  "tema": "ginecologia",
+  "sub": "Acne hiperandrogênica na SOP",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Endocrine Society. Evaluation and treatment of hirsutism in premenopausal women (Martin KA et al., J Clin Endocrinol Metab 2018); Teede HJ et al. International guideline for PCOS, 2023",
+  "coment": "A acne da SOP é mediada por androgênios, principalmente pela di-hidrotestosterona formada na unidade pilossebácea pela 5-alfarredutase. A finasterida inibe essa enzima e é um dos antiandrogênios usados no hiperandrogenismo cutâneo, ao lado da espironolactona e da ciproterona, geralmente associada ao contraceptivo combinado, pois é teratogênica (risco de feminização de feto masculino). Entre as opções, é a única com ação antiandrogênica. Estrona é estrogênio fraco sem papel terapêutico, cabergolina trata hiperprolactinemia e progesterona isolada não reduz androgênios.",
+  "porAlt": [
+   "Estrona é um estrogênio fraco sem uso terapêutico na acne nem efeito antiandrogênico relevante.",
+   "Correta: a finasterida inibe a 5-alfarredutase e reduz a di-hidrotestosterona na pele, com ação antiandrogênica, sempre com contracepção.",
+   "Cabergolina trata hiperprolactinemia; a prolactina discretamente elevada não é a causa da acne.",
+   "Progesterona isolada não reduz androgênios e não tem papel no tratamento da acne hiperandrogênica."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 78
+  }
+ }
+]

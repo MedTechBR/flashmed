@@ -1,0 +1,87 @@
+{
+ "rx-normal": {
+  "t": "Radiografia de tórax: esquema normal",
+  "cap": "Esquema — não é radiografia de paciente. Índice cardiotorácico normal, seios costofrênicos livres, cúpulas nítidas."
+ },
+ "rx-derrame": {
+  "t": "Derrame pleural",
+  "cap": "Opacidade homogênea de base com a borda superior côncava para cima (menisco) e apagamento do seio costofrênico."
+ },
+ "rx-pneumotorax": {
+  "t": "Pneumotórax hipertensivo",
+  "cap": "Linha pleural visível, ausência de trama vascular além dela e desvio do mediastino para o lado oposto — o hipertensivo se trata antes da radiografia."
+ },
+ "rx-congestao": {
+  "t": "Congestão pulmonar",
+  "cap": "Cardiomegalia, redistribuição para os ápices, infiltrado peri-hilar em asa de borboleta e linhas B de Kerley nas bases."
+ },
+ "rx-consolidacao": {
+  "t": "Consolidação lobar",
+  "cap": "Opacidade que respeita o limite do lobo, com broncograma aéreo e sem desvio de estruturas — diferente do derrame, que decola e faz menisco."
+ },
+ "us-modo-m": {
+  "t": "Modo M: sinal da praia e código de barras",
+  "cap": "Acima da pleura, linhas paralelas nas duas situações. Abaixo, aspecto granular quando o pulmão desliza (praia) e as mesmas linhas paralelas quando não desliza (código de barras)."
+ },
+ "us-linhas-b": {
+  "t": "Ultrassom pulmonar: linhas B",
+  "cap": "Artefatos verticais que partem da pleura, apagam as linhas A e acompanham o deslizamento. Três ou mais num espaço = síndrome intersticial."
+ },
+ "rx-abcde": {
+  "t": "Leitura sistemática: A · B · C · D · E",
+  "cap": "A sequência ABCDE não é enfeite mnemônico: é o que impede o erro de satisfação de busca — enxergar a pneumonia e não ver o pneumotórax ao lado dela."
+ },
+ "rx-qualidade": {
+  "t": "Antes de laudar: os quatro controles de qualidade",
+  "cap": "Julgar a técnica antes do conteúdo. A pergunta não é 'o que tem aqui?', e sim 'esta imagem permite responder o que eu preciso saber?'."
+ },
+ "rx-pa-ap": {
+  "t": "PA × AP e o índice cardiotorácico",
+  "cap": "Na PA o coração encosta no filme e sai do tamanho real; na AP de leito ele fica longe do detector e o feixe divergente o amplia. Índice cardiotorácico só se mede em PA de pé."
+ },
+ "rx-lobos": {
+  "t": "Onde cada lobo encosta: a base do sinal da silhueta",
+  "cap": "Na incidência de frente os lobos se sobrepõem; o perfil os separa. Guardar o que cada lobo toca vale mais do que decorar o desenho das cissuras."
+ },
+ "rx-silhueta": {
+  "t": "Sinal da silhueta: a opacidade apaga o que ela toca",
+  "cap": "Duas estruturas de mesma densidade encostadas perdem a interface entre si. É o que localiza a consolidação sem tomografia: apagou a borda do coração, é lobo médio (ou língula); apagou a cúpula, é lobo inferior."
+ },
+ "rx-consolidacao-atelectasia": {
+  "t": "Consolidação não desloca; atelectasia puxa",
+  "cap": "A pergunta que separa as duas em cinco segundos: para onde foram as estruturas móveis? Atelectasia puxa; derrame volumoso e massa empurram; consolidação não desloca nada."
+ },
+ "rx-golden": {
+  "t": "Sinal do S de Golden",
+  "cap": "Colapso lobar cuja cissura, em vez de reta, desenha um S: a convexidade é o tumor que obstrui. É o achado que transforma um laudo de 'atelectasia' em investigação de câncer."
+ },
+ "rx-derrame-volume": {
+  "t": "Quanto líquido cada incidência enxerga",
+  "cap": "Derrame pequeno não é derrame ausente: a PA de pé só o mostra a partir de cerca de 200 mL, enquanto o ultrassom à beira do leito detecta poucos mililitros e ainda guia a punção."
+ },
+ "rx-pneumotorax-deitado": {
+  "t": "Pneumotórax: onde o ar aparece muda com a posição",
+  "cap": "No paciente deitado — o do CTI e o do trauma — o ar não vai ao ápice. Procurar linha apical num filme de leito é a causa clássica de pneumotórax não visto."
+ },
+ "rx-pneumoperitonio": {
+  "t": "Ar livre sob o diafragma",
+  "cap": "Faixa de ar entre a cúpula e o fígado, com o diafragma nitidamente desenhado dos dois lados. Só aparece com o paciente vertical, e sua ausência não afasta perfuração."
+ },
+ "rx-pontos-cegos": {
+  "t": "As cinco áreas onde o achado se esconde",
+  "cap": "Depois do ABCDE, uma segunda passada obrigatória por ápices, região retrocardíaca, abaixo das cúpulas, hilos e parede torácica."
+ },
+ "rx-tubos": {
+  "t": "Tubos e cateteres: onde a ponta tem de estar",
+  "cap": "Sonda enteral mal posicionada é evento adverso grave e a radiografia é a confirmação padrão. Conferir o trajeto inteiro, não apenas a ponta."
+ },
+ "fig-curva-pv": {
+  "t": "Curva pressão-volume do sistema respiratório"
+ },
+ "fig-capnografia": {
+  "t": "Capnografia de onda normal"
+ },
+ "fig-troponina": {
+  "t": "Troponina ultrassensível no caminho 0/1 h"
+ }
+}

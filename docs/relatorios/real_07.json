@@ -1,0 +1,39 @@
+{
+ "incluidas": 43,
+ "descartadas": [
+  {
+   "pid": "p0461",
+   "motivo": "Gabarito desatualizado pelo Calendário Nacional de Vacinação: desde 1º/07/2025 (Nota Técnica nº 77/2025-CGICI/DPNI/SVSA/MS) o reforço dos 12 meses é com a meningocócica ACWY, não mais com a meningocócica C; a alternativa oficial ensina o esquema antigo (2 doses + reforço de MenC)."
+  },
+  {
+   "pid": "p0471",
+   "motivo": "Gabarito conflita com a norma vigente: desde 2025 o MS (e a Lei 15.284/2025) garante mamografia a partir dos 40 anos no SUS (40-49 sob demanda, com decisão compartilhada; 50-74 bienal), e o INCA (Diretrizes de 2015) não recomenda exame clínico anual das mamas como rastreamento; a alternativa oficial (exame clínico anual + mamografia só após 50) ensina regra superada."
+  },
+  {
+   "pid": "p0477",
+   "motivo": "Nenhuma resposta defensável: o quadro (dor glútea irradiada unilateral, Lasègue positivo, déficit motor e sensitivo no pé direito) é radiculopatia lombossacra (lombociatalgia por provável hérnia discal), não neuropatia periférica sensitivo-motora distal, que é bilateral, simétrica e dependente de comprimento; o gabarito oficial ensinaria conceito errado."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0467",
+   "nota": "Conduta (repetir citologia em 6 meses na LSIL) é das Diretrizes INCA 2016; as Diretrizes de 2025 adotam DNA-HPV como rastreamento primário, mas mantêm as de 2016 como referência onde o teste molecular não está implantado. Comentário explica a transição."
+  },
+  {
+   "pid": "p0481",
+   "nota": "Penicilina benzatina é a escolha pela diretriz brasileira (SBC 2009); amoxicilina oral por 10 dias é igualmente primeira linha em diretrizes internacionais (AHA 2009, IDSA 2012). Mantida pelo contexto brasileiro, com a ressalva no comentário."
+  },
+  {
+   "pid": "p0472",
+   "nota": "A alternativa oficial fala em retorno no '5º dia após a consulta'; o MS 2024 orienta retorno na defervescência ou no 5º dia de DOENÇA. Ainda é a única opção aceitável; comentário traz a regra correta."
+  },
+  {
+   "pid": "p0470",
+   "nota": "Pelo DSM-5-TR, transtorno específico da aprendizagem exige persistência por 6 meses apesar de intervenção; reforço pedagógico seria defensável, mas a alternativa correspondente afirma que a criança 'não apresenta problemas aparentes', o que a invalida. Mantida."
+  },
+  {
+   "pid": "p0487",
+   "nota": "Na prática a endoscopia é obrigatória para excluir câncer de esôfago (perda de 12% do peso aos 65 anos); a sorologia de Chagas é correta como investigação etiológica entre as opções dadas. Comentário menciona a endoscopia."
+  }
+ ]
+}

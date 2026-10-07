@@ -1,0 +1,59 @@
+{
+ "rx-pneumotorax": {
+  "t": "rx-pneumotorax"
+ },
+ "rx-silhueta": {
+  "t": "rx-silhueta"
+ },
+ "us-linhas-b": {
+  "t": "us-linhas-b"
+ },
+ "rx-golden": {
+  "t": "rx-golden"
+ },
+ "rx-tubos": {
+  "t": "rx-tubos"
+ },
+ "rx-pneumotorax-deitado": {
+  "t": "rx-pneumotorax-deitado"
+ },
+ "rx-pneumoperitonio": {
+  "t": "rx-pneumoperitonio"
+ },
+ "rx-derrame-volume": {
+  "t": "rx-derrame-volume"
+ },
+ "rx-lobos": {
+  "t": "rx-lobos"
+ },
+ "rx-qualidade": {
+  "t": "rx-qualidade"
+ },
+ "rx-consolidacao": {
+  "t": "rx-consolidacao"
+ },
+ "rx-derrame": {
+  "t": "rx-derrame"
+ },
+ "rx-normal": {
+  "t": "rx-normal"
+ },
+ "rx-consolidacao-atelectasia": {
+  "t": "rx-consolidacao-atelectasia"
+ },
+ "us-modo-m": {
+  "t": "us-modo-m"
+ },
+ "rx-congestao": {
+  "t": "rx-congestao"
+ },
+ "rx-pontos-cegos": {
+  "t": "rx-pontos-cegos"
+ },
+ "rx-abcde": {
+  "t": "rx-abcde"
+ },
+ "rx-pa-ap": {
+  "t": "rx-pa-ap"
+ }
+}

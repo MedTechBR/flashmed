@@ -1,0 +1,994 @@
+[
+ {
+  "pid": "u001",
+  "q": "Mulher, 39 anos de idade, faz seguimento ambulatorial por lúpus eritematoso sistêmico com uso de prednisona, hidroxicloroquina e azatioprina. Foi admitida na enfermaria com queixa de dispneia aos médios esforços, tosse, náuseas e vômitos há 4 semanas. Exame físico: PA de 120x80 mmHg, FC de 108 bpm, FR de 26 ipm, saturação de oxigênio de 88%, temperatura axilar de 38,5 °C; sem anormalidades nas auscultas cardíaca e respiratória; abdome com hepatimetria de 13 cm e fígado doloroso à palpação, espaço de Traube submaciço, baço palpável logo abaixo do rebordo costal; sem outras anormalidades. Assinale a alternativa que possui as duas melhores hipóteses diagnósticas que, isoladamente, podem ocasionar o quadro clínico atual da paciente.",
+  "alts": [
+   "Linfoma ou doença de Still.",
+   "Tuberculose ou histoplasmose.",
+   "Sarcoidose ou pneumocistose.",
+   "Endocardite ou doença de Gaucher."
+  ],
+  "gab": 1,
+  "tema": "infecto",
+  "sub": "Febre e hepatoesplenomegalia no imunossuprimido",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed., 2019; IDSA. Clinical Practice Guidelines for the Management of Patients with Histoplasmosis, 2007",
+  "coment": "Paciente imunossuprimida (prednisona e azatioprina) com 4 semanas de febre, tosse, dispneia e hipoxemia sem achados à ausculta, mais hepatomegalia dolorosa e esplenomegalia: quadro subagudo de infecção disseminada por agente intracelular que acomete pulmão e sistema reticuloendotelial. Tuberculose disseminada (miliar) e histoplasmose disseminada explicam, cada uma sozinha, pulmão, fígado, baço e febre arrastada no imunossuprimido. A investigação inclui tomografia de tórax (padrão miliar), hemoculturas para micobactéria e fungo, antígeno urinário de Histoplasma e biópsia de fígado ou medula com cultura.",
+  "porAlt": [
+   "Linfoma explicaria febre e visceromegalia, mas doença de Still não cursa com hipoxemia de pulmão limpo, e a imunossupressão aponta primeiro para infecção oportunista.",
+   "Correta: tuberculose e histoplasmose disseminadas acometem pulmão, fígado e baço com febre subaguda no imunossuprimido.",
+   "Sarcoidose não explica febre alta com hipoxemia subaguda nesse contexto, e pneumocistose não causa hepatoesplenomegalia dolorosa.",
+   "Endocardite cursaria com sopro e fenômenos embólicos, e doença de Gaucher é genética, crônica e sem febre."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 1
+  }
+ },
+ {
+  "pid": "u002",
+  "q": "Homem, 62 anos de idade, foi encaminhado para investigação ambulatorial de aumento do volume abdominal. Ele tem antecedentes de hipertensão arterial sistêmica, diabetes melito tipo 2, obesidade e dislipidemia. Há 3 meses, notou aumento progressivo do volume abdominal e evoluiu com sensação de saciedade precoce e perda de 2 kg. Ao exame clínico, apresentou sinais vitais normais, abdome globoso com semicírculos de Skoda e sinal do piparote, não apresentou edema nos membros inferiores, não há outras anormalidades. Foi realizada uma paracentese diagnóstica com saída de líquido amarelo claro com 257 leucócitos (22% de neutrófilos), proteína total 3,1 g/dL, albumina 2,3 g/dL, citologia oncótica negativa. • Exames laboratoriais: Hb: 11,1 g/dL Leucócitos: 4.450 células/mm³ Plaquetas: 156 mil/mm³ Creatinina: 1,53 mg/dL Albumina: 3,3 g/dL Considerando as informações, assinale a conduta ideal neste caso.",
+  "alts": [
+   "Começar espironolactona por via oral.",
+   "Solicitar ecocardiograma transtorácico.",
+   "Solicitar adenosina deaminase no líquido ascítico.",
+   "Fazer albumina endovenosa por 2 dias."
+  ],
+  "gab": 2,
+  "tema": "gastro",
+  "sub": "Ascite com GASA baixo e proteína alta",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "AASLD. Practice Guidance on Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome, 2021",
+  "coment": "O gradiente de albumina soro-ascite (GASA) é 3,3 menos 2,3 = 1,0 g/dL, abaixo de 1,1: a ascite não decorre de hipertensão portal. Proteína total de 3,1 g/dL (acima de 2,5) e celularidade com predomínio de mononucleares (78%), com citologia oncótica negativa, apontam para tuberculose peritoneal ou carcinomatose. A adenosina deaminase no líquido, quando elevada (cortes em torno de 30 a 40 U/L), tem alta sensibilidade e especificidade para tuberculose peritoneal e orienta a laparoscopia com biópsia. Diurético e albumina tratam ascite portal, e o ecocardiograma investiga GASA alto com proteína alta.",
+  "porAlt": [
+   "Espironolactona trata ascite por hipertensão portal (GASA de 1,1 ou mais), não a de GASA 1,0 com predomínio linfocitário ainda sem diagnóstico.",
+   "Ecocardiograma investiga ascite cardíaca, que tem GASA alto e proteína alta; aqui o GASA é baixo e não há edema nem congestão.",
+   "Correta: GASA baixo, proteína alta, linfócitos e citologia negativa pedem adenosina deaminase para tuberculose peritoneal.",
+   "Albumina por 2 dias é usada na suspeita de síndrome hepatorrenal, sem papel na investigação de ascite de GASA baixo."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 2
+  }
+ },
+ {
+  "pid": "u003",
+  "q": "Mulher, 46 anos de idade, procura o pronto-socorro porque começou a ter cefaleia e náuseas quando estava no trabalho. Ela nega comorbidades ou uso de medicamentos. Refere cefaleia fronto-temporal, bilateral, de forte intensidade, iniciada há 1 hora, associada a náuseas e um episódio de vômito. Ao ser indagada, descreve que a cefaleia alcançou o pico de dor em, no máximo, 2 minutos. Exame clínico: PA de 158x94 mmHg, FC de 105 bpm, FR de 18 ipm, saturação de oxigênio de 98%, temperatura axilar de 36,8 °C, sem anormalidades no exame neurológico ou nos demais sistemas. Inicialmente, foi realizada uma tomografia de crânio sem contraste, exibida na imagem a seguir: Em seguida, uma angiotomografia de crânio identificou uma lesão sacular. Qual é o medicamento que deve ser indicado, neste momento, para reduzir a chance de complicações?",
+  "alts": [
+   "Atenolol.",
+   "Clonidina.",
+   "Captopril.",
+   "Nimodipino."
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Nimodipino na hemorragia subaracnóidea",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "AHA/ASA. Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage, 2023",
+  "coment": "Cefaleia súbita, de forte intensidade e pico em poucos minutos (em trovoada), com náuseas e vômito, seguida de aneurisma sacular na angiotomografia, configura hemorragia subaracnóidea aneurismática. Nimodipino oral, 60 mg a cada 4 horas por 21 dias, reduz o déficit isquêmico tardio e melhora o desfecho funcional (AHA/ASA 2023, classe I). As demais prioridades são tratar o aneurisma precocemente para evitar ressangramento e vigiar hidrocefalia e hiponatremia. Quando é preciso baixar a pressão antes de tratar o aneurisma, usam-se drogas intravenosas tituláveis (nicardipina, labetalol), não anti-hipertensivos orais.",
+  "porAlt": [
+   "Atenolol não previne vasoespasmo nem isquemia tardia e não é o agente de controle pressórico na hemorragia subaracnóidea.",
+   "Clonidina não reduz complicações da hemorragia subaracnóidea e causa sedação, que atrapalha a vigilância neurológica.",
+   "Captopril não previne vasoespasmo; quando necessário, o controle pressórico usa drogas intravenosas tituláveis.",
+   "Correta: nimodipino reduz o déficit isquêmico tardio da hemorragia subaracnóidea aneurismática."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 3
+  }
+ },
+ {
+  "pid": "u004",
+  "q": "Paciente, do sexo feminino, 23 anos de idade, tem anemia falciforme com hemoglobina basal de 7 g/dL, com antecedente de transfusões desde a infância. Comparece na emergência com dispneia e dor torácica. Ao exame físico, apresentou PA de 100x68 mmHg, FC de 112 bpm, FR de 26 ipm, temperatura 36,8 °C e saturação de oxigênio de 89%; hipocorada 3+/4+, hidratada, colaborativa; murmúrios vesiculares bilateralmente com estertores crepitantes na base direita; demais aparelhos sem alterações. • Exames laboratoriais: Hb: 5,2 g/dL Leucócitos: 12.000 células/mm³ Plaquetas: 123 mil/mm³ Creatinina: 1,2 mg/dL Foi indicada transfusão de 2 concentrados de hemácias. Qual é a técnica que deve ser utilizada com este hemocomponente além da filtração?",
+  "alts": [
+   "Irradiação.",
+   "Leucodepleção.",
+   "Fenotipagem estendida.",
+   "Lavagem com solução salina."
+  ],
+  "gab": 2,
+  "tema": "hemato",
+  "sub": "Transfusão na doença falciforme",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Guia para uso de hemocomponentes, 2ª ed., 2015; ASH Guidelines for Sickle Cell Disease: Transfusion Support, 2020",
+  "coment": "Dor torácica, dispneia, hipoxemia e crepitações em paciente falciforme sugerem síndrome torácica aguda, e com Hb de 5,2 g/dL a transfusão está indicada. Na doença falciforme o concentrado de hemácias deve ser leucorreduzido (o que a filtração já garante) e fenotipado, compatível ao menos para Rh (C, E) e Kell, de preferência com fenotipagem estendida (ASH 2020). A aloimunização é frequente em politransfundidos, pela diferença antigênica entre doadores e receptores, e causa reação hemolítica tardia e hiperhemólise, potencialmente fatais. Irradiação e lavagem ficam para indicações específicas.",
+  "porAlt": [
+   "Irradiação previne doença do enxerto contra hospedeiro transfusional em imunodeprimidos graves e transplantados, situação ausente aqui.",
+   "Leucodepleção é exatamente o que a filtração faz, já citada no enunciado como realizada.",
+   "Correta: hemácias fenotipadas reduzem aloimunização e hemólise tardia na doença falciforme politransfundida.",
+   "Lavagem remove proteínas plasmáticas e serve para reações alérgicas graves de repetição ou deficiência de IgA, o que não é o caso."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 4
+  }
+ },
+ {
+  "pid": "u005",
+  "q": "Paciente, do sexo feminino, 71 anos de idade, tem hipertensão arterial sistêmica e transtorno de ansiedade. Em uso de amlodipino 5 mg ao dia, enalapril 20 mg duas vezes ao dia, sertralina 50 mg uma vez ao dia e clonazepam 0,5 mg uma vez ao dia. Foi levada ao pronto socorro por queixa de náusea e fadiga há 1 mês. Ao exame físico, apresentou-se corada, hidratada, afebril, colaborativa; ausculta cardíaca sem alterações, ausência de turgência jugular a 45° ou refluxo hepatojugular; murmúrios vesiculares presentes bilateralmente, sem ruídos adventícios; abdome globoso e extremidades sem edema, com perfusão adequada. • Exames laboratoriais: Hb: 12,1 g/dL Leucócitos: 6.200 células/mm³ Plaquetas: 321 mil/mm³ Creatinina: 1,1 mg/dL Sódio: 126 mEq/L Glicemia: 129 mg/dL Osmolalidade sérica: 255 mOsm/kg Sódio urinário: 60 mEq/L (VR:40 a 220 mEq/L) Assinale a alternativa que apresenta a melhor conduta terapêutica a ser adotada nesse momento.",
+  "alts": [
+   "NaCl 3% intravenoso.",
+   "NaCl 0,9% intravenoso.",
+   "Suspender clonazepam.",
+   "Suspender sertralina."
+  ],
+  "gab": 3,
+  "tema": "nefro",
+  "sub": "Hiponatremia por ISRS no idoso",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "European Clinical Practice Guideline on Diagnosis and Treatment of Hyponatraemia (ESE/ESICM/ERA-EDTA), 2014",
+  "coment": "Hiponatremia hipotônica (osmolalidade de 255 mOsm/kg) em paciente euvolêmica, sem sinais de hipovolemia ou congestão, com sódio urinário de 60 mEq/L: padrão de secreção inapropriada de ADH. Em idosa usando sertralina, o ISRS é a causa mais provável, com risco maior nas primeiras semanas e acima dos 65 anos. O quadro é crônico (1 mês) e sem sintomas graves como convulsão, rebaixamento ou vômitos, então a medida central é retirar a causa e restringir água, corrigindo no máximo 8 a 10 mEq/L em 24 horas. Soro fisiológico piora a hiponatremia nessa síndrome.",
+  "porAlt": [
+   "Salina a 3% fica para sintomas graves (convulsão, rebaixamento, vômitos) ou queda aguda; aqui o quadro é crônico e sem gravidade.",
+   "Soro a 0,9% piora a hiponatremia da secreção inapropriada de ADH, pois o sódio sai na urina concentrada e a água livre fica retida.",
+   "Clonazepam não causa secreção inapropriada de ADH de forma relevante, e suspendê-lo não corrige a causa.",
+   "Correta: a sertralina é a causa provável da secreção inapropriada de ADH e deve ser suspensa."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 5
+  }
+ },
+ {
+  "pid": "u008",
+  "q": "Paciente, do sexo masculino, 52 anos de idade, tem Insuficiência Cardíaca (IC) com Fração de Ejeção do Ventrículo Esquerdo (FEVE) de 35% no início do acompanhamento, sem etiologia conhecida (após investigação inicial). Mantém-se em acompanhamento ambulatorial, com tratamento instituído desde a primeira visita médica. Atualmente, faz uso de furosemida 20 mg/dia, sacubitril/valsartana 200 mg 2 vezes por dia, carvedilol 25 mg 2 vezes ao dia, espironolactona 25 mg/dia e empagliflozina 10 mg/dia. Após 1 ano de acompanhamento, o paciente retorna relatando estado clínico compatível com classe funcional I pela New York Heart Association (NYHA). No exame físico, apresenta PA de 98x64 mmHg e FC de 52 bpm. Apresenta um ecocardiograma recente com FEVE = 54%. Tem exames de meses consecutivos de creatinina de 1,57 mg/dL (TFG de 53 mL/min) e potássio de 4,9 mEq/L. Assinale a alternativa que apresenta a conduta farmacológica adequada.",
+  "alts": [
+   "Reduzir dose de sacubitril/valsartana e carvedilol.",
+   "Suspender a terapia específica de IC de FEVE reduzida.",
+   "Trocar sacubitril/valsartana por hidralazina/isossorbida.",
+   "Manter os medicamentos e as doses atuais."
+  ],
+  "gab": 3,
+  "tema": "cardio",
+  "sub": "IC com fração de ejeção melhorada",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ESC. Guidelines for the diagnosis and treatment of heart failure, 2026; Halliday BP et al. TRED-HF, Lancet, 2019",
+  "coment": "FEVE de 35% que sobe para 54% com terapia otimizada define insuficiência cardíaca com fração de ejeção melhorada (aumento de ao menos 10 pontos, acima de 40%). A melhora é remissão, não cura: no TRED-HF, retirar a terapia em miocardiopatia dilatada com fração recuperada levou a recaída em cerca de 40% dos pacientes em 6 meses. A conduta é manter os quatro pilares nas doses atuais. PA de 98x64 mmHg e FC de 52 bpm sem sintomas, creatinina estável e potássio de 4,9 mEq/L são aceitáveis e não exigem redução de dose.",
+  "porAlt": [
+   "Reduzir doses sem hipotensão ou bradicardia sintomáticas nem piora renal progressiva expõe à recaída, e os valores atuais são aceitáveis.",
+   "Suspender a terapia na fração melhorada leva a nova queda da FEVE, como mostrou o TRED-HF.",
+   "Hidralazina com nitrato é alternativa para quem não tolera os bloqueadores do sistema renina-angiotensina, não substituta em paciente estável.",
+   "Correta: na fração melhorada a terapia deve ser mantida nas doses toleradas."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 8
+  }
+ },
+ {
+  "pid": "u009",
+  "q": "Mulher, 22 anos de idade, encaminhada ao ambulatório de nível terciário para investigação. Ela conta que, há 5 dias, está com tosse produtiva, febre e prostração. Descreve que desde os 15 anos de idade apresentou 3 episódios de sinusite por ano e teve um total de 3 episódios de pneumonia, sendo internada em uma das ocasiões. Já fez uso de diversos antibióticos. Além disso, tem diarreias aquosas agudas ou subagudas recorrentes, que pioram sua qualidade de vida. Nega doenças conhecidas ou uso de medicamentos. Ao exame clínico, apresentou PA de 110x70 mmHg, FC de 88 bpm, FR de 20 ipm, saturação de oxigênio 95%, temperatura axilar de 37,9 °C, descorada, dor à percussão dos seios frontais, congestão nasal, estertores grossos nas bases pulmonares e baço palpável a 2 cm do rebordo costal esquerdo. Assinale a alternativa que apresenta o exame indicado para investigação do quadro da paciente.",
+  "alts": [
+   "Anticorpos antinucleares.",
+   "Dosagem de imunoglobulinas.",
+   "Aspirado de medula óssea.",
+   "Citometria de fluxo de sangue periférico."
+  ],
+  "gab": 1,
+  "tema": "infecto",
+  "sub": "Imunodeficiência comum variável",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Bonilla FA et al. International Consensus Document (ICON): Common Variable Immunodeficiency Disorders, J Allergy Clin Immunol Pract, 2016",
+  "coment": "Sinusites e pneumonias bacterianas de repetição desde a adolescência, diarreia crônica recorrente (giardíase e enteropatia são típicas) e esplenomegalia em adulta jovem compõem o quadro de imunodeficiência comum variável, a imunodeficiência primária sintomática mais frequente no adulto. O exame inicial é a dosagem de IgG, IgA e IgM: o diagnóstico exige IgG baixa com IgA ou IgM baixas, resposta vacinal deficiente e exclusão de causas secundárias. Esplenomegalia e linfoproliferação fazem parte da doença e exigem vigilância para linfoma. O tratamento é reposição de imunoglobulina.",
+  "porAlt": [
+   "FAN investiga doença autoimune sistêmica, que não explica infecções bacterianas sinopulmonares de repetição.",
+   "Correta: infecções sinopulmonares de repetição com diarreia crônica pedem dosagem de imunoglobulinas para imunodeficiência humoral.",
+   "Aspirado de medula investiga citopenias ou neoplasia hematológica, sem dado que o justifique como primeiro exame.",
+   "Citometria de fluxo pode quantificar linfócitos B na investigação complementar, mas o primeiro exame é a dosagem de imunoglobulinas."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 9
+  }
+ },
+ {
+  "pid": "u011",
+  "q": "Mulher, 25 anos de idade, com diagnóstico prévio de esquizofrenia, chega no pronto-socorro queixando-se de sensação de inquietude e ansiedade. Recentemente, houve um aumento na dosagem de seu antipsicótico para melhor manejo dos sintomas alucinatórios. No pronto-socorro, a paciente está andando de um lado para o outro, inquieta, mas amistosa à abordagem verbal. Ela relata que não consegue ficar parada. Não há sinais de alterações sensoperceptivas. Segundo seus familiares, não houve episódios de heteroagressividade antes da vinda ao pronto-socorro. Qual é o quadro clínico da paciente neste momento?",
+  "alts": [
+   "Discinesia tardia.",
+   "Distonia aguda.",
+   "Acatisia.",
+   "Catatonia hipercinética."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Acatisia por antipsicótico",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "APA. Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020",
+  "coment": "Inquietude subjetiva (não consegue ficar parada) com movimentação constante, surgida após aumento de dose de antipsicótico, é acatisia, efeito extrapiramidal agudo que aparece em dias a semanas. Pode ser confundida com agitação psicótica e levar a novo aumento de dose, o que piora o quadro. A conduta é reduzir a dose ou trocar por antipsicótico de menor risco; propranolol em dose baixa é a primeira opção farmacológica (APA 2020), com benzodiazepínico e mirtazapina em dose baixa como alternativas. Anticolinérgicos têm pouco efeito.",
+  "porAlt": [
+   "Discinesia tardia surge após meses a anos de uso, com movimentos involuntários orofaciais, não inquietude aguda após ajuste de dose.",
+   "Distonia aguda é contração muscular sustentada (torcicolo, crise oculógira) em horas a dias, não inquietude motora.",
+   "Correta: inquietude subjetiva e motora após aumento do antipsicótico é acatisia.",
+   "Catatonia hipercinética cursa com excitação sem propósito e contato prejudicado, não com paciente amistoso que relata a inquietude."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 11
+  }
+ },
+ {
+  "pid": "u012",
+  "q": "Mulher, 47 anos de idade, comparece à consulta ambulatorial de rotina. Ela refere que, há 6 semanas, esteve internada por colecistite calculosa aguda. Quando admitida no hospital, sentia apenas febre, calafrios e dor abdominal, mas uma glicemia capilar aleatória foi de 203 mg/dL. Durante a internação, teve complicações e precisou receber um concentrado de hemácias. Nesta consulta, nega quaisquer sintomas, o exame clínico é normal, exceto por estar hipocorada e apresenta exames realizados há 2 semanas: glicemia de jejum 133 mg/dL e hemoglobina glicada 5,4%. Assinale a alternativa correta sobre o diagnóstico de diabetes melito nesta paciente.",
+  "alts": [
+   "Já se pode estabelecer o diagnóstico de diabetes.",
+   "Deve-se repetir a hemoglobina glicada neste momento.",
+   "Ela deve realizar um teste de tolerância oral à glicose.",
+   "Trata-se de hiperglicemia por estresse metabólico."
+  ],
+  "gab": 2,
+  "tema": "endocrino",
+  "sub": "Diagnóstico de diabetes após transfusão",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ADA. Standards of Care in Diabetes, 2026",
+  "coment": "Glicemia aleatória de 203 mg/dL só diagnostica diabetes com sintomas clássicos de hiperglicemia ou crise hiperglicêmica; colhida na colecistite febril, sem esses sintomas, é hiperglicemia de estresse e não vale como critério. A glicada de 5,4% não é confiável: transfusão e sangramento há 6 semanas renovam as hemácias e baixam o valor falsamente. Sobra uma glicemia de jejum de 133 mg/dL (126 ou mais), que precisa de confirmação (ADA 2026). Com a glicada invalidada, confirma-se por critério glicêmico, e o teste oral com 75 g de glicose (2 horas de 200 mg/dL ou mais) é o mais sensível.",
+  "porAlt": [
+   "Um único valor de jejum alterado, sem sintomas e com a glicemia aleatória colhida em doença aguda, não basta: é preciso confirmação.",
+   "Repetir a glicada agora mantém o viés da transfusão recente; ela só volta a ser confiável após 2 a 3 meses.",
+   "Correta: com a glicada invalidada pela transfusão, a glicemia de jejum alterada é confirmada por critério glicêmico, como o teste oral de tolerância.",
+   "A glicemia de jejum de 133 mg/dL foi colhida semanas após a alta, fora do estresse agudo, e não se explica por estresse metabólico."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 12
+  }
+ },
+ {
+  "pid": "u013",
+  "q": "Homem, 53 anos de idade, passa em consulta de retorno ambulatorial. Ele conta que, há 6 meses, tem dor epigástrica em queimação de moderada intensidade, sem irradiação, que piora com alimentação, durando entre 1 a 2 horas. Nega regurgitação, pirose, globus e etilismo. O exame físico é normal. Hemograma completo, TGO/AST, TGP/ALT, FA, GGT, lipase e creatinina estão normais. Ultrassonografia de andar superior do abdome mostrou fígado, baço e vesícula biliar sem anormalidades. Endoscopia digestiva alta identificou uma mucosa enantematosa, a biópsia foi normal e o teste para H. pylori foi negativo. Ele já utilizou omeprazol por 12 semanas e não obteve melhora. Qual é a melhor opção terapêutica neste momento?",
+  "alts": [
+   "Bupropiona.",
+   "Amitriptilina.",
+   "Esomeprazol contínuo.",
+   "Hidróxido de magnésio."
+  ],
+  "gab": 1,
+  "tema": "gastro",
+  "sub": "Dispepsia funcional refratária a IBP",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACG/CAG. Clinical Guideline: Management of Dyspepsia, 2017; Critérios de Roma IV, 2016",
+  "coment": "Dor epigástrica há 6 meses com endoscopia sem lesão estrutural, biópsia normal, H. pylori negativo e exames laboratoriais e de imagem normais: dispepsia funcional, síndrome da dor epigástrica pelo Roma IV. A sequência de tratamento da ACG/CAG 2017 é inibidor de bomba; sem resposta, antidepressivo tricíclico em dose baixa, que age como neuromodulador da hipersensibilidade visceral; depois procinético. Amitriptilina de 10 a 25 mg à noite é a escolha. Trocar por outro inibidor de bomba ou mantê-lo contínuo não acrescenta benefício após falha de 12 semanas.",
+  "porAlt": [
+   "Bupropiona não tem evidência na dispepsia funcional; o efeito neuromodulador visceral é dos tricíclicos.",
+   "Correta: na dispepsia funcional sem resposta ao inibidor de bomba, o tricíclico em dose baixa é o passo seguinte.",
+   "Esomeprazol é da mesma classe do omeprazol; após falha de 12 semanas, a troca dentro da classe não muda o desfecho.",
+   "Hidróxido de magnésio é antiácido de alívio pontual, sem efeito sustentado sobre a dispepsia funcional."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 13
+  }
+ },
+ {
+  "pid": "u014",
+  "q": "Homem, 35 anos de idade, previamente hígido, procura o pronto-socorro. Ele descreve que, há 2 semanas, apresentou febre alta, mialgia e dor retro-orbitária, sendo diagnosticado com dengue. Na semana seguinte, já não se queixava mais desses sintomas, mas surgiu fraqueza pelo corpo. Hoje, conta que tem dificuldade para deambular por fraqueza e formigamento nos membros inferiores, além de fraqueza nos braços. Ao exame neurológico, apresenta força grau 3 nos membros superiores e inferiores, reflexos miotáticos profundos ausentes nos 4 membros, sensibilidade vibratória diminuída distalmente nos membros inferiores e diparesia facial. O exame de líquor revelou um aspecto límpido e incolor, células 1/mm³, proteínas 150 mg/dL, glicose 70 mg/dL. Assinale a alternativa que apresenta as duas complicações frequentes associadas à principal hipótese diagnóstica neste caso.",
+  "alts": [
+   "Insuficiência respiratória e disautonomia.",
+   "Insuficiência respiratória e meningoencefalite.",
+   "Crise epiléptica e disautonomia.",
+   "Crise epiléptica e meningoencefalite."
+  ],
+  "gab": 0,
+  "tema": "neuro",
+  "sub": "Guillain-Barré pós-dengue",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "EAN/PNS. European Academy of Neurology/Peripheral Nerve Society Guideline on the management of Guillain-Barré syndrome, 2023",
+  "coment": "Fraqueza simétrica dos quatro membros com arreflexia, diparesia facial e dissociação proteinocitológica no líquor (proteína de 150 mg/dL com 1 célula), semanas após infecção viral (dengue), fecham síndrome de Guillain-Barré. As complicações frequentes e graves são insuficiência respiratória, que leva cerca de 20% a 30% à ventilação mecânica (monitorar capacidade vital e força cervical), e disautonomia (arritmias, labilidade pressórica, íleo, retenção urinária), importante causa de morte. O tratamento é imunoglobulina 0,4 g/kg/dia por 5 dias ou plasmaférese.",
+  "porAlt": [
+   "Correta: insuficiência respiratória e disautonomia são as complicações frequentes e potencialmente fatais da síndrome.",
+   "Meningoencefalite não faz parte da síndrome; o líquor com 1 célula afasta inflamação do sistema nervoso central.",
+   "Crise epiléptica não é complicação de uma polirradiculoneuropatia periférica.",
+   "Crise epiléptica e meningoencefalite são doenças do sistema nervoso central, alheias à síndrome de Guillain-Barré."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 14
+  }
+ },
+ {
+  "pid": "u015",
+  "q": "Homem, 78 anos de idade, arquiteto aposentado (16 anos de escolaridade), casado, comparece à consulta ambulatorial acompanhado da sua filha e sua esposa. A filha relata que ele apresenta episódios de confusão mental há 1 ano. Ele acorda bem, porém, ao longo da tarde fica “aéreo” e desorientado. Às vezes, diz que vê crianças correndo pela casa. Embora frequentes, estes episódios não ocorrem todos os dias. A esposa também se queixa de que o paciente tem sono agitado com gritos e movimentações intensas, já tendo a machucado numa ocasião. Ao exame clínico geral, tem sinais vitais normais e não se detectam anormalidades. Ao exame neurológico, houve um desempenho de 24 pontos do mini exame do estado mental (perdeu 1 ponto na orientação temporal, 3 na subtração em série, 1 em evocação, 1 na cópia dos pentágonos), bradicinesia e marcha em pequenos passos. Exames laboratoriais foram normais e a ressonância magnética do crânio mostrou atrofia cortical difusa, sem outras alterações. Assinale a alternativa que apresenta o diagnóstico e o tratamento inicial indicado ao paciente.",
+  "alts": [
+   "Depressão psicótica e olanzapina.",
+   "Doença de Parkinson e levodopa.",
+   "Demência frontotemporal e quetiapina.",
+   "Demência com corpos de Lewy e rivastigmina."
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Demência com corpos de Lewy",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "McKeith IG et al. Diagnosis and management of dementia with Lewy bodies: fourth consensus report of the DLB Consortium, Neurology, 2017",
+  "coment": "Flutuação cognitiva (piora à tarde), alucinações visuais bem formadas (crianças correndo), transtorno comportamental do sono REM (gritos e movimentos, chegou a machucar a esposa) e parkinsonismo (bradicinesia, marcha em pequenos passos) são os quatro critérios centrais do consenso de 2017: demência com corpos de Lewy provável. Inibidor de colinesterase (rivastigmina ou donepezila) melhora cognição, flutuação e alucinações. Antipsicóticos causam sensibilidade grave (rigidez, quedas, rebaixamento); se inevitáveis, quetiapina ou clozapina em dose mínima. Levodopa pode piorar alucinações.",
+  "porAlt": [
+   "Não há quadro depressivo, e olanzapina expõe à sensibilidade grave a antipsicóticos típica da doença.",
+   "Na doença de Parkinson a demência surge após pelo menos 1 ano de parkinsonismo motor; aqui a cognição abriu o quadro, e levodopa pode piorar alucinações.",
+   "Demência frontotemporal começa com alteração de comportamento ou linguagem, sem alucinações visuais, flutuação ou parkinsonismo precoce.",
+   "Correta: os quatro critérios centrais estão presentes, e o inibidor de colinesterase é o tratamento inicial."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 15
+  }
+ },
+ {
+  "pid": "u019",
+  "q": "Homem, 22 anos de idade, comparece no pronto-socorro com relato de 7 dias de lesões cutâneas. Ele tem antecedentes de cefaleia tensional e epilepsia. Tem relações sexuais desprotegidas. Faz uso esporádico de dipirona e ibuprofeno, foi introduzida fenitoína há 5 semanas. Ao exame clínico, apresentou temperatura de 37,9 °C; lesões eritematosas infiltrativas no tronco e na face, descamação fina das lesões da face, enantema na boca; linfonodos aumentados nas axilas e nas regiões inguinais bilateralmente; sem outras anormalidades. Exames laboratoriais: Hb: 13,1 g/dL VCM: 86,7 fL Leucócitos: 12.100/mm³ Neutrófilos: 4.600/mm³ Linfócitos: 2.340/mm³ Monócitos: 400/mm³ Eosinófilos: 3.500/mm³ Plaquetas: 420.000/mm³ TGO/AST: 143 U/L TGP/ALT: 158 U/L Creatinina: 1,7 mg/dL Assinale a alternativa que contém a hipótese diagnóstica e a conduta apropriadas ao caso neste momento.",
+  "alts": [
+   "Roséola sifilítica; penicilina G benzatina intramuscular.",
+   "Hepatite autoimune; metilprednisolona e azatioprina.",
+   "Reação de hipersensibilidade a medicamentos; prednisolona.",
+   "Mononucleose infecciosa; tratamento sintomático de suporte."
+  ],
+  "gab": 2,
+  "tema": "derma",
+  "sub": "DRESS por fenitoína",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Kardaun SH et al. The RegiSCAR scoring system for DRESS, Br J Dermatol, 2013",
+  "coment": "Fenitoína iniciada há 5 semanas (latência típica de 2 a 8 semanas), febre, exantema infiltrado com descamação facial, enantema, linfonodomegalia em várias cadeias, eosinofilia de 3.500/mm³ e lesão hepática (ALT 158) e renal (creatinina 1,7): reação a medicamento com eosinofilia e sintomas sistêmicos (DRESS), com pontuação alta no RegiSCAR. A conduta é suspender o fármaco de imediato, trocar por anticonvulsivante não aromático (levetiracetam), evitando carbamazepina e fenobarbital pela reatividade cruzada, e, com órgão acometido, iniciar corticoide sistêmico (prednisona ou prednisolona 0,5 a 1 mg/kg/dia) com retirada lenta em semanas.",
+  "porAlt": [
+   "Roséola sifilítica não causa eosinofilia acentuada, hepatite e lesão renal, e a relação temporal com a fenitoína aponta para farmacodermia.",
+   "Hepatite autoimune não explica exantema, linfonodomegalia e eosinofilia de 3.500/mm³ semanas após iniciar um fármaco.",
+   "Correta: o quadro é DRESS por fenitoína, tratada com suspensão do fármaco e corticoide sistêmico.",
+   "Mononucleose dá linfocitose atípica, não eosinofilia, e só suporte é insuficiente na DRESS com lesão hepática e renal."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 19
+  }
+ },
+ {
+  "pid": "u021",
+  "q": "Mulher, 32 anos de idade, natural e procedente de São Paulo, procura o serviço de emergência com queixa de adinamia há 7 dias e sangramento vaginal abundante há 2 dias. Nega comorbidades, tabagismo, etilismo, uso de medicamentos ou suplementos. Ao exame físico, apresenta FC de 100 bpm, PA de 100x50 mmHg, temperatura axilar de 38 °C; bom estado geral, descorada 2+/4+, anictérica, tem petéquias na mucosa jugal e nos membros inferiores; sem adenomegalias ou outros achados. • Exames laboratoriais: Hb: 6,2 g/dL VCM: 84,7 fL HCM: 29,7 pg RDW: 18% Reticulócitos: 23.000/mm³ Leucócitos: 1.100/mm³ Neutrófilos: 440/mm³ Linfócitos 850/mm³ Monócitos: 40/mm³ Eosinófilos: 10/mm³ Plaquetas: 8.000/mm³ Hematoscopia com poiquilocitose e esferócitos. Assinale a alternativa que indica a mais provável hipótese diagnóstica e a correta condução clínica desta paciente.",
+  "alts": [
+   "Púrpura trombocitopênica trombótica; plasmaférese, bloqueio hormonal e dosagem de ADAMTS13.",
+   "Aplasia de medula; iniciar imunossupressão e suporte transfusional imediatamente após biópsia de medula.",
+   "Leucemia aguda; iniciar suporte transfusional, bloqueio hormonal, antibioticoterapia e estudo medular.",
+   "Tuberculose medular; pesquisa direta e PCR para micobactéria na medula, terapia RIPE e piperacilina-tazobactam."
+  ],
+  "gab": 2,
+  "tema": "hemato",
+  "sub": "Pancitopenia febril com sangramento",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Döhner H et al. Diagnosis and management of AML in adults: 2022 recommendations from an international expert panel on behalf of the ELN, Blood, 2022; IDSA. Clinical Practice Guideline for the Use of Antimicrobial Agents in Neutropenic Patients with Cancer, 2011",
+  "coment": "Pancitopenia com reticulócitos baixos (23.000/mm³) indica falência de produção medular. Em adulta jovem com febre, petéquias, anisocitose (RDW de 18%) e poiquilocitose, a hipótese mais provável é leucemia aguda com infiltração da medula, mesmo sem blastos descritos no sangue. A conduta inicial não espera a confirmação: transfusão de hemácias e plaquetas (8.000/mm³ com sangramento ativo), supressão hormonal do sangramento uterino, antibiótico de amplo espectro na primeira hora pela neutropenia febril (neutrófilos de 440/mm³, abaixo de 500) e mielograma com imunofenotipagem para o diagnóstico.",
+  "porAlt": [
+   "Púrpura trombocitopênica trombótica cursa com hemólise microangiopática (esquizócitos, reticulocitose), sem leucopenia nem reticulocitopenia.",
+   "Aplasia é diferencial, mas a imunossupressão só começa com diagnóstico firmado, e o esquema ignora a neutropenia febril, que exige antibiótico imediato.",
+   "Correta: leucemia aguda é a hipótese principal, e o manejo combina suporte transfusional, controle do sangramento, antibiótico e estudo medular.",
+   "Tuberculose medular é rara, sem dado clínico ou epidemiológico que a sugira, e iniciar esquema RIPE empírico sem diagnóstico não é a conduta."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 21
+  }
+ },
+ {
+  "pid": "u022",
+  "q": "Homem, 63 anos de idade, procura atendimento ambulatorial por dispneia. Ele não tem antecedentes relevantes, mas conta que, há 8 meses, começou a apresentar dispneia aos grandes esforços, mas conseguia realizar atividades habituais. Há 2 meses, começou a interromper sua caminhada diária até a padaria por dispneia e tosse. Há 1 mês, teve crise de dispneia e tosse produtiva, quando ficou internado por 4 dias no pronto-socorro. Ele é tabagista com carga de 46 anos-maço. Ao exame clínico, apresentou sinais vitais normais e sibilos expiratórios difusos, sem sinais de desconforto respiratório e sem outras anormalidades. Os dados da prova de função pulmonar estão apresentados a seguir:\n| Pré-broncodilatador | Pós-broncodilatador\nCapacidade Vital Forçada (CVF) | 3,79 L (83% do predito) | 3,78 L (82% do predito)\nVolume Expirado no Primeiro Segundo (VEF1) | 2,42 L (52% do predito) | 2,64 L (57% do predito)\nVEF1/CVF | 0,63 | 0,69\nO hemograma identificou 320 eosinófilos/mm³, IgE 35 UI/mL (valor de referência < 100 UI/mL). Assinale a alternativa correta sobre o diagnóstico e o tratamento do paciente neste momento.",
+  "alts": [
+   "Asma remodelada; formoterol e tiotrópio.",
+   "Asma alérgica; fluticasona.",
+   "Asma e DPOC; vilanterol e umeclidínio.",
+   "DPOC; olodaterol, budesonida e tiotrópio."
+  ],
+  "gab": 3,
+  "tema": "pneumo",
+  "sub": "DPOC grupo E com eosinofilia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "GOLD. Global Strategy for the Diagnosis, Management and Prevention of COPD, 2026",
+  "coment": "Tabagista de 46 anos-maço com dispneia progressiva e VEF1/CVF pós-broncodilatador de 0,69 (abaixo de 0,70): DPOC, com VEF1 de 57% do predito (GOLD 2). A resposta ao broncodilatador (220 mL, cerca de 9%) não chega a 12% e não sugere asma, e a IgE é normal. Uma internação por exacerbação no último ano classifica o paciente no grupo E. Pelo GOLD 2026, no grupo E inicia-se LABA com LAMA, e com eosinófilos de 300/µL ou mais considera-se a tripla terapia com corticoide inalatório desde o início. Com 320 eosinófilos, olodaterol, tiotrópio e budesonida é a escolha.",
+  "porAlt": [
+   "Não há história de asma, e na asma o corticoide inalatório não pode faltar; espirometria e tabagismo indicam DPOC.",
+   "Asma alérgica pressuporia atopia, IgE elevada e reversibilidade, e corticoide inalatório isolado não é tratamento de DPOC.",
+   "Sobreposição com asma não se sustenta sem história de asma ou resposta broncodilatadora significativa, e omitir o corticoide perde o benefício com eosinófilos de 300/µL ou mais.",
+   "Correta: DPOC grupo E com eosinófilos acima de 300/µL tem indicação de tripla terapia inalatória."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 22
+  }
+ },
+ {
+  "pid": "u023",
+  "q": "Homem, 63 anos de idade, procura atendimento ambulatorial por dispneia. Ele não tem antecedentes relevantes, mas conta que, há 8 meses, começou a apresentar dispneia aos grandes esforços, mas conseguia realizar atividades habituais. Há 2 meses, começou a interromper sua caminhada diária até a padaria por dispneia e tosse. Há 1 mês, teve crise de dispneia e tosse produtiva, quando ficou internado por 4 dias no pronto-socorro. Ele é tabagista com carga de 46 anos-maço. Ao exame clínico, apresentou sinais vitais normais e sibilos expiratórios difusos, sem sinais de desconforto respiratório e sem outras anormalidades. Os dados da prova de função pulmonar estão apresentados a seguir:\n| Pré-broncodilatador | Pós-broncodilatador\nCapacidade Vital Forçada (CVF) | 3,79 L (83% do predito) | 3,78 L (82% do predito)\nVolume Expirado no Primeiro Segundo (VEF1) | 2,42 L (52% do predito) | 2,64 L (57% do predito)\nVEF1/CVF | 0,63 | 0,69\nO hemograma identificou 320 eosinófilos/mm³, IgE 35 UI/mL (valor de referência < 100 UI/mL). O paciente não teve acesso aos medicamentos e, no mês seguinte, procurou o pronto-socorro com queixa de tosse produtiva, expectoração amarelada e febre de 37,9 °C. Ao exame clínico, apresentou-se em regular estado geral, corado, hidratado, dispneia com aumento do tempo expiratório. FC de 102 bpm, PA de 134x78 mmHg, FR de 23 ipm, saturação de oxigênio 91%; ausculta torácica com murmúrios vesiculares reduzidos com roncos difusos, sem sinais de esforço respiratório ou fadiga; ausculta cardíaca e abdome sem alterações. Foi coletada uma gasometria arterial com os seguintes resultados: pH: 7,26; HCO3-: 27 mEq/L; pCO2: 61 mmHg; PaO2: 59,8 mmHg; Sat. O2: 91%. Optou-se por acoplar o paciente em um dispositivo ventilatório apropriado ao seu manejo clínico neste momento. Assinale a alternativa que contempla os parâmetros que devem ser utilizados para ventilação com este dispositivo.",
+  "alts": [
+   "Pressão expiratória (cmH2O): 6; Pressão inspiratória (cmH2O): 14; FiO2 (%): 21; Volume corrente (mL): -; Frequência respiratória (rpm): -; Fluxo (L/min): -",
+   "Pressão expiratória (cmH2O): 10; Pressão inspiratória (cmH2O): -; FiO2 (%): 40; Volume corrente (mL): -; Frequência respiratória (rpm): -; Fluxo (L/min): -",
+   "Pressão expiratória (cmH2O): 5; Pressão inspiratória (cmH2O): -; FiO2 (%): 21; Volume corrente (mL): 420; Frequência respiratória (rpm): 26; Fluxo (L/min): 60",
+   "Pressão expiratória (cmH2O): -; Pressão inspiratória (cmH2O): -; FiO2 (%): 40; Volume corrente (mL): -; Frequência respiratória (rpm): -; Fluxo (L/min): 60"
+  ],
+  "gab": 0,
+  "tema": "pneumo",
+  "sub": "VNI na exacerbação da DPOC",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ERS/ATS. Clinical Practice Guidelines: noninvasive ventilation for acute respiratory failure, 2017; GOLD 2026",
+  "coment": "Exacerbação de DPOC com acidose respiratória aguda (pH 7,26, PaCO2 de 61 mmHg, bicarbonato de 27 mEq/L), sem rebaixamento, fadiga ou instabilidade: indicação clássica de ventilação não invasiva em dois níveis de pressão, que reduz intubação e mortalidade (ERS/ATS 2017, recomendação forte). Começa-se com EPAP de 5 a 6 e IPAP de 12 a 15 cmH2O, subindo a IPAP conforme PaCO2 e conforto; a diferença entre as pressões gera o volume corrente que elimina CO2. O oxigênio é titulado para saturação de 88% a 92%: com 91% em ar ambiente, FiO2 de 21% é aceitável e evita a hiperóxia, que piora a hipercapnia.",
+  "porAlt": [
+   "Correta: dois níveis de pressão com FiO2 baixa tratam a acidose hipercápnica respeitando o alvo de 88% a 92%.",
+   "Pressão única (CPAP) não dá suporte inspiratório para reduzir a PaCO2, e FiO2 de 40% é excessiva para o alvo de saturação.",
+   "Volume corrente, frequência e fluxo programados descrevem ventilação invasiva, sem indicação em paciente consciente e sem fadiga.",
+   "Fluxo de 60 L/min com FiO2 de 40% descreve cateter nasal de alto fluxo, que não substitui a VNI na acidose hipercápnica com pH abaixo de 7,35."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 23
+  }
+ },
+ {
+  "pid": "u024",
+  "q": "Homem, 63 anos de idade, tem hipertensão arterial sistêmica e obesidade. Procurou o pronto-socorro por dor e calor na perna direita, evoluindo com febre e calafrios. Ele foi admitido no hospital com diagnóstico inicial de celulite complicada com abscesso local. Uma hemocultura identificou Staphylococcus aureus sensível à meticilina e ele foi tratado com linezolida por 7 dias e drenagem da coleção. Cinco dias após a alta hospitalar, ele retorna com queixa de dores nos joelhos. O exame físico revela dificuldade de flexão completa dos joelhos por derrame articular. A artrocentese diagnóstica dos dois joelhos identificou os seguintes resultados: celularidade de 61 mil com 93% de polimorfonucleares e 7% de monócitos/linfócitos, presença de cristais de pirofosfato e monourato na microscopia de luz polarizada, cultura em andamento. Assinale a alternativa com a hipótese diagnóstica apropriada ao caso do paciente e a sua respectiva conduta.",
+  "alts": [
+   "Gota; anti-inflamatório e colchicina.",
+   "Condrocalcinose; prednisona e colchicina.",
+   "Artrite reativa; prednisona e metotrexate.",
+   "Artrite séptica; limpeza cirúrgica e oxacilina."
+  ],
+  "gab": 3,
+  "tema": "reumato",
+  "sub": "Artrite séptica após bacteremia estafilocócica",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Holland TL, Arnold C, Fowler VG. Clinical management of Staphylococcus aureus bacteremia, JAMA, 2014; Mathews CJ et al. Bacterial septic arthritis in adults, Lancet, 2010",
+  "coment": "Bacteremia por S. aureus tratada por apenas 7 dias com linezolida e retorno com derrame articular de 61.000 células e 93% de polimorfonucleares: artrite séptica por disseminação hematogênica até prova em contrário. Bacteremia por S. aureus exige no mínimo 14 dias de betalactâmico antiestafilocócico (oxacilina ou cefazolina na cepa sensível) e busca de focos metastáticos. Cristais no líquido não excluem infecção: gota e doença por pirofosfato coexistem com artrite séptica, e celularidade acima de 50.000 com neutrofilia obriga a tratá-la. A conduta é drenagem articular (cirúrgica, artroscópica ou por punções seriadas) e oxacilina.",
+  "porAlt": [
+   "Cristais de urato podem coexistir com infecção; com bacteremia recente e líquido purulento, tratar como gota atrasa o tratamento da artrite séptica.",
+   "Doença por pirofosfato não explica o contexto, e corticoide em artrite séptica não drenada é perigoso.",
+   "Artrite reativa segue infecção entérica ou urogenital, com líquido estéril, e não explica derrame purulento após bacteremia estafilocócica.",
+   "Correta: artrite séptica hematogênica exige drenagem articular e oxacilina para S. aureus sensível."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 24
+  }
+ },
+ {
+  "pid": "u025",
+  "q": "Leia o texto a seguir: “‘Olá, M.Z.T.! Esperamos que esteja bem! Viemos aqui hoje trazer uma notícia do seu plano de saúde. Por decisão da operadora desse plano e, apesar de todos os nossos esforços para a manutenção da sua permanência, ele será cancelado a partir de 1º de maio de 2024.’ Foi por meio dessa mensagem que o engenheiro mecânico J.T. F. soube, no dia 28 de março, que o plano de saúde da mãe dele, M.Z.T., seria rescindido pela operadora 32 dias depois. M.Z.T. tem 102 anos.” Texto extraído de notícia publicada no Jornal Folha de S. Paulo em 16/04/2024. Adaptado. A notícia retrata uma prática recorrente dos planos e seguros de saúde no Brasil, que é a rescisão unilateral imotivada de contratos por parte das operadoras do setor. Assinale a alternativa correta sobre a rescisão unilateral imotivada por parte dos planos de saúde.",
+  "alts": [
+   "É permitida às cooperativas médicas que atuam na saúde suplementar, as quais seguem regras próprias relacionadas à autonomia do cooperativismo.",
+   "É autorizada pela legislação e pela ANS, incide sobre os contratos coletivos e de adesão dos planos de saúde, sendo proibida nos contratos individuais.",
+   "É proibida pelo Estatuto do Idoso (Lei nº 10.741/2003), quando envolve contratos de clientes maiores de 65 anos de idade.",
+   "É proibida pela Lei dos Planos de Saúde (Lei nº 9.656/98), sendo considerada prática abusiva da operadora, sujeita a multas e penalidades."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Rescisão unilateral em planos de saúde",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Lei 9.656/1998 (Lei dos Planos de Saúde), art. 13; Resolução Normativa ANS 557/2022",
+  "coment": "A Lei 9.656/1998 (art. 13, parágrafo único, II) proíbe a suspensão ou rescisão unilateral dos contratos individuais ou familiares, salvo por fraude ou inadimplência acima de 60 dias, consecutivos ou não, nos últimos 12 meses, com notificação prévia. Essa proteção não alcança os planos coletivos, empresariais ou por adesão, que a regulação da ANS permite rescindir sem motivo após 12 meses de vigência e com aviso prévio de 60 dias, se previsto em contrato. O STJ (Tema 1082) obriga a operadora a manter a assistência de quem está internado ou em tratamento até a alta, mesmo nos coletivos.",
+  "porAlt": [
+   "Cooperativas médicas que operam planos estão sujeitas à Lei 9.656/1998 e à regulação da ANS, sem regra própria que autorize a rescisão.",
+   "Correta: a rescisão imotivada é vedada nos contratos individuais e admitida nos coletivos, conforme a lei e a regulação da ANS.",
+   "O Estatuto da Pessoa Idosa veda cobrança diferenciada por idade, mas não proíbe a rescisão de contrato coletivo.",
+   "A Lei 9.656/1998 proíbe a rescisão imotivada só nos contratos individuais ou familiares, não nos coletivos."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 25
+  }
+ },
+ {
+  "pid": "u026",
+  "q": "Divulgada em 2024, a pesquisa “Contas-Satélites de Saúde”, do Instituto Brasileiro de Geografia e Estatística (IBGE) apresenta, em série histórica, dados sistematizados sobre os gastos e os recursos de saúde no Brasil. Em relação à estrutura do financiamento no sistema de saúde brasileiro apurada pelo IBGE, assinale a alternativa correta.",
+  "alts": [
+   "Os gastos com o Sistema Único de Saúde (SUS) no Brasil, considerando a proporção do Produto Interno Bruto (PIB), são maiores que os gastos governamentais de países como Alemanha, França e Inglaterra.",
+   "Os serviços de saúde privados são o principal destino dos gastos com saúde no Brasil, respondendo por mais de 60% da totalidade dos gastos.",
+   "A participação dos gastos com medicamentos no Brasil corresponde a mais da metade das despesas com saúde das famílias no Brasil.",
+   "As atividades relacionadas à saúde geram menos de 3% do total de postos de trabalho no Brasil."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Financiamento da saúde no Brasil (IBGE)",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "IBGE. Conta-Satélite de Saúde: Brasil 2010-2021, 2024",
+  "coment": "A Conta-Satélite de Saúde do IBGE mostra que o Brasil gasta perto de 10% do PIB com saúde, com estrutura invertida em relação aos países de sistema universal: a maior parte da despesa é privada, paga por famílias e planos, e o gasto do governo fica em torno de 4% do PIB, abaixo do de Alemanha, França e Reino Unido. Na distribuição por destino, os serviços de saúde privados concentram a maior fatia do gasto total, à frente da saúde pública e dos medicamentos. Medicamentos pesam no orçamento das famílias, mas ficam abaixo da metade, e o setor saúde responde por parcela de postos de trabalho bem maior que 3%.",
+  "porAlt": [
+   "O gasto público brasileiro em saúde, em torno de 4% do PIB, é menor que o de Alemanha, França e Reino Unido, onde o governo financia a maior parte.",
+   "Correta: os serviços de saúde privados são o principal destino do gasto com saúde no país.",
+   "Medicamentos são item de peso para as famílias, mas a maior parcela do gasto delas vai para serviços privados de saúde, incluindo planos.",
+   "As atividades de saúde ocupam parcela dos postos de trabalho do país bem acima de 3%."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 26
+  }
+ },
+ {
+  "pid": "u027",
+  "q": "Para permitir a comparação entre as taxas de mortalidade por aids entre os estados brasileiros, o sistema de vigilância epidemiológica do SUS calcula e divulga as taxas padronizadas de mortalidade, como exemplifica a tabela a seguir: Taxas de mortalidade bruta e padronizadas por doença do HIV em estados selecionados. Brasil, 2022\nEstado | Taxa Bruta | Taxa padronizada*\nSão Paulo | 4,0 | 3,0\nRio de Janeiro | 7,8 | 6,3\nRio Grande do Sul | 9,8 | 7,3\n*Utilizado método direto, tendo como base o censo da população brasileira em 2000. Fonte: Boletim Epidemiológico - HIV e Aids 2023. https://www.saude.ce.gov.br/wp-content/uploads/sites/9/2018/06/ Boletim_Epidemiologico_HIV_Aids_2023.pptx.pdf Para comparar a mortalidade entre os estados diretamente, sem necessidade de padronizar, deve-se utilizar",
+  "alts": [
+   "as taxas de mortalidade específicas por faixa etária.",
+   "as razões de mortalidade proporcional por aids.",
+   "as taxas de incidência de aids por faixa etária.",
+   "as taxas específicas de prevalência."
+  ],
+  "gab": 0,
+  "tema": "epidemio",
+  "sub": "Padronização de taxas por idade",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia e Saúde, 8ª ed., 2018",
+  "coment": "A taxa bruta de mortalidade depende da estrutura etária: estado com população mais velha registra mais óbitos por razão demográfica. A padronização direta aplica as taxas específicas por idade de cada estado a uma população-padrão comum (aqui, o censo de 2000), anulando o efeito da idade. Sem padronizar, a comparação válida é feita diretamente pelas taxas específicas por faixa etária, estrato a estrato, que já são livres desse confundimento. Mortalidade proporcional mede a fração dos óbitos por uma causa, e incidência e prevalência medem adoecimento, não morte.",
+  "porAlt": [
+   "Correta: as taxas específicas por faixa etária comparam estados sem a interferência da estrutura etária.",
+   "Mortalidade proporcional indica a fração dos óbitos totais devida à aids e varia com as demais causas de morte, sem medir risco de morrer.",
+   "Taxa de incidência mede casos novos de aids, não mortalidade.",
+   "Prevalência mede casos existentes, não óbitos, e não substitui a taxa de mortalidade."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 27
+  }
+ },
+ {
+  "pid": "u028",
+  "q": "Homem, 28 anos de idade, casado, comerciário, natural de Salvador e procedente do ABC paulista. Procurou atendimento em uma Unidade Básica de Saúde com queixa de aparecimento de manchas vermelhas nas palmas das mãos há duas semanas. Há uma semana, notou também o aparecimento de pequenos linfonodos no pescoço e de manchas no tronco e nos braços. Na anamnese, informou que é casado e que sua esposa está grávida no 3º mês de gestação. Diz que há três meses, durante uma viagem de trabalho, teve uma relação extraconjugal. Informa que usou preservativo, mas fez sexo oral na parceira sem proteção. Considerando o caso apresentado, assinale a alternativa correta.",
+  "alts": [
+   "O quadro provável deste paciente é de sífilis primária, no qual a transmissibilidade é alta e já pode ter acarretado infecção na mãe e no concepto.",
+   "O quadro provável deste paciente é de sífilis secundária, no qual a transmissibilidade é muito baixa, acarretando baixo risco à esposa e ao concepto.",
+   "O quadro provável deste paciente é de sífilis secundária, no qual a transmissibilidade é alta e já pode ter acarretado infecção na mãe e no concepto.",
+   "O quadro provável deste paciente é de sífilis terciária, no qual a transmissibilidade é alta e já pode ter acarretado infecção na mãe e no concepto."
+  ],
+  "gab": 2,
+  "tema": "infecto",
+  "sub": "Sífilis secundária e risco à gestante",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Lesões nas palmas, manchas no tronco e nos braços e linfonodomegalia cerca de 3 meses após exposição de risco (sexo oral desprotegido também transmite) caracterizam sífilis secundária, que surge de 6 semanas a 6 meses após a infecção. As fases primária e secundária são as de maior transmissibilidade, pela grande quantidade de treponemas nas lesões. A esposa grávida pode estar infectada, e a transmissão vertical é mais alta na sífilis recente. A conduta é testar e tratar o casal (penicilina benzatina 2,4 milhões UI em dose única na fase secundária), notificar e acompanhar a gestante no pré-natal (PCDT IST 2022).",
+  "porAlt": [
+   "Sífilis primária se manifesta como cancro no local de inoculação, não como exantema palmar e linfonodomegalia generalizada.",
+   "Sífilis secundária é fase de alta transmissibilidade, com risco relevante para a esposa e para o concepto.",
+   "Correta: exantema palmar e linfonodomegalia meses após a exposição indicam sífilis secundária, fase de alta transmissibilidade.",
+   "Sífilis terciária surge anos depois, com gomas e lesões cardiovasculares ou neurológicas, e transmite pouco."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 28
+  }
+ },
+ {
+  "pid": "u029",
+  "q": "A criação do Sistema Único de Saúde (SUS) no Brasil, em 1988, responde a aspectos de crise e reconstruções no cenário institucional e político do país, dentre os quais é possível destacar:",
+  "alts": [
+   "A crise financeira da assistência médica previdenciária, a falta de articulação entre as ações de saúde nos diversos níveis da federação, a desmobilização dos movimentos sociais por saúde e a redemocratização do país.",
+   "A crise financeira do setor saúde nos diversos níveis da federação, a mobilização dos movimentos sociais pela expansão da assistência médica previdenciária e o movimento popular pela redemocratização do país.",
+   "A crise previdenciária, a mobilização dos movimentos sociais por aumento da extensão das ações de assistência médica, uma nova articulação entre os setores público e privado na saúde e a participação popular nos diversos níveis da federação.",
+   "A desarticulação entre setor público e privado, a desmobilização dos movimentos sociais por saúde, a articulação entre os diversos níveis de atenção à saúde da federação e a crise das instituições democráticas."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Contexto histórico da criação do SUS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Constituição Federal de 1988, arts. 196 a 200; Paim JS et al. O sistema de saúde brasileiro: história, avanços e desafios, Lancet, 2011",
+  "coment": "O SUS nasceu do Movimento da Reforma Sanitária num contexto de crise financeira da previdência (INAMPS), que só assistia os contribuintes formais; de mobilização social pela extensão da assistência a toda a população; de rearranjo da relação entre público e privado; e da redemocratização, que trouxe a participação popular. A 8ª Conferência Nacional de Saúde (1986) sistematizou essas propostas, incorporadas à Constituição de 1988 (saúde como direito de todos e dever do Estado) e regulamentadas pelas Leis 8.080/1990 e 8.142/1990, esta com conselhos e conferências de saúde.",
+  "porAlt": [
+   "Os movimentos sociais por saúde estavam mobilizados, não desmobilizados; a Reforma Sanitária foi o motor da criação do SUS.",
+   "A mobilização não buscava expandir a assistência previdenciária, restrita a contribuintes, e sim o direito universal à saúde.",
+   "Correta: crise previdenciária, mobilização social, nova relação público-privado e participação popular marcam a criação do SUS.",
+   "Houve mobilização social, e o contexto era de redemocratização, não de crise das instituições democráticas."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 29
+  }
+ },
+ {
+  "pid": "u030",
+  "q": "Você é médico(a) de uma equipe de Saúde da Família e está acompanhando a Agente Comunitária de Saúde (ACS) para conhecer o seu território. Você a acompanha na visita domiciliar para cadastro de um senhor que se mudou recentemente para a casa da filha, após um acidente vascular cerebral. Embora ele tenha dificuldade em responder, devido às limitações motoras, você percebe que a agente comunitária estabelece o seguinte diálogo com ele: ACS: Bom dia! Sou agente comunitária de saúde lá do postinho. Eu vou acompanhar o senhor enquanto estiver aqui na casa da sua filha, tudo bem? - O paciente faz um “ok” com o dedo. ACS: Preciso de algumas informações do senhor para o cadastro na UBS, o senhor prefere responder ou que eu pergunte para sua filha? - Com alguma dificuldade, ele responde que pode perguntar para a filha. A filha segue a conversa respondendo os dados sobre idade, trabalho e histórico da doença, entretanto, no momento de preencher a questão sobre raça/cor, a ACS se direciona a ele e pergunta. ACS: Como o senhor se identifica: preto, pardo, branco, indígena ou amarelo? - Paciente responde “branco” com alguma dificuldade. Quais determinantes relacionados à dimensão social da vulnerabilidade foram considerados no caso?",
+  "alts": [
+   "Capacitismo e acesso.",
+   "Racismo e capacitismo.",
+   "Racismo e etnocentrismo.",
+   "Etnocentrismo e acesso."
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Racismo e capacitismo no cadastro",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 992/2009 (Política Nacional de Saúde Integral da População Negra); Portaria GM/MS 344/2017 (quesito raça/cor); Lei 13.146/2015 (Estatuto da Pessoa com Deficiência)",
+  "coment": "A agente comunitária age sobre dois determinantes sociais de vulnerabilidade. Primeiro pergunta ao próprio paciente como prefere responder, em vez de presumir que a limitação motora o incapacita: enfrenta o capacitismo, a discriminação que supõe a pessoa com deficiência incapaz de decidir (Lei 13.146/2015). Depois, mesmo com a filha respondendo o resto, pergunta a raça/cor diretamente a ele, porque o quesito é autodeclarado (Portaria 344/2017) e permite analisar as iniquidades produzidas pelo racismo, determinante reconhecido pela Política Nacional de Saúde Integral da População Negra.",
+  "porAlt": [
+   "O acesso não foi o foco do diálogo; o que se respeitou foi a autonomia da pessoa com deficiência e a autodeclaração de raça/cor.",
+   "Correta: a autodeclaração de raça/cor remete ao racismo, e respeitar a autonomia da pessoa com deficiência enfrenta o capacitismo.",
+   "Etnocentrismo é julgar outras culturas pelos padrões da própria, situação ausente no diálogo.",
+   "Nem etnocentrismo nem acesso aparecem no diálogo, que trata de autodeclaração racial e autonomia da pessoa com deficiência."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 30
+  }
+ },
+ {
+  "pid": "u031",
+  "q": "Foi realizado um estudo transversal de base populacional na cidade de Pelotas, no sul do Brasil. Todos os indivíduos com idades entre 10 e 19 anos de idade que residiam nas moradias selecionadas foram convidados a participar do estudo. Para identificar depressão, foi aplicado o instrumento PHQ-9 (Patient Health Questionnaire – 9). Foram avaliados 359 adolescentes do sexo masculino e 384 do sexo feminino, dos quais 50 meninos e 76 meninas foram diagnosticados com depressão, conforme tabela a seguir:\nSexo | Depressão + | Depressão - | ??????\nMasculino | 50 | 309 | 13,9%\nFeminino | 76 | 308 | 19,8%\nTotal | 126 | 617 | 17,0%\nQue medida de ocorrência ou de associação está representada na última coluna da tabela?",
+  "alts": [
+   "Incidência.",
+   "Prevalência.",
+   "Risco Relativo.",
+   "Densidade de incidência."
+  ],
+  "gab": 1,
+  "tema": "epidemio",
+  "sub": "Prevalência em estudo transversal",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia e Saúde, 8ª ed., 2018",
+  "coment": "O estudo transversal mede exposição e desfecho no mesmo momento e por isso estima prevalência: casos existentes divididos pela população avaliada. São 50/359 = 13,9% nos meninos, 76/384 = 19,8% nas meninas e 126/743 = 17,0% no total. Incidência exige acompanhar no tempo pessoas sem a doença para contar casos novos, o que esse desenho não faz. A medida de associação própria do transversal é a razão de prevalências (19,8/13,9, cerca de 1,4), não o risco relativo.",
+  "porAlt": [
+   "Incidência exige seguir pessoas sem a doença para contar casos novos, o que o estudo transversal não faz.",
+   "Correta: casos existentes divididos pelos avaliados de cada sexo, medida própria do estudo transversal.",
+   "Risco relativo é razão entre incidências de expostos e não expostos, não um percentual por linha.",
+   "Densidade de incidência usa pessoas-tempo no denominador, inexistente num estudo transversal."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 31
+  }
+ },
+ {
+  "pid": "u032",
+  "q": "Foi realizado um estudo transversal de base populacional na cidade de Pelotas, no sul do Brasil. Todos os indivíduos com idades entre 10 e 19 anos de idade que residiam nas moradias selecionadas foram convidados a participar do estudo. Para identificar depressão, foi aplicado o instrumento PHQ-9 (Patient Health Questionnaire – 9). Foram avaliados 359 adolescentes do sexo masculino e 384 do sexo feminino, dos quais 50 meninos e 76 meninas foram diagnosticados com depressão, conforme tabela a seguir:\nSexo | Depressão + | Depressão - | ??????\nMasculino | 50 | 309 | 13,9%\nFeminino | 76 | 308 | 19,8%\nTotal | 126 | 617 | 17,0%\nSuponha que, nesse estudo, a taxa de recusas para participar tenha sido de 50% entre os homens e 10% entre as mulheres. Nesse caso hipotético, que tipo de viés poderia ter afetado os resultados deste estudo?",
+  "alts": [
+   "Confundimento.",
+   "Causalidade reversa.",
+   "Viés de seleção.",
+   "Viés de informação."
+  ],
+  "gab": 2,
+  "tema": "bioestat",
+  "sub": "Viés de seleção por recusa diferencial",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia e Saúde, 8ª ed., 2018",
+  "coment": "Recusa de 50% entre os homens e 10% entre as mulheres é perda diferencial ligada ao sexo, a própria variável comparada. Se os meninos que recusaram tiverem frequência de depressão diferente da dos que participaram, a amostra deixa de representar a população, e tanto a prevalência quanto a comparação entre sexos ficam distorcidas: viés de seleção, na forma de viés de não resposta. Confundimento depende de um terceiro fator associado à exposição e ao desfecho; viés de informação é erro de medida; causalidade reversa é ambiguidade temporal.",
+  "porAlt": [
+   "Confundimento exige um terceiro fator associado à exposição e ao desfecho, não perda diferencial de participantes.",
+   "Causalidade reversa é limitação temporal do desenho transversal, sem relação com taxas de recusa.",
+   "Correta: participação diferente entre os grupos compromete a representatividade e gera viés de seleção.",
+   "Viés de informação é erro na classificação de exposição ou desfecho; o mesmo PHQ-9 aplicado a todos não o produz."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 32
+  }
+ },
+ {
+  "pid": "u033",
+  "q": "No ano de 2017, um laboratório da rede privada notificou ao Centro de Vigilância Epidemiológica (SES-SP) sobre a ocorrência de um número aumentado de casos com sorologia para hepatite A reagente. Ao se proceder a investigação epidemiológica, foi identificado que a maioria dos casos residia em bairros centrais do município de São Paulo, eram adultos jovens e do sexo masculino. Ao final do ano, houve 786 casos notificados frente a 64 no ano anterior, com 80% deles na idade entre 18 a 39 anos, frente a 12,5% em 2016. Assinale a alternativa que apresenta e explica a via de transmissão predominante neste surto.",
+  "alts": [
+   "Parenteral, por uso de drogas.",
+   "Ambiental, por contaminação da água.",
+   "Fecal-oral, por contaminação alimentar.",
+   "Sexual, pela prática oro-retal ou dígito-retal."
+  ],
+  "gab": 3,
+  "tema": "epidemio",
+  "sub": "Surto de hepatite A por via sexual",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "O surto de hepatite A de 2017 em São Paulo acometeu sobretudo homens adultos jovens de bairros centrais, com mudança brusca do perfil etário: 80% dos casos entre 18 e 39 anos, contra 12,5% no ano anterior. Esse padrão aponta transmissão sexual por prática oro-anal ou dígito-anal, principalmente entre homens que fazem sexo com homens, fenômeno descrito no mesmo período em outros países. Contaminação de água ou de alimento atingiria todas as idades e ambos os sexos, e a via parenteral é rara no vírus A. A resposta envolveu vacinação dos grupos expostos e orientação sobre práticas sexuais.",
+  "porAlt": [
+   "O uso de drogas injetáveis raramente transmite hepatite A e não explica a concentração em homens jovens de bairros centrais.",
+   "Contaminação da água atingiria todas as idades e ambos os sexos na área afetada.",
+   "Surto alimentar atinge pessoas de ambos os sexos e várias idades, sem o perfil restrito a homens jovens.",
+   "Correta: o predomínio em homens adultos jovens indica transmissão sexual por prática oro-anal ou dígito-anal."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 33
+  }
+ },
+ {
+  "pid": "u034",
+  "q": "Adolescente do sexo masculino, 15 anos de idade, comparece à consulta sozinho pela primeira vez. Queixa-se de desconforto inespecífico na região genital e pede que não conte nada à mãe dele. Teve as primeiras experiências sexuais, há cerca de um ano, com pessoas da escola e do bairro, de idades semelhantes à sua, de todos os gêneros. Não se sente à vontade para conversar sobre isso com a família, pois eles “não entenderiam e não poderiam ajudar”. Procura não definir sua orientação sexual e nem acha que precisa. Está preocupado com o risco de Infecções Sexualmente Transmissíveis (ISTs), pois nem sempre usa preservativo. Nega antecedentes de ISTs. Nega disúria, dor na evacuação, tenesmo, sangramentos, nega corrimento uretral ou anal. Ao exame físico, não apresenta alterações, peso de 57 kg e altura de 1,68 m. Além de oferecer sorologias para ISTs, orientar para o uso de preservativos e vacinação, considerando o Registro Orientado por Problemas, assinale a alternativa correta em relação ao campo A e P do SOAP.",
+  "alts": [
+   "A: risco para ISTs, pansexualidade, contracepção; P: abordar contracepção; oferecer PrEP e explicar que não há necessidade de contar para um adulto para autorizar a prescrição.",
+   "A: risco para ISTs, pansexualidade, conflito familiar; P: oferecer PrEP e explicar que há necessidade de um adulto para autorizar a prescrição.",
+   "A: desconforto genital, medo de ISTs, conflito familiar; P: oferecer PrEP e explicar que há necessidade de um adulto para autorizar a prescrição.",
+   "A: desconforto genital, medo de ISTs, contracepção; P: abordar contracepção; oferecer PrEP e explicar que não há necessidade de contar para um adulto para autorizar a prescrição."
+  ],
+  "gab": 3,
+  "tema": "ferramentas",
+  "sub": "SOAP e PrEP no adolescente",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Profilaxia Pré-Exposição (PrEP) de Risco à Infecção pelo HIV, 2025; Resolução CFM 2.217/2018, Código de Ética Médica, art. 74",
+  "coment": "No registro orientado por problemas, a avaliação lista os problemas como o paciente os traz, sem rótulos que ele mesmo recusa: desconforto genital, medo de IST e necessidade de contracepção, já que tem parcerias de todos os gêneros e nem sempre usa preservativo. Atribuir pansexualidade contraria a autodefinição, e conflito familiar extrapola o relato. No plano, abordar contracepção e oferecer PrEP: o PCDT do Ministério da Saúde permite a prescrição a partir de 15 anos e 35 kg sem autorização dos responsáveis, e o Código de Ética Médica (art. 74) garante o sigilo ao adolescente capaz de avaliar seu problema.",
+  "porAlt": [
+   "A avaliação rotula a orientação sexual como pansexualidade, o que o adolescente não quis definir e não cabe no registro.",
+   "Rotula a orientação sexual e exige autorização de adulto para a PrEP, que o PCDT dispensa a partir de 15 anos e 35 kg.",
+   "Exige autorização de adulto, que o PCDT dispensa, e registra conflito familiar que o relato não sustenta.",
+   "Correta: a avaliação respeita o relato do paciente, e a PrEP pode ser prescrita sem autorização de responsável."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 34
+  }
+ },
+ {
+  "pid": "u035",
+  "q": "Homem leva sua filha de 1 ano de idade para vacinar em uma UBS e aproveita para passá-la em consulta com o médico. Durante essa consulta, conta que a criança está com fezes amolecidas há 3 dias. Ela é atendida, recebe a vacina, soro de reidratação oral e orientações alimentares para a diarreia. Pode-se dizer que, quanto aos níveis de prevenção propostos pelo modelo da história natural da doença, foi realizada a",
+  "alts": [
+   "prevenção primária.",
+   "prevenção primária e secundária.",
+   "prevenção secundária e terciária.",
+   "prevenção quaternária."
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "Níveis de prevenção de Leavell e Clark",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Leavell HR, Clark EG. Medicina Preventiva, 1976",
+  "coment": "No modelo da história natural da doença, a prevenção primária atua no período pré-patogênico, com promoção da saúde e proteção específica, como a vacinação. A secundária atua na doença já instalada, com diagnóstico precoce e tratamento imediato para evitar complicações: a criança com diarreia recebeu soro de reidratação oral e orientação alimentar para impedir a desidratação. A terciária é reabilitação e redução de sequelas, e a quaternária, conceito posterior de Jamoulle, evita intervenções desnecessárias. Na mesma consulta houve, portanto, prevenção primária (vacina) e secundária (tratamento precoce da diarreia).",
+  "porAlt": [
+   "Houve também tratamento precoce da diarreia já instalada, que é prevenção secundária, além da vacina.",
+   "Correta: a vacina é prevenção primária, e a reidratação oral da diarreia em curso é prevenção secundária.",
+   "Não houve reabilitação nem redução de sequelas, que definem a terciária, e a vacina é prevenção primária.",
+   "Prevenção quaternária evita intervenções desnecessárias e iatrogenia, o que não descreve vacina e reidratação oral."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 35
+  }
+ },
+ {
+  "pid": "u036",
+  "q": "Mulher com diagnóstico de hipercolesterolemia procurou a UBS mais próxima da casa de sua mãe para acompanhamento, sem outras queixas. Na recepção, foi orientada que, por não morar na região, deveria procurar uma UBS da sua região de moradia para realizar este acompanhamento. Em relação a esse cenário, indique se a recepção acertou ou errou e a respectiva justificativa.",
+  "alts": [
+   "Acertou, porque a UBS de sua região de moradia é o local mais apropriado para o acompanhamento longitudinal.",
+   "Acertou, porque pessoas não cadastradas não podem ser atendidas nas UBS.",
+   "Errou, porque o SUS é universal e a paciente deveria ter sido atendida pela unidade que procurou.",
+   "Errou, porque a Estratégia de Saúde da Família deve atender todos os familiares dos residentes da área de abrangência."
+  ],
+  "gab": 0,
+  "tema": "aps",
+  "sub": "Território e longitudinalidade na UBS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (Política Nacional de Atenção Básica)",
+  "coment": "A PNAB 2017 organiza a atenção básica por território e população adscrita: cada pessoa tem uma equipe de referência responsável pelo cuidado longitudinal. Hipercolesterolemia é condição crônica, sem urgência, que exige seguimento contínuo, registro e vínculo, e esse acompanhamento cabe à UBS do território onde a pessoa mora. A universalidade garante acesso ao sistema, mas não obriga qualquer unidade a assumir o seguimento de quem é de outra área. O adequado é acolher, orientar e referenciar à unidade de origem; demandas agudas devem ser acolhidas em qualquer UBS.",
+  "porAlt": [
+   "Correta: o acompanhamento longitudinal de condição crônica cabe à equipe de referência do território de moradia.",
+   "Pessoas não cadastradas podem ser acolhidas em qualquer UBS; o motivo de orientar a outra unidade é a longitudinalidade, não a falta de cadastro.",
+   "A universalidade garante acesso ao sistema, organizado por território; o seguimento crônico cabe à equipe de referência do local de moradia.",
+   "A Saúde da Família se responsabiliza pela população residente no seu território, não por familiares de residentes que moram em outra área."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 36
+  }
+ },
+ {
+  "pid": "u037",
+  "q": "Homem, cisgênero, 20 anos de idade, comparece à UBS com um corte na sobrancelha após uma briga durante o bloco de carnaval. Refere que estava beijando seu namorado, quando dois rapazes se aproximaram e começaram a xingá-lo, dizendo que ele “não deveria estar fazendo isso ali, em público”. Houve uma discussão, quando recebeu um soco. Em relação à situação de violência, deve-se:",
+  "alts": [
+   "Encaminhar para realização de boletim de ocorrência e notificar para as autoridades sanitárias, se houver concordância do paciente.",
+   "Notificar para as autoridades sanitárias, independente da vontade do paciente, especificando a motivação LGBTfóbica.",
+   "Notificar para as autoridades sanitárias, independente da vontade do paciente, especificando sua orientação homossexual.",
+   "Não há necessidade de realizar a notificação, pois se trata de violência comunitária em pessoa adulta."
+  ],
+  "gab": 1,
+  "tema": "vigilancia",
+  "sub": "Notificação de violência LGBTfóbica",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V (lista nacional de notificação compulsória); Ministério da Saúde. Viva: instrutivo de notificação de violência interpessoal e autoprovocada, 2ª ed., 2016",
+  "coment": "A violência interpessoal é de notificação compulsória no SINAN. Na violência comunitária (extrafamiliar) contra homem adulto, a notificação se restringe a grupos específicos, e a população LGBT é um deles quando a agressão tem motivação homofóbica, lesbofóbica, bifóbica ou transfóbica, como aqui, em que o soco veio após o beijo no namorado. A notificação é ato de vigilância, independe da vontade do paciente, que deve ser informado, e a ficha tem campo próprio para a motivação. O boletim de ocorrência é decisão da vítima, não condição do atendimento.",
+  "porAlt": [
+   "A notificação é compulsória e não depende de concordância do paciente, e o boletim de ocorrência é decisão da vítima, não etapa obrigatória.",
+   "Correta: a violência com motivação LGBTfóbica é notificada mesmo em adulto, independentemente da vontade do paciente.",
+   "A orientação sexual é autodeclarada e não deve ser presumida; o que torna a notificação obrigatória é a motivação LGBTfóbica.",
+   "Violência comunitária contra adulto é notificada quando atinge grupo específico, como a população LGBT em agressão motivada por LGBTfobia."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 37
+  }
+ },
+ {
+  "pid": "u038",
+  "q": "Criança, do sexo masculino, 4 anos de idade, com diagnóstico prévio de asma, está com uma crise de broncoespasmo atual na UBS. Enquanto você prescrevia a medicação, percebeu que o pai cheirava a cigarro. Após confirmar que o pai é tabagista, assinale a alternativa com a próxima pergunta que deve ser realizada, considerando a abordagem motivacional.",
+  "alts": [
+   "Você já pensou em parar de fumar?",
+   "Você já pensou nos riscos de fumar?",
+   "Você fuma quantos cigarros por dia?",
+   "Você sabe que o tabagismo pode piorar a asma?"
+  ],
+  "gab": 0,
+  "tema": "cronicas",
+  "sub": "Abordagem motivacional do tabagismo",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 40: o cuidado da pessoa tabagista, 2015",
+  "coment": "Na abordagem motivacional, depois de identificar o fumante, a primeira pergunta avalia a disposição para mudar, segundo os estágios de Prochaska e DiClemente: você já pensou em parar de fumar? A resposta orienta o passo seguinte: na pré-contemplação, informação personalizada e vínculo; na contemplação, explorar a ambivalência; na preparação, marcar data e oferecer tratamento (CAB 40, 2015). A crise asmática do filho é momento oportuno, desde que sem confronto. Perguntas sobre riscos soam como sermão e geram resistência, e o número de cigarros mede dependência, dado útil depois.",
+  "porAlt": [
+   "Correta: perguntar se já pensou em parar avalia o estágio de motivação, ponto de partida da abordagem motivacional.",
+   "Perguntar se já pensou nos riscos é abordagem confrontativa, que tende a gerar resistência e não identifica a disposição para mudar.",
+   "A quantidade de cigarros avalia o grau de dependência, etapa posterior, e não a motivação para parar.",
+   "Pergunta fechada e acusatória, que culpa o pai pela crise do filho e fecha o diálogo motivacional."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 38
+  }
+ },
+ {
+  "pid": "u039",
+  "q": "A cascata do cuidado contínuo do HIV (continuum of HIV care) é um parâmetro internacional do desempenho da atenção de saúde em HIV. Trata-se de uma representação gráfica, na qual as barras representam a proporção estimada de pessoas nas fases do cuidado, como exemplifica a figura a seguir: Cascata de cuidado contínuo do HIV, Brasil, 2022 *Proporções calculadas em relação ao número de pessoas vivendo com HIV/Aids (PVHA). # Tarv: terapia antirretroviral do HIV A utilidade da cascata para avaliar o desempenho da atenção em saúde fez com que o modelo passasse a ser utilizado para vários agravos, entre eles a sífilis congênita. Sabendo que o tratamento adequado e oportuno da sífilis na gestante tem alta efetividade, qual deve ser a estimativa da proporção da última barra da cascata da transmissão vertical de sífilis?",
+  "alts": [
+   "Número de gestantes curadas /Número de gestantes tratadas X 100.",
+   "Número de gestantes curadas/Número de nascidos vivos X 100.",
+   "Número de nascidos vivos sem sífilis/Número de nascidos vivos X 100.",
+   "Número de nascidos vivos sem sífilis/Número de gestantes infectadas X 100."
+  ],
+  "gab": 3,
+  "tema": "epidemio",
+  "sub": "Cascata da transmissão vertical da sífilis",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2022",
+  "coment": "Na cascata do HIV, todas as barras são proporções da mesma base (pessoas vivendo com HIV), o que mostra onde se perde gente a cada etapa até o desfecho final, a carga viral suprimida. Transpondo para a transmissão vertical da sífilis, a base é o número de gestantes infectadas, e as barras seguem diagnosticadas, tratadas adequadamente e, por fim, o desfecho que importa: nascidos vivos sem sífilis congênita. Como o tratamento oportuno da gestante com penicilina benzatina é altamente efetivo, a última barra deve ficar próxima das anteriores quando o pré-natal funciona.",
+  "porAlt": [
+   "Usa como denominador as gestantes tratadas, e não a base comum da cascata, e mede cura materna em vez do desfecho na criança.",
+   "Mistura cura materna com todos os nascidos vivos, inclusive filhos de mães não infectadas, fugindo da lógica da cascata.",
+   "Dividir por todos os nascidos vivos mede ausência de sífilis na população geral de nascidos, não o desempenho do cuidado das gestantes infectadas.",
+   "Correta: o desfecho final (nascidos vivos sem sífilis) dividido pela base comum (gestantes infectadas) fecha a cascata."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Acesso Direto",
+   "ex": "usp25ad",
+   "n": 39
+  }
+ }
+]

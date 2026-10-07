@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "obstetricia",
+  "a": "Como calcular a data provável do parto pela regra de Naegele?",
+  "b": "Somar 7 dias ao primeiro dia da DUM e subtrair 3 meses (ou somar 9 meses se a DUM for de janeiro a março). Pressupõe ciclo regular de 28 dias. MS, Caderno de Atenção Básica 32, 2012."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Quando redatar a gestação pela ultrassonografia entre 9 e 13 semanas e 6 dias?",
+  "b": "Quando o CCN difere da DUM em mais de 7 dias. Abaixo de 9 semanas, mais de 5 dias; entre 16 e 21 semanas e 6 dias, mais de 10 dias. ACOG Committee Opinion 700, 2017."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Captação e número mínimo de consultas de pré-natal na Rede Alyne?",
+  "b": "Captação até a 12ª semana e no mínimo 7 consultas, alternadas entre médico e enfermeiro na UBS. Portaria GM/MS 5.350, 2024."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Quais exames infecciosos se repetem no 3º trimestre e no parto, mesmo se negativos antes?",
+  "b": "Testagem para HIV e para sífilis: na 1ª consulta, no início do 3º trimestre e na admissão para o parto. Toxoplasmose só se a gestante for suscetível. PCDT de Transmissão Vertical, MS, 2022."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Suplementação profilática de ferro e ácido fólico na gestante pelo MS?",
+  "b": "40 mg de ferro elementar e 400 µg de ácido fólico ao dia, do início do pré-natal até o fim da gestação; ferro isolado até o 3º mês pós-parto. MS, Programas Nacionais de Suplementação de Micronutrientes, 2022."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Dose de cálcio recomendada pela OMS em gestantes com baixa ingestão?",
+  "b": "1,5 a 2,0 g de cálcio elementar ao dia, em doses fracionadas e afastadas do ferro, para prevenir pré-eclâmpsia. OMS, 2018."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Quando aplicar dTpa na gestação?",
+  "b": "Uma dose em cada gestação, a partir de 20 semanas, mesmo se vacinada antes; se não feita, no puerpério até 45 dias. Calendário do PNI, 2025."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Esquema da vacina contra VSR para gestantes no SUS?",
+  "b": "Dose única a partir de 28 semanas, uma por gestação, sem limite de idade materna; pode ser dada junto com outras vacinas. Ministério da Saúde, 2025."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Critério de cardiotocografia anteparto reativa a partir de 32 semanas?",
+  "b": "Pelo menos 2 acelerações de 15 bpm por 15 segundos em 20 minutos (antes de 32 semanas, 10 bpm por 10 s). ACOG Practice Bulletin 229, 2021."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "O que indicam desacelerações tardias recorrentes com variabilidade ausente?",
+  "b": "Traçado categoria III, por insuficiência uteroplacentária: suspender ocitocina, decúbito lateral, hidratar e, sem melhora rápida, parto imediato. ACOG Practice Bulletin 106, 2009."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Pontuação de Bishop que indica colo favorável para ocitocina direta?",
+  "b": "Bishop maior que 6. Com 6 ou menos, preparo cervical com misoprostol ou sonda de Foley; com cesárea anterior, só método mecânico. OMS, indução do parto, 2011."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Uterotônico profilático de escolha no 3º período do parto?",
+  "b": "Ocitocina 10 UI IM (ou IV lenta) logo após o nascimento, com clampeamento do cordão após pelo menos 1 minuto. OMS, uterotônicos na prevenção da HPP, 2018."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Critérios do método da amenorreia lactacional?",
+  "b": "Amenorreia, amamentação exclusiva ou quase exclusiva de dia e de noite e menos de 6 meses pós-parto. Eficácia acima de 98%. OMS, Family Planning Handbook, 2018."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Critério de pré-eclâmpsia sem proteinúria?",
+  "b": "PA de 140/90 mmHg ou mais após 20 semanas com disfunção de órgão-alvo: plaquetopenia, lesão renal ou hepática, sintomas neurológicos, edema pulmonar ou disfunção uteroplacentária. MS, Gestação de Alto Risco, 2022."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Antídoto e sinais de intoxicação por sulfato de magnésio?",
+  "b": "Reflexo patelar abolido, FR abaixo de 12 a 16 irpm e oligúria. Suspender a infusão e dar gluconato de cálcio 10%, 10 mL (1 g) IV lento. MS, Gestação de Alto Risco, 2022."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Fármacos para crise hipertensiva na gestação (PA de 160/110 ou mais)?",
+  "b": "Nifedipino 10 mg VO de liberação imediata, a cada 20 a 30 min, ou hidralazina 5 mg IV a cada 20 min. Evitar via sublingual, IECA e BRA. MS, Gestação de Alto Risco, 2022."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Critérios laboratoriais da síndrome HELLP?",
+  "b": "Hemólise (LDH de 600 U/L ou mais, esquizócitos, bilirrubina de 1,2 ou mais), AST de 70 U/L ou mais e plaquetas abaixo de 100.000/mm³. MS, Gestação de Alto Risco, 2022."
+ },
+ {
+  "tema": "obstpat",
+  "a": "AAS na prevenção de pré-eclâmpsia: dose e período?",
+  "b": "100 a 150 mg à noite, iniciado a partir de 12 semanas (ideal antes de 16) e mantido até 36 semanas, em gestantes de alto risco. MS, Gestação de Alto Risco, 2022."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Cortes do TOTG com 75 g para diabetes gestacional?",
+  "b": "Jejum de 92, 1 hora de 180 ou 2 horas de 153 mg/dL ou mais; um valor alterado basta. Jejum de 92 a 125 na 1ª consulta já é DMG. OPAS/MS/FEBRASGO/SBD, 2017."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Metas glicêmicas no diabetes gestacional?",
+  "b": "Jejum abaixo de 95, 1 hora pós-prandial abaixo de 140 e 2 horas abaixo de 120 mg/dL. Insulina se 30% ou mais das medidas ficam fora da meta. OPAS/MS/FEBRASGO/SBD, 2019."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Critérios para metotrexato na gravidez ectópica?",
+  "b": "Estabilidade, beta-hCG até cerca de 5.000, massa menor que 3,5 a 4 cm, sem BCF e seguimento possível. 50 mg/m² IM; beta no 4º e 7º dias com queda de 15% ou mais. MS, Gestação de Alto Risco, 2022."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Dose de ácido tranexâmico na hemorragia pós-parto?",
+  "b": "1 g IV em 10 minutos, o mais cedo possível e em até 3 horas do parto; segunda dose de 1 g se sangrar após 30 min. Integra o pacote MOTIVE. OMS, FIGO e ICM, 2025."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Como calcular e interpretar o índice de choque obstétrico?",
+  "b": "FC dividida pela PAS. Valor de 0,9 ou mais indica perda importante; 1,4 ou mais, necessidade de transfusão urgente. OPAS, hemorragia obstétrica, 2018."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Quando usar sulfato de magnésio para neuroproteção fetal?",
+  "b": "Parto prematuro iminente abaixo de 32 semanas: 4 g IV de ataque e 1 g/h até o nascimento, no máximo 24 horas. Reduz paralisia cerebral. MS, Gestação de Alto Risco, 2022."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Tratamento da sífilis latente de duração ignorada na gestante?",
+  "b": "Penicilina benzatina 2,4 milhões UI IM semanal por 3 semanas (7,2 milhões UI), iniciada até 30 dias antes do parto; VDRL mensal e tratar parcerias. PCDT de Transmissão Vertical, MS, 2022."
+ }
+]

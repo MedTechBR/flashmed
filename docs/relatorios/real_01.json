@@ -1,0 +1,47 @@
+{
+ "incluidas": 43,
+ "descartadas": [
+  {
+   "pid": "p0314",
+   "motivo": "Mais de uma resposta defensável: na fratura diafisária do úmero fechada, sem lesão neurovascular, o tratamento padrão para a maioria dos casos ainda é conservador (redução fechada com tala de coaptação seguida de órtese funcional de Sarmiento), e a redução aberta com fixação interna fica para indicações específicas (fratura exposta, politrauma, falha da redução, lesão vascular, cotovelo flutuante). O gabarito oficial (redução aberta e fixação interna) e a alternativa de redução fechada com gesso são ambos sustentáveis."
+  },
+  {
+   "pid": "p0319",
+   "motivo": "Gabarito oficial (os dados não permitem avaliação) é contestável: pelos pelos espessos em genitália e mamas aumentadas sem separação de contornos, a adolescente está em M3 e P2/P3 de Tanner, compatível com desenvolvimento puberal adequado aos 12 anos (alternativa que também se defende). Mais de uma resposta defensável."
+  },
+  {
+   "pid": "p0327",
+   "motivo": "Depende de faixas etárias do calendário do PNI que mudaram e não puderam ser conferidas dentro do limite de buscas: HPV em dose única para 9 a 14 anos desde 2024, com resgate temporário de 15 a 19 anos, e meningocócica ACWY de rotina apenas de 11 a 14 anos. O gabarito prevê HPV e ACWY para um adolescente de 16 anos, o que pode não corresponder ao calendário vigente em outubro de 2026."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0307",
+   "nota": "Mantido. O esquema exato com neuropatia varia entre diretrizes (BSH: hidroxocobalamina 1 mg IM em dias alternados até parar a melhora, depois a cada 2 meses); a oficial (cianocobalamina IM diária e depois semanal) é a única alternativa coerente com ataque parenteral e manutenção."
+  },
+  {
+   "pid": "p0316",
+   "nota": "Mantido. A oficial fala em apendicectomia aberta; hoje a laparoscopia é preferida também na apendicite complicada (WSES 2020) e o abscesso bem formado pode ser drenado por via percutânea. Mas é a única alternativa com diagnóstico correto; o comentário explica a nuance."
+  },
+  {
+   "pid": "p0332",
+   "nota": "Mantido com ressalva. O esquema com azitromicina 2 g (4 comprimidos) corresponde, pela minha leitura, ao retratamento de infecções gonocócicas do PCDT IST; não consegui confirmar o texto exato da tabela na web dentro do limite de buscas. Vale conferir no PDF do PCDT IST 2022 antes de publicar."
+  },
+  {
+   "pid": "p0333",
+   "nota": "Mantido. A plasmaférese não é rotina na SHU típica pediátrica; a alternativa diz que pode auxiliar, o que é defensável em casos graves. As demais estão claramente erradas."
+  },
+  {
+   "pid": "p0339",
+   "nota": "Mantido. Aos 38 anos o termo técnico é insuficiência ovariana prematura, e a amenorreia após quimioterapia pode, em tese, ser reversível; mas 12 meses sem menstruar sustentam o diagnóstico da oficial, e a alternativa de cessação temporária afirma algo que não se pode afirmar."
+  },
+  {
+   "pid": "p0342",
+   "nota": "Mantido (gabarito anatômico correto). O enunciado afirma que o esvaziamento está indicado sem dizer quantos sentinelas são positivos; pelo ACOSOG Z0011 ele pode ser dispensado com 1 ou 2 linfonodos positivos em cirurgia conservadora. O comentário registra isso."
+  },
+  {
+   "pid": "p0343",
+   "nota": "Mantido. Velocidade de crescimento de 4 cm/ano e idade óssea igual à cronológica poderiam sugerir telarca isolada, mas o LH basal de 1,2 UI/L é puberal e define ativação central (forma inicial ou lentamente progressiva)."
+  }
+ ]
+}

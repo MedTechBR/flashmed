@@ -1,0 +1,1131 @@
+[
+ {
+  "pid": "p0353",
+  "q": "Uma gestante de 38 anos, secundigesta e cardiopata, chega à emergência referindo cólicas intensas, sangramento vaginal em grande quantidade e sangue vivo. A idade gestacional, estabelecida pela ultrassonografia transvaginal realizada com 6 semanas, é de 9 semanas e 3 dias. Ao exame, o útero encontra-se aumentado de volume, amolecido, com colo entreaberto e saída de material ovular identificada no exame especular. A ultrassonografia mostra a presença de restos ovulares em grande quantidade. Diante desse quadro, a conduta deve ser:",
+  "alts": [
+   "esvaziamento uterino por aspiração a vácuo ou curetagem",
+   "ocitocina venosa, 20 UI em 500 ml de soro fisiológico",
+   "expectante, monitorando a pressão arterial e sangramento",
+   "misoprostol retal na dose de 800 mcg em dose única",
+   "realização de nova ultrassonografia transvaginal em 12 horas"
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Abortamento incompleto com sangramento intenso",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; OMS. Abortion care guideline, 2022",
+  "coment": "Útero amolecido, colo entreaberto, eliminação de material ovular e restos em grande quantidade na ultrassonografia definem abortamento incompleto. Com sangramento volumoso, cólica intensa e cardiopatia materna, a conduta é esvaziar o útero já, de preferência por aspiração manual intrauterina (AMIU) ou elétrica abaixo de 12 semanas, ou curetagem. Conduta expectante ou só medicamentosa cabe em paciente estável e com sangramento discreto, o que não é o caso de uma cardiopata com hemorragia ativa.",
+  "porAlt": [
+   "Correta: abortamento incompleto com hemorragia volumosa pede esvaziamento uterino imediato, de preferência por aspiração a vácuo antes de 12 semanas.",
+   "Ocitocina tem pouco efeito sobre o útero de primeiro trimestre, pobre em receptores, e não resolve a retenção de restos.",
+   "Conduta expectante é inadequada diante de sangramento em grande quantidade em gestante cardiopata.",
+   "Misoprostol é opção para paciente estável com pouco sangramento; aqui a hemorragia exige esvaziamento rápido.",
+   "O diagnóstico já está feito; repetir o exame em 12 horas só atrasa o tratamento de uma hemorragia ativa."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 Acesso Direto",
+   "ex": "enare24ad"
+  }
+ },
+ {
+  "pid": "p0354",
+  "q": "Uma gestante de 20 semanas, moradora de área endêmica, chegou à admissão da maternidade com sinais e sintomas sugestivos de dengue. Após o exame clínico-obstétrico e laboratorial, a equipe de plantão resolveu internar e tratar a paciente, pois identificou corretamente o seguinte sinal de alarme:",
+  "alts": [
+   "vômitos esporádicos",
+   "dor abdominal moderada",
+   "hipotensão postural e/ou lipotimia",
+   "diminuição progressiva do hematócrito",
+   "esplenomegalia 1 cm abaixo do rebordo costal"
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Dengue na gestação: sinais de alarme",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., 2024",
+  "coment": "O manual do Ministério da Saúde de 2024 lista os sinais de alarme da dengue: dor abdominal intensa e contínua, vômitos persistentes, acúmulo de líquidos, hipotensão postural e/ou lipotimia, hepatomegalia maior que 2 cm, sangramento de mucosa, letargia ou irritabilidade e aumento progressivo do hematócrito. A presença de qualquer um deles classifica o caso no grupo C, com internação e hidratação venosa. Na gestante a vigilância é ainda maior, porque a hemoconcentração pode ser mascarada pela hemodiluição fisiológica.",
+  "porAlt": [
+   "Vômitos esporádicos não são sinal de alarme; o critério é vômito persistente.",
+   "O sinal de alarme é dor abdominal intensa e contínua, não dor moderada.",
+   "Correta: hipotensão postural e/ou lipotimia é sinal de alarme e indica grupo C, com internação.",
+   "O sinal de alarme é o aumento progressivo do hematócrito (hemoconcentração), não a queda.",
+   "O critério do manual é hepatomegalia maior que 2 cm; esplenomegalia discreta não é sinal de alarme."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 Acesso Direto",
+   "ex": "enare24ad"
+  }
+ },
+ {
+  "pid": "p0356",
+  "q": "Geraldo, 37 anos, adscrito à unidade básica de saúde, chega a consulta apresentando sintomas psicóticos. Como parte de seu delírio persecutório, recusa-se a ser medicado e não aceita ser encaminhado para o CAPS. Nesse caso, a conduta correta é:",
+  "alts": [
+   "encaminhar para o CAPS mesmo assim, pois a unidade não tem recurso para esse atendimento",
+   "insistir com a medicação, que é condição para um plano terapêutico adequado",
+   "fazer o acolhimento de Geraldo e convencê-lo a aderir ao tratamento para os problemas identificados",
+   "fazer o acolhimento de Geraldo, avaliar o quadro clínico geral e pactuar o acompanhamento na medida de suas limitações, lançando mão da entrevista motivacional se possível",
+   "chamar a ambulância para levá-lo compulsoriamente para a internação"
+  ],
+  "gab": 3,
+  "tema": "raps",
+  "sub": "Psicose na APS com recusa de tratamento",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Lei 10.216/2001; Ministério da Saúde. Caderno de Atenção Básica nº 34 (Saúde Mental), 2013",
+  "coment": "A Lei 10.216/2001 garante tratamento preferencialmente em serviço comunitário e restringe a internação involuntária ou compulsória a situações em que os recursos extra-hospitalares se mostrem insuficientes. Paciente com delírio, sem risco iminente descrito, que recusa remédio e CAPS deve ser acolhido pela equipe da UBS, que avalia o quadro clínico geral (inclusive causas orgânicas) e pactua o acompanhamento possível, construindo vínculo. A entrevista motivacional ajuda a avançar sem confronto. Forçar adesão ou encaminhar contra a vontade rompe o vínculo.",
+  "porAlt": [
+   "Encaminhar contra a vontade rompe o vínculo e ignora que a APS é responsável pelo cuidado longitudinal desse usuário.",
+   "Insistir na medicação contra a recusa gera confronto com o delírio persecutório e afasta o paciente.",
+   "Tentar convencê-lo a aderir de imediato desconsidera os limites do paciente; o caminho é pactuar o possível.",
+   "Correta: acolher, avaliar o quadro geral e pactuar o acompanhamento nos limites do paciente, com entrevista motivacional, preserva o vínculo.",
+   "Sem risco iminente a si ou a terceiros, a remoção compulsória não tem indicação e contraria a Lei 10.216/2001."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 Acesso Direto",
+   "ex": "enare24ad"
+  }
+ },
+ {
+  "pid": "p0358",
+  "q": "Com queixa de dor de cabeça, Jéssica, 37 anos, diarista, vai pela primeira vez à unidade básica de saúde. Ela reporta: \"Doutor, sinto essa dor há mais de 2 meses, desde que precisamos sair da nossa casa porque não dava mais para pagar o aluguel depois que meu marido foi demitido do emprego. Na minha casa somos eu, meu marido e três filhas de 4, 6 e 14 anos\". É exemplo de crise acidental do ciclo de vida familiar da família de Jéssica:",
+  "alts": [
+   "família com filho pequeno",
+   "família em estágio tardio",
+   "desemprego",
+   "família com criança em idade escolar",
+   "família com adolescente"
+  ],
+  "gab": 2,
+  "tema": "ferramentas",
+  "sub": "Ciclo de vida: crise acidental",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Gusso G, Lopes JMC, Dias LC. Tratado de Medicina de Família e Comunidade, 2ª ed., 2019",
+  "coment": "As crises do ciclo de vida familiar dividem-se em normativas (previsíveis, ligadas às transições de estágio: casamento, nascimento do primeiro filho, filhos na escola, adolescência, saída dos filhos) e acidentais ou não normativas (imprevisíveis: desemprego, doença grave, morte precoce, perda da moradia). Na família de Jéssica, a demissão do marido é o evento inesperado que desencadeou a mudança de casa e a cefaleia. As demais alternativas são estágios do ciclo, não crises acidentais.",
+  "porAlt": [
+   "Família com filho pequeno é estágio do ciclo de vida, cuja transição gera crise normativa, não acidental.",
+   "Família em estágio tardio é fase do ciclo, ligada ao envelhecimento, e não se aplica a essa família.",
+   "Correta: desemprego é evento imprevisível, típico de crise acidental (não normativa) do ciclo de vida.",
+   "Família com criança em idade escolar é estágio previsível do ciclo, portanto crise normativa.",
+   "Família com adolescente também é estágio previsível do ciclo, não crise acidental."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 Acesso Direto",
+   "ex": "enare24ad"
+  }
+ },
+ {
+  "pid": "p0359",
+  "q": "De acordo com parâmetros do Ministério da Saúde, a definição utilizada na vigilância da influenza e da covid-19 para determinar casos de síndrome respiratória aguda grave (SRAG) é:",
+  "alts": [
+   "indivíduo com febre, mesmo que referida, acompanhada de tosse ou dor de garganta e com início dos sintomas nos últimos sete dias",
+   "indivíduo com quadro respiratório agudo, caracterizado por pelo menos dois dos seguintes sinais e sintomas: febre (mesmo que referida), calafrios, dor de garganta, dor de cabeça, tosse, coriza, distúrbios olfativos ou distúrbios gustativos",
+   "em crianças, além da febre (mesmo que referida), calafrios, dor de garganta, dor de cabeça, tosse, coriza, distúrbios olfativos ou distúrbios gustativos, também obstrução nasal, na ausência de outro diagnóstico específico",
+   "em idosos, critérios específicos de agravamento como síncope, confusão mental, sonolência excessiva, irritabilidade e inapetência",
+   "indivíduo com síndrome gripal que apresenta dispneia/desconforto respiratório, ou pressão persistente no tórax, ou saturação de O2 ≤94% em ar ambiente ou coloração azulada dos lábios ou rosto"
+  ],
+  "gab": 4,
+  "tema": "vigilancia",
+  "sub": "Definição de caso de SRAG",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023 (capítulo de influenza e covid-19)",
+  "coment": "Para a vigilância de influenza e covid-19, síndrome gripal é o quadro respiratório agudo com pelo menos dois sintomas entre febre, calafrios, dor de garganta, cefaleia, tosse, coriza e distúrbios do olfato ou do paladar. SRAG é a síndrome gripal que evolui com dispneia ou desconforto respiratório, pressão ou dor persistente no tórax, saturação de O2 menor que 95% em ar ambiente ou cianose de lábios ou rosto. A SRAG é de notificação compulsória e orienta a coleta de amostra e a internação.",
+  "porAlt": [
+   "Febre com tosse ou dor de garganta é a definição antiga de síndrome gripal, não de SRAG.",
+   "Essa é a definição atual de síndrome gripal, que é o ponto de partida, sem os sinais de gravidade da SRAG.",
+   "Obstrução nasal é critério adicional de síndrome gripal em crianças, não de SRAG.",
+   "Síncope, confusão e inapetência são critérios de agravamento da síndrome gripal no idoso, não a definição de SRAG.",
+   "Correta: SRAG é síndrome gripal com dispneia, pressão torácica persistente, saturação abaixo de 95% em ar ambiente ou cianose."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 Acesso Direto",
+   "ex": "enare24ad"
+  }
+ },
+ {
+  "pid": "p0360",
+  "q": "Os movimentos antivacina, causados por um sistema de desinformação, trazem muitos danos para as pessoas não vacinadas, pois já está mais que provado pela ciência que vacinas são muito efetivas e salvam vidas. Uma dessas doenças preveníveis por vacinas tem como manifestação clínica típica a presença de placas pseudomembranosas branco-acinzentadas, aderentes, que se instalam nas amígdalas e invadem estruturas vizinhas. Essas placas podem se localizar na faringe, na laringe e nas fossas nasais; e, com menos frequência, também são observadas na conjuntiva, na pele, no conduto auditivo, na vulva, no pênis (pós-circuncisão) e no cordão umbilical. A doença manifesta-se clinicamente por comprometimento do estado geral do paciente, que pode se apresentar prostrado e pálido. A dor de garganta é discreta, independentemente da localização ou da quantidade de placas existentes, e a febre normalmente não é muito elevada, variando de 37,5 °C a 38,5 °C, embora temperaturas mais altas não afastem o diagnóstico. Nos casos mais graves, há intenso edema do pescoço, com grande aumento dos gânglios linfáticos dessa área (pescoço taurino) e edema periganglionar nas cadeias cervicais e submandibulares. Dependendo do tamanho e da localização da placa pseudomembranosa, pode ocorrer asfixia mecânica aguda no paciente, o que muitas vezes exige imediata traqueostomia para evitar a morte. A descrição acima é característica de:",
+  "alts": [
+   "vírus sincicial respiratório",
+   "difteria",
+   "faringo-amigdalite por estreptococo",
+   "sífilis",
+   "sarampo"
+  ],
+  "gab": 1,
+  "tema": "infecto",
+  "sub": "Difteria: pseudomembrana e pescoço taurino",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023 (capítulo de difteria)",
+  "coment": "Placas pseudomembranosas branco-acinzentadas, aderentes, que invadem estruturas vizinhas além das amígdalas, com dor de garganta discreta, febre baixa, prostração e palidez, e nos casos graves edema cervical com o pescoço taurino, descrevem a difteria, causada pelo Corynebacterium diphtheriae toxigênico. A toxina explica o comprometimento sistêmico (miocardite, neurite). A doença é prevenível pela vacina (componente D da pentavalente, DTP e dT), e a queda de cobertura vacinal permite seu retorno.",
+  "porAlt": [
+   "O vírus sincicial respiratório causa bronquiolite e infecção de vias aéreas, sem pseudomembrana aderente.",
+   "Correta: pseudomembrana aderente que invade estruturas vizinhas, febre baixa, prostração e pescoço taurino são típicos da difteria.",
+   "A faringoamigdalite estreptocócica tem febre alta e dor de garganta intensa, com exsudato que se destaca com facilidade.",
+   "A sífilis pode dar lesões orais, mas não pseudomembrana extensa com pescoço taurino, e não é imunoprevenível.",
+   "O sarampo cursa com exantema, tosse, coriza, conjuntivite e manchas de Koplik, não com placas pseudomembranosas."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 Acesso Direto",
+   "ex": "enare24ad"
+  }
+ },
+ {
+  "pid": "p0250",
+  "q": "Uma mulher de 43 anos procurou atendimento médico com história de episódios recorrentes de vertigem. Esses episódios duravam várias horas e eram acompanhados por náuseas, vômitos e frequentemente associados à sensação de redução da acuidade auditiva unilateral. Além disso, vinha ocorrendo uma sensação de zumbido. Foram solicitados exames complementares, que sugeriram o diagnóstico de síndrome de Ménière. A médica que acompanha essa paciente, além de solicitar a avaliação de um especialista (otorrinolaringologista), já adiantou, corretamente, a seguinte orientação:",
+  "alts": [
+   "aumento de alimentos ricos em ômega 3;",
+   "uso de dimenidrinato e piridoxina à noite;",
+   "dieta com alimentos de baixo índice glicêmico;",
+   "dieta com baixo teor de sódio e uso de diurético;",
+   "uso de dose baixa e diária de corticoide sistêmico."
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Doença de Ménière: medidas iniciais",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "American Academy of Otolaryngology, Head and Neck Surgery. Clinical Practice Guideline: Ménière's Disease, 2020",
+  "coment": "A doença de Ménière se apresenta com crises de vertigem de 20 minutos a 12 horas, perda auditiva neurossensorial flutuante, zumbido e plenitude aural, atribuídas a hidropsia endolinfática. Para o controle de manutenção, a diretriz da AAO-HNS de 2020 traz como opções a restrição de sódio e o uso de diurético (hidroclorotiazida, por exemplo), ao lado da orientação sobre gatilhos como cafeína e álcool. Os supressores vestibulares servem só para a crise. Corticoide sistêmico contínuo não é tratamento de manutenção.",
+  "porAlt": [
+   "Não há evidência de benefício do ômega 3 no controle das crises de Ménière.",
+   "Dimenidrinato é sintomático para a crise; associá-lo à noite não previne novos episódios.",
+   "Dieta de baixo índice glicêmico não faz parte do manejo da doença de Ménière.",
+   "Correta: restrição de sódio e diurético são as medidas de manutenção clássicas para reduzir a hidropsia endolinfática.",
+   "Corticoide sistêmico em dose baixa diária não é terapia de manutenção; seu uso, quando há, é intratimpânico ou em crises."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Clínica Médica",
+   "ex": "enare24cm"
+  }
+ },
+ {
+  "pid": "p0253",
+  "q": "Homem de 70 anos, tabagista, com diagnóstico prévio de DPOC moderado e Diabetes Mellitus tipo 2 controlado, procura atendimento por febre (38,4 °C), tosse produtiva com expectoração amarelada, prostração e dispneia progressiva há quatro dias. Ao exame físico, encontra-se lúcido e orientado, com frequência respiratória de 28 irpm, pressão arterial de 102/66 mmHg, frequência cardíaca de 108 bpm e saturação de oxigênio de 90% em ar ambiente. Ausculta pulmonar com estertores crepitantes em base esquerda. A radiografia de tórax revela consolidação no lobo inferior esquerdo. Exames laboratoriais mostram leucocitose leve e PCR elevada. Com base nesse caso clínico, a conduta mais apropriada é",
+  "alts": [
+   "prescrever amoxicilina-clavulanato com azitromicina via oral e liberar para tratamento ambulatorial, com retorno precoce.",
+   "prescrever levofloxacino oral em dose única diária, por 7 dias, e solicitar TC de tórax ambulatorial.",
+   "internar em enfermaria para antibioticoterapia venosa com ceftriaxona e azitromicina EV, iniciando coleta de hemoculturas.",
+   "internar em Unidade de Terapia Intensiva para vigilância e suporte respiratório com antibiótico de amplo espectro.",
+   "prescrever ceftriaxona intramuscular em dose única e reavaliar em 48 horas na Unidade Básica de Saúde."
+  ],
+  "gab": 2,
+  "tema": "pneumo",
+  "sub": "PAC com indicação de internação",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "SBPT. Recomendações para o manejo da pneumonia adquirida na comunidade, 2018; ATS/IDSA. Diagnosis and Treatment of Adults with Community-acquired Pneumonia, 2019",
+  "coment": "Idoso de 70 anos com DPOC e diabetes, FR 28, FC 108, PAS 102 e saturação de 90% em ar ambiente tem pneumonia que não deve ser tratada em casa: idade, comorbidades e hipoxemia pesam mais que o CRB-65 isolado. Não há critérios de PAC grave (nenhum critério maior da ATS/IDSA e menos de três menores: FR abaixo de 30, sem confusão, sem hipotensão, sem infiltrado multilobar), logo o local é a enfermaria. O esquema recomendado é betalactâmico (ceftriaxona) associado a macrolídeo por via venosa, com culturas colhidas antes do antibiótico.",
+  "porAlt": [
+   "Tratamento ambulatorial é inadequado com hipoxemia (saturação de 90%), taquipneia e comorbidades em idoso.",
+   "Levofloxacino oral em casa ignora a necessidade de internação, e a tomografia não muda a conduta inicial.",
+   "Correta: PAC em idoso com hipoxemia e comorbidades sem critérios de gravidade pede enfermaria, ceftriaxona com azitromicina e culturas.",
+   "Não há critérios de PAC grave (FR abaixo de 30, sem confusão, sem choque, sem infiltrado multilobar) que justifiquem UTI.",
+   "Dose única intramuscular com reavaliação na UBS é insuficiente para paciente hipoxêmico que precisa de internação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Clínica Médica",
+   "ex": "enare25cm"
+  }
+ },
+ {
+  "pid": "p0254",
+  "q": "Paciente masculino, 68 anos, com histórico de câncer gástrico diagnosticado há 8 meses e em quimioterapia há 2 meses, foi internado com queixa de aumento progressivo do volume abdominal, dor abdominal difusa e dispneia aos pequenos esforços. Referia também perda ponderal não intencional de 8 kg nos últimos 3 meses, associada à hiporexia e astenia. Ao exame físico, apresentava abdome globoso, tenso, com macicez à percussão em flancos e sinal de piparote positivo. Os membros inferiores exibiam edema 2+/4+. Ultrassonografia abdominal revelou ascite volumosa e múltiplas lesões hepáticas sugestivas de metástases. A paracentese diagnóstica foi realizada e o líquido ascítico era amarelo-citrino, levemente turvo. A análise laboratorial do líquido ascítico e do soro revelou os seguintes dados: albumina sérica 3,2 g/dL, albumina do líquido ascítico 2,1 g/dL, proteína total do líquido ascítico 2,8 g/dL, LDH do líquido ascítico 350 U/L (LDH sérico 200 U/L) e contagem de células nucleadas de 800/mm³ com predomínio de linfócitos e monócitos. A citopatologia do líquido ascítico estava pendente. Considerando os achados clínicos e laboratoriais da paracentese, a causa mais provável da ascite nesse paciente seria",
+  "alts": [
+   "cirrose hepática descompensada.",
+   "síndrome de Budd-Chiari.",
+   "carcinomatose peritoneal.",
+   "tuberculose peritoneal.",
+   "insuficiência cardíaca congestiva."
+  ],
+  "gab": 2,
+  "tema": "gastro",
+  "sub": "Ascite neoplásica: análise do líquido",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "AASLD Practice Guidance on Diagnosis, Evaluation, and Management of Ascites, SBP, and Hepatorenal Syndrome, 2021",
+  "coment": "No câncer gástrico, ascite com proteína total alta (2,8 g/dL, acima de 2,5), LDH do líquido maior que a sérica (razão de 1,75) e celularidade linfomonocitária aponta para carcinomatose peritoneal. O gradiente soro-ascite de albumina deu 1,1 g/dL, exatamente no ponto de corte; isso ocorre quando há metástases hepáticas volumosas associadas, que elevam a pressão portal, e não muda o diagnóstico mais provável no contexto. A citologia oncótica confirma. Cirrose daria proteína baixa e ICC teria quadro cardíaco evidente.",
+  "porAlt": [
+   "Na cirrose a proteína do líquido costuma ficar abaixo de 2,5 g/dL e a LDH do líquido não supera a sérica.",
+   "Budd-Chiari exige quadro de trombose de veias hepáticas com hepatomegalia dolorosa, o que não há nesse caso.",
+   "Correta: proteína alta, LDH do líquido maior que a sérica, celularidade linfomonocitária e câncer gástrico indicam carcinomatose peritoneal.",
+   "Tuberculose peritoneal é possível em linfocitose, mas o contexto de câncer gástrico com metástases torna a carcinomatose muito mais provável.",
+   "Insuficiência cardíaca daria turgência jugular e sinais cardíacos, ausentes; o quadro é oncológico."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Clínica Médica",
+   "ex": "enare25cm"
+  }
+ },
+ {
+  "pid": "p0255",
+  "q": "Uma mulher de 45 anos apresenta quadro de síndrome vertiginosa bastante acentuada. O médico assistente, após o diagnóstico do tipo de doença, prescreveu hidroclorotiazida. A síndrome vertiginosa em questão é gerada por",
+  "alts": [
+   "neurite vestibular.",
+   "doença de Ménière.",
+   "vertigem paroxística benigna.",
+   "vertigem pós-trauma cranioencefálico.",
+   "vertigem por uso continuado de medicação."
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Vertigem tratada com diurético",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "American Academy of Otolaryngology, Head and Neck Surgery. Clinical Practice Guideline: Ménière's Disease, 2020",
+  "coment": "A hidroclorotiazida é usada no controle de manutenção da doença de Ménière, ao lado da restrição de sódio, com o objetivo de reduzir a hidropsia endolinfática (opção terapêutica na diretriz da AAO-HNS de 2020). Nenhuma outra síndrome vertiginosa listada tem diurético como tratamento: neurite vestibular usa corticoide e reabilitação, vertigem posicional paroxística benigna usa manobras de reposicionamento, e vertigem por medicamento pede revisão do fármaco.",
+  "porAlt": [
+   "Neurite vestibular é tratada com sintomáticos, corticoide em alguns casos e reabilitação vestibular, não com diurético.",
+   "Correta: diurético tiazídico com restrição de sódio é tratamento de manutenção da doença de Ménière.",
+   "Vertigem posicional paroxística benigna se trata com manobras de reposicionamento (Epley), não com diurético.",
+   "Vertigem pós-traumatismo craniano depende da lesão; reabilitação vestibular, não diurético.",
+   "Vertigem induzida por medicamento se resolve com a revisão ou suspensão do fármaco causador."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Clínica Médica",
+   "ex": "enare25cm"
+  }
+ },
+ {
+  "pid": "p0256",
+  "q": "Antônio, 82 anos, portador de diabetes mellitus tipo 2 há 15 anos, é acompanhado no ambulatório de geriatria. Nos últimos 18 meses, apresentou perda ponderal não intencional de 8 kg, com IMC atual de 19,5 kg/m². A família relata episódios recorrentes de quedas domiciliares e diagnóstico recente de doença de Alzheimer moderada. Ao exame físico, evidencia-se sarcopenia com redução significativa da massa muscular e força de preensão palmar diminuída. Atualmente em uso de metformina 1 g duas vezes ao dia, com hemoglobina glicada de 7,8% e glicemias capilares de jejum variando entre 110-160 mg/dL. As metas glicêmicas mais adequadas para esse paciente são",
+  "alts": [
+   "hemoglobina glicada menor que 7% e glicemia de jejum entre 80-130 mg/dL.",
+   "hemoglobina glicada menor que 7,5% e glicemia de jejum entre 90-150 mg/dL.",
+   "hemoglobina glicada menor que 8% e glicemia de jejum entre 90-150 mg/dL.",
+   "hemoglobina glicada menor que 8,5% e glicemia de jejum entre 100-180 mg/dL.",
+   "hemoglobina glicada menor que 8% e glicemia de jejum entre 80-130 mg/dL."
+  ],
+  "gab": 2,
+  "tema": "geriatria",
+  "sub": "Metas glicêmicas no idoso frágil",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "American Diabetes Association. Standards of Care in Diabetes, 2026 (Older Adults); Diretriz da Sociedade Brasileira de Diabetes, 2024",
+  "coment": "A meta glicêmica do idoso é individualizada pelo estado de saúde. Antônio tem demência moderada, sarcopenia, perda de peso e quedas: é um idoso de saúde intermediária ou frágil, sem doença terminal, para quem a ADA e a SBD propõem HbA1c abaixo de 8,0% e glicemia de jejum entre 90 e 150 mg/dL. A meta mais rígida (abaixo de 7,0% ou 7,5%) vale para o idoso saudável e aumenta o risco de hipoglicemia e quedas. Faixas como 100 a 180 mg/dL ficam para o idoso muito comprometido ou em fim de vida.",
+  "porAlt": [
+   "HbA1c abaixo de 7% com jejum de 80 a 130 é meta do adulto saudável e expõe o idoso frágil a hipoglicemia.",
+   "HbA1c abaixo de 7,5% é meta do idoso saudável, sem demência, sem quedas e sem sarcopenia.",
+   "Correta: idoso com demência moderada, sarcopenia e quedas tem meta de HbA1c abaixo de 8% e jejum entre 90 e 150 mg/dL.",
+   "Faixa de 100 a 180 mg/dL é reservada ao idoso muito comprometido ou em fim de vida, que não é o caso descrito.",
+   "Jejum de 80 a 130 mg/dL é alvo rígido demais para idoso frágil, mesmo com HbA1c abaixo de 8%."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Clínica Médica",
+   "ex": "enare25cm"
+  }
+ },
+ {
+  "pid": "p0257",
+  "q": "Paciente feminina de 20 anos, HIV positiva em uso de terapia antirretroviral (CD4 e carga viral não disponíveis), foi admitida com tumoração em região cervical e submandibular esquerda de início há 7 dias, acompanhada de febre não aferida, prostração, dificuldade de deglutição progressiva e trismo intenso, impedindo abertura oral em mais 1 cm. Relata histórico de fratura de dente recente na região mandibular esquerda. Ao exame físico, apresenta-se taquicárdica (FC 110 bpm), febril (Tax: 38,8 °C), com massa endurecida, dolorosa e quente na região afetada, e dor à mobilização lateral do pescoço. Exames laboratoriais de urgência demonstram leucocitose de 18.000/mm³ com desvio à esquerda (85% neutrófilos) e Proteína C Reativa (PCR) de 150 mg/L. Na conduta diagnóstica e terapêutica inicial para esse quadro, é apropriada a seguinte conduta:",
+  "alts": [
+   "iniciar tratamento com amoxicilina/clavulanato 875/125 mg via oral a cada 12 horas e realizar ultrassonografia cervical para acompanhamento da tumoração, com continuidade do tratamento em domicílio.",
+   "administrar ceftriaxona 1 g intravenoso por dia e aguardar resultado das hemoculturas para definir a necessidade de drenagem.",
+   "realizar punção aspirativa por agulha fina (PAAF) da massa para cultura e citologia antes de iniciar qualquer terapia antimicrobiana.",
+   "iniciar cefepime 2 g IV a cada 8 horas e metronidazol 500 mg IV a cada 8 horas e realizar tomografia computadorizada de pescoço e tórax com contraste para avaliação de abscesso e extensão para mediastino.",
+   "iniciar antibioticoterapia oral com amoxicilina/clavulanato 875/125 mg a cada 12 horas e indicar drenagem cirúrgica imediata do abscesso submandibular."
+  ],
+  "gab": 3,
+  "tema": "infecto",
+  "sub": "Infecção cervical profunda odontogênica",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "IDSA. Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections, 2014; Sanford Guide to Antimicrobial Therapy, 2025",
+  "coment": "Tumoração cervical e submandibular após fratura dentária, com trismo, disfagia, febre, taquicardia e leucocitose, é infecção cervical profunda de origem odontogênica (espaço submandibular, risco de angina de Ludwig). A flora é polimicrobiana, com anaeróbios. Em paciente imunossuprimida, recomenda-se cobertura venosa ampla, como cefepime com metronidazol, e tomografia com contraste de pescoço e tórax para localizar coleções e afastar mediastinite. A drenagem é guiada pela imagem, e a via aérea deve ser vigiada de perto.",
+  "porAlt": [
+   "Antibiótico oral e acompanhamento domiciliar são inadequados para infecção cervical profunda com sinais sistêmicos e trismo.",
+   "Ceftriaxona isolada não cobre bem anaeróbios, e aguardar hemoculturas atrasa a avaliação de coleção drenável.",
+   "Adiar o antibiótico para puncionar a massa é perigoso em infecção grave; a imagem vem antes da abordagem.",
+   "Correta: em imunossuprimida, cefepime com metronidazol venosos e tomografia de pescoço e tórax avaliam abscesso e mediastinite.",
+   "Via oral é insuficiente nesse quadro, e indicar drenagem sem tomografia ignora a extensão da infecção."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Clínica Médica",
+   "ex": "enare25cm"
+  }
+ },
+ {
+  "pid": "p0258",
+  "q": "Paciente feminina, 28 anos, usuária de lentes de contato de uso prolongado, procurou o pronto-socorro com dor ocular intensa, de início súbito, no olho esquerdo, progressiva, não aliviada por analgésicos e que a impedia de dormir. Relatou que não consegue manter o olho esquerdo aberto devido a uma sensação de “algo no olho”, além de marcada sensibilidade à luz (fotofobia). Há 24 horas, percebeu vermelhidão intensa e diminuição da acuidade visual no olho afetado, com secreção purulenta esverdeada. Ao exame clínico, o olho esquerdo apresentava hiperemia mais acentuada ao redor da córnea (ciliary flush), pupila miótica e um ponto branco opaco visível na córnea. O reflexo pupilar no olho esquerdo estava diminuído. No olho direito não havia alterações. O provável diagnóstico e a conduta mais apropriada para a paciente são",
+  "alts": [
+   "ceratite bacteriana e encaminhamento oftalmológico de emergência para início de tratamento antibiótico tópico intensivo.",
+   "conjuntivite bacteriana e tratamento com colírio antibiótico.",
+   "irite (uveíte anterior) e encaminhamento urgente para uso de corticoides tópicos.",
+   "glaucoma de ângulo fechado agudo e colírios hipotensores para redução rápida da pressão intraocular.",
+   "hemorragia subconjuntival e conjuntivite bacteriana, com tratamento expectante para a hemorragia e colírio antibiótico para a conjuntivite."
+  ],
+  "gab": 0,
+  "tema": "emergencias",
+  "sub": "Ceratite bacteriana em usuária de lente",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "American Academy of Ophthalmology. Bacterial Keratitis Preferred Practice Pattern, 2023",
+  "coment": "Usuária de lente de contato com dor ocular intensa, fotofobia, sensação de corpo estranho, baixa visual, secreção purulenta, hiperemia ciliar e um ponto branco opaco na córnea tem ceratite bacteriana até prova em contrário, com risco de Pseudomonas. É emergência oftalmológica: o paciente deve ir ao oftalmologista no mesmo dia para raspado de córnea com cultura e colírio antibiótico intensivo, e a lente deve ser suspensa. Conjuntivite não reduz a acuidade visual nem produz infiltrado corneano.",
+  "porAlt": [
+   "Correta: lente de contato, dor intensa, baixa visual, hiperemia ciliar e infiltrado branco na córnea indicam ceratite bacteriana, emergência oftalmológica.",
+   "Conjuntivite bacteriana não causa dor intensa, baixa visual, hiperemia ciliar nem opacidade corneana.",
+   "Uveíte anterior não tem secreção purulenta nem infiltrado corneano, e corticoide pioraria uma ceratite infecciosa.",
+   "Glaucoma agudo cursa com pupila em média midríase fixa e córnea edemaciada, não com miose e secreção purulenta.",
+   "Hemorragia subconjuntival é indolor e não reduz a visão; o quadro descrito é de infecção da córnea."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Clínica Médica",
+   "ex": "enare25cm"
+  }
+ },
+ {
+  "pid": "p0001",
+  "q": "Primigesta, de 25 anos de idade, com 34 semanas de gestação. Vinha em uso de metildopa 1 g/dia e deu entrada na maternidade, com quadro de iminência de eclâmpsia e níveis pressóricos de 170 x 120 mmHg. Foi iniciado tratamento com sulfato de magnésio (dose de ataque de 6 g) e está em uso de infusão intravenosa contínua na dose de 1 g/hora. Cerca de 4 horas após início da medicação, a paciente referiu mal-estar e tonturas. Ao exame físico: regular estado geral, sonolenta, PA = 140 x 90 mmHg, frequência respiratória = 14 irpm, frequência cardíaca = 90 bpm, reflexo patelar ausente. Nas últimas 4 horas apresentou diurese total de 70 mL. Nesse caso, é indicado",
+  "alts": [
+   "aumentar dose de infusão do sulfato de magnésio para 2 g/hora.",
+   "administrar gluconato de cálcio, 1 g, via intravenosa, lentamente",
+   "aumentar infusão de cristaloides e associar furosemida, por via intravenosa.",
+   "administrar hidralazina, 5 mg, por via intravenosa."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Intoxicação por sulfato de magnésio",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Durante o sulfato de magnésio, antes de cada nova dose ou na infusão contínua, conferem-se reflexo patelar presente, frequência respiratória de 16 irpm ou mais e diurese acima de 25 mL/h. Essa paciente está sonolenta, sem reflexo patelar e com oligúria (70 mL em 4 horas), o que sugere acúmulo de magnésio, já que a excreção é renal. A conduta é interromper a infusão e administrar gluconato de cálcio 10%, 1 g por via venosa lenta, o antídoto, além de dosar a magnesemia e suporte ventilatório se necessário.",
+  "porAlt": [
+   "Aumentar a infusão agravaria a intoxicação por magnésio, evidente pela arreflexia, sonolência e oligúria.",
+   "Correta: arreflexia e oligúria indicam toxicidade; suspende-se o magnésio e administra-se gluconato de cálcio 1 g venoso lento.",
+   "Furosemida e volume não tratam a toxicidade, e hidratação vigorosa na pré-eclâmpsia aumenta o risco de edema pulmonar.",
+   "A PA está em 140 x 90 mmHg, abaixo do limiar de tratamento agudo (160 x 110), e hidralazina não resolve a toxicidade."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 1
+  }
+ },
+ {
+  "pid": "p0003",
+  "q": "Paciente teve parto cesárea há 8 dias e retorna à maternidade com queixa de febre alta há 2 dias, acompanhada de calafrios nas últimas horas. Refere ainda dor intensa em andar inferior do abdome. A loquiação está escassa, mas apresenta odor fétido. Ao exame: regular estado geral, temperatura 39 °C, PA = 100 x 60 mmHg, FC = 120 bpm, útero no nível da cicatriz umbilical, amolecido e doloroso à palpação. Cicatriz de cesariana seca e limpa. Mamas lactantes, com sinais de ingurgitamento mamário e fissura mamilar à esquerda, mas sem evidência de mastite ou abscesso mamário. Ultrassonografia não evidenciou sinais ecográficos de conteúdo anormal na cavidade uterina ou na cavidade abdominal. Hemograma com leucocitose e desvio à esquerda. A conduta indicada para esse caso é",
+  "alts": [
+   "suspender amamentação e iniciar antibioticoterapia com clindamicina por via oral, em nível ambulatorial.",
+   "manter amamentação e iniciar antibioticoterapia com clindamicina por via oral, em nível ambulatorial.",
+   "suspender a amamentação e internar a paciente para curetagem uterina de urgência e antibioticoterapia intravenosa com clindamicina e gentamicina.",
+   "manter a amamentação e iniciar antibioticoterapia intravenosa com clindamicina e gentamicina."
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Endometrite pós-cesárea",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "OMS. WHO recommendations for prevention and treatment of maternal peripartum infections, 2015",
+  "coment": "Febre alta após cesárea, útero subinvoluído, amolecido e doloroso e lóquios fétidos definem endometrite puerperal, a infecção mais comum após cesariana. Com taquicardia, hipotensão relativa e leucocitose, o tratamento é hospitalar, com clindamicina associada a gentamicina por via venosa, esquema recomendado pela OMS. A ultrassonografia sem restos ovulares dispensa curetagem. A amamentação deve ser mantida: os antibióticos são compatíveis, e o ingurgitamento e a fissura pedem orientação de pega, não suspensão.",
+  "porAlt": [
+   "Quadro com sinais sistêmicos pede antibiótico venoso hospitalar, e não há razão para suspender a amamentação.",
+   "Tratamento oral ambulatorial é insuficiente para endometrite com febre alta, taquicardia e hipotensão relativa.",
+   "Sem restos na ultrassonografia, a curetagem não tem indicação, e suspender a amamentação é desnecessário.",
+   "Correta: endometrite com repercussão sistêmica se trata com clindamicina e gentamicina venosas, mantendo a amamentação."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 4
+  }
+ },
+ {
+  "pid": "p0004",
+  "q": "Paciente de 68 anos de idade, do sexo masculino, hipertenso, vem em consulta devido à queixa de diminuição da acuidade auditiva e sensação de plenitude auditiva à direita. Paciente nega história de perfuração timpânica ou de cirurgia otológica. Ao realizar a otoscopia, o médico de família visualiza a membrana timpânica translúcida à esquerda e identifica uma rolha de cerume no conduto auditivo direito, impedindo a visualização da membrana timpânica. O médico orienta o uso de emolientes para remoção do cerume e retorno em 5 dias. No retorno, a rolha de cerume ainda obstrui o conduto auditivo direito completamente. Como deverá ser feita a remoção do cerume por irrigação?",
+  "alts": [
+   "O soro fisiológico para irrigação deve estar em temperatura ambiente, o scalp cortado de 4 cm deve ter a extremidade introduzida com a concavidade voltada para trás e para baixo, o soro deve ser instilado sob alta pressão e escoado na cuba rim, e o médico deve avaliar o conduto, por meio da otoscopia, após a retirada completa da rolha de cerume.",
+   "O soro fisiológico para irrigação deve estar aquecido, o scalp cortado de 4 cm deve ter a extremidade introduzida com a concavidade voltada para frente e para cima, o soro deve ser instilado sob leve pressão e escoado na cuba rim, e o médico deve avaliar o conduto, por meio da otoscopia, algumas vezes durante o procedimento.",
+   "O soro fisiológico para irrigação deve estar aquecido, o scalp cortado de 10 cm deve ter a extremidade introduzida com a concavidade voltada para trás e para cima, o soro deve ser instilado sob leve pressão e escoado na cuba rim, e o médico deve avaliar o conduto, por meio da otoscopia, algumas vezes durante o procedimento.",
+   "O soro fisiológico para irrigação deve estar aquecido, o scalp cortado de 10 cm deve ter a extremidade introduzida com a concavidade voltada para frente e para cima, o soro deve ser instilado sob leve pressão e escoado na cuba rim, e o médico deve avaliar o conduto, por meio da otoscopia, após a retirada completa da rolha de cerume."
+  ],
+  "gab": 1,
+  "tema": "cronicas",
+  "sub": "Irrigação de rolha de cerume",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American Academy of Otolaryngology, Head and Neck Surgery. Clinical Practice Guideline: Earwax (Cerumen Impaction), 2017; Gusso G, Lopes JMC, Dias LC. Tratado de Medicina de Família e Comunidade, 2ª ed., 2019",
+  "coment": "A irrigação é indicada quando a rolha persiste após emolientes, em paciente sem perfuração timpânica nem cirurgia otológica. O soro deve estar aquecido à temperatura corporal, cerca de 37 °C, porque líquido frio estimula o labirinto e provoca vertigem e nistagmo. Usa-se scalp curto (cerca de 4 cm) adaptado à seringa, com jato sob leve pressão dirigido à parede do conduto e não diretamente à membrana, e o conduto é inspecionado com otoscópio várias vezes durante o procedimento, para saber quando parar e detectar lesão.",
+  "porAlt": [
+   "Soro em temperatura ambiente provoca vertigem, e alta pressão pode perfurar a membrana timpânica.",
+   "Correta: soro aquecido, scalp curto de 4 cm, leve pressão e otoscopia repetida durante o procedimento compõem a técnica segura.",
+   "Scalp de 10 cm é longo demais para o procedimento, aumentando o risco de lesão do conduto e da membrana.",
+   "Além do scalp longo, avaliar só ao final impede detectar lesão ou a saída da rolha durante a irrigação."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 5
+  }
+ },
+ {
+  "pid": "p0005",
+  "q": "Adolescente, 16 anos de idade, com amenorreia primária, sem outras queixas. Ao exame físico foi constatada ausência de canal vaginal. Ultrassonografia pélvica mostrou ausência de útero. Cariótipo 46XX. Qual dos seguintes achados é esperado encontrar nessa paciente?",
+  "alts": [
+   "Mamas normodesenvolvidas.",
+   "Ausência de ovários.",
+   "Gônadas em fita.",
+   "Hipertrofia clitoridiana."
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Síndrome de Mayer-Rokitansky-Küster-Hauser",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ACOG Committee Opinion nº 728, Müllerian Agenesis: Diagnosis, Management, and Treatment, 2018",
+  "coment": "Amenorreia primária com ausência de vagina e de útero e cariótipo 46,XX é agenesia mülleriana, a síndrome de Mayer-Rokitansky-Küster-Hauser. Os ovários derivam das gônadas, não dos ductos de Müller, e funcionam normalmente: a produção de estrogênio garante desenvolvimento mamário e pelos normais. O principal diagnóstico diferencial é a insensibilidade androgênica completa (46,XY), que também tem mamas, mas com pelos escassos e testosterona em nível masculino.",
+  "porAlt": [
+   "Correta: na agenesia mülleriana os ovários funcionam, então as mamas e os caracteres sexuais secundários são normais.",
+   "Os ovários estão presentes e funcionantes, porque não derivam dos ductos de Müller.",
+   "Gônadas em fita são típicas da síndrome de Turner (45,X), que tem útero e infantilismo sexual.",
+   "Hipertrofia clitoridiana sugere excesso androgênico, ausente na agenesia mülleriana com cariótipo 46,XX."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 6
+  }
+ },
+ {
+  "pid": "p0006",
+  "q": "Um paciente, 2 anos, sexo masculino, chega ao pronto atendimento de um hospital público com relato de ter iniciado há 5 dias coriza serosa e tosse seca irritativa. Evoluiu hoje com febre elevada, secreção nasal mais espessa e tosse produtiva e com boa aceitação alimentar. Ao exame físico do aparelho respiratório, evidenciou-se saturação 96%, FR = 50 irpm, murmúrio vesicular diminuído em base do hemitórax direito, frêmito toracovocal com maciez e crepitações grosseiras audíveis no mesmo local. Encontrava-se hidratado, tolerando os medicamentos por via oral. Foi testado para a COVID-19 no dia anterior, cujo resultado foi negativo. A terapêutica antibiótica a ser instituída nesse caso é",
+  "alts": [
+   "amoxicilina.",
+   "azitromicina.",
+   "claritromicina.",
+   "ceftrixona."
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Pneumonia comunitária em pré-escolar",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "IDSA/PIDS. The Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age, 2011",
+  "coment": "Criança de 2 anos com febre alta, taquipneia (FR 50, acima de 40 irpm para a idade), macicez, frêmito aumentado e crepitações localizadas tem pneumonia bacteriana típica, cujo principal agente é o pneumococo. Sem sinais de gravidade (saturação de 96%, hidratada, aceitando via oral, sem tiragem), o tratamento é ambulatorial com amoxicilina oral, primeira escolha das diretrizes pediátricas. Macrolídeos ficam para suspeita de agentes atípicos, mais comuns acima dos 5 anos, e ceftriaxona para internação.",
+  "porAlt": [
+   "Correta: pneumonia bacteriana típica sem sinais de gravidade em pré-escolar se trata com amoxicilina oral.",
+   "Azitromicina cobre atípicos, mais comuns em escolares; não é primeira escolha para pneumonia típica aos 2 anos.",
+   "Claritromicina também é macrolídeo, reservado à suspeita de agentes atípicos; não é primeira escolha aos 2 anos.",
+   "Ceftriaxona é reservada a crianças que precisam de internação, o que não é o caso dessa criança estável."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 15
+  }
+ },
+ {
+  "pid": "p0007",
+  "q": "Lactente, com 6 meses de idade, está sendo atendido na Estratégia da Saúde para puericultura. A médica identifica o registro no cartão apenas da vacina Influenza, que foi feita na rede particular de imunização. As demais vacinas a serem administradas até o 5.o mês estavam todas registradas na caderneta. Nesse caso, quais são as vacinas recomendadas para a idade conforme o Programa Nacional de Imunização?",
+  "alts": [
+   "Pentavalente (DTP+Hib+Hep B) e Vip (vacina inativada para poliomielite).",
+   "Pentavalente (DTP+Hib+Hep B) e Pneumococia 10.",
+   "Pentavalente (DTP+Hib+Hep B), Pneumococia 10 e Rotavírus.",
+   "Pentavalente (DTP+Hib+Hep B), VIP (Vacina inativada para poliomieiete) e Pneumocócica 10."
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Vacinas do PNI aos 6 meses",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Calendário Nacional de Vacinação da Criança (PNI), 2025",
+  "coment": "No calendário do PNI, aos 6 meses aplicam-se a terceira dose da pentavalente (DTP, Hib e hepatite B) e a terceira dose da poliomielite inativada (VIP), que desde 2024 substituiu a oral em todo o esquema. Também se oferece influenza (já feita na rede privada) e a vacina covid-19 na faixa indicada. A pneumocócica conjugada é feita aos 2 e 4 meses com reforço aos 12 meses, a rotavírus aos 2 e 4 meses (com idade máxima para a última dose) e a meningocócica aos 3 e 5 meses.",
+  "porAlt": [
+   "Correta: aos 6 meses o PNI prevê a terceira dose da pentavalente e a terceira dose da VIP.",
+   "A pneumocócica não tem dose aos 6 meses: é dada aos 2 e 4 meses, com reforço aos 12 meses.",
+   "Pneumocócica e rotavírus não têm dose aos 6 meses; o esquema delas termina aos 4 meses.",
+   "A pneumocócica não faz parte das vacinas dos 6 meses, embora pentavalente e VIP estejam corretas."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 19
+  }
+ },
+ {
+  "pid": "p0008",
+  "q": "Uma equipe de saúde da família atua em uma unidade básica de saúde situada na zona periférica de uma cidade com mais de 800 000 habitantes. No último mês, foi evidenciado aumento no número de casos de diarreia entre crianças de 2 a 5 anos que frequentam a creche pública de um bairro. A equipe de saúde da família desse local analisa que, no último ano, têm sido recorrentes os casos de diarreia entre crianças da área, inclusive, em alguns casos, com necessidade de internação hospitalar. Dentre os casos, observam que eles se concentram naquelas famílias que não são da área de cobertura da equipe de saúde da família. No bairro onde se localiza a creche, 20% dos domicílios possuem abastecimento de água tratada, 10% com esgoto sanitário, sem coleta regular de lixo nos domicílios, sendo os esgotos e lixos acumulados das casas ou jogados no córrego, a céu aberto, que corta o bairro. Em relação à situação acima descrita, assinale a alternativa correta em relação ao processo saúde-doença e os determinantes de saúde envolvidos no caso.",
+  "alts": [
+   "O aumento no número de casos de diarreia na creche tem como principal fator a virulência da bactéria e, por se tratar de um caso recorrente, a equipe de saúde da família poderia atuar com medidas medicamentosas profiláticas direcionadas ao agente etiológico.",
+   "A educação em saúde na creche, com os profissionais da educação e com a comunidade, teria papel importante na melhoria das condições sanitárias da comunidade; é uma estratégia suficiente para o combate de surtos.",
+   "A falta de acesso aos serviços de saúde e de acompanhamento regular com a equipe de saúde da família é um fator associado ao desfecho desfavorável dos casos, com aumento de quadros graves de diarreia com necessidade de internação hospitalar.",
+   "A adoção de medidas como uso de hipoclorito na água e de filtros nos bebedores escolares é a principal medida para combate à transmissão dos agentes etiológicos que cursam com quadros de diarreia, diminuindo assim a incidência de casos na creche."
+  ],
+  "gab": 2,
+  "tema": "aps",
+  "sub": "Determinantes sociais e acesso",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990 (art. 3º, determinantes e condicionantes da saúde); Portaria 2.436/2017 (Política Nacional de Atenção Básica)",
+  "coment": "A Lei 8.080/1990 reconhece saneamento, moradia, renda e acesso aos serviços como determinantes da saúde. No caso, os casos graves se concentram nas famílias fora da área de cobertura da equipe: sem acompanhamento regular, perdem orientação sobre hidratação oral e o diagnóstico precoce da desidratação, e chegam mais tarde e mais graves, com internação. O saneamento precário explica a alta incidência; a falta de acesso explica o pior desfecho. Nenhuma medida isolada resolve um problema com tantos determinantes.",
+  "porAlt": [
+   "A diarreia recorrente decorre sobretudo de saneamento precário, e não há profilaxia medicamentosa indicada contra o agente.",
+   "Educação em saúde é importante, mas não é suficiente sem saneamento, água tratada e coleta de lixo.",
+   "Correta: a falta de acesso e de acompanhamento pela equipe se associa a casos mais graves e a internações.",
+   "Cloração e filtros na creche ajudam, mas não enfrentam o esgoto a céu aberto e a falta de água tratada nos domicílios."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 20
+  }
+ },
+ {
+  "pid": "p0009",
+  "q": "Mulher de 40 anos, relata queda da própria altura, após tropeçar na calçada, e cair para frente com as mãos espalmadas, com hiperextensão do punho. No momento se queixa de dor em região dorsal e radial do punho. Ao exame, presença de leve edema próximo ao processo estiloide do rádio, sem deformidade evidente do punho. Refere dor a palpação do punho, pouco abaixo da prega palmar, na direção do eixo longo do polegar, e na tabaqueira anatômica. Dentre as alternativas abaixo, qual é a hipótese diagnóstica?",
+  "alts": [
+   "Fratura de escafoide.",
+   "Fratura de Colles.",
+   "Fratura de Barton.",
+   "Fratura de Smith."
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Fratura do escafoide",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Canale ST, Beaty JH, Azar FM. Campbell's Operative Orthopaedics, 14ª ed., 2021",
+  "coment": "Queda sobre a mão espalmada com o punho em hiperextensão, dor na face radial do punho e dor à palpação da tabaqueira anatômica e do tubérculo do escafoide, sem deformidade, sugerem fratura do escafoide, o osso do carpo mais fraturado. A radiografia inicial pode ser normal; com suspeita clínica, imobiliza-se o polegar e repete-se a imagem ou pede-se ressonância, porque a irrigação retrógrada expõe o osso à pseudoartrose e à necrose avascular do polo proximal.",
+  "porAlt": [
+   "Correta: dor na tabaqueira anatômica após queda com punho em hiperextensão, sem deformidade, é típica da fratura do escafoide.",
+   "A fratura de Colles produz deformidade em dorso de garfo, ausente nessa paciente.",
+   "A fratura de Barton é intra-articular da borda do rádio distal, com subluxação do carpo e deformidade.",
+   "A fratura de Smith resulta de queda com punho em flexão e causa deformidade em pá de jardineiro."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 23
+  }
+ },
+ {
+  "pid": "p0010",
+  "q": "Mulher, 51 anos, de menopausa há 3 anos, com queixa de sangramento uterino recorrente, em pequena quantidade, há 3 meses. Na maioria das vezes, os episódios de sangramento iniciam durante ou após as relações sexuais. A paciente é diabética e faz uso de insulina. Traz dois resultados normais de exames citopatológicos do colo uterino realizados nos últimos 2 anos, sendo o último há 9 meses. Exame físico: estado geral bom, hemodinamicamente estável, normocorada. Ao exame especular, visualiza-se lesão de aspecto polipoide de aproximadamente 2 cm se exteriorizando pelo orifício externo do colo uterino, não sendo possível visualizar a lesão em toda sua extensão. A conduta indicada é",
+  "alts": [
+   "solicitar histeroscopia diagnóstica.",
+   "realizar exérese imediata da lesão com pinça.",
+   "realizar eletrocauterização da lesão.",
+   "iniciar tratamento com solução de ácido tricloroacético."
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Pólipo exteriorizado na pós-menopausa",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "FEBRASGO. Protocolo de pólipos endometriais e endocervicais, 2021; ACOG Committee Opinion nº 734, The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Women With Postmenopausal Bleeding, 2018",
+  "coment": "Sangramento na pós-menopausa exige avaliar o endométrio, já que o câncer de endométrio é a causa a afastar, sobretudo em diabética. A lesão polipoide que se exterioriza pelo orifício externo sem que se veja sua base pode ser pólipo endocervical, pólipo endometrial prolapsado ou mioma parido, e pode ter malignidade. A histeroscopia diagnóstica permite ver a origem e a extensão, avaliar a cavidade e orientar a ressecção com estudo histológico, o que a exérese às cegas com pinça não garante.",
+  "porAlt": [
+   "Correta: sem ver a base da lesão e com sangramento pós-menopausa, a histeroscopia define origem, extensão e cavidade antes da ressecção.",
+   "Torcer o pólipo com pinça só é seguro quando a base é visível; aqui pode haver pedículo alto ou lesão endometrial.",
+   "Eletrocauterizar a lesão destrói o material para histologia e não avalia o endométrio.",
+   "Ácido tricloroacético é usado em verrugas por HPV, não em lesão polipoide com sangramento pós-menopausa."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 25
+  }
+ },
+ {
+  "pid": "p0011",
+  "q": "Uma criança com 7 anos de idade, moradora de zona rural, relata acidente por animal desconhecido há 4 horas. No momento, refere formigamento no local da picada, boca seca, diplopia, dificuldade de deglutição, dores musculares generalizadas, oligúria e urina com coloração vermelha escura. Ao exame físico, apresenta ptose palpebral bilateral e midríase. O resultado do exame de urina rotina evidenciou mioglobinúria. Exames de sangue ainda em processamento. Com base nesses dados, qual a soroterapia específica indicada ao quadro?",
+  "alts": [
+   "Soro anti-botrópico.",
+   "Soro anti-escorpiônico.",
+   "Soro anti-crotálico.",
+   "Soro anti-elapídico."
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Acidente crotálico em criança",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Diagnóstico e Tratamento de Acidentes por Animais Peçonhentos, 2ª ed., 2001; Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "O veneno crotálico tem ação neurotóxica, miotóxica e coagulante, com pouca reação local (só parestesia). A fácies miastênica (ptose bilateral, diplopia, midríase, disfagia), mialgia generalizada e urina escura por mioglobinúria, com risco de insuficiência renal aguda por rabdomiólise, caracterizam o acidente por cascavel. O tratamento é o soro anticrotálico (ou antibotrópico-crotálico), com hidratação vigorosa para manter diurese e proteger o rim. O elapídico também causa ptose, mas não rabdomiólise.",
+  "porAlt": [
+   "O acidente botrópico causa dor, edema e equimose locais intensos e sangramentos, sem fácies miastênica nem mioglobinúria.",
+   "O escorpionismo causa dor local intensa e manifestações autonômicas, não ptose com rabdomiólise.",
+   "Correta: fácies miastênica, mialgia e mioglobinúria com pouca reação local indicam acidente crotálico e soro anticrotálico.",
+   "O acidente elapídico causa fácies miastênica e paralisia, mas não mialgia intensa com mioglobinúria."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 28
+  }
+ },
+ {
+  "pid": "p0013",
+  "q": "Mulher, 26 anos de idade, usou pílula contraceptiva por 6 anos e interrompeu há cerca de 9 meses. Desde então, menstruou apenas 2 vezes e está há 4 meses em amenorreia. Nega fogachos, acne, hirsutismo ou ressecamento vaginal. Ao exame físico: bom estado geral, hemodinamicamente estável, mamas com galactorreia bilateral, sem nódulos palpáveis. Útero de tamanho normal e anexos não palpáveis. Beta-hCG negativo. Para elucidação diagnóstica, deve-se solicitar dosagem de",
+  "alts": [
+   "estradiol.",
+   "progesterona.",
+   "prolactina.",
+   "testosterona."
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Amenorreia com galactorreia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Endocrine Society. Diagnosis and Treatment of Hyperprolactinemia: Clinical Practice Guideline, 2011; FEBRASGO. Protocolo de amenorreia, 2021",
+  "coment": "Amenorreia secundária com galactorreia bilateral, beta-hCG negativo e sem sinais de hiperandrogenismo ou hipoestrogenismo aponta para hiperprolactinemia, que inibe o GnRH e suprime o eixo gonadal. A amenorreia após suspender a pílula não deve ser atribuída à pílula: mais de 6 meses sem ciclos regulares exigem investigação. A dosagem de prolactina é o exame decisivo, junto com o TSH, já que o hipotireoidismo também eleva a prolactina. Uso de fármacos e adenoma hipofisário são as causas a investigar.",
+  "porAlt": [
+   "O estradiol pode estar baixo, mas não identifica a causa; a galactorreia aponta para a prolactina.",
+   "Progesterona serve para avaliar ovulação ou o teste de progestágeno, não para explicar galactorreia.",
+   "Correta: amenorreia com galactorreia pede dosagem de prolactina para confirmar hiperprolactinemia.",
+   "Testosterona é útil quando há hirsutismo ou acne, negados pela paciente."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 36
+  }
+ },
+ {
+  "pid": "p0015",
+  "q": "Um menino de 4 anos de idade, previamente hígido e com acompanhamento pediátrico regular, chega ao pronto atendimento com queixa de febre (temperatura axilar superior a 38,5 °C em todos os picos) há 6 dias acompanhada de conjuntivite bilateral não exsudativa. Nega uso prévio de medicações nesses últimos dias, exceto o antitérmico habitual para controle da febre. Nega viagens recentes ou contato com indivíduos sabidamente doentes. Ao exame clínico, observa-se hiperemia de orofaringe sem exsudato ou ulcerações; presença de ressecamento, fissuras e hiperemia em lábios e proeminência das papilas linguais; gânglio cervical anterior a direita com cerca de 1,5 cm de diâmetro não doloroso; edema endurecido em dorso de mãos e pés com eritema palmar e plantar difuso; e presença de exantema polimórfico mais intenso em tronco e períneo. Sem outras alterações. Assinale a alternativa que contenha o diagnóstico provável para o caso apresentado e uma complicação associada ao quadro.",
+  "alts": [
+   "Escarlatina; glomerulonefrite difusa aguda.",
+   "Doença de Kawasaki; aneurisma coronariano.",
+   "Mononucleose; síndrome de Guillain-Barré.",
+   "Sarampo; panencefalite esclerosante subaguda."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Doença de Kawasaki",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "AHA Scientific Statement. Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease, 2017",
+  "coment": "Febre há 5 dias ou mais com pelo menos 4 dos 5 critérios principais define a doença de Kawasaki clássica: conjuntivite bilateral não exsudativa, alterações de lábios e cavidade oral (fissuras, língua em framboesa), linfonodo cervical de 1,5 cm ou mais, alterações de extremidades (edema endurecido, eritema palmo-plantar) e exantema polimórfico. O menino tem febre de 6 dias e os 5 critérios. A complicação temida é o aneurisma de artéria coronária, prevenido com imunoglobulina venosa e ácido acetilsalicílico nos primeiros 10 dias.",
+  "porAlt": [
+   "Escarlatina tem exantema áspero e língua em framboesa, mas não conjuntivite nem edema endurecido de mãos e pés.",
+   "Correta: febre de 6 dias com os 5 critérios principais é Kawasaki, cuja complicação típica é o aneurisma coronariano.",
+   "Mononucleose cursa com faringite exsudativa, linfonodomegalia generalizada e esplenomegalia, sem edema de extremidades.",
+   "O sarampo tem coriza, tosse, manchas de Koplik e exantema craniocaudal, quadro diferente do descrito."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 38
+  }
+ },
+ {
+  "pid": "p0017",
+  "q": "Um menino de 6 anos de idade, desnutrido, procedente de zona rural sem saneamento básico, apresenta-se no pronto atendimento com dor abdominal e diarreia intermitente com muco há 4 meses, algumas vezes associada a sangue e tenesmo. Refere piora do quadro há 1 dia. Ao realizar exame, evidenciou-se descorado ++/+4, prolapso retal e presença de vários vermes cilíndricos de 4 cm de comprimento na mucosa retal. Assinale a alternativa correta que aponta o parasita encontrado e seu respectivo tratamento.",
+  "alts": [
+   "Ascaris lumbricoides; pamoato de pirantel.",
+   "Trichiuris trichiura; mebendazol.",
+   "Ascaris lumbricoides; metronidazol.",
+   "Trichiuris trichiura; secnidazol."
+  ],
+  "gab": 1,
+  "tema": "pedinfecto",
+  "sub": "Tricuríase com prolapso retal",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2021",
+  "coment": "Criança desnutrida de área sem saneamento com diarreia crônica mucossanguinolenta, tenesmo, anemia e prolapso retal com vermes visíveis na mucosa tem tricuríase maciça. O Trichuris trichiura mede de 3 a 5 cm e tem a extremidade anterior afilada (em chicote), presa à mucosa do cólon e do reto. O prolapso retal é a complicação clássica da infestação intensa. O tratamento é com benzimidazólico, como mebendazol ou albendazol, além da correção da anemia e da desnutrição.",
+  "porAlt": [
+   "Ascaris mede de 15 a 35 cm e não causa prolapso retal com vermes aderidos à mucosa.",
+   "Correta: prolapso retal com vermes de cerca de 4 cm na mucosa é tricuríase maciça, tratada com mebendazol.",
+   "Metronidazol trata protozoários como giárdia e ameba, não helmintos como o áscaris.",
+   "O diagnóstico de tricuríase está certo, mas secnidazol é antiprotozoário e não age sobre o Trichuris."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 43
+  }
+ },
+ {
+  "pid": "p0018",
+  "q": "Primigesta de 18 anos de idade, com 37 semanas de idade gestacional, chega ao pronto atendimento com queixa de cefaleia intensa. Refere também visualização de pontos pretos. Nega outras queixas. Pré-natal até o momento sem intercorrências. Ao exame encontra-se lúcida e orientada, com muita dor. A pressão arterial é de 160/100 mmHg, mantida após repouso em decúbito lateral esquerdo, a frequência cardíaca é de 90 batimentos por minuto. Sem dinâmica uterina, feto com movimentação normal. Batimentos cardíacos fetais = 144 bpm com variabilidade. Edema em membros inferiores de 3 cruzes em 4. Traz um exame de urina, coletado há 2 dias que mostra proteinúria 2 cruzes em 4, sem outras alterações significativas. Foi prescrita hidralazina endovenosa para controle de pressão arterial (PA). Que outra conduta seria necessária no momento e para quê?",
+  "alts": [
+   "Prescrever sulfato de magnésio para prevenir convulsões.",
+   "Prescrever sulfato de magnésio para controle de pressão arterial e dos sintomas maternos.",
+   "Prescrever analgésicos e benzodiazepínicos para controle dos sintomas e prevenção de convulsões.",
+   "Prescrever analgésicos e aguardar efeito do anti-hipertensivo."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Pré-eclâmpsia com sinais de gravidade",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Gestante de 37 semanas com PA de 160 x 100 mmHg, proteinúria e cefaleia intensa com escotomas tem pré-eclâmpsia com sinais de gravidade (iminência de eclâmpsia). Além do anti-hipertensivo para PA igual ou acima de 160 x 110 ou sintomática, a conduta é sulfato de magnésio, que previne a convulsão eclâmptica e reduz pela metade o risco de eclâmpsia. O magnésio não é anti-hipertensivo. Benzodiazepínicos são inferiores ao magnésio. Depois da estabilização, programa-se o parto, já que a gestação é de termo.",
+  "porAlt": [
+   "Correta: cefaleia e escotomas com PA elevada indicam sulfato de magnésio para prevenir eclâmpsia.",
+   "O sulfato de magnésio não é usado para controle pressórico; sua função é anticonvulsivante.",
+   "Benzodiazepínicos são inferiores ao sulfato de magnésio na prevenção e no tratamento da eclâmpsia.",
+   "Aguardar o anti-hipertensivo deixa a paciente exposta à convulsão eclâmptica, que exige magnésio imediato."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 45
+  }
+ },
+ {
+  "pid": "p0019",
+  "q": "Uma mulher de 28 anos de idade, com ciclos menstruais regulares, procura atendimento na assistência básica por causa de infertilidade, pois está tentando engravidar há 2 anos sem sucesso. Queixa-se de dismenorreia secundária de intensidade moderada, com início há 3 anos, e piora progressiva nos últimos 6 meses. Gesta 1; para 0; Aborto 1 (provocado aos 15 anos). Ao exame físico, o colo uterino tinha aspecto normal, o útero era doloroso à mobilização, com um nódulo endurecido na região retrocervical e uma massa em região anexial direita de 5 cm. Considerando o quadro clínico, antes de encaminhar a um serviço especializado, o(a) médico(a) deve solicitar primeiramente",
+  "alts": [
+   "histeroscopia.",
+   "ultrassonografia transvaginal/pélvica.",
+   "exames hormonais (FSH, LH, prolactina e TSH).",
+   "histerossalpingografia."
+  ],
+  "gab": 1,
+  "tema": "ginecologia",
+  "sub": "Endometriose: primeiro exame de imagem",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ESHRE Guideline: Endometriosis, 2022",
+  "coment": "Dismenorreia secundária progressiva, infertilidade, útero doloroso, nódulo retrocervical e massa anexial sugerem endometriose profunda com endometrioma. A diretriz da ESHRE de 2022 recomenda a ultrassonografia transvaginal como exame de imagem inicial, por ser acessível, identificar endometrioma e, com preparo intestinal e examinador experiente, mapear lesões profundas. A laparoscopia deixou de ser o primeiro passo diagnóstico. Exames hormonais e histerossalpingografia não identificam a doença.",
+  "porAlt": [
+   "Histeroscopia avalia a cavidade uterina, que não é o sítio das lesões de endometriose.",
+   "Correta: a ultrassonografia transvaginal é o primeiro exame de imagem para endometrioma e endometriose profunda.",
+   "Os ciclos são regulares; dosagens hormonais não identificam endometriose.",
+   "Histerossalpingografia avalia permeabilidade tubária e não mostra nódulo retrocervical nem endometrioma."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 50
+  }
+ },
+ {
+  "pid": "p0020",
+  "q": "Uma lactente do sexo feminino, de 18 meses de idade, chega para atendimento em Unidade Básica de Saúde. A mãe informa que, há 3 dias, a criança apresentou quadro de convulsão tônico-clônica generalizada acompanhada de versão ocular, liberação de esfíncter vesical e sialorreia, com duração de aproximadamente 10 minutos. No momento, apresentava temperatura axilar de 38° C. Foi levada ao pronto atendimento, onde chegou sem crise e recebeu alta após 4 horas com diagnóstico de resfriado comum. O episódio convulsivo não se repetiu e a criança está afebril há 48 horas. A mãe relata episódio semelhante aos 11 meses de idade. A criança não apresenta outros antecedentes pessoais ou familiares relevantes. O seu desenvolvimento neuropsicomotor é normal e o exame clínico não apresenta alterações. Considerando os dados clínicos da paciente, essa criança apresenta",
+  "alts": [
+   "convulsão febril simples. A mãe deve ser orientada quanto à abordagem nos episódios febris e a criança deve manter acompanhamento de rotina na UBS pelo caráter benigno do quadro.",
+   "convulsão febril simples. O médico deve prescrever benzodiazepínico (diazepam ou nitrazepam) para uso durante os episódios febris, com objetivo de prevenir epilepsia futura.",
+   "convulsão febril complexa. A criança deve realizar eletroencefalograma e tomografia computadorizada de crânio por não ser o primeiro episódio convulsivo febril apresentado.",
+   "convulsão febril complexa. Os familiares precisam ser alertados sobre a possibilidade de a criança apresentar desempenho escolar fraco futuramente como sequela dos episódios convulsivos."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Convulsão febril simples recorrente",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American Academy of Pediatrics. Febrile Seizures: Guideline for the Neurodiagnostic Evaluation of the Child With a Simple Febrile Seizure, 2011; Clinical Practice Guideline for the Long-term Management of the Child With Simple Febrile Seizures, 2008",
+  "coment": "Convulsão febril simples é generalizada, dura menos de 15 minutos e não se repete em 24 horas, em criança de 6 a 60 meses. A crise de 10 minutos, generalizada e única no episódio febril, é simples; ter tido outra crise em outro episódio febril, aos 11 meses, não a torna complexa. Com desenvolvimento e exame normais, não há indicação de EEG, neuroimagem nem profilaxia com anticonvulsivante, segundo a AAP. A orientação aos pais sobre o que fazer na crise e o seguimento de rotina são suficientes.",
+  "porAlt": [
+   "Correta: crise generalizada de 10 minutos, única no episódio, é convulsão febril simples, de bom prognóstico; orienta-se a família.",
+   "Benzodiazepínico intermitente reduz recorrência pouco e não previne epilepsia, por isso não é indicado de rotina.",
+   "Recorrência em outro episódio febril não torna a crise complexa, e EEG e tomografia não têm indicação.",
+   "A crise é simples, e convulsões febris não deixam sequela cognitiva nem pioram o desempenho escolar."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 54
+  }
+ },
+ {
+  "pid": "p0021",
+  "q": "Quanto ao vírus HPV, suas formas de imunização e diagnóstico, podemos afirmar que",
+  "alts": [
+   "a vacina anti-HPV quadrivalente consegue imunizar contra quatro tipos virais de alto grau, o que a torna indicada para pessoas de até 45 anos de idade.",
+   "a vacina anti-HPV quadrivalente, apesar de proteger contra os tipos não oncogênicos 6 e 11 do HPV, tem a mesma eficácia que a bivalente na prevenção das lesões intraepiteliais do colo uterino.",
+   "as mulheres vacinadas contra o HPV não têm mais a necessidade de realizar o exame de Papanicolau, pois, mesmo que tenham contato com o vírus, elas não desenvolvem a doença.",
+   "uma desvantagem da pesquisa do DNA-HPV é a necessidade de profissional treinado na coleta, o que dificultaria o acesso a mulheres com dificuldades geográficas e resistentes à coleta por profissional de saúde."
+  ],
+  "gab": 1,
+  "tema": "ginonco",
+  "sub": "Vacinas contra HPV e teste DNA-HPV",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "OMS. Human papillomavirus vaccines: WHO position paper, 2022; INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, Parte I (DNA-HPV), 2024",
+  "coment": "As vacinas bivalente (16 e 18), quadrivalente (6, 11, 16 e 18) e nonavalente têm eficácia semelhante contra infecção persistente e lesões intraepiteliais causadas pelos tipos 16 e 18, como registra o documento de posição da OMS de 2022. A quadrivalente acrescenta proteção contra os tipos 6 e 11, de baixo risco, ligados a verrugas genitais. Vacinadas devem manter o rastreamento, porque as vacinas não cobrem todos os tipos oncogênicos. O teste DNA-HPV tem a vantagem de permitir autocoleta.",
+  "porAlt": [
+   "A quadrivalente inclui os tipos 6 e 11, de baixo risco; apenas 16 e 18 são de alto risco oncogênico.",
+   "Correta: contra lesões intraepiteliais por HPV 16 e 18 a eficácia da quadrivalente e da bivalente é semelhante; os tipos 6 e 11 somam proteção contra verrugas.",
+   "Vacinadas mantêm o rastreamento, pois as vacinas não cobrem todos os tipos oncogênicos do HPV.",
+   "O teste DNA-HPV pode ser feito por autocoleta, o que amplia o acesso em vez de restringi-lo."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 55
+  }
+ },
+ {
+  "pid": "p0022",
+  "q": "Um médico de maternidade pública é chamado para realizar a sala de parto de gestante de 35 semanas com pré-eclâmpsia. Um recém-nascido pesando 2,3 kg apresenta-se banhado em líquido amniótico meconial, hipotônico e respirando de forma irregular. O médico assistente decide levá-lo à mesa de reanimação para realizar aspiração de vias aéreas superiores sob calor. Além disso, posiciona o pescoço em leve extensão, aspira a boca e narinas e seca o paciente. Após 30 segundos, o recém-nascido mostra respiração irregular e frequência cardíaca = 80 bpm. Considerando a situação acima descrita, assinale a alternativa que apresenta a próxima conduta que deve ser tomada pelo médico assistente.",
+  "alts": [
+   "Realizar ventilação com pressão positiva com máscara facial.",
+   "Realizar massagem cardíaca externa.",
+   "Realizar intubação orotraqueal.",
+   "Realizar aspiração traqueal sob visualização direta."
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Reanimação neonatal: RN com mecônio",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP, 2026",
+  "coment": "Pela diretriz da SBP de 2026, quem decide a conduta é a vitalidade, não o aspecto do líquido. O RN de 35 semanas hipotônico e com respiração irregular não tem boa vitalidade: recebe estímulo tátil no dorso por cerca de 15 segundos com o cordão intacto e, sem resposta, é clampeado e levado à mesa para os passos iniciais em até 30 segundos (calor, posição, aspiração só se houver excesso de secreção, secagem). Persistindo apneia, respiração irregular ou FC abaixo de 100 bpm, faz-se VPP com máscara facial dentro do primeiro minuto, em ar ambiente, 30 a 60 movimentos por minuto, com monitor cardíaco e oxímetro. Aspiração traqueal de rotina no RN meconial deprimido não é recomendada, e massagem só se a FC ficar abaixo de 60 bpm após 30 segundos de VPP adequada.",
+  "porAlt": [
+   "Correta: respiração irregular e FC de 80 bpm após os passos iniciais indicam VPP com máscara no primeiro minuto, em ar ambiente.",
+   "Massagem cardíaca só é indicada com FC abaixo de 60 bpm após 30 segundos de ventilação com técnica adequada.",
+   "Intubação não é o primeiro passo; inicia-se com máscara e intuba-se se a ventilação não for efetiva ou for prolongada.",
+   "Aspiração traqueal de rotina no RN meconial não vigoroso não é recomendada pela SBP 2026 e atrasa a ventilação."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 58
+  }
+ },
+ {
+  "pid": "p0023",
+  "q": "Uma lactente de 13 meses de idade, de sexo feminino, é levada à Unidade Básica de Saúde para consulta de rotina. A mãe está preocupada, pois a criança ainda não é capaz de andar sem apoio. Não há outras queixas. O pré-natal materno não possui intercorrências; nasceu de parto normal, com 40 semanas de idade gestacional; Boletim de Apgar no 1.o minuto = 6; no 5.o minuto = 9; e no 10.o minuto = 10; com peso ao nascer = 3 200 g e comprimento ao nascer = 50 cm. No exame clínico neonatal, observou-se estalido à manobra de Ortolani à direita; na ocasião, realizou exame ultrassonográfico de quadril apresentando resultado I pelo método de Graf. Recebeu alta no segundo dia de vida. Sem antecedentes pessoais ou familiares relevantes. Desenvolvimento neuropsicomotor prévio: sorriso social aos 2 meses; fixou o pescoço aos três meses; sentou sem apoio aos sete meses; passou a distinguir familiares de estranhos e a reconhecer seu nome aos nove meses; primeiras palavras com significado aos 11 meses. Atualmente engatinha, fica em pé com apoio das mãos e arrisca alguns passos sem apoio, mas logo cai; usa copo com ajuda, compreende ordens simples, bate palma, manda beijo, fala “mama” e “papa” para referir-se à mãe e ao pai respectivamente. Não apresenta alterações ao exame clínico. A conduta adequada para essa criança, considerando o desenvolvimento da marcha é",
+  "alts": [
+   "manter acompanhamento de rotina.",
+   "encaminhar para fisioterapia motora para membros inferiores.",
+   "encaminhar ao neurologista devido à anoxia perinatal.",
+   "encaminhar ao ortopedista por suspeita de displasia congênita do quadril."
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Marcha independente: variação normal",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 33 (Saúde da criança: crescimento e desenvolvimento), 2012; Zubler JM et al. Evidence-Informed Milestones for Developmental Surveillance Tools, Pediatrics, 2022",
+  "coment": "A marcha independente surge em geral entre 12 e 15 meses, e só se considera atraso se não ocorrer até cerca de 18 meses. Aos 13 meses a criança fica em pé com apoio, ensaia passos e tem marcos de linguagem, social e motor fino adequados. O Apgar de 6 no primeiro minuto, com 9 no quinto, não configura anóxia perinatal. O estalido de Ortolani neonatal com ultrassonografia Graf tipo I (quadril normal) afasta displasia. A conduta é manter o acompanhamento de rotina.",
+  "porAlt": [
+   "Correta: aos 13 meses ensaiar passos sem apoio é esperado; marcha independente pode surgir até 18 meses.",
+   "Fisioterapia motora não é indicada, porque não há atraso motor nem alteração ao exame.",
+   "Apgar 6 no primeiro minuto e 9 no quinto não caracteriza anóxia perinatal, e o desenvolvimento é normal.",
+   "A ultrassonografia Graf tipo I mostrou quadril normal; estalido isolado neonatal não indica displasia."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 61
+  }
+ },
+ {
+  "pid": "p0024",
+  "q": "Uma adolescente com 18 anos de idade, procura assistência primária para realizar o exame preventivo do câncer do colo uterino. Sexarca aos 17 anos, em uso de contraceptivo oral. De acordo com as diretrizes brasileiras na prevenção do câncer de colo uterino, qual deve ser a conduta do agente de saúde?",
+  "alts": [
+   "Fazer o exame clínico e ginecológico completo e coletar material para o exame citopatológico do colo uterino.",
+   "Coletar material para identificar o DNA-HPV (captura híbrida), se estiver disponível, pois é mais sensível que o exame citológico.",
+   "Colher a história clínica e informar que não há necessidade de realizar o exame preventivo antes de completar 25 anos.",
+   "Coletar material para citologia e caso tenha duas citologias normais com intervalo de 1 ano, fazer a coleta a cada 3 anos."
+  ],
+  "gab": 2,
+  "tema": "ginonco",
+  "sub": "Idade de início do rastreamento do colo",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, Parte I: rastreamento organizado utilizando testes moleculares para detecção de DNA-HPV oncogênico, 2024",
+  "coment": "O rastreamento do câncer do colo do útero no Brasil começa aos 25 anos em quem já teve atividade sexual. Nas diretrizes do INCA de 2024, o teste preferencial passa a ser o DNA-HPV oncogênico, dos 25 aos 64 anos, a cada 5 anos se negativo; onde ainda se usa citologia, a idade de início é a mesma. Antes dos 25 anos a infecção por HPV é muito frequente e regride sozinha, e o rastreamento leva a sobrediagnóstico e a tratamentos desnecessários. A conduta é orientar e não coletar.",
+  "porAlt": [
+   "Coletar citologia aos 18 anos é rastreamento fora da faixa etária e gera sobrediagnóstico.",
+   "O DNA-HPV é o teste preferencial, mas também só a partir dos 25 anos.",
+   "Correta: o rastreamento começa aos 25 anos; antes disso não se coleta o exame preventivo.",
+   "Além de coletar antes da idade, o intervalo descrito vale para a citologia a partir dos 25 anos."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 64
+  }
+ },
+ {
+  "pid": "p0025",
+  "q": "Um recém-nascido de 15 dias é levado à primeira consulta de puericultura. A gestação correu sem intercorrências. Mãe relata ser asmática e fez uso de prednisona oral durante toda a gestação. Parto vaginal a termo. Peso de nascimento = 3 500 g. Apgar 9/9. Alta com 2 dias. Colheu teste do pezinho no 4.o dia de vida. Ao exame, o recém-nascido mostra-se em ótimo estado geral, corado e hidratado. O exame cardiovascular e respiratório sem anormalidades, assim como o exame do abdome. Considerando a história acima, assinale a alternativa que apresenta a doença cujo resultado no teste de triagem neonatal pode ter seu resultado modificado pela condição clínica materna descrita.",
+  "alts": [
+   "Deficiência de biotinidase.",
+   "Anemia falciforme.",
+   "Hiperplasia adrenal congênita.",
+   "Fibrose cística."
+  ],
+  "gab": 2,
+  "tema": "neonato",
+  "sub": "Triagem neonatal e corticoide materno",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Triagem Neonatal Biológica: manual técnico, 2016",
+  "coment": "A triagem da hiperplasia adrenal congênita no teste do pezinho dosa a 17-hidroxiprogesterona. O corticoide usado pela mãe atravessa a placenta e suprime o eixo hipotálamo-hipófise-adrenal do feto, o que reduz a 17-OHP e pode gerar falso-negativo. O manual de triagem neonatal do Ministério da Saúde cita o uso materno de corticoide como interferente e recomenda repetir a coleta. Prematuridade, baixo peso e estresse, ao contrário, elevam a 17-OHP e geram falso-positivo.",
+  "porAlt": [
+   "A dosagem da biotinidase não é alterada pelo uso de corticoide materno.",
+   "A triagem da anemia falciforme analisa hemoglobinas e sofre interferência de transfusão, não de corticoide.",
+   "Correta: o corticoide materno suprime a adrenal fetal, reduz a 17-OHP e pode dar falso-negativo para hiperplasia adrenal congênita.",
+   "A triagem da fibrose cística dosa tripsina imunorreativa, que não sofre interferência do corticoide materno."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 68
+  }
+ },
+ {
+  "pid": "p0026",
+  "q": "Chega ao pronto-socorro da maternidade uma gestante com 34 anos de idade com queixa de sangramento vaginal abundante e dor intensa. Esta é sua segunda gestação. A primeira ocorreu há 3 anos e foi uma cesariana por desproporção céfalo-pélvica. Ela está fazendo pré-natal desde as 12 semanas e a idade gestacional no momento da consulta é de 34 semanas, pela data da última menstruação e ultrassom de 16 semanas. Fez os exames e seguimento de pré-natal, sem nenhuma intercorrência ou alteração até as 32 semanas. Nas últimas consultas de pré-natal a gestante vinha apresentando aumento de pressão arterial, sendo medicada com metil-dopa. Ao exame, apresenta face de dor, descorada, PA = 150/90 mmHg, pulso = 120 bpm. Estado afebril. Dinâmica uterina de difícil avaliação, difícil palpação de partes fetais, dor intensa e tônus aumentado. Batimentos cardíacos fetais = 120 bpm, sem variabilidade. Ao exame especular, apresenta sangramento moderado, visualizado colo impérvio e sangramento proveniente do canal cervical; não foi feito exame de toque vaginal. O médico de plantão opta por fazer uma cesariana de urgência. Com base no caso apresentado, a alternativa correta é",
+  "alts": [
+   "a cesariana está bem indicada, pois o diagnóstico mais provável é descolamento prematuro de placenta e não há sinais de parto iminente.",
+   "a cesariana está bem indicada, pois o diagnóstico mais provável é placenta prévia, que é uma indicação absoluta de via alta.",
+   "a cesariana não deve ser indicada antes de realizar um ultrassom para avaliar a causa do sangramento.",
+   "a cesariana não está bem indicada, pois casos de hipertensão com uma cesárea prévia não indicam absolutamente cesariana."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Descolamento prematuro de placenta",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Gestante hipertensa com dor intensa, sangramento, útero hipertônico, partes fetais de difícil palpação, taquicardia materna e BCF de 120 sem variabilidade tem descolamento prematuro de placenta, diagnóstico clínico. Hipertensão é o principal fator de risco. Com feto vivo, comprometimento fetal e colo impérvio, sem parto iminente, a cesariana de urgência é a via indicada. A ultrassonografia não deve atrasar a conduta: tem baixa sensibilidade para o hematoma retroplacentário. A placenta prévia sangra sem dor e sem hipertonia.",
+  "porAlt": [
+   "Correta: dor, hipertonia, sangramento e sofrimento fetal em hipertensa indicam DPP, e sem parto iminente a cesárea está indicada.",
+   "A placenta prévia tem sangramento indolor, sem hipertonia uterina, quadro diferente do descrito.",
+   "O diagnóstico de DPP é clínico; esperar a ultrassonografia, pouco sensível, atrasa a resolução com feto em sofrimento.",
+   "A indicação não decorre da hipertensão nem da cesárea prévia, mas do DPP com feto vivo e colo impérvio."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 70
+  }
+ },
+ {
+  "pid": "p0027",
+  "q": "Uma mulher de 30 anos de idade busca orientação ginecológica quanto ao uso de método contraceptivo. O motivo principal da troca é o sangramento irregular nos últimos 6 meses e a mulher não quer correr o risco de engravidar. Gesta 2; para 2; abortos 0. Nega comorbidades. Atualmente em uso de contraceptivo oral combinado (15 mcg de etinilestradiol e 60 mcg de gestodeno). Diante do caso apresentado, o profissional de saúde deve",
+  "alts": [
+   "trocar o método por um anticoncepcional injetável trimestral.",
+   "iniciar pílula de desogestrel 75 mcg após 1 mês de intervalo.",
+   "interromper o método por 3 meses e reiniciar o mesmo esquema.",
+   "trocar por compostos com doses mais elevadas de estrogênio."
+  ],
+  "gab": 3,
+  "tema": "reprodutiva",
+  "sub": "Escape com pílula de baixa dose",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "FEBRASGO. Manual de Anticoncepção, 2015; OMS. Medical eligibility criteria for contraceptive use, 5ª ed., 2015",
+  "coment": "Sangramento irregular é efeito comum dos contraceptivos orais combinados de dose muito baixa, como 15 mcg de etinilestradiol, porque o estrogênio insuficiente não estabiliza o endométrio. Afastadas gravidez, esquecimento de comprimidos, interações e causas ginecológicas, a conduta é trocar por formulação com mais estrogênio, como 20 a 30 mcg de etinilestradiol. Progestágenos isolados, oral ou injetável trimestral, aumentam o sangramento irregular. Interromper o método expõe à gravidez que ela quer evitar.",
+  "porAlt": [
+   "O injetável trimestral causa sangramento irregular ou amenorreia com frequência, o que piora a queixa.",
+   "Desogestrel isolado provoca sangramento irregular em muitas usuárias, e o intervalo de um mês deixa a paciente sem proteção.",
+   "Interromper o método por 3 meses deixa a paciente sem contracepção e não corrige a causa do escape.",
+   "Correta: escape com pílula de 15 mcg melhora com formulação de maior dose de estrogênio, que estabiliza o endométrio."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021",
+   "ex": "rev2021",
+   "n": 71
+  }
+ }
+]

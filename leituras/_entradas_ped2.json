@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Pediatria",
+  "f": "crescimento-e-desenvolvimento.html",
+  "tipo": "MS 2012 e OMS 2006 · resumo de prova",
+  "area": "puericultura",
+  "min": 50,
+  "t": "Crescimento e desenvolvimento",
+  "s": "Consulta de puericultura pelo calendário mínimo do Ministério da Saúde, leitura das curvas da OMS por escore Z, velocidade de crescimento, perímetro cefálico, baixa estatura, marcos e sinais de alerta do desenvolvimento e triagem do autismo com o M-CHAT, pelo Caderno de Atenção Básica nº 33 e pelas normas do SISVAN."
+ },
+ {
+  "grupo": "Pediatria",
+  "f": "aleitamento-e-alimentacao.html",
+  "tipo": "MS 2015 e 2019 · resumo de prova",
+  "area": "puericultura",
+  "min": 55,
+  "t": "Aleitamento materno e alimentação infantil",
+  "s": "Aleitamento materno exclusivo, pega e posição, intercorrências da mama, contraindicações verdadeiras e falsas, ordenha e armazenamento, alimentação complementar pelo Guia Alimentar de 2019, suplementação de vitamina A pelo programa nacional, ferro e vitamina D, obesidade e desnutrição na infância, pelo Caderno de Atenção Básica nº 23 e pelos documentos vigentes do Ministério da Saúde."
+ },
+ {
+  "grupo": "Pediatria",
+  "f": "calendario-vacinal.html",
+  "tipo": "PNI 2025 · resumo de prova",
+  "area": "puericultura",
+  "min": 55,
+  "t": "Calendário vacinal da criança e do adolescente",
+  "s": "Calendário do Programa Nacional de Imunizações do nascimento aos 14 anos, com as mudanças de 2024 a 2026, tipos de vacina, regras de intervalo e atraso, contraindicações verdadeiras e falsas, eventos adversos, BCG, CRIE e nirsevimabe, pela Instrução Normativa do Calendário Nacional de Vacinação 2025."
+ }
+]

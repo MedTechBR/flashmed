@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Uma equipe de Saúde da Família organiza, no mesmo mês, quatro ações: grupo de caminhada para adultos sedentários, vacinação antitetânica de trabalhadores rurais, busca ativa de mulheres de 50 a 74 anos para mamografia e fisioterapia para pessoas com sequela de AVC. No modelo de história natural da doença de Leavell e Clark, a busca ativa para mamografia corresponde a qual nível de prevenção e de aplicação?",
+  "alts": [
+   "Prevenção secundária, diagnóstico precoce e tratamento imediato",
+   "Prevenção terciária, limitação do dano e reabilitação funcional",
+   "Prevenção quaternária, proteção contra a intervenção excessiva",
+   "Prevenção primária, promoção da saúde em toda a comunidade",
+   "Prevenção primária, proteção específica contra a doença-alvo"
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "Níveis de Leavell e Clark",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Leavell HR, Clark EG. Preventive Medicine for the Doctor in his Community, 1965",
+  "coment": "Leavell e Clark dividem a prevenção em primária (fase pré-patogênica: promoção da saúde e proteção específica), secundária (fase patogênica: diagnóstico precoce, tratamento imediato e limitação do dano) e terciária (reabilitação). O rastreamento mamográfico busca a doença já instalada, mas ainda pré-clínica, em pessoas assintomáticas, o que o coloca na prevenção secundária. O grupo de caminhada é promoção da saúde, a vacina é proteção específica e a fisioterapia pós-AVC é reabilitação. A prevenção quaternária foi proposta depois, por Jamoulle, e não integra o modelo original.",
+  "porAlt": [
+   "Correta: rastrear doença pré-clínica em assintomáticos é diagnóstico precoce, nível secundário.",
+   "Limitação do dano e reabilitação correspondem à fisioterapia de quem já tem sequela.",
+   "A prevenção quaternária é conceito posterior de Jamoulle e trata do excesso de intervenção.",
+   "Promoção da saúde é o grupo de caminhada, inespecífico e anterior à doença.",
+   "Proteção específica é a vacina antitetânica, que age antes de a doença existir."
+  ]
+ },
+ {
+  "q": "Homem de 46 anos, assintomático, sem história familiar relevante, pede um check-up com PSA, CA 19-9, CEA, tomografia de corpo inteiro e teste ergométrico, porque um colega fez. O médico de família explica os riscos de achados incidentais e de cascatas de exames, e oferece apenas as ações com benefício demonstrado para a idade dele. Essa conduta é o exemplo clássico de qual conceito?",
+  "alts": [
+   "Prevenção quaternária, que evita a intervenção desnecessária",
+   "Prevenção primordial, que impede o surgimento do fator de risco",
+   "Prevenção primária, que reduz a exposição aos fatores de risco",
+   "Prevenção terciária, que limita sequelas de doença já instalada",
+   "Prevenção secundária, que antecipa o diagnóstico na fase pré-clínica"
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "Prevenção quaternária",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Jamoulle M. Prevenção quaternária, definição WONCA International Dictionary for General/Family Practice, 2003",
+  "coment": "Prevenção quaternária, termo proposto por Marc Jamoulle e incorporado ao dicionário da WONCA em 2003, é a ação para identificar a pessoa em risco de medicalização excessiva, protegê-la de intervenções invasivas sem benefício e oferecer cuidados eticamente aceitáveis. Pedir marcadores tumorais e tomografia em assintomático não reduz mortalidade e gera falsos-positivos, incidentalomas e iatrogenia. Recusar com explicação e oferecer o que tem evidência é o núcleo do conceito, muito cobrado em provas de MFC.",
+  "porAlt": [
+   "Correta: proteger da medicalização excessiva e da iatrogenia define a prevenção quaternária.",
+   "A prevenção primordial atua em determinantes sociais antes do aparecimento do fator de risco.",
+   "A prevenção primária atua antes da doença, com vacinas, aconselhamento e controle de exposição.",
+   "A prevenção terciária é reabilitação e controle de complicações de doença instalada.",
+   "A prevenção secundária seria o rastreamento com benefício comprovado, não a recusa de exames inúteis."
+  ]
+ },
+ {
+  "q": "A secretaria municipal de saúde avalia implantar um programa de rastreamento populacional para uma nova doença. Segundo os critérios clássicos de Wilson e Jungner, publicados pela OMS, qual condição é necessária para que essa doença seja candidata a rastreamento?",
+  "alts": [
+   "Ser doença rara, com prevalência menor que um caso por mil",
+   "Dispor de teste com especificidade e sensibilidade de 100%",
+   "Existir fase latente ou sintomática inicial reconhecível",
+   "Ter alta letalidade, mesmo sem tratamento eficaz disponível",
+   "Ter cura garantida quando diagnosticada já na fase clínica"
+  ],
+  "gab": 2,
+  "tema": "rastreamento",
+  "sub": "Critérios de Wilson e Jungner",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Wilson JMG, Jungner G. Principles and practice of screening for disease. OMS, 1968",
+  "coment": "Os dez critérios de Wilson e Jungner (OMS, 1968) incluem: problema de saúde importante, tratamento aceito para quem tem a doença, estrutura para diagnóstico e tratamento, fase latente ou sintomática inicial reconhecível, teste adequado e aceitável, história natural conhecida, política de quem tratar, custo equilibrado e busca contínua de casos. Sem fase pré-clínica detectável não há janela para antecipar o diagnóstico. Não se exige teste perfeito, e doença letal sem tratamento eficaz ou doença muito rara não justificam rastreamento.",
+  "porAlt": [
+   "Doença rara gera muitos falsos-positivos e baixo rendimento, o oposto do que se busca.",
+   "Nenhum teste é perfeito; exige-se teste adequado e aceitável, não acurácia absoluta.",
+   "Correta: a fase pré-clínica detectável é a janela que torna o rastreamento possível.",
+   "Sem tratamento eficaz, antecipar o diagnóstico não muda o desfecho, o que contraria os critérios.",
+   "Se a cura fosse garantida na fase clínica, não haveria ganho em antecipar o diagnóstico."
+  ]
+ },
+ {
+  "q": "Um estudo observacional mostra que pacientes com câncer de pulmão detectado por rastreamento vivem, em média, 2 anos a mais após o diagnóstico do que os diagnosticados por sintomas. Porém, a idade média de morte pela doença é igual nos dois grupos. Qual viés explica melhor esse achado?",
+  "alts": [
+   "Viés de tempo de antecipação",
+   "Viés de verificação diagnóstica",
+   "Viés de duração da doença",
+   "Viés de seleção por voluntários",
+   "Sobrediagnóstico de tumores indolentes"
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "Viés de antecipação",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Gordis L. Epidemiology, 5th ed., 2014",
+  "coment": "No viés de tempo de antecipação (lead-time bias), o rastreamento apenas adianta o momento do diagnóstico sem adiar a morte. A sobrevida contada a partir do diagnóstico aumenta artificialmente, mas a idade de morte não muda. O dado decisivo do caso é a idade média de morte igual nos dois grupos. Por isso, a sobrevida após o diagnóstico não serve para provar benefício de rastreamento; o desfecho adequado é a mortalidade específica em ensaio randomizado.",
+  "porAlt": [
+   "Correta: o diagnóstico foi adiantado, a morte não foi adiada, e a sobrevida cresceu só no papel.",
+   "O viés de verificação ocorre quando só parte dos testados recebe o exame de referência.",
+   "O viés de duração explica a detecção preferencial de tumores lentos, não a idade de morte igual.",
+   "O voluntariado seleciona pessoas mais saudáveis, mas não explica sobrevida maior com morte na mesma idade.",
+   "O sobrediagnóstico infla casos que nunca matariam, e não adianta o diagnóstico de quem morre da doença."
+  ]
+ },
+ {
+  "q": "Em um programa de rastreamento de câncer de próstata, observou-se que os tumores detectados pelo PSA em homens assintomáticos tinham, em média, crescimento mais lento e melhor prognóstico do que os tumores diagnosticados entre duas rodadas de exame, por sintomas. Como esse fenômeno é denominado?",
+  "alts": [
+   "Efeito de coorte de nascimento",
+   "Viés de seleção por voluntários",
+   "Viés de duração da doença",
+   "Viés de tempo de antecipação",
+   "Viés de aferição do desfecho"
+  ],
+  "gab": 2,
+  "tema": "rastreamento",
+  "sub": "Viés de duração",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Gordis L. Epidemiology, 5th ed., 2014",
+  "coment": "No viés de duração (length-time bias), doenças de progressão lenta permanecem mais tempo na fase pré-clínica detectável e, por isso, têm maior chance de ser captadas por um exame periódico. Tumores agressivos crescem rápido e aparecem como câncer de intervalo, entre as rodadas. O grupo rastreado fica enriquecido de casos de bom prognóstico, o que faz o rastreamento parecer mais eficaz do que é. No extremo, o viés de duração se confunde com o sobrediagnóstico de lesões que nunca dariam sintomas.",
+  "porAlt": [
+   "Efeito de coorte é a diferença entre gerações expostas a contextos distintos.",
+   "O voluntariado seleciona pessoas, não tumores de crescimento lento.",
+   "Correta: a fase pré-clínica longa dos tumores lentos aumenta a chance de serem detectados.",
+   "O viés de antecipação adianta o diagnóstico sem mudar a evolução, sem selecionar tumores lentos.",
+   "O viés de aferição decorre de medir o desfecho de modo diferente entre os grupos."
+  ]
+ },
+ {
+  "q": "Ao avaliar se um novo programa de rastreamento traz benefício real à população, livre dos vieses de antecipação e de duração, qual desfecho e desenho de estudo são os mais adequados?",
+  "alts": [
+   "Mortalidade específica pela doença em ensaio randomizado",
+   "Sobrevida em cinco anos após o diagnóstico em coorte",
+   "Número de casos detectados por mil exames realizados",
+   "Incidência da doença entre os rastreados em caso-controle",
+   "Proporção de casos em estádio inicial em série histórica"
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "Avaliação de rastreamento",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Gordis L. Epidemiology, 5th ed., 2014",
+  "coment": "A sobrevida a partir do diagnóstico é inflada pelo viés de antecipação, e a proporção de casos iniciais e o número de cânceres detectados são inflados pelos vieses de duração e de sobrediagnóstico. A mortalidade específica pela doença, medida por grupo alocado e não por momento do diagnóstico, não sofre esses vieses. O ensaio clínico randomizado controla ainda o viés de voluntariado. É por esse critério que se avaliaram os programas de mamografia, de colorretal e de pulmão com tomografia de baixa dose.",
+  "porAlt": [
+   "Correta: mortalidade por grupo randomizado não é afetada por antecipação nem por duração.",
+   "A sobrevida após o diagnóstico cresce artificialmente com o viés de antecipação.",
+   "O rendimento do exame mede detecção, não benefício para quem foi rastreado.",
+   "A incidência sobe com o rastreamento por sobrediagnóstico e não prova redução de mortes.",
+   "Mais casos em estádio inicial podem refletir só sobrediagnóstico e viés de duração."
+  ]
+ },
+ {
+  "q": "Mulher de 32 anos, assintomática, realiza na unidade de saúde o teste de DNA-HPV oncogênico como rastreamento primário do câncer do colo do útero, já implantado no município. O resultado é negativo. Segundo as diretrizes brasileiras vigentes, qual é a conduta?",
+  "alts": [
+   "Repetir o teste de DNA-HPV em cinco anos",
+   "Fazer citologia anual por dois anos seguidos",
+   "Fazer colposcopia de controle em um ano",
+   "Repetir o DNA-HPV em um ano e depois a cada três",
+   "Repetir o teste de DNA-HPV em três anos"
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "DNA-HPV negativo",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (Portaria Conjunta SAES/SECTICS nº 13), 2025",
+  "coment": "As diretrizes brasileiras de 2025 adotam o teste molecular de DNA-HPV oncogênico como exame primário de rastreamento para pessoas com colo do útero de 25 a 64 anos. Com resultado negativo, o risco de lesão de alto grau nos anos seguintes é muito baixo, e o teste é repetido em cinco anos. O intervalo trienal pertencia ao rastreamento citológico, que segue como referência onde o teste molecular ainda não foi implantado. Colposcopia em pessoa com teste negativo não tem indicação.",
+  "porAlt": [
+   "Correta: teste de DNA-HPV negativo permite intervalo de cinco anos.",
+   "Citologia anual não se aplica a quem tem DNA-HPV negativo no programa molecular.",
+   "Colposcopia é reservada a resultados positivos que indicam risco, não a teste negativo.",
+   "O retorno em um ano é para HPV de outros tipos com citologia reflexa normal.",
+   "Três anos é o intervalo do rastreamento citológico após dois exames anuais normais."
+  ]
+ },
+ {
+  "q": "Mulher de 41 anos, assintomática, faz rastreamento com teste de DNA-HPV oncogênico, que é positivo com genotipagem para HPV 16. Pelas diretrizes brasileiras vigentes de rastreamento do câncer do colo do útero, qual é a conduta?",
+  "alts": [
+   "Repetir o teste de DNA-HPV em três anos",
+   "Realizar excisão da zona de transformação logo",
+   "Fazer citologia reflexa e decidir pelo resultado",
+   "Encaminhar diretamente para colposcopia",
+   "Repetir o teste de DNA-HPV em doze meses"
+  ],
+  "gab": 3,
+  "tema": "rastreamento",
+  "sub": "DNA-HPV 16/18 positivo",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (Portaria Conjunta SAES/SECTICS nº 13), 2025",
+  "coment": "Nas diretrizes de 2025, o teste de DNA-HPV positivo é estratificado pela genotipagem. HPV 16 ou 18, os tipos de maior risco de progressão para lesão de alto grau e câncer, indicam colposcopia direta, independentemente da citologia. Já os outros tipos oncogênicos levam à citologia reflexa na mesma amostra, que define colposcopia ou repetição do teste em um ano. Tratar sem confirmação colposcópica ou adiar a investigação em portadora de HPV 16 não são condutas da diretriz.",
+  "porAlt": [
+   "Adiar por três anos ignora o alto risco associado ao HPV 16.",
+   "Excisão sem colposcopia e sem lesão confirmada seria tratamento excessivo.",
+   "A citologia reflexa é a etapa para os outros tipos oncogênicos, não para HPV 16 ou 18.",
+   "Correta: HPV 16 ou 18 positivo indica colposcopia direta, sem esperar a citologia.",
+   "Repetir em doze meses é para outros tipos com citologia reflexa negativa."
+  ]
+ },
+ {
+  "q": "Mulher de 37 anos tem teste de DNA-HPV de rastreamento positivo para outros tipos oncogênicos, com HPV 16 e 18 negativos. A citologia reflexa, feita na mesma amostra, não mostra alterações. Segundo as diretrizes brasileiras vigentes, qual é a conduta?",
+  "alts": [
+   "Repetir a citologia oncótica em seis meses",
+   "Repetir o teste de DNA-HPV em um ano",
+   "Encaminhar para colposcopia imediata",
+   "Repetir o teste de DNA-HPV em três anos",
+   "Repetir o teste de DNA-HPV em cinco anos"
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "DNA-HPV outros tipos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (Portaria Conjunta SAES/SECTICS nº 13), 2025",
+  "coment": "Para os tipos oncogênicos não 16/18, a diretriz brasileira de 2025 usa a citologia reflexa como triagem. Se a citologia mostra alteração, a pessoa vai à colposcopia; se é negativa, o risco imediato é baixo, mas maior que o de quem tem DNA-HPV negativo, e o teste molecular é repetido em um ano para verificar persistência da infecção. A maioria das infecções por HPV regride espontaneamente em um a dois anos, o que justifica a reavaliação curta em vez de colposcopia imediata.",
+  "porAlt": [
+   "Citologia isolada em seis meses não é o seguimento previsto no programa molecular.",
+   "Correta: outros tipos com citologia reflexa negativa voltam para novo DNA-HPV em um ano.",
+   "Colposcopia imediata cabe ao HPV 16/18 ou à citologia reflexa alterada.",
+   "Três anos deixaria sem vigilância uma infecção que pode persistir.",
+   "Cinco anos é o intervalo apenas para quem tem DNA-HPV negativo."
+  ]
+ },
+ {
+  "q": "Na implantação do rastreamento do câncer do colo do útero com teste de DNA-HPV oncogênico, a equipe revisa a lista de usuários cadastrados. Pelas diretrizes brasileiras vigentes, qual pessoa tem indicação de rastreamento?",
+  "alts": [
+   "Mulher de 70 anos com exames anteriores normais",
+   "Mulher de 45 anos com histerectomia total por mioma",
+   "Homem trans de 35 anos com colo do útero preservado",
+   "Mulher de 19 anos com múltiplas parcerias sexuais",
+   "Mulher de 22 anos com início sexual aos 15 anos"
+  ],
+  "gab": 2,
+  "tema": "rastreamento",
+  "sub": "População-alvo do colo",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (Portaria Conjunta SAES/SECTICS nº 13), 2025",
+  "coment": "A população-alvo do rastreamento é de pessoas com colo do útero de 25 a 64 anos, o que inclui homens trans e pessoas não binárias que mantêm o colo. Antes dos 25 anos, as infecções por HPV são muito frequentes e transitórias, e o rastreamento aumenta procedimentos sem reduzir câncer, mesmo com início sexual precoce ou várias parcerias. Após histerectomia total por doença benigna, não há colo a rastrear. Depois dos 64 anos, com exames anteriores negativos, o rastreamento é encerrado.",
+  "porAlt": [
+   "Aos 70 anos, com exames prévios normais, o rastreamento já foi encerrado.",
+   "Sem colo do útero, retirado por doença benigna, não há o que rastrear.",
+   "Correta: o critério é ter colo do útero e idade entre 25 e 64 anos, não a identidade de gênero.",
+   "Aos 19 anos, as múltiplas parcerias não antecipam o início do rastreamento.",
+   "Antes dos 25 anos não se rastreia, ainda que o início sexual tenha sido precoce."
+  ]
+ },
+ {
+  "q": "Mulher de 44 anos, assintomática, sem história familiar de câncer de mama ou de ovário e sem radioterapia torácica prévia, pergunta na consulta se pode fazer mamografia pelo SUS. Exame clínico das mamas normal. Segundo a orientação do Ministério da Saúde vigente desde 2025, qual é a conduta?",
+  "alts": [
+   "Solicitar ultrassonografia mamária no lugar da mamografia",
+   "Discutir benefícios e riscos e solicitar se ela optar pelo exame",
+   "Negar o exame, pois o SUS o oferece a partir dos 50 anos",
+   "Solicitar mamografia anual a partir de agora, como regra",
+   "Indicar ressonância anual por ter menos de 50 anos de idade"
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "Mamografia aos 40-49 anos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Nova recomendação de rastreamento do câncer de mama, 2025; Lei 15.284/2025",
+  "coment": "Desde setembro de 2025, o Ministério da Saúde garante mamografia a mulheres de 40 a 49 anos sem sinais ou sintomas, sob demanda e após decisão compartilhada, ponderando benefício (redução de mortes) e riscos (falsos-positivos, biópsias, sobrediagnóstico). A Lei 15.284/2025 assegurou o acesso ao exame pelo SUS a partir dos 40 anos. O rastreamento organizado, com convocação ativa, continua dirigido às mulheres de 50 a 74 anos, a cada dois anos. Ultrassonografia e ressonância não são exames de rastreamento para risco habitual.",
+  "porAlt": [
+   "Ultrassonografia não substitui a mamografia no rastreamento de risco habitual.",
+   "Correta: dos 40 aos 49 anos o exame é ofertado por demanda, após decisão compartilhada.",
+   "A regra de começar aos 50 sem acesso antes foi superada pela orientação de 2025.",
+   "Não há obrigatoriedade nem intervalo anual definido para essa faixa no SUS.",
+   "Ressonância anual é reservada a pessoas de alto risco, como portadoras de mutação."
+  ]
+ },
+ {
+  "q": "Mulher de 72 anos, independente, sem comorbidades graves, teve a última mamografia de rastreamento há 2 anos, com resultado BI-RADS 1. Ela pergunta se deve continuar fazendo o exame. Segundo a recomendação do Ministério da Saúde vigente desde 2025, qual é a orientação?",
+  "alts": [
+   "Substituir a mamografia por exame clínico anual das mamas",
+   "Solicitar mamografia anual, pelo risco maior na idade",
+   "Encerrar o rastreamento, pois o limite de idade é 69 anos",
+   "Solicitar nova mamografia, mantendo o intervalo bienal",
+   "Solicitar ultrassonografia mamária como exame de controle"
+  ],
+  "gab": 3,
+  "tema": "rastreamento",
+  "sub": "Mamografia aos 50-74 anos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Nova recomendação de rastreamento do câncer de mama, 2025",
+  "coment": "Em 2025, o Ministério da Saúde ampliou a faixa do rastreamento mamográfico organizado de 50 a 69 anos para 50 a 74 anos, mantendo a periodicidade bienal, porque grande parte dos casos ocorre nessa faixa e a mulher idosa com boa expectativa de vida ainda se beneficia. Aos 72 anos, com exame normal há 2 anos, a conduta é repetir a mamografia agora. A recomendação anual não é a do SUS para risco habitual, e o exame clínico isolado não substitui a mamografia.",
+  "porAlt": [
+   "O exame clínico isolado não reduz mortalidade como a mamografia.",
+   "A periodicidade para risco habitual no SUS é bienal, não anual.",
+   "O limite de 69 anos era o da recomendação anterior, ampliada em 2025.",
+   "Correta: a faixa do rastreamento organizado vai até 74 anos, a cada dois anos.",
+   "A ultrassonografia não é exame de rastreamento de risco habitual."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos, negro, assintomático, sem história familiar de câncer de próstata, pede na consulta de rotina o exame de PSA, porque viu uma campanha. Segundo a posição do Instituto Nacional de Câncer (INCA), qual é a conduta adequada?",
+  "alts": [
+   "Explicar que não há recomendação de rastreamento e discutir riscos",
+   "Solicitar PSA e toque retal anuais a partir dos 50 anos de idade",
+   "Solicitar PSA anual, dispensando o toque retal associado",
+   "Solicitar PSA a cada dois anos até completar 75 anos de idade",
+   "Solicitar ultrassonografia transretal como exame de rastreamento"
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "PSA em assintomático",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "INCA. Detecção precoce do câncer, 2021",
+  "coment": "O INCA e o Ministério da Saúde não recomendam o rastreamento populacional do câncer de próstata, porque os ensaios não mostram benefício claro de mortalidade que supere os danos: falsos-positivos, biópsias com complicações e sobrediagnóstico de tumores indolentes que levam a incontinência e disfunção erétil pelo tratamento. Quando o homem procura o exame, cabe explicar riscos e benefícios e registrar a decisão compartilhada. Ser negro aumenta o risco, mas não muda essa recomendação oficial.",
+  "porAlt": [
+   "Correta: sem rastreamento populacional recomendado, a conduta é informar riscos e benefícios.",
+   "PSA e toque anuais aos 50 anos é proposta de campanhas, não a recomendação do INCA.",
+   "Retirar o toque não resolve o problema central de sobrediagnóstico do PSA.",
+   "Nenhuma recomendação oficial brasileira prevê PSA bienal até 75 anos.",
+   "A ultrassonografia transretal não é exame de rastreamento e não tem acurácia para isso."
+  ]
+ },
+ {
+  "q": "Homem de 47 anos, assintomático, sem história pessoal ou familiar de câncer colorretal, pólipos ou doença inflamatória intestinal, pergunta sobre exames para prevenir câncer de intestino. Segundo a recomendação da USPSTF de 2021, qual é a conduta?",
+  "alts": [
+   "Solicitar pesquisa de sangue oculto quando houver anemia",
+   "Solicitar tomografia de abdome a cada cinco anos a partir de agora",
+   "Aguardar os 50 anos, idade de início do rastreamento de risco médio",
+   "Solicitar colonoscopia agora e repeti-la a cada três anos",
+   "Iniciar rastreamento, por exemplo com teste imunoquímico fecal anual"
+  ],
+  "gab": 4,
+  "tema": "rastreamento",
+  "sub": "Câncer colorretal, risco médio",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "USPSTF. Screening for Colorectal Cancer, 2021",
+  "coment": "Em 2021, a USPSTF antecipou o início do rastreamento do câncer colorretal em pessoas de risco médio de 50 para 45 anos (grau B), mantendo a recomendação forte de 50 a 75 anos (grau A) e decisão individual de 76 a 85. As estratégias aceitas incluem teste imunoquímico fecal anual, colonoscopia a cada 10 anos e colonografia por tomografia a cada 5 anos. Colonoscopia a cada 3 anos é intervalo de vigilância pós-pólipo, e exames feitos só diante de anemia já são investigação diagnóstica.",
+  "porAlt": [
+   "Exame motivado por anemia é investigação diagnóstica, não rastreamento.",
+   "Tomografia de abdome convencional não é método de rastreamento colorretal.",
+   "Começar aos 50 era a regra anterior, alterada pela USPSTF em 2021.",
+   "Na colonoscopia normal de risco médio, o intervalo é de 10 anos, não de 3.",
+   "Correta: a USPSTF recomenda iniciar aos 45 anos, e o teste imunoquímico anual é opção válida."
+  ]
+ },
+ {
+  "q": "Homem de 38 anos, assintomático, conta que o pai teve diagnóstico de adenocarcinoma de cólon aos 46 anos. Não há outros casos na família nem suspeita de síndrome hereditária. Segundo a força-tarefa norte-americana de câncer colorretal, qual é a conduta de rastreamento?",
+  "alts": [
+   "Colonoscopia aos 50 anos, repetida a cada dez anos",
+   "Colonoscopia aos 45 anos, repetida a cada dez anos",
+   "Colonoscopia agora, repetida a cada cinco anos",
+   "Sangue oculto nas fezes anual a partir dos 40 anos",
+   "Teste imunoquímico fecal anual a partir dos 45 anos"
+  ],
+  "gab": 2,
+  "tema": "rastreamento",
+  "sub": "Câncer colorretal, parente de 1º grau",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "US Multi-Society Task Force on Colorectal Cancer. Recommendations for Physicians and Patients, 2017",
+  "coment": "Pessoa com parente de primeiro grau diagnosticado com câncer colorretal ou adenoma avançado antes dos 60 anos deve iniciar colonoscopia aos 40 anos ou 10 anos antes da idade do diagnóstico do parente, o que ocorrer primeiro, repetindo a cada 5 anos. O pai teve câncer aos 46, logo o início seria aos 36; aos 38 anos o exame já está indicado. Testes fecais e intervalo de 10 anos valem para risco médio, não para esse grupo de risco aumentado.",
+  "porAlt": [
+   "Começar aos 50 com intervalo de 10 anos ignora o risco familiar.",
+   "Esperar os 45 anos atrasa o início, que neste caso seria aos 36, e o intervalo é de 5 anos.",
+   "Correta: início aos 40 ou 10 anos antes do caso índice, o que vier primeiro, e repetição a cada 5 anos.",
+   "Sangue oculto anual não é a estratégia para parente de primeiro grau jovem.",
+   "Teste fecal anual aos 45 anos é estratégia de risco médio, insuficiente aqui."
+  ]
+ },
+ {
+  "q": "Homem de 62 anos, assintomático, fumou 1,5 maço por dia durante 20 anos e parou de fumar há 8 anos. Exame físico normal. Segundo a recomendação da USPSTF de 2021 para rastreamento de câncer de pulmão, qual é a conduta?",
+  "alts": [
+   "Não rastrear, porque ele já deixou de fumar há anos",
+   "Solicitar radiografia de tórax anual em duas incidências",
+   "Oferecer tomografia de tórax de baixa dose a cada três anos",
+   "Solicitar citologia de escarro seriada a cada seis meses",
+   "Oferecer tomografia de tórax de baixa dose anual"
+  ],
+  "gab": 4,
+  "tema": "rastreamento",
+  "sub": "Câncer de pulmão, elegibilidade",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "USPSTF. Screening for Lung Cancer, 2021",
+  "coment": "A USPSTF (2021, grau B) recomenda tomografia de tórax de baixa dose anual para adultos de 50 a 80 anos com carga tabágica de pelo menos 20 maços-ano que fumam atualmente ou pararam há menos de 15 anos. O paciente tem 62 anos, 30 maços-ano (1,5 maço por 20 anos) e parou há 8 anos, preenchendo os três critérios. O rastreamento é interrompido quando se completam 15 anos sem fumar ou surge problema de saúde que limite a expectativa de vida. Radiografia e citologia de escarro não reduziram mortalidade.",
+  "porAlt": [
+   "Ex-fumante continua elegível até completar 15 anos de cessação.",
+   "Radiografia de tórax não reduziu mortalidade por câncer de pulmão nos ensaios.",
+   "O intervalo validado nos ensaios é anual, não trienal.",
+   "Citologia de escarro não tem benefício demonstrado como rastreamento.",
+   "Correta: 62 anos, 30 maços-ano e cessação há menos de 15 anos preenchem os critérios."
+  ]
+ },
+ {
+  "q": "Mulher de 55 anos, assintomática, fuma 15 cigarros por dia há 20 anos e ainda não decidiu parar. Pergunta se deve fazer tomografia para câncer de pulmão. Segundo a USPSTF de 2021, qual é a conduta mais adequada?",
+  "alts": [
+   "Indicar tomografia de baixa dose a cada dois anos",
+   "Indicar radiografia anual até atingir 20 maços-ano",
+   "Indicar tomografia ao completar 60 anos de idade",
+   "Indicar tomografia de baixa dose anual desde já",
+   "Não indicar a tomografia e priorizar a cessação"
+  ],
+  "gab": 4,
+  "tema": "rastreamento",
+  "sub": "Câncer de pulmão, carga tabágica",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "USPSTF. Screening for Lung Cancer, 2021",
+  "coment": "A carga tabágica é calculada multiplicando os maços por dia pelos anos de tabagismo: 15 cigarros equivalem a 0,75 maço, e 0,75 vezes 20 anos dá 15 maços-ano. Para a USPSTF (2021), o rastreamento com tomografia de baixa dose exige 50 a 80 anos e ao menos 20 maços-ano. Ela ainda não é elegível. A intervenção de maior impacto é a abordagem para cessação do tabagismo, que reduz o risco de câncer de pulmão, de doença cardiovascular e de DPOC.",
+  "porAlt": [
+   "Além de não ser elegível, o intervalo bienal não é o recomendado.",
+   "Radiografia de tórax não é método de rastreamento de câncer de pulmão.",
+   "A idade de início é 50 anos; o que falta aqui é a carga tabágica.",
+   "A tomografia anual exige carga mínima de 20 maços-ano, não preenchida.",
+   "Correta: 15 maços-ano não atingem o mínimo de 20, e parar de fumar é a prioridade."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos, ex-tabagista (parou há 10 anos), hipertenso controlado, assintomático, vem para consulta de rotina. Não tem exames de imagem abdominais prévios. Segundo a USPSTF de 2019, qual rastreamento está indicado para aneurisma de aorta abdominal?",
+  "alts": [
+   "Nenhum, pois ele parou de fumar há dez anos",
+   "Ultrassonografia de abdome uma única vez",
+   "Ultrassonografia de abdome anual até os 75 anos",
+   "Palpação abdominal anual, sem exame de imagem",
+   "Angiotomografia de aorta a cada cinco anos"
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "Aneurisma de aorta abdominal",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "USPSTF. Screening for Abdominal Aortic Aneurysm, 2019",
+  "coment": "A USPSTF (2019) recomenda, com grau B, ultrassonografia de abdome uma única vez para homens de 65 a 75 anos que já fumaram alguma vez na vida (100 cigarros ou mais). Ter parado de fumar não retira a indicação. Para homens que nunca fumaram, a decisão é seletiva; para mulheres que nunca fumaram, a recomendação é contrária. A ultrassonografia tem alta acurácia, sem radiação, e um exame normal nessa idade dispensa repetição. A palpação abdominal tem sensibilidade baixa.",
+  "porAlt": [
+   "O critério é ter fumado alguma vez, mesmo que tenha parado.",
+   "Correta: homem de 65 a 75 anos que já fumou faz uma ultrassonografia única.",
+   "Exame normal aos 65 a 75 anos não precisa ser repetido anualmente.",
+   "A palpação abdominal não tem sensibilidade suficiente para rastrear.",
+   "Angiotomografia expõe a radiação e contraste sem vantagem no rastreamento."
+  ]
+ },
+ {
+  "q": "A equipe de uma unidade de saúde revisa quem deve ser convidado para densitometria óssea. Segundo a USPSTF de 2025, para qual pessoa o rastreamento de osteoporose está recomendado?",
+  "alts": [
+   "Mulher de 66 anos, sem fratura prévia e sem sintomas",
+   "Homem de 70 anos, sem fatores de risco adicionais",
+   "Homem de 60 anos, por ter hipertensão arterial",
+   "Mulher de 45 anos, na pré-menopausa e sem fatores de risco",
+   "Mulher de 52 anos, pós-menopausa, sem nenhum fator de risco"
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "Osteoporose",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "USPSTF. Screening for Osteoporosis to Prevent Fractures, 2025",
+  "coment": "A USPSTF (2025) recomenda rastrear osteoporose em todas as mulheres a partir de 65 anos e em mulheres na pós-menopausa com menos de 65 anos que tenham risco aumentado de fratura, estimado por ferramenta como o FRAX ou por fatores como baixo peso, tabagismo, uso de corticoide ou fratura de quadril dos pais (ambos grau B). Para homens, a evidência é insuficiente. Mulheres antes dos 65 anos sem fatores de risco e na pré-menopausa não são rastreadas.",
+  "porAlt": [
+   "Correta: mulher a partir dos 65 anos tem indicação de rastreamento por idade.",
+   "Para homens, a USPSTF considera a evidência insuficiente para recomendar.",
+   "Hipertensão não é fator de risco que indique densitometria em homem.",
+   "Mulher na pré-menopausa sem fatores de risco não é rastreada.",
+   "Antes dos 65 anos, a pós-menopausa só indica o exame se houver risco aumentado."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos, assintomático, sem diabetes ou doença renal, procura a unidade para renovar a carteira de motorista. Na consulta, a PA medida corretamente é de 146/94 mmHg, a média de duas aferições. Nunca teve PA elevada registrada. Segundo a Diretriz Brasileira de Hipertensão Arterial de 2025, qual é a conduta?",
+  "alts": [
+   "Solicitar ecocardiograma para definir se há hipertensão",
+   "Iniciar monoterapia hoje e reavaliar em seis meses",
+   "Confirmar com MAPA ou MRPA antes de firmar o diagnóstico",
+   "Repetir a medida de consultório daqui a um ano",
+   "Firmar o diagnóstico e iniciar dois anti-hipertensivos hoje"
+  ],
+  "gab": 2,
+  "tema": "rastreamento",
+  "sub": "Rastreamento de HAS",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Cardiologia. Diretriz Brasileira de Hipertensão Arterial, 2025",
+  "coment": "Uma medida isolada de consultório não firma o diagnóstico de hipertensão. A Diretriz Brasileira de Hipertensão Arterial de 2025 exige confirmação por medidas em duas ou mais consultas, com intervalo de dias a semanas, ou, preferencialmente, por MAPA ou MRPA, que também identificam a hipertensão do avental branco. Só PA muito elevada ou lesão de órgão-alvo autorizam tratar sem nova confirmação. Ecocardiograma avalia lesão de órgão-alvo, não define o diagnóstico.",
+  "porAlt": [
+   "O ecocardiograma avalia hipertrofia ventricular, não confirma hipertensão.",
+   "Tratar sem confirmar arrisca medicar hipertensão do avental branco.",
+   "Correta: o diagnóstico exige confirmação, idealmente fora do consultório, por MAPA ou MRPA.",
+   "Adiar um ano deixa sem definição uma PA na faixa de hipertensão estágio 1.",
+   "Uma única consulta não basta para firmar o diagnóstico com PA de 146/94 mmHg."
+  ]
+ },
+ {
+  "q": "Homem de 36 anos, IMC de 23 kg/m², sem história familiar de diabetes, sem hipertensão, sem dislipidemia e sem sintomas, comparece para consulta preventiva. Nunca dosou glicemia. Segundo os Padrões de Cuidado da ADA de 2025, qual é a conduta quanto ao rastreamento de diabetes?",
+  "alts": [
+   "Rastrear quando surgirem poliúria ou polidipsia",
+   "Rastrear agora e, se normal, repetir em três anos",
+   "Rastrear agora com glicemia capilar anual",
+   "Não rastrear enquanto não houver sobrepeso",
+   "Rastrear a partir dos 45 anos de idade"
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "Rastreamento de diabetes",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "American Diabetes Association. Standards of Care in Diabetes, 2025",
+  "coment": "Desde 2022, a ADA recomenda rastrear diabetes em todos os adultos a partir de 35 anos, independentemente de outros fatores, e antes disso em adultos com sobrepeso ou obesidade e ao menos um fator de risco. Os exames aceitos são glicemia de jejum, HbA1c ou teste oral de tolerância à glicose. Com resultado normal, repete-se a cada três anos, ou antes se o risco mudar. Glicemia capilar não é método diagnóstico, e exame motivado por sintomas já é investigação, não rastreamento.",
+  "porAlt": [
+   "Exame feito por sintomas é diagnóstico, não rastreamento de assintomático.",
+   "Correta: a partir dos 35 anos todos são rastreados, com repetição trienal se normal.",
+   "Glicemia capilar não é exame validado para diagnóstico de diabetes.",
+   "Após os 35 anos, a idade isolada já indica o rastreamento, mesmo sem sobrepeso.",
+   "A idade de 45 anos era o critério antigo, reduzido para 35 pela ADA."
+  ]
+ },
+ {
+  "q": "Mulher de 48 anos, IMC de 31 kg/m², assintomática, faz exames de rastreamento: glicemia de jejum de 118 mg/dL e HbA1c de 6,1%. Função renal normal. Segundo a SBD e a ADA vigentes, qual é a interpretação e a conduta inicial?",
+  "alts": [
+   "Pré-diabetes; iniciar insulina basal em dose baixa ao deitar",
+   "Pré-diabetes; mudança de estilo de vida e reavaliação anual",
+   "Diabetes tipo 2 provável; confirmar com teste de tolerância",
+   "Diabetes tipo 2; iniciar metformina e repetir HbA1c em três meses",
+   "Normoglicemia; repetir o rastreamento em três anos"
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "Pré-diabetes",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Diabetes. Diretriz da SBD, 2024; American Diabetes Association. Standards of Care in Diabetes, 2025",
+  "coment": "Pré-diabetes corresponde a glicemia de jejum de 100 a 125 mg/dL, HbA1c de 5,7% a 6,4% ou glicemia de 2 horas no teste de tolerância de 140 a 199 mg/dL. Os dois valores da paciente estão nessas faixas e nenhum atinge o corte de diabetes (126 mg/dL e 6,5%). A conduta central é mudança de estilo de vida, com meta de perda de cerca de 7% do peso e 150 minutos semanais de atividade física, com reavaliação ao menos anual. Metformina pode ser considerada em casos selecionados, mas insulina não tem lugar.",
+  "porAlt": [
+   "Insulina não é tratamento de pré-diabetes em nenhuma diretriz.",
+   "Correta: jejum de 100 a 125 e HbA1c de 5,7% a 6,4% definem pré-diabetes, tratado com estilo de vida.",
+   "Não há valor diagnóstico de diabetes a confirmar com teste de tolerância.",
+   "Nenhum valor atingiu os cortes de 126 mg/dL ou 6,5% que definem diabetes.",
+   "Os valores estão acima do normal, e o intervalo de três anos subestima o risco."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos, tabagista, sem doença cardiovascular estabelecida, sem diabetes, LDL de 150 mg/dL, com risco cardiovascular estimado em 10 anos de 12%. Segundo a USPSTF de 2022 para prevenção primária, qual é a conduta farmacológica recomendada?",
+  "alts": [
+   "Iniciar estatina quando o LDL passar de 190",
+   "Iniciar AAS em dose baixa como prevenção",
+   "Não usar estatina antes de risco de 20%",
+   "Iniciar ezetimiba como primeira opção",
+   "Iniciar estatina de intensidade moderada"
+  ],
+  "gab": 4,
+  "tema": "rastreamento",
+  "sub": "Estatina em prevenção primária",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "USPSTF. Statin Use for the Primary Prevention of Cardiovascular Disease in Adults, 2022",
+  "coment": "A USPSTF (2022) recomenda estatina para adultos de 40 a 75 anos, sem doença cardiovascular, com ao menos um fator de risco (dislipidemia, diabetes, hipertensão ou tabagismo) e risco em 10 anos de 10% ou mais (grau B); de 7,5% a 10%, a decisão é individual (grau C). O paciente tem 55 anos, é tabagista e tem risco de 12%. A estatina de intensidade moderada é a escolha usual. LDL de 190 mg/dL ou mais indica tratamento por si só, mas não é o limiar exigido aqui. AAS de rotina em prevenção primária não é mais recomendado.",
+  "porAlt": [
+   "LDL de 190 é indicação isolada, mas não é exigido quando o risco global já é alto.",
+   "AAS de rotina em prevenção primária deixou de ser recomendado pelo sangramento.",
+   "O limiar de 20% é antigo e não corresponde à recomendação de 2022.",
+   "Ezetimiba é terapia adicional, não primeira escolha em prevenção primária.",
+   "Correta: idade de 40 a 75, fator de risco e risco de 10% ou mais indicam estatina."
+  ]
+ },
+ {
+  "q": "Mulher de 40 anos, assintomática, sem história familiar relevante, traz uma lista de exames de rotina pedidos por conta própria: CA-125, ultrassonografia transvaginal, eletrocardiograma, radiografia de tórax e hemograma. Ela tem citologia em dia e não fuma. Qual é a conduta mais adequada do médico de família?",
+  "alts": [
+   "Solicitar eletrocardiograma e radiografia de tórax todo ano",
+   "Explicar que esses exames não trazem benefício e não solicitá-los",
+   "Solicitar CA-125 e ultrassonografia transvaginal todo ano",
+   "Solicitar painel genético amplo para câncer hereditário",
+   "Solicitar todos, porque o custo de cada exame no SUS é baixo"
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "Check-up sem evidência",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Krogsbøll LT, Jørgensen KJ, Gøtzsche PC. General health checks in adults. Cochrane Database Syst Rev, 2019",
+  "coment": "Revisão Cochrane de 2019 mostrou que check-ups gerais em adultos assintomáticos não reduzem mortalidade total, cardiovascular ou por câncer. CA-125 e ultrassonografia transvaginal não reduziram mortalidade por câncer de ovário em ensaios e geraram cirurgias desnecessárias; eletrocardiograma e radiografia de tórax em assintomático de baixo risco geram falsos-positivos e cascatas de exames. Recusar com explicação e oferecer o que tem evidência para a idade é prevenção quaternária. Painel genético exige critérios de risco familiar.",
+  "porAlt": [
+   "ECG e radiografia de rotina em baixo risco não melhoram desfechos.",
+   "Correta: exames sem benefício em assintomáticos geram dano e não devem ser solicitados.",
+   "CA-125 e ultrassonografia não reduziram mortalidade por câncer de ovário.",
+   "Teste genético depende de critérios de risco familiar, ausentes no caso.",
+   "Custo baixo por exame não justifica falsos-positivos e cascatas de investigação."
+  ]
+ },
+ {
+  "q": "Em um seminário sobre rastreamento de câncer, discute-se a diferença entre os danos do rastreamento. Qual situação caracteriza o sobrediagnóstico?",
+  "alts": [
+   "Exame positivo em que a biópsia posterior mostra lesão benigna",
+   "Câncer verdadeiro detectado que nunca causaria sintomas ou morte",
+   "Tratamento além do necessário em doença avançada e sintomática",
+   "Câncer detectado tarde por causa de um exame falso-negativo",
+   "Câncer diagnosticado por sintomas entre duas rodadas de exame"
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "Sobrediagnóstico",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Welch HG, Black WC. Overdiagnosis in cancer. J Natl Cancer Inst, 2010",
+  "coment": "Sobrediagnóstico é o diagnóstico correto, confirmado em anatomia patológica, de uma doença que não evoluiria a ponto de causar sintomas ou morte durante a vida da pessoa. Não é erro do exame: a lesão existe, mas é indolente ou a pessoa morre antes por outra causa. Isso o distingue do falso-positivo, em que a investigação mostra que não havia câncer. O exemplo clássico é o aumento de dez vezes na incidência de câncer de tireoide na Coreia do Sul, com mortalidade estável. O sobrediagnóstico leva ao sobretratamento.",
+  "porAlt": [
+   "Exame positivo sem câncer na biópsia é falso-positivo, não sobrediagnóstico.",
+   "Correta: a doença é real, mas não teria repercussão na vida da pessoa.",
+   "Excesso de tratamento em doença sintomática não é diagnóstico de lesão indolente.",
+   "Falso-negativo é falha em detectar doença presente, o oposto do conceito.",
+   "Câncer surgido entre rodadas por sintomas é o câncer de intervalo."
+  ]
+ },
+ {
+  "q": "Mulher de 42 anos, sem diabetes, sem doença renal e sem doença cardiovascular, tem MRPA confirmando PA média de 132/84 mmHg. Risco cardiovascular estimado baixo. Não usa medicamentos. Segundo a Diretriz Brasileira de Hipertensão Arterial de 2025, como se classifica a PA e qual é a conduta?",
+  "alts": [
+   "Hipertensão estágio 1; iniciar monoterapia em dose baixa",
+   "Pré-hipertensão; mudança de estilo de vida e reavaliação",
+   "Pressão normal; nova aferição daqui a cinco anos",
+   "Hipertensão estágio 1; iniciar dois fármacos combinados",
+   "Pressão limítrofe; iniciar diurético tiazídico em dose baixa"
+  ],
+  "gab": 1,
+  "tema": "cronicas",
+  "sub": "Classificação da PA 2025",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Cardiologia. Diretriz Brasileira de Hipertensão Arterial, 2025",
+  "coment": "A Diretriz Brasileira de Hipertensão Arterial de 2025 classifica a PA como normal abaixo de 120/80 mmHg, pré-hipertensão com PAS de 120 a 139 e/ou PAD de 80 a 89 mmHg, e hipertensão a partir de 140/90 mmHg, dividida em estágios 1, 2 e 3. Na pré-hipertensão de baixo risco, a conduta é não farmacológica: redução de sódio, padrão alimentar saudável, atividade física, controle de peso e de álcool, com reavaliação periódica. Fármacos na faixa de 130 a 139/80 a 89 ficam para quem tem risco cardiovascular alto e não controla com 3 meses de medidas.",
+  "porAlt": [
+   "Hipertensão estágio 1 começa em 140/90 mmHg, valor não atingido.",
+   "Correta: 132/84 mmHg é pré-hipertensão, tratada com estilo de vida quando o risco é baixo.",
+   "Pressão normal na diretriz de 2025 é abaixo de 120/80 mmHg.",
+   "Não há hipertensão, e combinar fármacos aqui seria tratamento excessivo.",
+   "Pressão limítrofe é termo superado, e não há indicação de fármaco no baixo risco."
+  ]
+ },
+ {
+  "q": "Homem de 74 anos, independente, sem fragilidade, hipertenso em uso de losartana e anlodipino, sem hipotensão postural, tem PA de consultório de 138/82 mmHg e MRPA com média semelhante. Pergunta se a pressão está controlada. Segundo a Diretriz Brasileira de Hipertensão Arterial de 2025, qual é a meta pressórica para ele?",
+  "alts": [
+   "PA menor que 130/80 mmHg",
+   "PA menor que 150/90 mmHg após os 65 anos",
+   "PA menor que 135/85 mmHg por ser idoso",
+   "PA menor que 140/90 mmHg pela idade",
+   "PA menor que 120/70 mmHg para todos"
+  ],
+  "gab": 0,
+  "tema": "cronicas",
+  "sub": "Meta pressórica 2025",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Cardiologia. Diretriz Brasileira de Hipertensão Arterial, 2025",
+  "coment": "A Diretriz Brasileira de Hipertensão Arterial de 2025 simplificou o alvo: meta de PA de 130/80 mmHg para todos os hipertensos, independentemente do risco cardiovascular e da idade, desde que o tratamento seja tolerado. Em idosos frágeis, com hipotensão ortostática sintomática ou muito idosos, a meta é individualizada. Este paciente de 74 anos é independente e sem hipotensão postural, logo deve buscar valores abaixo de 130/80 mmHg, o que pede ajuste do esquema. Metas mais frouxas por idade isolada são de diretrizes anteriores.",
+  "porAlt": [
+   "Correta: a meta de 2025 é 130/80 mmHg para todos, com individualização só para frágeis.",
+   "Meta de 150/90 mmHg para idosos foi abandonada pelas diretrizes atuais.",
+   "Meta de 135/85 mmHg corresponde ao limiar diagnóstico da MRPA, não ao alvo.",
+   "Meta de 140/90 mmHg pela idade isolada é critério de diretrizes anteriores.",
+   "Meta de 120/70 mmHg para todos não é a proposta pela diretriz brasileira."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos, sem comorbidades, tem hipertensão confirmada por MAPA, com PA de consultório de 166/102 mmHg. Exames iniciais normais, sem lesão de órgão-alvo. Não há contraindicação a nenhuma classe. Segundo a Diretriz Brasileira de Hipertensão Arterial de 2025, qual é o tratamento farmacológico inicial preferencial?",
+  "alts": [
+   "Estilo de vida por seis meses antes de iniciar o fármaco",
+   "Betabloqueador em monoterapia como escolha no estágio 2",
+   "Monoterapia com tiazídico em dose plena e reavaliar em três meses",
+   "Dois fármacos em dose baixa, de preferência em comprimido único",
+   "IECA associado a BRA, para duplo bloqueio do sistema renina"
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "Terapia combinada inicial",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Cardiologia. Diretriz Brasileira de Hipertensão Arterial, 2025",
+  "coment": "A Diretriz Brasileira de Hipertensão Arterial de 2025 recomenda iniciar com combinação de dois fármacos em doses baixas para a maioria dos hipertensos, preferencialmente em comprimido único, o que aumenta a eficácia, reduz efeitos adversos dose-dependentes e melhora a adesão. As combinações preferenciais unem IECA ou BRA a um bloqueador dos canais de cálcio ou a um diurético tiazídico. A monoterapia fica para estágio 1 de baixo risco, pessoas com 80 anos ou mais, frágeis ou com hipotensão ortostática sintomática. O duplo bloqueio IECA com BRA é contraindicado.",
+  "porAlt": [
+   "Com PA de 166/102 mmHg o fármaco é indicado de imediato, junto do estilo de vida.",
+   "Betabloqueador não é primeira escolha sem indicação específica, como coronariopatia.",
+   "Monoterapia fica para baixo risco em estágio 1, idosos acima de 80 ou frágeis.",
+   "Correta: a maioria inicia com dois fármacos em dose baixa, idealmente em comprimido único.",
+   "IECA com BRA aumenta hipercalemia e lesão renal sem benefício, sendo contraindicado."
+  ]
+ },
+ {
+  "q": "Homem de 61 anos, com doença renal crônica estágio 3a e albuminúria de 120 mg/g, tem MRPA com média de 136/86 mmHg. Há 3 meses segue orientação de redução de sal, caminhadas e perda de peso, sem atingir o alvo. Segundo a Diretriz Brasileira de Hipertensão Arterial de 2025, qual é a conduta?",
+  "alts": [
+   "Manter o estilo de vida por mais seis meses, sem fármaco",
+   "Encaminhar ao nefrologista antes de iniciar o fármaco",
+   "Iniciar tratamento farmacológico e manter o estilo de vida",
+   "Aguardar PA de 140/90 mmHg para iniciar fármaco",
+   "Reclassificar como normal, pois a PA está abaixo de 140"
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "Pré-hipertensão de alto risco",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Cardiologia. Diretriz Brasileira de Hipertensão Arterial, 2025",
+  "coment": "Na Diretriz Brasileira de Hipertensão Arterial de 2025, pessoas com PA de 130 a 139/80 a 89 mmHg e risco cardiovascular alto, como as que têm doença renal crônica com albuminúria, diabetes com lesão de órgão-alvo ou doença cardiovascular, recebem tratamento farmacológico se a PA não for controlada após 3 meses de medidas de estilo de vida. Neste caso, um IECA ou BRA é preferido pela albuminúria. O acompanhamento da doença renal estágio 3a pode seguir na APS, sem condicionar o tratamento ao especialista.",
+  "porAlt": [
+   "Prolongar só o estilo de vida atrasa a proteção renal e cardiovascular.",
+   "Doença renal estágio 3a com albuminúria moderada pode ser tratada na APS.",
+   "Correta: alto risco e 3 meses sem controle na faixa de 130 a 139/80 a 89 indicam fármaco.",
+   "Para alto risco, o limiar de tratamento é menor que 140/90 mmHg.",
+   "Abaixo de 140/90 não é normal; 136/86 mmHg é pré-hipertensão."
+  ]
+ },
+ {
+  "q": "Mulher de 54 anos, sem doença cardiovascular estabelecida, sem diabetes e sem doença renal, tem pré-hipertensão. O médico de família quer estimar o risco cardiovascular em 10 anos para orientar a intensidade das intervenções. Qual calculadora a Diretriz Brasileira de Hipertensão Arterial de 2025 adota para essa estimativa?",
+  "alts": [
+   "Escore de Risco Global de Framingham, de 2008",
+   "SCORE2, da Sociedade Europeia de Cardiologia",
+   "QRISK3, do sistema de saúde do Reino Unido",
+   "Escore PREVENT, da American Heart Association",
+   "Escore de Reynolds, que inclui a PCR ultrassensível"
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "Estratificação de risco CV",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Cardiologia. Diretriz Brasileira de Hipertensão Arterial, 2025",
+  "coment": "A Diretriz Brasileira de Hipertensão Arterial de 2025 adota o escore PREVENT, publicado pela American Heart Association em 2023, para estimar o risco cardiovascular em pessoas sem doença estabelecida. Ele usa idade, sexo, colesterol total e HDL, PA sistólica, tratamento anti-hipertensivo, diabetes, tabagismo, IMC e taxa de filtração glomerular, e estima risco de doença aterosclerótica e de insuficiência cardíaca. Quem já tem doença cardiovascular aterosclerótica não precisa de calculadora, pois já é de alto risco.",
+  "porAlt": [
+   "O Framingham global era a referência de diretrizes brasileiras anteriores.",
+   "O SCORE2 é a ferramenta europeia, não a adotada pela diretriz brasileira.",
+   "O QRISK3 é usado no Reino Unido e não foi o escolhido no Brasil.",
+   "Correta: a diretriz brasileira de 2025 incorporou o PREVENT para prevenção primária.",
+   "O escore de Reynolds não é adotado por diretrizes brasileiras atuais."
+  ]
+ },
+ {
+  "q": "Mulher de 51 anos, assintomática, faz exames de rotina na unidade: glicemia de jejum de 131 mg/dL e HbA1c de 6,7%, ambas colhidas na mesma amostra de sangue. Não há sintomas de hiperglicemia. Segundo a ADA de 2025, como interpretar esse resultado?",
+  "alts": [
+   "Diabetes provável, a confirmar com nova HbA1c em três meses",
+   "Pré-diabetes, pois a HbA1c ficou abaixo de 7,0%",
+   "Diabetes provável, a confirmar com teste de tolerância",
+   "Glicemia de jejum alterada; repetir exames em um ano",
+   "Diabetes confirmado, sem necessidade de novo exame"
+  ],
+  "gab": 4,
+  "tema": "cronicas",
+  "sub": "Diagnóstico de diabetes",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Diabetes Association. Standards of Care in Diabetes, 2025",
+  "coment": "Em pessoa sem hiperglicemia inequívoca, o diagnóstico de diabetes exige dois resultados alterados. A ADA aceita que sejam dois testes diferentes na mesma amostra: glicemia de jejum de 126 mg/dL ou mais e HbA1c de 6,5% ou mais confirmam o diagnóstico ao mesmo tempo. Se apenas um estivesse alterado, ele deveria ser repetido. O corte de 7,0% é meta de tratamento, não critério diagnóstico. Teste de tolerância é útil quando os outros testes são discordantes ou limítrofes.",
+  "porAlt": [
+   "Repetir a HbA1c só seria preciso se apenas um dos testes estivesse alterado.",
+   "O valor de 7,0% é meta de controle, e o corte diagnóstico de HbA1c é 6,5%.",
+   "O teste de tolerância não é necessário quando os dois exames já são concordantes.",
+   "Glicemia de 131 mg/dL ultrapassa a faixa de jejum alterada, que termina em 125.",
+   "Correta: dois testes diferentes alterados na mesma amostra já confirmam o diagnóstico."
+  ]
+ },
+ {
+  "q": "Homem de 49 anos, IMC de 31 kg/m², recebe diagnóstico de diabetes tipo 2 com HbA1c de 7,8%. Não tem doença cardiovascular, insuficiência cardíaca ou doença renal; TFG de 92 mL/min/1,73 m². Assintomático. Qual é o tratamento inicial mais adequado segundo a ADA de 2025?",
+  "alts": [
+   "Insulina NPH ao deitar desde o diagnóstico",
+   "Sulfonilureia como primeira escolha",
+   "Pioglitazona para reduzir a resistência insulínica",
+   "Dieta por seis meses antes de iniciar o fármaco",
+   "Metformina associada à mudança de estilo de vida"
+  ],
+  "gab": 4,
+  "tema": "cronicas",
+  "sub": "DM2, tratamento inicial",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American Diabetes Association. Standards of Care in Diabetes, 2025",
+  "coment": "No diabetes tipo 2 sem doença cardiovascular aterosclerótica, insuficiência cardíaca ou doença renal crônica e com HbA1c pouco acima da meta, a ADA de 2025 mantém a metformina como opção inicial eficaz, barata, sem hipoglicemia e disponível no SUS, sempre junto de mudança de estilo de vida. A perda de peso é objetivo central, e agonistas do GLP-1 são alternativa ou associação quando o peso é prioridade e há acesso. Insulina inicial fica para catabolismo ou HbA1c acima de 10%, e adiar fármaco prolonga a hiperglicemia.",
+  "porAlt": [
+   "Insulina inicial fica para catabolismo ou HbA1c acima de 10%, ausentes aqui.",
+   "Sulfonilureia causa hipoglicemia e ganho de peso, sem ser a primeira opção.",
+   "Pioglitazona causa ganho de peso e retenção hídrica e não é a escolha inicial.",
+   "Com HbA1c de 7,8%, adiar o fármaco por seis meses prolonga a hiperglicemia.",
+   "Correta: metformina e estilo de vida são o início usual sem comorbidade cardiorrenal."
+  ]
+ },
+ {
+  "q": "Homem de 63 anos, com diabetes tipo 2 há 8 anos e infarto do miocárdio há 2 anos, usa metformina 2 g por dia. HbA1c de 6,9%, TFG de 70 mL/min/1,73 m², sem insuficiência cardíaca. Segundo a ADA de 2025, qual é a conduta mais adequada em relação ao tratamento do diabetes?",
+  "alts": [
+   "Associar pioglitazona como primeira opção de proteção",
+   "Associar iSGLT2 ou aGLP-1 com benefício cardiovascular",
+   "Trocar a metformina por insulina pela doença coronariana",
+   "Manter a metformina sem acréscimo, pois a HbA1c está na meta",
+   "Associar sulfonilureia para levar a HbA1c abaixo de 6%"
+  ],
+  "gab": 1,
+  "tema": "cronicas",
+  "sub": "DM2 com doença aterosclerótica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Diabetes Association. Standards of Care in Diabetes, 2025",
+  "coment": "Para pessoas com diabetes tipo 2 e doença cardiovascular aterosclerótica estabelecida, a ADA de 2025 recomenda um agonista do GLP-1 ou um inibidor do SGLT2 com benefício cardiovascular comprovado, independentemente da HbA1c e do uso de metformina. O objetivo é reduzir eventos cardiovasculares, não apenas a glicemia. Por isso, estar na meta glicêmica não dispensa a associação. Intensificar com sulfonilureia buscando HbA1c abaixo de 6% aumenta hipoglicemia sem proteção cardiovascular.",
+  "porAlt": [
+   "Pioglitazona não é a classe priorizada para proteção cardiovascular.",
+   "Correta: doença aterosclerótica indica essas classes mesmo com HbA1c na meta.",
+   "Insulina não oferece proteção cardiovascular e não substitui a metformina aqui.",
+   "A meta glicêmica atingida não dispensa a proteção cardiovascular indicada.",
+   "HbA1c abaixo de 6% com sulfonilureia aumenta hipoglicemia sem reduzir eventos."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos chega à unidade com poliúria, polidipsia e perda de 6 kg em 2 meses. Glicemia de jejum de 342 mg/dL e HbA1c de 11,2%. Sem cetonúria, consciente e hidratada, sinais vitais normais. Segundo a ADA de 2025, qual é a conduta inicial mais adequada?",
+  "alts": [
+   "Iniciar insulina, além da metformina, pelo catabolismo",
+   "Iniciar metformina em monoterapia e reavaliar em três meses",
+   "Encaminhar ao endocrinologista antes de iniciar o fármaco",
+   "Iniciar sulfonilureia em dose máxima e reavaliar",
+   "Prescrever dieta e atividade física por um mês, sem fármaco"
+  ],
+  "gab": 0,
+  "tema": "cronicas",
+  "sub": "Insulinização inicial",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Diabetes Association. Standards of Care in Diabetes, 2025",
+  "coment": "A ADA de 2025 recomenda considerar insulina já no início quando há sintomas de catabolismo, como perda de peso, ou quando a HbA1c passa de 10% ou a glicemia atinge 300 mg/dL ou mais. A paciente preenche os três critérios. A insulina basal, associada à metformina, corrige a glicotoxicidade com rapidez e pode ser reduzida depois do controle. Sem cetose, desidratação ou alteração de consciência, o manejo pode ser ambulatorial na APS, sem depender de encaminhamento prévio.",
+  "porAlt": [
+   "Correta: perda de peso, HbA1c acima de 10% e glicemia acima de 300 indicam insulina inicial.",
+   "Metformina isolada não corrige a tempo uma hiperglicemia catabólica dessa magnitude.",
+   "Sem cetose ou instabilidade, a insulinização pode começar na própria APS.",
+   "Sulfonilureia é pouco eficaz na glicotoxicidade e aumenta o risco de hipoglicemia.",
+   "Adiar o fármaco mantém o catabolismo e o risco de descompensação."
+  ]
+ },
+ {
+  "q": "Homem de 56 anos recebe hoje o diagnóstico de diabetes tipo 2 na unidade de saúde. Está assintomático, sem queixas visuais ou nos pés. Segundo a ADA de 2025, quais avaliações de complicações crônicas devem ser feitas já no momento do diagnóstico?",
+  "alts": [
+   "Albuminúria, deixando retina e pés para quando houver queixa",
+   "Retina, albuminúria, TFG e exame dos pés com monofilamento",
+   "Exame dos pés, deixando a retina para cinco anos depois",
+   "Ecocardiograma e teste ergométrico antes de iniciar o tratamento",
+   "Eletroneuromiografia dos membros e retinografia a cada seis meses"
+  ],
+  "gab": 1,
+  "tema": "cronicas",
+  "sub": "Complicações crônicas do DM",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "American Diabetes Association. Standards of Care in Diabetes, 2025",
+  "coment": "Como o diabetes tipo 2 costuma existir por anos antes do diagnóstico, a ADA de 2025 recomenda já no diagnóstico: exame de retina por oftalmologista ou retinografia, relação albumina/creatinina urinária e TFG, e exame completo dos pés com monofilamento de 10 g e mais um teste de sensibilidade, repetindo anualmente se normais. O adiamento de 5 anos para a retina vale para o diabetes tipo 1. Testes cardíacos de rotina em assintomático não são recomendados, e a eletroneuromiografia não é exame de rastreamento.",
+  "porAlt": [
+   "Esperar queixas visuais ou nos pés perde lesões que são assintomáticas no início.",
+   "Correta: no DM2 retina, rim e pés são avaliados já no diagnóstico e depois anualmente.",
+   "Esperar 5 anos para a retina é regra do diabetes tipo 1, não do tipo 2.",
+   "Testes cardíacos de rotina em assintomático não mudam desfechos.",
+   "Eletroneuromiografia não é exame de rastreamento de neuropatia diabética."
+  ]
+ },
+ {
+  "q": "Durante consulta por lombalgia, homem de 39 anos conta que fuma 20 cigarros por dia há 15 anos. Perguntado, diz que não pensa em parar agora. O médico de família tem poucos minutos. Segundo o Ministério da Saúde, qual é a conduta mais adequada em relação ao tabagismo?",
+  "alts": [
+   "Encaminhar ao grupo de tratamento, mesmo sem a sua aceitação",
+   "Prescrever bupropiona para estimular a decisão de parar",
+   "Aplicar o teste de Fagerström e iniciar adesivo de 21 mg",
+   "Aconselhar parar de forma breve e retomar o tema depois",
+   "Evitar o assunto até que ele mesmo peça ajuda para parar"
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "Abordagem breve",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 40: o cuidado da pessoa tabagista, 2015",
+  "coment": "A abordagem breve ou mínima, de 3 a 5 minutos, deve ocorrer em toda consulta e segue o roteiro de perguntar, avaliar, aconselhar e preparar, com acompanhamento posterior. Em quem ainda não considera parar (estágio pré-contemplativo), o objetivo é registrar o tabagismo, dar conselho claro e personalizado e deixar a porta aberta, retomando o tema nas consultas seguintes, sem confronto. Fármacos são indicados a quem decidiu parar, e o encaminhamento ao grupo depende da adesão voluntária.",
+  "porAlt": [
+   "O tratamento em grupo depende da adesão voluntária da pessoa.",
+   "Bupropiona é para quem decidiu parar, não para estimular a decisão.",
+   "Iniciar adesivo sem decisão de parar não é a conduta do protocolo.",
+   "Correta: em pré-contemplação faz-se aconselhamento breve e se retoma o tema depois.",
+   "Esperar a iniciativa do paciente perde a oportunidade de toda consulta."
+  ]
+ },
+ {
+  "q": "Mulher de 44 anos decidiu parar de fumar e marcou a data para a próxima semana. Fuma 25 cigarros por dia, acende o primeiro cigarro 5 minutos após acordar e tem escore de Fagerström de 8. Não tem contraindicações. Segundo o PCDT do Tabagismo do Ministério da Saúde, qual esquema de reposição de nicotina é o mais adequado para iniciar?",
+  "alts": [
+   "Adesivo de 14 mg/dia, retirado ao sentir fissura intensa",
+   "Adesivo de 21 mg/dia, mantendo cinco cigarros por dia",
+   "Adesivo de 7 mg/dia, aumentando se houver abstinência",
+   "Goma de 2 mg sem adesivo, até 30 unidades ao dia",
+   "Adesivo de 21 mg/dia, com goma ou pastilha nas fissuras"
+  ],
+  "gab": 4,
+  "tema": "cronicas",
+  "sub": "Reposição de nicotina",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas do Tabagismo (Portaria Conjunta SAES/SCTIE nº 10), 2020",
+  "coment": "Pelo PCDT do Tabagismo (2020), fumantes pesados, como esta paciente com 25 cigarros por dia, iniciam adesivo de nicotina de 21 mg/dia no dia da parada, com redução gradual para 14 mg e 7 mg ao longo de semanas. Goma ou pastilha de 2 mg podem ser associadas para fissuras pontuais. Fagerström de 8 a 10 indica dependência muito elevada, o que reforça a dose plena e a associação. O adesivo deve ser trocado diariamente e não retirado por fissura, e fumar durante o uso aumenta efeitos adversos.",
+  "porAlt": [
+   "14 mg subdosa a reposição, e o adesivo não é removido diante de fissura.",
+   "Manter cigarros com o adesivo eleva efeitos adversos e não é a estratégia proposta.",
+   "Iniciar com 7 mg subdosa a reposição em dependência muito elevada.",
+   "Goma isolada em alta frequência é pouco eficaz para dependência dessa intensidade.",
+   "Correta: com 25 cigarros por dia, inicia-se adesivo de 21 mg, com forma rápida nas fissuras."
+  ]
+ },
+ {
+  "q": "Homem de 47 anos, com epilepsia em uso de carbamazepina e última crise convulsiva há 2 anos, decidiu parar de fumar e pede a bupropiona que ajudou um amigo. Fuma 15 cigarros por dia. Segundo o PCDT do Tabagismo do Ministério da Saúde, qual é a conduta farmacológica mais adequada?",
+  "alts": [
+   "Usar metade da dose de bupropiona, com eletroencefalograma",
+   "Usar bupropiona associada a benzodiazepínico como proteção",
+   "Usar bupropiona em dose plena, pois a epilepsia está controlada",
+   "Adiar a cessação até suspender o anticonvulsivante",
+   "Evitar a bupropiona e usar reposição de nicotina"
+  ],
+  "gab": 4,
+  "tema": "cronicas",
+  "sub": "Contraindicação da bupropiona",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas do Tabagismo (Portaria Conjunta SAES/SCTIE nº 10), 2020",
+  "coment": "A bupropiona reduz o limiar convulsivo e é contraindicada em pessoas com epilepsia ou história de convulsão, transtornos alimentares como bulimia e anorexia, uso de inibidor da MAO nos últimos 14 dias e retirada abrupta de álcool ou benzodiazepínico. Controle das crises ou redução de dose não eliminam o risco. A terapia de reposição de nicotina, segura nesse contexto, é a opção, associada à abordagem cognitivo-comportamental. Postergar a cessação mantém o principal fator de risco modificável.",
+  "porAlt": [
+   "Reduzir a dose ou monitorar com exame não elimina a contraindicação.",
+   "Benzodiazepínico não torna segura uma droga contraindicada e acrescenta riscos.",
+   "O controle das crises não remove o risco de convulsão induzida pela bupropiona.",
+   "Não há motivo para adiar a cessação se existe opção segura disponível.",
+   "Correta: epilepsia contraindica a bupropiona, e a reposição de nicotina é segura."
+  ]
+ },
+ {
+  "q": "Mulher de 81 anos, com hipertensão, diabetes tipo 2, hipotireoidismo e angioplastia coronariana há 4 meses, usa 10 medicamentos e teve duas quedas no último trimestre. PA de 128/76 mmHg sem hipotensão postural, HbA1c de 7,2%, TFG de 64 mL/min/1,73 m². Usa clonazepam 2 mg à noite há 6 anos para dormir. Pelos Critérios de Beers, qual medicamento deve ser priorizado para desprescrição?",
+  "alts": [
+   "Levotiroxina do hipotireoidismo",
+   "AAS iniciado após a angioplastia",
+   "Anlodipino, que controla a pressão",
+   "Clonazepam, com retirada gradual",
+   "Metformina, com TFG preservada"
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "Polifarmácia e Beers",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American Geriatrics Society. Beers Criteria for Potentially Inappropriate Medication Use in Older Adults, 2023",
+  "coment": "Os Critérios de Beers (AGS, 2023) recomendam evitar benzodiazepínicos em idosos, pelo aumento de comprometimento cognitivo, delirium, quedas e fraturas, especialmente em quem já caiu. Na desprescrição, prioriza-se o fármaco com maior dano provável e menor benefício para os objetivos da pessoa. Os demais têm indicação atual: o anlodipino mantém a PA na meta sem hipotensão, a levotiroxina trata deficiência hormonal, o AAS é essencial após angioplastia recente e a metformina segue segura com TFG acima de 45. A retirada do benzodiazepínico após uso prolongado deve ser gradual.",
+  "porAlt": [
+   "Suspender a levotiroxina descompensaria o hipotireoidismo confirmado.",
+   "O AAS após angioplastia recente previne trombose e eventos coronarianos.",
+   "O anlodipino tem indicação atual e não há hipotensão postural que justifique a retirada.",
+   "Correta: benzodiazepínico em idosa com quedas é o principal alvo de desprescrição.",
+   "A metformina é segura com essa TFG e mantém o controle glicêmico."
+  ]
+ },
+ {
+  "q": "Homem de 72 anos usa lorazepam 2 mg à noite há 8 anos para insônia. Após conversa sobre quedas e memória, aceita retirar o remédio. Não tem epilepsia, abuso de álcool nem transtorno de ansiedade ativo. Segundo a diretriz canadense de desprescrição de agonistas de receptor benzodiazepínico, qual é a estratégia de retirada mais adequada?",
+  "alts": [
+   "Manter a dose, pois a retirada é perigosa",
+   "Reduzir 50% por semana, zerando em 15 dias",
+   "Reduzir cerca de 25% a cada duas semanas",
+   "Trocar por benzodiazepínico de meia-vida curta",
+   "Suspender de uma vez e trocar por zolpidem"
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "Desprescrição de benzodiazepínico",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Pottie K et al. Deprescribing benzodiazepine receptor agonists: evidence-based clinical practice guideline. Can Fam Physician, 2018",
+  "coment": "A diretriz canadense de 2018 recomenda oferecer desprescrição a idosos que usam benzodiazepínico ou fármaco Z para insônia, com redução gradual: cerca de 25% a cada duas semanas e, perto do fim, decréscimos de 12,5%, com pausas se surgirem sintomas de abstinência. Suspensão abrupta após uso prolongado pode causar insônia rebote, ansiedade e convulsões. Trocar por zolpidem ou por outro benzodiazepínico mantém o mesmo risco de quedas. Higiene do sono e terapia cognitivo-comportamental para insônia apoiam a retirada.",
+  "porAlt": [
+   "A retirada gradual é segura e beneficia o idoso que deseja parar.",
+   "Reduzir 50% por semana é rápido demais para quem usa há 8 anos.",
+   "Correta: a retirada é gradual, em torno de 25% a cada duas semanas, com pausas se preciso.",
+   "Meia-vida curta piora a abstinência e mantém o risco de quedas.",
+   "A suspensão abrupta após anos de uso arrisca abstinência e convulsões, e o zolpidem tem riscos semelhantes."
+  ]
+ },
+ {
+  "q": "Mulher de 58 anos usa omeprazol 40 mg por dia há 2 anos, iniciado por pirose. A endoscopia da época não mostrou esofagite, e ela está sem sintomas há mais de 1 ano. Não tem esôfago de Barrett, sangramento digestivo prévio nem usa AINE ou antiagregante. Segundo a diretriz canadense de desprescrição de IBP, qual é a conduta?",
+  "alts": [
+   "Reduzir a dose ou suspender, com uso sob demanda",
+   "Repetir a endoscopia antes de mudar a dose",
+   "Trocar o omeprazol por pantoprazol em dose plena",
+   "Suspender e iniciar antiácido diário contínuo",
+   "Manter o omeprazol 40 mg por tempo indeterminado"
+  ],
+  "gab": 0,
+  "tema": "cronicas",
+  "sub": "Desprescrição de IBP",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Farrell B et al. Deprescribing proton pump inhibitors: evidence-based clinical practice guideline. Can Fam Physician, 2017",
+  "coment": "Para adultos com sintomas de refluxo ou esofagite leve a moderada que completaram ao menos 4 semanas de IBP e estão assintomáticos, a diretriz canadense de 2017 recomenda reduzir a dose diária ou suspender e usar sob demanda quando os sintomas voltarem. A desprescrição não se aplica a Barrett, esofagite grave, sangramento digestivo prévio ou uso de AINE e antiagregante com risco de sangramento. O uso prolongado sem indicação associa-se a infecção por Clostridioides difficile, fraturas e deficiência de B12 e magnésio.",
+  "porAlt": [
+   "Correta: sem indicação de uso contínuo, reduz-se a dose ou passa-se ao uso sob demanda.",
+   "Endoscopia não é necessária para desprescrever em quem está assintomática.",
+   "Trocar de IBP não muda a falta de indicação para uso contínuo.",
+   "Antiácido diário contínuo troca um uso desnecessário por outro.",
+   "Uso indefinido sem indicação expõe a efeitos adversos sem benefício."
+  ]
+ },
+ {
+  "q": "Mulher de 76 anos tem insuficiência cardíaca, DPOC, osteoartrite de joelhos, diabetes tipo 2 e depressão, é acompanhada por quatro especialistas e usa 13 medicamentos. Relata cansaço com tantas consultas e remédios e quer, acima de tudo, continuar cuidando da horta. Segundo a diretriz do NICE sobre multimorbidade, qual é a abordagem mais adequada do médico de família?",
+  "alts": [
+   "Acrescentar fármacos até atingir todas as metas",
+   "Delegar a cada especialista o manejo de uma doença",
+   "Aplicar cada diretriz de doença e somar as condutas",
+   "Ajustar os exames laboratoriais fora do alvo",
+   "Definir metas com ela e revisar a carga de tratamento"
+  ],
+  "gab": 4,
+  "tema": "cronicas",
+  "sub": "Multimorbidade",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE. Multimorbidity: clinical assessment and management (NG56), 2016",
+  "coment": "A diretriz NG56 do NICE (2016) recomenda, para pessoas com multimorbidade e alta carga de tratamento, uma abordagem centrada na pessoa: discutir o que é importante para ela, estabelecer metas compartilhadas, revisar medicamentos e outros tratamentos quanto a benefício, dano e carga, e coordenar o cuidado para reduzir consultas e exames desnecessários. Somar recomendações de diretrizes de doenças isoladas gera polifarmácia e interações. O médico de família é o coordenador natural desse cuidado, não um repassador.",
+  "porAlt": [
+   "Perseguir todas as metas com mais fármacos ignora os objetivos da paciente.",
+   "Fragmentar entre especialistas aumenta a carga e a falta de coordenação.",
+   "Somar diretrizes de doenças isoladas produz polifarmácia e interações.",
+   "Tratar números de exame sem considerar a pessoa não reduz a carga.",
+   "Correta: metas compartilhadas e revisão da carga de tratamento são o centro da abordagem."
+  ]
+ },
+ {
+  "q": "Homem de 35 anos, pedreiro, apresenta dor lombar há 5 dias, iniciada após levantar sacos de cimento, sem irradiação abaixo do joelho. Sem febre, perda de peso, trauma importante, alteração esfincteriana, anestesia em sela ou déficit neurológico. Exame com contratura paravertebral e Lasègue negativo. Segundo a diretriz do NICE, qual é a conduta mais adequada?",
+  "alts": [
+   "Prescrever opioide forte e afastamento do trabalho por 30 dias",
+   "Solicitar ressonância magnética para planejar o tratamento",
+   "Manter-se ativo e usar AINE por curto período, sem imagem",
+   "Solicitar radiografia de coluna lombar para afastar fratura",
+   "Prescrever repouso absoluto no leito por sete dias seguidos"
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "Lombalgia aguda inespecífica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE. Low back pain and sciatica in over 16s: assessment and management (NG59), 2016, atualizada em 2020",
+  "coment": "Na lombalgia aguda sem sinais de alerta, a diretriz NG59 do NICE recomenda não solicitar exame de imagem, orientar que o quadro costuma melhorar em poucas semanas, estimular a manutenção das atividades e o retorno precoce ao trabalho e, se preciso, usar AINE oral na menor dose eficaz pelo menor tempo, considerando riscos gastrointestinais, renais e cardiovasculares. Repouso no leito atrasa a recuperação. Imagem sem sinais de alerta não muda a conduta e gera achados incidentais, e opioide forte não é indicado para lombalgia aguda inespecífica.",
+  "porAlt": [
+   "Opioide forte e afastamento longo pioram a evolução e cronificam a dor.",
+   "Ressonância sem sinais de alerta gera achados incidentais e intervenções.",
+   "Correta: sem sinais de alerta, orienta-se atividade, AINE breve e nenhum exame de imagem.",
+   "Sem trauma importante nem osteoporose, a radiografia não muda a conduta.",
+   "Repouso prolongado no leito piora a dor e atrasa o retorno às atividades."
+  ]
+ },
+ {
+  "q": "Homem de 48 anos procura a unidade com dor lombar intensa há 2 dias, irradiada para as duas pernas. Refere dificuldade para urinar desde ontem e perda de sensibilidade na região perineal. Ao exame, há hipoestesia em sela e redução de força na flexão plantar bilateral. Qual é a conduta mais adequada?",
+  "alts": [
+   "Solicitar radiografia de coluna e retorno em duas semanas",
+   "Prescrever AINE e reavaliar o quadro em sete dias na unidade",
+   "Prescrever corticoide oral e solicitar eletroneuromiografia",
+   "Iniciar fisioterapia motora e analgesia com opioide fraco",
+   "Encaminhar com urgência para ressonância e avaliação cirúrgica"
+  ],
+  "gab": 4,
+  "tema": "cronicas",
+  "sub": "Síndrome da cauda equina",
+  "cenario": "amb",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "NICE. Low back pain and sciatica in over 16s: assessment and management (NG59), 2016, atualizada em 2020",
+  "coment": "Retenção urinária, anestesia em sela e déficit motor bilateral em pessoa com lombalgia sugerem síndrome da cauda equina, geralmente por hérnia discal volumosa central. É emergência: a pessoa deve ser encaminhada no mesmo dia para ressonância magnética e avaliação neurocirúrgica, pois a descompressão precoce reduz sequelas como incontinência urinária e fecal e disfunção sexual permanentes. Outros sinais de alerta incluem história de câncer, febre ou imunossupressão, uso de drogas injetáveis e trauma em pessoa com osteoporose.",
+  "porAlt": [
+   "A radiografia não mostra compressão neural e atrasa o diagnóstico.",
+   "Reavaliar em sete dias pode tornar permanente o déficit esfincteriano.",
+   "Corticoide e eletroneuromiografia não substituem a descompressão urgente.",
+   "Fisioterapia e analgesia não tratam compressão aguda da cauda equina.",
+   "Correta: suspeita de cauda equina exige ressonância e avaliação cirúrgica no mesmo dia."
+  ]
+ },
+ {
+  "q": "Médico de família avalia vários pacientes com cefaleia na mesma manhã. Em qual dos quadros abaixo há sinal de alerta que exige investigação imediata?",
+  "alts": [
+   "Mulher de 30 anos com crises pulsáteis e náusea há 10 anos",
+   "Homem de 35 anos com dor que piora com estresse no trabalho",
+   "Homem de 40 anos com dor em aperto bilateral no fim do dia",
+   "Mulher de 68 anos com cefaleia nova e dor ao mastigar",
+   "Mulher de 25 anos com aura visual típica e padrão inalterado"
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "Sinais de alerta na cefaleia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Do TP et al. Red and orange flags for secondary headaches in clinical practice: SNNOOP10 list. Neurology, 2019",
+  "coment": "Pela lista SNNOOP10 (2019), cefaleia de início após os 50 anos é sinal de alerta para causa secundária. Associada a claudicação mandibular, sugere arterite de células gigantes, que exige VHS e PCR no mesmo dia e corticoide imediato quando a suspeita é forte, pelo risco de cegueira. Os outros quadros descrevem padrões primários estáveis: migrânea de longa data, cefaleia do tipo tensional e migrânea com aura típica sem mudança de padrão. Outros sinais de alerta incluem início súbito, déficit focal, febre, imunossupressão e cefaleia postural.",
+  "porAlt": [
+   "Crises pulsáteis com náusea há 10 anos configuram migrânea estável, sem alerta.",
+   "Piora com estresse sem outros achados é comum nas cefaleias primárias.",
+   "Dor em aperto bilateral no fim do dia é típica da cefaleia do tipo tensional.",
+   "Correta: cefaleia nova após os 50 anos com dor ao mastigar sugere arterite de células gigantes.",
+   "Aura visual típica com padrão inalterado é migrânea com aura, sem alerta."
+  ]
+ },
+ {
+  "q": "Mulher de 36 anos, com migrânea desde a adolescência, refere que nos últimos 5 meses tem dor em cerca de 20 dias por mês e toma um analgésico combinado de dipirona com cafeína em quase todos esses dias. Exame neurológico normal, sem sinais de alerta. Segundo a Classificação Internacional das Cefaleias, qual é o diagnóstico associado e a conduta?",
+  "alts": [
+   "Cefaleia secundária; solicitar tomografia antes de tratar",
+   "Cefaleia tensional; aumentar a dose do analgésico atual",
+   "Migrânea crônica; trocar o analgésico por triptano diário",
+   "Uso excessivo de medicação; retirar e iniciar profilaxia",
+   "Migrânea episódica; associar opioide fraco nas crises"
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "Cefaleia por uso excessivo",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "International Headache Society. International Classification of Headache Disorders, 3rd ed. (ICHD-3), 2018",
+  "coment": "A ICHD-3 (2018) define cefaleia por uso excessivo de medicação como dor em 15 dias ou mais por mês, em pessoa com cefaleia primária prévia, com uso regular por mais de 3 meses de analgésico simples em 15 dias ou mais por mês, ou de analgésico combinado, triptano ou opioide em 10 dias ou mais. A conduta inclui educar, retirar ou reduzir o fármaco em excesso e iniciar profilaxia, como amitriptilina, propranolol ou topiramato. Triptano diário e opioide perpetuam o quadro, e sem sinal de alerta não há indicação de imagem.",
+  "porAlt": [
+   "Sem sinais de alerta e com exame normal, a tomografia não está indicada.",
+   "Aumentar o analgésico agrava justamente o mecanismo do quadro.",
+   "Triptano diário também causa cefaleia por uso excessivo.",
+   "Correta: analgésico combinado em quase todos os dias de dor por meses mantém a cefaleia.",
+   "Opioide fraco piora o uso excessivo e não trata a migrânea."
+  ]
+ },
+ {
+  "q": "Homem de 32 anos refere desconforto epigástrico pós-prandial e plenitude há 3 meses. Não usa AINE. Nega perda de peso, disfagia, vômitos persistentes, sangramento, anemia ou história familiar de câncer gástrico. Exame físico normal. Segundo o IV Consenso Brasileiro sobre Helicobacter pylori, qual é a conduta inicial?",
+  "alts": [
+   "Tratar H. pylori de forma empírica, sem nenhum teste prévio",
+   "Solicitar endoscopia digestiva alta antes de tratar",
+   "Testar H. pylori por método não invasivo e tratar se positivo",
+   "Prescrever IBP contínuo por tempo indeterminado sem testes",
+   "Pedir sorologia para H. pylori e erradicar se IgG positiva"
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "Dispepsia sem sinais de alarme",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Coelho LGV et al. IVth Brazilian Consensus Conference on Helicobacter pylori infection. Arq Gastroenterol, 2018",
+  "coment": "Em pessoa jovem com dispepsia sem sinais de alarme, o IV Consenso Brasileiro (2018) recomenda a estratégia testar e tratar: pesquisar H. pylori por teste respiratório com ureia marcada ou antígeno fecal monoclonal e erradicar se positivo. Isso evita endoscopias desnecessárias e trata a causa em parte dos casos. O IBP deve ser suspenso cerca de 2 semanas antes do teste para evitar falso-negativo. A sorologia não diferencia infecção ativa de passada. Sinais de alarme, idade mais avançada ou história familiar de câncer gástrico indicam endoscopia.",
+  "porAlt": [
+   "Tratar sem teste expõe a antibióticos e resistência sem confirmar infecção.",
+   "Endoscopia inicial cabe a quem tem sinais de alarme ou idade mais avançada.",
+   "Correta: jovem sem alarme deve ser testado de forma não invasiva e tratado se positivo.",
+   "IBP indefinido sem investigação mascara a causa e mantém uso desnecessário.",
+   "Sorologia não distingue infecção atual de passada e não deve guiar erradicação."
+  ]
+ },
+ {
+  "q": "Mulher de 29 anos apresenta há 5 dias coriza, obstrução nasal, secreção nasal amarelo-esverdeada, dor leve na face e febre baixa no primeiro dia. Está melhorando aos poucos. Sem piora após melhora, sem febre alta e sem sinais orbitários. Qual é a conduta mais adequada?",
+  "alts": [
+   "Amoxicilina por 10 dias pela secreção amarelo-esverdeada",
+   "Tomografia de seios da face antes de definir a conduta",
+   "Sintomáticos e lavagem nasal com soro, sem antibiótico",
+   "Amoxicilina com clavulanato pela dor leve na face",
+   "Azitromicina por 3 dias para evitar uma complicação"
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "Rinossinusite viral",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Chow AW et al. IDSA Clinical Practice Guideline for Acute Bacterial Rhinosinusitis in Children and Adults, 2012",
+  "coment": "A maioria das rinossinusites agudas é viral e melhora espontaneamente. Pela diretriz da IDSA (2012), suspeita-se de causa bacteriana quando os sintomas persistem por 10 dias ou mais sem melhora, quando há início grave (febre de 39 °C ou mais com secreção purulenta e dor facial por 3 a 4 dias) ou quando há piora após melhora inicial. A cor da secreção não distingue vírus de bactéria. Com 5 dias e melhora progressiva, o tratamento é sintomático, com lavagem nasal salina. Imagem é reservada a suspeita de complicação.",
+  "porAlt": [
+   "A cor da secreção não indica infecção bacteriana.",
+   "Tomografia é reservada à suspeita de complicação ou quadro recorrente.",
+   "Correta: quadro de 5 dias em melhora é viral e não precisa de antibiótico.",
+   "Dor facial leve faz parte do quadro viral e não indica antibiótico.",
+   "Antibiótico não previne complicações raras em quadro viral."
+  ]
+ },
+ {
+  "q": "Homem de 24 anos tem dor de garganta há 2 dias, febre de 38,6 °C, exsudato amigdaliano, linfonodos cervicais anteriores dolorosos e ausência de tosse. O teste rápido para estreptococo do grupo A é positivo. Não tem alergia a penicilina. Segundo o guia AWaRe de antibióticos da OMS, qual é o tratamento de escolha?",
+  "alts": [
+   "Amoxicilina com clavulanato por 5 dias como rotina",
+   "Azitromicina por 3 dias como primeira escolha nesse caso",
+   "Cefalexina por 3 dias, suficiente para erradicar o germe",
+   "Amoxicilina por 10 dias ou penicilina benzatina dose única",
+   "Ciprofloxacino por 7 dias pela febre e pelo exsudato"
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "Faringite estreptocócica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Organização Mundial da Saúde. The WHO AWaRe (Access, Watch, Reserve) Antibiotic Book, 2022",
+  "coment": "O quadro tem os quatro critérios de Centor (febre, exsudato, adenopatia cervical anterior dolorosa e ausência de tosse), e o teste rápido confirmou estreptococo do grupo A. O guia AWaRe da OMS (2022) indica amoxicilina ou penicilina V por 10 dias, antibióticos do grupo Acesso, e a penicilina G benzatina intramuscular em dose única é alternativa amplamente usada no Brasil. O objetivo inclui prevenir febre reumática, o que exige erradicação. Macrolídeo fica para alergia à penicilina, e quinolona e clavulanato são espectro desnecessário.",
+  "porAlt": [
+   "Clavulanato amplia o espectro sem necessidade e 5 dias não é o padrão.",
+   "Macrolídeo é reservado à alergia a penicilina e tem resistência crescente.",
+   "Três dias de cefalexina não garantem erradicação nem previnem febre reumática.",
+   "Correta: penicilina ou amoxicilina por tempo completo é o padrão, com benzatina como alternativa.",
+   "Quinolona é espectro desnecessário e não é indicada para estreptococo."
+  ]
+ },
+ {
+  "q": "Mulher de 46 anos, IMC de 33 kg/m², circunferência abdominal de 98 cm e hipertensão controlada, procura a unidade para perder peso. Já tentou dietas restritivas várias vezes, com reganho. Segundo o Ministério da Saúde, qual é a meta inicial de perda de peso mais adequada a pactuar com ela?",
+  "alts": [
+   "Atingir IMC abaixo de 25 kg/m² em três meses",
+   "Manter o peso atual, sem nenhuma meta de perda",
+   "Perder cerca de 1% do peso por ano, sem pressa",
+   "Perder 5% a 10% do peso em cerca de seis meses",
+   "Perder 20% do peso já no primeiro mês de dieta"
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "Obesidade na APS",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 38: estratégias para o cuidado da pessoa com doença crônica, obesidade, 2014",
+  "coment": "O Caderno de Atenção Básica nº 38 (2014) orienta pactuar metas realistas: perda de 5% a 10% do peso inicial em cerca de seis meses, o que já melhora pressão arterial, glicemia, perfil lipídico e sintomas articulares. Metas extremas, como atingir IMC normal em poucos meses, favorecem frustração e o ciclo de perda e reganho. O plano combina reeducação alimentar, atividade física, abordagem comportamental e acompanhamento longitudinal pela equipe, com apoio da eMulti quando disponível.",
+  "porAlt": [
+   "IMC normal em três meses é meta irreal e favorece abandono e reganho.",
+   "Abrir mão de meta deixa de tratar uma doença crônica com risco cardiovascular.",
+   "Perda de 1% ao ano é lenta demais para reduzir riscos de forma relevante.",
+   "Correta: perda de 5% a 10% em seis meses é meta realista e já traz benefício metabólico.",
+   "Perder 20% no primeiro mês exige restrição extrema e é insegura."
+  ]
+ }
+]

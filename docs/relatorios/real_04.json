@@ -1,0 +1,43 @@
+{
+ "incluidas": 40,
+ "descartadas": [
+  {
+   "pid": "p0402",
+   "motivo": "Gabarito oficial (clindamicina como profilaxia para estreptococo do grupo B) contraria a diretriz vigente: em cesariana eletiva sem trabalho de parto e com membranas íntegras, a profilaxia intraparto para GBS não é indicada mesmo com cultura positiva (ACOG Committee Opinion 797, 2020). A alternativa 'evitar profilaxia' também seria defensável; a única indicação de clindamicina seria a profilaxia cirúrgica da cesárea, que não é o foco do enunciado."
+  },
+  {
+   "pid": "p0045",
+   "motivo": "Mais de uma resposta defensável: anticardiolipina e anti-beta-2-glicoproteína 1 são imunoensaios não afetados pela rivaroxabana e são justamente os testes que mudam conduta (DOAC é desaconselhado na síndrome antifosfolípide, sobretudo triplo positiva, ISTH/ASH), de modo que pedi-los na TVP recorrente é tão ou mais defensável que a PCR para fator V Leiden do gabarito."
+  },
+  {
+   "pid": "p0048",
+   "motivo": "Duplicata: enunciado e alternativas idênticos a p0403 (Revalida 2022.2, calázio), já incluída."
+  },
+  {
+   "pid": "p0050",
+   "motivo": "Gabarito ('repetir citologia em 3 anos') desatualizado: as Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA/MS 2025, aprovadas pela Conitec, Relatório 977) substituem a citologia pelo teste de DNA-HPV oncogênico, com implantação nacional prevista para 2026; na próxima data de rastreamento deve ser usado o teste molecular, não nova citologia."
+  },
+  {
+   "pid": "p0053",
+   "motivo": "Gabarito discutível frente à ISPD 2022: retirada do cateter na peritonite por Pseudomonas é recomendada se houver infecção concomitante de óstio ou túnel ou peritonite refratária, não pela simples identificação do germe; além disso, a alternativa sobre o quadro clínico (dor e efluente turvo com febre pouco frequente) também é defensável."
+  },
+  {
+   "pid": "p0065",
+   "motivo": "Depende de foto ('ilustrada na foto a seguir') que não está no texto; sem a imagem não há como identificar o grau de deflexão."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0042",
+   "nota": "Mantida: a alfatalassemia é causa rara de icterícia neonatal, e a resposta sai por eliminação, pois é a única alternativa com mecanismo e exame coerentes. Com 25,6 mg/dL às 72 horas o RN está perto ou acima do limiar de exsanguineotransfusão (SBP 2021/AAP 2022); fototerapia intensiva imediata, preparando a exsanguineotransfusão, segue correta como medida inicial, e o comentário explica isso."
+  },
+  {
+   "pid": "p0411",
+   "nota": "Mantida: retirar e comprimir é correto quando a punção arterial foi feita com agulha ou cateter fino; se já houver dilatador ou cateter calibroso na carótida, a ASA (2020) recomenda mantê-lo e acionar cirurgião vascular. O enunciado sugere punção simples, e o comentário registra a ressalva."
+  },
+  {
+   "pid": "p0413",
+   "nota": "Mantida: o prazo de sete dias de afastamento é convencional (CDC orienta retorno quando sem febre e sem lesões úmidas), mas as demais alternativas estão claramente erradas."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "incluidas": 29,
+ "descartadas": [
+  {
+   "pid": "u043",
+   "motivo": "Duas alternativas defensáveis: na tabela, hipertensão gestacional (aRR 1,17; IC 1,13 a 1,21) e pré-eclâmpsia (aRR 1,08; IC 1,01 a 1,15) aumentaram com significância, o que torna verdadeira também a afirmação de risco para doença hipertensiva específica da gravidez, além da proteção para diabetes gestacional (gabarito oficial)."
+  },
+  {
+   "pid": "u048",
+   "motivo": "Gabarito oficial (letalidade da chikungunya no Brasil baixa e semelhante à de outros países) é contestável: dados do Ministério da Saúde e estudos brasileiros apontam letalidade no Brasil acima da relatada em outros países, e não houve como conferir em fonte local (sem buscas na web disponíveis). As outras três afirmações são falsas, então a questão ficaria sem resposta segura."
+  },
+  {
+   "pid": "u056",
+   "motivo": "Gabarito (ceftriaxona + metronidazol) diverge das diretrizes de infecção intra-abdominal (SIS 2017, WSES 2017), que reservam esse esquema para casos de gravidade leve a moderada e indicam espectro maior (piperacilina-tazobactam, carbapenêmico, cefepima + metronidazol) em choque séptico, como neste caso com noradrenalina. Na dúvida contra a diretriz vigente, descartada."
+  },
+  {
+   "pid": "u057",
+   "motivo": "Gabarito (colecistectomia por microlitíase e idade em colelitíase assintomática) contraria a recomendação geral de conduta expectante na colelitíase assintomática (EASL 2016); a microlitíase como indicação profilática é posição de escola, não de diretriz. Na dúvida, descartada."
+  },
+  {
+   "pid": "u058",
+   "motivo": "Depende de figura: a conduta (alta com tomografia de controle) só se justifica pela coleção vista nas imagens de tomografia, ausentes no texto; sem elas, a resposta esperada seria colecistectomia na mesma internação."
+  },
+  {
+   "pid": "u062",
+   "motivo": "Depende de figura: a conduta ortopédica depende da foto do tornozelo e da radiografia, ausentes no texto."
+  },
+  {
+   "pid": "u070",
+   "motivo": "Depende de figura: o diagnóstico que leva ao tratamento operatório só aparece nas imagens da tomografia; o texto é compatível com várias hipóteses."
+  },
+  {
+   "pid": "u074",
+   "motivo": "Depende de figura: o material e a técnica (sling suburetral ou outra correção) só aparecem nas imagens; sem elas, sustentação da uretra e suspensão do colo vesical ficam indistinguíveis."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "u044",
+   "nota": "O valor de 25% só fecha usando como denominador todos os cadastrados com 40 anos ou mais (2.500 de 10 mil); se o denominador fosse só os sem HAS conhecida, seria 50%. Mantida porque o indicador é o único que mede captação para rastreamento; o comentário mostra a conta."
+  },
+  {
+   "pid": "u047",
+   "nota": "Enunciado chama a Butantan-DV de 'candidata'; em 2026 ela foi registrada, incorporada ao PNI e teve a estratégia suspensa em 8/06/2026 (leituras/cm/dengue.html). A afirmação correta (sem eficácia comprovada contra todos os sorotipos, só DENV-1 e DENV-2 no ensaio de fase 3) continua válida; o comentário traz a atualização."
+  },
+  {
+   "pid": "u049",
+   "nota": "Aviso de figura (inspeção do tórax). Mantida porque o texto basta: paciente estável, e-FAST negativo e objeto empalado levam à tomografia, independentemente da posição exata da faca."
+  },
+  {
+   "pid": "u054",
+   "nota": "Obstrução precoce por brida é diagnóstico diferencial após lise extensa de aderências; o gabarito (íleo paralítico) se apoia em ruídos diminuídos, pouca dor e PCR em queda, explicitados no comentário."
+  },
+  {
+   "pid": "u061",
+   "nota": "FC de 113 bpm no 1º dia de bariátrica pede vigilância para fístula e TEP; o gabarito (atelectasia, analgesia e fisioterapia) é sustentado pelo limiar usual de alarme acima de 120 bpm e pelo exame, e o comentário registra quando investigar."
+  },
+  {
+   "pid": "u064",
+   "nota": "Aviso de figura (ressonância). Mantida porque hematúria maciça, massa de flanco indolor e idade de 5 anos sustentam Wilms pelo texto; febre e anemia são comuns aos dois tumores."
+  },
+  {
+   "pid": "u068",
+   "nota": "A diretriz ACG-CAG 2022 de hemorragia digestiva em anticoagulados sugere, com evidência muito baixa, não usar complexo protrombínico de rotina na varfarina; o consenso ACC 2020 indica complexo de 4 fatores com vitamina K no sangramento ameaçador à vida, como este (Hb 6,3). Mantida por ser a melhor opção entre as oferecidas."
+  },
+  {
+   "pid": "u069",
+   "nota": "Filtro de cava tem indicação estreita; aqui se sustenta pela TVP aguda com contraindicação à anticoagulação plena (hemorragia digestiva tumoral) e cirurgia oncológica que não deve esperar 4 semanas."
+  },
+  {
+   "pid": "u072",
+   "nota": "Alguns serviços ainda tentam Kasai aos 4 meses; o gabarito (transplante) se apoia na ascite e esplenomegalia com fibrose, que indicam cirrose estabelecida e baixa chance de sucesso do Kasai."
+  },
+  {
+   "pid": "u073",
+   "nota": "Altura no percentil 20 é atípica para Turner (baixa estatura é a regra); 45,X mantido porque a presença de folículos exclui 46,XY e as demais opções são incompatíveis."
+  },
+  {
+   "pid": "u077",
+   "nota": "Aviso de figura (pele da face); o texto já descreve acne e hirsutismo, e a pergunta é de fisiologia do tratamento, sem depender da imagem."
+  },
+  {
+   "pid": "u078",
+   "nota": "Finasterida tem evidência modesta para acne (mais usada no hirsutismo) e é teratogênica; mantida porque é o único antiandrogênico entre as opções, e o comentário exige contracepção associada. Aviso de figura não interfere na resposta."
+  }
+ ]
+}

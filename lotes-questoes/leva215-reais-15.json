@@ -1,0 +1,1352 @@
+[
+ {
+  "pid": "p0645",
+  "q": "Recém-nascido a termo, filho de mãe que não realizou pré-natal e sem diagnóstico antenatal de cardiopatia. No primeiro dia de vida, apresenta sinais de baixo débito cardíaco, saturação aferida em membro superior direito de 80% e em membro inferior direito de 97%. Assinale a alternativa que indica a cardiopatia mais provável e qual a conduta imediata a ser realizada",
+  "alts": [
+   "Síndrome de hipoplasia do coração esquerdo com atresia aórtica e atresia mitral; atriosseptostomia por cateter balão (procedimento de Rashkind)",
+   "Defeito do septo atrioventricular total balanceado; início de alprostadil",
+   "Transposição das grandes artérias com comunicação interventricular e interrupção de arco aórtico; início de alprostadil",
+   "Atresia pulmonar com septo interventricular íntegro; atriosseptostomia por cateter balão (procedimento de Rashkind)"
+  ],
+  "gab": 2,
+  "tema": "neonato",
+  "sub": "Transposição com arco aórtico interrompido",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, 2ª ed., 2014; Park MK, Salamat M. Park's Pediatric Cardiology for Practitioners, 7ª ed., 2020",
+  "coment": "Saturação maior no membro inferior do que no membro superior direito (cianose diferencial reversa) só ocorre quando a aorta ascendente recebe sangue desoxigenado e a aorta descendente recebe sangue oxigenado pelo canal arterial. É a assinatura da transposição das grandes artérias com obstrução do arco (coarctação ou interrupção) ou com hipertensão pulmonar. O fluxo para a metade inferior do corpo depende do canal, e o baixo débito sinaliza seu fechamento: a conduta imediata é prostaglandina E1 (alprostadil) para reabrir e manter o canal, antes de qualquer procedimento.",
+  "porAlt": [
+   "Na hipoplasia do coração esquerdo a saturação é semelhante nos quatro membros; a conduta imediata é alprostadil, e a atriosseptostomia fica para septo atrial restritivo.",
+   "O defeito do septo atrioventricular total não causa diferença de saturação entre membros nem depende do canal arterial para o fluxo sistêmico.",
+   "Correta: saturação maior na perna indica transposição com obstrução do arco, cujo fluxo para a aorta descendente depende do canal, mantido com alprostadil.",
+   "A atresia pulmonar com septo íntegro dá cianose global por fluxo pulmonar dependente do canal, sem saturação maior no membro inferior; a primeira medida seria alprostadil."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0646",
+  "q": "Paciente de 3 anos de idade, com quadro clínico de meningite, realiza coleta de líquor, que evidenciou celularidade com 2.698/mm³ (80% neutrófilos), glicose de 25 mg/dL (glicemia capilar de 72 mg/dL), proteína de 60 mg/dL. Bacterioscopia com presença de cocos Gram-positivos. Resultado de cultura evidenciou Streptococcus pneumoniae com MIC para penicilina ≥ 0.12 µg/mL (resistente) e MIC para ceftriaxona ≤ 0,5 µg/mL (sensível) Diante do resultado da cultura, qual o tratamento de escolha?",
+  "alts": [
+   "Ceftriaxone",
+   "Vancomicina",
+   "Ceftriaxone e vancomicina",
+   "Dexametasona, ceftriaxone e oxacilina"
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Meningite pneumocócica resistente à penicilina",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Tunkel AR et al. IDSA Practice Guidelines for the Management of Bacterial Meningitis, 2004; American Academy of Pediatrics. Red Book, 33ª ed., 2024",
+  "coment": "No pneumococo isolado no líquor, a escolha segue a concentração inibitória mínima (CIM). Resistência à penicilina (CIM ≥0,12 µg/mL, ponto de corte para meningite) com ceftriaxona sensível (CIM ≤0,5 µg/mL) permite tratar só com cefalosporina de 3ª geração em dose meníngea (ceftriaxona 100 mg/kg/dia), suspendendo a vancomicina empírica. A vancomicina só se mantém quando a CIM da ceftriaxona é ≥1 µg/mL (IDSA 2004, Red Book). A dexametasona, quando indicada, é dada antes ou junto da primeira dose de antibiótico, e não é guiada pela cultura.",
+  "porAlt": [
+   "Correta: com ceftriaxona sensível (CIM ≤0,5 µg/mL), a cefalosporina de 3ª geração em dose meníngea basta, mesmo com resistência à penicilina.",
+   "Vancomicina isolada tem penetração liquórica irregular e não é usada em monoterapia na meningite pneumocócica.",
+   "A associação com vancomicina é o esquema empírico e o das cepas com CIM da ceftriaxona ≥1 µg/mL; aqui a ceftriaxona é sensível e a vancomicina pode ser suspensa.",
+   "Oxacilina não age sobre pneumococo; seu alvo é o estafilococo sensível à meticilina."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0647",
+  "q": "Paciente de 3 anos de idade, com quadro clínico de meningite, realiza coleta de líquor, que evidenciou celularidade com 2.698/mm³ (80% neutrófilos), glicose de 25 mg/dL (glicemia capilar de 72 mg/dL), proteína de 60 mg/dL. Bacterioscopia com presença de cocos Gram-positivos. Resultado de cultura evidenciou Streptococcus pneumoniae com MIC para penicilina ≥ 0.12 µg/mL (resistente) e MIC para ceftriaxona ≤ 0,5 µg/mL (sensível) Caso o resultado da MIC para ceftriaxona fosse ≥ 1,0 µg/mL (resistente), qual seria o tratamento indicado?",
+  "alts": [
+   "Ceftriaxone",
+   "Vancomicina",
+   "Ceftriaxone e vancomicina",
+   "Dexametasona, ceftriaxone e oxacilina"
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Pneumococo resistente à ceftriaxona",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Tunkel AR et al. IDSA Practice Guidelines for the Management of Bacterial Meningitis, 2004; American Academy of Pediatrics. Red Book, 33ª ed., 2024",
+  "coment": "Quando o pneumococo tem CIM da cefotaxima ou ceftriaxona ≥1 µg/mL, a cefalosporina isolada não garante concentração bactericida no líquor. A recomendação (IDSA 2004, Red Book) é associar vancomicina à cefalosporina de 3ª geração em dose máxima. A vancomicina não é usada sozinha porque sua penetração no líquor é irregular e cai à medida que a inflamação meníngea diminui, inclusive com o uso de dexametasona. A oxacilina não tem atividade contra pneumococo.",
+  "porAlt": [
+   "Ceftriaxona isolada falha quando a CIM é ≥1 µg/mL, porque a concentração no líquor não supera a CIM com folga.",
+   "Vancomicina sozinha tem penetração liquórica irregular e nunca é usada em monoterapia na meningite pneumocócica.",
+   "Correta: cepa resistente à ceftriaxona exige vancomicina associada à cefalosporina de 3ª geração em dose meníngea.",
+   "Oxacilina não age sobre pneumococo, e a dexametasona não é escolhida pelo resultado da cultura."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0648",
+  "q": "Assinale a alternativa que apresenta três indicações para a vacina adsorvida difteria, tétano e coqueluche acelular",
+  "alts": [
+   "Episódio hipotônico-hiporresponsivo nas primeiras 48 horas após a vacinação, bebês com peso menor de 2.000 g ao nascimento, asplenia anatômica ou funcional",
+   "Transplantados de órgãos sólidos, transplantados de células-tronco hematopoiéticas, pacientes vivendo com HIV/AIDS",
+   "Pneumopatias crônicas com risco de descompensação em vigência de febre, fístula liquórica e derivação ventrículo-peritoneal, hemoglobinopatias",
+   "Doença convulsiva crônica, convulsão febril ou afebril nas primeiras 72 horas após a vacinação, cardiopatias crônicas com risco de descompensação em vigência de febre"
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Indicações da DTPa no CRIE",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual dos Centros de Referência para Imunobiológicos Especiais, 6ª ed., 2023",
+  "coment": "A DTPa (pertussis acelular) dos CRIE substitui a DTP de células inteiras quando há risco de evento adverso grave ou de descompensação com febre, porque a acelular é menos reatogênica. Indicações clássicas: convulsão febril ou afebril nas 72 horas após dose anterior, episódio hipotônico-hiporresponsivo nas 48 horas, doença convulsiva crônica, cardiopatias e pneumopatias crônicas com risco de descompensação febril, doenças neurológicas crônicas incapacitantes e prematuros extremos ou internados na unidade neonatal na idade da vacina. Asplenia, fístula liquórica e hemoglobinopatias indicam outros imunobiológicos.",
+  "porAlt": [
+   "O episódio hipotônico-hiporresponsivo é indicação, mas o critério de prematuridade é bem menor que 2.000 g, e a asplenia indica pneumocócicas, Hib e meningocócicas, não DTPa.",
+   "O grupo é de imunodeprimidos; HIV não está no rol da DTPa, que se baseia em risco de reação ou de descompensação febril, não em imunodepressão.",
+   "Pneumopatia crônica entra, mas fístula liquórica, derivação ventrículo-peritoneal e hemoglobinopatias são indicações de pneumocócicas e outras vacinas, não de DTPa.",
+   "Correta: doença convulsiva crônica, convulsão nas 72 horas após dose prévia e cardiopatia com risco de descompensação febril são indicações da DTPa no CRIE."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0649",
+  "q": "Recém-nascido, com 48 horas de vida e Apgar 6 / 8, nasceu com idade gestacional de 31 semanas e 4 dias e peso de 1.400 g. Apresenta-se clinicamente estável, com abdome flácido e sem resíduo gástrico. A melhor conduta com relação à alimentação é",
+  "alts": [
+   "Leite da própria mãe por sonda orogástrica",
+   "Leite da própria mãe por sucção",
+   "Aleitamento materno ao seio",
+   "Fórmula para prematuros por sonda orogástrica"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Dieta do pré-termo de 31 semanas",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, 2ª ed., 2014; Ministério da Saúde. Atenção Humanizada ao Recém-Nascido: Método Canguru, manual técnico, 3ª ed., 2017",
+  "coment": "A coordenação entre sucção, deglutição e respiração amadurece por volta de 32 a 34 semanas de idade gestacional corrigida. Com 31 semanas e 4 dias, estável, abdome flácido e sem resíduo, a criança deve receber dieta enteral por sonda orogástrica, e o leite de escolha é o da própria mãe, que reduz enterocolite necrosante e sepse tardia. Fórmula para prematuros só entra na falta de leite humano (o de banco é preferível). Nessa fase, o contato com o seio é sucção não nutritiva, em posição canguru.",
+  "porAlt": [
+   "Correta: antes de 32 a 34 semanas a sucção não é eficaz, e o leite da própria mãe por sonda é a dieta de escolha.",
+   "Com 31 semanas a coordenação entre sucção, deglutição e respiração é imatura, com risco de aspiração e gasto energético excessivo.",
+   "O seio pode ser oferecido como sucção não nutritiva, mas não garante o volume da dieta nessa idade gestacional.",
+   "Fórmula para prematuros só entra na falta de leite humano, que protege contra enterocolite necrosante e infecção."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0650",
+  "q": "O principal fator que indica melhor prognóstico na Leucemia Linfoide Aguda (LLA) é",
+  "alts": [
+   "Fenótipo T",
+   "Idade menor que 1 ano ou maior que 10 anos",
+   "Leucometria ao diagnóstico < 50.000",
+   "Velocidade de resposta ao corticoide"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Fatores prognósticos na LLA",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Hunger SP, Mullighan CG. Acute Lymphoblastic Leukemia in Children. N Engl J Med, 2015",
+  "coment": "Na leucemia linfoide aguda da infância, a resposta precoce ao tratamento é o fator prognóstico mais forte, acima das características ao diagnóstico. Nos protocolos BFM, a contagem de blastos no sangue no 8º dia, após 7 dias de prednisona e uma dose intratecal, separa bons respondedores (menos de 1.000 blastos/µL) de maus respondedores; hoje a doença residual mínima ao fim da indução cumpre esse papel com mais precisão. Idade de 1 a 10 anos e leucometria abaixo de 50.000 também são favoráveis, mas pesam menos.",
+  "porAlt": [
+   "O fenótipo T se associa historicamente a prognóstico pior que o da LLA de precursor B.",
+   "Idade menor que 1 ano ou maior que 10 anos é fator de pior prognóstico; a faixa favorável é de 1 a 10 anos.",
+   "Leucometria abaixo de 50.000 é favorável, mas pesa menos do que a resposta precoce ao tratamento.",
+   "Correta: a velocidade de resposta à prednisona (blastos no 8º dia) e a doença residual mínima são os preditores mais fortes de cura."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0651",
+  "q": "Recém-nascido, 10 dias de vida, apresenta vômitos biliosos, letargia, hipotonia e dificuldade de se alimentar. A mãe relata que o bebê também apresentou episódios de respiração rápida e odor peculiar na urina. O exame físico revela hepatomegalia discreta. Assinale a alternativa que apresenta a suspeita diagnóstica mais provável e o teste que deve ser realizado para confirmação",
+  "alts": [
+   "Doença do Xarope de Bordo (MSUD); teste do odor da urina e análise enzimática",
+   "Doença de armazenamento de glicogênio; teste de resistência à insulina",
+   "Hipotireoidismo congênito; dosagem de TSH e T4",
+   "Fenilcetonúria; teste do pezinho para avaliação de fenilalanina"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Doença do xarope de bordo",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Saudubray JM, Baumgartner MR, García-Cazorla A, Walter JH. Inborn Metabolic Diseases: Diagnosis and Treatment, 7ª ed., 2022",
+  "coment": "Recém-nascido que vai bem nos primeiros dias e, na primeira ou segunda semana, passa a ter recusa alimentar, vômitos, letargia, hipotonia e taquipneia sugere erro inato do metabolismo do tipo intoxicação. O odor peculiar da urina (açúcar queimado, xarope de bordo) aponta para a doença do xarope de bordo, deficiência do complexo desidrogenase de cetoácidos de cadeia ramificada. A confirmação vem dos aminoácidos plasmáticos (leucina e aloisoleucina elevadas), com estudo enzimático ou molecular. Das opções, é a única coerente com o quadro.",
+  "porAlt": [
+   "Correta: intoxicação neonatal com odor característico na urina sugere doença do xarope de bordo, confirmada por aminoácidos plasmáticos e estudo enzimático.",
+   "Glicogenose tipo I se manifesta com hipoglicemia e hepatomegalia importante, sem odor urinário, e não se confirma por teste de resistência à insulina.",
+   "Hipotireoidismo congênito dá icterícia prolongada, hipotonia e constipação, não encefalopatia aguda com odor urinário.",
+   "Fenilcetonúria não causa descompensação aguda neonatal; o odor é de mofo e o quadro é de atraso do desenvolvimento ao longo dos meses."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0652",
+  "q": "Com relação aos antimuscarínicos de longa ação na asma pediátrica, o medicamento tiotrópio",
+  "alts": [
+   "pode ser usado em asma pediátrica, em uma etapa anterior ao emprego dos imunobiológicos",
+   "é inalado através de um dispositivo de pó seco e de inalação rápida",
+   "está indicado em asma mais difícil (step 4 do GINA), mas não existem estudos com seu uso em menores de 6 anos",
+   "não deve ser usado no mesmo horário da combinação de corticoide inalado e LABA"
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Tiotrópio na asma pediátrica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "Global Initiative for Asthma (GINA), 2026",
+  "coment": "O tiotrópio em inalador de névoa suave (Respimat) é o antimuscarínico de longa ação estudado na asma pediátrica. No GINA, entra como terapia adicional para crianças a partir de 6 anos com asma não controlada apesar de corticoide inalado associado a LABA, uma etapa antes ou junto da avaliação fenotípica para imunobiológicos. Há ensaios clínicos também em crianças de 1 a 5 anos, embora a indicação aprovada seja a partir de 6 anos. Pode ser inalado no mesmo horário da associação de corticoide inalado e LABA.",
+  "porAlt": [
+   "Correta: o tiotrópio é opção adicional para crianças com asma não controlada com corticoide inalado e LABA, antes de se recorrer a imunobiológicos.",
+   "Na asma o tiotrópio é usado em inalador de névoa suave, com inalação lenta, e não em pó seco de inalação rápida.",
+   "Há ensaios clínicos de tiotrópio em crianças de 1 a 5 anos, embora a indicação aprovada seja a partir de 6 anos.",
+   "Não há restrição de horário: o tiotrópio pode ser inalado junto com a associação de corticoide inalado e LABA."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0653",
+  "q": "Assinale a alternativa correta acerca da Bronquiolite Obliterante Pós-Infecciosa (PIBO)",
+  "alts": [
+   "O achado espirométrico mais comum é distúrbio restritivo grave sem resposta ao broncodilatador",
+   "Sua ocorrência é mais comum na população de origem ameríndia do que na de ascendência europeia",
+   "A realização de biópsia pulmonar a céu aberto é essencial para direcionar o tratamento",
+   "O tratamento indicado é a pulsoterapia com metilprednisolona, com regressão das alterações funcionais na maior parte dos casos"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Bronquiolite obliterante pós-infecciosa",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "Colom AJ, Teper AM. Post-infectious bronchiolitis obliterans. Pediatr Pulmonol, 2019",
+  "coment": "A bronquiolite obliterante pós-infecciosa segue, em geral, infecção grave por adenovírus no lactente e é descrita sobretudo na América do Sul (Argentina, Chile, Brasil), com predomínio em populações de ascendência ameríndia, o que sugere predisposição genética. O diagnóstico é clínico e tomográfico (perfusão em mosaico, aprisionamento aéreo, bronquiectasias), sem biópsia na maioria dos casos. A espirometria mostra obstrução fixa, com pouca ou nenhuma resposta ao broncodilatador. A pulsoterapia com metilprednisolona pode ser usada, mas não reverte a obstrução já estabelecida.",
+  "porAlt": [
+   "O distúrbio típico é obstrutivo fixo, com pouca ou nenhuma resposta ao broncodilatador, e não restritivo.",
+   "Correta: a doença é bem mais frequente na América do Sul, em populações de ascendência ameríndia, o que sugere predisposição genética.",
+   "O diagnóstico costuma ser feito pela história de infecção grave e pela tomografia; a biópsia fica para casos atípicos.",
+   "A pulsoterapia pode reduzir a inflamação, mas a fibrose não regride e a função pulmonar raramente se normaliza."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0654",
+  "q": "Paciente nascido a termo, desenvolve insuficiência respiratória grave e progressiva sem evidências de infecção aguda, descartada cardiopatia congênita (apenas hipertensão pulmonar no ecocardiograma). Radiografia do tórax com opacidades difusas bilaterais. Tomografia de tórax mostra padrão de vidro fosco bilateral e difuso. Assinale a hipótese diagnóstica compatível com o cenário clínico apresentado",
+  "alts": [
+   "Mutação no gene da proteína B do surfactante – deficiência de surfactante",
+   "Mutação no gene SERPINA-1 – deficiência de alfa-1 antitripsina",
+   "Mutação no gene STAT5-B – alta estatura e imunodeficiência",
+   "Mutação no gene DNAH5 – discinesia ciliar primária"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Deficiência genética de surfactante",
+  "cenario": "uti",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "Kurland G et al. An Official American Thoracic Society Clinical Practice Guideline: Classification, Evaluation, and Management of Childhood Interstitial Lung Disease in Infancy, 2013",
+  "coment": "Recém-nascido a termo com insuficiência respiratória grave e progressiva desde os primeiros dias, sem infecção nem cardiopatia estrutural, com opacidades difusas e vidro fosco bilateral, sugere distúrbio genético do surfactante. A deficiência de proteína B (gene SFTPB, herança autossômica recessiva) e as mutações de ABCA3 são as causas clássicas de doença grave no período neonatal, sem resposta sustentada ao surfactante exógeno, muitas vezes letal sem transplante pulmonar. A hipertensão pulmonar é achado associado frequente.",
+  "porAlt": [
+   "Correta: insuficiência respiratória grave no RN a termo com vidro fosco difuso, sem outra causa, é a apresentação da deficiência de proteína B do surfactante.",
+   "A deficiência de alfa-1 antitripsina causa colestase neonatal e enfisema no adulto, não insuficiência respiratória ao nascer.",
+   "Mutação de STAT5B causa baixa estatura com insensibilidade ao GH e imunodeficiência, não doença pulmonar difusa neonatal.",
+   "A discinesia ciliar primária dá desconforto respiratório leve a moderado no RN a termo, com atelectasias e rinorreia, sem vidro fosco difuso grave."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0655",
+  "q": "Mulher comparece em período expulsivo na maternidade, relata não ter feito pré-natal. Realizado teste rápido para HIV na parturiente com resultado reagente. Aguarda exames maternos para a confirmação diagnóstica. O bebê nasceu bem, por parto vaginal, sem intercorrências. A idade gestacional calculada pelo capurro é de 35 semanas. Em relação à profilaxia para o HIV a ser realizada para esse paciente, assinale a alternativa correta",
+  "alts": [
+   "Zidovudina, lamivudina e nevirapina",
+   "Zidovudina, lamivudina e raltegravir",
+   "Zidovudina, apenas",
+   "Aguardar confirmação da infecção materna pelo HIV para iniciar profilaxia antirretroviral"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Profilaxia do RN exposto ao HIV",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2022",
+  "coment": "Mãe sem pré-natal e sem antirretroviral, com teste rápido reagente no parto, define exposição de alto risco: a profilaxia começa imediatamente, de preferência nas primeiras 4 horas, sem esperar a confirmação. No alto risco, o PCDT de transmissão vertical escolhe o esquema pela idade gestacional: 37 semanas ou mais, zidovudina, lamivudina e raltegravir; de 34 a 37 semanas, zidovudina, lamivudina e nevirapina, pois o raltegravir não tem dose aprovada abaixo de 37 semanas; abaixo de 34 semanas, zidovudina isolada. Todos por 28 dias. Com 35 semanas, vale o esquema com nevirapina.",
+  "porAlt": [
+   "Correta: RN de alto risco com 34 a 37 semanas recebe zidovudina, lamivudina e nevirapina por 28 dias.",
+   "O raltegravir é usado a partir de 37 semanas; com 35 semanas não há dose aprovada.",
+   "Zidovudina isolada é para o RN de baixo risco ou para o de alto risco com menos de 34 semanas.",
+   "Com teste rápido reagente, a profilaxia começa já, idealmente nas primeiras 4 horas; esperar a confirmação reduz a eficácia."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0656",
+  "q": "Os critérios de Duke modificado já foram validados para diagnóstico de endocardite infecciosa na faixa etária pediátrica. São considerados critérios maiores para diagnóstico de endocardite infecciosa, segundo os critérios de Duke modificado",
+  "alts": [
+   "Febre maior que 38 °C; presença de condição cardíaca predisponente para endocardite infecciosa",
+   "Fenômenos vasculares (êmbolos arteriais, infarto pulmonar séptico, aneurismas micóticos, hemorragia intracraniana, hemorragia conjuntival, lesões de Janeway); fenômenos imunológicos (glomerulonefrite, nódulos de Osler, manchas de Roth, fator reumatoide positivo)",
+   "Febre; evidência de acometimento endocárdico ao ecocardiograma com imagem intracardíaca oscilante em valva ou aparato subvalvar ou em material implantado, sem que haja outra explicação anatômica alternativa",
+   "Hemocultura positiva com agente microbiano típico consistente com endocardite infecciosa (Streptococcus viridans, Streptococcus bovis ou grupo HACEK) em pelo menos duas hemoculturas; evidência de acometimento endocárdico ao ecocardiograma com imagem intracardíaca oscilante em valva ou aparato subvalvar ou em material implantado, sem que haja outra explicação anatômica alternativa"
+  ],
+  "gab": 3,
+  "tema": "pedinfecto",
+  "sub": "Critérios maiores de Duke",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Baltimore RS et al. Infective Endocarditis in Childhood: 2015 Update, AHA Scientific Statement. Circulation, 2015; Fowler VG et al. The 2023 Duke-ISCVID Criteria for Infective Endocarditis. Clin Infect Dis, 2023",
+  "coment": "Nos critérios de Duke modificados, os maiores são dois: o microbiológico (agente típico, como estreptococos do grupo viridans, Streptococcus bovis, grupo HACEK, Staphylococcus aureus ou enterococo comunitário, em duas hemoculturas separadas, ou bacteremia persistente) e o de imagem (vegetação oscilante, abscesso, deiscência nova de prótese ou regurgitação valvar nova). Febre, condição predisponente e fenômenos vasculares e imunológicos são critérios menores. O diagnóstico definitivo exige 2 maiores, 1 maior e 3 menores, ou 5 menores. A versão Duke-ISCVID de 2023 manteve essa estrutura.",
+  "porAlt": [
+   "Febre acima de 38 °C e condição cardíaca predisponente são critérios menores.",
+   "Fenômenos vasculares e imunológicos são critérios menores, não maiores.",
+   "O ecocardiograma com vegetação é critério maior, mas a febre é critério menor.",
+   "Correta: hemoculturas positivas com agente típico e evidência ecocardiográfica de acometimento endocárdico são os dois critérios maiores."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0657",
+  "q": "Menino, 9 anos de idade, previamente asmático, foi admitido no departamento de emergência com quadro de tosse e coriza, sem febre. Ao exame físico inicial, apresentava-se taquidispneico (FR de 36 irpm), com sibilos difusos, tiragem subdiafragmática e tiragem intercostal moderadas, fala entrecortada e saturação de 88% em ar ambiente. Foram realizadas medidas para crise asmática grave: salbutamol, brometo de ipratrópio e corticoide. Após as medidas iniciais, o paciente apresenta os seguintes achados ao exame físico: bom estado geral, dispneia leve/moderada, FR de 27 irpm, SpO2 94% em máscara de Venturi a 40%, tiragem subdiafragmática leve, FC de 110 bpm e demais parâmetros sem alterações Baseando-se no GINA 2025, diante do quadro clínico e em relação à indicação de sulfato de magnésio endovenoso, assinale a melhor alternativa",
+  "alts": [
+   "Está indicado e está associado a menor taxa de admissão hospitalar",
+   "Não está indicado, visto que no momento o paciente não apresenta critérios para internação em leito de UTI",
+   "Não está indicado e, caso o paciente apresentasse indicação, a via inalatória seria preferível",
+   "Pode ser administrado e o uso de sulfato de magnésio deve ser feito rotineiramente em todas as crianças com crise asmática grave"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Sulfato de magnésio na crise asmática",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "Global Initiative for Asthma (GINA), 2026",
+  "coment": "O GINA recomenda considerar sulfato de magnésio intravenoso na crise grave que não responde ao tratamento inicial (beta-2 de curta ação, ipratrópio e corticoide sistêmico) e mantém hipoxemia; nesse grupo, ele reduz internações em adultos e em crianças a partir de 6 anos. O menino melhorou, mas ainda precisa de FiO2 de 40% para saturar 94%, ou seja, segue hipoxêmico: há indicação. O uso não é rotineiro em toda crise grave, não depende de vaga em UTI, e a via nebulizada não é recomendada de rotina, por benefício pequeno e inconsistente.",
+  "porAlt": [
+   "Correta: o paciente segue hipoxêmico após o tratamento inicial, e nesse grupo o magnésio IV reduz a taxa de internação.",
+   "A indicação depende de falha ao tratamento inicial com hipoxemia persistente, não de critério para UTI.",
+   "Há indicação, e a via inalatória não é preferível: o benefício do magnésio nebulizado é pequeno e inconsistente.",
+   "O uso não é rotineiro em toda crise grave; reserva-se a quem não responde ao tratamento inicial."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0658",
+  "q": "Menino, 9 anos de idade, previamente asmático, foi admitido no departamento de emergência com quadro de tosse e coriza, sem febre. Ao exame físico inicial, apresentava-se taquidispneico (FR de 36 irpm), com sibilos difusos, tiragem subdiafragmática e tiragem intercostal moderadas, fala entrecortada e saturação de 88% em ar ambiente. Foram realizadas medidas para crise asmática grave: salbutamol, brometo de ipratrópio e corticoide. Após as medidas iniciais, o paciente apresenta os seguintes achados ao exame físico: bom estado geral, dispneia leve/moderada, FR de 27 irpm, SpO2 94% em máscara de Venturi a 40%, tiragem subdiafragmática leve, FC de 110 bpm e demais parâmetros sem alterações Paciente evoluiu com piora progressiva do broncoespasmo e desconforto respiratório, sendo transferido para a UTI. Apesar do tratamento otimizado, manteve-se refratário com indicação de intubação orotraqueal. Assinale a alternativa que contém as medicações mais adequadas para realizar a sequência rápida de intubação do paciente",
+  "alts": [
+   "Quetamina e rocurônio",
+   "Fentanil, midazolam e rocurônio",
+   "Fentanil, propofol e rocurônio",
+   "Fentanil, dexmedetomidina e rocurônio"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Sequência rápida na asma grave",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "Nievas IF, Anand KJ. Severe Acute Asthma Exacerbation in Children: A Stepwise Approach for Escalating Therapy in a Pediatric Intensive Care Unit. J Pediatr Pharmacol Ther, 2013",
+  "coment": "Na asma refratária, a cetamina é o indutor de escolha: preserva o tônus simpático e a pressão arterial, tem efeito broncodilatador (liberação de catecolaminas e ação no receptor NMDA) e não libera histamina. O rocurônio dá relaxamento rápido para a sequência rápida. Propofol e midazolam causam vasodilatação e hipotensão, perigosas num paciente hiperinsuflado, cujo retorno venoso cai após o início da ventilação com pressão positiva. A dexmedetomidina tem início lento e não serve como indutor.",
+  "porAlt": [
+   "Correta: cetamina broncodilata e mantém a pressão arterial, e o rocurônio dá relaxamento rápido para a sequência rápida.",
+   "Midazolam associado a fentanil aumenta o risco de hipotensão após a intubação e não tem ação broncodilatadora.",
+   "Propofol causa vasodilatação e hipotensão, arriscadas no asmático hiperinsuflado; seu efeito broncodilatador é menor que o da cetamina.",
+   "Dexmedetomidina tem início de ação lento e não serve como indutor em sequência rápida."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0659",
+  "q": "Menino, 7 anos de idade, portador de fibrose cística pancreato-suficiente, internado por exacerbação pulmonar, em uso de ceftazidima, amicacina e oxacilina, necessitando oxigenioterapia por cateter nasal 2 L/min (não faz uso domiciliar). Colonização crônica por Staphylococcus aureus meticilino-sensível e Pseudomonas aeruginosa multissensível. Após 48 horas de internação, cultura de escarro isolou Burkholderia cepacia multissensível. Assinale a alternativa que indica a melhor conduta",
+  "alts": [
+   "Associar sulfametoxazol/trimetoprima ao esquema atual",
+   "Suspender a antibioticoterapia atual, e introduzir doxiciclina",
+   "Manter conduta atual por no mínimo 5 dias",
+   "Alta hospitalar com levofloxacina"
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Burkholderia cepacia na fibrose cística",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "Athanazio RA et al. Diretrizes brasileiras de diagnóstico e tratamento da fibrose cística. J Bras Pneumol, 2017",
+  "coment": "O complexo Burkholderia cepacia é intrinsecamente resistente aos aminoglicosídeos e à polimixina, e sua aquisição na fibrose cística se associa a declínio funcional e risco de síndrome cepacia. No primeiro isolamento, a conduta é terapia combinada com pelo menos dois antimicrobianos ativos, com tentativa de erradicação. No esquema em curso, só a ceftazidima age sobre a bactéria; associar sulfametoxazol-trimetoprima, ativo nas cepas sensíveis, completa a combinação sem retirar a cobertura de Pseudomonas e Staphylococcus aureus.",
+  "porAlt": [
+   "Correta: a ceftazidima é o único agente ativo contra B. cepacia no esquema, e o sulfametoxazol-trimetoprima garante terapia combinada.",
+   "Suspender o esquema deixa Pseudomonas e S. aureus sem cobertura em plena exacerbação, e doxiciclina isolada é insuficiente.",
+   "Manter o esquema deixa a B. cepacia apenas com ceftazidima, sem a combinação recomendada para esse agente.",
+   "Paciente em exacerbação com necessidade de oxigênio não tem critério de alta, e levofloxacina isolada não trata o quadro."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0660",
+  "q": "Paciente de 4 anos de idade, com antecedente de encefalopatia crônica não progressiva secundária à hipóxia perinatal, traqueostomia e gastrostomia, crises convulsivas de difícil controle em uso de múltiplas drogas antiepilépticas e hidrocefalia com derivação ventrículo-peritoneal (última troca por mau funcionamento há 3 meses). Comparece ao pronto-socorro em crise tônico-clônica iniciada há 1 hora, febre e piora neurológica há 1 dia. Ao exame físico, encontra-se convulsionando, PA de 150×60 mmHg, FC de 140 bpm, FR de 40 irpm, SpO2 de 98%, temperatura de 39,1 °C. Foram administradas duas doses de diazepam EV 0,2 mg/kg, com cessação dos movimentos tônico-clônicos. Em seguida, apresenta FR de 4 irpm, SpO2 de 80% em ar ambiente, FC de 50 bpm Assinale a alternativa que apresenta melhor conduta no momento",
+  "alts": [
+   "Reanimação cardiopulmonar",
+   "Atropina EV",
+   "Naloxona EV em bólus",
+   "Ventilação com bolsa-válvula-máscara com O2 a 100%"
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Depressão respiratória após benzodiazepínico",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American Heart Association. Diretrizes de RCP e Atendimento Cardiovascular de Emergência (Suporte Avançado de Vida em Pediatria), 2025",
+  "coment": "Após duas doses de diazepam, a criança evoluiu com bradipneia (4 irpm), hipoxemia (80%) e bradicardia (50 bpm). Em pediatria, a bradicardia é quase sempre secundária à hipóxia, e o primeiro passo é ventilar com pressão positiva e oxigênio a 100%, com a bolsa adaptada à traqueostomia que a criança já tem. Compressões só entram se a frequência cardíaca seguir abaixo de 60 bpm com má perfusão apesar de oxigenação e ventilação adequadas. Atropina é secundária, e naloxona não reverte benzodiazepínico.",
+  "porAlt": [
+   "Compressões só começam se a frequência seguir abaixo de 60 bpm com má perfusão depois de ventilação e oxigenação adequadas.",
+   "A bradicardia é hipóxica; atropina sem ventilar não corrige a causa e fica para tônus vagal aumentado ou bloqueio.",
+   "Naloxona reverte opioides, não benzodiazepínicos, que causaram a depressão respiratória.",
+   "Correta: bradicardia com hipoventilação após benzodiazepínico se trata primeiro com ventilação com pressão positiva e oxigênio a 100%."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0661",
+  "q": "Paciente de 4 anos de idade, com antecedente de encefalopatia crônica não progressiva secundária à hipóxia perinatal, traqueostomia e gastrostomia, crises convulsivas de difícil controle em uso de múltiplas drogas antiepilépticas e hidrocefalia com derivação ventrículo-peritoneal (última troca por mau funcionamento há 3 meses). Comparece ao pronto-socorro em crise tônico-clônica iniciada há 1 hora, febre e piora neurológica há 1 dia. Ao exame físico, encontra-se convulsionando, PA de 150×60 mmHg, FC de 140 bpm, FR de 40 irpm, SpO2 de 98%, temperatura de 39,1 °C. Foram administradas duas doses de diazepam EV 0,2 mg/kg, com cessação dos movimentos tônico-clônicos. Em seguida, apresenta FR de 4 irpm, SpO2 de 80% em ar ambiente, FC de 50 bpm Após a conduta da questão anterior, a criança mantém FR espontânea de 4 irpm. Assinale alternativa que apresenta a melhor conduta",
+  "alts": [
+   "Intubação orotraqueal",
+   "Acoplar criança à ventilação mecânica",
+   "Administrar fenitoína EV 20 mg/kg em 20 minutos",
+   "Repetir dose de naloxona EV e manter em bomba de infusão contínua"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Hipoventilação na criança traqueostomizada",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American Heart Association. Diretrizes de RCP e Atendimento Cardiovascular de Emergência (Suporte Avançado de Vida em Pediatria), 2025",
+  "coment": "Persistindo a hipoventilação (4 irpm) após a ventilação manual, a criança precisa de suporte ventilatório mantido. Como já tem traqueostomia, a via aérea definitiva está pronta: basta conectá-la ao ventilador mecânico, sem intubação orotraqueal. A prioridade é a ventilação; uma droga de segunda linha, se indicada para prevenir recorrência da crise, não resolve a hipoventilação, e a naloxona não age sobre benzodiazepínicos. Febre e piora neurológica em portador de derivação ventrículo-peritoneal recém-trocada também pedem investigação de infecção ou disfunção da derivação.",
+  "porAlt": [
+   "A criança já tem traqueostomia, que é via aérea definitiva; intubar pela boca é desnecessário.",
+   "Correta: com via aérea definitiva pela traqueostomia e hipoventilação persistente, a conduta é conectá-la à ventilação mecânica.",
+   "A crise já cessou, e a droga de segunda linha não resolve a hipoventilação, que é o problema imediato.",
+   "A depressão respiratória veio do benzodiazepínico, sobre o qual a naloxona não age."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0662",
+  "q": "Lactente, 10 dias de vida, está na primeira consulta ambulatorial de rotina. Trata-se de uma criança que nasce a termo (38 semanas), parto normal, peso de nascimento de 3.210 g, Boletim de Apgar de 10/10, sem nenhuma intercorrência peri-natal. Mãe hígida, pré-natal sem intercorrências, sorologias maternas com imunidade para hepatite B e negativas para HIV e sífilis. No exame físico atual, não apresentou nenhuma alteração relevante. Tem peso de 3.220 g, estatura de 50 cm, e perímetro cefálico de 35 cm. A mãe está preocupada, pois viu que a criança ganhou apenas 10 g desde o nascimento. Ela acha que o leite materno não está sendo suficiente e gostaria de saber se poderia complementar a alimentação com algum outro leite. Assinale a alternativa que apresenta a orientação adequada para o caso descrito",
+  "alts": [
+   "Orientar iniciar fórmula láctea de termo após as mamadas do seio materno",
+   "Prescrever para a mãe estimulantes da produção láctea antes de iniciar outro leite",
+   "Coletar hemograma, urina tipo 1 e hormônios tireoidianos do recém-nascido",
+   "Tranquilizar a mãe e explicar que é a evolução de peso esperada para a idade"
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Recuperação do peso de nascimento",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 33: Saúde da Criança, crescimento e desenvolvimento, 2012; Ministério da Saúde. Caderno de Atenção Básica nº 23: Saúde da Criança, aleitamento materno e alimentação complementar, 2ª ed., 2015",
+  "coment": "Nos primeiros dias, o recém-nascido perde peso pela eliminação de líquido extracelular, urina e mecônio, em geral até 10% do peso de nascimento, e o recupera entre o 10º e o 14º dia. Com 10 dias, pesar 3.220 g para 3.210 g ao nascer significa que já recuperou o peso, com exame normal: a evolução é a esperada. A conduta é tranquilizar a mãe, reforçar o aleitamento materno exclusivo e observar a mamada. Complemento com fórmula prejudica a produção láctea e não tem indicação.",
+  "porAlt": [
+   "Introduzir fórmula sem indicação reduz a sucção ao seio e a produção de leite, e a criança já recuperou o peso de nascimento.",
+   "Não há sinal de hipogalactia: o peso de nascimento foi recuperado no 10º dia, como esperado.",
+   "Criança assintomática, com exame normal e evolução de peso adequada, não precisa de exames laboratoriais.",
+   "Correta: recuperar o peso de nascimento por volta do 10º dia de vida é a evolução normal."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0663",
+  "q": "Considere os seguintes pacientes: I. Recém-nascido a termo, com peso de nascimento de 2.330 g, com 3 meses de vida, em aleitamento materno exclusivo. II. Recém-nascido a termo, adequado para idade gestacional, com 8 meses de vida, recebendo leite de vaca integral, 1 fruta e 2 papas salgadas por dia. III. Recém-nascido a termo, adequado para idade gestacional, com 4 meses de vida, recebendo 900 mL fórmula láctea por dia. A profilaxia de anemia ferropriva com ferro está indicada para os pacientes",
+  "alts": [
+   "I e II, apenas",
+   "I e III, apenas",
+   "II e III, apenas",
+   "I, II e III"
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Profilaxia de anemia ferropriva",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Consenso sobre anemia ferropriva: mais que uma doença, uma urgência médica!, 2018",
+  "coment": "O consenso da SBP de 2018 indica ferro profilático para praticamente todos os lactentes. RN a termo com peso adequado, em aleitamento materno exclusivo ou não, recebe 1 mg/kg/dia de ferro elementar do 3º ao 24º mês, o que inclui a criança em fórmula (III) e a de 8 meses (II), esta com risco agravado pelo leite de vaca integral, pobre em ferro e causa de micro-hemorragias intestinais. RN a termo com peso abaixo de 2.500 g (I) recebe 2 mg/kg/dia a partir dos 30 dias por um ano e depois 1 mg/kg/dia até 24 meses. Logo, os três têm indicação.",
+  "porAlt": [
+   "Exclui a criança em fórmula, mas a SBP indica ferro a partir do 3º mês para todo RN a termo, em aleitamento exclusivo ou não.",
+   "Exclui a criança de 8 meses em leite de vaca integral, justamente a de maior risco de anemia.",
+   "Exclui o RN de baixo peso, que tem indicação desde os 30 dias de vida, em dose de 2 mg/kg/dia.",
+   "Correta: os três lactentes têm indicação de ferro profilático pelas recomendações da SBP de 2018."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0664",
+  "q": "Você é o(a) pediatra de plantão e é chamado(a) para prestar assistência ao parto de uma paciente na unidade de obstetrícia/neonatologia do seu hospital. A anamnese com a gestante, que é casada com seu primo de 1º grau, revela que: G3P2A0, pré-natal sem intercorrências, sorologias para HIV, sífilis, toxoplasmose, CMV e rubéola, sem alterações. Nega história de diabetes melito gestacional, doença hipertensiva específica da gestação e infecção por estreptococo do grupo B. Refere não ter filhos vivos já que os dois meninos anteriores faleceram aos 2 e 4 meses de vida, respectivamente, devido a quadro de gastroenterite associado à desidratação. Você recepciona o RN na sala de parto, que ocorre sem intercorrências clínicas, porém, ao exame clínico geral, você nota que a genitália do RN, apesar de masculina típica, não possui gônadas palpáveis. Sobre o caso descrito, é correto afirmar",
+  "alts": [
+   "Criptorquidia bilateral é o diagnóstico a ser estabelecido. Deve-se informar aos pais que as gônadas podem “descer” com o passar do tempo e que somente é necessária alguma intervenção médica caso o mesmo não ocorra até o 1 ano de vida",
+   "A história de consanguinidade e óbitos de filhos anteriores não têm relação com a ausência de gônadas do RN",
+   "A criança deve ser considerada do sexo feminino ainda na sala de parto, uma vez que não foram palpadas gônadas",
+   "Hiperplasia adrenal congênita é um diagnóstico provável e deve ser lembrado pela equipe médica"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Hiperplasia adrenal congênita ao nascer",
+  "cenario": "cc",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Speiser PW et al. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline, 2018",
+  "coment": "Genitália de aspecto masculino sem gônadas palpáveis é diferença do desenvolvimento sexual até prova em contrário, e a causa mais comum é a hiperplasia adrenal congênita por deficiência de 21-hidroxilase em criança 46,XX intensamente virilizada. A consanguinidade (herança autossômica recessiva) e a morte de dois meninos aos 2 e 4 meses por desidratação, compatível com crise perdedora de sal não diagnosticada, reforçam a hipótese. Antes de definir o sexo, colhem-se cariótipo, 17-hidroxiprogesterona, eletrólitos e ultrassonografia pélvica, com vigilância de perda de sal.",
+  "porAlt": [
+   "Criptorquidia bilateral com genitália masculina exige investigação de diferença do desenvolvimento sexual, sobretudo hiperplasia adrenal em menina virilizada.",
+   "Consanguinidade e mortes de meninos por desidratação sugerem doença autossômica recessiva com perda de sal, ligada ao quadro atual.",
+   "O sexo não se define na sala de parto: aguardam-se cariótipo, dosagens hormonais e imagem.",
+   "Correta: hiperplasia adrenal congênita é a principal hipótese diante de gônadas impalpáveis, consanguinidade e irmãos mortos por desidratação."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0665",
+  "q": "A porcentagem de peso perdida pelos recém-nascidos, nos primeiros dias de vida, pela eliminação de urina e mecônio corresponde a",
+  "alts": [
+   "5% do peso",
+   "10% do peso",
+   "15% do peso",
+   "20% do peso"
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Perda de peso fisiológica do RN",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, 2ª ed., 2014",
+  "coment": "Nos primeiros dias de vida, o recém-nascido perde peso pela contração do líquido extracelular, com eliminação de urina e mecônio, somada à ingestão ainda pequena. A perda considerada fisiológica no RN a termo chega a cerca de 10% do peso de nascimento, com nadir entre o 3º e o 5º dia e recuperação entre o 10º e o 14º dia. Perdas acima de 10% sinalizam problema de amamentação, desidratação ou doença e pedem avaliação da mamada e da hidratação.",
+  "porAlt": [
+   "Perda de 5% está dentro do esperado, mas o limite de referência da perda fisiológica é de até 10%.",
+   "Correta: a perda fisiológica do RN a termo vai até cerca de 10% do peso de nascimento.",
+   "Perda de 15% é excessiva e indica desidratação ou falha de amamentação.",
+   "Perda de 20% é patológica e grave, com risco de hipernatremia."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0666",
+  "q": "Menino, 7 anos de idade, acompanhado no ambulatório de pneumologia por conta de asma grave, com uso irregular de medicações. É admitido no pronto-socorro pediátrico com dispneia importante, sibilância difusa e tosse seca há cerca de 8 horas, após auxiliar o pai na limpeza do porão da casa. A mãe relata ter feito uso do salbutamol em casa (6 puffs em doses repetidas ao longo de 2 horas), sem resposta adequada. Ao exame físico de chegada, apresentava-se agitado, com fala entrecortada, uso intenso de musculatura acessória, tiragens intercostal e de fúrcula. Ausculta com sibilos expiratórios difusos e redução de murmúrios vesiculares globalmente. Boa perfusão periférica, ausculta cardíaca com bulhas rítmicas e normofonéticas, sem sopros. FC de 128 bpm, FR de 40 irpm, SpO2 de 87% em ar ambiente e PA de 100×60 mmHg. Foi submetido a tratamento inicial em sala de emergência, onde iniciou oxigênio por máscara não-reinalante, obtido acesso periférico com administração de metilprednisolona e iniciado salbutamol inalatório 800 µg repetido a cada 20 minutos e brometo de ipratróprio. Mantido sob monitorização contínua. Após cerca de 1 hora, encontrava-se ainda com intenso desconforto respiratório, sonolento, mais taquipneico (FR de 50 irpm), com SpO2 de 90% com máscara não-reinalante. Colhida a seguinte gasometria arterial: pH: 7,28 PaCO2: 58 mmHg PaO2: 65 mmHg HCO3-: 24 mEq/L SpO2: 90% Optou-se pela transferência à unidade de terapia intensiva para monitorização e seguimento das medidas de tratamento e suporte Entre as terapias que podem ser instituídas para o paciente, em seu quadro atual, assinale a alternativa correta",
+  "alts": [
+   "O uso de mistura hélio-oxigênio (heliox) apresenta benefícios na promoção de melhor fluxo aéreo em pacientes com quadros obstrutivos graves. Seu uso é indicado, especialmente, nos pacientes que necessitam de elevadas FiO2, uma vez que tem maior eficácia em misturas 20%/80% ou 10%/90% com oxigênio",
+   "Sulfato de magnésio IV não é recomendação de rotina nas exacerbações asmáticas, sendo reservado para pacientes os quais não responderam ao tratamento inicial e que persistem hipoxêmicos após abordagem inicial. O uso inalatório não apresenta benefícios",
+   "Aminofilina e teofilina são alternativas válidas e seguras em pacientes refratários à terapia inicial. Ambas as medicações apresentam um bom perfil de segurança, mais seguras que os b2-agonistas intravenosos",
+   "A evidência para uso de Ventilação Não-Invasiva (VNI) em asma é substancial, com vários estudos demonstrando redução da necessidade de intubação orotraqueal. É particularmente determinante na redução de intubação orotraqueal em pacientes que apresentam alteração de nível de consciência ou agitação devido à hipoxemia/hipercapnia"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Terapias adjuvantes na asma grave",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Global Initiative for Asthma (GINA), 2026",
+  "coment": "Na crise asmática grave sem resposta ao tratamento inicial e com hipoxemia persistente, o magnésio intravenoso é o adjuvante com respaldo do GINA, que não o recomenda de rotina e não indica a forma nebulizada. O heliox só funciona com hélio em concentração alta (70:30 ou 80:20 de hélio e oxigênio), o que o torna inviável em quem precisa de FiO2 elevada. Aminofilina e teofilina têm janela terapêutica estreita e mais efeitos adversos (arritmias, convulsões, vômitos). A VNI tem evidência limitada na asma e é contraindicada com rebaixamento de consciência ou agitação intensa.",
+  "porAlt": [
+   "Misturas com só 10 a 20% de hélio não têm efeito: o heliox exige 60 a 80% de hélio e por isso não serve a quem precisa de FiO2 alta.",
+   "Correta: o magnésio IV fica para quem não respondeu ao tratamento inicial e segue hipoxêmico; a via inalatória não tem benefício consistente.",
+   "Aminofilina e teofilina têm janela terapêutica estreita e mais efeitos adversos graves que os beta-2 intravenosos.",
+   "A evidência da VNI na asma é limitada, e rebaixamento de consciência ou agitação contraindicam o método."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0667",
+  "q": "Menino, 7 anos de idade, acompanhado no ambulatório de pneumologia por conta de asma grave, com uso irregular de medicações. É admitido no pronto-socorro pediátrico com dispneia importante, sibilância difusa e tosse seca há cerca de 8 horas, após auxiliar o pai na limpeza do porão da casa. A mãe relata ter feito uso do salbutamol em casa (6 puffs em doses repetidas ao longo de 2 horas), sem resposta adequada. Ao exame físico de chegada, apresentava-se agitado, com fala entrecortada, uso intenso de musculatura acessória, tiragens intercostal e de fúrcula. Ausculta com sibilos expiratórios difusos e redução de murmúrios vesiculares globalmente. Boa perfusão periférica, ausculta cardíaca com bulhas rítmicas e normofonéticas, sem sopros. FC de 128 bpm, FR de 40 irpm, SpO2 de 87% em ar ambiente e PA de 100×60 mmHg. Foi submetido a tratamento inicial em sala de emergência, onde iniciou oxigênio por máscara não-reinalante, obtido acesso periférico com administração de metilprednisolona e iniciado salbutamol inalatório 800 µg repetido a cada 20 minutos e brometo de ipratróprio. Mantido sob monitorização contínua. Após cerca de 1 hora, encontrava-se ainda com intenso desconforto respiratório, sonolento, mais taquipneico (FR de 50 irpm), com SpO2 de 90% com máscara não-reinalante. Colhida a seguinte gasometria arterial: pH: 7,28 PaCO2: 58 mmHg PaO2: 65 mmHg HCO3-: 24 mEq/L SpO2: 90% Optou-se pela transferência à unidade de terapia intensiva para monitorização e seguimento das medidas de tratamento e suporte Quanto a medidas que podem ser instauradas para otimizar a ventilação mecânica nesse paciente, considerando a fisiopatologia do quadro, assinale a alternativa correta",
+  "alts": [
+   "Aumento da PEEP é fundamental para evitar a hiperinsuflação, característica de quadros obstrutivos graves",
+   "Deve-se utilizar volume corrente elevado, próximo a 12 mL/kg de modo a superar a resistência das vias aéreas, que se encontra muito aumentada no quadro",
+   "Manter uma relação entre tempos inspiratório e expiratório por volta de 1:3 associada à hipercapnia permissiva, permitindo exalação completa do ar e controlando a auto-PEEP",
+   "O aumento da frequência respiratória é medida essencial, independente da relação entre os tempos inspiratório e expiratório de modo a evitar a hipercapnia"
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Ventilação mecânica na asma",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Nievas IF, Anand KJ. Severe Acute Asthma Exacerbation in Children: A Stepwise Approach for Escalating Therapy in a Pediatric Intensive Care Unit. J Pediatr Pharmacol Ther, 2013",
+  "coment": "O problema central da asma em ventilação mecânica é o aprisionamento de ar (hiperinsuflação dinâmica e auto-PEEP), que causa barotrauma e hipotensão. A estratégia é prolongar a expiração: frequência baixa, tempo inspiratório curto, relação I:E de 1:3 ou mais, volume corrente de 6 a 8 mL/kg e aceitação da hipercapnia (hipercapnia permissiva, com pH acima de cerca de 7,2). PEEP alta não previne a hiperinsuflação, e aumentar a frequência encurta a expiração e piora a auto-PEEP.",
+  "porAlt": [
+   "PEEP acima da auto-PEEP agrava a hiperinsuflação; a prevenção vem do tempo expiratório longo.",
+   "Volume corrente de 12 mL/kg aumenta o aprisionamento de ar e o risco de barotrauma; usa-se 6 a 8 mL/kg.",
+   "Correta: relação I:E em torno de 1:3 com hipercapnia permissiva permite esvaziamento completo e controla a auto-PEEP.",
+   "Elevar a frequência encurta a expiração, aumenta a auto-PEEP e pode precipitar hipotensão e pneumotórax."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0668",
+  "q": "Menino, 7 anos de idade, acompanhado no ambulatório de pneumologia por conta de asma grave, com uso irregular de medicações. É admitido no pronto-socorro pediátrico com dispneia importante, sibilância difusa e tosse seca há cerca de 8 horas, após auxiliar o pai na limpeza do porão da casa. A mãe relata ter feito uso do salbutamol em casa (6 puffs em doses repetidas ao longo de 2 horas), sem resposta adequada. Ao exame físico de chegada, apresentava-se agitado, com fala entrecortada, uso intenso de musculatura acessória, tiragens intercostal e de fúrcula. Ausculta com sibilos expiratórios difusos e redução de murmúrios vesiculares globalmente. Boa perfusão periférica, ausculta cardíaca com bulhas rítmicas e normofonéticas, sem sopros. FC de 128 bpm, FR de 40 irpm, SpO2 de 87% em ar ambiente e PA de 100×60 mmHg. Foi submetido a tratamento inicial em sala de emergência, onde iniciou oxigênio por máscara não-reinalante, obtido acesso periférico com administração de metilprednisolona e iniciado salbutamol inalatório 800 µg repetido a cada 20 minutos e brometo de ipratróprio. Mantido sob monitorização contínua. Após cerca de 1 hora, encontrava-se ainda com intenso desconforto respiratório, sonolento, mais taquipneico (FR de 50 irpm), com SpO2 de 90% com máscara não-reinalante. Colhida a seguinte gasometria arterial: pH: 7,28 PaCO2: 58 mmHg PaO2: 65 mmHg HCO3-: 24 mEq/L SpO2: 90% Optou-se pela transferência à unidade de terapia intensiva para monitorização e seguimento das medidas de tratamento e suporte Durante o plantão noturno do 4º dia de internação, o paciente encontra-se em ventilação mecânica assistida-controlada a pressão com os seguintes parâmetros: PIP: 50 cmH2O PEEP: 6 cmH2O FR: 16 irpm Tempo inspiratório: 0,8 s FiO2: 60%, para fazer um volume corrente de 7 mL/kg Você é chamado ao leito pela enfermagem e encontra o paciente com o seguinte exame físico: mal estado geral, descorado (3+/4+), hidratado, cianótico, afebril, sedado e mantendo a frequência respiratória do ventilador. FC de 133 bpm, FR de 16 irpm, SpO2 de 83% e PA de 70×30 mmHg. Ausência de murmúrio vesicular bilateral. Ao desacoplar paciente do aparelho e colocá-lo em ventilação manual com bolsa-valva-máscara, nota-se dificuldade em promover ventilação. Quanto ao diagnóstico mais provável e a sua justificativa para as alterações encontradas, assinale a alternativa correta",
+  "alts": [
+   "O paciente apresenta um quadro de choque distributivo, provavelmente relacionado à sepse de foco pulmonar, por conta de uma pneumonia associada à ventilação mecânica, devido à intubação prolongada",
+   "O quadro é consistente com choque hipovolêmico. As altas pressões da ventilação mecânica limitam o retorno venoso do paciente, comprometendo a pré-carga e produzindo hipotensão, além de contribuir para a hipoxemia",
+   "Trata-se de um choque cardiogênico, devido a aumentos de pressão intratorácica comprometerem a capacidade de ejeção miocárdica. A necessidade de doses elevadas de sedativos para ventilar pacientes com quadros obstrutivos contribui para o comprometimento da contratilidade cardíaca",
+   "A condição pode ser justificada por um choque obstrutivo devido à pneumotórax hipertensivo, que ocorreu devido a barotrauma na ventilação mecânica. A queda de pressão arterial aponta para comprometimento do débito cardíaco, e o elevado PIP na ventilação pode ter sido a causa do processo"
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Pneumotórax hipertensivo em ventilação",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "American Heart Association. Diretrizes de RCP e Atendimento Cardiovascular de Emergência (Suporte Avançado de Vida em Pediatria), 2025",
+  "coment": "Asmático ventilado com pressão inspiratória de 50 cmH2O que piora de repente, com hipoxemia, hipotensão, ausência de murmúrio e dificuldade de ventilar até com bolsa, tem pneumotórax hipertensivo por barotrauma, um choque obstrutivo. Na regra DOPE da deterioração do paciente intubado (deslocamento, obstrução, pneumotórax, falha do equipamento), desconectar e ventilar à mão separa o problema do aparelho; persistindo a dificuldade, faz-se descompressão por punção e drenagem torácica. A hiperinsuflação dinâmica grave é o diferencial e melhora ao desconectar do ventilador.",
+  "porAlt": [
+   "Sepse por pneumonia associada à ventilação evolui em horas a dias com febre e não explica ausência súbita de murmúrio com dificuldade de ventilar.",
+   "A queda do retorno venoso por pressão intratorácica é mecanismo obstrutivo, não perda de volume, e não explica a ausência súbita de murmúrio.",
+   "Não há disfunção miocárdica primária; a queda de débito vem do tórax hipertenso comprimindo o retorno venoso.",
+   "Correta: pressão inspiratória alta, ausência de murmúrio, dificuldade de ventilar e hipotensão configuram pneumotórax hipertensivo e choque obstrutivo."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0669",
+  "q": "Menino, 7 anos de idade, acompanhado no ambulatório de pneumologia por conta de asma grave, com uso irregular de medicações. É admitido no pronto-socorro pediátrico com dispneia importante, sibilância difusa e tosse seca há cerca de 8 horas, após auxiliar o pai na limpeza do porão da casa. A mãe relata ter feito uso do salbutamol em casa (6 puffs em doses repetidas ao longo de 2 horas), sem resposta adequada. Ao exame físico de chegada, apresentava-se agitado, com fala entrecortada, uso intenso de musculatura acessória, tiragens intercostal e de fúrcula. Ausculta com sibilos expiratórios difusos e redução de murmúrios vesiculares globalmente. Boa perfusão periférica, ausculta cardíaca com bulhas rítmicas e normofonéticas, sem sopros. FC de 128 bpm, FR de 40 irpm, SpO2 de 87% em ar ambiente e PA de 100×60 mmHg. Foi submetido a tratamento inicial em sala de emergência, onde iniciou oxigênio por máscara não-reinalante, obtido acesso periférico com administração de metilprednisolona e iniciado salbutamol inalatório 800 µg repetido a cada 20 minutos e brometo de ipratróprio. Mantido sob monitorização contínua. Após cerca de 1 hora, encontrava-se ainda com intenso desconforto respiratório, sonolento, mais taquipneico (FR de 50 irpm), com SpO2 de 90% com máscara não-reinalante. Colhida a seguinte gasometria arterial: pH: 7,28 PaCO2: 58 mmHg PaO2: 65 mmHg HCO3-: 24 mEq/L SpO2: 90% Optou-se pela transferência à unidade de terapia intensiva para monitorização e seguimento das medidas de tratamento e suporte Após 7 dias em ventilação mecânica o paciente tolerou desmame progressivo de parâmetros, evoluindo para extubação orotraqueal. Os sedativos (fentanil e cetamina) foram suspensos pela manhã, o paciente foi colocado em modo pressão de suporte por 60 minutos. Durante o período, manteve-se clinicamente estável, bem acoplado na ventilação, sem desconforto respiratório ou quedas de saturação. Extubado sem intercorrências. No período da noite, você é chamado para avaliar paciente que apresentou 4 evacuações líquidas e encontra-se agitado e sudoreico. Ao exame físico, nota-se regular estado geral, descorado (+/4+), hidratado, acianótico, anictérico, febril (38,7 ºC), taquipneico, bastante agitado e com dificuldade para se manter tranquilo e dormir. Quanto ao quadro atual e sua abordagem terapêutica, assinale a alternativa correta",
+  "alts": [
+   "O paciente está em quadro de infecção grave, com comprometimento de sistema nervoso central. Deve-se iniciar antibioticoterapia, além de colher culturas. Considerar a coleta de líquor por punção lombar devido ao comprometimento neurológico",
+   "Trata-se de provável síndrome de abstinência devido à suspensão abrupta e sem profilaxia dos opioides em uso. Administração de morfina agora e introdução de metadona de horário podem auxiliar no controle do quadro. Deve-se seguir monitorando o paciente para ajustes adicionais da dose",
+   "Trata-se de quadro de síndrome neuroléptica maligna devido ao uso de antipsicóticos durante o período de intubação orotraqueal. Deve-se descontinuar esse tipo de medicação, administrar diazepam para alívio dos sintomas e considerar dantrolene na manutenção do quadro de hipertermia",
+   "Os períodos de hipoxemia em ventilação mecânica podem ter levado a comprometimento neurológico, consistente com encefalopatia hipóxico-isquêmica. Os tremores são consistentes com distúrbios de movimento por acometimento de gânglios da base"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Abstinência de opioide na UTI",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Harris J et al. Clinical recommendations for pain, sedation, withdrawal and delirium assessment in critically ill infants and children: an ESPNIC position statement. Intensive Care Med, 2016",
+  "coment": "Após 7 dias de fentanil contínuo, a suspensão abrupta sem desmame desencadeia síndrome de abstinência em poucas horas: agitação, insônia, sudorese, febre, taquipneia, tremores e diarreia, sinais de hiperatividade simpática e gastrointestinal. O risco cresce com uso por mais de 5 dias e com doses altas. A conduta é retomar o opioide (resgate com morfina) e fazer desmame com opioide de meia-vida longa, como metadona enteral, monitorando com escalas como a WAT-1. Infecção segue no diferencial, mas o conjunto e o momento apontam para abstinência.",
+  "porAlt": [
+   "Infecção entra no diferencial, mas diarreia, sudorese e agitação horas após suspender opioide sem desmame configuram abstinência.",
+   "Correta: suspensão abrupta de fentanil após 7 dias causa abstinência, tratada com resgate de morfina e desmame com metadona.",
+   "Não há relato de antipsicótico, e a síndrome neuroléptica maligna cursa com rigidez e rebaixamento, não com agitação e diarreia.",
+   "Encefalopatia hipóxico-isquêmica não surge horas após extubação bem-sucedida em paciente estável e bem acoplado."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0670",
+  "q": "Lactente de 40 dias de vida é trazido à consulta com queixa de 20 dias de regurgitações frequentes que ocorrem cerca de 10 minutos após as mamadas. Está em aleitamento materno exclusivo a cada 2 horas e evacua fezes líquidas amareladas 5 a 6 vezes ao dia de forma ruidosa. O exame clínico é normal e está ganhando 25 g de peso por dia. Assinale a alternativa que indica a hipótese diagnóstica mais provável e a respectiva conduta",
+  "alts": [
+   "Intolerância à lactose – excluir leite de vaca da dieta materna",
+   "Refluxo gastroesofágico fisiológico – orientações posturais",
+   "Doença do refluxo gastroesofágico – introduzir procinético e antiácido",
+   "Estenose hipertrófica do piloro – solicitar ultrassonografia do abdome superior"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Refluxo fisiológico do lactente",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Rosen R et al. Pediatric Gastroesophageal Reflux Clinical Practice Guidelines: Joint Recommendations of NASPGHAN and ESPGHAN, 2018",
+  "coment": "Regurgitações frequentes em lactente de 40 dias que ganha bem (25 g/dia), sem recusa alimentar, irritabilidade importante, vômitos em jato ou outros sinais de alarme, definem o lactente regurgitador, ou refluxo fisiológico, que melhora espontaneamente até cerca de 12 meses. A conduta é tranquilizar a família e orientar: mamadas sem excesso, manter a criança ereta após mamar e dormir em decúbito dorsal. Fezes líquidas, amareladas e frequentes são normais em aleitamento exclusivo. Antiácido e procinético não têm indicação.",
+  "porAlt": [
+   "Fezes líquidas frequentes são normais no aleitamento exclusivo, e o ganho de peso é ótimo, sem sinal de intolerância.",
+   "Correta: regurgitação com bom ganho de peso e exame normal é refluxo fisiológico, conduzido com tranquilização e orientações.",
+   "Doença do refluxo exige complicação ou sintoma incômodo, e procinéticos não são recomendados em lactentes.",
+   "A estenose de piloro causa vômitos em jato, progressivos, com perda de peso e alcalose, não regurgitação com bom ganho."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0671",
+  "q": "Menino, 15 anos de idade, iniciou quadro de ataxia cerebelar, cefaleia e vômitos há cerca de 4 semanas. Compareceu em consulta ambulatorial com neurologista que solicitou tomografia de crânio, a qual demonstrou a presença de tumor em topografia de fossa posterior. Pela manhã o paciente foi submetido à ressecção tumoral pela equipe de neurocirurgia, sendo transferido à UTI após a abordagem. Você recebe o paciente da equipe de anestesistas em ventilação mecânica, sedado com midazolam contínuo e recebendo soro de manutenção isotônico. Ao exame físico, o paciente encontra-se em regular estado geral, hidratado, acianótico, anictérico, afebril, bem acoplado em ventilação mecânica e fazendo a frequência respiratória determinada no aparelho. FC de 65 bpm, FR de 14 irpm, SpO2 de 97% PA de 114×74 mmHg, Dextro: de 100 mg/dL. Ausculta cardíaca e pulmonar sem alterações. Exame abdominal inocente. Apresenta cateter venoso central em veia jugular interna direita, sonda nasogástrica, sonda vesical de demora, cânula orotraqueal e catéter de derivação ventricular externa com débito xantocrômico. Sedado com midazolam contínuo a 0,2 mg/kg/h e em ventilação mecânica modo assistido-controlado à pressão com os seguintes parâmetros: PIP: 18 cmH2O PEEP: 6 cmH2O FR: 14 irpm Tempo inspiratório: 1,0 s FiO2: 25% A equipe de neurocirurgia informa que a ressecção do tumor foi complicada e orienta manter paciente com medidas para neuroproteção contra hipertensão intracraniana. Nesse contexto, assinale a alternativa correta a respeito dessas medidas",
+  "alts": [
+   "É essencial minimizar a quantidade de sedativos administrados, de modo a permitir a avaliação de potenciais sequelas neurológicas imediatas ao paciente pelo procedimento cirúrgico",
+   "Está indicada a monitorização dos valores de CO2 exalado no final da expiração por meio de capnografia. A hipercapnia pode aumentar o fluxo de sangue para o sistema nervoso central, culminando com aumentos da pressão intracraniana",
+   "Deve-se controlar de maneira estrita natremia, evitando que o paciente evolua com valores de sódio sérico acima de 135 mEq/L pelo risco de que as modificações de osmolaridade levem a quadros convulsivos",
+   "Deve-se manter o paciente em decúbito 0° para otimizar a drenagem de líquor pela derivação ventricular externa"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Neuroproteção no pós-operatório",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Kochanek PM et al. Guidelines for the Management of Pediatric Severe Traumatic Brain Injury, Third Edition, 2019",
+  "coment": "A hipercapnia causa vasodilatação cerebral, aumenta o volume sanguíneo intracraniano e eleva a pressão intracraniana; a hipocapnia excessiva causa isquemia. Por isso, no paciente ventilado com risco de hipertensão intracraniana, monitora-se o CO2 exalado por capnografia para manter normocapnia (PaCO2 de 35 a 40 mmHg). Completam a neuroproteção cabeceira a 30° com cabeça na linha média, sedação e analgesia adequadas, normotermia e sódio na faixa normal ou normal alta, evitando hiponatremia. Reduzir sedativos expõe a picos de pressão intracraniana.",
+  "porAlt": [
+   "Sedação e analgesia adequadas fazem parte da neuroproteção; reduzi-las expõe a picos de pressão intracraniana.",
+   "Correta: a hipercapnia dilata os vasos cerebrais e eleva a pressão intracraniana, por isso se monitora o CO2 exalado.",
+   "O alvo é evitar hiponatremia, não sódio acima de 135 mEq/L; a hiponatremia agrava o edema cerebral.",
+   "A cabeceira fica a 30° com cabeça na linha média para favorecer a drenagem venosa; a drenagem da DVE se regula pela altura do sistema."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0672",
+  "q": "Menino, 15 anos de idade, iniciou quadro de ataxia cerebelar, cefaleia e vômitos há cerca de 4 semanas. Compareceu em consulta ambulatorial com neurologista que solicitou tomografia de crânio, a qual demonstrou a presença de tumor em topografia de fossa posterior. Pela manhã o paciente foi submetido à ressecção tumoral pela equipe de neurocirurgia, sendo transferido à UTI após a abordagem. Você recebe o paciente da equipe de anestesistas em ventilação mecânica, sedado com midazolam contínuo e recebendo soro de manutenção isotônico. Ao exame físico, o paciente encontra-se em regular estado geral, hidratado, acianótico, anictérico, afebril, bem acoplado em ventilação mecânica e fazendo a frequência respiratória determinada no aparelho. FC de 65 bpm, FR de 14 irpm, SpO2 de 97% PA de 114×74 mmHg, Dextro: de 100 mg/dL. Ausculta cardíaca e pulmonar sem alterações. Exame abdominal inocente. Apresenta cateter venoso central em veia jugular interna direita, sonda nasogástrica, sonda vesical de demora, cânula orotraqueal e catéter de derivação ventricular externa com débito xantocrômico. Sedado com midazolam contínuo a 0,2 mg/kg/h e em ventilação mecânica modo assistido-controlado à pressão com os seguintes parâmetros: PIP: 18 cmH2O PEEP: 6 cmH2O FR: 14 irpm Tempo inspiratório: 1,0 s FiO2: 25% Você é chamado para avaliar o paciente que se encontra, nesse momento, com hipertonia de membros superiores e inferiores, desvio do olhar para a direita, taquicardia e queda de saturação periférica até 88% de forma súbita. A suspeita principal é de uma crise epiléptica e opta-se por medicar o paciente nesse momento, de forma a controlar a crise vigente. A respeito das medicações usadas para estado de mal epiléptico em terapia intensiva, assinale a alternativa que relaciona a droga a potenciais efeitos colaterais de forma correta",
+  "alts": [
+   "Os benzodiazepínicos são drogas que não afetam o sistema cardiovascular, permitindo sustentação de pressão arterial. Entretanto, são hepatotóxicas, devendo ser utilizadas com parcimônia em pacientes com disfunção hepática",
+   "O ácido valproico age como um antagonista glutamatérgico. Seus efeitos colaterais principais são alucinações, taquicardia e hipertensão arterial",
+   "O levetiracetam é uma droga anti-epiléptica que atua modulando a liberação de neurotransmissores através da ligação a proteína 2A da vesícula sináptica. Trombocitopenia e hiperamonemia são efeitos adversos comuns do uso dessa medicação",
+   "A fenitoína é administrada na dose de 15 a 20 mg/kg (ataque) e age como bloqueador de canais de sódio. Os efeitos adversos incluem arritmias, necrose no local da infusão e hiperplasia gengival (no uso crônico)"
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Drogas no estado de mal epiléptico",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Glauser T et al. Evidence-Based Guideline: Treatment of Convulsive Status Epilepticus in Children and Adults, American Epilepsy Society, 2016",
+  "coment": "A fenitoína bloqueia canais de sódio voltagem-dependentes e é dada em ataque de 15 a 20 mg/kg, em infusão lenta pelo risco de arritmias e hipotensão. Extravasamento ou infusão em veia periférica podem causar necrose local (síndrome da luva roxa), e o uso crônico causa hiperplasia gengival e hirsutismo. Benzodiazepínicos deprimem a respiração e a pressão arterial. O valproato age em canais de sódio e na via GABA e causa hepatotoxicidade, hiperamonemia, trombocitopenia e pancreatite. O levetiracetam liga-se à proteína SV2A e causa sobretudo sonolência e alterações de comportamento.",
+  "porAlt": [
+   "Benzodiazepínicos causam depressão respiratória e hipotensão, sobretudo em doses repetidas; hepatotoxicidade não é o problema principal.",
+   "O valproato não é antagonista glutamatérgico; seus efeitos típicos são hepatotoxicidade, hiperamonemia, trombocitopenia e pancreatite.",
+   "O mecanismo via SV2A está certo, mas trombocitopenia e hiperamonemia são efeitos do valproato; o levetiracetam causa sonolência e irritabilidade.",
+   "Correta: a fenitoína bloqueia canais de sódio, o ataque é de 15 a 20 mg/kg e os efeitos incluem arritmia, necrose local e hiperplasia gengival."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0673",
+  "q": "Após alguns dias em suporte com ventilação mecânica, progrediu-se a redução gradual das medicações sedativas e o paciente foi extubado com sucesso. Entretanto, com o paciente bem consciente (Glasgow coma scale = 15) nos primeiros dias após retirada da ventilação mecânica invasiva, nota-se que ele não consegue falar e apresenta certa dificuldade ao deglutir líquidos não espessados. Em alguns momentos, apresenta-se choroso ou irritado, com importante labilidade emocional. Optou-se por realizar uma ressonância nuclear magnética de crânio a qual, além das alterações localizadas em fossa posterior (ressecção tumoral recente), não demonstrou outras alterações (sem anormalidades no parênquima cerebral). Em relação ao quadro apresentado pelo paciente, assinale a alternativa correta",
+  "alts": [
+   "Trata-se de quadro de crise epiléptica parcial, localizada em região da fala e produzindo o quadro de incapacidade de falar. As alterações emocionais fazem parte do quadro, o que pode apontar para foco de epilepsia surgindo em lobo frontal",
+   "O quadro é consistente com acometimento de tronco encefálico. As lesões de núcleos de pares cranianos podem explicar o processo, sendo que a audição pode estar comprometida, o que leva ao quadro de mutismo do paciente",
+   "O paciente apresenta quadro consistente com mutismo cerebelar, condição possível em manipulações cirúrgicas por tumores de fossa posterior. O tratamento consiste em suporte e reabilitação, e o quadro tende a ser transitório",
+   "Trata-se de um quadro de afasia por comprometimento de lobo temporal devido à isquemia no processo de pós-operatório. O acometimento principal localiza-se hemisfério cerebral esquerdo"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Mutismo cerebelar pós-operatório",
+  "cenario": "uti",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Gudrunardottir T et al. Consensus paper on post-operative pediatric cerebellar mutism syndrome: the Iceland Delphi results. Childs Nerv Syst, 2016",
+  "coment": "A síndrome do mutismo cerebelar (síndrome da fossa posterior) ocorre em parte importante das crianças operadas de tumor de fossa posterior, sobretudo meduloblastoma com acometimento do vermis. Surge de horas a poucos dias após a cirurgia, com mutismo ou fala muito reduzida, labilidade emocional, irritabilidade, disfagia e hipotonia, com consciência preservada. Atribui-se à lesão das vias dento-tálamo-corticais. Não há tratamento específico: suporte, fonoterapia e reabilitação. A fala costuma voltar em semanas a meses, muitas vezes com disartria residual.",
+  "porAlt": [
+   "Crise parcial causa sintomas paroxísticos, não mutismo contínuo com disfagia e labilidade em paciente consciente.",
+   "A ressonância não mostra lesão de tronco, e o quadro clássico após cirurgia de fossa posterior é o mutismo cerebelar, não surdez.",
+   "Correta: mutismo, disfagia e labilidade emocional após ressecção de tumor de fossa posterior configuram mutismo cerebelar, em geral transitório.",
+   "Afasia por isquemia temporal exigiria lesão no parênquima supratentorial, ausente na ressonância."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0674",
+  "q": "Lactente de 6 meses de vida, com antecedente de atresia de vias biliares, submetido a procedimento de Kasai aos 2 meses de idade, sem sucesso, evoluindo com cirrose hepática avançada e múltiplas internações. Comparece ao pronto-socorro com febre, piora da icterícia e acolia fecal há 1 dia. Ao exame físico, apresenta estado geral regular, ictérico, acianótico, hidratado, eupneico, ausculta cardiopulmonar sem alterações, abdome com ascite moderada, indolor, esplenomegalia palpável a 4 cm do rebordo costal esquerdo, sem alteração em relação a exames prévios. • Exames laboratoriais: Hb: 8 g/dL Plaquetas: 80.000/mm³ Leucócitos: 3.000/mm³ (60% neutrófilos, sem desvio à esquerda) PCR: 300 mg/L Bilirrubina total: 16 mg/dL com predomínio de Bilirrubina direta (basal de 5 mg/dL) TGO/AST: 500 U/L (basal 200 U/L) TGP/ALT: 600 U/L (basal 200 U/L) GGT: 700 U/L (basal 250 U/L) Função renal preservada USG abdominal sem alterações relevantes Baseando-se nos dados apresentados, qual o diagnóstico mais provável do quadro agudo do paciente?",
+  "alts": [
+   "Peritonite bacteriana espontânea",
+   "Insuficiência hepática aguda",
+   "Colangite confirmada",
+   "Colangite suspeita"
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Colangite após portoenterostomia de Kasai",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "Calinescu AM et al. Cholangitis Definition and Treatment after Kasai Hepatoportoenterostomy for Biliary Atresia: A Delphi Process and International Expert Panel. J Clin Med, 2022",
+  "coment": "No primeiro ano após a portoenterostomia de Kasai, o consenso internacional de 2022 define colangite por dois grupos de achados. Clínicos: febre, mudança na cor das fezes, icterícia nova ou crescente e desconforto abdominal. Laboratoriais e de imagem: resposta inflamatória (leucócitos, PCR ou procalcitonina), aumento de transaminases, aumento de GGT ou bilirrubina e lagos biliares. Um item de cada grupo define colangite suspeita; dois de cada grupo, ou suspeita com hemocultura positiva, definem colangite confirmada. Aqui há febre, acolia e piora da icterícia, com PCR de 300 mg/L e alta de transaminases, GGT e bilirrubina: colangite confirmada.",
+  "porAlt": [
+   "Peritonite bacteriana espontânea não explica a acolia nem o salto de GGT e bilirrubina, e a ascite está indolor e inalterada.",
+   "Não há descrição de piora da função de síntese, e febre com PCR muito alta e acolia aguda apontam para infecção biliar.",
+   "Correta: três achados clínicos e três laboratoriais preenchem o critério de colangite confirmada do consenso de 2022.",
+   "Colangite suspeita exige um achado de cada grupo; com dois ou mais de cada, a classificação passa a confirmada."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0675",
+  "q": "Lactente de 6 meses de vida, com antecedente de atresia de vias biliares, submetido a procedimento de Kasai aos 2 meses de idade, sem sucesso, evoluindo com cirrose hepática avançada e múltiplas internações. Comparece ao pronto-socorro com febre, piora da icterícia e acolia fecal há 1 dia. Ao exame físico, apresenta estado geral regular, ictérico, acianótico, hidratado, eupneico, ausculta cardiopulmonar sem alterações, abdome com ascite moderada, indolor, esplenomegalia palpável a 4 cm do rebordo costal esquerdo, sem alteração em relação a exames prévios. • Exames laboratoriais: Hb: 8 g/dL Plaquetas: 80.000/mm³ Leucócitos: 3.000/mm³ (60% neutrófilos, sem desvio à esquerda) PCR: 300 mg/L Bilirrubina total: 16 mg/dL com predomínio de Bilirrubina direta (basal de 5 mg/dL) TGO/AST: 500 U/L (basal 200 U/L) TGP/ALT: 600 U/L (basal 200 U/L) GGT: 700 U/L (basal 250 U/L) Função renal preservada USG abdominal sem alterações relevantes Considerando o diagnóstico mais provável e o manejo inicial recomendado, assinale a conduta adequada",
+  "alts": [
+   "Cefotaxima e ampicilina por 7 dias",
+   "Cefotaxima e ampicilina por 14 dias",
+   "Ampicilina por 14 dias",
+   "Transplante hepático de emergência"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Tratamento da colangite pós-Kasai",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "Calinescu AM et al. Cholangitis Definition and Treatment after Kasai Hepatoportoenterostomy for Biliary Atresia: A Delphi Process and International Expert Panel. J Clin Med, 2022",
+  "coment": "Colangite após Kasai se trata com antibiótico intravenoso que cubra bacilos gram-negativos entéricos (Escherichia coli, Klebsiella) e enterococo, como cefalosporina de 3ª geração associada a ampicilina. Pelo consenso internacional de 2022, a duração é de 10 a 14 dias na colangite suspeita e de 14 a 21 dias na confirmada; para este episódio confirmado, 14 dias. Ampicilina isolada não cobre gram-negativos produtores de betalactamase. O transplante é o destino de quem tem Kasai sem sucesso e cirrose avançada, mas não trata a infecção aguda, que deve ser controlada antes.",
+  "porAlt": [
+   "Sete dias ficam abaixo do mínimo recomendado até para a colangite suspeita, que é de 10 a 14 dias.",
+   "Correta: cefotaxima com ampicilina cobre gram-negativos e enterococo, e 14 dias atendem a colangite confirmada.",
+   "Ampicilina isolada não cobre gram-negativos entéricos resistentes, principais agentes da colangite.",
+   "O transplante está indicado no seguimento da cirrose avançada, mas não é emergência nem trata a colangite aguda."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0676",
+  "q": "Lactente de 2 meses de vida, previamente hígido, é levado ao pronto-socorro após queda acidental do colo da mãe para o trocador (aproximadamente 35 cm de altura), em que houve trauma em região cefálica. A criança permaneceu assintomática, sem vômitos, crises convulsivas, alteração de comportamento ou sinais de trauma. Ao exame físico, apresentou bom estado geral, sinais vitais normais, exame neurológico sem alterações, sem nenhum hematoma ou lesões em cabeça ou quaisquer partes do corpo. Criança ativa no momento. Assinale a alternativa que indica a melhor conduta",
+  "alts": [
+   "Alta médica com orientações",
+   "Tomografia computadorizada de crânio",
+   "Internação e encaminhamento à Vara da Infância",
+   "Observação hospitalar por 12 horas com reavaliações seriadas"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Trauma craniano leve no lactente",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kuppermann N et al. Identification of children at very low risk of clinically-important brain injuries after head trauma: a prospective cohort study (PECARN). Lancet, 2009",
+  "coment": "Pela regra do PECARN para menores de 2 anos, o risco de lesão intracraniana clinicamente importante é muito baixo (menor que 0,02%) quando a criança tem estado mental normal, não tem hematoma de couro cabeludo (exceto frontal), não perdeu a consciência por 5 segundos ou mais, o mecanismo não é grave (queda de altura menor que 90 cm), não há fratura palpável e os pais referem comportamento habitual. O lactente preenche todos: tomografia não está indicada. A alta vem com orientação de sinais de alarme. O mecanismo é compatível com a história, sem indício de maus-tratos.",
+  "porAlt": [
+   "Correta: sem nenhum critério de risco do PECARN, o risco é muito baixo e a criança pode ter alta com orientações.",
+   "A tomografia expõe o lactente à radiação sem benefício quando todos os critérios de baixo risco estão presentes.",
+   "Queda de 35 cm compatível com a história e sem lesões não sugere maus-tratos que justifiquem acionar a Vara da Infância.",
+   "Observação hospitalar é opção para quem tem achados isolados de risco intermediário, o que não ocorre aqui."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0677",
+  "q": "Assinale a alternativa que apresenta os critérios relacionados ao recém-nascido na passagem para a segunda etapa do Método Canguru",
+  "alts": [
+   "Estabilidade clínica, nutrição enteral plena por peito, sonda gástrica ou copo, peso mínimo de 1.250 g",
+   "Estabilidade clínica, nutrição enteral plena por peito, sonda gástrica ou copo, peso mínimo de 1.600 g",
+   "Estabilidade clínica, nutrição enteral plena por peito ou copo, peso mínimo de 2.000 g",
+   "Estabilidade clínica, nutrição enteral plena por peito ou copo, peso mínimo de 2.500 g"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Segunda etapa do Método Canguru",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Atenção Humanizada ao Recém-Nascido: Método Canguru, manual técnico, 3ª ed., 2017",
+  "coment": "O Método Canguru tem três etapas. A primeira começa no pré-natal de alto risco e segue na UTI e na unidade intermediária neonatal. Para a segunda etapa, em que mãe e filho ficam juntos em tempo integral na unidade canguru, o RN precisa de estabilidade clínica, nutrição enteral plena (seio, sonda gástrica ou copo) e peso mínimo de 1.250 g; a mãe deve desejar participar e estar disponível. A terceira etapa é ambulatorial, após alta com peso mínimo de 1.600 g, com seguimento até 2.500 g.",
+  "porAlt": [
+   "Correta: estabilidade clínica, nutrição enteral plena por seio, sonda ou copo e peso mínimo de 1.250 g são os critérios do RN para a segunda etapa.",
+   "Peso mínimo de 1.600 g é critério de alta para a terceira etapa, não de entrada na segunda.",
+   "A segunda etapa admite dieta por sonda gástrica, e 2.000 g não é peso de referência do método.",
+   "Peso de 2.500 g marca o fim do seguimento ambulatorial da terceira etapa."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0678",
+  "q": "O colostro humano é produzido pela glândula mamária nos primeiros sete dias após parto, o leite maduro, por sua vez, corresponde à produção láctea que ocorre a partir do 15º dia após o parto. Assinale a alternativa que indica as variações encontradas no colostro, em relação ao leite maduro",
+  "alts": [
+   "Maior quantidade de proteínas, lactose e vitaminas do complexo B",
+   "Maior quantidade de proteínas, minerais e vitaminas lipossolúveis",
+   "Maior quantidade de lactose e gorduras, menor quantidade de proteínas",
+   "Maior quantidade de lactose, menor quantidade de gorduras e vitaminas lipossolúveis"
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Colostro e leite maduro",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 23: Saúde da Criança, aleitamento materno e alimentação complementar, 2ª ed., 2015",
+  "coment": "O colostro, produzido nos primeiros dias após o parto, é mais rico em proteínas (sobretudo imunoglobulina A secretória, lactoferrina e células de defesa), em minerais como sódio e zinco e em vitaminas lipossolúveis (A, E e carotenoides, que lhe dão a cor amarelada). Tem menos lactose e menos gordura, portanto menos calorias por volume, que o leite maduro. Seu papel principal é imunológico e de maturação intestinal, além de efeito laxativo que favorece a eliminação do mecônio.",
+  "porAlt": [
+   "O colostro tem menos lactose que o leite maduro; a lactose aumenta com a maturação do leite.",
+   "Correta: o colostro tem mais proteínas, minerais e vitaminas lipossolúveis que o leite maduro.",
+   "É o inverso: o leite maduro tem mais lactose e gordura, e o colostro tem mais proteínas.",
+   "O colostro tem menos lactose e mais vitaminas lipossolúveis, não o contrário."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0679",
+  "q": "Paciente de 9 meses de vida, com diagnóstico de tetralogia de Fallot ainda não corrigida, trazido pelos pais ao pronto-socorro com história de diarreia pouco significativa há 2 dias, sem outros sintomas associados. Hoje, após episódio de choro intenso, apresentou subitamente cianose perioral significativa e “desfaleceu” segundo informado pelos pais. Admitido em pronto-socorro com irritabilidade intensa, cianótico, sendo levado à sala de emergência. Na monitorização inicial foi constatado FC de 165 bpm, PA adequada para a idade e SpO2 de 50% em ar ambiente. Puncionado acesso venoso periférico com sucesso. Sobre o quadro clínico apresentado, é correto afirmar",
+  "alts": [
+   "A ausculta cardíaca pode corroborar a hipótese diagnóstica de crise de hipóxia, visto que a intensidade do sopro cardíaco compatível com obstrução na via de saída do ventrículo direito, em geral, aumenta significativamente durante episódios de crise de hipóxia",
+   "O diagnóstico mais provável é crise de hipóxia e o tratamento deve incluir oferta de oxigênio a 100%, expansão volêmica, dose de morfina, vasoconstritores sistêmicos se necessário, entre outros",
+   "Trata-se de um caso de descompensação de insuficiência cardíaca congestiva e o tratamento deve ser realizado através do uso de diuréticos e vasodilatadores sistêmicos",
+   "Não havia necessidade de encaminhamento à sala de emergência, visto que não havia nenhum sinal de gravidade no caso, já que a insaturação é esperada em pacientes com tetralogia de Fallot"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Crise hipoxêmica na tetralogia de Fallot",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Park MK, Salamat M. Park's Pediatric Cardiology for Practitioners, 7ª ed., 2020",
+  "coment": "Lactente com tetralogia não corrigida que, após choro, fica intensamente cianótico, irritado e desfalece está em crise hipoxêmica: o espasmo infundibular e a queda da resistência vascular sistêmica aumentam o desvio da direita para a esquerda pela comunicação interventricular. A desidratação pela diarreia favorece. O sopro da estenose pulmonar diminui na crise, pois passa menos sangue pela via de saída. Tratamento: posição genupeitoral, oxigênio, expansão volêmica, morfina, bicarbonato se acidose, betabloqueador (propranolol ou esmolol) e vasoconstritor (fenilefrina) para elevar a resistência sistêmica.",
+  "porAlt": [
+   "Na crise o sopro diminui ou desaparece, porque cai o fluxo pela via de saída do ventrículo direito.",
+   "Correta: é crise hipoxêmica, tratada com oxigênio, volume, morfina, posição genupeitoral e vasoconstritor sistêmico se preciso.",
+   "Tetralogia não costuma causar insuficiência cardíaca; diurético e vasodilatador pioram a crise ao reduzir volume e resistência sistêmica.",
+   "Saturação de 50% com irritabilidade e síncope é sinal de gravidade e exige sala de emergência."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0680",
+  "q": "Recém-nascido com 31 semanas de idade gestacional, apresentou asfixia ao nascimento, mas evoluiu com boa recuperação. Peso ao nascimento de 1.100 g. Estava bem até o 11º dia de vida, quando apresentou distensão abdominal, letargia e diarreia sanguinolenta. Radiografia de abdome mostrava imagem de edema de alças. Deve-se prescrever para este recém-nascido",
+  "alts": [
+   "Leite humano por sonda orogástrica",
+   "Hidrolisado protéico por sonda orogástrica",
+   "Jejum com soro de manutenção",
+   "Nutrição parenteral plena"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Enterocolite necrosante",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, 2ª ed., 2014; Neu J, Walker WA. Necrotizing Enterocolitis. N Engl J Med, 2011",
+  "coment": "Prematuro de muito baixo peso, com asfixia ao nascer, que no 11º dia apresenta distensão abdominal, letargia e fezes com sangue, com edema de alças na radiografia, tem enterocolite necrosante ao menos suspeita (estágio IB de Bell, com sangue visível nas fezes), a confirmar com radiografias seriadas em busca de pneumatose. A conduta é suspender a dieta enteral, descomprimir com sonda gástrica aberta, iniciar antibiótico de largo espectro e oferecer nutrição parenteral total: o jejum dura de 3 dias na suspeita a 7 a 14 dias na confirmada, e um RN de 1.100 g não pode passar esse tempo só com soro de manutenção.",
+  "porAlt": [
+   "Com suspeita de enterocolite, qualquer dieta enteral, mesmo leite humano, deve ser suspensa.",
+   "Hidrolisado proteico não substitui o jejum enteral na fase aguda da enterocolite.",
+   "O jejum é necessário, mas soro de manutenção sem aminoácidos e lipídios não basta para um RN de muito baixo peso em jejum prolongado.",
+   "Correta: jejum enteral com nutrição parenteral plena é a base do tratamento clínico da enterocolite necrosante."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0681",
+  "q": "O primeiro minuto de vida, denominado de golden minute, refere-se ao tempo máximo após o nascimento para iniciar a",
+  "alts": [
+   "intubação traqueal",
+   "massagem cardíaca",
+   "ventilação com pressão positiva",
+   "oferta de oxigênio suplementar"
+  ],
+  "gab": 2,
+  "tema": "neonato",
+  "sub": "Minuto de ouro na reanimação",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP, 2026",
+  "coment": "Pela diretriz da SBP de 2026, o RN que após os passos iniciais (calor, posição, aspiração só se houver excesso de secreção, secagem) está em apneia, com respiração irregular ou com FC abaixo de 100 bpm deve receber ventilação com pressão positiva dentro do primeiro minuto de vida, o minuto de ouro. O risco de morte ou morbidade sobe 16% a cada 30 segundos de atraso para iniciar a VPP. Ventilar é o procedimento mais importante da reanimação neonatal, e 9 em cada 10 RN que precisam de VPP melhoram só com ela. Massagem cardíaca só entra se a FC seguir abaixo de 60 bpm após 30 segundos de VPP adequada; intubação e oxigênio suplementar dependem da resposta.",
+  "porAlt": [
+   "A intubação não é a primeira medida; a ventilação com máscara facial vem antes.",
+   "Massagem cardíaca só começa se a frequência cardíaca ficar abaixo de 60 bpm após 30 segundos de ventilação adequada.",
+   "Correta: o minuto de ouro é o prazo para iniciar a ventilação com pressão positiva no RN que não respira bem.",
+   "No RN de 34 semanas ou mais, a ventilação começa em ar ambiente; o oxigênio só é ajustado pela meta de SpO2 de cada minuto."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0682",
+  "q": "Criança de 6 anos de idade, com antecedente de linfangioma gigante em região de face e dificuldade para abertura da boca, comparece ao pronto atendimento com queixa de dispneia progressiva há 3 dias. Devido ao quadro clínico, foi indicado a intubação orotraqueal. Com base no caso descrito, assinale a alternativa correta",
+  "alts": [
+   "A intubação pode ser realizada com o bougie, visto que este dispositivo é indicado principalmente para vias aéreas difíceis, especialmente em Cormack-Lehane grau 4",
+   "A traqueostomia aberta deve ser realizada por equipe treinada em situações de “não intubo e apenas ventilo”",
+   "A utilização de sequência rápida de intubação é essencial em casos de via aérea difícil como este, pois sabidamente aumenta a taxa de sucesso nesses cenários",
+   "O uso do videolaringoscópio com uso do bougie é uma estratégia para aumentar a taxa de sucesso na abordagem da via aérea difícil"
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Via aérea difícil prevista na criança",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "Black AE et al. Development of a guideline for the management of the unanticipated difficult airway in pediatric practice (Difficult Airway Society e Association of Paediatric Anaesthetists). Paediatr Anaesth, 2015",
+  "coment": "Linfangioma gigante de face com limitação da abertura da boca é via aérea difícil prevista. O videolaringoscópio melhora a visão da glote sem exigir alinhamento dos eixos, e o bougie ajuda a passar o tubo quando a glote é vista só em parte; a combinação aumenta o sucesso na primeira tentativa. Em via aérea difícil prevista, prefere-se manter a ventilação espontânea (indução inalatória ou sedação cuidadosa) e ter plano de resgate com equipe de otorrinolaringologia pronta. A sequência rápida, ao abolir a respiração, pode criar a situação de não intubo e não oxigeno.",
+  "porAlt": [
+   "O bougie serve para Cormack-Lehane 2b e 3; em grau 4, sem estrutura glótica visível, ele perde utilidade.",
+   "Se é possível ventilar, não há emergência de via aérea cirúrgica; o acesso cirúrgico urgente fica para quem não intuba nem oxigena.",
+   "A sequência rápida abole a respiração espontânea e pode precipitar a situação de não intubo e não oxigeno na via aérea difícil prevista.",
+   "Correta: videolaringoscópio com bougie aumenta a taxa de sucesso da intubação na via aérea difícil."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0683",
+  "q": "A suplementação de vitamina D deve ser iniciada",
+  "alts": [
+   "após os 7 dias de vida, para todas as crianças",
+   "após os 15 dias de vida, exclusivamente para aquelas que não estiverem recebendo aleitamento materno exclusivo",
+   "aos 2 meses de idade, independente da dieta recebida pela criança",
+   "entre os 6 meses e os 2 anos de idade, para todas as crianças, independente da dieta oferecida"
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Suplementação de vitamina D",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Guia Prático de Atualização: Hipovitaminose D em pediatria, recomendações para o diagnóstico, tratamento e prevenção, 2016",
+  "coment": "A SBP recomenda vitamina D profilática para todos os lactentes a partir da primeira semana de vida: 400 UI/dia até 12 meses e 600 UI/dia dos 12 aos 24 meses, inclusive em aleitamento materno exclusivo e independentemente da região do país. O leite humano tem pouca vitamina D, e a exposição solar direta de lactentes é desaconselhada ou limitada. Prematuros começam quando atingem peso acima de 1.500 g e toleram a dieta enteral.",
+  "porAlt": [
+   "Correta: a SBP indica 400 UI/dia de vitamina D a partir da primeira semana de vida para todos os lactentes.",
+   "O aleitamento materno exclusivo é justamente motivo para suplementar, pois o leite humano tem pouca vitamina D.",
+   "Começar aos 2 meses atrasa a profilaxia sem justificativa; o início é na primeira semana.",
+   "A suplementação começa na primeira semana e segue até os 2 anos, não só a partir dos 6 meses."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0684",
+  "q": "Menino, 3 anos de idade, com antecedente de atresia de vias biliares, em uso de ácido ursodesoxicólico e propranolol, é levado ao pronto-socorro por evacuações escuras, amolecidas e de odor fétido há poucas horas. Ao exame físico, apresenta-se em estado geral regular, pele e mucosas hipocoradas, taquicardia, perfusão periférica adequada, eupneico, anasarcado, ascite volumosa e indolor, com circulação colateral abdominal evidente. Diante do quadro, foram instituídas as seguintes condutas iniciais: jejum, soro de manutenção, expansão volêmica de 10 mL/kg, introdução de octreotide em infusão contínua, cefotaxima, vitamina K e coleta de exames laboratoriais Em relação ao uso do octreotide no contexto apresentado, assinale a alternativa correta",
+  "alts": [
+   "Não há evidência em realizar em crianças",
+   "Tem efeito vasodilatador esplâncnico",
+   "Pode ser retirado após 12 horas sem exteriorizações",
+   "Deve ser realizado o mais precoce possível e mantido de 2 a 5 dias"
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Octreotide na hemorragia varicosa",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "tit",
+  "base": "de Franchis R et al. Baveno VII: Renewing consensus in portal hypertension. J Hepatol, 2022",
+  "coment": "Na suspeita de hemorragia varicosa por hipertensão portal, o vasoativo deve começar o mais cedo possível, antes da endoscopia, e ser mantido por 2 a 5 dias, segundo o Baveno VII. O octreotide, análogo da somatostatina, causa vasoconstrição esplâncnica, reduz o fluxo e a pressão portal e diminui o ressangramento; em crianças é o vasoativo mais usado, com base em extrapolação de adultos e séries pediátricas. Somam-se antibiótico profilático (como a cefotaxima), transfusão restritiva e endoscopia para ligadura ou escleroterapia.",
+  "porAlt": [
+   "Há experiência pediátrica com octreotide, e o uso é recomendado com base em dados de adultos e séries em crianças.",
+   "O octreotide causa vasoconstrição esplâncnica, não vasodilatação; é assim que reduz a pressão portal.",
+   "Retirar após 12 horas aumenta o risco de ressangramento; a manutenção recomendada é de 2 a 5 dias.",
+   "Correta: o vasoativo deve começar o mais precocemente possível e ser mantido por 2 a 5 dias."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0685",
+  "q": "Menino, 3 anos de idade, com antecedente de atresia de vias biliares, em uso de ácido ursodesoxicólico e propranolol, é levado ao pronto-socorro por evacuações escuras, amolecidas e de odor fétido há poucas horas. Ao exame físico, apresenta-se em estado geral regular, pele e mucosas hipocoradas, taquicardia, perfusão periférica adequada, eupneico, anasarcado, ascite volumosa e indolor, com circulação colateral abdominal evidente. Diante do quadro, foram instituídas as seguintes condutas iniciais: jejum, soro de manutenção, expansão volêmica de 10 mL/kg, introdução de octreotide em infusão contínua, cefotaxima, vitamina K e coleta de exames laboratoriais Foram realizados exames laboratoriais, que apresentaram os seguintes resultados: Cr: 2,6 mg/dL (prévia: 0,6 mg/dL) Ur: 100 mg/dL (prévia: 44 mg/dL) Na+: 108 mEq/L K+: 3,5 mEq/L Hb: 9,4 g/dL (prévia: 9,5 g/dL) Ht: 27% Leucócitos: 3.500/mm³ (80% neutrófilos) Plaquetas: 90.000/mm³ Coagulograma: INR 2,5 Em relação à hiponatremia descrita, qual a classificação mais provável?",
+  "alts": [
+   "Hiponatremia hipoosmolar euvolêmica",
+   "Hiponatremia hipoosmolar hipovolêmica",
+   "Hiponatremia hipoosmolar hipervolêmica",
+   "Hiponatremia hiperosmolar hipovolêmica"
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Hiponatremia na cirrose",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "European Association for the Study of the Liver. EASL Clinical Practice Guidelines for the management of patients with decompensated cirrhosis. J Hepatol, 2018",
+  "coment": "Na cirrose com ascite volumosa, anasarca e circulação colateral, a água corporal total e o sódio total estão aumentados, mas o volume arterial efetivo está reduzido pela vasodilatação esplâncnica. A ativação do hormônio antidiurético, do sistema renina-angiotensina e do simpático retém mais água que sódio e produz hiponatremia dilucional, hipo-osmolar e hipervolêmica. Hipovolemia arterial efetiva pode coexistir (sangramento, lesão renal aguda), mas o volume extracelular total, que define a classificação, está aumentado.",
+  "porAlt": [
+   "Euvolemia não combina com ascite volumosa e anasarca.",
+   "Apesar da hipovolemia arterial efetiva, o volume extracelular total está aumentado, com edema e ascite.",
+   "Correta: na cirrose com anasarca a hiponatremia é dilucional, hipo-osmolar e hipervolêmica.",
+   "Hiperosmolaridade exigiria soluto elevado, como glicose ou manitol, sem relato no caso."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0686",
+  "q": "Menino, 3 anos de idade, com antecedente de atresia de vias biliares, em uso de ácido ursodesoxicólico e propranolol, é levado ao pronto-socorro por evacuações escuras, amolecidas e de odor fétido há poucas horas. Ao exame físico, apresenta-se em estado geral regular, pele e mucosas hipocoradas, taquicardia, perfusão periférica adequada, eupneico, anasarcado, ascite volumosa e indolor, com circulação colateral abdominal evidente. Diante do quadro, foram instituídas as seguintes condutas iniciais: jejum, soro de manutenção, expansão volêmica de 10 mL/kg, introdução de octreotide em infusão contínua, cefotaxima, vitamina K e coleta de exames laboratoriais Assinale a melhor conduta inicial para o manejo dessa hiponatremia",
+  "alts": [
+   "Albumina EV 1 g/kg",
+   "NaCl 3% via enteral 3 mEq/kcal",
+   "Correção lenta de sódio (≤ 8 mEq/L em 24 horas) com NaCl 20% EV",
+   "Correção rápida com NaCl 20% EV 3 a 5 mL/kg"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Albumina na hiponatremia da cirrose",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "European Association for the Study of the Liver. EASL Clinical Practice Guidelines for the management of patients with decompensated cirrhosis. J Hepatol, 2018",
+  "coment": "Na hiponatremia hipervolêmica da cirrose, a conduta inicial é suspender diuréticos, restringir água livre e expandir com albumina, que melhora o volume arterial efetivo, reduz o estímulo ao hormônio antidiurético e eleva o sódio (EASL 2018). Aqui há também lesão renal aguda (creatinina de 0,6 para 2,6 mg/dL) após hemorragia, e albumina 1 g/kg é a expansão recomendada, inclusive para afastar síndrome hepatorrenal. Sódio hipertônico piora ascite e edema e fica para sintomas neurológicos graves; correção rápida aumenta o risco de desmielinização osmótica, sobretudo no hepatopata.",
+  "porAlt": [
+   "Correta: albumina 1 g/kg melhora o volume arterial efetivo, trata a lesão renal e ajuda a corrigir a hiponatremia dilucional.",
+   "Oferecer sódio a quem tem sódio corporal total aumentado agrava ascite e edema sem corrigir a causa.",
+   "Sódio hipertônico na hiponatremia hipervolêmica sem sintomas neurológicos graves piora a sobrecarga e não é a conduta inicial.",
+   "Correção rápida com hipertônico só cabe em sintomas neurológicos graves e eleva o risco de desmielinização osmótica no hepatopata."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0687",
+  "q": "Recém-nascido filho de mãe com Hellp Sindrome, com peso de nascimento de 900 g e idade gestacional ao nascimento de 28 semanas, é admitido na unidade neonatal. Qual é a complicação mais provável nas primeiras horas de vida?",
+  "alts": [
+   "Apneia",
+   "Hipoglicemia",
+   "Convulsões",
+   "Hipomagnesemia"
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Pré-termo extremo de mãe com HELLP",
+  "cenario": "uti",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, 2ª ed., 2014",
+  "coment": "Hipoglicemia é a complicação mais provável nas primeiras horas: o RN de 28 semanas e 900 g tem reservas mínimas de glicogênio e gordura e gliconeogênese imatura, e a insuficiência placentária da pré-eclâmpsia com síndrome HELLP reduz ainda mais esses estoques. A glicemia cai logo após o clampeamento do cordão, e a conduta é infusão venosa precoce de glicose com monitorização. A apneia da prematuridade costuma surgir após as primeiras 24 a 48 horas; o sulfato de magnésio materno causaria hipermagnesemia, não hipomagnesemia; convulsões não são esperadas.",
+  "porAlt": [
+   "A apneia da prematuridade em geral começa depois das primeiras 24 a 48 horas; nas primeiras horas predomina o problema metabólico.",
+   "Correta: estoques mínimos de glicogênio e insuficiência placentária tornam a hipoglicemia a complicação mais provável nas primeiras horas.",
+   "Convulsões não são esperadas sem asfixia, hemorragia intracraniana ou distúrbio metabólico grave.",
+   "O sulfato de magnésio usado na HELLP causa hipermagnesemia no RN, não hipomagnesemia."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0688",
+  "q": "A mãe relata que seu bebê, de 20 dias de vida, chora excessivamente, que está em aleitamento materno exclusivo e quer mamar de hora em hora. Refere que, cerca de 20 minutos após as mamadas, ele apresenta muita cólica. Nega regurgitações ou outras queixas. O exame físico é normal e o ganho de peso é adequado. A mãe apresenta fissuras mamárias bilateralmente. De acordo com a suspeita diagnóstica, a primeira conduta deve ser",
+  "alts": [
+   "Prescrever procinético",
+   "Suspender leite de vaca da dieta materna",
+   "Verificar e orientar a técnica da mamada",
+   "Introduzir complemento com leite de vaca"
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Choro e técnica de amamentação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 23: Saúde da Criança, aleitamento materno e alimentação complementar, 2ª ed., 2015",
+  "coment": "Lactente de 20 dias com bom ganho de peso e exame normal, que chora muito, quer mamar de hora em hora e tem cólicas após as mamadas, com mãe com fissuras bilaterais, sugere pega inadequada. A má pega lesa o mamilo, faz a criança deglutir ar e esvaziar mal a mama, recebendo mais leite anterior, rico em lactose e pobre em gordura, com saciedade curta e mais gases. A primeira conduta é observar a mamada e corrigir posição e pega. Procinético, exclusão de leite de vaca sem sinais de alergia e complemento com leite de vaca não têm indicação.",
+  "porAlt": [
+   "Não há refluxo nem indicação de procinético; o quadro é de choro e cólica com bom ganho de peso.",
+   "Sem sangue nas fezes, eczema ou baixo ganho, não há base para suspeitar de alergia à proteína do leite de vaca.",
+   "Correta: fissuras mamárias e mamadas muito frequentes com cólica apontam para pega inadequada, corrigida observando a mamada.",
+   "Leite de vaca não é indicado antes de 1 ano, e o complemento compromete o aleitamento sem necessidade."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ },
+ {
+  "pid": "p0689",
+  "q": "Paciente de 13 anos de idade, com leucemia linfoide aguda em fase de indução, comparece ao pronto atendimento com febre há dois dias e diarreia com muco. Última quimioterapia há 7 dias. Ao exame físico, apresenta dor abdominal localizada em quadrante inferior direito, sem defesa local, FC de 90 bpm, PA de 120×80 mmHg, FR de 20 irpm, regular estado geral, abdome plano, dor à palpação superficial e profunda, sem sinais de irritação peritoneal. • Exames laboratoriais: Hb: 10 g/dL Ht: 30% Leucócitos: 350/mm³ (não foi possível contagem diferencial) PCR: 300 mg/L Hemoculturas periférica e central coletadas pareadas e com o mesmo volume (paciente com port-a-cath) USG abdominal sugestivo de colite neutropênica. Raio-X de abdome sem sinais de perfuração. Assinale a alternativa com a melhor prescrição inicial para esse paciente",
+  "alts": [
+   "Cefepime, metronidazol, teicoplanina, jejum e sintomáticos",
+   "Ceftriaxona, metronidazol, ampicilina, jejum e sintomáticos",
+   "Cefepime, teicoplanina, dieta leve e sintomáticos",
+   "Cefepime, jejum e sintomáticos"
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Colite neutropênica na LLA",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Lehrnbecher T et al. Guideline for the Management of Fever and Neutropenia in Pediatric Patients With Cancer and Hematopoietic Cell Transplantation Recipients: 2023 Update. J Clin Oncol, 2023",
+  "coment": "Neutropenia febril profunda (350 leucócitos) com dor em fossa ilíaca direita, diarreia e ultrassonografia sugestiva de colite neutropênica (tiflite) exige antibiótico com cobertura antipseudomonas e anaeróbica, como cefepime com metronidazol, além de jejum e vigilância cirúrgica para perfuração. Das opções, só a que inclui metronidazol e jejum trata a tiflite. A teicoplanina é acréscimo discutível: a diretriz pediátrica de 2023 reserva o glicopeptídeo para instabilidade hemodinâmica, suspeita de infecção do cateter, de pele ou partes moles, pneumonia ou colonização por MRSA.",
+  "porAlt": [
+   "Correta: cefepime e metronidazol cobrem gram-negativos e anaeróbios da tiflite, com jejum; o glicopeptídeo é acréscimo discutível.",
+   "Ceftriaxona não cobre Pseudomonas e não é adequada na neutropenia febril de alto risco.",
+   "Dieta por via oral é contraindicada na colite neutropênica, e falta cobertura anaeróbica.",
+   "Cefepime isolado não cobre anaeróbios, essenciais no tratamento da colite neutropênica."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Especialidades Pediátricas",
+   "ex": "usp26epd"
+  }
+ }
+]

@@ -1,0 +1,71 @@
+{
+ "incluidas": 37,
+ "descartadas": [
+  {
+   "pid": "p0070",
+   "motivo": "Depende da radiografia de tórax não incluída: o enunciado pede o que 'a imagem mostra' e as alternativas descrevem achados radiológicos (hidrotórax, elevação diafragmática) impossíveis de conferir pelo texto."
+  },
+  {
+   "pid": "p0078",
+   "motivo": "Gabarito (risco moderado; pesquisa anual de sangue oculto) contraria a prática vigente: pólipo hiperplásico pequeno de reto não eleva o risco (risco médio) e, após colonoscopia completa recente, o próximo exame é em 10 anos (US Multi-Society Task Force, vigilância pós-polipectomia, 2020); a classificação 'risco moderado' não tem respaldo."
+  },
+  {
+   "pid": "p0081",
+   "motivo": "Texto embaralhado na extração: enunciado mistura duas questões (abdome agudo e modelo de Dahlgren e Whitehead) e as alternativas estão truncadas."
+  },
+  {
+   "pid": "p0092",
+   "motivo": "Depende da figura da lesão cutânea; pelo texto (trabalhador ao sol, lesão facial antiga com crescimento recente) carcinoma espinocelular seria tão ou mais provável que melanoma."
+  },
+  {
+   "pid": "p0102",
+   "motivo": "Mais de uma resposta defensável: pelo Consenso de Controle do Câncer de Mama (MS/INCA, 2004), mãe com câncer de ovário em qualquer idade define alto risco, com exame clínico e mamografia anuais a partir dos 35 anos, o que torna defensável 'examinar e solicitar mamografia' contra o gabarito."
+  },
+  {
+   "pid": "p0105",
+   "motivo": "Depende de charge (imagem) não incluída; o texto não permite identificar o problema retratado."
+  },
+  {
+   "pid": "p0107",
+   "motivo": "Depende das três radiografias seriadas não incluídas; o enunciado pede a conclusão pela evolução radiológica, e membrana hialina é diferencial real em prematuro de 36 semanas nascido por cesárea."
+  },
+  {
+   "pid": "p0109",
+   "motivo": "Mais de uma resposta defensável: o ECA (art. 14) torna a vacinação obrigatória, mas vacinar na mesma visita contra a vontade dos pais não é conduta praticável nem consensual; sensibilizar a família e acionar o Conselho Tutelar é igualmente defensável."
+  },
+  {
+   "pid": "p0111",
+   "motivo": "Gabarito contraria o calendário vigente: desde 2024 o PNI usa dose única de HPV para 9 a 14 anos (Nota Técnica MS 2024), e a alternativa oficial prevê 2 doses."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0067",
+   "nota": "Ponto de corte do cateterismo varia: referências pediátricas brasileiras e Nelson aceitam acima de 1.000 UFC/mL; a AAP 2011 usa 50.000 UFC/mL. Mantida por ser a única alternativa defensável."
+  },
+  {
+   "pid": "p0076",
+   "nota": "Classificar escaldadura por panela puxada como negligência é posição da banca; muitos tratam como lesão não intencional evitável. Mantida porque as demais alternativas são claramente erradas e o comentário explica o raciocínio."
+  },
+  {
+   "pid": "p0073",
+   "nota": "A manutenção sobe direto para ICS em dose média com LABA (etapa 4 da GINA em 6 a 11 anos); a etapa 3 seria alternativa razoável, mas não aparece isolada em outra opção."
+  },
+  {
+   "pid": "p0086",
+   "nota": "Progesterona micronizada por via vaginal em esquema cíclico tem evidência menor de proteção endometrial que a via oral; mantida por ser o esquema de menor risco entre as opções."
+  },
+  {
+   "pid": "p0100",
+   "nota": "TVP prévia é contraindicação relativa a terapia hormonal sistêmica em várias diretrizes; manter TH transdérmica é aceitável após decisão individual (NAMS 2022, NICE 2024) e é a opção mais segura entre as oferecidas."
+  },
+  {
+   "pid": "p0095",
+   "nota": "Válida pelas Diretrizes de 2016, que seguem como referência onde o rastreamento ainda é citológico (Diretrizes Parte I, DNA-HPV, Portaria Conjunta SAES/SECTICS 13/2025). Rever quando o manejo de resultados alterados no novo programa for publicado."
+  },
+  {
+   "pid": "p0080",
+   "nota": "Com instabilidade hemodinâmica, parte da literatura indicaria cirurgia sem aguardar ultrassonografia; mantida porque beta-hCG e ultrassonografia à beira do leito são rápidos e as outras hipóteses estão erradas."
+  }
+ ]
+}

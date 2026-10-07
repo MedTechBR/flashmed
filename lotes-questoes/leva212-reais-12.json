@@ -1,0 +1,662 @@
+[
+ {
+  "pid": "p0283",
+  "q": "Mulher, 52 anos de idade, com dor em todo o corpo há 12 meses, irritabilidade com choro fácil, fadiga, cefaleia holocraniana, esquecimento e dificuldade para dormir, com sono não reparador. Ao exame clínico, apresentou dor à palpação de partes moles de forma difusa. • Exames laboratoriais: TSH: 9 mUI/L T4 livre: 0,3 ng/dL Creatinofosfoquinase: 252 UI/L Pode-se afirmar que esta paciente é portadora de:",
+  "alts": [
+   "Fibromialgia.",
+   "Polimiosite.",
+   "Miopatia metabólica.",
+   "Hipotireoidismo subclínico."
+  ],
+  "gab": 0,
+  "tema": "reumato",
+  "sub": "Fibromialgia e diagnóstico diferencial",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Wolfe F et al. Revisões 2016 dos critérios diagnósticos de fibromialgia (ACR 2010/2011), Semin Arthritis Rheum, 2016; EULAR revised recommendations for the management of fibromyalgia, 2017",
+  "coment": "Dor difusa há mais de 3 meses, fadiga, sono não reparador, queixas cognitivas e de humor e dor à palpação de partes moles formam o quadro clássico de fibromialgia, que pela revisão de 2016 dos critérios do ACR é um diagnóstico válido mesmo na presença de outra doença. Os exames, porém, mostram hipotireoidismo FRANCO (TSH 9 com T4 livre 0,3 ng/dL, abaixo do normal), e não subclínico, que exige levotiroxina e reavaliação da dor após o eutireoidismo, porque o hipotireoidismo agrava mialgia, fadiga e humor. A CK levemente elevada (252) é esperada no hipotireoidismo e não indica miosite: não há fraqueza proximal.",
+  "porAlt": [
+   "Correta: dor difusa crônica com fadiga, sono não reparador, alteração cognitiva e de humor preenche os critérios de fibromialgia, que coexistem com outras doenças.",
+   "Polimiosite cursa com fraqueza proximal e CK muito elevada (em geral milhares), não com dor difusa e CK de 252 sem déficit motor.",
+   "Miopatia metabólica se manifesta com intolerância ao exercício, câimbras, mioglobinúria ou fraqueza, ausentes aqui; a CK discreta se explica pelo hipotireoidismo.",
+   "Não é subclínico: o T4 livre de 0,3 ng/dL está baixo, o que caracteriza hipotireoidismo franco, a ser tratado com levotiroxina."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Especialidades Clínicas",
+   "ex": "usp25ecm"
+  }
+ },
+ {
+  "pid": "p0285",
+  "q": "Paciente do sexo feminino, 14 anos de idade, comparece à UBS para vacinação. Refere que desde os 8 anos de idade apresenta sinusites e otites de repetição, com necessidade de antibioticoterapia. Há quatro anos, apresentou diversos episódios de diarreia por giardíase. Há três meses, ficou internada em Unidade de Terapia Intensiva para tratamento de pneumonia. O médico que a atende suspeita de imunodeficiência. As vacinas contraindicadas para esta paciente são:",
+  "alts": [
+   "Dupla de adulto e hepatite B.",
+   "Tríplice viral e dengue.",
+   "HPV e pneumocócica.",
+   "Covid-19 e influenza."
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Vacinas vivas na imunodeficiência",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual dos Centros de Referência para Imunobiológicos Especiais (CRIE), 6ª ed., 2023",
+  "coment": "Infecções sinopulmonares de repetição desde a infância, giardíase recorrente e pneumonia grave sugerem imunodeficiência primária humoral (imunodeficiência comum variável é o protótipo). Em imunodeficiência, as vacinas de agentes vivos atenuados ficam contraindicadas pelo risco de doença vacinal: tríplice viral (sarampo, caxumba, rubéola), varicela, febre amarela e a vacina da dengue disponível no SUS (Qdenga, viva atenuada). Vacinas inativadas, de subunidade, toxoides e de RNA mensageiro são seguras e várias são até reforçadas pelo CRIE nesse grupo (pneumocócicas, influenza anual, HPV em 3 doses para imunossuprimidos), embora a resposta possa ser menor.",
+  "porAlt": [
+   "Dupla adulto (toxoides) e hepatite B (recombinante) são inativadas e podem ser aplicadas com segurança na imunodeficiência.",
+   "Correta: tríplice viral e vacina da dengue são de vírus vivos atenuados, contraindicadas em imunodeficiência pelo risco de doença vacinal.",
+   "HPV e pneumocócicas são inativadas e indicadas pelo CRIE em imunodeprimidos, com HPV em esquema de 3 doses.",
+   "Covid-19 (RNA mensageiro ou vetor não replicante) e influenza inativada são recomendadas, não contraindicadas, na imunodeficiência."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "USP 2025 Especialidades Clínicas",
+   "ex": "usp25ecm"
+  }
+ },
+ {
+  "pid": "p0288",
+  "q": "Adolescente do sexo feminino, 17 anos de idade, nunca menstruou. Nega uso de medicações hormonais, casos semelhantes na família ou consanguinidade. Ao exame clínico, apresentou peso de 56 kg, altura de 148 cm. PA de 110×60 mmHg; FC de 72 bpm. Presença de lipomastia. Ausência de pelos axilares e pubianos. Genitália externa feminina normal. Ultrassonografia pélvica com imagem compatível com útero infantil (não foi possível visualizar a presença de gônadas durante o exame). Considerando o caso descrito, é mais provável que a paciente apresente",
+  "alts": [
+   "cariótipo 45,X0.",
+   "sinéquias uterinas.",
+   "insensibilidade a andrógenos.",
+   "hiperplasia adrenal congênita."
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Amenorreia primária e síndrome de Turner",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Gravholt CH et al. Clinical practice guidelines for the care of girls and women with Turner syndrome, Eur J Endocrinol, 2024",
+  "coment": "Amenorreia primária aos 17 anos com baixa estatura (148 cm), ausência de desenvolvimento puberal (lipomastia é tecido adiposo, não mama glandular; sem pelos axilares e pubianos), genitália feminina e útero infantil com gônadas não visualizadas aponta hipogonadismo hipergonadotrófico por disgenesia gonadal, cuja causa mais comum é a síndrome de Turner (45,X). As gônadas em fita não produzem estrogênio, por isso útero e mamas não se desenvolvem. A confirmação é pelo cariótipo, com FSH e LH elevados. O útero presente afasta insensibilidade androgênica e a ausência de virilização afasta hiperplasia adrenal congênita.",
+  "porAlt": [
+   "Correta: baixa estatura, infantilismo sexual e útero infantil com gônadas não vistas sugerem disgenesia gonadal da síndrome de Turner, 45,X.",
+   "Sinéquias uterinas (síndrome de Asherman) causam amenorreia secundária após manipulação uterina, com puberdade normal.",
+   "Na insensibilidade androgênica completa a paciente é alta, tem mamas desenvolvidas, pouca pilificação e não tem útero.",
+   "A hiperplasia adrenal congênita na forma tardia causa hiperandrogenismo e virilização, não infantilismo sexual com baixa estatura."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Ano Adicional em Clínica Médica",
+   "ex": "usp26aa"
+  }
+ },
+ {
+  "pid": "p0306",
+  "q": "Homem, 71 anos de idade, portador de bioprótese aórtica, está internado por endocardite. Exames laboratoriais: Leucócitos: 9 800/µL (8 % bastonetes) Hb: 11,2 g/dL Plaquetas: 180 000/mm³ PCR: 78 mg/L Cr: 1,4 mg/dL Foram realizados três pares de hemoculturas positivas para Enterococcus faecalis, sensível à ampicilina com Concentração Inibitória Mínima (CIM) de 1 mg/L e com resistência de alto nível a gentamicina. Ecocardiograma transesofágico revela vegetação de 8 mm em cúspide não coronariana da bioprótese e discreto aumento do gradiente transvalvar. Em relação ao caso descrito, assinale a alternativa que apresenta o tratamento mais adequado.",
+  "alts": [
+   "Ampicilina 2 g EV a cada 4 h + ceftriaxona 2 g EV a cada 12 h, ≥ 6 semanas.",
+   "Ampicilina 2 g EV a cada 4 h + gentamicina 1 mg/kg EV a cada 8 h, 6 semanas.",
+   "Daptomicina 10 mg/kg EV 1×/dia em monoterapia, 8 semanas.",
+   "Linezolida 600 mg EV a cada 12 h, ≥ 6 semanas."
+  ],
+  "gab": 0,
+  "tema": "infecto",
+  "sub": "Endocardite por Enterococcus faecalis",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ESC 2023 Guidelines for the management of endocarditis, Eur Heart J, 2023",
+  "coment": "Endocardite de prótese por E. faecalis sensível à ampicilina e com resistência de alto nível à gentamicina (HLAR) tem como esquema de escolha a sinergia de dois betalactâmicos: ampicilina 2 g EV de 4/4 h associada a ceftriaxona 2 g EV de 12/12 h, por 6 semanas em valva protética (ESC 2023). A ceftriaxona satura outras PBPs e garante efeito bactericida sem nefrotoxicidade, o que pesa em idoso com creatinina de 1,4. Com HLAR, o aminoglicosídeo perde a sinergia e só acrescenta toxicidade. Daptomicina e linezolida ficam para alergia grave ou resistência a betalactâmicos.",
+  "porAlt": [
+   "Correta: ampicilina com ceftriaxona por pelo menos 6 semanas é o esquema de escolha para E. faecalis com resistência de alto nível à gentamicina.",
+   "Com resistência de alto nível à gentamicina não há sinergia com aminoglicosídeo, e o esquema ainda traria nefrotoxicidade em paciente com creatinina de 1,4.",
+   "Daptomicina em monoterapia é alternativa de exceção (alergia ou resistência a betalactâmicos) e, para enterococo, deve ser associada a outro agente.",
+   "Linezolida é bacteriostática e reservada a enterococo resistente a ampicilina e vancomicina, não a cepa sensível à ampicilina."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Ano Adicional em Clínica Médica",
+   "ex": "usp26aa"
+  }
+ },
+ {
+  "pid": "p0535",
+  "q": "Mulher, 28 anos de idade, previamente hígida, procura atendimento de urgência. Queixa-se de diarreia aquosa há 4 dias com febre baixa. Teve 6 episódios por dia, com cólicas intensas, náuseas e hiporexia. O seu filho de 4 anos de idade está com os mesmos sintomas. Sinais vitais com PA de 110×68 mmHg, FC de 94 bpm, FR de 18 irpm, SpO2 de 99%, temperatura de 37,1 °C. Ao exame clínico, apresenta regular estado geral, mucosas secas, peristalse aumentada, desconforto abdominal difuso.\nExames laboratoriais: Hb: 13,7 g/dL; Leucócitos: 15.890/mm³; Plaquetas: 384 mil/mm³; Ur: 47 mg/dL; Cr: 1,18 mg/dL; Na+: 128 mEq/L; K+: 3,7 mEq/L; HCO3-: 29 mEq/L.\nAssinale a alternativa que apresenta um mecanismo fisiopatológico que faz parte do desenvolvimento da hiponatremia desta paciente.",
+  "alts": [
+   "Secreção inapropriada de ADH",
+   "Liberação de peptídeo natriurético",
+   "Elevação de aldosterona",
+   "Perda fecal de potássio"
+  ],
+  "gab": 2,
+  "tema": "nefro",
+  "sub": "Hiponatremia hipovolêmica por diarreia",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Spasovski G et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia (ESE/ESICM/ERA-EDTA), 2014",
+  "coment": "Diarreia aquosa com mucosas secas, ureia elevada e bicarbonato de 29 (alcalose de contração) indica hipovolemia. A depleção de volume ativa o sistema renina-angiotensina-aldosterona: a aldosterona retém sódio, a angiotensina II estimula sede e liberação não osmótica de ADH, e a reposição das perdas com água ou líquidos hipotônicos dilui o sódio. A elevação de aldosterona faz parte dessa resposta hipovolêmica que sustenta a hiponatremia. O ADH está elevado de forma apropriada ao volume, por isso não se fala em secreção inapropriada, que pressupõe euvolemia. O tratamento é repor volume com solução isotônica.",
+  "porAlt": [
+   "A secreção de ADH aqui é apropriada ao estímulo hipovolêmico; SIADH exige euvolemia e não se diagnostica com desidratação.",
+   "Peptídeo natriurético é liberado por distensão atrial em hipervolemia, o oposto do que ocorre nesta paciente desidratada.",
+   "Correta: a hipovolemia ativa o eixo renina-angiotensina-aldosterona, que junto com o ADH não osmótico e a ingestão hipotônica participa da hiponatremia.",
+   "O potássio está normal (3,7 mEq/L), então perda fecal de potássio relevante não participa do quadro."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0536",
+  "q": "Homem, 57 anos de idade, com peso de 74 kg, passa em atendimento ambulatorial. Ele tem hipotireoidismo e faz uso de 225 µg/dia de levotiroxina. Descreve que há 8 meses tem episódios progressivos de dor abdominal. A dor é em cólica, difusa, de intensidade leve a moderada. Associa episódios de evacuações amolecidas. Nunca teve saída de sangue, muco ou pus. Nega tenesmo. Acredita que os episódios têm relação com a alimentação, mas não percebe refeições ou alimentos claramente relacionados. Ele é tabagista (24 anos-maço), etilista social ocasional. Nega sibilos, prurido nasal ou congestão nasal. Os sinais vitais e o exame clínico são normais. Traz consigo uma enterotomografia normal.\nExames laboratoriais: Hb: 10,1 g/dL; VCM: 67 fL; HCM: 30 pg; Leucócitos: 6.750/mm³; Plaquetas: 490 mil/mm³.\nUma biópsia tecidual do trato gastrointestinal deste paciente, mais provavelmente, identificaria a presença de",
+  "alts": [
+   "granuloma",
+   "H. pylori",
+   "infiltrado linfocítico",
+   "infiltrado eosinofílico"
+  ],
+  "gab": 2,
+  "tema": "gastro",
+  "sub": "Doença celíaca com má absorção",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Rubio-Tapia A et al. ACG Clinical Guideline: Diagnosis and Management of Celiac Disease, Am J Gastroenterol, 2023",
+  "coment": "Dor abdominal em cólica e fezes amolecidas há meses, anemia microcítica (VCM 67, sugestiva de ferropenia por má absorção no duodeno) e necessidade de levotiroxina alta (225 µg/dia, cerca de 3 µg/kg, acima do habitual de 1,6 µg/kg) em paciente com doença autoimune da tireoide sugerem doença celíaca. A biópsia duodenal mostra linfocitose intraepitelial, hiperplasia de criptas e atrofia vilositária (classificação de Marsh). A enterotomografia normal torna Crohn improvável, e a ausência de atopia afasta a gastroenterite eosinofílica. A investigação começa com antitransglutaminase IgA e IgA total, com dieta contendo glúten.",
+  "porAlt": [
+   "Granuloma sugere doença de Crohn, menos provável com enterotomografia normal e sem sangramento ou sinais inflamatórios.",
+   "H. pylori não explica diarreia crônica, má absorção de levotiroxina e anemia microcítica com esse conjunto de achados.",
+   "Correta: a doença celíaca mostra infiltrado linfocítico intraepitelial com atrofia vilositária, o que explica má absorção de ferro e de levotiroxina.",
+   "Infiltrado eosinofílico caracteriza gastroenterite eosinofílica, associada a atopia, que o paciente nega."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0537",
+  "q": "Mulher, 23 anos de idade, faz acompanhamento médico por rinite alérgica, dismenorreia e cefaleia tensional, com uso recorrente de anti-inflamatórios e analgésicos. A paciente comparece em consulta ambulatorial de rotina e refere que, nos últimos 8 meses, procurou o pronto-atendimento quatro vezes por edema em pálpebras e lábios. Um dos episódios foi acompanhado de edema de língua. Outro episódio foi acompanhado de lesões de pele eritematosas, edematosas e pruriginosas. Em um dos casos havia ingerido amendoim. Em duas ocasiões, recebeu adrenalina intramuscular com melhora do quadro. Nega que tenha ocorrido hipotensão, dispneia, diarreia ou dor abdominal nos quatro atendimentos. Qual é a causa mais provável do quadro clínico desta paciente?",
+  "alts": [
+   "Urticária aguda",
+   "Alergia alimentar",
+   "Anafilaxia recorrente",
+   "Angioedema hereditário"
+  ],
+  "gab": 0,
+  "tema": "derma",
+  "sub": "Urticária aguda e angioedema por AINE",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Zuberbier T et al. Diretriz internacional EAACI/GA²LEN/EuroGuiDerm/APAAACI de urticária, Allergy, 2022; World Allergy Organization Anaphylaxis Guidance 2020",
+  "coment": "Episódios intermitentes de angioedema de lábios e pálpebras, um deles com placas eritematosas pruriginosas, em mulher que usa anti-inflamatórios e analgésicos de forma recorrente, configuram urticária aguda com angioedema recorrente, sendo os AINEs o gatilho mais provável (cada episódio dura menos de 6 semanas). Não houve hipotensão, broncoespasmo, estridor ou sintomas gastrointestinais, logo não preenche critérios de anafilaxia da WAO 2020, mesmo tendo recebido adrenalina. Alergia alimentar explicaria só o episódio com amendoim. O angioedema hereditário não tem urticária, não responde a adrenalina e é desencadeado por estrogênio, trauma ou IECA.",
+  "porAlt": [
+   "Correta: episódios autolimitados de urticária e angioedema ligados ao uso recorrente de AINE caracterizam urticária aguda recorrente.",
+   "Só um dos quatro episódios teve relação com amendoim; alergia alimentar não explica os demais nem o vínculo com analgésicos.",
+   "Sem hipotensão, dispneia ou sintomas gastrointestinais, os episódios não preenchem critérios de anafilaxia, apesar da adrenalina recebida.",
+   "Angioedema hereditário não cursa com urticária, não responde a adrenalina e não é desencadeado por anti-inflamatórios."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0538",
+  "q": "Mulher, 28 anos de idade, saudável, com gestação prévia sem intercorrências, procura atendimento ginecológico para iniciar o uso de contracepção hormonal combinada. Ela não possui história pessoal ou familiar de trombose venosa profunda, tromboembolia pulmonar ou complicações gestacionais. Soube por amigos do risco de trombose relacionado ao uso desse tipo de contraceptivo e solicita a realização de exames para pesquisa de trombofilias hereditárias antes de iniciar o método. A tabela de prevalência de trombofilias hereditárias e risco de tromboembolismo associado ao uso de contraceptivo oral é apresentada a seguir:\nDeficiência de Antitrombina: prevalência na população geral 0,02%; prevalência em pacientes com TEV 1%; risco relativo para 1º episódio de TEV 5 a 10.\nDeficiência de Proteína C: 0,2%; 3%; 4 a 6,5.\nDeficiência de Proteína S: 0,03%-0,13%; 2%; 1 a 10.\nFator V de Leiden (heterozigoto): 3%-7%; 20%; 3 a 5.\nMutação G20210A da Protrombina (heterozigoto): 0,7%-4%; 5%; 2 a 3.\n(As prevalências populacionais variam conforme a região geográfica.) Com base nas evidências disponíveis na tabela e o risco de tromboembolia em usuárias de contraceptivos orais, qual é o melhor aconselhamento neste caso?",
+  "alts": [
+   "Solicitar a pesquisa das trombofilias mais prevalentes na população",
+   "Solicitar as pesquisas das trombofilias com maior risco relativo de TEV",
+   "Realizar triagem laboratorial para as trombofilias hereditárias disponíveis",
+   "Não há necessidade de investigar trombofilias hereditárias"
+  ],
+  "gab": 3,
+  "tema": "reprodutiva",
+  "sub": "Trombofilia antes do contraceptivo combinado",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "CDC. U.S. Medical Eligibility Criteria for Contraceptive Use, 2024; OMS. Medical eligibility criteria for contraceptive use, 5ª ed., 2015",
+  "coment": "Sem história pessoal ou familiar de tromboembolismo, a pesquisa de trombofilias hereditárias antes do contraceptivo combinado não é recomendada (CDC 2024, OMS 2015). As trombofilias de alto risco (antitrombina, proteínas C e S) são raríssimas (0,02% a 0,2%), e as comuns (fator V de Leiden, protrombina) têm risco relativo moderado sobre uma incidência basal muito baixa de TEV em mulheres jovens. O rastreamento universal teria baixo valor preditivo, custo alto e negaria um método eficaz a muitas mulheres para evitar poucos eventos. A triagem fica reservada a quem tem TEV prévio ou parente de primeiro grau com trombose ou trombofilia conhecida.",
+  "porAlt": [
+   "As trombofilias mais prevalentes têm risco relativo baixo a moderado; rastreá-las em quem não tem história aumenta custo e falsos alarmes sem benefício.",
+   "As trombofilias de maior risco são tão raras que o rastreamento não se justifica em mulher sem história pessoal ou familiar.",
+   "Triagem ampla em mulher sem antecedentes não é recomendada pelos critérios de elegibilidade da OMS e do CDC.",
+   "Correta: sem história pessoal ou familiar de TEV, não há indicação de pesquisar trombofilias antes do contraceptivo combinado."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0539",
+  "q": "Mulher, 41 anos de idade, portadora de neoplasia de mama com metástases óssea e pulmonar, encontra-se em uso de morfina, dipirona e lactulose. Há uma semana, evoluiu com sonolência progressiva, náuseas, vômitos, piora da constipação intestinal e queda de funcionalidade. Ao exame físico, apresentou PA de 130×78 mmHg, FC de 112 bpm, FR de 14 irpm, SpO2 de 94%; regular estado geral, sonolenta, desidratada, hipocorada; aparelho cardiopulmonar sem alterações; abdome distendido. Diante desses achados, a principal hipótese diagnóstica é de",
+  "alts": [
+   "metástase hepática",
+   "metástase cerebral",
+   "hipercalcemia",
+   "hiponatremia"
+  ],
+  "gab": 2,
+  "tema": "onco",
+  "sub": "Hipercalcemia da malignidade",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "El-Hajj Fuleihan G et al. Treatment of Hypercalcemia of Malignancy in Adults: An Endocrine Society Clinical Practice Guideline, J Clin Endocrinol Metab, 2023",
+  "coment": "Câncer de mama com metástase óssea é o cenário típico de hipercalcemia da malignidade (osteólise local e PTHrP). O quadro reúne o que ela causa: sonolência progressiva, náuseas e vômitos, constipação, poliúria com desidratação e queda funcional. Taquicardia e desidratação pioram o ciclo, pois a hipovolemia reduz a excreção renal de cálcio. Confirma-se com cálcio total corrigido ou cálcio iônico, e o tratamento é hidratação com soro fisiológico, bisfosfonato (zoledronato) ou denosumabe e, em casos graves, calcitonina. A morfina pode somar constipação e sonolência, mas não explica sozinha a desidratação e os vômitos.",
+  "porAlt": [
+   "Metástase hepática causaria icterícia, dor em hipocôndrio direito ou hepatomegalia, sem explicar desidratação e constipação.",
+   "Metástase cerebral cursaria com cefaleia, déficit focal ou convulsão, e não com desidratação, constipação e poliúria.",
+   "Correta: sonolência, vômitos, constipação e desidratação em câncer de mama com metástase óssea são a apresentação clássica da hipercalcemia.",
+   "Hiponatremia explica sonolência e náuseas, mas não constipação e desidratação no contexto de metástase óssea."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0540",
+  "q": "Mulher, 49 anos de idade, está no primeiro pós-operatório de cirurgia de bypass gástrico para obesidade por videolaparoscopia. Ao exame físico, encontra-se descorada, com FC de 130 bpm, PA de 100×80 mmHg e FR de 23 irpm, SpO2 de 94%; abdome flácido e indolor à palpação, exceto nos locais das punções. Assinale a alternativa que apresenta a principal hipótese diagnóstica.",
+  "alts": [
+   "Hérnia interna",
+   "Atelectasia pulmonar",
+   "Deiscência da anastomose",
+   "Sangramento da anastomose"
+  ],
+  "gab": 3,
+  "tema": "periop",
+  "sub": "Sangramento após bypass gástrico",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sabiston Textbook of Surgery, 21ª ed., 2022 (cirurgia bariátrica: complicações precoces)",
+  "coment": "No primeiro dia após bypass gástrico, taquicardia importante (130 bpm) com palidez cutaneomucosa e pressão de pulso estreitada (100x80 mmHg) sugere hemorragia, mais frequentemente intraluminal nas linhas de grampeamento ou na anastomose gastrojejunal. O abdome indolor reforça sangramento e não peritonite. A deiscência também se apresenta com taquicardia precoce, mas costuma vir com febre, dor e piora do estado geral, sem palidez. Em bariátrico, taquicardia sustentada acima de 120 bpm é sinal de alarme que exige hemoglobina seriada, reposição volêmica e, se instável, reabordagem.",
+  "porAlt": [
+   "Hérnia interna é complicação tardia, em geral meses ou anos após a perda de peso, com dor abdominal em cólica.",
+   "Atelectasia causa febre baixa e queda de saturação, mas não palidez e taquicardia de 130 bpm.",
+   "A deiscência cursa com taquicardia, porém com dor abdominal, febre e sinais inflamatórios, não com palidez e abdome indolor.",
+   "Correta: taquicardia intensa, palidez e pressão de pulso estreita no primeiro dia pós-operatório apontam sangramento da anastomose."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0541",
+  "q": "Lactente, 1 ano de idade, foi submetido à esofagocoloplastia devido a atresia de esôfago. Após 24 horas de cirurgia, apresenta-se gemente, com má perfusão periférica, oligúria e débito vinhoso fétido pela gastrostomia. Ao exame físico, apresenta FC de 190 bpm e PA de 70×40 mmHg. Saturação de oxigênio não aferível. Murmúrios vesiculares reduzidos em bases. Assinale a alternativa que apresenta a complicação mais provável.",
+  "alts": [
+   "Deiscência da anastomose",
+   "Pneumotórax hipertensivo",
+   "Perfuração de cólon",
+   "Necrose de cólon"
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Necrose do cólon na esofagocoloplastia",
+  "cenario": "uti",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Holcomb and Ashcraft's Pediatric Surgery, 7ª ed., 2020 (substituição esofágica)",
+  "coment": "A complicação precoce mais grave da interposição de cólon para substituir o esôfago é a isquemia do enxerto, pois o segmento depende de um único pedículo vascular. Nas primeiras 24 a 48 horas surge sepse com choque (taquicardia de 190 bpm, hipotensão, má perfusão e oligúria) e drenagem de secreção vinhosa e fétida, que é o cólon necrótico se desfazendo. Os murmúrios reduzidos nas bases traduzem derrame ou mediastinite. A conduta é reabordagem imediata com ressecção do enxerto, esofagostomia cervical e gastrostomia, além de suporte intensivo.",
+  "porAlt": [
+   "A deiscência de anastomose costuma aparecer mais tarde (dias) com fístula cervical e saliva, sem choque precoce e secreção vinhosa fétida.",
+   "Pneumotórax hipertensivo explicaria choque e murmúrio reduzido, mas não a drenagem vinhosa e fétida pela gastrostomia.",
+   "Perfuração de cólon levaria a peritonite e conteúdo fecal, sem o quadro de necrose isquêmica do enxerto nas primeiras 24 horas.",
+   "Correta: choque séptico precoce com débito vinhoso e fétido indica isquemia e necrose do cólon interposto."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0542",
+  "q": "Homem, 27 anos de idade, refere dor testicular à direita há cerca de 15 dias, acompanhada de aumento de volume do testículo e disúria leve. Nega trauma. Sem febre ou corrimento uretral. Não tem parceira sexual fixa e usa preservativo ocasionalmente. Foi realizado ultrassom Doppler de escroto que evidenciou testículo direito aumentado, hipoecoico e heterogêneo com aumento difuso da vascularização. Assinale a alternativa que apresenta a melhor conduta.",
+  "alts": [
+   "Ciprofloxacino e azitromicina por 5 dias",
+   "Ceftriaxona dose única e doxiciclina por 10 dias",
+   "PET-CT com FDG18, βHCG e alfa feto proteína",
+   "Tomografia de tórax e abdome, βHCG e alfa feto proteína"
+  ],
+  "gab": 1,
+  "tema": "especialidades",
+  "sub": "Orquiepididimite por IST",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com IST (PCDT IST), 2022",
+  "coment": "Homem jovem, sexualmente ativo, sem uso regular de preservativo, com dor e aumento testicular subagudos e disúria, e Doppler com aumento difuso do fluxo, tem orquiepididimite, cujos agentes mais prováveis abaixo dos 35 anos são gonococo e clamídia. O PCDT IST 2022 indica ceftriaxona 500 mg IM dose única associada a doxiciclina 100 mg de 12/12 horas por 10 dias, com tratamento das parcerias. O testículo heterogêneo pede reavaliação clínica e ultrassonográfica após o tratamento: se não houver melhora, investiga-se neoplasia com marcadores tumorais.",
+  "porAlt": [
+   "Ciprofloxacino tem alta resistência do gonococo e azitromicina não cobre o esquema por 5 dias recomendado para orquiepididimite.",
+   "Correta: ceftriaxona dose única com doxiciclina por 10 dias trata gonococo e clamídia, causas principais em homem jovem sexualmente ativo.",
+   "PET-CT não faz parte do estadiamento inicial do tumor testicular e o quadro inflamatório com disúria indica infecção.",
+   "Estadiamento de tumor só se justifica se a lesão persistir após o tratamento; o aumento difuso do fluxo com disúria indica orquite."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0543",
+  "q": "Durante um checklist pré-operatório de retossigmoidectomia para o tratamento de adenocarcinoma de cólon esquerdo, em um paciente de 64 anos de idade com diabetes controlado, o anestesista pergunta ao cirurgião qual é o antibiótico preconizado neste momento. Qual é a melhor opção?",
+  "alts": [
+   "Cefoxitina",
+   "Cefuroxima",
+   "Cefazolina",
+   "Ceftriaxona"
+  ],
+  "gab": 0,
+  "tema": "periop",
+  "sub": "Antibioticoprofilaxia em cirurgia colorretal",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Bratzler DW et al. Clinical practice guidelines for antimicrobial prophylaxis in surgery (ASHP/IDSA/SIS/SHEA), 2013",
+  "coment": "Cirurgia colorretal é potencialmente contaminada e exige profilaxia que cubra gram-negativos entéricos e anaeróbios, especialmente Bacteroides fragilis. Em monoterapia, a cefamicina de segunda geração (cefoxitina) cumpre isso e é a opção clássica, administrada até 60 minutos antes da incisão e repetida a cada 2 horas de cirurgia. Alternativas equivalentes são cefazolina ou ceftriaxona associadas a metronidazol, ou ertapenem. Cefazolina, cefuroxima e ceftriaxona isoladas não cobrem anaeróbios adequadamente.",
+  "porAlt": [
+   "Correta: a cefoxitina cobre gram-negativos entéricos e anaeróbios, sendo opção de monoterapia na profilaxia colorretal.",
+   "Cefuroxima não tem cobertura anaeróbia confiável e exigiria associação com metronidazol.",
+   "Cefazolina isolada não cobre anaeróbios; em colorretal só é adequada se associada a metronidazol.",
+   "Ceftriaxona isolada não cobre Bacteroides e, sem metronidazol, não é profilaxia adequada para cólon."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0544",
+  "q": "Homem, 45 anos de idade, submetido a gastroplastia em Y de Roux para tratamento de obesidade há 2 anos, com perda de 40 kg. Em exame de rotina, foi feito o diagnóstico de colelitíase e coledocolitíase. Assinale a alternativa que apresenta a melhor sequência de tratamento.",
+  "alts": [
+   "Colecistectomia e colangiografia transparietohepática",
+   "Colecistectomia e exploração cirúrgica do colédoco",
+   "Colangiografia endoscópica e colecistectomia laparoscópica",
+   "Litotripsia extracorpórea e colecistectomia"
+  ],
+  "gab": 1,
+  "tema": "hepatobiliar",
+  "sub": "Coledocolitíase após bypass gástrico",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Buxbaum JL et al. ASGE guideline on the role of endoscopy in the evaluation and management of choledocholithiasis, Gastrointest Endosc, 2019",
+  "coment": "Após bypass gástrico em Y de Roux, a papila fica no estômago excluso e a CPRE convencional raramente alcança a via biliar pelo trajeto longo da alça. Com colelitíase e coledocolitíase simultâneas, a solução em um tempo é a colecistectomia com exploração da via biliar (laparoscópica, transcística ou por coledocotomia), que retira a vesícula e os cálculos no mesmo ato. Outra opção, quando disponível, é a CPRE assistida por laparoscopia via gastrostomia no estômago excluso. A via percutânea transparietohepática fica para falha ou indisponibilidade dessas opções.",
+  "porAlt": [
+   "A via transparietohepática é mais invasiva e reservada a falha das abordagens cirúrgica e endoscópica assistida.",
+   "Correta: com a papila inacessível pela anatomia do Y de Roux, colecistectomia com exploração do colédoco resolve tudo em um tempo.",
+   "A CPRE convencional é tecnicamente difícil após Y de Roux, pois a papila fica no estômago excluso, longe do alcance do endoscópio.",
+   "Litotripsia extracorpórea não tem papel na coledocolitíase comum e não remove os fragmentos da via biliar."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0545",
+  "q": "Mulher, 40 anos de idade, procura o serviço de emergência com dor lombar há 3 dias e aumento da intensidade nas últimas 12h. No momento relata dor 10 em 10 e incapacidade de trabalhar. Relata múltiplos episódios prévios semelhantes em momentos de aumento da carga de trabalho. Tem obesidade (IMC de 41 kg/m²), insônia e tabagismo de 20 anos-maço. Faz uso de benzodiazepínico para dormir. Nega outras comorbidades. Ao exame físico, após analgesia, apresenta dor localizada na região lombar, com irradiação para o membro inferior direito, força motora e sensibilidade dos membros inferiores sem alterações. Qual das características apresentadas pela paciente representa fator de risco para cronificação do episódio de dor lombar?",
+  "alts": [
+   "Dor intensa gerando incapacidade funcional",
+   "Índice de massa corpórea maior que 35 kg/m²",
+   "Tabagismo com elevada carga tabágica",
+   "Insônia com uso de benzodiazepínico"
+  ],
+  "gab": 0,
+  "tema": "cronicas",
+  "sub": "Fatores de cronificação da lombalgia",
+  "cenario": "emg",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "NICE NG59. Low back pain and sciatica in over 16s: assessment and management, 2016 (atualizada 2020)",
+  "coment": "Os preditores mais consistentes de evolução para lombalgia crônica são a intensidade inicial da dor e a incapacidade funcional que ela gera, junto com fatores psicossociais (bandeiras amarelas): catastrofização, medo e evitação de movimento, sofrimento psíquico, insatisfação com o trabalho e episódios prévios. É o que as ferramentas de estratificação como o STarT Back medem, recomendadas pelo NICE para orientar a intensidade do cuidado. Obesidade, tabagismo e distúrbio do sono se associam a ter lombalgia, mas têm evidência fraca e inconsistente como preditores de cronificação de um episódio agudo.",
+  "porAlt": [
+   "Correta: dor intensa com incapacidade funcional no início é o preditor mais forte de cronificação da lombalgia.",
+   "Obesidade se associa à ocorrência de lombalgia, mas é preditor fraco e inconsistente de cronificação do episódio.",
+   "Tabagismo se associa a dor lombar, mas não é preditor consistente de evolução para dor crônica.",
+   "Insônia e uso de benzodiazepínico têm evidência menos robusta que intensidade e incapacidade como preditores de cronificação."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0546",
+  "q": "Mulher, 59 anos de idade, foi submetida a colecistectomia laparoscópica devido a colecistite aguda há 1 dia. Na operação não foi realizada colangiografia intraoperatória e não houve colocação de dreno abdominal. Desde o pós-operatório imediato, apresentou vômitos de repetição sem aceitação da dieta e dor abdominal em tratamento com dipirona e tramadol. Ao exame físico, encontra-se em bom estado geral, eupneica, com FC de 95 bpm, PA de 120×70 mmHg, abdome doloroso à palpação profunda, sem sinais de irritação peritoneal.\nExames laboratoriais: Hb: 12 g/dL; Leucócitos: 13.412/mm³; PCR: 90 mg/L; Bilirrubina total: 1,1 mg/dL; FA: 91 U/L; GGT: 110 U/L; Amilase: 100 U/L; Lipase: 98 U/L.\nAssinale a alternativa que apresenta a melhor conduta nesse momento.",
+  "alts": [
+   "Suspender tramadol e passar sonda nasogástrica",
+   "Suspender tramadol e administrar ondansetrona",
+   "Realizar tomografia de abdome",
+   "Realizar colangiorressonância"
+  ],
+  "gab": 1,
+  "tema": "periop",
+  "sub": "Náuseas e vômitos pós-operatórios",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Gan TJ et al. Fourth Consensus Guidelines for the Management of Postoperative Nausea and Vomiting, Anesth Analg, 2020",
+  "coment": "No primeiro dia após colecistectomia por colecistite aguda, leucocitose de 13 mil e PCR de 90 mg/L são esperadas pela própria inflamação e pelo trauma cirúrgico. A paciente está em bom estado geral, com sinais vitais normais, abdome sem irritação peritoneal e bilirrubina, fosfatase alcalina, amilase e lipase normais, o que torna fístula biliar, coledocolitíase residual e pancreatite improváveis neste momento. O tramadol é dos opioides mais emetogênicos, e náuseas e vômitos pós-operatórios são comuns após laparoscopia em mulheres. A conduta é suspender o tramadol e usar antiemético (ondansetrona), reavaliando: se surgir febre, dor progressiva, icterícia ou piora clínica, aí se investiga com imagem.",
+  "porAlt": [
+   "Sonda nasogástrica é para obstrução ou íleo com distensão, ausentes num abdome sem distensão e em bom estado geral.",
+   "Correta: vômitos com exame tranquilo e exames compatíveis com o pós-operatório apontam efeito do tramadol, tratado com sua suspensão e ondansetrona.",
+   "Tomografia no primeiro dia sem sinais de complicação expõe a radiação e tende a mostrar alterações pós-operatórias inespecíficas.",
+   "Colangiorressonância investiga cálculo residual, improvável com bilirrubina e fosfatase alcalina normais."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0547",
+  "q": "Mulher, 65 anos de idade, refere empachamento pós-prandial eventual. Nega epigastralgia, pirose, regurgitação, disfagia, dor torácica ou náuseas. Ao exame físico, encontra-se em bom estado geral, com IMC de 32 kg/m²; abdome flácido e indolor. Foi submetida a endoscopia digestiva alta que identificou hérnia hiatal volumosa, com mucosa esofágica sem alterações e pangastrite enantematosa leve. Na sequência, realizou exame de radiografia contrastado do esôfago que confirmou hérnia hiatal tipo III. Foi iniciado tratamento com omeprazol e domperidona, com resolução do sintoma. Assinale a alternativa que apresenta a melhor conduta para esta paciente.",
+  "alts": [
+   "Manometria e pH-metria esofágica para definição do diagnóstico e tratamento",
+   "Cirurgia para correção da hérnia de hiato com hiatoplastia e fundoplicatura",
+   "Cirurgia com correção da hérnia de hiato com hiatoplastia e bypass gástrico",
+   "Seguimento ambulatorial sem indicação de cirurgia no momento"
+  ],
+  "gab": 3,
+  "tema": "digestivo",
+  "sub": "Hérnia hiatal paraesofágica assintomática",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Kohn GP et al. SAGES Guidelines for the management of hiatal hernia, Surg Endosc, 2013",
+  "coment": "A hérnia hiatal tipo III (mista) tem componente paraesofágico. A indicação cirúrgica é para hérnias sintomáticas (refluxo refratário, disfagia, saciedade precoce, anemia, sintomas obstrutivos) ou complicadas (volvo, encarceramento). As diretrizes da SAGES indicam que o reparo eletivo de rotina da hérnia paraesofágica assintomática nem sempre é necessário, pesando idade e comorbidades, pois o risco anual de complicação aguda é baixo. Paciente de 65 anos, sem esofagite, com sintoma eventual que desapareceu com medicação, pode ser seguida em ambulatório com orientação sobre sinais de alarme.",
+  "porAlt": [
+   "Manometria e pH-metria são exames pré-operatórios ou para refluxo atípico; sem indicação cirúrgica nem sintoma de refluxo, não mudam a conduta.",
+   "Hiatoplastia com fundoplicatura é indicada na hérnia paraesofágica sintomática ou complicada, não em paciente sem sintomas.",
+   "Bypass gástrico com hiatoplastia é opção para obesidade grave com hérnia sintomática; IMC de 32 sem comorbidade não indica bariátrica aqui.",
+   "Correta: hérnia paraesofágica sem sintomas persistentes nem complicações pode ser acompanhada sem cirurgia no momento."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0548",
+  "q": "Homem, 58 anos de idade, é trazido ao pronto-socorro com história de ingestão de soda cáustica. Foi realizada passagem de sonda nasoenteral. No segundo dia de internação, estava sem queixas e solicitou continuidade de recuperação domiciliar, pois sua esposa é enfermeira. O paciente apresenta postura reservada, solícito, fala pouco e diz não se conformar por ter ingerido por engano a soda cáustica que estava em uma garrafa igual à que usam para água. Quando o médico sugere uma consulta psiquiátrica, o paciente pede o favor de não chamar um psiquiatra, temendo o estigma, e acrescenta que tomará mais cuidado. Com base neste caso, assinale a alternativa que apresenta a conduta mais adequada.",
+  "alts": [
+   "Dar a alta se ele assinar o termo de responsabilidade por alta a pedido, respeitando a autonomia do doente",
+   "Dar a alta considerando que a esposa é capaz de dar continuidade ao cuidado",
+   "Não dar a alta e avaliar com familiares a circunstância do evento para dar continuidade ao cuidado",
+   "Não dar a alta e pedir avaliação psiquiátrica, omitindo a especialidade do médico avaliador"
+  ],
+  "gab": 2,
+  "tema": "emergpsiq",
+  "sub": "Ingestão cáustica e risco de suicídio",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Resolução CFM 2.217/2018, Código de Ética Médica (art. 31); ABP/CFM. Suicídio: informando para prevenir, 2014",
+  "coment": "Ingestão de soda cáustica por adulto deve ser tratada como possível tentativa de suicídio até prova em contrário, sobretudo com postura reservada, discurso que minimiza o fato e recusa de avaliação psiquiátrica. O risco imediato de morte limita a autonomia: o Código de Ética Médica (art. 31) veda desrespeitar a decisão do paciente salvo em iminente risco de morte. A conduta é manter a internação, que também é necessária pela lesão cáustica, e conversar com os familiares para entender a circunstância e garantir proteção. Esconder a especialidade do avaliador fere o vínculo e a ética, e a ajuda psiquiátrica deve ser proposta com transparência.",
+  "porAlt": [
+   "Alta a pedido não protege paciente com possível tentativa de suicídio e risco iminente, situação em que a autonomia é limitada.",
+   "A formação da esposa não substitui a avaliação do risco de suicídio nem o tratamento da lesão cáustica.",
+   "Correta: manter internado e ouvir a família sobre a circunstância protege o paciente e permite planejar a continuidade do cuidado.",
+   "Omitir a especialidade do avaliador é enganar o paciente, viola a ética e compromete o vínculo terapêutico."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0549",
+  "q": "Texto para as questões 49 a 51.\nCriança, sexo masculino, 1 mês de vida, previamente hígida, é trazida à unidade de emergência após cair do trocador, há cerca de 30 minutos. Segundo a mãe, ela havia tirado a mão dele por alguns segundos para jogar a fralda no lixo e ele teria rolado e caído do trocador. Na admissão, o paciente estava inconsciente, sendo levado à sala de emergência. A seguir, os dados da avaliação sistematizada:\nA: pérvia\nB: murmúrio vesicular e expansibilidade diminuídos, FR de 8 irpm, SpO2 de 89% em ar ambiente;\nC: tempo de enchimento capilar < 1 segundo, pulsos presentes e simétricos, ausculta com 2BRNF sem sopros, PA de 108×70 mmHg;\nD: escala de coma de Glasgow 7, pupilas isofotorreagentes;\nE: hematoma subgaleal em região temporal direita.\nCom relação aos exames séricos coletados durante o atendimento inicial do paciente, assinale a alternativa que apresenta as alterações laboratoriais esperadas.",
+  "alts": [
+   "pH: 7.28; paO2: 58 mmHg; pCO2: 55 mmHg; HCO3-: 24 mmol/L; SpO2: 89%",
+   "Hb: 5.0 g/dL; Ht: 18%; Leucócitos: 12.000/mm³; Plaquetas: 310.000/µL",
+   "Relação TTPA: 2.5 RNI; Tempo de Protrombina (TP): 1.1; Atividade TP: 76%",
+   "Lactato arterial: 55 mg/dL; Ureia: 60 mg/dL; Creatinina: 0.7 mg/dL"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "TCE grave no lactente",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American Heart Association. Pediatric Advanced Life Support, Diretrizes de RCP e ACE, 2025; ATLS, 11ª ed., 2025",
+  "coment": "Lactente com trauma craniano grave (Glasgow 7) apresenta depressão do drive respiratório: FR de 8 irpm, expansibilidade reduzida e SpO2 de 89%. A hipoventilação alveolar retém CO2 e reduz a oxigenação, gerando acidose respiratória aguda com hipoxemia (pH 7,28; pCO2 55; bicarbonato ainda normal de 24, sem tempo para compensar). Hipercapnia aumenta o fluxo sanguíneo cerebral e a pressão intracraniana, por isso a prioridade é via aérea definitiva e ventilação controlada para normocapnia. A circulação está preservada (PA adequada, pulsos presentes), o que não combina com anemia grave aguda.",
+  "porAlt": [
+   "Correta: hipoventilação por TCE grave gera acidose respiratória aguda com hipoxemia, com bicarbonato ainda normal.",
+   "Hb de 5 g/dL implicaria hemorragia volumosa com choque, incompatível com PA de 108x70 e pulsos presentes.",
+   "O coagulograma descrito é incoerente (relação de TTPA e RNI trocadas) e coagulopatia não é a alteração esperada como primeira consequência.",
+   "Lactato de 55 mg/dL e ureia de 60 indicariam hipoperfusão, ausente num lactente com circulação preservada."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0550",
+  "q": "Criança, sexo masculino, 7 anos de idade, portadora de refluxo vesicoureteral bilateral, retornou hoje ao hospital por febre de até 38,8 °C. No exame físico inicial, o paciente está letárgico e sonolento, apresenta FC de 140 bpm, FR de 26 irpm, PA de 90×40 mmHg, SpO2 de 96% em ar ambiente, ausculta pulmonar e cardíaca normais, fígado no rebordo costal direito, perfusão com retorno rápido (< 1 segundo), pulsos amplos, escore de coma de Glasgow 14, pupilas isofotorreagentes. Temperatura atual de 37,2 °C, após uma hora do antitérmico administrado em casa. O paciente recebeu alta há dois dias do hospital, onde esteve internado em leito de terapia intensiva pediátrico devido a quadro de infecção do trato urinário grave por Escherichia coli sensível aos antibióticos testados. Durante internação, ficou com sonda vesical de demora e cateter venoso central, retirado no dia da alta, sem sinais flogísticos no exame físico de hoje. Considerando os dados apresentados, a conduta indicada nesse momento é",
+  "alts": [
+   "iniciar expansão volêmica com cristaloide e antibiótico de espectro estendido para infecção nosocomial",
+   "iniciar fluidoterapia em velocidade de manutenção e cefalosporina de terceira geração",
+   "aguardar lactato, coagulograma, D-dímero e fibrinogênio para definir necessidade de antibiótico",
+   "aguardar coleta e resultados de sedimento urinário para definir necessidade de antibiótico"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Choque séptico quente nosocomial",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Weiss SL et al. Surviving Sepsis Campaign International Guidelines for Sepsis in Children, 2020; Phoenix Sepsis Criteria (SCCM), 2024",
+  "coment": "Criança com alta de UTI há dois dias, após sonda vesical e cateter venoso central, volta com febre, letargia, taquicardia, pressão diastólica baixa (90x40), pulsos amplos e enchimento capilar rápido: é choque séptico quente, de foco provavelmente relacionado à assistência. A conduta é imediata: acesso, culturas sem atrasar o antibiótico, expansão com cristaloide em alíquotas de 10 a 20 mL/kg reavaliando sinais de sobrecarga, e antibiótico de amplo espectro na primeira hora, cobrindo germes hospitalares, já que a cultura anterior não garante o agente atual. Esperar exames para decidir antibiótico aumenta a mortalidade.",
+  "porAlt": [
+   "Correta: choque séptico com risco de infecção hospitalar pede expansão volêmica e antibiótico de espectro estendido na primeira hora.",
+   "Fluido em manutenção é insuficiente para choque, e cefalosporina de terceira geração não cobre bem germes hospitalares após internação recente.",
+   "Aguardar lactato e coagulograma atrasa o antibiótico, cada hora de atraso aumenta a mortalidade na sepse pediátrica.",
+   "Esperar o sedimento urinário não se justifica em criança com sinais de choque, o antibiótico deve ser iniciado na primeira hora."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0551",
+  "q": "Criança, sexo masculino, 4 anos de idade, com antecedente de insuficiência renal crônica dialítica, portador de cateter de longa permanência, apresentou quadro de febre e tremores durante sessão de hemodiálise há 48 horas. Após estabilização inicial, foi internado em enfermaria de pediatria com prescrição de antibiótico parenteral. Ele está afebril há 24 horas, sem queixas, com sinais vitais dentro da normalidade. Ao exame físico, encontra-se em bom estado geral, descorado +/4+, hidratado, anictérico, afebril e eupneico. Ausculta pulmonar e cardíaca sem alterações, exame físico abdominal indolor, sem visceromegalias. A hemocultura central resultou positiva para Staphylococcus aureus, conforme antibiograma (cultura aeróbia de sangue por cateter, coletado em 22/04/2025, tempo de detecção 12h41min): Clindamicina S; Daptomicina S; Eritromicina R; Gentamicina S; Levofloxacina R; Linezolida S; Oxacilina R; Penicilina R; Rifampicina S; Sulfa+Trimetoprim S; Teicoplanina S; Tigeciclina S; Vancomicina S. Não foi coletada hemocultura periférica na admissão por dificuldade de acesso. Foi realizado ecocardiograma, sem achados de vegetação, e retirado cateter de longa permanência. Qual a melhor conduta para esse paciente?",
+  "alts": [
+   "Manter vancomicina parenteral",
+   "Alta hospitalar com sulfametoxazol trimetropina",
+   "Suspender antibioticoterapia e considerar contaminação",
+   "Descalonar para clindamicina oral, mantendo internação"
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Bacteremia por MRSA ligada a cateter",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Mermel LA et al. IDSA Clinical Practice Guidelines for Intravascular Catheter-Related Infection, 2009; Liu C et al. IDSA Guidelines for MRSA Infections, 2011",
+  "coment": "Febre e calafrios durante a hemodiálise com hemocultura do cateter positiva para S. aureus resistente à oxacilina definem infecção de corrente sanguínea relacionada a cateter. S. aureus no sangue nunca é tratado como contaminante. Mesmo com cateter retirado, ecocardiograma sem vegetação e boa evolução, a IDSA recomenda antibiótico parenteral por pelo menos 14 dias (vancomicina para MRSA), estendendo para 4 a 6 semanas se houver bacteremia persistente ou complicação. A clindamicina é pouco confiável porque a resistência à eritromicina sugere resistência induzível (teste D), e terapia oral precoce não é o padrão nesse cenário.",
+  "porAlt": [
+   "Correta: bacteremia por MRSA ligada a cateter exige vancomicina parenteral por pelo menos 14 dias após a retirada do cateter.",
+   "Sulfametoxazol com trimetoprima oral e alta precoce não são adequados para bacteremia por S. aureus nos primeiros dias.",
+   "S. aureus em hemocultura com quadro clínico compatível nunca deve ser considerado contaminação.",
+   "Clindamicina é bacteriostática e pode ter resistência induzível (eritromicina resistente), inadequada para bacteremia por MRSA."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ },
+ {
+  "pid": "p0552",
+  "q": "Criança, sexo masculino, 4 anos de idade, alérgica a amendoim, comparece à unidade de emergência devido à ingestão acidental de um doce contendo o alérgeno há cerca de 40 minutos. Há 10 minutos, iniciou o surgimento de placas urticariformes por todo o corpo, sem outras queixas. Na avaliação inicial, paciente encontra-se em bom estado geral, corado, hidratado, ausculta cardíaca com 2BRNF sem sopros, FC de 102 bpm, PA de 88×54 mmHg, extremidades bem perfundidas, ausculta pulmonar com múrmurio vesicular presente, sem ruídos adventícios, FR de 24 irpm, SpO2 de 97% em ar ambiente. Abdome flácido, normotenso, indolor. A conduta indicada nesse momento é:",
+  "alts": [
+   "Administrar adrenalina 1:1.000 por via intramuscular",
+   "Alta hospitalar, com anti-histamínico e corticosteroide",
+   "Monitorização hospitalar e administrar anti-histamínico",
+   "Realizar medidas de eliminação com lavagem gástrica"
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Urticária após exposição a alérgeno",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Cardona V et al. World Allergy Organization Anaphylaxis Guidance 2020, World Allergy Organ J, 2020",
+  "coment": "Anafilaxia exige, além do acometimento cutâneo, comprometimento respiratório, circulatório ou gastrointestinal grave, ou hipotensão, broncoespasmo ou envolvimento laríngeo após exposição a alérgeno conhecido (WAO 2020). Esta criança tem só urticária generalizada, com sinais vitais normais, ausculta limpa e abdome indolor: é reação alérgica cutânea, sem critério de anafilaxia. A conduta é anti-histamínico e observação em ambiente hospitalar, porque a reação começou há apenas 10 minutos e pode progredir. Ao primeiro sinal sistêmico (tosse, rouquidão, vômitos, queda da pressão), a adrenalina IM 0,01 mg/kg é imediata.",
+  "porAlt": [
+   "Sem acometimento respiratório, circulatório ou gastrointestinal, a urticária isolada não preenche critério de anafilaxia para adrenalina.",
+   "Alta imediata é insegura: a reação começou há 10 minutos e pode progredir para anafilaxia nas horas seguintes.",
+   "Correta: urticária isolada pede anti-histamínico e observação hospitalar, com adrenalina pronta se surgir sinal sistêmico.",
+   "Lavagem gástrica não tem papel em alergia alimentar e acrescenta risco de aspiração."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "USP 2026 Acesso Direto",
+   "ex": "usp26ad"
+  }
+ }
+]

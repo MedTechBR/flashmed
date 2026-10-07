@@ -1,0 +1,20 @@
+[
+ {
+  "grupo": "Medicina de Família e Comunidade",
+  "f": "condicoes-cronicas-na-aps.html",
+  "tipo": "PCDT HAS 2025 · resumo de prova",
+  "area": "cronicas",
+  "min": 55,
+  "t": "Condições crônicas e queixas comuns na APS",
+  "s": "Hipertensão pelo PCDT do Ministério da Saúde de 2025 e pela Diretriz Brasileira de 2025, risco cardiovascular pela calculadora HEARTS, diabetes tipo 2 na unidade básica, tabagismo pelo PCDT de 2020, multimorbidade e desprescrição pelos critérios de Beers 2023, lombalgia aguda e as queixas que mais lotam a agenda: cefaleia, dispepsia e infecção respiratória alta."
+ },
+ {
+  "grupo": "Medicina de Família e Comunidade",
+  "f": "populacoes-e-atencao-domiciliar.html",
+  "tipo": "Portaria GM/MS 3.005/2024 · resumo de prova",
+  "area": "grupos",
+  "min": 50,
+  "t": "Populações na APS e atenção domiciliar",
+  "s": "Pessoa idosa na atenção primária (avaliação multidimensional, fragilidade e quedas), as políticas nacionais de saúde do homem, da população LGBT, da população em situação de rua, dos povos indígenas e das populações do campo, da floresta e das águas, a atenção domiciliar do SUS pela Portaria GM/MS 3.005/2024 e a priorização de visitas pela escala de Coelho e Savassi."
+ }
+]

@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Recém-nascido de 39 semanas, parto vaginal, líquido amniótico claro, nasce hipotônico e sem respirar e não responde ao estímulo tátil no dorso feito com o cordão intacto. O cordão é clampeado e ele é levado à mesa de reanimação sob calor radiante, onde é posicionado e secado. Persiste em apneia, com frequência cardíaca de 80 bpm. Qual é a conduta indicada neste momento?",
+  "alts": [
+   "Ventilação com pressão positiva por máscara facial, iniciada com oxigênio a 60%",
+   "Oxigênio inalatório livre por cateter junto à face e reavaliação em 30 segundos",
+   "Ventilação com pressão positiva por máscara facial, iniciada com ar ambiente",
+   "Intubação traqueal imediata seguida de ventilação com oxigênio a 100%",
+   "Massagem cardíaca associada à ventilação, na relação de 3 compressões para 1"
+  ],
+  "gab": 2,
+  "tema": "neonato",
+  "sub": "VPP inicial no RN a termo",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP, 2026",
+  "coment": "Pela diretriz da SBP de 2026, o RN de 34 semanas ou mais que, após os passos iniciais, está em apneia, com respiração irregular ou FC abaixo de 100 bpm recebe VPP com máscara dentro do primeiro minuto de vida, iniciada em ar ambiente (21%), a 30 a 60 movimentos por minuto e pressão inspiratória de 20 a 30 cmH2O. O oxigênio só é ajustado, em 20% a cada 30 segundos, se a SpO2 pré-ductal ficar abaixo da meta do minuto (65 a 70% aos 2 min, 80 a 85% aos 5) depois de corrigida a técnica. Os 60% iniciais são do prematuro abaixo de 34 semanas e do RN recém-intubado. Oxigênio livre não ventila, a intubação fica para falha da máscara e a massagem só entra com FC abaixo de 60 bpm após 30 segundos de VPP adequada. Fonte: SBP, diretrizes de reanimação neonatal 2026.",
+  "porAlt": [
+   "Iniciar com 60% é a regra do prematuro abaixo de 34 semanas; com 39 semanas a VPP começa em ar ambiente.",
+   "Oxigênio inalatório livre não ventila um RN em apneia; a indicação é ventilação com pressão positiva.",
+   "Correta: apneia ou FC abaixo de 100 bpm após os passos iniciais indica VPP, que no RN de 34 semanas ou mais começa com ar ambiente.",
+   "A intubação é reservada à falha da máscara, à VPP prolongada ou à massagem, e não se inicia com 100% nessa faixa.",
+   "Massagem só se indica com FC abaixo de 60 bpm após 30 segundos de VPP com técnica adequada."
+  ]
+ },
+ {
+  "q": "Gestante de 41 semanas tem parto vaginal com líquido amniótico meconial espesso. O recém-nascido nasce hipotônico e sem movimentos respiratórios e não responde ao estímulo tátil; o cordão é clampeado. Na mesa de reanimação, realizam-se os passos iniciais; ele persiste em apneia, com frequência cardíaca de 90 bpm. Qual é a conduta recomendada?",
+  "alts": [
+   "Fazer laringoscopia e aspirar a traqueia sob visualização direta antes de ventilar",
+   "Intubar e aspirar o mecônio pela cânula traqueal até o retorno de secreção clara",
+   "Aspirar boca e narinas ainda no períneo, antes do desprendimento dos ombros",
+   "Iniciar ventilação com pressão positiva por máscara facial no primeiro minuto",
+   "Instalar CPAP nasal com oxigênio a 40% e colher gasometria do cordão umbilical"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Líquido meconial e RN não vigoroso",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP, 2026",
+  "coment": "Pela diretriz da SBP de 2026, quem decide a conduta é a vitalidade, não a viscosidade do líquido. Laringoscopia e aspiração traqueal de rotina no RN meconial deprimido não devem ser feitas: a metanálise citada não mostrou diferença em síndrome de aspiração meconial, encefalopatia ou sobrevida, e o procedimento atrasa a ventilação. A conduta é a de qualquer RN: estímulo tátil com o cordão intacto, clampeamento, passos iniciais e, com apneia, respiração irregular ou FC abaixo de 100 bpm, VPP com máscara em ar ambiente no primeiro minuto. A traqueia só é aspirada na obstrução real, uma vez, pela cânula com dispositivo para mecônio. Fonte: SBP, diretrizes de reanimação neonatal 2026.",
+  "porAlt": [
+   "A laringoscopia com aspiração traqueal de rotina atrasa a ventilação e não muda aspiração meconial nem sobrevida.",
+   "Intubar só para aspirar mecônio não é rotina; a aspiração traqueal fica para obstrução real da via aérea.",
+   "A aspiração no desprendimento do polo cefálico não é feita por não prevenir a síndrome de aspiração meconial.",
+   "Correta: no RN meconial não vigoroso, a conduta é a mesma de qualquer RN em apneia, com VPP por máscara sem atraso.",
+   "CPAP não ventila um RN em apneia; a FC de 90 bpm sem respiração exige ventilação com pressão positiva."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 38 semanas está intubado e recebe ventilação com pressão positiva com técnica adequada, confirmada por expansão torácica, há 30 segundos. A frequência cardíaca é de 50 bpm. Qual é a próxima conduta?",
+  "alts": [
+   "Massagem com dois polegares, 15 compressões para 2 ventilações, e oxigênio a 60%",
+   "Massagem com dois polegares, 3 compressões para 1 ventilação (3:1), e oxigênio a 100%",
+   "Massagem com dois dedos, 30 compressões para 2 ventilações, mantendo ar ambiente",
+   "Adrenalina endotraqueal antes de qualquer compressão, mantendo a ventilação",
+   "Manter a ventilação por mais 60 segundos e elevar a fração de oxigênio para 40%"
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Indicação e técnica da massagem",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP, 2026",
+  "coment": "Pela diretriz da SBP de 2026, se a FC permanece abaixo de 60 bpm após 30 segundos de VPP com técnica adequada, na prática pela cânula, iniciam-se as compressões. Usa-se a técnica dos dois polegares no terço inferior do esterno, poupando o xifoide, com profundidade de um terço do diâmetro anteroposterior, sincronizada na relação 3:1 com 120 eventos por minuto (90 compressões e 30 ventilações). O oxigênio sobe para 100% durante a massagem; os 60% são o ponto de partida logo após intubar. A FC é reavaliada após 60 segundos. Relações 15:2 e 30:2 são da reanimação pediátrica e do adulto. Fonte: SBP, diretrizes de reanimação neonatal 2026.",
+  "porAlt": [
+   "A relação 15:2 pertence à reanimação pediátrica com dois socorristas, e 60% é a FiO2 de logo após intubar, não da massagem.",
+   "Correta: FC abaixo de 60 bpm após 30 segundos de VPP adequada indica massagem sincronizada 3:1 com oxigênio a 100%.",
+   "A relação 30:2 é do adulto e de um socorrista; no RN usa-se 3:1 e oxigênio a 100% durante a massagem.",
+   "A adrenalina vem depois de 60 segundos de massagem com ventilação adequada, e a via preferida é a umbilical.",
+   "Com FC abaixo de 60 bpm após 30 segundos de VPP adequada, adiar a massagem prolonga a hipoperfusão coronariana e cerebral."
+  ]
+ },
+ {
+  "q": "Durante a reanimação de um recém-nascido de 40 semanas, intubado, a frequência cardíaca segue em 40 bpm após 60 segundos de compressões torácicas coordenadas com ventilação e oxigênio a 100%. Indica-se adrenalina. Qual é a via preferencial para administrá-la?",
+  "alts": [
+   "Endotraqueal, pela cânula já posicionada",
+   "Intramuscular, na face anterolateral da coxa",
+   "Intravenosa, por acesso periférico no dorso da mão",
+   "Intravenosa, por cateter venoso umbilical",
+   "Intracardíaca, por punção subxifoide"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Via da adrenalina na reanimação",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP, 2026",
+  "coment": "Pela diretriz da SBP de 2026, a adrenalina entra quando a FC segue abaixo de 60 bpm após 60 segundos de massagem sincronizada com VPP pela cânula e oxigênio a 100%. A via de eleição é o cateter venoso umbilical, em posição periférica: faixa de 0,01 a 0,03 mg/kg, na prática 0,02 mg/kg (0,2 mL/kg da diluição de 1 mL da ampola em 9 mL de SF), com flush de 3 mL, repetível a cada 3 a 5 minutos. A intraóssea na tíbia é alternativa. A traqueal (0,1 mg/kg, 1 mL/kg) é usada uma única vez enquanto se obtém o acesso, com absorção imprevisível. Fonte: SBP, diretrizes de reanimação neonatal 2026.",
+  "porAlt": [
+   "A via traqueal tem absorção imprevisível e dose maior; é usada uma única vez enquanto se obtém o cateter umbilical.",
+   "A via intramuscular não alcança nível sérico rápido em RN com débito cardíaco mínimo durante a massagem.",
+   "O acesso periférico no RN em parada é difícil e demorado; o cateter umbilical, ou a intraóssea, é mais rápido.",
+   "Correta: a veia umbilical dá acesso rápido e central, e a adrenalina por essa via tem efeito previsível.",
+   "A punção intracardíaca não faz parte da diretriz pelo risco de lesão miocárdica e de interrupção da massagem."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 38 semanas nasce de parto vaginal, chorando e com bom tônus muscular. A mãe está bem e deseja o contato precoce com o filho. Quanto ao clampeamento do cordão umbilical, qual é a recomendação?",
+  "alts": [
+   "Clampear de imediato, para reduzir o risco de policitemia e de icterícia",
+   "Clampear após 30 segundos, com o RN mantido abaixo do nível da placenta",
+   "Clampear após a dequitação, com o RN sobre o abdome materno",
+   "Clampear no mínimo 60 segundos após o nascimento, com o RN junto à mãe",
+   "Clampear após 3 minutos na cesárea e de imediato no parto vaginal"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Clampeamento do cordão umbilical",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP, 2026",
+  "coment": "Pela diretriz da SBP de 2026, no RN de 34 semanas ou mais com boa vitalidade (respira ou chora e tônus em flexão) clampeia-se o cordão com no mínimo 60 segundos, de preferência após o início da respiração, com o RN pele a pele com a mãe. Esperar transfere até 25% do volume placentário e eleva hemoglobina e ferritina, ao custo de mais policitemia e icterícia a vigiar. Sem boa vitalidade, faz-se estímulo tátil no dorso por cerca de 15 segundos com o cordão intacto: se respirar, clampear com 60 segundos ou mais; se não, clampear e levar à mesa, sendo a ordenha com clampeamento abaixo de 30 segundos uma opção. O clampeamento imediato fica para descolamento de placenta, placenta prévia sangrante ou nó verdadeiro. Fonte: SBP, diretrizes de reanimação neonatal 2026.",
+  "porAlt": [
+   "O clampeamento imediato fica para circulação placentária interrompida; icterícia e policitemia são vigiadas, não evitadas assim.",
+   "Trinta segundos é tempo insuficiente no RN vigoroso, e não é preciso manter o RN abaixo da placenta.",
+   "Aguardar a dequitação não é recomendado e pode atrasar a assistência caso o RN precise de ajuda.",
+   "Correta: no RN com 34 semanas ou mais e boa vitalidade, o clampeamento é feito no mínimo 60 segundos após o nascimento.",
+   "A via de parto não muda a recomendação de clampear após pelo menos 60 segundos no RN vigoroso."
+  ]
+ },
+ {
+  "q": "No primeiro minuto de vida, um recém-nascido apresenta frequência cardíaca de 90 bpm, respiração irregular e fraca, alguma flexão dos membros, careta à aspiração das narinas e corpo róseo com extremidades cianóticas. Qual é o boletim de Apgar?",
+  "alts": [
+   "5",
+   "4",
+   "6",
+   "7",
+   "3"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Cálculo do boletim de Apgar",
+  "cenario": "cc",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American Academy of Pediatrics; ACOG. The Apgar Score (Committee Opinion n. 644), 2015",
+  "coment": "O Apgar soma cinco sinais pontuados de 0 a 2: frequência cardíaca (ausente 0, abaixo de 100 bpm 1, 100 ou mais 2), esforço respiratório (ausente 0, irregular ou fraco 1, choro forte 2), tônus (flácido 0, alguma flexão 1, movimento ativo 2), irritabilidade reflexa (sem resposta 0, careta 1, choro ou espirro 2) e cor (cianose ou palidez 0, corpo róseo com extremidades cianóticas 1, todo róseo 2). Aqui todos valem 1, total 5. O Apgar descreve a transição e a resposta à reanimação, mas não decide o início da reanimação. Fonte: AAP e ACOG, 2015.",
+  "porAlt": [
+   "Correta: cada um dos cinco sinais descritos vale 1 ponto, o que soma 5.",
+   "Quatro pontos subestimam o escore, pois nenhum dos sinais descritos vale zero.",
+   "Seis pontos exigiriam um sinal com nota 2, como FC de 100 bpm ou mais ou choro forte.",
+   "Sete pontos exigiriam dois sinais com nota máxima, o que o quadro não mostra.",
+   "Três pontos supõem dois sinais ausentes, como apneia ou flacidez, que não estão presentes."
+  ]
+ },
+ {
+  "q": "Recém-nascido a termo, 3.300 g, nascido de parto vaginal sem intercorrências, termina a primeira hora em contato pele a pele com a mãe. Nos cuidados de rotina que se seguem, qual é a profilaxia indicada para a doença hemorrágica do recém-nascido?",
+  "alts": [
+   "Vitamina K1, 0,5 mg por via oral, em dose única ao nascer",
+   "Vitamina K1, 5 mg intramuscular, só se o parto for instrumental",
+   "Plasma fresco congelado, 10 mL/kg, se o coto umbilical sangrar",
+   "Vitamina K1, 1 mg por via intramuscular, em dose única",
+   "Vitamina K1 intramuscular, restrita a RN abaixo de 2.000 g"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Profilaxia com vitamina K",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à saúde do recém-nascido: guia para os profissionais de saúde, v. 1, 2ª ed., 2014",
+  "coment": "A vitamina K1 (fitomenadiona) é feita em todos os recém-nascidos para prevenir a doença hemorrágica por deficiência de vitamina K, nas formas precoce, clássica e tardia. A dose é 1 mg por via intramuscular, em dose única, e 0,5 mg nos RN com menos de 2.000 g. Pode ser adiada para depois da primeira hora de contato pele a pele. A via intramuscular é preferida porque a oral exige doses repetidas e protege menos contra a forma tardia, mais comum no lactente em aleitamento exclusivo. Fonte: MS, Atenção à saúde do recém-nascido, 2014.",
+  "porAlt": [
+   "Dose oral única e baixa protege mal contra a forma tardia, sobretudo no lactente amamentado exclusivamente.",
+   "A profilaxia é universal e não depende do tipo de parto; 5 mg excede a dose neonatal.",
+   "Plasma é tratamento de sangramento grave, não profilaxia; a vitamina K deve ser feita antes de sangrar.",
+   "Correta: todo RN recebe 1 mg de vitamina K1 intramuscular ao nascer; 0,5 mg nos menores de 2.000 g.",
+   "A indicação é universal; abaixo de 2.000 g muda apenas a dose, que passa a 0,5 mg."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 39 semanas, em aleitamento materno exclusivo no alojamento conjunto, apresenta icterícia visível até o abdome com 18 horas de vida. Está ativo, sugando bem, sem outras alterações ao exame. A mãe é O positivo. Qual é a conduta mais adequada?",
+  "alts": [
+   "Dosar bilirrubinas e investigar hemólise com tipagem ABO, Coombs direto e hematócrito",
+   "Manter observação clínica e reavaliar a icterícia na consulta do 5º dia de vida",
+   "Orientar banho de sol diário e retorno à unidade se a icterícia alcançar as pernas",
+   "Suspender o aleitamento por 48 horas e oferecer fórmula para baixar a bilirrubina",
+   "Oferecer água ou chá entre as mamadas para aumentar a eliminação da bilirrubina"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Icterícia nas primeiras 24 horas",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American Academy of Pediatrics. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation, 2022",
+  "coment": "Icterícia nas primeiras 24 horas de vida é sempre patológica e obriga dosagem de bilirrubina total e frações, além de investigação de hemólise: tipagem ABO e Rh da mãe e do RN, Coombs direto, hemoglobina, hematócrito, reticulócitos e esfregaço. Mãe O com RN A ou B sugere incompatibilidade ABO. A icterícia fisiológica aparece após 24 horas, tem pico entre o 3º e o 5º dia no RN a termo e não exige essa investigação. Banho de sol não é tratamento, e suspender o leite materno ou oferecer água não está indicado. Fonte: AAP, 2022.",
+  "porAlt": [
+   "Correta: icterícia antes de 24 horas é patológica e obriga dosagem de bilirrubina e investigação de hemólise.",
+   "Observar sem dosar é a conduta da icterícia tardia leve, não da que surge antes de 24 horas de vida.",
+   "Banho de sol não é tratamento seguro nem eficaz, e a progressão cefalocaudal não substitui a dosagem.",
+   "Suspender o aleitamento não trata hemólise e prejudica a amamentação sem indicação.",
+   "Água e chá não aumentam a eliminação de bilirrubina e reduzem a ingesta de leite materno."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 38 semanas, primeiro filho do casal, apresenta icterícia com 30 horas de vida. A mãe é O positivo e o RN é A positivo. Coombs direto fracamente positivo, hemoglobina de 14 g/dL, reticulócitos aumentados e esferócitos no esfregaço. Sobre esse quadro, é correto afirmar que:",
+  "alts": [
+   "só ocorre a partir da segunda gestação, após sensibilização materna prévia",
+   "teria sido prevenido com imunoglobulina anti-D materna após o parto anterior",
+   "a hemólise costuma ser mais grave que na doença Rh, com hidropisia frequente",
+   "o Coombs direto fracamente positivo afasta hemólise e indica icterícia fisiológica",
+   "pode ocorrer já no primeiro filho, pois a mãe O tem anti-A natural da classe IgG"
+  ],
+  "gab": 4,
+  "tema": "neonato",
+  "sub": "Incompatibilidade ABO",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à saúde do recém-nascido: guia para os profissionais de saúde, v. 2, 2ª ed., 2014",
+  "coment": "Na incompatibilidade ABO, típica de mãe O com RN A ou B, a mãe possui anticorpos anti-A e anti-B naturais, parte deles da classe IgG, que atravessam a placenta. Por isso a doença pode ocorrer já no primeiro filho, sem sensibilização prévia. A hemólise costuma ser mais leve que na doença Rh, porque os antígenos A e B são pouco expressos nas hemácias fetais e também existem em outros tecidos; o Coombs direto é muitas vezes fraco ou negativo, e esferócitos são comuns. A imunoglobulina anti-D previne só a aloimunização Rh. Fonte: MS, Atenção à saúde do RN, 2014.",
+  "porAlt": [
+   "A exigência de sensibilização prévia é característica da doença Rh, não da incompatibilidade ABO.",
+   "A imunoglobulina anti-D previne apenas a aloimunização Rh e não interfere nos anticorpos ABO.",
+   "A doença ABO é em geral mais leve que a Rh, porque os antígenos A e B são pouco expressos no feto.",
+   "Na doença ABO o Coombs direto é muitas vezes fraco ou negativo, e esferócitos com reticulocitose indicam hemólise.",
+   "Correta: a mãe O tem anticorpos anti-A e anti-B naturais, parte IgG, que cruzam a placenta sem sensibilização prévia."
+  ]
+ },
+ {
+  "q": "Na diretriz da Academia Americana de Pediatria para hiperbilirrubinemia no recém-nascido de 35 semanas ou mais, o limiar de fototerapia é mais baixo quando há fatores de risco para neurotoxicidade da bilirrubina. Qual dos achados abaixo é um desses fatores?",
+  "alts": [
+   "Aleitamento materno exclusivo com perda de peso de 8%",
+   "Sexo masculino e ascendência do leste da Ásia",
+   "Irmão que precisou de fototerapia no período neonatal",
+   "Céfalo-hematoma volumoso após parto com vácuo extrator",
+   "Doença hemolítica isoimune (ABO ou Rh) com Coombs positivo"
+  ],
+  "gab": 4,
+  "tema": "neonato",
+  "sub": "Fatores de neurotoxicidade da bilirrubina",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Academy of Pediatrics. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation, 2022",
+  "coment": "A diretriz de 2022 separa fatores de risco para hiperbilirrubinemia significativa (irmão com fototerapia, aleitamento com baixa ingesta, hematomas, ascendência do leste asiático, sexo masculino) dos fatores de risco para neurotoxicidade, que baixam o limiar das curvas de fototerapia e de exsanguineotransfusão: idade gestacional abaixo de 38 semanas, albumina abaixo de 3,0 g/dL, doença hemolítica isoimune, deficiência de G6PD ou outra hemólise, sepse e instabilidade clínica significativa nas últimas 24 horas. Os limiares são lidos em curvas por hora de vida. Fonte: AAP, 2022.",
+  "porAlt": [
+   "Aleitamento com perda de peso aumenta o risco de hiperbilirrubinemia, mas não é fator de neurotoxicidade.",
+   "Sexo masculino e ascendência asiática elevam o risco de hiperbilirrubinemia, não o de neurotoxicidade.",
+   "Irmão com fototerapia é fator de risco para hiperbilirrubinemia significativa, não para neurotoxicidade.",
+   "Céfalo-hematoma aumenta a carga de bilirrubina, mas não está entre os fatores que baixam o limiar.",
+   "Correta: hemólise isoimune é fator de neurotoxicidade e desloca para baixo as curvas de fototerapia."
+  ]
+ },
+ {
+  "q": "Lactente de 4 semanas, nascido a termo, em aleitamento materno exclusivo, é levado à unidade de saúde por icterícia persistente desde a segunda semana. A mãe relata fezes esbranquiçadas e urina escura que mancha a fralda. Bom ganho de peso; fígado palpável a 3 cm do rebordo costal direito. Qual é a conduta?",
+  "alts": [
+   "Tranquilizar quanto à icterícia do leite materno e manter o aleitamento exclusivo",
+   "Dosar bilirrubina direta e encaminhar já para investigar atresia biliar antes de 60 dias",
+   "Suspender o aleitamento por 48 horas e repetir a bilirrubina total após esse prazo",
+   "Indicar fototerapia domiciliar e reavaliar a cor das fezes na consulta do 2º mês",
+   "Pedir sorologias para infecções congênitas e reavaliar a icterícia aos 3 meses"
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Colestase e atresia biliar",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "NASPGHAN; ESPGHAN. Guideline for the Evaluation of Cholestatic Jaundice in Infants, 2017",
+  "coment": "Icterícia além de 14 dias no RN a termo (21 no pré-termo) exige dosar bilirrubina direta. Acolia fecal e colúria indicam colestase, e a principal causa cirúrgica no lactente é a atresia biliar. O prognóstico depende da portoenterostomia de Kasai, com melhores resultados quando feita antes de 45 a 60 dias de vida, por isso o encaminhamento é urgente. A Caderneta da Criança traz uma escala de cores das fezes para a família reconhecer a acolia. Icterícia do leite materno é indireta e não causa acolia nem colúria. Fonte: NASPGHAN e ESPGHAN, 2017.",
+  "porAlt": [
+   "A icterícia do leite materno é de bilirrubina indireta e não causa acolia nem colúria.",
+   "Correta: acolia e colúria indicam colestase, e a atresia biliar exige diagnóstico e cirurgia antes de 60 dias de vida.",
+   "Suspender o leite serve para testar icterícia do leite materno, que é indireta, e atrasa o diagnóstico.",
+   "Fototerapia não trata hiperbilirrubinemia direta e pode causar a síndrome do bebê bronzeado.",
+   "Aguardar até os 3 meses faz perder a janela da cirurgia de Kasai, que piora após 60 dias."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 37 semanas, nascido de cesárea eletiva sem trabalho de parto, apresenta nas primeiras horas frequência respiratória de 80 irpm, tiragem subcostal leve e necessidade de oxigênio a 30%. A radiografia de tórax mostra hiperinsuflação, congestão peri-hilar e líquido na cisura horizontal. Qual é o diagnóstico mais provável?",
+  "alts": [
+   "Deficiência de surfactante (membrana hialina)",
+   "Síndrome da aspiração de mecônio",
+   "Pneumonia por estreptococo do grupo B",
+   "Hipertensão pulmonar persistente neonatal",
+   "Taquipneia transitória do recém-nascido"
+  ],
+  "gab": 4,
+  "tema": "neonato",
+  "sub": "Taquipneia transitória do RN",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à saúde do recém-nascido: guia para os profissionais de saúde, v. 3, 2ª ed., 2014",
+  "coment": "A taquipneia transitória resulta da reabsorção lenta do líquido pulmonar fetal e é mais comum em cesárea eletiva sem trabalho de parto, no termo precoce, em filhos de mãe diabética e após asfixia leve. Manifesta-se nas primeiras horas com taquipneia, desconforto leve a moderado e baixa necessidade de oxigênio, em geral abaixo de 40%. A radiografia mostra congestão peri-hilar, líquido nas cisuras e hiperinsuflação. A evolução é benigna, com melhora em 24 a 72 horas, e o tratamento é de suporte. Fonte: MS, Atenção à saúde do RN, 2014.",
+  "porAlt": [
+   "Membrana hialina tem padrão reticulogranular com broncograma e volumes pulmonares reduzidos, não hiperinsuflação.",
+   "A aspiração de mecônio exige líquido meconial e mostra infiltrado grosseiro e heterogêneo.",
+   "Pneumonia por GBS cursa com sinais sistêmicos e fatores de risco infecciosos, ausentes no caso.",
+   "Hipertensão pulmonar causa hipoxemia grave e lábil, desproporcional ao achado radiológico.",
+   "Correta: cesárea sem trabalho de parto, taquipneia precoce com pouca necessidade de oxigênio e líquido nas cisuras indicam TTRN."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 29 semanas, cuja mãe não recebeu corticoide antenatal, evolui nos primeiros minutos com gemido, batimento de asa nasal e retrações. Está em CPAP nasal com pressão de 6 cmH2O, mas precisa de FiO2 de 0,40 para manter a saturação alvo. A radiografia mostra infiltrado reticulogranular difuso com broncograma aéreo e volumes reduzidos. Qual é a conduta?",
+  "alts": [
+   "Manter o CPAP e repetir a radiografia em 24 horas antes de qualquer outra medida",
+   "Iniciar óxido nítrico inalatório e suspender o CPAP para reduzir o barotrauma",
+   "Prescrever corticoide sistêmico ao RN para acelerar a maturação pulmonar",
+   "Intubar e ventilar com volume corrente de 10 a 12 mL/kg, sem surfactante",
+   "Administrar surfactante, de preferência por técnica minimamente invasiva, como LISA"
+  ],
+  "gab": 4,
+  "tema": "neonato",
+  "sub": "Surfactante na membrana hialina",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Sweet DG et al. European Consensus Guidelines on the Management of Respiratory Distress Syndrome: 2022 Update, 2023",
+  "coment": "O quadro é de síndrome do desconforto respiratório por deficiência de surfactante (doença da membrana hialina): prematuridade, ausência de corticoide antenatal, desconforto progressivo e radiografia com padrão reticulogranular, broncograma e baixo volume. O consenso europeu recomenda CPAP desde a sala de parto e surfactante de resgate quando a FiO2 ultrapassa 0,30 com CPAP de pelo menos 6 cmH2O, preferindo técnica minimamente invasiva (LISA) no RN que respira espontaneamente. Óxido nítrico não trata a doença, e volumes altos lesam o pulmão. Fonte: consenso europeu, atualização 2022.",
+  "porAlt": [
+   "Esperar 24 horas com FiO2 de 0,40 atrasa o surfactante, que tem mais benefício quando dado cedo.",
+   "Óxido nítrico não trata deficiência de surfactante, e retirar o CPAP favorece colapso alveolar.",
+   "Corticoide pós-natal precoce não trata a doença aguda e se associa a efeitos neurológicos adversos.",
+   "Volumes correntes altos causam volutrauma, e a ventilação sem surfactante não corrige a causa.",
+   "Correta: FiO2 acima de 0,30 com CPAP de pelo menos 6 cmH2O indica surfactante de resgate, de preferência por LISA."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 36 semanas, nascido de parto vaginal após bolsa rota há 26 horas, mãe com febre intraparto de 38,6 °C e sem pesquisa de estreptococo do grupo B. Com 10 horas de vida, apresenta gemência, hipoatividade e má perfusão periférica. Após colher hemocultura, qual é o esquema antimicrobiano empírico indicado?",
+  "alts": [
+   "Oxacilina associada a amicacina",
+   "Ampicilina associada a gentamicina",
+   "Cefepima associada a vancomicina",
+   "Ceftriaxona em monoterapia",
+   "Penicilina cristalina em monoterapia"
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Sepse neonatal precoce",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à saúde do recém-nascido, v. 2, 2014; AAP. Management of Infants at Risk for Group B Streptococcal Disease, 2019",
+  "coment": "Sepse precoce é a que se manifesta nas primeiras 48 a 72 horas de vida e decorre de transmissão vertical; os agentes mais frequentes são o estreptococo do grupo B e a Escherichia coli, e a Listeria em menor proporção. Fatores de risco: bolsa rota há 18 horas ou mais, febre materna ou corioamnionite, colonização por GBS sem profilaxia adequada e prematuridade. O esquema empírico é ampicilina com gentamicina. Ceftriaxona não cobre Listeria e é evitada no RN pela interação com bilirrubina e cálcio. Fonte: MS, 2014; AAP, 2019.",
+  "porAlt": [
+   "Oxacilina com amicacina mira estafilococos da sepse hospitalar e não cobre Listeria.",
+   "Correta: ampicilina com gentamicina cobre estreptococo do grupo B, Escherichia coli e Listeria, agentes da sepse precoce.",
+   "Cefepima com vancomicina é esquema de amplo espectro para infecção hospitalar, desnecessário na sepse precoce.",
+   "Ceftriaxona não cobre Listeria e é evitada no RN por deslocar bilirrubina e precipitar com cálcio.",
+   "Penicilina isolada não cobre bem os bacilos gram-negativos, como a Escherichia coli."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 27 semanas, com 14 dias de vida, internado em UTI neonatal, recebe nutrição parenteral por cateter central de inserção periférica. Passa a apresentar apneias, instabilidade térmica, hiperglicemia e piora da perfusão. Qual é o agente etiológico mais provável nesse contexto?",
+  "alts": [
+   "Estafilococo coagulase-negativo",
+   "Streptococcus agalactiae (grupo B)",
+   "Listeria monocytogenes de origem materna",
+   "Streptococcus pneumoniae comunitário",
+   "Haemophilus influenzae tipo b"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Agente da sepse tardia",
+  "cenario": "uti",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à saúde do recém-nascido: guia para os profissionais de saúde, v. 2, 2ª ed., 2014",
+  "coment": "Sepse tardia é a que surge após 48 a 72 horas de vida e, no prematuro internado, está ligada principalmente à assistência: cateteres centrais, nutrição parenteral, ventilação mecânica e longa permanência. O estafilococo coagulase-negativo é o agente mais isolado, seguido de Staphylococcus aureus, bacilos gram-negativos como Klebsiella, Enterobacter e Pseudomonas, e Candida. O esquema empírico segue a flora da unidade, com cobertura para estafilococo resistente quando há cateter, como vancomicina associada a aminoglicosídeo. Fonte: MS, Atenção à saúde do RN, 2014.",
+  "porAlt": [
+   "Correta: na sepse tardia do prematuro com cateter central, o estafilococo coagulase-negativo é o agente mais isolado.",
+   "O estreptococo do grupo B predomina na sepse precoce de transmissão vertical.",
+   "Listeria é agente de sepse precoce adquirida da mãe, rara em infecção hospitalar tardia.",
+   "Pneumococo é causa de infecção comunitária em lactentes maiores, não de sepse em UTI neonatal.",
+   "Hib é agente comunitário em lactentes, hoje raro pela vacinação, e não se liga a cateter central."
+  ]
+ },
+ {
+  "q": "A Lei 14.154/2021 ampliou o teste do pezinho no SUS de forma escalonada, em cinco etapas. Qual doença é incluída na última etapa dessa ampliação?",
+  "alts": [
+   "Imunodeficiências primárias",
+   "Doenças lisossômicas",
+   "Toxoplasmose congênita",
+   "Hiperplasia adrenal congênita",
+   "Atrofia muscular espinhal"
+  ],
+  "gab": 4,
+  "tema": "neonato",
+  "sub": "Teste do pezinho ampliado",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 14.154/2021",
+  "coment": "A Lei 14.154/2021 alterou o ECA para ampliar o Programa Nacional de Triagem Neonatal em cinco etapas: 1) hiperfenilalaninemias, hipotireoidismo congênito, doença falciforme e outras hemoglobinopatias, fibrose cística, hiperplasia adrenal congênita, deficiência de biotinidase e toxoplasmose congênita; 2) galactosemias, aminoacidopatias, distúrbios do ciclo da ureia e da betaoxidação dos ácidos graxos; 3) doenças lisossômicas; 4) imunodeficiências primárias; 5) atrofia muscular espinhal. A coleta ideal ocorre entre o 3º e o 5º dia de vida. Fonte: Lei 14.154/2021.",
+  "porAlt": [
+   "As imunodeficiências primárias formam a quarta etapa, e não a última.",
+   "As doenças lisossômicas compõem a terceira etapa da ampliação.",
+   "A toxoplasmose congênita foi acrescentada já na primeira etapa.",
+   "A hiperplasia adrenal congênita está na primeira etapa, ao lado de doenças já triadas antes da lei.",
+   "Correta: a quinta etapa da ampliação prevista na Lei 14.154/2021 é a triagem da atrofia muscular espinhal."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 39 semanas, assintomático, com 30 horas de vida, realiza oximetria de pulso de triagem no alojamento conjunto: saturação de 97% no membro superior direito e de 93% no membro inferior. Qual é a interpretação e a conduta?",
+  "alts": [
+   "Teste normal, pois as duas medidas estão acima de 90%; alta com a mãe",
+   "Teste normal, pois o membro superior direito está acima de 95%; alta",
+   "Teste alterado; iniciar prostaglandina E1 e transferir para UTI cardíaca",
+   "Teste alterado; repetir em 1 hora e, se persistir, ecocardiograma em 24 horas",
+   "Teste duvidoso; repetir na consulta do 5º dia, na unidade básica"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Teste do coraçãozinho",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Diagnóstico precoce de cardiopatia congênita crítica: oximetria de pulso como ferramenta de triagem neonatal, 2011",
+  "coment": "A triagem de cardiopatia congênita crítica é feita entre 24 e 48 horas de vida, antes da alta, no membro superior direito (pré-ductal) e em um dos membros inferiores (pós-ductal). É normal quando a saturação é de 95% ou mais nas duas medidas e a diferença entre elas é menor que 3 pontos. Aqui o membro inferior está abaixo de 95% e a diferença é de 4 pontos: repete-se em 1 hora e, se o resultado se mantiver, faz-se ecocardiograma nas 24 horas seguintes, antes da alta. Fonte: SBP, 2011; MS, Portaria SCTIE 20/2014.",
+  "porAlt": [
+   "O ponto de corte é 95% em ambas as medidas, não 90%.",
+   "Os dois membros precisam estar em 95% ou mais, com diferença menor que 3 pontos.",
+   "Prostaglandina é para RN sintomático ou com lesão canal-dependente confirmada, não para triagem alterada.",
+   "Correta: saturação abaixo de 95% em um membro e diferença de 4 pontos exigem nova medida em 1 hora e, mantida, ecocardiograma.",
+   "Dar alta com triagem alterada expõe o RN ao fechamento do canal arterial em casa."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 33 semanas permaneceu 12 dias em UTI neonatal, recebeu gentamicina por 7 dias e fototerapia, e terá alta na próxima semana. Qual é o exame recomendado para a triagem auditiva neonatal desse paciente?",
+  "alts": [
+   "Emissões otoacústicas evocadas transientes, de forma isolada",
+   "Audiometria tonal liminar em cabine acústica aos 6 meses de idade",
+   "Imitanciometria com pesquisa do reflexo estapediano",
+   "Potencial evocado auditivo de tronco encefálico automático",
+   "Teste comportamental com instrumentos sonoros no leito"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Triagem auditiva com risco",
+  "cenario": "uti",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Diretrizes de Atenção da Triagem Auditiva Neonatal, 2012",
+  "coment": "As diretrizes do Ministério da Saúde recomendam triagem auditiva universal, de preferência até o primeiro mês de vida. No RN sem indicador de risco usam-se as emissões otoacústicas. Quando há indicador de risco, como permanência em UTI por mais de 5 dias, uso de ototóxicos, hiperbilirrubinemia com exsanguineotransfusão, infecções congênitas ou anomalias craniofaciais, o exame indicado é o PEATE automático, que detecta também a neuropatia auditiva. A falha leva a reteste e diagnóstico até os 3 meses. Fonte: MS, Diretrizes de triagem auditiva neonatal, 2012.",
+  "porAlt": [
+   "Emissões otoacústicas isoladas não detectam a neuropatia auditiva, mais frequente nos RN de UTI.",
+   "Audiometria tonal exige resposta voluntária e não é método de triagem neonatal.",
+   "Imitanciometria avalia a orelha média e não serve para triagem de perda neurossensorial.",
+   "Correta: com indicador de risco para deficiência auditiva, a triagem é feita com PEATE automático.",
+   "Testes comportamentais com instrumentos são pouco sensíveis e não detectam perdas leves e unilaterais."
+  ]
+ },
+ {
+  "q": "Na consulta de puericultura de um lactente de 2 meses, o médico realiza o teste do reflexo vermelho com oftalmoscópio direto e observa reflexo esbranquiçado no olho esquerdo e reflexo vermelho normal no direito. O teste da maternidade não foi registrado. Qual é a conduta?",
+  "alts": [
+   "Repetir o teste do reflexo vermelho na próxima consulta de rotina, aos 4 meses de idade",
+   "Tranquilizar a família, pois a assimetria do reflexo é esperada até os 6 meses de idade",
+   "Prescrever colírio antibiótico e reavaliar o reflexo após 7 dias de tratamento tópico",
+   "Encaminhar com prioridade ao oftalmologista, pois sugere catarata congênita ou retinoblastoma",
+   "Pedir ultrassonografia transfontanelar e orientar retorno com o resultado do exame"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Teste do reflexo vermelho alterado",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Diretrizes de Atenção à Saúde Ocular na Infância: detecção e intervenção precoce para a prevenção de deficiências visuais, 2ª ed., 2016",
+  "coment": "O teste do reflexo vermelho (teste do olhinho) deve ser feito na maternidade e repetido nas consultas de puericultura, pelo menos 2 a 3 vezes ao ano nos primeiros 3 anos. Reflexo ausente, opaco, branco (leucocoria) ou assimétrico indica encaminhamento prioritário ao oftalmologista pela suspeita de catarata congênita, glaucoma, retinoblastoma, retinopatia da prematuridade ou opacidades. Na catarata congênita, a cirurgia precoce evita ambliopia irreversível, e no retinoblastoma o diagnóstico precoce preserva a vida e o olho. Fonte: MS, Saúde ocular na infância, 2016.",
+  "porAlt": [
+   "Esperar a próxima consulta atrasa o diagnóstico de catarata, com risco de ambliopia irreversível.",
+   "Reflexo assimétrico ou branco nunca é variante do normal em qualquer idade.",
+   "Leucocoria não é sinal de conjuntivite, e colírio antibiótico apenas atrasa o encaminhamento.",
+   "Correta: leucocoria ou reflexo assimétrico exige avaliação oftalmológica imediata por catarata, retinoblastoma e outras causas.",
+   "A ultrassonografia transfontanelar avalia o encéfalo e não esclarece a causa da leucocoria."
+  ]
+ },
+ {
+  "q": "Puérpera com VDRL 1:16 no 3º trimestre, sem estadiamento clínico definido, recebeu a primeira dose de benzilpenicilina benzatina 20 dias antes do parto e completou as três doses semanais, a última 6 dias antes do parto. O recém-nascido está assintomático. Segundo o PCDT de IST do Ministério da Saúde, como se classifica o tratamento materno?",
+  "alts": [
+   "Adequado, pois as três doses de penicilina terminaram antes do parto",
+   "Adequado, desde que a parceria sexual também tenha sido tratada",
+   "Inadequado, pois a primeira dose foi feita a menos de 30 dias do parto",
+   "Inadequado, pois a gestante deveria ter recebido penicilina cristalina",
+   "Adequado, pois o título 1:16 indica sífilis recente, tratável com dose única"
+  ],
+  "gab": 2,
+  "tema": "neonato",
+  "sub": "Tratamento materno da sífilis",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Pelo PCDT de IST, o tratamento materno é adequado quando há registro de tratamento completo com benzilpenicilina benzatina, adequado ao estágio clínico, com a primeira dose feita até 30 dias antes do parto e intervalos respeitados. O tratamento da parceria não entra no critério, embora deva ser feito. Como a primeira dose foi 20 dias antes do parto, o tratamento é inadequado: o RN é caso de sífilis congênita, é notificado e precisa de hemograma, VDRL de sangue periférico, líquor e radiografia de ossos longos. Fonte: MS, PCDT de IST, 2022.",
+  "porAlt": [
+   "Concluir as doses não basta; o início precisa ocorrer até 30 dias antes do parto.",
+   "O tratamento da parceria deixou de ser critério de adequação, embora deva ser feito.",
+   "Correta: o tratamento só é adequado se a primeira dose de benzatina for feita até 30 dias antes do parto.",
+   "Penicilina cristalina é para neurossífilis; a benzatina é o tratamento correto na gestação.",
+   "Sem estadiamento definido, aplica-se o esquema de três doses; o título não define a fase."
+  ]
+ },
+ {
+  "q": "Recém-nascido de mãe com sífilis não tratada na gestação apresenta hepatoesplenomegalia e rinite serossanguinolenta. VDRL sérico de 1:64, com VDRL materno de 1:8. O líquor tem VDRL reagente, 40 células/mm³ e proteína de 160 mg/dL. Qual é o tratamento indicado?",
+  "alts": [
+   "Benzilpenicilina cristalina IV por 10 dias",
+   "Benzilpenicilina benzatina IM em dose única",
+   "Benzilpenicilina procaína IM por 7 dias",
+   "Ceftriaxona IV uma vez ao dia por 14 dias",
+   "Benzilpenicilina benzatina IM, três doses semanais"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Neurossífilis congênita",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Com mãe não tratada, o RN é caso de sífilis congênita. Há sinais clínicos, VDRL quatro vezes acima do materno e líquor alterado (VDRL reagente, mais de 25 células/mm³ e proteína acima de 150 mg/dL no RN), o que caracteriza neurossífilis. O tratamento é benzilpenicilina cristalina 50.000 UI/kg/dose IV, de 12/12 horas na primeira semana de vida e de 8/8 horas depois, por 10 dias. A procaína por 10 dias serve para sífilis congênita sem neurossífilis, e a benzatina não atinge nível adequado no sistema nervoso central. Fonte: MS, PCDT de IST, 2022.",
+  "porAlt": [
+   "Correta: neurossífilis congênita é tratada com penicilina cristalina 50.000 UI/kg/dose IV por 10 dias.",
+   "A benzatina não atinge nível adequado no líquor e não trata neurossífilis.",
+   "A procaína serve para sífilis congênita sem neurossífilis e deve durar 10 dias, não 7.",
+   "Ceftriaxona não é o tratamento de escolha da sífilis congênita no PCDT.",
+   "O esquema semanal de benzatina é do adulto com sífilis tardia, não do RN com neurossífilis."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 38 semanas, pequeno para a idade gestacional, com microcefalia, petéquias e falha bilateral no PEATE automático. A ultrassonografia transfontanelar mostra calcificações periventriculares. Qual exame confirma a principal hipótese diagnóstica?",
+  "alts": [
+   "PCR para citomegalovírus em urina ou saliva nas 3 primeiras semanas",
+   "IgM para citomegalovírus no sangue materno colhido após o parto",
+   "IgG para citomegalovírus no recém-nascido na primeira semana",
+   "IgG e IgM para toxoplasmose no RN, repetidas com 1 mês de vida",
+   "PCR para citomegalovírus na urina colhida após os 2 meses de vida"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Diagnóstico do CMV congênito",
+  "cenario": "uti",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Rawlinson WD et al. Congenital cytomegalovirus infection in pregnancy and the neonate: consensus recommendations for prevention, diagnosis, and therapy, 2017",
+  "coment": "Microcefalia, PIG, petéquias, perda auditiva neurossensorial e calcificações periventriculares sugerem citomegalovírus congênito, a infecção congênita mais frequente e a principal causa não genética de surdez neurossensorial. O diagnóstico exige detecção do vírus, de preferência por PCR em urina ou saliva, nas primeiras 3 semanas de vida; depois disso não se distingue infecção adquirida no parto ou pelo leite materno. Na doença sintomática moderada a grave, trata-se com valganciclovir oral por 6 meses, iniciado no primeiro mês. Fonte: consenso internacional, 2017.",
+  "porAlt": [
+   "Correta: a detecção do vírus por PCR em urina ou saliva nas primeiras 3 semanas confirma a infecção congênita.",
+   "Sorologia materna não confirma a infecção do RN; a IgM pode persistir ou faltar na reinfecção.",
+   "IgG no RN reflete anticorpos maternos transferidos e não confirma infecção congênita.",
+   "Calcificações periventriculares com perda auditiva apontam para CMV; na toxoplasmose são difusas.",
+   "Após 3 semanas, a PCR positiva não separa infecção congênita de adquirida no parto ou pelo leite."
+  ]
+ },
+ {
+  "q": "Recém-nascido de mãe com soroconversão para toxoplasmose no 2º trimestre apresenta IgM anti-Toxoplasma reagente, coriorretinite ao fundo de olho e calcificações intracranianas difusas à tomografia. Qual é o tratamento indicado?",
+  "alts": [
+   "Sulfadiazina, pirimetamina e ácido folínico durante 12 meses",
+   "Espiramicina em monoterapia até o fim do primeiro ano de vida",
+   "Sulfadiazina, pirimetamina e ácido fólico durante 6 semanas",
+   "Sulfametoxazol-trimetoprima profilático até os 6 meses de idade",
+   "Ganciclovir intravenoso por 6 semanas, seguido de valganciclovir"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Tratamento da toxoplasmose congênita",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à saúde do recém-nascido: guia para os profissionais de saúde, v. 2, 2ª ed., 2014",
+  "coment": "A toxoplasmose congênita confirmada, com IgM reagente no RN e doença ocular e neurológica, é tratada durante o primeiro ano de vida com sulfadiazina e pirimetamina, associadas a ácido folínico para reduzir a mielotoxicidade da pirimetamina. Ácido fólico não deve ser usado, pois antagoniza o efeito antiparasitário. Prednisona é acrescentada quando há coriorretinite ativa com risco à visão ou proteína do líquor muito elevada. Espiramicina é usada na gestante. O seguimento inclui hemograma e avaliação oftalmológica seriados. Fonte: MS, Atenção à saúde do RN, 2014.",
+  "porAlt": [
+   "Correta: a toxoplasmose congênita é tratada no primeiro ano com sulfadiazina, pirimetamina e ácido folínico.",
+   "Espiramicina é usada na gestante para reduzir a transmissão, não para tratar o RN infectado.",
+   "Ácido fólico antagoniza a ação antiparasitária, e 6 semanas é tempo insuficiente.",
+   "Sulfametoxazol-trimetoprima profilático não é o esquema da toxoplasmose congênita sintomática.",
+   "Ganciclovir e valganciclovir tratam citomegalovírus e não têm ação sobre o Toxoplasma."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 39 semanas, grande para a idade gestacional, filho de mãe com diabetes gestacional mal controlado, apresenta tremores e sucção débil com 2 horas de vida. A glicemia capilar é de 28 mg/dL, confirmada por dosagem sérica. Qual é a conduta inicial?",
+  "alts": [
+   "Glicose a 50% IV, 1 mL/kg em bolus, sem infusão de manutenção",
+   "Glicose a 10% IV, 2 mL/kg em bolus, seguida de infusão contínua",
+   "Gel de dextrose oral e reavaliação da glicemia após 30 minutos",
+   "Hidrocortisona IV e glucagon IM antes de qualquer oferta de glicose",
+   "Fórmula infantil por sonda e nova glicemia na próxima mamada"
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Hipoglicemia neonatal sintomática",
+  "cenario": "enf",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American Academy of Pediatrics. Postnatal Glucose Homeostasis in Late-Preterm and Term Infants, 2011",
+  "coment": "Filhos de mãe diabética, RN grandes ou pequenos para a idade gestacional e pré-termos têm risco de hipoglicemia nas primeiras horas, por hiperinsulinismo transitório ou baixa reserva. Hipoglicemia sintomática (tremores, hipotonia, sucção débil, apneia, convulsão) com glicemia abaixo de 40 mg/dL exige glicose intravenosa: bolus de 200 mg/kg (2 mL/kg de glicose a 10%) seguido de infusão com taxa de 6 a 8 mg/kg/min, ajustada pelas glicemias. Alimentação ou gel oral cabem ao RN assintomático. Fonte: AAP, 2011.",
+  "porAlt": [
+   "Glicose a 50% é hiperosmolar, lesa veias e provoca hiperglicemia com hipoglicemia de rebote.",
+   "Correta: hipoglicemia sintomática pede glicose IV em bolus de 200 mg/kg seguida de infusão contínua.",
+   "Gel oral cabe ao RN assintomático; com sintomas, a via intravenosa é obrigatória.",
+   "Hidrocortisona e glucagon são para hipoglicemia refratária, não substituem a glicose inicial.",
+   "Alimentação por sonda é insuficiente e lenta para o RN com hipoglicemia sintomática."
+  ]
+ },
+ {
+  "q": "Gestante de 28 semanas está em trabalho de parto com nascimento iminente. A equipe prepara a sala de parto, com temperatura ambiente entre 23 e 25 °C e berço de calor radiante ligado. Qual medida é recomendada para prevenir a hipotermia logo após o nascimento?",
+  "alts": [
+   "Secar todo o corpo com compressas aquecidas e retirar logo os campos úmidos",
+   "Banhar o RN em água morna antes de levá-lo ao berço de calor radiante",
+   "Envolver o corpo em saco plástico sem secá-lo e cobrir a cabeça com touca",
+   "Manter o RN pele a pele com a mãe, coberto só por lençol aquecido",
+   "Aguardar 5 minutos e então levar o RN já seco ao calor radiante"
+  ],
+  "gab": 2,
+  "tema": "neonato",
+  "sub": "Hipotermia no pré-termo extremo",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do prematuro <34 semanas em sala de parto: diretrizes 2026 da SBP, 2026",
+  "coment": "No prematuro, a perda de calor por evaporação é intensa: abaixo de 32 semanas, hipotermia abaixo de 36 °C se associou a 55% mais mortalidade. A diretriz da SBP de 2026 para o prematuro abaixo de 34 semanas recomenda sala a 23 a 25 °C, calor radiante, saco plástico de polietileno sem secar o corpo, com o rosto de fora e retirado só na unidade neonatal, touca dupla (plástica sob lã ou algodão), colchão térmico abaixo de 30 semanas e gases aquecidos e umidificados, com meta axilar de 36,5 a 37,5 °C. Secar com compressas é a rotina do RN de 34 semanas ou mais. Todo RN abaixo de 32 semanas vai à mesa após o clampeamento; o pele a pele é opção só para 32 a 33 semanas com boa vitalidade. Fonte: SBP, reanimação do prematuro, 2026.",
+  "porAlt": [
+   "Secar com compressas é a rotina do RN com 34 semanas ou mais; no prematuro extremo, perde-se calor demais.",
+   "Banho na sala de parto aumenta a perda de calor e não tem indicação nesse momento.",
+   "Correta: abaixo de 32 semanas, o corpo vai sem secar para o saco plástico, e a cabeça recebe touca.",
+   "Abaixo de 32 semanas o RN vai à mesa após o clampeamento; o pele a pele é opção só de 32 a 33 semanas, e lençol não basta.",
+   "Atrasar a ida ao calor radiante favorece hipotermia e retarda a assistência ventilatória."
+  ]
+ },
+ {
+  "q": "Menino de 3 anos é avaliado em consulta de rotina. No gráfico de IMC para idade da Caderneta da Criança, que usa as curvas da OMS, o ponto fica entre os escores z +2 e +3; a estatura para idade está entre os escores z 0 e +1. Pelos critérios do Ministério da Saúde para menores de 5 anos, qual é a classificação nutricional?",
+  "alts": [
+   "Obesidade para a idade",
+   "Risco de sobrepeso para a idade",
+   "Eutrofia para a idade",
+   "Sobrepeso para a idade",
+   "Obesidade grave para a idade"
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "IMC para idade em menor de 5 anos",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Orientações para a coleta e análise de dados antropométricos em serviços de saúde: Norma Técnica do SISVAN, 2011",
+  "coment": "Para crianças de 0 a 5 anos, o Ministério da Saúde adota as curvas da OMS com os seguintes cortes de IMC para idade: abaixo do escore z -3, magreza acentuada; de -3 a -2, magreza; de -2 a +1, eutrofia; de +1 a +2, risco de sobrepeso; de +2 a +3, sobrepeso; acima de +3, obesidade. A partir dos 5 anos, os cortes mudam: de +1 a +2 é sobrepeso, de +2 a +3 obesidade e acima de +3 obesidade grave. A classificação deve considerar a tendência da curva em consultas seriadas. Fonte: MS, Norma Técnica do SISVAN, 2011.",
+  "porAlt": [
+   "Obesidade, nessa faixa etária, corresponde a IMC acima do escore z +3.",
+   "Risco de sobrepeso é a faixa entre os escores z +1 e +2 em menores de 5 anos.",
+   "Eutrofia vai do escore z -2 ao +1, abaixo do ponto encontrado.",
+   "Correta: em menores de 5 anos, IMC entre os escores z +2 e +3 corresponde a sobrepeso.",
+   "Obesidade grave é categoria usada a partir dos 5 anos, para IMC acima do escore z +3."
+  ]
+ },
+ {
+  "q": "Mãe de uma criança saudável que acaba de completar 1 ano pergunta quanto o filho deve crescer em comprimento até completar 2 anos. Considerando a velocidade de crescimento esperada, qual é a resposta mais adequada?",
+  "alts": [
+   "Entre 10 e 12 cm ao longo do segundo ano de vida",
+   "Cerca de 25 cm ao longo do segundo ano de vida",
+   "Cerca de 5 cm ao longo do segundo ano de vida",
+   "Cerca de 18 cm ao longo do segundo ano de vida",
+   "Cerca de 3 cm ao longo do segundo ano de vida"
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Velocidade de crescimento linear",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Saúde da criança: crescimento e desenvolvimento (Cadernos de Atenção Básica, n. 33), 2012",
+  "coment": "O comprimento aumenta cerca de 50% no primeiro ano, em torno de 25 cm, com cerca de 15 cm no primeiro semestre e 10 cm no segundo. No segundo ano, a velocidade cai para cerca de 10 a 12 cm, e do terceiro ano até o início da puberdade fica em torno de 5 a 7 cm por ano. Velocidade abaixo do esperado, com queda de canais na curva de estatura para idade, é motivo de investigação. A avaliação deve ser seriada, pela tendência da curva, e não por medida isolada. Fonte: MS, Cadernos de Atenção Básica n. 33, 2012.",
+  "porAlt": [
+   "Correta: no segundo ano a velocidade de crescimento cai para cerca de 10 a 12 cm.",
+   "Cerca de 25 cm é o ganho do primeiro ano de vida, não do segundo.",
+   "Cerca de 5 a 7 cm por ano é a velocidade do pré-escolar e do escolar, não do segundo ano.",
+   "Dezoito centímetros superestimam o crescimento do segundo ano, que desacelera bastante.",
+   "Três centímetros por ano estariam abaixo do esperado em qualquer idade antes da puberdade."
+  ]
+ },
+ {
+  "q": "Recém-nascido a termo, 3.400 g ao nascer, em aleitamento materno exclusivo, vem à primeira consulta na unidade básica com 5 dias de vida pesando 3.150 g. Mama bem, molha 6 a 8 fraldas por dia e tem fezes amareladas. Qual é a interpretação e a conduta?",
+  "alts": [
+   "Perda excessiva; complementar com fórmula após cada mamada até recuperar",
+   "Perda excessiva; internar para investigar desidratação hipernatrêmica",
+   "Perda fisiológica; manter aleitamento exclusivo e reavaliar em 1 semana",
+   "Perda fisiológica, que deve ser recuperada até o fim do primeiro mês de vida",
+   "Perda limítrofe; oferecer água entre as mamadas e reavaliar em 48 horas"
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Perda de peso nos primeiros dias",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Saúde da criança: aleitamento materno e alimentação complementar (Cadernos de Atenção Básica, n. 23), 2ª ed., 2015",
+  "coment": "No RN a termo é esperada perda de até cerca de 10% do peso de nascimento nos primeiros dias, com recuperação entre 10 e 15 dias de vida. Aqui a perda é de cerca de 7%, com boa diurese e fezes adequadas, sinais de ingesta suficiente. A conduta é manter o aleitamento materno exclusivo em livre demanda, observar a mamada e reavaliar o ganho. Perda acima de 10%, diurese escassa ou não recuperação do peso até a segunda semana pedem avaliação da técnica e da ingesta. Fonte: MS, Cadernos de Atenção Básica n. 23, 2015.",
+  "porAlt": [
+   "Perda de 7% não é excessiva, e a fórmula sem indicação prejudica a produção de leite.",
+   "Não há sinais de desidratação, pois a criança tem boa diurese e perda menor que 10%.",
+   "Correta: perda de cerca de 7% com boa diurese é esperada, e o peso de nascimento é recuperado até 10 a 15 dias.",
+   "O peso de nascimento deve ser recuperado entre 10 e 15 dias, e não apenas com 1 mês.",
+   "Água entre as mamadas reduz a ingesta de leite e não tem indicação no aleitamento exclusivo."
+  ]
+ },
+ {
+  "q": "Lactente de 4 meses, nascido a termo, é avaliado na puericultura com o instrumento de vigilância do desenvolvimento. Qual dos marcos abaixo é esperado para essa idade?",
+  "alts": [
+   "Senta sem apoio e passa objetos de uma mão para a outra",
+   "Firma a cabeça quando sustentado e emite sons de arrulho",
+   "Faz pinça com polegar e indicador e estranha desconhecidos",
+   "Engatinha e fica de pé apoiando-se nos móveis da casa",
+   "Fala duas palavras com significado além de mamãe e papai"
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Marcos do desenvolvimento aos 4 meses",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Zubler JM et al. Evidence-Informed Milestones for Developmental Surveillance Tools (CDC/AAP), 2022",
+  "coment": "Aos 4 meses espera-se controle cervical (cabeça firme no colo e ao ser puxado para sentar), apoio nos antebraços em prono, mãos levadas à boca, sorriso social e vocalizações como arrulhos. Sentar sem apoio e transferir objetos são aquisições por volta de 6 a 9 meses; pinça polegar-indicador, engatinhar e estranhar desconhecidos, entre 9 e 12 meses; palavras com significado, a partir dos 12 meses. Ausência de controle cervical aos 4 meses é sinal de alerta para avaliação neurológica. Fonte: CDC e AAP, marcos revisados, 2022; MS, CAB 33, 2012.",
+  "porAlt": [
+   "Sentar sem apoio e transferir objetos entre as mãos são aquisições por volta dos 6 a 9 meses.",
+   "Correta: aos 4 meses espera-se controle cervical, apoio nos antebraços em prono e vocalizações como arrulhos.",
+   "Pinça polegar-indicador e estranhamento de desconhecidos surgem entre 9 e 12 meses.",
+   "Engatinhar e ficar de pé com apoio são marcos por volta dos 9 meses.",
+   "Palavras com significado aparecem a partir dos 12 meses, não aos 4 meses."
+  ]
+ },
+ {
+  "q": "Lactente de 8 meses, nascido a termo, é levado à consulta de rotina. Ao exame, ainda apresenta reflexo de Moro completo e reflexo tônico cervical assimétrico, não senta sem apoio e mantém as mãos fechadas com polegar aduzido. Como interpretar esses achados?",
+  "alts": [
+   "Achado normal, pois o reflexo de Moro desaparece por volta dos 12 meses",
+   "Achado normal, pois os reflexos primitivos persistem até a aquisição da marcha",
+   "Atraso isolado da motricidade fina, que se corrige com estimulação domiciliar",
+   "Variante do normal em lactente com sobrepeso, sem necessidade de reavaliação",
+   "Persistência anormal de reflexos primitivos, que pede avaliação neurológica"
+  ],
+  "gab": 4,
+  "tema": "puericultura",
+  "sub": "Persistência de reflexos primitivos",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Saúde da criança: crescimento e desenvolvimento (Cadernos de Atenção Básica, n. 33), 2012",
+  "coment": "Os reflexos primitivos são inibidos à medida que o sistema nervoso amadurece. O Moro e o tônico cervical assimétrico desaparecem em geral até os 4 a 6 meses; a preensão palmar, entre 4 e 6 meses; a preensão plantar, por volta dos 15 meses, quando a criança anda. Persistência além do esperado, sobretudo com atraso motor (não sentar aos 8 meses) e mãos fechadas com polegar aduzido, sugere lesão do sistema nervoso central, como paralisia cerebral, e exige avaliação neurológica sem demora. Fonte: MS, Cadernos de Atenção Básica n. 33, 2012.",
+  "porAlt": [
+   "O Moro desaparece em geral entre 4 e 6 meses; aos 8 meses sua persistência é anormal.",
+   "Só a preensão plantar dura até a marcha; os demais reflexos primitivos somem antes.",
+   "Não é atraso isolado: há persistência de reflexos, atraso motor grosso e mãos fechadas.",
+   "Sobrepeso não explica reflexos primitivos persistentes nem atraso para sentar.",
+   "Correta: Moro e tônico cervical assimétrico devem sumir até cerca de 6 meses, e a persistência com atraso motor é sinal de alerta."
+  ]
+ },
+ {
+  "q": "Menino de 18 meses vem à consulta de puericultura. A mãe relata que ele não aponta para mostrar objetos, raramente atende quando chamado pelo nome e ainda não fala palavras. A triagem auditiva neonatal foi normal. Qual é a conduta mais adequada na atenção primária?",
+  "alts": [
+   "Aguardar até os 3 anos, idade mínima para confirmar o transtorno do espectro autista",
+   "Aplicar o M-CHAT-R/F e encaminhar para avaliação e intervenção precoce",
+   "Solicitar eletroencefalograma e cariótipo antes de qualquer encaminhamento",
+   "Orientar estímulo à fala em casa e reaplicar a avaliação apenas aos 24 meses",
+   "Encaminhar ao fonoaudiólogo e investigar autismo se não houver melhora"
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Rastreamento de TEA aos 18 meses",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Manual de Orientação: Transtorno do Espectro do Autismo, 2019; Lei 13.438/2017",
+  "coment": "Não apontar para compartilhar interesse, não responder ao nome e ausência de palavras aos 18 meses são sinais de alerta para transtorno do espectro autista. A SBP recomenda rastreamento com o M-CHAT-R/F entre 16 e 30 meses, e a Lei 13.438/2017 tornou obrigatória a aplicação de protocolo de avaliação de risco para o desenvolvimento psíquico nos primeiros 18 meses. Com sinais de alerta, encaminha-se para avaliação diagnóstica e intervenção precoce ao mesmo tempo, sem aguardar confirmação, e a audição deve ser reavaliada. Fonte: SBP, 2019.",
+  "porAlt": [
+   "Não há idade mínima de 3 anos; o diagnóstico pode ser feito antes, e esperar perde a janela de intervenção.",
+   "Correta: há sinais de alerta para TEA, e o rastreamento com M-CHAT-R/F deve vir junto do encaminhamento precoce.",
+   "EEG e cariótipo não são exames de rastreamento e não devem atrasar o encaminhamento.",
+   "Adiar a reavaliação para 24 meses atrasa a intervenção diante de sinais claros de alerta.",
+   "Tratar só a fala ignora os sinais de comunicação social, que pedem avaliação para TEA."
+  ]
+ },
+ {
+  "q": "Menina de 15 meses, nascida a termo, anda segurando nos móveis, mas ainda não dá passos sozinha. Fala três palavras com significado, faz pinça fina, aponta o que deseja e brinca de esconde-achou. Exame neurológico normal. Qual é a conduta?",
+  "alts": [
+   "Encaminhar à neuropediatria, pois a marcha independente é esperada aos 12 meses",
+   "Solicitar radiografia de quadril e dosagem de CPK para investigar miopatia",
+   "Orientar a família e reavaliar, pois a marcha sem apoio pode surgir até os 18 meses",
+   "Indicar fisioterapia motora intensiva e uso de andador para acelerar a marcha",
+   "Classificar como provável atraso global e solicitar ressonância de crânio"
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Marcha independente aos 15 meses",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Zubler JM et al. Evidence-Informed Milestones for Developmental Surveillance Tools (CDC/AAP), 2022",
+  "coment": "A marcha independente surge, em média, entre 12 e 15 meses, mas sua ausência só é considerada sinal de alerta aos 18 meses. A criança tem marcos adequados nas demais áreas, como linguagem, motricidade fina e interação social, e exame neurológico normal, o que afasta atraso global. A conduta é orientar a família a oferecer oportunidades de explorar o ambiente com segurança e reavaliar. Andador é desaconselhado pela SBP, porque aumenta o risco de quedas e de traumatismos e não acelera a marcha. Fonte: CDC e AAP, marcos revisados, 2022.",
+  "porAlt": [
+   "A marcha independente ocorre entre 12 e 18 meses; aos 15 meses ainda está na faixa esperada.",
+   "Exame neurológico normal e marcos adequados não justificam investigar miopatia.",
+   "Correta: com os demais marcos adequados e exame normal, a ausência de marcha só é sinal de alerta aos 18 meses.",
+   "Andador é desaconselhado pela SBP, pois aumenta o risco de quedas e não acelera a marcha.",
+   "Linguagem, motricidade fina e interação adequadas afastam atraso global do desenvolvimento."
+  ]
+ },
+ {
+  "q": "Mãe de um lactente de 4 meses em aleitamento materno exclusivo voltará ao trabalho na próxima semana e quer manter a amamentação. Ela pergunta como conservar em casa o leite que vai ordenhar. Qual é a orientação correta?",
+  "alts": [
+   "Até 48 horas na geladeira e até 6 meses no congelador, em frasco de vidro limpo",
+   "Até 6 horas em temperatura ambiente e até 30 dias no congelador, em saco plástico",
+   "Até 24 horas na geladeira e até 3 meses no congelador, aquecido no micro-ondas",
+   "Até 12 horas na geladeira e até 15 dias no congelador, em frasco de vidro limpo",
+   "Até 12 horas na geladeira, sem congelar, pois o congelamento destrói os anticorpos"
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Conservação do leite ordenhado",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Saúde da criança: aleitamento materno e alimentação complementar (Cadernos de Atenção Básica, n. 23), 2ª ed., 2015",
+  "coment": "Pela orientação do Ministério da Saúde e da Rede Brasileira de Bancos de Leite Humano, o leite materno ordenhado cru pode ser guardado em frasco de vidro com tampa plástica, lavado e fervido, por até 12 horas na geladeira e até 15 dias no congelador ou freezer. Deve ser descongelado e aquecido em banho-maria fora do fogo, nunca no micro-ondas, e oferecido em copo ou xícara para não interferir na pega. O congelamento preserva a maior parte dos fatores de proteção. Fonte: MS, Cadernos de Atenção Básica n. 23, 2015.",
+  "porAlt": [
+   "Os prazos de 48 horas e 6 meses excedem os definidos pelo Ministério da Saúde para uso doméstico.",
+   "O leite cru não deve ficar horas em temperatura ambiente, e 30 dias excedem o prazo de congelamento.",
+   "Micro-ondas aquece de forma desigual e destrói fatores de proteção; o degelo é em banho-maria.",
+   "Correta: o leite ordenhado cru dura até 12 horas na geladeira e até 15 dias no congelador ou freezer.",
+   "O congelamento preserva a maior parte dos fatores de proteção e é recomendado para estoque."
+  ]
+ },
+ {
+  "q": "Puérpera no 4º dia pós-parto refere dor intensa ao amamentar e fissura no mamilo direito. Na observação da mamada, o lactente está com a boca pouco aberta, lábios voltados para dentro, mais aréola visível abaixo da boca que acima e bochechas encovadas durante a sucção. Qual é a conduta principal?",
+  "alts": [
+   "Corrigir a posição e a pega, mantendo a amamentação em livre demanda",
+   "Suspender a mama afetada por 72 horas e oferecer fórmula ao lactente",
+   "Usar protetor de silicone no mamilo até a cicatrização completa da fissura",
+   "Fixar horários de mamada a cada 3 horas, limitando cada mama a 10 minutos",
+   "Aplicar pomada com antibiótico e corticoide no mamilo após cada mamada"
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Fissura mamilar e pega",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Saúde da criança: aleitamento materno e alimentação complementar (Cadernos de Atenção Básica, n. 23), 2ª ed., 2015",
+  "coment": "A fissura mamilar decorre, na maioria das vezes, de pega inadequada. Os sinais de boa pega são boca bem aberta, lábio inferior virado para fora, queixo tocando a mama, mais aréola visível acima da boca que abaixo e bochechas arredondadas, sem encovamento. A conduta é corrigir posição e pega, começar a mamada pela mama menos dolorida, manter livre demanda e passar o próprio leite no mamilo ao final. Protetores, horários rígidos e pomadas sem indicação prejudicam a amamentação. Fonte: MS, Cadernos de Atenção Básica n. 23, 2015.",
+  "porAlt": [
+   "Correta: a fissura decorre da pega inadequada descrita, e o tratamento central é corrigi-la sem interromper a amamentação.",
+   "Suspender a mama favorece ingurgitamento e mastite, e a fórmula prejudica o aleitamento.",
+   "Protetores de silicone confundem a pega e reduzem a produção de leite, sem tratar a causa.",
+   "Horários rígidos e tempo limitado reduzem a produção e não corrigem a pega.",
+   "Pomadas sem indicação não tratam a causa e podem irritar a pele do mamilo."
+  ]
+ },
+ {
+  "q": "Em qual das situações maternas abaixo o Ministério da Saúde contraindica o aleitamento materno?",
+  "alts": [
+   "Infecção pelo HTLV-1 ou HTLV-2",
+   "Hepatite B com HBsAg reagente",
+   "Hepatite C com carga viral detectável",
+   "Mastite puerperal em tratamento",
+   "Tuberculose pulmonar em tratamento"
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Contraindicação ao aleitamento",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Saúde da criança: aleitamento materno e alimentação complementar (Cadernos de Atenção Básica, n. 23), 2ª ed., 2015",
+  "coment": "O Ministério da Saúde contraindica a amamentação quando a mãe tem infecção pelo HIV ou pelo HTLV-1 ou HTLV-2, quando usa medicamentos incompatíveis, como alguns antineoplásicos, e quando a criança tem galactosemia clássica. Hepatite B não contraindica, desde que o RN receba vacina e imunoglobulina; hepatite C também não, salvo fissuras com sangramento. Na mastite, a mama deve continuar sendo esvaziada. Na tuberculose bacilífera, mantém-se o aleitamento com máscara, e o RN recebe quimioprofilaxia. Fonte: MS, Cadernos de Atenção Básica n. 23, 2015.",
+  "porAlt": [
+   "Correta: HIV e HTLV-1 ou HTLV-2 maternos contraindicam a amamentação no Brasil.",
+   "Na hepatite B, o RN recebe vacina e imunoglobulina e pode mamar normalmente.",
+   "Hepatite C não contraindica o aleitamento, salvo fissuras com sangramento.",
+   "Na mastite, a mama deve continuar sendo esvaziada, de preferência pela própria mamada.",
+   "Na tuberculose, mantém-se o aleitamento com máscara, e o RN recebe quimioprofilaxia."
+  ]
+ },
+ {
+  "q": "Mãe de uma lactente de 6 meses, saudável, em aleitamento materno exclusivo, vai iniciar a alimentação complementar. Pergunta se pode oferecer ovo, pois uma vizinha disse que causaria alergia. Segundo o Guia Alimentar para Crianças Brasileiras Menores de 2 Anos, qual é a orientação?",
+  "alts": [
+   "Deve aguardar 1 ano para oferecer ovo, pelo risco de alergia alimentar",
+   "Pode oferecer a gema aos 6 meses e a clara a partir de 1 ano",
+   "Pode oferecer ovo desde os 6 meses, bem cozido, nas refeições",
+   "Deve fazer teste cutâneo de alergia antes de introduzir o ovo",
+   "Pode oferecer ovo cru batido com frutas para facilitar a digestão"
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Ovo na alimentação complementar",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia Alimentar para Crianças Brasileiras Menores de 2 Anos, 2019",
+  "coment": "O Guia Alimentar de 2019 orienta introduzir, a partir dos 6 meses, alimentos de todos os grupos, inclusive ovo, carnes e peixes, sem adiar alimentos considerados alergênicos, pois o atraso não previne alergia. O ovo deve ser oferecido inteiro, gema e clara, e bem cozido, nunca cru, pelo risco de salmonelose. Não há indicação de teste alérgico em lactente sem história de reação. A orientação geral é oferecer alimentos in natura ou minimamente processados, em refeições com a família, e evitar ultraprocessados. Fonte: MS, Guia Alimentar para Crianças Menores de 2 Anos, 2019.",
+  "porAlt": [
+   "Adiar o ovo para 1 ano não reduz o risco de alergia e não é recomendado pelo Guia.",
+   "Separar gema e clara é orientação antiga; o ovo inteiro pode ser oferecido aos 6 meses.",
+   "Correta: o ovo inteiro, bem cozido, pode entrar desde os 6 meses; adiar alimentos alergênicos não previne alergia.",
+   "Teste alérgico não é indicado em lactente sem história de reação ao alimento.",
+   "Ovo cru expõe ao risco de salmonelose e deve ser sempre bem cozido."
+  ]
+ },
+ {
+  "q": "Lactente de 7 meses, em aleitamento materno, começou a alimentação complementar aos 6 meses com fruta pela manhã, almoço e fruta à tarde, com boa aceitação. A mãe pergunta o que deve mudar agora. Segundo o Guia Alimentar de 2019, qual é a orientação?",
+  "alts": [
+   "Substituir duas mamadas por mingau de farinha engrossado com açúcar",
+   "Incluir o jantar, semelhante ao almoço, mantendo o leite materno",
+   "Manter um único almoço salgado até os 12 meses, quando entra o jantar",
+   "Passar o almoço no liquidificador para facilitar a aceitação da comida",
+   "Trocar as frutas por suco natural coado, oferecido na mamadeira"
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Refeições aos 7 meses",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia Alimentar para Crianças Brasileiras Menores de 2 Anos, 2019",
+  "coment": "O Guia de 2019 propõe, aos 6 meses, leite materno, fruta no meio da manhã, almoço e fruta no meio da tarde. Entre 7 e 8 meses acrescenta-se o jantar, com a mesma composição do almoço: cereal ou tubérculo, feijão ou outra leguminosa, carne ou ovo, legumes e verduras. A consistência deve progredir de amassada com garfo para pedaços pequenos, chegando à comida da família por volta dos 12 meses; liquidificar ou peneirar atrasa a mastigação. Açúcar, suco no lugar da fruta e mamadeira não são recomendados. Fonte: MS, Guia Alimentar, 2019.",
+  "porAlt": [
+   "Açúcar não deve ser oferecido antes dos 2 anos, e mingau não substitui o leite materno.",
+   "Correta: entre 7 e 8 meses o Guia acrescenta o jantar, com a mesma composição do almoço.",
+   "O jantar entra entre 7 e 8 meses, e não apenas aos 12 meses.",
+   "Liquidificar atrasa o desenvolvimento da mastigação; a comida deve ser amassada com garfo.",
+   "A fruta deve ser oferecida inteira ou amassada, e a mamadeira prejudica a amamentação."
+  ]
+ },
+ {
+  "q": "Na consulta de 9 meses, os pais contam que o lactente aceita bem as refeições. A avó costuma adoçar a fruta com mel e oferecer biscoito recheado no lanche da tarde. Segundo o Guia Alimentar para Crianças Menores de 2 Anos, qual é a orientação correta?",
+  "alts": [
+   "Liberar o mel, por ser natural, e evitar só o açúcar refinado até 1 ano",
+   "Liberar o biscoito recheado uma vez por semana, como recompensa",
+   "Trocar o mel por açúcar mascavo, permitido a partir dos 6 meses",
+   "Restringir açúcar e mel apenas se houver excesso de peso na curva",
+   "Não oferecer açúcar, inclusive mel, nem ultraprocessados antes dos 2 anos"
+  ],
+  "gab": 4,
+  "tema": "puericultura",
+  "sub": "Açúcar e ultraprocessados até 2 anos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia Alimentar para Crianças Brasileiras Menores de 2 Anos, 2019",
+  "coment": "O Guia de 2019 recomenda não oferecer açúcar nem preparações ou produtos com açúcar até os 2 anos, o que inclui mel, açúcar mascavo, rapadura e melado, e não oferecer alimentos ultraprocessados, como biscoitos recheados, refrigerantes e salgadinhos. Além do açúcar, o mel antes de 1 ano traz risco de botulismo infantil, porque pode conter esporos de Clostridium botulinum. A exposição precoce ao sabor doce aumenta a preferência por ele e o risco de cárie e de excesso de peso. Fonte: MS, Guia Alimentar para Crianças Menores de 2 Anos, 2019.",
+  "porAlt": [
+   "Mel é açúcar e, antes de 1 ano, ainda traz risco de botulismo infantil.",
+   "Ultraprocessados não devem ser oferecidos, nem como recompensa, até os 2 anos.",
+   "Açúcar mascavo, melado e rapadura são açúcares e seguem a mesma restrição até os 2 anos.",
+   "A restrição vale para todas as crianças, independentemente do estado nutricional.",
+   "Correta: o Guia orienta não oferecer açúcar, inclusive mel, nem ultraprocessados até os 2 anos."
+  ]
+ },
+ {
+  "q": "Lactente nascido com 33 semanas e 1.800 g, hoje com 30 dias de vida, em aleitamento materno exclusivo e sem transfusões prévias, vem à primeira consulta após a alta. Segundo o consenso da Sociedade Brasileira de Pediatria sobre anemia ferropriva, qual é a suplementação profilática de ferro indicada?",
+  "alts": [
+   "1 mg/kg/dia de ferro elementar a partir dos 6 meses, só se houver anemia",
+   "2 mg/kg/dia de ferro elementar no primeiro ano e 1 mg/kg/dia no segundo",
+   "3 mg/kg/dia de ferro elementar até a alta hospitalar, suspenso em seguida",
+   "2 mg/kg/dia de ferro elementar apenas após o início da alimentação complementar",
+   "4 mg/kg/dia de ferro elementar por 3 meses, repetidos se houver anemia"
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Ferro profilático no pré-termo",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Consenso sobre anemia ferropriva: mais que uma doença, uma urgência médica, 2018",
+  "coment": "O consenso da SBP de 2018 recomenda ferro profilático a partir do 30º dia de vida para prematuros e RN de baixo peso: 2 mg/kg/dia se o peso de nascimento é de 1.500 a 2.500 g, 3 mg/kg/dia entre 1.000 e 1.500 g e 4 mg/kg/dia abaixo de 1.000 g, durante o primeiro ano, seguidos de 1 mg/kg/dia no segundo ano. Para o RN a termo com peso adequado, a dose é 1 mg/kg/dia a partir do 3º mês até 24 meses. A reserva de ferro do prematuro é menor e se esgota antes, pelo crescimento acelerado. Fonte: SBP, 2018.",
+  "porAlt": [
+   "A profilaxia não depende de anemia e, no prematuro, começa aos 30 dias, não aos 6 meses.",
+   "Correta: prematuro de 1.500 a 2.500 g recebe 2 mg/kg/dia a partir de 30 dias por 1 ano e 1 mg/kg/dia no segundo ano.",
+   "Três mg/kg/dia é a dose para 1.000 a 1.500 g, e a suplementação continua após a alta.",
+   "No prematuro a reserva se esgota cedo, por isso o início é aos 30 dias, e não aos 6 meses.",
+   "Quatro mg/kg/dia é a dose para menos de 1.000 g, e a profilaxia dura até 2 anos."
+  ]
+ },
+ {
+  "q": "No Programa Nacional de Suplementação de Vitamina A do Ministério da Saúde, qual é o esquema previsto para crianças de 12 a 59 meses nas áreas e populações atendidas?",
+  "alts": [
+   "100.000 UI por via oral em dose única anual",
+   "200.000 UI por via oral a cada 6 meses",
+   "50.000 UI por via oral a cada 3 meses",
+   "200.000 UI por via intramuscular uma vez ao ano",
+   "400 UI por via oral uma vez ao dia, de forma contínua"
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Megadose de vitamina A",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de condutas gerais do Programa Nacional de Suplementação de Vitamina A, 2013",
+  "coment": "O programa prevê megadoses orais de vitamina A: 100.000 UI em dose única para crianças de 6 a 11 meses e 200.000 UI a cada 6 meses para crianças de 12 a 59 meses, nas regiões e grupos definidos pelo Ministério da Saúde, com registro na Caderneta da Criança. A suplementação reduz a mortalidade infantil associada a diarreia e sarampo e previne cegueira noturna e xeroftalmia. A dose diária de 400 UI corresponde à vitamina D, não à vitamina A. Fonte: MS, Programa Nacional de Suplementação de Vitamina A, 2013.",
+  "porAlt": [
+   "A dose única de 100.000 UI é a dos lactentes de 6 a 11 meses.",
+   "Correta: de 12 a 59 meses, a megadose é de 200.000 UI por via oral a cada 6 meses.",
+   "O programa não usa doses de 50.000 UI a cada 3 meses para essa faixa etária.",
+   "A vitamina A do programa é oral, e o intervalo entre doses é de 6 meses.",
+   "A dose diária de 400 UI corresponde à profilaxia com vitamina D no lactente."
+  ]
+ },
+ {
+  "q": "Lactente de 1 mês, nascido a termo, saudável, em aleitamento materno exclusivo, mora em uma cidade ensolarada do Nordeste. Segundo a Sociedade Brasileira de Pediatria, qual é a recomendação quanto à vitamina D?",
+  "alts": [
+   "Dispensada, pela exposição solar diária na região",
+   "400 UI por dia, se a mãe tiver deficiência comprovada",
+   "1.000 UI por dia por via oral, até os 6 meses",
+   "50.000 UI por semana, nos 2 primeiros meses de vida",
+   "400 UI por dia por via oral, até completar 12 meses"
+  ],
+  "gab": 4,
+  "tema": "puericultura",
+  "sub": "Profilaxia com vitamina D",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Hipovitaminose D em pediatria: recomendações para o diagnóstico, tratamento e prevenção, 2016",
+  "coment": "A SBP recomenda vitamina D profilática de 400 UI por dia a partir da primeira semana de vida até os 12 meses, e de 600 UI por dia entre 12 e 24 meses, para lactentes saudáveis, seja o aleitamento exclusivo ou não e independentemente da região. O leite materno tem pouca vitamina D, e a exposição solar direta não é recomendada como estratégia em menores de 6 meses, pelo risco de câncer de pele. Doses altas semanais ficam para o tratamento de deficiência confirmada. Fonte: SBP, Hipovitaminose D em pediatria, 2016.",
+  "porAlt": [
+   "A recomendação vale para todas as regiões, e o sol direto não é estratégia em menores de 6 meses.",
+   "A profilaxia é universal no lactente e não depende da dosagem materna.",
+   "Mil UI por dia excede a dose profilática, e a recomendação vai até 12 meses.",
+   "Doses semanais altas são para tratar deficiência confirmada, não para prevenção.",
+   "Correta: a SBP indica 400 UI por dia desde a primeira semana até 12 meses, e 600 UI de 12 a 24 meses."
+  ]
+ },
+ {
+  "q": "Criança completa 12 meses com o calendário em dia e recebeu meningocócica C conjugada aos 3 e aos 5 meses. Segundo o calendário do Programa Nacional de Imunizações vigente em 2026, qual vacina é usada no reforço meningocócico dessa idade?",
+  "alts": [
+   "Meningocócica C conjugada",
+   "Meningocócica B recombinante",
+   "Meningocócica ACWY conjugada",
+   "Meningocócica ACWY polissacarídica",
+   "Nenhuma; o próximo reforço é aos 11 anos"
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Meningocócica ACWY aos 12 meses",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Calendário Nacional de Vacinação da Criança e do Adolescente (PNI), 2026",
+  "coment": "Desde 2025 o PNI usa a meningocócica ACWY conjugada no reforço dos 12 meses, mantendo o esquema primário com meningocócica C conjugada aos 3 e 5 meses. Para a criança não vacinada antes, a ACWY nessa idade pode valer como dose única, conforme o calendário. Na adolescência há dose única de ACWY entre 11 e 14 anos. A meningocócica B não faz parte do calendário de rotina, e as vacinas polissacarídicas não induzem memória imunológica adequada em menores de 2 anos. Fonte: MS, Calendário Nacional de Vacinação, 2026.",
+  "porAlt": [
+   "A meningocócica C conjugada ficou restrita às doses de 3 e 5 meses.",
+   "A meningocócica B não faz parte do calendário de rotina do PNI.",
+   "Correta: desde 2025 o reforço dos 12 meses é feito com a meningocócica ACWY conjugada.",
+   "Vacinas polissacarídicas não geram memória imunológica adequada em menores de 2 anos.",
+   "Há reforço aos 12 meses; a dose de ACWY entre 11 e 14 anos é outra etapa do calendário."
+  ]
+ },
+ {
+  "q": "Criança de 15 meses, com vacinação em dia até os 12 meses, comparece à sala de vacina. Segundo o calendário do PNI vigente em 2026, quais vacinas estão indicadas nessa idade?",
+  "alts": [
+   "DTP, VOP bivalente, hepatite A e tetraviral",
+   "Pentavalente, VIP, hepatite B e tríplice viral",
+   "DTP, VIP, varicela e febre amarela",
+   "dTpa, VOP bivalente, hepatite A e varicela",
+   "DTP, VIP, hepatite A e tetraviral"
+  ],
+  "gab": 4,
+  "tema": "puericultura",
+  "sub": "Vacinas dos 15 meses",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Calendário Nacional de Vacinação da Criança e do Adolescente (PNI), 2026",
+  "coment": "Aos 15 meses o calendário prevê o primeiro reforço da DTP, o reforço contra poliomielite, a hepatite A em dose única e a tetraviral (sarampo, caxumba, rubéola e varicela). Desde novembro de 2024 o reforço contra poliomielite é feito com a vacina inativada (VIP), e a vacina oral bivalente saiu do calendário de rotina; todas as doses contra pólio passaram a ser de VIP. Aos 4 anos, a criança recebe o segundo reforço da DTP, a segunda dose de varicela e o reforço da febre amarela. Fonte: MS, Calendário Nacional de Vacinação, 2026.",
+  "porAlt": [
+   "Desde novembro de 2024 o reforço contra poliomielite é feito com VIP, e a VOP saiu da rotina.",
+   "Pentavalente e hepatite B pertencem ao esquema primário, e a tríplice viral é aos 12 meses.",
+   "Febre amarela é feita aos 9 meses e reforçada aos 4 anos, não aos 15 meses.",
+   "A dTpa é usada em gestantes e profissionais, e a VOP não é mais usada na rotina.",
+   "Correta: aos 15 meses fazem-se DTP (1º reforço), VIP (reforço), hepatite A e tetraviral."
+  ]
+ },
+ {
+  "q": "Menino de 10 anos, sem doenças crônicas, comparece à unidade com a mãe para atualizar a caderneta. Nunca recebeu vacina contra HPV. Segundo o calendário do PNI vigente em 2026, qual é o esquema indicado?",
+  "alts": [
+   "Duas doses, com intervalo de 6 meses",
+   "Três doses, aos 0, 2 e 6 meses",
+   "Dose única de HPV quadrivalente",
+   "Nenhuma, pois é restrita a meninas",
+   "Dose única, só a partir dos 11 anos"
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "HPV em dose única",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Calendário Nacional de Vacinação da Criança e do Adolescente (PNI), 2026",
+  "coment": "Desde 2024 o PNI adota dose única da vacina HPV quadrivalente para meninas e meninos de 9 a 14 anos, com base em evidências de proteção semelhante à do esquema de duas doses e na recomendação da OMS de 2022. Grupos especiais, como pessoas vivendo com HIV, transplantados e imunossuprimidos, mantêm esquema de três doses em faixa etária ampliada. A idade de início para os meninos foi igualada à das meninas, aos 9 anos. Fonte: MS, Calendário Nacional de Vacinação, 2026; OMS, position paper sobre vacinas HPV, 2022.",
+  "porAlt": [
+   "O esquema de duas doses foi substituído pela dose única em 2024.",
+   "Três doses ficam para grupos especiais, como pessoas vivendo com HIV e imunossuprimidos.",
+   "Correta: desde 2024 meninas e meninos de 9 a 14 anos recebem dose única de HPV quadrivalente.",
+   "A vacina é oferecida a meninos no PNI desde 2017.",
+   "A faixa dos meninos foi igualada à das meninas e começa aos 9 anos."
+  ]
+ },
+ {
+  "q": "Mãe de um lactente de 6 meses pergunta se a vacina contra a COVID-19 faz parte do calendário de rotina do filho. Segundo o calendário do PNI vigente em 2026, com a vacina Pfizer pediátrica para menores de 5 anos, qual é o esquema?",
+  "alts": [
+   "Duas doses, aos 6 e aos 12 meses de idade",
+   "Dose única aos 12 meses, com a tríplice viral",
+   "Três doses, aos 6, 7 e 9 meses de idade",
+   "Não faz parte; indicada a crianças com comorbidade",
+   "Três doses, aos 2, 4 e 6 meses de idade"
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "COVID-19 no calendário infantil",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Calendário Nacional de Vacinação da Criança e do Adolescente (PNI), 2026",
+  "coment": "Desde 2024 a vacina COVID-19 integra o calendário de rotina das crianças de 6 meses a menores de 5 anos. Com a vacina Pfizer pediátrica para menores de 5 anos, o esquema é de três doses, aos 6, 7 e 9 meses. Crianças menores de 5 anos que não iniciaram ou não completaram o esquema devem ser vacinadas. O calendário de 2026 mantém também a vacinação de gestantes a cada gestação e de idosos com reforços semestrais. Fonte: MS, Calendário Nacional de Vacinação, 2026.",
+  "porAlt": [
+   "O esquema não é de duas doses nem prevê dose aos 12 meses com esse imunizante.",
+   "Não há dose única aos 12 meses; o esquema começa aos 6 meses.",
+   "Correta: com a Pfizer pediátrica para menores de 5 anos, o calendário prevê doses aos 6, 7 e 9 meses.",
+   "Desde 2024 a vacina integra a rotina de todas as crianças de 6 meses a menores de 5 anos.",
+   "A vacina não é aplicada antes dos 6 meses; o esquema começa nessa idade."
+  ]
+ },
+ {
+  "q": "Lactente de 4 meses e 20 dias nunca foi vacinado por causa de uma mudança de cidade e comparece à unidade para atualizar o calendário. Em relação à vacina oral de rotavírus humano, qual é a conduta segundo as normas do PNI?",
+  "alts": [
+   "Aplicar a 1ª dose agora e a 2ª dose após 30 dias",
+   "Aplicar dose única, já que perdeu a 1ª dose no prazo",
+   "Aplicar a 1ª dose e a 2ª após os 12 meses",
+   "Não vacinar, pois passou da idade limite da 1ª dose",
+   "Adiar para os 6 meses, junto da 3ª dose da pentavalente"
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Idade limite da vacina rotavírus",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Normas e Procedimentos para Vacinação, 2014; Calendário Nacional de Vacinação, 2026",
+  "coment": "A vacina oral de rotavírus humano tem limites rígidos de idade pelo risco de invaginação intestinal em doses tardias: a 1ª dose pode ser dada de 1 mês e 15 dias até 3 meses e 15 dias, e a 2ª dose até 7 meses e 29 dias, com intervalo mínimo de 30 dias entre elas. Criança que não recebeu a 1ª dose até 3 meses e 15 dias não deve mais ser vacinada contra rotavírus. As demais vacinas atrasadas devem ser atualizadas na mesma visita. Fonte: MS, Manual de Normas e Procedimentos para Vacinação, 2014.",
+  "porAlt": [
+   "Aplicar a 1ª dose fora do prazo eleva o risco de invaginação intestinal.",
+   "Não existe esquema de dose única de resgate para a vacina de rotavírus no PNI.",
+   "A 2ª dose tem limite de 7 meses e 29 dias e nunca é adiada para depois de 1 ano.",
+   "Correta: a 1ª dose só pode ser dada até 3 meses e 15 dias; depois disso a vacina não é mais feita.",
+   "Adiar não resolve, pois o prazo da 1ª dose já se esgotou."
+  ]
+ },
+ {
+  "q": "Lactente de 2 meses comparece para a vacinação de rotina. Está com coriza hialina e tosse leve há 2 dias, sem febre e em bom estado geral. Nasceu com 35 semanas, e o irmão mais velho teve convulsão febril aos 2 anos. Qual é a conduta?",
+  "alts": [
+   "Adiar todas as vacinas até 15 dias após o fim dos sintomas respiratórios",
+   "Vacinar, mas trocar a pentavalente por DTP acelular pelo risco de convulsão",
+   "Vacinar normalmente, pois não há contraindicação nem motivo para adiar",
+   "Adiar a vacina de rotavírus e aplicar as vacinas injetáveis hoje",
+   "Corrigir a idade pela prematuridade e iniciar o esquema só aos 3 meses"
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Falsas contraindicações à vacina",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Normas e Procedimentos para Vacinação, 2014",
+  "coment": "São falsas contraindicações: infecções leves das vias aéreas, diarreia leve, febre baixa, uso de antibiótico, prematuridade, baixo peso (exceto para BCG abaixo de 2.000 g), desnutrição, alergias não anafiláticas e história familiar de convulsão ou de eventos adversos. O prematuro é vacinado pela idade cronológica. O adiamento se justifica em doença aguda moderada ou grave, com febre alta ou comprometimento do estado geral. A DTP acelular é indicada pelo CRIE por eventos adversos na própria criança após dose anterior. Fonte: MS, Manual de Normas e Procedimentos para Vacinação, 2014.",
+  "porAlt": [
+   "Infecção leve das vias aéreas sem febre não justifica adiar vacinas.",
+   "A DTP acelular é indicada por evento na própria criança, não por antecedente familiar.",
+   "Correta: infecção leve sem febre, prematuridade e convulsão em familiar são falsas contraindicações.",
+   "Coriza e tosse leves não contraindicam a vacina oral de rotavírus.",
+   "O prematuro é vacinado pela idade cronológica, sem correção."
+  ]
+ },
+ {
+  "q": "Menina de 12 meses e 10 kg está em uso de prednisolona 2 mg/kg/dia há 3 semanas para síndrome nefrótica e ainda não recebeu a tríplice viral. A mãe a leva à sala de vacina. Segundo o Manual dos CRIE, qual é a conduta em relação à tríplice viral?",
+  "alts": [
+   "Adiar para pelo menos 1 mês após a suspensão do corticoide",
+   "Aplicar hoje, pois o corticoide não interfere em vacina de vírus vivo",
+   "Aplicar hoje e repetir a dose 1 mês após a suspensão do corticoide",
+   "Substituir por imunoglobulina humana mensal até o fim do tratamento",
+   "Contraindicar em definitivo, por se tratar de doença renal crônica"
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Corticoide e vacina de vírus vivo",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual dos Centros de Referência para Imunobiológicos Especiais, 6ª ed., 2023",
+  "coment": "Corticoide sistêmico em dose imunossupressora, isto é, 2 mg/kg/dia ou mais de prednisona ou equivalente, ou 20 mg/dia ou mais em crianças com mais de 10 kg, por 14 dias ou mais, contraindica temporariamente vacinas de vírus vivos, como tríplice viral, varicela e febre amarela. Elas devem ser aplicadas pelo menos 1 mês após a suspensão. Doses menores, uso por menos de 14 dias e uso inalatório ou tópico não impedem a vacinação. Vacinas inativadas podem ser aplicadas, com resposta possivelmente menor. Fonte: MS, Manual dos CRIE, 2023.",
+  "porAlt": [
+   "Correta: corticoide em dose imunossupressora por 14 dias ou mais adia vacinas vivas até 1 mês após a suspensão.",
+   "Prednisolona de 2 mg/kg/dia por mais de 14 dias é imunossupressora e contraindica vacinas vivas.",
+   "Vacina viva sob imunossupressão pode causar doença vacinal; não se aplica para depois repetir.",
+   "Imunoglobulina não substitui a vacinação e só é usada em exposição de risco.",
+   "A contraindicação é temporária e termina 1 mês após suspender o corticoide."
+  ]
+ },
+ {
+  "q": "Pais de uma criança de 3 anos, com 15 kg e 95 cm, perguntam na consulta de puericultura como transportá-la no carro da família. Segundo a Resolução CONTRAN 819/2021, qual é a orientação correta?",
+  "alts": [
+   "Bebê-conforto voltado para trás, no banco dianteiro",
+   "Assento de elevação com cinto de três pontos, no banco traseiro",
+   "Cinto de segurança do próprio veículo, no banco traseiro",
+   "Colo de um adulto com cinto, no banco traseiro",
+   "Cadeirinha de segurança no banco traseiro do veículo"
+  ],
+  "gab": 4,
+  "tema": "puericultura",
+  "sub": "Transporte da criança no carro",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Resolução CONTRAN 819/2021; Lei 14.071/2020",
+  "coment": "A Resolução CONTRAN 819/2021, que regulamenta o art. 64 do Código de Trânsito alterado pela Lei 14.071/2020, exige que crianças menores de 10 anos com menos de 1,45 m viajem no banco traseiro, em dispositivo de retenção adequado ao peso e à altura: bebê-conforto até cerca de 1 ano, cadeirinha de 1 a 4 anos, assento de elevação de 4 a 7 anos e meio e, depois, cinto de segurança no banco traseiro até os 10 anos. A criança no colo de adulto é projetada em colisão, mesmo em baixa velocidade. Fonte: Resolução CONTRAN 819/2021.",
+  "porAlt": [
+   "O bebê-conforto é para o primeiro ano, e menores de 10 anos não viajam no banco dianteiro.",
+   "O assento de elevação é para crianças de 4 a 7 anos e meio, não aos 3 anos.",
+   "O cinto do veículo sem dispositivo serve só após os 7 anos e meio, ainda no banco traseiro.",
+   "No colo, a criança é projetada em colisões mesmo em baixa velocidade; é proibido.",
+   "Correta: entre 1 e 4 anos, a criança deve ir em cadeirinha, no banco traseiro."
+  ]
+ },
+ {
+  "q": "Na consulta de 1 mês, os pais de um lactente saudável, nascido a termo, perguntam como ele deve dormir para reduzir o risco de morte súbita. Qual é a orientação correta?",
+  "alts": [
+   "De lado, apoiado em rolinhos, para evitar aspiração se regurgitar durante o sono",
+   "De barriga para cima, no berço próprio, sem travesseiros ou objetos soltos",
+   "De bruços, com a cabeceira elevada, para reduzir refluxo e engasgos",
+   "Na cama dos pais, entre os dois, para facilitar a vigilância noturna",
+   "De barriga para cima, com protetor de berço acolchoado e travesseiro baixo"
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Sono seguro do lactente",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "American Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment, 2022",
+  "coment": "A prevenção da síndrome da morte súbita do lactente inclui dormir em decúbito dorsal em todos os sonos, em superfície firme e plana, no berço próprio, de preferência no quarto dos pais nos primeiros meses, sem travesseiros, protetores de berço, cobertores soltos ou bichos de pelúcia. A posição de lado não é recomendada, e o decúbito dorsal não aumenta o risco de aspiração em lactentes saudáveis. Também protegem o aleitamento materno, a vacinação em dia e evitar a exposição ao fumo. Fonte: AAP, recomendações de sono seguro, 2022.",
+  "porAlt": [
+   "A posição de lado é instável, facilita o giro para bruços e não é recomendada.",
+   "Correta: decúbito dorsal em superfície firme, no berço próprio e sem objetos soltos reduz a morte súbita.",
+   "O decúbito ventral é o principal fator de risco modificável para morte súbita do lactente.",
+   "O compartilhamento da cama aumenta o risco de sufocação e de morte súbita.",
+   "Protetores de berço e travesseiros aumentam o risco de sufocação, mesmo em decúbito dorsal."
+  ]
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Pediatria",
+  "f": "reanimacao-neonatal.html",
+  "tipo": "SBP 2026 · resumo de prova",
+  "area": "neonato",
+  "min": 52,
+  "t": "Reanimação neonatal na sala de parto",
+  "s": "Preparo, manejo do cordão, passos iniciais, ventilação com pressão positiva, oxigênio e saturação-alvo minuto a minuto, massagem, adrenalina, prematuro abaixo de 34 semanas, líquido meconial e limites éticos, pelas diretrizes de junho de 2026 da Sociedade Brasileira de Pediatria."
+ },
+ {
+  "grupo": "Pediatria",
+  "f": "ictericia-e-problemas-do-rn.html",
+  "tipo": "SBP · MS · Lei 14.154/2021 · resumo de prova",
+  "area": "neonato",
+  "min": 51,
+  "t": "Icterícia e problemas comuns do recém-nascido",
+  "s": "Cuidados de rotina do recém-nascido, icterícia fisiológica e patológica, zonas de Kramer, nomograma, fototerapia e exsanguinotransfusão, incompatibilidade ABO e Rh, desconforto respiratório, hipoglicemia e as triagens neonatais obrigatórias, pela SBP, pelo Ministério da Saúde e pela legislação vigente."
+ },
+ {
+  "grupo": "Pediatria",
+  "f": "sepse-neonatal-e-infeccoes-congenitas.html",
+  "tipo": "PCDT TV 2022 · AAP · resumo de prova",
+  "area": "neonato",
+  "min": 47,
+  "t": "Sepse neonatal e infecções congênitas",
+  "s": "Sepse precoce e tardia, fatores de risco, conduta no recém-nascido de risco e antibiótico empírico; sífilis congênita, toxoplasmose, citomegalovírus, criança exposta ao HIV, hepatite B, rubéola e herpes neonatal, pelo PCDT de Transmissão Vertical do Ministério da Saúde e pelas recomendações da AAP."
+ }
+]

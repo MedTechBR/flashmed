@@ -1,0 +1,25 @@
+{"incluidas": 32,
+ "descartadas": [
+  {"pid": "p0260", "motivo": "Depende da TC de crânio em imagem (hemorragia ou isquemia define a conduta); sem a figura não há como responder."},
+  {"pid": "p0261", "motivo": "Enunciado truncado (começa em 'eletrocardiograma inicial') e depende de ECG em imagem."},
+  {"pid": "p0262", "motivo": "Depende do gráfico da metanálise (funnel plot) não reproduzido no texto."},
+  {"pid": "p0264", "motivo": "Gabarito contraria diretriz vigente: TC de baixa dose para câncer de pulmão é ANUAL (USPSTF 2021, ACS 2023); nenhuma diretriz usa intervalo de 5 anos, então nenhuma alternativa fica correta."},
+  {"pid": "p0265", "motivo": "Gabarito contraria diretriz vigente: pólipo hiperplásico de 10 mm ou mais pede vigilância em 3 a 5 anos (USMSTF 2020) ou 3 anos (ESGE 2020), e não 'não repetir'."},
+  {"pid": "p0266", "motivo": "Depende da TC de crânio em imagem (hiperdensidade estriatal da hiperglicemia não cetótica versus AVC); sem a figura há mais de uma resposta defensável."},
+  {"pid": "p0268", "motivo": "Enunciado truncado: começa em 'se febril, sem drogas vasoativas', faltam história e esquema antimicrobiano em uso."},
+  {"pid": "p0269", "motivo": "Depende do traçado de capnografia em imagem."},
+  {"pid": "p0271", "motivo": "Enunciado truncado (o caso ficou colado na alternativa da questão anterior) e depende de ECG em imagem."},
+  {"pid": "p0272", "motivo": "Depende da TC de tórax em imagem para distinguir as hipóteses."},
+  {"pid": "p0273", "motivo": "Depende do gráfico de espirometria em imagem."},
+  {"pid": "p0274", "motivo": "Enunciado truncado e depende de imagens de RM (susceptibilidade magnética)."},
+  {"pid": "p0277", "motivo": "Gabarito discordante da diretriz vigente: pneumonia comunitária não grave sem fator de risco validado para MRSA ou Pseudomonas (ATS/IDSA 2019) não pede cefepime e vancomicina; o texto não traz neutropenia nem internação recente. Na dúvida, descartada."},
+  {"pid": "p0278", "motivo": "Enunciado truncado e depende de ECG em imagem."}
+ ],
+ "gabaritos_discutiveis": [
+  {"pid": "p0222", "nota": "Polissonografia é o padrão para diagnosticar e graduar a apneia (AAP 2012); a nasofibroscopia confirma a causa (hipertrofia de adenoide). Mantida porque o enunciado foca na causa obstrutiva; explicado no comentário."},
+  {"pid": "p0241", "nota": "Internação em UTI não é obrigatória só por SatO2 88% em ar ambiente, e a primeira escolha parenteral pode ser ampicilina ou penicilina cristalina; ainda assim é a única alternativa com internação e betalactâmico venoso."},
+  {"pid": "p0244", "nota": "Posologia da alternativa (400 mg 12/12h por 7 dias) difere da de referência (2 g em dose única ou 500 mg 12/12h por 7 dias); o fármaco é o único correto entre as opções. O comentário cita o esquema de referência."},
+  {"pid": "p0246", "nota": "CHEST sugere anticoagular enquanto aguarda imagem se a suspeita é alta; mantida porque no 3º dia de cirurgia colorretal o risco de sangramento é alto, o Doppler sai em horas e a enoxaparina 1x/dia sugere dose profilática."},
+  {"pid": "p0263", "nota": "O ECCO 2022 não recomenda antibiótico de rotina na colite aguda grave; mantida porque o que discrimina as alternativas é corticoide venoso versus infliximabe. O comentário deixa claro que o antibiótico é só para suspeita de infecção."},
+  {"pid": "p0267", "nota": "Rastreamento universal de sífilis aos 60 anos não é consenso (USPSTF rastreia só grupo de risco); mantida como oferta de testagem de IST do MS a sexualmente ativos, única alternativa defensável."}
+ ]}

@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "rastreamento",
+  "a": "Quais são os níveis de prevenção de Leavell e Clark e o que cada um abrange?",
+  "b": "Primária: promoção da saúde e proteção específica (fase pré-patogênica). Secundária: diagnóstico precoce, tratamento imediato e limitação do dano. Terciária: reabilitação. Leavell e Clark, 1965."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "O que é prevenção quaternária?",
+  "b": "Ação para identificar pessoas em risco de medicalização excessiva, protegê-las de intervenções sem benefício e oferecer cuidado eticamente aceitável. Proposta por Jamoulle e adotada pela WONCA em 2003."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "Cite quatro critérios de Wilson e Jungner para rastreamento.",
+  "b": "Problema de saúde importante; tratamento aceito; fase latente ou sintomática inicial reconhecível; teste adequado e aceitável; história natural conhecida; custo equilibrado. OMS, 1968."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "O que é viés de tempo de antecipação?",
+  "b": "O rastreamento adianta o diagnóstico sem adiar a morte, e a sobrevida contada do diagnóstico aumenta artificialmente. Por isso o desfecho correto é a mortalidade específica em ensaio randomizado."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "Diferença entre sobrediagnóstico e falso-positivo?",
+  "b": "Sobrediagnóstico: doença real, confirmada, que nunca causaria sintomas ou morte. Falso-positivo: exame alterado sem doença na investigação. Welch e Black, 2010."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "Rastreamento do colo do útero com DNA-HPV no Brasil: faixa etária e intervalo se negativo?",
+  "b": "Pessoas com colo do útero de 25 a 64 anos; teste de DNA-HPV oncogênico negativo repete em 5 anos. Diretrizes Brasileiras, Portaria Conjunta SAES/SECTICS nº 13/2025."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "DNA-HPV positivo para HPV 16 ou 18: conduta?",
+  "b": "Colposcopia direta, sem depender da citologia. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, 2025."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "DNA-HPV positivo para outros tipos oncogênicos: conduta?",
+  "b": "Citologia reflexa na mesma amostra. Alterada: colposcopia. Negativa: repetir DNA-HPV em 1 ano. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, 2025."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "Mamografia no SUS desde 2025: quem e com que intervalo?",
+  "b": "Rastreamento organizado bienal de 50 a 74 anos; de 40 a 49 anos, por demanda após decisão compartilhada. Ministério da Saúde, 2025; Lei 15.284/2025 garante acesso a partir dos 40."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "O INCA recomenda rastreamento populacional de câncer de próstata com PSA?",
+  "b": "Não. Danos (falsos-positivos, biópsias, sobrediagnóstico e sequelas do tratamento) não são superados por benefício claro. Se o homem pedir, decisão compartilhada. INCA, Detecção precoce do câncer, 2021."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "Câncer colorretal em risco médio: início pela USPSTF?",
+  "b": "Dos 45 aos 75 anos (45 a 49 grau B; 50 a 75 grau A); 76 a 85 individualizar. Opções: teste imunoquímico fecal anual ou colonoscopia a cada 10 anos. USPSTF, 2021."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "Critérios da USPSTF para tomografia de baixa dose no câncer de pulmão?",
+  "b": "50 a 80 anos, 20 maços-ano ou mais, fumante atual ou que parou há menos de 15 anos; exame anual. USPSTF, 2021."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "Rastreamento de aneurisma de aorta abdominal: quem e como?",
+  "b": "Homens de 65 a 75 anos que já fumaram: ultrassonografia de abdome uma única vez (grau B). USPSTF, 2019."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "Rastreamento de osteoporose: quem segundo a USPSTF 2025?",
+  "b": "Mulheres a partir de 65 anos e mulheres na pós-menopausa com menos de 65 anos e risco aumentado de fratura. Homens: evidência insuficiente. USPSTF, 2025."
+ },
+ {
+  "tema": "rastreamento",
+  "a": "A partir de que idade a ADA recomenda rastrear diabetes em todos os adultos?",
+  "b": "A partir de 35 anos, com repetição a cada 3 anos se normal; antes disso, se sobrepeso ou obesidade com fator de risco. ADA, Standards of Care, 2025."
+ },
+ {
+  "tema": "cronicas",
+  "a": "Classificação da PA na Diretriz Brasileira de Hipertensão 2025?",
+  "b": "Normal abaixo de 120/80; pré-hipertensão 120 a 139 e/ou 80 a 89; hipertensão a partir de 140/90 (estágio 1: 140 a 159/90 a 99; 2: 160 a 179/100 a 109; 3: 180/110 ou mais). SBC, 2025."
+ },
+ {
+  "tema": "cronicas",
+  "a": "Meta pressórica na Diretriz Brasileira de Hipertensão 2025?",
+  "b": "130/80 mmHg para todos os hipertensos, independentemente de idade e risco, com individualização em frágeis ou com hipotensão ortostática sintomática. SBC, 2025."
+ },
+ {
+  "tema": "cronicas",
+  "a": "Tratamento inicial da hipertensão na diretriz brasileira de 2025?",
+  "b": "Para a maioria, dois fármacos em dose baixa, de preferência em comprimido único. Monoterapia: estágio 1 de baixo risco, 80 anos ou mais, frágeis ou com hipotensão ortostática. SBC, 2025."
+ },
+ {
+  "tema": "cronicas",
+  "a": "Critérios diagnósticos de diabetes?",
+  "b": "Glicemia de jejum de 126 ou mais, HbA1c de 6,5% ou mais, glicemia de 2 h no TOTG de 200 ou mais (dois testes alterados) ou glicemia ao acaso de 200 ou mais com sintomas. ADA, 2025."
+ },
+ {
+  "tema": "cronicas",
+  "a": "Quando considerar insulina já no diagnóstico do diabetes tipo 2?",
+  "b": "Sintomas de catabolismo (perda de peso), HbA1c acima de 10% ou glicemia de 300 mg/dL ou mais. ADA, Standards of Care, 2025."
+ },
+ {
+  "tema": "cronicas",
+  "a": "Contraindicações da bupropiona no tratamento do tabagismo?",
+  "b": "Epilepsia ou convulsão prévia, bulimia ou anorexia, uso de IMAO nos últimos 14 dias e retirada abrupta de álcool ou benzodiazepínico. PCDT do Tabagismo, Portaria Conjunta nº 10/2020."
+ },
+ {
+  "tema": "cronicas",
+  "a": "Como desprescrever benzodiazepínico em idoso?",
+  "b": "Redução gradual de cerca de 25% a cada 2 semanas e de 12,5% perto do fim, com pausas se houver abstinência. Pottie et al., Can Fam Physician, 2018."
+ },
+ {
+  "tema": "cronicas",
+  "a": "Sinais de alerta na lombalgia?",
+  "b": "Retenção urinária, anestesia em sela, déficit neurológico progressivo, história de câncer, febre ou imunossupressão, drogas injetáveis e trauma em osteoporose. Sem eles, não pedir imagem. NICE NG59, 2016."
+ },
+ {
+  "tema": "cronicas",
+  "a": "Critério de cefaleia por uso excessivo de medicação?",
+  "b": "Dor em 15 dias ou mais por mês há mais de 3 meses, com analgésico simples em 15 dias ou mais, ou combinado, triptano ou opioide em 10 dias ou mais por mês. ICHD-3, 2018."
+ },
+ {
+  "tema": "cronicas",
+  "a": "Quando suspeitar de rinossinusite bacteriana?",
+  "b": "Sintomas por 10 dias ou mais sem melhora, início grave (febre de 39 °C ou mais com secreção purulenta por 3 a 4 dias) ou piora após melhora. Cor da secreção não decide. IDSA, 2012."
+ }
+]

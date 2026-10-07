@@ -1,0 +1,31 @@
+{
+ "incluidas": 44,
+ "descartadas": [
+  {
+   "pid": "p0613",
+   "motivo": "Pede a alternativa INCORRETA, mas há duas: além da biópsia de controle (gabarito), a afirmação de que a confirmação \"requer\" anti-tTG e EMA mais biópsia Marsh 2-3 contraria a ESPGHAN 2020, que dispensa a biópsia em crianças com anti-tTG IgA acima de 10 vezes o limite superior e EMA positivo em segunda amostra."
+  },
+  {
+   "pid": "p0643",
+   "motivo": "Duas respostas defensáveis e gabarito de risco: febre alta, cefaleia intensa, rigidez de nuca, vômitos e irritabilidade não permitem separar meningite viral de bacteriana sem líquor; a conduta padrão é punção lombar e antibiótico empírico imediato quando há suspeita de bacteriana (ESCMID 2016, Nelson 2020). Ensinar observação e suporte como conduta inicial é perigoso."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p0632",
+   "nota": "Gabarito correto (afirmação claramente falsa), mas a alternativa tida como verdadeira fala em 80 a 85% de recuperação em 3 meses; os dados usuais são cerca de dois terços a 80% em 6 a 12 meses. Comentário escrito sem endossar o número."
+  },
+  {
+   "pid": "p0637",
+   "nota": "Enunciado traz GMFCS V com criança que anda pequenas distâncias com apoio (incoerente), mas a classificação nutricional pelos escores Z não depende disso; gabarito eutrofia mantido."
+  },
+  {
+   "pid": "p0623",
+   "nota": "Lactente em creche com 3 otites e 1 bronquiolite provavelmente não tem imunodeficiência; entre as opções, imunoglobulinas mais resposta vacinal proteica é a triagem inicial correta."
+  },
+  {
+   "pid": "p0603",
+   "nota": "Enunciado com erros do original mantidos (bilirrubina total 20 mg/L, 'leucócitos 75%' por linfócitos, PCR em mg/dL); não alteram a resposta (coagulopatia com encefalopatia)."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Saúde Mental",
+  "f": "depressao-e-ansiedade.html",
+  "tipo": "DSM-5-TR 2022 · CANMAT 2023 · resumo de prova",
+  "area": "humor",
+  "min": 56,
+  "t": "Depressão e ansiedade na atenção primária",
+  "s": "Rastreio com PHQ-2, PHQ-9 e GAD-7, critérios do DSM-5-TR para episódio depressivo maior, distimia, luto, ansiedade generalizada, pânico, fobias, TOC e estresse pós-traumático, e o tratamento na atenção primária com psicoterapia e antidepressivo, pela CANMAT 2023, NICE, USPSTF 2023 e ACOG 2023."
+ },
+ {
+  "grupo": "Saúde Mental",
+  "f": "psicoses-e-transtorno-bipolar.html",
+  "tipo": "NICE 2025 · CANMAT/ISBD · resumo de prova",
+  "area": "psicoses",
+  "min": 54,
+  "t": "Psicoses e transtorno bipolar",
+  "s": "Primeiro episódio psicótico e as causas orgânicas a excluir, esquizofrenia e transtornos vizinhos, antipsicóticos típicos e atípicos com seus efeitos e a clozapina, transtorno bipolar (mania, hipomania e depressão bipolar), lítio, valproato e lamotrigina, e gestação, pelo DSM-5-TR, NICE CG185 (2025), CANMAT/ISBD, APA 2020 e PCDT do Ministério da Saúde."
+ },
+ {
+  "grupo": "Saúde Mental",
+  "f": "alcool-e-outras-drogas.html",
+  "tipo": "ASAM 2020 · PCDT 2020 · resumo de prova",
+  "area": "drogas",
+  "min": 47,
+  "t": "Álcool, tabaco e outras drogas",
+  "s": "Uso de álcool da triagem com AUDIT à intervenção breve e ao tratamento, síndrome de abstinência com CIWA-Ar e benzodiazepínico, Wernicke-Korsakoff, tabagismo pelo PCDT do Ministério da Saúde, cocaína e crack, opioides e naloxona, maconha e redução de danos na RAPS, pela ASAM 2020, OMS, APA 2018 e PCDT do Tabagismo (2020)."
+ }
+]

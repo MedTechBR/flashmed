@@ -1,0 +1,94 @@
+{
+  "name": "FlashMed: preparatório ENARE e ENAMED",
+  "short_name": "FlashMed",
+  "start_url": "./index.html?fonte=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F5F0",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "icons/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/flashmed/",
+  "description": "Questões de provas reais comentadas (Revalida, ENAMED, ENARE, USP) e autorais nas cinco grandes áreas, Saúde Mental e SUS, simulados no formato do ENAMED, provas na íntegra, leituras e cartões.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": [
+    "medical",
+    "education"
+  ],
+  "orientation": "portrait-primary",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "shortcuts": [
+    {
+      "name": "Questões",
+      "short_name": "Questões",
+      "url": "./index.html?ir=questoes",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Leituras",
+      "short_name": "Leituras",
+      "url": "./index.html?ir=leituras",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Cartões de hoje",
+      "short_name": "Cartões",
+      "url": "./index.html?ir=cartoes",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Simulado",
+      "short_name": "Simulado",
+      "url": "./index.html?ir=simulado",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
