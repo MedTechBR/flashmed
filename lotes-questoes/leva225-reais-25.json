@@ -1,0 +1,1157 @@
+[
+ {
+  "pid": "g24041",
+  "q": "Uma gestante comparece à consulta de pré-natal com laudo de ultrassonografia evidenciando gestação tópica de 12 semanas com dois fetos e a presença do sinal do “lambda”. Diante desse sinal, é correto afirmar que é uma gestação gemelar:",
+  "alts": [
+   "monocoriônica, diamniótica;",
+   "monocoriônica, monoamniótica;",
+   "dicoriônica, diamniótica;",
+   "dicoriônica, monoamniótica;",
+   "monocoriônica com gêmeos acolados."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Corionicidade pelo sinal do lambda",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; ISUOG Practice Guidelines: role of ultrasound in twin pregnancy, 2016",
+  "coment": "A corionicidade deve ser definida no primeiro trimestre, idealmente entre 11 e 14 semanas, quando a ultrassonografia é mais precisa. O sinal do lambda (ou twin peak) é a projeção triangular de tecido coriônico entre as duas camadas de âmnio na inserção da membrana, e indica gestação dicoriônica e, portanto, diamniótica. O sinal do T, membrana fina inserindo-se em ângulo reto, indica monocoriônica diamniótica. A ausência de membrana sugere monoamniótica. Definir a corionicidade orienta todo o seguimento, pois as monocoriônicas exigem ultrassonografia a cada 2 semanas a partir de 16 semanas.",
+  "porAlt": [
+   "Monocoriônica diamniótica mostra o sinal do T, com membrana fina e sem cunha coriônica.",
+   "Monocoriônica monoamniótica não tem membrana entre os fetos, logo não há sinal algum.",
+   "Correta: o lambda é a cunha de córion entre as membranas, que só existe quando há dois córions, com dois âmnios.",
+   "Dicoriônica monoamniótica não existe: havendo dois córions, cada feto tem seu próprio âmnio.",
+   "Gêmeos acolados são monocoriônicos monoamnióticos, sem membrana e sem sinal do lambda."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 41
+  }
+ },
+ {
+  "pid": "g24042",
+  "q": "Uma paciente com 15 semanas de gestação realiza exames laboratoriais que evidenciam glicemia de jejum de 96 mg/dl. O médico do pré-natal solicita uma nova dosagem, cujo resultado é 95 mg/dl. Nesse caso, o diagnóstico mais provável é:",
+  "alts": [
+   "diabetes gestacional;",
+   "diabetes tipo I;",
+   "diabetes tipo II;",
+   "gestação normal;",
+   "MODY."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Diagnóstico de diabetes gestacional",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "OPAS, Ministério da Saúde, FEBRASGO e SBD. Rastreamento e diagnóstico de diabetes mellitus gestacional no Brasil, 2016 (publicação conjunta de 2017)",
+  "coment": "No consenso brasileiro de 2016, toda gestante faz glicemia de jejum na primeira consulta. Valor entre 92 e 125 mg/dl, em qualquer idade gestacional, já faz o diagnóstico de diabetes gestacional, sem necessidade de repetir nem de TOTG. Valor de 126 mg/dl ou mais indica diabetes prévio (overt). Abaixo de 92, faz-se TOTG 75 g entre 24 e 28 semanas. Aqui as duas medidas (96 e 95 mg/dl) estão na faixa 92 a 125, e com 15 semanas o diagnóstico é diabetes gestacional. A repetição não muda nada, apenas confirma.",
+  "porAlt": [
+   "Correta: glicemia de jejum entre 92 e 125 mg/dl em qualquer idade gestacional define diabetes gestacional.",
+   "Diabetes tipo 1 exige quadro autoimune com hiperglicemia franca, não jejum de 96 mg/dl.",
+   "Diabetes prévio na gestação exige jejum de 126 mg/dl ou mais ou HbA1c de 6,5% ou mais.",
+   "Gestação normal teria glicemia de jejum abaixo de 92 mg/dl, limiar mais baixo que fora da gravidez.",
+   "MODY é diagnóstico genético, sem nenhum dado do caso que o sugira (história familiar, hiperglicemia leve persistente)."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 42
+  }
+ },
+ {
+  "pid": "g24043",
+  "q": "Sobre a embolia por líquido amniótico, é correto afirmar que:",
+  "alts": [
+   "há critérios estabelecidos precisos para o seu diagnóstico;",
+   "está geralmente associada a hipertermia materna;",
+   "não tem associação com operação cesariana;",
+   "é caracterizada por hipoxia, hipotensão e coagulopatia;",
+   "tem evolução lenta e progressiva do quadro clínico."
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Embolia por líquido amniótico",
+  "cenario": "cc",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "SMFM Clinical Guideline nº 9: Amniotic fluid embolism, diagnosis and management, 2016; Manual de Gestação de Alto Risco, Ministério da Saúde, 2022",
+  "coment": "A embolia por líquido amniótico é rara e de início súbito, durante o parto, a cesariana ou logo após a dequitação. A tríade clássica é hipóxia (insuficiência respiratória), hipotensão ou colapso cardiovascular e coagulopatia de consumo (CIVD), muitas vezes com parada cardiorrespiratória. O diagnóstico é clínico e de exclusão: os critérios de Clark (SMFM 2016) foram propostos para pesquisa, sem teste confirmatório. Cesariana, parto instrumental, idade materna avançada e placenta prévia são fatores associados. O manejo é suporte imediato, RCP de alta qualidade e reposição agressiva de hemocomponentes.",
+  "porAlt": [
+   "Não há exame confirmatório; o diagnóstico é clínico e de exclusão, e os critérios propostos servem a pesquisa.",
+   "Febre não faz parte do quadro; a tríade é respiratória, hemodinâmica e hemostática.",
+   "Cesariana e parto instrumental estão entre os fatores de risco associados.",
+   "Correta: hipóxia, hipotensão e coagulopatia formam a tríade clássica da embolia amniótica.",
+   "A evolução é súbita e fulminante, frequentemente com parada cardiorrespiratória em minutos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 43
+  }
+ },
+ {
+  "pid": "g24044",
+  "q": "São condições associadas à polidramnia:",
+  "alts": [
+   "tabagismo e toxoplasmose adquirida na gestação;",
+   "atresia de esôfago fetal e diabetes tipo I materno;",
+   "hipertensão arterial e síndrome de Turner no feto;",
+   "anencefalia e obstrução urinária baixa no feto;",
+   "pós-datismo e uso de anti-inflamatórios."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Causas de polidrâmnio",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco, Ministério da Saúde, 2022; SMFM Consult Series nº 46: evaluation and management of polyhydramnios, 2018",
+  "coment": "Polidrâmnio resulta de produção aumentada ou de deglutição fetal reduzida de líquido amniótico. Diabetes materno mal controlado causa hiperglicemia fetal e poliúria osmótica. Atresia de esôfago (ou duodenal) impede a deglutição e a absorção intestinal do líquido. Por isso as duas condições do par correto são causas clássicas. As demais alternativas misturam causas de oligodrâmnio (obstrução urinária baixa, insuficiência placentária, pós-datismo, anti-inflamatórios) ou fatores sem relação.",
+  "porAlt": [
+   "Tabagismo associa-se a restrição de crescimento e oligodrâmnio; toxoplasmose não é causa típica de polidrâmnio.",
+   "Correta: atresia de esôfago impede a deglutição fetal e o diabetes materno causa poliúria fetal.",
+   "Hipertensão causa insuficiência placentária e oligodrâmnio; Turner associa-se mais a higroma e hidropisia.",
+   "Anencefalia causa polidrâmnio, mas obstrução urinária baixa causa oligodrâmnio, então o par está errado.",
+   "Pós-datismo e anti-inflamatórios (redução do fluxo renal fetal) causam oligodrâmnio."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 44
+  }
+ },
+ {
+  "pid": "g24045",
+  "q": "Uma gestante realiza ultrassonografia com 29 semanas e é verificado que o peso fetal se encontra no percentil 2. O volume de líquido amniótico é normal e o doppler das artérias umbilical e cerebral média está dentro dos parâmetros normais para a idade gestacional. Seguindo o protocolo baseado em estágios para restrição de crescimento, a melhor conduta nesse caso é:",
+  "alts": [
+   "operação cesariana após uso de sulfato de magnésio;",
+   "dopplerfluxometria e cardiotocografia diariamente;",
+   "aumento da ingesta calórica materna;",
+   "indução do parto após administração de corticoide;",
+   "ultrassonografia obstétrica e doppler semanais."
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Restrição de crescimento fetal estágio I",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Figueras F, Gratacós E. Protocolo de Barcelona para restrição de crescimento fetal, Fetal Diagn Ther 2014; ISUOG Practice Guidelines: diagnosis and management of small-for-gestational-age fetus and fetal growth restriction, 2020",
+  "coment": "No protocolo por estágios de Barcelona, peso fetal abaixo do percentil 3 já define restrição de crescimento mesmo com Doppler normal. Sem alteração de Doppler, o feto fica no estágio I (insuficiência placentária leve), que tem baixo risco de deterioração rápida. A conduta é vigilância com ultrassonografia (crescimento, líquido) e Doppler de artéria umbilical, cerebral média e índice cerebroplacentário semanal, com parto programado a partir de 37 semanas. Corticoide, magnésio e interrupção só entram nos estágios avançados (diástole zero ou reversa, ducto venoso alterado, cardiotocografia anormal).",
+  "porAlt": [
+   "Cesariana com magnésio a 29 semanas seria para estágios III e IV, com Doppler muito alterado.",
+   "Doppler e cardiotocografia diários são para estágio avançado com diástole zero ou ducto venoso alterado.",
+   "Aumentar a ingesta calórica não melhora o crescimento fetal na insuficiência placentária.",
+   "Indução com 29 semanas em feto com Doppler normal acrescentaria prematuridade extrema sem benefício.",
+   "Correta: estágio I (peso abaixo do p3 com Doppler normal) segue com ultrassonografia e Doppler semanais."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 45
+  }
+ },
+ {
+  "pid": "g24046",
+  "q": "Uma gestante com 35 semanas chega à emergência com cefaleia e pressão arterial de 180 x 120 mmHg. É prontamente internada e hidralazina é administrada por via venosa. Após 30 minutos, a paciente continua com a pressão aumentada. São solicitados exames laboratoriais cujos resultados evidenciam: • plaquetas: 60.000/mm³ • creatinina: 1,5 mg/dl • TGO: 120U/L e TGP: 110U/L • relação proteína/creatinina: 0,2 Nesse quadro, o diagnóstico mais provável e uma das condutas iniciais são, respectivamente:",
+  "alts": [
+   "pré-eclâmpsia e administração de sulfato de magnésio;",
+   "insuficiência hepática e observação clínica em CTI;",
+   "esteatose hepática e reposição proteica por via oral;",
+   "colestase e prescrição de ácido ursodesoxicólico;",
+   "hipertensão gestacional e uso de metildopa por via oral."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Pré-eclâmpsia grave sem proteinúria",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; ISSHP, Classification, diagnosis and management of the hypertensive disorders of pregnancy, 2021",
+  "coment": "Pela definição atual (ISSHP 2021, Ministério da Saúde 2022), pré-eclâmpsia não exige proteinúria: hipertensão após 20 semanas com plaquetopenia, disfunção renal ou hepática também a define. Aqui há plaquetas 60.000/mm³, creatinina 1,5 mg/dl e transaminases elevadas, com PA de 180 x 120 mmHg refratária à hidralazina. Relação proteína/creatinina de 0,2 não exclui o diagnóstico. É pré-eclâmpsia com sinais de gravidade (quadro de HELLP parcial), e o sulfato de magnésio para prevenir eclâmpsia é conduta inicial obrigatória, junto ao controle pressórico e à programação do parto.",
+  "porAlt": [
+   "Correta: hipertensão grave com plaquetopenia, lesão renal e hepática é pré-eclâmpsia grave, e o sulfato de magnésio previne eclâmpsia.",
+   "Transaminases de 120 U/L sem encefalopatia nem coagulopatia não configuram insuficiência hepática, e observar seria omissão.",
+   "Esteatose aguda da gravidez cursa com hipoglicemia e insuficiência hepática; reposição proteica não trata nada.",
+   "Colestase dá prurido e ácidos biliares altos, sem hipertensão grave nem plaquetopenia.",
+   "Hipertensão gestacional não tem lesão de órgão-alvo, e metildopa oral não serve para crise hipertensiva."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 46
+  }
+ },
+ {
+  "pid": "g24047",
+  "q": "Paciente com 37 semanas de gestação procura atendimento após ter percebido perda de líquido por via vaginal. É confirmado o diagnóstico de rotura prematura de membranas. Essa confirmação se deu pelo seguinte achado:",
+  "alts": [
+   "ultrassonografia obstétrica e transvaginal evidenciando a presença de sludge;",
+   "fita reagente de pH coletada em fundo de saco vaginal posterior evidenciando pH: 4,5;",
+   "lâmina coletada por via vaginal evidenciando cristalização (aspecto em “folha de samambaia”);",
+   "hemograma com leucometria de 11.200 células/mm³ e com 2% de bastonetes;",
+   "cultura positiva para estreptococo do grupo B coletada com swab vaginal e perianal."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Diagnóstico de rotura de membranas",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; ACOG Practice Bulletin nº 217, Prelabor rupture of membranes, 2020",
+  "coment": "O diagnóstico de rotura de membranas é clínico na maioria dos casos: saída de líquido pelo orifício cervical ao exame especular. Testes auxiliares incluem o teste de cristalização, em que o líquido amniótico seco em lâmina forma aspecto de folha de samambaia pelo seu teor de sais e proteínas, e o teste de pH (nitrazina), em que o líquido amniótico é alcalino, entre 7,0 e 7,5. Um pH de 4,5 é o ácido normal da vagina e fala contra rotura. Sludge, leucograma e cultura para estreptococo não fazem o diagnóstico.",
+  "porAlt": [
+   "Sludge é material ecogênico no líquido próximo ao colo, marcador de risco de parto prematuro, não de rotura.",
+   "pH 4,5 é o pH ácido normal da vagina; o líquido amniótico é alcalino, acima de 6,5.",
+   "Correta: a cristalização em folha de samambaia é característica do líquido amniótico e confirma a rotura.",
+   "Leucocitose discreta não diagnostica rotura nem, isoladamente, corioamnionite.",
+   "Cultura positiva para estreptococo do grupo B indica colonização e profilaxia, não rotura."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 47
+  }
+ },
+ {
+  "pid": "g24048",
+  "q": "Gestante realiza ultrassonografia morfológica de 1º trimestre que evidencia risco aumentado para aneuploidias. No momento, ela está com 12 semanas e deseja realizar cariótipo fetal. A melhor conduta é oferecer:",
+  "alts": [
+   "amniocentese até 15 semanas;",
+   "biópsia de vilo corial até 14 semanas;",
+   "cordocentese até 15 semanas;",
+   "biópsia de vilo corial a partir de 16 semanas;",
+   "amniocentese após 26 semanas."
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Diagnóstico pré-natal invasivo",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin nº 162, Prenatal diagnostic testing for genetic disorders, 2016 (reafirmado); RCOG Green-top Guideline nº 8, Amniocentesis and chorionic villus sampling, 2021",
+  "coment": "Para obter cariótipo fetal após rastreamento de primeiro trimestre alterado, a escolha do procedimento depende da idade gestacional. A biópsia de vilo corial é feita entre 10 e 14 semanas (não antes de 10, pelo risco de defeitos de redução de membros). A amniocentese é feita a partir de 15 semanas (amniocentese precoce, antes de 15, tem mais perda fetal e pé torto). A cordocentese é reservada a partir de 18 a 20 semanas para casos específicos. Com 12 semanas, a opção que dá resultado mais cedo é a biópsia de vilo corial.",
+  "porAlt": [
+   "A amniocentese é feita a partir de 15 semanas; antes disso aumenta perda fetal e pé torto.",
+   "Correta: com 12 semanas, a biópsia de vilo corial (10 a 14 semanas) permite cariótipo precoce.",
+   "Cordocentese é tecnicamente feita a partir de 18 a 20 semanas e não é a primeira escolha para cariótipo.",
+   "Biópsia de vilo corial é procedimento do primeiro trimestre; após 16 semanas usa-se amniocentese.",
+   "Esperar até 26 semanas atrasa o diagnóstico sem motivo, pois a amniocentese já é possível a partir de 15 semanas."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 48
+  }
+ },
+ {
+  "pid": "g24049",
+  "q": "Uma mulher está em trabalho de parto e refere não ter alívio da dor entre as contrações. Ao ser examinada, é encontrado o sinal de Bandl associado com bradicardia fetal. Esse achado está associado com o seguinte quadro:",
+  "alts": [
+   "malformação cardíaca fetal;",
+   "doença hemolítica perinatal;",
+   "descolamento prematuro de placenta;",
+   "rotura prematura de membranas;",
+   "iminência de ruptura uterina."
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Iminência de rotura uterina",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "O sinal de Bandl é o anel de constrição entre o corpo uterino e o segmento inferior, que sobe em direção à cicatriz umbilical e dá ao útero aspecto em ampulheta. Junto do sinal de Frommel (ligamentos redondos retesados) caracteriza a síndrome de Bandl-Frommel, da iminência de rotura uterina, típica do parto obstruído com contrações intensas. A dor contínua sem alívio entre contrações e a bradicardia fetal reforçam o quadro. A conduta é inibir as contrações e fazer cesariana de urgência antes que a rotura se complete.",
+  "porAlt": [
+   "Malformação cardíaca fetal pode causar bradicardia, mas não produz o anel de Bandl nem dor materna contínua.",
+   "Doença hemolítica cursa com anemia e hidropisia fetal, sem alteração do segmento uterino.",
+   "O descolamento prematuro de placenta causa hipertonia e dor, mas não o anel de Bandl.",
+   "Rotura prematura de membranas é perda de líquido, sem sinais de distensão do segmento inferior.",
+   "Correta: o sinal de Bandl com dor contínua e sofrimento fetal indica iminência de rotura uterina."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 49
+  }
+ },
+ {
+  "pid": "g24050",
+  "q": "Paciente com gestação gemelar monocoriônica realiza ultrassonografia com 22 semanas e identifica o primeiro feto com polidramnia e o feto dois com oligodramnia. Ambas as bexigas são visualizadas e o doppler das artérias umbilicais e cerebrais médias, além do ducto venoso, estão normais. O colo uterino mede 3,5 cm. Diante desses achados, a melhor conduta é:",
+  "alts": [
+   "realizar uma amniodrenagem do feto 1;",
+   "fazer ablação dos vasos placentários a laser;",
+   "fazer seguimento clínico e ultrassonográfico;",
+   "indicar a interrupção da gestação por cesariana;",
+   "romper a membrana entre as duas bolsas amnióticas."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Síndrome de transfusão feto-fetal",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "SMFM Clinical Guideline nº 3, Twin-twin transfusion syndrome, 2013; Stirnemann J et al., ensaio clínico de laser versus conduta expectante no estágio I, Am J Obstet Gynecol, 2021",
+  "coment": "Polidrâmnio em um gêmeo e oligodrâmnio no outro, em monocoriônica, configuram síndrome de transfusão feto-fetal. A bexiga do doador visível e o Doppler normal classificam como estágio I de Quintero. No estágio I, a SMFM (2013) aceita conduta expectante com ultrassonografia seriada, pois muitos casos ficam estáveis ou regridem, e o ensaio randomizado de 2021 não mostrou benefício do laser imediato sobre o seguimento com laser de resgate. Colo de 3,5 cm e ausência de sintomas maternos reforçam o seguimento. Laser fica para progressão ao estágio II ou mais, ou para polidrâmnio sintomático.",
+  "porAlt": [
+   "Amniodrenagem seriada é alternativa inferior ao laser e só seria cogitada com desconforto materno ou colo curto.",
+   "Ablação a laser é o tratamento dos estágios II a IV; no estágio I estável, a conduta é expectante.",
+   "Correta: estágio I de Quintero, com bexiga do doador visível, Doppler normal e colo longo, permite seguimento seriado.",
+   "Interromper com 22 semanas resultaria em prematuridade extrema sem indicação.",
+   "Septostomia intencional não é recomendada, pois cria monoamniótica iatrogênica com risco de entrelaçamento de cordão."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 50
+  }
+ },
+ {
+  "pid": "g24051",
+  "q": "Com relação à atosibana, é correto afirmar que é:",
+  "alts": [
+   "uma boa opção para a indução do parto;",
+   "um antagonista do receptor de ocitocina;",
+   "indicada para tratamento da pré-eclâmpsia;",
+   "um bloqueador de canais de cálcio;",
+   "uma gonadotrofina sintética."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Tocólise com atosibana",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; FIGO good practice recommendations on the use of tocolytics, 2021",
+  "coment": "A atosibana é um antagonista competitivo dos receptores de ocitocina e de vasopressina V1a no miométrio, reduzindo a frequência das contrações. É usada como tocolítico no trabalho de parto prematuro entre 24 e 34 semanas, por via venosa, com perfil de efeitos colaterais maternos muito favorável, o que a torna útil em cardiopatas, gemelares e quando nifedipino é contraindicado. A limitação é o custo. O bloqueador de canal de cálcio usado na tocólise é o nifedipino, e o objetivo da tocólise é ganhar 48 horas para corticoide e transferência.",
+  "porAlt": [
+   "Por bloquear o receptor de ocitocina, a atosibana inibe contrações e não serve para indução.",
+   "Correta: a atosibana é antagonista do receptor de ocitocina, usada como tocolítico.",
+   "Pré-eclâmpsia trata-se com anti-hipertensivo, sulfato de magnésio e parto, não com atosibana.",
+   "O bloqueador de canal de cálcio usado como tocolítico é o nifedipino.",
+   "Atosibana é peptídeo análogo da ocitocina com ação antagonista, não gonadotrofina."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 51
+  }
+ },
+ {
+  "pid": "g24052",
+  "q": "Após um parto vaginal complicado, o recém-nascido tem o diagnóstico de paralisia de Erb-Duchenne. Esse quadro tem como uma de suas manifestações clínicas:",
+  "alts": [
+   "a fratura da clavícula;",
+   "o reflexo de Moro unilateral;",
+   "o cefalohematoma;",
+   "a paralisia facial;",
+   "a luxação de quadril."
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Paralisia braquial de Erb-Duchenne",
+  "cenario": "cc",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ACOG Task Force on Neonatal Brachial Plexus Palsy, Neonatal brachial plexus palsy, 2ª ed., 2014",
+  "coment": "A paralisia de Erb-Duchenne é a lesão das raízes C5 e C6 do plexo braquial, geralmente por tração lateral da cabeça na distocia de ombro ou no parto difícil. O membro fica aduzido, em rotação interna, com cotovelo estendido e punho fletido (posição em gorjeta de garçom), com preensão palmar preservada. No exame neonatal, o reflexo de Moro fica assimétrico: ausente do lado afetado e presente do outro. Fratura de clavícula é diagnóstico diferencial e pode coexistir, mas não é manifestação da paralisia. A maioria recupera em meses com fisioterapia.",
+  "porAlt": [
+   "Fratura de clavícula é outro trauma do parto que pode coexistir, mas não é manifestação da lesão do plexo.",
+   "Correta: na lesão de C5 e C6 o Moro fica ausente do lado afetado, portanto assimétrico.",
+   "Cefalo-hematoma é sangramento subperiosteal do crânio, sem relação com o plexo braquial.",
+   "Paralisia facial decorre de compressão do nervo facial, geralmente por fórceps.",
+   "Luxação de quadril é displasia do desenvolvimento, sem relação com o plexo braquial."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 52
+  }
+ },
+ {
+  "pid": "g24053",
+  "q": "A utilidade do índice de Bishop é:",
+  "alts": [
+   "fornecer uma predição de sucesso da indução do parto normal;",
+   "dar uma previsão do peso fetal através de sinais clínicos;",
+   "avaliar o grau de asfixia neonatal em recém-nascidos;",
+   "calcular as chances de o feto ter uma aneuploidia;",
+   "verificar o grau de sofrimento fetal agudo."
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Índice de Bishop",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Diretrizes Nacionais de Assistência ao Parto Normal, 2017; ACOG Practice Bulletin nº 107, Induction of labor, 2009",
+  "coment": "O índice de Bishop avalia o colo uterino por cinco parâmetros: dilatação, apagamento, consistência, posição do colo e altura da apresentação (plano de De Lee). A soma prediz a chance de a indução terminar em parto vaginal. Escore favorável (geralmente acima de 6 a 8) permite indução direta com ocitocina e amniotomia. Escore desfavorável indica preparo cervical antes, com misoprostol, dinoprostona ou sonda de Foley. Não estima peso fetal, vitalidade ou risco genético.",
+  "porAlt": [
+   "Correta: o escore de Bishop avalia o colo e prediz o sucesso da indução do parto vaginal.",
+   "Peso fetal estima-se por altura uterina, manobras de Leopold e ultrassonografia, não pelo Bishop.",
+   "A asfixia neonatal avalia-se por Apgar, gasometria de cordão e clínica.",
+   "Risco de aneuploidia vem de idade, translucência nucal, marcadores bioquímicos e DNA fetal livre.",
+   "Sofrimento fetal agudo avalia-se por cardiotocografia e ausculta intermitente."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 53
+  }
+ },
+ {
+  "pid": "g24054",
+  "q": "Uma gestante com 36 semanas tem quadro clínico fortemente sugestivo de descolamento prematuro de placenta. Nesse caso, é correto afirmar que:",
+  "alts": [
+   "a ultrassonografia é fundamental para indicar a conduta;",
+   "a vitalidade fetal não influencia no prognóstico;",
+   "a histerectomia deve ser realizada sempre após o parto;",
+   "a tocólise é uma opção aceitável nessa idade gestacional;",
+   "o diagnóstico na maioria dos casos é clínico."
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Descolamento prematuro de placenta",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "O diagnóstico de descolamento prematuro de placenta é essencialmente clínico: sangramento escuro, dor abdominal súbita, hipertonia uterina e alteração da vitalidade fetal, em gestante frequentemente hipertensa. A ultrassonografia tem baixa sensibilidade (deixa de ver a maioria dos hematomas) e não deve atrasar a conduta. Com feto vivo e viável, a resolução é a via mais rápida: parto vaginal se iminente, senão cesariana. Tocólise é contraindicada e histerectomia só entra em hemorragia incontrolável ou útero de Couvelaire sem resposta.",
+  "porAlt": [
+   "A ultrassonografia tem baixa sensibilidade e não deve retardar a resolução da gestação.",
+   "A vitalidade fetal define a urgência e a via de parto e influencia diretamente o prognóstico.",
+   "Histerectomia é exceção, reservada a hemorragia incontrolável apesar das medidas conservadoras.",
+   "Tocólise é contraindicada no descolamento, pois pode piorar a hemorragia e mascarar a gravidade.",
+   "Correta: o descolamento é diagnosticado pela clínica de dor, sangramento e hipertonia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 54
+  }
+ },
+ {
+  "pid": "g24055",
+  "q": "Paciente com 28 semanas de gestação, com tipagem sanguínea Rh(-), tem o teste de Coombs indireto com resultado positivo para anticorpos anti-D e título de 1:128. Realiza ultrassonografia com doppler, que evidencia pico sistólico de velocidade na artéria cerebral média de 1,8 MoM. A conduta mais adequada nesse caso é:",
+  "alts": [
+   "repetir o teste de Coombs para confirmação diagnóstica;",
+   "administrar imunoglobulina anti-Rh e repetir o exame;",
+   "repetir a ultrassonografia e o Doppler em duas semanas;",
+   "prescrever corticoide e fazer o parto por cesariana;",
+   "fazer cordocentese e possível transfusão fetal intrauterina."
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Aloimunização Rh com anemia fetal",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; SMFM Clinical Guideline nº 8, The fetus at risk for anemia, 2015",
+  "coment": "Na gestante aloimunizada, título de anti-D acima do crítico (1:16 na maioria dos serviços) indica seguimento com Doppler da artéria cerebral média. O pico de velocidade sistólica acima de 1,5 MoM tem alta sensibilidade para anemia fetal moderada a grave. Com 28 semanas e 1,8 MoM, a conduta é cordocentese para medir hemoglobina fetal e, confirmada a anemia, transfusão intrauterina na mesma punção. Imunoglobulina anti-D não tem efeito em quem já está sensibilizada, e o parto a 28 semanas trocaria anemia por prematuridade grave.",
+  "porAlt": [
+   "O Coombs indireto positivo com título alto já está confirmado; repetir não muda a conduta.",
+   "Imunoglobulina anti-D só previne sensibilização; em gestante já aloimunizada é inútil.",
+   "Esperar duas semanas com PVS acima de 1,5 MoM arrisca hidropisia e óbito fetal.",
+   "Parto a 28 semanas expõe a prematuridade grave quando a transfusão intrauterina resolve a anemia.",
+   "Correta: PVS da cerebral média acima de 1,5 MoM indica cordocentese e transfusão intrauterina."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 55
+  }
+ },
+ {
+  "pid": "g24056",
+  "q": "Uma gestante, gesta 3 para 2, com 33 semanas e diagnóstico de diabetes gestacional e polidrâmnio, procura atendimento devido a perda de líquido amniótico. Ao exame, é encontrado útero com tônus normal, sem contrações uterinas nem sangramentos. O feto encontra-se em apresentação pélvica e percebe-se bradicardia. Diante desse quadro, deve-se pensar no diagnóstico de:",
+  "alts": [
+   "cardiopatia congênita fetal;",
+   "prolapso de cordão umbilical;",
+   "trabalho de parto prematuro;",
+   "cetoacidose diabética;",
+   "desproporção cefalopélvica."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Prolapso de cordão umbilical",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "RCOG Green-top Guideline nº 50, Umbilical cord prolapse, 2014; Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "O prolapso de cordão é favorecido por tudo o que deixa espaço entre a apresentação e a pelve no momento da rotura: polidrâmnio (saída de grande volume de líquido), apresentação pélvica ou anômala, prematuridade, multiparidade e gemelaridade. Bradicardia fetal súbita logo após a perda de líquido, com útero de tônus normal e sem sangramento, é o quadro típico. A conduta é elevar a apresentação manualmente, posicionar a gestante (genupeitoral ou Trendelenburg) e fazer parto pela via mais rápida, geralmente cesariana.",
+  "porAlt": [
+   "Cardiopatia congênita não explica bradicardia súbita logo após a rotura em feto antes estável.",
+   "Correta: polidrâmnio, pélvico e prematuridade predispõem a prolapso, que causa bradicardia após a rotura.",
+   "Trabalho de parto prematuro exigiria contrações, ausentes no exame.",
+   "Cetoacidose daria sintomas maternos (vômitos, taquipneia, desidratação), não descritos.",
+   "Desproporção cefalopélvica não se aplica a feto pélvico de 33 semanas fora de trabalho de parto."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 56
+  }
+ },
+ {
+  "pid": "g24057",
+  "q": "É causa de hidropisia fetal não imune:",
+  "alts": [
+   "pré-eclâmpsia;",
+   "obesidade materna;",
+   "anomalia de Ebstein;",
+   "cisto da bolsa de Blake;",
+   "síndrome de Arnold-Chiari."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Hidropisia fetal não imune",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "SMFM Clinical Guideline nº 7, Nonimmune hydrops fetalis, 2015",
+  "coment": "Hidropisia não imune é o acúmulo de líquido em duas ou mais cavidades fetais sem aloimunização. As causas cardiovasculares são as mais frequentes (cerca de 20%), por insuficiência cardíaca fetal: arritmias e malformações estruturais como a anomalia de Ebstein, que gera regurgitação tricúspide grave e congestão venosa. Outras causas: aneuploidias, infecções (parvovírus B19), anemias, síndrome de transfusão feto-fetal e malformações torácicas. Cisto da bolsa de Blake e Chiari são achados de fossa posterior sem repercussão hemodinâmica.",
+  "porAlt": [
+   "Pré-eclâmpsia é doença materna e associa-se a restrição de crescimento, não a hidropisia.",
+   "Obesidade materna dificulta o exame e aumenta malformações, mas não é causa de hidropisia.",
+   "Correta: a anomalia de Ebstein causa insuficiência cardíaca fetal, principal grupo de causas de hidropisia não imune.",
+   "Cisto da bolsa de Blake é variante da fossa posterior, sem efeito hemodinâmico.",
+   "Arnold-Chiari é malformação do rombencéfalo ligada à espinha bífida, sem causar hidropisia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 57
+  }
+ },
+ {
+  "pid": "g24058",
+  "q": "Uma gestante realiza ultrassonografia com 18 semanas e é evidenciada adramnia. O feto está vivo, com bexiga muito distendida. A causa mais provável da adramnia nesse caso é:",
+  "alts": [
+   "válvula de uretra posterior;",
+   "sequência da extrofia cloacal;",
+   "malformação adenomatoide cística;",
+   "hipoplasia pulmonar fetal;",
+   "displasia renal multicística."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Válvula de uretra posterior",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "A partir de 16 semanas a urina fetal é a principal fonte de líquido amniótico. Anidrâmnio no segundo trimestre com bexiga muito distendida indica obstrução do trato urinário inferior, cuja causa mais comum em feto masculino é a válvula de uretra posterior (sinal da fechadura: bexiga distendida e uretra proximal dilatada). A consequência é hipoplasia pulmonar por falta de líquido. Displasia renal multicística bilateral também causa anidrâmnio, mas com bexiga vazia ou não visível, pois não há produção de urina.",
+  "porAlt": [
+   "Correta: bexiga muito distendida com anidrâmnio indica obstrução uretral, tipicamente válvula de uretra posterior.",
+   "Na extrofia cloacal a bexiga não é visualizada, pois está aberta na parede abdominal.",
+   "Malformação adenomatoide cística é lesão pulmonar e cursa mais com polidrâmnio ou hidropisia.",
+   "Hipoplasia pulmonar é consequência do anidrâmnio, não causa.",
+   "Displasia multicística bilateral causa anidrâmnio com bexiga vazia, por ausência de produção de urina."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 58
+  }
+ },
+ {
+  "pid": "g24059",
+  "q": "São marcadores bioquímicos utilizados no rastreio da pré-eclâmpsia:",
+  "alts": [
+   "NIPT e PAPP-A;",
+   "HCG livre e PlGF;",
+   "PAPP-A e PlGF;",
+   "alfafetoproteína e PlGF;",
+   "alfafetoproteína e PAPP-A."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Rastreamento de pré-eclâmpsia",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "FIGO Initiative on pre-eclampsia, first-trimester screening and prevention, 2019; ISSHP, Hypertensive disorders of pregnancy, 2021",
+  "coment": "O rastreamento de pré-eclâmpsia no primeiro trimestre (11 a 14 semanas), proposto pela Fetal Medicine Foundation e endossado pela FIGO (2019), combina fatores maternos, pressão arterial média, índice de pulsatilidade das artérias uterinas e marcadores bioquímicos. O marcador preferencial é o PlGF (fator de crescimento placentário), que fica reduzido; na sua falta, usa-se PAPP-A, também reduzida. Rastreamento positivo indica AAS 150 mg à noite a partir de 12 a 16 semanas até 36 semanas. NIPT e alfafetoproteína não fazem parte desse modelo.",
+  "porAlt": [
+   "NIPT é DNA fetal livre para aneuploidias e não rastreia pré-eclâmpsia.",
+   "HCG livre faz parte do rastreio de aneuploidias, não do modelo de pré-eclâmpsia.",
+   "Correta: PAPP-A e PlGF são os marcadores bioquímicos do rastreio de pré-eclâmpsia no primeiro trimestre.",
+   "Alfafetoproteína rastreia defeitos de tubo neural e aneuploidias no segundo trimestre.",
+   "Alfafetoproteína não integra o rastreio de pré-eclâmpsia, embora a PAPP-A integre."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 59
+  }
+ },
+ {
+  "pid": "g24060",
+  "q": "Uma gestante que não realizou pré-natal procura atendimento médico devido a um episódio de sangramento vaginal de grande volume sem associação com quadro álgico. Ao exame clínico, são observados fundo uterino de 31 cm, batimentos cardíacos fetais ritmados ao sonar e ausência de atividade contrátil uterina. Nessa situação, uma das condutas iniciais mais adequadas é:",
+  "alts": [
+   "introdução de pessário cervical e uso de progesterona;",
+   "realizar toque vaginal para verificar dilatação cervical;",
+   "induzir o parto vaginal com uso de ocitocina;",
+   "solicitar ultrassonografia transvaginal para avaliar placenta;",
+   "iniciar administração de tocolíticos por via venosa."
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Suspeita de placenta prévia",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; RCOG Green-top Guideline nº 27a, Placenta praevia and placenta accreta, 2018",
+  "coment": "Sangramento vaginal vermelho vivo, indolor, sem contrações e com feto vivo no terceiro trimestre sugere placenta prévia. Antes de qualquer toque vaginal, que pode desencadear hemorragia grave, deve-se localizar a placenta. A ultrassonografia transvaginal é segura e mais precisa que a abdominal para medir a distância da borda placentária ao orifício interno. Conduta inicial associada: acesso venoso, tipagem, avaliação hemodinâmica e corticoide se pré-termo. Indução com ocitocina e pessário não cabem nesse cenário.",
+  "porAlt": [
+   "Pessário e progesterona previnem parto prematuro por colo curto e não tratam sangramento.",
+   "O toque vaginal é contraindicado até excluir placenta prévia, pelo risco de hemorragia maciça.",
+   "Induzir parto vaginal sem localizar a placenta pode ser catastrófico se for prévia.",
+   "Correta: a ultrassonografia transvaginal é segura e localiza a placenta com precisão.",
+   "Tocolítico venoso sem contrações não tem indicação e pode mascarar instabilidade hemodinâmica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 60
+  }
+ },
+ {
+  "pid": "g24061",
+  "q": "Uma gestante de 30 semanas chega à consulta do ambulatório com idade gestacional de 25 semanas para coleta de preventivo. Ao se examinar a vagina, observa-se uma coloração vermelho-vinhosa, o que configura o sinal de:",
+  "alts": [
+   "Kluge;",
+   "Piskacek;",
+   "Osiander;",
+   "Jacquemier;",
+   "Nobile-Budin."
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Sinais de presunção da gravidez",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Zugaib M. Zugaib Obstetrícia, 4ª ed., 2020 (diagnóstico de gravidez)",
+  "coment": "Os sinais de coloração violácea da gravidez decorrem da congestão venosa pélvica. O sinal de Kluge é a coloração vermelho-vinhosa (violácea) da mucosa vaginal. O sinal de Jacquemier, também chamado de Chadwick, é a mesma coloração na mucosa do vestíbulo e do meato urinário. Piskacek é a assimetria uterina pela implantação ovular em um corno, Osiander é a pulsação da artéria vaginal percebida no fundo de saco, e Nobile-Budin é o preenchimento do fundo de saco lateral pelo útero globoso. O enunciado traz idades gestacionais discordantes (30 e 25 semanas), sem impacto na resposta.",
+  "porAlt": [
+   "Correta: Kluge é a coloração violácea, vermelho-vinhosa, da mucosa vaginal.",
+   "Piskacek é a assimetria uterina pela implantação do ovo próximo a um corno.",
+   "Osiander é a pulsação da artéria vaginal percebida ao toque nos fundos de saco.",
+   "Jacquemier (Chadwick) é a coloração violácea da vulva e do meato urinário, não da vagina.",
+   "Nobile-Budin é o preenchimento dos fundos de saco laterais pelo útero que se torna globoso."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 61
+  }
+ },
+ {
+  "pid": "g24062",
+  "q": "Uma gestante de 36 anos, nulípara, com idade gestacional de 9 semanas e 2 dias, usuária de maconha, oriunda da zona rural, onde trabalhava com aplicação de defensivos agrícolas, com menos de 4 anos de estudo, é estratificada no acolhimento como sendo de risco:",
+  "alts": [
+   "alto;",
+   "baixo;",
+   "médio;",
+   "habitual;",
+   "intermediário."
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Estratificação de risco gestacional",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde e SBIBAE. Nota Técnica para organização da rede de atenção à saúde com foco na APS e na atenção ambulatorial especializada: saúde da mulher na gestação, parto e puerpério, 2019",
+  "coment": "A estratificação proposta pelo Ministério da Saúde (Nota Técnica de 2019, base de vários protocolos estaduais) tem três níveis: risco habitual, risco intermediário e alto risco. O intermediário reúne fatores individuais e sociodemográficos que exigem mais atenção, mas sem condição clínica que obrigue pré-natal especializado: baixa escolaridade, exposição ocupacional a agentes químicos como agrotóxicos, idade materna mais avançada e uso de drogas sem dependência. Essa gestante segue na APS com apoio do ambulatório especializado. Baixo e médio não são os termos oficiais da estratificação.",
+  "porAlt": [
+   "Alto risco exige condição clínica ou obstétrica relevante (hipertensão crônica, diabetes, dependência química), ausentes aqui.",
+   "Baixo risco não é a nomenclatura usada, e os fatores sociais e ocupacionais afastam o risco habitual.",
+   "Médio não é o termo oficial; a categoria intermediária tem nome próprio na estratificação.",
+   "Risco habitual seria a gestante sem fatores; aqui há vários fatores individuais e sociodemográficos.",
+   "Correta: fatores sociodemográficos e ocupacionais sem doença de base caracterizam risco intermediário."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 62
+  }
+ },
+ {
+  "pid": "g24063",
+  "q": "Na avaliação do conteúdo uterino em uma gestante de 36 semanas, utiliza-se o método palpatório, que visa ao reconhecimento do feto, sua apresentação e posição. Para sistematizar a técnica da palpação, são consideradas suas diversas fases ou tempos. A manobra de Leopold ou Pawlick, que visa à exploração da mobilidade do polo que se apresenta em relação com o estreito superior, se constitui no seguinte tempo:",
+  "alts": [
+   "primeiro;",
+   "segundo;",
+   "terceiro;",
+   "quarto;",
+   "quinto."
+  ],
+  "gab": 2,
+  "tema": "obstetricia",
+  "sub": "Manobras de Leopold",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Zugaib M. Zugaib Obstetrícia, 4ª ed., 2020 (propedêutica obstétrica); Ministério da Saúde, Caderno de Atenção Básica nº 32, Atenção ao pré-natal de baixo risco, 2012",
+  "coment": "A palpação obstétrica de Leopold-Zweifel tem quatro tempos. No primeiro, palpa-se o fundo uterino para identificar o polo fetal que o ocupa. No segundo, as mãos deslizam pelas laterais para localizar o dorso e as pequenas partes, definindo a posição. No terceiro, a manobra de Pawlik, apreende-se o polo que se apresenta entre o polegar e os dedos para avaliar sua mobilidade em relação ao estreito superior (se está alto e móvel ou insinuado). No quarto, de costas para a cabeça da gestante, exploram-se a escavação pélvica e o grau de penetração da apresentação.",
+  "porAlt": [
+   "O primeiro tempo palpa o fundo uterino para identificar o polo que ali está.",
+   "O segundo tempo explora as laterais do útero para localizar o dorso fetal.",
+   "Correta: o terceiro tempo, de Pawlik, avalia a mobilidade do polo apresentado no estreito superior.",
+   "O quarto tempo explora a escavação pélvica e a penetração da apresentação.",
+   "A técnica clássica tem quatro tempos; não existe quinto tempo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 63
+  }
+ },
+ {
+  "pid": "g24064",
+  "q": "Uma primigesta de 10 semanas chega à emergência referindo náuseas e vômitos persistentes, mesmo já tendo utilizado gengibre 250 mg 6/6h e realizado acupuntura no ponto P6. Nesse caso, a próxima conduta terapêutica, em termos de tratamento hierarquizado, é:",
+  "alts": [
+   "vitamina B6 + doxilamina;",
+   "dimenidrato + meclizina;",
+   "prometazina + metoclopramida;",
+   "ondrasentona + tiamina;",
+   "metilprednisolona + difenidramina."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Náuseas e vômitos da gestação",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin nº 189, Nausea and vomiting of pregnancy, 2018",
+  "coment": "O tratamento de náuseas e vômitos da gestação é escalonado. Primeiro, medidas dietéticas, gengibre e acupressão no ponto P6. Persistindo, o passo farmacológico de primeira linha é piridoxina (vitamina B6) isolada ou associada à doxilamina, combinação com melhor evidência de segurança e eficácia (ACOG 2018). Depois vêm anti-histamínicos (dimenidrinato, prometazina) ou dopaminérgicos (metoclopramida), em seguida ondansetrona, e, nos casos refratários com desidratação, hidratação venosa com tiamina e, por fim, corticoide. Como a paciente já fez gengibre e P6, o próximo passo é B6 com doxilamina.",
+  "porAlt": [
+   "Correta: após gengibre e acupressão, a primeira linha farmacológica é piridoxina com doxilamina.",
+   "Dimenidrinato e meclizina são etapa posterior, após falha da piridoxina com doxilamina.",
+   "Prometazina e metoclopramida vêm depois da primeira linha, em sintomas persistentes.",
+   "Ondansetrona é etapa posterior, e tiamina entra na hiperêmese com hidratação venosa.",
+   "Metilprednisolona é o último recurso na hiperêmese refratária, não segunda etapa."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 64
+  }
+ },
+ {
+  "pid": "g24065",
+  "q": "Uma gestante de 39 anos, gesta 4 para 2 (2 partos normais) e aborto 1 (provocado há 2 anos), encontra-se com 6 semanas e 4 dias de idade gestacional, e quadro clínico/ultrassonográfico compatível com abortamento evitável. No que se refere à evolução de aborto evitável para inevitável, é correto afirmar que:",
+  "alts": [
+   "se deve realizar repouso absoluto, sendo contraindicado o repouso relativo;",
+   "o coito pode ser permitido, desde que não aumente o sangramento e cólicas;",
+   "não há tratamento eficaz que impeça a evolução para inevitável;",
+   "se deve administrar antiespasmódicos e analgésicos nas pacientes, mesmo sem cólicas;",
+   "se receita progesterona oral, duas vezes ao dia até completar 12 semanas de gravidez."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Ameaça de abortamento",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NICE NG126, Ectopic pregnancy and miscarriage: diagnosis and initial management, 2019 (atualizada em 2023); Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "No abortamento evitável (ameaça de aborto) há sangramento com colo fechado e embrião vivo. Repouso absoluto, abstinência sexual obrigatória e antiespasmódicos sem dor não mudam a evolução. A única intervenção com benefício demonstrado é a progesterona micronizada vaginal 400 mg duas vezes ao dia até 16 semanas, recomendada pelo NICE desde 2021 apenas para quem tem sangramento e pelo menos um aborto espontâneo prévio (ensaio PRISM). Esta paciente tem só um aborto provocado, então não entra nessa indicação, e para ela não há tratamento que impeça a evolução para inevitável.",
+  "porAlt": [
+   "Repouso, absoluto ou relativo, não altera a evolução do abortamento e não deve ser imposto.",
+   "A orientação usual é abstinência sexual enquanto houver sangramento; liberar o coito não é a recomendação aceita.",
+   "Correta: sem aborto espontâneo prévio, nenhuma medida comprovadamente impede a progressão para aborto inevitável.",
+   "Antiespasmódico e analgésico são sintomáticos e não se usam sem cólica.",
+   "A progesterona com benefício é a vaginal até 16 semanas, e só em quem teve aborto espontâneo prévio."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 65
+  }
+ },
+ {
+  "pid": "g24066",
+  "q": "Uma mulher de 41 anos, gesta 3 para 1 e aborto 1, foi diagnosticada com neoplasia trofoblástica gestacional de alto risco. Nesse caso, para o tratamento medicamentoso no dia 1 da semana 1, devem ser utilizados os seguintes agentes:",
+  "alts": [
+   "actinomicina D, ácido folínico e etoposídeo;",
+   "etoposídeo, metotrexato e actinomicina D;",
+   "ciclofosfamida, vincristina e ácido folínico;",
+   "cisplatina, metotrexato e ciclofosfamida;",
+   "vincristina, etoposídeo e cisplatina."
+  ],
+  "gab": 1,
+  "tema": "ginonco",
+  "sub": "Neoplasia trofoblástica de alto risco",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "FIGO Cancer Report 2021: Gestational trophoblastic disease (Ngan HYS et al.), 2021",
+  "coment": "Neoplasia trofoblástica gestacional com escore FIGO/OMS de 7 ou mais é de alto risco e trata-se com poliquimioterapia, sendo o EMA-CO o esquema padrão. No dia 1 dão-se etoposídeo, metotrexato (em bolus e infusão) e actinomicina D. No dia 2, etoposídeo e actinomicina D, com ácido folínico iniciado 24 horas após o metotrexato para resgate. No dia 8, ciclofosfamida e vincristina (Oncovin, o CO do nome). Os ciclos repetem a cada 2 semanas até normalizar o hCG, mantendo 3 ciclos de consolidação. Baixo risco usa monoterapia com metotrexato ou actinomicina D.",
+  "porAlt": [
+   "O ácido folínico entra no dia 2, 24 horas após o metotrexato, e falta o metotrexato no dia 1.",
+   "Correta: no EMA-CO, o dia 1 tem etoposídeo, metotrexato e actinomicina D.",
+   "Ciclofosfamida e vincristina são do dia 8 (CO), e o ácido folínico não é do dia 1.",
+   "Cisplatina com metotrexato e ciclofosfamida não corresponde a nenhum dia do EMA-CO.",
+   "Etoposídeo com cisplatina compõe esquemas de resgate (EMA-EP), não o dia 1 do EMA-CO."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 66
+  }
+ },
+ {
+  "pid": "g24068",
+  "q": "Uma mulher de 31 anos, gesta 2 para 2, encontra-se com 40 minutos no secundamento, sem sangramento ativo. Ainda não ocorreu a expulsão placentária espontânea. Diante desse quadro, o obstetra coloca-se à direita da puérpera e, com a mão esquerda sob o abdômen, apreende o fundo uterino, guiando e auxiliando a extração da placenta por meio de movimentos cautelosos de expressão. Tal manobra é conhecida como:",
+  "alts": [
+   "Taxe;",
+   "Credé;",
+   "Haultain;",
+   "Huntington;",
+   "Brandt-Andrews."
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Manobras do secundamento",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "WHO recommendations for the prevention and treatment of postpartum haemorrhage, 2012; Ministério da Saúde, Diretrizes Nacionais de Assistência ao Parto Normal, 2017",
+  "coment": "A manobra de Credé é a expressão do fundo uterino, apreendido pela mão do obstetra, para ajudar a expulsão da placenta. É uma descrição clássica dos tratados. Hoje não é recomendada: a OMS (2012) indica, na placenta retida por mais de 30 minutos sem sangramento, ocitocina e tração controlada do cordão, e extração manual se falhar, porque a expressão vigorosa do fundo aumenta o risco de inversão uterina. Brandt-Andrews é a tração controlada do cordão com a outra mão contendo o útero. Taxe, Haultain e Huntington se referem à correção da inversão uterina.",
+  "porAlt": [
+   "Taxe é a recolocação manual do útero invertido, por via vaginal.",
+   "Correta: Credé é a expressão do fundo uterino para auxiliar a saída da placenta.",
+   "Haultain é a correção cirúrgica da inversão uterina por incisão posterior do anel.",
+   "Huntington é a correção cirúrgica da inversão por tração dos ligamentos redondos via abdominal.",
+   "Brandt-Andrews é a tração controlada do cordão com contenção suprapúbica do útero."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 68
+  }
+ },
+ {
+  "pid": "g24070",
+  "q": "Uma puérpera de 29 anos, gesta 3 para 2 e aborto 1, chega à emergência da maternidade e, durante a anamnese e exame físico, o obstetra de plantão suspeita de morbidade febril puerperal ou febre puerperal. Sua suspeita foi baseada no fato de estarem presentes no exame os seguintes critérios em relação à temperatura axilar, horas ou dias de duração da febre e dia do puerpério:",
+  "alts": [
+   "37,5 °C, durante 24 horas apenas e de início no 2º dia de puerpério;",
+   "38,5 °C, durante 2 dias seguidos e de início no 4º dia de puerpério;",
+   "39,0 °C, durante 3 dias seguidos e de início no 15º dia de puerpério;",
+   "38,0 °C, durante 24 horas apenas e de início no 8º dia de puerpério;",
+   "39,5 °C, durante 2 dias seguidos e de início no 12º dia de puerpério."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Morbidade febril puerperal",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022 (infecção puerperal), com o critério clássico do Joint Committee on Maternal Welfare",
+  "coment": "Morbidade febril puerperal é definida pela temperatura de 38 °C ou mais em pelo menos dois dias, entre o 2º e o 10º dia após o parto, excluindo as primeiras 24 horas. A exclusão das primeiras 24 horas se deve à febre transitória comum logo após o parto, e o limite de 10 dias delimita o puerpério imediato e precoce em que a infecção do sítio obstétrico predomina. A situação que cumpre os três critérios é febre de 38,5 °C por 2 dias, iniciada no 4º dia. Endometrite é a causa mais comum, sobretudo após cesariana.",
+  "porAlt": [
+   "37,5 °C não atinge o limiar de 38 °C, e um único dia não basta.",
+   "Correta: 38,5 °C por 2 dias com início no 4º dia cumpre temperatura, duração e janela do 2º ao 10º dia.",
+   "O 15º dia está fora da janela de 2 a 10 dias que define a morbidade febril puerperal.",
+   "Febre de apenas 24 horas não cumpre a exigência de dois dias.",
+   "O 12º dia está fora da janela de 2 a 10 dias pós-parto."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 70
+  }
+ },
+ {
+  "pid": "g24071",
+  "q": "Uma tercípara de 30 anos, com dois partos normais anteriores, em período expulsivo prolongado, apresenta, ao exame obstétrico, colo 100% apagado, dilatação total, apresentação cefálica, plano +2 de De Lee, bolsa rota há 1 hora e cabeça profundamente encravada em transversa e BCF de 130 bpm, regular. Diante disso, para encurtar o período expulsivo, o obstetra de plantão utilizou-se corretamente de fórceps de:",
+  "alts": [
+   "Kielland;",
+   "Simpson;",
+   "Chamberlen;",
+   "Piper;",
+   "Tarnier."
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Fórceps de Kielland",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "RCOG Green-top Guideline nº 26, Assisted vaginal birth, 2020; ACOG Practice Bulletin nº 219, Operative vaginal birth, 2020",
+  "coment": "A parada da cabeça em variedade transversa no plano +2, com dilatação completa e boa vitalidade, é a parada transversa profunda. Exige fórceps rotacional. O fórceps de Kielland tem curvatura pélvica mínima e articulação deslizante, o que permite rodar a cabeça para occipitopúbica e corrigir o assinclitismo. Simpson é usado em variedades anteriores ou posteriores com pouca rotação, e Piper é para a cabeça derradeira no parto pélvico. Hoje muitos serviços preferem a vácuo-extração rotacional, mas o Kielland segue indicado nas mãos de quem tem treinamento.",
+  "porAlt": [
+   "Correta: Kielland, com curvatura pélvica mínima e articulação deslizante, permite a rotação na transversa profunda.",
+   "Simpson serve a variedades anteriores ou posteriores com pouca rotação, não à transversa encravada.",
+   "Chamberlen é o fórceps histórico original, sem uso clínico atual.",
+   "Piper é específico para a cabeça derradeira no parto pélvico.",
+   "Tarnier tem tração axial e não é o fórceps de rotação para a transversa."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 71
+  }
+ },
+ {
+  "pid": "g24074",
+  "q": "Uma secundigesta de 34 anos, durante o início do pré-natal, apresentou resultado da sorologia para toxoplasmose IgG + e IgM +. O teste de IgG da mesma amostra revelou baixa avidez, o que levou o obstetra a suspeitar, no pré-natal, de possível infecção. Conversando com a gestante, optou-se pela realização do PCR no líquido amniótico, colhido na 19ª semana de gestação. O resultado foi positivo. Nesse caso, o tratamento a ser instituído é:",
+  "alts": [
+   "espiramicina, pirimetamina e ácido fólico;",
+   "ácido fólico, sulfasalazina e espiramicina;",
+   "folato, sulmetizol e pirazinamida;",
+   "sulfadiazina, pirimetamida e ácido folínico;",
+   "ácido folínico, pirazinamida e espiramicina."
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Toxoplasmose fetal confirmada",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022; Ministério da Saúde, Protocolo de notificação e investigação: toxoplasmose gestacional e congênita, 2018",
+  "coment": "IgG e IgM positivas com IgG de baixa avidez indicam infecção possivelmente recente. A espiramicina é usada enquanto não há infecção fetal, para reduzir a transmissão. Confirmada a infecção fetal por PCR no líquido amniótico (colhido a partir de 18 semanas), troca-se para o esquema tríplice: sulfadiazina, pirimetamina e ácido folínico, que atravessa a placenta e trata o feto. O ácido folínico, e não o fólico, protege a medula da toxicidade da pirimetamina sem anular seu efeito. A pirimetamina se evita no primeiro trimestre por teratogenicidade.",
+  "porAlt": [
+   "Espiramicina não trata o feto infectado, e ácido fólico antagoniza a pirimetamina.",
+   "Sulfasalazina é anti-inflamatório intestinal e não tem ação contra Toxoplasma.",
+   "Pirazinamida é tuberculostático, e sulmetizol não integra nenhum esquema para toxoplasmose.",
+   "Correta: com infecção fetal confirmada, usa-se sulfadiazina, pirimetamina e ácido folínico.",
+   "Pirazinamida é tuberculostático e espiramicina isolada não trata a infecção fetal."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 74
+  }
+ },
+ {
+  "pid": "g24075",
+  "q": "Em uma gestante no início de trabalho de parto, cuja cultura de rastreio para infecção pelo estreptococo do grupo B (GBS) não foi realizada durante seu pré-natal numa unidade básica de saúde, será necessário fazer a profilaxia antibiótica intraparto caso esteja presente o seguinte fator de risco:",
+  "alts": [
+   "bacteriúria por GBS em gravidez anterior;",
+   "amniorrexe espontânea ≥ 18h;",
+   "temperatura intraparto de 37,3 °C;",
+   "parto vaginal > 38 semanas;",
+   "colonização por GBS em gravidez anterior."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Profilaxia intraparto para estreptococo B",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "ACOG Committee Opinion nº 797, Prevention of group B streptococcal early-onset disease in newborns, 2020; Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "Quando a cultura para estreptococo do grupo B não foi feita ou o resultado é desconhecido no início do trabalho de parto, a profilaxia intraparto é indicada pelos fatores de risco: idade gestacional abaixo de 37 semanas, rotura de membranas há 18 horas ou mais, temperatura intraparto de 38 °C ou mais, ou teste rápido intraparto positivo. Independentemente da cultura, também recebem profilaxia as com bacteriúria por GBS na gestação atual e as com filho anterior que teve doença invasiva por GBS. Colonização em gestação anterior não é indicação formal (a ACOG 2020 permite oferecer em decisão compartilhada).",
+  "porAlt": [
+   "Bacteriúria por GBS só indica profilaxia quando ocorre na gestação atual.",
+   "Correta: rotura de membranas há 18 horas ou mais, com status desconhecido, indica profilaxia intraparto.",
+   "O limiar de febre que indica profilaxia é 38 °C ou mais; 37,3 °C não é febre.",
+   "Gestação acima de 38 semanas é termo e não é fator de risco; prematuridade abaixo de 37 é.",
+   "Colonização em gestação anterior não é indicação formal, no máximo motivo para decisão compartilhada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 75
+  }
+ },
+ {
+  "pid": "g24076",
+  "q": "Uma puérpera no terceiro dia pós-parto normal apresenta ingurgitamento mamário, como consequência da retenção de leite e distensão alveolar. Uma recomendação acertada a ser dada nesse caso é:",
+  "alts": [
+   "massagens suaves com movimentos retilíneos;",
+   "extração do leite por bomba elétrica;",
+   "uso de conchas e calor úmido local;",
+   "amamentação de forma controlada a cada 3 horas;",
+   "apoio emocional e adoção de medidas de relaxamento."
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Ingurgitamento mamário",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 23, Saúde da criança: aleitamento materno e alimentação complementar, 2ª ed., 2015",
+  "coment": "O ingurgitamento surge entre o 3º e o 5º dia, quando a apojadura encontra esvaziamento insuficiente. O manejo do Ministério da Saúde inclui mamadas frequentes em livre demanda, ordenha manual da aréola antes da mamada para amolecê-la e permitir a pega, massagens delicadas em movimentos circulares, sutiã de sustentação, compressas frias entre as mamadas e analgésicos. Como dor, ansiedade e estresse inibem o reflexo de ejeção mediado pela ocitocina, apoio emocional e relaxamento são parte acertada do cuidado e facilitam a saída do leite. Horários fixos, calor local e conchas pioram o quadro.",
+  "porAlt": [
+   "As massagens recomendadas são delicadas e em movimentos circulares, não retilíneos.",
+   "A primeira escolha é a ordenha manual da aréola; bomba elétrica não é a recomendação de rotina.",
+   "Calor local aumenta o edema e conchas comprimem a mama; usam-se compressas frias.",
+   "Mamadas com horário fixo pioram a estase; a recomendação é livre demanda.",
+   "Correta: apoio emocional e relaxamento favorecem o reflexo de ejeção e o esvaziamento da mama."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 76
+  }
+ },
+ {
+  "pid": "g24078",
+  "q": "Uma puérpera HIV positivo, controlada clinicamente durante toda a gestação, encontra-se na 4ª hora pós-parto normal. A equipe de obstetrícia contraindicou o aleitamento natural e prescreveu corretamente cabergolina da seguinte forma:",
+  "alts": [
+   "01 comprimido de 0,25 mg, 2 x/dia durante 2 dias seguidos;",
+   "01 comprimido de 0,50 mg, 2 x/dia durante 3 dias seguidos;",
+   "dose única de 2,0 mg VO (quatro comprimidos de 0,50 mg);",
+   "dose única de 1,0 mg VO (dois comprimidos de 0,50 mg);",
+   "01 comprimido de 0,25 mg, 1 x/dia durante 3 dias seguidos."
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Inibição da lactação com cabergolina",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2022",
+  "coment": "No Brasil, a amamentação segue contraindicada para mulheres vivendo com HIV, mesmo com carga viral indetectável, e o SUS fornece fórmula infantil. A inibição farmacológica da lactação é feita com cabergolina 1 mg por via oral em dose única (dois comprimidos de 0,5 mg), ainda na maternidade, de preferência nas primeiras horas após o parto. Associa-se enfaixamento das mamas apenas se a cabergolina não estiver disponível, e não mais como rotina. O esquema de 0,25 mg duas vezes ao dia por 2 dias serve para suprimir lactação já estabelecida.",
+  "porAlt": [
+   "0,25 mg a cada 12 horas por 2 dias é o esquema para lactação já estabelecida, não para inibição logo após o parto.",
+   "0,5 mg duas vezes ao dia por 3 dias soma dose excessiva, sem respaldo em protocolo.",
+   "Dose única de 2 mg é o dobro do recomendado e aumenta efeitos adversos como hipotensão.",
+   "Correta: cabergolina 1 mg VO em dose única, dois comprimidos de 0,5 mg, inibe a lactação no pós-parto.",
+   "0,25 mg ao dia por 3 dias é dose insuficiente e fora de qualquer protocolo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 78
+  }
+ },
+ {
+  "pid": "g24079",
+  "q": "A magnitude da violência entre parceiros íntimos ainda é elevada durante a gestação. Uma possível repercussão desse fato na saúde do feto, no que se refere a desfechos pré-natais não letais, é:",
+  "alts": [
+   "prematuridade;",
+   "desmame precoce;",
+   "baixo peso ao nascer;",
+   "pequeno para a idade gestacional;",
+   "restrição de crescimento intrauterino."
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Violência por parceiro íntimo na gestação",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "WHO. Responding to intimate partner violence and sexual violence against women: WHO clinical and policy guidelines, 2013; Donovan BM et al., metanálise sobre violência por parceiro na gestação e desfechos perinatais, BJOG, 2016",
+  "coment": "A violência por parceiro íntimo na gestação associa-se a aborto, óbito fetal, restrição de crescimento, parto prematuro e baixo peso. O enunciado pede desfecho pré-natal (ocorrido no útero) e não letal. Restrição de crescimento intrauterino é o único que se manifesta e é diagnosticado durante a gestação. Prematuridade, baixo peso e pequeno para a idade gestacional são classificações feitas no nascimento (desfechos perinatais ou neonatais), e desmame precoce é pós-natal. Rastrear violência em toda gestante faz parte do pré-natal e da notificação compulsória.",
+  "porAlt": [
+   "Prematuridade é desfecho do nascimento, ou perinatal, e não pré-natal.",
+   "Desmame precoce é desfecho pós-natal, ligado à amamentação.",
+   "Baixo peso ao nascer é medido no nascimento, ou seja, desfecho neonatal.",
+   "Pequeno para a idade gestacional é classificação feita no nascimento a partir do peso.",
+   "Correta: restrição de crescimento intrauterino é o desfecho fetal não letal que ocorre e se detecta no pré-natal."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 79
+  }
+ },
+ {
+  "pid": "g24080",
+  "q": "Uma primigesta de 32 semanas, oriunda da Baixada Fluminense, chega à maternidade com febre há 3 dias, associada a cefaleia, dor retrorbitária e prostração e mialgia, além de apresentar vômitos persistentes, hipotensão postural, letargia e sangramento de mucosa. Diante desse quadro compatível com dengue, essa gestante deve ser classificada como grupo:",
+  "alts": [
+   "A;",
+   "B;",
+   "C;",
+   "D;",
+   "E."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Dengue na gestação",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., 2024",
+  "coment": "No manejo da dengue do Ministério da Saúde (2024), a gestante sem sinais de alarme é classificada no mínimo como grupo B, por ser condição especial. A presença de qualquer sinal de alarme leva ao grupo C: vômitos persistentes, hipotensão postural ou lipotímia, letargia ou irritabilidade, sangramento de mucosa, dor abdominal intensa, hepatomegalia, acúmulo de líquidos e aumento do hematócrito. Esta gestante tem quatro sinais de alarme e nenhum sinal de choque (pulso fino, PA convergente, enchimento capilar lento), portanto grupo C, com internação e hidratação venosa de 10 ml/kg na primeira hora.",
+  "porAlt": [
+   "Grupo A é sem sinais de alarme e sem condição especial; gestante nunca fica no grupo A.",
+   "Grupo B é gestante ou condição especial sem sinais de alarme, e aqui há vários.",
+   "Correta: sinais de alarme sem choque, como vômitos persistentes e hipotensão postural, definem grupo C.",
+   "Grupo D exige choque ou sangramento grave ou disfunção orgânica grave, ausentes aqui.",
+   "Não existe grupo E na classificação de dengue do Ministério da Saúde."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 80
+  }
+ }
+]

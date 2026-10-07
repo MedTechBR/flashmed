@@ -1,0 +1,11 @@
+{"incluidas": 39,
+ "descartadas": [
+  {"pid": "g24006", "motivo": "Gabarito oficial (ASC-US repetido com DNA-HPV negativo aos 32 anos: citologia em 3 anos) conflita com a norma brasileira vigente. As Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, Parte I (Portaria Conjunta SAES/SECTICS nº 13/2025), adotam rastreamento organizado por DNA-HPV, em que teste negativo devolve a mulher ao rastreamento com novo DNA-HPV em 5 anos, e não à citologia trienal; pela diretriz citológica de 2016, ASC-US persistente iria à colposcopia. A Parte II (manejo de resultados alterados) segue em consulta pública (Conitec, jun/2026). Na dúvida, descartada para não ensinar intervalo desatualizado."}
+ ],
+ "gabaritos_discutiveis": [
+  {"pid": "g24014", "nota": "Gabarito (estradiol oral 1 mg por 15 a 20 dias, coleta no último dia) é prática de especialista para everter a JEC na atrofia; o INCA 2016 cita estrogênio vaginal com coleta 5 a 7 dias após o término. Mantida porque a alternativa do creme fixa espera de 30 dias, o que a torna errada, e a oficial é a única defensável. Nível tit."},
+  {"pid": "g24016", "nota": "Anticoncepcional combinado também é primeira linha para irregularidade na SOP (diretriz internacional 2023), mas a alternativa que o cita traz esquema inexistente (10 a 14 dias por ciclo); progestagênio cíclico em mulher sem necessidade contraceptiva é a melhor resposta."},
+  {"pid": "g24032", "nota": "Linfonodo sentinela é hoje alternativa aceita à linfadenectomia sistemática mesmo em histologia de alto risco (NCCN 2025), e o estadiamento do seroso inclui omentectomia; entre as opções, a oficial (avaliação pélvica e para-aórtica) é a mais completa e correta."},
+  {"pid": "g24028", "nota": "Biópsia por mamotomia não tem margens cirúrgicas propriamente ditas; 'ampliar margens' foi lido como exérese cirúrgica da área do clipe, conduta padrão para HDA em biópsia percutânea."},
+  {"pid": "g24029", "nota": "Enunciado traz testosterona 540 ng/mL, unidade provavelmente trocada por ng/dL no original; texto mantido verbatim, comentário explica o valor masculino."}
+ ]}

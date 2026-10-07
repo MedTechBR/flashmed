@@ -1,0 +1,1632 @@
+[
+ {
+  "id": "en24_psiq#1",
+  "q": "Uma paciente de 71 anos relata que há 4 meses vem se sentindo \"triste e sem esperança\". Em associação com esse quadro, parou de sair com seus amigos e de frequentar a academia, pois diz não sentir mais prazer nessas atividades. Queixa-se também de fadiga e ganho ponderal de 7 kg no período (peso anterior: 63 kg), porém o sintoma que mais a incomoda é uma dificuldade de concentração, com relato de seus familiares de que ela está ficando \"esquecida\". Esses sintomas ocorreram na maior parte dos dias desse período. Dentre as medicações a seguir, o tratamento mais adequado para esse caso é:",
+  "alts": [
+   "amitriptilina;",
+   "ácido valproico;",
+   "vortioxetina;",
+   "buspiorona;",
+   "risperidona."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 1
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en24_psiq#2",
+  "q": "Um paciente de 54 anos foi atendido com queixa de lentidão e tremor nas mãos iniciado 7 meses antes. Ao exame, apresentava hipomimia facial, marcha em pequenos passos e quadro simétrico de rigidez em roda dentada, tremor de repouso e bradicinesia em membros superiores. Suspeitou-se de que o quadro poderia ter origem medicamentosa. A medicação que mais provavelmente está associada a essa clínica é:",
+  "alts": [
+   "pramipexol;",
+   "fluvoxamina;",
+   "bromazepam;",
+   "olanzapina;",
+   "levetiracetam."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 2
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#3",
+  "q": "Uma paciente de 76 anos, em tratamento de longa data para diabetes mellitus tipo 2, dislipidemia e hipertensão arterial sistêmica, procura consultório psiquiátrico queixando-se de que há 1 ano liga para seus filhos várias vezes por dia com medo de que \"algo ruim possa acontecer a eles\". Relata também que anda \"com os nervos à flor da pele\", irritada e com muita dor muscular. Aproveitando a consulta, também se queixa de formigamento e dor em queimação em seus pés iniciados há 2 anos, com piora progressiva. Considerando as comorbidades da paciente, a melhor terapia medicamentosa nesse caso é:",
+  "alts": [
+   "bupropiona;",
+   "alprazolam;",
+   "quetiapina;",
+   "escitalopram;",
+   "pregabalina."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 3
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#4",
+  "q": "Um paciente de 48 anos é levado pelos filhos ao Centro de Atenção Psicossocial (CAPS) devido a quadro de etilismo. Os filhos relatam que o paciente bebe destilados quase diariamente e pouco se alimenta, e há 5 dias encontra-se caindo e confuso. Negam traumatismo cranioencefálico. Está sem fazer o uso de bebidas alcoólicas há 3 dias, sem melhora do quadro. Ao exame, o médico nota o paciente bastante emagrecido, desorientado no tempo e no espaço, desatento, com dificuldade de manter o equilíbrio, marcha instável e com nistagmo horizontal bilateral. Frente a esse caso agudo, a principal hipótese diagnóstica é:",
+  "alts": [
+   "encefalopatia de Wernicke;",
+   "transtorno conversivo;",
+   "doença de Creutzfeldt-Jakob;",
+   "cirrose hepática;",
+   "encefalite límbica."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 4
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#5",
+  "q": "Um paciente dá entrada na emergência com quadro de redução do nível de consciência, mutismo, rigidez muscular generalizada (em \"cano de chumbo\") e tremor. Sinais vitais: temperatura axilar de 39,1 oC, FC de 112 bpm, FR de 26 irpm e PA de 172 x 100 mmHg. Há 1 semana iniciou haloperidol devido a surto psicótico. Faz uso ocasional de Cannabis. A principal hipótese diagnóstica desse caso é:",
+  "alts": [
+   "esquizofrenia;",
+   "síndrome neuroléptica maligna;",
+   "síndrome de Parkinson-plus;",
+   "transtorno afetivo bipolar;",
+   "síndrome colinérgica."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 5
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#6",
+  "q": "No que se refere aos sintomas negativos e positivos da esquizofrenia, é correto afirmar que:",
+  "alts": [
+   "antipsicóticos típicos e atípicos são eficazes no tratamento dos sintomas negativos da esquizofrenia;",
+   "os antipsicóticos típicos têm eficácia maior que os atípicos no tratamento dos sintomas negativos da esquizofrenia;",
+   "o tratamento dos sintomas positivos da esquizofrenia depende do adequado bloqueio dos receptores dopaminérgicos das vias nigroestriatal e tuberoinfundibular;",
+   "antipsicóticos típicos e atípicos são eficazes no tratamento dos sintomas positivos, embora os típicos causem mais efeitos extrapiramidais que os atípicos;",
+   "antipsicóticos atípicos são eficazes no tratamento dos sintomas positivos e negativos, embora os atípicos causem com frequência maior aumento da prolactina. "
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 6
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#7",
+  "q": "Uma criança de 8 anos foi levada a consulta em uma unidade básica de saúde com queixa de baixo rendimento escolar e \"apagões\". Após colher a anamnese, e suspeitando de um diagnóstico, o médico fez a manobra de hiperventilação. Durante a manobra, a criança apresentou breves interrupções de consciência: ela ficava ausente e estática por alguns segundos e, em seguida, retornava ao ponto em que ocorrera a perda de consciência. Esses episódios breves eram acompanhados de discretos movimentos das pálpebras. Os pais relataram que esses episódios ocorriam várias vezes ao dia, mas que, devido à sua curta duração, tiveram dificuldade em observá-los. A paciente foi tratada com sucesso pelo médico da UBS com medicação antiepiléptica (etossuximida). No entanto, a mãe relatou a ocorrência de um fenômeno estranho após o início da medicação: a criança passou a ver coisas que não existiam e acreditava nessas coisas que só ela via. A melhor conduta frente a esse caso é:",
+  "alts": [
+   "tratar essa criança com metilfenidato, pois ela não é epilética e sofre de déficit de atenção;",
+   "trocar a droga antiepiléptica pela carbamazepina, pois trata-se de crise focal associada a episódios de ansiedade;",
+   "administrar haloperidol, pois a paciente é de fato esquizofrênica;",
+   "trocar a droga antiepilética para o ácido valproico, pois a criança apresenta crises generalizadas;",
+   "tratar com risperidona e metilfenidato, pois a criança sofre de déficit de atenção e esquizofrenia."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 7
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#8",
+  "q": "Após tentar vários antidepressivos, o médico optou por trocar o tratamento de paciente com episódio depressivo maior, substituindo um antidepressivo tricíclico por um inibidor irreversível da monoanina oxidase (IMAO). Em relação a esse caso, é correto afirmar que:",
+  "alts": [
+   "essa troca pode ser feita imediatamente;",
+   "a troca só pode ser realizada se for associado um benzodiazepínico de longa duração;",
+   "os IMAOs são drogas antigas e encontram-se proscritas, portanto não devem ser mais utilizadas;",
+   "um inibidor de recaptação de serotonina deve ser associado obrigatoriamente ao IMAO, já que a depressão é refratária;",
+   "o paciente deve seguir dieta, caso a troca seja realizada, evitando alimentos como queijos e salames, bem como bebidas fermentadas como vinhos, que estão contraindicadas."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 8
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#9",
+  "q": "Um paciente de 20 anos, estudante universitário, reside com os pais. Não tem histórico de problemas clínicos ou neurológicos significativos. É tabagista e faz uso eventual de bebidas alcoólicas. Nega uso de drogas ilícitas. Seus pais começaram a ficar preocupados com ele, especialmente nos últimos 6 meses, quando começou a ter comportamentos estranhos. Dizia que estava sendo seguido por agentes secretos e começou a passar cada vez mais tempo sozinho, fechado no seu quarto. Perguntado sobre o que lhe estava ocorrendo, disse que ouvia vozes comentando seus atos ou o insultando. Disse também que seus professores da universidade estavam conspirando para prejudicar sua carreira. O diagnóstico mais provável e o tratamento mais adequado são, respectivamente:",
+  "alts": [
+   "transtorno bipolar do humor; internar imediatamente e iniciar carbonato de lítio;",
+   "transtorno depressivo maior; iniciar psicoterapia familiar incluindo o paciente para elucidar as ideias de perseguição, típicas desse transtorno;",
+   "transtorno de ansiedade generalizada; iniciar alprazolam;",
+   "esquizofrenia; iniciar quetiapina ou outro neuroléptico;",
+   "depressão grave; iniciar venlafaxina."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 9
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#10",
+  "q": "Uma paciente de 47 anos relata preocupação constante com a sua saúde, tendo receio de que algo ruim aconteça. Quando está pior, relata dor precordial, que atribui ao coração “disparado”, e tem sensações de “morte iminente”, tonteira e parestesias. Geralmente esses sintomas duram apenas alguns minutos, mas são bastante desconfortáveis. A paciente já compareceu várias vezes à unidade de pronto atendimento durante as crises mais graves. Em geral é liberada para casa com a justificativa de que não apresentava nenhuma doença. Nega outras patologias ou o uso de drogas. O diagnóstico mais provável é:",
+  "alts": [
+   "transtorno de personalidade borderline;",
+   "esclerose múltipla;",
+   "transtorno de ansiedade social;",
+   "infarto agudo do miocárdio;",
+   "transtorno do pânico."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 10
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#11",
+  "q": "Considerando as drogas estabilizadoras do humor, é correto afirmar que:",
+  "alts": [
+   "o carbonato de lítio é uma droga que pode ser utilizada nos episódios maníacos;",
+   "a utilização de carbamazepina requer que se monitore o sódio, devido ao risco aumentado de hipernatremia;",
+   "lamotrigina e valproato não podem ser usados concomitantemente;",
+   "um dos principais efeitos adversos do topiramato é o ganho ponderal;",
+   "drogas estabilizadoras do humor com ação antiepiléptica em geral são facilitadoras da ação dos canais de sódio dependentes de voltagem. "
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 11
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#12",
+  "q": "Um paciente de 37 anos é encontrado inconsciente no chão de sua casa, pela sua mãe, às 11h da manhã. A última vez que tiveram contato foi por ligação telefônica às 16h do dia anterior. Ao seu lado, sua mãe encontrou cartelas vazias de clonazepam 2 mg. Ela estimou que o filho tenha ingerido entre 15 a 25 comprimidos. O paciente foi levado à unidade de saúde, onde acordou após a aplicação de flumazenil. Ao acordar, confirmou tentativa de autoextermínio e notou que o seu pé esquerdo estava caído e formigando. O exame físico confirmou dificuldade em realizar a dorsiflexão do pé e parestesia em dorso do pé, com o restante do exame sem outra alteração. A provável causa dessa alteração é:",
+  "alts": [
+   "efeito residual do benzodiazepínico;",
+   "lesão do nervo fibular comum;",
+   "acidente vascular encefálico;",
+   "mielopatia compressiva;",
+   "transtorno somatoforme."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 12
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#13",
+  "q": "Um paciente jovem de 20 anos deu entrada no serviço de emergência psiquiátrica com o seguinte quadro: síndrome de psicose aguda (delírios e alucinações), hipertensão, hipertermia, taquicardia, midríase e diaforese. Seu pai relatou que o filho tinha uma alteração genética que causava a diminuição sérica da colinesterase e que usava álcool. A provável etiologia é:",
+  "alts": [
+   "alcoolismo agudo;",
+   "uso de atropina;",
+   "transtorno esquizoafetivo;",
+   "depressão psicótica;",
+   "uso de cocaína."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 13
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#14",
+  "q": "Um paciente de 47 anos afirma que há uma cobra em seu abdômen. Apesar de os exames objetivos mostrarem total normalidade, o paciente mantém sua crença inabalável na presença da cobra dentro de seu corpo. Esse episódio pode ser descrito como:",
+  "alts": [
+   "delírio cenestopático, que pode ocorrer principalmente na esquizofrenia e nos transtornos delirantes;",
+   "alucinação cenestopática, presente na esquizofrenia paranoide;",
+   "alucinação somestésica, presente no transtorno de uso de substâncias;",
+   "delírio de referência, presente na esquizofrenia;",
+   "alteração somática da depressão psicótica."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 14
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#15",
+  "q": "Quando ocorrem alterações na percepção, o indivíduo interpreta algo inexistente como parte da realidade. Quando uma pessoa afirma ouvir vozes conversando com elas, embora não haja ninguém presente, está-se diante do sintoma conhecido como:",
+  "alts": [
+   "episódio depressivo maior;",
+   "delírio de referência (de alusão ou autorreferência);",
+   "delírio de perseguição;",
+   "alucinação;",
+   "esquizofrenia."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 15
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#16",
+  "q": "Um paciente de 50 anos apresentou inicialmente os seguintes sintomas: sensação de exploração, preocupação com a lealdade ou confiança de amigos e frequentes interpretações de comentários como ameaças. O comportamento não era evidentemente bizarro ou estranho. Passou a ter problemas conjugais, pois estava convencido de que seu cônjuge o estava traindo. Essa convicção era baseada em interpretações incorretas apoiadas em evidências duvidosas. Foi descartado o transtorno por uso de substâncias, porque não havia relato do uso de drogas ou álcool. O provável diagnóstico é:",
+  "alts": [
+   "transtorno bipolar;",
+   "episódio depressivo maior;",
+   "transtorno delirante;",
+   "esquizofrenia;",
+   "transtorno obsessivo compulsivo."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 16
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#17",
+  "q": "Um adolescente de 15 anos apresentou deterioração do desempenho escolar concomitante com o surgimento de sintomas como ouvir vozes identificadas como \"um computador na minha cabeça\". Outras vezes, relatou ter falado com um marciano e acreditava que faria uma missão espacial. Foi se distanciando dos amigos. Esses sintomas se iniciaram 8 meses antes. O provável diagnóstico é:",
+  "alts": [
+   "transtorno de ansiedade generalizada;",
+   "transtorno delirante;",
+   "esquizofrenia;",
+   "episódio depressivo maior;",
+   "transtorno afetivo bipolar."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 17
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#18",
+  "q": "Segundo o DSM-5, para caracterização de um episódio depressivo maior, deve(m) estar presente(s), além dos sintomas secundários:",
+  "alts": [
+   "anedonia e/ou tristeza (pelo menos um dos dois);",
+   "anedonia e suicidalidade (obrigatoriamente os dois);",
+   "baixa autoestima e tristeza (pelo menos um dos dois);",
+   "tristeza e/ou alterações no sono (pelo menos um dos dois);",
+   "baixa autoestima e suicidalidade (obrigatoriamente os dois)."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 18
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#19",
+  "q": "Segundo o DSM-5, o período mínimo para manifestação dos sintomas que definem um episódio depressivo maior é:",
+  "alts": [
+   "1 semana;",
+   "2 semanas;",
+   "1 mês;",
+   "2 meses;",
+   "6 meses. "
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 19
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#20",
+  "q": "O transtorno do estresse pós-traumático (TEPT) pode ser analisado por instrumentos como a escala de impacto de evento revisada (IES-R). Essa escala permite identificar várias dimensões do TEPT. As dimensões avaliadas por essa escala são:",
+  "alts": [
+   "intrusão e desesperança;",
+   "pensamentos obsessivos e ideias recorrentes;",
+   "angústia, medo e evitação;",
+   "dificuldade de concentração e desesperança;",
+   "evitação, intrusão e hiperestimulação."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 20
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#21",
+  "q": "Um idoso de 77 anos em uso contínuo de omeprazol (40 mg/dia) por 9 meses, passou recentemente a apresentar déficit cognitivo que vem afetando suas atividades cotidianas. O diagnóstico mais provável é demência:",
+  "alts": [
+   "reversível causada por carência de vitamina D;",
+   "reversível causada por carência de vitamina B12;",
+   "reversível causada por carência de vitamina K;",
+   "frontotemporal;",
+   "causada por príons."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 21
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#22",
+  "q": "Um paciente de 70 anos, ensino superior, relata estar sendo furtado por sua esposa e afirma haver um complô para matá-lo. No miniexame do estado mental, encontra-se desorientado no tempo e no espaço e não consegue evocar as três palavras, embora as tenha repetido corretamente alguns minutos antes. Sua esposa relata que sua memória para fatos recentes vem piorando de maneira progressiva há 1 ano, levando a prejuízos significativos em suas atividades instrumentais da vida diária. O diagnóstico mais provável é:",
+  "alts": [
+   "transtorno esquizoide;",
+   "doença de Alzheimer;",
+   "episódio depressivo maior;",
+   "crise psicótica aguda;",
+   "atrofia de múltiplos sistemas."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 22
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#23",
+  "q": "Na depressão resistente, a conduta adequada, especialmente na presença de ideação suicida, é:",
+  "alts": [
+   "escolher entre eletroconvulsoterapia ou quetamina intravenosa;",
+   "associar três antidepressivos e aguardar 2 meses;",
+   "associar inibidor de receptação de serotonina com clobazam;",
+   "associar sertralina com inibidor de monoamino oxidase;",
+   "manter o mesmo tratamento por no mínimo 6 meses e vigilância constante."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 23
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#24",
+  "q": "As pareidolias são mais frequentes na seguinte doença:",
+  "alts": [
+   "transtorno esquizoide;",
+   "doença de Alzheimer;",
+   "transtorno do espectro autista;",
+   "esquizofrenia;",
+   "doença de Lewy."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 24
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#25",
+  "q": "Um idoso passou a apresentar dificuldades da marcha (passo magnético) e incontinência urinária. Recentemente também passou a apresentar déficit cognitivo caracterizado principalmente por prejuízo atencional e síndrome disexecutiva. O diagnóstico provável é:",
+  "alts": [
+   "parkinsonismo induzido por drogas;",
+   "doença de Lewy;",
+   "transtorno de conversão;",
+   "hidrocefalia de pressão normal;",
+   "síndrome de Münchhausen. Texto 1 Uma mulher de 30 anos, sem história de doença psiquiátrica prévia, apresenta há alguns anos quadros alternantes de dois grupamentos de sintomas. Primeiro grupo: ideação suicida, tristeza intensa, desvalia, fadiga e alterações no sono. Segundo grupo: excesso de euforia, logorreia, autoestima inflada, aceleração de pensamentos com “fuga de ideias”, perda de controle sobre as atitudes com intensificação de compulsões (alimentar, jogos, compras e desejos sexuais), irritabilidade, agressividade e delírios de grandeza."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 25
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#26",
+  "q": "Considerando que os dois grupos de sintomas citados no texto 1 causam prejuízo significativo nas atividades de vida diária, o tratamento mais adequado é:",
+  "alts": [
+   "ácido valproico e carbonato de lítio;",
+   "imipramina;",
+   "fluvoxamina e mirtazapina;",
+   "trazodona e escitalopram;",
+   "paroxetina e alprazolam."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 26
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#27",
+  "q": "Considerando o caso clínico relatado no texto 1, o diagnóstico mais provável da paciente em questão é:",
+  "alts": [
+   "depressão recorrente;",
+   "esquizofrenia;",
+   "transtorno bipolar;",
+   "demência precoce;",
+   "transtorno obsessivo-compulsivo."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 27
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#28",
+  "q": "Um homem de 60 anos sem história de doença psiquiátrica prévia ou de alterações cognitivas, encontra-se na emergência em coma por intoxicação alcoólica aguda. A melhor conduta inicial é:",
+  "alts": [
+   "iniciar por via intravenosa soro glicosado imediatamente seguido de antipsicótico;",
+   "iniciar por via intravenosa soro glicosado em conjunto com tiamina;",
+   "iniciar por via intravenosa soro fisiológico e diazepam por via intramuscular;",
+   "iniciar por via intravenosa soro fisiológico e naltrexona por via intramuscular;",
+   "aguardar o paciente acordar, sem nenhuma conduta medicamentosa nesse momento. "
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 28
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#29",
+  "q": "Em relação ao paciente em tratamento com lítio, os exames laboratoriais que devem ser solicitados regularmente são:",
+  "alts": [
+   "amilase, lipase e sódio;",
+   "vitamina D e dosagem sérica do lítio;",
+   "PCR, dosagem sérica do lítio, bilirrubinas;",
+   "vitamina B12, ácido fólico e vitamina D;",
+   "dosagem sérica do lítio, ureia, creatinina e TSH."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 29
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#30",
+  "q": "Em relação à depressão refratária, é correto afirmar que:",
+  "alts": [
+   "se trata de uma depressão que só pode ser revertida após administração de folato;",
+   "se trata de uma depressão que necessariamente apresenta sintomas psicóticos;",
+   "se trata de uma depressão em que os sintomas psicóticos estão associados a desvalia (baixa autoestima);",
+   "fica caracterizada quando o paciente já teve ao menos três episódios depressivos graves e não responde satisfatoriamente ao tratamento inicial, após tentativas terapêuticas com três antidepressivos de classes diferentes por tempo superior a 6 semanas;",
+   "fica caracterizada quando o paciente já teve ao menos dois episódios depressivos, moderados ou graves, e não responde satisfatoriamente ao tratamento inicial, após tentativas terapêuticas com dois antidepressivos de classes diferentes por tempo superior a 6 semanas. Texto 2 Um homem de 70 anos, sem história de doença psiquiátrica prévia, apresentou, no último ano, quadro de alucinações visuais complexas e transtorno cognitivo que afeta suas atividades instrumentais da vida diária. Ao exame apresenta bradicinesia e rigidez em roda dentada."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 30
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#31",
+  "q": "Considerando o caso clínico apresentado no texto 2, o diagnóstico mais provável é:",
+  "alts": [
+   "trantorno esquizoide;",
+   "doença de Lewy;",
+   "síndrome de Hakim-Adams;",
+   "esquizofrenia;",
+   "crise psicótica aguda."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 31
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#32",
+  "q": "De acordo com o caso clínico relatado no texto 2, considerando o diagnóstico mais provável, a melhor classe farmacológica para iniciar tratamento da paciente em questão é:",
+  "alts": [
+   "antipsicóticos;",
+   "antidepressivos;",
+   "anticonvulsivantes;",
+   "benzodiazepínicos;",
+   "inibidores da colinesterase."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 32
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#33",
+  "q": "Um paciente de 87 anos é internado para tratamento de pneumonia com antibioticoterapia venosa. Durante a internação, apresenta episódios de agitação, necessitando de contenção mecânica para que não saia do leito. Ao ser avaliado pelo médico, afirma que está em casa. O quadro flutua durante o dia, alternando com períodos assintomáticos. Considerando o quadro do paciente acima, o diagnóstico mais provável é:",
+  "alts": [
+   "delirium;",
+   "episódio maníaco;",
+   "crise psicótica aguda;",
+   "demência rapidamente progressiva;",
+   "episódio depressivo."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 33
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#34",
+  "q": "Uma paciente de 25 anos procura consultório de psiquiatria queixando-se de medo de ser abandonada e alegando não ser compreendida por seus amigos e familiares. Relata mudanças bruscas de humor que se iniciaram na adolescência, levando inclusive a brigas físicas com suas irmãs. Tem dificuldade em seus relacionamentos, pois não se julga boa o suficiente para os parceiros; posteriormente, porém, afirma que esses parceiros \"não eram nada\" e não mereciam sua atenção. Relata múltiplos parceiros e relações sexuais desprotegidas. Houve tentativa de suicídio há 5 anos. Refere também desconfiar que suas irmãs estão tramando para que ela não receba a herança do pai, que está doente. Faz uso ocasional de cocaína. Durante a anamnese, mostra-se bastante agitada e irritada com as perguntas do examinador. O diagnóstico mais provável é transtorno:",
+  "alts": [
+   "bipolar;",
+   "depressivo maior;",
+   "de ansiedade generalizada;",
+   "de personalidade borderline;",
+   "de personalidade antissocial."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 34
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#35",
+  "q": "Das medicações a seguir, aquela usada no tratamento de abstinência de opioides é:",
+  "alts": [
+   "metadona;",
+   "imipramina;",
+   "carbamazepina;",
+   "carbonato de lítio;",
+   "metilfenidato. "
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 35
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en24_psiq#36",
+  "q": "Por insistência da família, Célio, 25 anos, comparece ao consultório, acompanhado de sua mãe. Já foi expulso da escola 2 vezes aos 12 anos devido a comportamento agressivo e brigas recorrentes com os colegas, como em uma situação em que agrediu o professor ao ser pego \"colando\" em uma prova. Demonstra indiferença ao ser perguntado dessas situações. Aos 19 anos foi preso por furto. Tem dificuldade em permanecer nos empregos por muito tempo. Há 6 meses iniciou novo trabalho, mas foi demitido após várias faltas e atrasos injustificados. Teve seu direito de dirigir suspenso recentemente por exceder o limite de pontos da carteira nacional de habilitação, com várias multas por excesso de velocidade e por ultrapassar o sinal vermelho. Ao ser indagado sobre o que achava da situação, Célio mostrava-se confiante em suas habilidades, dizendo que nunca causou um acidente e que essas leis serviam apenas para quem não sabia dirigir. O diagnóstico mais provável é:",
+  "alts": [
+   "esquizofrenia;",
+   "transtorno de personalidade antissocial;",
+   "atraso no desenvolvimento;",
+   "transtorno do déficit de atenção e hiperatividade;",
+   "transtorno de personalidade histriônica."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 36
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#37",
+  "q": "Uma paciente de 28 anos teve diagnóstico recente de transtorno bipolar do humor, sendo iniciada monoterapia com valproato de sódio. Ela procura um novo psiquiatra para uma \"segunda opinião\". O psiquiatra informa que, embora o diagnóstico esteja correto e o valproato de sódio seja uma escolha de tratamento, vai precisar substituí-lo. A alternativa que identifica corretamente um motivo para essa substituição é:",
+  "alts": [
+   "associação com perda ponderal;",
+   "risco de precipitação de uma virada maníaca;",
+   "risco aumentado de teratogenicidade em caso de gravidez;",
+   "piora de sintomas de ideação suicida;",
+   "caráter tireotóxico da medicação."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 37
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#38",
+  "q": "Adenor, 54 anos, procura o CAPS AD (Centro de Atenção Psicossocial – Álcool e outras Drogas), pois deseja parar de fumar, sendo prescrita para ele bupropiona. Uma contraindicação a essa prescrição é:",
+  "alts": [
+   "diagnóstico de transtorno depressivo maior;",
+   "associação com adesivos de nicotina;",
+   "diagnóstico de doença pulmonar obstrutiva crônica;",
+   "uso concomitante de inibidor de recaptação de serotonia;",
+   "diagnóstico de epilepsia."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 38
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#39",
+  "q": "Quanto à terapia cognitivo-comportamental, é correto afirmar que:",
+  "alts": [
+   "é centrada na família e sua relação com o indivíduo;",
+   "auxilia o paciente na identificação e na correção de crenças distorcidas e comportamentos disfuncionais;",
+   "utiliza-se da terapia de grupo para criar redes de apoio a indivíduos com problemas semelhantes;",
+   "se baseia na ideia de que conflitos não resolvidos do passado e experiências da infância influenciam de maneira significativa a vida atual do paciente;",
+   "tem como fundamento a interpretação dos sonhos para o entendimento da pessoa e a relação com seus comportamentos."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 39
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#40",
+  "q": "Leonardo, 67 anos, comparece com a sua esposa a consulta médica. A esposa reclama que o paciente fica muito agitado no meio da madrugada, falando e chegando a chutá-la, inclusive já tendo a machucado. Afirma que isso ocorre enquanto ele está dormindo e que esse comportamento é recorrente. O provável diagnóstico é:",
+  "alts": [
+   "narcolepsia;",
+   "terror noturno;",
+   "síndrome das pernas inquietas;",
+   "transtorno de ansiedade generalizada;",
+   "transtorno comportamental do sono REM."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 40
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#41",
+  "q": "Um jovem usuário de cocaína dá entrada no serviço de emergência com dor torácica após uso da droga. Considerando esse caso, o marcador ideal de lesão miocárdica é:",
+  "alts": [
+   "creatinoquinase;",
+   "troponina;",
+   "nível sérico de cocaína;",
+   "mioglobina;",
+   "acetilcolinesterase."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 41
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#42",
+  "q": "Maria, 15 anos, comparece a consulta médica acompanhada de seus pais. Relata que, há cerca de 5 meses, minutos após se alimentar, sente o alimento \"voltando\" para a boca. Quando isso ocorre, ela remastiga o alimento ou o cospe. Nega outros sintomas gastrointestinais, como náuseas, vômitos ou azia. Maria diz que, por causa disso, tem sentido vergonha de comer em público, tendo perdido peso no período. Fez uma endoscopia digestiva alta, que veio sem alterações. O provável diagnóstico é:",
+  "alts": [
+   "bulimia nervosa;",
+   "doença do reflexo gastroesofágico;",
+   "síndrome de ruminação;",
+   "anorexia nervosa;",
+   "síndrome do intestino irritável."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 42
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#43",
+  "q": "Um sintoma característico e inicial da demência frontotemporal é:",
+  "alts": [
+   "déficit de memória;",
+   "alteração comportamental;",
+   "apraxia;",
+   "agnosia visual;",
+   "ideação suicida. "
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 43
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#44",
+  "q": "Movimentos coreoatetoides estão mais relacionados à demência:",
+  "alts": [
+   "relacionada à doença de Huntington;",
+   "relacionada à neurossífilis;",
+   "frontotemporal;",
+   "pela doença de Alzheimer;",
+   "pela hidrocefalia de pressão normal."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 44
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#45",
+  "q": "É um sintoma positivo da esquizofrenia:",
+  "alts": [
+   "melhora das funções executivas;",
+   "embotamento afetivo;",
+   "alucinações auditivas;",
+   "afasia motora;",
+   "retração social."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 45
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#46",
+  "q": "A substância presente no ecstasy é:",
+  "alts": [
+   "buspirona;",
+   "cocaína;",
+   "tetrahidrocanabinol;",
+   "metilenodioximetanfetamina;",
+   "metilfenidato."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 46
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#47",
+  "q": "A acatisia é caracterizada por:",
+  "alts": [
+   "transtorno de linguagem em que o paciente não consegue se expressar;",
+   "transtorno de linguagem em que o paciente perde a sua compreensão;",
+   "incapacidade de realizar movimentos voluntários e coordenados;",
+   "incapacidade de reconhecer objetos pelo tato;",
+   "transtorno do movimento caracterizado por inquietude que pode fazer o paciente andar incessantemente."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 47
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#48",
+  "q": "A medicação que está mais associada ao surgimento de acatisia é:",
+  "alts": [
+   "amitriptilina;",
+   "selegilina;",
+   "valproato de sódio;",
+   "metilfenidato;",
+   "haloperidol."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 48
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#49",
+  "q": "O melhor tratamento para distonia aguda induzida por antipsicóticos é:",
+  "alts": [
+   "biperideno;",
+   "bupropiona;",
+   "sertralina;",
+   "haloperidol;",
+   "clorpromazina."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 49
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#50",
+  "q": "A medicação que pode ser usada para o tratamento da síndrome neuroléptica maligna é:",
+  "alts": [
+   "lamotrigina;",
+   "fluvoxamina;",
+   "bromocriptina;",
+   "bexpiprazol;",
+   "vortioxetina."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 50
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#51",
+  "q": "A agorafobia é caracterizada por medo:",
+  "alts": [
+   "de altura;",
+   "de aranhas;",
+   "desproporcional em espaços fechados, como elevadores e túneis;",
+   "em situações sociais e de ser julgado;",
+   "de estar fora de casa sozinho e preocupação com impossibilidade de ajuda."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 51
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#52",
+  "q": "A buspirona é indicada em bula para:",
+  "alts": [
+   "transtorno depressivo isolado;",
+   "transtorno de ansiedade generalizada;",
+   "controle de sintomas psicóticos;",
+   "indução do sono;",
+   "manutenção do sono."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 52
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#53",
+  "q": "A eletroconvulsoterapia é indicada para:",
+  "alts": [
+   "anorexia nervosa;",
+   "transtorno narcisista;",
+   "depressão com ideação suicida persistente;",
+   "transtorno neurocognitivo maior rapidamente progressivo;",
+   "transtorno do déficit de atenção e hiperatividade em adultos."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 53
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#54",
+  "q": "Em 1949, Egas Moniz recebeu o prêmio Nobel de medicina por sua prática de lobotomia em pacientes psiquiátricos. O procedimento consistia em seccionar conexões do córtex pré-frontal com o restante do cérebro. Uma possível consequência desse procedimento é(são):",
+  "alts": [
+   "apatia;",
+   "hemiparestesia;",
+   "astereognosia;",
+   "disdiadococinesia;",
+   "alucinações auditivas."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 54
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#55",
+  "q": "A Lei nº 10.216 de 2001 dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais. Segundo essa lei, a internação compulsória:",
+  "alts": [
+   "é aquela que se dá com o consentimento do usuário;",
+   "é realizada sem o consentimento do paciente e a partir da solicitação de terceiros, geralmente um familiar;",
+   "só pode ocorrer 72 horas após a liberação do Ministério Público;",
+   "é determinada pelo juiz competente, com base em laudo médico que demonstre a necessidade de internação;",
+   "não é permitida. "
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 55
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#56",
+  "q": "Considerando os conceitos de psicoterapia, pode-se definir aliança terapêutica como:",
+  "alts": [
+   "sentimentos do paciente relativos a figuras do passado que são transferidas ao terapeuta;",
+   "reações do terapeuta em relação ao comportamento do paciente;",
+   "vínculo entre paciente e terapeuta, incluindo metas e objetivos em prol do processo psicoterapêutico;",
+   "atitudes do paciente que dificultem o prosseguimento da terapia;",
+   "associação do terapeuta com a família do paciente, excluindo o paciente do processo devido ao seu estado mórbido."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 56
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#57",
+  "q": "Polimorfismo nos genes que codificam as enzimas do CYP450 pode alterar a metabolização de medicações psiquiátricas devido a:",
+  "alts": [
+   "redução da recaptação pré-sináptica;",
+   "interferência na metabolização hepática;",
+   "aumento da excreção renal;",
+   "disrupção da barreira hematoencefálica;",
+   "modificação estrutural dos neurotransmissores."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 57
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#58",
+  "q": "O inventário de burnout de Maslach avalia as seguintes dimensões:",
+  "alts": [
+   "realização profissional e resiliência;",
+   "despersonalização, atitude negativa e sintomas depressivos;",
+   "resiliência e atividades básicas e instrumentais de vida diária;",
+   "exaustão emocional, exaustão física e sintomas depressivos;",
+   "exaustão emocional, despersonalização e realização profissional."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 58
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#59",
+  "q": "O medo ou ansiedade intensa ao conhecer novas pessoas e falar em público, associados ao medo de situações em que possa haver julgamento negativo, são característicos do transtorno:",
+  "alts": [
+   "obsessivo-compulsivo;",
+   "de fobia social;",
+   "depressivo unipolar;",
+   "afetivo bipolar;",
+   "de adaptação."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 59
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#60",
+  "q": "Um psiquiatra é chamado ao hospital para avaliar um paciente com quadro de imobilidade, manutenção de posturas anormais fixas por períodos prolongados e ecopraxia. Considerando o diagnóstico mais provável, o melhor tratamento inicial é:",
+  "alts": [
+   "lorazepam;",
+   "fluoxetina;",
+   "gabapentina;",
+   "topiramato;",
+   "donepezila."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 60
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#61",
+  "q": "Com relação às obsessões e compulsões no transtorno obsessivo-compulsivo, é correto afirmar que:",
+  "alts": [
+   "são acompanhadas, com frequência, de déficit de memória;",
+   "podem ser reconhecidas como absurdas ou irracionais pelo paciente;",
+   "não causam sofrimento significativo na maioria dos pacientes;",
+   "não causam ansiedade nos pacientes;",
+   "são fruto de uma deterioração cognitiva."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 61
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#62",
+  "q": "Com relação ao transtorno de transe e possessão, é correto afirmar que:",
+  "alts": [
+   "está presente na doença de Alzheimer;",
+   "só pode ser diagnosticado no contexto religioso;",
+   "é característico da síndrome de Münchhausen por procuração;",
+   "é caracterizada pela produção intencional de respostas absurdas ou sem sentido a perguntas simples;",
+   "o indivíduo age tomado de uma personalidade ou divindade, ocorrendo uma pausa temporária no senso de identidade."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 62
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#63",
+  "q": "Quanto à síndrome de Munchausen, é correto afirmar que:",
+  "alts": [
+   "não traz riscos ao paciente;",
+   "tem como uma característica proeminente a retração social;",
+   "envolve benefícios financeiros como sua principal motivação;",
+   "é caracterizada pela ausência de ganhos externos óbvios;",
+   "se caracteriza por piora das funções executivas em esquizofrênicos."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 63
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#64",
+  "q": "Entre os critérios para diferenciar a anorexia nervosa da depressão está o fato de que:",
+  "alts": [
+   "em pacientes deprimidos, nunca há alteração do apetite;",
+   "na anorexia, os pacientes percebem alterações de apetite;",
+   "na depressão, ocorre comportamento de purgação, o que nunca é observado na anorexia;",
+   "na depressão, os pacientes sentem mais fome e percebem alterações do apetite, enquanto que na anorexia os pacientes não sentem fome em nenhum estágio da doença;",
+   "em pacientes com depressão pode haver diminuição ou aumento do apetite, ao passo que o paciente com anorexia nervosa pode afirmar ter apetite normal e sentir fome, apresentando diminuição no apetite em estágios severos da doença."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 64
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#65",
+  "q": "No uso de antipsicóticos de primeira geração, podem ocorrer como efeito indesejável:",
+  "alts": [
+   "agnosia visual;",
+   "ginecomastia em homens;",
+   "delírios;",
+   "alucinações auditivas;",
+   "síndrome piramidal. "
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 65
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#66",
+  "q": "O sintoma típico do episódio depressivo maior é a presença de:",
+  "alts": [
+   "perda da capacidade atencional;",
+   "incontinência urinária;",
+   "delírios persecutórios;",
+   "apraxia ideomotora;",
+   "cegueira cortical."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 66
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#67",
+  "q": "É um sintoma negativo da esquizofrenia:",
+  "alts": [
+   "delírios persecutórios;",
+   "embotamento afetivo;",
+   "alucinações auditivas;",
+   "afasia sensitiva;",
+   "pensamento desorganizado."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 67
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#68",
+  "q": "Em relação ao delírio, é correto afirmar que:",
+  "alts": [
+   "não está associado a transtornos psiquiátricos;",
+   "envolve crenças falsas que não são modificadas por evidências;",
+   "é causado por condições médicas gerais, como infecções;",
+   "tem curso geralmente agudo, com duração limitada e flutua ao longo do dia;",
+   "não tem relação com experiências pessoais."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 68
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#69",
+  "q": "Mariana, 32 anos, dois dias após o parto de seu filho, iniciou sentimento de tristeza, choro fácil, medo de ficar sozinha e em ambientes escuros. O quadro melhorou sozinho após 12 dias. O provável diagnóstico é:",
+  "alts": [
+   "transtorno depressivo maior;",
+   "depressão pós-parto;",
+   "blues puerperal;",
+   "psicose puerperal;",
+   "síndrome de Münchhausen."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 69
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#70",
+  "q": "O principal neurotransmissor envolvido na promoção ativa do sono é:",
+  "alts": [
+   "dopamina;",
+   "serotonina;",
+   "glutamato;",
+   "norepinefrina;",
+   "GABA."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 70
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#71",
+  "q": "Em relação ao sono REM, é correto afirmar que:",
+  "alts": [
+   "é maior no início do sono;",
+   "está associado a atonia muscular;",
+   "é dividido em 3 estágios;",
+   "ocorre o sonambulismo nessa fase do sono;",
+   "também é conhecido como sono de ondas lentas."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 71
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#72",
+  "q": "Em relação à depressão geriátrica, é correto afirmar que:",
+  "alts": [
+   "está associada a um risco maior de desenvolver demência;",
+   "é uma consequência normal do envelhecimento;",
+   "pacientes que apresentam o primeiro episódio depressivo quando já idosos costumam ter história familiar positiva;",
+   "pacientes casados e do sexo masculino apresentam maior risco;",
+   "a ideação suicida é mais comum nesse grupo de pacientes em comparação com pacientes mais novos."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 72
+  },
+  "avisos": [
+   "enunciado curto"
+  ]
+ },
+ {
+  "id": "en24_psiq#73",
+  "q": "Em relação ao transtorno afetivo bipolar em pacientes geriátricos, é correto afirmar que:",
+  "alts": [
+   "os sintomas aumentam à medida que a idade aumenta;",
+   "esse diagnóstico não pode ser feito após os 60 anos;",
+   "os sintomas são mais leves se comparados à doença iniciada em população mais nova;",
+   "esse transtorno não está associado com déficits cognitivos;",
+   "o comportamento sexual excessivo durante episódios maníacos ou hipomaníacos é mais comum, em comparação com a população mais jovem com a doença."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 73
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#74",
+  "q": "O transtorno frotteurista é caracterizado por excitação sexual:",
+  "alts": [
+   "resultando do toque ou fricção do genital em indivíduos sem o seu consentimento, ocorrendo em geral em ambientes públicos;",
+   "relacionada à exibição dos genitais a outros, sem consentimento;",
+   "associada a sofrer dor ou humilhação;",
+   "associada a interesse sexual em pessoas do mesmo sexo;",
+   "associada a objeto inanimado ou parte não genital do corpo."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 74
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#75",
+  "q": "Uma mulher de 24 anos apresenta os seguintes sintomas que ocorrem antes de sua menstruação: irritabilidade, ansiedade intensa, aumento do apetite principalmente para doces, sentimento de depressão profunda e insônia. Os sintomas levam a um prejuízo em seu funcionamento social e melhoram após a menstruarão. O provável diagnóstico é:",
+  "alts": [
+   "síndrome pré-menstrual;",
+   "transtorno de ansiedade generalizada;",
+   "transtorno depressivo maior;",
+   "transtorno afetivo bipolar;",
+   "transtorno disfórico pré-menstrual."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 75
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#76",
+  "q": "Dentre as medicações abaixo, o melhor tratamento não hormonal para os fogachos associados à menopausa é:",
+  "alts": [
+   "topiramato;",
+   "eszopiclona;",
+   "lítio;",
+   "venlafaxina;",
+   "quetiapina. "
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 76
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#77",
+  "q": "Um paciente de 47 anos queixa-se de desejo de movimentar as pernas e sensação desagradável que ocorre com o repouso, ocorrendo principalmente à noite, mais de 3 vezes por semana. Os sintomas se aliviam parcialmente com o movimento. Considerando o provável diagnóstico, a melhor conduta é:",
+  "alts": [
+   "iniciar quetiapina;",
+   "iniciar zolpidem;",
+   "solicitar dosagem de ferro e ferritina;",
+   "solicitar dosagem de ácido fólico e vitamina B12;",
+   "solicitar eletroneuromiografia de MMII."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 77
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#78",
+  "q": "Constitui competência do CAPS (Centros de Atenção Psicossocial):",
+  "alts": [
+   "atender emergências gerais;",
+   "realizar internações psiquiátricas prolongadas;",
+   "acompanhar regularmente e a longo prazo pacientes com transtornos mentais graves;",
+   "funcionar como rede de apoio para tratar doenças prevalentes na população, como hipertensão e diabetes;",
+   "monitorar a garantia de reserva de até 12 leitos de unidade de terapia intensiva para pacientes com transtornos mentais graves."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 78
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#79",
+  "q": "Ana, 36 anos, procura psiquiatra com queixa de agitação psicomotora, ansiedade, insônia e palpitações. Ao exame, apresenta-se com exoftalmia e com tremor simétrico e de alta frequência que piora quando realiza alguma tarefa. Traz um eletrocardiograma, que demonstra taquicardia sinusal. Considerando o quadro clínico, a melhor conduta inicial é:",
+  "alts": [
+   "iniciar moderador do humor;",
+   "iniciar inibidor seletivo da recaptação de serotonina;",
+   "solicitar neuroimagem;",
+   "solicitar TSH, T4 livre e anticorpo antirreceptor de TSH;",
+   "solicitar eletroencefalograma."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 79
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_psiq#80",
+  "q": "Quando se suspeita de uma paresia não orgânica (funcional), é aconselhável pesquisar o sinal de:",
+  "alts": [
+   "Barré;",
+   "Chaddock;",
+   "Hoover;",
+   "Mingazzini;",
+   "Wartenberg.    "
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 80
+  },
+  "avisos": []
+ }
+]

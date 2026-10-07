@@ -1,0 +1,992 @@
+[
+ {
+  "pid": "m25041",
+  "q": "A doença inflamatória pélvica (DIP) é uma síndrome clínica atribuída à ascensão de microrganismos do trato genital inferior, espontânea ou decorrente de manipulação (inserção de DIU, biópsia de endométrio, curetagem, entre outros), comprometendo o endométrio (endometrite), tubas uterinas, anexos uterinos e/ou estruturas contíguas (salpingite, miometrite, ooforite, parametrite, pelviperitonite). Um critério maior para diagnóstico de DIP é",
+  "alts": [
+   "dor à mobilização do colo uterino.",
+   "comprovação laboratorial de infecção cervical por gonococo, clamídia ou micoplasmas.",
+   "massa pélvica.",
+   "mais de 10 leucócitos por campo de imersão em material de endocérvice.",
+   "conteúdo vaginal ou secreção endocervical anormal."
+  ],
+  "gab": 0,
+  "tema": "gininfec",
+  "sub": "Critérios diagnósticos da DIP",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "O PCDT de IST do Ministério da Saúde (2022) organiza o diagnóstico clínico da DIP em critérios maiores, menores e elaborados. Os maiores são três: dor no hipogástrio, dor à palpação dos anexos e dor à mobilização do colo uterino. O diagnóstico exige três maiores mais um menor, ou um critério elaborado isolado. Os menores incluem febre acima de 37,5 °C, conteúdo vaginal ou secreção endocervical anormal, massa pélvica, leucócitos aumentados em material de endocérvice, leucocitose, PCR ou VHS elevadas e comprovação laboratorial de gonococo, clamídia ou micoplasma. Os elaborados são biópsia com endometrite, abscesso tubo-ovariano em imagem e laparoscopia compatível.",
+  "porAlt": [
+   "Correta: a dor à mobilização do colo uterino é um dos três critérios maiores, ao lado da dor no hipogástrio e da dor à palpação dos anexos.",
+   "A comprovação laboratorial de gonococo, clamídia ou micoplasma no colo é critério menor, não maior.",
+   "Massa pélvica entra entre os critérios menores; abscesso tubo-ovariano comprovado por imagem é que seria critério elaborado.",
+   "Leucócitos aumentados em material de endocérvice compõem os critérios menores do PCDT.",
+   "Conteúdo vaginal ou secreção endocervical anormal é critério menor, pouco específico isoladamente."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 41
+  }
+ },
+ {
+  "pid": "m25042",
+  "q": "O tratamento a vítimas de violência sexual abrange apoio emocional, atendimento médico e suporte psicossocial, focando na prevenção de infecções (ISTs), contracepção de emergência e no amparo legal e psicológico para minimizar traumas e prevenir a revitimização. A droga de escolha para a profilaxia da sífilis para a pessoa em condição de violência sexual é",
+  "alts": [
+   "azitromicina.",
+   "benzilpenicilina benzatina.",
+   "metronidazol.",
+   "ceftriaxona.",
+   "clindamicina."
+  ],
+  "gab": 1,
+  "tema": "reprodutiva",
+  "sub": "Profilaxia de IST após violência sexual",
+  "cenario": "emg",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022; Norma Técnica Atenção Humanizada às Pessoas em Situação de Violência Sexual, 2015",
+  "coment": "Na profilaxia das IST não virais após violência sexual, o PCDT de IST (2022) indica benzilpenicilina benzatina 2,4 milhões UI IM em dose única (1,2 milhão em cada glúteo) para sífilis, ceftriaxona 500 mg IM para gonorreia, azitromicina 1 g VO para clamídia e metronidazol 2 g VO para tricomoníase, este último podendo ser adiado pela interação com a contracepção de emergência e pela intolerância gástrica. Cada droga tem alvo próprio: a penicilina benzatina é a única escolhida para o Treponema pallidum. A profilaxia se soma à PEP para HIV, à vacina de hepatite B e à contracepção de emergência.",
+  "porAlt": [
+   "A azitromicina 1 g compõe a profilaxia contra clamídia; não é a escolha para sífilis por resistência do treponema aos macrolídeos.",
+   "Correta: benzilpenicilina benzatina 2,4 milhões UI IM em dose única é a profilaxia de sífilis recomendada pelo PCDT.",
+   "O metronidazol 2 g VO se destina à tricomoníase, podendo ser postergado.",
+   "A ceftriaxona 500 mg IM cobre a gonorreia, não é a escolha para sífilis nesse protocolo.",
+   "A clindamicina não integra o esquema profilático de IST após violência sexual."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 42
+  }
+ },
+ {
+  "pid": "m25043",
+  "q": "O câncer de lábio/boca se desenvolve nas células escamosas que revestem certas estruturas orais e faciais, como lábios, língua, bochechas e garganta, tem uma alta taxa de sobrevivência porque os médicos frequentemente o diagnosticam em estágios iniciais e tem boa resposta aos tratamentos disponíveis (cirurgia, quimioterapia e radioterapia). Os fatores a seguir listados são riscos para o desenvolvimento de neoplasia de lábio/boca, à exceção de um. Assinale-o.",
+  "alts": [
+   "Sexo masculino.",
+   "Imunossupressão.",
+   "Etilismo.",
+   "Infecção pelo HPV.",
+   "Raça negra."
+  ],
+  "gab": 4,
+  "tema": "rastreamento",
+  "sub": "Fatores de risco do câncer de boca",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Instituto Nacional de Câncer (INCA). Detecção precoce do câncer, 2021",
+  "coment": "O INCA aponta como fatores de risco do câncer de boca e lábio o tabagismo, o consumo de álcool (com efeito sinérgico ao do tabaco), a infecção por HPV (sobretudo orofaringe), a exposição solar sem proteção (lábio inferior) e o excesso de peso. A doença predomina em homens acima dos 40 anos, e a imunossupressão, como em transplantados, aumenta a incidência de carcinoma espinocelular de lábio e mucosa. Raça negra não é fator de risco reconhecido; o câncer de lábio, ao contrário, é mais frequente em pessoas de pele clara pela fotoexposição. Na APS, a detecção precoce depende do exame da cavidade oral nos grupos expostos a tabaco e álcool e da investigação de lesão que não cicatriza em 15 dias.",
+  "porAlt": [
+   "O sexo masculino é fator associado: a incidência em homens é bem maior que em mulheres.",
+   "A imunossupressão aumenta o risco de carcinoma espinocelular de boca e lábio, como se vê em transplantados.",
+   "O etilismo é fator de risco clássico e potencializa o efeito do tabaco.",
+   "A infecção por HPV, sobretudo o tipo 16, está associada ao câncer de orofaringe e de boca.",
+   "Correta: raça negra não é fator de risco reconhecido para câncer de boca; o de lábio é até mais comum em pele clara."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 43
+  }
+ },
+ {
+  "pid": "m25044",
+  "q": "Mulher de 35 anos deu entrada para atendimento na UBS com queixa de dor pélvica, corrimento vaginal e sangramento fora do período menstrual e nas relações sexuais. Ela foi avaliada clinicamente e exames foram colhidos. Posteriomente, foi feito diagnóstico de neoplasia do colo uterino. Assinale a opção que apresenta o quadro/agente infeccioso mais associado ao câncer de colo uterino.",
+  "alts": [
+   "HIV.",
+   "HTLV.",
+   "HPV.",
+   "Gonorreia.",
+   "Sífilis."
+  ],
+  "gab": 2,
+  "tema": "ginonco",
+  "sub": "HPV e câncer do colo uterino",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Instituto Nacional de Câncer (INCA). Detecção precoce do câncer, 2021",
+  "coment": "A infecção persistente por tipos oncogênicos do papilomavírus humano (HPV), principalmente 16 e 18, é condição necessária para o desenvolvimento do câncer do colo do útero, presente em praticamente todos os casos. Por isso a prevenção primária se faz com a vacina contra HPV e o rastreamento atual no Brasil migra para o teste de DNA-HPV oncogênico. HIV e outras imunossupressões aumentam a persistência do HPV e a progressão das lesões, mas são cofatores. Tabagismo, multiparidade e uso prolongado de contraceptivo oral também atuam como cofatores, nunca como causa isolada.",
+  "porAlt": [
+   "O HIV é cofator, pois a imunossupressão favorece a persistência do HPV, mas não é o agente causal.",
+   "O HTLV não tem associação causal com câncer do colo uterino; liga-se à leucemia/linfoma de células T e à paraparesia espástica.",
+   "Correta: a infecção persistente por HPV oncogênico, sobretudo 16 e 18, está presente em quase todos os casos de câncer do colo.",
+   "A gonorreia causa cervicite aguda, sem papel causal estabelecido na carcinogênese cervical.",
+   "A sífilis não é causa de neoplasia do colo, embora seja IST a rastrear na mesma população."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 44
+  }
+ },
+ {
+  "pid": "m25045",
+  "q": "A detecção precoce do câncer de pele se dá por meio da estratégia de diagnóstico precoce com orientação de que a população e os profissionais de saúde estejam alertas para lesões de pele com características anormais e de que seja realizada a confirmação diagnóstica. Assinale a opção que apresenta uma característica que serve como guia para a identificação de sinais suspeitos do melanoma.",
+  "alts": [
+   "Diâmetro frequentemente > 6 mm.",
+   "Bordos regulares.",
+   "Coloração invariavelmente marrom/preta.",
+   "Manutenção do formato e cor, e aumento do tamanho.",
+   "Lesão com metades simétricas."
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "Regra ABCDE do melanoma",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Instituto Nacional de Câncer (INCA). Detecção precoce do câncer, 2021",
+  "coment": "Para o câncer de pele, o INCA recomenda a estratégia de diagnóstico precoce, não o rastreamento populacional. A regra ABCDE orienta a suspeita de melanoma: assimetria (metades diferentes), bordas irregulares, cor variável (vários tons de marrom, preto, vermelho, branco ou azul), diâmetro maior que 6 mm e evolução (mudança de tamanho, forma ou cor). Lesão simétrica, de bordas regulares e cor homogênea sugere nevo benigno. Lesão suspeita na APS deve ser encaminhada para confirmação diagnóstica por biópsia.",
+  "porAlt": [
+   "Correta: diâmetro maior que 6 mm é o D da regra ABCDE de suspeita de melanoma.",
+   "Bordos regulares sugerem lesão benigna; no melanoma as bordas são irregulares, mal definidas.",
+   "O melanoma costuma ter cores variadas na mesma lesão, não uma cor invariável.",
+   "O sinal de alerta é a evolução, qualquer mudança de forma, cor ou tamanho; manter forma e cor não é critério.",
+   "Metades simétricas são típicas de nevo benigno; o A da regra é assimetria."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 45
+  }
+ },
+ {
+  "pid": "m25046",
+  "q": "O câncer de mama é uma doença causada pelo crescimento descontrolado de células anormais nas mamas, podendo formar um tumor que invade outros órgãos. Os sintomas incluem um nódulo, as vezes acompanhado de dor, alterações na pele, como retração ou edema, e secreção no mamilo. O diagnóstico é feito por biópsia, e o tratamento envolve cirurgia, radioterapia, quimioterapia e outros medicamentos, com prognóstico melhor quando detectado precocemente. Um fator de risco para neoplasia da mama é a hereditariedade. O principal gene associado ao desenvolvimento da neoplasia da mama é o",
+  "alts": [
+   "ALK.",
+   "BRCA.",
+   "MGTM.",
+   "TP53.",
+   "EGFR."
+  ],
+  "gab": 1,
+  "tema": "ginonco",
+  "sub": "Genes de câncer de mama hereditário",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Instituto Nacional de Câncer (INCA). Detecção precoce do câncer, 2021",
+  "coment": "Cerca de 5 a 10% dos cânceres de mama são hereditários, e as mutações germinativas em BRCA1 e BRCA2 são as mais frequentes, com risco cumulativo de câncer de mama que pode passar de 60 a 70% ao longo da vida, além de risco de câncer de ovário. Mulheres com história familiar sugestiva (parentes de primeiro grau com câncer de mama antes dos 50 anos, câncer de ovário, câncer de mama masculino) têm risco elevado e devem ter avaliação genética e seguimento diferenciado. TP53 (síndrome de Li-Fraumeni) também eleva o risco, mas é bem mais raro.",
+  "porAlt": [
+   "ALK é gene de fusão alvo terapêutico no câncer de pulmão não pequenas células, sem papel hereditário na mama.",
+   "Correta: BRCA1 e BRCA2 são os principais genes de suscetibilidade hereditária ao câncer de mama.",
+   "MGTM não corresponde a gene de suscetibilidade ao câncer de mama; o MGMT, nome parecido, é marcador em gliomas.",
+   "TP53 causa a síndrome de Li-Fraumeni, que inclui câncer de mama, mas responde por fração pequena dos casos hereditários.",
+   "EGFR é alvo terapêutico em câncer de pulmão e colorretal, não gene principal de câncer de mama hereditário."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 46
+  }
+ },
+ {
+  "pid": "m25047",
+  "q": "A Fase de Rastreamento do câncer tem por objetivo encontrar o câncer pré-clínico ou as lesões pré-cancerígenas, por meio de exames de rotina em uma população-alvo sem sinais e sintomas sugestivos do câncer rastreado. Assinale a opção que apresenta uma condição para implementação de rastreamento.",
+  "alts": [
+   "Doença ter tratamento disponível, eficaz e seguro para a doença precoce, o que reduz as mortes quando bem implementado.",
+   "Exame com alto valor preditivo negativo, porque a prevalência da doença é suficientemente alta.",
+   "Sistema de saúde ter garantia do financiamento das ações de investigação diagnóstica, independentemente de garantia de tratamento.",
+   "Exame altamente preciso (alta sensibilidade, alta especificidade para evitar resultados falsos negativos).",
+   "Exames com resultados reproduzíveis; interpretação do teste mais subjetiva do que objetiva."
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "Requisitos de um programa de rastreamento",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Instituto Nacional de Câncer (INCA). Detecção precoce do câncer, 2021; Ministério da Saúde. Caderno de Atenção Primária nº 29 (Rastreamento), 2010",
+  "coment": "Os critérios de Wilson e Jungner, adotados pelo INCA e pelo Caderno de Atenção Primária nº 29, exigem doença relevante com fase pré-clínica detectável, teste aceitável, seguro, reprodutível e de interpretação objetiva, e tratamento eficaz na fase precoce, capaz de reduzir mortalidade. Também é preciso garantir toda a linha de cuidado: diagnóstico e tratamento dos positivos. Na população assintomática a prevalência é baixa, o que reduz o valor preditivo positivo e aumenta falsos positivos; a especificidade alta é o que limita os falsos positivos, enquanto a sensibilidade evita falsos negativos.",
+  "porAlt": [
+   "Correta: só faz sentido rastrear se houver tratamento disponível, eficaz e seguro para a doença precoce, capaz de reduzir mortes.",
+   "Em rastreamento a prevalência é baixa; o raciocínio inverte a relação entre prevalência e valores preditivos.",
+   "O sistema precisa garantir também o tratamento; investigar sem tratar não traz benefício e gera dano.",
+   "Especificidade alta evita falsos positivos, não falsos negativos, que dependem da sensibilidade.",
+   "O teste deve ter interpretação objetiva e reprodutível; interpretação subjetiva é defeito do teste."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 47
+  }
+ },
+ {
+  "pid": "m25048",
+  "q": "A dislipidemia familiar é uma condição genética que se caracteriza por níveis anormais de lipídios no sangue, especialmente colesterol e triglicerídeos. Essa condição é frequentemente hereditária e pode levar a um aumento significativo do risco de doenças cardiovasculares, como infarto do miocárdio e acidente vascular cerebral (AVC). A dislipidemia familiar é causada por mutações em genes que regulam o metabolismo lipídico, resultando em uma capacidade reduzida de remover o colesterol LDL da corrente sanguínea. Isso leva a um acúmulo de colesterol no sangue, que pode se depositar nas paredes das artérias. Assinale a opção que apresenta a maior pontuação entre os critérios diagnósticos de hipercolesterolemia familiar.",
+  "alts": [
+   "Presença de arco córneo antes dos 45 anos.",
+   "Colesterol LDL entre 250 e 329 mg/dL.",
+   "Presença de xantoma tendinoso.",
+   "Paciente com doença arterial coronariana prematura.",
+   "Paciente com doença arterial cerebral ou periférica prematura."
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "Critérios da hipercolesterolemia familiar",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Cardiologia. I Diretriz Brasileira de Hipercolesterolemia Familiar, 2012 (critérios da Dutch Lipid Clinic Network)",
+  "coment": "Os critérios da Dutch Lipid Clinic Network, adotados pela SBC, somam pontos por história familiar, história pessoal, exame físico, LDL e genética. No exame físico, o xantoma tendinoso vale 6 pontos e o arco corneano antes dos 45 anos vale 4. No LDL, valores de 250 a 329 mg/dL valem 5 pontos e 330 mg/dL ou mais valem 8. Doença coronariana prematura pessoal vale 2 e doença cerebral ou periférica prematura vale 1. Mais de 8 pontos define diagnóstico certo, 6 a 8 provável e 3 a 5 possível. Entre as opções, o xantoma tendinoso tem o maior peso.",
+  "porAlt": [
+   "O arco corneano antes dos 45 anos vale 4 pontos, menos que o xantoma tendinoso.",
+   "LDL entre 250 e 329 mg/dL soma 5 pontos; só LDL de 330 ou mais (8 pontos) superaria o xantoma.",
+   "Correta: o xantoma tendinoso vale 6 pontos, a maior pontuação entre as opções.",
+   "Doença arterial coronariana prematura pessoal vale 2 pontos no escore holandês.",
+   "Doença arterial cerebral ou periférica prematura pessoal vale apenas 1 ponto."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 48
+  }
+ },
+ {
+  "pid": "m25051",
+  "q": "O diâmetro máximo normal da aorta abdominal é de 2,0 cm. Quando a dilatação da aorta abdominal atinge um diâmetro 50% maior do que o esperado, ou 3,0 cm nos adultos, ela é chamada de aneurisma. Aneurismas da aorta abdominal (AAA) são encontrados incidentalmente com frequência, sobretudo na população idosa, sendo responsáveis por 90% a 95% de todos os casos de aneurisma de aorta. Assinale a afirmativa correta sobre o aneurisma de aorta abdominal.",
+  "alts": [
+   "O aneurisma da aorta abdominal é de 4 a 6 vezes mais comum em homens do que em mulheres, e 90% das mortes por AAA ocorrem em homens.",
+   "A taxa de ruptura do aneurisma nos homens é de 3 a 4 vezes superior à observada em mulheres.",
+   "Os aneurismas saculares são o tipo mais comum, são considerados pelos cirurgiões vasculares como de um maior risco de ruptura e são frequentemente corrigidos, independentemente do tamanho.",
+   "Os aneurismas saculares da aorta surgem muitas vezes devido à degeneração da parede arterial secundária a doença aterosclerótica, já os aneurismas fusiformes têm uma etiologia mais variada, que pode envolver infecções, degeneração de uma úlcera aterosclerótica penetrante, trauma ou cirurgia aórtica prévia.",
+   "A tríade de dor abdominal ou nas costas, perda de peso e elevados marcadores inflamatórios sistêmicos em pacientes com aneurismas da aorta abdominal é altamente sugestiva de aneurisma inflamatório."
+  ],
+  "gab": 4,
+  "tema": "especialidades",
+  "sub": "Aneurisma de aorta abdominal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Sabiston Textbook of Surgery, 21ª ed., 2022; ESVS Clinical Practice Guidelines on the Management of Abdominal Aorto-iliac Artery Aneurysms, 2024",
+  "coment": "O aneurisma inflamatório corresponde a cerca de 5% dos AAA e se caracteriza por parede aórtica espessada, fibrose periaórtica e aderência a estruturas vizinhas, como duodeno, veia cava e ureteres. A tríade dor abdominal ou lombar, perda de peso e marcadores inflamatórios elevados (VHS e PCR) em paciente com AAA é altamente sugestiva dessa forma. Nos aneurismas em geral, o fusiforme é o mais comum e o degenerativo aterosclerótico, sua etiologia principal. Mulheres têm menos AAA, porém rompem com diâmetros menores e com taxa de ruptura maior que a dos homens.",
+  "porAlt": [
+   "O AAA é de fato várias vezes mais comum em homens, mas a afirmação sobre 90% das mortes exagera: mulheres rompem mais e com diâmetros menores.",
+   "Inverte o dado: a taxa de ruptura é maior em mulheres, cerca de 3 a 4 vezes a dos homens.",
+   "O fusiforme é o tipo mais comum; o sacular é menos frequente, embora tenha correção indicada mais cedo.",
+   "Inverte as etiologias: o fusiforme é tipicamente degenerativo, e o sacular se liga a infecção, úlcera penetrante, trauma ou cirurgia prévia.",
+   "Correta: dor abdominal ou lombar, perda de peso e marcadores inflamatórios elevados em portador de AAA sugerem aneurisma inflamatório."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 51
+  }
+ },
+ {
+  "pid": "m25052",
+  "q": "A Unidade Básica de Saúde (UBS) deve ser a porta de entrada preferencial da gestante no sistema de saúde. Ela é o ponto de atenção estratégico para melhor acolher suas necessidades, inclusive proporcionando um acompanhamento longitudinal e continuado, principalmente durante a gravidez. Com o objetivo de reduzir a morbimortalidade materno-infantil e ampliar o acesso com qualidade, é necessário que se identifiquem os fatores de risco gestacional o mais precocemente possível. Dessa forma, o acolhimento com classificação de risco pressupõe agilidade no atendimento e definição da necessidade de cuidado e da densidade tecnológica que devem ser ofertadas às usuárias em cada momento. Assinale a opção que apresenta um fator de risco gestacional relacionado a características individuais e a condições sociodemográficas desfavoráveis.",
+  "alts": [
+   "Idade menor que 18 anos ou superior a 39 anos.",
+   "Altura menor que 1,55 m.",
+   "Multiparidade (3 ou mais partos).",
+   "Intervalo interpartal menor do que 3 anos ou maior do que 6 anos.",
+   "Situação conjugal insegura."
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Fatores de risco gestacional na APS",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 32 (pré-natal de baixo risco), 2012; Manual de Gestação de Alto Risco, 2022",
+  "coment": "Os manuais do Ministério da Saúde agrupam os fatores de risco gestacional em características individuais e condições sociodemográficas desfavoráveis, história reprodutiva anterior, condições clínicas prévias e intercorrências da gestação atual. No primeiro grupo estão extremos de idade, altura menor que 1,45 m, peso ou IMC extremos, baixa escolaridade, ocupação com esforço físico ou exposição a agentes nocivos, uso de drogas, situação familiar insegura, não aceitação da gravidez e situação conjugal insegura. Multiparidade e intervalo interpartal alterado pertencem à história reprodutiva, com limites diferentes dos citados nas opções.",
+  "porAlt": [
+   "Os extremos de idade usados pelo Ministério da Saúde não são 18 e 39 anos; a faixa citada não corresponde ao manual.",
+   "O ponto de corte de altura nos manuais é menor que 1,45 m, não 1,55 m.",
+   "Multiparidade é fator ligado à história reprodutiva anterior, não às características individuais e sociodemográficas.",
+   "Intervalo interpartal alterado também é fator da história reprodutiva, e os limites citados não são os do manual.",
+   "Correta: situação conjugal insegura é listada entre as condições sociodemográficas desfavoráveis."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 52
+  }
+ },
+ {
+  "pid": "m25053",
+  "q": "A gravidez é um processo fisiológico que se inicia com a fecundação do óvulo pelo espermatozoide e dura cerca de 40 semanas, culminando no parto. Durante a gravidez, ocorrem diversas mudanças no corpo da mulher para acomodar o crescimento do feto e preparar-se para o parto e a maternidade. Um sinal de probabilidade de gravidez é(são):",
+  "alts": [
+   "a saída de colostro pelo mamilo.",
+   "o aumento do volume das mamas.",
+   "o aumento do volume abdominal.",
+   "as paredes vaginais aumentadas, com aumento da vascularização.",
+   "a hipersensibilidade nos mamilos."
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Sinais de presunção e probabilidade",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 32 (pré-natal de baixo risco), 2012",
+  "coment": "O Caderno de Atenção Básica nº 32 separa os sinais de gravidez em três grupos. Presunção: atraso menstrual, náuseas, alterações mamárias (aumento de volume, hipersensibilidade nos mamilos, tubérculos de Montgomery, saída de colostro), coloração violácea da vulva, cianose vaginal e cervical e aumento do volume abdominal. Probabilidade: amolecimento da cérvice com aumento do seu volume, paredes vaginais aumentadas com aumento da vascularização (pulsação da artéria vaginal nos fundos de saco laterais) e beta-hCG positivo. Certeza: batimentos cardíacos fetais, percepção de movimentos fetais pelo examinador e ultrassonografia.",
+  "porAlt": [
+   "A saída de colostro pelo mamilo é sinal de presunção, pois ocorre também fora da gestação.",
+   "O aumento do volume das mamas é sinal de presunção no Caderno 32.",
+   "O aumento do volume abdominal é sinal de presunção, com muitas causas não gestacionais.",
+   "Correta: paredes vaginais aumentadas e mais vascularizadas são sinal de probabilidade de gravidez.",
+   "A hipersensibilidade nos mamilos é sinal de presunção, comum também no período pré-menstrual."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 53
+  }
+ },
+ {
+  "pid": "m25055",
+  "q": "A vacinação é reconhecida como uma eficaz estratégia para preservar a saúde da população e fortalecer uma sociedade saudável e resistente. Além de prevenir doenças graves, a imunização contribui para reduzir a disseminação desses agentes infecciosos na comunidade, protegendo aqueles que não podem ser vacinados por motivos de saúde. A seguinte vacina deve ser aplicada aos 12 meses de vida:",
+  "alts": [
+   "febre amarela.",
+   "pneumocócica 10-valente.",
+   "hepatite A.",
+   "tetraviral SCRV.",
+   "covid 19."
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Vacinas aos 12 meses no PNI",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Calendário Nacional de Vacinação da Criança (PNI), 2026",
+  "coment": "No Calendário Nacional de Vacinação vigente, a criança recebe aos 12 meses o reforço da vacina pneumocócica conjugada, a meningocócica ACWY e a primeira dose da tríplice viral. A febre amarela é aplicada aos 9 meses, com reforço aos 4 anos; a hepatite A e a tetraviral (ou tríplice viral mais varicela) ficam para os 15 meses; a vacina covid-19 entra no esquema primário aos 6, 7 e 9 meses. Desde junho de 2026 o PNI passou a usar a pneumocócica 20-valente no esquema primário, mantendo o reforço pneumocócico aos 12 meses.",
+  "porAlt": [
+   "A febre amarela é aplicada aos 9 meses, com reforço aos 4 anos, não aos 12 meses.",
+   "Correta: o reforço da pneumocócica conjugada é feito aos 12 meses no calendário do PNI.",
+   "A hepatite A é aplicada em dose única aos 15 meses.",
+   "A tetraviral é aplicada aos 15 meses, como segunda dose de sarampo, caxumba e rubéola e dose de varicela.",
+   "A vacina covid-19 no calendário infantil é feita aos 6, 7 e 9 meses, não aos 12."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 55
+  }
+ },
+ {
+  "pid": "m25056",
+  "q": "Resulta do comprometimento dos tendões flexores profundos dos dedos e do tendão flexor longo do polegar. A bainha tendinosa apresenta-se espessada em decorrência do processo inflamatório provocado por traumatismos repetidos, que evolui para a constrição do próprio tendão. O quadro é agravado pelo derrame do líquido sinovial, tornando difícil o deslizamento do tendão. (DOENÇAS RELACIONADAS AO TRABALHO - Manual de Procedimentos para os Serviços de Saúde Brasília/DF – Brasil 2001) A doença relacionada ao trabalho descrita nessa definição é",
+  "alts": [
+   "a síndrome do túnel do carpo.",
+   "a doença de Kienböck.",
+   "o dedo em gatilho.",
+   "a doença de Dupuytren.",
+   "a síndrome do manguito rotador."
+  ],
+  "gab": 2,
+  "tema": "trabalho",
+  "sub": "Dedo em gatilho ocupacional",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Doenças relacionadas ao trabalho: manual de procedimentos para os serviços de saúde, 2001; Lista de Doenças Relacionadas ao Trabalho, Portaria GM/MS 1.999/2023",
+  "coment": "O dedo em gatilho é a tenossinovite estenosante dos flexores dos dedos ou do flexor longo do polegar. Traumas repetidos causam espessamento inflamatório da bainha, sobretudo na polia A1, e o tendão passa a deslizar com dificuldade, gerando dor e travamento do dedo em flexão com estalido ao estender. No trabalho, associa-se a preensão repetitiva e força com as mãos, sendo listado entre os distúrbios osteomusculares relacionados ao trabalho. Síndrome do túnel do carpo é compressão do nervo mediano; Dupuytren é fibrose da fáscia palmar; Kienböck é osteonecrose do semilunar.",
+  "porAlt": [
+   "A síndrome do túnel do carpo é compressão do nervo mediano no punho, com parestesia, não constrição da bainha flexora.",
+   "A doença de Kienböck é osteonecrose do semilunar, sem relação com bainha tendínea.",
+   "Correta: o dedo em gatilho é a tenossinovite estenosante dos flexores dos dedos e do polegar descrita no manual.",
+   "A doença de Dupuytren é fibrose da aponeurose palmar com contratura em flexão, não tenossinovite.",
+   "A síndrome do manguito rotador acomete os tendões do ombro, não os flexores dos dedos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 56
+  }
+ },
+ {
+  "pid": "m25057",
+  "q": "A Política Nacional de Educação Permanente em Saúde (PNEPS) é considerada uma importante estratégia do SUS e visa a contribuir para a organização dos serviços de saúde, com a qualificação e a transformação das práticas em saúde, por meio da formação e do desenvolvimento dos profissionais e trabalhadores da saúde, buscando articular a integração entre ensino e serviço, com vistas ao fortalecimento dos princípios fundamentais do SUS. Sobre a PNEPS, avalie as afirmativas a seguir. I. A Educação Permanente em Saúde (EPS) traz como marco conceitual uma concepção de trabalho no SUS como aprendizagem cotidiana e comprometida com os coletivos. Os atores do cotidiano são os principais detentores da tomada de decisão sobre acolher, respeitar, ouvir, cuidar e responder com elevada qualidade. II. A Educação Permanente em Saúde reconhece o cotidiano como lugar de invenções, acolhimento de desafios e substituição criativa de modelos por práticas cooperativas, colaborativas, integradas e corajosas na arte de escutar a diversidade e a pluralidade do país. III. Na proposta da Educação Permanente em Saúde, a mudança das estratégias de organização e do exercício da atenção, da gestão, da participação ou da formação é construída na prática de equipes, trabalhadores e parceiros, devendo considerar a necessidade de implementar um trabalho relevante, de qualidade e resolutividade. Está correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política de Educação Permanente",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.996/2007 (Política Nacional de Educação Permanente em Saúde); Ministério da Saúde. PNEPS: o que se tem produzido para o seu fortalecimento?, 2018",
+  "coment": "A PNEPS, instituída em 2004 e reformulada pela Portaria GM/MS 1.996/2007, entende o trabalho no SUS como espaço de aprendizagem cotidiana. A publicação do Ministério da Saúde de 2018 sobre o fortalecimento da política descreve os atores do cotidiano como protagonistas das decisões sobre o cuidado, o cotidiano como lugar de invenção e de práticas colaborativas e a mudança das práticas de atenção, gestão, participação e formação como construída pelas próprias equipes. As três afirmativas reproduzem esse marco conceitual, que diferencia educação permanente (aprendizagem a partir dos problemas do trabalho) de educação continuada (atualização técnica pontual).",
+  "porAlt": [
+   "Incompleta: a afirmativa I está correta, mas II e III também descrevem fielmente o marco da PNEPS.",
+   "Deixa de fora a afirmativa III, que também está correta ao situar a mudança das práticas no trabalho das equipes.",
+   "Deixa de fora a afirmativa II, que corretamente descreve o cotidiano como lugar de invenção e práticas colaborativas.",
+   "Exclui a afirmativa I, que está correta ao colocar os atores do cotidiano como principais decisores do cuidado.",
+   "Correta: as três afirmativas reproduzem o marco conceitual da educação permanente em saúde."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 57
+  }
+ },
+ {
+  "pid": "m25058",
+  "q": "O Código de Ética Médica (CEM) é um conjunto de normas criado pelo Conselho Federal de Medicina (CFM) que estabelece os princípios, direitos e deveres dos médicos no Brasil, visando aprimorar o exercício da profissão, proteger a sociedade e garantir a segurança e o bem-estar dos pacientes. Ele regulamenta a conduta médica nas relações com pacientes, colegas e a sociedade em geral, incluindo aspectos como sigilo profissional, autonomia do paciente, responsabilidade e publicidade. Analise as afirmativas a seguir conforme os dizeres do CEM: I. A fiscalização do cumprimento das normas estabelecidas neste Código é atribuição dos Conselhos de Medicina, das comissões de ética e dos médicos em geral. II. O trabalho do médico não pode ser explorado por terceiros com objetivos de lucro, finalidade política ou religiosa. III. Para exercer a medicina com honra e dignidade, o médico necessita ter boas condições de trabalho, independentemente de ser remunerado de forma justa. Está correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Princípios fundamentais do CEM",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Resolução CFM 2.217/2018, Código de Ética Médica",
+  "coment": "O preâmbulo do Código de Ética Médica afirma que a fiscalização do cumprimento de suas normas cabe aos Conselhos de Medicina, às comissões de ética e aos médicos em geral (afirmativa I correta). O princípio fundamental X diz que o trabalho do médico não pode ser explorado por terceiros com objetivos de lucro, finalidade política ou religiosa (II correta). O princípio III diz que, para exercer a medicina com honra e dignidade, o médico necessita ter boas condições de trabalho e ser remunerado de forma justa; a afirmativa III troca essa conjunção por independência da remuneração, o que a torna falsa.",
+  "porAlt": [
+   "Incompleta: a afirmativa II também está correta, pois reproduz o princípio fundamental X.",
+   "Correta: I está no preâmbulo e II no princípio X; III contraria o princípio III, que exige remuneração justa.",
+   "A afirmativa III é falsa: o CEM vincula a dignidade do exercício a boas condições de trabalho e remuneração justa.",
+   "Inclui a afirmativa III, falsa, e exclui a I, verdadeira.",
+   "Nem todas estão corretas: a III distorce o princípio fundamental III do código."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 58
+  }
+ },
+ {
+  "pid": "m25059",
+  "q": "Transtorno cognitivo leve caracteriza-se por alterações da memória, da orientação, da capacidade de aprendizado e redução da capacidade de concentração em tarefas prolongadas. O paciente se queixa de intensa sensação de fadiga mental ao executar tarefas mentais e um aprendizado novo é percebido subjetivamente como difícil, ainda que objetivamente consiga realizá-lo bem. Assinale a opção que apresenta um agente de origem ocupacional causador de quadro de transtorno cognitivo leve.",
+  "alts": [
+   "Níveis elevados de ruído.",
+   "Umidade.",
+   "Radiações não ionizantes.",
+   "Temperaturas extremas.",
+   "Vibrações de corpo inteiro."
+  ],
+  "gab": 0,
+  "tema": "trabalho",
+  "sub": "Transtorno cognitivo leve ocupacional",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Lista de Doenças Relacionadas ao Trabalho, Portaria GM/MS 1.999/2023; Ministério da Saúde. Doenças relacionadas ao trabalho: manual de procedimentos, 2001",
+  "coment": "O transtorno cognitivo leve (CID-10 F06.7) aparece na Lista de Doenças Relacionadas ao Trabalho associado sobretudo a neurotóxicos, como chumbo, mercúrio, manganês, sulfeto de carbono, tolueno e outros solventes orgânicos. A lista atualizada também relaciona a exposição a níveis elevados de pressão sonora (ruído) ao F06.7, ao lado dos efeitos sobre a orelha interna e da hipertensão arterial. Umidade, radiações não ionizantes, temperaturas extremas e vibração de corpo inteiro têm outros desfechos na lista, como dermatoses, lesões oculares e cutâneas, distúrbios térmicos e lombalgias.",
+  "porAlt": [
+   "Correta: a exposição ocupacional a ruído elevado está relacionada ao transtorno cognitivo leve na lista oficial.",
+   "A umidade associa-se a dermatoses e doenças respiratórias, não a transtorno cognitivo leve.",
+   "Radiações não ionizantes se relacionam a lesões oculares e de pele, não ao F06.7.",
+   "Temperaturas extremas causam distúrbios térmicos (insolação, geladura), não transtorno cognitivo leve.",
+   "A vibração de corpo inteiro se associa a lombalgia e doenças da coluna, não ao F06.7."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 59
+  }
+ },
+ {
+  "pid": "m25060",
+  "q": "A Vigilância em Saúde do Trabalhador (VISAT) deve ser compreendida como o eixo fundamental capaz de consolidar as práticas de saúde do trabalhador no SUS, na perspectiva da prevenção dos agravos decorrentes da relação saúde-trabalho e da promoção da saúde. É por intermédio das ações compreendidas no campo da vigilância que se terá a capacidade de interromper o ciclo processo/ambiente de trabalho-doença-morte, corrente no Brasil. Regida pelas diretrizes que balizam a própria concepção do SUS, a VISAT tem seus princípios norteadores estabelecidos na Portaria/MS nº 3.120/1998. Analise a definição abaixo: Consolidação do papel do município e dos distritos sanitários como instâncias efetivas de desenvolvimento das ações de vigilância, integrando os níveis estadual e nacional do SUS, dentro de suas atribuições e competências específicas, comuns e complementares. Ela se refere ao(s) princípio(s) da(o)",
+  "alts": [
+   "interdisciplinaridade.",
+   "integralidade das ações.",
+   "hierarquização e da descentralização.",
+   "universalidade.",
+   "controle social."
+  ],
+  "gab": 2,
+  "tema": "trabalho",
+  "sub": "Princípios da VISAT",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Portaria MS 3.120/1998 (Instrução Normativa de Vigilância em Saúde do Trabalhador); Portaria GM/MS 1.823/2012 (PNSTT)",
+  "coment": "A Portaria MS 3.120/1998 lista os princípios da Vigilância em Saúde do Trabalhador: universalidade, integralidade das ações, pluriinstitucionalidade, controle social, hierarquização e descentralização, interdisciplinaridade, pesquisa-intervenção e caráter transformador. A definição apresentada, que consolida o município e os distritos sanitários como instâncias efetivas das ações de vigilância, articuladas aos níveis estadual e nacional, corresponde ao princípio de hierarquização e descentralização. Integralidade se refere à articulação entre ações individuais e coletivas, de promoção, prevenção e assistência.",
+  "porAlt": [
+   "A interdisciplinaridade trata da integração de saberes técnicos e do saber dos trabalhadores, não do papel do município.",
+   "A integralidade das ações articula promoção, prevenção, assistência e reabilitação, sem relação com níveis de gestão.",
+   "Correta: fortalecer o município e os distritos sanitários, integrados aos níveis estadual e nacional, é hierarquização e descentralização.",
+   "A universalidade garante que todos os trabalhadores sejam objeto da vigilância, independentemente do vínculo.",
+   "O controle social trata da participação dos trabalhadores e suas organizações nas ações, não da divisão de competências."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 60
+  }
+ },
+ {
+  "pid": "m25061",
+  "q": "Paciente de 30 anos iniciou há 3 meses quadro de astenia, anemia e sangramento gengival. Na última semana, apresentou febre, petéquias, linfadenopatia generalizada e dor óssea. Passou por avaliação e foi diagnosticado com leucemia mieloide aguda. O agente cuja exposição ocupacional está relacionada com o quadro acima é",
+  "alts": [
+   "o arsênio.",
+   "o cianeto.",
+   "o mercúrio.",
+   "a sílica.",
+   "o benzeno."
+  ],
+  "gab": 4,
+  "tema": "trabalho",
+  "sub": "Benzeno e leucemia ocupacional",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Lista de Doenças Relacionadas ao Trabalho, Portaria GM/MS 1.999/2023; Ministério da Saúde. Doenças relacionadas ao trabalho: manual de procedimentos, 2001",
+  "coment": "O benzeno é mielotóxico e carcinogênico reconhecido (grupo 1 da IARC). A exposição crônica em refinarias, siderurgia, indústria química e postos de combustíveis causa citopenias, aplasia medular, síndrome mielodisplásica e leucemias, principalmente a mieloide aguda. Por isso a Lista de Doenças Relacionadas ao Trabalho relaciona LMA ao benzeno, e a investigação ocupacional deve fazer parte da anamnese de todo paciente com leucemia. O quadro descrito (astenia, anemia, sangramento, febre, petéquias, dor óssea) traduz a falência medular da LMA.",
+  "porAlt": [
+   "O arsênio se associa a câncer de pele, pulmão e bexiga e a angiossarcoma hepático, não à LMA.",
+   "O cianeto causa intoxicação aguda por bloqueio da respiração celular, sem relação com leucemia.",
+   "O mercúrio causa quadro neurológico, renal e de gengivoestomatite, não leucemia.",
+   "A sílica causa silicose e câncer de pulmão, não leucemia mieloide aguda.",
+   "Correta: o benzeno é o agente ocupacional clássico de mielotoxicidade e leucemia mieloide aguda."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 61
+  }
+ },
+ {
+  "pid": "m25062",
+  "q": "A Política Nacional de Promoção da Saúde (PNPS) foi lançada, em 2006, com o objetivo geral de promover equidade e melhoria das condições e dos modos de viver, ampliando a potencialidade da saúde individual e coletiva e reduzindo vulnerabilidades e riscos à saúde decorrentes dos determinantes sociais, econômicos, políticos, culturais e ambientais. (BRASIL, 2006) A Política de Promoção da Saúde apresenta oito temas prioritários que funcionam como uma agenda para sua implementação, que pode ser acrescida pelos entes federais conforme demandas locais e desafios que surgirem frente ao interesse de implementar ações de promoção da saúde. As opções abaixo apresentam temas prioritários relacionados com a PNPS, à exceção de uma. Assinale-a.",
+  "alts": [
+   "Promoção da saúde sexual.",
+   "Incentivo ao aleitamento materno.",
+   "Enfrentamento ao uso do tabaco e seus derivados.",
+   "Promoção da mobilidade segura.",
+   "Promoção da cultura de paz e dos direitos humanos."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Temas prioritários da PNPS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.446/2014 (Política Nacional de Promoção da Saúde), consolidada na Portaria de Consolidação GM/MS nº 2/2017",
+  "coment": "A PNPS, revisada em 2014, define oito temas prioritários: formação e educação permanente; alimentação adequada e saudável; práticas corporais e atividades físicas; enfrentamento do uso do tabaco e seus derivados; enfrentamento do uso abusivo de álcool e outras drogas; promoção da mobilidade segura; promoção da cultura da paz e dos direitos humanos; e promoção do desenvolvimento sustentável. O incentivo ao aleitamento materno se insere no tema da alimentação adequada e saudável. A saúde sexual, embora objeto de outras políticas, não figura entre os temas prioritários da PNPS.",
+  "porAlt": [
+   "Correta: promoção da saúde sexual não está entre os oito temas prioritários da PNPS.",
+   "O aleitamento materno se relaciona ao tema prioritário de alimentação adequada e saudável.",
+   "O enfrentamento do uso do tabaco e seus derivados é tema prioritário expresso da PNPS.",
+   "A promoção da mobilidade segura é tema prioritário, voltado à redução de lesões e mortes no trânsito.",
+   "A promoção da cultura da paz e dos direitos humanos é tema prioritário da política."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 62
+  }
+ },
+ {
+  "pid": "m25063",
+  "q": "A equipe de Saúde da Família (eSF) é a equipe prioritária da Atenção Primária à Saúde e é responsável por desenvolver ações de saúde individuais, familiares e coletivas que envolvem promoção, prevenção, proteção, diagnóstico, tratamento, reabilitação, redução de danos, cuidados paliativos e vigilância em saúde, desenvolvidas por meio de práticas de cuidado integradas e da gestão qualificada. Sobre a eSF, avalie as afirmativas a seguir. I. É dirigida à população em território definido, sobre as quais as equipes multiprofissionais assumem responsabilidade sanitária. II. Para equipe de Saúde da Família, há a obrigatoriedade de carga horária de 30 horas semanais para todos os profissionais de saúde membros da eSF. III. As principais ações realizadas pelas equipes de Saúde da Família incluem atividades individuais e coletivas, como consultas, vacinação, procedimentos, visitas domiciliares, grupos e outras intervenções voltadas para o cuidado integral à saúde. Está correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "aps",
+  "sub": "Equipe de Saúde da Família na PNAB",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (Política Nacional de Atenção Básica), consolidada na Portaria de Consolidação GM/MS nº 2/2017",
+  "coment": "Pela PNAB de 2017, a eSF é a estratégia prioritária da atenção básica, dirigida à população de território definido, sobre a qual a equipe assume responsabilidade sanitária (afirmativa I correta). Suas ações incluem consultas, vacinação, procedimentos, visitas domiciliares, grupos e outras intervenções de cuidado integral (III correta). A afirmativa II erra o número: a PNAB exige carga horária de 40 horas semanais para todos os profissionais de saúde membros da eSF. Cargas de 30 ou 20 horas são previstas para as equipes de Atenção Primária (eAP), modalidade distinta.",
+  "porAlt": [
+   "Incompleta: a afirmativa III também está correta ao descrever as ações da eSF.",
+   "Inclui a afirmativa II, falsa: a carga horária obrigatória da eSF é de 40 horas semanais.",
+   "Correta: I e III estão de acordo com a PNAB; a II erra ao citar 30 horas em vez de 40.",
+   "A afirmativa II é falsa e a I, verdadeira, ficou de fora.",
+   "Nem todas estão corretas: a carga horária na eSF é de 40 horas semanais para todos os profissionais."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 63
+  }
+ },
+ {
+  "pid": "m25064",
+  "q": "Analise o texto a seguir. [...] processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde, visando ao planejamento e à implementação de medidas de saúde pública, incluindo a regulação, intervenção e atuação em condicionantes e determinantes da saúde, para a proteção e promoção da saúde da população, prevenção e controle de riscos, agravos e doenças. (Conselho Nacional de Saúde, 2018, Art. 2º). O texto conceitua",
+  "alts": [
+   "vigilância epidemiológica.",
+   "promoção da saúde.",
+   "educação popular em saúde.",
+   "vigilância em saúde.",
+   "participação social na saúde."
+  ],
+  "gab": 3,
+  "tema": "vigilancia",
+  "sub": "Conceito de vigilância em saúde",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde)",
+  "coment": "A Resolução CNS 588/2018, que institui a Política Nacional de Vigilância em Saúde, define vigilância em saúde em seu artigo 2º como o processo contínuo e sistemático de coleta, consolidação, análise e disseminação de dados sobre eventos relacionados à saúde, para planejar e implementar medidas de saúde pública, incluindo regulação e intervenção sobre condicionantes e determinantes. O conceito é amplo e abrange as vigilâncias epidemiológica, sanitária, em saúde ambiental e em saúde do trabalhador, além da análise de situação de saúde. A vigilância epidemiológica é apenas um de seus componentes.",
+  "porAlt": [
+   "A vigilância epidemiológica é componente da vigilância em saúde, com foco em doenças e agravos; o texto citado é a definição mais ampla.",
+   "Promoção da saúde é estratégia de produção de saúde sobre determinantes, não o processo de coleta e análise de dados.",
+   "Educação popular em saúde é prática pedagógica dialógica, sem relação com a definição transcrita.",
+   "Correta: o artigo 2º da Resolução CNS 588/2018 define assim a vigilância em saúde.",
+   "Participação social é a atuação da comunidade na gestão do SUS por conselhos e conferências."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 64
+  }
+ },
+ {
+  "pid": "m25065",
+  "q": "A Lei nº 8142/90 dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da saúde. Avalie as afirmativas a seguir com base nos ditames da Lei nº 8142/90: I. A Conferência de Saúde reunir-se-á a cada quatro anos com a representação dos vários segmentos sociais, para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes, convocada pelo Poder Executivo ou, extraordinariamente, por esta ou pelo Conselho de Saúde. II. O Conselho de Saúde, em caráter permanente e deliberativo, órgão colegiado composto por representantes do governo, prestadores de serviço, profissionais de saúde e usuários, atua na formulação de estratégias e no controle da execução da política de saúde na instância correspondente, inclusive nos aspectos econômicos e financeiros, cujas decisões serão homologadas pelo chefe do poder legalmente constituído em cada esfera do governo. III. O Conselho Nacional de Secretários de Saúde (Conass) e o Conselho Nacional de Secretários Municipais de Saúde (Conasems) terão representação no Conselho Nacional de Saúde. Está correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.142: conselhos e conferências",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990",
+  "coment": "O artigo 1º da Lei 8.142/1990 cria as duas instâncias colegiadas do SUS em cada esfera de governo. A Conferência de Saúde se reúne a cada quatro anos, com representação dos vários segmentos sociais, para avaliar a situação de saúde e propor diretrizes, convocada pelo Executivo ou, extraordinariamente, por ela própria ou pelo Conselho. O Conselho de Saúde é permanente e deliberativo, composto por governo, prestadores, profissionais e usuários, atua na formulação de estratégias e no controle da execução da política, inclusive financeiro, com decisões homologadas pelo chefe do poder. O parágrafo 3º garante representação do Conass e do Conasems no Conselho Nacional. As três afirmativas estão corretas.",
+  "porAlt": [
+   "Incompleta: as afirmativas II e III também reproduzem o texto da Lei 8.142/1990.",
+   "Exclui a afirmativa III, correta: Conass e Conasems têm representação no Conselho Nacional de Saúde.",
+   "Exclui a afirmativa II, que reproduz fielmente a definição legal do Conselho de Saúde.",
+   "Exclui a afirmativa I, correta quanto à periodicidade de quatro anos e à forma de convocação da Conferência.",
+   "Correta: as três afirmativas estão de acordo com o artigo 1º da Lei 8.142/1990."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 65
+  }
+ },
+ {
+  "pid": "m25066",
+  "q": "A Lei nº 8.080, de 19 de setembro de 1990, a Lei Orgânica da Saúde no Brasil, dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e institui o Sistema Único de Saúde (SUS). Ela estabelece os princípios, as diretrizes e a estrutura do SUS, garantindo o direito à saúde como um direito de cidadania. Conforme o Art 16º, uma competência da Direção Nacional do SUS é",
+  "alts": [
+   "formular, avaliar e apoiar políticas de alimentação e nutrição.",
+   "colaborar na fiscalização das agressões ao meio ambiente que tenham repercussão sobre a saúde humana e atuar, junto aos órgãos municipais, estaduais e federais competentes, para controlá-las.",
+   "acompanhar, controlar e avaliar as redes hierarquizadas do Sistema Único de Saúde.",
+   "gerir laboratórios públicos de saúde e hemocentros.",
+   "planejar, organizar, controlar e avaliar as ações e os serviços de saúde e gerir e executar os serviços públicos de saúde."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Competências da direção nacional do SUS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990",
+  "coment": "A Lei 8.080/1990 distribui competências por esfera: artigo 16 para a direção nacional, artigo 17 para a estadual e artigo 18 para a municipal. O inciso I do artigo 16 atribui à direção nacional formular, avaliar e apoiar políticas de alimentação e nutrição. Acompanhar, controlar e avaliar as redes hierarquizadas é atribuição estadual. Planejar, organizar, controlar e avaliar as ações e serviços e gerir e executar os serviços públicos de saúde, colaborar na fiscalização das agressões ao meio ambiente junto a outros órgãos e gerir laboratórios públicos e hemocentros são atribuições municipais.",
+  "porAlt": [
+   "Correta: formular, avaliar e apoiar políticas de alimentação e nutrição é competência da direção nacional, no artigo 16, inciso I.",
+   "Colaborar na fiscalização das agressões ao meio ambiente atuando junto aos demais órgãos é competência da direção municipal (artigo 18).",
+   "Acompanhar, controlar e avaliar as redes hierarquizadas do SUS é competência da direção estadual (artigo 17).",
+   "Gerir laboratórios públicos de saúde e hemocentros é competência da direção municipal (artigo 18).",
+   "Planejar, organizar e gerir e executar os serviços públicos de saúde é a primeira competência da direção municipal (artigo 18)."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 66
+  }
+ },
+ {
+  "pid": "m25067",
+  "q": "A notificação compulsória é a comunicação obrigatória à autoridade de saúde, realizada pelos médicos, profissionais de saúde ou responsáveis pelos estabelecimentos de saúde, públicos ou privados, sobre a ocorrência de suspeita ou confirmação de doença, agravo ou evento de saúde pública, descritos no anexo, podendo ser imediata ou semanal. Assinale a opção que apresenta uma doença de notificação compulsória com periodicidade de notificação semanal.",
+  "alts": [
+   "Leptospirose.",
+   "Monkeypox.",
+   "Sarampo.",
+   "Tuberculose.",
+   "Difteria."
+  ],
+  "gab": 3,
+  "tema": "vigilancia",
+  "sub": "Periodicidade da notificação compulsória",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação GM/MS nº 4/2017 (Anexo 1 do Anexo V, Lista Nacional de Notificação Compulsória), com atualizações posteriores",
+  "coment": "A Lista Nacional de Notificação Compulsória define notificação imediata (até 24 horas) para eventos que exigem resposta rápida e semanal para os demais. A tuberculose é de notificação semanal: a ficha é preenchida no diagnóstico e o caso é acompanhado no sistema até o encerramento. Sarampo, difteria, mpox e leptospirose são de notificação imediata, por potencial de surto ou de gravidade que exige investigação e bloqueio rápidos. Lembrar que o caso suspeito já deve ser notificado, sem esperar confirmação.",
+  "porAlt": [
+   "A leptospirose é de notificação imediata à secretaria municipal, pelo potencial de surto após enchentes.",
+   "A mpox (monkeypox) é de notificação imediata desde a emergência de 2022.",
+   "O sarampo é de notificação imediata às três esferas, com bloqueio vacinal em até 72 horas.",
+   "Correta: a tuberculose é doença de notificação compulsória semanal.",
+   "A difteria é de notificação imediata, pela necessidade de investigar contatos e iniciar quimioprofilaxia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 67
+  }
+ },
+ {
+  "pid": "m25068",
+  "q": "A Profilaxia Pré-Exposição (PrEP, do inglês Pre-Exposure Prophylaxis) atualmente disponível no Sistema Único de Saúde (SUS) consiste no uso oral de antirretrovirais em dose fixa combinada para reduzir o risco da transmissão do vírus da imunodeficiência adquirida (HIV). As drogas indicadas em primeira escolha para PrEP são:",
+  "alts": [
+   "entricitabina e lamivudina.",
+   "tenofovir e entricitabina.",
+   "zidovudina e lamivudina.",
+   "tenofovir e zidovudina.",
+   "tenofovir e lamivudina."
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "PrEP oral para HIV no SUS",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Profilaxia Pré-Exposição (PrEP) de Risco à Infecção pelo HIV, 2022",
+  "coment": "A PrEP oral disponível no SUS usa a combinação em dose fixa de tenofovir desoproxila 300 mg com entricitabina 200 mg, um comprimido ao dia (uso diário) ou, para homens cis e pessoas não binárias designadas homem ao nascer, também no esquema sob demanda (2 comprimidos de 2 a 24 horas antes da relação, 1 em 24 horas e 1 em 48 horas). Antes de iniciar, exclui-se infecção por HIV com teste rápido e avalia-se função renal e hepatite B. A PrEP integra a prevenção combinada, junto com preservativo, testagem, PEP e tratamento como prevenção.",
+  "porAlt": [
+   "Entricitabina e lamivudina são análogos de citidina com o mesmo mecanismo e não se combinam.",
+   "Correta: tenofovir com entricitabina em dose fixa é o esquema de PrEP oral do SUS.",
+   "Zidovudina com lamivudina é dupla antiga de tratamento, sem indicação como PrEP.",
+   "Tenofovir com zidovudina não é combinação usada em PrEP nem recomendada em tratamento.",
+   "Tenofovir com lamivudina compõe esquemas de tratamento, mas não é a PrEP padronizada no SUS."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 68
+  }
+ },
+ {
+  "pid": "m25070",
+  "q": "O tabagismo, além de ser uma doença, é fator causal de aproximadamente 50 outras doenças incapacitantes e fatais, como câncer, doenças cardiovasculares e doenças respiratórias crônicas. Para o ano de 2030, foram estimadas em torno de 8 milhões de mortes em todo o mundo por doenças relacionadas ao tabaco, caso não sejam adotadas medidas para o controle e cessação do tabagismo. Como uma resposta a esse grave problema de saúde pública, desde 1989 a governança do controle do tabagismo no Brasil passou a ser articulada pelo Ministério da Saúde (MS), por meio do seu Instituto Nacional de Câncer (INCA), o que inclui um conjunto de ações nacionais que compõem o Programa Nacional de Controle do Tabagismo. Avalie se os critérios para diagnóstico de dependência de nicotona incluem: I. Evidência de tolerância, ou seja, necessidade de doses decrescentes da substância para obter os efeitos produzidos anteriormente com doses menores. II. Diminuição do tempo empregado para conseguir ou consumir a substância ou recuperar-se de seus efeitos. III. Abandono progressivo de outros prazeres em detrimentos do uso de substâncias psicoativas. Está correto o que se apresenta em",
+  "alts": [
+   "I, apenas.",
+   "III, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 1,
+  "tema": "cronicas",
+  "sub": "Critérios de dependência de nicotina",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT do Tabagismo, 2020; CID-10, critérios de síndrome de dependência (F17.2)",
+  "coment": "O diagnóstico de dependência de nicotina segue os critérios de síndrome de dependência da CID-10, usados no PCDT do Tabagismo (2020): desejo forte ou compulsão para consumir; dificuldade de controlar o uso; síndrome de abstinência; tolerância, isto é, necessidade de doses crescentes para obter o efeito antes produzido por doses menores; abandono progressivo de outros prazeres em favor do uso; e persistência apesar de consequências nocivas. Três ou mais critérios em 12 meses definem dependência. Por isso só a afirmativa III está correta: I fala em doses decrescentes e II em diminuição do tempo gasto com a substância, quando ocorre o aumento.",
+  "porAlt": [
+   "A afirmativa I inverte a tolerância: ela exige doses crescentes, não decrescentes.",
+   "Correta: apenas a III descreve um critério de dependência, o abandono progressivo de outros prazeres.",
+   "A afirmativa I está errada porque tolerância é necessidade de doses crescentes.",
+   "A afirmativa II está errada: na dependência aumenta o tempo gasto para obter, usar ou se recuperar da substância.",
+   "I e II invertem os critérios de tolerância e de tempo gasto com a substância."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 70
+  }
+ },
+ {
+  "pid": "m25073",
+  "q": "Infecções extragenitais por clamídia e gonococo se referem à ocorrência dessas infecções em locais do corpo que podem incluir a garganta, o reto, e em casos raros, os olhos. Essas infecções são transmitidas através do contato sexual desprotegido, incluindo sexo oral e anal, e podem ser assintomáticas, dificultando a detecção e tratamento. Sobre as infecções extragenitais por clamídia e gonococo, assinale a afirmativa correta.",
+  "alts": [
+   "A infecção de faringe, tanto em homens como em mulheres, é habitualmente sintomática em mais de 90% dos casos.",
+   "A infecção gonocócica disseminada é comum, acometendo entre 15% a 25% dos casos, resulta da disseminação hematológica a partir das membranas mucosas infectadas e causa febre, lesões cutâneas, artralgia, artrite e tenossinovite sépticas.",
+   "A conjuntivite gonocócica é mais comum em recém-nascidos de mães infectadas e em adultos; pode ocorrer por autoinoculação e fômites, evoluindo com secreção purulenta e edema periorbital; tem evolução benigna independente de tratamento precoce.",
+   "A infecção retal é geralmente assintomática, mas pode causar desconforto perianal ou anal (7%) como sintoma mais comum, sendo mais frequente em mulheres.",
+   "A infecção gonocócica disseminada acomete mais as mulheres, sendo associada à infecção assintomática persistente, com maior risco durante o período menstrual, gravidez e pós-parto imediato."
+  ],
+  "gab": 4,
+  "tema": "gininfec",
+  "sub": "Clamídia e gonococo extragenitais",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "O PCDT de IST (2022) descreve a infecção gonocócica disseminada como rara (cerca de 0,5 a 3% dos casos), mais frequente em mulheres, associada à infecção mucosa assintomática persistente e com risco maior durante a menstruação, a gravidez e o pós-parto imediato. Resulta da disseminação hematogênica e causa febre, lesões cutâneas, artralgia, artrite e tenossinovite sépticas. A infecção de faringe é assintomática em mais de 90% dos casos, e a retal também costuma ser silenciosa, mais frequente em homens que fazem sexo com homens. A conjuntivite gonocócica pode levar a perfuração e cegueira se não tratada cedo.",
+  "porAlt": [
+   "Inverte o dado: a infecção faríngea é assintomática em mais de 90% dos casos.",
+   "A infecção gonocócica disseminada é rara, em torno de 0,5 a 3% dos casos, não 15 a 25%.",
+   "A conjuntivite gonocócica é grave, com risco de úlcera, perfuração e cegueira sem tratamento precoce.",
+   "A infecção retal é mais frequente em homens que fazem sexo com homens, não em mulheres.",
+   "Correta: a forma disseminada predomina em mulheres, ligada à infecção assintomática persistente e a menstruação, gravidez e pós-parto."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 73
+  }
+ },
+ {
+  "pid": "m25074",
+  "q": "A vaginose bacteriana é uma condição em que ocorre um desequilíbrio na flora vaginal, levando a um aumento de bactérias anaeróbias em relação aos lactobacilos. Essa mudança no ambiente vaginal causa sintomas como corrimento vaginal com odor característico e alteração na cor. Paciente deu entrada para atendimento na unidade de saúde com quadro de corrimento vaginal e foi diagnosticada com vaginose bacteriana, na consulta informou ser alérgica a metronidazol. A medicação de escolha para tratamento dessa paciente é",
+  "alts": [
+   "clindamicina.",
+   "sulfametoxazol + trimetoprima.",
+   "cefalexina.",
+   "ciprofloxacino.",
+   "nitrofurantoína."
+  ],
+  "gab": 0,
+  "tema": "gininfec",
+  "sub": "Vaginose bacteriana: alternativa ao metronidazol",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "O tratamento de primeira linha da vaginose bacteriana no PCDT de IST (2022) é metronidazol 500 mg VO de 12/12 horas por 7 dias ou gel vaginal por 5 noites. A alternativa é a clindamicina 300 mg VO de 12/12 horas por 7 dias, também disponível em creme vaginal, que cobre os anaeróbios (Gardnerella, Prevotella, Mobiluncus) responsáveis pelo quadro. Na alergia ao metronidazol, a clindamicina é a escolha. Os demais antibióticos listados não têm ação adequada sobre a flora anaeróbia da vaginose. Parceiros sexuais não precisam ser tratados.",
+  "porAlt": [
+   "Correta: a clindamicina é a alternativa recomendada ao metronidazol no tratamento da vaginose bacteriana.",
+   "Sulfametoxazol com trimetoprima não cobre bem os anaeróbios e não é indicado para vaginose.",
+   "A cefalexina tem espectro para Gram-positivos de pele e via urinária, sem papel na vaginose.",
+   "O ciprofloxacino não tem atividade adequada contra os anaeróbios da vaginose bacteriana.",
+   "A nitrofurantoína age apenas no trato urinário, sem efeito sobre a flora vaginal."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 74
+  }
+ },
+ {
+  "pid": "m25078",
+  "q": "As metas do tratamento de emergência de feridas são restaurar a função, reparar a integridade tecidual, recuperando a força tênsil da ferida e objetivando uma aparência estética ótima, além de minimizar o risco de infecção. Os fatores de risco de morbidade para feridas incluem tempo prolongado desde a lesão, mecanismo de esmagamento, feridas profundas com comprimento maior que 5 cm, idade do paciente, projéteis de alta velocidade, localização e contaminação. A localização com maior risco para infecção de feridas é",
+  "alts": [
+   "o couro cabeludo.",
+   "o tórax.",
+   "a perna.",
+   "o abdome.",
+   "a face."
+  ],
+  "gab": 2,
+  "tema": "trauma",
+  "sub": "Risco de infecção em feridas",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 9ª ed., 2020",
+  "coment": "A localização da ferida é determinante para o risco de infecção, pela vascularização e pela carga bacteriana da pele. Feridas de membros inferiores, sobretudo pernas e pés, têm as maiores taxas de infecção, favorecidas por circulação menos abundante, edema, contaminação e, nos idosos e diabéticos, doença vascular periférica. Couro cabeludo e face, muito vascularizados, têm as menores taxas, o que permite inclusive suturar mais tardiamente. Tronco e abdome ficam em posição intermediária. Outros fatores de risco são esmagamento, contaminação grosseira, tempo prolongado até o reparo e comorbidades.",
+  "porAlt": [
+   "O couro cabeludo é muito vascularizado e tem uma das menores taxas de infecção de feridas.",
+   "O tórax tem risco intermediário de infecção, inferior ao dos membros inferiores.",
+   "Correta: feridas da perna e de membros inferiores têm o maior risco de infecção.",
+   "O abdome, como o restante do tronco, tem risco intermediário de infecção.",
+   "A face, pela rica vascularização, tem baixo risco de infecção e tolera reparo mais tardio."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 78
+  }
+ },
+ {
+  "pid": "m25080",
+  "q": "O câncer de próstata é mais comum em homens, exceto os de pele não melanoma, e geralmente é de crescimento lento, não apresentando sintomas em fases iniciais. No entanto, quando a doença avança, podem surgir sintomas como dificuldade para urinar, necessidade frequente de urinar, ou sangue na urina. Uma revisão sistemática sobre a prevalência do câncer de próstata em autópsias de homens que morreram por outras causas demonstrou que, entre os homens com idade de 40 a 50 anos, 37% dos investigados possuíam achados histológicos compatíveis com câncer, e, em homens com idade acima de 79 anos, essa taxa subiu para 60%. (BELL et al., 2015). Os principais fatores de risco conhecidos para neoplasia da próstata são",
+  "alts": [
+   "tabagismo e alcoolismo.",
+   "obesidade e hereditariedade.",
+   "idade (a partir da 5ª década) e tabagismo.",
+   "raça branca e hereditariedade.",
+   "raça negra e tabagismo."
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "Fatores de risco do câncer de próstata",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Instituto Nacional de Câncer (INCA). Detecção precoce do câncer, 2021",
+  "coment": "O INCA reconhece como fatores de risco do câncer de próstata a idade (a incidência cresce de forma marcante após os 50 anos), a história familiar de pai ou irmão com a doença antes dos 60 anos, a raça negra e o excesso de gordura corporal, além de exposições ocupacionais como aminas aromáticas e arsênio. Tabagismo e etilismo não têm associação estabelecida. Entre as opções, só a combinação de obesidade e hereditariedade reúne dois fatores reconhecidos. O INCA não recomenda o rastreamento populacional com PSA em homens assintomáticos, priorizando decisão compartilhada e diagnóstico precoce de sintomáticos.",
+  "porAlt": [
+   "Tabagismo e alcoolismo não são fatores de risco estabelecidos para câncer de próstata.",
+   "Correta: excesso de gordura corporal e hereditariedade são fatores de risco reconhecidos pelo INCA.",
+   "A idade é fator de risco, mas o tabagismo não tem associação estabelecida com câncer de próstata.",
+   "A hereditariedade é fator, mas o risco é maior em homens negros, não brancos.",
+   "A raça negra é fator de risco, mas o tabagismo não é, o que torna o par incorreto."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 80
+  }
+ }
+]

@@ -1,0 +1,10 @@
+{"incluidas": 38,
+ "descartadas": [
+  {"pid": "s24041", "motivo": "clínica médica: fora do escopo desta rodada (dor torácica após cocaína e marcador de lesão miocárdica = emergencias/cardio)"},
+  {"pid": "s24044", "motivo": "clínica médica: fora do escopo desta rodada (diferencial de demências pelo movimento coreico, Huntington = neurologia pura)"}
+ ],
+ "gabaritos_discutiveis": [
+  {"pid": "s24068", "nota": "Em português 'delírio' é usado coloquialmente também para delirium; lido assim, as alternativas sobre causa médica e curso flutuante seriam verdadeiras. Mantido porque na psicopatologia brasileira (Dalgalarrondo) delírio = delusion e delirium tem termo próprio; o comentário explica a distinção."},
+  {"pid": "s24073", "nota": "A afirmação de que a mania no idoso é mais leve segue Kaplan e a força-tarefa da ISBD (2015) (menos grandiosidade e psicose, mais irritabilidade e estados mistos), mas a evidência sobre gravidade é heterogênea. As demais alternativas são claramente falsas, por isso mantida."},
+  {"pid": "s24065", "nota": "A alternativa 'síndrome piramidal' é pegadinha de terminologia (antipsicótico causa síndrome EXTRApiramidal). Mantida: ginecomastia por hiperprolactinemia é a única resposta tecnicamente correta."}
+ ]}

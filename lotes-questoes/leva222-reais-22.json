@@ -1,0 +1,1289 @@
+[
+ {
+  "pid": "p25001",
+  "q": "Lactente, quatro meses, é trazido à consulta pelo pai. Refere que a mãe está gravemente enferma, internada há uma semana e está alimentando seu filho com leite de vaca integral, “Longa vida”, que compra no supermercado. Durante a consulta, o pediatra deverá alertar para o fato de que o leite de vaca integral apresenta",
+  "alts": [
+   "teor aumentado de ácidos graxos saturados sendo o uso de composto lácteo a melhor opção.",
+   "concentração muito baixa de proteína, devendo ser adicionado um suplemento.",
+   "relação inadequada entre caseína e proteínas do soro, devendo ser feita troca para fórmula.",
+   "baixa biodisponibilidade de micronutrientes, excetuando-se o ferro, que deve ser suplementado.",
+   "teor adequado de vitaminas D e E e baixo teor de vitamina C, podendo ser usado suco."
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Leite de vaca integral no lactente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Manual de Alimentação: orientações para alimentação do lactente ao adolescente, 4ª ed., 2018",
+  "coment": "Abaixo de 1 ano, o leite de vaca integral é inadequado. Sua proteína é cerca de 80% caseína e 20% proteínas do soro, ao contrário do leite humano (perto de 40:60), o que dificulta a digestão e eleva a carga de soluto renal. Além disso tem excesso de proteína e sódio, pouco ferro (e mal absorvido), pouca vitamina C, D e E e pouco ácido linoleico, além de favorecer micro-hemorragia intestinal e anemia. Sem leite materno disponível, a SBP recomenda fórmula infantil de partida até os 6 meses. Composto lácteo não substitui fórmula.",
+  "porAlt": [
+   "Composto lácteo não é fórmula infantil nem é indicado ao lactente; o problema principal do leite de vaca também não é a gordura saturada.",
+   "O leite de vaca tem concentração de proteína alta (cerca de três vezes a do leite humano), não baixa.",
+   "Correta: a relação caseína/proteínas do soro é inadequada (cerca de 80:20) e a conduta é substituir por fórmula infantil.",
+   "O ferro do leite de vaca é justamente um dos micronutrientes de baixa biodisponibilidade, não uma exceção.",
+   "O leite de vaca é pobre em vitaminas D e E, e suco não é recomendado para lactente de quatro meses."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 1
+  }
+ },
+ {
+  "pid": "p25002",
+  "q": "Menina pré-escolar, quatro anos, apresenta recusa persistente a experimentar novos alimentos, aceitando apenas preparações específicas de poucos itens, principalmente líquidos e derivados lácteos. Mostra intensa irritação quando exposta a frutas e verduras, além de desconforto em manipular massas ou texturas pegajosas. Pais relatam conflitos frequentes nas refeições e preocupação com a limitação alimentar. Essa situação alimentar é corretamente caracterizada por",
+  "alts": [
+   "recusa alimentar seletiva relacionada a características sensoriais dos alimentos.",
+   "anorexia nervosa típica da infância, marcada por medo intenso de ganhar peso.",
+   "transtorno disfágico funcional, definido pela incapacidade de deglutir alimentos sólidos.",
+   "transtorno de ruminação, com regurgitação repetida de alimentos previamente ingeridos.",
+   "síndrome de alimentação noturna, caracterizada pela ingestão compulsiva durante a madrugada."
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Seletividade alimentar sensorial",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kerzner B et al. A practical approach to classifying and managing feeding difficulties, Pediatrics, 2015; American Psychiatric Association, DSM-5-TR, 2022",
+  "coment": "A criança recusa novos alimentos, aceita poucos itens de textura previsível (líquidos e lácteos) e reage com aversão a frutas, verduras e texturas pegajosas. É o perfil da aversão sensorial na classificação de dificuldades alimentares de Kerzner: a seleção se dá por cor, cheiro, sabor e textura. Não há medo de engordar nem distorção de imagem (anorexia), nem disfagia, regurgitação ou ingestão noturna. A conduta envolve exposição gradual e repetida, refeições sem coerção e, se houver prejuízo nutricional, terapia alimentar especializada.",
+  "porAlt": [
+   "Correta: a recusa é seletiva e guiada por características sensoriais (textura, cor, cheiro) dos alimentos.",
+   "Anorexia nervosa exige restrição motivada por medo de ganhar peso e distorção da imagem corporal, ausentes aqui.",
+   "Não há relato de dificuldade de deglutir sólidos; a recusa é por aversão sensorial, não por disfagia.",
+   "Ruminação é a regurgitação repetida de alimento já ingerido, o que não é descrito.",
+   "Síndrome do comer noturno é quadro de adolescentes e adultos e não se relaciona à recusa descrita."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 2
+  }
+ },
+ {
+  "pid": "p25003",
+  "q": "Dois irmãos foram levados ao ambulatório de pediatria por ganho de peso progressivo. O mais novo, de três anos, apresenta escore Z do índice de massa corporal (IMC) maior que +2 e até +3. O irmão mais velho, de seis anos, também apresenta escore Z nessa mesma faixa. Considerando a classificação segundo o escore Z (IMC), os irmãos de três e seis anos serão considerados, respectivamente, com",
+  "alts": [
+   "sobrepeso e obesidade.",
+   "obesidade e obesidade grave.",
+   "obesidade grave e sobrepeso.",
+   "risco de sobrepeso e sobrepeso.",
+   "obesidade grave a risco de sobrepeso."
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Classificação do IMC por escore Z",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Orientações para a coleta e análise de dados antropométricos em serviços de saúde (SISVAN), 2011, com curvas OMS 2006/2007; SBP, Manual de Orientação Obesidade na Infância e Adolescência, 3ª ed., 2019",
+  "coment": "Os pontos de corte do IMC para idade mudam aos 5 anos. Do nascimento aos 5 anos (curvas OMS 2006): escore Z acima de +1 e até +2 é risco de sobrepeso, acima de +2 e até +3 é sobrepeso e acima de +3 é obesidade. Dos 5 aos 19 anos (OMS 2007): acima de +1 e até +2 é sobrepeso, acima de +2 e até +3 é obesidade e acima de +3 é obesidade grave. Com o mesmo escore entre +2 e +3, o irmão de 3 anos tem sobrepeso e o de 6 anos tem obesidade.",
+  "porAlt": [
+   "Correta: entre +2 e +3, a criança menor de 5 anos tem sobrepeso e a de 5 anos ou mais tem obesidade.",
+   "Obesidade aos 3 anos exige escore acima de +3, e obesidade grave aos 6 anos também exige escore acima de +3.",
+   "Os dois estão na mesma faixa (+2 a +3), que não corresponde a obesidade grave em nenhuma idade.",
+   "Risco de sobrepeso (menores de 5 anos) e sobrepeso (5 a 19 anos) correspondem à faixa de +1 a +2.",
+   "Obesidade grave exige escore acima de +3 e risco de sobrepeso fica entre +1 e +2, nenhum dos dois casos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 3
+  }
+ },
+ {
+  "pid": "p25004",
+  "q": "Uma gestante, na consulta pré-natal com o pediatra, informa que após os seis meses de idade de seu filho pretende seguir um tipo de alimentação vegetariana ainda não definida, desejando obter informações. O pediatra deverá orientar a gestante para o fato de que a dieta",
+  "alts": [
+   "lacto-ovovegetariana pode ser deficiente em vitamina A e em vitamina D.",
+   "lactovegetariana apresenta carência de cálcio e bons níveis de vitamina B12.",
+   "ovovegetariana pode apresentar níveis adequados de ferro, mas não de cálcio.",
+   "vegana apresenta risco aumentado de deficiência em vitamina A e vitamina B12.",
+   "lacto-ovovegetariana apresenta níveis adequados de cálcio, mas baixos de vitamina A."
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Dieta vegetariana na infância",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria, Departamento de Nutrologia. Guia Prático de Atualização: Alimentação vegetariana na infância e adolescência, 2017",
+  "coment": "Quanto mais restritiva a dieta, maior o risco de carências. A vegana exclui todo alimento de origem animal: a vitamina B12 praticamente só existe em alimentos animais, e o retinol (vitamina A pré-formada) também, restando os carotenoides vegetais, de conversão variável. Por isso a dieta vegana na criança exige suplementação de B12 e atenção a vitamina A, ferro, zinco, cálcio, vitamina D e ômega 3, com acompanhamento de nutricionista. Dietas com leite e ovos fornecem cálcio, vitamina A e B12 em quantidade geralmente adequada.",
+  "porAlt": [
+   "A dieta lacto-ovovegetariana tem leite e ovos, boas fontes de vitamina A, e não é especialmente deficiente nela.",
+   "A lactovegetariana inclui leite, fonte de cálcio, e a B12 pode ser limítrofe, o oposto do afirmado.",
+   "Sem carne, o ferro é o nutriente de maior risco na ovovegetariana, não o que fica adequado.",
+   "Correta: a dieta vegana exclui as fontes de B12 e de retinol, com risco aumentado dessas deficiências.",
+   "Na lacto-ovovegetariana o leite e os ovos garantem cálcio e vitamina A, sem déficit típico de vitamina A."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 4
+  }
+ },
+ {
+  "pid": "p25005",
+  "q": "Pré-escolar, 4 anos, masculino, é levado ao pronto atendimento com história de febre diária nas últimas três semanas associada a palidez e cansaço aos pequenos esforços. A mãe relata dor intensa nos membros inferiores, que piora à noite e não melhora com analgésicos comuns, além de dificuldade para caminhar. Ao exame, observa-se equimoses em membros, hepatoesplenomegalia e linfonodos cervicais palpáveis. Não há queixas respiratórias ou neurológicas no momento. A principal hipótese diagnóstica é leucemia",
+  "alts": [
+   "prolinfocítica.",
+   "linfoide aguda.",
+   "mieloide aguda.",
+   "mieloide crônica.",
+   "mielomonocítica crônica."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Leucemia linfoide aguda",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Instituto Nacional de Câncer (INCA). Diagnóstico precoce do câncer na criança e no adolescente, 2ª ed., 2014",
+  "coment": "Criança de 2 a 5 anos com febre prolongada, palidez, cansaço (anemia), equimoses (plaquetopenia), dor óssea noturna que limita a marcha (infiltração medular), hepatoesplenomegalia e linfonodomegalia reúne o quadro clássico de leucemia linfoide aguda, o câncer mais comum da infância (cerca de 75% a 80% das leucemias pediátricas, pico entre 2 e 5 anos). A dor óssea refratária a analgésicos é sinal de alerta que diferencia de doenças reumatológicas. O próximo passo é hemograma com esfregaço e mielograma com imunofenotipagem.",
+  "porAlt": [
+   "Leucemia prolinfocítica é doença rara de adultos idosos, sem relação com este quadro.",
+   "Correta: idade, citopenias, dor óssea, visceromegalias e linfonodomegalia formam o quadro típico da LLA da infância.",
+   "A leucemia mieloide aguda é bem menos frequente nessa faixa etária e costuma ter menos organomegalia e dor óssea.",
+   "A leucemia mieloide crônica é rara na criança e cursa com leucocitose e esplenomegalia de evolução mais insidiosa.",
+   "A leucemia mielomonocítica crônica é doença de idosos; na criança pequena a forma rara é a juvenil, com outro quadro."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 5
+  }
+ },
+ {
+  "pid": "p25006",
+  "q": "Escolar, 5 anos, masculino, com diagnóstico de anemia falciforme, é levado à emergência com dor intensa iniciada há 12 horas em membros inferiores e abdome, sem trauma prévio. O início foi súbito, não melhorando com analgésicos comuns e impedindo de caminhar. Ao exame físico, apresenta choro constante à mobilização, palidez cutaneomucosa e temperatura corporal normal. Não há sinais de infecção aparente. Inquirido sobre a escala de manejo da dor, concluiu-se que ela é 6 (moderada). A conduta em relação ao controle da dor, no caso, deve ser a prescrição de",
+  "alts": [
+   "dipirona por via oral a cada seis horas.",
+   "ibuprofeno por via oral a cada oito horas.",
+   "paracetamol por via oral a cada quatro horas.",
+   "tramadol por via intravenosa a cada seis horas.",
+   "morfina por via subcutânea a cada quatro horas."
+  ],
+  "gab": 4,
+  "tema": "pedemerg",
+  "sub": "Crise álgica na doença falciforme",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Doença falciforme: condutas básicas para tratamento, 2012; American Society of Hematology, guidelines for sickle cell disease: management of acute and chronic pain, 2020",
+  "coment": "Crise vaso-oclusiva que já não respondeu a analgésicos comuns e chega ao pronto-socorro impedindo a marcha pede opioide, sem demora, associado a hidratação e reavaliação frequente da dor. Na criança, a abordagem atual passa direto do analgésico simples ao opioide forte (morfina), evitando codeína e tramadol, de metabolismo imprevisível e contraindicados abaixo de 12 anos por agências como a FDA (2017). A morfina pode ser dada por via oral, venosa ou subcutânea a cada 3 a 4 horas, com dipirona associada.",
+  "porAlt": [
+   "Dipirona isolada por via oral já falhou em domicílio e é insuficiente para a crise que impede a marcha.",
+   "Ibuprofeno isolado também é analgésico comum que já falhou; anti-inflamatório entra apenas como adjuvante.",
+   "Paracetamol isolado repete a estratégia que falhou e não controla dor vaso-oclusiva que impede a marcha.",
+   "Tramadol é opioide fraco de metabolismo variável, desaconselhado em menores de 12 anos, e não é a escolha em criança.",
+   "Correta: dor refratária a analgésicos comuns exige opioide forte; morfina subcutânea a cada 4 horas é opção adequada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 6
+  }
+ },
+ {
+  "pid": "p25007",
+  "q": "Lactente feminino, 5 meses, em aleitamento materno exclusivo, inicia há 24 horas cólicas contínuas, vômitos persistentes, evoluindo com letargia. Apresentou evacuações com sangue desde o início dos sintomas. Ao exame encontra-se irritada e desidratada, com massa palpável em abdome. Na suspeita diagnóstica de invaginação intestinal, o exame complementar com maior sensibilidade e especificidade a ser realizado inicialmente é a",
+  "alts": [
+   "ultrassonografia abdominal.",
+   "radiografia abdominal simples.",
+   "tomografia de abdome.",
+   "ressonância de abdome.",
+   "rotina de abdome agudo."
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Invaginação intestinal no lactente",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 6ª ed., 2024",
+  "coment": "A ultrassonografia abdominal é o exame inicial de escolha na suspeita de invaginação intestinal, com sensibilidade e especificidade próximas de 100% em mãos experientes. Mostra a imagem em alvo (corte transversal) ou em pseudorrim (longitudinal), não usa radiação e ainda orienta a redução hidrostática ou pneumática guiada. A radiografia simples tem baixa sensibilidade e serve apenas para buscar pneumoperitônio ou obstrução. Tomografia e ressonância não têm papel inicial. Letargia, vômitos e fezes com sangue em lactente de 5 meses formam o quadro típico.",
+  "porAlt": [
+   "Correta: a ultrassonografia é o exame inicial mais sensível e específico, sem radiação, e guia a redução.",
+   "A radiografia simples tem baixa sensibilidade e é usada só para procurar perfuração ou obstrução.",
+   "A tomografia expõe a radiação e não é necessária para o diagnóstico inicial da invaginação.",
+   "A ressonância é demorada, exige sedação e não tem papel no diagnóstico de urgência.",
+   "A rotina de abdome agudo é radiológica, com baixa sensibilidade para invaginação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 7
+  }
+ },
+ {
+  "pid": "p25008",
+  "q": "Menino, 2 anos, é levado ao atendimento médico de emergência por apresentar equimoses e hematomas pelo corpo, de início há uma semana, sem relação com trauma. Exame físico evidencia apenas hematomas e equimoses em tronco, abdome e membros. Hemograma demonstra trombocitopenia (plaquetas: 5.000/mm³) e demais parâmetros dentro da normalidade. A hipótese diagnóstica é trombocitopenia imune primária. Em relação à trombocitopenia imune primária na infância, é correto afirmar que",
+  "alts": [
+   "não é um diagnóstico de exclusão.",
+   "cursa com trompocitopenia e anemia.",
+   "é um distúrbio agudo, autolimitado e imunomediado.",
+   "a contagem de plaquetas fica entre 100.000 e 150.000/mm³.",
+   "tem alguma condição clínica associada que reduz as plaquetas."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Trombocitopenia imune primária",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American Society of Hematology. Guidelines for immune thrombocytopenia, 2019; Provan D et al. Updated international consensus report on immune thrombocytopenia, 2019",
+  "coment": "A trombocitopenia imune primária da infância é doença adquirida, mediada por autoanticorpos contra plaquetas, geralmente após infecção viral, com pico entre 2 e 5 anos. É aguda e autolimitada: cerca de 70% a 80% das crianças se recuperam em até 12 meses, a maioria nas primeiras semanas. O diagnóstico é de exclusão: plaquetas abaixo de 100.000/mm³ com as demais séries normais e sem outra causa. Criança só com sangramento cutâneo pode ser apenas observada, mesmo com plaquetas muito baixas.",
+  "porAlt": [
+   "A PTI é diagnóstico de exclusão: exige afastar outras causas de plaquetopenia.",
+   "Na PTI a plaquetopenia é isolada; anemia só ocorre se houver sangramento importante.",
+   "Correta: na criança é distúrbio agudo, autolimitado e imunomediado, com remissão na maioria.",
+   "O critério diagnóstico é plaqueta abaixo de 100.000/mm³; entre 100.000 e 150.000 não define PTI.",
+   "Plaquetopenia com condição associada caracteriza PTI secundária, não primária."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 8
+  }
+ },
+ {
+  "pid": "p25009",
+  "q": "Lactente de 18 meses, masculino, apresenta aumento do volume abdominal de início há aproximadamente um mês, irritabilidade e perda de peso. Ao exame físico encontra-se irritado, com massa abdominal palpável ocupando toda a metade inferior do abdome à direita. Tomografia computadorizada evidencia massa em suprarrenal direita com hemorragia e calcificação. A dosagem urinária de ácido homovanílico e ácido vanilmandélico encontram-se elevadas. A hipótese diagnóstica é",
+  "alts": [
+   "tumor de Wilms.",
+   "neuroblastoma.",
+   "rabdomiosarcoma.",
+   "neurofibroma.",
+   "linfoma."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Neuroblastoma",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Instituto Nacional de Câncer (INCA). Diagnóstico precoce do câncer na criança e no adolescente, 2ª ed., 2014",
+  "coment": "Massa de suprarrenal com calcificações e hemorragia em criança menor de 2 anos, com ácido homovanílico e vanilmandélico urinários elevados, define neuroblastoma. É o tumor sólido extracraniano mais comum da infância e deriva da crista neural, por isso produz catecolaminas. Calcificação na tomografia aparece em cerca de 85% dos casos. O tumor de Wilms é renal, raramente calcifica e não eleva catecolaminas. Perda de peso e irritabilidade refletem doença sistêmica, frequente ao diagnóstico.",
+  "porAlt": [
+   "O tumor de Wilms nasce do rim, raramente calcifica e não eleva ácido vanilmandélico.",
+   "Correta: massa suprarrenal calcificada com catecolaminas urinárias elevadas em lactente é neuroblastoma.",
+   "O rabdomiossarcoma é tumor de partes moles e não produz catecolaminas.",
+   "Neurofibroma é tumor benigno de bainha neural, sem secreção de catecolaminas.",
+   "Linfoma abdominal ocorre em crianças maiores e não eleva ácido homovanílico nem vanilmandélico."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 9
+  }
+ },
+ {
+  "pid": "p25010",
+  "q": "Pré-escolar, masculino, 2 anos e meio, previamente hígido, apresenta palidez, fraqueza, dor abdominal e icterícia 48 horas após iniciar tratamento para infecção do trato urinário com nitrofurantoína. Hemograma evidencia anemia normocítica e normocrômica. Os reticulócitos e a desidrogenase láctica estão elevados. A hipótese diagnóstica, nesse caso, é",
+  "alts": [
+   "deficiência de glicose-6-fosfato desidrogenase.",
+   "anemia falciforme.",
+   "talassemia minor.",
+   "esferocitose hereditária.",
+   "traço falcêmico."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Deficiência de G6PD",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 6ª ed., 2024",
+  "coment": "Hemólise aguda (anemia normocítica, reticulocitose, LDH alta, icterícia) 24 a 72 horas após exposição a droga oxidante em criança previamente hígida e do sexo masculino aponta deficiência de glicose-6-fosfato desidrogenase, defeito enzimático ligado ao X. Nitrofurantoína, sulfas, primaquina, dapsona e fava são gatilhos clássicos. No esfregaço surgem corpúsculos de Heinz e células mordidas. A dosagem da enzima deve ser repetida fora da crise, pois os reticulócitos têm mais enzima e podem dar falso normal.",
+  "porAlt": [
+   "Correta: hemólise aguda após droga oxidante (nitrofurantoína) em menino previamente hígido é deficiência de G6PD.",
+   "Anemia falciforme manifesta-se cedo com crises e anemia crônica, não como primeiro evento desencadeado por droga.",
+   "Talassemia minor causa microcitose leve e estável, sem crise hemolítica aguda.",
+   "Esferocitose cursa com hemólise crônica, esferócitos e esplenomegalia, sem relação com droga oxidante.",
+   "Traço falcêmico é assintomático e não causa hemólise após medicamentos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 10
+  }
+ },
+ {
+  "pid": "p25011",
+  "q": "Escolar de 8 anos, menino, em tratamento de asma com beclometasona spray oral, na dose de 400 mcg ao dia há 3 meses, sem controle dos sintomas nas últimas 4 semanas. Faz uso da medicação com espaçador, tem boa adesão ao tratamento e a técnica inalatória está correta. Em relação à terapia farmacológica para a asma, a conduta nesse momento é",
+  "alts": [
+   "trocar o corticoide inalatório para associação de broncodilatador de longa ação e corticoide inalatório.",
+   "manter o corticoide inalatório e associar antileucotrieno.",
+   "manter o corticoide inalatório e associar antimuscarínico de longa duração.",
+   "manter o corticoide inalatório e associar imunobiológico de acordo com o fenótipo da asma.",
+   "manter o corticoide inalatório e associar broncodilatador de curta ação contínuo."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Asma não controlada em escolar",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Global Initiative for Asthma (GINA), 2026",
+  "coment": "Para 6 a 11 anos, 400 mcg/dia de beclometasona (spray padrão) é dose média de corticoide inalatório. Com boa adesão e técnica correta e sem controle, sobe-se um degrau: a GINA prefere a associação de corticoide inalatório com beta-2 agonista de longa ação (LABA) em dose média, ou a terapia de manutenção e resgate com budesonida-formoterol, e encaminhamento ao especialista. Antileucotrieno e tiotrópio são opções alternativas, menos eficazes. Imunobiológico só no degrau 5, após fenotipagem.",
+  "porAlt": [
+   "Correta: asma não controlada com dose média de corticoide inalatório pede associação com LABA (corticoide + LABA).",
+   "Antileucotrieno associado é opção alternativa, menos eficaz que a associação com LABA.",
+   "Tiotrópio é opção adicional de degrau mais alto, não a escolha preferencial neste momento.",
+   "Imunobiológico fica reservado à asma grave refratária (degrau 5) após avaliação de fenótipo.",
+   "Broncodilatador de curta ação de uso contínuo não é controlador e indica mau controle."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 11
+  }
+ },
+ {
+  "pid": "p25012",
+  "q": "Escolar de 7 anos, menina, em tratamento profilático de asma com corticoide inalatório, chega à emergência com exacerbação da doença. É medicada com broncodilatador de curta ação, por via inalatória, de 20 em 20 minutos durante uma hora e corticoide sistêmico por via oral. Apresenta melhora e recebe alta hospitalar. A prescrição para o domicílio deverá ser feita com",
+  "alts": [
+   "broncodilatador inalatório de longa ação e corticoide inalatório.",
+   "broncodilatador inalatório de curta ação e anti-histamínico oral.",
+   "broncodilatador inalatório de curta ação e corticoide oral.",
+   "broncodilatador inalatório de curta ação.",
+   "antimuscarínico de longa duração e corticoide inalatório."
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Alta após exacerbação de asma",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Global Initiative for Asthma (GINA), 2026",
+  "coment": "Na alta após exacerbação tratada com corticoide sistêmico, a criança deve sair com broncodilatador de curta ação para resgate e com o corticoide oral completando o curso (3 a 5 dias em crianças). O corticoide inalatório que ela já usa é mantido, e o plano é revisto em retorno precoce (2 a 7 dias), com revisão de técnica, adesão e eventual aumento de degrau. A combinação de beta-2 de curta ação mais corticoide oral é a única que cobre resgate e o curso sistêmico iniciado no pronto-socorro.",
+  "porAlt": [
+   "Sem resgate de curta ação e sem completar o curso de corticoide oral, a prescrição de alta fica incompleta.",
+   "Anti-histamínico não tem papel no tratamento da exacerbação de asma.",
+   "Correta: resgate com beta-2 de curta ação e conclusão do corticoide oral por 3 a 5 dias, mantendo o inalatório.",
+   "Só o broncodilatador de curta ação omite o corticoide sistêmico, que reduz recaída após a alta.",
+   "Antimuscarínico de longa duração não é medicação de alta após exacerbação na criança."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 12
+  }
+ },
+ {
+  "pid": "p25013",
+  "q": "A urticaria é uma erupção cutânea transitória, pruriginosa, eritematosa e elevada, que pode se tornar tensa e dolorosa. As lesões podem coalescer e formar lesões polimórficas, que frequentemente desaparecem, reaparecendo em outros locais. Sobre a urticária aguda na infância, é correto afirmar que",
+  "alts": [
+   "o diagnóstico é estabelecido quando as lesões ocorrem na maioria dos dias da semana por mais de 6 semanas.",
+   "o papel de um alimento desencadeante não pode ser comprovado pela eliminação e provocação alimentar.",
+   "na ausência de informações que impliquem no alimento envolvido, os testes cutâneos para alimentos são úteis.",
+   "é frequentemente causada por uma reação alérgica não mediada por IgE.",
+   "as causas identificáveis mais comuns são infecções virais, medicamentos e alimentos."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Urticária aguda na infância",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Zuberbier T et al. EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for urticaria, Allergy, 2022",
+  "coment": "Urticária aguda dura menos de 6 semanas. Na criança, as causas identificáveis mais comuns são infecções virais (as mais frequentes), seguidas de medicamentos (sobretudo antibióticos e anti-inflamatórios) e alimentos. Muitas vezes nenhuma causa é encontrada, e a investigação extensa não é recomendada. A suspeita de alimento se confirma por história, eliminação e provocação; testes cutâneos só ajudam quando a história aponta o alimento. O tratamento é anti-histamínico de segunda geração.",
+  "porAlt": [
+   "Lesões na maioria dos dias por mais de 6 semanas definem urticária crônica, não aguda.",
+   "Eliminação seguida de provocação é justamente o padrão para confirmar o alimento desencadeante.",
+   "Sem história que aponte o alimento, painel de testes cutâneos gera falsos positivos e não é recomendado.",
+   "Quando há alergia envolvida na urticária aguda, ela costuma ser mediada por IgE.",
+   "Correta: infecções virais, medicamentos e alimentos são as causas identificáveis mais comuns na criança."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 13
+  }
+ },
+ {
+  "pid": "p25014",
+  "q": "Lactente de 1 ano, apresenta lesões cutâneas intensamente pruriginosas com pápulas eritematosas em face, couro cabeludo e superfícies extensoras de extremidades, de início há aproximadamente um mês. A lesão polpa região de fraldas. O prurido piora à noite e quando faz uso de leite de vaca. A hipótese diagnóstica para o caso é",
+  "alts": [
+   "dermatite atópica.",
+   "dermatite seborreica.",
+   "pitiríase versicolor.",
+   "psoríase.",
+   "pitiríase rósea."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Dermatite atópica do lactente",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Associação Brasileira de Alergia e Imunologia e Sociedade Brasileira de Pediatria. Guia prático de atualização em dermatite atópica, 2017",
+  "coment": "No lactente, a dermatite atópica acomete face (bochechas), couro cabeludo e superfícies extensoras, com pápulas eritematosas, crostas e prurido intenso que piora à noite. A área das fraldas costuma ser poupada pela umidade local. Prurido é o critério obrigatório de Hanifin e Rajka. A piora com leite de vaca sugere alimento como fator agravante em parte das crianças, a investigar. A dermatite seborreica é pouco pruriginosa, com escamas gordurosas, e atinge justamente a região das fraldas.",
+  "porAlt": [
+   "Correta: prurido intenso, face, couro cabeludo e extensoras, poupando fraldas, é a distribuição típica do lactente.",
+   "A dermatite seborreica é pouco pruriginosa, tem escamas amareladas e costuma acometer a área das fraldas.",
+   "A pitiríase versicolor causa máculas hipo ou hipercrômicas descamativas, pouco pruriginosas, rara no lactente.",
+   "A psoríase tem placas eritematodescamativas bem delimitadas e no lactente frequentemente atinge a área das fraldas.",
+   "A pitiríase rósea surge com placa-mãe e lesões ovaladas no tronco, em crianças maiores."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 14
+  }
+ },
+ {
+  "pid": "p25015",
+  "q": "Recém-nascido a termo apresenta, no segundo dia de vida, lesões papulares branco-amareladas, com erupção eritematosa circundante, dispersas em face, tronco e membros, poupando palmas e plantas. O restante do exame físico é normal. No caso, a principal hipótese diagnóstica é",
+  "alts": [
+   "miliária.",
+   "eritema tóxico.",
+   "herpes simplex.",
+   "candidíase.",
+   "melanose pustulosa."
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Eritema tóxico neonatal",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à saúde do recém-nascido: guia para os profissionais de saúde, 2ª ed., 2014",
+  "coment": "O eritema tóxico é a erupção benigna mais comum do recém-nascido a termo. Surge entre o 1º e o 3º dia, com pápulas ou pústulas branco-amareladas sobre base eritematosa, em face, tronco e membros, poupando palmas e plantas (onde não há folículos pilosos). O esfregaço mostra eosinófilos. Some sozinho em cerca de uma semana. Na melanose pustulosa as lesões já estão presentes ao nascer e deixam máculas hiperpigmentadas.",
+  "porAlt": [
+   "A miliária é causada por obstrução de glândulas sudoríparas, com vesículas finas em áreas de calor.",
+   "Correta: pápulas branco-amareladas com halo eritematoso no 2º dia, poupando palmas e plantas, é eritema tóxico.",
+   "O herpes simples neonatal causa vesículas agrupadas, frequentemente com sinais sistêmicos.",
+   "A candidíase cutânea congênita pode atingir palmas e plantas e a neonatal predomina em áreas de dobra e fralda.",
+   "A melanose pustulosa já está presente ao nascer e evolui para máculas hiperpigmentadas."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 15
+  }
+ },
+ {
+  "pid": "p25016",
+  "q": "Lactente de 20 dias apresenta lacrimejamento constante e secreção esbranquiçada no olho desde os primeiros dias de vida, sem sinais sistêmicos ou febre. A mãe relata que o quadro piora quando o bebê chora. Ao exame, há leve edema palpebral e refluxo de secreção à compressão do saco lacrimal direito. A principal hipótese diagnóstica sobre a origem dos sintomas é",
+  "alts": [
+   "obstrução pela presença de muco.",
+   "estenose por processo infeccioso local.",
+   "produção anômala de secreção serosa ocular.",
+   "formação de membrana impedindo a drenagem pelo ducto.",
+   "aumento da pressão no canal devido à má formação ocular."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Obstrução congênita do ducto lacrimonasal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 6ª ed., 2024",
+  "coment": "Lacrimejamento e secreção desde as primeiras semanas, com refluxo de secreção à compressão do saco lacrimal e sem conjuntivite intensa, caracterizam obstrução congênita do ducto lacrimonasal. A causa mais comum é a persistência de membrana na porção distal do ducto (válvula de Hasner), que não se canalizou. Cerca de 90% resolvem até 1 ano com massagem do saco lacrimal (manobra de Crigler) e higiene. Persistindo após 12 meses, indica-se sondagem das vias lacrimais.",
+  "porAlt": [
+   "O muco é consequência da estase, não a causa da obstrução.",
+   "A estenose não é infecciosa; infecção (dacriocistite) é complicação da obstrução.",
+   "A produção de lágrima é normal; o problema é a drenagem.",
+   "Correta: a membrana persistente na válvula de Hasner impede a drenagem lacrimal para o nariz.",
+   "Não há má-formação ocular nem aumento de pressão; a obstrução é distal, no ducto lacrimonasal."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 16
+  }
+ },
+ {
+  "pid": "p25017",
+  "q": "Adolescente, sexo feminino, com quadro insidioso de dor e inchaço em joelhos, punhos e tornozelos, com rigidez matinal e limitação progressiva dos movimentos. Ao exame, observa-se simetria no acometimento articular e leve contratura em flexão dos dedos das mãos. Exames laboratoriais revelam elevação de velocidade de hemossedimentação (VHS) e proteína C reativa (PCR), com fator reumatoide positivo. Relata, ainda, fadiga e episódios de febre baixa nas últimas semanas. Considerando a principal hipótese diagnóstica e os biomarcadores a ela relacionados, é correto afirmar que",
+  "alts": [
+   "a presença de anticorpos antinucleares apresenta forte associação com sacroileíte.",
+   "a detecção do HLA-B27 afasta a possibilidade de envolvimento de espondiloartrites.",
+   "os valores de VHS e PCR são altos, mas não há aumento significativo de imunoglobulinas.",
+   "a detecção de fator antinuclear está relacionada à falha ao tratamento com imunossupressor.",
+   "a positividade do fator reumatoide se associa a maior risco de progressão com dano estrutural."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Artrite idiopática juvenil poliarticular",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Ringold S et al. American College of Rheumatology/Arthritis Foundation guideline for juvenile idiopathic arthritis, 2019; Petty RE et al. Classificação ILAR, 2004",
+  "coment": "Poliartrite simétrica de pequenas e grandes articulações em adolescente do sexo feminino, com fator reumatoide positivo, corresponde à AIJ poliarticular FR positivo, a forma mais parecida com a artrite reumatoide do adulto. O FR positivo (confirmado em duas dosagens com 3 meses de intervalo) e o anti-CCP são marcadores de pior prognóstico, com maior risco de erosão e dano estrutural, o que pesa a favor de tratamento precoce com DMARD. O FAN positivo associa-se a uveíte, e o HLA-B27 à artrite relacionada a entesite.",
+  "porAlt": [
+   "O FAN se associa a uveíte anterior crônica, não a sacroileíte.",
+   "O HLA-B27 está associado às espondiloartrites (artrite relacionada a entesite) e não as afasta.",
+   "Na AIJ ativa a hipergamaglobulinemia policlonal é comum, junto com VHS e PCR elevadas.",
+   "O FAN positivo indica risco de uveíte e não prevê falha ao imunossupressor.",
+   "Correta: fator reumatoide positivo indica maior risco de doença erosiva, com progressão e dano estrutural."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 17
+  }
+ },
+ {
+  "pid": "p25018",
+  "q": "Escolar, nove anos, apresenta, há seis meses, movimentos repetitivos e abruptos da cabeça e emissão de sons guturais. Os episódios aumentam em situações de estresse, mas cessam durante o sono e não ocorrem enquanto ele joga videogame. Os pais relatam que ele consegue controlar os movimentos por curtos períodos. Baseado na principal hipótese diagnóstica, os sintomas motores, vocais e o tempo de duração deles são classificados, respectivamente, como",
+  "alts": [
+   "simples, complexo e crônico.",
+   "simples, simples e temporário.",
+   "complexo, complexo e crônico.",
+   "complexo, simples e temporário.",
+   "complexo, complexo e temporário."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Classificação dos tiques",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association, DSM-5-TR, 2022; American Academy of Neurology, practice guideline on treatment of tics, 2019",
+  "coment": "Tiques simples envolvem poucos grupos musculares ou sons sem significado: piscar, sacudir a cabeça, fungar, pigarrear, sons guturais. Complexos são sequências coordenadas ou palavras e frases (coprolalia, ecolalia). Pelo DSM-5-TR, tiques com menos de 1 ano de duração definem transtorno de tique provisório (o termo transitório foi abandonado); com 1 ano ou mais, motores e vocais configuram Tourette. Aqui são movimentos abruptos da cabeça e sons guturais há 6 meses, suprimíveis e ausentes no sono: simples, simples e provisório.",
+  "porAlt": [
+   "Sons guturais são tiques vocais simples, e 6 meses não configura quadro crônico (exige 1 ano).",
+   "Correta: sacudir a cabeça e emitir sons guturais são tiques simples, e menos de 1 ano é quadro provisório.",
+   "Nenhum dos tiques é complexo e a duração de 6 meses não é crônica.",
+   "Sacudir a cabeça é tique motor simples, não complexo.",
+   "Ambos os tiques são simples, sem sequência coordenada nem palavras."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 18
+  }
+ },
+ {
+  "pid": "p25019",
+  "q": "Escolar, masculino, cinco anos, é trazido à consulta ambulatorial por apresentar micções muito frequentes durante o dia, chegando a urinar a cada 10 a 15 minutos, com início súbito. Os responsáveis negam dor, infecção urinária, escapes diurnos ou episódios noturnos. A criança já era desfraldada e os sintomas começaram pouco antes do início das aulas. Não há alterações ao exame físico. Sobre a principal hipótese diagnóstica, é correto afirmar que",
+  "alts": [
+   "está relacionada à incompetência da junção ureterovesical.",
+   "trata-se de um distúrbio funcional que acomete mais meninos que meninas.",
+   "em torno da metade dos casos observa-se a presença de enurese intermitente.",
+   "na maioria dos casos, um problema anatômico no trato urinário leva a esses sintomas.",
+   "é uma das causas de disfunção da bexiga que não está relacionada à constipação intestinal."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Polaciúria diurna extraordinária",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Austin PF et al. Standardization of terminology of lower urinary tract function in children and adolescents, International Children's Continence Society, 2016",
+  "coment": "Micções muito frequentes (a cada 10 a 20 minutos) apenas de dia, de início súbito, sem disúria, perdas, enurese ou infecção, em criança já desfraldada, definem a polaciúria diurna extraordinária (polaciúria benigna da infância), termo da ICCS. É funcional e autolimitada, mais comum em meninos entre 4 e 6 anos, muitas vezes ligada a estresse (início das aulas). O exame de urina é normal, o trato urinário é anatomicamente normal e a conduta é tranquilizar a família, com resolução em semanas a meses.",
+  "porAlt": [
+   "Incompetência da junção ureterovesical é refluxo vesicoureteral, sem relação com esse quadro funcional.",
+   "Correta: é distúrbio funcional, autolimitado, mais frequente em meninos em idade pré-escolar e escolar.",
+   "Por definição não há escapes nem enurese associados; a frequência aumenta só de dia.",
+   "O trato urinário é anatomicamente normal; não há lesão estrutural na maioria dos casos.",
+   "Constipação se associa às disfunções vesicais em geral e deve ser investigada também neste caso."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 19
+  }
+ },
+ {
+  "pid": "p25020",
+  "q": "Lactente, 2 meses, em aleitamento materno exclusivo, é trazido à consulta de puericultura com história de esforço e choro intenso antes de evacuar, há cerca de duas semanas. Após o esforço, elimina fezes amolecidas sem sangue ou muco. As evacuações ocorrem diariamente, e está se alimentando bem, ganhando peso adequadamente. Exame físico sem alterações. A principal hipótese diagnóstica é",
+  "alts": [
+   "cólica.",
+   "disquezia.",
+   "constipação.",
+   "alergia alimentar.",
+   "refluxo gastroesofágico."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Disquezia do lactente",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Benninga MA et al. Childhood functional gastrointestinal disorders: neonate/toddler, Critérios de Roma IV, 2016",
+  "coment": "Disquezia do lactente (Roma IV): menor de 9 meses com pelo menos 10 minutos de esforço e choro antes de evacuar, com eliminação bem-sucedida de fezes amolecidas, sem outros problemas de saúde. Decorre da falta de coordenação entre o aumento da pressão abdominal e o relaxamento do assoalho pélvico. Não é constipação, pois as fezes são moles e frequentes. A conduta é tranquilizar e evitar estimulação retal, laxantes e troca de alimentação, pois o quadro resolve espontaneamente.",
+  "porAlt": [
+   "A cólica do lactente é choro prolongado sem relação com o ato de evacuar.",
+   "Correta: esforço e choro antes de eliminar fezes moles, com ganho de peso normal, é disquezia do lactente.",
+   "Na constipação as fezes são endurecidas ou infrequentes, e aqui são amolecidas e diárias.",
+   "Fezes sem sangue ou muco, bom ganho de peso e aleitamento materno exclusivo não sugerem alergia alimentar.",
+   "Refluxo se manifesta com regurgitações e não com esforço para evacuar."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 20
+  }
+ },
+ {
+  "pid": "p25021",
+  "q": "Lactente, 50 dias, é trazido ao ambulatório de puericultura por estar amarelado desde o quinto dia de vida. Nasceu a termo, parto normal, com peso adequado e usa leite materno exclusivo. Ao exame físico, bom ganho ponderal, icterícia, hipocolia e colúria, hepatomegalia de consistência firme às custas do lobo esquerdo proeminente. Exames laboratoriais mostram elevação de bilirrubina conjugada (>1 mg/dL) e a ultrassonografia abdominal revela vesícula biliar contraída e não visualização do ducto colédoco e sinal do “cordão triangular”. O passo seguinte em relação à confirmação da principal hipótese diagnóstica é realizar",
+  "alts": [
+   "elastografia hepática.",
+   "ressonância magnética.",
+   "cintilografia hepatobiliar.",
+   "colangiograma intraoperatório.",
+   "colangiopancreatografia endoscópica."
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Atresia de vias biliares",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Fawaz R et al. Guideline for the evaluation of cholestatic jaundice in infants, NASPGHAN/ESPGHAN, 2017",
+  "coment": "Icterícia além de 2 semanas com bilirrubina direta acima de 1 mg/dL, acolia ou hipocolia, colúria e fígado firme em lactente de bom estado geral sugerem atresia de vias biliares. A ultrassonografia com vesícula contraída ou ausente e sinal do cordão triangular reforça a hipótese. A confirmação é a colangiografia intraoperatória (com biópsia hepática), feita no mesmo ato da portoenterostomia de Kasai quando confirmada. O prazo importa: Kasai antes de 60 dias de vida tem melhor resultado, e esta criança já tem 50 dias.",
+  "porAlt": [
+   "Elastografia avalia rigidez hepática, mas não confirma a anatomia da via biliar.",
+   "A colangiorressonância tem resolução limitada no lactente e não substitui a colangiografia.",
+   "A cintilografia tem boa sensibilidade mas baixa especificidade e só atrasaria a cirurgia neste caso.",
+   "Correta: a colangiografia intraoperatória confirma a atresia e permite a cirurgia de Kasai no mesmo ato.",
+   "A colangiografia endoscópica retrógrada é pouco disponível e tecnicamente difícil no lactente."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 21
+  }
+ },
+ {
+  "pid": "p25022",
+  "q": "Adolescente, 17 anos, comparece com seu filho de 4 anos para avaliação devido a queixa da escola sobre comportamentos agressivos e dificuldade de interação com os colegas. A mãe relata que cria o filho sozinha, com pouco apoio familiar, vive em condição de vulnerabilidade social e enfrenta conflitos frequentes com a própria mãe. Refere dificuldade para estabelecer rotinas e sente-se sobrecarregada emocionalmente. O pai da criança não participa ativamente da criação. Considerando o contexto clínico e os determinantes sociais envolvidos, é correto afirmar que",
+  "alts": [
+   "a idade materna, isoladamente, foi demonstrada como o fator determinante dos problemas comportamentais dessas crianças.",
+   "a presença contínua e positiva do pai ao longo da vida da criança pode ter um efeito protetor parcial contra esse tipo de comportamento.",
+   "os conflitos com avós são comuns nas famílias com mães adolescentes parecendo estar desvinculado com essas alterações de comportamento.",
+   "a presença de mães adolescentes em todas as classes sociais sugere que a condição socioeconômica não explica essas alterações comportamentais.",
+   "o início precoce dessas alterações de comportamento aumenta a probabilidade de abandono precoce da escola, fato pouco comum em filhos de adolescentes."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Filhos de mães adolescentes",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 6ª ed., 2024",
+  "coment": "Os problemas de comportamento em filhos de mães adolescentes resultam da soma de fatores: pobreza, baixa escolaridade materna, falta de rede de apoio, conflito familiar, sobrecarga emocional e ausência paterna. A idade materna, isolada, não explica o quadro. A presença contínua e positiva do pai é fator de proteção parcial, reduzindo problemas de comportamento e de escolaridade. A abordagem pediátrica inclui fortalecer a rede de apoio, orientar rotinas e vínculo e acionar os serviços de assistência social e saúde mental.",
+  "porAlt": [
+   "A idade materna isolada não foi demonstrada como fator determinante; pesam os determinantes sociais associados.",
+   "Correta: a presença paterna contínua e positiva tem efeito protetor parcial sobre o comportamento da criança.",
+   "Conflitos com os avós são fator de estresse familiar e estão associados às alterações de comportamento.",
+   "A gravidez na adolescência concentra-se nas classes de menor renda, e a pobreza contribui para o quadro.",
+   "O abandono escolar precoce é comum, e não raro, entre filhos de mães adolescentes."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 22
+  }
+ },
+ {
+  "pid": "p25023",
+  "q": "Escolar, 8 anos, masculino, apresenta aumento de volume na parte posterior do joelho direito, percebido há cerca de duas semanas, sem história de trauma. Ao exame físico, nota-se massa firme, compressível, pouco dolorosa à palpação, localizada medialmente à fossa poplítea, mais evidente com o joelho em extensão. Radiografia do joelho não mostra alterações ósseas. Considerando a principal hipótese diagnóstica, o teste realizado durante o exame físico que auxilia no diagnóstico é a avaliação por meio da",
+  "alts": [
+   "ausculta.",
+   "rotação interna.",
+   "transiluminação.",
+   "marcha acelerada.",
+   "mobilidade passiva."
+  ],
+  "gab": 2,
+  "tema": "especialidades",
+  "sub": "Cisto poplíteo na criança",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 6ª ed., 2024",
+  "coment": "Massa na face posteromedial da fossa poplítea, firme, compressível, indolor, mais evidente com o joelho estendido e com radiografia normal sugere cisto poplíteo (cisto de Baker), bolsa sinovial entre o gastrocnêmio medial e o semimembranoso. Na criança costuma ser isolado, sem doença articular. A transiluminação positiva mostra o conteúdo líquido e diferencia de massas sólidas. A ultrassonografia confirma. O curso é benigno, com regressão espontânea na maioria, e a cirurgia raramente é necessária.",
+  "porAlt": [
+   "A ausculta procura sopro de lesão vascular, o que não é a hipótese principal.",
+   "A rotação interna não ajuda a caracterizar uma massa cística poplítea.",
+   "Correta: a transiluminação positiva demonstra o conteúdo líquido do cisto poplíteo.",
+   "A marcha acelerada não faz parte da avaliação de massa poplítea.",
+   "A mobilidade passiva estará normal e não diferencia cisto de massa sólida."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 23
+  }
+ },
+ {
+  "pid": "p25024",
+  "q": "Lactente de 7 meses, previamente saudável, apresentou episódios de vômitos intensos cerca de duas horas após se alimentar com arroz há um mês, seguido de palidez cutânea, letargia, hipotonia, diarreia, hipotermia e leve distensão abdominal. Hoje, repetiu o alimento e novamente apresentou os mesmos sintomas. Não há febre, nem sangue nas fezes. Exame físico mostra criança prostrada, com perfusão periférica levemente reduzida e abdome levemente distendido, porém flácido. Tendo em conta a principal hipótese diagnóstica, o sintoma considerado como critério diagnóstico maior é",
+  "alts": [
+   "a palidez.",
+   "a letargia.",
+   "o vômito.",
+   "a diarreia.",
+   "a hipotermia."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Enterocolite induzida por proteína alimentar",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Nowak-Węgrzyn A et al. International consensus guidelines for the diagnosis and management of food protein-induced enterocolitis syndrome, 2017",
+  "coment": "Vômitos repetidos 1 a 4 horas após um alimento, com letargia, palidez, hipotonia e até hipotermia e hipotensão, sem sintomas cutâneos ou respiratórios de alergia IgE, em lactente após introdução de sólidos (arroz é gatilho clássico), definem a síndrome da enterocolite induzida por proteína alimentar (FPIES) aguda. Pelo consenso internacional de 2017, o critério maior é o vômito 1 a 4 horas após a ingestão sem sintomas IgE mediados. Palidez, letargia, diarreia e hipotermia são critérios menores.",
+  "porAlt": [
+   "Palidez é critério menor da FPIES aguda.",
+   "Letargia é critério menor da FPIES aguda.",
+   "Correta: vômito 1 a 4 horas após o alimento suspeito, sem sintomas IgE mediados, é o critério maior.",
+   "Diarreia é critério menor e costuma surgir de 5 a 10 horas após a ingestão.",
+   "Hipotermia é critério menor da FPIES aguda."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 24
+  }
+ },
+ {
+  "pid": "p25025",
+  "q": "Escolar, quatro anos, é trazido para atendimento no setor de emergência por apresentar febre, dor no ouvido direito e abaulamento retroauricular com vermelhidão e sensibilidade local há dois dias. Foi diagnosticada com infecção de ouvido na semana anterior, mas os sintomas persistiram apesar do uso de amoxicilina. Ao exame, nota-se discreta protrusão da orelha direita; restante do exame sem alterações. A conduta imediata baseada na principal hipótese diagnóstica é",
+  "alts": [
+   "internar, realizar exames laboratoriais, iniciar ampicilina + sulbactam via endovenosa.",
+   "trocar o antibiótico oral para amoxicilina + ácido clavulânico, retornando em dois dias.",
+   "realizar exames laboratoriais e de imagem e, se alterados, usar cefotaxima via venosa.",
+   "realizar ultrassom da região retroauricular para definir internação e antibiótico venoso.",
+   "internar, realizar tomografia de crânio, iniciar por via venosa amoxicilina e gentamicina."
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Mastoidite aguda",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 6ª ed., 2024",
+  "coment": "Otite média que evolui com dor, eritema e abaulamento retroauricular doloroso e protrusão do pavilhão auricular é mastoidite aguda, complicação que exige internação. A conduta é colher exames, iniciar antibiótico venoso com cobertura para pneumococo, Haemophilus, Streptococcus pyogenes e Staphylococcus aureus (ampicilina-sulbactam, ceftriaxona ou cefotaxima) e avaliar com otorrinolaringologista para miringotomia. A tomografia de mastoide e crânio é indicada se houver suspeita de abscesso ou complicação intracraniana ou se não houver melhora.",
+  "porAlt": [
+   "Correta: mastoidite aguda requer internação, exames e antibiótico venoso, como ampicilina-sulbactam.",
+   "Antibiótico oral em ambulatório é inadequado para mastoidite, complicação supurativa da otite.",
+   "O antibiótico venoso deve ser iniciado já, sem esperar o resultado dos exames.",
+   "A ultrassonografia não define a conduta; a internação com antibiótico venoso é indicada pelo quadro clínico.",
+   "Amoxicilina com gentamicina não é esquema de mastoidite, e a tomografia não é obrigatória sem sinais de complicação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 25
+  }
+ },
+ {
+  "pid": "p25026",
+  "q": "Adolescente do sexo feminino é trazida à emergência com febre, artralgia em grandes articulações e cansaço aos esforços. Ao exame físico, apresenta sopro cardíaco (sem história prévia) e sinais inflamatórios em joelhos e tornozelos. Exames laboratoriais mostram PCR e VHS elevados, além de título aumentado de ASLO. Considerando os critérios revisados pela Organização Mundial da Saúde (OMS) em 2004, a categoria diagnóstica dessa adolescente é",
+  "alts": [
+   "primeiro episódio febre reumática.",
+   "artrite pós-estreptocócica sem critérios maiores.",
+   "cardiopatia reumática crônica com atividade inflamatória.",
+   "febre reumática recorrente sem cardite prévia documentada.",
+   "recorrência de febre reumática com cardite prévia estabelecida."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Febre reumática pelos critérios OMS",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "World Health Organization. Rheumatic fever and rheumatic heart disease, Technical Report Series 923, 2004; AHA, critérios de Jones revisados, 2015",
+  "coment": "Pelos critérios da OMS 2004, o primeiro episódio de febre reumática exige dois critérios maiores, ou um maior e dois menores, mais evidência de estreptococcia recente. A adolescente tem cardite (sopro novo) e poliartrite (critérios maiores), febre e provas inflamatórias elevadas (menores) e ASLO aumentada. Sem história prévia de febre reumática ou de cardiopatia reumática, a categoria é primeiro episódio. Recorrência e cardiopatia reumática crônica exigem doença prévia documentada.",
+  "porAlt": [
+   "Correta: dois critérios maiores (cardite e poliartrite) com ASLO elevada, sem doença prévia, é primeiro episódio.",
+   "Artrite pós-estreptocócica não tem cardite; aqui há dois critérios maiores.",
+   "Cardiopatia reumática crônica pressupõe lesão valvar estabelecida e doença prévia, não descritas.",
+   "Não há história de febre reumática anterior, então não é recorrência.",
+   "Não há cardite prévia estabelecida nem episódio anterior para falar em recorrência."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 26
+  }
+ },
+ {
+  "pid": "p25027",
+  "q": "Recém-nascido do sexo masculino, com 3 dias de vida, nascido a termo (39 semanas), parto vaginal sem intercorrências, Apgar 8/9, peso adequado para a idade gestacional. Mãe saudável, sem histórico de infecções ou uso de medicações durante a gestação, realizou pré-natal completo e ultrassonografias, sem alterações estruturais cardíacas detectadas. Desde o nascimento, o RN apresenta cianose central persistente, não responsiva ao oxigênio suplementar por cateter nasal. Não há desconforto respiratório evidente. À ausculta cardíaca, nota-se sopro sistólico 2+/6+, audível no foco tricúspide. Pulmões com murmúrio vesicular presente e simétrico. A oximetria de pulso revela saturação pré-ductal 85% e pós-ductal de 84%. A gasometria arterial mostra acidose respiratória leve com hipoxemia. À exceção da cianose persistente, e do sopro já relatado não há outras alterações ao exame físico. Diante da suspeita de cardiopatia congênita cianótica, foi realizado ecocardiograma transtorácico que evidenciou transposição das grandes artérias (TGA), com septo interventricular íntegro e comunicação interatrial pequena. Com base no quadro clínico e nos achados ecocardiográficos, a conduta prioritária imediata é",
+  "alts": [
+   "indicar intubação e ventilação mecânica com FiO₂ 100%.",
+   "iniciar infusão de prostaglandina E1.",
+   "aguardar estabilidade clínica para cirurgia corretiva tardia.",
+   "administrar antibiótico de amplo espectro para sepse neonatal até elucidação completa.",
+   "solicitar angiotomografia de tórax."
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Transposição das grandes artérias",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 6ª ed., 2024",
+  "coment": "Na transposição das grandes artérias as circulações correm em paralelo, e a sobrevida depende da mistura entre elas. Com septo interventricular íntegro e comunicação interatrial pequena, a mistura é insuficiente e a hipoxemia não melhora com oxigênio. A prioridade é manter o canal arterial aberto com prostaglandina E1 em infusão contínua. Se a hipoxemia persistir, faz-se a atriosseptostomia com balão (Rashkind). A correção definitiva é a cirurgia de Jatene, em geral nas primeiras 2 a 3 semanas.",
+  "porAlt": [
+   "Oxigênio a 100% não corrige a hipoxemia da circulação em paralelo e intubar não é a prioridade em RN sem desconforto.",
+   "Correta: a prostaglandina E1 mantém o canal arterial aberto e aumenta a mistura entre as circulações.",
+   "Aguardar é perigoso: a mistura insuficiente leva a hipoxemia e acidose graves.",
+   "Não há quadro infeccioso; a cianose é cardiogênica e já esclarecida pelo ecocardiograma.",
+   "O ecocardiograma já fez o diagnóstico; angiotomografia não muda a conduta imediata."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 27
+  }
+ },
+ {
+  "pid": "p25028",
+  "q": "Menino de 6 anos, previamente com desenvolvimento neuropsicomotor adequado, é trazido à consulta por regressão na linguagem expressiva há cerca de 4 meses. A mãe relata que ele, que já falava frases completas, passou a ter dificuldade crescente para formar palavras e responder comandos verbais, mesmo sem alterações auditivas aparentes. O comportamento tornou-se mais irritadiço, com períodos de desatenção, isolamento e episódios noturnos em que se debate na cama, com rigidez e salivação excessiva. O exame físico neurológico não apresenta déficits motores ou sensitivos, mas não executa comandos verbais simples nem emite frases coerentes. Teste de audiometria normal. Ressonância magnética de crânio sem alterações estruturais. EEG com padrão de descargas epileptiformes bilaterais, contínuas durante o sono, com predominância nas regiões temporais posteriores. Nesse caso, o diagnóstico mais provável é de",
+  "alts": [
+   "epilepsia rolândica benigna.",
+   "síndrome de Lennox-Gastaut.",
+   "epilepsia mioclônica juvenil.",
+   "síndrome de Landau-Kleffner.",
+   "encefalite autoimune."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Síndrome de Landau-Kleffner",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Specchio N et al. ILAE classification and definition of epilepsy syndromes with onset in childhood, Epilepsia, 2022",
+  "coment": "Afasia adquirida (agnosia auditiva verbal) em criança com desenvolvimento prévio normal, audição normal, alterações de comportamento e crises noturnas, com descargas epileptiformes contínuas no sono predominando em regiões temporais, caracteriza a síndrome de Landau-Kleffner. Na classificação da ILAE de 2022 ela integra o espectro da encefalopatia epiléptica com ativação de ponta-onda durante o sono. O tratamento inclui antiepilépticos, corticoide em dose alta e terapia de fala.",
+  "porAlt": [
+   "A epilepsia rolândica é benigna, com crises focais noturnas, sem regressão de linguagem.",
+   "Lennox-Gastaut cursa com múltiplos tipos de crise, deficiência intelectual e ponta-onda lenta, não com afasia isolada.",
+   "A epilepsia mioclônica juvenil começa na adolescência, com mioclonias matinais, sem regressão da linguagem.",
+   "Correta: afasia adquirida com descargas contínuas no sono em regiões temporais é Landau-Kleffner.",
+   "A encefalite autoimune teria alterações mais agudas e difusas, com liquor ou ressonância alterados."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 28
+  }
+ },
+ {
+  "pid": "p25029",
+  "q": "Menina de 5 anos apresenta palidez importante, cansaço aos esforços e irritabilidade progressiva. Ao exame físico apresenta peso e estatura adequados para a idade, palidez mucosa +/4+, frequência cardíaca: 120 bpm, ausculta cardíaca com sopro sistólico 1+/6+ no foco pulmonar e não há linfadenomegalia ou visceromegalias. O hemograma revela: Hb 8,7 g/dL | Ht 26% | VCM 68 fL | CHCM 28 g/dL | RDW 18% | Leucócitos e plaquetas normais. Ferritina: 10 ng/mL. Ferro sérico: 25mcg/dL, TIBIC: 420mcg/dL, saturação de transferrina: 6%, o PCR está abaixo do limite de detecção. A principal suspeita diagnóstica é de",
+  "alts": [
+   "anemia ferropriva.",
+   "anemia de Fanconi.",
+   "talassemia beta maior.",
+   "leucemia linfoblástica aguda.",
+   "deficiência de vitamina B12."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Anemia ferropriva",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Consenso sobre anemia ferropriva: mais que uma doença, uma urgência médica, 2018",
+  "coment": "Anemia microcítica (VCM 68 fL) e hipocrômica (CHCM 28 g/dL) com RDW alto (anisocitose) e perfil de ferro típico fecham o diagnóstico de anemia ferropriva: ferritina baixa (10 ng/mL, abaixo de 12 a 15 na criança sem inflamação), ferro sérico baixo, capacidade total de ligação alta e saturação de transferrina de 6%. A PCR negativa garante que a ferritina não está falsamente elevada. Na talassemia o RDW tende a ser normal e a ferritina normal ou alta.",
+  "porAlt": [
+   "Correta: microcitose, RDW alto, ferritina e saturação baixas e TIBC alta definem anemia ferropriva.",
+   "A anemia de Fanconi é aplástica, com pancitopenia, macrocitose e malformações, ausentes aqui.",
+   "A talassemia maior manifesta-se no lactente com anemia grave e hepatoesplenomegalia, com ferro normal ou aumentado.",
+   "Na leucemia haveria alteração de outras séries e não ferropenia isolada.",
+   "A deficiência de B12 causa anemia macrocítica, não microcítica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 29
+  }
+ },
+ {
+  "pid": "p25030",
+  "q": "Pré-escolar de 6 anos, com história prévia de asma, é levado ao pronto-socorro com dispneia progressiva, sibilância difusa, FR: 52 irpm, SatO₂: 89% em ar ambiente, batimento de asa do nariz e fala entrecortada. A mãe nega febre e rinorreia. Não há história de contato com indivíduos com infecção de vias aéreas. No manejo inicial são administradas duas doses de salbutamol inalatório com espaçador. Nesse caso, as seguintes medidas são preconizadas, à exceção de uma. Assinale-a.",
+  "alts": [
+   "Iniciar oxigenoterapia.",
+   "Repetir broncodilatadores em dose escalonada.",
+   "Administrar azitromicina oral.",
+   "Iniciar corticoterapia sistêmica.",
+   "Avaliar necessidade de internação."
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Crise grave de asma na criança",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Global Initiative for Asthma (GINA), 2026",
+  "coment": "A criança tem crise grave: fala entrecortada, taquipneia intensa, batimento de asa do nariz e saturação de 89%. As medidas preconizadas são oxigênio para saturação de 94% a 98%, beta-2 de curta ação repetido (com ipratrópio nas crises graves), corticoide sistêmico precoce e avaliação de internação conforme a resposta. Antibiótico, incluindo azitromicina, não é indicado na exacerbação de asma sem evidência de infecção bacteriana, e aqui não há febre nem sinais de infecção.",
+  "porAlt": [
+   "Saturação de 89% exige oxigenoterapia, então é medida indicada.",
+   "Repetir o broncodilatador é a base do tratamento inicial, portanto é medida indicada.",
+   "Correta: azitromicina não é recomendada na exacerbação de asma sem sinais de infecção bacteriana.",
+   "O corticoide sistêmico precoce reduz a necessidade de internação e é medida indicada.",
+   "Crise grave pede avaliação de internação conforme a resposta, logo é medida indicada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 30
+  }
+ },
+ {
+  "pid": "p25031",
+  "q": "Lactente de 7 meses, sexo feminino, apresenta febre há 3 dias, sem sinais localizatórios. Ao exame físico, mostra-se irritada, com temperatura de 38,9 °C, sem alterações em vias aéreas ou na otoscopia. Urina coletada por sondagem revela leucócitos ++, nitrito positivo. A conduta inicial mais apropriada é",
+  "alts": [
+   "solicitar urocultura e aguardar ambulatorialmente o resultado para tratar.",
+   "tratar empiricamente com antibiótico oral e reavaliar em 72 h.",
+   "solicitar urocultura, internar e iniciar antibiótico parenteral imediatamente.",
+   "repetir exame de urina após 24h de observação.",
+   "iniciar antipirético e hidratação oral exclusiva."
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "ITU febril no lactente",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Academy of Pediatrics. Clinical practice guideline: urinary tract infection in febrile infants and children 2 to 24 months, 2011, reafirmada em 2016",
+  "coment": "Lactente febril sem foco com urina colhida por sondagem mostrando leucocitúria e nitrito positivo tem ITU febril provável. A regra fixa é colher urocultura antes do primeiro antibiótico e iniciar tratamento sem esperar o resultado, pela relação entre atraso e cicatriz renal. A via oral é tão eficaz quanto a parenteral em lactentes acima de 2 meses que aceitam a via oral e não estão toxemiados; internação e via venosa ficam para os irritados, desidratados ou de seguimento incerto. Entre as opções, só esta une cultura e início imediato.",
+  "porAlt": [
+   "Esperar a cultura para tratar atrasa o antibiótico e aumenta o risco de cicatriz renal.",
+   "Tratar sem colher urocultura impede confirmar o diagnóstico e ajustar o antibiótico.",
+   "Correta: urocultura antes do antibiótico e início imediato do tratamento; a via parenteral cabe em lactente irritado.",
+   "Observar 24 horas e repetir o exame atrasa o tratamento de uma ITU febril já sugerida pela urina.",
+   "Antipirético e hidratação não tratam a infecção bacteriana."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 31
+  }
+ },
+ {
+  "pid": "p25032",
+  "q": "Lactente de 5 meses, amamentado exclusivamente com fórmula, apresenta fezes com muco e sangue há duas semanas. Boa aceitação alimentar, sem vômitos, ganho ponderal adequado. Mãe relata história de rinite alérgica. O diagnóstico mais provável é de",
+  "alts": [
+   "gastroenterite bacteriana.",
+   "alergia à proteína do leite de vaca (APLV) não-IgE mediada.",
+   "invaginação intestinal.",
+   "colite ulcerativa.",
+   "constipação com fissura anal."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Proctocolite alérgica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Associação Brasileira de Alergia e Imunologia e Sociedade Brasileira de Pediatria. Consenso Brasileiro sobre Alergia Alimentar, 2018",
+  "coment": "Lactente em bom estado, ganhando peso, com fezes com muco e sangue há semanas, sem vômitos, em uso de fórmula de leite de vaca e com atopia familiar, tem proctocolite alérgica, forma não IgE mediada da alergia à proteína do leite de vaca. O diagnóstico é clínico, confirmado pela melhora com exclusão (fórmula extensamente hidrolisada) e pela reexposição. Testes de IgE específica são negativos e desnecessários nas formas não IgE mediadas.",
+  "porAlt": [
+   "Gastroenterite bacteriana é aguda e cursa com febre e diarreia, não com sangue por semanas em criança bem.",
+   "Correta: sangue e muco nas fezes em lactente bem, com fórmula de leite de vaca, é proctocolite não IgE mediada.",
+   "Invaginação é aguda, com dor, vômitos e letargia, e não dura duas semanas.",
+   "Colite ulcerativa é muito rara no lactente e cursaria com comprometimento do estado geral.",
+   "Não há relato de fezes endurecidas ou esforço para evacuar que sugira constipação com fissura."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 32
+  }
+ },
+ {
+  "pid": "p25033",
+  "q": "Escolar de 9 anos apresenta febre há 5 dias, artrite em grandes articulações de caráter migratório e lesões eritematosas em tronco. Exame físico: sopro sistólico em foco mitral. ASLO aumentado. O diagnóstico mais provável é",
+  "alts": [
+   "lúpus eritematoso sistêmico.",
+   "artrite idiopática juvenil.",
+   "artrite séptica.",
+   "doença de Lyme.",
+   "febre reumática."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Febre reumática pelos critérios de Jones",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Gewitz MH et al. Revision of the Jones criteria for the diagnosis of acute rheumatic fever, American Heart Association, 2015",
+  "coment": "Febre com poliartrite migratória de grandes articulações, sopro mitral novo (cardite), lesões eritematosas no tronco (eritema marginado) e ASLO elevada preenchem os critérios de Jones revisados em 2015: dois ou mais critérios maiores mais evidência de estreptococcia prévia. Escolar de 5 a 15 anos é a faixa típica. O tratamento inclui erradicação do estreptococo com penicilina benzatina, anti-inflamatório e profilaxia secundária prolongada.",
+  "porAlt": [
+   "O lúpus pode ter artrite e lesão cutânea, mas não cursa com ASLO alta e artrite migratória com sopro mitral novo.",
+   "A AIJ tem artrite fixa e persistente por mais de 6 semanas, não migratória.",
+   "A artrite séptica é em geral monoarticular e fixa, sem cardite.",
+   "A doença de Lyme não é endêmica no Brasil e não explica ASLO elevada com cardite mitral.",
+   "Correta: artrite migratória, cardite, eritema marginado e ASLO alta preenchem os critérios de Jones."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 33
+  }
+ },
+ {
+  "pid": "p25034",
+  "q": "Recém-nascido com 4 dias de vida apresenta vômitos em jato, sucção pobre e letargia. Exame: desidratado, fontanela afundada. Glicemia 28 mg/dL, sódio 128 mEq/L, potássio 6,2 mEq/L. A hipótese diagnóstica a ser considerada com prioridade é",
+  "alts": [
+   "hipoglicemia por infecção neonatal.",
+   "hiperplasia adrenal congênita.",
+   "hipotiroidismo congênito.",
+   "erros inatos do metabolismo.",
+   "insuficiência hepática neonatal."
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Hiperplasia adrenal congênita perdedora de sal",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Speiser PW et al. Congenital adrenal hyperplasia due to steroid 21-hydroxylase deficiency: Endocrine Society clinical practice guideline, 2018",
+  "coment": "Recém-nascido com vômitos, desidratação e letargia com hiponatremia, hiperpotassemia e hipoglicemia tem crise adrenal até prova em contrário. A causa mais comum é a hiperplasia adrenal congênita por deficiência da 21-hidroxilase na forma perdedora de sal, que costuma descompensar na 1ª ou 2ª semana. No menino falta a pista da genitália ambígua, por isso o teste do pezinho (17-OH-progesterona) é decisivo. Tratamento: soro fisiológico, glicose e hidrocortisona em dose de estresse. A estenose de piloro dá hipocalemia e alcalose.",
+  "porAlt": [
+   "Sepse pode causar hipoglicemia, mas não explica a combinação de hiponatremia e hiperpotassemia.",
+   "Correta: hiponatremia, hiperpotassemia, hipoglicemia e desidratação no RN apontam crise perdedora de sal da HAC.",
+   "O hipotireoidismo congênito causa letargia e icterícia prolongada, não hiperpotassemia com desidratação aguda.",
+   "Erros inatos podem causar vômitos e letargia, mas a hiperpotassemia com hiponatremia aponta deficiência mineralocorticoide.",
+   "Insuficiência hepática daria coagulopatia e icterícia e não explica o padrão de sódio e potássio."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 34
+  }
+ },
+ {
+  "pid": "p25035",
+  "q": "Adolescente de 14 anos comparece à consulta desacompanhado, referindo desejo de iniciar acompanhamento para orientação sobre saúde sexual e contracepção. Relata já ter iniciado vida sexual e não deseja que os pais sejam informados. Segundo o ECA e as normas éticas, a conduta mais adequada para o caso é",
+  "alts": [
+   "exigir presença dos pais para autorizar atendimento.",
+   "registrar a consulta, mas comunicar os responsáveis.",
+   "garantir sigilo e realizar atendimento conforme solicitado.",
+   "encaminhar o adolescente ao Conselho Tutelar.",
+   "notificar o Ministério Público por risco social."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Sigilo na consulta do adolescente",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Resolução CFM 2.217/2018, Código de Ética Médica (art. 74); Lei 8.069/1990, Estatuto da Criança e do Adolescente",
+  "coment": "O adolescente tem direito a atendimento sozinho, com privacidade e sigilo, inclusive sobre saúde sexual e contracepção. O Código de Ética Médica (art. 74) veda revelar segredo de paciente menor de idade, inclusive aos pais, desde que ele tenha capacidade de discernimento, salvo quando a não revelação puder acarretar dano ao paciente. Sem situação de risco (violência, abuso, risco de morte), não cabe acionar pais, Conselho Tutelar ou Ministério Público. Relação sexual antes dos 14 anos configuraria estupro de vulnerável, o que não se aplica aos 14 anos completos.",
+  "porAlt": [
+   "Exigir os pais nega ao adolescente o direito ao atendimento, previsto no ECA e nas normas do Ministério da Saúde.",
+   "Comunicar os responsáveis sem risco ao paciente quebra o sigilo protegido pelo Código de Ética Médica.",
+   "Correta: adolescente com discernimento tem direito a sigilo e ao atendimento em saúde sexual solicitado.",
+   "O Conselho Tutelar é acionado em suspeita de violação de direitos, o que não há aqui.",
+   "Não existe risco social descrito que justifique notificar o Ministério Público."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 35
+  }
+ },
+ {
+  "pid": "p25037",
+  "q": "Lactente de 11 meses, previamente hígido, está com vacinação atualizada e irá viajar para área de risco de febre amarela. A mãe deseja saber se ele pode ser vacinado. A recomendação atual, segundo o PNI e a SBP, é",
+  "alts": [
+   "administrar a vacina com pelo menos 10 dias antes da viagem com reforço aos 4 anos.",
+   "não vacinar, pois a vacina é contraindicada em menores de 12 meses e adotar medidas preventivas sem vacinação.",
+   "aplicar a vacina da dengue pela possibilidade de fazer proteção cruzada.",
+   "aplicar a vacina e repetir aos 12 meses.",
+   "administrar apenas com laudo médico e termo de consentimento formal."
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Vacina de febre amarela no lactente",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Calendário Nacional de Vacinação e Instrução Normativa do Calendário, 2025; SBP, Calendário de Vacinação, 2025",
+  "coment": "Pelo calendário do PNI, a vacina de febre amarela é feita aos 9 meses, com reforço aos 4 anos, em todo o país. Lactente de 11 meses que ainda não recebeu a dose pode e deve ser vacinado antes de viajar para área de risco, idealmente pelo menos 10 dias antes, prazo para a resposta protetora. A dose de reforço fica para os 4 anos. A vacina é contraindicada abaixo de 6 meses, e entre 6 e 9 meses só é feita em situação de surto. Se a dose dos 9 meses já foi registrada, não há nova dose antes dos 4 anos.",
+  "porAlt": [
+   "Correta: a partir dos 9 meses vacina-se pelo menos 10 dias antes da viagem, com reforço aos 4 anos.",
+   "A contraindicação é para menores de 6 meses; a vacina de rotina começa aos 9 meses.",
+   "Não existe proteção cruzada da vacina de dengue contra febre amarela.",
+   "A dose feita aos 11 meses é válida e não precisa ser repetida aos 12 meses; o reforço é aos 4 anos.",
+   "Em criança hígida a partir dos 9 meses a vacina é de rotina e não exige laudo nem termo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 37
+  }
+ },
+ {
+  "pid": "p25038",
+  "q": "Recém-nascida do sexo feminino, nascida de parto vaginal com 38 semanas de gestação, apresenta peso ao nascer de 2.200 g. A mãe tem 37 anos e realizou pré-natal com ultrassonografia morfológica alterada, mas não fez cariótipo fetal. Ao exame físico, nota-se presença de microcefalia, fenda labial bilateral, polidactilia pós-axial em ambas as mãos, hipotonia generalizada e sopro cardíaco holossistólico audível em borda esternal esquerda. A ultrassonografia transfontanela revelou holoprosencefalia, e o ecocardiograma evidenciou comunicação interventricular ampla. Assinale a opção que apresenta a principal hipótese diagnóstica e a conduta inicial mais adequada para esse caso.",
+  "alts": [
+   "Síndrome de Edwards – confirmar com cariótipo e encaminhar para cirurgia cardíaca precoce.",
+   "Síndrome de Down – iniciar estimulação precoce e investigação cardiológica.",
+   "Síndrome de Turner – dosar hormônios tireoidianos e iniciar estrógenos na puberdade.",
+   "Síndrome de Patau – solicitar cariótipo e instituir cuidados paliativos com foco em conforto.",
+   "Síndrome de Noonan – investigação genética e correção cirúrgica das más-formações."
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Síndrome de Patau (trissomia 13)",
+  "cenario": "uti",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 6ª ed., 2024",
+  "coment": "Holoprosencefalia, fenda labiopalatina (frequentemente bilateral), microcefalia, polidactilia pós-axial e cardiopatia (comunicação interventricular) formam o quadro clássico da trissomia do 13, associada a idade materna avançada. O cariótipo confirma o diagnóstico e define o risco de recorrência. A sobrevida mediana é de dias a semanas e a maioria morre no primeiro ano, por isso a abordagem padrão é cuidado paliativo centrado no conforto, decidido em conjunto com a família. A trissomia do 18 cursa com mãos fechadas e pés em mata-borrão.",
+  "porAlt": [
+   "A síndrome de Edwards tem mãos fechadas com dedos sobrepostos e pés em mata-borrão, não holoprosencefalia com polidactilia.",
+   "A síndrome de Down tem hipotonia e cardiopatia, mas não holoprosencefalia, fenda labial e polidactilia.",
+   "A síndrome de Turner ocorre em meninas com linfedema e coarctação, sem holoprosencefalia.",
+   "Correta: holoprosencefalia, fenda labial, polidactilia e CIV são trissomia 13, com cariótipo e cuidado paliativo.",
+   "A síndrome de Noonan cursa com estenose pulmonar e baixa estatura, sem holoprosencefalia nem polidactilia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 38
+  }
+ },
+ {
+  "pid": "p25039",
+  "q": "Lactente, 10 meses de idade, é trazido ao pronto-socorro com história de convulsão na manhã do atendimento. A mãe relata história de febre há cerca de 2 dias (até 39 °C), associada a irritabilidade e redução do apetite. Fora avaliado no dia anterior, recebendo diagnóstico de otite média aguda à direita e iniciando amoxicilina (está em uso há cerca de 24 horas) e antipiréticos. A crise convulsiva desta manhã fora em vigência de febre (38,5 °C) de forma tônico-clônico generalizada, com cianose labial transitória durando cerca de 4 minutos. Não há história prévia de convulsões e mãe nega trauma. A gestação fora sem intercorrências, o desenvolvimento neuropsicomotor está adequado para a idade, sem doenças crônicas conhecidas. Vacinação: esquema vacinal incompleto – recebeu as vacinas do 2º e 4º mês de vida, porém não recebeu as doses previstas para 6 meses (incluindo Haemophilus influenzae tipo b e pneumococo). Não há história familiar de epilepsia, embora o pai relate ter tido convulsões febris na infância. Ao exame a criança está com o estado geral regular, chorosa e irritada alternando com sonolência leve responsiva a estímulos. Temperatura: 38,3 °C; FC: 150 bpm; FR: 34 irpm; SpO₂: 97% em ar ambiente. À exceção da membrana timpânica direita hiperemiada e abaulada, com nível hidroaéreo visível, compatível com otite média purulenta, não há outras alterações semiológicas incluindo o exame neurológico que é compatível com a idade. Você realiza exames laboratoriais iniciais cujos resultados são: hemograma: Hb 11,5 g/dL; leucócitos 15.800/mm³ (neutrófilos 72%, bastões 5%, linfócitos 20%, monócitos 3%); plaquetas 320.000/mm³ – leucocitose com neutrofilia e discreto desvio à esquerda. Proteína C-reativa (PCR): 8,5 mg/dL (VN < 1,0); Glicemia à admissão: 92 mg/dL. O EAS (urina tipo 1), o Raio X de tórax, os eletrólitos séricos e escórias renais são normais. A conduta mais adequada neste momento, entre as listadas, é",
+  "alts": [
+   "realizar punção lombar e iniciar antibioticoterapia empírica adequada se necessário.",
+   "iniciar medicação anticonvulsivante profilática de longa duração (como fenobarbital), mantendo também antipiréticos agressivamente a cada 4-6 horas.",
+   "solicitar eletroencefalograma (EEG) imediato e encaminhar para avaliação com neurologista pediátrico, devido ao risco de epilepsia após a crise convulsiva febril.",
+   "acompanhar ambulatorialmente sem investigar de forma invasiva, por se tratar de uma convulsão febril simples; orientar medidas antipiréticas e observar evolução, com retorno em caso de nova convulsão.",
+   "realizar neuroimagem cerebral (TC de crânio) imediatamente, para descartar lesão estrutural intracraniana ou outras causas neurológicas."
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Crise febril com vacinação incompleta",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American Academy of Pediatrics, Subcommittee on Febrile Seizures. Febrile seizures: guideline for the neurodiagnostic evaluation of the child with a simple febrile seizure, 2011",
+  "coment": "A crise foi simples (generalizada, menos de 15 minutos, única), mas a diretriz da AAP indica considerar punção lombar em lactentes de 6 a 12 meses com vacinação incompleta para Haemophilus influenzae b e pneumococo e em crianças em uso prévio de antibiótico, que pode mascarar sinais meníngeos. Este lactente reúne as duas condições, além de sonolência e irritabilidade e PCR elevada. EEG, neuroimagem e anticonvulsivante profilático não são indicados após crise febril simples.",
+  "porAlt": [
+   "Correta: vacinação incompleta para Hib e pneumococo e antibiótico prévio indicam considerar punção lombar.",
+   "Anticonvulsivante profilático não é indicado após crise febril, e antipirético não previne nova crise.",
+   "EEG não é indicado após crise febril simples, que não prediz epilepsia.",
+   "A vacinação incompleta e o antibiótico prévio impedem a alta sem investigar meningite neste lactente.",
+   "Neuroimagem não está indicada com exame neurológico normal após crise febril simples."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 39
+  }
+ },
+ {
+  "pid": "p25040",
+  "q": "Pré-escolar, quatro anos, feminino, apresenta história de dois dias de febre alta, ardência para urinar e aumento da frequência urinária. Exame de urina mostrou leucocitúria e urocultura confirma crescimento de mais de 100.000 UFC/mL de uma única espécie bacteriana. Foi terminado o tratamento com antibióticos e, no momento, o pré-escolar retornou ao ambulatório sem queixas e com exame físico normal. A investigação diagnóstica por imagem deve ser iniciada por",
+  "alts": [
+   "ultrassonografia.",
+   "cintilografia renal.",
+   "urografia excretora.",
+   "ressonância magnética.",
+   "uretrocistografia miccional."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Imagem após ITU febril",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American Academy of Pediatrics. Clinical practice guideline: urinary tract infection in febrile infants and children 2 to 24 months, 2011, reafirmada em 2016",
+  "coment": "Após ITU febril confirmada (febre, sintomas urinários, leucocitúria e urocultura com mais de 100.000 UFC/mL de um único germe), a investigação por imagem começa pela ultrassonografia de rins e vias urinárias: não invasiva, sem radiação, mostra hidronefrose, dilatações e malformações. A uretrocistografia miccional fica para ultrassonografia alterada ou ITU febril recorrente, e a cintilografia com DMSA avalia cicatriz renal tardiamente. Diretrizes como a do NICE dispensam imagem de rotina acima de 3 anos com boa resposta, mas quando se investiga o primeiro exame é a ultrassonografia.",
+  "porAlt": [
+   "Correta: a ultrassonografia de rins e vias urinárias é o exame inicial, sem radiação nem invasão.",
+   "A cintilografia com DMSA avalia cicatriz renal e não é exame inicial.",
+   "A urografia excretora foi abandonada na investigação de ITU na criança.",
+   "A ressonância não tem papel inicial e exige sedação em criança pequena.",
+   "A uretrocistografia é invasiva e reservada a ultrassonografia alterada ou ITU recorrente."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 40
+  }
+ }
+]

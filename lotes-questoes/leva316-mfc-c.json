@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Uma médica de família percebe que sente irritação e pressa sempre que atende um homem de 58 anos que traz muitas queixas a cada consulta. Ao refletir, nota que ele lembra o próprio pai, com quem teve relação difícil. Ela discute o caso com a preceptora, passa a agendar consultas mais longas e a relação melhora. No método clínico centrado na pessoa (edição de 2014), qual componente foi trabalhado?",
+  "alts": [
+   "Explorar a saúde, a doença e a experiência da doença",
+   "Entender a pessoa como um todo, no seu contexto",
+   "Elaborar um plano conjunto de manejo dos problemas",
+   "Intensificar a relação entre a pessoa e o médico",
+   "Incorporar a prevenção e a promoção da saúde"
+  ],
+  "gab": 3,
+  "tema": "ferramentas",
+  "sub": "MCCP: relação e contratransferência",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Stewart M et al. Medicina centrada na pessoa: transformando o método clínico, 3ª ed. (original de 2014), Artmed, 2017",
+  "coment": "Na edição de 2014, o método clínico centrado na pessoa tem quatro componentes. O quarto, intensificar a relação entre a pessoa e o médico, reúne compaixão, partilha de poder, continuidade, autoconhecimento do médico e atenção à transferência e à contratransferência. Reconhecer uma reação emocional própria ligada à história pessoal e trabalhar sobre ela é o exemplo típico desse componente. Incorporar prevenção e promoção era componente das edições antigas e foi absorvido pelos componentes 1 e 3.",
+  "porAlt": [
+   "Explorar a experiência da doença é investigar sentimentos, ideias, funcionamento e expectativas do paciente.",
+   "Entender a pessoa como um todo se refere à história de vida e aos contextos próximo e amplo dela.",
+   "O plano conjunto trata de problemas, metas e papéis pactuados, não da reação emocional do médico.",
+   "Correta: autoconhecimento e manejo da contratransferência pertencem ao quarto componente.",
+   "Prevenção e promoção deixaram de ser componente separado na edição de 2014 do método."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos, motorista de ônibus, consulta por tontura há duas semanas. Depois da anamnese dirigida, o médico pergunta: o que essa tontura tem atrapalhado no seu dia a dia? Ele conta que foi retirado da escala de trabalho e teme perder o emprego. Na exploração da experiência da doença pelo acrônimo SIFE, que dimensão a pergunta do médico investigou primariamente?",
+  "alts": [
+   "Funcionamento, o impacto na vida diária",
+   "Ideias, a explicação que ele dá ao sintoma",
+   "Expectativas, o que espera do atendimento",
+   "Sentimentos, sobretudo o medo de adoecer",
+   "Contexto amplo, a economia e o trabalho"
+  ],
+  "gab": 0,
+  "tema": "ferramentas",
+  "sub": "MCCP: SIFE",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Stewart M et al. Medicina centrada na pessoa: transformando o método clínico, 3ª ed. (original de 2014), Artmed, 2017",
+  "coment": "SIFE resume as quatro dimensões da experiência da doença (illness) exploradas no primeiro componente do método clínico centrado na pessoa: sentimentos, ideias, funcionamento e expectativas. Perguntar como o problema interfere nas atividades diárias, no trabalho e nas relações é investigar o funcionamento. O medo de perder o emprego que aparece na resposta é um sentimento que a pergunta revelou, mas o alvo dela foi o impacto funcional. Contexto amplo pertence ao segundo componente, entender a pessoa como um todo.",
+  "porAlt": [
+   "Correta: perguntar o que o sintoma atrapalha no dia a dia explora o funcionamento.",
+   "Ideias seriam investigadas com a pergunta sobre o que ele acha que causa a tontura.",
+   "Expectativas seriam exploradas perguntando o que ele espera do médico na consulta.",
+   "O medo surgiu na resposta, mas a pergunta feita mirava o impacto funcional do sintoma.",
+   "Contexto amplo é parte do segundo componente, e não uma dimensão do SIFE."
+  ]
+ },
+ {
+  "q": "No genograma de uma família, três filhos descem da linha do casal: dois partem de um mesmo ponto dessa linha, e o terceiro está ligado a ela por uma linha tracejada. Uma linha tracejada também contorna o casal, os três filhos e a avó materna. Pela notação de McGoldrick e Gerson, como se interpreta esse desenho?",
+  "alts": [
+   "Há gêmeos e um filho de outra união, e a avó é a cuidadora principal",
+   "Há um aborto e um filho adotivo, e a avó é a pessoa-índice",
+   "Há gêmeos e um filho adotivo, e os seis moram na mesma casa",
+   "Há gêmeos e um filho falecido, e o casal vive em união estável",
+   "Há dois filhos do casal e um enteado, e a família está em crise"
+  ],
+  "gab": 2,
+  "tema": "ferramentas",
+  "sub": "genograma: filhos e domicílio",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "McGoldrick M, Gerson R, Petry S. Genogramas: avaliação e intervenção familiar, 3ª ed. Artmed, 2012",
+  "coment": "Na notação padronizada, gêmeos saem de um mesmo ponto da linha do casal, e o filho adotado é ligado a ela por linha tracejada. A linha tracejada que contorna um grupo de pessoas indica quem mora no mesmo domicílio. Óbito é um X dentro do símbolo, gravidez em curso é um triângulo, aborto é representado por símbolos próprios menores e a pessoa-índice tem contorno duplo. União estável aparece como linha tracejada entre os parceiros, não ao redor do grupo.",
+  "porAlt": [
+   "Filho de outra união desce da linha daquele outro casal, e o contorno não define o cuidador.",
+   "Aborto tem símbolo próprio, e a pessoa-índice é marcada por contorno duplo.",
+   "Correta: ponto comum indica gêmeos, linha tracejada adoção e o contorno quem coabita.",
+   "Filho falecido teria um X no símbolo, e união estável é tracejado entre os parceiros.",
+   "Enteado se liga à união anterior do genitor, e o contorno não indica crise familiar."
+  ]
+ },
+ {
+  "q": "No genograma de uma mulher de 34 anos (pessoa-índice), há três linhas paralelas entre ela e a mãe, uma linha interrompida entre ela e o irmão e uma linha em zigue-zague entre o pai e esse irmão. Que padrões relacionais o desenho registra?",
+  "alts": [
+   "Relação conflituosa com a mãe, distância com o irmão e rompimento entre pai e irmão",
+   "Relação distante com a mãe, conflito com o irmão e aliança entre pai e irmão",
+   "Relação muito próxima com a mãe, conflito com o irmão e rompimento entre pai e irmão",
+   "Relação de dependência com a mãe, divórcio do irmão e conflito entre pai e irmão",
+   "Relação muito próxima com a mãe, rompimento com o irmão e conflito entre pai e irmão"
+  ],
+  "gab": 4,
+  "tema": "ferramentas",
+  "sub": "genograma: linhas de relação",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "McGoldrick M, Gerson R, Petry S. Genogramas: avaliação e intervenção familiar, 3ª ed. Artmed, 2012",
+  "coment": "As linhas de relação do genograma seguem convenção própria: três linhas paralelas indicam relação muito próxima (fusionada quando há excesso), linha interrompida indica rompimento ou corte de relação, linha em zigue-zague indica conflito e linha pontilhada indica relação distante. Ler esses traçados permite reconhecer o padrão relacional que pode estar por trás do problema trazido, como a sobrecarga da filha muito próxima da mãe enquanto o irmão rompeu com ela e briga com o pai.",
+  "porAlt": [
+   "Três linhas paralelas não indicam conflito, que é desenhado em zigue-zague.",
+   "Distância é linha pontilhada, e o zigue-zague entre pai e irmão não é aliança.",
+   "A linha interrompida com o irmão é rompimento, e o zigue-zague é conflito, não corte.",
+   "Divórcio é marcado na linha de união de um casal, não entre irmãos.",
+   "Correta: paralelas, interrompida e zigue-zague indicam proximidade, rompimento e conflito."
+  ]
+ },
+ {
+  "q": "No ecomapa de uma família, há linha grossa contínua ligando o núcleo familiar à igreja, com seta da família em direção a ela; linha tracejada ligando a família à unidade de saúde; e linha cortada por traços transversais ligando a família ao trabalho do pai. Como se lê o desenho?",
+  "alts": [
+   "Vínculo frágil com a igreja, vínculo forte com a unidade e conflito interno entre pai e filhos",
+   "Vínculo forte com a igreja, para onde a família investe energia, frágil com a unidade e estressante com o trabalho",
+   "Vínculo forte com a igreja, que oferece recursos à família, rompido com a unidade e frágil com o trabalho",
+   "Vínculo estressante com a igreja, frágil com a unidade e forte com o trabalho, que sustenta a família",
+   "Vínculo forte com a igreja, estressante com a unidade e frágil com o trabalho, para onde vai a energia"
+  ],
+  "gab": 1,
+  "tema": "ferramentas",
+  "sub": "ecomapa: símbolos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Hartman A. Diagrammatic assessment of family relationships. Social Casework, 1978",
+  "coment": "No ecomapa de Hartman, a família fica no centro e os sistemas externos ao redor. Linha contínua, mais grossa quanto mais forte, indica vínculo forte; linha tracejada ou pontilhada, vínculo frágil; linha cortada por traços transversais, vínculo estressante. As setas mostram o sentido do fluxo de energia ou de recursos: seta da família para a igreja significa que a família investe ali, e não que recebe. O ecomapa olha para a rede externa no presente; conflitos internos ficam no genograma.",
+  "porAlt": [
+   "Linha grossa contínua é vínculo forte, e o ecomapa não registra conflito interno.",
+   "Correta: contínua grossa é forte, tracejada é frágil e com traços cruzados é estressante.",
+   "A seta sai da família, então é ela que investe, e tracejado é frágil, não rompido.",
+   "Traços transversais estão na linha do trabalho, que é a relação estressante.",
+   "Tracejado com a unidade indica fragilidade, e traços transversais no trabalho, estresse."
+  ]
+ },
+ {
+  "q": "Casal de 29 e 31 anos leva o primeiro filho, de 2 meses, à consulta de puericultura. A mãe está exausta, o pai voltou a trabalhar em horário estendido, os dois brigam sobre a divisão das tarefas e as avós passaram a opinar sobre a criação. Pelo modelo de Carter e McGoldrick, qual o estágio do ciclo de vida familiar e sua tarefa principal?",
+  "alts": [
+   "Novo casal; comprometer-se com um novo sistema",
+   "Família com filhos pequenos; aceitar saídas e entradas",
+   "Lançando os filhos; aceitar novos membros no sistema",
+   "Família com filhos pequenos; aceitar novos membros",
+   "Novo casal; flexibilizar fronteiras com as famílias"
+  ],
+  "gab": 3,
+  "tema": "ferramentas",
+  "sub": "ciclo de vida: filhos pequenos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Carter B, McGoldrick M. As mudanças no ciclo de vida familiar, 2ª ed. Artes Médicas, 1995",
+  "coment": "O nascimento do primeiro filho inaugura o estágio de família com filhos pequenos, cuja tarefa emocional é aceitar novos membros no sistema: abrir espaço para a criança, redistribuir tarefas de criação, financeiras e domésticas e assumir os papéis de pais e de avós. É crise normativa, previsível, o que permite orientação antecipatória na puericultura. Comprometer-se com um novo sistema é do novo casal; aceitar múltiplas saídas e entradas é do estágio de lançamento dos filhos.",
+  "porAlt": [
+   "Comprometer-se com um novo sistema é a tarefa do casal antes da chegada dos filhos.",
+   "Aceitar múltiplas saídas e entradas é a tarefa do estágio de lançamento dos filhos.",
+   "O estágio de lançamento ocorre quando os filhos adultos deixam a casa.",
+   "Correta: o primeiro filho exige abrir espaço e redistribuir papéis no sistema familiar.",
+   "Flexibilizar fronteiras é a tarefa da família com adolescentes, não do novo casal."
+  ]
+ },
+ {
+  "q": "Casal de 78 e 76 anos é acompanhado pela equipe. Após um AVC, o marido ficou dependente para atividades instrumentais, e a filha de 50 anos assumiu as finanças e as decisões sobre o tratamento. A esposa diz à médica que se sente inútil e que ninguém mais a consulta sobre nada. Pelo modelo de Carter e McGoldrick, qual estágio e qual tarefa emocional estão em jogo?",
+  "alts": [
+   "Família no estágio tardio; aceitar a mudança dos papéis geracionais",
+   "Lançando os filhos; aceitar múltiplas saídas e entradas no sistema",
+   "Família com adolescentes; flexibilizar as fronteiras para a autonomia",
+   "Família no estágio tardio; comprometer-se com um novo sistema conjugal",
+   "Novo casal; realinhar as relações com a família ampliada e os amigos"
+  ],
+  "gab": 0,
+  "tema": "ferramentas",
+  "sub": "ciclo de vida: estágio tardio",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Carter B, McGoldrick M. As mudanças no ciclo de vida familiar, 2ª ed. Artes Médicas, 1995",
+  "coment": "No estágio tardio da vida, a tarefa emocional é aceitar a mudança dos papéis geracionais: manter o funcionamento diante do declínio físico, apoiar o papel central que a geração do meio assume e lidar com perdas. A filha que passa a decidir e o sentimento de inutilidade da esposa são a expressão dessa transição. O AVC é evento não normativo que acelera a mudança. A abordagem inclui reconhecer o papel dos idosos nas decisões e cuidar da sobrecarga da filha.",
+  "porAlt": [
+   "Correta: a geração do meio assume o comando e os idosos precisam aceitar a troca de papéis.",
+   "Saídas e entradas no sistema descrevem o lançamento dos filhos adultos.",
+   "Fronteiras flexíveis para a autonomia são a tarefa da família com adolescentes.",
+   "Comprometer-se com um novo sistema é tarefa do casal que está se formando.",
+   "Realinhar relações com a família ampliada é mudança esperada no novo casal."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos responde ao APGAR familiar durante a consulta. Diz que recebe ajuda quando está preocupada, que a família divide os problemas, demonstra afeto e passa tempo junto. Porém, quando contou que queria voltar a estudar à noite, o marido e os filhos desaprovaram e passaram a zombar do plano. Qual domínio do APGAR familiar terá a pontuação mais baixa?",
+  "alts": [
+   "Adaptação, a ajuda recebida diante de preocupações",
+   "Participação, a divisão de problemas e decisões",
+   "Afeição, a demonstração de afeto e de emoções",
+   "Resolução, o tempo compartilhado com a família",
+   "Crescimento, o apoio a novas atividades e mudanças"
+  ],
+  "gab": 4,
+  "tema": "ferramentas",
+  "sub": "APGAR familiar: domínios",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Smilkstein G. The family APGAR: a proposal for a family function test and its use by physicians. J Fam Pract, 1978",
+  "coment": "O APGAR familiar de Smilkstein tem cinco itens, cada um pontuado de 0 a 2: adaptação (ajuda quando algo preocupa), participação (como a família discute e divide problemas), crescimento (aceitação e apoio a novas atividades e mudanças de rumo), afeição (expressão de afeto e reação às emoções) e resolução (tempo compartilhado). Recusa e zombaria diante do desejo de estudar atingem o crescimento. O escore total de 7 a 10 sugere boa funcionalidade, 4 a 6 disfunção moderada e 0 a 3 grave, sempre na percepção de quem responde.",
+  "porAlt": [
+   "Ela relata receber ajuda nas preocupações, o que pontua bem em adaptação.",
+   "A família divide os problemas com ela, então participação não é o item prejudicado.",
+   "Ela refere demonstração de afeto, o que preserva o domínio de afeição.",
+   "O tempo compartilhado está preservado, e é isso que mede a resolução.",
+   "Correta: o apoio a novas atividades e mudanças é o domínio de crescimento."
+  ]
+ },
+ {
+  "q": "Após o divórcio, uma filha de 30 anos volta a morar com os pais trazendo dois filhos pequenos. A avó assume o cuidado dos netos, o filho caçula de 17 anos diz que não tem mais lugar na casa, e ninguém sabe ao certo quem faz o quê. A médica de família decide avaliar essa reorganização pelo modelo FIRO. Por qual dimensão a abordagem deve começar?",
+  "alts": [
+   "Controle, que trata de poder, decisões e disciplina",
+   "Inclusão, que trata de pertencimento, organização e papéis",
+   "Intimidade, que trata da troca de afeto e da abertura emocional",
+   "Adaptação, que trata da ajuda que cada membro recebe da família",
+   "Comunicação, que trata de como as mensagens circulam no grupo"
+  ],
+  "gab": 1,
+  "tema": "ferramentas",
+  "sub": "modelo FIRO: inclusão",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Doherty WJ, Colangelo N. The family FIRO model: a modest proposal for organizing family treatment. J Marital Fam Ther, 1984",
+  "coment": "O FIRO, adaptado para famílias por Doherty e Colangelo, avalia a reorganização familiar diante de mudanças em três dimensões abordadas nessa ordem: inclusão, controle e intimidade. Inclusão trata de quem pertence, quem está dentro ou fora e de como os papéis se redistribuem. Com a chegada de novos membros, o caçula que se sente sem lugar e papéis indefinidos, a questão central é de inclusão. Adaptação é item do APGAR familiar, e comunicação aparece no roteiro PRACTICE.",
+  "porAlt": [
+   "Controle é a segunda dimensão e trata de quem decide, não de quem pertence.",
+   "Correta: pertencimento e redistribuição de papéis definem a dimensão de inclusão.",
+   "Intimidade é a terceira dimensão, abordada depois de inclusão e controle.",
+   "Adaptação é domínio do APGAR familiar, não uma dimensão do FIRO.",
+   "Comunicação é item do roteiro PRACTICE, não uma dimensão do modelo FIRO."
+  ]
+ },
+ {
+  "q": "Homem de 70 anos, lúcido, retorna para receber o resultado de biópsia que confirmou adenocarcinoma gástrico. Ao ser perguntado sobre o que já sabe, diz: sei que é coisa séria, doutor, mas prefiro que o senhor explique os detalhes para a minha filha; eu só quero saber o que vamos fazer. Segundo o protocolo SPIKES, qual a conduta?",
+  "alts": [
+   "Informar todos os detalhes e o prognóstico, pois o direito à informação é dele",
+   "Omitir o diagnóstico e comunicar à filha, que passa a decidir pelo pai",
+   "Respeitar quanto ele quer saber, combinar o que a filha recebe e tratar do plano",
+   "Adiar a conversa até que ele aceite ouvir o diagnóstico completo do médico",
+   "Encaminhar à psicologia antes de qualquer informação sobre o diagnóstico"
+  ],
+  "gab": 2,
+  "tema": "ferramentas",
+  "sub": "SPIKES: convite",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Baile WF et al. SPIKES: a six-step protocol for delivering bad news. Oncologist, 2000; Código de Ética Médica, Res. CFM 2.217/2018",
+  "coment": "No SPIKES, depois de avaliar a percepção vem o convite (invitation): saber quanto e como a pessoa quer ser informada. Há quem queira todos os detalhes e quem prefira que se fale com a família. Respeitar essa preferência não é omitir: o paciente sabe que a doença é séria, autoriza a filha a receber os detalhes e recebe o que deseja, o plano. Esconder o diagnóstico do paciente capaz a pedido da família contraria o Código de Ética Médica, e impor informação não desejada fere a etapa do convite.",
+  "porAlt": [
+   "Impor detalhes que ele recusou ignora a etapa do convite, que vem antes da informação.",
+   "Ele é capaz e já sabe que é grave; decidir pela filha retira a autonomia dele.",
+   "Correta: a etapa do convite respeita o quanto ele quer saber e pactua com quem falar.",
+   "Condicionar a conversa ao diagnóstico completo desrespeita a preferência expressa.",
+   "Não há indicação de adiar a comunicação para avaliação psicológica prévia."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos bebe seis latas de cerveja por dia. Diz que sabe que faz mal, mas que é a única coisa que o relaxa depois do trabalho. O médico responde: por um lado, a cerveja ajuda o senhor a relaxar; por outro, o senhor se preocupa com o fígado e com o exemplo que dá ao seu filho. Na entrevista motivacional, que técnica foi usada e com que objetivo?",
+  "alts": [
+   "Reflexão de dois lados, para tornar visível a ambivalência",
+   "Confrontação direta, para expor as consequências do uso",
+   "Pergunta fechada, para quantificar o padrão de consumo",
+   "Reforço positivo, para aumentar a autoeficácia do paciente",
+   "Aconselhamento diretivo, para recomendar a abstinência"
+  ],
+  "gab": 0,
+  "tema": "ferramentas",
+  "sub": "entrevista motivacional",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Miller WR, Rollnick S. Motivational interviewing: helping people change, 3ª ed. Guilford, 2013",
+  "coment": "A entrevista motivacional parte de que a ambivalência é o centro da dificuldade de mudar. A reflexão de dois lados devolve, na mesma frase, os motivos para manter e para mudar o comportamento, tornando visível a discrepância entre o hábito atual e os valores da pessoa sem provocar resistência. As habilidades básicas são perguntas abertas, afirmações de valorização, reflexões e resumos. Confrontar, argumentar e prescrever a mudança tendem a aumentar a defesa do comportamento.",
+  "porAlt": [
+   "Correta: devolver os dois polos do dilema evidencia a ambivalência e a discrepância.",
+   "A fala do médico não confronta nem enumera danos; ela reflete o que o paciente disse.",
+   "Não houve pergunta, e a frase não buscou quantificar o consumo de álcool.",
+   "Afirmações de valorização reforçam esforços; a frase do médico não fez isso.",
+   "O médico não recomendou abstinência, o que seria uma postura diretiva."
+  ]
+ },
+ {
+  "q": "Mulher de 30 anos consulta por tosse há 4 dias, com coriza e dor de garganta, sem sinais de gravidade. No prontuário eletrônico do e-SUS APS, o médico codifica o motivo da consulta como R05 (tosse) e o problema avaliado como R74 (infecção aguda do aparelho respiratório superior). Sobre a estrutura da CIAP-2, o que esses códigos indicam?",
+  "alts": [
+   "R05 é procedimento diagnóstico e R74 é doença, ambos no capítulo respiratório",
+   "Ambos são doenças, pois a letra R já define que se trata de um diagnóstico",
+   "R05 é sinal ou sintoma e R74 é resultado de exame do capítulo respiratório",
+   "R05 é sinal ou sintoma e R74 é doença, ambos no capítulo respiratório",
+   "R05 é motivo administrativo e R74 é doença do componente de referenciação"
+  ],
+  "gab": 3,
+  "tema": "ferramentas",
+  "sub": "CIAP-2: componentes",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "WONCA. Classificação Internacional de Atenção Primária, 2ª ed. (CIAP-2), tradução SBMFC, 2009",
+  "coment": "A CIAP-2 é biaxial: 17 capítulos identificados por letras (R é o aparelho respiratório) e sete componentes numéricos comuns a todos eles. Os códigos de 01 a 29 são sinais e sintomas; 30 a 49, procedimentos diagnósticos e preventivos; 50 a 59, terapêuticos; 60 e 61, resultados de exames; 62, administrativo; 63 a 69, referenciação e outros motivos; 70 a 99, doenças. Assim, R05 é sintoma e R74 é doença. A CIAP codifica motivo de consulta, problema avaliado e intervenção, e convive com a CID-10.",
+  "porAlt": [
+   "Procedimentos diagnósticos ocupam os números de 30 a 49, e não o 05.",
+   "A letra indica o capítulo, e o número é que define sintoma, procedimento ou doença.",
+   "Resultados de exames são os códigos 60 e 61; 74 está na faixa das doenças.",
+   "Correta: 01 a 29 são sinais e sintomas e 70 a 99 são doenças, no capítulo R.",
+   "Administrativo é o 62 e referenciação vai de 63 a 69, faixas que não incluem 05 e 74."
+  ]
+ },
+ {
+  "q": "Uma equipe de Saúde da Família passa a atender várias famílias haitianas que chegaram ao bairro. A agente comunitária aprende expressões básicas em crioulo, a equipe convida uma mediadora da própria comunidade para as consultas e adapta as orientações alimentares do pré-natal aos pratos que as famílias costumam preparar. Qual atributo da atenção primária, segundo Starfield, foi fortalecido?",
+  "alts": [
+   "Orientação comunitária, atributo derivado",
+   "Integralidade, atributo essencial",
+   "Acesso de primeiro contato, atributo essencial",
+   "Orientação familiar, atributo derivado",
+   "Competência cultural, atributo derivado"
+  ],
+  "gab": 4,
+  "tema": "aps",
+  "sub": "competência cultural",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Starfield B. Atenção primária: equilíbrio entre necessidades de saúde, serviços e tecnologia. UNESCO, Ministério da Saúde, 2002",
+  "coment": "Starfield descreve quatro atributos essenciais (acesso de primeiro contato, longitudinalidade, integralidade e coordenação) e três derivados (orientação familiar, orientação comunitária e competência cultural). Competência cultural é a adaptação da relação, da linguagem e do plano de cuidado às características culturais da população atendida, como imigrantes, indígenas e quilombolas. Mediação cultural, uso da língua da comunidade e ajuste das orientações aos hábitos alimentares são exemplos diretos.",
+  "porAlt": [
+   "Orientação comunitária é planejar ações a partir de dados e necessidades do território.",
+   "Integralidade é responder ao espectro de necessidades, oferecendo ou encaminhando ações.",
+   "Primeiro contato trata de a unidade ser a porta procurada e acessível a cada problema novo.",
+   "Orientação familiar é considerar a família como sujeito do cuidado e conhecer seus membros.",
+   "Correta: adaptar linguagem e orientações à cultura das famílias é competência cultural."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos sofreu fratura de tíbia e fez seis consultas no ambulatório de ortopedia, todas com o mesmo ortopedista, até receber alta. Ele nunca teve um serviço ou um médico como fonte regular de cuidado e, quando adoece, procura o pronto-atendimento mais próximo. Na terminologia de Starfield, o que esse acompanhamento ortopédico representa?",
+  "alts": [
+   "Longitudinalidade, pela repetição de consultas com o mesmo médico",
+   "Continuidade no tratamento de um episódio, sem longitudinalidade",
+   "Coordenação plena, pela sequência de consultas no mesmo serviço",
+   "Longitudinalidade parcial, limitada ao problema ortopédico",
+   "Integralidade, pois o problema foi resolvido até a alta"
+  ],
+  "gab": 1,
+  "tema": "aps",
+  "sub": "longitudinalidade e continuidade",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Starfield B. Atenção primária: equilíbrio entre necessidades de saúde, serviços e tecnologia. UNESCO, Ministério da Saúde, 2002",
+  "coment": "Longitudinalidade é a existência de uma fonte regular de cuidado ao longo do tempo, com vínculo pessoal entre a pessoa e a equipe, independentemente de haver doença. Continuidade é a sucessão de atendimentos ligados a um mesmo problema, o seguimento de um episódio, e se relaciona à coordenação. O paciente teve continuidade do tratamento da fratura, mas não tem longitudinalidade: não há fonte regular de cuidado e ele usa o pronto-atendimento a cada problema novo.",
+  "porAlt": [
+   "Ver o mesmo médico num episódio não cria fonte regular de cuidado ao longo da vida.",
+   "Correta: houve seguimento de um episódio, mas não vínculo duradouro com uma fonte regular.",
+   "Coordenação é integrar informações entre pontos da rede, o que o caso não descreve.",
+   "Longitudinalidade não se fraciona por problema; ela é a relação com a pessoa ao longo do tempo.",
+   "Integralidade é a amplitude de necessidades atendidas, não a resolução de um episódio."
+  ]
+ },
+ {
+  "q": "Numa unidade de Saúde da Família, toda inserção de DIU é encaminhada ao ginecologista, toda verruga vulgar vai para a dermatologia fazer crioterapia, cortes simples são mandados ao pronto-socorro para sutura e a coleta do exame de rastreamento do colo é feita só em mutirões anuais. Qual atributo da atenção primária está mais comprometido?",
+  "alts": [
+   "Longitudinalidade do vínculo",
+   "Coordenação do cuidado",
+   "Integralidade do cuidado",
+   "Acesso de primeiro contato",
+   "Orientação comunitária"
+  ],
+  "gab": 2,
+  "tema": "aps",
+  "sub": "integralidade",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Starfield B. Atenção primária: equilíbrio entre necessidades de saúde, serviços e tecnologia. UNESCO, Ministério da Saúde, 2002",
+  "coment": "Integralidade, na formulação de Starfield, é a capacidade de a equipe reconhecer todo o espectro de necessidades da população e oferecer diretamente o que é próprio do primeiro nível, como prevenção, cuidado de agudos e crônicos, saúde mental e pequenos procedimentos, encaminhando apenas o restante. Encaminhar DIU, crioterapia, sutura simples e não oferecer coleta de rotina é a descrição clássica de baixa integralidade, com perda de resolutividade e sobrecarga dos outros níveis.",
+  "porAlt": [
+   "Longitudinalidade trata do vínculo ao longo do tempo, que o caso não discute.",
+   "Coordenação é integrar o que acontece em outros pontos, e o problema aqui é não ofertar.",
+   "Correta: deixar de oferecer procedimentos de primeiro nível reduz a integralidade.",
+   "Primeiro contato trata de a unidade ser procurada e acessível, e não da oferta de procedimentos.",
+   "Orientação comunitária é atributo derivado, ligado ao planejamento a partir do território."
+  ]
+ },
+ {
+  "q": "Uma candidata ao cargo de agente comunitário de saúde mora na microárea desde antes da publicação do edital, tem ensino fundamental completo e se dispõe a fazer o curso de formação inicial. Segundo a Lei 11.350/2006, com a redação dada pela Lei 13.595/2018, ela preenche os requisitos para exercer a função?",
+  "alts": [
+   "Não, porque a lei agora só aceita ensino médio concluído",
+   "Sim, porque a lei exige o ensino fundamental completo",
+   "Não, porque precisa morar na área há pelo menos cinco anos",
+   "Não, porque a formação exigida é curso técnico de 400 horas",
+   "Sim, desde que passe a residir na área após a contratação"
+  ],
+  "gab": 0,
+  "tema": "aps",
+  "sub": "agente comunitário: requisitos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 11.350/2006, com redação da Lei 13.595/2018",
+  "coment": "A Lei 11.350/2006, alterada pela Lei 13.595/2018, exige do agente comunitário de saúde: residir na área da comunidade em que atuará desde a data de publicação do edital do processo seletivo, ter concluído o ensino médio e concluir curso de formação inicial com carga mínima de 40 horas. A exigência de ensino médio veio com a lei de 2018; antes bastava o ensino fundamental. A residência no território é o que garante o conhecimento da comunidade, base do trabalho do agente.",
+  "porAlt": [
+   "Correta: desde a Lei 13.595/2018, o ensino médio concluído é requisito obrigatório.",
+   "O ensino fundamental era o requisito anterior, alterado pela lei de 2018.",
+   "A lei exige residir na área desde o edital, sem prazo mínimo de cinco anos.",
+   "O curso de formação inicial exigido tem no mínimo 40 horas, não 400 horas.",
+   "A residência deve existir desde a publicação do edital, e não depois de contratada."
+  ]
+ },
+ {
+  "q": "Um município de pequeno porte não consegue fixar médico em 40 horas semanais e quer cadastrar, numa UBS central, uma equipe composta só por médico e enfermeiro, cada um com 30 horas semanais, sem agentes comunitários. Qual modalidade de equipe corresponde a essa composição?",
+  "alts": [
+   "Equipe de Saúde da Família com carga reduzida e ACS facultativo",
+   "Equipe de Atenção Primária modalidade I, de 30 horas por categoria",
+   "Equipe Multiprofissional estratégica, sem vínculo com eSF",
+   "Equipe de Atenção Primária modalidade II, sem exigir ACS",
+   "Equipe de Atenção Básica tradicional, prevista na PNAB de 2011"
+  ],
+  "gab": 3,
+  "tema": "aps",
+  "sub": "equipe de Atenção Primária",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 2.539/2019 (institui a equipe de Atenção Primária), 2019",
+  "coment": "A equipe de Atenção Primária (eAP), criada pela Portaria GM/MS 2.539/2019, é composta por médico e enfermeiro e não exige agente comunitário. A modalidade I tem 20 horas semanais por categoria e a modalidade II, 30 horas. A equipe de Saúde da Família exige médico, enfermeiro, auxiliar ou técnico de enfermagem e ACS, todos com 40 horas. A eMulti apoia equipes de referência e não funciona como equipe de porta de entrada.",
+  "porAlt": [
+   "A eSF exige 40 horas para todos e tem o ACS como membro obrigatório.",
+   "A modalidade I da eAP tem 20 horas semanais por categoria, não 30.",
+   "A eMulti é equipe de apoio e se vincula sempre a equipes de referência.",
+   "Correta: a eAP modalidade II tem médico e enfermeiro com 30 horas e dispensa ACS.",
+   "A equipe de Atenção Básica foi substituída pela eAP em 2019."
+  ]
+ },
+ {
+  "q": "Ao reorganizar uma UBS com três equipes de Saúde da Família, o gestor municipal decide implantar a figura do gerente de Atenção Básica prevista na PNAB de 2017. Segundo a política, qual o perfil recomendado para essa função?",
+  "alts": [
+   "Médico da eSF com mais tempo de serviço na própria unidade",
+   "Enfermeiro de uma das equipes, acumulando a gerência",
+   "Agente comunitário com formação técnica em gestão",
+   "Profissional indicado pelo conselho, sem formação exigida",
+   "Nível superior, sem ser membro das equipes da UBS"
+  ],
+  "gab": 4,
+  "tema": "aps",
+  "sub": "gerente de Atenção Básica",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Política Nacional de Atenção Básica (Portaria 2.436/2017, consolidada), 2017",
+  "coment": "Entre as novidades da PNAB de 2017 está a recomendação de que a UBS conte com gerente de Atenção Básica: profissional qualificado, preferencialmente de nível superior, que não seja integrante das equipes vinculadas à unidade, responsável por organizar o processo de trabalho, coordenar as ações e apoiar a gestão. A separação evita que um profissional acumule assistência e gerência. A mesma PNAB equiparou os termos Atenção Básica e Atenção Primária e integrou ACS e agente de endemias no território.",
+  "porAlt": [
+   "A PNAB recomenda que o gerente não integre as equipes da unidade.",
+   "Acumular assistência e gerência é o que a recomendação procura evitar.",
+   "A política prevê preferencialmente nível superior, não formação técnica.",
+   "A função exige qualificação para gestão; não é cargo de indicação do conselho.",
+   "Correta: gerente de nível superior que não integre as equipes vinculadas à UBS."
+  ]
+ },
+ {
+  "q": "Em aula sobre equipes de apoio na atenção primária, a preceptora pergunta por que muitos municípios desmontaram os Núcleos de Apoio à Saúde da Família a partir de 2020 e qual norma recompôs esse apoio. Qual a resposta correta?",
+  "alts": [
+   "A PNAB de 2017 extinguiu o NASF, e a Portaria 3.493/2024 o recriou com o mesmo nome",
+   "A Lei 14.510/2022 converteu o NASF em telessaúde, e a Portaria 635/2023 criou a eMulti",
+   "O Previne Brasil acabou com o custeio federal do NASF, e a Portaria 635/2023 criou a eMulti",
+   "O Previne Brasil converteu o NASF em eAP, e a Portaria 2.539/2019 criou a eMulti",
+   "A Emenda 95/2016 congelou o NASF, e a Portaria 2.436/2017 instituiu a eMulti"
+  ],
+  "gab": 2,
+  "tema": "aps",
+  "sub": "do NASF à eMulti",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria GM/MS 635/2023 (equipes Multiprofissionais na APS), 2023",
+  "coment": "O NASF, criado em 2008, perdeu o financiamento federal específico com o Previne Brasil (Portaria GM/MS 2.979/2019), em vigor a partir de 2020, e muitos municípios desmontaram as equipes. A Portaria GM/MS 635/2023 instituiu as equipes Multiprofissionais na Atenção Primária (eMulti), nas modalidades ampliada, complementar e estratégica, com incentivo federal próprio. A Portaria 2.539/2019 criou a eAP, e a Lei 14.510/2022 trata de telessaúde.",
+  "porAlt": [
+   "A PNAB de 2017 manteve o NASF, e a eMulti não é o NASF com o mesmo nome.",
+   "A Lei 14.510/2022 disciplina a telessaúde e não tratou do NASF.",
+   "Correta: o Previne Brasil cortou o custeio específico, e a Portaria 635/2023 criou a eMulti.",
+   "A Portaria 2.539/2019 criou a equipe de Atenção Primária, e não a eMulti.",
+   "A PNAB de 2017 é anterior à eMulti, criada só em 2023."
+  ]
+ },
+ {
+  "q": "Em 2026, numa reunião do conselho municipal, o secretário afirma que o repasse federal para a atenção primária é calculado pela capitação ponderada das pessoas cadastradas, somada ao pagamento por desempenho num conjunto de indicadores e a incentivos para ações estratégicas. Como avaliar essa afirmação?",
+  "alts": [
+   "Correta, pois a Portaria 3.493/2024 manteve a lógica do Previne Brasil",
+   "Errada: descreve o Previne Brasil, substituído pelos componentes da Portaria 3.493/2024",
+   "Errada, pois o repasse voltou ao PAB fixo e variável vigente antes de 2019",
+   "Correta, com a ressalva de que a capitação ponderada agora inclui a eMulti",
+   "Errada, pois o repasse hoje depende do número de equipes credenciadas no município"
+  ],
+  "gab": 1,
+  "tema": "aps",
+  "sub": "cofinanciamento da APS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 3.493/2024, alterada pelas Portarias GM/MS 6.907/2025 e 10.994/2026",
+  "coment": "Capitação ponderada, pagamento por desempenho e incentivo a ações estratégicas eram os pilares do Previne Brasil (Portaria 2.979/2019). A Portaria GM/MS 3.493/2024 revogou esse modelo e instituiu nova metodologia de cofinanciamento, com componente fixo por equipe, componente de vínculo e acompanhamento territorial, componente de qualidade (que inclui eSB e eMulti), componente de programas e outras equipes, saúde bucal e per capita de base populacional. Portarias de 2025 e 2026 ajustaram o calendário de transição, sem retomar a capitação.",
+  "porAlt": [
+   "A Portaria 3.493/2024 revogou o Previne Brasil em vez de mantê-lo.",
+   "Correta: a descrição é do Previne Brasil, substituído pela metodologia de 2024.",
+   "O modelo vigente não restaurou o PAB fixo e variável anterior a 2019.",
+   "A eMulti entra no componente de qualidade, e a capitação ponderada deixou de existir.",
+   "Além do componente fixo, há vínculo, qualidade, programas, saúde bucal e per capita."
+  ]
+ },
+ {
+  "q": "Uma central municipal recebe os encaminhamentos das unidades básicas para cardiologia, aplica protocolos clínicos, devolve com orientação os pedidos incompletos e agenda os demais por ordem de prioridade. Pela Política Nacional de Regulação do SUS, essa atividade corresponde a qual dimensão da regulação?",
+  "alts": [
+   "Regulação do acesso à assistência",
+   "Regulação da atenção à saúde",
+   "Regulação de sistemas de saúde",
+   "Auditoria do sistema de saúde",
+   "Contratualização de prestadores"
+  ],
+  "gab": 0,
+  "tema": "aps",
+  "sub": "regulação do acesso",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Política Nacional de Regulação do SUS (Portaria GM/MS 1.559/2008, consolidada), 2008",
+  "coment": "A Política Nacional de Regulação do SUS distingue três dimensões. A regulação de sistemas atua sobre os sistemas municipais, estaduais e nacional (planejamento, controle, avaliação e auditoria). A regulação da atenção à saúde atua sobre a produção de ações e serviços, como contratação e controle de prestadores. A regulação do acesso à assistência, ou regulação assistencial, organiza e prioriza o acesso por complexos reguladores e centrais de consultas, exames, leitos e urgências, usando protocolos de encaminhamento.",
+  "porAlt": [
+   "Correta: priorizar e agendar o acesso por protocolos é regulação assistencial.",
+   "Regulação da atenção atua sobre prestadores e produção de serviços.",
+   "Regulação de sistemas atua no planejamento e na avaliação dos sistemas de saúde.",
+   "Auditoria é instrumento da regulação de sistemas, não a gestão da fila.",
+   "Contratualizar prestadores pertence à regulação da atenção à saúde."
+  ]
+ },
+ {
+  "q": "Uma equipe atende comunidades à beira de um rio a partir de uma UBS localizada em terra firme, deslocando-se de barco para atender nas localidades mais distantes. Em outra região, uma equipe trabalha a bordo de uma embarcação equipada como unidade básica. Pela PNAB de 2017, como se classificam, respectivamente, essas equipes?",
+  "alts": [
+   "Saúde da Família Fluvial e Saúde da Família Ribeirinha",
+   "Consultório na Rua itinerante e Saúde da Família Fluvial",
+   "Atenção Primária modalidade I e Saúde da Família Ribeirinha",
+   "Saúde da Família Ribeirinha e Saúde da Família Fluvial",
+   "Saúde da Família Ribeirinha e eMulti estratégica embarcada"
+  ],
+  "gab": 3,
+  "tema": "aps",
+  "sub": "equipes ribeirinha e fluvial",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Atenção Básica (Portaria 2.436/2017, consolidada), 2017",
+  "coment": "A PNAB de 2017 prevê arranjos próprios para populações ribeirinhas. A equipe de Saúde da Família Ribeirinha (eSFR) trabalha a partir de uma UBS em terra e se desloca por via fluvial para alcançar a população dispersa. A equipe de Saúde da Família Fluvial (eSFF) atua em Unidade Básica de Saúde Fluvial, embarcação equipada para o atendimento. As duas adaptam a atenção primária a quem não chega à unidade tradicional, assim como o Consultório na Rua faz com a população em situação de rua.",
+  "porAlt": [
+   "A ordem está invertida: a fluvial trabalha embarcada e a ribeirinha parte de UBS em terra.",
+   "Consultório na Rua atende população em situação de rua, não comunidades ribeirinhas.",
+   "A eAP não é arranjo para ribeirinhos, e a equipe embarcada é a fluvial.",
+   "Correta: ribeirinha parte de UBS em terra e fluvial atua em UBS embarcada.",
+   "A eMulti apoia equipes de referência e não é a equipe que atua na embarcação."
+  ]
+ },
+ {
+  "q": "Homem de 61 anos com diabetes tipo 2 e neuropatia apresenta úlcera plantar neuropática sem sinais de isquemia. A equipe faz desbridamento, prescreve descarga de peso com calçado adequado e trata a infecção superficial para evitar a amputação. No esquema de Leavell e Clark, a que nível de aplicação essa intervenção corresponde?",
+  "alts": [
+   "Reabilitação funcional, na prevenção terciária",
+   "Proteção específica, na prevenção primária",
+   "Limitação da incapacidade, prevenção secundária",
+   "Diagnóstico precoce, na prevenção secundária",
+   "Promoção da saúde, nível inespecífico da primária"
+  ],
+  "gab": 2,
+  "tema": "rastreamento",
+  "sub": "Leavell e Clark: limitação do dano",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Leavell HR, Clark EG. Preventive medicine for the doctor in his community, 3ª ed. McGraw-Hill, 1965",
+  "coment": "Leavell e Clark dividem a prevenção em cinco níveis de aplicação: promoção da saúde e proteção específica (primária, no período pré-patogênico); diagnóstico precoce com tratamento imediato e limitação da incapacidade (secundária, no período patogênico); e reabilitação (terciária). Tratar adequadamente uma lesão já estabelecida para impedir sequela, como a amputação no pé diabético, é limitação da incapacidade. Reabilitação seria, por exemplo, a adaptação de prótese e o treino de marcha depois de uma amputação.",
+  "porAlt": [
+   "Reabilitação atua depois da sequela instalada, como no treino com prótese após amputação.",
+   "Proteção específica age antes da doença, como vacina ou uso de calçado em quem não tem lesão.",
+   "Correta: tratar a lesão estabelecida para evitar sequela é limitação da incapacidade.",
+   "Diagnóstico precoce é identificar a doença no início; a úlcera já está instalada.",
+   "Promoção da saúde é inespecífica e anterior à doença, como educação e saneamento."
+  ]
+ },
+ {
+  "q": "Numa discussão sobre por que o SUS não rastreia câncer de ovário em mulheres de risco habitual com CA-125 e ultrassom transvaginal, um residente argumenta que a doença é grave, letal e frequentemente diagnosticada em estágio avançado. À luz dos critérios de Wilson e Jungner, qual o motivo central para não rastrear?",
+  "alts": [
+   "A doença não é problema de saúde importante, dada a baixa incidência",
+   "Não existe tratamento aceito para as mulheres com a doença detectada",
+   "Os exames não são aceitáveis pela população por serem invasivos",
+   "O custo do ultrassom é o único critério que o rastreamento não cumpre",
+   "Falta teste adequado, e antecipar o diagnóstico não reduziu mortes"
+  ],
+  "gab": 4,
+  "tema": "rastreamento",
+  "sub": "Wilson e Jungner: câncer de ovário",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Wilson JMG, Jungner G. Principles and practice of screening for disease. OMS, 1968; Andermann A et al. Bull World Health Organ, 2008",
+  "coment": "Gravidade e letalidade não bastam para justificar rastreamento. Para o câncer de ovário, CA-125 e ultrassom transvaginal têm acurácia insuficiente na população de risco habitual e, em grandes ensaios randomizados, não reduziram a mortalidade, além de gerarem cirurgias por falso-positivos. O programa falha nos critérios de existir teste adequado e de haver fase latente detectável em que o tratamento mude o desfecho. Releituras dos critérios, como a de Andermann em 2008, exigem evidência de eficácia e benefício maior que o dano.",
+  "porAlt": [
+   "A doença é relevante pela letalidade; a importância não é o critério que falha.",
+   "Há tratamento aceito; o problema está no teste e na falta de ganho em mortalidade.",
+   "Ultrassom e coleta de sangue são bem aceitos; aceitabilidade não é o obstáculo.",
+   "O custo não é o único nem o principal critério não cumprido nesse caso.",
+   "Correta: o teste é inadequado e a detecção antecipada não mostrou redução de mortes."
+  ]
+ },
+ {
+  "q": "No município A, a mamografia é pedida quando a mulher procura a unidade por outro motivo e lembra de pedir. No município B, a equipe convida por lista todas as mulheres da faixa-alvo, registra quem fez o exame, repete o convite no intervalo definido, garante a investigação de todos os resultados alterados e acompanha indicadores de cobertura. Como se caracteriza o modelo do município B?",
+  "alts": [
+   "Rastreamento organizado, com convite ativo e seguimento dos positivos",
+   "Rastreamento oportunístico, ampliado pela busca ativa dos agentes comunitários",
+   "Diagnóstico precoce, voltado às mulheres com sintomas mamários",
+   "Rastreamento organizado, que dispensa monitorar indicadores",
+   "Rastreamento seletivo, restrito às mulheres de alto risco"
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "rastreamento organizado",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Rastreamento, Cadernos de Atenção Primária nº 29, 2010; Andermann A et al. Bull World Health Organ, 2008",
+  "coment": "O rastreamento organizado tem população-alvo definida e convidada ativamente, intervalo estabelecido, garantia de investigação e tratamento dos positivos, sistema de informação e monitoramento por indicadores de qualidade e cobertura. O oportunístico depende de a pessoa aparecer e lembrar do exame: cobre mal quem mais precisa e repete exames em quem menos precisa. As diretrizes brasileiras de rastreamento do colo de 2025 adotam explicitamente o modelo organizado com DNA-HPV.",
+  "porAlt": [
+   "Correta: convite por lista, intervalo, seguimento e indicadores definem o modelo organizado.",
+   "O oportunístico é o do município A, baseado na demanda espontânea.",
+   "Diagnóstico precoce é para sintomáticas; o município B convida assintomáticas.",
+   "Monitorar indicadores é parte essencial do rastreamento organizado.",
+   "O município B convida toda a faixa-alvo, e não só mulheres de alto risco."
+  ]
+ },
+ {
+  "q": "Um estudo observacional comparou mulheres convidadas para rastreamento que aceitaram fazer o exame com as que recusaram. Em dez anos, as que aceitaram tiveram menor mortalidade pelo câncer rastreado, mas também menor mortalidade por doença cardiovascular, acidentes e outras causas sem relação com o câncer. Que viés melhor explica esse achado?",
+  "alts": [
+   "Viés de tempo de antecipação do diagnóstico",
+   "Viés de duração da fase pré-clínica",
+   "Sobrediagnóstico de casos indolentes",
+   "Viés de seleção do voluntário saudável",
+   "Viés de aferição do desfecho principal"
+  ],
+  "gab": 3,
+  "tema": "rastreamento",
+  "sub": "viés do voluntário saudável",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Rastreamento, Cadernos de Atenção Primária nº 29, 2010",
+  "coment": "Quem aceita participar de rastreamento costuma ser mais saudável, mais escolarizado e mais cuidadoso com a própria saúde do que quem recusa. Por isso, comparar aderentes com não aderentes em estudo observacional superestima o benefício, e a pista do enunciado é a menor mortalidade também por causas que o rastreamento não poderia afetar. O desenho que elimina esse viés é o ensaio randomizado com análise por intenção de rastrear. Antecipação e duração afetam a sobrevida contada do diagnóstico, não a mortalidade por outras causas.",
+  "porAlt": [
+   "Antecipação aumenta a sobrevida medida a partir do diagnóstico, sem efeito em outras causas.",
+   "Duração favorece a detecção de tumores lentos, sem explicar menos mortes cardiovasculares.",
+   "Sobrediagnóstico infla incidência e sobrevida, não reduz mortes por outras causas.",
+   "Correta: aderentes são mais saudáveis, e isso reduz até mortes não ligadas ao câncer.",
+   "Não há indício de erro na medida do desfecho; o problema é quem entrou em cada grupo."
+  ]
+ },
+ {
+  "q": "Um ensaio clínico randomizado acompanhou por dez anos adultos de risco médio. A mortalidade pelo câncer rastreado foi de 0,6% no grupo controle e de 0,4% no grupo submetido ao rastreamento. Qual o número necessário rastrear para evitar uma morte pela doença nesse período?",
+  "alts": [
+   "50 pessoas",
+   "500 pessoas",
+   "200 pessoas",
+   "1.000 pessoas",
+   "333 pessoas"
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "número necessário rastrear",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Rastreamento, Cadernos de Atenção Primária nº 29, 2010",
+  "coment": "O número necessário rastrear é o inverso da redução absoluta do risco do desfecho. A redução absoluta da mortalidade é 0,6% menos 0,4%, ou seja, 0,2% (0,002). O inverso de 0,002 é 500: é preciso rastrear 500 pessoas por dez anos para evitar uma morte pela doença. A redução relativa, de um terço, impressiona mais, mas é o número absoluto que permite pesar o benefício contra falso-positivos, biópsias e sobrediagnóstico na decisão compartilhada.",
+  "porAlt": [
+   "Cinquenta corresponderia a uma redução absoluta de 2%, dez vezes maior que a do estudo.",
+   "Correta: a redução absoluta é 0,2%, e o inverso de 0,002 é 500.",
+   "Duzentos resultaria de redução absoluta de 0,5%, que não é a encontrada.",
+   "Mil corresponde a redução absoluta de 0,1%, a metade da observada.",
+   "Trezentos e trinta e três é o inverso de 0,3%, valor que confunde as taxas."
+  ]
+ },
+ {
+  "q": "Um casal sem doenças conhecidas procura a unidade e pede exame de colesterol. Ele tem 37 anos e ela 41; nenhum fuma, ambos têm pressão normal, glicemia normal, IMC de 24 kg/m² e não há doença cardiovascular precoce na família. Segundo o Caderno de Atenção Primária nº 29 do Ministério da Saúde, qual a conduta quanto ao rastreamento de dislipidemia?",
+  "alts": [
+   "Pedir para os dois, pois o rastreamento começa aos 20 anos",
+   "Pedir para ela, pois mulheres começam antes dos homens",
+   "Pedir para ele e, para ela, aguardar até os 45 anos",
+   "Não pedir para nenhum, pois o rastreio se inicia aos 45 anos",
+   "Pedir para os dois e repetir o perfil lipídico anualmente"
+  ],
+  "gab": 2,
+  "tema": "rastreamento",
+  "sub": "rastreamento de dislipidemia",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Rastreamento, Cadernos de Atenção Primária nº 29, 2010",
+  "coment": "O Caderno de Atenção Primária nº 29 recomenda rastrear dislipidemia em homens a partir dos 35 anos e em mulheres a partir dos 45 anos, antecipando para os 20 anos quando há risco cardiovascular aumentado (tabagismo, hipertensão, diabetes, obesidade, doença cardiovascular precoce na família). Sem fatores de risco, ele, com 37 anos, já tem indicação, e ela, com 41, ainda não. O colesterol serve para estimar o risco cardiovascular global, que é o que orienta a decisão sobre estatina.",
+  "porAlt": [
+   "O início aos 20 anos vale apenas para quem tem risco cardiovascular aumentado.",
+   "A recomendação começa mais cedo para os homens, aos 35, e para as mulheres aos 45.",
+   "Correta: homens a partir dos 35 e mulheres a partir dos 45 anos, sem fatores de risco.",
+   "Os 45 anos são o início para as mulheres; nos homens o rastreamento começa aos 35.",
+   "Não há indicação para ela agora, e repetição anual não é recomendada sem risco."
+  ]
+ },
+ {
+  "q": "Homem de 78 anos, ativo, independente, sem comorbidades graves e com boa expectativa de vida, nunca fez nenhum exame de rastreamento de câncer colorretal. Ele pergunta à médica de família se ainda vale a pena fazer. Segundo a USPSTF de 2021, como conduzir?",
+  "alts": [
+   "Não rastrear, pois o limite absoluto da recomendação é 75 anos",
+   "Rastrear, pois a recomendação de grau A se estende até 85 anos",
+   "Fazer sangue oculto anual, pois é obrigatório até os 80 anos",
+   "Indicar só colonografia por tomografia, única opção após 75 anos",
+   "Decidir de forma individual, pesando saúde e rastreamento prévio"
+  ],
+  "gab": 4,
+  "tema": "rastreamento",
+  "sub": "colorretal após 75 anos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "US Preventive Services Task Force. Colorectal cancer: screening. JAMA, 2021",
+  "coment": "A USPSTF de 2021 recomenda rastrear câncer colorretal dos 50 aos 75 anos (grau A) e dos 45 aos 49 (grau B). Entre 76 e 85 anos, a recomendação é de decisão individual (grau C), considerando estado de saúde, expectativa de vida, preferências e história de rastreamento: quem nunca foi rastreado e está saudável é quem mais tende a se beneficiar. Acima de 85 anos não se rastreia. No Brasil, o Caderno de Atenção Primária nº 29 adota a faixa de 50 a 75 anos.",
+  "porAlt": [
+   "Aos 76 a 85 anos a decisão é individual, e não há proibição aos 75.",
+   "O grau A cobre 50 a 75 anos; de 76 a 85 o grau é C.",
+   "Nenhum método é obrigatório nessa idade, e 80 anos não é corte da diretriz.",
+   "Vários métodos são aceitos, e a idade não restringe a escolha à colonografia.",
+   "Correta: de 76 a 85 anos decide-se caso a caso, e quem nunca rastreou ganha mais."
+  ]
+ },
+ {
+  "q": "Mulher de 62 anos, com vida sexual ativa no passado, nunca fez exame de rastreamento do câncer do colo do útero. A unidade já implantou o teste de DNA-HPV oncogênico. Segundo as Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero de 2025, qual a conduta?",
+  "alts": [
+   "Fazer um DNA-HPV e, se negativo, encerrar o rastreamento",
+   "Não rastrear, pois passou da idade de início do programa",
+   "Fazer dois DNA-HPV com 5 anos de intervalo antes de encerrar",
+   "Fazer citologia anual até os 64 anos e depois encerrar",
+   "Fazer coteste com citologia e DNA-HPV a cada 3 anos"
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "colo após 60 anos sem teste",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria Conjunta SAES/SECTICS 13/2025 (Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, Parte I), 2025",
+  "coment": "As diretrizes de 2025 rastreiam mulheres de risco padrão de 25 a 64 anos com DNA-HPV oncogênico, repetido em 5 anos se negativo, sem citologia simultânea. O rastreamento se encerra quando o último teste após os 60 anos é negativo; a mulher acima de 60 anos sem teste prévio deve fazer um, e, se negativo, encerra-se. Quem trouxe resultado positivo segue o fluxo de investigação. Nunca ter sido rastreada não é motivo para excluir, é motivo para priorizar.",
+  "porAlt": [
+   "Correta: acima de 60 anos sem teste prévio, faz-se um DNA-HPV e encerra-se se negativo.",
+   "Ela está dentro da faixa de 25 a 64 anos e nunca foi rastreada, o que a torna prioridade.",
+   "Um teste negativo após os 60 anos basta para encerrar o rastreamento.",
+   "Com DNA-HPV implantado, a citologia deixa de ser o método primário.",
+   "O coteste não é recomendado, e o intervalo após negativo é de 5 anos."
+  ]
+ },
+ {
+  "q": "Mulher de 34 anos vivendo com HIV, em uso regular de antirretrovirais, com carga viral indetectável e CD4 de 620 células/mm³, faz rastreamento do colo do útero com teste de DNA-HPV oncogênico, que resulta não detectado. Segundo as diretrizes brasileiras de 2025, quando repetir?",
+  "alts": [
+   "Em 5 anos, como na mulher de risco padrão",
+   "Em 1 ano, com citologia associada ao teste",
+   "Em 3 anos, e encerrar aos 64 anos",
+   "Em 3 anos, sem idade para encerrar",
+   "Fazer colposcopia anual, sem novo teste"
+  ],
+  "gab": 3,
+  "tema": "rastreamento",
+  "sub": "colo em mulher com HIV",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria Conjunta SAES/SECTICS 13/2025 (Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, Parte I), 2025",
+  "coment": "Para mulheres imunossuprimidas, incluindo as que vivem com HIV, as diretrizes de 2025 mudam três pontos em relação ao risco padrão: o rastreamento começa após o início da atividade sexual, o intervalo após DNA-HPV negativo é de 3 anos, e não há idade para encerrar. Além disso, a detecção de qualquer tipo oncogênico leva à colposcopia, sem a etapa de citologia reflexa usada para os tipos não 16/18. Carga viral indetectável não devolve a mulher ao esquema de risco padrão.",
+  "porAlt": [
+   "O intervalo de 5 anos vale para o risco padrão, não para imunossuprimidas.",
+   "Não se faz teste anual com citologia; o intervalo após negativo é de 3 anos.",
+   "O intervalo de 3 anos está certo, mas em imunossuprimidas não há idade para parar.",
+   "Correta: imunossuprimidas repetem em 3 anos e não têm idade de encerramento.",
+   "Colposcopia é indicada diante de teste positivo, não como rotina anual."
+  ]
+ },
+ {
+  "q": "Mulher de 36 anos procura a UBS porque percebeu há um mês um nódulo endurecido na mama direita. Na recepção, foi informada de que mamografia só é feita a partir dos 40 anos, sob demanda, ou dos 50 aos 74 anos no rastreamento. Ao exame, há nódulo de 2 cm, pouco móvel. Como a médica deve conduzir?",
+  "alts": [
+   "Orientar a aguardar os 40 anos para a mamografia sob demanda",
+   "Investigar o nódulo já, pois rastreamento é só para assintomáticas",
+   "Ensinar autoexame mensal e reavaliar o nódulo em seis meses",
+   "Incluir no rastreamento mamográfico bienal a partir de agora",
+   "Pedir ressonância de rastreamento anual por ser mulher jovem"
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "diagnóstico precoce da mama",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "INCA. Diretrizes para a detecção precoce do câncer de mama no Brasil, 2015; Ministério da Saúde, ampliação do rastreamento mamográfico, 2025",
+  "coment": "Rastreamento e diagnóstico precoce são estratégias diferentes de prevenção secundária. As faixas etárias de 40 a 49 anos sob demanda e de 50 a 74 anos bienal valem para mulheres assintomáticas. A mulher com nódulo palpável está em investigação diagnóstica, sem limite de idade: exame clínico e imagem conforme a idade (abaixo de 40 anos, em geral o ultrassom é o exame inicial, com mamografia conforme o caso) e encaminhamento rápido para esclarecimento. O INCA não recomenda o autoexame como método de rastreamento.",
+  "porAlt": [
+   "As faixas etárias da mamografia valem para assintomáticas, não para quem tem nódulo.",
+   "Correta: mulher com nódulo palpável entra em investigação diagnóstica, sem limite de idade.",
+   "Esperar seis meses diante de nódulo suspeito atrasa o diagnóstico precoce.",
+   "Ela é sintomática e precisa de investigação, não de rastreamento periódico.",
+   "Ressonância de rastreamento é para alto risco definido, não para nódulo palpável."
+  ]
+ },
+ {
+  "q": "Mulher de 79 anos, hipertensa e com osteoartrite, é avaliada pela enfermeira da equipe com o Índice de Vulnerabilidade Clínico-Funcional de 20 itens (IVCF-20), que soma 17 pontos. Ela refere esquecimento recente, perda de peso e dificuldade para fazer compras sozinha. Qual a interpretação e o próximo passo?",
+  "alts": [
+   "Risco moderado; repetir o IVCF-20 em um ano antes de agir",
+   "Alto risco; fazer avaliação multidimensional completa com plano",
+   "Baixo risco; manter consultas de rotina e orientar atividade física",
+   "Alto risco; encaminhar direto à geriatria e encerrar o seguimento",
+   "Risco moderado; solicitar exames laboratoriais amplos de rastreio"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "IVCF-20",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Moraes EN et al. Índice de Vulnerabilidade Clínico Funcional-20 (IVCF-20). Rev Saúde Pública, 2016",
+  "coment": "O IVCF-20 é instrumento de triagem com 20 perguntas, pontuação de 0 a 40, aplicável por qualquer profissional da equipe. De 0 a 6 pontos indica baixo risco; de 7 a 14, risco moderado; 15 ou mais, alto risco de vulnerabilidade clínico-funcional. Com 17 pontos, a idosa deve receber avaliação multidimensional completa (função, cognição, humor, mobilidade, nutrição, medicamentos e rede de apoio) e um plano de cuidados, mantido pela atenção primária, com apoio especializado quando necessário.",
+  "porAlt": [
+   "Risco moderado vai de 7 a 14 pontos, e 17 já é alto risco que pede ação.",
+   "Correta: 15 pontos ou mais é alto risco e indica avaliação multidimensional completa.",
+   "Baixo risco corresponde a 0 a 6 pontos no IVCF-20.",
+   "Encaminhar não transfere o cuidado; a APS segue coordenando o plano.",
+   "A faixa está errada e exames amplos não substituem a avaliação funcional."
+  ]
+ },
+ {
+  "q": "Homem de 74 anos conta, quando perguntado, que caiu uma vez no último ano ao tropeçar no quintal, sem se machucar e levantando sozinho. Não é frágil, não perdeu a consciência e diz ter algum medo de cair. No consultório, o Timed Up and Go é de 18 segundos. Pela World Falls Guidelines de 2022, qual a classificação e a intervenção principal?",
+  "alts": [
+   "Baixo risco; orientação geral e reavaliação anual",
+   "Alto risco; avaliação multifatorial completa da equipe",
+   "Risco intermediário; vitamina D diária para prevenir quedas",
+   "Risco intermediário; exercício de força e de equilíbrio",
+   "Alto risco; restringir a marcha fora de casa sem companhia"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "quedas: estratificação",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Montero-Odasso M et al. World guidelines for falls prevention and management for older adults. Age Ageing, 2022",
+  "coment": "A diretriz mundial de quedas de 2022 manda perguntar ativamente sobre queda no último ano, instabilidade e medo de cair. Quem responde sim e não tem critério de alto risco (queda com lesão, duas ou mais quedas no ano, fragilidade, permanência no chão por uma hora ou mais, suspeita de perda de consciência) tem a marcha avaliada; marcha abaixo de 0,8 m/s ou TUG acima de 15 segundos define risco intermediário, que recebe exercício de força e equilíbrio. Vitamina D universal não previne queda na comunidade, e restringir a marcha é iatrogenia.",
+  "porAlt": [
+   "Com queda e TUG alterado, ele não está em baixo risco.",
+   "Uma queda sem lesão e sem outros critérios não configura alto risco.",
+   "A classificação está certa, mas vitamina D universal não previne quedas.",
+   "Correta: risco intermediário pelo TUG acima de 15 s, com treino de força e equilíbrio.",
+   "Restringir a marcha aumenta a perda funcional e o risco de novas quedas."
+  ]
+ },
+ {
+  "q": "Gestante de 24 anos chega à primeira consulta de pré-natal acompanhada do parceiro, de 27 anos, que não procura a unidade há anos. A enfermeira pergunta à médica como aproveitar a presença dele. Segundo a Política Nacional de Atenção Integral à Saúde do Homem, qual a conduta?",
+  "alts": [
+   "Incluí-lo no pré-natal do parceiro, com testes rápidos, vacinas e consulta própria",
+   "Testá-lo para sífilis e HIV somente se a gestante tiver resultado reagente",
+   "Encaminhá-lo à urologia para avaliação preventiva com PSA e toque retal",
+   "Orientá-lo a aguardar fora do consultório para preservar a privacidade",
+   "Agendar consulta própria para ele depois do parto, quando houver mais tempo"
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "pré-natal do parceiro",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Atenção Integral à Saúde do Homem (Portaria GM/MS 1.944/2009), 2009",
+  "coment": "A PNAISH tem como um de seus eixos paternidade e cuidado, operacionalizado pela estratégia do pré-natal do parceiro: a gestação vira porta de entrada do homem na atenção primária, com testagem rápida para sífilis, HIV e hepatites B e C, atualização vacinal, consulta clínica (pressão, peso, hábitos, saúde mental) e estímulo à participação no pré-natal e no parto. Testar o parceiro independe do resultado da gestante e ajuda a prevenir reinfecção e sífilis congênita. Rastrear câncer de próstata com PSA não é recomendado pelo Ministério da Saúde.",
+  "porAlt": [
+   "Correta: o pré-natal do parceiro inclui testagem, vacinação e consulta do próprio homem.",
+   "Testar o parceiro só após resultado reagente da gestante perde a prevenção da reinfecção.",
+   "O Ministério da Saúde não recomenda rastreamento de próstata com PSA em assintomáticos.",
+   "A participação do parceiro é estimulada, desde que a gestante concorde.",
+   "Adiar para depois do parto desperdiça a oportunidade de testagem e prevenção."
+  ]
+ },
+ {
+  "q": "Mulher lésbica de 32 anos, que nunca teve relações sexuais com homens, comparece à UBS para atualizar vacinas. Quando a médica oferece o rastreamento do câncer do colo do útero, ela responde que não precisa porque nunca teve parceiro masculino. Qual a orientação correta?",
+  "alts": [
+   "Dispensar o rastreamento, pois o HPV se transmite só em relação com homens",
+   "Oferecer o rastreamento se ela já tiver tido parceiro masculino",
+   "Indicar DNA-HPV, pois o vírus se transmite também entre pessoas com vulva",
+   "Indicar citologia anual, pela maior incidência de lesões nesse grupo",
+   "Adiar o início do rastreamento para os 40 anos nesse grupo específico"
+  ],
+  "gab": 2,
+  "tema": "grupos",
+  "sub": "mulher lésbica e rastreamento",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Saúde Integral LGBT (Portaria GM/MS 2.836/2011), 2011; Portaria Conjunta SAES/SECTICS 13/2025",
+  "coment": "O HPV é transmitido por contato pele a pele e mucosa a mucosa, inclusive entre mulheres, pelo contato genital e pelo compartilhamento de objetos. Por isso, mulheres lésbicas e bissexuais com vida sexual seguem o rastreamento do colo da população de risco padrão: pelas diretrizes de 2025, DNA-HPV oncogênico de 25 a 64 anos, repetido em 5 anos se negativo. A Política Nacional de Saúde Integral LGBT reconhece que a crença de não precisar do exame e o preconceito nos serviços reduzem a cobertura nesse grupo.",
+  "porAlt": [
+   "O HPV se transmite por contato genital também entre mulheres.",
+   "A indicação depende de atividade sexual, não do sexo do parceiro.",
+   "Correta: ela tem atividade sexual e entra no rastreamento com DNA-HPV.",
+   "Não há citologia anual; o método e o intervalo são os do risco padrão.",
+   "Não existe idade de início diferente para mulheres lésbicas."
+  ]
+ },
+ {
+  "q": "Homem de 35 anos em situação de rua, usuário de crack, procura a equipe de Consultório na Rua por ferida infectada na perna. Aceita o curativo e o antibiótico, mas diz que não quer saber de tratamento para a droga agora. Qual a conduta mais adequada?",
+  "alts": [
+   "Condicionar o tratamento da ferida à adesão ao tratamento da dependência",
+   "Solicitar internação involuntária, pela recusa em tratar a dependência",
+   "Encaminhar ao pronto-socorro, que tem condições de tratar a infecção",
+   "Fazer o curativo e liberar, aguardando que ele procure ajuda para o crack",
+   "Tratar a ferida, oferecer testagem e insumos e manter o vínculo com o CAPS AD"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "Consultório na Rua e redução de danos",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Atenção Básica (Portaria 2.436/2017, consolidada), 2017; Decreto 7.053/2009",
+  "coment": "O Consultório na Rua é equipe de atenção primária que trabalha com vínculo e redução de danos: a pessoa é cuidada no que aceita, sem exigir abstinência como condição para o atendimento. Cada contato é aproveitado ao máximo, com tratamento da demanda trazida, oferta de testes rápidos (HIV, sífilis, hepatites), vacinas, insumos de redução de danos e articulação com CAPS AD e assistência social, deixando a porta aberta. Internação involuntária exige critérios clínicos específicos, que não estão presentes.",
+  "porAlt": [
+   "Exigir abstinência para cuidar da ferida rompe o vínculo e contraria a redução de danos.",
+   "Recusar tratamento da dependência não é critério para internação involuntária.",
+   "A infecção pode ser tratada pela equipe; mandar ao pronto-socorro rompe o vínculo.",
+   "Liberar sem outras ofertas desperdiça o contato com uma população de difícil acesso.",
+   "Correta: cuidar do que ele aceita e ampliar ofertas, sem exigir abstinência."
+  ]
+ },
+ {
+  "q": "Numa aldeia, a equipe multidisciplinar de saúde indígena atende criança de 3 anos com diarreia há 2 dias, sem sinais de desidratação, aceitando bem líquidos. A família pede que o pajé faça um ritual de cura antes de qualquer medicamento. Segundo a Política Nacional de Atenção à Saúde dos Povos Indígenas, como a equipe deve agir?",
+  "alts": [
+   "Proibir o ritual e iniciar o tratamento com a concordância do cacique",
+   "Articular os cuidados: iniciar o soro oral e combinar o ritual com a família",
+   "Aguardar o fim do ritual para então avaliar a necessidade de tratamento",
+   "Remover a criança para o hospital do polo base para afastá-la do ritual",
+   "Notificar o Conselho Tutelar pela recusa da família ao tratamento proposto"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "saúde indígena: atenção diferenciada",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria 254/2002), 2002",
+  "coment": "A Política Nacional de Atenção à Saúde dos Povos Indígenas define a atenção diferenciada, que respeita e articula as práticas tradicionais de cuidado com a biomedicina, em vez de substituí-las. Sem desidratação, a criança recebe o plano A de hidratação oral com soro de reidratação e orientações, e o ritual pode acontecer junto, pactuado com a família e o pajé. A equipe deve reavaliar e explicar os sinais de piora. Proibir o ritual, impor remoção ou acionar o Conselho Tutelar rompe a confiança, sem ganho clínico.",
+  "porAlt": [
+   "Proibir práticas tradicionais contraria a atenção diferenciada prevista na política.",
+   "Correta: tratamento oral e ritual podem ser articulados, respeitando a cultura.",
+   "Esperar o ritual atrasa a hidratação sem necessidade, já que ambos são compatíveis.",
+   "Não há indicação de remoção, e o polo base não é hospital.",
+   "Não há recusa de tratamento nem negligência que justifiquem o Conselho Tutelar."
+  ]
+ },
+ {
+  "q": "Homem de 62 anos com esclerose lateral amiotrófica, restrito ao leito, usa ventilação não invasiva domiciliar à noite e durante parte do dia. Está clinicamente estável, a esposa é a cuidadora e ele deseja permanecer em casa. Segundo a Portaria GM/MS 3.005/2024, em que modalidade de atenção domiciliar ele se enquadra?",
+  "alts": [
+   "AD 1, sob responsabilidade da equipe de Saúde da Família",
+   "AD 2, com visitas semanais da equipe de atenção primária",
+   "Inelegível, pois o uso de ventilação exige internação hospitalar",
+   "AD 3, pelo Serviço de Atenção Domiciliar, sem excluir a APS",
+   "AD 2, pois a modalidade AD 3 se restringe ao fim de vida"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "atenção domiciliar: AD 3",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 3.005/2024 (Serviço de Atenção Domiciliar e Programa Melhor em Casa), 2024",
+  "coment": "As modalidades de atenção domiciliar são definidas pela frequência de visitas, pela intensidade do cuidado e pelo uso de equipamentos, não pelo diagnóstico. AD 1 é a condição crônica estável com cuidado espaçado, responsabilidade da atenção primária. AD 2 é o cuidado multiprofissional intensificado, no mínimo semanal. AD 3 reúne situações de AD 2 com equipamento ou procedimento de maior complexidade, como ventilação mecânica invasiva ou não invasiva, nutrição parenteral e diálise. AD 2 e AD 3 ficam com o SAD (EMAD e EMAP), e a equipe de atenção primária mantém a responsabilidade pela pessoa adscrita.",
+  "porAlt": [
+   "AD 1 é para condição estável sem equipamento complexo, como ventilação.",
+   "AD 2 é atendida pela EMAD, não pela APS, e não inclui ventilação domiciliar.",
+   "Ventilação não invasiva estável não exige hospital e é critério de AD 3.",
+   "Correta: ventilação domiciliar caracteriza AD 3, atendida pelo SAD com a APS.",
+   "AD 3 inclui ventilação, nutrição parenteral e diálise, além do fim de vida."
+  ]
+ },
+ {
+  "q": "Mulher de 84 anos com câncer de pâncreas metastático, em fim de vida, tem diretivas antecipadas registradas em que expressa a vontade de morrer em casa. A família pergunta se a instabilidade clínica dela impede o acompanhamento pelo Melhor em Casa. O que prevê a Portaria GM/MS 3.005/2024?",
+  "alts": [
+   "Admite atenção domiciliar no fim de vida com diretivas, se houver alívio do sofrimento",
+   "Impede a atenção domiciliar, pois instabilidade clínica é sempre critério de exclusão",
+   "Permite AD 1 pela atenção primária, sem participação do serviço domiciliar",
+   "Exige autorização judicial para manter em casa paciente instável em fim de vida",
+   "Condiciona a inclusão à presença de médico no domicílio vinte e quatro horas por dia"
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "atenção domiciliar no fim de vida",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 3.005/2024 (Serviço de Atenção Domiciliar e Programa Melhor em Casa), 2024",
+  "coment": "Em regra, é inelegível para atenção domiciliar quem precisa de monitorização contínua, de profissional presencial permanente, de propedêutica urgente ou tem instabilidade com risco de piora abrupta. A Portaria GM/MS 3.005/2024 abriu uma exceção: a pessoa em cuidado paliativo de fim de vida, com diretivas antecipadas de vontade expressando o desejo de morrer em casa, pode ser acompanhada pelo SAD quando a equipe tiver condições de aliviar o sofrimento. A equipe deve pactuar com a família o fluxo do atestado de óbito.",
+  "porAlt": [
+   "Correta: a portaria de 2024 criou exceção para o fim de vida com diretivas antecipadas.",
+   "A instabilidade exclui em regra, mas há exceção para o fim de vida com diretivas.",
+   "Fim de vida com sintomas a controlar é perfil do SAD, não de AD 1.",
+   "A norma não exige decisão judicial; vale a vontade registrada pela paciente.",
+   "Presença médica permanente é justamente o que a atenção domiciliar não oferece."
+  ]
+ },
+ {
+  "q": "Trabalhador rural de 40 anos chega à UBS com sudorese, salivação excessiva, miose, vômitos e fasciculações duas horas após pulverizar inseticida organofosforado na lavoura, sem equipamento de proteção. Após o atendimento inicial e a remoção para a urgência, qual obrigação da equipe em relação à vigilância?",
+  "alts": [
+   "Notificar se o caso evoluir para óbito ou internação em terapia intensiva",
+   "Comunicar o caso só ao empregador, que deve emitir a comunicação de acidente",
+   "Notificar a intoxicação exógena no Sinan, pois é de notificação compulsória",
+   "Notificar apenas após confirmação laboratorial pela colinesterase sérica",
+   "Comunicar o caso ao órgão de agricultura, que substitui o registro no Sinan"
+  ],
+  "gab": 2,
+  "tema": "grupos",
+  "sub": "trabalhador rural e agrotóxico",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Lista Nacional de Notificação Compulsória (Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V), 2017; Portaria GM/MS 2.866/2011",
+  "coment": "Intoxicação exógena, incluída a por agrotóxico, integra a Lista Nacional de Notificação Compulsória e deve ser notificada no Sinan diante da suspeita, sem esperar confirmação laboratorial. O quadro colinérgico após exposição a organofosforado é suficiente. A Política Nacional de Saúde Integral das Populações do Campo, da Floresta e das Águas destaca a intoxicação por agrotóxico entre os agravos próprios dessas populações e a importância da anamnese ocupacional. A comunicação ao empregador, quando cabível, não substitui a notificação.",
+  "porAlt": [
+   "A notificação é feita diante da suspeita, independentemente da gravidade.",
+   "A comunicação ao empregador não substitui a notificação ao sistema de saúde.",
+   "Correta: intoxicação exógena é agravo de notificação compulsória no Sinan.",
+   "A notificação se baseia na suspeita clínica, sem exigir dosagem de colinesterase.",
+   "Órgãos de agricultura não substituem a vigilância em saúde e o registro no Sinan."
+  ]
+ },
+ {
+  "q": "Um município de 32 mil habitantes, com hospital de referência, cobertura de SAMU e 70% de cobertura de atenção primária, quer habilitar o Serviço de Atenção Domiciliar. Segundo a Portaria GM/MS 3.005/2024, que equipe ele pode habilitar?",
+  "alts": [
+   "EMAD tipo 1, que exige médico de 40 horas semanais",
+   "Apenas EMAP, pois não atinge o porte mínimo para EMAD",
+   "Nenhuma, pois o porte mínimo é de 40 mil habitantes",
+   "Duas EMAD tipo 1, pela cobertura de APS acima de 60%",
+   "EMAD tipo 2, prevista para 20 a 40 mil habitantes"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "habilitação do SAD",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 3.005/2024 (Serviço de Atenção Domiciliar e Programa Melhor em Casa), 2024",
+  "coment": "Para habilitar o SAD, o município (sozinho ou em agrupamento) precisa ter 20 mil habitantes ou mais, hospital de referência, cobertura de SAMU e cobertura de atenção primária de pelo menos 60%. Municípios de 20 a 40 mil habitantes habilitam EMAD tipo 2 (médico de 20 horas, cerca de 25 usuários por mês); de 40 a 100 mil, EMAD tipo 1; a partir de 100 mil, uma EMAD a mais a cada 100 mil habitantes. A EMAP só existe junto de uma EMAD.",
+  "porAlt": [
+   "A EMAD tipo 1 é prevista para municípios de 40 a 100 mil habitantes.",
+   "A EMAP não existe sem EMAD e só é acionada por indicação dela.",
+   "O porte mínimo é de 20 mil habitantes, não de 40 mil.",
+   "O número de EMAD depende do porte populacional, não da cobertura de APS.",
+   "Correta: municípios de 20 a 40 mil habitantes habilitam EMAD tipo 2."
+  ]
+ },
+ {
+  "q": "Mulher de 84 anos mora em instituição de longa permanência, depende de ajuda para o banho e para se vestir e usa losartana 50 mg e hidroclorotiazida 25 mg. Na visita da equipe, a PA sentada é de 132 x 70 mmHg, e ela refere tontura ao levantar; a cuidadora conta duas quase quedas no mês. Pelo PCDT de Hipertensão Arterial Sistêmica do Ministério da Saúde (2025), qual a conduta?",
+  "alts": [
+   "Manter o esquema atual, pois a PA já está abaixo de 140/90 mmHg",
+   "Intensificar o tratamento para atingir PA abaixo de 130/80 mmHg",
+   "Manter, pois a sistólica entre 130 e 139 é a meta acima de 65 anos",
+   "Suspender todos os anti-hipertensivos e reavaliar em seis meses",
+   "Reduzir o tratamento, pois a meta na idosa frágil é 140 a 149/70 a 79"
+  ],
+  "gab": 4,
+  "tema": "cronicas",
+  "sub": "HAS na idosa frágil",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT da Hipertensão Arterial Sistêmica (Portaria SECTICS/MS 49/2025), 2025",
+  "coment": "O PCDT de 2025 considera idoso frágil quem tem 75 anos ou mais, vive em instituição de longa permanência, está acamado, foi internado recentemente, tem doença incapacitante ou incapacidade funcional básica. Para esse grupo, a meta é PA de 140 a 149 por 70 a 79 mmHg, e o tratamento começa com monoterapia. Com 132 x 70 mmHg, tontura postural e quase quedas, há excesso de tratamento: reduzir ou retirar um fármaco, de preferência o diurético, e medir a pressão deitada e em pé.",
+  "porAlt": [
+   "Estar abaixo de 140/90 não basta; na idosa frágil a pressão está baixa demais.",
+   "Meta abaixo de 130/80 não se aplica à idosa frágil e aumentaria o risco de queda.",
+   "A faixa de 130 a 139 é para 65 a 79 anos sem fragilidade, não para este caso.",
+   "Suspender tudo de uma vez é excessivo; o ajuste deve ser gradual.",
+   "Correta: na idosa frágil a meta é 140 a 149/70 a 79, e o tratamento deve ser reduzido."
+  ]
+ },
+ {
+  "q": "Homem negro de 45 anos, sem diabetes, sem doença renal e sem lesão de órgão-alvo, tem hipertensão grau 1 confirmada (148 x 94 mmHg) e risco cardiovascular baixo pela calculadora HEARTS. Já tentou mudanças no estilo de vida. Pelo PCDT de Hipertensão do Ministério da Saúde (2025), qual a melhor escolha inicial?",
+  "alts": [
+   "Monoterapia com enalapril, por ser o IECA de preferência no SUS",
+   "Monoterapia com anlodipino ou com hidroclorotiazida",
+   "Associação de enalapril e losartana para potencializar o efeito",
+   "Dois fármacos desde o início, por se tratar de paciente negro",
+   "Monoterapia com atenolol, por ser eficaz em afrodescendentes"
+  ],
+  "gab": 1,
+  "tema": "cronicas",
+  "sub": "HAS em afrodescendente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT da Hipertensão Arterial Sistêmica (Portaria SECTICS/MS 49/2025), 2025",
+  "coment": "Pelo PCDT de 2025, hipertensão grau 1 com risco cardiovascular baixo começa com monoterapia, enquanto risco moderado ou alto, lesão de órgão-alvo e graus 2 e 3 começam com dois fármacos. Em afrodescendentes, IECA e BRA não são primeira escolha em monoterapia, pela menor resposta; bloqueador de canal de cálcio ou diurético tiazídico são preferidos. A associação de IECA com BRA é proibida. Betabloqueador fica reservado a indicações próprias, como angina, pós-infarto, insuficiência cardíaca ou fibrilação atrial.",
+  "porAlt": [
+   "IECA isolado não é a primeira escolha em monoterapia para afrodescendentes.",
+   "Correta: em afrodescendentes, anlodipino ou tiazídico são preferidos em monoterapia.",
+   "A associação de IECA com BRA é contraindicada pelo protocolo.",
+   "A cor da pele não define terapia dupla; o critério é grau, risco e lesão de órgão-alvo.",
+   "Betabloqueador não é primeira linha sem indicação específica."
+  ]
+ },
+ {
+  "q": "Mulher de 33 anos, sem comorbidades, tem hipertensão confirmada por MRPA, com média de 152 x 96 mmHg. Não usa contraceptivo hormonal nem anti-inflamatório, não bebe e tem IMC de 23 kg/m². A médica de família inicia o tratamento. Pelo PCDT de Hipertensão do Ministério da Saúde (2025), o que mais deve fazer?",
+  "alts": [
+   "Apenas observar e investigar causa secundária se houver resistência a três fármacos",
+   "Encaminhar ao cardiologista e transferir o acompanhamento para o especialista",
+   "Encaminhar para investigar causa secundária, mantendo o acompanhamento na UBS",
+   "Pedir MAPA anual e ecocardiograma, sem necessidade de qualquer encaminhamento",
+   "Manter mudanças de estilo de vida por seis meses antes de investigar"
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "HAS antes dos 40 anos",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT da Hipertensão Arterial Sistêmica (Portaria SECTICS/MS 49/2025), 2025",
+  "coment": "O PCDT de 2025 orienta a atenção primária a encaminhar a suspeita de hipertensão secundária, e todo diagnóstico de hipertensão antes dos 40 anos entra nesse grupo, assim como a hipertensão resistente (fora da meta após seis meses com três fármacos e boa adesão), as múltiplas complicações e o risco muito alto. O encaminhamento é cuidado compartilhado: a equipe de Saúde da Família segue tratando, monitorando a pressão e coordenando a investigação, sem transferir a pessoa para o especialista.",
+  "porAlt": [
+   "Esperar resistência atrasa a investigação indicada pela idade de diagnóstico.",
+   "Encaminhar não transfere o cuidado; a APS continua responsável pela paciente.",
+   "Correta: diagnóstico antes dos 40 anos indica investigar causa secundária, com a APS.",
+   "Exames periódicos sem investigação dirigida não respondem à suspeita de causa secundária.",
+   "Adiar seis meses não se justifica diante da suspeita de hipertensão secundária."
+  ]
+ },
+ {
+  "q": "Homem de 60 anos com diabetes tipo 2 há 10 anos faz o exame anual dos pés na UBS. A pele está íntegra, sem calosidades ou deformidades; a sensibilidade ao monofilamento de 10 g e a vibração com diapasão de 128 Hz estão preservadas, mas os pulsos pedioso e tibial posterior estão ausentes à direita. Ele nega dor ao caminhar. Qual a conduta?",
+  "alts": [
+   "Medir o índice tornozelo-braquial e passar a examinar os pés em toda consulta",
+   "Classificar como pé sem risco, pois a sensibilidade protetora está preservada",
+   "Solicitar arteriografia de urgência pela ausência de dois pulsos distais",
+   "Prescrever cilostazol e reavaliar os pulsos apenas no exame do próximo ano",
+   "Repetir o monofilamento a cada seis meses, por ser o teste mais sensível"
+  ],
+  "gab": 0,
+  "tema": "cronicas",
+  "sub": "pé diabético: doença arterial",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Diabetes Association. Standards of Care in Diabetes, 2026",
+  "coment": "O exame anual do pé diabético inclui inspeção, avaliação de deformidades, monofilamento associado a outro teste de sensibilidade e palpação de pulsos. Pulsos ausentes indicam possível doença arterial periférica, que eleva o risco de úlcera de má cicatrização e de amputação, mesmo sem neuropatia: o pé passa a ser considerado em risco, com inspeção em toda consulta, e o índice tornozelo-braquial deve ser medido, lembrando que a calcificação arterial do diabético pode elevá-lo falsamente. Sem isquemia crítica, não há urgência.",
+  "porAlt": [
+   "Correta: pulso ausente pede ITB e coloca o pé em risco, com inspeção frequente.",
+   "Sensibilidade preservada não anula o risco trazido pela doença arterial.",
+   "Sem dor de repouso, úlcera ou isquemia crítica, não há indicação de exame urgente.",
+   "Sem claudicação, cilostazol não está indicado, e esperar um ano subestima o risco.",
+   "Monofilamento isolado não avalia a circulação e não é suficiente nesse caso."
+  ]
+ },
+ {
+  "q": "Mulher de 58 anos com diabetes tipo 2 usa metformina 2 g por dia e iniciou há uma semana insulina NPH 10 unidades ao deitar, por hemoglobina glicada de 9,4%. Trouxe o registro das glicemias capilares de jejum: entre 182 e 205 mg/dL, sem nenhum episódio de hipoglicemia. Qual a conduta?",
+  "alts": [
+   "Trocar a NPH para aplicação pela manhã, mantendo as 10 unidades",
+   "Suspender a metformina, que perde efeito após o início da insulina",
+   "Aumentar a NPH para 30 unidades ao deitar a partir de hoje",
+   "Titular a NPH, 2 unidades a cada 3 dias pelo jejum, com metformina",
+   "Associar insulina regular antes das três principais refeições"
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "titulação da insulina basal",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American Diabetes Association. Standards of Care in Diabetes, 2026; Sociedade Brasileira de Diabetes. Diretriz da SBD, 2025",
+  "coment": "A insulina basal começa com 10 unidades ou 0,1 a 0,2 U/kg por dia (no SUS, NPH ao deitar) e é titulada pela glicemia de jejum, por exemplo com aumento de 2 unidades a cada 3 dias até a meta de jejum de 80 a 130 mg/dL, reduzindo 10 a 20% se houver hipoglicemia sem causa aparente. A metformina é mantida. Insulina prandial só entra quando o jejum está na meta e a glicada continua alta, ou quando a dose basal excede cerca de 0,5 U/kg sem controle.",
+  "porAlt": [
+   "Mudar o horário não corrige a dose insuficiente que mantém o jejum alto.",
+   "A metformina deve ser mantida, pois reduz a necessidade de insulina e o ganho de peso.",
+   "Triplicar a dose de uma vez aumenta o risco de hipoglicemia noturna.",
+   "Correta: titular a basal pelo jejum, de forma gradual, mantendo a metformina.",
+   "Insulina prandial vem depois de ajustar a basal, não no lugar da titulação."
+  ]
+ },
+ {
+  "q": "Homem de 29 anos, não fumante, sem diabetes e com pressão normal, faz exames por exigência do trabalho: LDL-colesterol de 218 mg/dL, triglicerídeos de 110 mg/dL e HDL de 48 mg/dL. Tem xantomas no tendão de Aquiles, e o pai teve infarto aos 44 anos. Qual a conduta mais adequada?",
+  "alts": [
+   "Calcular o risco em 10 anos e tratar se for de 7,5% ou mais",
+   "Orientar dieta por um ano e repetir o perfil antes de qualquer remédio",
+   "Adiar a estatina até os 40 anos, idade mínima para prevenção primária",
+   "Prescrever ezetimiba isolada, por ser jovem e sem doença cardiovascular",
+   "Iniciar estatina de alta intensidade e oferecer avaliação aos familiares"
+  ],
+  "gab": 4,
+  "tema": "cronicas",
+  "sub": "LDL igual ou acima de 190",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Grundy SM et al. AHA/ACC Guideline on the Management of Blood Cholesterol, 2018; US Preventive Services Task Force. Statin use for primary prevention, 2022",
+  "coment": "LDL de 190 mg/dL ou mais caracteriza hipercolesterolemia grave, frequentemente familiar, sobretudo com xantomas tendíneos e doença coronariana precoce na família. Nessa situação, a estatina de alta intensidade está indicada sem cálculo de risco, porque os escores populacionais subestimam o risco acumulado pela exposição desde a infância; a recomendação da USPSTF baseada em risco em 10 anos exclui esses casos. Além de mudar o estilo de vida, deve-se fazer o rastreamento em cascata de parentes de primeiro grau.",
+  "porAlt": [
+   "Escores de risco em 10 anos não se aplicam e subestimam o risco com LDL acima de 190.",
+   "Adiar o tratamento prolonga a exposição a um LDL muito elevado.",
+   "Com LDL acima de 190 a estatina é indicada a partir dos 20 anos, sem esperar os 40.",
+   "Ezetimiba é adjuvante; a base do tratamento é a estatina de alta intensidade.",
+   "Correta: LDL de 190 ou mais pede estatina de alta intensidade e rastreio familiar."
+  ]
+ },
+ {
+  "q": "Homem de 56 anos teve infarto há 3 meses, tratado com angioplastia, e está assintomático e estável. Fuma 20 cigarros por dia, decidiu parar e marcou a data. Não tem epilepsia, transtorno alimentar ou uso de álcool. Diz que o cardiologista do hospital falou em adesivo, mas tem medo de que a nicotina faça mal ao coração. Pelo PCDT do Tabagismo, qual a orientação?",
+  "alts": [
+   "A reposição de nicotina está contraindicada por um ano; usar vareniclina do SUS",
+   "A reposição de nicotina é segura na doença cardíaca estável e está indicada",
+   "A reposição está contraindicada; ele deve parar de forma abrupta e sem fármaco",
+   "Deve-se usar só a goma de nicotina, pois o adesivo é proibido em cardiopatas",
+   "Deve-se adiar a cessação até seis meses após o infarto, para maior segurança"
+  ],
+  "gab": 1,
+  "tema": "cronicas",
+  "sub": "tabagismo no cardiopata",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT do Tabagismo (Portaria Conjunta SAES/SCTIE 10/2020), 2020",
+  "coment": "O PCDT do Tabagismo (2020) oferece no SUS a abordagem cognitivo-comportamental associada, quando indicado, à reposição de nicotina (adesivo e goma ou pastilha) e à bupropiona. A reposição de nicotina é segura na doença cardiovascular estável: o cigarro expõe o coração a monóxido de carbono, oxidantes e doses maiores de nicotina, e parar é a medida de maior impacto na prevenção secundária. Cautela fica para a fase aguda de evento coronariano. A vareniclina não faz parte do protocolo nem é dispensada pelo SUS.",
+  "porAlt": [
+   "Não há contraindicação de um ano, e a vareniclina não é dispensada pelo SUS.",
+   "Correta: a reposição de nicotina é segura na doença cardiovascular estável.",
+   "Abandonar o apoio farmacológico reduz a chance de sucesso sem ganho de segurança.",
+   "O adesivo não é proibido em cardiopatas estáveis e pode ser associado à goma.",
+   "Parar de fumar logo após o infarto traz o maior benefício, sem motivo para adiar."
+  ]
+ },
+ {
+  "q": "Mulher de 70 anos, hipertensa, iniciou anlodipino 10 mg há dois meses e passou a ter edema maleolar. Num pronto-atendimento, recebeu furosemida 40 mg por dia. Agora vem à UBS com tontura ao levantar, câimbras e potássio de 3,1 mEq/L, mantendo o edema. Qual a melhor conduta?",
+  "alts": [
+   "Manter os dois fármacos e repor potássio por via oral",
+   "Trocar a furosemida por hidroclorotiazida e manter a dose do anlodipino",
+   "Suspender a furosemida e rever a dose ou a troca do anlodipino",
+   "Associar espironolactona para corrigir a hipocalemia e o edema",
+   "Encaminhar à cardiologia para investigar insuficiência cardíaca"
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "cascata de prescrição",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American Geriatrics Society. 2023 updated AGS Beers Criteria, 2023",
+  "coment": "Cascata de prescrição é quando um efeito adverso é interpretado como nova doença e tratado com outro fármaco, que traz seus próprios efeitos. O edema do anlodipino é dose-dependente e decorre de vasodilatação arteriolar, por isso responde mal a diurético; a furosemida acrescentou hipotensão postural e hipocalemia sem resolver o edema. A conduta é interromper a cascata: retirar a furosemida, reduzir a dose do anlodipino ou trocá-lo, e reavaliar a pressão. Diante de sintoma novo, perguntar o que mudou na receita.",
+  "porAlt": [
+   "Repor potássio trata a consequência e perpetua a cascata de prescrição.",
+   "Trocar de diurético mantém a lógica errada de tratar o edema do anlodipino.",
+   "Correta: interromper a cascata, retirando a furosemida e revendo o anlodipino.",
+   "Somar outro fármaco aprofunda a cascata em vez de interrompê-la.",
+   "O edema tem causa medicamentosa evidente, sem indício de insuficiência cardíaca."
+  ]
+ }
+]

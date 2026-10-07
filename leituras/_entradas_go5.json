@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Ginecologia e Obstetrícia",
+  "f": "climaterio-e-sangramento-uterino.html",
+  "tipo": "Menopause Society 2022 · NICE · ACOG · resumo de prova",
+  "area": "ginecologia",
+  "min": 49,
+  "t": "Climatério e sangramento uterino",
+  "s": "Avaliação antes da terapia hormonal, esquemas, vias e progestagênios, janela de oportunidade e riscos; sangramento uterino agudo e crônico com doses, miomatose do tipo FIGO à escolha da cirurgia, endometriose e adenomiose além do básico, sangramento pós-menopausa na usuária de hormônio e de tamoxifeno, e hiperplasia endometrial. Complementa a leitura de ginecologia endócrina."
+ },
+ {
+  "grupo": "Ginecologia e Obstetrícia",
+  "f": "canceres-ginecologicos.html",
+  "tipo": "FIGO 2018/2021/2023 · INCA · O-RADS · resumo de prova",
+  "area": "ginonco",
+  "min": 54,
+  "t": "Cânceres ginecológicos",
+  "s": "Câncer do colo do útero com estadiamento FIGO 2018 e tratamento por estádio, carcinoma microinvasor e adenocarcinoma in situ, câncer do endométrio com Lynch e o estadiamento FIGO 2023, massa anexial por O-RADS e IOTA, câncer de ovário e BRCA, câncer de vulva (FIGO 2021) e o seguimento ginecológico da mulher tratada de câncer de mama."
+ },
+ {
+  "grupo": "Ginecologia e Obstetrícia",
+  "f": "vitalidade-fetal-prematuridade-e-rpmo.html",
+  "tipo": "MS 2022 · Delphi 2016 · resumo de prova",
+  "area": "obstpat",
+  "min": 52,
+  "t": "Vitalidade fetal, prematuridade e rotura de membranas",
+  "s": "Cardiotocografia anteparto e desacelerações, perfil biofísico, Doppler de umbilical, cerebral média e ducto venoso, restrição de crescimento fetal por estágios, trabalho de parto prematuro com corticoide, tocólise, neuroproteção e progesterona, rotura prematura de membranas e gravidez prolongada, pelo Manual de Gestação de Alto Risco do Ministério da Saúde (2022)."
+ }
+]

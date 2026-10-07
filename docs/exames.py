@@ -15,13 +15,22 @@ EXAMES = {
  "rev2024_1": ("Revalida (INEP/MEC)", 2024, "Revalida 2024.1", "revalida"),
  "rev2024_2": ("Revalida (INEP/MEC)", 2024, "Revalida 2024.2", "revalida"),
  "rev2025_1": ("Revalida (INEP/MEC)", 2025, "Revalida 2025.1", "revalida"),
- "rev2025_2": ("Revalida/ENAMED (INEP/MEC)", 2025, "Revalida 2025.2 (questões comuns ao ENAMED 2025)", "revalida"),
+ "rev2025_2": ("Revalida/ENAMED (INEP/MEC)", 2025, "Revalida 2025.2", "revalida"),
+ "enamed25":  ("ENAMED (INEP/MEC)", 2025, "ENAMED 2025", "revalida"),
  "rev2026_1": ("Revalida (INEP/MEC)", 2026, "Revalida 2026.1", "revalida"),
  "enare24ad": ("ENARE (EBSERH/FGV)", 2024, "ENARE 2024/2025 Acesso Direto", "enare"),
  "enare24cm": ("ENARE pré-requisito (EBSERH/FGV)", 2024, "ENARE 2024/2025 pré-requisito em Clínica Médica", "prereq"),
  "enare25cm": ("ENARE pré-requisito (EBSERH/FGV)", 2025, "ENARE 2025/2026 pré-requisito em Clínica Médica", "prereq"),
  "enare24cg": ("ENARE pré-requisito (EBSERH/FGV)", 2024, "ENARE 2024/2025 pré-requisito em Cirurgia Geral", "prereq"),
  "enare25cg": ("ENARE pré-requisito (EBSERH/FGV)", 2025, "ENARE 2025/2026 pré-requisito em Cirurgia Geral", "prereq"),
+ "enare24ped": ("ENARE pré-requisito (EBSERH/FGV)", 2024, "ENARE 2024/2025 pré-requisito em Pediatria", "prereq"),
+ "enare25ped": ("ENARE pré-requisito (EBSERH/FGV)", 2025, "ENARE 2025/2026 pré-requisito em Pediatria", "prereq"),
+ "enare24go":  ("ENARE pré-requisito (EBSERH/FGV)", 2024, "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia", "prereq"),
+ "enare25go":  ("ENARE pré-requisito (EBSERH/FGV)", 2025, "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia", "prereq"),
+ "enare24mfc": ("ENARE pré-requisito (EBSERH/FGV)", 2024, "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade", "prereq"),
+ "enare25mfc": ("ENARE pré-requisito (EBSERH/FGV)", 2025, "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade", "prereq"),
+ "enare24psq": ("ENARE pré-requisito (EBSERH/FGV)", 2024, "ENARE 2024/2025 pré-requisito em Psiquiatria", "prereq"),
+ "enare25psq": ("ENARE pré-requisito (EBSERH/FGV)", 2025, "ENARE 2025/2026 pré-requisito em Psiquiatria", "prereq"),
  "usp26ad":   ("USP (FUVEST)", 2026, "USP 2026 Acesso Direto", "usp"),
  "usp25ad":   ("USP (FUVEST)", 2025, "USP 2025 Acesso Direto", "usp"),
  "usp25ecm":  ("USP (FUVEST)", 2025, "USP 2025 Especialidades Clínicas", "prereq"),
@@ -38,10 +47,13 @@ ORIGEM = {
  "usp25_ecm":"usp25ecm", "usp26_aa":"usp26aa",
  "enare2024_ad":"enare24ad", "revalida_2022_2":"rev2022_2", "revalida_2024_1":"rev2024_1", "revalida_2024_2":"rev2024_2",
  "rm2026_ad":"usp26ad", "usp25ad":"usp25ad", "rm2026_ecm":"usp26ecm", "rm2026_epd":"usp26epd",
+ "enamed25":"enamed25", "en24_neo":"enare24ped", "en25_neo":"enare25ped", "en24_go":"enare24go", "en25_go":"enare25go",
+ "en24_mfc":"enare24mfc", "en25_mfc":"enare25mfc", "en24_psiq":"enare24psq", "en25_psiq":"enare25psq",
  "en24-cg":"enare24cg", "en25-cg":"enare25cg", "usp25-cir":"usp25ec", "usp25-cad":"usp25ec", "usp26-cir":"usp26ec", "usp26-cad":"usp26ec",
 }
-def fonte(ex, n=None):
+def fonte(ex, n=None, tb=None):
     b, a, p, _ = EXAMES[ex]
     f = {"banca": b, "ano": a, "prova": p, "ex": ex}
     if n: f["n"] = int(n)
+    if tb: f["tb"] = tb   # a mesma questão também está em outra prova: [{ex, n}] (ex.: ENAMED 2025 e Revalida 2025.2)
     return f

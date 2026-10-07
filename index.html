@@ -21,7 +21,7 @@ if(t==="claro"||t==="escuro")document.documentElement.setAttribute("data-tema",t
 </script>
 <!-- conta + sincronização (cópia de ~/Documents/Claude/_mtsync/mtsync.js). Síncrono no <head>:
      o portão cobre a tela antes do primeiro pixel do app e só sai com a conta confirmada. -->
-<script src="mtsync.js?v=3"></script>
+<script src="mtsync.js?v=4"></script>
 <!-- gramática visual do ecossistema: tokens da raiz do site + ícones Tabler (nunca emoji) -->
 <link rel="stylesheet" href="/_mttokens.css?v=2">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3/dist/tabler-icons.min.css">
@@ -1163,17 +1163,17 @@ label.cmp:has(>.mtt-btn){min-width:min(260px,100%);max-width:100%}
 </main>
 <div class="faixas" id="faixas"></div>
 
-<script src="taxonomia.js?v=3"></script>
-<script src="provas.js?v=3"></script>
-<script src="banco.js?v=3"></script>
-<script src="exames.js?v=3"></script>
-<script src="flash.js?v=3"></script>
-<script src="leituras.js?v=3"></script>
-<script src="indice-leituras.js?v=3"></script>
-<script src="migra.js?v=3"></script>
-<script src="nuvem.js?v=3"></script>
-<script src="mtfiltro.js?v=3"></script>
-<script src="mtsinal.js?v=3"></script>
+<script src="taxonomia.js?v=4"></script>
+<script src="provas.js?v=4"></script>
+<script src="banco.js?v=4"></script>
+<script src="exames.js?v=4"></script>
+<script src="flash.js?v=4"></script>
+<script src="leituras.js?v=4"></script>
+<script src="indice-leituras.js?v=4"></script>
+<script src="migra.js?v=4"></script>
+<script src="nuvem.js?v=4"></script>
+<script src="mtfiltro.js?v=4"></script>
+<script src="mtsinal.js?v=4"></script>
 <script>
 "use strict";
 const V="2.0.0", PREF="fl_";
@@ -1334,7 +1334,11 @@ const SINAL=MTSinal.cria({exemplo:"Ex.: a correta seria a C, pela diretriz vigen
 });
 /* "Revalida 2023.1 · questão 42" / "ENARE 2024/2025 Acesso Direto" */
 function rotuloFonte(q){const f=q.fonte;if(!f)return "autoral";
-  return (f.prova||(f.banca+" "+f.ano))+(f.n?" · questão "+f.n:"")}
+  const tb=(f.tb||[]).map(t=>((EXAMES.find(e=>e.id===t.ex)||{}).nome||t.ex)+(t.n?" · questão "+t.n:""));
+  return (f.prova||(f.banca+" "+f.ano))+(f.n?" · questão "+f.n:"")+(tb.length?" (também "+tb.join(", ")+")":"")}
+/* a questão pertence à prova id? (a principal ou outra edição em que ela também caiu) */
+const naProva=(q,id)=>!!q.fonte&&(q.fonte.ex===id||(q.fonte.tb||[]).some(t=>t.ex===id));
+const numNaProva=(q,id)=>q.fonte.ex===id?q.fonte.n:((q.fonte.tb||[]).find(t=>t.ex===id)||{}).n;
 /* o que ajuda a achar a questão no banco: procedência (banca e edição, ou autoral) e a letra do gabarito como aparece na tela */
 function extraSinal(q){
   /* mesmo rótulo da pílula de procedência do feedback ("Revalida 2021", "ENARE 2025/2026") */
@@ -1745,7 +1749,7 @@ function filtroAtual(){const f=ST.pos.fq||{}, areas=leAreas(f.areas,f.area);
   return {area:areas[0]||"",areas,gr:f.gr||"",ex:f.ex||"",cen:f.cen||"",comp:f.comp||"",niv:f.niv||"",modo:f.modo||"todas",proc:f.proc||""}}
 function aplicaFiltro(f=filtroAtual()){
   const as=new Set(f.areas);
-  let l=BANCO.filter(q=>(!as.size||as.has(q.tema))&&(!f.gr||GDE[q.tema]===f.gr)&&(!f.ex||(q.fonte&&q.fonte.ex===f.ex))&&(!f.cen||q.cenario===f.cen)&&(!f.comp||q.comp===f.comp)&&(!f.niv||q.nivel===f.niv));
+  let l=BANCO.filter(q=>(!as.size||as.has(q.tema))&&(!f.gr||GDE[q.tema]===f.gr)&&(!f.ex||naProva(q,f.ex))&&(!f.cen||q.cenario===f.cen)&&(!f.comp||q.comp===f.comp)&&(!f.niv||q.nivel===f.niv));
   if(f.modo==="erros")l=l.filter(q=>ST.erros.includes(q._ch));
   if(f.modo==="fav")l=l.filter(q=>ST.fav[q._ch]);
   if(f.modo==="novas")l=l.filter(q=>!respostaDe(q));
@@ -1962,7 +1966,7 @@ function sorteiaProva(n,fmt){
 }
 /* prova real na íntegra: as questões daquela edição que estão no banco, na ordem do caderno */
 function questoesDoExame(id){
-  return BANCO.filter(q=>q.fonte&&q.fonte.ex===id).sort((a,b)=>(a.fonte.n||999)-(b.fonte.n||999));
+  return BANCO.filter(q=>naProva(q,id)).sort((a,b)=>(numNaProva(a,id)||999)-(numNaProva(b,id)||999));
 }
 function iniciaExame(id){
   const e=EXAMES.find(x=>x.id===id), qs=questoesDoExame(id);
@@ -2022,6 +2026,9 @@ function pintaSimulado(){
   };
 }
 function pintaSimEmCurso(s){
+  /* questão que saiu do banco (ou mudou de texto, e portanto de chave) desde que o simulado começou: some da prova */
+  if(s.qs.some(ch=>!QIDX.has(ch))){s.qs=s.qs.filter(ch=>QIDX.has(ch));s.i=Math.min(s.i,Math.max(0,s.qs.length-1));salva("simativo",s)}
+  if(!s.qs.length){ST.simativo=null;salva("simativo",null);return pintaSimulado()}
   const q=QIDX.get(s.qs[s.i]);
   const rest=()=>Math.max(0,s.dur-Math.floor((Date.now()-s.ini)/1000));
   $("#sec-simulado").innerHTML=`
@@ -2049,6 +2056,7 @@ function pintaSimEmCurso(s){
     el.textContent=`${String(Math.floor(r/3600)).padStart(2,"0")}:${String(Math.floor(r%3600/60)).padStart(2,"0")}:${String(r%60).padStart(2,"0")}`;
     if(r<=0){clearInterval(iv);encerraSim(true)}};
   const iv=setInterval(tick,1000);tick();
+  if(s.fim)return;                              /* o tempo já tinha acabado: tick() encerrou e pintou o resultado */
   $$("#simAlts .alt").forEach(b=>b.onclick=()=>{
     s.res[q._ch]=+b.dataset.j;
     if(s.i<s.qs.length-1)s.i++;                 /* clicar já avança: não clicar em "próxima" depois */
@@ -2068,7 +2076,7 @@ function encerraSim(porTempo){
   const s=ST.simativo;if(!s)return;
   let acertos=0;
   s.qs.forEach(ch=>{const q=QIDX.get(ch);const r=s.res[ch];
-    if(r!==undefined){const ok=r===q.gab;if(ok)acertos++;registraResposta(q,r,ok,"simulado")}});
+    if(q&&r!==undefined){const ok=r===q.gab;if(ok)acertos++;registraResposta(q,r,ok,"simulado")}});
   s.fim=Date.now();s.acertos=acertos;s.nota=notaSimulado(s,acertos);
   ST.sim.push({quando:new Date().toISOString(),n:s.qs.length,acertos,nota:s.nota,
     dur:Math.floor((s.fim-s.ini)/1000),prova:s.prova,qs:s.qs,res:s.res});
@@ -2110,7 +2118,7 @@ function pintaResultadoSim(s){
   <div id="revisao"></div>`;
   $("#btNovo").onclick=()=>{ST.simativo=null;salva("simativo",null);pintaSimulado()};
   $("#btRevisar").onclick=()=>{
-    $("#revisao").innerHTML=s.qs.map((ch,k)=>{const q=QIDX.get(ch),r=s.res[ch],ok=r===q.gab;
+    $("#revisao").innerHTML=s.qs.map((ch,k)=>{const q=QIDX.get(ch);if(!q)return "";const r=s.res[ch],ok=r===q.gab;
       return `<div class="cx"><div class="linha" style="gap:6px">
         <span class="pilula ${ok?"ok":"er"}">${k+1}. ${ok?"acertou":r===undefined?"em branco":"errou"}</span>
         <span class="pilula b">${esc(NOME[q.tema]||q.tema)}</span>

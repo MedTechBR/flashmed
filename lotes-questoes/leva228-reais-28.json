@@ -1,0 +1,695 @@
+[
+ {
+  "pid": "m24002",
+  "q": "Uma menina de nove anos com tosse, coriza e febre consulta-se na unidade de saúde. O exame físico mostra 38 °C de temperatura axilar, taquicardia e sopro cardíaco, sem demais particularidades. A mãe traz um hemograma realizado há 2 semanas, que aponta hemoglobina de 11g/dl. Você deve, então, diferenciar um sopro inocente de um patológico. No que se refere a essa diferenciação, é correto afirmar que:",
+  "alts": [
+   "um sopro que não coincide com a sensação de pulso arterial e permite auscultar a segunda bulha cardíaca perfeitamente pode ser inocente;",
+   "um sopro que coincide com a sensação de pulso arterial e permite auscultar a primeira bulha cardíaca perfeitamente não pode ser inocente;",
+   "um sopro que coincide com a sensação de pulso arterial e permite auscultar a segunda bulha cardíaca perfeitamente não pode ser inocente;",
+   "um sopro que coincide com a sensação de pulso arterial e não permite auscultar a segunda bulha cardíaca perfeitamente não pode ser inocente;",
+   "um sopro que não coincide com a sensação de pulso arterial e não permite auscultar a segunda bulha cardíaca perfeitamente pode ser inocente."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Sopro inocente na infância",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Duncan BB et al. Medicina Ambulatorial: condutas de atenção primária baseadas em evidências, 5ª ed., 2022; Gusso G, Lopes JMC, Dias LC. Tratado de Medicina de Família e Comunidade, 2ª ed., 2019",
+  "coment": "Febre, anemia leve e taquicardia aumentam o débito cardíaco e fazem aparecer sopros funcionais. O sopro inocente é sistólico (coincide com o pulso arterial palpado durante a ausculta), suave, curto, e não encobre as bulhas: B2 é ouvida com nitidez e desdobra normalmente. Sopro que ocupa toda a sístole e impede ouvir B2 sugere fluxo patológico (comunicação interventricular, insuficiência mitral) e não pode ser rotulado de inocente. Sopro que não coincide com o pulso é diastólico, e sopro diastólico isolado é sempre patológico. Reavaliar após a febre ajuda: o funcional some ou diminui.",
+  "porAlt": [
+   "Sopro que não coincide com o pulso é diastólico, e sopro diastólico isolado nunca é inocente.",
+   "Sopro sistólico com bulhas nítidas é justamente o padrão compatível com sopro inocente, logo pode sê-lo.",
+   "Sopro sistólico que deixa B2 perfeitamente audível é o perfil típico do sopro inocente, então a afirmação está invertida.",
+   "Correta: sopro sistólico que encobre B2 ocupa toda a sístole (holossistólico) e indica lesão estrutural, não sendo inocente.",
+   "Sopro diastólico que ainda mascara B2 soma dois sinais de doença orgânica e não pode ser considerado inocente."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 2
+  }
+ },
+ {
+  "pid": "m24004",
+  "q": "Uma senhora de 78 anos, hipertensa em uso de hidroclorotiazida 25 mg/d, consulta-se no seu controle habitual. Está totalmente assintomática. Buscando as lesões de órgãos-alvo que a HAS pode causar, devemos estar atentos, no exame físico:",
+  "alts": [
+   "à punho-percussão, para avaliar o rim;",
+   "à pesquisa de varizes dos membros inferiores;",
+   "à ausculta cardíaca buscando quarta bulha (B4);",
+   "à avaliação da acuidade visual, buscando alterações retinianas;",
+   "à avaliação da força muscular, solicitando que a paciente aperte as mãos de quem examina simultaneamente, buscando uma lesão hemisférica."
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "Lesão de órgão-alvo na HAS",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Diretriz Brasileira de Hipertensão Arterial, SBC/SBH/SBN, 2025",
+  "coment": "Na avaliação inicial e no seguimento da HAS, o exame físico procura lesão de órgão-alvo: coração (hipertrofia ventricular esquerda e disfunção diastólica), cérebro, rins, artérias e retina. A quarta bulha nasce da contração atrial contra um ventrículo esquerdo rígido, hipertrofiado, e é achado de cardiopatia hipertensiva em idosa hipertensa de longa data. A retina se avalia por fundoscopia, não por acuidade visual. Rim se avalia por creatinina, taxa de filtração e albuminúria, não por punho-percussão. Varizes não são lesão da HAS.",
+  "porAlt": [
+   "Punho-percussão lombar (Giordano) pesquisa pielonefrite ou litíase; a nefropatia hipertensiva se avalia por creatinina e albuminúria.",
+   "Varizes de membros inferiores são doença venosa e não lesão de órgão-alvo da hipertensão.",
+   "Correta: B4 reflete ventrículo esquerdo rígido e hipertrofiado, a lesão cardíaca típica da HAS crônica.",
+   "Retinopatia hipertensiva se pesquisa por fundoscopia; a acuidade visual costuma ser normal até fases avançadas.",
+   "Comparar a preensão das mãos é rastreio grosseiro de déficit motor e não faz parte da busca sistemática de lesão de órgão-alvo em paciente assintomática."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 4
+  }
+ },
+ {
+  "pid": "m24005",
+  "q": "Uma criança de 7 anos, há 3 dias, começou com tosse, coriza e dor na região da face. A temperatura axilar é de 37,9 °C. Todo o restante do exame físico não mostra particularidades, e a saturação periférica de oxigênio (SaO2) = 98%. As evidências atuais orientam a prescrição de:",
+  "alts": [
+   "mucolíticos;",
+   "anti-inflamatórios não esteroides;",
+   "vitamina C;",
+   "antimicrobiano;",
+   "anti-histamínicos."
+  ],
+  "gab": 1,
+  "tema": "pedinfecto",
+  "sub": "Rinossinusite viral aguda na criança",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "EPOS 2020 (European Position Paper on Rhinosinusitis and Nasal Polyps), 2020; Duncan BB et al. Medicina Ambulatorial: condutas de atenção primária baseadas em evidências, 5ª ed., 2022",
+  "coment": "Três dias de tosse, coriza e dor facial com febre baixa, saturação normal e exame sem outros achados é rinossinusite aguda viral (resfriado comum). Suspeita-se de bacteriana apenas com sintomas persistentes por mais de 10 dias sem melhora, piora após melhora inicial (dupla piora) ou início grave com febre alta e secreção purulenta por 3 a 4 dias. O tratamento é sintomático: analgésico e antitérmico, como o ibuprofeno (AINE) ou paracetamol, com lavagem nasal com soro. Mucolíticos, vitamina C e anti-histamínicos não têm benefício demonstrado, e antibiótico agora só traz eventos adversos e resistência.",
+  "porAlt": [
+   "Mucolíticos não encurtam nem aliviam de forma consistente o quadro viral e não são recomendados em criança.",
+   "Correta: analgesia e antitérmico (ibuprofeno) aliviam dor facial e febre, que é o que o quadro viral exige.",
+   "Vitamina C iniciada após o começo dos sintomas não reduz duração nem gravidade do resfriado.",
+   "Com 3 dias de evolução e sem critério de gravidade ou dupla piora, não há indicação de antibiótico.",
+   "Anti-histamínicos não têm benefício na rinossinusite viral sem atopia e podem sedar a criança."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 5
+  }
+ },
+ {
+  "pid": "m24006",
+  "q": "Uma mulher de 30 anos relata que, há 3 dias, vem apresentando sensação de queimação ao urinar, tem urinado várias vezes em pequena quantidade e tem sentido desconforto na região inferior do abdômen. Não relata corrimento nem sintomas vaginais. Teve sintomas semelhantes há 1 ano, quando recebeu tratamento para infecção urinária. Última menstruação há 3 semanas. Saudável, não usa qualquer medicação diariamente. Exame físico sem nenhuma particularidade. Sua conduta deve ser:",
+  "alts": [
+   "conduzir como infecção urinária – cistite aguda não complicada;",
+   "solicitar exame direto de urina pelo GRAM, com urocultura, e tratar se necessário;",
+   "solicitar exame de imagem para descartar infecção urinária complicada;",
+   "solicitar o teste com fita reagente de urina e tratar se necessário;",
+   "solicitar microscopia de urina, com exame do sedimento urinário, e tratar se necessário. "
+  ],
+  "gab": 0,
+  "tema": "cronicas",
+  "sub": "Cistite aguda não complicada",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "IDSA/ESCMID, Diretriz de cistite aguda não complicada e pielonefrite em mulheres, 2010 (publicada em 2011); Duncan BB et al. Medicina Ambulatorial: condutas de atenção primária baseadas em evidências, 5ª ed., 2022",
+  "coment": "Mulher jovem, não gestante (menstruou há 3 semanas), sem comorbidade, com disúria e polaciúria de início recente e sem corrimento ou sintomas vaginais: a probabilidade de cistite passa de 90% só pela história. Nesse perfil, o diagnóstico é clínico e o tratamento empírico é a conduta, sem fita, microscopia, Gram ou urocultura, que não mudam a decisão. Um episódio há 1 ano não define ITU recorrente (2 em 6 meses ou 3 em 1 ano), e sem febre, dor lombar ou fator de complicação não há indicação de imagem.",
+  "porAlt": [
+   "Correta: história típica sem sintomas vaginais em mulher saudável basta para tratar cistite não complicada empiricamente.",
+   "Gram e urocultura ficam para falha, recorrência, gestação ou suspeita de pielonefrite, não para o caso típico.",
+   "Imagem só se justifica com sinais de complicação (febre persistente, obstrução, sepse), ausentes aqui.",
+   "Fita reagente acrescenta pouco quando a probabilidade pré-teste já é tão alta; negativa não exclui e não mudaria a conduta.",
+   "O sedimento urinário também não altera a decisão diante de quadro clínico típico e só atrasa o tratamento."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 6
+  }
+ },
+ {
+  "pid": "m24008",
+  "q": "Mulher de 54 anos vem para uma consulta de checkup. Muito preocupada com doenças, ela pediu a um amigo médico que solicitasse exames gerais – “pedi exames de tudo”. Traz consigo uma pasta de exames solicitados pelo amigo: hemograma, bioquímica, eletrólitos, VHS, colesterol, exames de função tireoideana e hepática, microscopia de urina com exame do sedimento urinário. Todos sem alterações. O amigo médico solicitou ainda urocultura, com resultado de > 105 UFC/mL de Klebsiella oxytoca. Esse resultado a preocupou mais ainda, mesmo ela não tendo apresentado nenhum sintoma de infecção urinária no último ano. Você, então:",
+  "alts": [
+   "indica o uso de antimicrobiano específico;",
+   "solicita nova urocultura com teste de sensibilidade antimicrobiana;",
+   "solicita nova microscopia de urina com exame do sedimento urinário;",
+   "solicita nova urocultura e nova microscopia de urina. Caso os resultados de ambos sejam compatíveis e congruentes, indica uso de antimicrobiano;",
+   "não solicita qualquer exame complementar, não indica o uso de antimicrobiano nem qualquer outra medicação e combina retorno, caso algum sintoma urinário apareça."
+  ],
+  "gab": 4,
+  "tema": "rastreamento",
+  "sub": "Bacteriúria assintomática fora da gestação",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "IDSA, Diretriz de bacteriúria assintomática, 2019; USPSTF, Rastreamento de bacteriúria assintomática em adultos, 2019",
+  "coment": "Urocultura positiva em mulher sem sintomas urinários é bacteriúria assintomática. Fora da gestação e do preparo para procedimento urológico com sangramento de mucosa, ela não deve ser rastreada nem tratada: o tratamento não reduz pielonefrite nem mortalidade e aumenta eventos adversos, resistência e reinfecção por germes mais resistentes. A urocultura não deveria ter sido pedida. Repeti-la ou pedir sedimento só alimenta a cascata. A conduta é explicar, tranquilizar e combinar retorno se surgirem sintomas, exemplo de prevenção quaternária.",
+  "porAlt": [
+   "Antibiótico para bacteriúria assintomática em não gestante não traz benefício e aumenta resistência e efeitos adversos.",
+   "Nova cultura com antibiograma só faria sentido se houvesse intenção de tratar, o que não se indica.",
+   "Repetir o sedimento em pessoa assintomática não muda a conduta e prolonga a medicalização.",
+   "Exames concordantes continuariam definindo bacteriúria assintomática, que não se trata nesse contexto.",
+   "Correta: sem sintomas e sem gestação, não se investiga nem se trata; orienta-se e combina-se retorno se houver sintomas."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 8
+  }
+ },
+ {
+  "pid": "m24009",
+  "q": "Uma mulher de 32 anos com episódios de dor abdominal há 6 meses se consulta na unidade de saúde. Pensando em cálculo biliar sintomático, sua especial atenção na entrevista deve ser para:",
+  "alts": [
+   "dor em cólica típica;",
+   "presença de sintomas dispépticos (sintomas menores);",
+   "dor de intensidade leve sem necessidade de medicação;",
+   "dor no epigástrio ou hipocôndrio direito, com horas de duração;",
+   "intolerância alimentar ou a alimentos gordurosos como precipitação da dor."
+  ],
+  "gab": 3,
+  "tema": "hepatobiliar",
+  "sub": "Cólica biliar na anamnese",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Duncan BB et al. Medicina Ambulatorial: condutas de atenção primária baseadas em evidências, 5ª ed., 2022; Gusso G, Lopes JMC, Dias LC. Tratado de Medicina de Família e Comunidade, 2ª ed., 2019",
+  "coment": "A cólica biliar é dor contínua, apesar do nome, de intensidade moderada a forte, em epigástrio ou hipocôndrio direito, que dura de 30 minutos a algumas horas e cede espontaneamente; pode irradiar para a escápula direita. É o sintoma que se associa de fato ao cálculo e que prediz benefício da colecistectomia. Dispepsia, distensão, eructação e intolerância a gordurosos são tão comuns em quem tem quanto em quem não tem cálculo, e não justificam atribuir a queixa à colelitíase. Dor que passa de 6 horas, com febre, sugere colecistite.",
+  "porAlt": [
+   "A dor biliar é contínua e não em cólica verdadeira; o termo cólica típica não discrimina a origem biliar.",
+   "Sintomas dispépticos são inespecíficos e ocorrem com a mesma frequência em pessoas sem cálculo.",
+   "A dor biliar costuma ser intensa e levar à procura de atendimento ou analgesia, não leve.",
+   "Correta: dor em epigástrio ou hipocôndrio direito com horas de duração é o padrão que se associa ao cálculo sintomático.",
+   "A intolerância a gordurosos é queixa inespecífica e não diferencia colelitíase de outras causas de dor."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 9
+  }
+ },
+ {
+  "pid": "m24011",
+  "q": "Senhor de 69 anos há 4 meses com lombalgia. Ele se consulta porque quer fazer exame de imagem. Nesse contexto, buscando os sinais de alarme da lombalgia, que nos trarão maior preocupação, devemos:",
+  "alts": [
+   "pesquisar febre e emagrecimento;",
+   "determinar a intensidade da dor;",
+   "realizar a manobra de Laségue;",
+   "pesquisar história familiar positiva para hérnia discal;",
+   "pesquisar irradiação para face posterior da perna ipsilateral."
+  ],
+  "gab": 0,
+  "tema": "cronicas",
+  "sub": "Sinais de alarme na lombalgia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American College of Physicians, Diretriz de dor lombar aguda, subaguda e crônica, 2017; Duncan BB et al. Medicina Ambulatorial: condutas de atenção primária baseadas em evidências, 5ª ed., 2022",
+  "coment": "Idoso com lombalgia há 4 meses que pede imagem: a imagem só se indica com sinais de alarme ou se houver plano de intervenção. Os sinais que elevam a suspeita de causa grave são febre, emagrecimento sem explicação, história de câncer, idade acima de 50 anos com dor nova, dor noturna ou em repouso, imunossupressão, uso de drogas injetáveis, trauma significativo e déficit neurológico progressivo ou síndrome da cauda equina. Febre e emagrecimento apontam para infecção (espondilodiscite) ou neoplasia. Intensidade da dor, Lasègue e irradiação ciática não indicam gravidade.",
+  "porAlt": [
+   "Correta: febre e emagrecimento sugerem infecção ou neoplasia, sinais de alarme que justificam investigação.",
+   "A intensidade da dor não se correlaciona com causa grave e não é sinal de alarme.",
+   "Lasègue positivo indica radiculopatia, que na maioria evolui bem sem imagem urgente.",
+   "História familiar de hérnia discal não é sinal de alarme nem muda a indicação de exame.",
+   "Irradiação para a face posterior da perna descreve ciatalgia, que isoladamente não é sinal de alarme."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 11
+  }
+ },
+ {
+  "pid": "m24012",
+  "q": "Uma senhora de 74 anos, obesa, diabetes mellitus tipo 2 e hipertensão arterial sistêmica, consulta-se com dor e edema nos joelhos. A dor acontece principalmente aos movimentos de flexão ou torção da articulação. Tem o diagnóstico de artrose por exame de imagem. Em relação a esse contexto:",
+  "alts": [
+   "o uso de diclofenaco é o que mais aumenta o risco de eventos adversos gastrointestinais entre os AINE;",
+   "o uso de coxibes não aumenta o risco de eventos adversos gastrointestinais;",
+   "o uso de AINE por até 14 dias apenas não faz aumentar os danos cardiovasculares;",
+   "o uso de ibuprofeno em doses baixas é a melhor opção quando a preocupação é o risco cardiovascular, mas aumenta o risco de eventos adversos gastrointestinais;",
+   "a prescrição concomitante de um bloqueador H2 em dose dupla não serve como proteção quando a preocupação é evento adverso gastrointestinal. "
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "Riscos dos AINE em idosa com artrose",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Coxib and traditional NSAID Trialists' Collaboration, Lancet, 2013; American College of Rheumatology/Arthritis Foundation, Diretriz de osteoartrite, 2019",
+  "coment": "Em idosa com DM e HAS, todo AINE eleva o risco cardiovascular, renal e gastrointestinal, e o AINE tópico vem antes do oral no joelho. A metanálise CNT (Lancet, 2013) mostrou que diclofenaco e coxibes em dose alta elevam eventos vasculares maiores, enquanto ibuprofeno em dose baixa e naproxeno têm menor impacto cardiovascular, mas todos os não seletivos aumentam complicações gastrointestinais. O risco cardiovascular aparece já na primeira semana. Coxibes reduzem sem eliminar o risco gastrointestinal, e o bloqueador H2 em dose dupla protege contra úlcera. Entre as opções, só a afirmação sobre ibuprofeno é verdadeira.",
+  "porAlt": [
+   "Diclofenaco tem risco gastrointestinal intermediário; piroxicam e cetorolaco estão entre os de maior risco.",
+   "Coxibes reduzem, mas não eliminam, complicações gastrointestinais, sobretudo associados a AAS.",
+   "O aumento de eventos cardiovasculares surge já nos primeiros dias de uso, inclusive em cursos curtos.",
+   "Correta: ibuprofeno em dose baixa tem perfil cardiovascular mais favorável, mas, como AINE não seletivo, eleva o risco gastrointestinal.",
+   "Bloqueador H2 em dose dupla reduz úlceras gástricas e duodenais induzidas por AINE, então protege sim."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 12
+  }
+ },
+ {
+  "pid": "m24013",
+  "q": "Uma mulher de 58 anos, menopausa há dois anos, relata sensação de queimação ao urinar. Está urinando várias vezes em pequena quantidade. Teve esses mesmos sintomas no ano passado, quando tratou cistite aguda com sucesso. Não há sintomas vaginais. Não há febre, calafrios, vômitos, nem dor na região dos flancos. Faz exame pélvico regularmente na unidade, para prevenção do câncer de colo uterino. Devemos tratar com:",
+  "alts": [
+   "ciprofloxacina por 5 dias;",
+   "cefalexina por 3 dias;",
+   "nitrofurantoína por 5 dias;",
+   "sulfametoxazol-trimetoprim por 7 dias;",
+   "fosfomicina por 3 dias."
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "Cistite em mulher pós-menopausa",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "IDSA/ESCMID, Diretriz de cistite aguda não complicada e pielonefrite em mulheres, 2010 (publicada em 2011); Duncan BB et al. Medicina Ambulatorial: condutas de atenção primária baseadas em evidências, 5ª ed., 2022",
+  "coment": "Mulher pós-menopausa com disúria e polaciúria, sem febre, dor lombar ou sintomas vaginais e com um episódio prévio há 1 ano tem cistite não complicada; idade e menopausa isoladas não tornam a infecção complicada. A primeira linha da IDSA é nitrofurantoína 100 mg de 12/12 horas por 5 dias, fosfomicina 3 g em dose única ou sulfametoxazol-trimetoprim por 3 dias onde a resistência for menor que 20%. Fluoroquinolonas ficam reservadas pelo risco de efeitos adversos e resistência, e betalactâmicos são menos eficazes e exigem 3 a 7 dias. Só a nitrofurantoína aparece com duração correta.",
+  "porAlt": [
+   "Ciprofloxacina é reservada para pielonefrite ou falha, e o curso para cistite é de 3 dias.",
+   "Cefalexina é segunda linha, menos eficaz, e 3 dias é curto para betalactâmico.",
+   "Correta: nitrofurantoína por 5 dias é primeira linha para cistite não complicada.",
+   "Sulfametoxazol-trimetoprim para cistite é feito por 3 dias, e a resistência local costuma limitar seu uso empírico.",
+   "Fosfomicina é dada em dose única de 3 g, não por 3 dias."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 13
+  }
+ },
+ {
+  "pid": "m24014",
+  "q": "Rapaz de 22 anos com dor de garganta há 3 dias. Para aumentar a chance de etiologia estreptocócica e de indicação de antimicrobiano, devemos estar atentos à:",
+  "alts": [
+   "idade;",
+   "presença de tosse associada;",
+   "temperatura axilar abaixo de 38 °C;",
+   "presença de exudatos ou tumefação das amígdalas;",
+   "presença de linfonodomegalia dolorosa em cadeia cervical posterior."
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "Faringite e critérios de Centor",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "IDSA, Diretriz de faringite estreptocócica do grupo A, 2012; Duncan BB et al. Medicina Ambulatorial: condutas de atenção primária baseadas em evidências, 5ª ed., 2022",
+  "coment": "Os critérios de Centor modificados por McIsaac somam um ponto para febre acima de 38 °C, exsudato ou aumento das amígdalas, linfonodomegalia cervical anterior dolorosa, ausência de tosse e idade de 3 a 14 anos, e subtraem um ponto para 45 anos ou mais. Exsudato ou tumefação amigdaliana aumenta a probabilidade de estreptococo do grupo A. Aos 22 anos, a idade não soma ponto. Tosse e febre abaixo de 38 °C sugerem vírus. A linfonodomegalia do critério é a cervical anterior; a posterior lembra mononucleose.",
+  "porAlt": [
+   "Aos 22 anos a idade não acrescenta ponto; só soma entre 3 e 14 anos.",
+   "Tosse sugere etiologia viral e reduz a probabilidade de estreptococo.",
+   "Temperatura abaixo de 38 °C não pontua; o critério é febre acima de 38 °C.",
+   "Correta: exsudato ou aumento das amígdalas é um dos critérios de Centor e eleva a chance de estreptococo.",
+   "O critério é linfonodomegalia cervical anterior dolorosa; a posterior sugere mononucleose."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 14
+  }
+ },
+ {
+  "pid": "m24017",
+  "q": "Uma mulher de 56 anos, totalmente assintomática, consulta-se “preocupada com a saúde dos ossos”. Menopausa aos 44 anos, pesa 70 kg e tem 1,68 m de altura. Não tabagista, nem etilista. Faz caminhada regularmente. Sem qualquer dado de história patológica pregressa. Mora na cidade do Rio de Janeiro e trabalha vendendo sanduíches na praia. Exame físico sem particularidades. Nesse contexto:",
+  "alts": [
+   "devemos dosar a vitamina D3 sérica, que é o melhor marcador;",
+   "há mais dúvidas que certezas sobre dosagem da vitamina D e sua reposição;",
+   "níveis de vitamina D < 50 ng/mL indicam insuficiência e justificam reposição;",
+   "reposição, se necessária, só tem efeito em doses intermitentes de vitamina D;",
+   "colecalciferol é a pior opção para reposição oral, quando necessária, pois sua absorção não é efetiva."
+  ],
+  "gab": 1,
+  "tema": "rastreamento",
+  "sub": "Dosagem de vitamina D em assintomática",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "USPSTF, Rastreamento de deficiência de vitamina D em adultos, 2021; Endocrine Society, Diretriz de vitamina D para prevenção de doenças, 2024",
+  "coment": "Mulher assintomática, exposta ao sol todos os dias, sem fator de risco além da menopausa precoce: não há indicação de dosar vitamina D. A USPSTF (2021) concluiu que a evidência é insuficiente para rastreamento, e a Endocrine Society (2024) recomenda não dosar 25-hidroxivitamina D de rotina na população geral, porque não há ponto de corte consensual e a reposição em quem não tem deficiência grave não reduz fraturas, quedas ou mortalidade. O marcador é a 25(OH)D total. Se a reposição for necessária, colecalciferol diário é a forma preferida. A saúde óssea se conduz por fatores de risco, FRAX e densitometria quando indicada.",
+  "porAlt": [
+   "O marcador usado é a 25-hidroxivitamina D total, e dosá-la em assintomática sem risco não está indicado.",
+   "Correta: faltam evidências de benefício do rastreamento e da reposição em assintomáticos, e não há corte consensual.",
+   "Não há consenso para 50 ng/mL; valores acima de 20 ng/mL bastam para a saúde óssea na maioria das referências.",
+   "Doses diárias são tão ou mais eficazes que as intermitentes, e megadoses espaçadas podem aumentar quedas.",
+   "Colecalciferol (D3) é bem absorvido por via oral e é a forma preferida de reposição."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 17
+  }
+ },
+ {
+  "pid": "m24019",
+  "q": "Mulher de 52 anos, assintomática, traz exames de triagem com glicemia de jejum de 118 mg/dL e HbA1C = 6%. Peso 78 Kg e altura 1,53 m. Exame físico sem particularidades. Devemos orientar:",
+  "alts": [
+   "consulta com um especialista;",
+   "fármacos redutores do apetite;",
+   "redução do consumo de grãos integrais;",
+   "restrição calórica e prática de atividade física;",
+   "redução do consumo de bebidas que contêm açúcares, exclusivamente aquelas com açúcares adicionados. "
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "Pré-diabetes com obesidade",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "ADA, Standards of Care in Diabetes, 2026; Diabetes Prevention Program Research Group, NEJM, 2002",
+  "coment": "Glicemia de jejum de 118 mg/dL (faixa de 100 a 125) e HbA1c de 6% (faixa de 5,7 a 6,4%) definem pré-diabetes, e o IMC é de cerca de 33 kg/m². A intervenção com maior evidência é a mudança intensiva de estilo de vida: restrição calórica com meta de perder ao menos 7% do peso e 150 minutos semanais de atividade física moderada. No Diabetes Prevention Program ela reduziu em 58% a progressão para diabetes, mais que a metformina. Metformina se considera sobretudo com IMC de 35 ou mais, idade abaixo de 60 anos ou diabetes gestacional prévio. O caso se conduz na APS.",
+  "porAlt": [
+   "Pré-diabetes é conduzido na atenção primária; encaminhar ao especialista não acrescenta benefício.",
+   "Anorexígenos não são primeira linha no pré-diabetes, e a mudança de estilo de vida vem antes.",
+   "Grãos integrais devem ser estimulados, pois melhoram controle glicêmico e saciedade.",
+   "Correta: restrição calórica e atividade física regular reduzem a progressão para diabetes de forma comprovada.",
+   "Devem ser reduzidas todas as bebidas açucaradas, inclusive as com açúcar natural, e não só as adoçadas."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 19
+  }
+ },
+ {
+  "pid": "m24020",
+  "q": "Homem de 46 anos começa com quadro de cefaleia exclusivamente unilateral, retroorbitária, intensa. Notou ainda olho vermelho. No exame físico:",
+  "alts": [
+   "vermelhidão muito intensa, exclusiva da periferia do globo ocular, poupando a região periciliar, nos obriga a uma referência imediata ao oftalmologista;",
+   "vermelhidão restrita à região periciliar nos tranquiliza a liberar o paciente com prescrição de antimicrobiano tópico;",
+   "vermelhidão ocular periciliar ou periférica associada a cefaleia intensa deve ser referenciada a um oftalmologista com urgência;",
+   "vermelhidão restrita à região periciliar com midríase ipsilateral justifica referência oftalmológica urgente, por suspeita de glaucoma agudo;",
+   "vermelhidão exclusiva da periferia do globo ocular com miose ipsilateral justifica referência oftalmológica urgente, por suspeita de glaucoma agudo."
+  ],
+  "gab": 3,
+  "tema": "cronicas",
+  "sub": "Olho vermelho e glaucoma agudo",
+  "cenario": "amb",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American Academy of Ophthalmology, Primary Angle-Closure Disease Preferred Practice Pattern, 2020; Duncan BB et al. Medicina Ambulatorial: condutas de atenção primária baseadas em evidências, 5ª ed., 2022",
+  "coment": "No olho vermelho, a distribuição da hiperemia orienta a gravidade. Hiperemia periférica, que poupa a região em torno da córnea, é conjuntival e típica de conjuntivite. Hiperemia periciliar (injeção ciliar, ao redor do limbo) indica inflamação de estruturas profundas: ceratite, uveíte ou glaucoma agudo. Cefaleia unilateral intensa, dor ocular, injeção ciliar e pupila em midríase média pouco reativa sugerem glaucoma agudo de ângulo fechado, emergência oftalmológica pelo risco de perda visual em horas. Miose ipsilateral com olho vermelho e dor retro-orbitária lembra cefaleia em salvas ou irite, não glaucoma agudo.",
+  "porAlt": [
+   "Hiperemia periférica que poupa o limbo é conjuntival, em geral benigna, e não exige referência imediata.",
+   "Injeção periciliar é sinal de alarme de doença ocular profunda e não autoriza alta com colírio antibiótico.",
+   "A generalização inclui a hiperemia periférica, conjuntival, que com cefaleia pode ser cefaleia em salvas e não doença oftalmológica urgente.",
+   "Correta: injeção ciliar com midríase ipsilateral e cefaleia intensa sugerem glaucoma agudo de ângulo fechado, que exige referência urgente.",
+   "No glaucoma agudo a pupila fica em midríase média e a hiperemia é periciliar; miose com hiperemia periférica não sugere glaucoma."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 20
+  }
+ },
+ {
+  "pid": "m24022",
+  "q": "Uma mulher de 30 anos conta história de síncope ao acordar há 15 dias. Sem pródromos e sem abalos musculares, o episódio veio acompanhado de sudorese. Depois vomitou e teve diarreia líquida, sem muco, sangue ou pus. Ficou tão preocupada com o desmaio que começou a sentir tremedeira, fraqueza e dor abdominal. Como namora um estudante de medicina, traz vários exames complementares e de imagem (“ele conseguiu os pedidos com seus professores”). Hemograma, VHS, glicemia, creatinina, colesterol total e frações, TGO, TGP, TSH, T4 livre, endoscopia digestiva alta, TC e RM craniana, ECG e Holter, todos normais. O namorado disse que “isso não é nada”, mas ela ficou com medo grande de desmaiar. Voltou a ter episódios de fraqueza, sudorese e tremor, seguidos de epigastralgia, que a deixaram ainda mais insegura. De vez em quando, diarreia líquida. O sono não está bom. Faz controle ginecológico regularmente, está em uso de contraceptivo oral e menstruou há 28 dias. Não há fatores de risco cardiovascular. O exame físico está absolutamente normal. Decidimos então:",
+  "alts": [
+   "conduzir como transtorno do pânico;",
+   "conduzir como dispepsia funcional;",
+   "repetir os exames complementares, já que ela tem condições de fazê-los;",
+   "dosar vitaminas séricas, pois uma avitaminose pode ser a causa de tudo;",
+   "referenciar para internação hospitalar, pois não sabemos a causa de seus sintomas e pode ser algo grave."
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Ataques de pânico com exames normais",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "American Psychiatric Association, DSM-5-TR, 2022; Duncan BB et al. Medicina Ambulatorial: condutas de atenção primária baseadas em evidências, 5ª ed., 2022",
+  "coment": "Após um episódio provavelmente vasovagal, a paciente passou a ter crises de sudorese, tremor, fraqueza e mal-estar epigástrico, com medo intenso de novo desmaio, sono ruim e extensa investigação normal, inclusive ECG, Holter, imagem craniana e endoscopia. Exame físico normal, ausência de fator de risco e exames negativos tornam improvável causa orgânica grave. O padrão de crises autonômicas recorrentes com ansiedade antecipatória é o de ataques de pânico, e o melhor caminho é nomear o problema, explicar e conduzir na APS. Repetir exames ou internar reforça a crença de doença e expõe a danos (prevenção quaternária).",
+  "porAlt": [
+   "Correta: crises autonômicas recorrentes com medo antecipatório e investigação normal apontam para pânico, a ser conduzido na APS.",
+   "A epigastralgia acompanha as crises e não domina o quadro; dispepsia funcional exige sintomas por meses e não explica sudorese e tremor.",
+   "Repetir exames recém-normais não acrescenta informação e reforça a ansiedade de doença.",
+   "Não há dado clínico que sugira avitaminose, e dosagens sem indicação alimentam a cascata de exames.",
+   "Sem sinal de gravidade e com investigação ampla normal, internar é desnecessário e iatrogênico."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 22
+  }
+ },
+ {
+  "pid": "m24028",
+  "q": "Homem de 56 anos, sem qualquer fator de risco e sem história patológica pregressa, é diagnosticado com HAS. Discutimos a situação com ele e resolvemos juntos iniciar o tratamento medicamentoso com monoterapia. A droga mais indicada é:",
+  "alts": [
+   "propranolol;",
+   "espironolactona;",
+   "clonidina;",
+   "hidralazina;",
+   "diurético tiazídico."
+  ],
+  "gab": 4,
+  "tema": "cronicas",
+  "sub": "Monoterapia inicial na HAS",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Diretriz Brasileira de Hipertensão Arterial, SBC/SBH/SBN, 2025",
+  "coment": "As classes preferenciais para iniciar o tratamento da HAS, em monoterapia ou combinação, são diurético tiazídico ou similar, bloqueador de canal de cálcio, inibidor da ECA e bloqueador do receptor de angiotensina, todas com redução comprovada de eventos cardiovasculares. Monoterapia é aceitável no estágio 1 de baixo risco, como neste homem sem fatores de risco. Betabloqueador fica para indicações específicas (coronariopatia, insuficiência cardíaca, controle de frequência). Espironolactona é a quarta droga na hipertensão resistente, e clonidina e hidralazina são opções de exceção, pelos efeitos adversos.",
+  "porAlt": [
+   "Propranolol não é primeira escolha na HAS sem indicação específica, por proteger menos contra AVC.",
+   "Espironolactona é reservada como quarta droga na hipertensão resistente.",
+   "Clonidina tem efeito rebote e sedação, sendo opção de exceção.",
+   "Hidralazina causa taquicardia reflexa e retenção hídrica e não é usada em monoterapia inicial.",
+   "Correta: diurético tiazídico é uma das classes de primeira linha com redução comprovada de eventos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 28
+  }
+ },
+ {
+  "pid": "m24030",
+  "q": "Uma senhora de 78 anos começou com dor lombar há 10 dias. A dor lombar é muito intensa, com irradiação para membro inferior direito. Não há sinais gerais como febre ou emagrecimento, nem outras queixas como inapetência. Não há alterações urinárias ou intestinais, nem anestesia em sela. É hipertensa bem controlada com enalapril. Exame físico mostra apenas teste de Lasegue positivo à direita, sem qualquer outra alteração. Como sua filha trabalha em um hospital universitário, conseguiu fazer uma ressonância magnética, que mostra abaulamento discal difuso de L4-L5 e L5-S1 indentando o saco dural e obliterando as gorduras foraminais, no último nível contactando as raízes nervosas S1 bilateralmente. Você, então:",
+  "alts": [
+   "referencia com urgência à neurocirurgia;",
+   "inicia tratamento com corticoide e referencia à fisioterapia;",
+   "inicia tratamento com opioide e referencia à fisioterapia;",
+   "inicia tratamento com relaxante muscular e referencia à fisioterapia;",
+   "inicia tratamento com anti-inflamatório não esteroide e referencia à fisioterapia."
+  ],
+  "gab": 4,
+  "tema": "cronicas",
+  "sub": "Lombociatalgia sem sinais de alarme",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American College of Physicians, Diretriz de dor lombar, 2017; American Geriatrics Society, Critérios de Beers, 2023",
+  "coment": "Lombociatalgia aguda com Lasègue positivo, sem febre, emagrecimento, déficit neurológico, alteração esfincteriana ou anestesia em sela não exige cirurgia nem urgência. Abaulamento discal em ressonância é achado frequente em idosos assintomáticos e não muda a conduta. O tratamento é conservador: manter atividade, fisioterapia e AINE por curto período na menor dose, com atenção à função renal e à pressão em hipertensa usando IECA. Corticoide sistêmico não mostrou benefício consistente, opioide não é primeira linha e relaxante muscular deve ser evitado em idosos pelos critérios de Beers. A maioria melhora em semanas.",
+  "porAlt": [
+   "Sem déficit progressivo ou síndrome da cauda equina, não há indicação de avaliação neurocirúrgica urgente.",
+   "Corticoide sistêmico não tem benefício consistente na ciatalgia e traz efeitos adversos.",
+   "Opioide não é primeira linha e aumenta risco de queda e dependência em idosa.",
+   "Relaxantes musculares causam sedação e quedas em idosos e constam nos critérios de Beers como medicamentos a evitar.",
+   "Correta: AINE por curto período com fisioterapia é a conduta inicial, monitorando função renal e pressão."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 30
+  }
+ },
+ {
+  "pid": "m24031",
+  "q": "Um senhor de 62 anos chega à recepção da unidade de saúde e solicita que seja repetida uma receita de anti-hipertensivo. Ele é morador da área, mas nunca se consultou na unidade. Relata que faz controle e usa as medicações corretamente há anos. Você está atendendo a última das 18 pessoas daquela tarde atribulada, quando a recepcionista lhe conta sobre a solicitação desse senhor. O cansaço e o desgaste são grandes, mas, pensando nos princípios da atenção primária, você:",
+  "alts": [
+   "pega a receita antiga e a repete;",
+   "orienta a inscrever o senhor no grupo de hipertensos para depois repetir a receita;",
+   "pede para o senhor aguardar e o atende, realizando entrevista e exame físico;",
+   "orienta que ele procure o local onde faz controle para que seja repetida a receita;",
+   "orienta que ele retorne na manhã seguinte para ser atendido."
+  ],
+  "gab": 2,
+  "tema": "aps",
+  "sub": "Acesso e primeiro contato na APS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Portaria MS 2.436/2017, Política Nacional de Atenção Básica; Starfield B. Atenção Primária: equilíbrio entre necessidades de saúde, serviços e tecnologia, UNESCO/Ministério da Saúde, 2002",
+  "coment": "O primeiro contato (acesso) é o atributo essencial que define a APS como porta de entrada preferencial: a equipe deve acolher e responder à demanda de quem é do seu território, mesmo fora da agenda. O senhor mora na área e nunca foi atendido, então a solicitação é a oportunidade de iniciar o vínculo e a longitudinalidade. Repetir receita de quem nunca foi avaliado expõe a erro de prescrição; mandar embora, condicionar a um grupo ou empurrar para outro serviço viola acesso e responsabilização. O acolhimento previsto na PNAB pede atender, com entrevista e exame.",
+  "porAlt": [
+   "Renovar receita de quem nunca foi avaliado pela equipe é inseguro e não cria vínculo.",
+   "Condicionar a receita à inscrição em grupo cria barreira de acesso e adia o cuidado.",
+   "Correta: acolher e atender o morador do território garante o primeiro contato e inicia o vínculo.",
+   "Ele é da área adscrita; mandá-lo a outro serviço nega a responsabilidade da equipe pelo território.",
+   "Remarcar para o dia seguinte quem pode ficar sem medicação é barreira de acesso evitável."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 31
+  }
+ },
+ {
+  "pid": "m24033",
+  "q": "A mãe de uma criança de 5 anos conta que seu filho não tem dormido bem por causa de tosse e sibilância piores à noite e pela manhã. Não há febre. A criança é conhecida e tem diagnóstico de asma brônquica controlada. Há muito tempo não tem crises, mas a mãe refere que, na última crise que teve, o uso de nebulização com fenoterol levou a taquicardia e tremores. No momento da consulta, a ausculta respiratória mostra tempo expiratório prolongado com sibilos exclusivamente expiratórios. Frequência respiratória de 25 ipm e frequência cardíaca de 120 bpm. Nesse contexto, você:",
+  "alts": [
+   "nebuliza exclusivamente com brometo de ipatrópio e libera a criança com orientações sobre profilaxia ambiental e sinais e sintomas de crise;",
+   "orienta novamente a medicação intercrise e libera a criança com orientações sobre profilaxia ambiental e sinais e sintomas de crise;",
+   "nebuliza por três vezes com fenoterol e brometo de ipatrópio e libera a criança orientações sobre profilaxia ambiental e sinais e sintomas de crise;",
+   "nebuliza por três vezes com fenoterol e brometo de ipatrópio; inicia corticoide oral e libera a criança com prescrição de beta 2 agonista, corticoide oral por 5-7 dias e orientações sobre profilaxia ambiental e sinais e sintomas de crise;",
+   "nebuliza por três vezes exclusivamente com brometo de ipatrópio; inicia corticoide oral e libera a criança com prescrição de beta 2 agonista, corticoide oral por 5-7 dias e orientações sobre profilaxia ambiental e sinais e sintomas de crise."
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Exacerbação de asma na criança",
+  "cenario": "amb",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "GINA (Global Initiative for Asthma), 2026",
+  "coment": "Criança asmática com piora noturna e matinal, sibilos expiratórios e tempo expiratório prolongado está em exacerbação, sem sinais de gravidade (FR 25 ipm, sem tiragem ou alteração de consciência). O tratamento é broncodilatador de curta ação repetido na primeira hora (3 doses), com ipratrópio associado nas exacerbações moderadas, e corticoide oral por curso curto, seguido de reavaliação e alta com plano escrito. Taquicardia e tremor após beta-2 agonista são efeitos esperados, não contraindicação. Ipratrópio isolado é broncodilatador fraco e não substitui o beta-2. Pela GINA, espaçador com aerossol dosimetrado é preferível à nebulização.",
+  "porAlt": [
+   "Ipratrópio isolado é broncodilatador fraco; o beta-2 agonista é a base, e seus efeitos adversos esperados não o contraindicam.",
+   "Há sibilância e sintomas ativos, então a criança precisa de tratamento da crise antes da alta.",
+   "Omite o corticoide oral, que reduz recaída e hospitalização em exacerbação com sintomas persistentes.",
+   "Correta: beta-2 com ipratrópio na primeira hora, corticoide oral e alta com beta-2 e orientações tratam a crise.",
+   "Trocar o beta-2 por ipratrópio isolado deixa a crise subtratada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 33
+  }
+ },
+ {
+  "pid": "m24038",
+  "q": "Um homem de 55 anos acorda com prurido ocular. Na mesma manhã, nota o olho vermelho. No quarto dia, na consulta, observa-se hiperemia ocular intensa essencialmente periférica, poupando a região central do globo ocular direito, com secreção amarelada na conjuntiva inferior. Não há outros casos na comunidade, nem em seu local de trabalho. A melhor conduta é prescrever colírio contendo:",
+  "alts": [
+   "neomicina;",
+   "dexametasona;",
+   "tobramicina;",
+   "nafazolina;",
+   "feniramina."
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "Conjuntivite bacteriana aguda",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Duncan BB et al. Medicina Ambulatorial: condutas de atenção primária baseadas em evidências, 5ª ed., 2022; Gusso G, Lopes JMC, Dias LC. Tratado de Medicina de Família e Comunidade, 2ª ed., 2019",
+  "coment": "Hiperemia conjuntival periférica, que poupa o limbo, com secreção amarelada (mucopurulenta) em um só olho e sem casos na comunidade sugere conjuntivite bacteriana. É autolimitada, mas o colírio antibiótico encurta a duração e o contágio. Aminoglicosídeo tópico como a tobramicina é opção adequada. Neomicina tópica causa dermatite de contato com frequência e é evitada. Corticoide tópico sem exame com lâmpada de fenda é contraindicado na APS, pelo risco de agravar ceratite herpética e de causar glaucoma e catarata. Nafazolina e feniramina são vasoconstritor e anti-histamínico, usados no alívio da conjuntivite alérgica.",
+  "porAlt": [
+   "Neomicina tópica tem alta taxa de sensibilização e dermatite de contato, por isso não é preferida.",
+   "Corticoide tópico sem avaliação oftalmológica pode agravar infecção herpética e não trata bactéria.",
+   "Correta: secreção purulenta unilateral sugere conjuntivite bacteriana, e tobramicina tópica é opção adequada.",
+   "Nafazolina é vasoconstritor que só disfarça a hiperemia e não trata a infecção.",
+   "Feniramina é anti-histamínico indicado na conjuntivite alérgica, não na bacteriana."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 38
+  }
+ },
+ {
+  "pid": "m24039",
+  "q": "Um rapaz de 18 anos, após um final de semana de praia no verão intenso, começa com prurido e vermelhidão ocular. Preocupado, porque soube de vários colegas que moram próximo com o mesmo quadro, procura a unidade de saúde no segundo dia de sintomas. Ao exame, hiperemia ocular periférica poupando a região central do olho esquerdo e secreção serosa, com início de hiperemia no olho direito também. A conduta deve ser:",
+  "alts": [
+   "neomicina tópica;",
+   "polimixina B tópica;",
+   "dexametasona tópica;",
+   "referenciar ao oftalmologista;",
+   "compressa com soro fisiológico gelado."
+  ],
+  "gab": 4,
+  "tema": "cronicas",
+  "sub": "Conjuntivite viral em surto",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Duncan BB et al. Medicina Ambulatorial: condutas de atenção primária baseadas em evidências, 5ª ed., 2022; Gusso G, Lopes JMC, Dias LC. Tratado de Medicina de Família e Comunidade, 2ª ed., 2019",
+  "coment": "Hiperemia conjuntival periférica com secreção serosa e prurido, início em um olho e passagem para o outro, com vários vizinhos acometidos no verão, é conjuntivite viral, em geral por adenovírus. É autolimitada, dura de 1 a 3 semanas, e o tratamento é sintomático: compressas frias, lubrificante e lavagem com soro, com higiene das mãos e afastamento para conter o contágio. Antibiótico tópico não tem efeito e corticoide é contraindicado sem avaliação especializada. Referência ao oftalmologista fica para dor intensa, baixa visual, fotofobia ou falta de melhora.",
+  "porAlt": [
+   "Neomicina não age sobre vírus e ainda sensibiliza a pele e a conjuntiva.",
+   "Polimixina B é antibacteriana e não altera o curso da conjuntivite viral.",
+   "Corticoide tópico sem exame com lâmpada de fenda pode piorar infecção herpética e prolongar a eliminação viral.",
+   "Sem baixa visual, dor intensa ou fotofobia, a conjuntivite viral é conduzida na APS.",
+   "Correta: compressas frias aliviam prurido e edema na conjuntivite viral, que é autolimitada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 39
+  }
+ },
+ {
+  "pid": "m24040",
+  "q": "Uma menina de 12 anos é acompanhada há 3 anos com déficit de crescimento. A ginecologia definiu órgãos sexuais tópicos, a genética médica encontrou cariótipo normal e a endocrinologia infantil usou somatotrofina por 1 ano, sem resultados. A avó e a mãe procuram a unidade para orientação sobre hábitos alimentares e prescrição de vitaminas. A menina mora com a mãe e, segundo a avó, a mãe “não sabe criar e deixa fazer o que quer”. A conduta deve ser:",
+  "alts": [
+   "orientar a alimentação;",
+   "prescrever complexo vitamínico;",
+   "referenciar para especialista em déficit de crescimento;",
+   "solicitar uma bateria múltipla de exames complementares;",
+   "entrevistar e examinar, buscando patologia sistêmica como causa do déficit de crescimento."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Baixa estatura e avaliação clínica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Gusso G, Lopes JMC, Dias LC. Tratado de Medicina de Família e Comunidade, 2ª ed., 2019; Duncan BB et al. Medicina Ambulatorial: condutas de atenção primária baseadas em evidências, 5ª ed., 2022",
+  "coment": "Menina de 12 anos com déficit de crescimento já passou por ginecologia, genética e endocrinologia, inclusive com hormônio de crescimento sem resposta, e ninguém achou a causa. Antes de orientar dieta, vitaminas ou novos encaminhamentos, o médico de família deve fazer o que a fragmentação deixou de lado: história completa e exame físico buscando doença sistêmica que restringe o crescimento, como doença celíaca, doença inflamatória intestinal, doença renal crônica, cardiopatia, asma grave ou carência nutricional. A fala da avó sobre a mãe também abre investigação do contexto familiar e de negligência. Exames em bateria sem hipótese não substituem a avaliação clínica.",
+  "porAlt": [
+   "Orientar alimentação sem avaliar a menina pode deixar passar a doença que causa o déficit.",
+   "Vitaminas sem indicação não tratam baixa estatura e mantêm a causa sem diagnóstico.",
+   "Ela já foi avaliada por três especialidades; novo encaminhamento repete a fragmentação do cuidado.",
+   "Bateria de exames sem hipótese gera achados incidentais e não substitui história e exame.",
+   "Correta: entrevista e exame completos buscam doença sistêmica que explique o déficit, papel de coordenação da APS."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 40
+  }
+ }
+]

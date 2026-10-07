@@ -1,0 +1,1322 @@
+[
+ {
+  "pid": "g25041",
+  "q": "Gestante com 29 semanas tem diagnóstico de diabetes gestacional. No momento faz controle com glicemias capilares e tratamento com dieta. Realizou exames laboratoriais há uma semana com os seguintes resultados: hematócrito 27%, leucócitos: 9900/mm³, plaquetas: 201.000/mm³. Uma ultrassonografia recente evidenciou feto com peso estimado no percentil 69 e volume do líquido amniótico normal. Com base nesses dados, é correto afirmar que",
+  "alts": [
+   "as medidas das glicemias capilares podem estar superestimadas.",
+   "o crescimento fetal pode estar prejudicado pela anemia materna.",
+   "o tratamento atual com dieta não está sendo suficiente para o controle glicêmico.",
+   "o tratamento deverá ser complementado por hipoglicemiantes orais.",
+   "está contraindicado o tratamento com insulinoterapia regular."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Glicemia capilar e anemia na gestação",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "ISO 15197:2013 (exatidão de glicosímetros, interferência do hematócrito) e OPAS/MS/FEBRASGO/SBD, Tratamento do diabetes mellitus gestacional no Brasil, 2019",
+  "coment": "O hematócrito de 27% indica anemia. Os glicosímetros de uso capilar sofrem interferência do hematócrito: com hematócrito baixo há mais plasma na amostra e mais glicose chega à fita, e a leitura tende a sair falsamente elevada (o inverso ocorre na policitemia). Por isso a norma ISO 15197:2013 exige teste de interferência pelo hematócrito. Na gestante com DMG em dieta, isso pode levar a escalonar tratamento sem necessidade. O feto no percentil 69 com líquido normal não sugere restrição de crescimento nem macrossomia, e o enunciado não traz valores de glicemia que permitam julgar o controle.",
+  "porAlt": [
+   "Correta: com hematócrito baixo o glicosímetro tende a superestimar a glicemia, o que pode falsear o controle do DMG.",
+   "O peso fetal estimado no percentil 69 afasta restrição de crescimento, e anemia leve não justifica essa conclusão.",
+   "Não há valores de glicemia no enunciado, e o feto com crescimento adequado não sugere falha da dieta.",
+   "Sem glicemias fora da meta não se indica escalonamento, e a insulina é a primeira opção quando a dieta falha.",
+   "Insulina é o tratamento de escolha do DMG quando a dieta não basta, não há contraindicação no caso."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 41
+  }
+ },
+ {
+  "pid": "g25042",
+  "q": "Paciente com 37 semanas de gestação realiza ultrassonografia que evidencia peso fetal estimado de 4120 g (percentil > 99). A etiologia para esse achado é a",
+  "alts": [
+   "hipertensão arterial materna.",
+   "obesidade materna.",
+   "trissomia do cromossomo 21.",
+   "síndrome antifosfolípide.",
+   "oligodramnia."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Macrossomia fetal e etiologia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin nº 216, Macrosomia, 2020",
+  "coment": "Peso fetal estimado acima do percentil 90 (ou acima de 4.000 g) define feto grande para a idade gestacional, e acima de 4.000 g a 4.500 g fala-se em macrossomia. Os principais fatores maternos são diabetes (pré-gestacional ou gestacional), obesidade, ganho de peso excessivo, multiparidade e pós-datismo, segundo o ACOG Practice Bulletin 216 (2020). A obesidade materna é a única alternativa que aumenta a oferta de nutrientes e o crescimento fetal. Hipertensão, síndrome antifosfolípide e aneuploidias se associam a restrição de crescimento, e oligodramnia acompanha insuficiência placentária.",
+  "porAlt": [
+   "Hipertensão materna reduz a perfusão placentária e se associa a restrição de crescimento, não a macrossomia.",
+   "Correta: a obesidade materna é fator de risco clássico para feto grande para a idade gestacional e macrossomia.",
+   "A trissomia do 21 cursa com crescimento normal ou restrito, não com peso acima do percentil 99.",
+   "A síndrome antifosfolípide causa insuficiência placentária e restrição de crescimento fetal.",
+   "Oligodramnia não causa macrossomia, e costuma acompanhar insuficiência placentária e restrição de crescimento."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 42
+  }
+ },
+ {
+  "pid": "g25043",
+  "q": "Gestante com 26 semanas realiza teste de Coombs indireto cujo resultado é positivo. O seu tipo sanguíneo é A Rh negativo e a pesquisa para anticorpos irregulares identificou anti-C. A conduta correta para essa paciente é",
+  "alts": [
+   "indicar o parto imediatamente para evitar comprometimento fetal grave.",
+   "administrar imunoglobulina anti-D após o parto, caso o recém-nascido seja Rh positivo.",
+   "acompanhar a rotina já que esse anticorpo não causa doença hemolítica.",
+   "realizar transfusão intrauterina imediatamente, com sangue Rh negativo.",
+   "indicar transfusão intrauterina se Doppler da artéria umbilical tiver diástole zero."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Aloimunização por anticorpo irregular",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ACOG Practice Bulletin nº 192, Management of Alloimmunization During Pregnancy, 2018, e Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "O Coombs indireto positivo se deve a anti-C, e não a anti-D. A gestante Rh negativo segue não sensibilizada ao antígeno D e portanto mantém a indicação de imunoprofilaxia: imunoglobulina anti-D até 72 horas após o parto se o recém-nascido for Rh positivo (além das demais situações de risco). O anti-C pode causar doença hemolítica de leve a grave, então exige seguimento com titulação e Doppler da artéria cerebral média (pico sistólico acima de 1,5 MoM sugere anemia fetal). A transfusão intrauterina é guiada pela anemia fetal, não pelo Doppler umbilical, e a interrupção imediata a 26 semanas não tem base.",
+  "porAlt": [
+   "Sem sinais de anemia fetal não há indicação de parto, e a 26 semanas a prematuridade traria grande risco.",
+   "Correta: a paciente não tem anti-D, portanto continua candidata à imunoglobulina anti-D se o recém-nascido for Rh positivo.",
+   "O anti-C é clinicamente significativo e pode causar doença hemolítica perinatal, então exige seguimento especializado.",
+   "Transfusão intrauterina só é feita diante de anemia fetal comprovada ou suspeita pelo Doppler da cerebral média.",
+   "A anemia fetal é rastreada pelo pico sistólico da artéria cerebral média, não pela diástole da artéria umbilical."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 43
+  }
+ },
+ {
+  "pid": "g25044",
+  "q": "Gestante com 28 semanas e histórico de três cesarianas anteriores realiza ultrassonografia que evidencia placenta prévia. Nesse caso, a equipe médica deverá se preocupar com a possibilidade da seguinte complicação:",
+  "alts": [
+   "rotura prematura de membranas.",
+   "pré-eclâmpsia.",
+   "malformações fetais.",
+   "acretismo placentário.",
+   "parto prematuro espontâneo."
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Placenta prévia e acretismo",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ACOG/SMFM Obstetric Care Consensus nº 7, Placenta Accreta Spectrum, 2018, e Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "Placenta prévia associada a cesarianas anteriores é o principal fator de risco para o espectro do acretismo placentário. No consenso ACOG/SMFM de 2018, com placenta prévia o risco de acretismo é de cerca de 3% sem cesárea prévia, 11% com uma, 40% com duas, 61% com três e 67% com quatro ou mais. Por isso a gestante deve ter avaliação dirigida por ultrassonografia (e ressonância se houver dúvida) e parto planejado em centro de referência, com reserva de sangue e equipe preparada para histerectomia.",
+  "porAlt": [
+   "A rotura prematura de membranas não tem relação específica com placenta prévia e cesarianas anteriores.",
+   "Pré-eclâmpsia não é complicação associada à placenta prévia nem ao número de cesarianas.",
+   "Malformações fetais não têm associação relevante com placenta prévia em útero com cicatrizes.",
+   "Correta: com placenta prévia e três cesarianas o risco de acretismo chega a cerca de 60%.",
+   "Há algum risco de prematuridade por sangramento, mas a preocupação central é o acretismo e a hemorragia no parto."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 44
+  }
+ },
+ {
+  "pid": "g25045",
+  "q": "Uma primigesta com 30 semanas realiza uma ultrassonografia obstétrica de rotina que evidencia um feto com peso estimado no percentil 8 e medida de sua circunferência abdominal no percentil 12. Não foram evidenciadas malformações fetais e o volume de líquido amniótico é normal. Ao Doppler, a relação cerebroplacentária está no percentil 44 e as artérias uterinas no percentil no percentil 15. Diante desses achados, assinale a opção que melhor descreve diagnóstico de conduta.",
+  "alts": [
+   "Feto com crescimento normal, sem necessidade de mais exames.",
+   "Restrição de crescimento fetal estágio I, cardiotocografia três vezes por semana.",
+   "Restrição de crescimento fetal estágio III, ultrassonografia quinzenal.",
+   "Restrição de crescimento fetal estágio IV, parto por cesariana imediatamente.",
+   "Feto pequeno para a idade gestacional, controle ultrassonográfico."
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "PIG versus restrição de crescimento fetal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Consenso Delphi de restrição de crescimento fetal (Gordijn et al., 2016) e ISUOG Practice Guidelines, diagnosis and management of small-for-gestational-age fetus and fetal growth restriction, 2020",
+  "coment": "Pelo consenso Delphi (2016), adotado pela ISUOG em 2020, a restrição de crescimento precoce (antes de 32 semanas) exige peso fetal ou circunferência abdominal abaixo do percentil 3, ou diástole zero na umbilical, ou peso/CA abaixo do percentil 10 associado a Doppler alterado (uterinas ou umbilical acima do percentil 95). No protocolo de Barcelona, o estágio I também pede relação cerebroplacentária abaixo do percentil 5 ou uterinas acima do 95. Aqui o peso está no percentil 8, CA no 12, relação cerebroplacentária no 44 e uterinas no 15: é feto pequeno para a idade gestacional, com seguimento ultrassonográfico.",
+  "porAlt": [
+   "Peso abaixo do percentil 10 não é crescimento normal, e o feto pequeno precisa de controle ultrassonográfico.",
+   "O estágio I exige peso abaixo do percentil 3 ou Doppler alterado, o que não ocorre com relação cerebroplacentária no percentil 44.",
+   "O estágio III exige diástole reversa na umbilical ou ducto venoso alterado, ausentes no caso.",
+   "O estágio IV pressupõe ducto venoso com onda A reversa ou cardiotocografia alterada, e o Doppler aqui é normal.",
+   "Correta: peso no percentil 8 com Doppler normal e sem outros critérios define feto pequeno para a idade gestacional."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 45
+  }
+ },
+ {
+  "pid": "g25046",
+  "q": "Uma gestante com 20 semanas realiza ultrassonografia que evidencia dois fetos. Não foi visualizada membrana amniótica entre eles e foi constatada polidramnia. O feto 1 encontra-se com movimentação reduzida e fixo na parede anterior do útero, não sendo identificada a sua bexiga e Doppler de sua artéria umbilical com diástole zero e ducto venoso normal. O feto 2 está com movimentação ativa, bexiga repleta e Doppler da artéria umbilical normal, mas o ducto venoso com onda A reversa. O diagnóstico mais provável é",
+  "alts": [
+   "agenesia renal bilateral do feto 1.",
+   "Diabetes Mellitus gestacional.",
+   "insuficiência placentária do feto 1.",
+   "síndrome de transfusão feto-fetal.",
+   "restrição de crescimento fetal seletiva."
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Síndrome de transfusão feto-fetal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Classificação de Quintero (Quintero et al., 1999) e Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "Na síndrome de transfusão feto-fetal da gestação monocoriônica diamniótica, o doador fica com oligodramnia grave e aparece fixo à parede uterina (stuck twin), com a membrana colabada sobre ele, o que explica não se ver a membrana. O receptor tem polidramnia e bexiga repleta. Pela classificação de Quintero (1999): estágio I discordância de líquido, II bexiga do doador não visível, III Doppler crítico (diástole zero ou reversa na umbilical, onda A reversa no ducto venoso), IV hidropisia, V óbito. O caso descrito corresponde ao estágio III.",
+  "porAlt": [
+   "Agenesia renal explicaria a bexiga vazia do feto 1, mas não a polidramnia e o ducto venoso alterado do feto 2.",
+   "Diabetes gestacional não produz discordância de líquido entre gêmeos nem Doppler alterado em um deles.",
+   "Insuficiência placentária isolada não explica o receptor com polidramnia e bexiga repleta.",
+   "Correta: doador fixo sem bexiga e receptor com polidramnia e Doppler alterado definem transfusão feto-fetal, estágio III de Quintero.",
+   "Na restrição seletiva não há a sequência oligodramnia no doador e polidramnia no receptor."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 46
+  }
+ },
+ {
+  "pid": "g25047",
+  "q": "Uma primigesta realiza ultrassonografia morfológica de 2º trimestre. Quando o colo uterino é avaliado por via transvaginal, a medida de seu comprimento é de 19 mm. A paciente questiona o que isso significa e o que pode ser feito. Nesse caso, as respostas para esses questionamentos são:",
+  "alts": [
+   "risco aumentado para trabalho de parto prematuro / uso de progesterona micronizada por via vaginal.",
+   "incompetência istmocervical / cerclagem pela técnica de Shirodkar.",
+   "risco aumentado para trabalho de parto prematuro / colocação de pessário cervical.",
+   "achado inespecífico / fazer ressonância nuclear magnética para melhor avaliação.",
+   "exame sem alterações / seguimento pré-natal de rotina com equipe de saúde."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Colo curto e prevenção da prematuridade",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin nº 234, Prediction and Prevention of Spontaneous Preterm Birth, 2021, e FIGO Good Practice Recommendations on progestogens for preterm birth prevention, 2021",
+  "coment": "Colo uterino com 25 mm ou menos à ultrassonografia transvaginal no segundo trimestre indica risco aumentado de parto prematuro espontâneo. Na gestante única sem parto prematuro anterior, a conduta recomendada (ACOG 2021, FIGO 2021) é progesterona micronizada vaginal diária, em geral 200 mg, até 36 semanas, o que reduz parto prematuro e morbidade neonatal. A cerclagem fica para quem tem antecedente de parto prematuro e colo curto, ou para a insuficiência istmocervical clássica. O pessário não mostrou benefício consistente nos ensaios recentes.",
+  "porAlt": [
+   "Correta: colo de 19 mm indica risco aumentado de prematuridade, e a progesterona vaginal é a conduta indicada na primigesta.",
+   "Insuficiência istmocervical exige história de perdas indolores no segundo trimestre, e a cerclagem não é primeira linha aqui.",
+   "O pessário cervical não reduziu parto prematuro de forma consistente nos ensaios clínicos e não é a conduta padrão.",
+   "O colo curto é marcador validado de risco, e a ressonância não acrescenta nada à medida transvaginal.",
+   "Colo abaixo de 25 mm no segundo trimestre é alterado e muda a conduta."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 47
+  }
+ },
+ {
+  "pid": "g25048",
+  "q": "Um laudo ultrassonográfico de uma gestação de 28 semanas evidencia medida do maior bolsão vertical do líquido amniótico de 4 mm. Não há relato de doença materna. Diante dessa descrição, assinale a opção que apresenta, respectivamente, o diagnóstico e a possível causa.",
+  "alts": [
+   "Normodramnia e gestação normal.",
+   "Oligodramnia e arritmia fetal.",
+   "Polidramnia e agenesia renal.",
+   "Oligodramnia e válvula de uretra posterior.",
+   "Polidramnia e diabetes materno."
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Oligodramnia e uropatia obstrutiva fetal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Manual de Gestação de Alto Risco, 2022, e Williams Obstetrics, 26ª ed., 2022",
+  "coment": "O maior bolsão vertical normal vai de 2 a 8 cm. Abaixo de 2 cm há oligodramnia, e 4 mm é praticamente anidramnia. A partir do segundo trimestre o líquido amniótico depende da diurese fetal, então oligodramnia acentuada sem doença materna e sem rotura de membranas sugere causa renal ou obstrutiva fetal, como agenesia renal bilateral ou válvula de uretra posterior (feto masculino com bexiga dilatada e sinal do buraco de fechadura). Polidramnia corresponde a bolsão acima de 8 cm.",
+  "porAlt": [
+   "Bolsão de 4 mm está muito abaixo do limite de 2 cm e não é normodramnia.",
+   "Arritmia fetal pode levar a hidropisia, mas não é causa de oligodramnia acentuada.",
+   "Bolsão de 4 mm não é polidramnia, e agenesia renal causa justamente oligodramnia.",
+   "Correta: bolsão abaixo de 2 cm é oligodramnia, e a válvula de uretra posterior reduz a diurese fetal efetiva.",
+   "Diabetes materno causa polidramnia, mas o bolsão aqui é de oligodramnia e não há doença materna."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 48
+  }
+ },
+ {
+  "pid": "g25049",
+  "q": "Uma gestante no termo tem indicação de indução do parto. Após o exame clínico, o índice de Bishop é calculado em 10. Isso significa que",
+  "alts": [
+   "a probabilidade de parto vaginal com uso de ocitocina é alta.",
+   "há necessidade de uso de misorpostol em alta dose.",
+   "o uso de ocitocina tem chances muito pequenas de sucesso.",
+   "há necessidade de amadurecimento cervical.",
+   "está indicada a operação cesariana."
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Índice de Bishop na indução",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin nº 107, Induction of Labor, 2009, e OMS, WHO recommendations on induction of labour at or beyond term, 2022",
+  "coment": "O índice de Bishop soma dilatação, apagamento, altura da apresentação, consistência e posição do colo, com máximo de 13. Pelo ACOG (2009), escore acima de 8 indica colo favorável, com probabilidade de parto vaginal semelhante à do trabalho de parto espontâneo. Com Bishop 10 não é preciso amadurecimento cervical, e a indução pode ser feita com ocitocina, associada ou não à amniotomia. Misoprostol e outros métodos de preparo do colo ficam para Bishop desfavorável (em geral 6 ou menos).",
+  "porAlt": [
+   "Correta: Bishop acima de 8 indica colo favorável, com alta chance de parto vaginal usando ocitocina.",
+   "Misoprostol serve para amadurecer colo desfavorável, e dose alta aumenta o risco de taquissistolia.",
+   "Com colo favorável a ocitocina tem alta chance de sucesso, e não pequena.",
+   "Amadurecimento cervical é para Bishop baixo, e escore 10 já indica colo maduro.",
+   "Bishop favorável não indica cesariana, e sim indução com boa chance de parto vaginal."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 49
+  }
+ },
+ {
+  "pid": "g25050",
+  "q": "Durante o pré-natal, uma gestante com 30 semanas apresenta sorologia para parvovírus B19 IgM(+) e IgG(+). Diante desse achado, a conduta mais adequada é",
+  "alts": [
+   "indicar a interrupção imediata da gestação.",
+   "administrar imunoglobulina específica.",
+   "realizar doppler da artéria cerebral média a cada duas semanas.",
+   "aplicar vacina tetravalente.",
+   "uso de antiviral por duas semanas."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Parvovírus B19 na gestação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin nº 151, Cytomegalovirus, Parvovirus B19, Varicella Zoster, and Toxoplasmosis in Pregnancy, 2015",
+  "coment": "IgM e IgG positivas para parvovírus B19 indicam infecção recente. O vírus infecta precursores eritroides fetais e pode causar anemia grave e hidropisia, sobretudo nas primeiras 20 semanas, mas o risco existe depois. O ACOG (2015) recomenda Doppler da artéria cerebral média a cada uma a duas semanas por 8 a 12 semanas após a infecção: pico sistólico acima de 1,5 MoM sugere anemia e indica cordocentese com transfusão intrauterina. Não há vacina, antiviral ou imunoglobulina específica para o B19.",
+  "porAlt": [
+   "A infecção materna não indica interrupção, a maioria dos fetos não é afetada e o seguimento identifica os casos graves.",
+   "Não há imunoglobulina específica eficaz para prevenir a infecção fetal pelo parvovírus B19.",
+   "Correta: o Doppler seriado da cerebral média rastreia anemia fetal e orienta a transfusão intrauterina.",
+   "Não existe vacina disponível contra o parvovírus B19.",
+   "Não há antiviral eficaz contra o parvovírus B19, e o tratamento da anemia fetal é a transfusão intrauterina."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 50
+  }
+ },
+ {
+  "pid": "g25051",
+  "q": "Gestante com 10 semanas inicia pré-natal e apresenta cartão de vacinação. Nele consta esquema com apenas uma dose da dT (difteria e tétano) e uma dose para HPV. A orientação mais adequada durante essa gestação é",
+  "alts": [
+   "interromper os esquemas das duas vacinas e retomar apenas após o parto.",
+   "continuar o esquema de doses para as duas vacinas ao longo da gestação.",
+   "completar o esquema da vacina de HPV e suspender a dT até o final da gestação.",
+   "fazer mais uma dose da dT e uma dose de dTpa e suspender a de HPV.",
+   "fazer apenas mais uma dose da dT e a dTpa apenas após o parto."
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Vacinação dT, dTpa e HPV na gestação",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde/PNI, Calendário Nacional de Vacinação da Gestante, 2024, e Nota Técnica nº 41/2024-CGICI/DPNI/SVSA/MS (HPV em dose única)",
+  "coment": "Pelo calendário do PNI, a gestante com esquema antitetânico incompleto e apenas uma dose de dT deve receber mais uma dose de dT e uma dose de dTpa, esta a partir da 20ª semana, para completar três doses e transferir anticorpos contra coqueluche ao recém-nascido. A dTpa é feita em toda gestação, mesmo com esquema completo. A vacina HPV não é recomendada na gestação e qualquer dose pendente fica para depois do parto. Desde 2024 o PNI usa dose única de HPV nas faixas de rotina, então a dose já recebida pode inclusive ser suficiente.",
+  "porAlt": [
+   "Interromper a dT deixaria mãe e recém-nascido sem proteção contra tétano, e a dTpa na gestação é obrigatória no calendário.",
+   "A vacina HPV não é recomendada durante a gestação, então não se continua esse esquema.",
+   "É o inverso: a dT deve ser completada na gestação e a HPV adiada.",
+   "Correta: com uma dose prévia de dT faz-se mais uma dT e uma dTpa a partir de 20 semanas, adiando a HPV.",
+   "A dTpa deve ser feita na gestação, a partir de 20 semanas, para proteger o recém-nascido contra coqueluche."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 51
+  }
+ },
+ {
+  "pid": "g25052",
+  "q": "Gestante com 32 semanas, sem histórico de doenças prévias à gestação, inicia quadro clínico de elevação da pressão arterial e seus exames laboratoriais evidenciam: - hematócrito: 31%; - plaquetas: 60.000 células/mm³; - leucócitos: 9900/mm³; - TGO: 89 U/L e TGP: 101 U/L; - LDH: 890 U/L. Diante desses achados, o diagnóstico mais provável é",
+  "alts": [
+   "hipertensão arterial crônica.",
+   "síndrome HELLP.",
+   "infecção bacteriana.",
+   "colestase gravídica.",
+   "insuficiência hepática."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Síndrome HELLP",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin nº 222, Gestational Hypertension and Preeclampsia, 2020, e Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "A síndrome HELLP reúne hemólise, elevação de enzimas hepáticas e plaquetopenia, em geral como forma grave de pré-eclâmpsia. Os critérios de Tennessee são plaquetas abaixo de 100.000/mm³, AST acima de 70 U/L (cerca de duas vezes o limite) e LDH acima de 600 U/L. A gestante de 32 semanas com hipertensão de início recente, plaquetas de 60.000, TGO 89 e LDH 890 preenche os três. A conduta é estabilizar com sulfato de magnésio e anti-hipertensivo e programar o parto, com corticoide para maturação se o quadro permitir.",
+  "porAlt": [
+   "Hipertensão crônica começa antes de 20 semanas e não explica plaquetopenia, transaminases e LDH elevados.",
+   "Correta: plaquetas abaixo de 100.000, TGO acima de 70 e LDH acima de 600 em gestante hipertensa definem HELLP.",
+   "Leucócitos normais e hipertensão afastam infecção bacteriana como explicação do quadro.",
+   "Colestase gravídica cursa com prurido e ácidos biliares elevados, sem hipertensão nem plaquetopenia.",
+   "Insuficiência hepática exigiria coagulopatia e encefalopatia, e as transaminases aqui estão só moderadamente elevadas."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 52
+  }
+ },
+ {
+  "pid": "g25053",
+  "q": "Uma paciente com gestação gemelar realiza ultrassonografia morfológica de 1º trimestre e ela evidencia risco elevado para aneuploidias. Sobre o caso, é correto afirmar que",
+  "alts": [
+   "se for gestação dicoriônica, os riscos podem ser diferentes para cada feto.",
+   "por ser gestação gemelar, a propedêutica invasiva está contraindicada.",
+   "está indicado o teste pré-natal não invasivo (NIPT) para cada um dos fetos.",
+   "nessa idade gestacional deve ser oferecida a cordocentese diagnóstica.",
+   "se for gestação monocoriônica, o risco calculado é diferente para cada feto."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Rastreio de aneuploidia em gemelares",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "ISUOG Practice Guidelines, role of ultrasound in twin pregnancy, 2016, e ACOG Practice Bulletin nº 231, Multifetal Gestations, 2021",
+  "coment": "Na gestação dicoriônica, em geral dizigótica, cada feto tem genoma próprio, e o risco de aneuploidia do rastreio de primeiro trimestre (translucência nucal e marcadores) é calculado por feto, podendo ser diferente entre eles. Na monocoriônica, monozigótica, o risco é único para a gestação, calculado com a média das translucências. A propedêutica invasiva não é contraindicada em gemelares, apenas exige operador experiente e identificação de cada saco. O NIPT dá um resultado único para a gestação, não um por feto, e a cordocentese não se aplica ao primeiro trimestre.",
+  "porAlt": [
+   "Correta: na gestação dicoriônica os fetos costumam ser dizigóticos e o risco é calculado separadamente para cada um.",
+   "Biópsia de vilo e amniocentese podem ser feitas em gemelares, com técnica adequada e operador experiente.",
+   "O NIPT analisa o DNA fetal livre em conjunto e não fornece resultado individual de cada feto.",
+   "A cordocentese é procedimento a partir do segundo trimestre, não de 11 a 14 semanas.",
+   "Na monocoriônica os fetos são monozigóticos e o risco é considerado único para a gestação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 53
+  }
+ },
+ {
+  "pid": "g25054",
+  "q": "Uma gestante em trabalho de parto está sendo acompanhada em um plantão na maternidade. Ela foi internada com contrações uterinas regulares, feto em apresentação cefálica e 5 cm de dilatação cervical. Durante o acompanhamento, a paciente apresenta uma dor aguda e intensa em hipogástrio e inicia quadro de sangramento vaginal em moderado volume. A frequência cardíaca fetal tem uma queda importante e ao toque não se palpa mais a cabeça fetal. Diante desses achados, a hipótese diagnóstica mais provável é",
+  "alts": [
+   "placenta prévia.",
+   "parada de progressão do parto.",
+   "rotura perineal.",
+   "descolamento prematuro da placenta.",
+   "ruptura uterina."
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Rotura uterina intraparto",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Williams Obstetrics, 26ª ed., 2022, e Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "A rotura uterina no trabalho de parto se manifesta por dor súbita e intensa, sangramento vaginal, bradicardia fetal (o sinal mais frequente) e perda da altura da apresentação, porque o feto sai da cavidade para o abdome. A parada das contrações e partes fetais palpáveis sob a pele reforçam o diagnóstico. O fator de risco principal é cicatriz uterina. A conduta é laparotomia imediata. O descolamento prematuro de placenta também dá dor e bradicardia, mas a apresentação continua palpável no toque e o útero fica hipertônico.",
+  "porAlt": [
+   "Placenta prévia sangra sem dor e não faz a apresentação subir ou desaparecer ao toque.",
+   "Parada de progressão não causa dor aguda, sangramento e perda súbita da apresentação.",
+   "Rotura perineal ocorre no período expulsivo e não explica o quadro com 5 cm de dilatação.",
+   "No descolamento de placenta a cabeça fetal continua palpável e o útero fica hipertônico.",
+   "Correta: dor súbita, sangramento, bradicardia e perda da apresentação ao toque são típicos da rotura uterina."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 54
+  }
+ },
+ {
+  "pid": "g25055",
+  "q": "Uma gestante vai à consulta com a equipe que cuidará de seu parto para receber orientações e esclarecer suas dúvidas. Quanto à assistência ao parto dessa gestante, é correto afirmar que",
+  "alts": [
+   "a gestante deverá permanecer na posição supina durante todo o trabalho de parto.",
+   "a amniotomia é realizada de rotina, sempre no início do trabalho de parto.",
+   "o bloqueio combinado raquidiano e peridural é contraindicado em primíparas.",
+   "podem ser oferecidos métodos não farmacológicos para alívio da dor.",
+   "a episiotomia é realizada de rotina para prevenir a incontinência urinária."
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Boas práticas na assistência ao parto",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Diretrizes Nacionais de Assistência ao Parto Normal, 2017, e OMS, Intrapartum care for a positive childbirth experience, 2018",
+  "coment": "As Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017) e a OMS (2018) recomendam oferecer métodos não farmacológicos de alívio da dor, como banho morno, massagem, bola, deambulação e técnicas de respiração, antes ou junto com a analgesia farmacológica. Também recomendam liberdade de posição e movimento, sem amniotomia de rotina e sem episiotomia de rotina, que não previne incontinência nem lesão perineal grave. A analgesia combinada raquiperidural é opção válida em primíparas e não aumenta a taxa de cesariana.",
+  "porAlt": [
+   "As diretrizes estimulam liberdade de posição e deambulação, e a supina prolongada reduz o fluxo placentário.",
+   "A amniotomia de rotina não é recomendada, pois não reduz cesariana e aumenta intervenções.",
+   "A analgesia combinada raquiperidural pode ser oferecida a primíparas, não há contraindicação pela paridade.",
+   "Correta: métodos não farmacológicos de alívio da dor são recomendados e devem ser oferecidos.",
+   "A episiotomia de rotina não é recomendada e não previne incontinência urinária."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 55
+  }
+ },
+ {
+  "pid": "g25056",
+  "q": "Uma gestante tem o diagnóstico de malformação de Chiari tipo II em seu feto. Esse diagnóstico está associado com",
+  "alts": [
+   "hérnia diafragmática congênita.",
+   "disrafismo espinhal.",
+   "gastrosquise.",
+   "agenesia de corpo caloso.",
+   "cisto da bolsa de Blake."
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Chiari II e espinha bífida aberta",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "Williams Obstetrics, 26ª ed., 2022, e ISUOG Practice Guidelines, sonographic examination of the fetal central nervous system, 2020",
+  "coment": "A malformação de Chiari tipo II (herniação do vermis e do tronco pelo forame magno) acompanha quase sempre a espinha bífida aberta, especialmente a mielomeningocele. Na ultrassonografia, os sinais cranianos clássicos são o sinal do limão (frontais côncavos) e o sinal da banana (cerebelo comprimido e cisterna magna obliterada), além de ventriculomegalia. Encontrar Chiari II obriga a examinar toda a coluna fetal e permite discutir a correção intrauterina da mielomeningocele em centro de referência.",
+  "porAlt": [
+   "Hérnia diafragmática não se associa à herniação do rombencéfalo típica de Chiari II.",
+   "Correta: Chiari II acompanha quase sempre o disrafismo espinhal aberto, como a mielomeningocele.",
+   "Gastrosquise é defeito de parede abdominal isolado, sem relação com Chiari II.",
+   "Agenesia de corpo caloso é anomalia de linha média sem associação típica com Chiari II.",
+   "O cisto da bolsa de Blake é variante da fossa posterior que não se associa à espinha bífida."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 56
+  }
+ },
+ {
+  "pid": "g25057",
+  "q": "Uma gestante está com 10 semanas e se revela muito preocupada com a possibilidade de desenvolver pré-eclâmpsia. Ela questiona qual seria o seu risco de ter a doença e o que pode ser feito para a prevenção. Uma forma de rastreio e uma forma de prevenção são, respectivamente,",
+  "alts": [
+   "Doppler das artérias uterinas e uso de metildopa.",
+   "medida da pressão arterial média e uso de nifedipina.",
+   "Doppler da artéria umbilical e uso de cálcio.",
+   "dosagem de PLGF uso de AAS.",
+   "histórico de pré-eclâmpsia e uso de MgSO4."
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Rastreio e prevenção da pré-eclâmpsia",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "FIGO initiative on pre-eclampsia, first-trimester screening and prevention (Poon et al., 2019), e ISSHP, classificação, diagnóstico e manejo dos distúrbios hipertensivos da gestação, 2021",
+  "coment": "O rastreio de primeiro trimestre recomendado pela FIGO (2019) combina fatores maternos, pressão arterial média, índice de pulsatilidade das artérias uterinas e PlGF (fator de crescimento placentário), entre 11 e 14 semanas. Gestantes de alto risco recebem AAS em dose baixa (150 mg à noite no ASPRE, 100 a 150 mg nas recomendações brasileiras), iniciado antes de 16 semanas e mantido até 36 semanas, o que reduz a pré-eclâmpsia pré-termo em cerca de 60%. Cálcio é indicado quando a ingestão é baixa. Metildopa, nifedipina e sulfato de magnésio tratam, mas não previnem.",
+  "porAlt": [
+   "O Doppler das uterinas faz parte do rastreio, mas a metildopa trata hipertensão e não previne pré-eclâmpsia.",
+   "A pressão arterial média integra o rastreio, mas a nifedipina é anti-hipertensivo e não previne a doença.",
+   "O Doppler da umbilical avalia a vitalidade fetal e não é ferramenta de rastreio de pré-eclâmpsia.",
+   "Correta: o PlGF faz parte do rastreio combinado e o AAS em dose baixa é a principal medida de prevenção.",
+   "A história de pré-eclâmpsia é fator de risco, mas o sulfato de magnésio previne convulsão e não a doença."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 57
+  }
+ },
+ {
+  "pid": "g25058",
+  "q": "Uma ultrassonografia morfológica de 2º trimestre encontra feto com presença de tumoração em pulmão direito contendo cistos de até 1 cm. Não foi encontrada vascularização direta desse tumor, nem outras malformações estruturais. Esse achado é compatível com o diagnóstico de",
+  "alts": [
+   "hérnia diafragmática congênita.",
+   "banda amniótica.",
+   "sequestro pulmonar.",
+   "malformação adenomatoide cística.",
+   "derrame pleural."
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Malformação pulmonar congênita fetal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "Williams Obstetrics, 26ª ed., 2022, e ISUOG Practice Guidelines (updated), performance of the routine mid-trimester fetal ultrasound scan, 2022",
+  "coment": "A malformação adenomatoide cística (malformação congênita das vias aéreas pulmonares, CPAM) aparece como massa pulmonar ecogênica, em geral unilateral, com cistos de tamanhos variáveis, irrigada pela circulação pulmonar. O que a separa do sequestro broncopulmonar é a vascularização: o sequestro é massa sólida homogênea nutrida por artéria sistêmica, geralmente da aorta, visível ao Doppler. Massa com cistos e sem vaso sistêmico direto é CPAM. A maioria regride ou se mantém estável, e o risco é a hidropisia nas lesões volumosas.",
+  "porAlt": [
+   "Na hérnia diafragmática há vísceras abdominais no tórax e desvio do mediastino, não massa pulmonar com cistos.",
+   "Banda amniótica causa amputações e defeitos assimétricos, sem tumor pulmonar.",
+   "O sequestro pulmonar é sólido e tem artéria nutridora sistêmica visível ao Doppler, ausente no caso.",
+   "Correta: massa pulmonar com cistos e sem vascularização sistêmica direta é característica da malformação adenomatoide cística.",
+   "Derrame pleural é coleção líquida anecoica ao redor do pulmão, não massa com cistos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 58
+  }
+ },
+ {
+  "pid": "g25059",
+  "q": "Uma paciente com gestação gemelar monocoriônica de 36 semanas chega à maternidade em trabalho de parto. O exame obstétrico revela que o primeiro feto está em apresentação pélvica. Nesse caso, a afirmação mais correta, entre as listadas a seguir, é que",
+  "alts": [
+   "poderá ser conduzido o parto vaginal.",
+   "deverá ser realizada tocólise pela prematuridade.",
+   "o parto do primeiro feto será normal, do segundo, cesariana.",
+   "deverá ser realizada versão externa do primeiro feto.",
+   "está indicada a operação cesariana."
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Via de parto em gemelares",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin nº 231, Multifetal Gestations, 2021",
+  "coment": "Na gestação gemelar a via de parto depende sobretudo da apresentação do primeiro gemelar. Com o primeiro cefálico, o parto vaginal é opção segura em dicoriônicas e monocoriônicas diamnióticas, em centro com experiência. Com o primeiro gemelar não cefálico, como aqui em apresentação pélvica, a recomendação (ACOG 2021) é cesariana, pelo risco de distocia e de colisão entre os fetos. A gestação de 36 semanas em trabalho de parto não tem indicação de tocólise, e versão externa não se aplica a gemelar em trabalho de parto.",
+  "porAlt": [
+   "Com o primeiro gemelar pélvico não se recomenda parto vaginal.",
+   "Com 36 semanas não se indica tocólise, os benefícios de prolongar a gestação são mínimos.",
+   "O parto combinado ocorre quando o segundo gemelar complica após o primeiro nascer, e não é planejado com o primeiro pélvico.",
+   "Versão cefálica externa não é feita em gestação gemelar em trabalho de parto.",
+   "Correta: primeiro gemelar em apresentação não cefálica indica cesariana."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 59
+  }
+ },
+ {
+  "pid": "g25060",
+  "q": "Uma ultrassonografia obstétrica em uma gestação de 21 semanas encontra um feto sem alterações estruturais evidentes e com Doppler normal. Ainda encontra um outro feto com cabeça e tórax pequenos, sem atividade cardíaca, com artéria umbilical única com fluxo em direção do feto ao Doppler. Esses achados são compatíveis com o diagnóstico de",
+  "alts": [
+   "óbito de um dos fetos.",
+   "síndrome de transfusão feto-fetal estágio IV.",
+   "sequência TRAP.",
+   "microcefalia de um dos fetos.",
+   "restrição de crescimento seletiva."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Sequência TRAP em gemelares",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "Williams Obstetrics, 26ª ed., 2022, e ISUOG Practice Guidelines, role of ultrasound in twin pregnancy, 2016",
+  "coment": "A sequência TRAP (perfusão arterial reversa) ocorre na gestação monocoriônica: um gemelar acárdico, sem coração funcionante e com estruturas cefálicas e torácicas rudimentares, é perfundido pelo gemelar normal (bomba) por anastomoses arterio-arteriais. O sinal diagnóstico é o fluxo reverso na artéria umbilical do acárdico, que vai da placenta em direção ao feto, em geral com artéria umbilical única. O feto bomba corre risco de insuficiência cardíaca de alto débito. No óbito simples de um gemelar não há fluxo vascular no feto morto.",
+  "porAlt": [
+   "No óbito de um gemelar não há fluxo no cordão do feto morto, e aqui há fluxo dirigido ao feto.",
+   "O estágio IV da transfusão feto-fetal é hidropisia em um gemelar, não um feto acárdico.",
+   "Correta: feto sem atividade cardíaca, rudimentar e com fluxo umbilical em direção a ele define a sequência TRAP.",
+   "Microcefalia não explica ausência de atividade cardíaca com fluxo arterial reverso.",
+   "Na restrição seletiva ambos os fetos têm coração funcionante, o menor apenas cresce menos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 60
+  }
+ },
+ {
+  "pid": "g25061",
+  "q": "Paciente de 36 anos, G2P2, deseja reiniciar o uso de anticoncepcional oral combinado após dois anos sem contracepção. Relata tabagismo de 20 cigarros/dia há 10 anos. Nega outras comorbidades. Ao exame clínico, PA = 110/70 mmHg, IMC = 22 kg/m². Deseja orientação sobre o método. Frente ao quadro clínico apresentado, assinale a afirmativa correta.",
+  "alts": [
+   "Pode iniciar anticoncepcional combinado, pois a idade da paciente exclui risco cardiovascular.",
+   "Está contraindicada a contracepção hormonal combinada em qualquer mulher tabagista.",
+   "O uso de anticoncepcional combinado é contraindicado em tabagistas com mais de 35 anos e carga tabágica acima de 15 cigarros/dia.",
+   "O uso de anticoncepcional oral deve ser restrito a até dois anos em tabagistas.",
+   "Apenas métodos com estrogênio natural são permitidos em tabagistas."
+  ],
+  "gab": 2,
+  "tema": "reprodutiva",
+  "sub": "Contracepção combinada em tabagista",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "CDC, U.S. Medical Eligibility Criteria for Contraceptive Use, 2024, e OMS, Medical Eligibility Criteria for Contraceptive Use, 5ª ed., 2015",
+  "coment": "Pelos critérios de elegibilidade da OMS (2015) e do CDC (2024), tabagismo em mulher com 35 anos ou mais e 15 ou mais cigarros por dia é categoria 4 para métodos combinados (risco inaceitável), pelo aumento de infarto e AVC. Com menos de 15 cigarros por dia a partir dos 35 anos é categoria 3, e abaixo de 35 anos é categoria 2. A paciente tem 36 anos e fuma 20 cigarros por dia, então não deve usar o combinado. Boas opções são DIU de cobre, SIU de levonorgestrel, implante ou pílula só de progestagênio, além da abordagem do tabagismo.",
+  "porAlt": [
+   "A idade acima de 35 anos aumenta, e não exclui, o risco cardiovascular do combinado na tabagista.",
+   "Abaixo de 35 anos o tabagismo é categoria 2, e o combinado pode ser usado.",
+   "Correta: 35 anos ou mais com 15 ou mais cigarros por dia é categoria 4 para métodos combinados.",
+   "Não há limite de dois anos de uso, a restrição depende de idade e carga tabágica.",
+   "O estradiol natural não tem segurança comprovada nesse cenário e não muda a categoria de elegibilidade."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 61
+  }
+ },
+ {
+  "pid": "g25062",
+  "q": "Mulher de 23 anos, sexualmente ativa, procura atendimento com queixa de corrimento vaginal abundante há 7 dias. Refere secreção de coloração amarelo-esverdeada, de odor desagradável e associada a prurido intenso. Ao exame especular, observa-se colpite difusa, com presença de secreção bolhosa e áreas puntiformes de sangramento na ectocérvice, conferindo o aspecto conhecido como “colo em morango”. O pH vaginal é de 5,2 e o teste de aminas com KOH é negativo. Assinale o agente etiológico mais provavelmente associado a esse quadro clínico.",
+  "alts": [
+   "Candida albicans.",
+   "Trichomonas vaginalis.",
+   "Gardnerella vaginalis.",
+   "Chlamydia trachomatis.",
+   "Neisseria gonorrhoeae."
+  ],
+  "gab": 1,
+  "tema": "gininfec",
+  "sub": "Tricomoníase",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Corrimento amarelo-esverdeado, bolhoso, com odor e prurido, colpite difusa e colo em morango (colpite focal em pontos hemorrágicos) com pH vaginal acima de 4,5 são achados típicos da tricomoníase. O PCDT IST (2022) trata com metronidazol 400 mg, cinco comprimidos em dose única (2 g) ou 500 mg de 12 em 12 horas por 7 dias, com tratamento das parcerias. O teste das aminas pode ser positivo ou negativo na tricomoníase. Na vaginose o pH é alto mas não há colpite nem prurido intenso, e na candidíase o pH fica abaixo de 4,5.",
+  "porAlt": [
+   "A candidíase dá corrimento branco grumoso, sem odor, com pH abaixo de 4,5.",
+   "Correta: corrimento bolhoso amarelo-esverdeado, colo em morango e pH acima de 4,5 indicam Trichomonas vaginalis.",
+   "A vaginose bacteriana dá corrimento acinzentado com odor e teste de aminas positivo, sem colpite.",
+   "A clamídia causa cervicite mucopurulenta, em geral assintomática, sem colo em morango.",
+   "O gonococo causa cervicite purulenta, não colpite difusa com pontos hemorrágicos e corrimento bolhoso."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 62
+  }
+ },
+ {
+  "pid": "g25063",
+  "q": "Paciente de 43 anos, G2P2, procura atendimento ambulatorial por queixas urinárias iniciadas há cerca de 3 meses. Refere necessidade frequente de urinar ao longo do dia, com episódios súbitos de urgência acompanhados de perda urinária, mesmo quando tenta chegar rapidamente ao banheiro. Relata também necessidade de urinar 2 a 3 vezes durante a madrugada. Nega comorbidades ou perdas urinárias ao realizar esforço físico. Ao exame físico, sem alterações. Exame de urina tipo I normal. Nesse caso, o diagnóstico mais provável é",
+  "alts": [
+   "incontinência urinária de esforço.",
+   "infecção urinária recorrente.",
+   "incontinência urinária funcional.",
+   "síndrome da bexiga hiperativa.",
+   "incontinência urinária por transbordamento."
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Síndrome da bexiga hiperativa",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "AUA/SUFU Guideline, Diagnosis and Treatment of Idiopathic Overactive Bladder, 2024, e terminologia conjunta IUGA/ICS das disfunções do assoalho pélvico feminino, 2010",
+  "coment": "Bexiga hiperativa é definida pela ICS como urgência miccional, com ou sem incontinência de urgência, em geral acompanhada de aumento da frequência e noctúria, na ausência de infecção ou outra doença óbvia. A paciente tem urgência com perda, polaciúria e noctúria, nega perda aos esforços e tem urina tipo I normal. A AUA/SUFU (2024) indica como primeira linha terapia comportamental (treino vesical, ajuste hídrico, fisioterapia do assoalho pélvico), seguida de antimuscarínico ou agonista beta-3.",
+  "porAlt": [
+   "A incontinência de esforço ocorre ao tossir ou fazer força, perda que a paciente nega.",
+   "A urina tipo I normal e a evolução de 3 meses afastam infecção urinária como causa.",
+   "Incontinência funcional decorre de limitação física ou cognitiva para chegar ao banheiro, o que não ocorre aqui.",
+   "Correta: urgência com perda, polaciúria e noctúria sem infecção definem a síndrome da bexiga hiperativa.",
+   "O transbordamento ocorre em bexiga hipocontrátil ou obstruída, com gotejamento e resíduo elevado, não com urgência."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 63
+  }
+ },
+ {
+  "pid": "g25064",
+  "q": "Paciente de 36 anos, G2P2, comparece ao consultório para avaliação ginecológica de rotina. Refere estar em uso de sistema intrauterino com levonorgestrel (SIU-LNG) há 3 anos, sem intercorrências prévias. Relata ausência de menstruação nos últimos 5 meses, sem sintomas vasomotores, dor pélvica ou corrimento. Nega história de curetagem uterina, cirurgias endometriais ou infecções ginecológicas recentes. Realizou teste de gravidez com resultado negativo. Diante do quadro apresentado, a explicação mais provável para a amenorreia atual é",
+  "alts": [
+   "menopausa precoce secundária à falência ovariana.",
+   "complicação infecciosa com dano endometrial irreversível.",
+   "formação de sinéquias uterinas - síndrome de Asherman.",
+   "endometrite crônica por uso prolongado do dispositivo.",
+   "atrofia endometrial induzida pelo levonorgestrel intrauterino."
+  ],
+  "gab": 4,
+  "tema": "reprodutiva",
+  "sub": "Amenorreia com SIU de levonorgestrel",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "OMS, Planejamento Familiar: um manual global para profissionais e serviços de saúde, 2018",
+  "coment": "O SIU de levonorgestrel libera progestagênio direto no endométrio, que fica atrófico e decidualizado, com redução progressiva do fluxo. Amenorreia ocorre em cerca de 20% das usuárias no primeiro ano e em proporção maior com o tempo, sem significado patológico e sem prejuízo à fertilidade futura. Na paciente com teste de gravidez negativo, sem sintomas vasomotores e sem manipulação uterina prévia, a explicação é o efeito local do método, e a conduta é orientar e manter o dispositivo. O ovário continua funcionando, pois a dose sistêmica é baixa.",
+  "porAlt": [
+   "Sem sintomas vasomotores e com explicação evidente pelo método, não há base para falência ovariana.",
+   "Não há sinais de infecção, e o SIU não causa dano endometrial irreversível.",
+   "Asherman pressupõe curetagem ou cirurgia endometrial, que a paciente nega.",
+   "O SIU de levonorgestrel não causa endometrite crônica, e a paciente não tem dor nem corrimento.",
+   "Correta: o levonorgestrel local causa atrofia endometrial, e a amenorreia é efeito esperado do método."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 64
+  }
+ },
+ {
+  "pid": "g25065",
+  "q": "Paciente de 40 anos, G3P3, comparece ao ambulatório de ginecologia para exame de rotina. Nega queixas de sangramento, corrimento ou dor pélvica. Está em acompanhamento regular, com colpocitologias anteriores normais. Durante o exame especular, é identificado pólipo único, de cerca de 1,2 cm, pediculado, originado da endocérvice. O colo apresenta aspecto normal, sem lesões suspeitas. A paciente está hemodinamicamente estável e sem sinais de infecção. A conduta mais apropriada para essa paciente é",
+  "alts": [
+   "realizar excisão ambulatorial do pólipo para avaliação histopatológica.",
+   "encaminhar para histerectomia total devido ao risco de malignidade.",
+   "iniciar antibioticoterapia empírica para prevenção de complicações.",
+   "realizar cauterização elétrica do colo uterino no mesmo momento.",
+   "apenas observar clinicamente, sem necessidade de intervenção."
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Pólipo endocervical",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Williams Gynecology, 4ª ed., 2020",
+  "coment": "O pólipo endocervical é lesão benigna comum, mais frequente na quarta a sexta décadas, e quase sempre de baixíssimo potencial maligno. A conduta habitual é a exérese ambulatorial por torção do pedículo, com envio para histopatologia, porque raramente pode conter hiperplasia ou carcinoma e porque pode causar sangramento. Pólipo pediculado de 1,2 cm em colo sem lesões suspeitas não exige internação, histerectomia, antibiótico ou cauterização do colo. A observação sem retirada é aceitável apenas em casos selecionados, sem a vantagem do diagnóstico histológico.",
+  "porAlt": [
+   "Correta: a retirada ambulatorial por torção com estudo histopatológico é a conduta padrão.",
+   "O risco de malignidade é muito baixo, e histerectomia seria tratamento desproporcional.",
+   "Não há infecção nem procedimento que justifique antibiótico.",
+   "Cauterizar o colo não trata o pólipo nem permite o estudo histológico.",
+   "A retirada é simples e permite diagnóstico histológico, então a observação isolada não é a melhor conduta."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 65
+  }
+ },
+ {
+  "pid": "g25066",
+  "q": "Mulher de 30 anos, G1P1, procura avaliação ginecológica com queixa de dor mamária bilateral há cerca de 4 meses. Relata que a dor é do tipo peso e aumento de sensibilidade nas mamas, com piora evidente nos dias que antecedem a menstruação e melhora espontânea após o início do sangramento. Não observa nódulos ou secreção mamilar. Nega febre, trauma local ou uso de medicamentos hormonais. Ao exame físico, as mamas apresentam simetria, sem nódulos palpáveis, sem sinais inflamatórios ou alterações cutâneas. Nesse caso, o diagnóstico clínico mais provável é",
+  "alts": [
+   "mastite infecciosa bilateral com apresentação subclínica.",
+   "cisto de mama com aumento de volume na fase lútea.",
+   "abscesso mamário com quadro inflamatório atenuado.",
+   "adenose esclerosante com dor bilateral e difusa.",
+   "mastalgia cíclica associada à variação hormonal do ciclo."
+  ],
+  "gab": 4,
+  "tema": "ginecologia",
+  "sub": "Mastalgia cíclica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Williams Gynecology, 4ª ed., 2020",
+  "coment": "A mastalgia cíclica é a forma mais comum de dor mamária: bilateral, difusa, em peso, mais intensa nos quadrantes superolaterais, piora na fase lútea e melhora com a menstruação, pela ação hormonal sobre o tecido mamário. Com exame físico normal e sem nódulos, o diagnóstico é clínico e não exige imagem além do rastreamento adequado à idade. A conduta é tranquilizar, orientar sutiã adequado e analgésicos, e reservar outras medidas aos casos refratários. Mastite e abscesso têm sinais inflamatórios, e cisto tem nódulo palpável.",
+  "porAlt": [
+   "A mastite tem sinais inflamatórios e geralmente febre, e não varia com o ciclo.",
+   "O cisto mamário costuma ser palpável e unilateral, e o exame não mostra nódulos.",
+   "O abscesso tem dor localizada, massa flutuante e sinais flogísticos, ausentes aqui.",
+   "A adenose esclerosante é achado histológico ou de imagem, não diagnóstico clínico de dor cíclica.",
+   "Correta: dor bilateral que piora antes da menstruação, com exame normal, é mastalgia cíclica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 66
+  }
+ },
+ {
+  "pid": "g25067",
+  "q": "Mulher de 51 anos, G2P2, comparece ao ambulatório de ginecologia com queixa de ondas de calor intensas, insônia e irritabilidade há 8 meses. Refere menopausa há 1 ano. Nega história de câncer pessoal ou familiar, trombose, hipertensão ou tabagismo. Está com IMC de 24 kg/m², pressão arterial de 110/70 mmHg, exames laboratoriais e de imagem recentes sem alterações. Deseja iniciar tratamento para melhora dos sintomas vasomotores, pois afirma que sua qualidade de vida tem sido comprometida. A conduta mais apropriada para essa paciente é",
+  "alts": [
+   "prescrever antidepressivo tricíclico como primeira escolha para alívio dos sintomas.",
+   "indicar fitoterapia e acupuntura como opções de primeira linha para tratamento inicial.",
+   "iniciar terapia hormonal com estrogênio e progesterona por ser a mais eficaz no controle de sintomas vasomotores.",
+   "descartar uso hormonal devido à idade acima de 50 anos da paciente.",
+   "recomendar apenas mudanças comportamentais e observar a evolução clínica."
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Terapia hormonal no climatério",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "The North American Menopause Society, The 2022 Hormone Therapy Position Statement, 2022",
+  "coment": "A terapia hormonal é o tratamento mais eficaz para sintomas vasomotores. Pela Menopause Society (2022), em mulheres com menos de 60 anos ou com menos de 10 anos de menopausa, sem contraindicações (câncer de mama ou endométrio, tromboembolismo, doença coronariana, AVC, doença hepática ativa, sangramento sem diagnóstico), os benefícios superam os riscos. A paciente tem 51 anos, menopausa há 1 ano e não tem contraindicações. Com útero, o estrogênio deve ser associado a progestagênio para proteger o endométrio. Medidas não hormonais ficam para quem não pode ou não quer usar hormônio.",
+  "porAlt": [
+   "Tricíclicos não são primeira escolha, as alternativas não hormonais com evidência são ISRS, IRSN, gabapentina e fezolinetanto.",
+   "Fitoterapia e acupuntura têm evidência fraca e não são primeira linha para sintomas intensos.",
+   "Correta: sem contraindicações, antes dos 60 anos e com menos de 10 anos de menopausa, a terapia hormonal combinada é a mais eficaz.",
+   "Ter mais de 50 anos não contraindica, a janela favorável vai até 60 anos ou 10 anos de menopausa.",
+   "Com sintomas que prejudicam a qualidade de vida, só observar deixa a paciente sem tratamento eficaz disponível."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 67
+  }
+ },
+ {
+  "pid": "g25068",
+  "q": "Mulher de 34 anos, G3P3, relata menstruações intensas e prolongadas há mais de 1 ano, com uso de mais de 10 absorventes ao dia durante o fluxo. Queixa-se de fadiga, palpitações e queda de cabelo. Ao exame físico: palidez cutaneomucosa, PA: 110/70 mmHg, FC: 92 bpm. Hemoglobina: 9,8 g/dL; ferritina: 8 ng/mL. Ultrassonografia transvaginal sem alterações uterinas estruturais. A conduta inicial mais adequada para essa paciente é",
+  "alts": [
+   "solicitar histeroscopia diagnóstica para avaliar cavidade.",
+   "iniciar ferro oral e considerar contraceptivo hormonal combinado.",
+   "encaminhar para histerectomia total eletiva.",
+   "administrar ferro intravenoso e indicar transfusão sanguínea urgente.",
+   "realizar biópsia endometrial com aspiração de Pipelle."
+  ],
+  "gab": 1,
+  "tema": "ginecologia",
+  "sub": "Sangramento uterino aumentado e anemia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "FIGO, sistemas de classificação do sangramento uterino anormal (Munro et al., 2018), e NICE NG88, Heavy menstrual bleeding: assessment and management, 2018 (atualizada em 2021)",
+  "coment": "Sangramento menstrual aumentado com anemia ferropriva (hemoglobina 9,8 g/dL, ferritina 8 ng/mL), paciente estável e ultrassonografia sem alterações estruturais. A conduta inicial é repor ferro por via oral e controlar o sangramento com tratamento clínico: SIU de levonorgestrel, contraceptivo hormonal combinado, progestagênio ou ácido tranexâmico (NICE NG88). Biópsia endometrial é indicada a partir de 45 anos ou com fatores de risco para hiperplasia, e histeroscopia quando há suspeita de lesão intracavitária ou falha do tratamento. Transfusão não se aplica a paciente estável com hemoglobina acima de 7.",
+  "porAlt": [
+   "Com ultrassonografia normal e sem falha terapêutica, a histeroscopia não é o primeiro passo.",
+   "Correta: repor ferro oral e controlar o sangramento com contraceptivo hormonal combinado é a conduta inicial adequada.",
+   "Histerectomia é reservada à falha do tratamento clínico ou à prole definida após discussão, não é o primeiro passo.",
+   "A paciente está estável com hemoglobina de 9,8, sem indicação de transfusão nem urgência.",
+   "Com 34 anos e sem fatores de risco para hiperplasia, a biópsia endometrial não é necessária de início."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 68
+  }
+ },
+ {
+  "pid": "g25069",
+  "q": "Mulher de 42 anos, G2P2, comparece ao consultório com queixa de sangramento uterino aumentado e dor pélvica cíclica progressiva nos últimos 10 meses. Refere prejuízo na qualidade de vida, mas nega desejo gestacional atual. Ao exame ginecológico, útero globoso e sensível à palpação. Ultrassonografia transvaginal evidenciou útero aumentado, com zona juncional espessada, contornos irregulares da junção endométrio-miométrio, presença de cistos miometriais anecóicos medindo até 6 mm e padrão de heterogeneidade difusa do miométrio posterior. Considerando o quadro clínico e os achados de imagem, a conduta inicial mais adequada é",
+  "alts": [
+   "indicar miomectomia laparoscópica com biópsia dirigida do miométrio.",
+   "iniciar antifibrinolítico apenas nos dias de sangramento intenso.",
+   "realizar ablação endometrial por histeroscopia com ressectoscópio.",
+   "aplicar terapia hormonal com sistema intrauterino liberador de levonorgestrel (SIU-LNG).",
+   "indicar histerectomia total por via abdominal como tratamento definitivo."
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Adenomiose: tratamento inicial",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Consenso MUSA, Morphological Uterus Sonographic Assessment (Van den Bosch et al., 2015), e Williams Gynecology, 4ª ed., 2020",
+  "coment": "Zona juncional espessada e irregular, cistos miometriais, heterogeneidade difusa e útero globoso são critérios ultrassonográficos de adenomiose pelo consenso MUSA (2015). Com sangramento aumentado e dismenorreia, sem desejo gestacional atual, o tratamento inicial é clínico, e o SIU de levonorgestrel é a opção de melhor evidência, reduzindo sangramento, dor e volume uterino. A histerectomia é o tratamento definitivo, mas fica para falha do tratamento clínico ou desejo da paciente após orientação. Ablação endometrial tem resultado ruim na adenomiose, porque o tecido doente está no miométrio.",
+  "porAlt": [
+   "Os achados são de adenomiose difusa, não de mioma, e não há indicação de miomectomia.",
+   "O antifibrinolítico reduz o fluxo, mas não trata a dor nem a doença, sendo opção inferior ao SIU.",
+   "A ablação falha com frequência na adenomiose, porque a doença invade o miométrio.",
+   "Correta: o SIU de levonorgestrel é a primeira linha para adenomiose sintomática sem desejo gestacional.",
+   "A histerectomia é definitiva, mas não é a conduta inicial antes de tentar o tratamento clínico."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 69
+  }
+ },
+ {
+  "pid": "g25070",
+  "q": "Mulher de 29 anos, G0P0, procura atendimento por dor crônica na região vulvar com início há cerca de 6 meses. Relata sensação de ardência e queimação na entrada vaginal, piorando com uso de roupas justas, longos períodos sentada e durante o contato sexual. Nega corrimentos, infecções prévias recentes ou uso de medicamentos locais. Já utilizou antifúngicos e antibióticos sem melhora. Ao exame físico, não há lesões aparentes em vulva ou vagina, mas há dor referida à pressão leve com cotonete no vestíbulo vulvar posterior. Os exames laboratoriais e culturas estão normais. Refere impacto significativo em sua vida sexual e emocional. Nesse caso, a conduta inicial mais adequada é",
+  "alts": [
+   "iniciar terapia antifúngica tópica por 14 dias.",
+   "encaminhar para biópsia vulvar imediata.",
+   "fisioterapia pélvica e iniciar antidepressivo tricíclico de baixa dose.",
+   "prescrever corticoide sistêmico por 30 dias.",
+   "afastar-se da atividade sexual até remissão espontânea da dor."
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Vulvodínia provocada",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACOG Committee Opinion nº 673, Persistent Vulvar Pain, 2016, e consenso ISSVD/ISSWSH/IPPS de terminologia da dor vulvar, 2015",
+  "coment": "Dor vulvar em ardência por mais de 3 meses, sem lesão visível nem causa identificável, com dor à pressão leve do cotonete no vestíbulo, define vulvodínia localizada provocada (vestibulodínia), pela terminologia ISSVD/ISSWSH/IPPS de 2015. O manejo é multimodal (ACOG 2016): cuidados com a vulva e suspensão de irritantes, fisioterapia do assoalho pélvico, analgésicos tópicos, medicações para dor neuropática como tricíclicos em dose baixa, e apoio psicológico e terapia sexual. Antifúngicos e antibióticos repetidos sem diagnóstico pioram o quadro.",
+  "porAlt": [
+   "Antifúngico já falhou e as culturas são normais, então não há candidíase a tratar.",
+   "Sem lesão visível a biópsia não está indicada, e o diagnóstico é clínico.",
+   "Correta: fisioterapia do assoalho pélvico e tricíclico em dose baixa são parte do tratamento inicial da vulvodínia.",
+   "Corticoide sistêmico não tem papel na vulvodínia e traz efeitos adversos sem benefício.",
+   "Evitar a atividade sexual não leva à remissão e não substitui o tratamento ativo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 70
+  }
+ },
+ {
+  "pid": "g25071",
+  "q": "Paciente de 26 anos, nuligesta, comparece para investigação de infertilidade primária. Relata ciclos regulares, sem dismenorreia significativa. Nega comorbidades. Exame físico sem alterações. A histerossalpingografia revelou cavidade endometrial com contornos regulares, mas com falha de enchimento linear no terço superior, trompas visualizadas com Cotté positivo. Solicitada ressonância magnética pélvica, que evidenciou útero único com reentrância endometrial medindo 18 mm e ângulo de 60 e sem duplicidade de colo ou vagina. Asinale a opção que apresenta a malformação uterina mais provável e a conduta adequada.",
+  "alts": [
+   "Útero bicorno – indicar correção cirúrgica por laparotomia.",
+   "Útero didelfo – encaminhar para metroplastia abdominal.",
+   "Útero unicorno – iniciar estimulação ovariana com clomifeno.",
+   "Útero arqueado – acompanhar clinicamente sem intervenção.",
+   "Útero septado – realizar histeroscopia com ressecção do septo."
+  ],
+  "gab": 4,
+  "tema": "reprodutiva",
+  "sub": "Útero septado na infertilidade",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ASRM, Uterine septum: a guideline, 2016, e ASRM Müllerian Anomalies Classification, 2021",
+  "coment": "O contorno externo do fundo é normal (útero único, sem duplicidade de colo ou vagina) e há reentrância interna de 18 mm com ângulo de 60 graus. Pelos critérios da ASRM (2016), útero septado tem reentrância acima de 1,5 cm e ângulo agudo, abaixo de 90 graus; útero arqueado tem reentrância de até 1 cm e ângulo obtuso. No bicorno e no didelfo há reentrância externa do fundo. O tratamento do septo é a septoplastia histeroscópica, procedimento ambulatorial ou de curta permanência, considerada em mulheres com infertilidade ou perdas gestacionais. Metroplastia abdominal não se usa mais para septo.",
+  "porAlt": [
+   "O bicorno tem reentrância externa do fundo, e a ressonância mostra útero único com contorno normal.",
+   "O didelfo tem dois colos e muitas vezes vagina dupla, o que foi excluído.",
+   "O unicorno tem cavidade em forma de banana com um só corno, não reentrância fúndica central.",
+   "O arqueado tem reentrância de até 1 cm e ângulo obtuso, e aqui são 18 mm com ângulo de 60 graus.",
+   "Correta: reentrância de 18 mm com ângulo agudo e fundo externo normal é septo, tratado por ressecção histeroscópica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 71
+  }
+ },
+ {
+  "pid": "g25072",
+  "q": "Mulher de 68 anos comparece ao consultório por prurido vulvar crônico, de longa data, associado à ardência e sensação de queimação. Refere falha terapêutica com antifúngicos tópicos. Ao exame físico, observa-se lesão única em grande lábio direito, de bordas irregulares, superfície eritematosa com áreas esbranquiçadas, descamativas e discretamente infiltradas, medindo cerca de 2,5 cm, sem ulceração. Realizada biópsia com diagnóstico histopatológico de lesão intraepitelial escamosa de alto grau (HSIL), sem sinais de invasão. A colpocitologia e a colposcopia foram normais. A conduta inicial mais adequada para essa paciente é",
+  "alts": [
+   "indicar exérese cirúrgica da lesão com margens livres.",
+   "prescrever corticosteroide tópico e reavaliar em 30 dias.",
+   "iniciar terapia com imiquimode tópico 5% por 16 semanas.",
+   "acompanhar clinicamente e repetir biópsia em 6 meses.",
+   "indicar vulvectomia radical com esvaziamento inguinal profilático."
+  ],
+  "gab": 0,
+  "tema": "ginonco",
+  "sub": "HSIL vulvar na pós-menopausa",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ACOG Committee Opinion nº 675, Management of Vulvar Intraepithelial Neoplasia, 2016, e terminologia ISSVD das lesões escamosas vulvares, 2015",
+  "coment": "A HSIL vulvar (antiga NIV usual) é lesão precursora do carcinoma escamoso da vulva. Em lesão única, sobretudo em mulher idosa com área infiltrada, em que o risco de invasão oculta é maior, a conduta preferida (ACOG 2016) é a excisão local ampla com margens livres, que trata e permite avaliar toda a lesão. Ablação a laser e imiquimode são opções para lesões multifocais em mulheres jovens, desde que se tenha afastado invasão. Vulvectomia radical com linfadenectomia é tratamento de carcinoma invasivo, não de lesão precursora.",
+  "porAlt": [
+   "Correta: a excisão local com margens livres é a conduta inicial preferida para HSIL vulvar única, sobretudo na idosa.",
+   "O corticoide tópico trata líquen escleroso, não lesão intraepitelial de alto grau.",
+   "O imiquimode é alternativa para lesões multifocais em jovens, não a primeira escolha para lesão única e infiltrada na idosa.",
+   "A HSIL é precursora de câncer e não deve ser apenas observada.",
+   "Vulvectomia radical com esvaziamento inguinal é tratamento de câncer invasivo, ausente na biópsia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 72
+  }
+ },
+ {
+  "pid": "g25073",
+  "q": "Mulher de 26 anos, nuligesta, sexualmente ativa, comparece para exame ginecológico de rotina. Refere ciclos menstruais regulares, sem queixas geniturinárias. Ao exame especular, observa-se pequena lesão esbranquiçada, translúcida, elevada, medindo cerca de 4 mm, em região do colo uterino, sem sinais de inflamação, sangramento ou lesões acetobrancas. Colpocitologia e teste de HPV realizados há 8 meses foram normais. A conduta mais apropriada diante desse achado é",
+  "alts": [
+   "realizar biópsia excisional.",
+   "registrar o achado e manter seguimento de rotina.",
+   "encaminhar para colposcopia e biópsia dirigida.",
+   "realizar cauterização química com ácido tricloroacético.",
+   "iniciar antibioticoterapia de amplo espectro."
+  ],
+  "gab": 1,
+  "tema": "ginecologia",
+  "sub": "Cisto de Naboth",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Williams Gynecology, 4ª ed., 2020",
+  "coment": "Pequena elevação esbranquiçada ou amarelada, translúcida e lisa no colo, sem acetobranqueamento, é o aspecto típico do cisto de Naboth: glândula endocervical obstruída pelo epitélio escamoso metaplásico na zona de transformação. É achado benigno e fisiológico, que não exige tratamento nem biópsia, e é registrado no prontuário. A paciente tem citologia e teste de HPV normais há 8 meses, então segue o intervalo de rastreamento habitual. Colposcopia é para citologia alterada ou HPV oncogênico positivo, o que não ocorre.",
+  "porAlt": [
+   "Cisto de Naboth é benigno e não exige biópsia excisional.",
+   "Correta: o achado é compatível com cisto de Naboth, que se registra e não muda o seguimento de rotina.",
+   "Sem citologia alterada, HPV positivo ou lesão suspeita, não há indicação de colposcopia.",
+   "O ácido tricloroacético trata condilomas, e o cisto de Naboth não é lesão por HPV.",
+   "Não há infecção, então antibiótico não está indicado."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 73
+  }
+ },
+ {
+  "pid": "g25074",
+  "q": "Paciente de 24 anos, G0P0, previamente hígida, procura atendimento com dor pélvica em baixo ventre há 5 dias, de intensidade progressiva, associada a corrimento vaginal purulento e febre não aferida. Refere também dispareunia e disúria. Ao exame físico: dor à palpação hipogástrica e à mobilização uterina, toque vaginal com dor à palpação de anexos. Sinais vitais: temperatura axilar de 38,3 C, frequência cardíaca de 114 bpm e pressão arterial de 90/60 mmHg. Laboratório com leucocitose e PCR elevada. Ultrassonografia transvaginal evidencia imagem cística complexa em anexo direito, com conteúdo espesso e septações finas, medindo 5,5 cm. A conduta inicial mais adequada é",
+  "alts": [
+   "acompanhamento ambulatorial com antibioticoterapia oral e controle com US seriada.",
+   "realização de drenagem cirúrgica imediata do abscesso anexial por laparoscopia.",
+   "início de anticoncepcional hormonal combinado para redução do processo inflamatório.",
+   "internação hospitalar e início de antibióticoterapia endovenosa para DIP complicada.",
+   "indicação de histerossalpingografia para melhor avaliação do conteúdo tubário."
+  ],
+  "gab": 3,
+  "tema": "gininfec",
+  "sub": "Abscesso tubo-ovariano",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "CDC, Sexually Transmitted Infections Treatment Guidelines, 2021, e Ministério da Saúde, PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Dor pélvica, febre, corrimento purulento e dor à mobilização uterina e anexial fecham o diagnóstico de doença inflamatória pélvica, e a imagem complexa anexial de 5,5 cm indica abscesso tubo-ovariano. O CDC (2021) e o PCDT IST (2022) indicam internação nessa situação, com antibiótico parenteral (por exemplo ceftriaxona, doxiciclina e metronidazol), observação por pelo menos 24 horas e passagem para via oral após melhora. Abscessos até cerca de 7 a 8 cm respondem ao antibiótico na maioria dos casos. Drenagem fica para falha após 48 a 72 horas, abscesso volumoso ou suspeita de rotura com instabilidade.",
+  "porAlt": [
+   "Abscesso tubo-ovariano é critério de internação e não deve ser tratado em ambulatório.",
+   "A drenagem fica para falha do antibiótico, abscesso grande ou rotura, e não é a conduta inicial com 5,5 cm.",
+   "Anticoncepcional não trata processo infeccioso e não reduz a inflamação da DIP.",
+   "Correta: DIP com abscesso tubo-ovariano exige internação e antibioticoterapia parenteral.",
+   "A histerossalpingografia é contraindicada na infecção pélvica aguda, pois pode disseminar o processo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 74
+  }
+ },
+ {
+  "pid": "g25075",
+  "q": "Adolescente de 17 anos, nuligesta, comparece à consulta por ausência de menarca. Relata desenvolvimento mamário iniciado aos 12 anos (M2), mas sem progressão. Ao exame físico: mamas em M3, presença de pelos púbicos e axilares em P4, genitália normal. IMC: 21 kg/m². Exames laboratoriais: FSH 48 mUI/mL, LH 32 mUI/mL, estradiol 12 pg/mL. Cariótipo: 46,XX. Nesse caso, a hipótese diagnóstica mais provável é",
+  "alts": [
+   "hiperplasia adrenal congênita de forma não clássica.",
+   "síndrome de resistência aos andrógenos.",
+   "insuficiência ovariana primária.",
+   "síndrome de Rokitansky.",
+   "síndrome de Kallmann."
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Insuficiência ovariana primária",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ESHRE/ASRM/CRE/IMS, Evidence-based guideline: premature ovarian insufficiency, 2024",
+  "coment": "Amenorreia primária com desenvolvimento mamário iniciado e não completado, gonadotrofinas elevadas (FSH 48, LH 32) e estradiol baixo indica hipogonadismo hipergonadotrófico: o ovário não responde. Com cariótipo 46,XX, o diagnóstico é insuficiência ovariana primária, definida pela ESHRE (2024) como oligo ou amenorreia antes dos 40 anos com FSH acima de 25 UI/L. A investigação inclui pré-mutação do FMR1 e autoimunidade, e o tratamento é a reposição hormonal até a idade habitual da menopausa. Os pelos em P4 refletem androgênios adrenais preservados.",
+  "porAlt": [
+   "A forma não clássica da hiperplasia adrenal cursa com hiperandrogenismo e gonadotrofinas normais.",
+   "A resistência aos andrógenos ocorre em cariótipo 46,XY, com pelos escassos e vagina curta.",
+   "Correta: FSH e LH elevados com estradiol baixo e cariótipo 46,XX definem insuficiência ovariana primária.",
+   "Na síndrome de Rokitansky os ovários funcionam normalmente, com puberdade completa e gonadotrofinas normais.",
+   "A síndrome de Kallmann é hipogonadismo hipogonadotrófico, com FSH e LH baixos e anosmia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 75
+  }
+ },
+ {
+  "pid": "g25076",
+  "q": "Paciente de 67 anos, G3P3, apresenta sangramento uterino anormal na pós-menopausa. A biópsia endometrial revelou adenocarcinoma endometrioide grau 2. Realizada histerectomia total com salpingo-ooforectomia bilateral e linfadenectomia pélvica. O anatomopatológico demonstrou tumor infiltrando mais de 50% do miométrio, sem acometimento cervical, trompas, ovários ou linfonodos. Ausência de invasão linfovascular. Com base nos achados clínico-patológicos, o estadiamento FIGO de 2023 mais adequado para esse caso é",
+  "alts": [
+   "Estágio IA – invasão menor que 50% do miométrio.",
+   "Estágio IB – invasão maior que 50% do miométrio, sem extensão extrauterina.",
+   "Estágio II – acometimento estromal cervical.",
+   "Estágio IIIA – invasão serosa uterina ou anexial.",
+   "Estágio IIIC1 – metástase para linfonodos pélvicos."
+  ],
+  "gab": 1,
+  "tema": "ginonco",
+  "sub": "Estadiamento FIGO 2023 do endométrio",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "FIGO, staging of endometrial cancer (Berek et al., International Journal of Gynecology and Obstetrics), 2023",
+  "coment": "No estadiamento FIGO 2023 do câncer de endométrio, os tipos histológicos não agressivos (endometrioide de grau 1 ou 2) restritos ao corpo uterino são IA quando invadem menos da metade do miométrio e IB quando invadem metade ou mais, desde que não haja invasão linfovascular substancial. O adenocarcinoma endometrioide grau 2 com invasão acima de 50%, sem acometimento cervical, anexial ou linfonodal e sem invasão linfovascular é IB. Quando a classificação molecular é conhecida, ela pode reclassificar o caso (por exemplo POLE mutado ou p53 anormal), o que o enunciado não informa.",
+  "porAlt": [
+   "O estágio IA exige invasão menor que 50% do miométrio, e o tumor ultrapassa essa metade.",
+   "Correta: endometrioide de baixo grau com invasão de 50% ou mais do miométrio, sem extensão extrauterina, é IB.",
+   "O estágio II exige invasão do estroma cervical, ausente no anatomopatológico.",
+   "O IIIA exige invasão da serosa ou dos anexos, que estavam livres.",
+   "O IIIC1 exige metástase em linfonodo pélvico, e os linfonodos estavam negativos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 76
+  }
+ },
+ {
+  "pid": "g25077",
+  "q": "Mulher de 39 anos, G3P3, procura atendimento por amenorreia secundária há 3 anos e fadiga progressiva. Relata que, após o último parto, apresentou hemorragia puerperal grave com necessidade de transfusão sanguínea. Desde então, não voltou a menstruar, não apresentou lactação e vem notando ressecamento vaginal e queda de cabelos. Ao exame: PA 94/62 mmHg, FC 96 bpm, pele seca, genitália externa atrófica, mamas hipotróficas. IMC: 23 kg/m². Exames laboratoriais: • TSH: 0,1 µUI/mL; • T4 livre: 0,4 ng/dL; • FSH: 2,1 mUI/mL; • LH: 1,9 mUI/mL; • Cortisol matinal: 4,1 µg/dL; • Prolactina: 2,1 ng/mL. O diagnóstico mais provável frente ao quadro clínico e laboratorial é",
+  "alts": [
+   "hipotireoidismo primário.",
+   "insuficiência ovariana primária.",
+   "síndrome de Asherman.",
+   "síndrome de Sheehan.",
+   "tumor hipofisário não secretor."
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Síndrome de Sheehan",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Endocrine Society, Hormonal Replacement in Hypopituitarism in Adults: Clinical Practice Guideline (Fleseriu et al.), 2016",
+  "coment": "Hemorragia puerperal grave com choque seguida de agalactia, amenorreia, astenia, hipotensão e pele seca sugere necrose hipofisária pós-parto: síndrome de Sheehan. Os exames mostram pan-hipopituitarismo: FSH e LH baixos com hipoestrogenismo, TSH baixo com T4 livre baixo (hipotireoidismo central), cortisol matinal baixo e prolactina baixa. A primeira medida é repor glicocorticoide antes da levotiroxina, para não precipitar crise adrenal, conforme a Endocrine Society (2016), e depois repor estrogênio com progestagênio.",
+  "porAlt": [
+   "No hipotireoidismo primário o TSH está elevado, e aqui está baixo com T4 livre baixo.",
+   "Na insuficiência ovariana primária FSH e LH estão elevados, e aqui estão baixos.",
+   "Asherman causa amenorreia com eixo hormonal normal e não explica agalactia, hipotireoidismo e hipocortisolismo.",
+   "Correta: hemorragia puerperal grave seguida de agalactia e pan-hipopituitarismo define a síndrome de Sheehan.",
+   "Tumor não secretor costuma elevar levemente a prolactina por compressão da haste, e a história puerperal aponta para Sheehan."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 77
+  }
+ },
+ {
+  "pid": "g25078",
+  "q": "Mulher de 66 anos, G5P5, sexualmente ativa, procura avaliação ginecológica por sensação de peso vaginal, exteriorização de abaulamento ao esforço e incontinência urinária aos esforços. Ao exame ginecológico com manobra de Valsalva, observam-se os seguintes parâmetros do sistema POP-Q: Aa em +2, Ba em +3, ponto C em +2, D em +1, Ap em –1, Bp em 0, e comprimento vaginal total (TVL) de 8 cm. Genitália externa sem atrofia significativa. Com base no exame físico, assinale a classificação mais compatível com os achados descritos.",
+  "alts": [
+   "Cistocele e prolapso uterino estágio III; retocele estágio II.",
+   "Cistocele e prolapso uterino estágio II; retocele estágio I.",
+   "Cistocele, prolapso uterino e retocele, todos em estágio II.",
+   "Cistocele estágio II, prolapso uterino estágio III; retocele estágio I.",
+   "Cistocele e retocele estágio III; prolapso uterino estágio II."
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Estadiamento POP-Q do prolapso",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Sistema POP-Q da International Continence Society (Bump et al., 1996)",
+  "coment": "No POP-Q o hímen é o ponto zero, valores negativos ficam acima e positivos abaixo dele. Estágio II: ponto mais distal entre 1 cm acima e 1 cm abaixo do hímen (de menos 1 a mais 1). Estágio III: mais de 1 cm abaixo do hímen, mas sem atingir o comprimento vaginal total menos 2 cm (aqui, até mais 6). Estágio IV: eversão completa. Parede anterior com Ba em mais 3 e ápice com C em mais 2 são estágio III. Parede posterior com Bp em 0 e Ap em menos 1 fica entre menos 1 e mais 1, portanto estágio II.",
+  "porAlt": [
+   "Correta: Ba em +3 e C em +2 ficam mais de 1 cm além do hímen (estágio III), e Bp em 0 é estágio II.",
+   "Pontos em +3 e +2 ultrapassam +1 e não são estágio II, e Bp em 0 não é estágio I.",
+   "Apenas a parede posterior é estágio II, a anterior e o ápice passam de +1.",
+   "A cistocele com Ba em +3 é estágio III, e a retocele com Bp em 0 é estágio II.",
+   "A retocele com Bp em 0 é estágio II, e o prolapso uterino com C em +2 é estágio III."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 78
+  }
+ },
+ {
+  "pid": "g25079",
+  "q": "Mulher de 28 anos, previamente hígida, procura atendimento por lesão indolor em vulva, percebida há aproximadamente 10 dias. Refere relação sexual desprotegida com parceiro eventual há cerca de três semanas. Nega corrimento, febre ou prurido. Ao exame ginecológico, observa-se úlcera única de aproximadamente 1,5 cm em pequeno lábio esquerdo, de bordas endurecidas, base limpa e fundo avermelhado. Linfonodos inguinais bilaterais aumentados, firmes, indolores e não aderidos. Refere ausência de dor local. O diagnóstico mais provável e a conduta terapêutica inicial recomendada são",
+  "alts": [
+   "cancro mole – iniciar azitromicina 1 g VO dose única.",
+   "sífilis primária – iniciar penicilina benzatina 2,4 milhões UI IM em dose única.",
+   "herpes genital – iniciar aciclovir 400 mg 3x/dia por 7 dias.",
+   "donovanose – solicitar biópsia e iniciar doxiciclina 100 mg 12/12 h por 3 semanas.",
+   "linfogranuloma venéreo – realizar drenagem de bubão e iniciar doxiciclina 21 dias."
+  ],
+  "gab": 1,
+  "tema": "gininfec",
+  "sub": "Sífilis primária",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Úlcera genital única, indolor, de bordas endurecidas e fundo limpo, surgida cerca de três semanas após exposição, com linfonodos inguinais bilaterais indolores, é o cancro duro da sífilis primária. Pelo PCDT IST (2022), o tratamento da sífilis recente (primária, secundária e latente com menos de um ano) é penicilina G benzatina 2,4 milhões UI intramuscular em dose única (1,2 milhão em cada glúteo), com testagem para HIV e hepatites, tratamento das parcerias e seguimento com VDRL trimestral. O cancro mole é doloroso, com fundo sujo e bubão que fistuliza.",
+  "porAlt": [
+   "O cancro mole tem úlceras dolorosas, múltiplas, de fundo sujo e bubão doloroso que fistuliza.",
+   "Correta: úlcera única indolor de bordas endurecidas com adenopatia indolor é sífilis primária, tratada com benzatina 2,4 milhões UI.",
+   "O herpes genital cursa com vesículas e úlceras rasas e dolorosas, frequentemente múltiplas.",
+   "A donovanose tem úlcera de crescimento lento, vermelho vivo e friável, sem adenopatia verdadeira.",
+   "O linfogranuloma tem lesão inicial fugaz e bubão doloroso e inflamatório, não úlcera endurecida persistente."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 79
+  }
+ },
+ {
+  "pid": "g25080",
+  "q": "Mulher de 55 anos, G4P4, com história de sangramento vaginal irregular e dor pélvica há 4 meses. Ao exame especular, lesão exofítica visível no colo uterino com sangramento ao toque. Toque vaginal revela extensão da lesão para o terço inferior da vagina e fixação à parede pélvica esquerda. Urografia excretora evidencia hidronefrose à esquerda. Tomografia computadorizada sem sinais de metástases à distância. Biópsia confirma carcinoma epidermoide invasivo. Com base nas informações clínicas e no estadiamento FIGO 2018, o estadiamento mais adequado é o",
+  "alts": [
+   "Estádio IB2.",
+   "Estádio IIA2.",
+   "Estádio IIIA.",
+   "Estádio IIIB.",
+   "Estádio IVA."
+  ],
+  "gab": 3,
+  "tema": "ginonco",
+  "sub": "Estadiamento FIGO do colo uterino",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "FIGO, staging of cancer of the cervix uteri (Bhatla et al.), 2018, com correção de 2019",
+  "coment": "Pelo estadiamento FIGO 2018 do câncer do colo, o estágio IIIA é extensão ao terço inferior da vagina sem atingir a parede pélvica, e o IIIB é extensão à parede pélvica e/ou hidronefrose ou rim excluso. Quando há mais de um critério, vale o mais avançado. A paciente tem as duas coisas (terço inferior da vagina e fixação à parede com hidronefrose), portanto IIIB. Linfonodos pélvicos ou para-aórticos positivos levariam a IIIC, o que não foi descrito, e IVA exige invasão de mucosa vesical ou retal.",
+  "porAlt": [
+   "O IB2 é tumor restrito ao colo entre 2 e 4 cm, e aqui há extensão vaginal e parametrial até a parede.",
+   "O IIA2 envolve os dois terços superiores da vagina sem parametrial, o que não corresponde ao caso.",
+   "O terço inferior da vagina caracteriza IIIA, mas a fixação à parede pélvica e a hidronefrose elevam para IIIB.",
+   "Correta: extensão à parede pélvica com hidronefrose define IIIB, que prevalece sobre o envolvimento do terço inferior da vagina.",
+   "O IVA exige invasão da mucosa da bexiga ou do reto, não descrita."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 80
+  }
+ }
+]

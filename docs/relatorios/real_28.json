@@ -1,0 +1,103 @@
+{
+ "incluidas": 21,
+ "descartadas": [
+  {
+   "pid": "m24001",
+   "motivo": "clínica médica: fora do escopo desta rodada (cardio: palpitação e pré-síncope com pesquisa de B1 hiperfonética). Gabarito também frágil."
+  },
+  {
+   "pid": "m24003",
+   "motivo": "mais de uma resposta defensável: em idoso com vertigem aguda, achar hemiparesia também dá o diagnóstico imediato (AVC de circulação posterior); rolha de cerume como causa de vertigem rotatória intensa é raridade."
+  },
+  {
+   "pid": "m24007",
+   "motivo": "clínica médica: fora do escopo desta rodada (infecto/nefro: escolha de antibiótico na pielonefrite)."
+  },
+  {
+   "pid": "m24010",
+   "motivo": "mais de uma resposta defensável: AUA/CUA/SUFU 2019 (emenda 2022) e EAU 2025 recomendam documentar cada episódio de ITU recorrente com urocultura antes de definir profilaxia, o que torna verdadeira também a alternativa 'comprovar a infecção com exames microbiológicos'."
+  },
+  {
+   "pid": "m24015",
+   "motivo": "clínica médica: fora do escopo desta rodada (infecto: diagnóstico de mononucleose)."
+  },
+  {
+   "pid": "m24016",
+   "motivo": "clínica médica: fora do escopo desta rodada (hemato: anemia ferropriva microcítica)."
+  },
+  {
+   "pid": "m24018",
+   "motivo": "gabarito contraria diretriz vigente: ADA Standards of Care 2026 e SBD exigem confirmar HbA1c isolada de 6,5% em assintomática com novo teste sem demora; esperar 6 meses sem confirmar não é a conduta, e nenhuma alternativa propõe a confirmação."
+  },
+  {
+   "pid": "m24021",
+   "motivo": "clínica médica: fora do escopo desta rodada (reumato: arterite de células gigantes)."
+  },
+  {
+   "pid": "m24023",
+   "motivo": "gabarito contraria diretriz vigente e há mais de uma defensável: NICE CG113 (pânico) não recomenda benzodiazepínico, e ISRS isolado ou TCC isolada são primeira linha (APA, CANMAT), então fluoxetina isolada e psicoterapia também se defendem."
+  },
+  {
+   "pid": "m24024",
+   "motivo": "clínica médica: fora do escopo desta rodada (cardio: bradiarritmia/BAV por betabloqueador em idosa)."
+  },
+  {
+   "pid": "m24025",
+   "motivo": "clínica médica: fora do escopo desta rodada (derma/infecto: erisipela)."
+  },
+  {
+   "pid": "m24026",
+   "motivo": "clínica médica: fora do escopo desta rodada (hemato: anemia hemolítica)."
+  },
+  {
+   "pid": "m24027",
+   "motivo": "mais de uma resposta defensável: a Diretriz Brasileira de Hipertensão 2025 inclui na rotina inicial tanto o exame de urina quanto o perfil lipídico (colesterol total, HDL, triglicérides, LDL)."
+  },
+  {
+   "pid": "m24029",
+   "motivo": "clínica médica: fora do escopo desta rodada (reumato: polimialgia reumática)."
+  },
+  {
+   "pid": "m24032",
+   "motivo": "clínica médica: fora do escopo desta rodada (derma: pitiríase versicolor)."
+  },
+  {
+   "pid": "m24034",
+   "motivo": "gabarito contraria diretriz vigente: a resposta oficial associa descongestionante nasal à amoxicilina na otite média aguda, e AAP 2013 (reafirmada) e revisão Cochrane não recomendam descongestionante por falta de benefício e risco de efeitos adversos."
+  },
+  {
+   "pid": "m24035",
+   "motivo": "clínica médica: fora do escopo desta rodada (reumato: artrite reativa pós-estreptocócica versus febre reumática)."
+  },
+  {
+   "pid": "m24036",
+   "motivo": "clínica médica: fora do escopo desta rodada (cardio: fibrilação atrial)."
+  },
+  {
+   "pid": "m24037",
+   "motivo": "clínica médica: fora do escopo desta rodada (cardio/emergências: síndrome coronariana aguda com BRE novo)."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "m24002",
+   "nota": "Sopro venoso (inocente e contínuo) poderia, em leitura literal, ser um sopro que 'não coincide com o pulso' e ainda assim inocente; mantida porque a alternativa oficial é verdadeira sem ressalva e as demais seguem o ensino clássico (sopro diastólico isolado é patológico)."
+  },
+  {
+   "pid": "m24012",
+   "nota": "A afirmação oficial sobre ibuprofeno em dose baixa como melhor opção para o risco cardiovascular é aceitável pela metanálise CNT 2013, mas o naproxeno costuma ser citado como o de menor risco; ele não está entre as alternativas."
+  },
+  {
+   "pid": "m24022",
+   "nota": "DSM-5-TR exige ao menos 1 mês de preocupação persistente após as crises para transtorno de pânico e o quadro tem cerca de 15 dias; mantida porque o enunciado pede 'conduzir como' e as demais alternativas são claramente piores."
+  },
+  {
+   "pid": "m24030",
+   "nota": "AINE em idosa de 78 anos com IECA pede cautela renal (Beers 2023); mantida porque é a única opção com benefício e é curso curto."
+  },
+  {
+   "pid": "m24033",
+   "nota": "GINA 2026 prefere espaçador à nebulização e propõe corticoide oral por 3 a 5 dias em criança, não 5 a 7; mantida porque a alternativa oficial é a única com tratamento completo da crise."
+  }
+ ]
+}

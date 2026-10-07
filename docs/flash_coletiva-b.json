@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "epidemio",
+  "a": "Quando usar densidade de incidência em vez de incidência cumulativa?",
+  "b": "Quando os participantes são seguidos por tempos diferentes (perdas, entradas tardias): casos novos ÷ soma de pessoas-tempo em risco, em casos por 1.000 pessoas-ano (Rouquayrol, 2018)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Padronização direta ou indireta: quando usar cada uma?",
+  "b": "Direta: aplica os coeficientes específicos da população estudada a uma população-padrão. Indireta: coeficientes específicos instáveis ou ausentes; dá a razão de mortalidade padronizada, observados ÷ esperados (RIPSA, 2008)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Como se calcula o coeficiente de mortalidade perinatal?",
+  "b": "(Óbitos fetais com 22 semanas ou mais + óbitos de 0 a 6 dias) ÷ (nascidos vivos + óbitos fetais) × 1.000 (CID-10, OMS)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Quais óbitos entram na razão de mortalidade materna?",
+  "b": "Obstétricos diretos e indiretos até 42 dias após o fim da gestação, por 100.000 nascidos vivos. Ficam fora a morte materna tardia (42 dias a 1 ano) e as causas acidentais ou incidentais (CID-10)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Qual o denominador da taxa de ataque secundário?",
+  "b": "Contatos suscetíveis expostos aos casos índices; os casos primários ficam fora do numerador e do denominador (Guia de Vigilância em Saúde, 2023)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Como prevalência, incidência e duração se relacionam?",
+  "b": "Em situação estável, prevalência ≈ incidência × duração média. Cura rápida reduz a prevalência; tratamento que prolonga a vida sem curar a aumenta (Rouquayrol, 2018)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Como achar a cobertura vacinal mínima para imunidade coletiva?",
+  "b": "Limiar = 1 menos 1/R0, dividido pela eficácia da vacina. R0 de 6 com eficácia de 90%: 0,833 ÷ 0,9 ≈ 93% (Rouquayrol, 2018)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Quais as quatro formas da curva de Nelson de Moraes?",
+  "b": "Tipo I, N invertido (nível muito baixo); II, L (baixo); III, U ou V (regular); IV, J (elevado). Faixas: menor de 1, 1 a 4, 5 a 19, 20 a 49 e 50 anos ou mais (Rouquayrol, 2018)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "O que é causa necessária no modelo de Rothman?",
+  "b": "A que está presente em todas as causas suficientes da doença. Ex.: o bacilo de Koch é necessário, mas não suficiente, para a tuberculose (Rothman, 2021)."
+ },
+ {
+  "tema": "epidemio",
+  "a": "Como se calculam os anos potenciais de vida perdidos?",
+  "b": "Soma, para cada óbito antes da idade-limite, de limite menos idade da morte; óbitos acima do limite contam zero. Valoriza a morte precoce, como a por causas externas (RIPSA, 2008)."
+ },
+ {
+  "tema": "bioestat",
+  "a": "O que acontece com sensibilidade e VPP em testes em série?",
+  "b": "A especificidade e o VPP sobem, e a sensibilidade global cai (produto das sensibilidades). Em paralelo, ocorre o inverso (Fletcher, 2021)."
+ },
+ {
+  "tema": "bioestat",
+  "a": "Como usar a razão de verossimilhança para chegar à probabilidade pós-teste?",
+  "b": "Probabilidade em chance (p ÷ 1 menos p), multiplicar pela RV, reconverter (chance ÷ 1 + chance). Pré-teste 20% e RV+ de 8 dão cerca de 67% (Fletcher, 2021)."
+ },
+ {
+  "tema": "bioestat",
+  "a": "Quais as fórmulas das razões de verossimilhança?",
+  "b": "RV positiva = sensibilidade ÷ (1 menos especificidade). RV negativa = (1 menos sensibilidade) ÷ especificidade. Não dependem da prevalência (Fletcher, 2021)."
+ },
+ {
+  "tema": "bioestat",
+  "a": "Como calcular a fração atribuível populacional sem a prevalência da exposição?",
+  "b": "(Incidência na população total menos incidência nos não expostos) ÷ incidência total. Ex.: (5 menos 2) ÷ 5 = 60% (Gordis, 2019)."
+ },
+ {
+  "tema": "bioestat",
+  "a": "Quando a razão de chances se afasta do risco relativo?",
+  "b": "Quando o desfecho é frequente (acima de cerca de 10%): a OR fica mais distante de 1 que o RR e exagera a associação se lida como risco (Gordis, 2019)."
+ },
+ {
+  "tema": "bioestat",
+  "a": "Como a estratificação distingue confusão de modificação de efeito?",
+  "b": "Confusão: estratos parecidos entre si e diferentes da medida bruta. Modificação de efeito: estratos diferentes entre si, relatados separadamente (Gordis, 2019)."
+ },
+ {
+  "tema": "bioestat",
+  "a": "Quando se declara não inferioridade num ensaio com desfecho de falha?",
+  "b": "Quando o limite superior do IC 95% do RR fica abaixo da margem pré-definida. Se ultrapassa a margem, a não inferioridade não foi demonstrada (CONSORT, 2012)."
+ },
+ {
+  "tema": "bioestat",
+  "a": "Por que a sobrevida não serve para avaliar rastreamento?",
+  "b": "Pelo viés de tempo de antecipação, de duração e pelo sobrediagnóstico: o desfecho válido é a mortalidade específica na população (Gordis, 2019)."
+ },
+ {
+  "tema": "sus",
+  "a": "Quais os mínimos de aplicação em saúde de cada ente?",
+  "b": "União, 15% da receita corrente líquida (EC 86/2015); estados, 12% e municípios, 15% dos impostos e transferências (LC 141/2012). Aposentadorias e merenda não contam."
+ },
+ {
+  "tema": "sus",
+  "a": "Quais as quatro condições do art. 28 do Decreto 7.508/2011?",
+  "b": "Usuário assistido pelo SUS, prescrição de profissional do SUS, conformidade com RENAME e PCDT, e dispensação em unidade indicada pela direção do SUS."
+ },
+ {
+  "tema": "sus",
+  "a": "Quais os componentes da estrutura operacional das RAS?",
+  "b": "Centro de comunicação (atenção primária), pontos de atenção secundária e terciária, sistemas de apoio, sistemas logísticos e governança (Portaria 4.279/2010)."
+ },
+ {
+  "tema": "trabalho",
+  "a": "O que define desencadeamento de PAIR pela NR-7?",
+  "b": "Audiograma ainda até 25 dB com piora, ante o de referência, de 10 dB ou mais na média de 3, 4 e 6 kHz ou de 15 dB ou mais em uma delas (NR-7, Anexo II, 2020)."
+ },
+ {
+  "tema": "trabalho",
+  "a": "Quando a NR-7 exige exame de retorno ao trabalho?",
+  "b": "Ausência de 30 dias ou mais por doença ou acidente, ocupacional ou não; exame feito antes de o empregado reassumir a função (NR-7, 2020)."
+ },
+ {
+  "tema": "trabalho",
+  "a": "Como fica o afastamento do empregado acidentado?",
+  "b": "Empresa paga os primeiros 15 dias; INSS a partir do 16º, sem carência no acidentário; estabilidade de 12 meses após cessar o benefício (Lei 8.213/1991, art. 118)."
+ },
+ {
+  "tema": "vigilancia",
+  "a": "Quais as zonas do canal endêmico?",
+  "b": "Sucesso (abaixo do limite inferior), segurança (até a média), alerta (até o limite superior, média + 1,96 DP) e epidêmica (acima dele) (Guia de Vigilância em Saúde, 2023)."
+ }
+]

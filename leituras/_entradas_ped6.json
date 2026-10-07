@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Pediatria",
+  "f": "asma-e-alergia-na-crianca.html",
+  "tipo": "GINA 2026 · resumo de prova",
+  "area": "pedgeral",
+  "min": 54,
+  "t": "Asma e alergia na criança",
+  "s": "Sibilância do lactente e do pré-escolar com os critérios diagnósticos da GINA, tratamento por idade e crise na emergência pela GINA 2026, rinite alérgica pelo ARIA, alergia à proteína do leite de vaca nas formas IgE e não IgE, anafilaxia com a dose de adrenalina por peso e dermatite atópica."
+ },
+ {
+  "grupo": "Pediatria",
+  "f": "cardiologia-e-reumatologia-pediatrica.html",
+  "tipo": "AHA 2024 · resumo de prova",
+  "area": "pedgeral",
+  "min": 56,
+  "t": "Cardiologia e reumatologia pediátrica",
+  "s": "Sopro inocente e patológico, fisiologia e quadro das cardiopatias congênitas mais cobradas, teste do coraçãozinho, insuficiência cardíaca do lactente, febre reumática pelos critérios de Jones de 2015, doença de Kawasaki pela AHA, artrite idiopática juvenil e vasculite por IgA."
+ },
+ {
+  "grupo": "Pediatria",
+  "f": "hematologia-e-oncologia-pediatrica.html",
+  "tipo": "MS 2024 · resumo de prova",
+  "area": "pedgeral",
+  "min": 50,
+  "t": "Hematologia e oncologia pediátrica",
+  "s": "Profilaxia de ferro pelo programa do Ministério da Saúde, doença falciforme na infância pelo PCDT de 2024, trombocitopenia imune pela ASH, sinais de alerta de câncer infantil, leucemia linfoide aguda, tumor de Wilms e neuroblastoma, retinoblastoma e tumores do sistema nervoso central."
+ }
+]

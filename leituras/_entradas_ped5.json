@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Pediatria",
+  "f": "itu-e-nefrologia-pediatrica.html",
+  "tipo": "AAP 2017 · resumo de prova",
+  "area": "pedgeral",
+  "min": 56,
+  "t": "ITU e nefrologia pediátrica",
+  "s": "Infecção urinária na criança com coleta, critérios, tratamento e imagem pela AAP (2011 e a nova diretriz de outubro de 2026) e pelo NICE 2022, refluxo vesicoureteral, recidivas da síndrome nefrótica pela IPNA 2022, síndrome nefrítica, hipertensão na criança pela AAP 2017, síndrome hemolítico-urêmica e enurese pela ICCS 2020."
+ },
+ {
+  "grupo": "Pediatria",
+  "f": "endocrino-e-crescimento-pediatrico.html",
+  "tipo": "ISPAD 2022 · resumo de prova",
+  "area": "pedgeral",
+  "min": 53,
+  "t": "Endocrinologia pediátrica",
+  "s": "Baixa estatura patológica e idade óssea, puberdade precoce e atrasada, diabetes tipo 1 e cetoacidose na criança pela ISPAD 2022 e 2024 com o risco de lesão cerebral, hipotireoidismo congênito pelo consenso europeu de 2020 e o teste do pezinho do Ministério da Saúde, e hiperplasia adrenal congênita pela Endocrine Society 2018."
+ },
+ {
+  "grupo": "Pediatria",
+  "f": "neuro-e-maus-tratos-na-infancia.html",
+  "tipo": "ILAE 2022 · resumo de prova",
+  "area": "pedgeral",
+  "min": 52,
+  "t": "Neurologia infantil e maus-tratos",
+  "s": "Crise febril simples e complexa e o que investigar pela AAP, síndromes epilépticas da infância pela classificação da ILAE de 2022, estado de mal na criança, cefaleia com sinais de alarme e tratamento pela AAN 2019, e maus-tratos: sinais físicos, trauma craniano abusivo, violência sexual, notificação e Conselho Tutelar pelo ECA."
+ }
+]

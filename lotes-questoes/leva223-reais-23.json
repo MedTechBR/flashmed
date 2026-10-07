@@ -1,0 +1,1124 @@
+[
+ {
+  "pid": "p25041",
+  "q": "Escolar, cinco anos, apresenta rigidez muscular em seu lado esquerdo, com dificuldade em controlar os movimentos das mãos e pés, dificuldade em andar (pé direito ligeiramente levantado) e algumas dificuldades de fala. Nasceu prematuro, com 32 semanas de gestação, com baixo peso ao nascer. Aos 6 meses, seus pais notaram atrasos no desenvolvimento motor, como dificuldade de sentar-se e rolar. Sobre o tratamento da principal hipótese diagnóstica, é correto afirmar que",
+  "alts": [
+   "a toxina botulínica deve ser considerada mesmo quando os prejuízos funcionais da espasticidade forem pouco significativos.",
+   "a combinação de toxina botulínica com medicamentos antiespasmódicos tem eficácia duvidosa, devendo ser evitada.",
+   "os antiespasmódicos são eficientes, mas o uso contínuo é contraindicado, uma vez que seus efeitos adversos são comuns.",
+   "os bloqueadores periféricos de cálcio causam mais sedação do que outros agentes de ação central, o que impede o uso em crianças.",
+   "radiografias da coluna devem ser realizadas após a rizotomia dorsal seletiva visando monitorar a presença de deformidades."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Espasticidade na paralisia cerebral",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "Novak I et al. Revisão sistemática de intervenções na paralisia cerebral (Curr Neurol Neurosci Rep), 2020; Nelson Textbook of Pediatrics, 22ª ed., 2024",
+  "coment": "Prematuro de 32 semanas com atraso motor desde o lactente e rigidez espástica de um hemicorpo tem paralisia cerebral espástica. A rizotomia dorsal seletiva reduz a espasticidade ao seccionar radículas sensitivas lombossacras, mas a laminectomia e o próprio crescimento favorecem escoliose, espondilólise e espondilolistese no seguimento; por isso a coluna deve ser vigiada com radiografias periódicas após o procedimento. A toxina botulínica se reserva à espasticidade focal com prejuízo funcional ou dor, pode ser combinada a fármacos orais, e o uso contínuo de baclofeno, diazepam ou dantrolene é aceito quando há benefício.",
+  "porAlt": [
+   "A toxina botulínica é indicada quando a espasticidade focal causa prejuízo funcional, dor ou dificuldade de cuidado, não quando o prejuízo é pouco significativo.",
+   "A associação de toxina botulínica com antiespásticos orais é prática habitual e não há motivo para evitá-la.",
+   "Baclofeno, diazepam e dantrolene podem ser usados de forma contínua, com ajuste de dose e vigilância dos efeitos adversos.",
+   "O dantrolene, que age no músculo e não no sistema nervoso central, causa menos sedação que os agentes centrais e pode ser usado em crianças.",
+   "Correta: após a rizotomia dorsal seletiva há risco de escoliose e espondilolistese, e a coluna deve ser acompanhada com radiografias."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 41
+  }
+ },
+ {
+  "pid": "p25042",
+  "q": "Lactente, 18 meses, é levado à consulta devido a arqueamento das pernas, observado pelos pais desde que começou a andar. A criança apresenta crescimento e desenvolvimento adequados para a idade, sem histórico de trauma ou infecções, e sem dor. Ao exame físico, há deformidade bilateral simétrica em membros inferiores. A seguinte orientação deve então ser dada aos responsáveis:",
+  "alts": [
+   "devido a idade atual do lactente, alguns exames têm de ser realizados, sendo mandatória a tomografia dos membros inferiores.",
+   "tal angulação nessa idade já não é mais esperada e, portanto, será necessária a intervenção, por um curto período, com o uso de palmilhas.",
+   "a consulta a um ortopedista pediátrico deve ser feita o mais breve possível, pois nessa idade pode haver necessidade de intervenção cirúrgica.",
+   "o lactente deverá ser observado, pois até o terceiro ano é esperada a inversão do alinhamento, com os joelhos se aproximando e os tornozelos se afastando.",
+   "deve ser iniciada imediatamente a correção dos níveis de cálcio e vitamina D já que, nessa idade, a deficiência é muito comum e leva a esse acometimento."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Geno varo fisiológico",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022; Nelson Textbook of Pediatrics, 22ª ed., 2024",
+  "coment": "Geno varo bilateral e simétrico em criança de 18 meses que começou a andar, com crescimento e desenvolvimento normais e sem dor, é a evolução fisiológica do alinhamento dos membros inferiores. O varo é máximo no primeiro ano, os eixos ficam retos por volta dos 18 a 24 meses e evoluem para valgo, com pico entre 3 e 4 anos, até o alinhamento adulto perto dos 7 anos. A conduta é observar e orientar os pais. Investigação (radiografia, cálcio, fósforo, fosfatase alcalina, vitamina D) fica para varo assimétrico, progressivo, persistente após os 2 a 3 anos, baixa estatura ou suspeita de raquitismo e doença de Blount.",
+  "porAlt": [
+   "Tomografia não tem papel na avaliação de geno varo simétrico em criança saudável dessa idade.",
+   "O varo ainda é esperado aos 18 meses, e palmilhas não modificam a evolução do alinhamento.",
+   "Não há indicação de encaminhamento urgente nem de cirurgia no varo fisiológico sem sinais de alarme.",
+   "Correta: o varo fisiológico se inverte para valgo até por volta dos 3 anos, e a conduta é observar.",
+   "Sem sinais clínicos ou laboratoriais de raquitismo, não há motivo para tratar deficiência de cálcio ou vitamina D."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 42
+  }
+ },
+ {
+  "pid": "p25043",
+  "q": "Escolar, seis anos, é trazida ao ambulatório de pediatria com história de coceira intensa na região anal, à noite, causando sono agitado e irritabilidade. Ela não apresenta febre, dor abdominal ou alterações intestinais. Os responsáveis negam vermes visíveis nas fezes, mas relatam que a criança frequentemente leva as mãos à região perianal durante o sono. O irmão, que dorme na mesma cama várias noites na semana, há um dia vem apresentando os mesmos sintomas. Ao exame físico, foram observadas lesões cutâneas locais. Considerando a principal hipótese diagnóstica, o habitat natural típico do agente etiológico causador do desconforto é a região do",
+  "alts": [
+   "sigmoide e do reto.",
+   "jejuno terminal e do íleo.",
+   "ceco e do apêndice cecal.",
+   "duodeno e do jejuno proximal.",
+   "colón transverso e do descendente."
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Enterobíase",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022; Nelson Textbook of Pediatrics, 22ª ed., 2024",
+  "coment": "Prurido anal noturno, sono agitado e acometimento de quem divide a cama apontam para enterobíase (oxiuríase). O Enterobius vermicularis vive no ceco, no apêndice e no cólon ascendente adjacente; a fêmea grávida migra à noite até a região perianal para depositar os ovos, o que explica o prurido noturno, a autoinfestação pelas mãos e o contágio domiciliar. O diagnóstico usa o método da fita adesiva (Graham) pela manhã, já que o exame de fezes comum costuma ser negativo. O tratamento com albendazol ou mebendazol é repetido em duas semanas e estendido aos contactantes.",
+  "porAlt": [
+   "Sigmoide e reto são apenas o trajeto da fêmea até o períneo, não o habitat do verme adulto.",
+   "Jejuno e íleo terminal não são o local de fixação do oxiúro adulto.",
+   "Correta: o Enterobius vermicularis habita o ceco e o apêndice, de onde a fêmea migra para a região perianal.",
+   "Duodeno e jejuno proximal são habitat de outros parasitas, como Giardia e Strongyloides.",
+   "O cólon transverso e o descendente não são o habitat típico do oxiúro."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 43
+  }
+ },
+ {
+  "pid": "p25044",
+  "q": "Lactente, 30 dias, é avaliado por apresentar ruído inspiratório intermitente desde os primeiros dias de vida, mais perceptível durante o choro e as mamadas. O som é mais agudo quando o bebê está agitado, deitado de barriga para cima, melhorando quando é colocado de bruços, estando presente até mesmo em repouso. Não há cianose ou pausas respiratórias, dificuldade alimentar ou disfagia. Considerando a principal hipótese diagnóstica, o diagnóstico poderá ser confirmado por",
+  "alts": [
+   "broncoscopia.",
+   "deglutograma.",
+   "raio X contrastado do trato digestivo alto.",
+   "radiografias das vias aéreas superiores.",
+   "laringoscopia flexível ambulatorial em vigília."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Laringomalácia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Carter J et al. Consenso do International Pediatric Otolaryngology Group sobre laringomalácia (Int J Pediatr Otorhinolaryngol), 2016; Nelson Textbook of Pediatrics, 22ª ed., 2024",
+  "coment": "Estridor inspiratório desde as primeiras semanas, que piora com choro, mamada e decúbito dorsal e melhora em decúbito ventral, sem cianose ou apneia, é o quadro típico de laringomalácia, a causa mais comum de estridor no lactente. A confirmação é feita por laringoscopia flexível transnasal com a criança acordada, que mostra o colapso inspiratório das estruturas supraglóticas (epiglote em ômega, aritenoides redundantes, pregas ariepiglóticas curtas). A forma leve tem evolução benigna com resolução até 12 a 24 meses. Broncoscopia sob anestesia fica para casos graves ou suspeita de lesão sincrônica da via aérea.",
+  "porAlt": [
+   "A broncoscopia exige anestesia e fica reservada a casos graves ou com suspeita de lesão associada; não é o exame confirmatório inicial.",
+   "O deglutograma avalia a deglutição e não mostra a dinâmica da supraglote durante a respiração.",
+   "O estudo contrastado do trato digestivo alto investiga refluxo ou anel vascular, não confirma laringomalácia.",
+   "A radiografia de vias aéreas é estática e não demonstra o colapso supraglótico inspiratório.",
+   "Correta: a laringoscopia flexível com a criança acordada mostra o colapso inspiratório da supraglote e confirma o diagnóstico."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 44
+  }
+ },
+ {
+  "pid": "p25045",
+  "q": "Pré-escolar, quatro anos, é trazida ao ambulatório de pediatria com história de dor abdominal recorrente e episódios de evacuação a cada 5 dias, com fezes volumosas e endurecidas. Os pais relatam que a criança demonstra medo de evacuar, frequentemente se encolhendo ou cruzando as pernas quando sente vontade; ao menos uma vez ao dia é percebido algum resíduo de fezes na roupa íntima. O início ocorreu após o desfralde, e desde então a criança evita ir ao banheiro. Ao exame físico, o abdome está distendido, com massa palpável em quadrante inferior esquerdo. Nesse caso, a conduta imediata é",
+  "alts": [
+   "realizar radiografia de abdome para diagnosticar fecaloma, iniciando após, desimpactação com clister glicerinado durante 5 a 7 dias.",
+   "contatar o cirurgião pediátrico objetivando a remoção manual sob anestesia e, após o procedimento, iniciar lactulose ou polietilenoglicol.",
+   "orientar treino de toalete com suporte adequado para os pés e iniciar lactulose, sem necessidade imediata de desimpactação.",
+   "indicar o acompanhamento com psiquiatra e psicoterapia e fazer desimpactação com óleo mineral em dose mais elevada por 10 a 15 dias.",
+   "colher anamnese alimentar rigorosa, aferindo o consumo de fibras e água, e realizar desimpactação oral com polietilenoglicol por 3 a 5 dias."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Constipação funcional com fecaloma",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ESPGHAN/NASPGHAN. Diretriz de constipação funcional na criança (Tabbers et al., J Pediatr Gastroenterol Nutr), 2014",
+  "coment": "Evacuações a cada 5 dias com fezes volumosas e duras, comportamento de retenção após o desfralde e escape fecal diário preenchem os critérios de Roma IV para constipação funcional. A massa palpável em quadrante inferior esquerdo indica impactação fecal, que precisa ser desfeita antes da manutenção. A diretriz ESPGHAN/NASPGHAN prefere a desimpactação oral com polietilenoglicol em dose alta (1 a 1,5 g/kg/dia por 3 a 6 dias), igualmente eficaz e menos invasiva que enemas, junto com anamnese alimentar, ajuste de fibras e líquidos e treino de toalete. Radiografia não é necessária quando o exame já mostra o fecaloma.",
+  "porAlt": [
+   "A radiografia é dispensável quando o fecaloma é palpável, e clister diário por 5 a 7 dias não é o esquema recomendado.",
+   "A remoção manual sob anestesia fica para falha da desimpactação oral ou retal, não é a primeira medida.",
+   "Com fecaloma palpável e escape fecal, iniciar manutenção sem desimpactar perpetua a retenção.",
+   "Constipação funcional não exige psiquiatria como rotina, e o óleo mineral não é a primeira escolha para desimpactação.",
+   "Correta: a desimpactação oral com polietilenoglicol por 3 a 5 dias, junto da revisão da dieta, é a conduta inicial."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 45
+  }
+ },
+ {
+  "pid": "p25046",
+  "q": "Em consulta de puericultura de um pré-escolar de três anos, a mãe refere que seu filho tem estrabismo. O exame físico está normal, porém o pediatra sugere realizar um teste para dirimir a dúvida. A técnica correta para a realização desse teste exige que a criança",
+  "alts": [
+   "fixe os olhos na fonte de luz.",
+   "acompanhe o deslocamento da luz.",
+   "mova a cabeça lateralmente durante o teste.",
+   "desvie o olhar para um objeto próximo ao rosto.",
+   "mantenha os olhos fechados antes da exposição à luz."
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Teste de Hirschberg",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022; Nelson Textbook of Pediatrics, 22ª ed., 2024",
+  "coment": "Na suspeita de estrabismo com exame inicial normal, o pediatra usa o teste de Hirschberg (reflexo corneano à luz). Uma lanterna é posicionada a cerca de 30 a 40 cm, à frente da criança, que deve fixar o olhar na fonte luminosa; observa-se então o reflexo nas duas córneas. Reflexos simétricos e centrados indicam alinhamento; desvio do reflexo em um olho sugere estrabismo (reflexo lateral na esotropia, medial na exotropia). O teste de cobertura complementa a avaliação. Movimentar a luz, a cabeça ou fechar os olhos invalida a comparação dos reflexos.",
+  "porAlt": [
+   "Correta: a criança deve fixar o olhar na luz para que os reflexos corneanos possam ser comparados.",
+   "Acompanhar a luz em movimento avalia motilidade ocular, não a simetria do reflexo corneano.",
+   "A cabeça deve ficar parada e alinhada; movimentá-la desloca os reflexos e invalida o teste.",
+   "Desviar o olhar para outro objeto tira a fixação da fonte de luz e impede a leitura do reflexo.",
+   "Os olhos precisam estar abertos e fixando a luz; fechá-los antes não faz parte da técnica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 46
+  }
+ },
+ {
+  "pid": "p25047",
+  "q": "Adolescente, 11 anos, apresenta atraso no desenvolvimento neuropsicomotor e dificuldade alimentar progressiva, sendo a ingestão insuficiente para manter crescimento adequado. Há perda de peso nas últimas semanas. O adolescente permanece longos períodos com o alimento na boca, apresenta engasgos frequentes com saliva e alimentos, e a alimentação oral ultrapassa três horas por dia. Nesse caso, a alimentação desse adolescente deve ser feita por meio de",
+  "alts": [
+   "sonda enteral, pois ela é segura e pode ser usada por longos períodos.",
+   "alimentação por via oral, intensificando a estimulação fonoaudiológica.",
+   "gastrostomia cirúrgica, já que a alteração de base é a disfagia orofaríngea.",
+   "gastrostomia endoscópica para reduzir o tempo gasto com a alimentação.",
+   "sonda gástrica, pois é facilmente removível e estimula o esvaziamento gástrico."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Gastrostomia no neuropata",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ESPGHAN. Diretriz de manejo gastrointestinal e nutricional da criança com comprometimento neurológico (Romano et al., J Pediatr Gastroenterol Nutr), 2017",
+  "coment": "Criança com comprometimento neurológico, disfagia orofaríngea com engasgos, perda de peso e refeições que somam mais de 3 horas por dia tem indicação de via alternativa de alimentação. A diretriz ESPGHAN 2017 aponta tempo de alimentação acima de 3 horas por dia, desnutrição e risco de aspiração como critérios para gastrostomia, e prefere a técnica endoscópica percutânea (PEG) quando não há contraindicação anatômica. A sonda nasogástrica serve apenas por curto prazo (até 4 a 6 semanas). A gastrostomia devolve tempo à família, melhora o estado nutricional e reduz o risco de aspiração da alimentação oral.",
+  "porAlt": [
+   "Sonda nasoenteral é solução de curto prazo; para uso prolongado a gastrostomia é preferida.",
+   "Manter a via oral com engasgos, perda de peso e mais de 3 horas por dia de refeição perpetua desnutrição e aspiração.",
+   "A disfagia orofaríngea indica gastrostomia, mas a técnica preferida é a endoscópica, reservando a cirúrgica para quando ela não é possível.",
+   "Correta: gastrostomia endoscópica percutânea é a via indicada para alimentação prolongada e reduz o tempo de alimentação.",
+   "Sonda gástrica não é adequada a longo prazo e não tem papel de estimular esvaziamento gástrico."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 47
+  }
+ },
+ {
+  "pid": "p25048",
+  "q": "Escolar, masculino, cinco anos, previamente saudável, apresenta início súbito de dor intensa em região inguinal direita, com irradiação para coxa e joelho, dois dias após quadro de infecção respiratória alta. A dor piora com movimentos e o paciente se recusa a deambular. Não há febre, e os exames laboratoriais mostram leucograma e velocidade de hemossedimentação (VHS) normais. Ultrassonografia evidencia aumento do espaço articular do quadril direito por provável derrame articular. Considerando a principal hipótese diagnóstica, a conduta imediata é o uso de",
+  "alts": [
+   "corticosteroide.",
+   "imunossupressor.",
+   "antibiótico por via endovenosa.",
+   "anti-inflamatório não esteroide.",
+   "antibiótico por via intramuscular."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Sinovite transitória do quadril",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022; Nelson Textbook of Pediatrics, 22ª ed., 2024",
+  "coment": "Dor súbita no quadril com irradiação para coxa e joelho, claudicação e recusa a andar dias após infecção viral, sem febre, com leucograma e VHS normais e derrame articular ao ultrassom, configura sinovite transitória, a causa mais comum de dor no quadril entre 3 e 10 anos. Os critérios de Kocher (febre acima de 38,5 °C, recusa de carga, VHS acima de 40 mm/h e leucócitos acima de 12.000) ajudam a separar da artrite séptica; aqui a probabilidade é baixa. O tratamento é repouso relativo e anti-inflamatório não esteroide, com reavaliação em 24 a 48 horas.",
+  "porAlt": [
+   "Corticoide não tem indicação na sinovite transitória, que melhora com AINE e repouso.",
+   "Imunossupressores são usados em artrites crônicas, não em sinovite autolimitada.",
+   "Antibiótico endovenoso é tratamento da artrite séptica, pouco provável sem febre e com VHS e leucograma normais.",
+   "Correta: AINE e repouso relativo tratam a sinovite transitória, com reavaliação próxima.",
+   "Antibiótico intramuscular não tem papel nem na sinovite transitória nem na artrite séptica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 48
+  }
+ },
+ {
+  "pid": "p25050",
+  "q": "Adolescente, previamente saudável, é levado à emergência com dor abdominal em região epigástrica, associada a náuseas e vômitos há dois dias. Ao exame, apresenta dor à palpação epigástrica, sem sinais de irritação peritoneal. Exames laboratoriais revelam níveis de amilase e lipase séricas acima de três vezes o limite superior da normalidade. Ultrassonografia abdominal mostra aumento do volume pancreático e alteração da ecogenicidade. Não há disfunção de órgãos ou complicações locais. Considerando a principal hipótese diagnóstica, a conduta em relação à alimentação é",
+  "alts": [
+   "manter jejum por no mínimo 5 dias para evitar sobrecarga pancreática.",
+   "introduzir nutrição parenteral precoce para prevenir desnutrição e complicações.",
+   "retornar à alimentação oral após a diminuição importante da dor, evitando o íleo adinâmico.",
+   "adiar a alimentação enteral até a completa normalização da lipase, diminuindo a gastroparesia.",
+   "iniciar nutrição oral após 48 horas do início da doença para diminuir o risco de disfunção orgânica."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Nutrição na pancreatite aguda leve",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "NASPGHAN. Diretriz de manejo da pancreatite aguda na criança (Abu-El-Haija et al., J Pediatr Gastroenterol Nutr), 2018",
+  "coment": "Dor epigástrica, amilase e lipase acima de três vezes o limite superior e ultrassom alterado confirmam pancreatite aguda; sem disfunção orgânica nem complicação local, é leve. A diretriz da NASPGHAN de 2018 recomenda nutrição enteral precoce, preferencialmente oral, dentro das primeiras 48 a 72 horas, sem esperar o fim da dor nem a normalização das enzimas. A alimentação precoce preserva a barreira intestinal, reduz translocação bacteriana, falência orgânica e tempo de internação. Jejum prolongado e parenteral precoce não trazem benefício e aumentam complicações.",
+  "porAlt": [
+   "Jejum de 5 dias não protege o pâncreas e associa-se a mais complicações e internação mais longa.",
+   "Nutrição parenteral precoce não é indicada na pancreatite leve e eleva o risco de infecção.",
+   "Aguardar a melhora importante da dor atrasa a alimentação, contrariando a recomendação de nutrição precoce.",
+   "A normalização da lipase não é critério para iniciar a dieta.",
+   "Correta: a alimentação oral precoce, já nas primeiras 48 a 72 horas, reduz o risco de disfunção orgânica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 50
+  }
+ },
+ {
+  "pid": "p25051",
+  "q": "Escolar, sete anos, é trazido para consulta de puericultura e seu responsável apresenta um exame de impedanciometria convencional (de baixa frequência) que foi solicitado por otorrinolaringologista devido ao fato de a criança apresentar roncos noturnos e respiração predominantemente pela boca. O resultado esperado, nesse contexto clínico, é uma curva do tipo",
+  "alts": [
+   "A, sem relação entre o sintoma e o exame solicitado.",
+   "B, tendo valor preditivo para efusão de orelha média.",
+   "A, indicando haver pressão negativa na orelha média.",
+   "C, mas esse exame tem baixa sensibilidade nessa idade.",
+   "B, demonstrando que a pressão é igual entre as orelhas."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Timpanometria e otite com efusão",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "AAO-HNS/AAP. Diretriz de otite média com efusão (Rosenfeld et al., Otolaryngol Head Neck Surg), 2016",
+  "coment": "Roncos e respiração oral em escolar sugerem hipertrofia adenoideana, que obstrui a tuba auditiva e favorece otite média com efusão. A timpanometria de baixa frequência (226 Hz) esperada é a curva tipo B, plana, sem pico de complacência, que indica orelha média preenchida por líquido e tem bom valor preditivo para efusão. A curva A é normal, a C mostra pressão negativa na orelha média (disfunção tubária sem efusão) e a curva B com volume alto sugere perfuração ou tubo de ventilação. A diretriz de 2016 recomenda timpanometria para confirmar a efusão.",
+  "porAlt": [
+   "Há relação direta: a hipertrofia adenoideana favorece efusão, e a curva A seria normal.",
+   "Correta: a curva B, plana, tem bom valor preditivo para efusão na orelha média.",
+   "Pressão negativa na orelha média corresponde à curva C, não à A.",
+   "A curva C indica pressão negativa sem efusão, e a timpanometria é útil nessa idade.",
+   "A curva B não compara pressões entre as orelhas; ela reflete ausência de mobilidade timpânica por líquido."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 51
+  }
+ },
+ {
+  "pid": "p25052",
+  "q": "Escolar, cinco anos, é levado à emergência com história de diarreia há dois dias, cinco episódios nas últimas 24 horas, sendo os dois mais recentes com sangue e muco. Hoje ele apresenta febre alta, dor abdominal e dor ao evacuar. Ao exame, hidratado, com queda do estado geral, olhos normais e turgor preservado. Nega doenças anteriores. Segundo o Ministério da Saúde do Brasil, o antimicrobiano de escolha a ser usado é",
+  "alts": [
+   "a azitromicina.",
+   "a nitazoxanida.",
+   "o ciprofloxacino.",
+   "a penicilina benzatina.",
+   "amoxicilina + clavulanato."
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Disenteria na criança",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manejo do paciente com diarreia, atualização de 2023",
+  "coment": "Diarreia com sangue e muco, febre alta, dor abdominal e tenesmo em criança hidratada caracterizam disenteria, em geral por Shigella. A atualização de 2023 do material do Ministério da Saúde, alinhada à SBP e à SBI, passou a indicar azitromicina para crianças até 30 kg (cerca de 10 anos): 10 mg/kg no primeiro dia e 5 mg/kg/dia por mais 4 dias. O ciprofloxacino ficou para maiores de 30 kg, adolescentes e adultos (500 mg de 12/12 horas por 3 dias). A criança está hidratada, então segue o plano A com reavaliação em 48 horas.",
+  "porAlt": [
+   "Correta: azitromicina é a escolha do Ministério da Saúde desde 2023 para disenteria em crianças até 30 kg.",
+   "Nitazoxanida não é o antimicrobiano indicado para disenteria bacteriana.",
+   "Ciprofloxacino deixou de ser a escolha inicial em menores de 10 anos ou 30 kg e ficou para maiores, adolescentes e adultos.",
+   "Penicilina benzatina não tem atividade útil contra Shigella e não trata diarreia.",
+   "Amoxicilina com clavulanato não é recomendada para disenteria pela resistência frequente da Shigella."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 52
+  }
+ },
+ {
+  "pid": "p25053",
+  "q": "Adolescente, 13 anos, praticante regular de esportes, é trazido à consulta por apresentar dor anterior no joelho direito há algumas semanas, sem história de trauma agudo. Refere piora da dor durante atividades físicas e, mais recentemente, mesmo em repouso. Ao exame, há sensibilidade e aumento da proeminência no tubérculo tibial, sem derrame articular. A conduta imediata é",
+  "alts": [
+   "uso de ondas de choque.",
+   "intervenção cirúrgica.",
+   "aplicação local de gelo.",
+   "imobilização com gesso.",
+   "infiltração com corticoide."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Doença de Osgood-Schlatter",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Nelson Textbook of Pediatrics, 22ª ed., 2024; Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Adolescente esportista com dor anterior no joelho, sem trauma, que piora com atividade e tem sensibilidade e proeminência da tuberosidade tibial, tem doença de Osgood-Schlatter, apofisite por tração do tendão patelar no estirão. O tratamento é conservador: gelo local após a atividade, analgésico ou AINE se preciso, redução da carga de treino conforme a dor, alongamento de quadríceps e isquiotibiais. A evolução é autolimitada até o fechamento da fise. Imobilização, infiltração e cirurgia não fazem parte da conduta inicial; a cirurgia fica para ossículo doloroso persistente após a maturidade esquelética.",
+  "porAlt": [
+   "Ondas de choque não são conduta inicial em apofisite de adolescente.",
+   "Cirurgia só é cogitada para ossículo doloroso persistente após o fim do crescimento.",
+   "Correta: gelo local, ajuste da atividade e analgesia formam a conduta inicial.",
+   "Imobilização gessada não é necessária e leva a atrofia e rigidez.",
+   "Infiltração de corticoide na tuberosidade tibial não é indicada e traz risco ao tendão."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 53
+  }
+ },
+ {
+  "pid": "p25054",
+  "q": "Adolescente, 10 anos, é trazido à consulta por apresentar \"caroço\" na pálpebra superior direita há cerca de duas semanas. A lesão não é dolorosa, mas permanece do mesmo tamanho sem causar desconforto. Já ocorreram anteriormente episódios semelhantes com resolução espontânea. Ao exame, observa-se nódulo firme, indolor, não eritematoso, localizado na margem tarsal da pálpebra superior direita, sem sinais inflamatórios. Considerando a principal hipótese diagnóstica, o tratamento é",
+  "alts": [
+   "eritromicina ou azitromicina por via oral.",
+   "prescrição de colírio com anti-histamínico.",
+   "drenagem cirúrgica caso apresente distorção da visão.",
+   "aplicação de pomada de corticosteroides sobre a lesão.",
+   "uso de compressas quentes o máximo de tempo possível."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Calázio",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Nelson Textbook of Pediatrics, 22ª ed., 2024; Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Nódulo firme, indolor, não eritematoso na margem tarsal da pálpebra, persistente por semanas e recorrente, é calázio, granuloma lipogranulomatoso por obstrução da glândula de Meibômio. O tratamento inicial é conservador, com compressas mornas e higiene palpebral várias vezes ao dia, e muitos regridem. A drenagem cirúrgica (incisão e curetagem) é indicada quando a lesão persiste apesar do tratamento clínico, causa astigmatismo ou distorção visual, ou incomoda esteticamente. Antibiótico oral, anti-histamínico e corticoide tópico não tratam calázio. Compressas são úteis, mas em sessões curtas e repetidas, não pelo maior tempo possível.",
+  "porAlt": [
+   "Antibiótico oral serve para blefarite posterior ou rosácea ocular, não para calázio isolado.",
+   "Anti-histamínico trata conjuntivite alérgica e não age sobre a glândula obstruída.",
+   "Correta: a drenagem cirúrgica é indicada quando o calázio distorce a visão ou persiste.",
+   "Pomada de corticoide sobre a pálpebra não resolve o granuloma e traz risco de efeitos adversos oculares.",
+   "Compressas mornas ajudam, mas em sessões de 10 a 15 minutos várias vezes ao dia; mantê-las o máximo possível não é a recomendação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 54
+  }
+ },
+ {
+  "pid": "p25055",
+  "q": "Recém-nascida do sexo feminino, nascida a termo, parto vaginal, peso ao nascimento de 3.350 g, sem intercorrências durante a gestação ou parto. Apgar 8/9. No exame físico de rotina realizado nas primeiras 24 horas de vida, o pediatra observa assimetria de pregas cutâneas nos membros inferiores, encurtamento aparente de membro inferior esquerdo e limitação à abdução da coxa esquerda. Realiza a manobra de Ortolani e sente um ‘clunk’ positivo no quadril esquerdo. O quadril direito não apresenta alterações ao exame físico. A conduta mais indicada nesse caso é",
+  "alts": [
+   "observar e reavaliar em 1 mês, pois os sinais clínicos são comuns e autolimitados nos primeiros dias de vida.",
+   "agendar avaliação com ortopedista para 4 meses de idade, quando será possível confirmar o diagnóstico.",
+   "iniciar uso de órtese nas primeiras duas semanas a fim de assegurar sucesso terapêutico.",
+   "solicitar radiografia de bacia em AP.",
+   "considerar displasia apenas com sinais bilaterais."
+  ],
+  "gab": 2,
+  "tema": "neonato",
+  "sub": "Displasia do desenvolvimento do quadril",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "AAP. Avaliação e encaminhamento da displasia do desenvolvimento do quadril no lactente (Shaw e Segal, Pediatrics), 2016; Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Recém-nascida com Ortolani positivo à esquerda, assimetria de pregas, encurtamento aparente e limitação da abdução tem quadril luxado e redutível, a forma clínica da displasia do desenvolvimento do quadril. O sexo feminino reforça o risco. Ortolani positivo é indicação de tratamento precoce com órtese de abdução e flexão (suspensório de Pavlik), iniciada nas primeiras semanas de vida com ortopedista, período em que a taxa de sucesso é alta. A radiografia não é útil antes dos 4 a 6 meses porque a cabeça femoral ainda é cartilaginosa; o ultrassom é o exame de imagem dessa fase. Displasia unilateral é comum.",
+  "porAlt": [
+   "Ortolani positivo não é achado autolimitado a ser apenas observado; exige tratamento precoce.",
+   "Esperar até 4 meses perde a janela em que a órtese tem maior sucesso.",
+   "Correta: o suspensório de Pavlik nas primeiras semanas de vida garante melhor resultado.",
+   "Radiografia de bacia não é útil no recém-nascido, pois a cabeça femoral ainda não está ossificada.",
+   "A displasia unilateral, sobretudo à esquerda, é frequente e não exige sinais bilaterais."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 55
+  }
+ },
+ {
+  "pid": "p25056",
+  "q": "Menino de 6 anos, previamente hígido, é trazido ao pronto atendimento com lesões cutâneas pruriginosas no abdome, coxas e membros superiores há 5 dias. As lesões iniciaram como pápulas eritematosas que evoluíram para vesículas agrupadas com base eritematosa, com posterior formação de crostas melicéricas. Não há febre ou outros sintomas sistêmicos. A mãe relata que a criança frequenta escola e recentemente teve contato com um primo que apresentou lesões semelhantes. Ao exame físico, observam-se múltiplas lesões crostosas com áreas de exsudação na região periumbilical e membros superiores, além de algumas vesículas íntegras e pústulas em estágio inicial. Não há sinais de sistêmicos. Não se notam linfadenomegalia, lesões orais ou mucosas. O diagnóstico mais provável e a conduta inicial recomendada são",
+  "alts": [
+   "Varicela e iniciar aciclovir oral e isolamento domiciliar por até 7 dias.",
+   "Escabiose com sobreinfecção bacteriana e prescrever ivermectina oral e antibiótico tópico.",
+   "Dermatite atópica com liquenificação e orientar cuidados com emolientes e iniciar corticosteroide tópico.",
+   "Eczema herpético e encaminhar para hospitalização e iniciar aciclovir intravenoso.",
+   "Impetigo e iniciar antibioticoterapia oral e reforçar medidas de higiene."
+  ],
+  "gab": 4,
+  "tema": "pedinfecto",
+  "sub": "Impetigo não bolhoso extenso",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "IDSA. Diretriz de infecções de pele e partes moles (Stevens et al.), 2014",
+  "coment": "Vesículas e pústulas que evoluem para crostas melicéricas, em criança escolar com contato próximo afetado e sem sinais sistêmicos, são impetigo não bolhoso, causado por Staphylococcus aureus e Streptococcus pyogenes. Lesões em poucas áreas podem ser tratadas com mupirocina tópica; quando há muitas lesões em várias regiões, como no abdome, nas coxas e nos membros superiores, ou surtos, a diretriz da IDSA indica antibiótico oral com cobertura para estafilococo (cefalexina ou amoxicilina com clavulanato) por 7 dias. Higiene, unhas curtas e afastamento escolar até 24 horas de antibiótico reduzem a transmissão.",
+  "porAlt": [
+   "Varicela tem vesículas em diferentes estágios com febre e acometimento de mucosa, não crostas melicéricas.",
+   "Escabiose acomete dobras e interdígitos com prurido noturno; crostas melicéricas dominantes apontam para impetigo primário.",
+   "Dermatite atópica cursa com eczema crônico e liquenificação, sem crostas melicéricas agudas.",
+   "Eczema herpético surge sobre dermatite atópica, com vesículas umbilicadas e sinais sistêmicos, que não estão presentes.",
+   "Correta: impetigo extenso é tratado com antibiótico oral antiestafilocócico e medidas de higiene."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 56
+  }
+ },
+ {
+  "pid": "p25057",
+  "q": "Lactente do sexo masculino, 6 meses de idade, sem história de internações prévias, é trazido à consulta por apresentar diarreia crônica com fezes volumosas, amareladas, fétidas e oleosas desde os 3 meses de vida. A mãe relata que o bebê tem dificuldade para ganhar peso, apesar de se alimentar bem. Exame físico: paciente ativo, com peso e estatura abaixo do percentil 3 para a idade, presença de baqueteamento digital e leve distensão abdominal. Não há alterações respiratórias evidentes no momento da consulta. Foi realizado teste do pezinho ampliado, com suspeita de alteração metabólica, ainda sem confirmação diagnóstica. O próximo passo mais apropriado na investigação diagnóstica é",
+  "alts": [
+   "solicitar coprocultura e iniciar antibioticoterapia empírica.",
+   "iniciar dieta isenta de lactose e solicitar teste de hidrogênio expirado.",
+   "solicitar dosagem de tripsina imunorreativa e teste do suor.",
+   "realizar teste genético para intolerância à frutose e orientar dieta restritiva.",
+   "prescrever enzimas pancreáticas e avaliar resposta clínica antes de investigação adicional."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Suspeita de fibrose cística",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Farrell PM et al. Diretriz de diagnóstico da fibrose cística da Cystic Fibrosis Foundation (J Pediatr), 2017; Athanazio RA et al. Diretrizes brasileiras de diagnóstico e tratamento da fibrose cística (J Bras Pneumol), 2017",
+  "coment": "Esteatorreia desde os 3 meses (fezes volumosas, fétidas, oleosas), baixo ganho ponderal apesar de boa ingesta e baqueteamento digital, com triagem neonatal alterada, sugerem fibrose cística com insuficiência pancreática. O exame confirmatório é o teste do suor: cloreto igual ou acima de 60 mmol/L confirma; entre 30 e 59 é intermediário e pede análise genética do CFTR. A tripsina imunorreativa é o marcador da triagem neonatal e só tem valor nas primeiras semanas de vida; aos 6 meses o passo decisivo é o teste do suor. Enzimas pancreáticas vêm depois da confirmação.",
+  "porAlt": [
+   "Esteatorreia crônica com baqueteamento não é diarreia infecciosa, e antibiótico empírico não esclarece o diagnóstico.",
+   "Intolerância à lactose não explica esteatorreia, baqueteamento e déficit grave de crescimento.",
+   "Correta: o teste do suor é o exame confirmatório da fibrose cística, e a tripsina imunorreativa integra a triagem.",
+   "Intolerância hereditária à frutose surge com a introdução de frutas e açúcar, com hipoglicemia e hepatopatia, não com esteatorreia aos 3 meses.",
+   "Prova terapêutica com enzimas antes da confirmação atrasa o diagnóstico e o tratamento completo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 57
+  }
+ },
+ {
+  "pid": "p25058",
+  "q": "Lactente do sexo masculino, 7 meses de idade, previamente hígido, é trazido à emergência com história de início súbito de episódios de choro intenso, acompanhado de flexão das pernas contra o abdome, intercalados com períodos de aparente bem‑estar. Nas últimas 6 horas evoluiu com vômitos biliosos e eliminação de fezes com muco-sanguinolentas. Ao exame físico: irritado, pálido, frequência cardíaca 168 bpm, pressão arterial 90/55 mmHg, temperatura 37,4 C. Abdome discretamente distendido; à palpação, nota‑se massa alongada e firme no hipocôndrio direito. Sem sinais de peritonite. De imediato, você solicita dois acessos venosos para iniciar a reposição volêmica. Considerando a principal hipótese diagnóstica, o seguinte exame deve ser solicitado como próximo passo para confirmar o diagnóstico:",
+  "alts": [
+   "radiografia abdominal em decúbito dorsal e ortostase.",
+   "ultrassonografia abdominal com Doppler colorido.",
+   "radiografia do tórax em PA e perfil direito.",
+   "tomografia computadorizada de abdome com contraste intravenoso.",
+   "cintilografia com tecnécio‑99m (pesquisa de mucosa ectópica)."
+  ],
+  "gab": 1,
+  "tema": "especialidades",
+  "sub": "Invaginação intestinal",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Nelson Textbook of Pediatrics, 22ª ed., 2024; Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Lactente de 7 meses com cólica intermitente, flexão das pernas sobre o abdome, períodos de acalmia, vômitos e fezes em geleia de framboesa, com massa alongada em hipocôndrio direito, tem invaginação intestinal, quase sempre ileocólica. A ultrassonografia é o exame de escolha, com sensibilidade e especificidade próximas de 100%: mostra o sinal do alvo no corte transversal e do pseudorrim no longitudinal; o Doppler avalia a perfusão da alça. Sem peritonite ou perfuração, segue-se a redução hidrostática ou pneumática guiada por imagem, após reposição volêmica. A radiografia pode mostrar obstrução ou pneumoperitônio, mas não confirma.",
+  "porAlt": [
+   "A radiografia simples pode sugerir obstrução ou perfuração, mas tem baixa sensibilidade para confirmar invaginação.",
+   "Correta: a ultrassonografia mostra o sinal do alvo e do pseudorrim e é o exame de escolha.",
+   "Radiografia de tórax não contribui para o diagnóstico de invaginação.",
+   "Tomografia expõe à radiação e não é necessária quando o ultrassom está disponível.",
+   "Cintilografia com tecnécio procura mucosa gástrica ectópica (divertículo de Meckel) em sangramento indolor."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 58
+  }
+ },
+ {
+  "pid": "p25059",
+  "q": "Paciente de 9 anos, cursando o 3º ano do ensino fundamental, é trazido pela mãe por apresentar, há cerca de 2 anos, comportamento cada vez mais desafiador e conflituoso em casa e na escola. Relatos incluem discussões frequentes com adultos, recusa em obedecer regras, irritabilidade, e tendência a culpar os outros por seus próprios erros. Na escola, o paciente costuma contestar professores e provocar colegas, sem, contudo, envolver‑se em agressões físicas graves ou destruição de propriedade. Os episódios são diários e prejudicam muito a dinâmica familiar e a acadêmica. Não há evidência de crises de raiva explosiva acompanhadas de agressão física nem de sintomas persistentes de humor deprimido ou eufórico. Questionado sobre o relacionamento com os irmãos, a mãe refere discussões verbais, mas sem agressão física. Não há histórico de uso de substâncias, maltrato ou doença crônica. Ao exame não se notam anormalidades físicas, neurológicas ou cognitivas. Os marcos neuropsicomotores do menino estão dentro dos limites de normalidade. Com base nesses achados, dos diagnósticos a seguir, o mais provável é",
+  "alts": [
+   "Transtorno de Conduta.",
+   "Transtorno de Déficit de Atenção/Hiperatividade (TDAH) – subtipo combinado.",
+   "Transtorno Opositor Desafiante (TOD).",
+   "Transtorno Disruptivo da Desregulação do Humor.",
+   "Transtorno do Espectro Autista (TEA) – nível 1."
+  ],
+  "gab": 2,
+  "tema": "psiqinf",
+  "sub": "Transtorno opositor desafiante",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "Padrão de pelo menos 6 meses de humor raivoso e irritável, comportamento questionador e desafiador (discute com adultos, recusa regras, provoca, culpa os outros), com prejuízo familiar e escolar e sem agressão física grave ou destruição de propriedade, preenche os critérios do DSM-5-TR para transtorno opositor desafiante. O transtorno de conduta exige violação de direitos alheios ou de normas importantes (agressão, destruição, furto). O transtorno disruptivo da desregulação do humor pede explosões graves e humor irritável persistente entre elas, o que foi afastado. Sem desatenção, hiperatividade ou déficit social, TDAH e TEA ficam menos prováveis.",
+  "porAlt": [
+   "Transtorno de conduta requer agressão a pessoas ou animais, destruição, furto ou violação grave de regras, ausentes aqui.",
+   "O quadro não descreve desatenção, hiperatividade ou impulsividade em vários ambientes, necessárias ao TDAH.",
+   "Correta: irritabilidade, desafio e oposição a figuras de autoridade sem agressão grave definem o transtorno opositor desafiante.",
+   "A desregulação do humor exige explosões de raiva graves e frequentes, que o caso afasta.",
+   "Não há déficit de comunicação social nem padrões restritos e repetitivos que sustentem TEA."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 59
+  }
+ },
+ {
+  "pid": "p25060",
+  "q": "Paciente do sexo masculino, 10 anos, portador de leucemia linfoblástica aguda em indução (dia 14 de quimioterapia), com neutropenia absoluta (< 500 cél/mm³) com cateter venoso central tipo Port‑a‑Cath. É atendido na emergência com febre de 39,2 C, prostração progressiva e extremidades frias há 3 horas. Na triagem apresenta: PA 78/45 mmHg (percentil < 5 para a idade), FC 152 bpm, FR 32 ipm, SatO₂ 93 % em ar ambiente, tempo de enchimento capilar 5 s, pulsos periféricos filiformes. Diurese das últimas 6 h: 0,3 mL/kg/h. Ausculta cardíaca e pulmonar sem alterações. Abdome sem visceromegalias. Pele sem exantemas visíveis. Exames iniciais: lactato sérico 4,2 mmol/L, leucócitos totais 1.500 cél/mm³ com 4 % neutrófilos, hematócrito 28 %, plaquetas 48.000/mm³, PCR 10 mg/dL. Glicemia 84 mg/dL. Cateter aparentemente pérvio, sem sinais flogísticos cutâneos. Equipe de enfermagem já obteve acesso venoso periférico calibre 20 G bilateralmente. Diante do quadro descrito, das seguintes condutas, assinale a que representa o manejo inicial mais adequado ainda na primeira hora de atendimento (terapia de “hora de ouro”).",
+  "alts": [
+   "Administrar rapidamente bolus de 20 mL/kg de cristaloide isotônico aquecido, coletar hemoculturas preferencialmente de todos os lúmens do cateter e periferia, iniciar antibióticos de amplo espectro com cobertura antipseudomonas + glicopeptídeo e, se a hipotensão persistir após 40 mL/kg, começar norepinefrina em infusão contínua por acesso periférico sob monitorização rigorosa.",
+   "Iniciar anfotericina B lipossomal devido ao alto risco de infecção fúngica em neutropênicos e observar a perfusão tecidual antes de administrar fluidos, para evitar sobrecarga hídrica",
+   "Iniciar dopamina a 10 µg/kg/min imediatamente, evitando infusão de fluidos para não precipitar edema pulmonar, comum em pacientes imunossuprimidos.",
+   "Administrar dipirona para controle da febre e aguardar resultados de culturas antes de iniciar antibioticoterapia, para reduzir o risco de resistência bacteriana",
+   "Solicitar transfusão de plaquetas profilática antes de qualquer intervenção, haja vista que a contagem está < 50.000/mm³, postergando a ressuscitação volêmica até estabilizar a hemostasia."
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Choque séptico na neutropenia febril",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "Weiss SL et al. Surviving Sepsis Campaign, diretrizes para choque séptico em crianças (Pediatr Crit Care Med), 2020; Lehrnbecher T et al. Diretriz de febre e neutropenia em pediatria (J Clin Oncol), 2023",
+  "coment": "Criança neutropênica em quimioterapia com febre, hipotensão, enchimento capilar de 5 s, oligúria e lactato 4,2 está em choque séptico. Na primeira hora o Surviving Sepsis pediátrico recomenda bolus de 10 a 20 mL/kg de cristaloide com reavaliação, até 40 a 60 mL/kg se não houver sobrecarga, hemoculturas periféricas e de cada lúmen do cateter sem atrasar o antibiótico, e antibiótico de amplo espectro com cobertura antipseudomonas. Com instabilidade hemodinâmica a diretriz de neutropenia febril acrescenta glicopeptídeo. Choque refratário a volume pede adrenalina ou noradrenalina, que podem correr em veia periférica até haver acesso central.",
+  "porAlt": [
+   "Correta: volume em bolus, culturas do cateter e periféricas, antibiótico antipseudomonas com glicopeptídeo e noradrenalina periférica se persistir hipotensão.",
+   "Antifúngico empírico não é a prioridade da primeira hora, e adiar o volume no choque aumenta a mortalidade.",
+   "Dopamina não é mais o vasopressor de escolha, e iniciar droga vasoativa sem volume é inadequado.",
+   "Esperar culturas para iniciar antibiótico em neutropênico em choque eleva muito a mortalidade.",
+   "Plaquetas acima de 10.000 a 20.000 sem sangramento não exigem transfusão antes da ressuscitação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 60
+  }
+ },
+ {
+  "pid": "p25063",
+  "q": "Paciente feminino, 4 anos e 3 meses, encaminhada ao ambulatório de gastroenterologia pediátrica por atraso de crescimento e episódios de diarreia intermitente há 8 meses. Pais referem distensão abdominal progressiva, irritabilidade e perda ponderal de 1,2 kg no período. No histórico alimentar, a criança consome pão, massas e farináceos diariamente. Gestação sem intercorrências; aleitamento materno exclusivo até 5 meses; alimentação complementar introduzida aos 7 meses. Antecedentes familiares: mãe com tireoidite de Hashimoto, primo materno com doença celíaca. Exame físico: peso 13,1 kg (< p5), estatura 94 cm (< p5), IMC 14,8 kg/m²; abdome globoso, sem visceromegalias; mucosas hipocrômicas; unhas quebradiças. Sem edemas. Desenvolvimento neuropsicomotor preservado para idade. O laboratório revela: Hemograma: Hb 9,2 g/dL, VCM 70 fL, RDW 17 %; ferritina 9 ng/mL (VR > 15 ng/mL); albumina 4,1 g/dL; PCR < 0,5 mg/dL; IgA sérica total 110 mg/dL (VR 20-150 mg/dL); coprocultura e exame parasitológico negativos. Considerando o quadro clínico e a suspeita de doença celíaca, o próximo passo diagnóstico mais adequado é",
+  "alts": [
+   "solicitar anticorpo anti‑transglutaminase IgA tecidual (anti‑tTG) concomitantemente à dosagem de IgA total, mantendo a dieta com glúten até conclusão da investigação.",
+   "iniciar dieta isenta de glúten imediatamente e reavaliar clinicamente em 8 semanas para confirmação diagnóstica.",
+   "indicar colonoscopia com biópsias múltiplas do cólon e íleo terminal para avaliar processo inflamatório.",
+   "realizar endoscopia digestiva alta com biópsias duodenais com o paciente em dieta isenta de glúten.",
+   "solicitar tipagem HLA‑DQ2/DQ8 e, se positiva, instituir dieta isenta de glúten sem necessidade de exames adicionais."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Doença celíaca: investigação inicial",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ESPGHAN. Diretriz de diagnóstico da doença celíaca (Husby et al., J Pediatr Gastroenterol Nutr), 2020",
+  "coment": "Diarreia intermitente, distensão, perda de peso, baixa estatura e anemia ferropriva refratária, com parente de primeiro grau ou autoimunidade na família, justificam investigar doença celíaca. A ESPGHAN 2020 recomenda como primeiro passo o anticorpo antitransglutaminase IgA junto com a IgA sérica total, sempre com a criança ingerindo glúten, porque a dieta sem glúten negativa sorologia e histologia. Com IgA normal e antitransglutaminase acima de 10 vezes o limite, confirmada por antiendomísio em segunda amostra, o diagnóstico pode dispensar biópsia; nos demais casos faz-se endoscopia com biópsias duodenais, ainda em dieta com glúten.",
+  "porAlt": [
+   "Correta: antitransglutaminase IgA com IgA total, mantendo o glúten, é o primeiro passo diagnóstico.",
+   "Retirar o glúten antes do diagnóstico compromete sorologia e biópsia e não confirma a doença.",
+   "Colonoscopia com biópsias de cólon e íleo investiga doença inflamatória intestinal, não doença celíaca.",
+   "A biópsia duodenal deve ser feita com a criança ainda ingerindo glúten, senão pode vir normal.",
+   "HLA-DQ2/DQ8 tem alto valor preditivo negativo, mas positivo não confirma a doença."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 63
+  }
+ },
+ {
+  "pid": "p25064",
+  "q": "Lactente masculino, 3 meses de idade, nascido a termo, parto vaginal, peso ao nascer 3 100 g, com bom desenvolvimento neuropsicomotor. A mãe refere que há cerca de 4 semanas percebeu sudorese excessiva durante as mamadas e aumento da frequência respiratória. Relata também dificuldades para ganhar peso apesar da boa aceitação alimentar. Exame físico: peso atual 4.100 g (< p3), frequência respiratória 56 ipm, frequência cardíaca 158 bpm, perfusão periférica preservada. Ausculta cardíaca revela sopro holossistólico em borda esternal esquerda baixa, intensidade +3/6, sem frêmito. Pulsos periféricos amplos e simétricos. Ausculta pulmonar com estertores finos bibasais. Fígado palpável a 3 cm do rebordo costal direito. Radiografia de tórax: cardiomegalia e aumento da vascularização pulmonar. Oximetria: 97% em ar ambiente. Diante do quadro clínico, o diagnóstico mais provável é",
+  "alts": [
+   "tetralogia de Fallot com fluxo pulmonar aumentado.",
+   "comunicação interventricular (CIV) perimembranosa com hiperfluxo pulmonar.",
+   "estenose pulmonar crítica com insuficiência cardíaca congestiva.",
+   "comunicação interatrial (CIA) tipo ostium secundum com repercussão hemodinâmica.",
+   "canal arterial persistente (PCA) com hipertensão pulmonar irreversível."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Comunicação interventricular",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Nelson Textbook of Pediatrics, 22ª ed., 2024; Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Lactente de 3 meses acianótico, com sudorese às mamadas, taquipneia, baixo ganho ponderal, hepatomegalia e estertores tem insuficiência cardíaca por hiperfluxo pulmonar. O sopro holossistólico em borda esternal esquerda baixa é característico da comunicação interventricular perimembranosa, a cardiopatia congênita mais comum. Os sintomas surgem entre 4 e 8 semanas, quando cai a resistência vascular pulmonar e aumenta o shunt esquerda-direita; a radiografia mostra cardiomegalia e trama vascular aumentada. O canal arterial teria sopro contínuo infraclavicular, e a CIA raramente causa insuficiência cardíaca no lactente.",
+  "porAlt": [
+   "Tetralogia de Fallot é cianótica, com hipofluxo pulmonar e sopro sistólico ejetivo.",
+   "Correta: sopro holossistólico em borda esternal esquerda baixa com insuficiência cardíaca aos 3 meses indica CIV com hiperfluxo pulmonar.",
+   "Estenose pulmonar crítica manifesta-se no período neonatal com cianose e hipofluxo pulmonar.",
+   "CIA ostium secundum produz sopro sistólico ejetivo suave e desdobramento fixo de B2, raramente com insuficiência cardíaca no lactente.",
+   "O canal arterial dá sopro contínuo, e hipertensão pulmonar irreversível não ocorre aos 3 meses."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 64
+  }
+ },
+ {
+  "pid": "p25065",
+  "q": "Recém‑nascido do sexo masculino, 14 dias de vida, nascido a termo (39 semanas), parto vaginal sem intercorrências. Peso ao nascer 3.250 g. Alimentação exclusivamente ao seio materno. Mãe procura emergência por episódios de vômitos em jato e letargia nas últimas 24 h. Relata diminuição da diurese. Ao exame: nota-se RN pálido, anictérico, peso atual 2.980 g, FC 178 bpm, PA 58/34 mmHg, FR 68 ipm, temperatura 36,4 C, enchimento capilar em 4 segundos. Genitália externa masculina normal, sem hipospádia ou criptorquidia. Fontanela normotensa. O laboratório inicial revela: glicemia capilar 46 mg/dL; gasometria arterial: pH 7,29 / HCO₃⁻ 17 mEq/L / BE –8 mEq/L; sódio 124 mEq/L, potássio 6,8 mEq/L, Cloro 96 mEq/L; ureia 38 mg/dL, creatinina 0,6 mg/dL; 17‑hidroxiprogesterona sérica colhida 2 horas após admissão: 11 000 ng/dL (VR < 200 ng/dL). Considerando os achados clínicos e laboratoriais, o diagnóstico mais provável é",
+  "alts": [
+   "sepse neonatal tardia por enterobactéria produtora de endotoxina.",
+   "estenose hipertrófica de piloro com alcalose metabólica hipoclorêmica.",
+   "acidose tubular renal distal (tipo 1).",
+   "hiperplasia congênita da suprarrenal por deficiência de 21‑hidroxilase – forma perdedora de sal.",
+   "hipotireoidismo congênito com crise de mixedema."
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Hiperplasia adrenal congênita perdedora de sal",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Speiser PW et al. Diretriz da Endocrine Society para hiperplasia adrenal congênita por deficiência de 21-hidroxilase, 2018",
+  "coment": "Recém-nascido de 14 dias com vômitos, letargia, perda de peso, choque, hiponatremia (124), hiperpotassemia (6,8), acidose metabólica e hipoglicemia, com 17-hidroxiprogesterona de 11.000 ng/dL, tem hiperplasia adrenal congênita por deficiência de 21-hidroxilase na forma perdedora de sal. A crise costuma ocorrer entre a 1ª e a 3ª semana. No menino a genitália é normal, o que atrasa o diagnóstico se a triagem neonatal falhar. O tratamento é soro fisiológico, correção da glicemia e hidrocortisona em dose de estresse, depois mantida com fludrocortisona e sal.",
+  "porAlt": [
+   "Sepse tardia pode dar choque, mas não explica hiperpotassemia grave com 17-hidroxiprogesterona tão elevada.",
+   "Estenose de piloro causa alcalose metabólica hipoclorêmica e hipopotassêmica, o contrário do caso.",
+   "Acidose tubular distal não provoca choque, hiponatremia grave e 17-hidroxiprogesterona elevada.",
+   "Correta: hiponatremia, hiperpotassemia, acidose e 17-hidroxiprogesterona muito alta indicam a forma perdedora de sal.",
+   "Hipotireoidismo congênito não causa hiperpotassemia grave e choque com 17-hidroxiprogesterona elevada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 65
+  }
+ },
+ {
+  "pid": "p25066",
+  "q": "Paciente masculino, 5 anos de idade, história de hidronefrose bilateral detectada no pré‑natal. Realizou ablação endoscópica de válvula de uretra posterior (VUP) com 10 dias de vida. Evoluiu com infecções urinárias de repetição no 1º ano, tratadas ambulatorialmente. Está em seguimento nefrológico. Nas últimas consultas, os pais relatam poliúria (4,2 L/m²/dia), noctúria, atraso de crescimento (P < p3) e episódios de urgência miccional. Exame físico: PA 112/70 mmHg (p95 para idade/estatura), peso 14 kg, estatura 96 cm. Abdome sem massas; bexiga não palpável pós‑micção. Laboratório: creatinina 1,2 mg/dL (eTFG 42 mL/min/1,73 m²), ureia 58 mg/dL, bicarbonato 18 mEq/L, potássio 4,9 mEq/L. Urina de 24 h: proteinúria 240 mg/m²/dia. US recente: rins diminuídos z‑score córtico‑medular (comprimento 6,5 cm; –2), hiperecogênica; bexiga com parede espessada (6 mm) e volume residual 50 mL. O paciente utilizava sulfametoxazol‑trimetoprima profilática desde o primeiro ano, suspensa há 4 meses. Não faz cateterismo intermitente. Com base no quadro atual e visando retardar a progressão da insuficiência renal crônica, a conduta imediata a ser tomada é",
+  "alts": [
+   "realizar estudo urodinâmico e iniciar terapia de baixa pressão vesical (antimuscarínico + cateterismo vesical intermitente), além de alcalinização oral.",
+   "aumentar ingestão proteica para 2,5 g/kg/dia e suplementar creatina para otimizar ganho ponderal.",
+   "introduzir furosemida em altas doses para reduzir poliúria e prevenir sobrecarga de volume.",
+   "encaminhar para hemodiálise imediata, pois a taxa de filtração glomerular < 45 mL/min/1,73 m² é indicação absoluta.",
+   "manter observação expectante até que eTFG caia abaixo de 30 mL/min/1,73 m² e então listar para transplante renal."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Bexiga da válvula de uretra posterior",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "European Association of Urology/ESPU. Diretriz de urologia pediátrica, 2024; KDIGO. Diretriz de doença renal crônica, 2024",
+  "coment": "Após ablação da válvula de uretra posterior, poliúria, urgência, bexiga de parede espessada com resíduo e doença renal crônica estágio 3b com acidose configuram a síndrome da bexiga da válvula: bexiga hipocomplacente e de alta pressão somada à poliúria por dano tubular, que mantém a agressão ao trato urinário superior. O estudo urodinâmico define o padrão, e o tratamento busca baixa pressão vesical com anticolinérgico e cateterismo intermitente limpo (às vezes esvaziamento noturno). A correção da acidose com bicarbonato ou citrato também retarda a progressão da doença renal e melhora o crescimento.",
+  "porAlt": [
+   "Correta: urodinâmica, baixa pressão vesical com antimuscarínico e cateterismo, mais correção da acidose, retardam a perda renal.",
+   "Excesso de proteína aumenta a carga de filtração e não é recomendado na doença renal crônica.",
+   "A poliúria é tubular e obrigatória; furosemida aumentaria a perda de volume e pioraria a função renal.",
+   "Filtração de 42 mL/min/1,73 m² não é indicação de diálise, que depende de sintomas e complicações.",
+   "Esperar a filtração cair sem tratar a bexiga deixa a disfunção vesical acelerar a perda renal."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 66
+  }
+ },
+ {
+  "pid": "p25067",
+  "q": "Paciente masculino, 9 anos, previamente hígido, é levado à emergência com febre persistente (picos de 39 C há 4 dias), dor abdominal difusa, vômitos, diarreia aquosa e exantema maculopapular em tronco e membros. Há 3 semanas, mãe e irmão apresentaram teste positivo para SARS‑CoV‑2 (variante Ômicron XBB sublinhagem). A criança não foi testada na ocasião e permaneceu assintomática. Exame físico: PA 88/50 mmHg, FC 132 bpm, FR 30 ipm, SpO₂ 96 % em ar ambiente, temperatura 38,8 °C. Conjuntivite não purulenta, hiperemia labial. Ausculta cardíaca normal. Os exames laboratoriais revelam: hemograma: leucócitos 5 300 cél/mm³ (linfócitos 12 %), plaquetas 128 000 /mm³; PCR 195 mg/L, ferritina 780 ng/mL, D‑dímero 2 200 ng/mL; Troponina I 0,23 ng/mL (VR < 0,04); Procalcitonina 0,7 ng/mL; RT‑PCR para SARS‑CoV‑2: negativo; sorologia SARS‑CoV‑2 IgG nucleocapsídeo: positiva. Ecocardiograma: fração de ejeção 50 %, discreta dilatação da artéria coronária direita (Z‑score +2,5). Com base no quadro apresentado, o diagnóstico mais provável é",
+  "alts": [
+   "COVID‑19 aguda sintomática com pneumonia viral.",
+   "síndrome inflamatória multissistêmica associada à COVID‑19 (MIS‑C).",
+   "doença de Kawasaki clássica.",
+   "choque tóxico estafilocócico.",
+   "apendicite aguda complicada com peritonite."
+  ],
+  "gab": 1,
+  "tema": "pedinfecto",
+  "sub": "Síndrome inflamatória multissistêmica pediátrica",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "CDC. Definição de caso de MIS-C (CSTE), 2023; Henderson LA et al. Diretriz clínica do ACR para MIS-C, versão 3, 2022",
+  "coment": "Criança com febre persistente, sintomas gastrointestinais, exantema, conjuntivite não purulenta e hiperemia labial, com hipotensão, marcadores inflamatórios muito altos (PCR, ferritina, D-dímero), linfopenia, plaquetopenia, troponina elevada, disfunção ventricular e dilatação coronariana, semanas após exposição ao SARS-CoV-2, tem síndrome inflamatória multissistêmica pediátrica. O RT-PCR negativo e a sorologia positiva reforçam a infecção prévia. Kawasaki clássico afeta mais menores de 5 anos, raramente cursa com choque e disfunção miocárdica, e não mostra linfopenia e plaquetopenia. O tratamento envolve imunoglobulina, corticoide e AAS.",
+  "porAlt": [
+   "COVID aguda com pneumonia é improvável com RT-PCR negativo, sorologia positiva e ausculta e saturação preservadas.",
+   "Correta: febre, inflamação multissistêmica, choque e acometimento cardíaco após exposição ao SARS-CoV-2 definem MIS-C.",
+   "Kawasaki clássico é mais comum abaixo de 5 anos e raramente traz choque, disfunção miocárdica, linfopenia e plaquetopenia.",
+   "Choque tóxico estafilocócico daria eritrodermia difusa e foco de toxina, sem vínculo temporal com SARS-CoV-2 nem coronariopatia.",
+   "Apendicite complicada não explica conjuntivite, exantema, coronariopatia e sorologia positiva."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 67
+  }
+ },
+ {
+  "pid": "p25068",
+  "q": "Adolescente feminino, 14 anos, é levada ao pronto-socorro por ingestão intencional de aproximadamente 25 comprimidos de fluoxetina 20 mg (dose total estimada: 500 mg) há cerca de 1 hora, após discutir com pais sobre notas escolares. Ao chegar, relata arrependimento parcial, mas permanece retraída, negando ideação suicida imediata. Antecedentes: episódio prévio de automutilação (cortes superficiais) há 6 meses, fazia acompanhamento em um serviço de saúde mental, porém abandonou o seguimento. Sem comorbidades clínicas conhecidas. Uso regular de fluoxetina 20 mg/dia para depressão moderada, prescrita há 4 meses. Exame inicial: FC 98 bpm, PA 108/66 mmHg, FR 18 ipm, SatO₂ 98 % em ar ambiente, T 36,7 °C. Consciente, orientada, fala pausada, olhar no chão. Pupilas isofotorreagentes. Abdome flácido, indolor, sem vômitos. Sem alterações neurológicas focais. Cicatrizes lineares antigas nos antebraços. ECG: ritmo sinusal, QTc 470ms. Os exames laboratoriais iniciais revelam glicemia 88 mg/dL, eletrólitos e função renal normal. Com base nas diretrizes atuais de manejo de tentativa de suicídio em crianças e adolescentes, a conduta inicial adequada neste momento é",
+  "alts": [
+   "admitir em unidade de observação pediátrica, iniciar monitorização cardíaca contínua, administrar carvão ativado dose única (1 g/kg) via oral/naso‑gástrica, solicitar parecer psiquiátrico de emergência e envolver família em plano de segurança antes da alta.",
+   "realizar lavagem gástrica imediata e administrar eméticos para induzir vômitos, mantendo observação de 6 h.",
+   "iniciar benzodiazepínico profilático IV para prevenir convulsões, depois alta ambulatorial, solicitando retorno em 72 h ao CAPS.",
+   "encaminhar diretamente para internação em UTI pediátrica sem monitorização pré-hospitalar, ou necessidade de esvaziamento gástrico pois todo QTc > 450 ms exige suporte avançado imediato.",
+   "liberar para casa após aconselhamento breve, visto que fluoxetina possui ampla margem terapêutica e risco de toxicidade grave é baixo."
+  ],
+  "gab": 0,
+  "tema": "emergpsiq",
+  "sub": "Tentativa de suicídio com fluoxetina",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "Shain B, AAP Committee on Adolescence. Suicídio e tentativas de suicídio em adolescentes (Pediatrics), 2016; Chyka PA et al. Declaração de posição AACT/EAPCCT sobre carvão ativado em dose única, 2005",
+  "coment": "Adolescente que ingeriu 500 mg de fluoxetina há cerca de 1 hora, com QTc de 470 ms, precisa de observação com monitorização cardíaca: a superdosagem de ISRS costuma ser benigna, mas pode causar prolongamento do QT, convulsões e síndrome serotoninérgica. Paciente alerta e com via aérea protegida, dentro da primeira hora, pode receber carvão ativado em dose única de 1 g/kg. Toda tentativa de suicídio em adolescente exige avaliação de saúde mental antes da alta, plano de segurança com a família, restrição de acesso a meios e retorno rápido ao seguimento abandonado.",
+  "porAlt": [
+   "Correta: observação com monitorização cardíaca, carvão ativado na primeira hora, avaliação psiquiátrica e plano de segurança com a família.",
+   "Lavagem gástrica e eméticos não são recomendados de rotina e trazem risco de aspiração.",
+   "Benzodiazepínico profilático não é indicado, e dar alta sem avaliação psiquiátrica após tentativa é inseguro.",
+   "QTc de 470 ms em paciente estável pede monitorização, não UTI automática sem avaliação inicial.",
+   "Toda tentativa de suicídio exige observação clínica e avaliação de risco; liberar após conversa breve é inadequado."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 68
+  }
+ },
+ {
+  "pid": "p25069",
+  "q": "Lactente masculino, 5 semanas de vida, nascido a termo sem intercorrências, é trazido ao ambulatório porque a mãe percebe que desde o nascimento o bebê mantém a cabeça inclinada para a direita e o queixo voltado para a esquerda. Nega febre, trauma ou sinais neurológicos. Ao exame físico, nota-se inclinação lateral da cabeça para a direita com rotação contralateral do queixo, sem limitação passiva importante. Palpa‑se “massa” fusiforme de aproximadamente 1,5 × 0,8 cm no terço médio do esternocleidomastoideo (ECM) direito, sem hiperemia ou dor. Desenvolvimento psicomotor apropriado. A ultrassonografia cervical mostra espessamento do ECM direito, ecotextura fibrótica, sem alterações ósseas. Não há assimetria facial significativa nem plagiocefalia franca. A conduta inicial mais adequada para esse paciente é",
+  "alts": [
+   "tranquilizar os pais e reavaliar apenas quando a criança iniciar a marcha, pois a condição costuma regredir espontaneamente até 2 anos.",
+   "iniciar imediatamente fisioterapia com alongamentos passivos do ECM e posicionamento ativo, acompanhado de avaliação mensal do progresso.",
+   "prescrever colar cervical rígido em uso contínuo por seis semanas para manter o pescoço em posição neutra.",
+   "programar liberação cirúrgica do esternocleidomastoideo direito nas próximas duas semanas para evitar deformidades craniofaciais.",
+   "solicitar tomografia computadorizada de crânio e coluna cervical antes de tomar qualquer decisão terapêutica."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Torcicolo muscular congênito",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Kaplan SL et al. Diretriz de fisioterapia no torcicolo muscular congênito da APTA (Pediatr Phys Ther), 2018",
+  "coment": "Lactente com inclinação da cabeça para um lado e queixo para o outro desde o nascimento, com massa fusiforme no terço médio do esternocleidomastoideo e ultrassom mostrando espessamento fibrótico, tem torcicolo muscular congênito. O tratamento de primeira linha é a fisioterapia precoce com alongamento passivo, fortalecimento e orientação de posicionamento, idealmente antes dos 3 meses, quando a resolução passa de 90%. Começar cedo reduz duração do tratamento e risco de plagiocefalia e assimetria facial. Cirurgia fica para persistência após 6 a 12 meses de fisioterapia adequada.",
+  "porAlt": [
+   "Esperar a marcha perde a fase em que a fisioterapia é mais eficaz e permite plagiocefalia e assimetria facial.",
+   "Correta: fisioterapia com alongamento e posicionamento, iniciada já, é o tratamento de primeira linha.",
+   "Colar cervical rígido não é indicado em lactente com torcicolo muscular congênito.",
+   "Liberação cirúrgica é reservada à falha de fisioterapia prolongada, não à abordagem inicial.",
+   "Com ultrassom típico e sem sinais neurológicos, tomografia expõe à radiação sem necessidade."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 69
+  }
+ },
+ {
+  "pid": "p25070",
+  "q": "Paciente masculino, 12 anos, com história de leucemia linfoblástica aguda (LLA) diagnosticada há 9 meses, atualmente em fase de consolidação do tratamento com quimioterapia, incluindo dexametasona, metotrexato e vincristina. A mãe relata que, nas últimas semanas, o paciente apresenta ganho ponderal importante, fraqueza muscular proximal, pletora facial, estrias violáceas no abdome e alteração do humor. Ao exame físico: PA 135/85 mmHg, glicemia capilar 168 mg/dL, IMC no percentil 97. Não há sinais de puberdade avançada ou atraso puberal. Nega cefaleia, vômitos ou alterações visuais. Com base no quadro clínico descrito, assinale a opção que apresenta a principal hipótese diagnóstica e a conduta inicial mais adequada.",
+  "alts": [
+   "Diabetes mellitus tipo 1 – iniciar insulinoterapia e suspender a dexametasona imediatamente.",
+   "Puberdade precoce central – solicitar ressonância magnética de sela túrcica e dosar LH basal.",
+   "Síndrome de Cushing iatrogênica – manter vigilância clínica e avaliar redução gradual da dose de corticosteroide.",
+   "Síndrome metabólica – iniciar metformina e dieta hipocalórica rigorosa.",
+   "Neuropatia periférica induzida por vincristina – suspender a vincristina e encaminhar à fisioterapia."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Cushing iatrogênico na LLA",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Nelson Textbook of Pediatrics, 22ª ed., 2024; Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Ganho de peso, fraqueza proximal, pletora facial, estrias violáceas, alteração do humor, hipertensão e hiperglicemia em criança que recebe dexametasona na quimioterapia da LLA são síndrome de Cushing iatrogênica. A dexametasona é parte do protocolo e não deve ser suspensa de forma abrupta, pelo risco de insuficiência adrenal e de comprometer o tratamento oncológico. A conduta é vigilância clínica de pressão, glicemia, peso e humor, tratamento das complicações quando necessário e ajuste ou redução gradual da dose conforme o protocolo e a equipe de oncologia.",
+  "porAlt": [
+   "Hiperglicemia leve na corticoterapia não define diabetes tipo 1, e suspender a dexametasona de uma vez é perigoso.",
+   "Não há sinais de puberdade, e o quadro é explicado pelo corticoide.",
+   "Correta: Cushing iatrogênico pede vigilância e redução gradual do corticoide conforme o protocolo.",
+   "Síndrome metabólica não explica estrias violáceas, fraqueza proximal e pletora em uso de dexametasona.",
+   "Neuropatia por vincristina dá parestesias, arreflexia e constipação, não o fenótipo cushingoide."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 70
+  }
+ },
+ {
+  "pid": "p25071",
+  "q": "Recém-nascido do sexo masculino, parto vaginal, Apgar 8/9, peso adequado para a idade gestacional, nascido em hospital terciário após gestação sem acompanhamento pré-natal adequado. Mãe com sorologia positiva para HIV confirmada durante o trabalho de parto, sem uso de terapia antirretroviral (TARV) durante a gestação. Carga viral materna desconhecida. Não houve rotura prolongada de membranas nem uso de fórceps. A mãe não apresenta outras comorbidades e deseja amamentar. O recém-nascido encontra-se estável, em boas condições clínicas nas primeiras horas de vida. A conduta imediata mais apropriada para esse recém-nascido é",
+  "alts": [
+   "iniciar zidovudina (AZT) oral por 4 semanas e permitir o aleitamento materno com seguimento ambulatorial mensal.",
+   "iniciar esquema de profilaxia com três drogas (zidovudina, lamivudina e nevirapina) e contraindicar aleitamento materno.",
+   "não iniciar profilaxia, apenas observar, pois o RN encontra-se assintomático.",
+   "iniciar nevirapina isolada por 6 semanas, liberar aleitamento e aguardar testes de HIV para definição de conduta.",
+   "indicar zidovudina intravenosa no RN."
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Profilaxia do RN exposto ao HIV",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2022, com Nota Informativa 12/2023 (raltegravir granulado)",
+  "coment": "Mãe com HIV diagnosticado no parto, sem TARV e com carga viral desconhecida, define exposição de alto risco. O PCDT indica profilaxia com três antirretrovirais por 28 dias, iniciada o quanto antes, idealmente nas primeiras 4 horas: zidovudina com lamivudina e um terceiro fármaco, que é raltegravir no RN com 37 semanas ou mais (desde a Nota Informativa 12/2023) e nevirapina entre 34 e 37 semanas. A amamentação é contraindicada, com inibição da lactação na mãe e fórmula infantil fornecida pelo SUS. O RN faz carga viral seriada e profilaxia com sulfametoxazol-trimetoprima a partir de 4 semanas.",
+  "porAlt": [
+   "AZT isolado é para baixo risco, e o aleitamento é contraindicado na mãe vivendo com HIV.",
+   "Correta: exposição de alto risco pede três antirretrovirais e contraindicação do aleitamento materno.",
+   "O RN exposto de alto risco precisa de profilaxia mesmo assintomático.",
+   "Nevirapina isolada não é esquema do PCDT, e o aleitamento é contraindicado.",
+   "A zidovudina é dada por via oral; a intravenosa fica para quem não tolera a via oral, e sozinha não basta no alto risco."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 71
+  }
+ },
+ {
+  "pid": "p25074",
+  "q": "Lactente do sexo feminino, 10 meses, é trazida à consulta por apresentar atraso no crescimento e episódios recorrentes de vômitos. A mãe relata que a criança se alimenta bem, mas não ganha peso como o esperado. Ao exame físico, apresenta estatura e peso abaixo do percentil 3, fontanela anterior ampla e tônus muscular reduzido. Exames laboratoriais mostram: pH arterial 7,29, bicarbonato 14 mEq/L, ânion gap normal, potássio 2,9 mEq/L, cloro 113 mEq/L. Glicemia e função renal normais. Urina com pH de 6,5 e ausência de glicosúria ou proteinúria. Com base nesses achados clínicos e laboratoriais, assinale a opção que apresenta o diagnóstico mais provável e a conduta inicial.",
+  "alts": [
+   "Acidemia orgânica – iniciar dieta restrita em proteínas e internação hospitalar imediata.",
+   "Acidose tubular renal distal – iniciar reposição de bicarbonato e citrato de potássio.",
+   "Acidose tubular renal proximal – suspender alimentação oral e iniciar diálise peritoneal.",
+   "Síndrome nefrótica congênita – iniciar corticoide e controle da proteinúria.",
+   "Acidemia láctica – iniciar suplementação com biotina e monitorização intensiva em UTI."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Acidose tubular renal distal",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Nelson Textbook of Pediatrics, 22ª ed., 2024; Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Lactente com déficit de crescimento, vômitos, fontanela ampla e hipotonia, com acidose metabólica de ânion gap normal e hiperclorêmica, hipopotassemia e urina com pH 6,5 apesar da acidose sistêmica, tem acidose tubular renal distal (tipo 1): o néfron distal não acidifica a urina abaixo de 5,5. A ausência de glicosúria e proteinúria afasta a síndrome de Fanconi da forma proximal. O tratamento é a reposição contínua de álcali, de preferência citrato de potássio, que corrige acidose e hipopotassemia, permite o crescimento e previne nefrocalcinose e litíase.",
+  "porAlt": [
+   "Acidemia orgânica dá acidose com ânion gap aumentado, não hiperclorêmica com urina alcalina.",
+   "Correta: acidose hiperclorêmica com hipopotassemia e urina acima de 5,5 indica ATR distal, tratada com álcali e citrato de potássio.",
+   "Na ATR proximal a urina consegue se acidificar, e diálise não trata acidose tubular.",
+   "Síndrome nefrótica congênita se apresenta com proteinúria maciça e edema, ausentes aqui.",
+   "Acidemia láctica cursa com ânion gap aumentado; biotina trata deficiência de biotinidase."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 74
+  }
+ },
+ {
+  "pid": "p25076",
+  "q": "Pré-escolar masculino, 4 anos, previamente hígido, estava alimentando-se com pedaço de carne quando subitamente iniciou tosse intensa seguida de silêncio súbito, cianose perioral e queda ao solo. A criança encontra-se em apneia, inconsciente, porém com pulso palpável a 90 bpm. Não há expansibilidade torácica e os esforços ventilatórios estão ausentes. A obstrução de vias aéreas por corpo estranho é fortemente suspeitada. A conduta imediata mais adequada nesse cenário é",
+  "alts": [
+   "iniciar manobra de Heimlich em pé.",
+   "iniciar ventilação com bolsa-válvula-máscara imediatamente, mesmo sem liberar as vias aéreas.",
+   "realizar até 5 tentativas de ventilação com pressão positiva antes de considerar obstrução de via aérea.",
+   "iniciar manobras de desobstrução com compressões torácicas e inspeção oral, evitando ventilação até desobstrução.",
+   "realizar aspiração orotraqueal imediatamente para remover o corpo estranho antes de qualquer outra medida."
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Obstrução de via aérea por corpo estranho",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American Heart Association. Diretrizes de RCP e Atendimento Cardiovascular de Emergência, 2025",
+  "coment": "Criança que engasgou com carne, ficou em silêncio, cianótica e perdeu a consciência tem obstrução total da via aérea por corpo estranho. Na vítima inconsciente a AHA orienta deitá-la, chamar ajuda e iniciar RCP começando pelas compressões torácicas, que geram pressão para expulsar o objeto. Antes de cada tentativa de ventilação abre-se a via aérea e inspeciona-se a boca, retirando o corpo estranho só se visível, sem varredura às cegas. As ventilações são tentadas a cada abertura da via aérea; sem expansão do tórax, volta-se às compressões. O que não se faz é insistir em ventilar ou ventilar sem antes tentar desobstruir.",
+  "porAlt": [
+   "Na vítima inconsciente não se fazem compressões abdominais em pé; inicia-se RCP com a criança deitada.",
+   "Ventilar sem tentar desobstruir não vence a obstrução total e atrasa as compressões.",
+   "Repetidas tentativas de ventilação atrasam as compressões, que são a manobra de desobstrução na vítima inconsciente.",
+   "Correta: compressões torácicas com inspeção da boca antes das ventilações formam a sequência de desobstrução na vítima inconsciente.",
+   "Aspiração às cegas não remove corpo estranho sólido e pode empurrá-lo mais fundo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 76
+  }
+ },
+ {
+  "pid": "p25077",
+  "q": "Escolar do sexo feminino, 10 anos, previamente hígida, apresenta aumento progressivo de volume em região cervical direita há 6 semanas, associado a febre vespertina baixa, sudorese noturna e perda ponderal de 2 kg. Ao exame físico, nota-se linfonodo cervical posterior direito, de consistência endurecida, indolor, medindo cerca de 3 cm, sem sinais flogísticos cutâneos. Ausculta pulmonar sem alterações. Radiografia de tórax sem infiltrados ou adenomegalias hiliares evidentes. Prova tuberculínica (PPD) positiva (15 mm). Hemograma com leucócitos 7.200/mm³, VHS 48 mm/h. Ultrassonografia cervical confirma linfonodo hipoecoico com áreas de necrose central. Punção aspirativa por agulha fina (PAAF) revelou granuloma caseoso e bacilos álcool‑ácido resistentes (BAAR) na baciloscopia direta. O diagnóstico mais provável para esse caso é",
+  "alts": [
+   "tuberculose linfonodal (tuberculose ganglionar cervical).",
+   "linfoma de Hodgkin em fase inicial.",
+   "adenite por Bartonella henselae (doença da arranhadura do gato).",
+   "linfadenite bacteriana aguda por Staphylococcus aureus.",
+   "metástase de carcinoma papilífero da tireoide."
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Tuberculose ganglionar periférica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed., 2019",
+  "coment": "Linfonodo cervical endurecido, indolor e crescente há 6 semanas, com febre vespertina, sudorese noturna e perda de peso, prova tuberculínica de 15 mm, VHS elevado e necrose central ao ultrassom sugerem tuberculose. A punção mostrando granuloma caseoso e BAAR confirma tuberculose ganglionar periférica, a forma extrapulmonar mais comum em crianças. Radiografia de tórax normal não afasta. O tratamento segue o esquema básico por 6 meses (2 meses de rifampicina, isoniazida, pirazinamida e etambutol, 4 de rifampicina e isoniazida, este último sem etambutol abaixo de 10 anos), com investigação dos contatos.",
+  "porAlt": [
+   "Correta: granuloma caseoso com BAAR em linfonodo cervical confirma tuberculose ganglionar.",
+   "Linfoma de Hodgkin pode dar sintomas B, mas a histologia mostraria células de Reed-Sternberg, não BAAR.",
+   "Doença da arranhadura do gato causa adenite após contato com gato, com granulomas estrelados sem BAAR.",
+   "Linfadenite estafilocócica é aguda, dolorosa, com sinais flogísticos e flutuação.",
+   "Metástase de carcinoma papilífero se apresentaria com nódulo tireoidiano e citologia de células tumorais."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 77
+  }
+ },
+ {
+  "pid": "p25078",
+  "q": "Adolescente do sexo masculino, 14 anos, comparece à consulta para avaliação de rotina. É nadador competitivo, treinando 2 horas por dia, 6 dias por semana. Apresenta medidas antropométricas dentro da normalidade (IMC: 20 kg/m², estágio puberal G4P4). Refere dieta variada e aumento recente do gasto energético devido à intensificação dos treinos. Ele e seus pais questionam sobre a necessidade de uso de suplementos proteicos e vitaminas para “melhorar o desempenho” e “evitar fadiga”. O recordatório alimentar revela: Ingestão proteica de 1,6 g/kg/dia, calorias adequadas para idade e nível de atividade, nenhum sinal clínico de carência nutricional, exames laboratoriais normais (hemograma, ferritina, vitamina D, B12). A conduta mais apropriada em relação à suplementação nutricional nesse caso é",
+  "alts": [
+   "recomendar suplementação proteica para apoiar a hipertrofia muscular e melhorar o desempenho atlético.",
+   "iniciar suplementação com multivitamínicos para prevenir possíveis deficiências subclínicas devido à alta demanda física.",
+   "introduzir suplementos de aminoácidos de cadeia ramificada (BCAA) para reduzir a fadiga e promover recuperação.",
+   "recomendar creatina monoidratada para melhorar o desempenho anaeróbico em esportes de alta intensidade.",
+   "contraindicar suplementação, reforçar uma alimentação adequada baseada em alimentos e monitorar crescimento e desempenho."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Suplementos no adolescente atleta",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "LaBotz M, Griesemer BA, AAP Council on Sports Medicine and Fitness. Uso de substâncias para melhorar o desempenho (Pediatrics), 2016",
+  "coment": "Adolescente atleta com crescimento normal, ingestão proteica de 1,6 g/kg/dia, calorias adequadas e exames normais não tem indicação de suplementos. A AAP desaconselha suplementos proteicos, de aminoácidos, multivitamínicos e creatina em menores de 18 anos sem deficiência: a dieta já supre as necessidades, o benefício no desempenho não está demonstrado nessa faixa e há riscos de contaminação, efeitos adversos e incentivo a substâncias proibidas. A conduta é reforçar alimentação variada baseada em alimentos, hidratação, sono e periodização do treino, com acompanhamento do crescimento e desempenho.",
+  "porAlt": [
+   "A ingestão de proteína já é adequada, e suplemento proteico não traz ganho adicional comprovado nesse caso.",
+   "Sem deficiência clínica ou laboratorial, multivitamínico não previne fadiga nem melhora o desempenho.",
+   "BCAA não tem benefício comprovado e é desnecessário com dieta proteica adequada.",
+   "A AAP desaconselha creatina em menores de 18 anos.",
+   "Correta: sem deficiência, a conduta é não suplementar, orientar alimentação adequada e acompanhar crescimento e desempenho."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 78
+  }
+ },
+ {
+  "pid": "p25079",
+  "q": "Escolar do sexo feminino, 11 anos, previamente hígida, apresenta queixas de febre vespertina, fadiga, perda de peso, dor articular em joelhos e punhos, além de lesões eritematosas em região malar que poupam o sulco nasolabial. Ao exame físico, apresenta-se pálida, com pressão arterial de 130/90 mmHg, hepatomegalia discreta e edema de membros inferiores. Exames laboratoriais revelam: Hb 9,2 g/dL, leucócitos 2.800/mm³, plaquetas 110.000/mm³, urina 1 com proteinúria 3+ e hematúria microscópica. Função renal: ureia 52 mg/dL, creatinina 1,3 mg/dL. FAN positivo (1:640, padrão nuclear pontilhado fino), antiDNA nativo positivo, C3 e C4 reduzidos. Assinale a opção que apresenta o diagnóstico mais provável e a conduta inicial mais adequada.",
+  "alts": [
+   "Artrite idiopática juvenil – iniciar AINE e acompanhamento ambulatorial.",
+   "Lúpus eritematoso sistêmico juvenil – iniciar pulsoterapia com metilprednisolona e solicitar biópsia renal.",
+   "Púrpura trombocitopênica idiopática – iniciar imunoglobulina intravenosa.",
+   "Glomerulonefrite pós-estreptocócica – tratar com antibiótico e repouso.",
+   "Nefrite lúpica isolada – iniciar corticoide oral em baixa dose e reavaliar em 30 dias."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Lúpus juvenil com nefrite",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Aringer M et al. Critérios de classificação EULAR/ACR para LES, 2019; Groot N et al. Recomendações SHARE para LES de início na infância (Ann Rheum Dis), 2017",
+  "coment": "Menina de 11 anos com febre, perda de peso, artralgia, eritema malar poupando o sulco nasolabial, citopenias, hipertensão, edema, proteinúria e hematúria com creatinina elevada, FAN em título alto, anti-DNA positivo e complemento baixo tem lúpus eritematoso sistêmico juvenil com nefrite em atividade. O LES pediátrico tem acometimento renal mais grave e frequente que o do adulto. Nefrite com perda de função pede indução com pulsoterapia de metilprednisolona e biópsia renal para definir a classe histológica, que orienta a imunossupressão (micofenolato ou ciclofosfamida), além de hidroxicloroquina e controle pressórico.",
+  "porAlt": [
+   "Artrite idiopática juvenil não explica nefrite, citopenias, anti-DNA positivo e consumo de complemento.",
+   "Correta: LES juvenil com nefrite ativa pede pulsoterapia com metilprednisolona e biópsia renal.",
+   "A plaquetopenia é discreta e faz parte de uma doença multissistêmica, não de PTI isolada.",
+   "GNPE não cursa com FAN em título alto, anti-DNA, consumo de C4 e citopenias.",
+   "O acometimento é multissistêmico, e corticoide oral em baixa dose é insuficiente para nefrite ativa."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 79
+  }
+ },
+ {
+  "pid": "p25080",
+  "q": "Criança do sexo masculino, 5 anos, é levada ao pronto atendimento por vizinhos após ser encontrada sozinha em casa, chorando, trancada e sem supervisão adulta. Relata que costuma ficar sozinho por horas, sem saber onde estão seus pais. Apresenta vestimentas inadequadas, sinais de higiene precária, baixo peso e relato de alimentação irregular. Ao exame, está em bom estado geral, mas com sinais de desnutrição leve e atraso no desenvolvimento da linguagem. Não há sinais de agressão física. Com base no caso e na legislação brasileira, a conduta mais adequada é",
+  "alts": [
+   "registrar o caso apenas em prontuário e orientar a família sobre cuidados domiciliares, visto que não há sinais de violência física.",
+   "encaminhar imediatamente a criança para abrigo institucional e impedir qualquer contato com os pais antes da avaliação judicial.",
+   "solicitar avaliação psiquiátrica imediata da criança e encaminhar aos pais com recomendação de terapia familiar.",
+   "encaminhar a criança para casa com termo de responsabilidade assinado pelos vizinhos, mantendo acompanhamento ambulatorial.",
+   "notificar formalmente o caso de suspeita de negligência à autoridade competente, conforme previsto no ECA, e manter vigilância compartilhada com a rede de proteção."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Negligência infantil",
+  "cenario": "emg",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.069/1990 (Estatuto da Criança e do Adolescente), arts. 13 e 245; Ministério da Saúde. Linha de cuidado para a atenção integral à saúde de crianças, adolescentes e suas famílias em situação de violências, 2010",
+  "coment": "Criança de 5 anos deixada sozinha e trancada por horas, com higiene precária, alimentação irregular, desnutrição e atraso de linguagem, sofre negligência, a forma mais frequente de violência contra crianças. A ausência de lesão física não muda a obrigação: o artigo 13 do ECA manda comunicar ao Conselho Tutelar os casos suspeitos ou confirmados de maus-tratos, e o artigo 245 prevê infração para o médico que deixa de comunicar. Também se faz a notificação compulsória no SINAN. O acompanhamento é compartilhado com a rede de proteção; o acolhimento institucional é medida excepcional decidida pelo Conselho Tutelar ou Judiciário.",
+  "porAlt": [
+   "Negligência é violência mesmo sem lesão física, e não comunicar contraria o ECA.",
+   "Acolhimento institucional é medida excepcional, decidida pelo Conselho Tutelar ou pela Justiça, não pelo pediatra no atendimento.",
+   "Avaliação psiquiátrica e terapia familiar podem compor o cuidado, mas não substituem a comunicação obrigatória.",
+   "Entregar a criança a vizinhos com termo de responsabilidade não tem amparo legal nem protege a criança.",
+   "Correta: suspeita de negligência deve ser comunicada ao Conselho Tutelar, conforme o ECA, com seguimento pela rede de proteção."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 80
+  }
+ }
+]

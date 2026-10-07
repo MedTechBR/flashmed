@@ -1,0 +1,43 @@
+{
+ "incluidas": 34,
+ "descartadas": [
+  {
+   "pid": "s25005",
+   "motivo": "clínica médica: fora do escopo desta rodada (hidrocefalia de pressão normal, diagnóstico neurológico puro pela tríade marcha/incontinência/disfunção executiva)"
+  },
+  {
+   "pid": "s25016",
+   "motivo": "mais de uma resposta defensável: além da oficial (CEM art. 96), as alternativas sobre ser perito de familiar ou de empresa em que atue (art. 93) e sobre exame de corpo de delito em delegacias, unidades militares, casas de detenção e presídios (art. 95) reproduzem vedações do Código de Ética Médica (Res. CFM 2.217/2018)"
+  },
+  {
+   "pid": "s25020",
+   "motivo": "clínica médica: fora do escopo desta rodada (doença de Creutzfeldt-Jakob, diagnóstico neurológico)"
+  },
+  {
+   "pid": "s25022",
+   "motivo": "clínica médica: fora do escopo desta rodada (indicação de memantina por estágio da doença de Alzheimer, tratamento neurológico)"
+  },
+  {
+   "pid": "s25023",
+   "motivo": "clínica médica: fora do escopo desta rodada (RT-QuIC no líquor para doença de Creutzfeldt-Jakob, exame neurológico)"
+  },
+  {
+   "pid": "s25036",
+   "motivo": "clínica médica: fora do escopo desta rodada (investigação de hipertireoidismo/doença de Graves, tema endocrino)"
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "s25014",
+   "nota": "Mantido. O enunciado fala em aprovação do FDA para sintomas psicóticos na doença de Alzheimer, mas a aprovação do brexpiprazol (2023) é para agitação associada à demência da DA; nenhum antipsicótico é aprovado para psicose da DA. Como é a única opção com aprovação formal para sintoma comportamental da DA, o gabarito é o único defensável; o comentário explica a indicação exata."
+  },
+  {
+   "pid": "s25003",
+   "nota": "correção de extração: glifo de uso privado U+F0B0 (grau da fonte Symbol) em '39,2 C' → '39,2 °C'."
+  },
+  {
+   "pid": "s25001",
+   "nota": "Mantido. A escolha da vortioxetina se apoia no benefício cognitivo na depressão (CANMAT 2023); sertralina ou outro ISRS também seriam aceitáveis na prática, mas não estão entre as opções."
+  }
+ ]
+}

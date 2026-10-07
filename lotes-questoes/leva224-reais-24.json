@@ -1,0 +1,1289 @@
+[
+ {
+  "pid": "g24001",
+  "q": "Uma paciente de 24 anos, sem queixas ginecológicas, realiza exame de rotina que evidencia duas cérvices uterinas e septo longitudinal na porção superior da vagina. A ultrassonografia transvaginal no corte transversal evidencia dois cornos uterinos separados, cada um com uma cavidade. Nesse cenário clínico, a paciente deve ser orientada da seguinte forma:",
+  "alts": [
+   "trata-se de útero unicorno, com maior risco de prematuridade quando engravidar;",
+   "trata-se de útero bicorno com associação com apresentações fetais anômalas;",
+   "trata-se de útero didelfo e tal condição não traz prejuízo à fertilidade;",
+   "trata-se de útero septado, sendo uma condição com associação a abortamento espontâneo;",
+   "trata-se de útero arqueado, condição sem relação com intercorrências obstétricas."
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Malformações müllerianas",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Society for Reproductive Medicine. Müllerian Anomalies Classification (MAC2021), 2021",
+  "coment": "Duas cérvices, septo vaginal longitudinal e dois cornos completamente separados, cada um com sua cavidade, definem o útero didelfo: falha completa de fusão dos ductos de Müller (classificação ASRM, 2021). Diferente do septado e do bicorno, que têm um só corpo uterino com fusão ou reabsorção incompletas, o didelfo é a malformação de fusão com menor impacto reprodutivo: a capacidade de engravidar costuma ser preservada, embora haja mais apresentação anômala e parto pré-termo. A orientação é que a fertilidade não está comprometida; o septo vaginal só exige ressecção se causar dispareunia ou obstrução.",
+  "porAlt": [
+   "Útero unicorno tem um único corno, por falha de desenvolvimento de um ducto, e não duas cavidades com dois colos.",
+   "No bicorno há um corpo uterino com fundo em reentrância; dois colos com cornos totalmente separados caracterizam o didelfo.",
+   "Correta: duplicação completa de corpo e colo com septo vaginal é útero didelfo, de bom prognóstico para engravidar.",
+   "O útero septado tem contorno externo do fundo normal e uma única massa uterina; aqui os cornos são separados.",
+   "O arqueado é apenas leve indentação do fundo da cavidade, sem duplicação de colo ou de cornos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 1
+  }
+ },
+ {
+  "pid": "g24002",
+  "q": "Após referir ciclos irregulares e dificuldade de identificar a “janela fértil”, uma paciente de 38 anos realiza uma ultrassonografia transvaginal para controle de ovulação. No décimo sexto dia do ciclo menstrual, é identificada uma imagem anecoica com anel vascular ao redor sugestiva de corpo lúteo. Em relação a essa fase do ciclo menstrual, é correto afirmar que:",
+  "alts": [
+   "encontram-se nela folículos com cerca de 2 a 8 mm que dependem de FSH para o seu crescimento;",
+   "acontece aproximadamente 36 horas após pico de FSH, fundamental para o término da maturação folicular;",
+   "caracteriza-se pela produção máxima de estradiol, o que promove feedback negativo sobre a hipófise;",
+   "caracteriza-se pelo papel fundamental do estradiol na transformação endometrial e nos estágios iniciais do desenvolvimento embrionário;",
+   "apresenta síntese de esteroides direcionada para a produção de progesterona."
+  ],
+  "gab": 4,
+  "tema": "ginecologia",
+  "sub": "Fisiologia do ciclo: fase lútea",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Speroff's Clinical Gynecologic Endocrinology and Infertility, 9ª ed., 2019",
+  "coment": "Corpo lúteo no 16º dia indica fase lútea, iniciada após a ovulação. As células da granulosa e da teca luteinizadas, sob ação do LH, direcionam a esteroidogênese para a progesterona (com um segundo pico menor de estradiol), que transforma o endométrio proliferativo em secretor e prepara a implantação. Folículos de 2 a 8 mm dependentes de FSH pertencem à fase folicular, o pico de estradiol com feedback positivo antecede a ovulação, e a ovulação ocorre 34 a 36 horas após o início do pico de LH, não de FSH.",
+  "porAlt": [
+   "Folículos antrais pequenos recrutados pelo FSH caracterizam a fase folicular, antes da ovulação.",
+   "A ovulação ocorre cerca de 34 a 36 horas após o início do pico de LH; além disso, corpo lúteo já indica fase pós-ovulatória.",
+   "O pico de estradiol ocorre no fim da fase folicular e exerce feedback positivo, desencadeando o pico de LH.",
+   "A transformação secretora do endométrio e o suporte inicial da gestação dependem da progesterona do corpo lúteo, não do estradiol.",
+   "Correta: o corpo lúteo, estimulado pelo LH, produz sobretudo progesterona na fase lútea."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 2
+  }
+ },
+ {
+  "pid": "g24003",
+  "q": "Uma paciente de 16 anos vai à primeira consulta ginecológica. Demonstra, desde o início, muita ansiedade com a consulta. Não apresenta queixas e refere não ter iniciado vida sexual. A respeito dessa consulta, é importante considerar que:",
+  "alts": [
+   "exame especular ou toque vaginal não serão realizados dessa vez;",
+   "o toque retal consiste em etapa importante para correta avaliação da paciente;",
+   "o exame das mamas não compõe parte importante do exame ginecológico em paciente nessa faixa etária;",
+   "dados da ocorrência de neoplasias como as das mamas, intestinais e dos ovários e que tenham ocorrido principalmente na parentela de terceiro grau são fundamentais;",
+   "a história sexual depende de situação individual de cada paciente e das circunstâncias do momento da consulta, não sendo essencial conhecer o número de parceiras e as práticas sexuais."
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Primeira consulta ginecológica da adolescente",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Proteger e cuidar da saúde de adolescentes na atenção básica, 2ª ed., 2018; Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, Parte I, 2025",
+  "coment": "Na primeira consulta de adolescente sem vida sexual, ansiosa e sem queixas, o foco é vínculo, anamnese ampliada e orientação. Não há indicação de exame especular nem de toque vaginal: não há queixa que os justifique e o rastreamento do colo só começa aos 25 anos (Diretrizes Brasileiras, Parte I, 2025). O exame das mamas e a inspeção da genitália externa fazem parte da avaliação (estadiamento de Tanner). A história sexual é essencial, abordada com confidencialidade, e o histórico familiar relevante é sobretudo o de parentes de primeiro e segundo grau.",
+  "porAlt": [
+   "Correta: sem atividade sexual e sem queixas, dispensa-se especular e toque, priorizando vínculo e orientação.",
+   "Toque retal não é etapa de rotina na adolescente assintomática; só se usa em situações específicas.",
+   "O exame das mamas, com estadiamento de Tanner, faz parte da consulta ginecológica da adolescente.",
+   "Histórico familiar de câncer tem peso nos parentes de primeiro e segundo grau, não principalmente nos de terceiro.",
+   "A história sexual, incluindo parcerias e práticas, é componente essencial da anamnese, colhida com confidencialidade."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 3
+  }
+ },
+ {
+  "pid": "g24004",
+  "q": "Uma paciente de 11 anos comparece à primeira consulta ginecológica com sua mãe em busca de informações sobre a vacina contra HPV. Nesse atendimento inicial, deve ser informado que:",
+  "alts": [
+   "teste de HPV ou citologia devem ser realizados antes da vacinação;",
+   "a vacina é contraindicada em quem tem infecção atual ou prévia pelo HPV;",
+   "a vacina tem contraindicações após os 26 anos;",
+   "a eficácia é máxima quando a vacinação é realizada antes do início da atividade sexual;",
+   "a vacina é contraindicada após o início de atividade sexual."
+  ],
+  "gab": 3,
+  "tema": "ginonco",
+  "sub": "Vacina HPV na pré-adolescente",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Nota Técnica nº 41/2024 (vacina HPV em dose única), 2024; OMS, Human papillomavirus vaccines: WHO position paper, 2022",
+  "coment": "A vacina HPV é profilática: induz anticorpos contra tipos ainda não adquiridos, por isso a eficácia é máxima antes da primeira exposição, ou seja, antes do início da vida sexual. Não exige teste de HPV nem citologia prévios, e infecção atual ou passada não a contraindica (protege contra os tipos não adquiridos). Início da vida sexual e idade acima de 26 anos reduzem o benefício, mas não são contraindicações. No PNI, desde 2024 o esquema para 9 a 14 anos é de dose única (Nota Técnica 41/2024), seguindo a OMS (2022).",
+  "porAlt": [
+   "Não há indicação de teste de HPV ou citologia antes de vacinar; a vacina é aplicada sem triagem.",
+   "Infecção prévia ou atual não contraindica a vacina, que ainda protege contra os tipos não adquiridos.",
+   "Após os 26 anos o benefício populacional cai, mas não existe contraindicação por idade.",
+   "Correta: aplicada antes da exposição ao vírus, isto é, antes da vida sexual, a vacina tem eficácia máxima.",
+   "Ter iniciado a vida sexual reduz o benefício esperado, mas não contraindica a vacinação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 4
+  }
+ },
+ {
+  "pid": "g24005",
+  "q": "Uma paciente de 56 anos, saudável, há 4 anos entrou na menopausa e está em vigência de terapia hormonal com estrogênio transdérmico e progesterona oral. Refere relacionamento de 29 anos, porém queixa-se de falta de interesse sexual de sua parte, há 2 anos. Nega falta de afeto pelo marido e ressecamento vaginal ou dor na relação. Afirma apenas que tem pouco interesse espontâneo por sexo, o que tem gerado conflitos com o marido e sofrimento para ela. Quando a intimidade acontece, relata que tem prazer. A respeito das orientações que compõem a abordagem dessa paciente, o ginecologista deve considerar que:",
+  "alts": [
+   "o vaginismo é a principal hipótese diagnóstica;",
+   "a disfunção de excitação é a principal hipótese diagnóstica;",
+   "a falta de desejo responsivo a impede de ser funcional na relação sexual;",
+   "o desejo sexual hipoativo é hipótese diagnóstica, sendo essa a disfunção mais prevalente entre as mulheres;",
+   "não existe um estímulo gatilho que seja capaz de otimizar a questão da falta de desejo espontâneo."
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Transtorno do desejo sexual hipoativo",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ISSWSH. Process of Care for the Management of Hypoactive Sexual Desire Disorder in Women, 2018; DSM-5-TR, 2022",
+  "coment": "Ausência de desejo espontâneo há 2 anos, com sofrimento pessoal e conflito conjugal, sem dor, sem secura vaginal e com prazer preservado quando há atividade sexual, configura desejo sexual hipoativo. É a queixa sexual feminina mais prevalente, sobretudo na peri e pós-menopausa. O modelo circular de Basson explica que muitas mulheres têm desejo responsivo, que surge após estímulo e intimidade, o que orienta a terapia sexual e o uso de gatilhos. Vaginismo e disfunção de excitação não se encaixam, pois não há dor nem falha de lubrificação ou de excitação (ISSWSH, 2018; DSM-5-TR, 2022).",
+  "porAlt": [
+   "Vaginismo cursa com contração involuntária e dor ou impossibilidade de penetração, ausentes no caso.",
+   "Ela relata prazer e não refere falha de lubrificação ou de excitação; o problema é a falta de interesse espontâneo.",
+   "O desejo responsivo, despertado pela intimidade, permite vida sexual satisfatória e é base do modelo de Basson.",
+   "Correta: falta de desejo espontâneo com sofrimento sugere desejo sexual hipoativo, a disfunção feminina mais prevalente.",
+   "Estímulos e gatilhos contextuais podem despertar o desejo responsivo e fazem parte da abordagem terapêutica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 5
+  }
+ },
+ {
+  "pid": "g24007",
+  "q": "Uma paciente de 58 anos, há 6 anos na menopausa, está em terapia hormonal oral com 1 mg de estradiol e 2 mg de drospirenona. Nunca teve queixas ginecológicas e suas colpocitologias sempre tiveram resultados normais. Teve 4 partos vaginais e há 2 anos queixa-se de sensação de “bola na vagina” ao final do dia. O exame clínico evidenciou prolapso uterino e de parede vaginal anterior, sendo indicada histerectomia vaginal com colporrafia anterior. Após a cirurgia, devem ser considerados os seguintes ajustes na conduta:",
+  "alts": [
+   "manutenção da rotina de rastreamento de câncer de colo uterino e aumento de dose de estradiol da terapia normal;",
+   "manutenção da rotina de rastreamento de câncer de colo uterino e aumento de dose de progesterona da terapia normal;",
+   "suspensão do rastreamento de câncer de colo uterino e manutenção apenas da terapia hormonal (E2);",
+   "suspensão do rastreamento de câncer de colo uterino e manutenção do esquema de terapia hormonal;",
+   "suspensão do rastreamento de câncer de colo uterino e suspensão do esquema de terapia hormonal."
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Pós-histerectomia: rastreio e terapia hormonal",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, 2016, e Parte I, 2025; Consenso Brasileiro de Terapêutica Hormonal da Menopausa (SOBRAC), 2018",
+  "coment": "Após histerectomia total por doença benigna, em mulher com rastreamentos sempre normais e sem história de lesão de alto grau, o rastreamento do câncer do colo é suspenso, pois não há mais colo (INCA 2016, mantido na Parte I de 2025). Na terapia hormonal, o progestagênio existe apenas para proteger o endométrio contra a hiperplasia causada pelo estrogênio; sem útero, deixa de ter indicação e só acrescenta risco (mama, tromboembolismo). A conduta é manter apenas o estradiol, sem necessidade de mudar a dose.",
+  "porAlt": [
+   "Sem colo e com histórico normal, o rastreamento perde o sentido; aumentar o estradiol também não tem indicação.",
+   "O rastreamento deve ser suspenso, e sem útero o progestagênio passa a ser desnecessário, não a ser aumentado.",
+   "Correta: suspende-se o rastreamento e mantém-se só o estrogênio, pois sem endométrio não há função para o progestagênio.",
+   "Manter a drospirenona expõe a paciente a risco sem benefício, já que não há endométrio a proteger.",
+   "A cirurgia não muda a indicação da terapia hormonal para sintomas; basta retirar o progestagênio."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 7
+  }
+ },
+ {
+  "pid": "g24008",
+  "q": "Uma paciente de 45 anos recebeu resultado de colpocitologia oncótica de NIC II, sendo encaminhada para colposcopia. O laudo da colposcopia descreveu a presença de área de aspecto digitiforme, sobrelevada na altura da JEC, que se estende das 0h às 6h do colo uterino. Esse resultado é sugestivo de:",
+  "alts": [
+   "lesão sobrelevada, também conhecida como “sinal da crista”, com alta prevalência de neoplasia intraepitelital cervical de alto grau na análise histopatológica;",
+   "“lesão dentro de lesão” com baixa prevalência de neoplasia intraepitelital cervical de alto grau na análise histopatológica;",
+   "um achado menor, com baixa prevalência de neoplasia intraepitelital cervical de alto grau na análise histopatológica;",
+   "achado inespecífico com indicação de seguimento com colpocitologia oncótica semestral;",
+   "achado benigno sem indicação de investigações adicionais."
+  ],
+  "gab": 0,
+  "tema": "ginonco",
+  "sub": "Colposcopia: sinal da crista",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "IFCPC. Nomenclatura colposcópica internacional (Rio de Janeiro), 2011",
+  "coment": "Pela nomenclatura colposcópica da IFCPC (Rio, 2011), o sinal da crista (ridge sign) é uma área opaca e sobrelevada de epitélio acetobranco na junção escamocolunar ou dentro da zona de transformação, classificada entre os achados maiores (grau 2). Assim como o sinal da margem interna, associa-se a alta probabilidade de NIC 2 ou pior na biópsia. Diante de citologia de alto grau e achado maior, o próximo passo é a confirmação histológica (biópsia ou exérese da zona de transformação, conforme o caso), nunca o seguimento citológico isolado.",
+  "porAlt": [
+   "Correta: área sobrelevada na JEC é o sinal da crista, achado maior com alta prevalência de NIC de alto grau.",
+   "Lesão dentro de lesão é o sinal da margem interna, também achado maior, com alta e não baixa prevalência de alto grau.",
+   "Achado sobrelevado na JEC é classificado como maior, não menor, segundo a IFCPC 2011.",
+   "Com citologia de alto grau e achado maior, a conduta é histológica; citologia semestral atrasa o diagnóstico.",
+   "É achado anormal de grau 2 e exige investigação, não podendo ser tratado como benigno."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 8
+  }
+ },
+ {
+  "pid": "g24009",
+  "q": "Uma paciente de 42 anos, gesta 2 para 2 (2 partos cesáreos), chega à consulta referindo aumento do sangramento e cólicas no período menstrual. Não faz uso de método contraceptivo. Rotina laboratorial aponta anemia. A ultrassonografia transvaginal evidencia assimetria de paredes uterinas, cistos miometriais e linhas de sombra acústica posterior. Frente à situação descrita, deve-se considerar a hipótese de:",
+  "alts": [
+   "sangramento uterino disfuncional;",
+   "mioma intramural;",
+   "endometriose peritoneal;",
+   "adenomiose;",
+   "achados típicos da quarta década de vida."
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Adenomiose na ultrassonografia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Consenso MUSA revisado (Morphological Uterus Sonographic Assessment), 2022; FIGO, sistema PALM-COEIN, 2018",
+  "coment": "Sangramento menstrual aumentado, dismenorreia secundária, cesáreas prévias e anemia aos 42 anos, com ultrassonografia mostrando assimetria das paredes, cistos miometriais e sombras acústicas lineares em leque, compõem o quadro típico de adenomiose. Esses são critérios diretos e indiretos do consenso MUSA (revisado em 2022). Mioma intramural aparece como nódulo bem delimitado, com sombra nas bordas, e não como cistos difusos no miométrio. Sangramento disfuncional é termo abandonado pela FIGO (2018), e aqui há causa estrutural evidente.",
+  "porAlt": [
+   "Há causa estrutural evidente; além disso, o termo foi substituído pela classificação PALM-COEIN da FIGO.",
+   "Mioma intramural é nódulo circunscrito, sem cistos miometriais nem estrias de sombra em leque.",
+   "Endometriose peritoneal não produz alterações no miométrio e raramente é vista na ultrassonografia.",
+   "Correta: assimetria de paredes, cistos miometriais e sombras em leque são sinais ultrassonográficos de adenomiose.",
+   "São achados patológicos que explicam o sangramento e a anemia, não alterações próprias da idade."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 9
+  }
+ },
+ {
+  "pid": "g24010",
+  "q": "Uma paciente de 18 anos, saudável, já iniciou vida sexual, sem intercorrências. Faz uso regular de preservativos e tem parceiro fixo. Aos 11 anos, foi vacinada para HPV no posto de saúde. Refere, há 2 meses, desconforto pélvico na relação sexual e na prática de atividades esportivas. Nega queixas urinárias, menstruais e intestinais. Ao exame, apresenta-se corada, hidratada e com bom estado geral. Seu abdômen está flácido e indolor à palpação superficial e profunda. O exame especular revela colo uterino de aspecto rosado, orifício interno puntiforme, secreção vaginal clara, sem odor. O toque vaginal indica útero móvel e indolor à mobilização e aumento de volume de ambos os ovários. Foi solicitada uma ultrassonografia transvaginal, que evidenciou ovário direito com imagem hiperecogênica que produz sobra, sem vascularização ao doppler, medindo 4,8 cm, e ovário esquerdo com imagem cística com componente sólido, sem vascularização ao doppler, medindo 5,6 cm. Nesse cenário clínico, a principal hipótese e a conduta são, respectivamente:",
+  "alts": [
+   "doença inflamatória pélvica e início de antibioticoterapia venosa;",
+   "teratomas ovarianos e prosseguimento da investigação com provável indicação cirúrgica;",
+   "cistos funcionais e repetição da ultrassonografia em 3 meses com provável regressão das imagens;",
+   "endometriomas e início de bloqueio hormonal;",
+   "corpos lúteos e administração de analgésicos orais."
+  ],
+  "gab": 1,
+  "tema": "ginecologia",
+  "sub": "Teratoma ovariano maduro bilateral",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American College of Radiology. O-RADS US Risk Stratification and Management System, versão 2022",
+  "coment": "Imagem hiperecogênica com sombra acústica posterior e sem fluxo ao Doppler é o padrão clássico do teratoma cístico maduro (cisto dermoide), assim como o cisto com componente sólido avascular (nódulo de Rokitansky). Em 10% a 15% dos casos é bilateral. Pelo O-RADS US (ACR, 2022), o dermoide clássico é lesão de baixo risco, mas com mais de 5 cm e sintomático, como aqui (dor pélvica e risco de torção), indica cistectomia, preferencialmente laparoscópica e preservando ovário. Cistos funcionais e corpo lúteo não têm sombra acústica; endometrioma tem aspecto em vidro fosco.",
+  "porAlt": [
+   "Não há febre, dor à mobilização nem secreção purulenta; as imagens são de lesões ovarianas, não de abscesso.",
+   "Correta: o padrão hiperecogênico com sombra e o componente sólido avascular sugerem teratomas, com abordagem cirúrgica.",
+   "Cistos funcionais são anecoicos, de paredes finas e sem sombra acústica, o que não corresponde às imagens.",
+   "Endometrioma tem conteúdo homogêneo em vidro fosco, sem a sombra acústica típica do dermoide.",
+   "Corpo lúteo tem anel vascular periférico ao Doppler; as lesões descritas são avasculares e com sombra."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 10
+  }
+ },
+ {
+  "pid": "g24011",
+  "q": "Por ser de fácil obtenção durante o exame ginecológico, o raspado ou mesmo a secreção vaginal e cervical são muito utilizados na prática do dia a dia para os diagnósticos moleculares. A maior vantagem da coleta da secreção vaginal reside na possibilidade de se fazerem vários testes a partir de uma única amostra. Em relação a esse tema, é correto afirmar que:",
+  "alts": [
+   "em amostra da secreção cervicovaginal preservada em meio líquido, é possível realizar avaliação da citologia cervical e pesquisa de HPV, Chlamydia e Neisseria;",
+   "em uma amostra da secreção cervicovaginal preservada em meio líquido, é possível fazer avaliação da citologia cervical, mas não estudo do Ureaplasma e Mycoplasma;",
+   "em amostra da secreção cervicovaginal preservada em meio líquido, o valor preditivo positivo para Chlamydia é 50%;",
+   "em amostra da secreção cervicovaginal preservada em meio líquido, o valor preditivo positivo para Neisseria é 50%;",
+   "não é possível pesquisar Chlamydia ou Neisseria em amostras de urina. "
+  ],
+  "gab": 0,
+  "tema": "gininfec",
+  "sub": "Testes moleculares em meio líquido",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "A amostra cervicovaginal em meio líquido permite, com uma única coleta, fazer o exame citológico e testes moleculares (NAAT/PCR) para HPV oncogênico, Chlamydia trachomatis e Neisseria gonorrhoeae, além de painéis para Mycoplasma e Ureaplasma. O PCDT IST (2022) recomenda testes de amplificação de ácidos nucleicos para clamídia e gonococo, que aceitam amostra cervical, vaginal ou urina de primeiro jato. Esses testes têm sensibilidade e especificidade acima de 90%, logo valor preditivo positivo em torno de 50% não descreve o método.",
+  "porAlt": [
+   "Correta: a mesma amostra em meio líquido serve para citologia e para testes moleculares de HPV, clamídia e gonococo.",
+   "Painéis moleculares para Ureaplasma e Mycoplasma também podem ser feitos na amostra em meio líquido.",
+   "O teste molecular para clamídia tem alta especificidade; valor preditivo positivo de 50% não descreve o método.",
+   "O teste molecular para gonococo tem desempenho elevado; não há valor preditivo positivo fixo de 50%.",
+   "Urina de primeiro jato é amostra validada para pesquisa molecular de clamídia e gonococo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 11
+  }
+ },
+ {
+  "pid": "g24012",
+  "q": "Uma paciente de 27 anos vai à consulta ginecológica de rotina, sem apresentar queixas. Ela refere que terminou sua pós-graduação e passará um ano viajando pelo mundo. Diante disso, foi orientada quanto à importância da atualização do calendário vacinal para saúde da mulher. Nessa mesma consulta, o(a) ginecologista explica corretamente à paciente que:",
+  "alts": [
+   "a vacinação precisa ser planejada com antecedência para ser finalizada pelo menos 60 dias antes da viagem. Geralmente, os destinos de alto risco são países em desenvolvimento, destinos tropicais e zonas rurais. O risco é maior nos casos em que o viajante permanecerá por mais de 4 semanas;",
+   "vacina tomada é vacina contabilizada. A paciente deve tomar a(s) dose(s) que falta(m), não sendo necessário recomeçar um esquema. O esquema é completado, nunca reiniciado. Isso é válido para qualquer vacina;",
+   "o intervalo entre doses de vacinas pode ser abreviado sem prejuízo à obtenção de uma resposta imune adequada. Isso é relevante no caso de gerenciamento de tempo para administração das vacinas, considerando-se a data da viagem;",
+   "há limites para vacinas concomitantes mesmo quando aplicadas em locais diferentes. Imunossuprimidos geralmente têm esquemas de utilização específicos;",
+   "deve ser realizada contracepção após vacinação para sarampo, caxumba, rubéola, varicela, febre amarela e influenza. O prazo ideal mínimo é de 4 semanas de contracepção."
+  ],
+  "gab": 1,
+  "tema": "vigilancia",
+  "sub": "Princípios de vacinação do adulto",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Normas e Procedimentos para Vacinação, 2014",
+  "coment": "Pelo Manual de Normas e Procedimentos para Vacinação (MS, 2014), dose aplicada é dose válida: o esquema interrompido é completado com as doses que faltam, sem reiniciar, regra geral do PNI. Os intervalos mínimos entre doses não podem ser encurtados, sob risco de resposta imune inadequada. Vacinas inativadas e atenuadas injetáveis podem ser aplicadas no mesmo dia em locais diferentes, sem limite de número no adulto imunocompetente. Evitar gestação por 30 dias é recomendado após vacinas atenuadas como tríplice viral e varicela, não após influenza, que é inativada. Para viagens, o ideal é começar 4 a 6 semanas antes.",
+  "porAlt": [
+   "O planejamento ideal começa 4 a 6 semanas antes da viagem, e a febre amarela exige 10 dias; 60 dias não é a regra.",
+   "Correta: dose aplicada é dose contada, e o esquema interrompido é completado, nunca reiniciado.",
+   "Os intervalos mínimos entre doses não devem ser abreviados, sob risco de resposta imune inadequada.",
+   "Para adulto imunocompetente não há limite de vacinas no mesmo dia, desde que em locais diferentes.",
+   "A contracepção de 30 dias vale para vacinas atenuadas; influenza é inativada e não exige esse cuidado."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 12
+  }
+ },
+ {
+  "pid": "g24013",
+  "q": "Uma paciente de 34 anos realizou colpocitologia oncótica no início do pré-natal, com resultado de atipia celular de significado indeterminado, não se podendo excluir lesão de alto grau (ASC-H). Foi então encaminhada para colposcopia com 16 semanas. O resultado da área biopsiada confirmou NIC 2. Frente a esse resultado, a conduta deve ser:",
+  "alts": [
+   "reavaliar 90 dias após o parto;",
+   "considerar o resultado um falso positivo pela imunossupressão da gestação;",
+   "realizar colpocitologia oncótica de 3/3 meses durante a gestação;",
+   "acompanhar com colposcopia 1 mês antes e 1 mês após o parto;",
+   "realizar procedimento cirúrgico para exérese da lesão."
+  ],
+  "gab": 0,
+  "tema": "ginonco",
+  "sub": "NIC 2 na gestação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, 2ª ed., 2016",
+  "coment": "Na gestação, o objetivo da colposcopia é excluir invasão. Confirmada NIC 2 sem suspeita de carcinoma invasor, o tratamento é adiado: a progressão para câncer durante a gravidez é rara, há chance relevante de regressão no pós-parto e a exérese da zona de transformação na gestação aumenta sangramento, abortamento e parto pré-termo. As Diretrizes do INCA (2016) recomendam reavaliação citológica e colposcópica 90 dias após o parto. Só a suspeita de invasão justifica nova biópsia ou procedimento na gestação. A gestação não transforma o achado histológico em falso positivo.",
+  "porAlt": [
+   "Correta: sem suspeita de invasão, a NIC 2 na gestação é reavaliada 90 dias após o parto.",
+   "A gestação não invalida o achado histológico; a NIC 2 é real e precisa de reavaliação pós-parto.",
+   "Citologias trimestrais não mudam a conduta e não são recomendadas quando a invasão foi afastada.",
+   "Não há indicação de colposcopia programada perto do parto; a reavaliação é feita cerca de 90 dias depois.",
+   "Exérese na gestação aumenta sangramento e perda gestacional e é reservada à suspeita de invasão."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 13
+  }
+ },
+ {
+  "pid": "g24014",
+  "q": "Uma paciente de 63 anos, viúva, sem relação sexual há 4 anos, não realiza terapia hormonal. Tem hipotireoidismo com bom controle e resistência insulínica manejada com mudanças de estilo de vida. Apresentou desconforto intenso durante o exame especular, quando foram observados mucosa pálida, muco escasso, espesso e opaco e orifício interno fechado com dificuldade de obtenção de amostra endocervical na coleta da colpocitologia oncótica. Como conduta adequada para melhorar o exame dessa paciente e obter amostra satisfatória para rastreio de câncer de colo uterino, o(a) ginecologista deve prescrever:",
+  "alts": [
+   "técnicas de relaxamento com compressas mornas antes do próximo exame ginecológico;",
+   "hidratante vaginal com ácido hialurônico por 7 dias, realizando o exame 3 dias depois do término do hidratante;",
+   "fisioterapia pélvica para que a paciente tenha mais conforto;",
+   "estriol ou promestrieno em creme, durante 15 a 20 dias, realizando exame 30 dias depois do término do creme;",
+   "estradiol de 1 mg ao dia, por 15 a 20 dias, realizando o exame no último dia de tomada do comprimido."
+  ],
+  "gab": 4,
+  "tema": "ginonco",
+  "sub": "Coleta citológica na atrofia pós-menopausa",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "INCA. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, 2ª ed., 2016",
+  "coment": "Mucosa pálida, muco escasso e orifício interno fechado aos 63 anos refletem hipoestrogenismo: a junção escamocolunar recua para o canal e a amostra endocervical fica insatisfatória. A estrogenização prévia recupera o trofismo e everte a junção, permitindo coleta adequada. O efeito sobre o colo é transitório, por isso a coleta deve ser feita ainda sob estímulo estrogênico: no esquema oral curto, no último dia do comprimido. As Diretrizes do INCA (2016) também aceitam estrogênio vaginal (estriol ou promestrieno), mas com coleta 5 a 7 dias após o fim do creme; esperar 30 dias faz o efeito se perder. Hidratante, relaxamento e fisioterapia não corrigem a atrofia.",
+  "porAlt": [
+   "Compressas e relaxamento não revertem a atrofia nem expõem a junção escamocolunar recuada.",
+   "Hidratante vaginal alivia a secura, mas não tem efeito estrogênico sobre o epitélio nem sobre a junção.",
+   "Fisioterapia pélvica melhora o conforto, mas não torna a amostra endocervical satisfatória.",
+   "O estrogênio vaginal é opção, mas a coleta deve ocorrer cerca de 5 a 7 dias após o término; em 30 dias o efeito se perde.",
+   "Correta: estradiol oral por curto período, com coleta ainda sob seu efeito, melhora o trofismo e expõe a junção."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 14
+  }
+ },
+ {
+  "pid": "g24015",
+  "q": "Uma paciente de 18 anos busca consulta ginecológica, pois nunca menstruou. No exame físico, observa-se baixa estatura, pescoço alado, cúbito valgo e presença de sinais de puberdade. Após avaliação do quadro de amenorreia primária, foi realizada uma análise genética, que evidenciou mosaicismo cromossômico 45,X/46,XX. Foi realizado, então, aconselhamento da paciente, que pergunta ansiosamente sobre seu futuro reprodutivo. Faz parte dessa consulta orientar que:",
+  "alts": [
+   "a paciente tem fenótipo clássico da Síndrome de Turner, sem impacto no cenário reprodutivo se a dosagem do FSH for normal;",
+   "a falência ovariana na Síndrome de Turner ocorre devido à atresia folicular acelerada, manifestando-se geralmente na infância; contudo, nos casos de mosaico, a reserva ovariana é aumentada;",
+   "a minoria das pacientes com Síndrome de Turner (2% a 5%) consegue obter gestação espontânea. Uma opção reprodutiva que tem se mostrado promissora para as pacientes é a ovorrecepção. A gestação nessas pacientes não tem relato de intercorrências clínicas;",
+   "a preservação de fertilidade com o congelamento de oócitos pode ser possível. Os fatores preditivos para a presença de folículos nessas pacientes são o cariótipo em mosaico, sinais de puberdade espontânea e concentrações normais dos hormônios folículo-estimulante e antimulleriano;",
+   "a maioria das pacientes com monossomia do cromossomo X é fértil, porém observa-se o aumento de risco de 1% a 5% de ocorrência de anormalidades cromossômicas na prole, independentemente da idade da mulher. Em mulheres com cariótipo em mosaico, os riscos podem variar individualmente. O tratamento de reprodução assistida com análise genética pré-implantacional pode ser oferecido nesses casos. "
+  ],
+  "gab": 3,
+  "tema": "reprodutiva",
+  "sub": "Turner em mosaico e preservação da fertilidade",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r3",
+  "base": "Gravholt CH et al. Clinical practice guidelines for the care of girls and women with Turner syndrome, Eur J Endocrinol, 2024",
+  "coment": "No mosaicismo 45,X/46,XX a linhagem normal retarda a atresia folicular, de modo que parte das pacientes tem puberdade espontânea e mantém alguma reserva por certo tempo, embora a insuficiência ovariana prematura continue provável. Por isso a orientação precoce sobre preservação da fertilidade é central: a criopreservação de oócitos após estimulação é viável sobretudo quando há mosaico, puberdade espontânea, FSH normal e hormônio antimülleriano detectável, os principais preditores de folículos (diretriz internacional de Turner, 2024). Gestação em Turner, espontânea ou por ovodoação, tem alto risco cardiovascular (dissecção aórtica) e hipertensivo.",
+  "porAlt": [
+   "O mosaico não garante fertilidade; FSH normal hoje não afasta a insuficiência ovariana precoce.",
+   "A atresia acelerada é o mecanismo, mas o mosaicismo atenua a perda, não aumenta a reserva ovariana.",
+   "A gestação em Turner, inclusive por ovodoação, tem risco elevado de dissecção aórtica e pré-eclâmpsia.",
+   "Correta: mosaico, puberdade espontânea, FSH e AMH normais predizem folículos e viabilizam o congelamento de oócitos.",
+   "A maioria das mulheres com monossomia do X é infértil por insuficiência ovariana, não fértil."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 15
+  }
+ },
+ {
+  "pid": "g24016",
+  "q": "Um paciente de 28 anos, sem vida sexual ativa no momento, vem ao(à) ginecologista com diagnóstico prévio de síndrome dos ovários policísticos. No momento, sua queixa é a irregularidade menstrual, que gera imprevisibilidade quanto ao período em que terá sangramento, o que atrapalha seu dia a dia. A proposta terapêutica adequada a ser prescrita especificamente para essa queixa é:",
+  "alts": [
+   "atividade física por 30 minutos por dia, 7 dias na semana;",
+   "apenas orientação, já que se trata de um padrão de ciclo normal, sem riscos à sua saúde;",
+   "administração de associação de etinil estradiol com progestagênio intermitente por 10 a 14 dias do ciclo, como, por exemplo, do 15º ao 25º dia do ciclo;",
+   "administração de etinil estradiol intermitente por 10 a 14 dias do ciclo, como, por exemplo, do 15º ao 25º dia do ciclo;",
+   "administração de progestagênio intermitente por 10 a 14 dias do ciclo, como, por exemplo, do 15º ao 25º dia do ciclo."
+  ],
+  "gab": 4,
+  "tema": "ginecologia",
+  "sub": "SOP: regularização do ciclo",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome, 2023",
+  "coment": "A queixa é imprevisibilidade do sangramento numa mulher sem vida sexual, portanto sem necessidade de contracepção. O progestagênio cíclico (por exemplo, acetato de medroxiprogesterona 10 mg por 10 a 14 dias a cada mês) provoca descamação programada do endométrio, dá previsibilidade ao fluxo e protege contra a hiperplasia do estrogênio sem oposição da anovulação. O anticoncepcional combinado também é primeira linha na diretriz internacional de SOP (2023), mas usado de forma contínua ou em ciclos de 21 dias, não por 10 a 14 dias. Exercício melhora o perfil metabólico, mas não regulariza o ciclo de forma confiável.",
+  "porAlt": [
+   "Atividade física melhora resistência insulínica e peso, mas não garante previsibilidade do sangramento.",
+   "Ciclos anovulatórios da SOP não são normais e expõem o endométrio a estrogênio sem oposição.",
+   "Combinado por 10 a 14 dias do ciclo não é esquema reconhecido; o contraceptivo combinado é usado contínuo ou em 21 dias.",
+   "Estrogênio isolado sem progestagênio aumenta o risco de hiperplasia e não organiza a descamação.",
+   "Correta: progestagênio por 10 a 14 dias ao mês induz sangramento previsível e protege o endométrio."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 16
+  }
+ },
+ {
+  "pid": "g24017",
+  "q": "Considere o cenário de nódulo palpável de 2 cm, móvel, em quadrante superior externo de mama esquerda em mulher de 40 anos, sem fatores de risco para câncer de mama. Considere ainda que a mamografia e a ultrassonografia foram categoria BI-RADS 2, e que as mamas têm densidade normal. Em relação a esse cenário, é correto afirmar que:",
+  "alts": [
+   "a razão de verossimilhança para malignidade fica entre 95% e o valor preditivo negativo é maior que 97%;",
+   "essa situação não é considerada segura, justificando indicação de biópsia;",
+   "a indicação é precisa de ressonância nuclear magnética de mamas;",
+   "uma alteração clínica pouco suspeita não justifica indicações de biópsias ou exames de imagem adicionais;",
+   "realização de mamografia e ultrassonografia mamária semestrais é indicada."
+  ],
+  "gab": 3,
+  "tema": "ginonco",
+  "sub": "Nódulo mamário com imagem benigna",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "American College of Radiology. ACR BI-RADS Atlas, 5ª ed., 2013",
+  "coment": "A avaliação de nódulo palpável segue o tripé exame clínico, imagem e, quando necessário, histologia. Em mulher de 40 anos sem fatores de risco, com nódulo móvel de características clínicas pouco suspeitas e mamografia e ultrassonografia BI-RADS 2 (achado benigno), a concordância dos componentes tem valor preditivo negativo muito alto, acima de 97%. Nessa situação o ACR BI-RADS (5ª ed., 2013) indica seguimento de rotina, sem biópsia, ressonância ou imagem a curto prazo. A biópsia fica reservada à discordância entre clínica e imagem ou à mudança do achado no seguimento.",
+  "porAlt": [
+   "A frase confunde razão de verossimilhança com percentual; o dado útil é o alto valor preditivo negativo do conjunto.",
+   "Clínica pouco suspeita concordante com imagem BI-RADS 2 é situação segura e não exige biópsia.",
+   "Ressonância não é indicada para esclarecer achado clínico pouco suspeito com imagem benigna.",
+   "Correta: alteração clínica pouco suspeita com imagem benigna dispensa biópsia e exames adicionais.",
+   "Controle semestral é reservado ao BI-RADS 3; o BI-RADS 2 segue o rastreamento de rotina."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 17
+  }
+ },
+ {
+  "pid": "g24018",
+  "q": "Uma paciente de 8 anos chega à consulta ginecológica acompanhada da mãe. A queixa é “corrimento notado na calcinha ao final do dia”. Nega prurido, ardor, hiperemia ou sangramento. A principal hipótese é:",
+  "alts": [
+   "corpo estranho;",
+   "vaginose bacteriana;",
+   "candidíase vulvovaginal;",
+   "hábitos de higiene inadequados;",
+   "fístula vesicovaginal."
+  ],
+  "gab": 3,
+  "tema": "gininfec",
+  "sub": "Vulvovaginite inespecífica na infância",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Emans, Laufer e DiVasta. Pediatric and Adolescent Gynecology, 7ª ed., 2019",
+  "coment": "Na menina pré-púbere, a mucosa vulvovaginal é fina e sem estrogênio, o pH é neutro e a proximidade com o ânus facilita contaminação. A causa mais frequente de corrimento é a vulvovaginite inespecífica, ligada a higiene inadequada (limpeza de trás para frente, roupas justas, sabonetes, banhos de espuma). Corrimento discreto notado na calcinha, sem prurido, hiperemia nem sangramento, é o retrato desse quadro, e a conduta é orientar a higiene. Corpo estranho cursa com secreção fétida e sanguinolenta; candidíase é rara antes da puberdade fora de diabetes, antibiótico ou fralda; vaginose depende do ambiente estrogênico.",
+  "porAlt": [
+   "Corpo estranho costuma dar corrimento fétido, persistente e com sangue, ausente aqui.",
+   "Vaginose bacteriana depende do ambiente estrogênico e é incomum na criança pré-púbere.",
+   "Candidíase é rara antes da puberdade, salvo uso de antibiótico, diabetes ou fralda, e daria prurido e hiperemia.",
+   "Correta: a vulvovaginite inespecífica por higiene inadequada é a causa mais comum de corrimento na infância.",
+   "Fístula vesicovaginal causa perda contínua de urina, quadro raro e sem relação com a história."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 18
+  }
+ },
+ {
+  "pid": "g24019",
+  "q": "Uma mulher de 28 anos refere uso abusivo de álcool em uma festa. Relata que, por volta das 2 horas da manhã, foi vítima de violência sexual com penetração por pessoa conhecida. Ela se lembra parcialmente do que ocorreu, porém é muito claro que não consentiu o ato e que houve força física envolvida. A abordagem com essa paciente inclui:",
+  "alts": [
+   "tratamento medicamentoso precoce do TEPT (transtorno de estresse pós-traumático);",
+   "encaminhamento ao Instituto Médico Legal antes do exame clínico em unidade de saúde;",
+   "atenção especial à mulher que foi vítima de “assalto sexual”, incluindo preocupações voltadas para saúde mental;",
+   "início de medicações profiláticas assim que os resultados dos exames colhidos estiverem disponíveis;",
+   "profilaxia para infecções sexualmente transmissíveis nos casos de exposição com risco de transmissão apenas na presença de lesões."
+  ],
+  "gab": 2,
+  "tema": "reprodutiva",
+  "sub": "Atendimento à violência sexual",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Norma Técnica Prevenção e Tratamento dos Agravos Resultantes da Violência Sexual contra Mulheres e Adolescentes, 3ª ed., 2012; Lei 12.845/2013; Decreto 7.958/2013",
+  "coment": "O atendimento à mulher em situação de violência sexual é urgência e não depende de boletim de ocorrência nem de passagem prévia pelo IML (Lei 12.845/2013 e Decreto 7.958/2013); os vestígios podem ser colhidos no próprio serviço. As profilaxias (anticoncepção de emergência, PEP do HIV, IST bacterianas e hepatite B) começam o quanto antes, idealmente nas primeiras 72 horas, sem esperar resultado de exames e independentemente de lesões visíveis. A atenção à saúde mental integra o cuidado desde o acolhimento, com seguimento posterior. Não há indicação de medicar TEPT precocemente, pois o diagnóstico exige evolução dos sintomas.",
+  "porAlt": [
+   "O TEPT exige sintomas por mais de um mês; medicação precoce não previne o quadro e não é conduta inicial.",
+   "O atendimento de saúde é prioritário e não depende de IML nem de boletim de ocorrência.",
+   "Correta: o cuidado integral inclui atenção à saúde mental desde o primeiro atendimento.",
+   "As profilaxias devem começar o mais cedo possível, sem esperar os resultados dos exames.",
+   "A profilaxia de IST é indicada pela exposição, independentemente da presença de lesões genitais."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 19
+  }
+ },
+ {
+  "pid": "g24020",
+  "q": "Uma paciente de 45, gesta 2 para 2 (partos vaginais), relata ao(à) ginecologista que não faz uso de método contraceptivo, pois o marido fez vasectomia. Tem dislipidemia e hipertensão arterial, ambas bem controladas com medicação e estilo de vida. A última colpocitologia oncótica foi realizada há 8 meses, com resultado normal. Refere que há 6 meses notou aumento do fluxo menstrual, sangramento intermenstrual e após relação sexual. A avaliação inicial e hipótese principal devem ser, respectivamente:",
+  "alts": [
+   "colpocitologia oncótica e lesão de alto grau no colo uterino;",
+   "ultrassonografia transvaginal e mioma subseroso;",
+   "ultrassonografia transvaginal e pólipo endometrial;",
+   "histeroscopia e atrofia endometrial;",
+   "ressonância nuclear magnética de pelve e endometriose."
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Sangramento uterino anormal: pólipo",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "FIGO. Sistema PALM-COEIN de sangramento uterino anormal, revisão de 2018",
+  "coment": "Aos 45 anos, sangramento intermenstrual e pós-coito com aumento de fluxo, e citologia normal há 8 meses, sugere lesão endometrial focal. Pela classificação PALM-COEIN (FIGO, 2018), a ultrassonografia transvaginal é o exame inicial para causas estruturais, e o pólipo endometrial é a causa clássica de sangramento intermenstrual e pós-coito. Mioma subseroso cresce para fora da cavidade e raramente causa sangramento. Histeroscopia confirma e trata, mas vem depois da ultrassonografia. Atrofia endometrial é causa de sangramento na pós-menopausa, não na menacme.",
+  "porAlt": [
+   "A citologia recente foi normal; o padrão de sangramento aponta para lesão endometrial, investigada por ultrassonografia.",
+   "A ultrassonografia é o exame certo, mas mioma subseroso não distorce a cavidade e raramente sangra.",
+   "Correta: ultrassonografia transvaginal é o exame inicial, e pólipo explica sangramento intermenstrual e pós-coito.",
+   "Histeroscopia não é o primeiro exame, e atrofia endometrial é causa típica da pós-menopausa.",
+   "Ressonância não é exame inicial de sangramento uterino, e endometriose não explica sangramento intermenstrual."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 20
+  }
+ },
+ {
+  "pid": "g24021",
+  "q": "Uma mulher de 27 anos apresenta quadro clínico de ciclos menstruais irregulares, chegando a ficar mais de 90 dias sem menstruar, associado a queixas de acne e queda de cabelos de longa data. Ao exame, apresenta peso de 90,1 kg, 158 cm de altura e avaliação pela escala de Ferriman-Gallwey de 12 pontos. Os exames complementares registraram ultrassonografia transvaginal evidenciando ovário direito com volume 13 mL e presença de 21 folículos antrais inferiores a 10 mm e ovário esquerdo com volume 11 mL e presença de 29 folículos antrais inferiores a 10 mm, dosagem de FSH 5,6 UI/L, LH 12,2UI/L. TSH 2,4 mUI/L, prolactina 18,0 ng/mL, cortisol salivar noturno < 0,2 mcg/mL, SDHEA 205,0 mcg/dL e 17-OH-progesterona 28,0 ng/dL. Considerando as informações acima, o diagnóstico mais provável é:",
+  "alts": [
+   "tumor de adrenal;",
+   "síndrome de Cushing;",
+   "microadenoma de hipófise;",
+   "hiperplasia adrenal congênita;",
+   "síndrome dos ovários policísticos. "
+  ],
+  "gab": 4,
+  "tema": "ginecologia",
+  "sub": "SOP: diagnóstico e exclusões",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome, 2023",
+  "coment": "Oligomenorreia (até 90 dias sem menstruar), hiperandrogenismo clínico (acne, alopecia, Ferriman-Gallwey 12) e morfologia policística (20 ou mais folículos por ovário, aqui 21 e 29) preenchem os três critérios de Rotterdam, adotados pela diretriz internacional de 2023. A SOP é diagnóstico de exclusão, e as exclusões foram feitas: TSH e prolactina normais afastam tireoidopatia e hiperprolactinemia; cortisol salivar noturno baixo afasta Cushing; SDHEA normal afasta tumor adrenal; 17-hidroxiprogesterona basal de 28 ng/dL (abaixo de 200) afasta hiperplasia adrenal congênita não clássica.",
+  "porAlt": [
+   "Tumor adrenal virilizante elevaria muito o SDHEA, que está normal, e daria quadro de instalação rápida.",
+   "Cortisol salivar noturno baixo afasta hipercortisolismo endógeno.",
+   "Prolactina normal afasta prolactinoma, o microadenoma que causaria a irregularidade menstrual.",
+   "17-hidroxiprogesterona basal abaixo de 200 ng/dL praticamente exclui a forma não clássica.",
+   "Correta: oligoanovulação, hiperandrogenismo e morfologia policística, com exclusões feitas, definem SOP."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 21
+  }
+ },
+ {
+  "pid": "g24022",
+  "q": "Uma mulher de 67 anos, com histórico de 2 partos vaginais há 35 e 30 anos, obesa, portadora de diabetes melitus tipo 2, controlada com uso de metformina, apresenta queixas de não conseguir segurar a urina até chegar ao banheiro e de perda urinária involuntária ao tossir há 8 meses. Realizou cultura de urina, que foi negativa. A avaliação urodinâmica a que foi submetida evidenciou contrações involuntárias do detrursor na cistometria e uma pressão de perda urinária ao esforço de 48 cmH2O. Considerando o quadro acima, é correto afirmar que a paciente apresenta incontinência urinária:",
+  "alts": [
+   "de urgência por bexiga hiperativa isoladamente;",
+   "de esforço por defeito esfincteriano isoladamente;",
+   "de esforço por hipermobilidade do colo vesical isoladamente;",
+   "mista por bexiga hiperativa e defeito esfincteriano;",
+   "mista por bexiga hiperativa e hipermobilidade do colo vesical."
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Incontinência urinária mista",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "IUGA/ICS Joint Report on the Terminology for Female Pelvic Floor Dysfunction, 2010",
+  "coment": "Urgência com perda antes de chegar ao banheiro e perda ao tossir caracterizam clinicamente incontinência mista. A urodinâmica confirma os dois componentes: contrações involuntárias do detrusor na cistometria (hiperatividade detrusora) e perda aos esforços com pressão de perda abdominal de 48 cmH2O. Pressão de perda abaixo de 60 cmH2O indica deficiência esfincteriana intrínseca; acima de 90 sugere hipermobilidade do colo vesical, com faixa intermediária entre esses valores. Por isso o diagnóstico é incontinência mista por bexiga hiperativa e defeito esfincteriano (terminologia IUGA/ICS, 2010).",
+  "porAlt": [
+   "Há também perda aos esforços demonstrada na urodinâmica, logo o componente de urgência não é isolado.",
+   "Existe hiperatividade detrusora associada, o que torna o quadro misto e não esfincteriano isolado.",
+   "Pressão de perda de 48 cmH2O indica defeito esfincteriano, e há ainda componente de urgência.",
+   "Correta: hiperatividade detrusora com pressão de perda abaixo de 60 cmH2O configura incontinência mista com defeito esfincteriano.",
+   "Hipermobilidade se associa a pressão de perda acima de 90 cmH2O; 48 cmH2O aponta defeito esfincteriano."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 22
+  }
+ },
+ {
+  "pid": "g24023",
+  "q": "Uma mulher de 27 anos, sem desejo de engravidar no momento, comparece à consulta ginecológica queixando-se de dismenorreia progressiva no último ano. O quadro iniciou-se após a suspensão da pílula contraceptiva, substituída por uso de preservativo em função do desejo de evitar o método hormonal. Nos últimos 3 ciclos menstruais, apresentou dor incapacitante com necessidade de realização de analgesia endovenosa no período menstrual. Nega patologias e cirurgias anteriores. Realizou ultrassonografia transvaginal no início da fase folicular do seu ciclo menstrual, que evidenciou útero retroversofletido, de tamanho normal, miométrio homogêneo e endométrio centrado, homogêneo, medindo 0,4 cm. O ovário direito apresenta parênquima homogêneo, com pequenos folículos, medindo 2,1 cm x 2,4 cm x 1,7 cm. O ovário esquerdo apresenta parênquima heterogêneo, rechaçado perifericamente, às custas de formação hipoecogênica de 4,0 cm x 3,5 cm x 3,0 cm. As medidas do ovário são 6,0 cm x 5,1 cm x 4,0 cm. Com base nas informações acima, e na principal hipótese diagnóstica, a conduta mais adequada para o caso é:",
+  "alts": [
+   "videolaparoscopia com ooforoplastia esquerda;",
+   "videolaparoscopia com ooforectomia esquerda;",
+   "drenagem percutânea ou transvaginal do cisto ovariano;",
+   "tratamento clínico com uso de progestágenos orais contínuos;",
+   "tratamento clínico com uso de análogos agonistas do GnRH de forma contínua."
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Endometrioma sem desejo reprodutivo",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ESHRE Guideline: Endometriosis, 2022",
+  "coment": "Dismenorreia progressiva incapacitante após suspender o anticoncepcional, com formação hipoecogênica de 4 cm no ovário esquerdo (aspecto de endometrioma), sugere endometriose ovariana. Sem desejo de gestação, a diretriz da ESHRE (2022) recomenda tratamento hormonal como primeira linha, e progestagênios orais contínuos (como dienogeste) controlam a dor e podem reduzir o endometrioma, com boa tolerância. Cirurgia fica para falha clínica, dúvida diagnóstica ou suspeita de malignidade, e a exérese do endometrioma reduz a reserva ovariana. Análogos de GnRH são segunda linha pelos efeitos de hipoestrogenismo. Drenagem isolada tem alta recidiva.",
+  "porAlt": [
+   "Cirurgia não é primeira linha sem falha do tratamento clínico, e a cistectomia reduz a reserva ovariana.",
+   "Ooforectomia em mulher de 27 anos com lesão benigna é desproporcional e compromete a fertilidade futura.",
+   "Drenagem isolada do endometrioma tem recidiva alta e não trata a doença.",
+   "Correta: sem desejo de gestação, progestagênio oral contínuo é a primeira linha para dor e endometrioma.",
+   "Análogos de GnRH são reservados à falha dos progestagênios pelos efeitos de hipoestrogenismo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 23
+  }
+ },
+ {
+  "pid": "g24024",
+  "q": "Uma mulher de 37 anos, casada, sem filhos, está tentando engravidar há 3 anos, sem sucesso. Desde que suspendeu a contracepção hormonal para iniciar tentativas de gravidez, seus ciclos menstruais passaram a apresentar dismenorreia progressiva. Há 1 ano, apresenta queixas de dispareunia profunda. O desejo familiar do casal é de ter 3 filhos. Exame físico: o toque vaginal evidencia útero em RVF, fixo, tamanho normal, anexos impalpáveis, nódulo endurecido em fundo de saco vaginal posterior, de 3 cm. Exames complementares: o espermograma do marido apresenta parâmetros normais; a histerossalpingografia evidencia prova de Cottè positiva, bilateralmente, sendo a trompa direita fixa distamente e a esquerda algo enovelada. O hormônio antimulleriano está a 0,51 ng/mL. A ressonância magnética de pelve evidencia espessamento em ligamento largo direito, endometrioma de 1,5 cm em ovário direito, placa de endometriose em fundo de saco posterior, de 3,5 cm x 2,5 cm com invasão de 0,5 cm da parede miometrial posterior, sem sinais de acometimento intestinal. Não há sinais de acometimento de raízes nervosas ou ureteres. Considerando o caso clínico acima, a conduta mais adequada para o casal em termos de tratamento da infertilidade é:",
+  "alts": [
+   "fertilização in vitro;",
+   "inseminação intrauterina;",
+   "indução de ovulação com coito programado;",
+   "videolaparoscopia com posterior coito programado;",
+   "uso de análogos de GnRH por 6 meses e posterior fertilização in vitro."
+  ],
+  "gab": 0,
+  "tema": "reprodutiva",
+  "sub": "Infertilidade com endometriose profunda",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ESHRE Guideline: Endometriosis, 2022",
+  "coment": "O casal reúne vários fatores que apontam diretamente para a fertilização in vitro: idade de 37 anos, reserva ovariana reduzida (hormônio antimülleriano de 0,51 ng/mL), fator tubário (trompa fixa e outra enovelada) e endometriose profunda com endometrioma, além do desejo de 3 filhos. A diretriz da ESHRE (2022) indica FIV quando há comprometimento tubário, endometriose avançada ou falha de outros tratamentos, e não recomenda supressão prolongada com análogo de GnRH antes da FIV para melhorar nascidos vivos. Cirurgia antes da FIV pode reduzir ainda mais a reserva, e inseminação e coito programado dependem de trompas funcionais.",
+  "porAlt": [
+   "Correta: idade, reserva baixa, fator tubário e endometriose profunda indicam fertilização in vitro.",
+   "Inseminação depende de trompas pérvias e funcionais, o que não ocorre neste caso.",
+   "Coito programado não supera fator tubário nem reserva ovariana reduzida.",
+   "A cirurgia retarda o tratamento, ameaça a reserva já baixa e mantém a dependência das trompas lesadas.",
+   "A supressão prolongada com análogo antes da FIV não melhora nascidos vivos e consome tempo de uma reserva baixa."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 24
+  }
+ },
+ {
+  "pid": "g24025",
+  "q": "Uma mulher de 67 anos, não tabagista, tem histórico de emagrecimento de 15 kg nos últimos 8 meses. Ao exame físico, há presença de massa anexial direita palpável ao toque vaginal, de aproximadamente 7 cm, móvel, indolor. A ultrassonografia identificou anexo direito ocupado por massa heterogênea, medindo 6,3 x 5,4 cm, predominantemente anecoico, com traves hiperecogênicas de permeio e fluxo periférico ao doppler de baixa resistência vascular. O CA-125 apresenta 37,0 UI/mL. Foi realizada uma biópsia guiada por rádio-intervenção para esclarecimento diagnóstico, com o achado histopatológico de mucina intracelular, presença de células em anel de sinete e infiltração sarcomatoide difusa no estroma ovariano. Considerando as informações acima, o diagnóstico mais provável e a conduta adequada são, respectivamente:",
+  "alts": [
+   "disgerminoma de ovário; radioterapia e quimioterapia;",
+   "tumor de células da granulosa do ovário; ooforectomia simples;",
+   "tumor metastático em ovário; pesquisa de sítio neoplásico primário;",
+   "adenocarcinoma seroso de ovário; cirurgia citorredutora completa;",
+   "adenocarcinoma mucinoso de ovário; cirurgia citorredutora completa e apendicectomia. "
+  ],
+  "gab": 2,
+  "tema": "ginonco",
+  "sub": "Tumor de Krukenberg",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "WHO Classification of Tumours: Female Genital Tumours, 5ª ed., 2020",
+  "coment": "Células em anel de sinete com mucina intracelular em estroma ovariano com reação sarcomatoide são a marca do tumor de Krukenberg, metástase ovariana de adenocarcinoma, em geral gástrico, seguido de cólon, mama e apêndice (Classificação OMS, 5ª ed., 2020). Emagrecimento importante e CA-125 pouco elevado reforçam doença sistêmica. A conduta é pesquisar o sítio primário (endoscopia digestiva alta, colonoscopia, mamografia e tomografia) antes de qualquer plano cirúrgico, pois prognóstico e tratamento dependem do primário. O adenocarcinoma mucinoso primário do ovário não tem células em anel de sinete.",
+  "porAlt": [
+   "Disgerminoma ocorre em jovens, com células grandes e linfócitos, sem mucina nem anel de sinete.",
+   "Tumor de células da granulosa tem corpúsculos de Call-Exner e produz estrogênio, sem células em anel de sinete.",
+   "Correta: células em anel de sinete no ovário indicam metástase (Krukenberg), e o primário deve ser buscado.",
+   "Adenocarcinoma seroso tem papilas e corpos psamomatosos, não células mucinosas em anel de sinete.",
+   "O mucinoso primário não exibe células em anel de sinete; esse achado sugere metástase."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 25
+  }
+ },
+ {
+  "pid": "g24026",
+  "q": "Uma mulher de 52 anos, obesa, dislipidêmica, com ciclos menstruais irregulares há 2 anos, apresenta queixas de fogachos noturnos intensos nos últimos 6 meses. Refere que mãe teve câncer de mama aos 78 anos. O exame físico revela peso de 70 kg, altura de 160 cm, mamas sem alterações, exame ginecológico com diminuição do trofismo da mucosa vaginal, sem outras alterações relevantes, em membros inferiores e presença de varizes bilaterais. A mamografia recente apresenta BI-RADS categoria 2. A ultrassonografia transvaginal registra ovários de pequeno volume e eco endometrial de 4 mm. Das opções abaixo, aquela que contém a proposta terapêutica mais adequada é:",
+  "alts": [
+   "iniciar valerato de estradiol 1 mg/dia por via oral isoladamente;",
+   "não iniciar qualquer tipo de terapia de reposição hormonal, pois apresenta contraindicação absoluta;",
+   "iniciar valerato de estradiol a 1 mg/dia, por via oral, com acetato de noretisterona a 0,5 mg/dia, por via oral, em uso contínuo;",
+   "iniciar estradiol em gel a 1 mg/dia, via transdérmica, em uso contínuo, com a didrogesterona a 10 mg, por via oral, por 14 dias no mês;",
+   "iniciar estradiol em gel a 1 mg/dia via transdérmica, associado a promestrieno a 10 mg/dia, por via vaginal, ambos em uso contínuo."
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Terapia hormonal na perimenopausa",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "The Menopause Society. Hormone Therapy Position Statement, 2022; Consenso Brasileiro de Terapêutica Hormonal da Menopausa (SOBRAC), 2018",
+  "coment": "Fogachos intensos aos 52 anos, com ciclos ainda irregulares (perimenopausa), indicam terapia hormonal, e não há contraindicação absoluta: câncer de mama da mãe aos 78 anos não muda o risco de forma relevante, e varizes não são trombose. Com útero, o estrogênio precisa de progestagênio para proteger o endométrio. Diante de excesso de peso, dislipidemia e varizes, a via transdérmica é preferida por não passar pelo fígado e não elevar o risco tromboembólico (Menopause Society, 2022). Na perimenopausa, o esquema sequencial (progestagênio 12 a 14 dias por mês) dá sangramento previsível, enquanto o contínuo tende a causar sangramento irregular nessa fase.",
+  "porAlt": [
+   "Estrogênio isolado em mulher com útero causa hiperplasia endometrial; precisa de progestagênio.",
+   "Não há contraindicação absoluta: varizes e câncer de mama tardio na mãe não impedem a terapia.",
+   "A via oral é menos indicada com obesidade e dislipidemia, e o esquema contínuo causa sangramento irregular na perimenopausa.",
+   "Correta: estradiol transdérmico com progestagênio cíclico protege o endométrio e reduz o risco trombótico e metabólico.",
+   "Promestrieno vaginal tem ação local e não protege o endométrio do estrogênio sistêmico."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 26
+  }
+ },
+ {
+  "pid": "g24027",
+  "q": "Uma mulher de 57 anos queixa-se do surgimento de um caroço na mama esquerda há 2 meses. Ao exame, verifica-se que o nódulo está endurecido, pouco móvel, indolor, medindo 2,0 cm de comprimento, em quadrante superior externo da mama esquerda. Não há comprometimento de pele e a relação tumor/mama está inferior a 20%. As axilas apresentam-se sem linfonodomegalias palpáveis. A mamografia identificou nódulo espiculado, de 2,0 cm, no quadrante superior externo da mama esquerda, categoria BI-RADS 5. Realizada a mamotomia, o laudo foi de carcinoma lobular invasivo. Considerando as informações acima, a melhor conduta inicial para o caso é:",
+  "alts": [
+   "quimioterapia e radioterapia;",
+   "mastectomia esquerda com esvaziamento axilar;",
+   "setorectomia esquerda com esvaziamento axilar;",
+   "mastectomia esquerda com biópsia de linfonodo sentinela;",
+   "setorectomia esquerda com biópsia de linfonodo sentinela."
+  ],
+  "gab": 4,
+  "tema": "ginonco",
+  "sub": "Carcinoma lobular inicial: cirurgia conservadora",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NCCN Clinical Practice Guidelines in Oncology: Breast Cancer, 2025",
+  "coment": "Tumor de 2 cm (cT1), axila clinicamente negativa e relação tumor/mama favorável permitem cirurgia conservadora com radioterapia complementar, com sobrevida equivalente à mastectomia. O carcinoma lobular invasivo, embora mais frequentemente multifocal e menos visível na mamografia, não contraindica a conservação quando se obtêm margens livres; a ressonância pode ajudar no planejamento. Com axila clínica negativa, o estadiamento é feito pela biópsia do linfonodo sentinela, e o esvaziamento axilar fica reservado a casos selecionados (NCCN, 2025). Quimioterapia e radioterapia isoladas não são tratamento inicial de tumor operável.",
+  "porAlt": [
+   "Tumor inicial operável é tratado primeiro com cirurgia; quimio e radioterapia isoladas não bastam.",
+   "Mastectomia é desnecessária com relação tumor/mama favorável, e esvaziamento não se indica com axila negativa.",
+   "A cirurgia conservadora é adequada, mas axila clinicamente negativa é estadiada pelo linfonodo sentinela.",
+   "O sentinela está certo, mas a mastectomia é excessiva quando a conservação é possível.",
+   "Correta: setorectomia com biópsia do linfonodo sentinela é a conduta para tumor inicial com axila negativa."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 27
+  }
+ },
+ {
+  "pid": "g24028",
+  "q": "Uma mulher de 53 anos, ao realizar mamografia de rotina, apresenta um conjunto de microcalcificações pleomórficas agrupadas no quadrante superior externo da mama direita, medindo 1,5 cm (BI-RADS 4). Não há outras lesões ou alterações na mamografia. Ao exame físico, verificam-se mamas de médio volume, sem alterações à inspeção, parênquima mamário homogêneo sem nódulos palpáveis, axilas livres e descarga ductal ausente. Em seu histórico familiar, sua mãe e tia materna tiveram diagnóstico de câncer de mama aos 61 anos e 58 anos, respectivamente. É, então, realizada a mamotomia da lesão com a colocação de clipe metálico. O diagnóstico histopatológico identifica hiperplasia ductal atípica, com presença de focos de necrose celular, mas com margens livres na peça. A melhor conduta a ser traçada nesse caso é:",
+  "alts": [
+   "adenectomia bilateral profilática;",
+   "tamoxifeno por 5 anos e controle mamográfico anual;",
+   "acompanhar a paciente com mamografia anual sem outras intervenções;",
+   "ampliar margens cirúrgicas, fazer uso de tamoxifeno profilático por pelo menos 5 anos e controle mamográfico anual;",
+   "ampliar margens cirúrgicas e complementar com radioterapia seguida de acompanhamento anual com mamografia."
+  ],
+  "gab": 3,
+  "tema": "ginonco",
+  "sub": "Hiperplasia ductal atípica na biópsia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "USPSTF. Medication Use to Reduce Risk of Breast Cancer: Recommendation Statement, 2019; ACR BI-RADS Atlas, 5ª ed., 2013",
+  "coment": "Hiperplasia ductal atípica em biópsia percutânea de microcalcificações BI-RADS 4 tem risco relevante de subestimação: na exérese cirúrgica, parte dos casos se revela carcinoma ductal in situ ou invasor, risco maior com necrose e calcificações extensas. Por isso indica-se exérese cirúrgica da área marcada pelo clipe (ampliação), mesmo após mamotomia. Confirmada a atipia, o risco de câncer de mama fica cerca de 4 vezes maior, e a quimioprevenção com tamoxifeno por 5 anos reduz esse risco em cerca de metade (USPSTF, 2019), com mamografia anual. Radioterapia não se aplica a lesão não maligna, e adenectomia bilateral é excessiva.",
+  "porAlt": [
+   "Mastectomia profilática bilateral é desproporcional para atipia sem mutação genética conhecida.",
+   "A quimioprevenção é correta, mas antes é preciso excisar a área pelo risco de carcinoma subestimado.",
+   "Só acompanhar ignora o risco de subestimação da biópsia e o benefício da quimioprevenção.",
+   "Correta: exérese cirúrgica da área, tamoxifeno por 5 anos e mamografia anual completam o manejo.",
+   "Radioterapia trata carcinoma, não lesão atípica, e não substitui a quimioprevenção."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 28
+  }
+ },
+ {
+  "pid": "g24029",
+  "q": "Uma paciente de 16 anos, fenótipo feminino, em amenorreia, apresenta genitália externa sem alterações aparentes, mamas M4 e pilificação P2 de Tanner. A ultrassonografia pélvica não evidenciou útero. Gônadas foram visualizadas. Os exames laboratoriais evidenciaram FSH de 6,7 UI/L, testosterona com 540 ng/mL e estradiol a 47,1 pg/mL. Considerando as informações acima, o cariótipo de banda G esperado para essa paciente é:",
+  "alts": [
+   "46, XX;",
+   "45, X0;",
+   "46, XY;",
+   "47, XXY;",
+   "47, XXX."
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Insensibilidade completa aos androgênios",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Consenso de Chicago sobre distúrbios da diferenciação do sexo (Lee et al.), 2006, com atualização Global DSD Update Consortium, 2016",
+  "coment": "Amenorreia primária com mamas desenvolvidas (M4), pelos pubianos escassos (P2), ausência de útero e gônadas visíveis, com testosterona em nível masculino (valor compatível com cerca de 540 ng/dL), caracteriza a síndrome de insensibilidade completa aos androgênios. O cariótipo é 46,XY: os testículos produzem testosterona e hormônio antimülleriano (que impede a formação de útero e trompas), mas o receptor androgênico não responde; a testosterona é aromatizada em estradiol, que desenvolve as mamas (Consenso de Chicago, 2006). Na agenesia mülleriana (46,XX) os pelos são normais e a testosterona é feminina.",
+  "porAlt": [
+   "46,XX com ausência de útero seria agenesia mülleriana, com pelos normais e testosterona feminina.",
+   "Turner cursa com infantilismo sexual, útero presente e FSH elevado, o que não se vê aqui.",
+   "Correta: mamas presentes, pelos escassos, ausência de útero e testosterona masculina indicam insensibilidade androgênica 46,XY.",
+   "Klinefelter tem fenótipo masculino com hipogonadismo, não fenótipo feminino sem útero.",
+   "47,XXX costuma ter genitália e útero normais, sem testosterona elevada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 29
+  }
+ },
+ {
+  "pid": "g24030",
+  "q": "Uma mulher de 45 anos apresenta aumento progressivo de fluxo e da duração menstrual há 4 anos, associado a dismenorreia importante com piora após nascimento do filho por parto cesáreo há 6 anos. Atualmente, sangra até 12 dias, com necessidade de uso de absorventes noturnos. Ao exame, verifica-se o útero aumentado de volume, palpável à altura da sínfise púbica, globoso e móvel. A ultrassonografia transvaginal mostrou útero de aspecto globoso, tipo “bala de canhão”, volume estimado de 760 mL, sem outros comemorativos. A ressonância magnética de pelve evidenciou uma zona juncional de 23 mm, com aspecto heterogêneo. Dadas as informações acima, a principal hipótese diagnóstica é:",
+  "alts": [
+   "adenomiose;",
+   "endometriose;",
+   "pólipo endometrial;",
+   "miomatose uterina;",
+   "hiperplasia endometrial. "
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Adenomiose: zona juncional na RM",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Consenso MUSA revisado, 2022; FIGO, sistema PALM-COEIN, 2018",
+  "coment": "Aumento progressivo de fluxo e duração menstrual, dismenorreia que piora após cesárea e útero globoso aumentado são o quadro clínico da adenomiose. A ultrassonografia mostra útero globoso sem nódulos definidos, e a ressonância confirma: zona juncional com 12 mm ou mais é critério diagnóstico, e aqui mede 23 mm, heterogênea. Miomatose mostraria nódulos bem delimitados, endometriose não aumenta o útero de forma difusa, e pólipo ou hiperplasia endometrial seriam lesões da cavidade, sem espessamento da zona juncional.",
+  "porAlt": [
+   "Correta: útero globoso com zona juncional espessada (23 mm, acima de 12 mm) na RM caracteriza adenomiose.",
+   "Endometriose externa não causa útero globoso nem espessamento da zona juncional.",
+   "Pólipo é lesão focal da cavidade endometrial, sem aumento difuso do útero.",
+   "Miomas aparecem como nódulos circunscritos, e não como espessamento difuso da zona juncional.",
+   "Hiperplasia endometrial espessa o endométrio, não a zona juncional miometrial."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 30
+  }
+ },
+ {
+  "pid": "g24031",
+  "q": "Uma mulher de 38 anos, nuligesta, sem parceiro, com desejo de constituir prole, obesa, portadora de resistência insulínica, queixa-se de aumento do volume menstrual nos últimos 6 meses. Ao realizar uma ultrassonografia transvaginal no meio da fase folicular, observou-se eco endometrial de 20 mm. Realizada uma histeroscopia, observou-se uma hipertrofia endometrial difusa. A biópsia dirigida durante a histeroscopia apresentou o laudo de hiperplasia complexa com atipias. Considerando todas as informações acima, a opção mais adequada de tratamento, num primeiro momento, é:",
+  "alts": [
+   "uso de valerato de estradiol;",
+   "histerectomia vaginal simples;",
+   "histerectomia total abdominal simples;",
+   "uso de progestágenos orais ou DIU de levonorgestrel;",
+   "histerectomia total abdominal com ooforectomia bilateral."
+  ],
+  "gab": 3,
+  "tema": "ginonco",
+  "sub": "Hiperplasia atípica com desejo reprodutivo",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ACOG/SGO. Clinical Consensus nº 5: Management of Endometrial Intraepithelial Neoplasia or Atypical Endometrial Hyperplasia, 2023",
+  "coment": "Hiperplasia complexa com atipias, hoje chamada hiperplasia atípica ou neoplasia intraepitelial endometrial, tem risco alto de carcinoma concomitante ou futuro, e a histerectomia é o tratamento definitivo. Em mulher de 38 anos que deseja gestação, a conduta inicial aceita é preservadora: progestagênio oral em altas doses ou, preferencialmente, DIU de levonorgestrel, com biópsias endometriais seriadas a cada 3 a 6 meses e controle de peso (ACOG/SGO, 2023). Após a prole, discute-se histerectomia. Estrogênio isolado piora a hiperplasia, e a histerectomia agora impediria a gestação desejada.",
+  "porAlt": [
+   "Estrogênio sem oposição é causa de hiperplasia e agravaria a lesão.",
+   "Histerectomia trata a lesão, mas elimina a possibilidade de gestação que a paciente deseja.",
+   "Histerectomia abdominal também impede a gestação e não é primeira escolha neste contexto.",
+   "Correta: progestagênio oral ou DIU de levonorgestrel, com biópsias seriadas, preserva a fertilidade.",
+   "Retirar útero e ovários é excessivo e incompatível com o desejo reprodutivo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 31
+  }
+ },
+ {
+  "pid": "g24032",
+  "q": "Uma paciente de 63 anos, portadora de hipertensão arterial crônica e diabetes melito tipo 2 bem controladas, após apresentar episódios de sangramento vaginal, realizou uma histeroscopia, que evidenciou uma lesão de aspecto cerebroide, friável, cuja biópsia diagnosticou carcinoma seroso. Ao exame especular, não são identificadas lesões aparentes em colo ou vaginal. A ressonância magnética sugere que a lesão está confinada ao útero, com menos de 50% de invasão endometrial, sem sinais de linfonodomegalias aparentes. Tendo em vista o caso clínico acima, a abordagem mais indicada é:",
+  "alts": [
+   "histerectomia simples;",
+   "radioterapia e quimioterapia isoladamente;",
+   "histerectomia com salpingo-ooforectomia bilateral;",
+   "histerectomia com salpingo-ooforectomia bilateral e linfadenectomia pélvica;",
+   "histerectomia com salpingo-ooforectomia bilateral e linfadenectomia pélvica e para-aórtica."
+  ],
+  "gab": 4,
+  "tema": "ginonco",
+  "sub": "Carcinoma seroso do endométrio",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "NCCN Clinical Practice Guidelines in Oncology: Uterine Neoplasms, 2025; FIGO, estadiamento do câncer do endométrio, 2023",
+  "coment": "O carcinoma seroso do endométrio é tipo histológico agressivo (não endometrioide, alto grau), com disseminação linfática e peritoneal mesmo quando o tumor parece confinado ao útero e pouco invasivo. Por isso, independentemente da profundidade de invasão, o estadiamento cirúrgico completo inclui histerectomia total, salpingo-ooforectomia bilateral e avaliação linfonodal pélvica e para-aórtica, além de omentectomia e lavado peritoneal (NCCN, 2025; FIGO 2023, que valoriza o tipo histológico agressivo). O linfonodo sentinela pode substituir a linfadenectomia em centros experientes, mas entre as opções a mais completa é a adequada.",
+  "porAlt": [
+   "Histerectomia simples não estadia nem trata tumor seroso, que exige avaliação de anexos e linfonodos.",
+   "Radio e quimioterapia isoladas não substituem a cirurgia em paciente operável com doença aparentemente inicial.",
+   "Sem avaliação linfonodal, o estadiamento fica incompleto em histologia de alto risco.",
+   "A avaliação só pélvica é insuficiente no seroso, que frequentemente compromete linfonodos para-aórticos.",
+   "Correta: o seroso exige histerectomia, anexectomia bilateral e avaliação linfonodal pélvica e para-aórtica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 32
+  }
+ },
+ {
+  "pid": "g24033",
+  "q": "Uma mulher de 33 anos, solteira, comparece ao ginecologista visando a congelar óvulos, pois deseja ser mãe no futuro. Sobre o processo de estimulação ovariana e congelamento de óvulos, é correto afirmar que:",
+  "alts": [
+   "a técnica de escolha para o congelamento de óvulos é a de congelamento lento;",
+   "óvulos vitrificados geram maior chance de produzirem embriões aneuploides;",
+   "óvulos vitrificados possuem menos chances de serem fertilizados que os óvulos a fresco;",
+   "a idade materna e o número de óvulos maduros congelados são fatores importantes da chance de nascidos vivos;",
+   "óvulos congelados pela técnica de congelamento lento apresentam melhores chances de gravidez que óvulos a fresco."
+  ],
+  "gab": 3,
+  "tema": "reprodutiva",
+  "sub": "Congelamento eletivo de oócitos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r3",
+  "base": "ESHRE Guideline: Female Fertility Preservation, 2020",
+  "coment": "A chance de nascido vivo com oócitos congelados depende sobretudo da idade da mulher no congelamento (qualidade e euploidia) e do número de oócitos maduros (metáfase II) armazenados, razão para orientar o congelamento de preferência antes dos 35 anos (ESHRE, preservação da fertilidade, 2020). A vitrificação substituiu o congelamento lento por oferecer maior sobrevida oocitária, e as taxas de fertilização e gestação com oócitos vitrificados são semelhantes às de oócitos frescos. A técnica não aumenta aneuploidia, que reflete a idade da mulher.",
+  "porAlt": [
+   "A técnica de escolha é a vitrificação, com sobrevida oocitária superior ao congelamento lento.",
+   "A aneuploidia depende da idade da mulher, não da vitrificação.",
+   "Oócitos vitrificados têm taxas de fertilização semelhantes às de oócitos frescos.",
+   "Correta: idade no congelamento e número de oócitos maduros são os principais determinantes de nascido vivo.",
+   "O congelamento lento tem resultados inferiores à vitrificação e aos oócitos frescos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 33
+  }
+ },
+ {
+  "pid": "g24034",
+  "q": "Uma mulher de 37 anos queixa-se de prurido e ardência vulvovaginal recorrente principalmente em período pré-menstrual, associados a leucorreia esbranquiçada. Empiricamente, fez uso de 3 ciclos de tratamento com fluconazol oral, fenticonazol vaginal e itraconazol oral, sem melhora do quadro. Ao exame, apresentou conteúdo vaginal abundante, esbranquiçado, fluido, com hiperemia de mucosa vaginal e pH vaginal a 3,5. Pela bacterioscopia, identificou-se uma grande presença de lactobacilos (> 1000/campo), raros leucócitos. Não foram identificadas pseudo-hifas. Considerando a principal hipótese diagnóstica para o caso, o tratamento indicado é:",
+  "alts": [
+   "metronidazol – 2 g via oral em dose única;",
+   "duchas vaginais com bicarbonato de sódio;",
+   "tinidazol de 1 g, via oral, uma vez ao dia, durante cinco dias;",
+   "ácido bórico em óvulos vaginais contendo 600 mg por 14 dias;",
+   "clindamicina creme vaginal a 2%, 5 g (um aplicador) durante 14 dias."
+  ],
+  "gab": 1,
+  "tema": "gininfec",
+  "sub": "Vaginose citolítica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Cibley LJ, Cibley LJ. Cytolytic vaginosis. Am J Obstet Gynecol, 1991",
+  "coment": "Prurido e ardor cíclicos, piores no período pré-menstrual, com corrimento branco, refratários a vários antifúngicos, pH ácido (3,5), lactobacilos abundantes, poucos leucócitos e ausência de pseudo-hifas definem a vaginose citolítica (descrita por Cibley, 1991). O excesso de lactobacilos acidifica o meio e provoca lise das células intermediárias, simulando candidíase. O tratamento é alcalinizar o meio, com duchas ou banhos de assento com bicarbonato de sódio, e suspender os antifúngicos. Metronidazol, tinidazol e clindamicina tratam vaginose bacteriana (pH acima de 4,5) ou tricomoníase; ácido bórico acidificaria ainda mais o meio.",
+  "porAlt": [
+   "Metronidazol trata vaginose bacteriana e tricomoníase, quadros com pH elevado, não com pH 3,5.",
+   "Correta: alcalinizar o meio com bicarbonato de sódio é o tratamento da vaginose citolítica.",
+   "Tinidazol também é para vaginose bacteriana ou tricomoníase, ausentes neste quadro.",
+   "Ácido bórico acidifica o meio e piora a vaginose citolítica; é usado em candidíase por não albicans.",
+   "Clindamicina trata vaginose bacteriana e reduziria lactobacilos sem corrigir a causa."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 34
+  }
+ },
+ {
+  "pid": "g24035",
+  "q": "Para o adequado tratamento e acompanhamento das pacientes portadoras de síndrome de ovários policísticos (SOP), é fundamental o conhecimento das suas bases fisiopatológicas. Em relação à síndrome de ovários policísticos, é correto afirmar que:",
+  "alts": [
+   "existem menos de 10 variações gênicas descritas associadas à SOP;",
+   "o hormônio antimulleriano encontra-se diminuído nas pacientes com SOP;",
+   "o excesso de androgênios na SOP afeta o padrão dos pulsos hipotalâmicos de GnRH;",
+   "os pulsos hipotalâmicos de GnRH são menos frequentes e menos amplos nas pacientes com SOP;",
+   "a insulina e o LH se antagonizam nas células da Teca interna, o que resulta em maior produção de androgênios por elas."
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Fisiopatologia da SOP",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome, 2023; Speroff's Clinical Gynecologic Endocrinology and Infertility, 9ª ed., 2019",
+  "coment": "Na SOP, o excesso de androgênios reduz a sensibilidade do gerador de pulsos hipotalâmico ao feedback negativo da progesterona, o que mantém pulsos de GnRH mais frequentes. Pulsos rápidos favorecem a síntese de LH sobre FSH, elevando a relação LH/FSH; o LH estimula a teca a produzir androgênios, e a insulina age em sinergia com o LH nessas células, fechando um ciclo vicioso. O hormônio antimülleriano está elevado pelo excesso de folículos antrais, e estudos genômicos já identificaram dezenas de loci associados, refletindo herança poligênica.",
+  "porAlt": [
+   "Estudos de associação genômica identificaram dezenas de loci ligados à SOP, de herança poligênica.",
+   "O hormônio antimülleriano está elevado na SOP, pelo grande número de folículos antrais.",
+   "Correta: o excesso androgênico altera a sensibilidade hipotalâmica e acelera os pulsos de GnRH.",
+   "Os pulsos de GnRH são mais frequentes na SOP, o que eleva o LH em relação ao FSH.",
+   "Insulina e LH agem em sinergia na teca, aumentando a produção de androgênios."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 35
+  }
+ },
+ {
+  "pid": "g24036",
+  "q": "Uma mulher de 36 anos refere sempre ter apresentado ciclos menstruais de 28 dias. Queixa-se de quadro de amenorreia há 9 meses associado a fogachos noturnos intensos que iniciaram há 12 meses. Ao realizar a sua avaliação clínica com seu ginecologista, foram solicitadas a dosagem de FSH, do hormônio antimulleriano (AMH) e a contagem de folículos antrais (CFA). Considerando o caso clínico acima, os exames devem apresentar, respectivamente:",
+  "alts": [
+   "FSH baixo, AMH baixo, CFA baixo;",
+   "FSH elevado, AMH baixo, CFA baixo;",
+   "FSH baixo, AMH baixo, CFA elevado;",
+   "FSH elevado AMH baixo, CFA elevado;",
+   "FSH elevado, AMH elevado, CFA elevado. "
+  ],
+  "gab": 1,
+  "tema": "ginecologia",
+  "sub": "Insuficiência ovariana prematura",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ESHRE/ASRM/IMS. Evidence-based Guideline: Premature Ovarian Insufficiency, 2024",
+  "coment": "Amenorreia de 9 meses com fogachos aos 36 anos, antes dos 40, sugere insuficiência ovariana prematura. A falência folicular reduz estradiol e inibina B, o feedback negativo se perde e o FSH sobe; o diagnóstico exige FSH acima de 25 UI/L com oligo ou amenorreia de pelo menos 4 meses (diretriz ESHRE, 2024). Com poucos folículos remanescentes, o hormônio antimülleriano, produzido pela granulosa de folículos pequenos, fica baixo, e a contagem de folículos antrais também. FSH baixo apontaria causa hipotalâmica ou hipofisária, e AMH com contagem elevados são padrão da SOP.",
+  "porAlt": [
+   "FSH baixo indicaria causa central, incompatível com falência ovariana primária.",
+   "Correta: na insuficiência ovariana prematura o FSH sobe e o AMH e a contagem de folículos antrais caem.",
+   "Na falência ovariana o FSH está elevado e a contagem de folículos antrais está reduzida.",
+   "Com reserva esgotada, a contagem de folículos antrais é baixa, coerente com o AMH baixo.",
+   "AMH e contagem de folículos elevados indicam reserva alta, padrão da SOP, não da insuficiência ovariana."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 36
+  }
+ },
+ {
+  "pid": "g24037",
+  "q": "Uma mulher de 26 anos, sexualmente ativa e com histórico de múltiplos parceiros, apresenta úlcera, indolor, na face interna do grande lábio esquerdo, de 2,0 cm de diâmetro, que surgiu há 15 dias. Ao exame físico, identifica-se a presença de linfadenopatia inguinal bilateral, indolor à palpação. A inspeção vulvar evidencia úlcera única de bordos endurecidos e bem delimitados, indolor à manipulação. Considerando as informações acima, o esquema de tratamento mais apropriado é:",
+  "alts": [
+   "aciclovir 400 mg, três vezes ao dia (7 a 14 dias);",
+   "azitromicina 500 mg, dois comprimidos, VO, em dose única;",
+   "prednisona 20 mg VO, uma vez ao dia, até remissão da úlcera;",
+   "penicilina G benzatina, 2,4 milhões UI, intramuscular (IM), dose única (1,2 milhão UI em cada glúteo);",
+   "penicilina G benzatina, 2,4 milhões UI, IM (1,2 milhão UI em cada glúteo), semanal, por três semanas."
+  ],
+  "gab": 3,
+  "tema": "gininfec",
+  "sub": "Sífilis primária: tratamento",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Úlcera genital única, indolor, de bordas endurecidas e bem delimitadas (cancro duro), com linfadenopatia inguinal bilateral indolor, é a apresentação típica da sífilis primária. Pelo PCDT IST (2022), sífilis recente (primária, secundária ou latente com menos de 1 ano) é tratada com penicilina G benzatina 2,4 milhões UI IM em dose única, 1,2 milhão em cada glúteo. O esquema de 3 doses semanais (7,2 milhões UI) é para sífilis latente tardia, de duração ignorada ou terciária. Aciclovir trata herpes, de úlceras múltiplas e dolorosas; azitromicina 1 g trata cancroide ou clamídia.",
+  "porAlt": [
+   "Aciclovir trata herpes genital, que causa vesículas e úlceras múltiplas e dolorosas.",
+   "Azitromicina em dose única é usada em cancroide ou clamídia e não é o tratamento de escolha da sífilis.",
+   "Corticoide não trata infecção e não tem papel na úlcera genital infecciosa.",
+   "Correta: sífilis primária é tratada com penicilina G benzatina 2,4 milhões UI IM em dose única.",
+   "Três doses semanais são o esquema da sífilis latente tardia ou de duração ignorada, não da primária."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 37
+  }
+ },
+ {
+  "pid": "g24038",
+  "q": "Uma mulher de 68 anos, com histórico de 2 partos vaginais há 40 e 35 anos, queixa-se de sensação de bola na vagina há 2 anos. Ao exame físico, aplicada a classificação POP-Q, observou-se a parede vaginal anterior com o ponto Ba em +2. A parede vaginal posterior apresenta-se com o ponto Bp em -2, ponto C em – 3 e ponto D em – 6. Dito isso, é correto afirmar que essa paciente apresenta:",
+  "alts": [
+   "prolapso de parede vaginal anterior estágio 3;",
+   "prolapso de parede vaginal anterior estágio 2;",
+   "prolapso de parede vaginal anterior estágio 3 e posterior estágio 2;",
+   "prolapso de parede vaginal anterior estágio 2 e posterior estágio 2;",
+   "prolapso de parede vaginal anterior estágio 3 e alongamento hipertrófico do colo uterino."
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "Prolapso genital: estadiamento POP-Q",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Bump RC et al. Sistema POP-Q (ICS), 1996; IUGA/ICS Joint Report on Terminology for Female Pelvic Organ Prolapse, 2016",
+  "coment": "No POP-Q, o hímen é o ponto zero: valores negativos ficam acima e positivos abaixo dele. Ba em +2 indica que a parede anterior ultrapassa o hímen em 2 cm. Estádio 3 corresponde à porção mais distal mais de 1 cm além do hímen, sem eversão completa; estádio 2 vai de 1 cm acima a 1 cm abaixo do hímen. Bp em -2 fica mais de 1 cm acima do hímen (estádio 1 posterior). C em -3 e D em -6, com diferença de 3 cm, não indicam alongamento do colo. Logo, há prolapso de parede anterior estádio 3 (ICS, 1996; IUGA/ICS, 2016).",
+  "porAlt": [
+   "Correta: Ba em +2, mais de 1 cm além do hímen, define prolapso de parede anterior estádio 3.",
+   "Estádio 2 vai até 1 cm abaixo do hímen; Ba em +2 ultrapassa esse limite.",
+   "Bp em -2 está mais de 1 cm acima do hímen, o que não configura estádio 2 posterior.",
+   "A parede anterior é estádio 3, e a posterior em -2 não chega ao estádio 2.",
+   "Diferença de 3 cm entre os pontos C e D não sugere alongamento hipertrófico do colo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 38
+  }
+ },
+ {
+  "pid": "g24039",
+  "q": "Uma mulher de 24 anos, sexualmente ativa, iniciou quadro de dor abdominal leve, em baixo ventre, há 3 dias. Compareceu à emergência, pois na véspera iniciou quadro de febre. Encontrava-se em uso regular de contraceptivo oral combinado de forma contínua. Não recordava quando havia sido a sua última menstruação. Negava queixas urinárias. Ao exame físico, apresentou frequência cardíaca a 88 bpm, pressão arterial de 110 x 70 mmHg e temperatura axilar de 37,1°C. O abdômen estava doloroso à palpação do terço inferior, sem sinais de descompressão dolorosa, ao toque vaginal e útero em AVF, de tamanho normal, doloroso à mobilização do colo uterino. Os anexos eram impalpáveis, porém dolorosos à palpação. Os exames laboratoriais registraram: hematócrito a 38% e leucograma com 6300 leucócitos. Realizou EAS em amostra urinária, sem alterações. A ultrassonografia transvaginal não evidenciou líquido livre em fundo de saco posterior, os anexos foram visualizados, sem alterações aparentes, e o endométrio estava homogêneo, com 3 mm de espessura. Considerando as informações acima, a principal hipótese diagnóstica é:",
+  "alts": [
+   "apendicite;",
+   "torção anexial;",
+   "infecção urinária;",
+   "ovulação dolorosa;",
+   "doença inflamatória pélvica."
+  ],
+  "gab": 4,
+  "tema": "gininfec",
+  "sub": "Doença inflamatória pélvica: critérios mínimos",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com IST, 2022; CDC Sexually Transmitted Infections Treatment Guidelines, 2021",
+  "coment": "Mulher jovem sexualmente ativa com dor em baixo ventre, dor à mobilização do colo e dor anexial preenche os critérios mínimos de doença inflamatória pélvica, suficientes para diagnóstico e tratamento empírico quando outras causas são improváveis (PCDT IST, 2022; CDC, 2021). Leucocitose, febre aferida e achados ultrassonográficos são critérios adicionais, e sua ausência não afasta a DIP. Apendicite costuma ter dor migratória para fossa ilíaca direita e descompressão dolorosa; torção anexial causa dor súbita intensa; o EAS normal afasta infecção urinária, e o anticoncepcional contínuo bloqueia a ovulação.",
+  "porAlt": [
+   "Não há dor localizada em fossa ilíaca direita nem descompressão dolorosa, e há dor à mobilização do colo.",
+   "Torção anexial tem dor súbita e intensa, geralmente com anexo aumentado ou fluxo alterado, ausentes aqui.",
+   "O EAS normal e a ausência de sintomas urinários tornam a infecção urinária improvável.",
+   "O anticoncepcional combinado contínuo bloqueia a ovulação, afastando dor ovulatória.",
+   "Correta: dor pélvica com dor à mobilização do colo e dor anexial preenche os critérios mínimos de DIP."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 39
+  }
+ },
+ {
+  "pid": "g24040",
+  "q": "Uma paciente de 25 anos, nuligesta, com histórico familiar de sua mãe com trombose venosa profunda em membro inferior direito aos 50 anos comparece ao ginecologista. Ao exame físico, identificou-se útero em retroversão, de tamanho normal, móvel, indolor, com anexos impalpáveis. Encontra-se menstruada no momento e deseja iniciar uso de dispositivo intrauterino (DIU) de levonorgestrel. Considerando o caso acima, é correto afirmar que:",
+  "alts": [
+   "a paciente possui uma contraindicação absoluta ao uso do DIU por ser nuligesta;",
+   "a colocação do DIU pode ser feita apenas após a realização de antibioticoprofilaxia;",
+   "o histórico familiar de trombose venosa profunda não é uma contraindicação à inserção do DIU;",
+   "o útero retrovertido requer que o DIU seja inserido apenas mediante guia de ultrassonografia;",
+   "o principal mecanismo de contracepção do DIU de levonorgestrel se dá por bloqueio da ovulação."
+  ],
+  "gab": 2,
+  "tema": "reprodutiva",
+  "sub": "DIU de levonorgestrel: elegibilidade",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "CDC. U.S. Medical Eligibility Criteria for Contraceptive Use, 2024; OMS, Critérios Médicos de Elegibilidade para Uso de Anticoncepcionais, 5ª ed., 2015",
+  "coment": "Pelos critérios de elegibilidade (CDC, 2024; OMS, 2015), história familiar de trombose venosa profunda em parente de primeiro grau é categoria 1 para o DIU de levonorgestrel (e categoria 2 para métodos combinados), pois o dispositivo não eleva o risco trombótico de forma relevante. Nuliparidade é categoria 2 para DIU, não contraindicação. Antibioticoprofilaxia não é recomendada na inserção, e útero retrovertido não exige ultrassonografia, apenas técnica cuidadosa com histerometria. O principal mecanismo do DIU de levonorgestrel é local, espessando o muco cervical e atrofiando o endométrio; a ovulação persiste na maioria das usuárias.",
+  "porAlt": [
+   "Nuliparidade é categoria 2 nos critérios de elegibilidade, não contraindicação absoluta.",
+   "Antibioticoprofilaxia não é recomendada de rotina para inserção de DIU.",
+   "Correta: história familiar de trombose é categoria 1 para o DIU de levonorgestrel.",
+   "Útero retrovertido exige técnica cuidadosa, mas não ultrassonografia obrigatória na inserção.",
+   "O efeito principal é local, sobre muco cervical e endométrio; a ovulação persiste na maioria das usuárias."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare24go",
+   "n": 40
+  }
+ }
+]

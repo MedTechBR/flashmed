@@ -42,7 +42,8 @@ def main():
                 ex = (o or {}).get("ex") or f.get("ex")
                 if ex in EXAMES:
                     n = (o or {}).get("n") or f.get("n")
-                    q["fonte"] = fonte_de(ex, n)
+                    tb = [t for t in ((o or {}).get("tb") or f.get("tb") or []) if t["ex"] in EXAMES and t["ex"] != ex]
+                    q["fonte"] = fonte_de(ex, n, tb)
             banco.append(q)
     with open(os.path.join(RAIZ, "banco.js"), "w", encoding="utf-8") as f:
         f.write("window.BANCO=")
@@ -55,12 +56,13 @@ def main():
     for q in banco:
         f = q.get("fonte") or {}
         if f.get("ex"): por.setdefault(f["ex"], []).append(q)
+        for t in f.get("tb", []): por.setdefault(t["ex"], []).append(q)
     ex = []
     for k, (b, a, p, tipo) in EXAMES.items():
         qs = por.get(k, [])
         if not qs: continue
         ex.append({"id": k, "nome": p, "banca": b, "ano": a, "tipo": tipo, "n": len(qs),
-                   "comNumero": sum(1 for q in qs if q["fonte"].get("n"))})
+                   "comNumero": sum(1 for q in qs if q["fonte"].get("n") or any(t["ex"] == k and t.get("n") for t in q["fonte"].get("tb", [])))})
     ex.sort(key=lambda e: (-e["ano"], e["nome"]))
     with open(os.path.join(RAIZ, "exames.js"), "w", encoding="utf-8") as f:
         f.write("/* GERADO por monta_banco.py: provas reais presentes no banco (aba Simulado → Provas na íntegra). */\n")

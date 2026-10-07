@@ -1,0 +1,15 @@
+{
+ "incluidas": 35,
+ "descartadas": [
+  {"pid": "s25052", "motivo": "clínica médica: fora do escopo desta rodada (demência reversível por deficiência de B12 associada a IBP é geriatria/neurologia, sem foco psiquiátrico; além disso, 9 meses de omeprazol é pouco tempo para esgotar os estoques de B12)"},
+  {"pid": "s25067", "motivo": "enunciado sem resposta única: pede a definição que 'melhor descreve esse transtorno' sem nomear qual parafilia; as alternativas descrevem sadismo, exibicionismo, voyeurismo, masoquismo e pedofilia, todos transtornos parafílicos válidos (provável nome perdido no original ou na extração)"},
+  {"pid": "s25078", "motivo": "clínica médica: fora do escopo desta rodada (marcador de lesão miocárdica na dor torácica por cocaína é cardiologia/emergência)"},
+  {"pid": "s25080", "motivo": "clínica médica: fora do escopo desta rodada (diagnóstico de demência pela coreia da doença de Huntington é neurologia pura, sem foco psiquiátrico)"}
+ ],
+ "gabaritos_discutiveis": [
+  {"pid": "s25046", "nota": "Gabarito 'delírio cenestopático' mantido: o enunciado enfatiza convicção sem crítica apesar de exames normais (delírio somático). A alternativa 'alucinação cenestopática' tem apoio parcial, pois o paciente 'sente' os movimentos; mas o DSM-5-TR admite alucinações táteis ligadas ao tema delirante no transtorno delirante, e o fenômeno central é o delírio."},
+  {"pid": "s25055", "nota": "Gabarito (depressão no idoso associada a maior risco de demência) mantido como a melhor resposta. A alternativa 'ideação suicida menos frequente em idosos' tem apoio em inquéritos populacionais, mas não caracteriza a depressão do idoso (subnotificação, maior letalidade e maiores taxas de suicídio consumado); o porAlt explica isso."},
+  {"pid": "s25077", "nota": "Gabarito (epilepsia) correto, mas o enunciado cita 450 mg/dia para cessação do tabagismo, acima da dose do PCDT do Tabagismo 2020 (300 mg/dia); o comentário registra a dose correta."},
+  {"pid": "s25070", "nota": "Gabarito (transtorno factício) mantido: sinais objetivos de Cushing sem causa e sem ganho externo implicam indução (corticoide oculto). O enunciado não descreve explicitamente a falsificação, o que deixa o caso um pouco implícito."}
+ ]
+}

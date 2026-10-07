@@ -42,8 +42,8 @@ window.EXAMES=[
 "banca": "USP (FUVEST)",
 "ano": 2026,
 "tipo": "prereq",
-"n": 65,
-"comNumero": 0
+"n": 81,
+"comNumero": 16
 },
 {
 "id": "usp26epd",
@@ -53,6 +53,15 @@ window.EXAMES=[
 "tipo": "prereq",
 "n": 92,
 "comNumero": 0
+},
+{
+"id": "enamed25",
+"nome": "ENAMED 2025",
+"banca": "ENAMED (INEP/MEC)",
+"ano": 2025,
+"tipo": "revalida",
+"n": 85,
+"comNumero": 85
 },
 {
 "id": "enare25cg",
@@ -73,6 +82,42 @@ window.EXAMES=[
 "comNumero": 74
 },
 {
+"id": "enare25go",
+"nome": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+"banca": "ENARE pré-requisito (EBSERH/FGV)",
+"ano": 2025,
+"tipo": "prereq",
+"n": 79,
+"comNumero": 79
+},
+{
+"id": "enare25mfc",
+"nome": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+"banca": "ENARE pré-requisito (EBSERH/FGV)",
+"ano": 2025,
+"tipo": "prereq",
+"n": 55,
+"comNumero": 55
+},
+{
+"id": "enare25ped",
+"nome": "ENARE 2025/2026 pré-requisito em Pediatria",
+"banca": "ENARE pré-requisito (EBSERH/FGV)",
+"ano": 2025,
+"tipo": "prereq",
+"n": 73,
+"comNumero": 73
+},
+{
+"id": "enare25psq",
+"nome": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+"banca": "ENARE pré-requisito (EBSERH/FGV)",
+"ano": 2025,
+"tipo": "prereq",
+"n": 68,
+"comNumero": 68
+},
+{
 "id": "rev2025_1",
 "nome": "Revalida 2025.1",
 "banca": "Revalida (INEP/MEC)",
@@ -83,7 +128,7 @@ window.EXAMES=[
 },
 {
 "id": "rev2025_2",
-"nome": "Revalida 2025.2 (questões comuns ao ENAMED 2025)",
+"nome": "Revalida 2025.2",
 "banca": "Revalida/ENAMED (INEP/MEC)",
 "ano": 2025,
 "tipo": "revalida",
@@ -123,8 +168,8 @@ window.EXAMES=[
 "banca": "ENARE (EBSERH/FGV)",
 "ano": 2024,
 "tipo": "enare",
-"n": 87,
-"comNumero": 0
+"n": 91,
+"comNumero": 6
 },
 {
 "id": "enare24cg",
@@ -138,6 +183,42 @@ window.EXAMES=[
 {
 "id": "enare24cm",
 "nome": "ENARE 2024/2025 pré-requisito em Clínica Médica",
+"banca": "ENARE pré-requisito (EBSERH/FGV)",
+"ano": 2024,
+"tipo": "prereq",
+"n": 74,
+"comNumero": 74
+},
+{
+"id": "enare24go",
+"nome": "ENARE 2024/2025 pré-requisito em Ginecologia e Obstetrícia",
+"banca": "ENARE pré-requisito (EBSERH/FGV)",
+"ano": 2024,
+"tipo": "prereq",
+"n": 74,
+"comNumero": 74
+},
+{
+"id": "enare24mfc",
+"nome": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+"banca": "ENARE pré-requisito (EBSERH/FGV)",
+"ano": 2024,
+"tipo": "prereq",
+"n": 51,
+"comNumero": 51
+},
+{
+"id": "enare24ped",
+"nome": "ENARE 2024/2025 pré-requisito em Pediatria",
+"banca": "ENARE pré-requisito (EBSERH/FGV)",
+"ano": 2024,
+"tipo": "prereq",
+"n": 73,
+"comNumero": 73
+},
+{
+"id": "enare24psq",
+"nome": "ENARE 2024/2025 pré-requisito em Psiquiatria",
 "banca": "ENARE pré-requisito (EBSERH/FGV)",
 "ano": 2024,
 "tipo": "prereq",

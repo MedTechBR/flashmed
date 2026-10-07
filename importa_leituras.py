@@ -54,7 +54,7 @@ def main():
     proprias = []
     for arq in sorted(glob.glob(os.path.join(L, "_entradas_*.json"))):
         proprias.extend(json.load(open(arq, encoding="utf-8")))
-    ordem_grupo = ["Ginecologia e Obstetrícia", "Pediatria", "Medicina de Família e Comunidade",
+    ordem_grupo = ["Cirurgia", "Ginecologia e Obstetrícia", "Pediatria", "Medicina de Família e Comunidade",
                    "Saúde Coletiva e SUS", "Saúde Mental"]
     grupos = {}
     for e in proprias:

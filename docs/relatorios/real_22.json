@@ -1,0 +1,34 @@
+{
+ "incluidas": 39,
+ "descartadas": [],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p25006",
+   "nota": "Gabarito morfina SC mantido. Dor 6 (moderada) poderia sugerir opioide fraco, mas a dor já refratária a analgésicos comuns e a abordagem pediátrica em dois degraus (sem codeína/tramadol, desaconselhados abaixo de 12 anos) sustentam morfina; tramadol IV é o distrator mais forte."
+  },
+  {
+   "pid": "p25011",
+   "nota": "GINA lista antileucotrieno e tiotrópio como opções alternativas no degrau seguinte; a associação corticoide inalatório + LABA é a preferencial, por isso o gabarito se mantém."
+  },
+  {
+   "pid": "p25012",
+   "nota": "A alternativa correta omite o corticoide inalatório de manutenção; interpretado como prescrição nova da alta (resgate + conclusão do corticoide oral), mantendo o controlador em uso. Comentário explicita isso."
+  },
+  {
+   "pid": "p25031",
+   "nota": "Internação e via parenteral não são obrigatórias em lactente >2 meses sem toxemia (AAP 2011); a opção é a única que une urocultura e tratamento imediato, e a criança está irritada. Comentário explica que a via oral é aceitável fora desse contexto."
+  },
+  {
+   "pid": "p25037",
+   "nota": "Enunciado diz 'vacinação atualizada' aos 11 meses, o que pelo PNI já incluiria a dose dos 9 meses. Mantida porque a alternativa traz a regra correta (dose a partir dos 9 meses, 10 dias antes da viagem, reforço aos 4 anos; PNI 2025 conferido) e as demais são erradas; o comentário ressalva que, com a dose dos 9 meses feita, não se repete antes dos 4 anos."
+  },
+  {
+   "pid": "p25040",
+   "nota": "NICE dispensa imagem de rotina após primeira ITU com boa resposta acima de 3 anos; a pergunta pressupõe investigação, e o primeiro exame é a ultrassonografia. Aviso 'pode depender de figura' não procede: não há figura."
+  },
+  {
+   "pid": "p25004",
+   "nota": "Risco de deficiência de vitamina A na dieta vegana é menos consensual que o de B12 (há carotenoides vegetais), mas a alternativa é claramente a melhor; mantida."
+  }
+ ]
+}

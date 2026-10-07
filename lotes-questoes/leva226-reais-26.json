@@ -1,0 +1,1289 @@
+[
+ {
+  "pid": "g25001",
+  "q": "Gestante de 27 anos, G2P1A0, com 9 semanas de gestação, comparece à consulta de primeira vez de pré-natal, quando recebe orientações sobre vacinação na gravidez. Ela está em boas condições clínicas, não tem comorbidades e refere já ter sido vacinada uma vez contra a covid-19, há 9 meses, ainda na gestação anterior. Com relação à vacina contra a covid-19 na gestação atual, assinale a afirmativa correta.",
+  "alts": [
+   "A vacinação contra covid-19 está contraindicada na gestação e durante o aleitamento.",
+   "A vacinação contra covid-19 na gestação não é necessária já que a última dose foi há menos de 12 meses.",
+   "Deverá receber uma dose única da vacina contra covid-19 após 20 semanas de gestação.",
+   "Deverá receber uma dose da vacina de covid-19 já na 9ª semana de gestação em que ela se encontra, podendo fazer o reforço após 6 meses.",
+   "Deverá receber uma dose da vacina de covid-19 já na 9ª semana de gestação em que ela se encontra, com reforço programado para 3 e 6 meses de intervalo."
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Vacina covid-19 na gestação",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Calendário Nacional de Vacinação (gestante) e Estratégia de Vacinação contra a Covid-19, 2025",
+  "coment": "Desde 2025 a vacina covid-19 faz parte do calendário de rotina da gestante: uma dose a cada gestação, em qualquer idade gestacional, independentemente das doses de gestações anteriores. Como a dose prévia foi há 9 meses e em outra gestação, ela deve ser vacinada já na consulta de 9 semanas, sem esperar o segundo trimestre. A vacina é segura na gestação e no aleitamento e protege a mãe e o lactente pela transferência de anticorpos. A menção a reforço após 6 meses não faz parte do esquema atual da gestante (uma dose por gestação), mas é a única alternativa que acerta o ponto central: vacinar agora.",
+  "porAlt": [
+   "A vacina não é contraindicada na gestação nem na lactação; a gestante é público de rotina pelo maior risco de covid grave.",
+   "Não há regra de 12 meses que dispense a dose: a recomendação é uma dose em cada gestação, e a anterior foi em outra gravidez.",
+   "Não é preciso esperar 20 semanas; a dose pode ser feita em qualquer idade gestacional, o quanto antes.",
+   "Correta: deve ser vacinada já com 9 semanas, pois a recomendação é uma dose a cada gestação em qualquer idade gestacional.",
+   "Não existe esquema de reforços aos 3 e 6 meses para gestante imunocompetente; o esquema é uma dose por gestação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 1
+  }
+ },
+ {
+  "pid": "g25002",
+  "q": "Gestante procurou a Clínica da Família para iniciar seu pré-natal. Trata-se de primigesta, 22 anos de idade, sem comorbidades. Entre os exames de rotina pré-natal que foram solicitados para ela está a sorologia para",
+  "alts": [
+   "rubéola.",
+   "citomegalovírus.",
+   "HTLV 1/2.",
+   "brucelose.",
+   "listeriose."
+  ],
+  "gab": 2,
+  "tema": "obstetricia",
+  "sub": "Sorologias de rotina no pré-natal",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria SECTICS/MS nº 13/2024 (incorporação da detecção pré-natal de HTLV-1/2 no SUS), com Caderno de Atenção Básica nº 32, 2012",
+  "coment": "Em abril de 2024 a Portaria SECTICS/MS nº 13 incorporou ao SUS a triagem de HTLV-1/2 em todas as gestantes no pré-natal, após recomendação da Conitec. O objetivo é interromper a transmissão vertical, que ocorre sobretudo pelo aleitamento: a gestante soropositiva confirmada é orientada a não amamentar e recebe inibição da lactação. Rubéola, citomegalovírus, brucelose e listeriose não fazem parte da rotina sorológica do pré-natal de baixo risco no Brasil.",
+  "porAlt": [
+   "Sorologia de rubéola não é rotina no pré-natal; a prevenção se faz pela vacinação antes da gestação.",
+   "Citomegalovírus não é rastreado de rotina, pois não há intervenção eficaz baseada no resultado e a interpretação é difícil.",
+   "Correta: desde 2024 o SUS inclui a triagem de HTLV-1/2 em todas as gestantes para prevenir a transmissão vertical.",
+   "Brucelose só é investigada diante de exposição ocupacional ou alimentar e quadro clínico compatível.",
+   "Listeriose não tem sorologia de rastreamento; a prevenção é por orientação alimentar."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 2
+  }
+ },
+ {
+  "pid": "g25003",
+  "q": "Gestante a termo dá entrada em maternidade com queixas de contrações uterinas. Ao exame obstétrico, diagnosticou-se fase ativa do trabalho de parto. Ao ser encaminhada para o centro de parto, recebeu a orientação correta do médico plantonista de que",
+  "alts": [
+   "não era permitida a presença de acompanhante durante o parto e o pós-parto.",
+   "só era permitida a presença de acompanhante do sexo feminino após o parto.",
+   "só era permitida a presença de acompanhante do sexo feminino durante o parto e após o parto.",
+   "a presença de acompanhante de livre escolha da paciente era permitida apenas nos partos vaginais, mas não nas cesarianas.",
+   "a presença de acompanhante de livre escolha da paciente era permitida tanto no parto vaginal quanto na cesariana e durante toda a internação na maternidade após o parto."
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Direito ao acompanhante no parto",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 11.108/2005 (Lei do Acompanhante), com RDC ANVISA 36/2008 e Portaria GM/MS 5.350/2024 (Rede Alyne)",
+  "coment": "A Lei 11.108/2005 alterou a Lei 8.080/1990 e garante à parturiente um acompanhante de sua livre escolha durante todo o trabalho de parto, o parto e o pós-parto imediato, nos serviços do SUS e conveniados. A escolha é da mulher, sem restrição de sexo, e o direito vale tanto para o parto vaginal quanto para a cesariana. A RDC 36/2008 da ANVISA estende a garantia aos serviços de atenção obstétrica e neonatal e prevê o acompanhante durante a internação.",
+  "porAlt": [
+   "A presença do acompanhante é direito garantido por lei; proibi-la é ilegal.",
+   "A lei não limita o acompanhante ao sexo feminino nem só ao pós-parto.",
+   "A escolha do acompanhante é livre; restringir ao sexo feminino não tem respaldo legal.",
+   "O direito vale também na cesariana, que é um parto e está incluída na lei.",
+   "Correta: o acompanhante é de livre escolha da mulher, no parto vaginal ou cesáreo e no pós-parto, conforme a Lei 11.108/2005."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 3
+  }
+ },
+ {
+  "pid": "g25004",
+  "q": "Durante o parto vaginal de uma paciente que optou por parir semissentada, após a saída da cabeça fetal, observou-se retração da cabeça contra o períneo (sinal da tartaruga) e falha na progressão do polo cefálico. Foi orientado o aumento do agachamento materno e realizada uma pressão suprapúbica, sem sucesso. A manobra externa mais adequada para essa situação é realizar",
+  "alts": [
+   "reposicionamento da parturiente em quatro apoios.",
+   "manobra de pressão no fundo uterino.",
+   "tração axial da cabeça fetal para liberar a espádua anterior.",
+   "pressão direta com os dedos sobre a face posterior do ombro fetal anterior em direção do tórax fetal.",
+   "clidotomia."
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Distocia de ombro: manobras",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Royal College of Obstetricians and Gynaecologists. Green-top Guideline nº 42, Shoulder Dystocia, 2012, com Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "Na distocia de ombro, depois de McRoberts (hiperflexão das coxas, aqui feito como aumento do agachamento) e pressão suprapúbica sem sucesso, a próxima manobra externa é a de Gaskin: colocar a parturiente em quatro apoios. A mudança de posição altera o diâmetro pélvico e muitas vezes libera o ombro posterior. As manobras internas (Rubin II, Woods, extração do braço posterior) vêm em seguida, e a pressão fúndica e a tração vigorosa da cabeça são proscritas por aumentar lesão de plexo braquial e ruptura uterina.",
+  "porAlt": [
+   "Correta: após McRoberts e pressão suprapúbica, a manobra externa seguinte é a de Gaskin, com a mulher em quatro apoios.",
+   "A pressão no fundo uterino é contraindicada, pois impacta ainda mais o ombro e aumenta lesão fetal e ruptura uterina.",
+   "Tração axial forte da cabeça aumenta o risco de lesão do plexo braquial e não resolve a impactação.",
+   "Pressionar a face posterior do ombro anterior é a manobra de Rubin II, que é interna, não externa.",
+   "Clidotomia é recurso extremo, reservado à falha de todas as manobras, quase sempre com feto morto."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 4
+  }
+ },
+ {
+  "pid": "g25005",
+  "q": "Parturiente sem comorbidades pré-gestacional ou durante o pré-natal, encontra-se exausta após 12 horas de trabalho de parto. A última ultrassonografia mostrava um peso estimado fetal de 4.100 g. Para abreviar o período expulsivo, seu obstetra pretende aplicar um fórcipe de Simpson para alívio. Para tal, a condição de praticabilidade do fórcipe deverá ser",
+  "alts": [
+   "feto no plano I de Hodge.",
+   "bolsa amniótica rota.",
+   "apagamento cervical de 100% e dilatação de 9 cm.",
+   "apresentação cefálica de face.",
+   "variedade de posição occipito-transversa."
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Condições de praticabilidade do fórcipe",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Rezende J. Obstetrícia, 14ª ed., 2022, com Ministério da Saúde, Diretriz Nacional de Assistência ao Parto Normal, 2017",
+  "coment": "As condições de praticabilidade do fórcipe são: dilatação cervical completa, membranas rotas, cabeça insinuada (plano zero de De Lee ou abaixo, plano III de Hodge ou mais), variedade de posição conhecida, proporcionalidade feto-pélvica, feto vivo ou recém-morto e reto e bexiga vazios. O fórcipe de Simpson é usado nas variedades occipito-púbica e oblíquas; na occipito-transversa usa-se o de Kielland. Das opções, só a bolsa rota é condição obrigatória e corretamente descrita.",
+  "porAlt": [
+   "O plano I de Hodge indica cabeça alta, não insinuada; o fórcipe exige polo cefálico insinuado.",
+   "Correta: membranas rotas são condição obrigatória para aplicar o fórcipe.",
+   "É preciso dilatação completa; com 9 cm o fórcipe não pode ser aplicado.",
+   "Apresentação de face não é a situação habitual para o Simpson; a condição clássica é cefálica fletida com variedade conhecida.",
+   "Na variedade occipito-transversa o instrumento indicado é o Kielland, que permite rotação, e não o Simpson."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 5
+  }
+ },
+ {
+  "pid": "g25006",
+  "q": "Parturiente de 18 anos, G1P0A0, apresentou quadro de pré-eclampsia durante a gestação, sem sinais de gravidade. No transcurso da 40ª semana de gestação, procurou a maternidade com forte dor pélvica que já durava 12 h e sangramento transvaginal de pequena monta, vermelho escuro. Foi imediatamente submetida à cesariana, estando a placenta inteiramente descolada na cavidade uterina e o feto morto. Após 1 h da cesariana, ainda na recuperação pós-anestésica, ela evoluiu com sangramento transvaginal abundante e sinais de instabilidade hemodinâmica (PA 80 × 40 mmHg, FC 120 bpm, extremidades frias). Ao exame físico, o útero encontrava-se normotônico e localizado na altura esperada. A paciente recebeu 1.500 mL de cristaloide, duas unidades de concentrado de hemácias e ocitocina em bomba de infusão, com pouca resposta e persistência do sangramento. Assinale a opção que indica o quadro dessa paciente e a melhor conduta para o caso.",
+  "alts": [
+   "Ruptura uterina oculta e indicar laparotomia exploradora.",
+   "Atonia uterina refratária e iniciar misoprostol e massagem uterina.",
+   "Coagulopatia de consumo e solicitar coagulograma e iniciar reposição com plaquetas e fatores de coagulação.",
+   "Inversão uterina subaguda e realizar reposicionamento manual sob analgesia adequada.",
+   "Hematoma retroperitoneal e solicitar tomografia e manejo conservador com suporte hemodinâmico."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Coagulopatia após descolamento prematuro",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022, com OPAS, Recomendações assistenciais para prevenção, diagnóstico e tratamento da hemorragia obstétrica, 2018",
+  "coment": "Descolamento prematuro de placenta com descolamento total, longa evolução (12 h) e feto morto é o principal fator de risco para coagulação intravascular disseminada, por liberação de tromboplastina tecidual. Sangramento pós-parto com útero normotônico e bem contraído afasta atonia, e a ausência de resposta a cristaloide, hemácias e ocitocina reforça a coagulopatia. A conduta é coagulograma e fibrinogênio, com reposição de plasma, crioprecipitado ou concentrado de fibrinogênio e plaquetas, além de ácido tranexâmico.",
+  "porAlt": [
+   "Ruptura uterina oculta é improvável após cesariana com útero normotônico; o contexto de DPP com feto morto aponta coagulopatia.",
+   "O útero está normotônico, o que afasta atonia; massagem e misoprostol não tratam o distúrbio de coagulação.",
+   "Correta: DPP grave com feto morto causa coagulopatia de consumo, e a conduta é coagulograma com reposição de hemocomponentes e fatores.",
+   "O útero está na altura esperada, sem achado de inversão, que se manifesta com fundo uterino não palpável.",
+   "Hematoma retroperitoneal não explica sangramento transvaginal abundante, e manejo conservador em choque seria inadequado."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 6
+  }
+ },
+ {
+  "pid": "g25007",
+  "q": "Nutriz de 28 anos, G2P2, comparece ao pronto-socorro no 4º dia do puerpério após cesariana por desproporção cefalopélvica. Queixa-se de febre diária (até 39,2 °C), com calafrios, dor abdominal difusa e loquiação fétida. Ao exame, encontra-se febril (38,9 °C), taquicárdica (112 bpm), com dor à palpação do hipogástrio. A ferida operatória está com bom aspecto. O útero encontrava-se aumentado e subinvoluído à palpação abdominal. Exames laboratoriais: leucograma: 18.500/mm³ com desvio à esquerda, PCR: 185 mg/L. Ultrassonografia abdominal pélvica mostrou útero aumentado com conteúdo heterogêneo intracavitário, sem gás, com espessamento endometrial, sem coleções abdominais. Foram colhidas urocultura e hemocultura e iniciada antibioticoterapia venosa com clindamicina e gentamicina. Após 72 h do antibiótico, a paciente mantinha febre, apesar de boa resposta hemodinâmica. Ambas as culturas vieram negativas. A principal hipótese diagnóstica e a melhor conduta para esta paciente neste momento são, respectivamente,",
+  "alts": [
+   "endometrite puerperal com foco persistente, manter antibióticos.",
+   "infecção de ferida operatória profunda, solicitar TC de abdome e considerar drenagem cirúrgica.",
+   "abscesso tubo-ovariano pós-parto, solicitar ressonância pélvica e avaliar necessidade de drenagem.",
+   "tromboflebite pélvica séptica, iniciar heparina associada a antibioticoterapia.",
+   "necrose uterina séptica, indicar histerectomia."
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Tromboflebite pélvica séptica",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022, com Zugaib M. Obstetrícia, 5ª ed., 2023",
+  "coment": "Febre persistente após 72 h de antibiótico adequado para endometrite (clindamicina e gentamicina), com paciente hemodinamicamente estável, culturas negativas e sem abscesso ou coleção na imagem, sugere tromboflebite pélvica séptica. É um diagnóstico de exclusão, favorecido por cesariana e infecção puerperal. O tratamento é associar anticoagulação plena com heparina ao antibiótico, e a defervescência após a heparina reforça o diagnóstico.",
+  "porAlt": [
+   "Manter o mesmo esquema sem mudança diante de febre após 72 h ignora a principal causa de falha sem coleção: a tromboflebite pélvica.",
+   "A ferida operatória tem bom aspecto, o que afasta infecção profunda de ferida.",
+   "A ultrassonografia não mostrou coleções, o que torna improvável o abscesso tubo-ovariano.",
+   "Correta: febre que persiste apesar de antibiótico, sem coleção e com culturas negativas, indica tromboflebite pélvica séptica, tratada com heparina associada ao antibiótico.",
+   "Necrose uterina é rara e cursaria com toxemia grave e gás ou piora clínica, não com boa resposta hemodinâmica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 7
+  }
+ },
+ {
+  "pid": "g25008",
+  "q": "Gestante de 31 anos, G2P1, com 30 semanas de gestação, procura atendimento com história de febre alta há 3 dias, cefaleia, dor retro-orbital, mialgia intensa e náuseas. Relata diminuição da movimentação fetal nas últimas 12 horas. Ao exame, apresenta-se febril (38,5 °C), com pressão arterial de 80 × 50 mmHg, pulso 108 bpm, frequência respiratória de 30 irpm, presença de petéquias em membros inferiores e dor à palpação do hipocôndrio direito. Exames laboratoriais: hematócrito: 42% (aumento em relação ao basal de 35%), plaquetas: 85.000/mm³, TGO: 145 U/L, TGP: 130 U/L, teste rápido NS1 positivo, proteinúria ausente. Doppler obstétrico: mostrou centralização da circulação fetal e a cardiotocografia mostrou reatividade ausente, variabilidade mínima. Considerando a condição apresentada pela gestante, a sua classificação da dengue segundo o Ministério da Saúde e a melhor conduta obstétrica neste momento são",
+  "alts": [
+   "dengue com sinais de alarme, manter hidratação venosa rigorosa e vigilância materno-fetal em enfermaria.",
+   "dengue grave, admissão em UTI, estabilização hemodinâmica e antecipação do parto com cuidados obstétricos apropriados a idade gestacional.",
+   "dengue clássica, tratar como ambulatorial com hidratação oral e seguimento obstétrico próximo.",
+   "dengue com sinais de alarme, iniciar corticoide para melhora do quadro materno e aguardar estabilização.",
+   "dengue grave, iniciar esquema antibiótico amplo e administrar imunoglobulina IV pela plaquetopenia."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Dengue grave na gestação",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., 2024",
+  "coment": "Pressão de 80 × 50 mmHg com taquicardia e taquipneia caracteriza choque por extravasamento plasmático, o que classifica a dengue como grave (grupo D), mesmo sem sangramento. A hemoconcentração (hematócrito de 35% para 42%), a plaquetopenia e a dor no hipocôndrio direito completam o quadro. A conduta é UTI e reposição volêmica agressiva. A gestante deve ser estabilizada primeiro; com centralização fetal e cardiotocografia com variabilidade mínima e sem reatividade, a antecipação do parto é indicada após a estabilização materna, com cuidado hemostático.",
+  "porAlt": [
+   "A hipotensão define choque, logo dengue grave, e não apenas dengue com sinais de alarme manejada em enfermaria.",
+   "Correta: choque define dengue grave; a conduta é UTI, estabilização hemodinâmica e antecipação do parto pela vitalidade fetal comprometida.",
+   "Não é dengue sem complicações: há choque, hemoconcentração e plaquetopenia, o que exclui tratamento ambulatorial.",
+   "A classificação está errada e corticoide não tem indicação no tratamento da dengue.",
+   "Antibiótico e imunoglobulina não fazem parte do manejo da dengue; a plaquetopenia não é tratada com imunoglobulina."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 8
+  }
+ },
+ {
+  "pid": "g25009",
+  "q": "Adolescente de 13 anos, acompanhada da mãe, procura a emergência obstétrica relatando ter sido vítima de estupro por um conhecido da família há cerca de 2 meses. Refere atraso menstrual de 5 dias, náuseas e desconforto abdominal. O teste rápido de gravidez é positivo, mas a idade gestacional da ultrassonografia não bate com a data do relato do estupro. Ao ser acolhida por equipe multiprofissional, a adolescente manifesta expressamente o desejo de interromper a gestação. A mãe também concorda com o procedimento. Todavia, a diretora técnica da unidade alega que o aborto não tem respaldo legal uma vez que a data relatada da violência não bate com a idade gestacional. Além disso, a diretora refere também objeção de consciência institucional e diz que o procedimento não será realizado ali. Com base na legislação brasileira e nas diretrizes técnicas do Ministério da Saúde, a conduta mais adequada nesse caso é",
+  "alts": [
+   "não realizar o aborto, porque a Constituição brasileira garante a objeção de consciência institucional, devendo a paciente ser transferida de unidade.",
+   "não realizar o aborto, já que a idade gestacional não coincide com a data do relato da violência, perdendo o amparo legal dos casos de estupro.",
+   "encaminhar a paciente ao Instituto Médico Legal para comprovação do estupro antes da autorização do aborto legal.",
+   "solicitar autorização judicial, pois a paciente é menor de idade, mesmo com o consentimento da mãe.",
+   "realizar o aborto legal imediatamente, com termo de consentimento assinado pela paciente e responsável, sem necessidade de boletim de ocorrência."
+  ],
+  "gab": 4,
+  "tema": "reprodutiva",
+  "sub": "Aborto legal em adolescente",
+  "cenario": "emg",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Código Penal (Decreto-Lei 2.848/1940), arts. 128, II, e 217-A; Ministério da Saúde, Atenção Humanizada ao Abortamento, 2ª ed., 2011, e Prevenção e Tratamento dos Agravos Resultantes da Violência Sexual, 3ª ed., 2012",
+  "coment": "Relação sexual com menor de 14 anos é estupro de vulnerável (art. 217-A do Código Penal), independentemente da data ou das circunstâncias, então a gestação decorre de estupro e o aborto é permitido (art. 128, II). A lei não exige boletim de ocorrência, laudo do IML nem autorização judicial: basta o consentimento da adolescente e de seu representante legal. Discordância entre o relato e a idade gestacional não retira o direito. A objeção de consciência é individual do profissional, nunca da instituição, e o serviço de referência deve garantir o atendimento.",
+  "porAlt": [
+   "Não existe objeção de consciência institucional; ela é direito individual e o serviço de referência deve garantir o procedimento.",
+   "Aos 13 anos qualquer gestação configura estupro de vulnerável, então a data relatada não retira o amparo legal.",
+   "Exame do IML e prova do crime não são exigidos para o aborto legal; a palavra da vítima tem presunção de veracidade.",
+   "Autorização judicial não é necessária; o consentimento da adolescente e do responsável legal é suficiente.",
+   "Correta: o aborto por estupro é legal, dispensa boletim de ocorrência e exige só o consentimento da paciente e do responsável."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 9
+  }
+ },
+ {
+  "pid": "g25010",
+  "q": "Gestante de 35 anos, G4P2A1, com 38 semanas de gestação, dá entrada em fase ativa de trabalho de parto com 6 cm de dilatação, bolsa íntegra, e feto único em apresentação pélvica. Durante o exame vaginal, ocorre ruptura acidental da bolsa amniótica com saída de líquido claro. Imediatamente após o exame, a paciente refere sensação súbita de pressão perineal intensa. Ao toque, o obstetra identifica uma estrutura pulsátil no canal vaginal, e a cardiotocografia mostra bradicardia fetal sustentada (FCF 80 bpm) por mais de 5 minutos. A conduta adequada nesse momento é",
+  "alts": [
+   "colocar a paciente em posição de prece maometana e aguardar progressão do parto vaginal.",
+   "realizar elevação manual da apresentação fetal e preparo urgente para cesariana.",
+   "induzir o parto vaginal, desde que o monitoramento contínuo esteja disponível.",
+   "administrar ocitocina para acelerar o parto a fim de reduzir o tempo de sofrimento fetal.",
+   "aplicar vácuo-extrator para acelerar o nascimento."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Prolapso de cordão umbilical",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Royal College of Obstetricians and Gynaecologists. Green-top Guideline nº 50, Umbilical Cord Prolapse, 2014, com Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "Estrutura pulsátil no canal vaginal logo após a amniorrexe, em apresentação pélvica, com bradicardia sustentada, é prolapso de cordão. Com 6 cm de dilatação o parto vaginal não é iminente, então a conduta é elevar manualmente a apresentação para descomprimir o cordão (podendo associar posição genupeitoral ou encher a bexiga) e realizar cesariana de emergência. Ocitocina, indução ou vácuo não são opções, e o vácuo nem se aplica a apresentação pélvica.",
+  "porAlt": [
+   "A posição genupeitoral ajuda a descomprimir o cordão, mas aguardar parto vaginal com bradicardia e 6 cm de dilatação é inaceitável.",
+   "Correta: elevar a apresentação para aliviar a compressão do cordão e fazer cesariana de emergência.",
+   "Não há tempo nem indicação para induzir parto vaginal diante de bradicardia fetal sustentada.",
+   "Ocitocina aumenta as contrações e a compressão do cordão, piorando a hipóxia fetal.",
+   "O vácuo-extrator exige dilatação completa e apresentação cefálica; aqui a apresentação é pélvica com 6 cm."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 10
+  }
+ },
+ {
+  "pid": "g25011",
+  "q": "Gestante de 28 anos, G2P1, com 30 semanas de gestação e diagnóstico de diabetes mellitus tipo 1 desde a infância, dá entrada no pronto atendimento com queixa de náuseas, vômitos, fraqueza intensa e redução da movimentação fetal nas últimas 24 horas. Relata infecção urinária em tratamento com antibiótico há 2 dias. Ao exame: PA 100 × 70 mmHg, FC 122 bpm, FR 26 irpm, temperatura 37,8 °C, desidratada, soporosa e taquipneica (respiração de Kussmaul). A palpação obstétrica revelou ausência de atividade uterina. Ausculta fetal com BCF 160 bpm. Exames laboratoriais: glicemia capilar: 260 mg/dL, gasometria venosa: pH 7,18; HCO₃⁻: 11 mEq/L; pCO₂: 28 mmHg, cetonemia positiva (+++), potássio sérico: 4,5 mEq/L, creatinina: 1,3 mg/dL, EAS: piúria (++), nitrito positivo. Ultrassonografia obstétrica mostrava feto único, BCF presente, movimento fetal discreto, líquido amniótico normal. A conduta adequada para essa gestante é",
+  "alts": [
+   "iniciar hidratação com solução fisiológica 0,9%, insulinoterapia venosa contínua, monitorar eletrólitos e manter tratamento da infecção de base.",
+   "iniciar infusão de bicarbonato de sódio venoso imediatamente para proteger o feto da acidose.",
+   "iniciar insulinoterapia subcutânea de ação rápida e aguardar resposta clínica antes de medidas adicionais.",
+   "suspender a antibioticoterapia em curso e aguardar melhora metabólica antes de retornar com o antimicrobiano.",
+   "indicar interrupção imediata da gestação por cesariana devido ao risco fetal iminente."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Cetoacidose diabética na gestação",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American Diabetes Association. Standards of Care in Diabetes, 2026 (seção 15), com Consenso ADA/EASD/JBDS/AACE/DTS sobre crises hiperglicêmicas em adultos, 2024",
+  "coment": "Glicemia de 260 mg/dL, pH 7,18, bicarbonato de 11 mEq/L e cetonemia definem cetoacidose diabética, que na gestação ocorre com glicemias mais baixas e tem alta mortalidade fetal. O gatilho é a infecção urinária. O tratamento é o mesmo da não gestante: soro fisiológico 0,9% vigoroso, insulina regular venosa contínua depois de confirmar potássio acima de 3,5 mEq/L (aqui 4,5), reposição de potássio e monitorização de eletrólitos, mantendo o antibiótico. O sofrimento fetal costuma melhorar com a correção da acidose materna, e interromper a gestação com a mãe instável é erro.",
+  "porAlt": [
+   "Correta: hidratação com SF 0,9%, insulina venosa contínua, controle de eletrólitos e manutenção do tratamento da infecção desencadeante.",
+   "Bicarbonato só é considerado com pH abaixo de 6,9 a 7,0; com pH 7,18 não está indicado e pode piorar a oxigenação fetal.",
+   "Na cetoacidose moderada a grave a via é venosa contínua; insulina subcutânea isolada e espera atrasam o tratamento.",
+   "A infecção urinária é o gatilho da descompensação e o antibiótico deve ser mantido.",
+   "A alteração fetal reflete a acidose materna e costuma reverter com o tratamento; operar com a mãe descompensada aumenta o risco para ambos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 11
+  }
+ },
+ {
+  "pid": "g25012",
+  "q": "Paciente de 26 anos, G1P0, com história de ciclos regulares e sem uso de contraceptivo, procura atendimento em uma Unidade de Pronto Atendimento com dor pélvica leve e discreto sangramento transvaginal há 4 dias. Relata atraso menstrual de 6 semanas. Ao exame físico: encontra-se hemodinamicamente estável, sem dor à palpação profunda e sem sinais de irritação peritoneal. O toque vaginal evidencia útero de tamanho normal e ausência de dor em sua mobilização. A ultrassonografia pélvica-transvaginal mostra endométrio fino, ausência de saco gestacional intrauterino e imagem anexial à direita de 18 mm, sem líquido livre em fundo de saco. Exames laboratoriais: gonadotrofina coriônica humana (hCG) inicial: 870 UI/L, hemograma: normal, tipagem sanguínea: O Rh positivo, função hepática e renal: normais. A paciente foi internada para observação e repetiu o hCG em 48 h, cujo resultado foi 690 UI/L. Diante desse cenário, a melhor conduta para essa paciente é",
+  "alts": [
+   "acompanhar ambulatorialmente com dosagem seriada de hCG e ultrassonografia.",
+   "solicitar nova dosagem de hCG em 24 h e indicar laparotomia se o valor não reduzir pelo menos 50%.",
+   "iniciar tratamento com metotrexato intramuscular em dose única.",
+   "realizar curetagem uterina diagnóstica.",
+   "indicar laparoscopia diagnóstica imediata."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Gravidez ectópica: conduta expectante",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NICE. Ectopic pregnancy and miscarriage: diagnosis and initial management (NG126), 2019, atualizada em 2023, com ACOG Practice Bulletin nº 193, 2018",
+  "coment": "Ultrassonografia com útero vazio, massa anexial pequena (18 mm) e hCG de 870 UI/L, que caiu para 690 UI/L em 48 h, em paciente estável, sem dor importante e sem líquido livre, preenche os critérios de conduta expectante na gravidez ectópica (ou de localização desconhecida em resolução): hCG abaixo de 1.000 a 2.000 UI/L e em queda, massa pequena sem embrião vivo e estabilidade clínica. O seguimento é ambulatorial com hCG seriado até negativar. Metotrexato fica para hCG em platô ou subindo.",
+  "porAlt": [
+   "Correta: hCG baixo e em queda, massa pequena e estabilidade permitem conduta expectante com hCG seriado e ultrassonografia.",
+   "Laparotomia não é indicada em paciente estável com hCG caindo; a queda esperada é avaliada em intervalos semanais, não em 24 h.",
+   "Metotrexato é reservado para hCG em platô ou ascensão; com queda espontânea a conduta expectante é preferível.",
+   "Curetagem não tem papel diante de endométrio fino e hCG em queda; não trataria uma ectópica.",
+   "Laparoscopia imediata é para instabilidade, dor importante, hemoperitônio ou massa grande, ausentes aqui."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 12
+  }
+ },
+ {
+  "pid": "g25014",
+  "q": "Gestante G2P1, 28 anos, com tipo sanguíneo O Rh negativo, comparece ao pré-natal com 26 semanas de gestação. Relata primeiro parto há 2 anos, com recém-nascido internado por icterícia intensa, mas sem investigação detalhada na época. Não houve uso documentado de imunoglobulina anti-D no puerpério anterior. Na avaliação atual, observa-se tipo sanguíneo do parceiro: A Rh positivo, Coombs indireto: 1:128. Ultrassonografia obstétrica: feto único, bem desenvolvido, batimentos cardíacos presentes, sem hidropisia. Avaliação morfológica normal. Doppler de artéria cerebral média (ACM): 1,6 MoM. Com base nesse cenário, a conduta mais apropriada para esse caso é",
+  "alts": [
+   "iniciar corticoterapia materna e agendar doppler de ACM mensal para vigilância da vitalidade fetal.",
+   "repetir o Coombs indireto semanalmente e indicar cesariana caso o título continue aumentando.",
+   "solicitar tipagem fetal por amniocentese e indicar transfusão fetal profilática a partir de 28 semanas.",
+   "indicar cordocentese para hematócrito fetal e possível transfusão intrauterina.",
+   "administrar imunoglobulina anti-D imediatamente e monitorar por sinais de hidropisia fetal."
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Aloimunização Rh com anemia fetal",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Society for Maternal-Fetal Medicine. Clinical Guideline nº 8, The fetus at risk for anemia, 2015, com Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "Gestante Rh negativo sensibilizada (Coombs indireto 1:128, acima do título crítico de 1:16 a 1:32) e com filho anterior com icterícia grave tem feto em risco de anemia. A vigilância é pelo pico de velocidade sistólica da artéria cerebral média: valor acima de 1,5 MoM indica anemia moderada a grave. Nesse caso a conduta é cordocentese para medir o hematócrito fetal e realizar transfusão intrauterina no mesmo procedimento, antes que surja hidropisia. Imunoglobulina anti-D não tem utilidade em mulher já sensibilizada.",
+  "porAlt": [
+   "Corticoide não trata anemia fetal, e Doppler mensal é insuficiente quando o pico já está acima de 1,5 MoM.",
+   "O título de Coombs não guia mais a conduta depois de ultrapassar o nível crítico; o seguimento passa ao Doppler da ACM, e cesariana com 26 semanas não é tratamento.",
+   "A transfusão fetal não é profilática; é indicada pela anemia demonstrada, e a tipagem fetal hoje se faz no sangue materno (DNA fetal livre).",
+   "Correta: pico da ACM acima de 1,5 MoM indica anemia fetal moderada a grave, e a conduta é cordocentese com possível transfusão intrauterina.",
+   "Anti-D só previne sensibilização; com Coombs 1:128 a gestante já está aloimunizada e a imunoglobulina não ajuda."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 14
+  }
+ },
+ {
+  "pid": "g25015",
+  "q": "Gestante de 33 anos, G3P2, com 28 semanas de gestação, previamente hígida, procura emergência obstétrica com febre alta (38,7 °C), tosse seca, mialgia intensa e cefaleia há 36 horas. Refere também dispneia leve em repouso. Nega vacinas recentes. Está em uso de paracetamol, sem melhora. Ao exame: PA 100 × 60 mmHg, FC 100 bpm, FR 22 irpm, SpO₂ 97% em ar ambiente. Pulmões limpos à ausculta, sem sinais de desconforto respiratório. Diante da suspeita de síndrome gripal durante uma epidemia sazonal confirmada de Influenza A, a equipe médica opta por tratamento empírico. Com base nas diretrizes do Ministério da Saúde, a conduta terapêutica mais adequada nesse caso é",
+  "alts": [
+   "iniciar oseltamivir apenas se o RT-PCR para influenza for positivo, devido aos riscos desse medicamento durante a gestação.",
+   "internar a paciente para antibioticoterapia empírica e oxigenoterapia, uma vez que a febre e a taquicardia indicam infecção respiratória grave.",
+   "introduzir oseltamivir oral o mais precocemente possível, mesmo sem confirmação laboratorial, preferencialmente nas primeiras 48 horas de sintomas.",
+   "administrar zanamivir inalatória por 5 dias, pois tem menor absorção sistêmica e é preferível na gravidez.",
+   "adiar qualquer antiviral até a realização de hemograma, radiografia de tórax e gasometria arterial."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Influenza na gestação: oseltamivir",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Manejo e Tratamento de Influenza, 2023",
+  "coment": "Gestantes, em qualquer idade gestacional, e puérperas até 2 semanas após o parto são grupo de risco para complicações da influenza. Segundo o Ministério da Saúde, todo caso de síndrome gripal nesse grupo deve receber oseltamivir 75 mg de 12/12 h por 5 dias, iniciado de imediato com base no quadro clínico, sem aguardar exame confirmatório. O benefício é maior nas primeiras 48 h, mas o tratamento é indicado mesmo após esse prazo. O oseltamivir é seguro na gravidez, e a saturação de 97% sem desconforto não define síndrome respiratória aguda grave.",
+  "porAlt": [
+   "O oseltamivir é seguro na gestação e não se espera o RT-PCR; o tratamento empírico é indicado no grupo de risco.",
+   "Não há critério de gravidade (SpO2 97%, sem desconforto), e antibiótico não trata influenza.",
+   "Correta: gestante com síndrome gripal deve receber oseltamivir o mais cedo possível, sem esperar confirmação laboratorial.",
+   "O zanamivir inalatório não é preferido na gestação; o oseltamivir oral é a primeira escolha.",
+   "Adiar o antiviral à espera de exames reduz o benefício, que depende do início precoce."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 15
+  }
+ },
+ {
+  "pid": "g25016",
+  "q": "Puérpera de 30 anos, G1P1, foi submetida a cesariana há 3 dias. O recém-nascido encontra-se em aleitamento exclusivo e em alojamento conjunto. A equipe de enfermagem relata que, nas últimas 24 horas, a puérpera vem apresentando insônia persistente, fala desconexa, períodos de agitação psicomotora, além de delírios religiosos e recusa a alimentar-se. Hoje, afirmou que o bebê é um “anjo que precisa ser purificado”. Nega antecedentes psiquiátricos. A família está preocupada e relata que a puérpera está apresentando comportamento “fora da realidade”. Com base no quadro clínico, a conduta mais apropriada para esse caso é",
+  "alts": [
+   "encaminhar para avaliação ambulatorial de saúde mental e observar por mais 72 horas, pois há risco de transtorno de adaptação ao puerpério.",
+   "prescrever benzodiazepínico de curta duração e manter a puérpera com o bebê, estimulando o vínculo materno-infantil.",
+   "iniciar antidepressivo inibidor seletivo da recaptação de serotonina de forma ambulatorial e agendar retorno precoce.",
+   "internação psiquiátrica imediata, com antipsicótico atípico, suspensão do aleitamento e avaliação de risco para infanticídio e suicídio.",
+   "manter vigilância com apoio familiar e psicoterapia breve, já que se trata de condição autolimitada do puerpério."
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Psicose puerperal",
+  "cenario": "enf",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "NICE. Antenatal and postnatal mental health (CG192), 2014, atualizada em 2020, com Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "Início abrupto nos primeiros dias pós-parto de insônia, agitação, desorganização do pensamento e delírios envolvendo o bebê é psicose puerperal, emergência psiquiátrica com risco real de infanticídio e suicídio. A conduta é internação psiquiátrica imediata, antipsicótico (frequentemente com estabilizador do humor, pela relação com transtorno bipolar) e supervisão constante do contato com o bebê. A suspensão do aleitamento citada no gabarito é decisão do momento agudo (gravidade, sedação, internação), não regra absoluta, pois vários antipsicóticos são compatíveis com amamentação.",
+  "porAlt": [
+   "Psicose com delírio envolvendo o bebê não pode esperar avaliação ambulatorial; o risco de infanticídio exige internação.",
+   "Benzodiazepínico isolado não trata a psicose, e deixar a mãe sozinha com o bebê é perigoso.",
+   "ISRS ambulatorial é tratamento de depressão pós-parto, não de psicose, e pode precipitar virada maníaca.",
+   "Correta: psicose puerperal exige internação, antipsicótico e avaliação de risco de infanticídio e suicídio, com suspensão do aleitamento no quadro agudo.",
+   "A psicose puerperal não é autolimitada nem benigna como a disforia puerperal; exige tratamento imediato."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 16
+  }
+ },
+ {
+  "pid": "g25017",
+  "q": "Gestante de 27 anos, G2P1 (parto vaginal pré-termo anterior), com 30 semanas e 4 dias de gestação, procura a maternidade com queixas de contrações uterinas regulares há cerca de 4 horas. No cartão pré-natal há a informação de que ela tem miastenia gravis. Ao exame obstétrico: colo apagado 60%, com 2 cm de dilatação, bolsa íntegra e apresentação cefálica. Não há sinais clínicos de infecção urinária ou corioamnionite. BCF 145 bpm, feto único, bem desenvolvido e com líquido amniótico normal. A gestante está hemodinamicamente estável. A conduta mais adequada, nesse momento, para o caso apresentado, é",
+  "alts": [
+   "iniciar corticoterapia para maturação pulmonar fetal, sulfato de magnésio, antibioticoterapia empírica e tocolítico por 48 h.",
+   "iniciar tocolítico e corticoterapia, associar sulfato de magnésio para neuroproteção fetal e programar parto em até 24 h.",
+   "internar para observação, contraindicar tocolítico por presença de dilatação e administrar antibiótico para prevenção da corioamnionite.",
+   "administrar corticosteroide para maturação pulmonar e iniciar tocolítico por até 48 h.",
+   "iniciar tocolítico de manutenção até 34 semanas e associar antibioticoterapia profilática."
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Trabalho de parto prematuro e miastenia",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022, com ACOG Committee Opinion nº 455 (sulfato de magnésio para neuroproteção), 2010",
+  "coment": "Com 30 semanas e 4 dias, trabalho de parto prematuro inicial (2 cm, bolsa íntegra) e sem infecção, as medidas são corticoide para maturação pulmonar e tocólise por até 48 h para completar o esquema. O sulfato de magnésio para neuroproteção, indicado abaixo de 32 semanas, está contraindicado na miastenia gravis, pois bloqueia a junção neuromuscular e pode precipitar crise miastênica. Antibiótico empírico não é indicado sem infecção ou rotura de membranas (a profilaxia para estreptococo B é conduta à parte). Tocólise de manutenção não tem benefício.",
+  "porAlt": [
+   "Sulfato de magnésio é contraindicado na miastenia gravis, e antibiótico empírico não tem indicação sem infecção.",
+   "Associa sulfato de magnésio, contraindicado na miastenia, e programar parto em 24 h contradiz a tocólise.",
+   "Dilatação de 2 cm não contraindica tocólise, e antibiótico para prevenir corioamnionite com bolsa íntegra não é indicado.",
+   "Correta: corticoide e tocólise por até 48 h, sem sulfato de magnésio pela miastenia gravis.",
+   "Tocólise de manutenção até 34 semanas não reduz prematuridade, e antibiótico profilático não é indicado com bolsa íntegra."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 17
+  }
+ },
+ {
+  "pid": "g25018",
+  "q": "Gestante de 32 anos, G2P1, com 26 semanas de gestação, realiza curva glicêmica (TOTG 75g) com os seguintes resultados: jejum: 96 mg/dL, 1 hora: 190 mg/dL, 2 horas: 160 mg/dL. Após o resultado, iniciou acompanhamento com equipe multiprofissional, incluindo plano alimentar individualizado e orientações sobre atividade física. Após 10 dias de monitoramento, apresenta os seguintes registros capilares: glicemias de jejum: entre 95 e 99 mg/dL e pós-prandiais de 1 hora: entre 140 e 155 mg/dL. Sua gestação evoluía com feto único, bem desenvolvido, em apresentação cefálica, sem sinais de sofrimento ou macrossomia. Gestante sem comorbidades adicionais. A conduta mais apropriada para esse caso é",
+  "alts": [
+   "realizar novo TOTG para confirmar o diagnóstico.",
+   "manter conduta expectante e repetir monitoramento glicêmico em 1 semana.",
+   "melhorar o controle clínico intensificando a dieta e exercício.",
+   "iniciar metformina oral.",
+   "iniciar insulinoterapia."
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Diabetes gestacional: indicação de insulina",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "OPAS, Ministério da Saúde, Febrasgo e SBD. Tratamento do diabetes mellitus gestacional no Brasil, 2019, com American Diabetes Association, Standards of Care in Diabetes, 2026",
+  "coment": "Jejum de 96 mg/dL no TOTG já basta para diabetes gestacional (jejum de 92 a 125 mg/dL), então não é preciso repetir o exame. As metas são jejum abaixo de 95 mg/dL e 1 h pós-prandial abaixo de 140 mg/dL. Após 7 a 14 dias de dieta e atividade física, se 30% ou mais das medidas estão fora da meta, indica-se tratamento farmacológico. Aqui todos os jejuns (95 a 99) e todas as pós-prandiais (140 a 155) estão acima. No Brasil a insulina é a primeira escolha, e a metformina fica para quem não tem acesso ou não aceita a insulina.",
+  "porAlt": [
+   "O diagnóstico já está firmado pelo jejum de 96 mg/dL no TOTG; repetir o teste só atrasa o tratamento.",
+   "Manter conduta expectante com todas as glicemias fora da meta após 10 dias expõe o feto à hiperglicemia.",
+   "A fase de dieta e exercício já foi cumprida sem atingir as metas; o próximo passo é farmacológico.",
+   "A metformina é alternativa de segunda linha no Brasil, para quando a insulina não é viável.",
+   "Correta: glicemias acima da meta após 7 a 14 dias de mudança de estilo de vida indicam insulina, primeira escolha no diabetes gestacional."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 18
+  }
+ },
+ {
+  "pid": "g25019",
+  "q": "Em uma maternidade pública certificada como \"Hospital Amigo da Criança\", uma equipe multiprofissional realiza treinamento periódico sobre boas práticas em aleitamento materno. Durante uma visita à enfermaria pós-parto, um residente observa que uma puérpera, com parto vaginal há 16 horas, está com o recém-nascido em berço separado, usando fórmula láctea. A mãe relata que o bebê \"chorava muito\" e a equipe de enfermagem orientou o uso de complemento até o leite “descer”. A mãe ainda não foi orientada formalmente sobre amamentação. A conduta mais alinhada aos princípios e diretrizes dos Dez Passos para o Sucesso do Aleitamento Materno é",
+  "alts": [
+   "aceitar temporariamente o uso de fórmula e manter o bebê em berçário separado até a apojadura, conforme demanda emocional da mãe.",
+   "estimular a amamentação na primeira hora pós-parto e manter o contato pele a pele, mesmo que a produção de leite ainda não esteja estabelecida.",
+   "priorizar o repouso materno nas primeiras 24 horas e iniciar orientação sobre amamentação apenas após descida do leite e demanda espontânea.",
+   "substituir o uso de fórmula por glicose 5% e estimular sucção não nutritiva até o leite ser produzido em quantidade adequada.",
+   "considerar a introdução de fórmula láctea como adequada, já que a oferta complementar inicial é compatível com o conforto materno no pós-parto."
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Dez Passos do aleitamento (IHAC)",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "OMS e UNICEF. Dez Passos para o Sucesso do Aleitamento Materno, revisão de 2018, com Portaria de Consolidação GM/MS nº 2/2017 (Iniciativa Hospital Amigo da Criança)",
+  "coment": "Os Dez Passos da Iniciativa Hospital Amigo da Criança determinam contato pele a pele imediato e início da amamentação na primeira hora, alojamento conjunto 24 h, amamentação sob livre demanda e nenhum alimento ou líquido além do leite materno sem indicação médica. Choro do bebê antes da apojadura não é indicação de fórmula: o colostro, em pequeno volume, atende às necessidades do recém-nascido nos primeiros dias. A conduta é orientar a mãe, retomar o contato pele a pele e estimular a amamentação frequente.",
+  "porAlt": [
+   "Separar o bebê e oferecer fórmula até a apojadura viola o alojamento conjunto e a amamentação exclusiva previstos nos Dez Passos.",
+   "Correta: estimular a amamentação e o contato pele a pele mesmo antes da descida do leite, pois o colostro basta nos primeiros dias.",
+   "Adiar a orientação até a apojadura contraria o início precoce e a livre demanda, que estimulam a produção de leite.",
+   "Soro glicosado não deve substituir o leite materno; nenhum líquido é oferecido sem indicação médica.",
+   "Fórmula sem indicação médica contraria a política do Hospital Amigo da Criança e prejudica a amamentação exclusiva."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 19
+  }
+ },
+ {
+  "pid": "g25020",
+  "q": "Puérpera de 24 anos, G1P1, deu à luz há 2 dias por parto vaginal, sem complicações aparentes. Não havia história prévia de hipertensão durante o pré-natal e o parto transcorreu sem intercorrências. No alojamento conjunto, evolui com episódio tônico-clônico generalizado, de cerca de 90 segundos, presenciado pela equipe. No pós-crise, apresenta rebaixamento do nível de consciência. Exame físico revela PA 150 × 110 mmHg, reflexos tendinosos vivos, sem rigidez de nuca. Temperatura 36,8 °C, sem queixas respiratórias ou sinais de infecção. Diante do quadro clínico apresentado, a conduta inicial mais apropriada é",
+  "alts": [
+   "iniciar diazepam endovenoso para controle convulsivo, investigar meningite e solicitar TC de crânio.",
+   "iniciar fenitoína para prevenção de novas crises, realizar punção lombar e manter vigilância neurológica.",
+   "administrar labetalol EV imediatamente e solicitar ressonância magnética para descartar trombose venosa cerebral.",
+   "considerar epilepsia de início tardio, manter observação e aguardar novos episódios antes de iniciar anticonvulsivante.",
+   "iniciar sulfato de magnésio, controle pressórico com hidralazina e avaliação de causas secundárias de convulsão após estabilização."
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Eclâmpsia puerperal",
+  "cenario": "enf",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022, com Rede Brasileira de Estudos sobre Hipertensão na Gravidez (RBEHG), Pré-eclâmpsia: protocolo, 2023",
+  "coment": "Convulsão tônico-clônica no puerpério com hipertensão (150 × 110 mmHg) e hiperreflexia é eclâmpsia até prova em contrário, mesmo sem hipertensão no pré-natal: a eclâmpsia pode surgir até semanas após o parto. A conduta é sulfato de magnésio (dose de ataque e manutenção por 24 h), que previne novas crises melhor que diazepam ou fenitoína, e anti-hipertensivo de ação rápida (hidralazina, labetalol ou nifedipina) com diastólica de 110 mmHg. Outras causas de convulsão são investigadas depois da estabilização, sobretudo se houver sinal focal.",
+  "porAlt": [
+   "Diazepam não é a droga de escolha na eclâmpsia, e meningite é improvável sem febre nem rigidez de nuca.",
+   "Fenitoína é inferior ao sulfato de magnésio na eclâmpsia, e punção lombar não é conduta inicial.",
+   "Controlar a PA é necessário, mas sem sulfato de magnésio a mulher fica exposta a novas convulsões.",
+   "Convulsão com hipertensão no puerpério é eclâmpsia e exige tratamento imediato, não observação.",
+   "Correta: sulfato de magnésio, controle pressórico com hidralazina e investigação de outras causas após a estabilização."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 20
+  }
+ },
+ {
+  "pid": "g25021",
+  "q": "Gestante de 35 semanas, G2P1, sem histórico prévio de herpes, procura atendimento com queixa de febre, ardência vulvar intensa e múltiplas lesões ulceradas e dolorosas em vulva e períneo, com início há 3 dias. Ao exame físico, observam-se múltiplas úlceras com base eritematosa, bordas bem definidas e exsudato claro. Linfonodomegalia inguinal bilateral dolorosa está presente. A paciente encontra-se afebril no momento, mas bastante ansiosa e com dor intensa à micção. Foi coletado PCR de secreção da lesão e sorologia para herpes-vírus simples. A gestação evolui normalmente até o momento, com feto único, em apresentação cefálica e crescimento adequado para a idade gestacional. A conduta mais adequada para o caso é",
+  "alts": [
+   "confirmar a primoinfecção apenas se a IgM for positiva, iniciar aciclovir apenas se houver sinais sistêmicos, e planejar parto vaginal se não houver lesão ativa no momento do parto.",
+   "iniciar aciclovir imediatamente, independentemente da confirmação laboratorial, e indicar cesariana eletiva se houver lesões ativas ou sintomas no momento do parto.",
+   "iniciar valaciclovir em dose única, aguardar PCR e sorologia para confirmar o diagnóstico, e seguir com parto vaginal em qualquer situação.",
+   "indicar internação hospitalar imediata, iniciar terapia combinada com aciclovir e corticoide e programar parto vaginal com precauções de contato.",
+   "aguardar resultado de PCR e sorologias para definir se a infecção é primária ou recorrente, e indicar parto vaginal, pois o risco neonatal é baixo."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Herpes genital no terceiro trimestre",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "Úlceras genitais múltiplas e dolorosas, com sintomas sistêmicos e linfadenopatia inguinal, em gestante sem herpes prévio sugerem primoinfecção herpética, a forma de maior risco de transmissão neonatal no fim da gestação. O tratamento com aciclovir deve começar já, pelo diagnóstico clínico, sem aguardar exames. A cesariana é indicada se houver lesões ativas ou pródromos no início do trabalho de parto, e a supressão com aciclovir a partir de 36 semanas reduz recorrência e necessidade de cesariana.",
+  "porAlt": [
+   "IgM não define primoinfecção com segurança, e o tratamento deve ser iniciado mesmo sem sinais sistêmicos.",
+   "Correta: aciclovir imediato pelo diagnóstico clínico e cesariana se houver lesões ativas ou pródromos no parto.",
+   "Valaciclovir em dose única não trata o episódio, e parto vaginal com lesão ativa expõe o recém-nascido ao herpes neonatal.",
+   "Corticoide não tem papel, e parto vaginal com lesões ativas aumenta muito a transmissão.",
+   "Aguardar exames atrasa o tratamento, e o risco neonatal na primoinfecção perto do termo é alto, não baixo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 21
+  }
+ },
+ {
+  "pid": "g25022",
+  "q": "Gestante de 34 anos, G2P0A1, moradora da cidade de São Paulo, comparece à primeira consulta pré-natal com 9 semanas de gestação. Nega hipertensão crônica e outras comorbidades. Exame físico atual sem alterações: PA 112 × 68 mmHg, IMC 23. A fim de reduzir o risco de pré-eclampsia na gestação atual, o procedimento correto será",
+  "alts": [
+   "suplementação de cálcio iniciado a partir de 12 semanas de gestação.",
+   "prescrição de ácido acetilsalicílico em baixa dose iniciado antes de 16 semanas de gestação.",
+   "uso de antioxidantes como vitamina C e vitamina E, associados a dieta hipossódica desde o primeiro trimestre.",
+   "prescrição de heparina de baixo peso molecular profilática até o final da gestação.",
+   "monitoramento ultrassonográfico mensal com Doppler das artérias uterinas."
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Prevenção de pré-eclâmpsia com cálcio",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022, com OMS, Recomendações sobre cuidados pré-natais para uma experiência positiva na gravidez, 2016",
+  "coment": "Em populações de baixa ingestão de cálcio, como a brasileira, a suplementação de cálcio a partir de 12 semanas reduz o risco de pré-eclâmpsia e é recomendada pelo Ministério da Saúde e pela OMS para todas as gestantes. O ácido acetilsalicílico em baixa dose, iniciado entre 12 e 16 semanas, é reservado a quem tem fator de alto risco ou dois ou mais de risco moderado. Esta gestante tem 34 anos, PA e IMC normais e nenhuma comorbidade; a nuliparidade isolada não basta para indicar AAS. Vitaminas C e E, dieta hipossódica e heparina não previnem pré-eclâmpsia.",
+  "porAlt": [
+   "Correta: a suplementação de cálcio a partir de 12 semanas é recomendada a todas as gestantes no Brasil para reduzir o risco de pré-eclâmpsia.",
+   "AAS é indicado para gestantes de alto risco ou com dois ou mais fatores moderados, o que não é o caso.",
+   "Antioxidantes e restrição de sódio não reduziram pré-eclâmpsia nos ensaios clínicos e não são recomendados.",
+   "Heparina profilática não previne pré-eclâmpsia e expõe a gestante a riscos sem benefício.",
+   "Doppler de artérias uterinas mensal é método de predição, não de prevenção, e não é rotina no baixo risco."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 22
+  }
+ },
+ {
+  "pid": "g25023",
+  "q": "Primigesta de 26 anos procura atendimento no pronto-socorro trazendo ultrassonografia feita naquele dia, mostrando gestação normal no transcurso da 10ª semana. Queixava-se de náuseas e vômitos persistentes há 7 dias, que se agravaram nas últimas 48 horas. Refere incapacidade de manter alimentos e líquidos. Nega sangramentos, febre ou dor abdominal. Refere perda de 5 kg desde o início dos sintomas. Ao exame: PA: 90×60 mmHg, FC: 112 bpm, temperatura: 36,7 °C. Mucosas secas, turgor diminuído, hálito cetônico. Abdome sem dor, útero palpável no hipogástrio, sem sangramento genital. Exames laboratoriais: Na+: 131 mEq/L, K+: 3,2 mEq/L, HCO₃⁻: 18 mEq/L, glicemia: 68 mg/dL. Urina 1: cetonúria 3+, leucócitos ausentes. hCG sérico: 150.000 UI/L. Considerando a história clínica, a conduta apropriada para o caso é",
+  "alts": [
+   "reposição oral com líquidos claros, prescrição de metoclopramida via oral e alta ambulatorial com seguimento em 48 h.",
+   "internação hospitalar para hidratação venosa, correção de distúrbios hidroeletrolíticos e administração de antieméticos via venosa.",
+   "indicação de esvaziamento uterino devido à suspeita de doença trofoblástica gestacional.",
+   "avaliação psiquiátrica e prescrição de benzodiazepínico, considerando etiologia psicogênica do quadro.",
+   "administração de corticosteroides como primeira linha para resolução do quadro refratário."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Hiperêmese gravídica",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022, com Royal College of Obstetricians and Gynaecologists, Green-top Guideline nº 69, 2016",
+  "coment": "Vômitos incoercíveis com perda de peso acima de 5% do peso, desidratação, taquicardia, hipotensão, cetonúria, hiponatremia, hipopotassemia e acidose definem hiperêmese gravídica. Como não tolera nada por via oral e tem distúrbio hidroeletrolítico, deve ser internada para hidratação venosa, correção de sódio e potássio, reposição de glicose com tiamina antes e antieméticos venosos. A ultrassonografia com gestação normal de 10 semanas afasta doença trofoblástica, e o hCG elevado é compatível com a idade gestacional.",
+  "porAlt": [
+   "Com intolerância oral, desidratação e distúrbios eletrolíticos, o tratamento ambulatorial com via oral é inadequado.",
+   "Correta: hiperêmese com desidratação e distúrbio hidroeletrolítico exige internação, hidratação venosa, correção eletrolítica e antiemético venoso.",
+   "A ultrassonografia mostra gestação normal, o que afasta mola; esvaziamento uterino seria um erro grave.",
+   "A hiperêmese é condição orgânica com repercussão metabólica; tratá-la como psicogênica atrasa o tratamento.",
+   "Corticoide é reservado aos casos refratários após falha das medidas iniciais, não é primeira linha."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 23
+  }
+ },
+ {
+  "pid": "g25024",
+  "q": "Mulher de 34 anos, G3P2, com 27 semanas de gestação, comparece ao pronto-socorro com queixa de tosse, febre alta e dispneia progressiva há 4 dias. Apresenta histórico prévio de cardiopatia reumática com valvopatia mitral moderada, sem acompanhamento regular. Evolui rapidamente com insuficiência respiratória grave, necessitando de intubação orotraqueal e internação em UTI. Mesmo com suporte ventilatório e antibioticoterapia, evolui com choque refratário e óbito em 48 horas. A análise do caso permite concluir que",
+  "alts": [
+   "se trata de morte materna de causa obstétrica direta, pois a gravidez desencadeou a descompensação da cardiopatia.",
+   "se trata de morte materna de causa obstétrica indireta, e a gravidez deve constar como condição contribuinte no atestado.",
+   "não é considerada morte materna, pois decorreu de doença preexistente não relacionada ao parto ou à gestação.",
+   "se trata de morte materna acidental, já que não ocorreu durante o parto ou puerpério imediato.",
+   "se trata de morte materna cuja causa básica no atestado de óbito deve ser registrada como “gestação de 27 semanas”, uma vez que a gravidez foi o fator desencadeante do óbito."
+  ],
+  "gab": 1,
+  "tema": "epidemio",
+  "sub": "Morte materna obstétrica indireta",
+  "cenario": "uti",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Guia de Vigilância Epidemiológica do Óbito Materno, 2009, com definições de morte materna da CID-10 (OMS)",
+  "coment": "Morte materna é a que ocorre na gestação ou até 42 dias após o seu término, por causa relacionada ou agravada pela gravidez, excluídas as causas acidentais ou incidentais. É direta quando decorre de complicação obstétrica (hemorragia, hipertensão, infecção puerperal) e indireta quando resulta de doença prévia ou surgida na gestação que foi agravada pelos efeitos fisiológicos da gravidez, como cardiopatias e infecções respiratórias. A valvopatia mitral reumática descompensada pela sobrecarga volêmica da gestação, com pneumonia, é o exemplo clássico de morte indireta, e a gestação deve ser registrada na declaração de óbito.",
+  "porAlt": [
+   "Cardiopatia preexistente agravada pela gravidez caracteriza morte indireta; a direta decorre de complicações obstétricas.",
+   "Correta: doença prévia agravada pela fisiologia da gravidez define morte materna obstétrica indireta, com a gestação registrada no atestado.",
+   "Doença preexistente agravada pela gestação entra na definição de morte materna; só causas acidentais ou incidentais são excluídas.",
+   "Morte acidental não é morte materna, e o momento do óbito (fora do parto) não altera essa classificação.",
+   "A causa básica é a doença que iniciou a cadeia (cardiopatia e pneumonia); a gestação não deve ser registrada como causa básica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 24
+  }
+ },
+ {
+  "pid": "g25025",
+  "q": "Mulher de 27 anos, G1P1, comparece à maternidade em fase ativa de trabalho de parto na 40ª semana de gestação. Evolui com parto vaginal sem intercorrências e dá à luz recém-nascido vivo, a termo, com peso adequado. Durante o pré-natal, realizado em Unidade Básica de Saúde, a paciente assinou, na 24ª semana de gestação, termo de consentimento livre e esclarecido (TCLE), solicitando laqueadura tubária pós-parto, discutida previamente com a equipe multiprofissional, e reafirma o desejo de realizar o procedimento ainda durante a internação na maternidade. Ela está em boas condições clínicas, com sinais vitais estáveis no pós-parto imediato. Seu parceiro não acompanhou o parto, não compareceu às consultas de pré-natal e não assinou o TCLE. Considerando as normas vigentes sobre planejamento familiar e esterilização cirúrgica no Brasil, é correto afirmar que",
+  "alts": [
+   "o procedimento não pode ser realizado no puerpério imediato, pois a lei exige intervalo mínimo de 60 dias entre o parto e a realização da laqueadura.",
+   "a ausência de assinatura do TCLE do parceiro impede a realização da esterilização definitiva no contexto do parto.",
+   "a paciente tem direito à laqueadura pós-parto, pois manifestou sua vontade e assinou o TCLE com antecedência mínima de 60 dias.",
+   "a laqueadura só pode ser feita na cesariana, conforme as limitações técnicas para acesso às tubas uterinas em partos vaginais.",
+   "o procedimento deve ser adiado para 42 dias após o parto, devido à vedação legal de esterilização cirúrgica no puerpério imediato."
+  ],
+  "gab": 2,
+  "tema": "reprodutiva",
+  "sub": "Laqueadura no parto: Lei 14.443",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 9.263/1996 (Planejamento Familiar), alterada pela Lei 14.443/2022",
+  "coment": "A Lei 14.443/2022 alterou a Lei 9.263/1996: a esterilização voluntária pode ser feita em pessoas com mais de 21 anos ou com pelo menos dois filhos vivos, observado prazo mínimo de 60 dias entre a manifestação da vontade e o procedimento, com aconselhamento pela equipe. A lei passou a permitir a laqueadura durante o período de parto, desde que respeitados o prazo e as condições médicas, e eliminou a exigência de consentimento do cônjuge. A paciente assinou o termo com 24 semanas, mais de 60 dias antes, então tem direito ao procedimento.",
+  "porAlt": [
+   "O prazo de 60 dias é entre a manifestação da vontade e a cirurgia, não entre o parto e a laqueadura.",
+   "Desde a Lei 14.443/2022 o consentimento do cônjuge não é mais exigido.",
+   "Correta: com o termo assinado mais de 60 dias antes, a mulher tem direito à laqueadura no período do parto.",
+   "A lei não restringe a laqueadura à cesariana; após parto vaginal pode ser feita por minilaparotomia periumbilical.",
+   "A vedação no parto foi revogada em 2022; não há exigência de aguardar 42 dias."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 25
+  }
+ },
+ {
+  "pid": "g25026",
+  "q": "Gestante de 30 anos, G2P1, com 31 semanas e 2 dias, deu entrada na maternidade há 48 horas com diagnóstico de perda de líquido amniótico por rotura da bolsa amniótica. Foi internada e iniciou antibiótico profilático e corticosteroide para maturação pulmonar fetal. Nas últimas 12 horas, passou a apresentar febre (pico de 38,9 °C), taquicardia materna (FC 122 bpm), taquicardia fetal (FC 175 bpm) e queixa de dor à palpação uterina difusa. Refere também calafrios e liberação de conteúdo vaginal amarelado. O útero se apresenta discretamente hipertônico à palpação. Exames laboratoriais: leucócitos: 17.200/mm³ (com desvio à esquerda), PCR: 9,8 mg/dL. Urina 1: sem alterações. Cardiotocografia: traçado com linha de base de 175 bpm, variabilidade diminuída, sem acelerações, sem desacelerações. A conduta mais apropriada para o caso é",
+  "alts": [
+   "manter corticoterapia e antibiótico, iniciar tocolítico e aguardar até completar 34 semanas para interrupção da gestação.",
+   "realizar amniocentese para confirmar infecção intrauterina antes de decidir pela via de parto.",
+   "indicar interrupção imediata da gestação, independentemente da idade gestacional.",
+   "aguardar espontaneamente a evolução para trabalho de parto, mantendo antibióticos e vigilância intensiva.",
+   "indicar cesariana de urgência, pois é a única via segura para o feto em casos de infecção intrauterina confirmada."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Corioamnionite na rotura prematura",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022, com ACOG Committee Opinion nº 712 (infecção intra-amniótica), 2017",
+  "coment": "Febre, taquicardia materna e fetal, dor uterina, secreção vaginal purulenta e leucocitose em gestante com rotura prematura de membranas definem infecção intra-amniótica (corioamnionite). A conduta é ampliar o antibiótico (ampicilina e gentamicina, com cobertura de anaeróbio se cesariana) e interromper a gestação, independentemente da idade gestacional, pois não há como tratar a infecção com o feto e a placenta in utero. A via preferencial é a vaginal, com indução se necessário; a cesariana fica para indicação obstétrica habitual.",
+  "porAlt": [
+   "Tocolítico e conduta expectante são contraindicados na corioamnionite, que exige interrupção.",
+   "O diagnóstico é clínico; amniocentese só atrasaria a interrupção necessária.",
+   "Correta: com infecção intra-amniótica a gestação deve ser interrompida, qualquer que seja a idade gestacional.",
+   "Aguardar trabalho de parto espontâneo prolonga a exposição à infecção e aumenta sepse materna e lesão fetal.",
+   "A corioamnionite não indica cesariana por si; a via preferencial é a vaginal, salvo indicação obstétrica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 26
+  }
+ },
+ {
+  "pid": "g25027",
+  "q": "Gestante de 32 anos, G2P1, comparece à consulta de rotina no terceiro trimestre de pré-natal em uma Unidade Básica de Saúde. Relata que, em sua primeira gestação, teve dificuldade para amamentar, sentia dor intensa nas mamas e interrompeu o aleitamento exclusivo com apenas duas semanas de vida do bebê. Agora demonstra insegurança e ansiedade quanto à amamentação do segundo filho. Refere desejo de tentar novamente, mas está preocupada com a “falta de leite” e comenta que já comprou mamadeiras e fórmula infantil “por precaução”. A melhor conduta para essa gestante é",
+  "alts": [
+   "orientar que o colostro tem pouco volume e que, nas primeiras 48 horas, a oferta de fórmula pode ser necessária para garantir a nutrição do recém-nascido.",
+   "reforçar que a pega incorreta e o esvaziamento inadequado das mamas estão entre as principais causas de dor e “falta de leite”, e propor apoio pós-parto precoce.",
+   "indicar massagem mamária diária ainda no pré-natal, para evitar ingurgitamento e garantir boa produção de leite nas primeiras semanas.",
+   "sugerir que, como teve experiência ruim anterior, opte por amamentação mista inicialmente e introduza a exclusiva se se sentir mais segura.",
+   "informar que, se o bebê perder mais de 5% do peso nos primeiros dias, a introdução de fórmula é indicada para evitar hipoglicemia neonatal."
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Preparo para amamentação no pré-natal",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 23, Saúde da Criança: aleitamento materno e alimentação complementar, 2ª ed., 2015",
+  "coment": "Dor mamilar e sensação de pouco leite costumam ter a mesma origem: pega incorreta, que machuca o mamilo e esvazia mal a mama, reduzindo a produção. Dar a informação certa no pré-natal e garantir apoio precoce depois do parto (avaliar a pega, orientar livre demanda) é a intervenção que aumenta o sucesso da amamentação em quem teve experiência ruim. Colostro em pequeno volume é suficiente, a perda de peso até cerca de 10% nos primeiros dias é fisiológica e preparo das mamas na gestação não tem benefício.",
+  "porAlt": [
+   "O colostro supre o recém-nascido nos primeiros dias; fórmula de rotina nesse período prejudica a amamentação.",
+   "Correta: pega incorreta e esvaziamento inadequado causam dor e pouco leite, e o apoio precoce no pós-parto previne o problema.",
+   "Massagem ou preparo das mamas no pré-natal não previne ingurgitamento nem aumenta a produção.",
+   "Amamentação mista desde o início reduz o estímulo da sucção e dificulta chegar ao aleitamento exclusivo.",
+   "Perda de até cerca de 10% do peso nos primeiros dias é fisiológica; 5% não indica fórmula."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 27
+  }
+ },
+ {
+  "pid": "g25028",
+  "q": "Gestante de 39 anos, G2P1, com 41 semanas e 5 dias, comparece ao ambulatório pré-natal para consulta. Relata boa evolução e ausência de queixas e comorbidades. A ultrassonografia mostra feto único, em apresentação cefálica, líquido amniótico normal e Doppler fetal sem alterações. O peso estimado fetal é de 3.750 g. A gestante tem antecedente de cesariana segmentar transversal há 3 anos, por parada secundária da dilatação. Deseja tentar parto vaginal nesta gestação. Ao exame, apresenta colo uterino com índice de Bishop 4 (2 pontos para dilatação, 1 para apagamento, 0 para consistência, 0 para posição e 1 para altura da apresentação). A melhor conduta para esse caso é",
+  "alts": [
+   "indicar cesariana eletiva, pois a presença de útero cicatricial contraindica a indução do parto.",
+   "iniciar misoprostol via vaginal.",
+   "realizar descolamento de membranas e ocitocina venosa.",
+   "considerar indução com balão de Foley.",
+   "aguardar início espontâneo do trabalho de parto até 42 semanas, pois o risco de ruptura uterina aumenta significativamente com a indução."
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Indução com cesárea anterior",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Diretrizes de Atenção à Gestante: a operação cesariana, 2016, com ACOG Practice Bulletin nº 205 (parto vaginal após cesariana), 2019",
+  "coment": "Com 41 semanas e 5 dias a indução está indicada, e uma cesariana segmentar transversal prévia não contraindica parto vaginal nem indução. Com colo desfavorável (Bishop 4) é preciso preparo cervical, e em útero com cicatriz o método recomendado é mecânico, a sonda de Foley, por menor risco de ruptura uterina. O misoprostol é contraindicado no terceiro trimestre em mulheres com cesariana anterior. A ocitocina pode ser usada depois, com cautela, mas não preparará um colo desfavorável.",
+  "porAlt": [
+   "Uma cesariana segmentar prévia não contraindica a indução; métodos mecânicos e ocitocina podem ser usados.",
+   "Misoprostol é contraindicado em útero com cicatriz no terceiro trimestre pelo risco de ruptura uterina.",
+   "Com Bishop 4 o colo precisa de preparo antes; ocitocina sobre colo desfavorável tem alta taxa de falha.",
+   "Correta: com colo desfavorável e cesariana anterior, o preparo cervical com balão de Foley é o método mais seguro.",
+   "Com 41 semanas e 5 dias aguardar aumenta a morbimortalidade perinatal, e a indução com método mecânico tem baixo risco de ruptura."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 28
+  }
+ },
+ {
+  "pid": "g25029",
+  "q": "Paciente de 26 anos, G2P2, comparece à consulta no puerpério imediato (3º dia pós-parto) relatando que seu filho faleceu durante o parto (natimorto). No momento, queixa-se de desconforto mamário crescente, sensação de ingurgitamento e tristeza profunda. Ao exame: mamas ingurgitadas, sensíveis, sem sinais flogísticos. PA: 118 × 76 mmHg, FC: 82 bpm. Sem febre. A melhor conduta para esse caso é",
+  "alts": [
+   "recomendar amamentação cruzada ou doação ao banco de leite para aliviar o ingurgitamento, pois suprimir a lactação abruptamente é prejudicial.",
+   "indicar cabergolina 1 mg VO em dose única, associada a medidas de suporte físico e emocional.",
+   "iniciar bromocriptina 2,5 mg VO duas vezes ao dia por 14 dias como primeira escolha para inibição da lactação.",
+   "realizar enfaixamento compressivo das mamas e uso de analgésicos simples, que apresenta maior eficácia na inibição da lactação do que os métodos farmacológicos.",
+   "aguardar espontaneamente a resolução da lactação, evitando qualquer intervenção medicamentosa para não interferir na fisiologia do puerpério."
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Inibição da lactação após óbito fetal",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022, com Protocolo Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2022",
+  "coment": "Após natimorto, a puérpera que não vai amamentar pode ter a lactação inibida com cabergolina 1 mg via oral em dose única (dado de preferência no primeiro dia; se a lactação já começou, 0,25 mg de 12/12 h por 2 dias). Associam-se medidas de suporte, como sutiã firme, analgesia e compressas frias, e acolhimento ao luto. A bromocriptina caiu em desuso por efeitos adversos graves (hipertensão, AVC, convulsões, infarto), e o enfaixamento isolado é menos eficaz e mais desconfortável.",
+  "porAlt": [
+   "Doar leite pode ser oferecido se a mulher desejar, mas não deve ser imposto no luto, e a inibição farmacológica não é prejudicial.",
+   "Correta: cabergolina 1 mg em dose única, com apoio físico e emocional, é a escolha para inibir a lactação.",
+   "A bromocriptina não é primeira escolha pelo risco de eventos cardiovasculares e neurológicos graves.",
+   "O enfaixamento compressivo é menos eficaz que a cabergolina e causa dor; não é superior aos fármacos.",
+   "Aguardar sem intervenção prolonga o ingurgitamento e o sofrimento da mulher, que pode receber inibição segura."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 29
+  }
+ },
+ {
+  "pid": "g25030",
+  "q": "Paciente de 22 anos, nulípara, foi submetida a esvaziamento uterino indicado por ultrassonografia compatível com mola hidatiforme. Estava assintomática, com útero aumentado e exame de gonadotrofina coriônica humana (hCG) de 320.000 UI/L no dia do esvaziamento uterino. No seguimento pós-molar ambulatorial, foram obtidas as seguintes dosagens hCG: Semana 1: 42.000 UI/L. Semana 2: 43.100 UI/L. Semana 3: 46.500 UI/L. Semana 4: 51.700 UI/L. Nesse momento, ultrassonografia transvaginal não mostra conteúdo intracavitário, mas exibe vascularização miometrial aumentada. A paciente permanece assintomática e com exame físico normal. RX de tórax normal. A melhor conduta para esse caso é",
+  "alts": [
+   "aguardar nova série de beta-hCG para confirmar a elevação sustentada.",
+   "realizar biópsia uterina para comprovar histologicamente a presença de neoplasia trofoblástica antes de iniciar qualquer tratamento.",
+   "indicar histerectomia como forma terapêutica definitiva, pois a elevação de hCG é sinal de invasão miometrial.",
+   "iniciar quimioterapia, mesmo sem histopatológico que confirme a neoplasia trofoblástica.",
+   "continuar com seguimento ambulatorial, pois flutuações leves do hCG são esperadas nas primeiras semanas após o esvaziamento uterino molar."
+  ],
+  "gab": 3,
+  "tema": "ginonco",
+  "sub": "Neoplasia trofoblástica pós-molar",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "FIGO Cancer Report 2021: Update on the diagnosis and management of gestational trophoblastic disease (Ngan e colaboradores), 2021",
+  "coment": "Pelos critérios da FIGO, há neoplasia trofoblástica gestacional quando o hCG fica em platô (variação menor que 10%) em quatro dosagens ao longo de três semanas, ou sobe 10% ou mais em três dosagens ao longo de duas semanas. Aqui o hCG subiu de 43.100 para 46.500 e 51.700 UI/L, mais de 10% em três medidas. O diagnóstico é bioquímico e dispensa histologia, e a biópsia é evitada pelo risco de hemorragia. A conduta é estadiar (escore FIGO/OMS) e iniciar quimioterapia, em geral com metotrexato ou actinomicina D se baixo risco.",
+  "porAlt": [
+   "A elevação sustentada já está demonstrada pelas três dosagens; nova série só atrasa o tratamento.",
+   "Histologia não é necessária para tratar a neoplasia trofoblástica, e biópsia de lesão vascularizada pode sangrar muito.",
+   "Histerectomia não é tratamento primário em mulher jovem nulípara; a quimioterapia tem cura próxima de 100% no baixo risco.",
+   "Correta: hCG em ascensão após esvaziamento molar confirma neoplasia trofoblástica e indica quimioterapia sem necessidade de histologia.",
+   "O hCG deve cair progressivamente após o esvaziamento; subida em três semanas seguidas não é flutuação esperada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 30
+  }
+ },
+ {
+  "pid": "g25031",
+  "q": "Primigesta de 25 anos, com 39 semanas de gestação, encontra-se em trabalho de parto ativo há 6 horas, sob analgesia peridural. Hipertensa crônica em uso de 2g de metildopa ao dia. A bolsa amniótica rompeu espontaneamente há 2 horas, com saída de líquido amniótico meconial espesso. A monitorização eletrônica fetal mostra os seguintes achados nos últimos 15 minutos: linha de base: 175 bpm, variabilidade: mínima, sem acelerações, presença de desacelerações tardias recorrentes a cada contração uterina. Ao exame vaginal: dilatação cervical de 5 cm, 80% de apagamento, apresentação cefálica em plano -1 de De Lee, sem sinais de prolapso de cordão. A frequência de contrações é de 5 em 10 minutos, com duração de 60 segundos. A melhor conduta para esse caso é",
+  "alts": [
+   "administrar oxigênio à parturiente, colocar em decúbito lateral e continuar monitoramento, pois não há indicação de interrupção da gestação.",
+   "iniciar tocolítico para reduzir a frequência de contrações e melhorar a oxigenação fetal, aguardando progressão do trabalho de parto.",
+   "indicar amnioinfusão com soro fisiológico para diluir o mecônio e reduzir risco de aspiração meconial.",
+   "avaliar pH ou lactato do sangue fetal para então confirmar sofrimento fetal e avaliar via de parto.",
+   "diagnosticar sofrimento fetal agudo e indicar cesariana de emergência."
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Cardiotocografia categoria III",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Diretriz Nacional de Assistência ao Parto Normal, 2017, com ACOG Practice Bulletin nº 106 (monitorização fetal intraparto), 2009",
+  "coment": "Linha de base de 175 bpm com variabilidade mínima, ausência de acelerações e desacelerações tardias recorrentes, em contexto de mecônio espesso, é traçado anormal (categoria III), sinal de hipóxia e acidose fetal. Com 5 cm de dilatação e polo alto o parto vaginal não está próximo, então a conduta é cesariana de emergência. Medidas de reanimação intrauterina (decúbito lateral, hidratação, suspender ocitocina, tocólise aguda pela taquissistolia) podem ser feitas enquanto se prepara a cirurgia, mas não substituem a extração.",
+  "porAlt": [
+   "Oxigênio e decúbito são medidas de reanimação, mas o traçado categoria III exige extração fetal, não só monitoramento.",
+   "Tocólise aguda pode ser ponte, mas aguardar a progressão do trabalho de parto com traçado categoria III é inadequado.",
+   "Amnioinfusão não reduz síndrome de aspiração meconial e não trata a hipóxia indicada pelo traçado.",
+   "A análise de sangue do escalpe atrasa a decisão e é pouco disponível; o traçado já indica a extração.",
+   "Correta: taquicardia com variabilidade mínima e desacelerações tardias recorrentes, longe do expulsivo, indicam cesariana de emergência."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 31
+  }
+ },
+ {
+  "pid": "g25032",
+  "q": "Mulher de 30 anos, G3P2, com 39 semanas, entra em trabalho de parto espontâneo. Feto único, vivo, em apresentação pélvica incompleta, com estimativa ecográfica de 3.000g. Pré-natal sem intercorrências. Equipe obstétrica opta por tentativa de parto vaginal, com critérios favoráveis e equipe habilitada. Durante o período expulsivo, após a descida pélvica e nascimento espontâneo até a escápula, observa-se retenção dos membros superiores, com braços elevados e estendidos junto à face torácica. Não há descida da cabeça fetal, mesmo com tração suave. Sinais de sofrimento fetal se instalam. A melhor conduta para esse caso é realizar manobra de",
+  "alts": [
+   "Bracht, elevando o corpo fetal para facilitar a flexão e saída espontânea dos braços e cabeça.",
+   "Mauriceau-Smellie-Veit, utilizando flexão da cabeça por suporte facial e occipital.",
+   "Zavanelli, com reintrodução fetal e cesariana imediata devido à distocia grave.",
+   "Lovset, com rotação controlada do tronco para liberação sequencial dos membros superiores.",
+   "McRoberts com pressão suprapúbica para liberar os braços antes da cabeça."
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Parto pélvico: braços elevados",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Royal College of Obstetricians and Gynaecologists. Green-top Guideline nº 20b, Management of Breech Presentation, 2017, com Rezende J. Obstetrícia, 14ª ed., 2022",
+  "coment": "No parto pélvico, quando o tronco desprende até as escápulas e os braços ficam elevados e estendidos ao lado da cabeça, impedindo a descida, a manobra indicada é a de Lovset: rotação de 180 graus do tronco fetal, segurando pela pelve, que traz o ombro posterior para baixo da sínfise e libera um braço, repetindo no sentido oposto para o outro. Só depois de liberados os braços se desprende a cabeça derradeira, com Mauriceau ou fórcipe de Piper. Bracht serve ao desprendimento espontâneo sem distocia, e McRoberts é para distocia de ombro em apresentação cefálica.",
+  "porAlt": [
+   "Bracht acompanha o desprendimento espontâneo e não resolve braços elevados e retidos.",
+   "Mauriceau é para a cabeça derradeira, usada depois de liberados os membros superiores.",
+   "Zavanelli é recurso extremo para distocia de ombro cefálica, não primeira conduta para braços elevados no parto pélvico.",
+   "Correta: a manobra de Lovset, com rotação do tronco, libera sequencialmente os braços elevados no parto pélvico.",
+   "McRoberts com pressão suprapúbica trata distocia de ombro em apresentação cefálica, não braços elevados no pélvico."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 32
+  }
+ },
+ {
+  "pid": "g25033",
+  "q": "Puérpera de 33 anos, G2P2, no 3º dia após cesariana, queixa-se à enfermeira de dispneia súbita, dor torácica ventilatório-dependente e palpitações. Refere também mal-estar geral e sensação de desmaio iminente. Não apresenta febre ou tosse. História pregressa: sem trombofilias conhecidas, nega tabagismo. Na gestação atual, foi mantida em repouso prolongado por ameaça de trabalho de parto pré-termo. Exame físico: PA: 95×65 mmHg, FC: 128 bpm, FR: 32 irpm, SatO₂: 87% em ar ambiente, MV presente bilateralmente, sem estertores, trombose venosa profunda ausente nos membros inferiores. Exames laboratoriais: ECG: taquicardia sinusal, Gasometria arterial (em O₂ 2L/min): pH 7,48, pCO₂ 30, pO₂ 61. Troponina e BNP discretamente elevadas. Dímero-D: 2400 ng/mL. A melhor conduta para esse caso é",
+  "alts": [
+   "iniciar anticoagulação com heparina de baixo peso molecular e solicitar angiotomografia de tórax para confirmação diagnóstica.",
+   "solicitar angiotomografia de tórax antes de qualquer conduta, pois a anticoagulação empírica aumenta risco de hemorragia pós-cesárea.",
+   "realizar doppler de membros inferiores antes de iniciar tratamento, e anticoagular apenas se TVP for confirmada.",
+   "iniciar anticoagulação plena com heparina não fracionada e indicar angiotomografia apenas se houver piora clínica.",
+   "iniciar anticoagulação empírica imediata e solicitar ecocardiograma para avaliar sobrecarga de VD antes da angiotomografia."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Tromboembolismo pulmonar no puerpério",
+  "cenario": "enf",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ESC Guidelines for the diagnosis and management of acute pulmonary embolism, 2019, com Royal College of Obstetricians and Gynaecologists, Green-top Guideline nº 37b, 2015",
+  "coment": "Puérpera pós-cesariana com repouso prolongado que apresenta dispneia súbita, dor pleurítica, taquicardia, hipoxemia com alcalose respiratória e troponina e BNP elevados tem alta probabilidade clínica de tromboembolismo pulmonar. Sem choque (PA 95 × 65 mmHg) e sem contraindicação, a heparina de baixo peso molecular em dose plena deve ser iniciada já, antes da confirmação, e a angiotomografia de tórax confirma o diagnóstico. A ausência de TVP clínica não afasta TEP, e o dímero-D é pouco útil no puerpério.",
+  "porAlt": [
+   "Correta: com alta suspeita clínica, inicia-se heparina de baixo peso molecular e confirma-se o diagnóstico com angiotomografia.",
+   "Com alta probabilidade clínica, atrasar a anticoagulação até o exame aumenta o risco de morte; o risco de sangramento no 3º dia pós-cesárea é aceitável.",
+   "O Doppler normal não exclui TEP, e anticoagular só se houver TVP deixaria sem tratamento a maioria dos casos.",
+   "Sem confirmação por imagem não se define o diagnóstico nem a duração da anticoagulação; a angiotomografia é parte da conduta, não só na piora.",
+   "O ecocardiograma estratifica risco, mas não substitui a angiotomografia na paciente estável que pode ir ao exame."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 33
+  }
+ },
+ {
+  "pid": "g25034",
+  "q": "Gestante de 28 anos, G1P1, deu à luz por cesariana eletiva no termo, sem complicações aparentes. O bebê nasceu saudável, com Apgar 9/10. Após a dequitação, a paciente apresentou sangramento uterino profuso, com útero flácido ao toque uterino. Foram realizados prontamente e em sequência adequada: massagem uterina vigorosa, administração de ocitocina venosa em infusão contínua, metilergometrina intramuscular e misoprostol via retal. Mesmo após essas medidas, o sangramento transvaginal persiste. A paciente encontra-se com PA 90×60 mmHg, FC 120 bpm, sudoreica, com sinais iniciais de hipoperfusão, mas deseja manter fertilidade. A melhor conduta para esse caso é",
+  "alts": [
+   "realizar histerectomia hemostática imediata para controle definitivo da hemorragia.",
+   "transferência da paciente para hospital que faça embolização arterial uterina.",
+   "iniciar transfusão maciça e aguardar ação dos uterotônicos administrados.",
+   "realizar sutura de B-Lynch como medida conservadora para controle da atonia uterina.",
+   "repetir a dose de metilergometrina e aguardar resposta clínica por mais 30 minutos."
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Hemorragia pós-parto: sutura de B-Lynch",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "OPAS. Recomendações assistenciais para prevenção, diagnóstico e tratamento da hemorragia obstétrica, 2018, com Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "Atonia uterina refratária a massagem, ocitocina, metilergometrina e misoprostol, durante cesariana, exige controle cirúrgico. Em mulher que deseja preservar a fertilidade, a primeira opção com o abdome aberto são as suturas compressivas, como a de B-Lynch, que comprimem o útero e controlam o sangramento na maioria dos casos (junto com ácido tranexâmico e reposição de hemocomponentes). Ligaduras arteriais vêm a seguir, e a histerectomia é o último recurso. Transferir paciente instável para embolização é inseguro.",
+  "porAlt": [
+   "A histerectomia é o último recurso; antes, em quem deseja fertilidade, tentam-se as suturas compressivas.",
+   "Transferir paciente em choque com sangramento ativo é perigoso; a embolização só serve em paciente estável com serviço disponível.",
+   "Reposição de sangue é necessária, mas aguardar uterotônicos já falhos permite progressão do choque.",
+   "Correta: a sutura de B-Lynch é a medida cirúrgica conservadora indicada na atonia refratária, preservando o útero.",
+   "Repetir metilergometrina e esperar 30 minutos atrasa o controle do sangramento após falha de todos os uterotônicos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 34
+  }
+ },
+ {
+  "pid": "g25035",
+  "q": "João, homem trans de 27 anos, comparece à maternidade com 39 semanas e 4 dias de gestação, em trabalho de parto ativo. É G1P0, a gestação foi planejada com suspensão prévia do uso de testosterona, e o pré-natal foi acompanhado em Unidade de Saúde da Família com equipe treinada em saúde LGBTQIA+. João manifesta desejo de parto vaginal, com presença de seu companheiro e solicita ser tratado pelo nome social e pronomes masculinos. Ao exame: altura uterina: 34 cm, ausculta fetal: BCF 142 bpm, dilatação cervical: 6 cm, 90% apagado, apresentação cefálica, bolsa íntegra. Sem fatores de risco para distocia ou contraindicações ao parto vaginal. Durante a admissão, um profissional da equipe registra em prontuário: “Parturiente do sexo feminino com quadro compatível com trabalho de parto ativo. Solicita uso de nome social, apesar de se tratar de mulher biológica.” Considerando o relato acima, a melhor conduta para o caso é",
+  "alts": [
+   "corrigir o prontuário para constar “mulher trans”, mantendo os termos obstétricos convencionais, pois o sistema de saúde ainda utiliza a classificação biológica como base.",
+   "reforçar com a equipe multiprofissional a utilização do nome social e de pronomes masculinos.",
+   "priorizar a avaliação obstétrica clínica e adiar discussões sobre identidade de gênero até o puerpério, para evitar distrações no manejo clínico.",
+   "redirecionar o paciente para unidade de referência em saúde trans, mesmo em trabalho de parto, para garantir atendimento especializado.",
+   "iniciar preparo para parto cesáreo eletivo, considerando que a anatomia obstétrica pode estar alterada pelo uso anterior de testosterona."
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Homem trans no parto: nome social",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.836/2011 (Política Nacional de Saúde Integral LGBT), com Decreto 8.727/2016 (nome social) e Portaria GM/MS 1.820/2009 (Carta dos Direitos dos Usuários da Saúde)",
+  "coment": "A pessoa tem direito a ser tratada pelo nome social e pelos pronomes de sua identidade de gênero em todos os serviços do SUS, inclusive no prontuário, conforme a Carta dos Direitos dos Usuários, o Decreto 8.727/2016 e a Política Nacional de Saúde Integral LGBT. O registro que nega a identidade de João é inadequado, e a equipe deve ser orientada a usar o nome social e pronomes masculinos. Gestação de homem trans não muda a assistência obstétrica: sem indicação clínica, o parto vaginal desejado deve ser respeitado.",
+  "porAlt": [
+   "João é homem trans, não mulher trans, e a classificação biológica não se sobrepõe ao direito ao nome social e à identidade de gênero.",
+   "Correta: a equipe deve usar o nome social e os pronomes masculinos, como garantem as normas do SUS.",
+   "Respeitar a identidade de gênero é parte do cuidado, não uma distração a ser adiada.",
+   "Transferir uma pessoa em trabalho de parto ativo sem necessidade clínica expõe mãe e feto a risco e é discriminatório.",
+   "O uso anterior de testosterona não altera a pelve nem indica cesariana; o parto vaginal está liberado."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 35
+  }
+ },
+ {
+  "pid": "g25036",
+  "q": "Mulher de 34 anos, G2P1, comparece sozinha para ultrassonografia obstétrica de rotina com 32 semanas de gestação, sem queixas. A gravidez evoluía bem, com pré-natal adequado. Durante o exame, o médico ultrassonografista observa ausência de movimentos fetais, ausência de batimentos cardíacos e hidropsia fetal generalizada. Realiza manobras complementares e confirma o óbito fetal intraútero. Diante do achado, o profissional se depara com a paciente ansiosa, perguntando se está tudo bem com o bebê. O ultrassonografista é responsável por realizar o exame, redigir o laudo e comunicar os achados ao obstetra assistente, mas não é o profissional responsável pelo pré-natal. A conduta mais apropriada diante dessa situação é",
+  "alts": [
+   "encerrar o exame sem comentar os achados com a paciente e encaminhá-la diretamente ao obstetra assistente com o laudo em mãos.",
+   "informar imediatamente, de forma objetiva, que o bebê está morto.",
+   "interromper o exame com acolhimento, comunicar o achado com empatia e oferecer suporte inicial, referindo à equipe obstétrica.",
+   "explicar tecnicamente à paciente a ausência de batimentos cardíacos e sinais de hidropisia, solicitando confirmação por outro profissional.",
+   "postergar a comunicação até que a paciente esteja acompanhada de familiar, para evitar desorganização emocional aguda."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Comunicação de óbito fetal",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Resolução CFM 2.217/2018 (Código de Ética Médica), art. 34, com protocolo SPIKES para comunicação de más notícias (Baile e colaboradores, 2000)",
+  "coment": "O Código de Ética Médica veda deixar de informar ao paciente o diagnóstico e os riscos, salvo quando a comunicação direta puder causar dano (art. 34). Diante da pergunta direta e da ansiedade da gestante, omitir ou adiar a notícia é inadequado, assim como comunicá-la de forma brusca ou técnica. O ultrassonografista deve interromper o exame, acolher, comunicar o achado com empatia e linguagem clara, permitir a reação, oferecer suporte e encaminhar à equipe obstétrica para a conduta, como propõe o protocolo SPIKES.",
+  "porAlt": [
+   "Ocultar o achado de uma paciente que pergunta diretamente fere o direito à informação e aumenta a angústia.",
+   "Informar de forma seca, sem preparo nem acolhimento, desrespeita os princípios de comunicação de más notícias.",
+   "Correta: interromper o exame, acolher, comunicar com empatia, oferecer suporte e referenciar à equipe obstétrica.",
+   "Linguagem técnica não é compreensível nem acolhedora, e pedir confirmação a outro profissional adia o que já foi confirmado.",
+   "Adiar a notícia contra a vontade da paciente que pergunta é paternalismo e fere seu direito à informação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 36
+  }
+ },
+ {
+  "pid": "g25037",
+  "q": "Gestante de 32 anos, G2P1, com 28 semanas de gestação, dá entrada no pronto-socorro com febre alta (39,2 °C), mialgia intensa, dispneia progressiva e tosse seca há 48 horas. Apresenta saturação de O₂ de 91% em ar ambiente, taquipneia e estertores finos bibasais. Testagem rápida para influenza A é positiva, e a paciente é admitida com suspeita de síndrome respiratória aguda secundária à infecção viral. O quadro evolui com necessidade de O₂ suplementar e início de antiviral. A alteração fisiológica pulmonar da gestação que contribui de forma mais direta para a gravidade da infecção viral nesse contexto é",
+  "alts": [
+   "o aumento da complacência pulmonar com redução da pressão inspiratória máxima, favorecendo hipercapnia.",
+   "a redução do volume corrente e aumento da resistência das vias aéreas superiores, predispondo a atelectasias.",
+   "a redução da capacidade residual funcional, prejudicando a troca gasosa.",
+   "a hiperventilação compensatória com aumento da reserva expiratória, o que eleva o risco de alcalose respiratória grave.",
+   "a redução da pressão parcial de CO₂ arterial, levando à hipoxemia."
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Fisiologia respiratória e influenza grave",
+  "cenario": "emg",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Zugaib M. Obstetrícia, 5ª ed., 2023 (modificações respiratórias da gestação), com Ministério da Saúde, Guia de Manejo e Tratamento de Influenza, 2023",
+  "coment": "Na gestação o útero eleva o diafragma, reduzindo o volume de reserva expiratório e o volume residual, e assim a capacidade residual funcional cai cerca de 20%. Ao mesmo tempo o consumo de oxigênio aumenta. Com menor reserva de oxigênio nos alvéolos e fechamento precoce de pequenas vias aéreas, a gestante dessatura mais rápido diante de pneumonia viral. O volume corrente e a ventilação minuto aumentam (efeito da progesterona), gerando alcalose respiratória compensada com PaCO2 em torno de 30 mmHg.",
+  "porAlt": [
+   "A complacência pulmonar não aumenta de forma relevante, e a hipercapnia não é a alteração típica: a gestante tende à hipocapnia.",
+   "O volume corrente aumenta na gestação, não diminui.",
+   "Correta: a redução da capacidade residual funcional diminui a reserva de oxigênio e prejudica a troca gasosa na infecção pulmonar.",
+   "O volume de reserva expiratório diminui na gestação, e a alcalose é compensada pelos rins, não grave.",
+   "A PaCO2 baixa resulta da hiperventilação e não causa hipoxemia; a PaO2 até tende a subir."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 37
+  }
+ },
+ {
+  "pid": "g25038",
+  "q": "Gestante de 35 anos, G3P2, com 31 semanas e 3 dias, previamente hígida, dá entrada na maternidade com queixa súbita de dor abdominal intensa, sangramento transvaginal escuro em pequena quantidade e redução abrupta dos movimentos fetais há 2 horas. Ao exame físico, apresenta: PA: 150 × 100 mmHg, FC: 98 bpm, altura uterina: 36 cm. O útero encontra-se hipertônico, doloroso à palpação, sem intervalos de relaxamento. O exame pélvico mostra colo fechado, sem dilatação. Ausculta fetal: BCF 90 bpm com desacelerações recorrentes. Ultrassonografia à beira-leito evidencia hematoma retroplacentário. A melhor conduta para esse caso é",
+  "alts": [
+   "indicar indução do parto com misoprostol, mantendo monitorização contínua.",
+   "administrar corticoide para maturação pulmonar fetal e aguardar 48 horas para resolução eletiva.",
+   "aguardar progressão espontânea do trabalho de parto, monitorando parâmetros maternos e fetais de perto.",
+   "indicar amniotomia e uso de ocitocina para acelerar o trabalho de parto, mantendo monitorização contínua.",
+   "indicar cesariana de emergência, uma vez que o feto está vivo e há sinais de sofrimento agudo."
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Descolamento prematuro com feto vivo",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Dor abdominal súbita, sangramento escuro, hipertonia uterina e hematoma retroplacentário em hipertensa definem descolamento prematuro de placenta. Com feto vivo em sofrimento (bradicardia de 90 bpm e desacelerações recorrentes) e colo fechado, o parto vaginal não será rápido, então a conduta é cesariana de emergência, independentemente da idade gestacional. Corticoide não deve atrasar a extração, e indução ou amniotomia são opções apenas com feto morto ou parto vaginal iminente.",
+  "porAlt": [
+   "Indução com misoprostol e colo fechado é lenta demais para um feto vivo em sofrimento agudo.",
+   "Aguardar 48 h por corticoide com feto em bradicardia levaria ao óbito fetal; o DPP com sofrimento exige extração imediata.",
+   "Aguardar evolução espontânea expõe mãe e feto a hemorragia, coagulopatia e morte fetal.",
+   "Amniotomia e ocitocina são úteis no DPP com feto morto ou parto iminente, não com colo fechado e sofrimento fetal.",
+   "Correta: DPP com feto vivo em sofrimento e sem parto iminente indica cesariana de emergência."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 38
+  }
+ },
+ {
+  "pid": "g25039",
+  "q": "Paciente de 29 anos, G2P1, com 18 semanas e 2 dias de gestação, comparece ao serviço de urgência com queixas de dor hipogástrica e discreto sangramento transvaginal, iniciado há 1 dia. Sem comorbidades, apresenta PA 110 × 70 mmHg, encontrando-se afebril. Ao exame ultrassonográfico, confirma-se ausência de batimentos cardíacos fetais, ausência de movimentos e colapso craniano. O útero tem medidas compatíveis com a idade gestacional, sem sinais de infecção ou retenção prolongada. O colo está fechado e longo. A melhor conduta para esse caso é",
+  "alts": [
+   "indicar misoprostol vaginal em dose apropriada para idade gestacional.",
+   "realizar curetagem uterina sob sedação após dilatação cervical com cânulas de Hegar.",
+   "indicar histerotomia eletiva por via abdominal devido ao risco elevado de falha do método medicamentoso.",
+   "iniciar ocitocina endovenosa em bomba de infusão contínua, já que o colo se encontra fechado.",
+   "realizar amniotomia seguida de administração de prostaglandina E2 intravaginal."
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Óbito fetal no segundo trimestre",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "FIGO. Recomendações de esquemas de misoprostol, 2023, com Ministério da Saúde, Atenção Humanizada ao Abortamento, 2ª ed., 2011",
+  "coment": "Com 18 semanas e feto sem batimentos, trata-se de aborto retido no segundo trimestre. Nessa idade gestacional, com ossos fetais formados, o esvaziamento é feito preferencialmente com indução medicamentosa por misoprostol vaginal (pela FIGO, 200 µg a cada 4 a 6 h entre 13 e 24 semanas), seguido de revisão da cavidade se houver restos. Curetagem direta com feto desse tamanho tem alto risco de perfuração e lesão cervical, e a ocitocina é pouco eficaz no colo fechado e no útero pouco sensível do segundo trimestre.",
+  "porAlt": [
+   "Correta: misoprostol vaginal em dose adequada à idade gestacional é o método de escolha para o esvaziamento com 18 semanas.",
+   "Curetagem com feto de 18 semanas e colo fechado tem alto risco de perfuração e laceração; primeiro se faz a expulsão medicamentosa.",
+   "Histerotomia é exceção, para falha ou contraindicação ao método medicamentoso, que tem alta eficácia.",
+   "O útero no segundo trimestre tem poucos receptores de ocitocina, e com colo fechado a ocitocina isolada é pouco eficaz.",
+   "Amniotomia com colo fechado e longo não é factível, e o misoprostol é preferido à prostaglandina E2."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 39
+  }
+ },
+ {
+  "pid": "g25040",
+  "q": "Gestante de 26 anos, G1P0, com 29 semanas e 4 dias de gestação, é internada com queixa de cefaleia frontal intensa e epigastralgia e PA 154 × 112 mmHg. Não há convulsões ou alterações do nível de consciência. Ao exame, apresenta: FC: 98 bpm, TAx: 36,7 °C, edema ++ em membros inferiores. Reflexos tendinosos vivos e simétricos, sem clônus. Proteinúria de fita: 3+. Exames laboratoriais: creatinina: 1,3 mg/dL, DHL: 630 U/L, plaquetas: 112.000/mm³, TGO: 82 U/L. Ultrassonografia obstétrica com Doppler mostra feto único, BCF presente, peso estimado fetal de 980 g. Doppler de artéria umbilical com fluxo diastólico reverso. Líquido amniótico de volume normal. Cardiotocografia normal. A melhor conduta para esse caso é",
+  "alts": [
+   "iniciar esquema de corticoide para maturação pulmonar fetal, controlar PA e manter conduta expectante até 34 semanas.",
+   "indicar preparo cervical com misoprostol e parto vaginal com aplicação de fórceps de alívio no período expulsivo.",
+   "administrar sulfato de magnésio apenas se surgirem sinais de iminência de eclâmpsia e aguardar evolução clínica.",
+   "indicar indução de parto apenas se houver sinais de deterioração fetal, atestada pela cardiotocografia.",
+   "interromper a gestação após estabilização clínica com anti-hipertensivo e sulfato de magnésio."
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Pré-eclâmpsia grave e diástole reversa",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Rede Brasileira de Estudos sobre Hipertensão na Gravidez (RBEHG). Pré-eclâmpsia: protocolo, 2023, com Ministério da Saúde, Manual de Gestação de Alto Risco, 2022",
+  "coment": "Cefaleia, epigastralgia, PA de 154 × 112 mmHg, proteinúria, creatinina de 1,3 mg/dL e DHL acima de 600 com TGO elevada indicam pré-eclâmpsia com sinais de gravidade e síndrome HELLP parcial. Soma-se o Doppler umbilical com diástole reversa, sinal de insuficiência placentária grave com alto risco de óbito fetal. Com 29 semanas a conduta expectante não é segura: estabiliza-se a mãe com sulfato de magnésio (prevenção de eclâmpsia e neuroproteção fetal) e anti-hipertensivo, faz-se corticoide se possível sem atrasar, e interrompe-se a gestação, em geral por cesariana.",
+  "porAlt": [
+   "Diástole reversa e sinais de lesão de órgão-alvo contraindicam conduta expectante até 34 semanas.",
+   "Fórcipe não se aplica a feto de 980 g, e indução com diástole reversa tem alto risco de sofrimento fetal.",
+   "Com cefaleia e epigastralgia o sulfato de magnésio já está indicado; esperar a iminência de eclâmpsia é tarde.",
+   "A cardiotocografia normal não garante bem-estar fetal com diástole reversa; esperar deterioração aumenta o óbito fetal.",
+   "Correta: interromper a gestação após estabilização com anti-hipertensivo e sulfato de magnésio."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 40
+  }
+ }
+]

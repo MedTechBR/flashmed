@@ -1,0 +1,17 @@
+{"incluidas": 35,
+ "descartadas": [
+  {"pid": "g24067", "motivo": "mais de uma resposta defensável: o gabarito (banho de imersão) não supera o apoio contínuo físico e emocional, que tem evidência de alta qualidade (Cochrane, Bohren 2017) de reduzir analgesia e ansiedade; ambos são recomendados nas Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017) sem hierarquia de eficácia."},
+  {"pid": "g24069", "motivo": "mais de uma resposta defensável: todas as alternativas (DPP, relaxantes uterinos, laceração, anticoagulante, parto taquitócico) são fatores de risco de hemorragia pós-parto pelos 4 Ts (OPAS 2018); o enunciado não discrimina a escolhida."},
+  {"pid": "g24072", "motivo": "gabarito contraria a diretriz vigente: cirurgia cervical prévia (conização) é fator de risco e indicação potencial de cerclagem, não contraindicação; as contraindicações (RCOG Green-top 60, 2022; ACOG PB 142) incluem sangramento vaginal ativo, trabalho de parto, corioamnionite, rotura de membranas e anomalia letal. Texto também truncado ('1617 semanas')."},
+  {"pid": "g24073", "motivo": "mais de uma resposta defensável: cesariana planejada aumenta o risco de doença tromboembólica (fator de risco consagrado no RCOG Green-top 37a, 2015), e a evidência sobre mortalidade neonatal em cesariana eletiva de baixo risco é inconsistente (NICE NG192, 2021)."},
+  {"pid": "g24077", "motivo": "gabarito contraria a norma vigente: o PCDT de Transmissão Vertical/IST (MS, 2022) indica dessensibilização e penicilina na gestante alérgica e, na impossibilidade, ceftriaxona 1 g por 8 a 10 dias; a eritromicina deixou de ser alternativa por não tratar o feto, e o esquema de 20 dias do gabarito não consta de protocolo."}
+ ],
+ "gabaritos_discutiveis": [
+  {"pid": "g24050", "nota": "TTTF estágio I: seguimento é aceito (SMFM 2013; ensaio de Stirnemann 2021 sem benefício do laser imediato), mas alguns centros oferecem laser no estágio I; mantido porque colo longo e Doppler normal sustentam a conduta expectante."},
+  {"pid": "g24061", "nota": "enunciado original traz 30 e 25 semanas ao mesmo tempo (erro da banca); não afeta a resposta (Kluge), mantido verbatim e sinalizado no comentário."},
+  {"pid": "g24062", "nota": "estratificação em habitual/intermediário/alto vem da Nota Técnica MS/SBIBAE 2019 e varia entre protocolos estaduais; 'médio' é sinônimo coloquial de intermediário. Mantido porque a questão cobra a nomenclatura oficial e os fatores (social, ocupacional, uso de droga sem dependência) não são de alto risco."},
+  {"pid": "g24065", "nota": "progesterona vaginal tem benefício (NICE NG126, PRISM) em ameaça de aborto com aborto espontâneo prévio; a paciente teve só aborto provocado, então 'não há tratamento eficaz' se sustenta para ela. Comentário explica a exceção."},
+  {"pid": "g24076", "nota": "o CAB 23 (MS, 2015) cita bomba de sucção quando o bebê não suga; mantido porque a primeira escolha é ordenha manual da aréola e apoio/relaxamento é a única alternativa sem erro técnico."},
+  {"pid": "g24079", "nota": "prematuridade, baixo peso e PIG também se associam à violência por parceiro; o gabarito se apoia na distinção pré-natal (intrauterino) versus desfecho do nascimento. Mantido, com o comentário explicando a distinção."},
+  {"pid": "g24068", "nota": "manobra de Credé descrita como se fosse conduta; hoje não é recomendada (OMS 2012, risco de inversão uterina). A questão só pede o nome; o comentário registra que não se usa mais."}
+ ]}

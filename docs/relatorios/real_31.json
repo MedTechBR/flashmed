@@ -1,0 +1,67 @@
+{
+ "incluidas": 30,
+ "descartadas": [
+  {
+   "pid": "m25049",
+   "motivo": "clínica médica: fora do escopo desta rodada (gastro, rastreamento de doença celíaca); além disso, tireoidite autoimune é indicação reconhecida de rastreamento, o que torna o gabarito (hipotireoidismo) discutível"
+  },
+  {
+   "pid": "m25050",
+   "motivo": "clínica médica: fora do escopo desta rodada (reumato, artrite psoriásica)"
+  },
+  {
+   "pid": "m25054",
+   "motivo": "mais de uma resposta defensável: 'asma neonatal' não é entidade clínica (a associação é com asma na infância), e hipoglicemia neonatal também é risco fetal associado à obesidade materna"
+  },
+  {
+   "pid": "m25069",
+   "motivo": "mais de uma resposta defensável: risperidona não é contraindicada na gestação (antipsicótico é a base do tratamento da mania gestacional); o gabarito lamotrigina, sem eficácia na mania aguda, ensinaria conduta inadequada"
+  },
+  {
+   "pid": "m25071",
+   "motivo": "clínica médica: fora do escopo desta rodada (pneumo, diagnóstico de asma)"
+  },
+  {
+   "pid": "m25072",
+   "motivo": "clínica médica: fora do escopo desta rodada (emergências, escorpionismo)"
+  },
+  {
+   "pid": "m25075",
+   "motivo": "enunciado ambíguo ('causa que deve ser descartada como hipótese') e mais de uma resposta defensável: dieta pobre em fibras leva a impactação fecal com incontinência por transbordamento, comum em idosos"
+  },
+  {
+   "pid": "m25076",
+   "motivo": "clínica médica: fora do escopo desta rodada (gastro/geriatria, disfagia); gabarito (magnésio) também discutível frente a B12 e ferro"
+  },
+  {
+   "pid": "m25077",
+   "motivo": "mais de uma resposta defensável: o quadro é de radiculopatia L4, cujo disco habitual é L3-L4; 'disco L4' (gabarito) confunde raiz com disco e 'L3' também é defensável"
+  },
+  {
+   "pid": "m25079",
+   "motivo": "clínica médica: fora do escopo desta rodada (cardio, IAM com supra de ST)"
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "m25051",
+   "nota": "Gabarito mantido (tríade do aneurisma inflamatório). A alternativa sobre predominância masculina tem a primeira parte verdadeira (4 a 6 vezes mais comum em homens); é falsa pelo trecho '90% das mortes ocorrem em homens', dado não sustentado. Única opção inteiramente correta continua sendo a oficial."
+  },
+  {
+   "pid": "m25062",
+   "nota": "Gabarito mantido (saúde sexual). Aleitamento materno também não aparece literalmente entre os 8 temas da PNPS 2014, mas está contido em 'alimentação adequada e saudável'; o enunciado diz 'temas relacionados', o que sustenta a oficial."
+  },
+  {
+   "pid": "m25059",
+   "nota": "Gabarito mantido (ruído). Conferido na web: a lista de doenças relacionadas ao trabalho associa exposição a níveis elevados de pressão sonora ao F06.7, além de chumbo, mercúrio e solventes."
+  },
+  {
+   "pid": "m25070",
+   "nota": "Correção de artefato de extração: 'recuperar- se' para 'recuperar-se'. O erro 'nicotona' do enunciado é do caderno e foi mantido."
+  },
+  {
+   "pid": "m25060",
+   "nota": "Correção de artefato de extração: 'trabalho-doençamorte' para 'trabalho-doença-morte' (hífen perdido na quebra de linha)."
+  }
+ ]
+}

@@ -1,0 +1,1598 @@
+[
+ {
+  "id": "en25_psiq#1",
+  "q": "Paciente idosa, 68 anos, relata que há cerca de um mês não frequenta as atividades da universidade da terceira idade, pois não sente mais vontade de frequentar as classes. Desde o início do quadro, abandonou atividades que antes lhe davam prazer, como encontros com amigos e idas à academia. Também refere aumento de peso de aproximadamente 8 kg (peso anterior: 62 kg), sensação persistente de fadiga, dificuldade em dormir e, principalmente, dificuldade de memorização de fatos recentes. Familiares confirmam que ela está ficando mais “esquecida”. Considerando as medicações a seguir, a conduta farmacológica mais apropriada é",
+  "alts": [
+   "amitriptilina.",
+   "vortioxetina.",
+   "risperidona.",
+   "ácido valproico.",
+   "buspiorona."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 1
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_psiq#2",
+  "q": "Homem de 35 anos procura atendimento por apresentar, há aproximadamente 6 meses, tremores nas mãos e lentidão nos movimentos. Ao exame físico, observa-se rigidez em roda dentada, tremor de repouso, bradicinesia nos membros superiores e marcha em pequenos passos, com distribuição simétrica dos sinais. Levantou-se a hipótese de parkinsonismo de origem medicamentosa. Entre as medicações listadas a seguir, assinale a mais frequentemente associada ao quadro descrito.",
+  "alts": [
+   "Fluvoxamina.",
+   "Pramipexol.",
+   "Olanzapina.",
+   "Levetiracetam.",
+   "Bromazepam."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 2
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_psiq#3",
+  "q": "Indivíduo dá entrada no pronto-socorro com rebaixamento do nível de consciência, mutismo, rigidez muscular intensa temperatura axilar de 39,2 C, frequência cardíaca de 132 bpm, frequência respiratória de 26 irpm e pressão arterial de 172 × 100 mmHg. Há cerca de uma semana, iniciou uso de haloperidol devido a episódio psicótico. Relata-se ainda uso ocasional de cannabis. Diante desse quadro clínico agudo a principal hipótese diagnóstica é",
+  "alts": [
+   "transtorno afetivo bipolar.",
+   "síndrome colinérgica.",
+   "esquizofrenia.",
+   "síndrome de Parkinson-plus.",
+   "síndrome neuroléptica maligna."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 3
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#4",
+  "q": "Estudante de 17 anos, residente com os pais, sem histórico de doença neurológia, relata uso regular de tabaco e nega consumo ocasional de álcool. Nega também uso de substâncias ilícitas. Segundo seus pais, nos últimos 6 meses ele passou a apresentar comportamentos incomuns, como reclusão progressiva e desconfiança excessiva. Ao exame, afirma estar sendo seguido por seus colegas de turma e afirma que professores da escola conspiram contra ele. Diz ouvir vozes que proferem xingamentos contra ele. O diagnóstico mais provável e a conduta terapêutica mais indicada são, respectivamente,",
+  "alts": [
+   "depressão grave, iniciar venlafaxina.",
+   "esquizofrenia, iniciar quetiapina ou outro neuroléptico.",
+   "sem diagnóstico provável, iniciar psicoterapia familiar incluindo o paciente para elucidar as ideias de perseguição.",
+   "transtorno bipolar do humor, internar imediatamente e iniciar carbonato de lítio.",
+   "transtorno de ansiedade generalizada, iniciar alprazolam."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 4
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#5",
+  "q": "Mulher 60 anos desenvolve progressivamente alterações na marcha com passos curtos e dificuldade para iniciar os movimentos, episódios de incontinência urinária e disfunção executiva. Assinale a hipótese diagnóstica mais provável.",
+  "alts": [
+   "Doença de Parkinson.",
+   "Síndrome de Münchhausen.",
+   "Hidrocefalia de pressão normal.",
+   "Doença de Lewy.",
+   "Transtorno de conversão."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 5
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#6",
+  "q": "Para pacientes que fazem uso contínuo de lítio para tratamento psiquiátrico, há exigência de que sejam feitos exames laboratoriais de rotina. Os exames laboratoriais que devem ser monitorados periodicamente para garantir a segurança e a eficácia do tratamento são:",
+  "alts": [
+   "vitamina B12, ácido fólico e vitamina D.",
+   "dosagem sérica do lítio, ureia, creatinina e TSH.",
+   "vitamina D e dosagem sérica do lítio.",
+   "amilase, lipase e sódio.",
+   "PCR, dosagem sérica do lítio, bilirrubinas."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 6
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#7",
+  "q": "Homem de 76 anos foi levado à consulta pela esposa, que relata episódios recorrentes, durante a madrugada, enquanto o marido dorme, nos quais ele fica muito agitado, fala e chega a chutá-la, causando-lhe ferimentos. O diagnóstico mais provável para esse quadro é",
+  "alts": [
+   "síndrome das pernas inquietas.",
+   "doença de Alzheimer.",
+   "narcolepsia.",
+   "transtorno comportamental do sono REM.",
+   "terror noturno."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 7
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#8",
+  "q": "O desenvolvimento da técnica lobotomia deu o prêmio Nobel a um médico português. O procedimento consistia em seccionar conexões do córtex pré-frontal com o restante do cérebro. Assinale a opção que indica uma possível consequência desse procedimento.",
+  "alts": [
+   "Astereognosia.",
+   "Disdiadococinesia.",
+   "Hemiparestesia.",
+   "Alucinações auditivas.",
+   "Apatia e abulia"
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 8
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#9",
+  "q": "Muitas vezes, o médico psiquiatra necessita realizar internação compulsória. A respeito da internação psiquiátrica involuntária, assinale a afirmativa correta.",
+  "alts": [
+   "Não necessita do consentimento do paciente e deve ser informada ao Ministério Público em até 72 h.",
+   "Pode ser solicitada por familiares e tem duração máxima de sete dias.",
+   "Não é permitida.",
+   "Se dá com o consentimento do paciente.",
+   "Só pode ocorrer mediante a determinação prévia da justiça."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 9
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#10",
+  "q": "No tratamento psiquiátrico, há sempre necessidade de se estabelecer uma aliança terapêutica. Assinale a definição correta de aliança terapêutica.",
+  "alts": [
+   "Reações do terapeuta em relação ao comportamento do paciente.",
+   "Atitudes do paciente que dificultem o prosseguimento da terapia.",
+   "Associação do terapeuta com a família do paciente, excluindo o paciente do processo devido ao seu estado mórbido.",
+   "Sentimentos do paciente relativos a figuras do passado que são transferidas ao terapeuta.",
+   "Vínculo entre paciente e terapeuta, incluindo metas e objetivos em prol do processo psicoterapêutico."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 10
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#11",
+  "q": "Cada vez os polimorfismos genéticos são estudados como base para o tratamento. Assinale a opção que adequadamente apresenta a razão pela qual os polimorfismos genéticos do sistema CYP450 podem influenciar a resposta terapêutica a fármacos psiquiátricos.",
+  "alts": [
+   "Disrupção da barreira heamtoencefálica.",
+   "Modificação estrutural dos neurotransmissores.",
+   "Interferência na metabolização hepática.",
+   "Redução da recaptação pré-sinaptica.",
+   "Aumento da excreção renal."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 11
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#12",
+  "q": "A farmacogenômica tem sido frequentemente utilizada pelos médicos psiquiatras. O principal foco da farmacogenética é",
+  "alts": [
+   "analisar o modo como variáveis genéticas podem influenciar a resposta a determinados fármacos.",
+   "a edição genética para realizar modificações precisas no DNA.",
+   "aumentar a acurácia dos diagnósticos dos transtornos mentais.",
+   "a cura de doenças genéticas que cursam com transtornos mentais.",
+   "o uso de vetores virais para a correção de genes patológicos."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 12
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#13",
+  "q": "Um paciente tem medo de conhecer pessoas novas e de falar em público. Tem ainda um injustificado receio de ser julgado negativamente. Dentre as opções listadas a seguir, assinale aquela que melhor descreve a doença desse paciente.",
+  "alts": [
+   "Transtorno depressivo unipolar.",
+   "Transtorno afetivo bipolar.",
+   "Transtorno obsessivo compulsivo.",
+   "Transtorno de fobia social.",
+   "Transtorno de adaptação."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 13
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_psiq#14",
+  "q": "Pacientes com doença de Alzheimer podem apresentar quadros de psicose e agitação, sintomas que frequentemente exigem intervenção medicamentosa. Apesar do uso recorrente de antipsicóticos para controle dessas manifestações, poucos desses fármacos contam com aprovação específica do FDA (Food and Drug Administration) para esse objetivo. Das opções a seguir, assinale o antipsicótico formalmente aprovado pelo FDA para tratar sintomas psicóticos em indivíduos com Alzheimer.",
+  "alts": [
+   "Quetiapina.",
+   "Risperidona.",
+   "Paroxetina",
+   "Olanzapina.",
+   "Brexpiprazol."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 14
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_psiq#16",
+  "q": "O Código de Ética Médica aborda temas relacionados à auditoria e à perícia médica que se aplicam a diversas especialidades, incluindo a perícia psiquiátrica. No que se refere à perícia médica, assinale a afirmativa correta.",
+  "alts": [
+   "Quando atuando como auditor ou perito, não é permitido ao médico perito receber pagamento ou gratificação vinculado ao sucesso da causa ou à glosa.",
+   "O médico pode assinar laudos periciais, de auditoria ou de verificação médico-legal, mesmo que não tenha realizado pessoalmente o exame.",
+   "O médico não pode ser auditor ou perito de alguém de sua família ou de qualquer pessoa com quem tenha relações que possam influenciar seu trabalho, nem de empresas nas quais tenha atuado ou atue.",
+   "O médico não pode realizar exames de corpo de delito em seres humanos dentro de unidades como delegacias de polícia, presídios, ou outras instituições como militares e casas de detenção.",
+   "Quando atuando como assistente técnico, auditor ou perito, o médico não deve limitar suas observações ao relatório final, sendo obrigado a intervir e fazer anotações na presença do examinado e nos atos profissionais de outro médico."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 16
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#17",
+  "q": "Um paciente de sexo masculino, 38 anos, procura ajuda psiquiátrica e relata um aumento significativo no comportamento compulsivo relacionado aos jogos, que se intensificou após o início de tratamento para uma sensação desconfortável nas pernas, em repouso e à noite. Após a introdução do tratamento adequado para as pernas inquietas, a esposa, presente na consulta de retorno, comenta que o paciente, que era conhecido como “viciado em jogos de azar”, piorou e continuou a jogar compulsivamente, agora sem se importar com as consequências. Com base nesse quadro, indique assinale a afirmativa mais provavelmente correta.",
+  "alts": [
+   "O paciente foi diagnosticado com síndrome das pernas inquietas e iniciou tratamento com naltrexona, agravando a dificuldade no controle de impulsos.",
+   "O paciente foi diagnosticado com transtorno de déficit de atenção e hiperatividade, iniciando o uso de metilfenidato, o que resultou em piora no controle de impulsos.",
+   "O paciente foi diagnosticado com acatisia e passou a usar clonazepam, piorando o controle dos impulsos.",
+   "O paciente foi diagnosticado com síndrome das pernas inquietas e começou tratamento com pramipexol, o que piorou o quadro de controle dos impulsos.",
+   "O paciente foi diagnosticado com acatisia e iniciou tratamento com clozapina, o que agravou o controle dos impulsos."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 17
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#18",
+  "q": "Uma paciente de 35 anos foi diagnosticada com transtorno de compulsão alimentar periódica, e seu psiquiatra prescreveu offlabel o uso de topiramato, com aumento gradual da dose a cada semana. Após o primeiro mês de tratamento, ela começou a apresentar dor ocular intensa, cefaleia, náuseas, vômitos, turvação visual com halos coloridos ao redor das luzes, além de midríase e vermelhidão ocular ao exame físico. Considerando esse quadro clínico, a melhor hipótese diagnóstica é",
+  "alts": [
+   "crise de enxaqueca.",
+   "hemorragia subaracnóidea por rompimento de aneurisma.",
+   "hipertensão intracraniana idiopática.",
+   "histeria.",
+   "crise aguda de glaucoma de ângulo fechado."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 18
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#19",
+  "q": "Uma mulher de 74 anos, recentemente diagnosticada com fibromialgia, busca orientação psiquiátrica devido a sintomas que começaram há 2 meses. Ela apresenta quadro de tristeza, anedonia, dificuldade de concentração, aumento do apetite e sentimento de culpa inadequados na maior parte dos dias. Com base nos sintomas descritos, assinale a melhor escolha medicamentosa para tratar essa paciente.",
+  "alts": [
+   "Amitriptilina.",
+   "Bupropiona.",
+   "Sertralina.",
+   "Buspirona.",
+   "Duloxetina."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 19
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#20",
+  "q": "Um paciente de 60 anos apresenta um quadro demencial de progressão rápida, com comprometimento significativo da memória, alterações comportamentais e apraxia. Após seis meses de evolução, o paciente apresenta mutismo acinético. No exame físico, observam-se mioclonias espontâneas, hiporreflexias generalizada e sinal de Babinski. Considerando o quadro apresentado, assinale o diagnóstico mais provável.",
+  "alts": [
+   "Doença de Creutzfeldt-Jakob.",
+   "Pseudodemência.",
+   "Doença de Alzheimer.",
+   "Demência Vascular.",
+   "Demência da hidrocefalia normobarica."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 20
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#21",
+  "q": "Um homem de 34 anos foi conduzido à consulta psiquiátrica pela esposa porque apresenta interpretações errôneas sobre acontecimentos cotidianos, que começaram há aproximadamente 3 anos. Ele descreve que, durante conversas informais, percebe insinuações de que seus colegas de trabalho estariam conspirando contra ele, interpretando comentários neutros como ameaças disfarçadas. Além disso, está convencido de que sua esposa está tendo um caso, com base em pequenos comportamentos que, na realidade, não evidenciam concretamente uma traição. Embora mantenha sua rotina diária sem grandes prejuízos, sem alucinações, desorganização do pensamento ou variações bruscas de humor, essa crença fixa tem gerado sérios conflitos familiares. O paciente nega o uso de substâncias psicoativas ou de álcool. Considerando esse quadro clínico, assinale o diagnóstico mais adequado.",
+  "alts": [
+   "Transtorno obsessivo compulsivo.",
+   "Transtorno neurocognitivo maior.",
+   "Esquizofrenia delirante.",
+   "Transtorno delirante.",
+   "Transtorno bipolar do humor."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 21
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#22",
+  "q": "No Brasil, o tratamento sintomático da doença de Alzheimer é baseado no uso de inibidores da acetilcolinesterase e de um antagonista do receptor NMDA. Considerando o uso do antagonista do receptor NMDA, esse medicamento é melhor indicado em caso de",
+  "alts": [
+   "doença de Alzheimer leve.",
+   "transtorno cognitivo leve.",
+   "doença de Alzheimer leve a grave.",
+   "transtorno cognitivo leve ou doença de Alzheimer leve a grave.",
+   "doença de Alzheimer moderada a grave."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 22
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#23",
+  "q": "Um paciente de 60 anos apresenta quadro demencial de progressão rápida, com comprometimento significativo da memória, alterações comportamentais e apraxia. Após seis meses de evolução, o paciente apresenta mutismo acinético. No exame físico, observam-se mioclonias espontâneas, hiporreflexias generalizada e sinal de Babinski. Considerando o diagnóstico mais provável, o seguinte exame é o mais específico para esse caso",
+  "alts": [
+   "FDG-PET cerebral.",
+   "RT-QuIC no líquor.",
+   "tomografia computadorizada de crânio.",
+   "proteína beta-amiloide sérica.",
+   "Eletroencefalograma."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 23
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#24",
+  "q": "A esquizofrenia envolve uma combinação complexa de sinais clínicos. Assinale a opção que exemplifica, nessa ordem, um sintoma negativo e um sintoma positivo.",
+  "alts": [
+   "Afasia e inteligência superiores à média.",
+   "Embotamento afetivo e alucinações.",
+   "Delírios e alucinações.",
+   "Agnosia e perda da timidez.",
+   "Síndrome disexecutiva e delírios."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 24
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#25",
+  "q": "Paciente masculino, 35 anos, previamente saudável, deu entrada no pronto-socorro relatando sintomas como insônia, irritabilidade, sudorese intensa, taquicardia e pesadelos. O quadro iniciou após um acidente automobilístico traumático ocorrido há 9 dias, que provocou lembranças intrusivas e comportamento evitativo em relação a carros e direção. Diante do contexto clínico e temporal, o diagnóstico que representa melhor o estado atual do paciente é o transtorno",
+  "alts": [
+   "de apego reativo.",
+   "dissociativo.",
+   "de estresse agudo.",
+   "do pânico.",
+   "de estresse pós-traumático."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 25
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#26",
+  "q": "O transtorno obsessivo compulsivo envolve pensamentos e imagens angustiantes que invadem a mente – e compulsões, que são ações repetitivas realizadas para aliviar esse sofrimento. Dentre as opções farmacológicas a seguir, assinale a que representa a abordagem terapêutica inicial mais recomendada para esse quadro clínico.",
+  "alts": [
+   "Inibidores da acetilcolinesterase.",
+   "Inibidores seletivos da recaptação da serotonina.",
+   "Estabilizadores do humor.",
+   "Inibidores seletivos da recaptação de dopamina e noradrenalina.",
+   "Benzodiazepínicos."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 26
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_psiq#27",
+  "q": "Paciente do sexo feminino, 20 anos, é acompanhada por sua mãe em consulta psiquiátrica. A mãe relata que a filha busca constantemente atenção e se sente incomodada quando não recebe a atenção que acredita merecer. Além disso, é facilmente influenciada pelas opiniões e pelos comportamentos das pessoas ao seu redor, mudando suas atitudes conforme o grupo no qual está inserida. Durante a consulta, o psiquiatra observou que seu discurso é teatral e superficial e apresenta oscilações rápidas. Diante desse quadro clínico, o diagnóstico mais provável é o transtorno",
+  "alts": [
+   "de personalidade histriônica.",
+   "do déficit de atenção e hiperatividade.",
+   "do afeto.",
+   "de personalidade narcisista.",
+   "de personalidade antissocial."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 27
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#28",
+  "q": "O transtorno de personalidade anancástica é reconhecido na prática psiquiátrica por características específicas. Os traços característicos desse transtorno incluem",
+  "alts": [
+   "exigência de admiração excessiva e megalomania.",
+   "desvalia, anedonia e entusiasmo excessivo.",
+   "rigidez e perfeccionismo.",
+   "purgação e cautela excessiva.",
+   "megalomania e perfeccionismo."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 28
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#29",
+  "q": "Durante avaliação psiquiátrica infantil, a mãe de um menino de 8 anos apresenta relatório da escola que descreve postura resistente à autoridade escolar, frequentes discussões com adultos, irritabilidade acentuada e tendência a culpar terceiros por seu comportamento. Não há indícios de agressividade física ou destruição de propriedade. A mãe confirma contínuos episódios de “falta de respeito”. O diagnóstico que melhor se compatibiliza com esse quadro clínico é o transtorno",
+  "alts": [
+   "explosivo intermitente.",
+   "do afeto.",
+   "do déficit de atenção e hiperatividade.",
+   "opositivo-desafiador.",
+   "depressivo maior."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 29
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#30",
+  "q": "Menino de 8 anos, apresenta episódios frequentes de incontinência fecal na roupa íntima, mesmo após já ter aprendido a usar o banheiro. Há queixas de dor durante a evacuação e um histórico de constipação crônica com retenção voluntária das fezes. O exame físico indica impacto fecal sem alterações estruturais ou neurológicas. Avaliando o quadro clínico, o diagnóstico que melhor corresponde a essa situação é",
+  "alts": [
+   "transtorno depressivo da infância.",
+   "encoprese retentiva.",
+   "encoprese não-retentiva.",
+   "síndrome do intestino irritável.",
+   "constipação histérica."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 30
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#31",
+  "q": "Idoso com 67 anos e sem antecedentes psiquiátricos passou a apresentar alucinações visuais ao longo dos últimos dois anos. Após uso de haloperidol, desenvolveu rigidez muscular progressiva, compatível com síndrome parkinsoniana e piora dos delírios e alucinações. Considerando a inexistência de causas infecciosas, tumorais ou tóxicas, o diagnóstico mais compatível com o quadro clínico e a conduta apropriada são, respectivamente,",
+  "alts": [
+   "episódio depressivo com componente psicótico – retirar haloperidol.",
+   "esquizofrenia – acrescentar risperidona ao haloperidol.",
+   "doença de Lewy – retirar antipsicóticos e iniciar inibidores da acetilcolinesterase.",
+   "transtorno esquizoide – substituir haloperidol por quetiapina.",
+   "psicose aguda – aumentar dose de haloperidol com cautela."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 31
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#32",
+  "q": "Mulher de 77 anos, com histórico de diabetes tipo 2, hipertensão arterial sistêmica e dislipidemia, procura atendimento psiquiátrico relatando que, há cerca de 1 ano, tem feito ligações frequentes para os filhos ao longo do dia, com receio constante de que algo ruim possa ter acontecido com eles. Refere estar constantemente irritada, com dores musculares e “muito nervosa”. Aproveita a consulta para relatar também sensação de formigamento e dor em queimação nos pés, com início há cerca de 2 anos e piora progressiva. Avaliando as comorbidades clínicas e os sintomas descritos, a abordagem farmacológica mais adequada é",
+  "alts": [
+   "quetiapina.",
+   "pregabalina.",
+   "trazodona.",
+   "risperidona",
+   "bupropiona."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 32
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#33",
+  "q": "Homem de 48 anos é levado por seus filhos para a emergência de hospital municipal com histórico de etilismo crônico. Segundo os familiares, ele consome bebidas destiladas quase todos os dias e mantém alimentação bastante irregular. Há 5 dias, apresenta episódios de confusão mental e quedas frequentes. Está há 3 dias sem ingerir álcool, mas sem melhora clínica. No exame físico, observa-se paciente caquético, desorientado no tempo e no espaço, com nistagmo horizontal bilateral, dificuldade de atenção, marcha instável e equilíbrio prejudicado. Não há relato de trauma craniano. Com base no quadro clínico agudo, a hipótese diagnóstica mais provável é",
+  "alts": [
+   "encefalite límbica.",
+   "encefalopatia de Wernicke.",
+   "transtorno conversivo.",
+   "doença de Creutzfeldt-Jakob.",
+   "cirrose hepática."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 33
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#34",
+  "q": "A respeito do uso de antipsicóticos, avalie as afirmativas a seguir. I. Antipsicóticos típicos, também chamados de convencionais, atuam principalmente por meio do bloqueio dos receptores dopaminérgicos do tipo D2. II. O uso de antipsicóticos típicos pode estar associado ao agravamento de sintomas extrapiramidais. III. Antipsicóticos atípicos tendem a causar menos efeitos extrapiramidais em comparação com os antipsicóticos típicos. Está correto o que se afirma em",
+  "alts": [
+   "II, apenas.",
+   "I e III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II, III."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 34
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_psiq#35",
+  "q": "Em relação ao mecanismo de ação das medicações estabilizadoras do humor, avalie as afirmações a seguir. I. Atuam por meio do bloqueio dos canais de sódio. II. Podem exercer efeito por meio da potenciação da ação do neurotransmissor GABA. III. Potencializam a ação do glutamato no sistema nervoso central. Está correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II, III."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 35
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_psiq#36",
+  "q": "Uma paciente de 36 anos apresenta sintomas sugestivos de desordem endócrina, incluindo ansiedade, insônia, agitação psicomotora e palpitações. Ao exame físico, destacam-se exoftalmia e tremores finos, mais evidentes com o movimento. O eletrocardiograma revela taquicardia sinusal. Diante desse quadro clínico, indique a melhor conduta inicial.",
+  "alts": [
+   "Iniciar tratamento com antidepressivo tricíclico.",
+   "Solicitar TSH, T4 livre e anticorpo antirreceptor de TSH.",
+   "Solicitar neuroimagem para afastar causas neurológicas.",
+   "Iniciar uso de ansiolítico de ação prolongada.",
+   "Solicitar eletroencefalograma para afastar crises parciais."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 36
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#37",
+  "q": "Homem de 71 anos apresenta-se na consulta desorientado no tempo e no espaço, com incapacidade de recordar três palavras que havia repetido corretamente há poucos minutos. Sua esposa informa piora progressiva da memória recente ao longo do último ano, com prejuízos funcionais importantes nas atividades cotidianas. O diagnóstico mais provável é",
+  "alts": [
+   "atrofia de múltiplos sistemas.",
+   "transtorno esquizoide.",
+   "doença de Alzheimer.",
+   "crise psicótica aguda.",
+   "episódio depressivo maior."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 37
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#38",
+  "q": "Em casos de depressão que não respondem adequadamente ao tratamento convencional e nos quais há presença de ideação suicida, das condutas a seguir, a que é considerada mais apropriada, de acordo com as evidências atuais, e",
+  "alts": [
+   "manter o mesmo antidepressivo por pelo menos seis meses, com monitoramento rigoroso.",
+   "associar inibidor de recaptação de serotonina com clobazam para efeito ansiolítico.",
+   "utilizar quetamina intravenosa ou eletroconvulsoterapia.",
+   "prescrever combinação de sertralina com um inibidor da monoaminoxidase.",
+   "iniciar combinação de três antidepressivos diferentes e aguardar resposta por oito semanas."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 38
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_psiq#39",
+  "q": "Durante uma avaliação neuropsiquiátrica, um paciente relata frequentemente ver “rostos nas paredes” e “pessoas escondidas entre os móveis”, embora admita que essas imagens desaparecem quando ele presta mais atenção. Esse tipo de distorção perceptiva, chamada pareidolia, é mais característico de",
+  "alts": [
+   "transtorno esquizoide.",
+   "doença de Alzheimer.",
+   "transtorno do espectro autista.",
+   "doença de Lewy.",
+   "esquizofrenia."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 39
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#40",
+  "q": "A esquizofrenia apresenta sintomas positivos e negativos. Com base nesse entendimento, assinale a afirmativa correta.",
+  "alts": [
+   "Antipsicóticos típicos demonstram maior eficácia que os atípicos no manejo dos sintomas negativos da esquizofrenia.",
+   "A eficácia terapêutica da remissão dos sintomas negativos e positivos da esquizofrenia está diretamente relacionado ao bloqueio dos receptores dopaminérgicos nas vias nigroestriatal e túbero-infundibular.",
+   "Antipsicóticos típicos e atípicos são igualmente eficazes para sintomas negativos, embora os atípicos associados mais frequentemente ao aumento da prolactina.",
+   "Antipsicóticos típicos e atípicos são eficazes no tratamento dos sintomas positivos, embora os típicos estejam associados a maior incidência de efeitos extrapiramidais.",
+   "Antipsicóticos típicos e atípicos apresentam eficácia semelhante tanto tratamento dos sintomas negativos como positivos da esquizofrenia, sendo que os atípicos boqueiam completamente a transmissão dopaminérgica da via nigroestriatal."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 40
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#41",
+  "q": "Uma criança de 8 anos foi levada à consulta na Unidade Básica de Saúde devido a queixas de baixo rendimento escolar e episódios descritos pelos pais como “apagões”. Durante a anamnese, o médico suspeitou de um tipo específico de crise epiléptica e realizou a manobra de hiperventilação, que desencadeou um episódio caracterizado por breve interrupção da consciência, com postura imóvel e olhar fixo por alguns segundos, seguido de retorno espontâneo à atividade anterior. Pequenos movimentos das pálpebras foram observados. Os pais relataram que esses episódios ocorriam diversas vezes ao dia, mas, por serem muito breves, passaram despercebidos por algum tempo. O médico iniciou tratamento com etossuximida, com boa resposta em relação às crises. No entanto, após o início do tratamento, a mãe observou que a criança passou a apresentar alucinações visuais, acreditando firmemente nas imagens que via. Diante desse quadro, a conduta mais adequada deve ser adotada.",
+  "alts": [
+   "A criança apresenta crises generalizadas e deve ter o antiepiléptico substituído por ácido valproico.",
+   "A droga antiepiléptica deve ser trocada por carbamazepina, pois trata-se de crise focal com ansiedade associada.",
+   "A paciente é portadora de esquizofrenia infantil e deve ser tratada com haloperidol.",
+   "Trata-se de um caso de déficit de atenção com esquizofrenia, sendo indicado o uso de risperidona e metilfenidato.",
+   "A criança não apresenta epilepsia, mas sim déficit de atenção e personalidade tipo borderline, devendo ser tratada com metilfenidato."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 41
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#42",
+  "q": "Psiquiatra opta por substituir o tratamento de um paciente com episódio depressivo maior, trocando um antidepressivo tricíclico por um inibidor irreversível da monoamina oxidase (IMAO). Em relação a essa conduta, assinale a afirmativa correta.",
+  "alts": [
+   "Caso a substituição seja feita, o paciente deverá seguir uma dieta restritiva, evitando alimentos como queijos, embutidos e bebidas fermentadas como vinho, devido ao risco de crise hipertensiva.",
+   "A troca só pode ser realizada mediante associação obrigatória com um benzodiazepínico de longa duração e um antipsicótico típico.",
+   "Essa substituição deve ocorrer imediatamente, sem necessidade de intervalo entre as medicações.",
+   "IMAOs não devem mais ser utilizados para o tratamento da depressão porque seu uso está restrito a pacientes com doença de Parkinson.",
+   "É necessário associar um inibidor seletivo da recaptação de serotonina ao IMAO para potencializar a resposta terapêutica em quadros refratários."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 42
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#43",
+  "q": "Mulher de 45 anos procura atendimento relatando preocupação constante com sua saúde, com medo recorrente de que algo grave possa acontecer. Nos episódios mais intensos, refere dor precordial associada à sensação de taquicardia, tontura, parestesias e impressão de “morte iminente”. Os sintomas costumam durar poucos minutos, mas são descritos como altamente desconfortáveis. Nega uso de substâncias ou histórico de outras doenças. Com base no quadro clínico, o diagnóstico mais provável é",
+  "alts": [
+   "infarto agudo do miocárdio.",
+   "transtorno do pânico.",
+   "transtorno de personalidade borderline.",
+   "esclerose múltipla.",
+   "transtorno de ansiedade social."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 43
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#44",
+  "q": "Sobre as medicações utilizadas como estabilizadores do humor, assinale a afirmativa correta.",
+  "alts": [
+   "O uso de topiramato está frequentemente associado ao ganho de peso como efeito adverso.",
+   "O carbonato de lítio é eficaz no tratamento de episódios maníacos.",
+   "A associação de lamotrigina com valproato é contraindicada em qualquer circunstância clínica.",
+   "A carbamazepina não requer monitoramento eletrolítico, pois raramente altera os níveis de sódio.",
+   "As drogas estabilizadoras com propriedades antiepilépticas costumam atuar como facilitadoras dos canais de sódio voltagem-dependentes."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 44
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#45",
+  "q": "Jovem de 20 anos é admitido em emergência psiquiátrica apresentando quadro de psicose aguda caracterizado por delírios e alucinações, além de sinais autonômicos como hipertensão, hipertermia, taquicardia, midríase e sudorese intensa. O acompanhante informou que o paciente possui uma alteração genética que reduz os níveis séricos de colinesterase e que fazia uso de álcool. Considerando os dados clínicos, a causa mais provável desse quadro é",
+  "alts": [
+   "uso de atropina.",
+   "uso de cocaína.",
+   "alcoolismo agudo.",
+   "transtorno esquizoafetivo.",
+   "depressão psicótica."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 45
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#46",
+  "q": "Homem de 47 anos procura atendimento relatando, de forma convicta, que existe um animal rastejante alojado em seu abdome. Ele afirma sentir seus movimentos internos, apesar de múltiplas avaliações clínicas e exames complementares não apontarem qualquer anormalidade orgânica. Ele permanece firme nessa crença, sem qualquer crítica à ideia. Assinale a afirmativa que melhor descreve esse fenômeno clínico.",
+  "alts": [
+   "Alucinação somestésica, geralmente associada ao uso de substâncias psicoativas.",
+   "Delírio de referência, típico de quadros esquizoafetivos.",
+   "Alteração somática compatível com episódios depressivos psicóticos.",
+   "Delírio cenestopático, comumente encontrado em pacientes com esquizofrenia ou transtorno delirante persistente.",
+   "Alucinação cenestopática, mais prevalente na esquizofrenia do tipo paranoide."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 46
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#47",
+  "q": "A esquizofrenia apresenta sintomas positivos e negativos. Com base nesse entendimento, assinale a afirmativa correta.",
+  "alts": [
+   "Sintomas positivos englobam o aumento das funções executivas enquanto os negativos se referem ao delirium.",
+   "Sintomas positivos são aqueles relacionados ao aumento de afeto, e os negativos, à depressão.",
+   "Delírios e alucinações são sintomas positivos, e embotamento afetivo e retraimento social são negativos.",
+   "Ideações de suicídio são sintomas negativos e ideações de grandeza são positivos.",
+   "Delírio de autorreferência é sintoma negativo, e expressão artística é positivo."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 47
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#48",
+  "q": "Homem de 40 anos começou a apresentar comportamentos marcados por desconfiança excessiva: acreditava estar sendo enganado por pessoas próximas, demonstrava constante dúvida sobre a lealdade dos amigos e interpretava comentários neutros como ameaças ocultas. Com o tempo, passou a ter conflitos conjugais frequentes, sustentando firmemente que sua parceira era infiel, apesar de se apoiar apenas em suposições frágeis. Não havia uso de substâncias psicoativas nem sinais de delírios bizarros. Com base nesse quadro, o diagnóstico mais compatível é",
+  "alts": [
+   "transtorno obsessivo compulsivo.",
+   "transtorno delirante.",
+   "transtorno bipolar.",
+   "episódio depressivo maior.",
+   "esquizofrenia."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 48
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#49",
+  "q": "Um adolescente de 15 anos passou a se isolar socialmente, afastando-se dos amigos e apresentando piora significativa no rendimento escolar. Relata escutar vozes que descreve como “um computador falando dentro da minha cabeça”, além de afirmar ter conversado com um ser de outro planeta e que em breve cumprirá uma missão no espaço. Esses sintomas começaram há cerca de 8 meses e vêm se tornando mais frequentes. Considerando o quadro descrito, o diagnóstico mais provável é",
+  "alts": [
+   "esquizofrenia.",
+   "transtorno de ansiedade generalizada.",
+   "episódio depressivo maior.",
+   "transtorno afetivo bipolar.",
+   "transtorno delirante."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 49
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#50",
+  "q": "Com base nos critérios diagnósticos do DSM-5 para o episódio depressivo maior, além de sintomas secundários como alterações de sono e concentração, o seguinte sintoma principal obrigatoriamente deve estar presente:",
+  "alts": [
+   "tristeza e alterações no sono, sendo necessária a presença de apenas um deles.",
+   "baixa autoestima e ideação suicida, sendo obrigatória a presença dos dois.",
+   "presença de tristeza e/ou perda do interesse ou prazer (anedonia).",
+   "anedonia e suicidalidade, sendo ambos obrigatórios.",
+   "tristeza e baixa autoestima, sendo exigido pelo menos um desses sintomas."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 50
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#51",
+  "q": "Os critérios do DSM-5 consideram o seguinte tempo mínimo de persistência dos sintomas para se considerar o diagnóstico de um episódio depressivo maior:",
+  "alts": [
+   "uma semana.",
+   "duas semanas.",
+   "1 mês.",
+   "2 meses.",
+   "6 meses."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 51
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#52",
+  "q": "Um paciente de 87 anos está sendo tratado, há nove meses, para queixa de “ardência no estômago” de omeprazol 40 mg/dia. Além disso, faz uso de aspirina 81 mg/dia. Não usa qualquer outra medicação. Recentemente começou a apresentar comprometimento cognitivo com prejuízo de memória recente e funções executivas que interferem em sua rotina diária. Considerando esse quadro clínico, assinale a hipótese diagnóstica mais plausível.",
+  "alts": [
+   "Demência reversível causada por carência de vitamina B12.",
+   "Demência causada por príons.",
+   "Demência reversível causada por hemorragia digestiva causada pelo omeprazol.",
+   "Demência reversível causada por carência de vitamina D.",
+   "Demência de Alzheimer grave."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 52
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#53",
+  "q": "Assinale a opção que apresenta um sintoma positivo da Doença de Lewy.",
+  "alts": [
+   "Afasia motora.",
+   "Alucinações visuais.",
+   "Embotamento afetivo.",
+   "Retração social.",
+   "Melhora das funções executivas."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 53
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#54",
+  "q": "Um psiquiatra foi chamado para avaliar um paciente hospitalizado que apresenta imobilidade, posturas rígidas mantidas por longos períodos e imitação involuntária dos movimentos do examinado. Considerando o diagnóstico mais provável, assinale o tratamento inicial mais indicado.",
+  "alts": [
+   "Fluoxetina.",
+   "Gabapentina.",
+   "Lorazepam.",
+   "Donepezila.",
+   "Topiramato."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 54
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#55",
+  "q": "A depressão na população idosa pode estar associada a diversas condições de interesse clínico. Assinale a condição que melhor caracteriza a depressão no idoso.",
+  "alts": [
+   "A ideação suicida tende a ocorrer com menos frequência em idosos do que em adultos jovens.",
+   "A depressão é um processo esperado do envelhecimento e não requer atenção clínica específica.",
+   "Indivíduos com primeiro episódio depressivo tardio geralmente apresentam forte histórico familiar.",
+   "Homens casados são o grupo com maior vulnerabilidade à depressão nessa faixa etária.",
+   "A presença de depressão em idosos pode estar associada ao aumento do risco de desenvolver quadros demenciais."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 55
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#56",
+  "q": "O ecstasy tem sido muito usado como droga de abuso. Na composição do ecstasy, a principal substância presente é",
+  "alts": [
+   "a buspirona.",
+   "a metilenodioximetanfetamina.",
+   "o tetrahidrocanabinol.",
+   "o metilfenidato.",
+   "a cocaína."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 56
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#57",
+  "q": "O transtorno de estresse pós-traumático (TEPT) tem sido descrito em diversas condições comumente encontradas na prática cotidiana (acidentes, assaltos, etc.) As principais dimensões relacionadas à resposta ao trauma são",
+  "alts": [
+   "evitação, intrusão e hiperestimulação.",
+   "pensamentos obsessivos e ideias recorrentes.",
+   "dificuldade de concentração e desesperança.",
+   "angústia, medo e evitação.",
+   "intrusão e desesperança."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 57
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#58",
+  "q": "A acatasia tem sido relatada como efeito colateral ao uso de antipsicóticos. Acatisia é",
+  "alts": [
+   "a incapacidade de realizar movimentos voluntários e coordenados.",
+   "a incapacidade de reconhecer objetos pelo tato.",
+   "um transtorno de memória em que o paciente perde se desconecta de sua autobiografia.",
+   "um transtorno do movimento caracterizado por inquietude que pode fazer o paciente andar incessantemente.",
+   "um transtorno de funções executivas em que o paciente não consegue planejar ações."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 58
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#59",
+  "q": "O transtorno de atenção e hiperatividade em crianças e adolescentes causa impacto significativo na vida escolar e nas relações sociais. A seguinte medicação é indicada para o tratamento dessa condição:",
+  "alts": [
+   "selegilina.",
+   "haloperidol.",
+   "amitriptilina.",
+   "metilfenidato.",
+   "valproato de sódio."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 59
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#60",
+  "q": "O transtorno bipolar é caracterizado por flutuações extremas no humor, alternando entre episódios de mania (ou hipomania) e de depressão. No caso de um paciente com transtorno bipolar do humor que comete um ato ilícito, assinale a afirmativa correta.",
+  "alts": [
+   "Uma pessoa com transtorno bipolar poderá ser considerada inimputável caso, no momento do crime, ela esteja em um episódio maníaco ou depressivo grave, que tenha prejudicado substancialmente sua capacidade de entender o caráter ilícito do ato ou de se controlar.",
+   "No Brasil, o transtorno bipolar, por si só, é considerado uma justificativa para alegar inimputabilidade ou semiimputabilidade.",
+   "Uma pessoa com transtorno bipolar poderá ser considerada no máximo semi-imputável no Brasil caso, no momento do crime, ela esteja em um episódio maníaco grave.",
+   "Uma pessoa com transtorno bipolar é sempre considerada portadora de transtorno mental, o que, embora não anule completamente a responsabilidade penal, deve ser sempre considerada semi-imputável.",
+   "Uma pessoa com transtorno bipolar poderá ser considerada no máximo semi-imputável no Brasil caso, no momento do crime, ela esteja em um episódio depressivo grave."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 60
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#61",
+  "q": "A pedofilia é caracterizada por um interesse sexual persistente e intenso por crianças ou adolescentes que ainda não atingiram a puberdade. Caso o portador desse transtorno cometa atos sexuais com menores de idade, assinale a afirmativa correta em relação à responsabilidade criminal.",
+  "alts": [
+   "No Brasil, considera-se que o pedófilo é sempre portador de transtorno mental de personalidade, o que, embora não anule completamente a responsabilidade penal, deve ser considerado como semi-imputável.",
+   "A avaliação psiquiátrica pericial irá subsidiar a decisão do magistrado ao analisar se, no momento do crime, a pessoa tinha condições de entender o caráter ilícito do ato e de se autodeterminar de acordo com esse entendimento.",
+   "A pedofilia, atestada como transtorno cognitivo por psiquiatra, justifica a obrigação legal de redução da pena.",
+   "No Brasil, a pedofilia, por si só, é considerada uma justificativa para alegar inimputabilidade",
+   "Como a pedofilia pode ser classificada como um transtorno de personalidade, ela exime automaticamente toda responsabilidade penal."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 61
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#62",
+  "q": "Homem de 35 anos com histórico de depressão é encontrado inconsciente em sua residência. Após atendimento em unidade de saúde, o paciente desperta com o uso de flumazenil. Considerando o quadro clínico, indique a causa mais provável para a alteração.",
+  "alts": [
+   "Mielopatia compressiva.",
+   "Tentativa de suicídio com uso de benzodiazepínico.",
+   "Transtorno somatiforme.",
+   "Acidente vascular encefálico.",
+   "Crise histérica conversiva."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 62
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#63",
+  "q": "Criança do sexo feminino, 9 anos de idade, passou a demonstrar nervosismo constante, retraimento social e evitação de situações de convivência após iniciar os estudos em uma nova escola. Essas manifestações são acompanhadas de sintomas físicos como palpitações. Considerando esse quadro clínico, o diagnóstico que apresenta maior compatibilidade é de transtorno",
+  "alts": [
+   "bipolar do humor.",
+   "de apego reativo.",
+   "depressivo maior.",
+   "do espectro autista.",
+   "de ansiedade social."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 63
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#64",
+  "q": "Um jovem de 35 anos, previamente diagnosticado com transtorno bipolar, está hospitalizado porque, nas últimas 48 horas, passou a apresentar mutismo, negativismo, imobilidade intensa com posturas incomuns e caretas. Tomografia de crânio foi normal, sem achados estruturais. O diagnóstico que melhor explica o quadro atual é",
+  "alts": [
+   "delirium hiperativo.",
+   "catatonia.",
+   "síndrome neuroléptica maligna.",
+   "parkinsonismo medicamentoso.",
+   "delirium hipoativo."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 64
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#65",
+  "q": "Um paciente de 88 anos está hospitalizado para tratamento de pneumonia com antibioticoterapia intravenosa. Durante a internação, apresenta episódios de agitação intensa que exigem contenção mecânica para evitar que deixe o leito. Ao ser examinado, o paciente acredita estar em casa. O quadro apresenta flutuações ao longo do dia, intercalando períodos assintomáticos. O diagnóstico mais provável é",
+  "alts": [
+   "episódio maníaco.",
+   "demência rapidamente progressiva.",
+   "delirium.",
+   "crise psicótica aguda.",
+   "episódio depressivo."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 65
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#66",
+  "q": "Homem de 48 anos relata comportamento repetido de tocar ou se esfregar em outras pessoas sem o consentimento delas, com o objetivo de obter excitação sexual. Esse comportamento ocorre com mais frequência quando pega ônibus lotado. Diante do quadro clínico exposto, o diagnóstico mais compatível é de transtorno",
+  "alts": [
+   "fetichista.",
+   "exibicionista.",
+   "de sadismo sexual.",
+   "frotteurista.",
+   "voyeurista."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 66
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#67",
+  "q": "Os transtornos parafílicos podem causar angústia e sofrimento ao paciente ou prejudicar outras pessoas. Assinale a definição que melhor descreve esse transtorno.",
+  "alts": [
+   "Excitação sexual relacionada ao ato de infligir dor, humilhação ou sofrimento, sem respeitar os limites da pessoa com quem se está se relacionando.",
+   "Excitação sexual de expor os próprios genitais para pessoas que não consentiram, com o objetivo de provocar uma reação nessas pessoas.",
+   "Excitação sexual em observar pessoas que estão se despindo, nuas ou engajadas em alguma atividade sexual sem que elas saibam ou consintam.",
+   "Excitação sexual associada à experiência de dor, humilhação ou sofrimento pessoal, levando a prejuízo funcional.",
+   "Excitação sexual direcionada a crianças."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 67
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#68",
+  "q": "O transtorno dissociativo de identidade tem sido relatado na pratica psiquiátrica. Uma manifestação típica desse transtorno é",
+  "alts": [
+   "a ocorrência em indivíduos idosos com agnosia.",
+   "amnésia dissociativa acompanhada de prosopagnosia.",
+   "a existência de múltiplas identidades distintas possivelmente presentes desde os primeiros anos de vida.",
+   "amnésia retrógrada e anterógrada com comprometimento da continuidade da memória.",
+   "a criação voluntária de identidades falsas para manipulação de outras pessoas."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 68
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#69",
+  "q": "No contexto da psiquiatria, os episódios de transe e possessão merecem atenção clínica. Em relação ao transtorno de transe e possessão, assinale a afirmativa correta.",
+  "alts": [
+   "Ocorre com frequência na síndrome de Ganser.",
+   "O indivíduo apresenta comportamento influenciado por uma entidade ou personalidade externa, com suspensão momentânea da identidade própria.",
+   "É uma característica marcante da demência com corpos de Lewy.",
+   "É uma manifestação exclusiva de cerimônias religiosas.",
+   "Representa um sintoma essencial na doença de Alzheimer."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 69
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#70",
+  "q": "Paciente do sexo masculino 24 anos, apresenta sinais clínicos compatíveis com a Síndrome de Cushing, Apesar de múltiplas consultas, ele continua buscando outras explicações clínicas e reage com desconforto quando questionado. Considerando a ausência de ganhos secundários da doença de base, o diagnóstico mais provável é de",
+  "alts": [
+   "síndrome de Munchausen por procuração.",
+   "simulação voluntária de sintomas (malingering).",
+   "transtorno somatoforme.",
+   "transtorno factício.",
+   "transtorno de conversão."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 70
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#71",
+  "q": "Mulher, 33 anos, acredita estar diante da possibilidade de ter alguma doença grave, mesmo sem sintomas físicos evidentes. Há 9 meses, dedica-se obsessivamente à aferição de sinais vitais e à busca por informações médicas, consultando profissionais diversos e realizando exames – todos com resultados normais Considerando esse padrão comportamental, o diagnóstico mais compatível com o caso é de",
+  "alts": [
+   "transtorno bipolar do humor.",
+   "síndrome de Munchausen.",
+   "transtorno de ansiedade.",
+   "esquizofrenia.",
+   "transtorno depressivo maior."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 71
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#72",
+  "q": "A seguinte medicação é utilizada especificamente no manejo da abstinência de opioides:",
+  "alts": [
+   "metilfenidato.",
+   "imipramina.",
+   "carbamazepina.",
+   "carbonato de lítio.",
+   "metadona."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 72
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#73",
+  "q": "Paciente mulher, 28 anos, recentemente diagnosticada com transtorno bipolar do humor, iniciou tratamento com monoterapia de valproato de sódio. Considerando que a paciente relata vida sexual ativa sem uso de medidas de anticoncepção, o motivo pelo qual será necessário substituir o medicamento se deve",
+  "alts": [
+   "ao risco aumentado de teratogenicidade.",
+   "à medicação, que pode precipitar virada maníaca.",
+   "à associação com perda ponderal.",
+   "à piora dos sintomas de ideação suicida.",
+   "ao efeito tireotóxico."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 73
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#74",
+  "q": "Paciente de 57 anos é admitido na emergência em estado de coma, após episódio de intoxicação aguda por álcool. A abordagem inicial mais adequada nesse caso é",
+  "alts": [
+   "administrar solução glicosada intravenosa combinada com tiamina.",
+   "administrar diazepam intramuscular juntamente com solução fisiológica intravenosa.",
+   "aguardar recuperação espontânea, sem intervenção medicamentosa inicial.",
+   "iniciar antipsicótico logo após infusão de glicose intravenosa.",
+   "utilizar naltrexona intramuscular em associação com hidratação por soro fisiológico."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 74
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#75",
+  "q": "Homem de 69 anos sem histórico psiquiátrico prévio apresenta, há cerca de um ano, alucinações visuais complexas e declínio cognitivo que compromete suas atividades instrumentais diárias. Ao exame, nota-se bradicinesia e rigidez em “roda dentada”. Considerando o diagnóstico mais provável, a seguinte classe de medicamentos é indicada para o início do tratamento:",
+  "alts": [
+   "antidepressivos.",
+   "benzodiazepínicos.",
+   "inibidores da colinesterase.",
+   "anticonvulsivantes.",
+   "antipsicóticos."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 75
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#76",
+  "q": "Mulher, 26 anos, procura atendimento psiquiátrico relatando medo intenso de abandono e sensação de incompreensão por parte de amigos e familiares. Ela descreve alterações de humor, desde a adolescência, que resultaram em conflitos com suas irmãs. Relata dificuldades nos relacionamentos amorosos, alternando entre se sentir indignamente rejeitada e desvalorizar seus parceiros. Há histórico de tentativa de suicídio há cinco anos. Durante a consulta, apresenta-se irritada e agitada O diagnóstico mais provável é de transtorno",
+  "alts": [
+   "de ansiedade generalizada.",
+   "bipolar.",
+   "de personalidade antissocial.",
+   "depressivo maior.",
+   "de personalidade borderline."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 76
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#77",
+  "q": "Homem, 53 anos, busca atendimento para cessar o tabagismo e recebe prescrição de bupropiona. (450 mg/dia). Uma contraindicação ao uso desse medicamento na dose indicada é",
+  "alts": [
+   "diagnóstico de epilepsia.",
+   "uso concomitante de inibidor da recaptação de serotonina.",
+   "associação com adesivos de nicotina.",
+   "diagnóstico de doença pulmonar obstrutiva crônica.",
+   "diagnóstico de transtorno depressivo maior."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 77
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#78",
+  "q": "Um jovem usuário de cocaína procura o serviço de emergência com queixa de dor torácica após o uso da droga. Para esse quadro, o marcador mais indicado para avaliar lesão miocárdica é",
+  "alts": [
+   "a mioglobina.",
+   "a creatinoquinase.",
+   "a troponina.",
+   "o acetilcolinesterase.",
+   "o nível sérico de cocaína."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 78
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#79",
+  "q": "Adolescente, 15 anos, relata que, nos últimos cinco meses, pouco tempo após as refeições, sente que o alimento retorna à boca, momento em que remastiga ou cospe a comida. Nega outros sintomas como náuseas, vômitos ou azia. Relata vergonha de comer em público e perda de peso. Considerando que a endoscopia digestiva alta não mostrou alterações, assinale o diagnóstico mais provável.",
+  "alts": [
+   "Síndrome do intestino irritável.",
+   "Síndrome de ruminação.",
+   "Anorexia nervosa.",
+   "Doença do refluxo gastroesofágico.",
+   "Bulimia nervosa."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 79
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_psiq#80",
+  "q": "Ao exame, mulher de 55 anos, apresenta movimentos coreoatetósicos e prejuízo cognitivo significativo em dois domínios que comprometem a sua vida cotidianas. O diagnóstico mais provável é de demência",
+  "alts": [
+   "pela hidrocefalia de pressão normal.",
+   "frontotemporal.",
+   "relacionada à neurossífilis.",
+   "pela doença de Alzheimer.",
+   "relacionada à doença de Huntington."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 80
+  },
+  "avisos": []
+ }
+]

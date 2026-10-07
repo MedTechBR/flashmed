@@ -1,0 +1,992 @@
+[
+ {
+  "pid": "m24041",
+  "q": "A mãe de uma criança de 4 meses de idade chega muito preocupada à consulta. Sua filha vem apresentando regurgitações frequentes, após mamar. Algumas vezes, chega a vomitar. Os episódios se repetem 5-6 vezes/dia. Já foram causa de brigas na família, pois a avó paterna disse que a mãe “não sabe amamentar a criança”. A criança se alimenta exclusivamente de leite materno, está ganhando peso normalmente e vem se desenvolvendo bem. Não há choro excessivo nem irritabilidade. Nunca apresentou sibilância, nem pneumonia. Dorme tranquilamente. O exame físico não mostra qualquer particularidade. A melhor conduta é:",
+  "alts": [
+   "endoscopia digestiva alta;",
+   "encaminhar para o especialista;",
+   "monitorização do pH intraesofágico;",
+   "observar a mamada para possíveis correções da técnica;",
+   "fazer estudo radiológico contrastado do trato digestivo superior. "
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Regurgitação fisiológica do lactente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NASPGHAN/ESPGHAN. Pediatric Gastroesophageal Reflux Clinical Practice Guidelines, 2018; Ministério da Saúde. Caderno de Atenção Básica nº 23 (aleitamento materno e alimentação complementar), 2015",
+  "coment": "Lactente de 4 meses com regurgitações frequentes, mas com ganho de peso adequado, sem choro excessivo, recusa alimentar, sibilância ou pneumonia, tem refluxo gastroesofágico fisiológico, que melhora espontaneamente até 12 a 18 meses. A diretriz NASPGHAN/ESPGHAN de 2018 recomenda não investigar nem medicar sem sinais de alarme. O papel do médico de família é tranquilizar, observar a mamada (pega, posição, deglutição de ar, eructação) e manter o aleitamento exclusivo, o que também acolhe o conflito familiar sobre a capacidade da mãe.",
+  "porAlt": [
+   "Endoscopia é reservada a sinais de alarme ou suspeita de esofagite; não se indica no refluxo fisiológico com bom ganho de peso.",
+   "Não há sinal de alarme que justifique encaminhamento; o quadro é conduzido na atenção primária.",
+   "A pHmetria não diferencia refluxo fisiológico de doença e não está indicada em lactente que cresce bem e não tem complicações.",
+   "Correta: observar a mamada permite corrigir pega e posição, reduzir aerofagia, tranquilizar a família e manter o aleitamento exclusivo.",
+   "O estudo contrastado avalia anatomia (má rotação, estenose) e não é exame de refluxo; sem vômitos biliosos ou em jato, não se indica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 41
+  }
+ },
+ {
+  "pid": "m24042",
+  "q": "Um menino de 10 anos é trazido pela mãe para consultar devido a cefaleia. Trata-se de uma criança sadia, com desenvolvimento e crescimento adequados, um dos melhores alunos de sua sala. Os episódios de cefaleia acontecem frequentemente, há 2 anos. São muito relacionados a provas ou a situações de maior tensão, como competições esportivas (“ele adora handebol”). Nos episódios, a dor acomete as regiões frontolaterais bilateralmente; é pulsátil; nunca apareceu pela manhã ou acordou o menino, mas o obriga a ficar deitado no quarto escuro e, quando vai aumentando de intensidade, vem acompanhada de náuseas e vômitos. O exame físico não mostra nenhuma particularidade. Provavelmente estamos frente a um quadro de:",
+  "alts": [
+   "enxaqueca;",
+   "rinossinusite;",
+   "meningite;",
+   "erros de refração;",
+   "processo expansivo intracraniano."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Enxaqueca na infância",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "International Headache Society. Classificação Internacional das Cefaleias, 3ª ed. (ICHD-3), 2018",
+  "coment": "Os critérios da ICHD-3 (2018) para enxaqueca sem aura pedem crises recorrentes com pelo menos duas destas características: localização unilateral (na criança costuma ser bilateral, frontotemporal), caráter pulsátil, intensidade moderada a forte e piora com atividade; e pelo menos um entre náusea ou vômito e foto e fonofobia. O menino tem dor pulsátil frontal bilateral que o obriga a deitar no escuro, com náuseas e vômitos, gatilho emocional, há 2 anos, sem sinais de alarme (dor matinal, despertar noturno, exame neurológico alterado, piora progressiva). Exame normal e evolução longa afastam causa secundária.",
+  "porAlt": [
+   "Correta: dor pulsátil, frontal bilateral (padrão comum na criança), com náuseas, vômitos e fotofobia, desencadeada por estresse e com exame normal preenche critérios de enxaqueca.",
+   "Rinossinusite cursa com congestão, rinorreia e dor facial, não com crises recorrentes há 2 anos ligadas a estresse.",
+   "Meningite é quadro agudo com febre e rigidez de nuca, incompatível com episódios recorrentes há 2 anos em criança sadia.",
+   "Erro de refração dá cefaleia leve após esforço visual prolongado, sem caráter pulsátil incapacitante nem vômitos.",
+   "Processo expansivo daria dor progressiva, matinal ou que acorda, vômitos e alteração no exame neurológico, ausentes aqui."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 42
+  }
+ },
+ {
+  "pid": "m24043",
+  "q": "Na sua segunda consulta de pré-natal, uma gestante de 27 anos traz consigo os resultados dos exames solicitados, dentre eles o hemograma, que mostrou hemoglobina de 11,2 g/dL, VCM: 85 fL e RDW: 12,5%. Com esses resultados, você:",
+  "alts": [
+   "referencia ao hematologista;",
+   "não prescreve sulfato ferroso;",
+   "prescreve vitamina B12 para tratamento;",
+   "prescreve sulfato ferroso em doses profiláticas;",
+   "prescreve sulfato ferroso em doses de tratamento."
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Suplementação de ferro no pré-natal",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 32 (pré-natal de baixo risco), 2012; Programa Nacional de Suplementação de Ferro: manual de condutas gerais, 2013",
+  "coment": "Na gestação, considera-se anemia a hemoglobina abaixo de 11 g/dL. Com Hb de 11,2 g/dL, VCM normal (85 fL) e RDW normal (12,5%), a gestante não está anêmica e recebe a suplementação universal do Ministério da Saúde: 40 mg de ferro elementar ao dia (cerca de 200 mg de sulfato ferroso) do início do pré-natal até o terceiro mês pós-parto, junto com ácido fólico. Dose de tratamento (120 a 240 mg de ferro elementar ao dia, conforme o Caderno 32) só se aplica com Hb abaixo de 11 g/dL.",
+  "porAlt": [
+   "Não há anemia (Hb acima de 11 g/dL) nem alteração de outras séries que justifique encaminhamento ao hematologista.",
+   "Toda gestante deve receber ferro profilático, mesmo sem anemia, segundo o Ministério da Saúde.",
+   "VCM normal e ausência de anemia não sugerem deficiência de B12; a vitamina não faz parte da rotina do pré-natal.",
+   "Correta: Hb de 11,2 g/dL não é anemia na gestação, então se mantém a suplementação profilática de 40 mg de ferro elementar ao dia.",
+   "Dose de tratamento é reservada à Hb abaixo de 11 g/dL, o que não é o caso."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 43
+  }
+ },
+ {
+  "pid": "m24044",
+  "q": "Na primeira consulta do pré-natal de uma gestante de 24 anos, é solicitado o VDRL, entre outros exames. Ela chega, na segunda consulta, com 6 semanas de gestação e traz o resultado – VDRL não reagente. Com relação à prevenção da sífilis, você deve explicar que:",
+  "alts": [
+   "não será necessário teste futuro;",
+   "será realizado novo exame no terceiro trimestre e no momento do parto;",
+   "será realizado novo exame no terceiro trimestre, e esse exame deverá ser o VDRL, exclusivamente;",
+   "será realizado novo exame no momento do parto, e esse exame deverá ser o VDRL, exclusivamente;",
+   "será realizado novo exame no terceiro trimestre e no momento do parto, e esse exame deverá ser o VDRL, exclusivamente."
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Rastreamento de sífilis na gestação",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis (IST), 2022",
+  "coment": "O PCDT IST de 2022 manda testar sífilis na primeira consulta de pré-natal (idealmente no primeiro trimestre), no início do terceiro trimestre (a partir da 28ª semana) e no momento do parto ou em caso de abortamento, além de após exposição de risco ou violência sexual. O teste pode ser treponêmico (como o teste rápido, preferido para iniciar a investigação) ou não treponêmico (VDRL); não há exigência de usar exclusivamente o VDRL. Um resultado negativo no início não protege contra infecção adquirida depois, por isso a repetição.",
+  "porAlt": [
+   "A gestante pode se infectar ao longo da gravidez; o PCDT exige repetir o teste no terceiro trimestre e no parto.",
+   "Correta: repetem-se os testes no terceiro trimestre e na admissão para o parto, como determina o PCDT IST 2022.",
+   "Falta a testagem no parto, e o exame não precisa ser exclusivamente o VDRL: o teste rápido treponêmico é aceito.",
+   "Omite o terceiro trimestre e restringe indevidamente ao VDRL, quando o teste rápido treponêmico também serve.",
+   "Os momentos estão certos, mas não há exigência de VDRL exclusivo; o teste rápido treponêmico pode iniciar a investigação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 44
+  }
+ },
+ {
+  "pid": "m24045",
+  "q": "A mãe de uma menina de 3 anos começa a notar “pintas vermelhas na pele”. A entrevista revela que se trata de uma criança sadia, com excelente crescimento e desenvolvimento, sem qualquer outro sinal ou sintoma. Ao exame físico há apenas máculas vermelhas disseminadas, que não desaparecem à digitopressão. Você, então, solicita hemograma, cuja alteração confirma o diagnóstico, e:",
+  "alts": [
+   "trata com corticoide oral;",
+   "trata com corticoide tópico;",
+   "trata com anti-histamínico oral;",
+   "referencia à hematologia;",
+   "referencia à dermatologia."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Púrpura trombocitopênica imune na infância",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Society of Hematology. Guidelines for Immune Thrombocytopenia, 2019",
+  "coment": "Criança de 3 anos previamente sadia com petéquias disseminadas (não somem à digitopressão), sem outros sinais, e hemograma com plaquetopenia isolada sugere púrpura trombocitopênica imune. O diagnóstico é de exclusão: é preciso afastar leucemia e outras causas, avaliar o esfregaço e decidir entre observação e tratamento, o que cabe ao hematologista. A diretriz da ASH de 2019 recomenda observação, sem corticoide, para crianças sem sangramento ou apenas com sangramento cutâneo, então iniciar corticoide na atenção primária não é a conduta. Anti-histamínico e tratamento tópico não têm papel.",
+  "porAlt": [
+   "Na PTI infantil sem sangramento importante a ASH 2019 recomenda observar, e a decisão de tratar cabe ao hematologista após excluir outras causas.",
+   "Corticoide tópico não atua em plaquetopenia e não tem lugar no tratamento de petéquias.",
+   "Anti-histamínico trata urticária, que some à digitopressão; petéquias por plaquetopenia não respondem a ele.",
+   "Correta: com plaquetopenia confirmada, a criança vai ao hematologista para excluir leucemia e decidir entre observação e tratamento.",
+   "As petéquias são manifestação de distúrbio hematológico, não de doença primária da pele."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 45
+  }
+ },
+ {
+  "pid": "m24046",
+  "q": "A mãe de uma criança de 1 ano e 9 meses traz o menino porque notou a bolsa escrotal vazia. Ao exame físico, você confirma a suspeita da mãe, mas palpa um dos testículos no canal inguinal. Dessa forma, você:",
+  "alts": [
+   "solicita exames hormonais para agilizar o pré-operatório;",
+   "referencia para o cirurgião, sem solicitar exames de imagem ou hormonais;",
+   "aguarda a criança passar dos 2 anos de idade, quando o sucesso da cirurgia é maior;",
+   "solicita ultrassonografia da região inguinal para agilizar o pré-operatório;",
+   "mantém a conduta expectante, pois há grande possibilidade de o testículo descer após 2 anos de idade."
+  ],
+  "gab": 1,
+  "tema": "especialidades",
+  "sub": "Criptorquidia: momento de encaminhar",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American Urological Association. Evaluation and Treatment of Cryptorchidism, 2014 (revisada em 2018); EAU/ESPU Guidelines on Paediatric Urology, 2024",
+  "coment": "Testículo não descido que persiste após os 6 meses de idade (corrigida) raramente desce sozinho e deve ser encaminhado ao cirurgião pediátrico, com orquidopexia idealmente até os 18 meses, para preservar a fertilidade e facilitar a vigilância do risco de câncer. Com 1 ano e 9 meses, a criança já passou da janela ideal. Com testículo palpável no canal inguinal, AUA e EAU não recomendam ultrassonografia nem exames hormonais antes do encaminhamento: não mudam a conduta e atrasam a cirurgia. Avaliação hormonal fica para testículos impalpáveis bilaterais ou suspeita de distúrbio da diferenciação sexual.",
+  "porAlt": [
+   "Exames hormonais só se indicam em testículos impalpáveis bilaterais ou suspeita de distúrbio da diferenciação sexual, não em testículo inguinal palpável.",
+   "Correta: testículo palpável no canal inguinal após os 6 meses vai direto ao cirurgião, sem imagem ou hormônios, que não mudam a conduta.",
+   "A orquidopexia deve ser feita até os 18 meses; esperar além dos 2 anos piora a fertilidade e não aumenta o sucesso.",
+   "Ultrassonografia não é recomendada antes do encaminhamento: tem baixa acurácia e não altera a indicação cirúrgica.",
+   "Após os 6 meses a descida espontânea é rara; a conduta expectante só atrasa a cirurgia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 46
+  }
+ },
+ {
+  "pid": "m24047",
+  "q": "Um menino de 3 anos é trazido pela mãe porque “tem fimose”. Totalmente assintomático. O exame físico mostra estreitamento do orifício prepucial, não permitindo a exposição da glande. Você, então:",
+  "alts": [
+   "orienta a mãe a fazer exercícios de retração prepucial forçada;",
+   "solicita exames complementares e referencia para o cirurgião;",
+   "solicita exames complementares para certificar-se do diagnóstico;",
+   "referencia para o cirurgião sem solicitar qualquer exame complementar;",
+   "orienta cuidados de higiene no banho e após a micção e avalia introduzir corticoide tópico numa consulta de seguimento. "
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Fimose fisiológica na infância",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "EAU/ESPU Guidelines on Paediatric Urology, 2024",
+  "coment": "Aos 3 anos, a não retração do prepúcio costuma ser fimose fisiológica, que se resolve com o crescimento, sem sintomas. Em menino assintomático, a conduta é orientar higiene sem forçar a retração e acompanhar; se persistir, o corticoide tópico (por exemplo, betametasona 0,05% duas vezes ao dia por 4 a 8 semanas) é o primeiro tratamento, com sucesso acima de 80% segundo as diretrizes de urologia pediátrica da EAU (2024). Retração forçada causa fissuras e cicatriz, criando fimose patológica. Exames não são necessários, e o encaminhamento ao cirurgião fica para falha do corticoide, balanopostites de repetição, infecção urinária ou fimose cicatricial.",
+  "porAlt": [
+   "A retração forçada causa fissuras e cicatrizes e pode transformar fimose fisiológica em patológica; é contraindicada.",
+   "O diagnóstico é clínico e o menino é assintomático; não há indicação de exames nem de cirurgia nesta fase.",
+   "Fimose é diagnóstico de exame físico; exames complementares não acrescentam nada.",
+   "Cirurgia fica para falha do corticoide, infecções de repetição ou fimose cicatricial, não para menino assintomático de 3 anos.",
+   "Correta: em menino assintomático orienta-se higiene sem retração forçada, e o corticoide tópico é o primeiro tratamento se persistir."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 47
+  }
+ },
+ {
+  "pid": "m24048",
+  "q": "Uma senhora de 70 anos, sua conhecida há tempos, consulta-se acompanhada de seu esposo de 71 anos, como habitualmente. No questionamento geral, ao perguntar à senhora sobre seu funcionamento urinário, ela diz “o senhor deveria perguntar é pro meu marido, que acorda a noite toda pra urinar”. Você, então:",
+  "alts": [
+   "se põe a examinar o senhor, para detectar algo mais grave;",
+   "dirige sua atenção agora para o marido, pois ele parece estar precisando mais de sua ajuda, e começa a entrevistá-lo;",
+   "continua normalmente a entrevista e foca apenas na senhora que está se consultando, não se importando com informações sobre o esposo;",
+   "continua normalmente a entrevista e foca na senhora que está se consultando, abordando a informação sobre o esposo com o próprio, no final da consulta da senhora;",
+   "continua normalmente a entrevista e foca na senhora que está se consultando; no final da consulta, agenda uma consulta para o esposo para a semana seguinte."
+  ],
+  "gab": 3,
+  "tema": "ferramentas",
+  "sub": "Familiar citado durante a consulta",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Stewart M et al. Medicina centrada na pessoa: transformando o método clínico, 3ª ed., 2017; Gusso G, Lopes JMC, Dias LC. Tratado de Medicina de Família e Comunidade, 2ª ed., 2019",
+  "coment": "A pessoa que procurou a consulta é a senhora, e o foco do atendimento deve permanecer nela, respeitando o tempo e a agenda que ela trouxe. A frase sobre o marido, porém, revela preocupação com um familiar que também é paciente da equipe e pode indicar um problema real (noctúria no homem idoso). Na abordagem familiar da Medicina de Família, a informação não é ignorada nem desvia a consulta: é retomada diretamente com o próprio esposo, ao final, respeitando a autonomia dele e permitindo que diga se quer ser avaliado. Agendar a consulta dele sem conversar com ele é decidir por ele.",
+  "porAlt": [
+   "Examinar o marido de imediato abandona a pessoa que agendou a consulta e presume gravidade sem dados.",
+   "Transferir o foco para o marido desrespeita a consulta da senhora, que é a pessoa atendida naquele momento.",
+   "Ignorar a informação perde a oportunidade de cuidar de um problema do esposo, também paciente da equipe, e desconsidera a preocupação dela.",
+   "Correta: mantém o foco na senhora e aborda a queixa do esposo diretamente com ele no final, respeitando a autonomia dos dois.",
+   "Marcar consulta para o esposo sem falar com ele decide no lugar dele; o adequado é abordá-lo primeiro."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 48
+  }
+ },
+ {
+  "pid": "m24049",
+  "q": "Um senhor de 67 anos apresenta-se logo no início da consulta lhe ofertando uma sacola de exames. É uma boa conduta:",
+  "alts": [
+   "evidenciar desinteresse pelos exames;",
+   "verificar e analisar todos os exames logo de início;",
+   "pegar todos os exames e deixá-los ao lado, explicitando que serão analisados em momento oportuno;",
+   "pegar um dos exames para analisar, caso o senhor mencione um deles no decorrer da entrevista médica;",
+   "deixar claro, de início, que vai solicitar nova bateria de exames, pois não pode analisar exames pedidos previamente."
+  ],
+  "gab": 2,
+  "tema": "ferramentas",
+  "sub": "Paciente que traz exames na consulta",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Stewart M et al. Medicina centrada na pessoa: transformando o método clínico, 3ª ed., 2017; Gusso G, Lopes JMC, Dias LC. Tratado de Medicina de Família e Comunidade, 2ª ed., 2019",
+  "coment": "Quando o paciente entrega uma sacola de exames logo no início, analisá-los naquele momento faz a consulta girar em torno dos papéis e não da pessoa: o médico deixa de ouvir os motivos da consulta, as ideias, preocupações e expectativas. Na abordagem centrada na pessoa, o recomendado é receber os exames com atenção, deixá-los ao lado e dizer explicitamente que serão vistos em momento oportuno, depois da escuta. Assim se valoriza o que o paciente trouxe sem perder a condução da entrevista. Desprezar os exames ou pedir tudo de novo quebra o vínculo e gera desperdício.",
+  "porAlt": [
+   "Demonstrar desinteresse desvaloriza o paciente e prejudica o vínculo logo no início da consulta.",
+   "Ler tudo de início desloca o foco da pessoa para os exames e atrapalha a escuta dos motivos da consulta.",
+   "Correta: receber, deixar ao lado e avisar que serão analisados depois valoriza o paciente e preserva a escuta inicial.",
+   "Pegar um exame isolado conforme é citado fragmenta a entrevista; o melhor é analisá-los juntos no momento oportuno.",
+   "Exames prévios válidos devem ser aproveitados; repetir tudo é desperdício e desconsidera o paciente."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 49
+  }
+ },
+ {
+  "pid": "m24050",
+  "q": "Uma adolescente de 13 anos apresenta-se com linfonodomegalia occipital e retroauricular. Não há febre, sinais/sintomas de infecções de vias aéreas superiores, nem sintomas gerais. Nesse contexto, é importante pesquisar lesões:",
+  "alts": [
+   "no palato;",
+   "nas amígdalas;",
+   "no globo ocular;",
+   "no couro cabeludo;",
+   "na pele da face."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Linfonodomegalia occipital e retroauricular",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "A abordagem da linfonodomegalia localizada começa pela região de drenagem. Os linfonodos occipitais e retroauriculares (mastóideos) drenam o couro cabeludo e o pavilhão auricular, então, sem febre nem sintomas gerais, a causa mais provável é lesão do couro cabeludo: pediculose com escoriações, tinha do couro cabeludo, dermatite seborreica, foliculite ou picadas. Palato e amígdalas drenam para cadeias submandibulares e cervicais anteriores (jugulodigástrica); a face, para pré-auriculares, submandibulares e submentonianos; o olho, para pré-auriculares.",
+  "porAlt": [
+   "O palato drena para linfonodos cervicais profundos e submandibulares, não para as cadeias occipital e retroauricular.",
+   "Amígdalas drenam para o linfonodo jugulodigástrico (cervical anterior), não para occipital e retroauricular.",
+   "O globo ocular e a conjuntiva drenam para os linfonodos pré-auriculares.",
+   "Correta: as cadeias occipital e retroauricular drenam o couro cabeludo, onde se buscam pediculose, tinha, dermatite ou foliculite.",
+   "A pele da face drena principalmente para pré-auriculares, submandibulares e submentonianos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 50
+  }
+ },
+ {
+  "pid": "m24056",
+  "q": "Numa reunião de equipe, surge a necessidade primordial de abordar o acesso aos serviços de saúde pela população, nos seus variados níveis de atenção. Decide-se conjuntamente que uma abordagem em grupos será o melhor caminho, desde que:",
+  "alts": [
+   "a reunião aconteça já nessa tarde, pois é primordial;",
+   "seja construído um ambiente continente;",
+   "a médica não participe das reuniões de grupo, para não comprometer os atendimentos individuais;",
+   "os profissionais que, intuitivamente e pelo bom senso, sentirem-se capacitados para a reunião conduzam o grupo;",
+   "para conduzir as reuniões, seja convidado alguém da universidade, que não tenha contato com a comunidade, para dar maior credibilidade."
+  ],
+  "gab": 1,
+  "tema": "aps",
+  "sub": "Trabalho com grupos na ESF",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Gusso G, Lopes JMC, Dias LC. Tratado de Medicina de Família e Comunidade, 2ª ed., 2019; Portaria GM/MS 2.436/2017 (Política Nacional de Atenção Básica)",
+  "coment": "O trabalho com grupos na atenção primária exige preparo: definir objetivo, público, frequência e coordenação e, sobretudo, construir um ambiente continente, isto é, um espaço acolhedor e seguro em que os participantes possam expor dúvidas e experiências sem julgamento, com sigilo e escuta. Esse é o requisito central da técnica de grupos descrita no Tratado de MFC. A PNAB (2017) prevê atividades coletivas como atribuição de toda a equipe, inclusive do médico. Pressa, improviso ou coordenadores externos sem vínculo com a comunidade comprometem o grupo.",
+  "porAlt": [
+   "Grupo exige planejamento (objetivo, público, convite, coordenação); fazê-lo às pressas na mesma tarde compromete o resultado.",
+   "Correta: um ambiente continente, acolhedor e seguro para a expressão dos participantes, é condição essencial para o grupo funcionar.",
+   "A PNAB prevê atividades coletivas como atribuição de todos os profissionais da equipe, inclusive do médico.",
+   "Coordenar grupo exige preparo técnico e planejamento, não apenas intuição e bom senso.",
+   "Profissional sem vínculo com a comunidade enfraquece o grupo; é o vínculo da equipe que dá credibilidade."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 56
+  }
+ },
+ {
+  "pid": "m24057",
+  "q": "Para conduzir o tratamento de uma mulher de 35 anos com sintomas depressivos, sabemos que:",
+  "alts": [
+   "a terapia cognitivo-comportamental não é efetiva;",
+   "a terapia de resolução de problemas não é efetiva;",
+   "a atividade física é uma opção efetiva de tratamento;",
+   "a erva-de-são-joão não é terapia superior ao uso de placebo;",
+   "a terapia de resolução de problemas associada a antidepressivos é mais efetiva que cada tratamento isoladamente. "
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Tratamento não farmacológico da depressão",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NICE. Depression in adults: treatment and management (NG222), 2022",
+  "coment": "A diretriz NICE NG222 (2022) inclui a atividade física em grupo, estruturada, entre as opções de primeira linha para depressão menos grave, ao lado de terapia cognitivo-comportamental, terapia de resolução de problemas e outras intervenções psicológicas, com eficácia demonstrada em metanálises. Há também evidência de que a erva-de-são-joão é superior ao placebo na depressão leve a moderada (revisão Cochrane de 2008), embora não seja recomendada pelo risco de interações. O ensaio clássico na atenção primária (Mynors-Wallis, 2000) não mostrou vantagem da combinação de resolução de problemas com antidepressivo sobre cada tratamento isolado.",
+  "porAlt": [
+   "A TCC é uma das psicoterapias mais estudadas e efetivas para depressão, recomendada pelo NICE.",
+   "A terapia de resolução de problemas é efetiva e especialmente útil na atenção primária.",
+   "Correta: atividade física estruturada é opção de tratamento efetiva para depressão, recomendada pelo NICE NG222.",
+   "Revisão Cochrane mostrou a erva-de-são-joão superior ao placebo na depressão leve a moderada; o problema dela são as interações.",
+   "Ensaio na atenção primária não mostrou superioridade da combinação sobre resolução de problemas ou antidepressivo isolados."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 57
+  }
+ },
+ {
+  "pid": "m24060",
+  "q": "Uma senhora de 64 anos consulta-se por dor nas pernas. A dor é em peso, uma sensação de fadiga nas pernas, relacionada a momentos em que fica por longos períodos em pé. Não usa qualquer medicamento diariamente. Previamente sadia. O exame físico mostra apenas veias dilatadas e tortuosas da coxa e panturrilha visíveis e palpáveis quando o paciente está em pé. Não há edema, hiperpigmentação da pele nem fibrose. É correto afirmar que:",
+  "alts": [
+   "elevar as pernas à noite não irá melhorar os sintomas;",
+   "meias elásticas devem ser usadas diariamente durante o sono;",
+   "somente o tratamento cirúrgico é eficaz, de modo que devemos referenciar a senhora ao especialista;",
+   "há alto níveis de evidências justificando o uso de medicamentos venoativos como principal medida não cirúrgica;",
+   "meias elásticas de compressão graduada (pressão de 20–30 mm Hg) reduzem a pressão venosa na perna e podem prevenir a progressão da doença."
+  ],
+  "gab": 4,
+  "tema": "cronicas",
+  "sub": "Varizes de membros inferiores",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "European Society for Vascular Surgery. Clinical Practice Guidelines on the Management of Chronic Venous Disease of the Lower Limbs, 2022",
+  "coment": "Veias dilatadas e tortuosas visíveis em pé, com dor em peso e fadiga ao ficar muito tempo em pé, sem edema, hiperpigmentação ou fibrose, correspondem a varizes classe C2 da CEAP. O manejo inicial é conservador na atenção primária: elevar as pernas, exercitar a panturrilha, controlar o peso e usar meias de compressão graduada de 20 a 30 mmHg durante o dia, que reduzem a pressão venosa, aliviam sintomas e podem retardar a progressão (diretriz ESVS de 2022). As meias são retiradas para dormir. Venoativos aliviam sintomas como adjuvantes, sem alto nível de evidência como medida principal. Cirurgia ou ablação é opção, não obrigação.",
+  "porAlt": [
+   "Elevar as pernas reduz a hipertensão venosa e melhora dor e peso; é medida recomendada.",
+   "As meias são usadas durante o dia, em ortostatismo, e retiradas para dormir.",
+   "Medidas conservadoras são eficazes no alívio dos sintomas; a intervenção é opção, não a única saída.",
+   "Venoativos são adjuvantes para sintomas, sem alto nível de evidência como principal medida não cirúrgica.",
+   "Correta: meias de compressão graduada de 20 a 30 mmHg reduzem a pressão venosa, aliviam sintomas e podem retardar a progressão."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 60
+  }
+ },
+ {
+  "pid": "m24061",
+  "q": "Uma senhora de 66 anos é diagnosticada com conjuntivite bacteriana no olho direito. Você prescreve quinolona tópica. Ela retorna em 48 horas, queixando-se de que o olho continua muito vermelho. Ao exame, a hiperemia ocular periférica se mantém, porém sem secreção. Há sinais de xeroftalmia. A conduta é:",
+  "alts": [
+   "referenciar à oftalmologia;",
+   "associar lubrificante ocular tópico;",
+   "mudar a prescrição para tobramicina tópica;",
+   "associar corticoide tópico de 3 em 3 horas;",
+   "associar nafazolina com feniramina tópicas de 3 em 3 horas."
+  ],
+  "gab": 1,
+  "tema": "cronicas",
+  "sub": "Olho seco após conjuntivite",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Academy of Ophthalmology. Dry Eye Syndrome Preferred Practice Pattern, 2023",
+  "coment": "A conjuntivite bacteriana tratada com quinolona tópica já não tem secreção em 48 horas, ou seja, a infecção respondeu. A hiperemia periférica persistente com sinais de xeroftalmia aponta para olho seco, comum na mulher idosa e agravado pela inflamação e pelos colírios. A conduta é associar lubrificante ocular (lágrima artificial), primeira linha no tratamento do olho seco segundo o Preferred Practice Pattern da Academia Americana de Oftalmologia (2023). Não há falha antibiótica que justifique trocar a droga, corticoide tópico sem avaliação oftalmológica é arriscado e vasoconstritor tópico causa hiperemia de rebote.",
+  "porAlt": [
+   "Sem dor intensa, baixa visual ou fotofobia, o olho seco é conduzido na atenção primária e não exige encaminhamento imediato.",
+   "Correta: a secreção sumiu e há xeroftalmia; o lubrificante ocular trata o olho seco que mantém a hiperemia.",
+   "Não houve falha do antibiótico, já que a secreção desapareceu; trocar por tobramicina não trata o olho seco.",
+   "Corticoide tópico sem lâmpada de fenda pode agravar herpes, elevar a pressão ocular e causar catarata; não é conduta da APS.",
+   "Nafazolina é vasoconstritor que mascara a hiperemia, causa rebote e piora o olho seco com uso frequente."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 61
+  }
+ },
+ {
+  "pid": "m24062",
+  "q": "Uma senhora de 68 anos busca atendimento para uma checkup. Sempre fez exames para rastreamento do câncer do colo do útero na unidade, todos sem qualquer alteração. Os últimos dois exames foram realizados nos últimos 5 anos. Deseja saber se precisa continuar fazendo essa prevenção, pois continua sexualmente ativa. Devemos explicar que ela:",
+  "alts": [
+   "deve realizar mais um exame que, sendo negativo, a dispensará de exames adicionais;",
+   "deve continuar a realização de exames para rastreamento do câncer do colo do útero;",
+   "deve ficar tranquila e não precisa mais se preocupar em realizar exames para rastreamento do câncer do colo do útero;",
+   "deve realizar mais dois exames com intervalo de 1 a 3 anos; se ambos forem negativos, está dispensada de exames adicionais;",
+   "deve realizar mais dois exames com intervalo de 5 anos; se ambos forem negativos, está dispensada de exames adicionais."
+  ],
+  "gab": 2,
+  "tema": "rastreamento",
+  "sub": "Encerramento do rastreamento do colo uterino",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "INCA/Ministério da Saúde. Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, Parte I: rastreamento organizado com DNA-HPV, 2025 (Portaria Conjunta SAES/SECTICS nº 13/2025); Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, 2016",
+  "coment": "O rastreamento do câncer do colo do útero no Brasil vai dos 25 aos 64 anos, tanto na diretriz de 2016 (citologia) quanto na de 2025 com teste de DNA-HPV. Após os 64 anos, mulheres com rastreamento prévio regular e negativo encerram os exames, porque o risco de lesão nova é muito baixo e cresce o risco de sobrediagnóstico. Estar sexualmente ativa não muda a regra. Fazer mais dois exames com intervalo de 1 a 3 anos era a orientação da diretriz de 2016 para mulheres acima de 64 anos que nunca tinham sido rastreadas, o que não é o caso desta paciente.",
+  "porAlt": [
+   "Com rastreamento prévio regular e negativo, ela já pode encerrar; mais um exame não é necessário.",
+   "Acima de 64 anos com exames prévios negativos o rastreamento é encerrado, mesmo com vida sexual ativa.",
+   "Correta: aos 68 anos, com rastreamento regular e negativo, ela é dispensada de novos exames pelas diretrizes brasileiras.",
+   "Dois exames com intervalo de 1 a 3 anos eram indicados para mulheres acima de 64 anos nunca rastreadas, não para ela.",
+   "Não existe regra de mais dois exames com intervalo de 5 anos após os 64 anos para quem já foi rastreada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 62
+  }
+ },
+ {
+  "pid": "m24063",
+  "q": "Uma senhora de 65 anos agenda consulta exclusivamente para prescrição de multivitamínicos para prevenção de doenças “do coração”. É uma senhora saudável, que participa de grupos de educação em saúde na unidade e mantém sua saúde controlada. Para a prevenção de doenças cardiovasculares, você a orienta a:",
+  "alts": [
+   "praticar atividade física regular;",
+   "usar cálcio e praticar atividade física regular;",
+   "usar vitamina A e praticar atividade física regular;",
+   "usar vitamina D e praticar atividade física regular;",
+   "usar betacaroteno e vitamina E e praticar atividade física regular. "
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "Suplementos na prevenção cardiovascular",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "U.S. Preventive Services Task Force. Vitamin, Mineral, and Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer, 2022",
+  "coment": "A força-tarefa americana (USPSTF, 2022) recomenda contra o uso de betacaroteno e de vitamina E para prevenir doença cardiovascular e câncer (o betacaroteno aumentou câncer de pulmão em fumantes) e considera insuficiente a evidência para multivitamínicos, cálcio e vitamina D com esse fim. Já a atividade física regular reduz mortalidade e eventos cardiovasculares. Prescrever suplemento para pessoa saudável que pede prevenção seria intervenção sem benefício comprovado; a orientação correta, coerente com a prevenção quaternária, é reforçar a atividade física.",
+  "porAlt": [
+   "Correta: atividade física regular reduz eventos cardiovasculares, enquanto suplementos não têm benefício comprovado (USPSTF 2022).",
+   "A evidência é insuficiente para cálcio na prevenção cardiovascular, e ele ainda pode causar litíase.",
+   "Vitamina A não previne doença cardiovascular e, em excesso, é tóxica.",
+   "Vitamina D não reduziu eventos cardiovasculares em ensaios como o VITAL; a evidência é insuficiente.",
+   "A USPSTF recomenda contra betacaroteno e vitamina E: não previnem, e o betacaroteno aumenta câncer de pulmão em fumantes."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 63
+  }
+ },
+ {
+  "pid": "m24064",
+  "q": "Numa reunião de grupo sobre estilo de vida e prevenção de doenças cardiovasculares, uma mulher de 32 anos, estudante de Educação Física, pergunta “se comer frutas e vegetais previne mesmo doenças do coração e câncer”, e continua “se previne, por que tomar comprimidos com as vitaminas e sais minerais existentes nas frutas e vegetais também não previne.” Apoiado nas evidências mais atuais, você afirma, para todo o grupo, que:",
+  "alts": [
+   "comer frutas e vegetais não está associado a redução do risco de doenças cardiovasculares e câncer;",
+   "o motivo mais comum pelo qual as pessoas relatam tomar suplementos não é melhorar ou manter a saúde geral;",
+   "não é razoável pensar que vitaminas e minerais essenciais poderiam ser extraídos de frutas e vegetais e serem embalados em uma pílula;",
+   "micronutrientes isolados podem agir da mesma forma que quando naturalmente embalados com uma série de outros componentes dietéticos;",
+   "frutas e vegetais contêm uma mistura de vitaminas, fitoquímicos, fibras e outros nutrientes que provavelmente agem sinergicamente para proporcionar benefícios à saúde."
+  ],
+  "gab": 4,
+  "tema": "rastreamento",
+  "sub": "Frutas e vegetais versus suplementos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "U.S. Preventive Services Task Force. Vitamin, Mineral, and Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer, 2022",
+  "coment": "Dietas ricas em frutas e vegetais se associam a menor risco de doença cardiovascular e de câncer em estudos observacionais. Os ensaios com vitaminas e minerais isolados em comprimido, porém, não reproduziram esse benefício, e a USPSTF (2022) não recomenda suplementos com esse fim. A explicação mais aceita é que frutas e vegetais contêm uma mistura de vitaminas, fitoquímicos, fibras e outros nutrientes que agem em sinergia, efeito que se perde quando um micronutriente é isolado. A ideia de extrair as vitaminas e colocá-las em uma pílula é razoável, mas não se confirmou nos ensaios.",
+  "porAlt": [
+   "O consumo de frutas e vegetais está associado a menor risco cardiovascular e de câncer em estudos de coorte.",
+   "Melhorar ou manter a saúde geral é justamente o motivo mais citado para o uso de suplementos.",
+   "É razoável supor que nutrientes possam ser encapsulados; o problema é que os ensaios não confirmaram benefício.",
+   "Os ensaios com micronutrientes isolados não reproduziram o efeito da dieta, o que sugere ação diferente fora do alimento.",
+   "Correta: a mistura de vitaminas, fitoquímicos e fibras dos alimentos provavelmente age em sinergia, o que a pílula não reproduz."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 64
+  }
+ },
+ {
+  "pid": "m24065",
+  "q": "Na reunião de preparação para o grupo de pacientes que fazem uso de álcool e seus familiares, você aponta alguns pontos importantes para serem pensados pela equipe de saúde da unidade. Em relação a essa questão, é importante considerar que:",
+  "alts": [
+   "o foco atual das ações para as pessoas em potencial risco de danos pelo uso de álcool está em encontrar quem abusa (uso excessivo) ou está dependente do álcool;",
+   "grupos de pessoas que podem estar especialmente em risco de danos pelo uso de álcool incluem os jovens e as gestantes. Os idosos não são incluídos como população de risco;",
+   "alterações neurobiológicas do uso excessivo de álcool contribuem para padrões previsíveis de consumo e para outros comportamentos ligados ao uso do álcool, demarcando o componente estrutural/funcional com importância;",
+   "o uso crônico de álcool não contribui para mudanças fisiológicas e não pode ser “acusado” de aumentar a reatividade ao estresse e contribuir ainda mais para as motivações biológicas para beber;",
+   "o uso de álcool está associado a aproximadamente 3 milhões de mortes por ano e, por isso, a busca por pessoas que usam álcool e que procuram os serviços de saúde por outros motivos é muito grande e estabelecida nos serviços."
+  ],
+  "gab": 2,
+  "tema": "drogas",
+  "sub": "Uso de álcool: bases para abordagem em grupo",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Organização Mundial da Saúde. Global status report on alcohol and health and treatment of substance use disorders, 2024; U.S. Preventive Services Task Force. Unhealthy Alcohol Use in Adolescents and Adults: Screening and Behavioral Counseling, 2018",
+  "coment": "O uso excessivo de álcool produz alterações neurobiológicas (nos circuitos de recompensa, estresse e controle executivo) que tornam o padrão de consumo previsível e sustentam comportamentos ligados à bebida, o que dá ao problema um componente estrutural e funcional. O uso crônico também aumenta a reatividade ao estresse, reforçando a motivação para beber. As ações atuais miram todo o espectro do uso de risco, não só a dependência, com rastreamento e intervenção breve (USPSTF 2018). Jovens, gestantes e idosos são grupos de risco, e o álcool causou cerca de 2,6 milhões de mortes em 2019 (OMS 2024), mas segue subdetectado nos serviços.",
+  "porAlt": [
+   "O foco atual abrange todo o espectro do uso de risco, com rastreamento e intervenção breve, não só abuso e dependência.",
+   "Idosos são grupo de risco pela maior sensibilidade ao álcool, pelas comorbidades e pelas interações com medicamentos.",
+   "Correta: as alterações neurobiológicas do uso excessivo tornam o padrão de consumo previsível e sustentam o comportamento de beber.",
+   "O uso crônico altera a fisiologia e aumenta a reatividade ao estresse, reforçando a motivação para beber.",
+   "Apesar da alta mortalidade, a busca ativa por quem usa álcool ainda é pouco feita e não está estabelecida nos serviços."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 65
+  }
+ },
+ {
+  "pid": "m24066",
+  "q": "Um homem de 40 anos totalmente assintomático procura a unidade de saúde. Ele ouviu dizer que todo homem precisa fazer prevenção do câncer de próstata e, apesar do medo e constrangimento, quer fazer o exame. Não há história patológica pregressa, nem histórico familiar de câncer de próstata. Você, então, na expectativa de decidirem junto se o homem faz ou não o exame preventivo, explica que:",
+  "alts": [
+   "há maior risco para homens com parentes, mesmo que distantes, que tiveram câncer de próstata depois dos 60 anos;",
+   "o câncer de próstata, na maioria dos casos, cresce rapidamente e se espalha para outros órgãos, causando a morte;",
+   "os riscos dos exames preventivos estão relacionados à sua realização, pois são procedimentos que colocam a vida do homem em risco;",
+   "mesmo na ausência de sintomas, recomenda-se a realização de exames para investigar o câncer de próstata para todos os homens;",
+   "um resultado nos exames preventivos que indique câncer pode não se confirmar; isso gera ansiedade e estresse, além da necessidade de realizar novos exames, como a biópsia."
+  ],
+  "gab": 4,
+  "tema": "rastreamento",
+  "sub": "Decisão compartilhada sobre PSA",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "INCA/Ministério da Saúde. Detecção precoce do câncer, 2021; U.S. Preventive Services Task Force. Prostate Cancer: Screening, 2018",
+  "coment": "O Ministério da Saúde e o INCA não recomendam o rastreamento populacional do câncer de próstata, e a USPSTF (2018) indica decisão individual entre 55 e 69 anos. Para decidir junto com o paciente, ele precisa conhecer os danos possíveis: resultados falso-positivos do PSA, que geram ansiedade e novos exames, inclusive biópsia com risco de infecção e sangramento, além do sobrediagnóstico e do sobretratamento de tumores indolentes, com incontinência e disfunção erétil. A maioria dos cânceres de próstata cresce devagar e não causa a morte. O risco familiar relevante é de parentes de primeiro grau, sobretudo com diagnóstico antes dos 65 anos.",
+  "porAlt": [
+   "Aumenta o risco a história em parentes de primeiro grau, principalmente com diagnóstico em idade mais jovem, não em parentes distantes.",
+   "A maioria dos cânceres de próstata tem crescimento lento e não leva à morte, o que fundamenta o risco de sobrediagnóstico.",
+   "Os danos vêm do falso-positivo, da biópsia e do sobretratamento, não de o exame de sangue colocar a vida em risco.",
+   "MS e INCA não recomendam rastreamento para todos os homens assintomáticos; a decisão é individual e informada.",
+   "Correta: o falso-positivo gera ansiedade e leva a novos exames, como a biópsia, dano que o homem precisa conhecer para decidir."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 66
+  }
+ },
+ {
+  "pid": "m24067",
+  "q": "Um homem de 51 anos, sem quaisquer fatores de risco, após conversar longamente com você na consulta, decide que quer fazer o exame preventivo para o câncer de próstata. Você, então:",
+  "alts": [
+   "solicita dosagem de PSA;",
+   "solicita biópsia de próstata;",
+   "solicita tomografia pélvica;",
+   "solicita ultrassonografia de próstata;",
+   "não solicita qualquer exame, pois os consensos não preconizam exames para homens nessa idade."
+  ],
+  "gab": 0,
+  "tema": "rastreamento",
+  "sub": "Exame de rastreio do câncer de próstata",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "U.S. Preventive Services Task Force. Prostate Cancer: Screening, 2018; American Urological Association/SUO. Early Detection of Prostate Cancer, 2023; INCA/Ministério da Saúde. Detecção precoce do câncer, 2021",
+  "coment": "Depois da decisão compartilhada, se o homem opta pelo rastreamento, o exame é a dosagem de PSA, com ou sem toque retal, único teste avaliado nos grandes ensaios de rastreamento. Biópsia é etapa diagnóstica após PSA alterado, e tomografia ou ultrassonografia não servem para rastrear. Embora o INCA não recomende rastreamento populacional e a USPSTF trate da faixa de 55 a 69 anos, a diretriz da Associação Americana de Urologia (2023) aceita iniciar entre 45 e 50 anos, e a escolha informada do paciente de 51 anos deve ser respeitada.",
+  "porAlt": [
+   "Correta: decidido o rastreamento, solicita-se PSA, o teste avaliado nos ensaios de rastreamento do câncer de próstata.",
+   "Biópsia é procedimento diagnóstico após PSA alterado, nunca exame de rastreamento inicial.",
+   "Tomografia pélvica não detecta câncer de próstata inicial e não é usada para rastrear.",
+   "Ultrassonografia de próstata não tem papel no rastreamento; serve para guiar a biópsia.",
+   "Diretrizes aceitam rastreamento individual a partir dos 50 anos, e a decisão informada do paciente deve ser respeitada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 67
+  }
+ },
+ {
+  "pid": "m24068",
+  "q": "Uma mulher de 38 anos consulta-se na unidade. Todos da equipe a conhecem e sabem que é uma pessoa que se consulta frequentemente. Não tem um diagnóstico definido, mas está sempre na unidade com queixas variadas, sintomas vagos e inespecíficos, sem quaisquer critérios de gravidade ou sinais de alarme. Em relação às pessoas hiperfrequentadoras, é correto afirmar que:",
+  "alts": [
+   "a grande maioria não tem doença somática;",
+   "devem ser referenciadas a outros serviços e especialidades;",
+   "podem procurar atendimento como um pedido de ajuda justificado;",
+   "não devem ser abordadas pela equipe, mas por um único profissional;",
+   "formam um grupo homogêneo que cria uma carga desnecessária de trabalho. "
+  ],
+  "gab": 2,
+  "tema": "ferramentas",
+  "sub": "Hiperfrequentadores na APS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Gusso G, Lopes JMC, Dias LC. Tratado de Medicina de Família e Comunidade, 2ª ed., 2019",
+  "coment": "Hiperfrequentadores formam um grupo heterogêneo: muitos têm doenças orgânicas crônicas, multimorbidade, sofrimento psíquico (ansiedade, depressão, sintomas somáticos) e problemas sociais. A procura frequente costuma ser um pedido de ajuda legítimo, nem sempre expresso em queixa clara. O Tratado de MFC recomenda reconhecer esse pedido, investigar a agenda oculta, combinar consultas programadas com um profissional de referência e manejar o caso em equipe, evitando tanto o encaminhamento em série quanto o rótulo de paciente difícil, que levam a exames desnecessários e iatrogenia.",
+  "porAlt": [
+   "Boa parte dos hiperfrequentadores tem doença orgânica crônica, muitas vezes associada a sofrimento psíquico e social.",
+   "Encaminhar em série fragmenta o cuidado e aumenta exames e iatrogenia; o manejo é longitudinal na própria unidade.",
+   "Correta: a procura frequente costuma expressar um pedido de ajuda legítimo, que deve ser reconhecido e explorado.",
+   "Ter um profissional de referência ajuda, mas o manejo é feito em equipe, sem excluir os demais.",
+   "É um grupo heterogêneo, e tratá-lo como carga desnecessária reforça o estigma e prejudica o cuidado."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 68
+  }
+ },
+ {
+  "pid": "m24069",
+  "q": "Um senhor de 54 anos com lombalgia crônica chega para consulta. A dor lombar o acompanha há tempos e não houve modificação do seu padrão, irradiação ou intensidade (“é aquela dor de sempre, doutor”). Hipertenso leve, controlado com hidroclorotiazida. Dislipidemia também controlada, em uso de estatina. Pai falecido (morte súbita aos 50 anos). Hérnia discal L5/S1 diagnosticada há 20 anos. Exame físico de abordagem sem particularidades, assim como as manobras específicas para lombalgia. Nesse contexto, devemos:",
+  "alts": [
+   "propor acompanhamento fisioterápico;",
+   "referenciar à neurocirurgia para avaliação;",
+   "referenciar à ortopedia para acompanhamento;",
+   "solicitar ressonância magnética de coluna lombar;",
+   "tratar exclusivamente com anti-inflamatório não esteroide."
+  ],
+  "gab": 0,
+  "tema": "cronicas",
+  "sub": "Lombalgia crônica sem sinais de alarme",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE. Low back pain and sciatica in over 16s (NG59), 2016, atualizada em 2020; Qaseem A et al. American College of Physicians. Noninvasive Treatments for Low Back Pain, 2017",
+  "coment": "Lombalgia crônica de padrão inalterado, sem irradiação nova, déficit neurológico ou outros sinais de alarme, e com exame normal, não precisa de imagem nem de especialista. A hérnia discal antiga, sem sintomas radiculares, não muda a conduta. As diretrizes (NICE NG59, ACP 2017) põem em primeiro lugar o exercício terapêutico e a reabilitação, como fisioterapia com exercícios, além de educação e manutenção das atividades. Anti-inflamatório só por curto período e na menor dose, nunca como tratamento exclusivo, sobretudo em hipertenso com risco cardiovascular familiar.",
+  "porAlt": [
+   "Correta: na lombalgia crônica sem sinais de alarme, exercício e fisioterapia são a primeira linha (NICE NG59, ACP 2017).",
+   "Sem déficit neurológico ou sinais de alarme não há indicação de avaliação neurocirúrgica.",
+   "Lombalgia crônica mecânica sem complicações é acompanhada na atenção primária, sem necessidade de ortopedista.",
+   "Ressonância sem sinais de alarme ou plano cirúrgico não muda a conduta e leva a achados incidentais.",
+   "AINE contínuo e isolado não é tratamento da dor crônica e traz risco renal e cardiovascular, sobretudo em hipertenso."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 69
+  }
+ },
+ {
+  "pid": "m24071",
+  "q": "Um menino de 7 anos chega com ferimento corto-contuso profundo no pé esquerdo. Estava brincando em terreno baldio e se cortou com um pedaço de lata velha. A mãe trouxe a carteira de vacinação, que está atualizada e completa. Nossa conduta consiste em desinfectar o ferimento; lavar com soro fisiológico e substâncias oxidantes ou antissépticas e:",
+  "alts": [
+   "remover corpos estranhos e tecidos desvitalizados; e tetraciclina oral;",
+   "remover corpos estranhos e tecidos desvitalizados, usando água oxigenada;",
+   "remover corpos estranhos e tecidos desvitalizados, não usando água oxigenada;",
+   "remover corpos estranhos e tecidos desvitalizados; e vacina antitetânica como reforço pós-ferimento;",
+   "remover corpos estranhos e tecidos desvitalizados; e penicilina benzatina 1.200.000 UI intramuscular."
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Ferimento e profilaxia do tétano",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023 (capítulo de tétano acidental)",
+  "coment": "Para ferimento de alto risco, como corte profundo com lata em terreno baldio, o Guia de Vigilância em Saúde orienta limpar com soro fisiológico e substâncias oxidantes ou antissépticas, como água oxigenada, e desbridar, removendo corpos estranhos e tecidos desvitalizados, já que o Clostridium tetani é anaeróbio. Com esquema vacinal completo e último reforço aos 4 anos de idade, ou seja, há menos de 5 anos, não há indicação de reforço nem de imunoglobulina. Antibiótico profilático não previne o tétano, e tetraciclina é contraindicada abaixo de 8 anos.",
+  "porAlt": [
+   "Tetraciclina é contraindicada em menores de 8 anos, e antibiótico profilático não previne o tétano.",
+   "Correta: o Ministério da Saúde orienta desbridamento com remoção de corpos estranhos e tecidos desvitalizados, usando água oxigenada.",
+   "O oxigênio liberado pela água oxigenada é útil contra o anaeróbio, e o guia do Ministério da Saúde a inclui na limpeza.",
+   "Com esquema completo e último reforço há menos de 5 anos, o ferimento de alto risco não exige nova dose.",
+   "Penicilina benzatina não faz parte da profilaxia do tétano em ferimentos; a prevenção é limpeza e imunização."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 71
+  }
+ },
+ {
+  "pid": "m24072",
+  "q": "Um homem de 36 anos, vivendo com HIV, procura atendimento na unidade. Apesar de morar na cidade vizinha, ele quer fazer o controle na unidade, por questões de confidencialidade e porque fica hospedado na casa de um amigo que mora na área adscrita. Devemos explicar que:",
+  "alts": [
+   "ele deve fazer o controle ambulatorial no nível central devido à hierarquização da rede de serviços de saúde;",
+   "ele deve fazer o controle ambulatorial na sua cidade de origem, respeitando a integralidade de assistência;",
+   "ele deve fazer o controle ambulatorial na sua cidade de origem devido à regionalização da rede de serviços de saúde;",
+   "ele pode fazer o controle ambulatorial na unidade, respeitando a universalidade de acesso aos serviços de saúde;",
+   "ele deve fazer o controle ambulatorial na sua cidade de origem devido a questões de recursos financeiros municipais."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Universalidade e acesso na APS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Constituição Federal, 1988, art. 196; Lei 8.080/1990",
+  "coment": "A Constituição (art. 196) e a Lei 8.080/1990 garantem acesso universal e igualitário às ações e serviços de saúde, e a confidencialidade é especialmente relevante para pessoas vivendo com HIV. Ele está hospedado na área adscrita, e a escolha do serviço por questão de sigilo deve ser acolhida. Hierarquização e regionalização organizam a rede, mas não autorizam negar atendimento na atenção primária. Integralidade diz respeito ao conjunto de ações de cuidado, não ao município de residência, e restrição financeira municipal não é motivo legal para recusar acompanhamento.",
+  "porAlt": [
+   "Acompanhamento de HIV estável pode ser feito na atenção primária; hierarquização não obriga ir ao nível central.",
+   "Integralidade é a oferta do conjunto de ações de cuidado, não obrigação de ser atendido na cidade de origem.",
+   "Regionalização organiza a rede, mas não impede o atendimento de quem está na área e procura a unidade.",
+   "Correta: pela universalidade do SUS, ele pode ser acompanhado na unidade, e a escolha por confidencialidade deve ser respeitada.",
+   "Questão de recursos municipais não é motivo previsto em lei para negar acesso na atenção primária."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 72
+  }
+ },
+ {
+  "pid": "m24074",
+  "q": "Um homem de 41 anos, vivendo com HIV, faz controle com seu médico do plano de saúde. Mora na área adscrita. Procura a unidade porque quer se cadastrar para receber a medicação antiretroviral. Você orienta:",
+  "alts": [
+   "que ele passe a fazer o controle na unidade, para então cadastrá-lo;",
+   "que ele seja referenciado para o nível central, onde deverá se cadastrar para receber o antirretroviral;",
+   "que ele seja cadastrado na unidade e comece a receber o antirretroviral prescrito por seu médico do plano de saúde;",
+   "que ele seja referenciado para o nível central, onde deverá começar o seu controle e, depois, cadastrar-se para receber o antirretroviral;",
+   "que ele faça uma consulta com você, a fim de que você avalie o esquema antirretroviral proposto e depois o cadastre para que receba o antirretroviral. "
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Acesso a antirretroviral pelo SUS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 9.313/1996; Ministério da Saúde. PCDT para Manejo da Infecção pelo HIV em Adultos, 2024",
+  "coment": "A Lei 9.313/1996 garante a todas as pessoas vivendo com HIV a distribuição gratuita de antirretrovirais pelo SUS, sejam elas acompanhadas na rede pública ou na privada. A dispensação aceita prescrição de médico particular, registrada no sistema de controle logístico (Siclom) conforme o PCDT, sem exigir que o acompanhamento passe para o SUS nem nova consulta para validar o esquema. Pela universalidade, o usuário morador da área é cadastrado e passa a receber o medicamento. Exigir troca de médico ou avaliação prévia cria barreira de acesso sem base legal.",
+  "porAlt": [
+   "Não se exige que ele transfira o acompanhamento para o SUS; a prescrição do médico particular é aceita.",
+   "Não há necessidade de ir ao nível central para se cadastrar; o acesso deve ser facilitado na rede.",
+   "Correta: ele é cadastrado e recebe o antirretroviral prescrito pelo médico do plano, direito garantido pela Lei 9.313/1996.",
+   "Transferir o acompanhamento ao nível central impõe barreira desnecessária a quem já é acompanhado.",
+   "Condicionar a dispensação a nova consulta para revisar o esquema cria barreira de acesso sem respaldo normativo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 74
+  }
+ },
+ {
+  "pid": "m24075",
+  "q": "Um homem de 44 anos chega para se consultar na unidade de saúde. No balcão do atendimento, relata ter realizado exame periódico de saúde na empresa onde trabalha, quando solicitaram uma ultrassonografia abdominal total que evidenciou “cálculos na vesícula”. Ele procura a Clínica da Família, pois disseram que “é o caminho mais rápido para se conseguir uma cirurgia”. Você está atendendo os hipertensos que vieram para controle na tarde agendada. Nesse contexto, você:",
+  "alts": [
+   "orienta que ele procure a emergência de um grande hospital, caminho mais rápido para a cirurgia;",
+   "orienta que ele agende uma consulta na demanda espontânea, visto que não se trata de uma emergência;",
+   "preenche o formulário de referência com os dados relatados e o insere no sistema de regulação para uma consulta especializada, visto que ele já fora consultado por outro médico;",
+   "conversa com um antigo professor seu, que é chefe de um grande serviço de cirurgia do hospital universitário, e encaminha o homem direto para o ambulatório especializado;",
+   "explica que está atendendo os pacientes agendados, mas que ele será atendido no final do turno, para que você faça a entrevista médica e o exame físico e analise os exames complementares que ele traz consigo, entendendo melhor o seu caso. Se necessário, fará a referência no final."
+  ],
+  "gab": 4,
+  "tema": "aps",
+  "sub": "Acesso e coordenação do cuidado",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (Política Nacional de Atenção Básica)",
+  "coment": "A PNAB (2017) define a atenção primária como porta de entrada preferencial e coordenadora do cuidado, com acolhimento à demanda espontânea. O homem está assintomático com colelitíase, sem urgência, mas trouxe uma demanda que precisa ser avaliada antes de qualquer encaminhamento: história, exame físico e análise dos exames definem se há indicação cirúrgica e qual o encaminhamento adequado. Atendê-lo no fim do turno garante acesso sem desorganizar a agenda programada. Encaminhar sem avaliar, mandar para a emergência ou usar contato pessoal fere a regulação e a coordenação do cuidado.",
+  "porAlt": [
+   "Colelitíase assintomática não é emergência; mandá-lo ao pronto-socorro sobrecarrega a rede e burla a regulação.",
+   "Mandá-lo remarcar adia uma avaliação simples que pode ser feita no mesmo turno, criando barreira de acesso.",
+   "Encaminhar sem entrevista e exame físico abre mão da coordenação do cuidado; nem toda colelitíase assintomática tem indicação cirúrgica.",
+   "Usar contato pessoal para furar a fila fere a equidade e a regulação do acesso.",
+   "Correta: acolher e avaliar no mesmo turno permite decidir com critério se há indicação de referência, coordenando o cuidado."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 75
+  }
+ },
+ {
+  "pid": "m24076",
+  "q": "Uma jovem de 19 anos chega para se consultar pedindo um atestado para academia de musculação. Totalmente assintomática, sem qualquer histórico de doenças. Para essa solicitação, devemos:",
+  "alts": [
+   "realizar o exame físico e, se normal, dar o atestado. Desse modo, conseguimos reservar mais tempo para as outras pessoas agendadas e que podem estar com problemas sérios de saúde;",
+   "realizar entrevista focada no questionamento geral, com perguntas que permitam conhecer mais a pessoa e seu habitus, criando acolhimento e vínculo. Depois devem realizar o exame físico e, não havendo condições que impeçam, fornecer o atestado;",
+   "entrevistar, examinar e solicitar os exames complementares de rotina para dar o atestado para atividade física;",
+   "explicar, com respeito e sinceridade, que a unidade de saúde é para atender quem está doente e que ela procure outro local para o atestado;",
+   "explicar que existem grupos de atenção à saúde dos jovens na unidade e que só pode dar o atestado quando ela estiver cadastrada no grupo."
+  ],
+  "gab": 1,
+  "tema": "ferramentas",
+  "sub": "Atestado para atividade física",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Stewart M et al. Medicina centrada na pessoa: transformando o método clínico, 3ª ed., 2017; Gusso G, Lopes JMC, Dias LC. Tratado de Medicina de Família e Comunidade, 2ª ed., 2019",
+  "coment": "O pedido de atestado para academia é uma oportunidade de contato com uma jovem que raramente procura a unidade. A abordagem centrada na pessoa aproveita a consulta para conhecer a pessoa e seus hábitos (sono, alimentação, uso de substâncias, sexualidade, contracepção, saúde mental), criar vínculo e oferecer cuidados preventivos. Em pessoa jovem e assintomática, a avaliação para liberar atividade física se baseia em história e exame físico; exames complementares de rotina não estão indicados. Não havendo contraindicação, fornece-se o atestado, que faz parte da consulta.",
+  "porAlt": [
+   "Fazer só o exame físico desperdiça a oportunidade de vínculo e de cuidado preventivo com uma jovem que pouco frequenta a unidade.",
+   "Correta: a entrevista ampla cria vínculo e permite cuidado preventivo; sem impedimento ao exame, fornece-se o atestado.",
+   "Em jovem assintomática, exames de rotina não são indicados para liberar atividade física.",
+   "A atenção primária também cuida de pessoas saudáveis e da promoção da saúde; recusar fere o acesso.",
+   "Condicionar o atestado à participação em grupo cria barreira sem respaldo e desrespeita a autonomia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 76
+  }
+ },
+ {
+  "pid": "m24078",
+  "q": "Uma mulher de 40 anos precisa ser afastada do trabalho por motivo de doença sem nexo com o processo de trabalho. Ela é empregada doméstica e vai apresentar o atestado diretamente a seus patrões. O atestado deve conter:",
+  "alts": [
+   "apenas o tempo de afastamento;",
+   "o código internacional de doenças e o tempo de afastamento;",
+   "o nome da doença e o tempo de afastamento;",
+   "a descrição dos sintomas e o tempo do afastamento;",
+   "referência da mulher para um serviço de medicina do trabalho."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Conteúdo do atestado de afastamento",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Resolução CFM 2.381/2024 (normatiza a emissão de documentos médicos)",
+  "coment": "Pela Resolução CFM 2.381/2024, o atestado de afastamento é documento simplificado que deve conter a quantidade de dias de dispensa necessários para a recuperação (art. 4º, I). O diagnóstico, por extenso ou codificado (CID), só pode constar por justa causa, dever legal ou a pedido do próprio paciente, com essa concordância expressa no atestado e registrada no prontuário (art. 5º, parágrafos 3º e 4º). Para apresentar aos patrões, sem pedido da paciente, o atestado traz apenas o tempo de afastamento, preservando o sigilo. A doença não tem nexo com o trabalho, então não há motivo para encaminhar à medicina do trabalho.",
+  "porAlt": [
+   "Correta: o atestado de afastamento traz o tempo de dispensa; diagnóstico só entra a pedido expresso da paciente (Res. CFM 2.381/2024).",
+   "O CID só pode constar por justa causa, dever legal ou pedido expresso da paciente, o que não ocorreu.",
+   "O nome da doença também é diagnóstico e depende de autorização expressa da paciente.",
+   "Descrever sintomas expõe informação clínica ao empregador sem necessidade e sem autorização.",
+   "A doença não tem relação com o trabalho, então não há motivo para encaminhar à medicina do trabalho."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 78
+  }
+ },
+ {
+  "pid": "m24079",
+  "q": "Uma mulher de 27 anos começou a trabalhar no último ano e vem apresentando episódios de agravos na saúde que parecem estar relacionados à atividade laboral. Ela precisa ficar afastada por mais um período. Você então:",
+  "alts": [
+   "providencia o atestado de afastamento exclusivamente, contendo CID e tempo de afastamento;",
+   "providencia o atestado de afastamento exclusivamente, contendo o tempo de afastamento, sem CID;",
+   "providencia o atestado de afastamento exclusivamente, contendo CID, sem o tempo de afastamento;",
+   "providencia o atestado de afastamento e referencia ao serviço de saúde do trabalhador, para confirmar o nexo com a atividade laboral;",
+   "não providencia o atestado de afastamento e referencia ao serviço de saúde do trabalhador, para confirmar o nexo com a atividade laboral e emitir o atestado. "
+  ],
+  "gab": 3,
+  "tema": "trabalho",
+  "sub": "Suspeita de doença relacionada ao trabalho",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Lei 8.213/1991; Portaria GM/MS 1.999/2023 (Lista de Doenças Relacionadas ao Trabalho); Portaria GM/MS 2.728/2009 (RENAST)",
+  "coment": "Quando os agravos parecem relacionados à atividade laboral, o médico de família não pode se limitar ao atestado: precisa garantir o afastamento necessário agora e investigar o nexo causal com o trabalho, o que envolve o serviço de saúde do trabalhador (CEREST, na RENAST), a notificação dos agravos previstos e a orientação sobre a Comunicação de Acidente de Trabalho (Lei 8.213/1991). A Lista de Doenças Relacionadas ao Trabalho foi atualizada pela Portaria GM/MS 1.999/2023. Negar o atestado à espera do serviço especializado deixa a trabalhadora desprotegida.",
+  "porAlt": [
+   "Restringir-se ao atestado ignora a suspeita de nexo com o trabalho, que precisa ser investigada.",
+   "Mesmo sem CID, limitar-se ao atestado deixa de investigar a relação do adoecimento com o trabalho.",
+   "Atestado de afastamento precisa conter o tempo de dispensa, e a suspeita de nexo, que é o problema central, fica sem abordagem.",
+   "Correta: garante o afastamento necessário e referencia à saúde do trabalhador para investigar o nexo com a atividade laboral.",
+   "Negar o atestado deixa a trabalhadora sem proteção imediata; o médico assistente pode e deve atestar o afastamento."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 79
+  }
+ },
+ {
+  "pid": "m24080",
+  "q": "Senhor de 66 anos, aposentado, vem lhe pedir um atestado médico para apresentar ao setor de perícia solicitando isenção do imposto de renda. Ele está curado da neoplasia de cólon diagnosticada por você há 5 anos e que foi conduzida pelo especialista. Não há sinais de atividade da doença. Nesse contexto, você:",
+  "alts": [
+   "orienta que é desnecessário ele ir ao setor de perícia, pois a isenção é apenas para quem está na ativa;",
+   "orienta que é desnecessário ele ir ao setor de perícia, pois a isenção é apenas para quem tem neoplasia em atividade;",
+   "orienta que é desnecessário ele ir ao setor de perícia, pois o seu próprio atestado serve para a isenção;",
+   "emite o atestado com os dados completos, sem colocar a data e a descrição do laudo anatomopatológico e sem descrever que está sem sinais de atividade da doença;",
+   "emite o atestado com os dados completos, incluindo a data e a descrição do laudo anatomopatológico, complementando que o senhor está sem sinais de atividade da doença.       "
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Documento para isenção de IR por neoplasia",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 7.713/1988, art. 6º, XIV; Lei 9.250/1995, art. 30; Súmula 627 do STJ, 2018; Resolução CFM 2.381/2024",
+  "coment": "A Lei 7.713/1988 isenta do imposto de renda os proventos de aposentadoria de portadores de neoplasia maligna, e a Súmula 627 do STJ (2018) dispensa demonstrar sintomas atuais ou recidiva, de modo que o paciente curado mantém o direito. A isenção depende de laudo pericial de serviço médico oficial (Lei 9.250/1995, art. 30), por isso ele precisa ir à perícia. O médico assistente não preenche o laudo pericial (Resolução CFM 2.381/2024, art. 6º), mas fornece documento com os dados completos: diagnóstico, data e descrição do anatomopatológico e situação atual sem sinais de doença, que subsidiam o perito.",
+  "porAlt": [
+   "A isenção da Lei 7.713/1988 é justamente para proventos de aposentadoria, não para quem está na ativa.",
+   "A Súmula 627 do STJ dispensa a contemporaneidade dos sintomas e a recidiva; o paciente curado mantém o direito.",
+   "A lei exige laudo pericial de serviço médico oficial; o documento do médico assistente não substitui a perícia.",
+   "Omitir data e laudo anatomopatológico tira do perito a comprovação do diagnóstico, que é a base da isenção.",
+   "Correta: o documento completo, com data e descrição do anatomopatológico e a situação atual, subsidia a perícia oficial."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare24mfc",
+   "n": 80
+  }
+ }
+]

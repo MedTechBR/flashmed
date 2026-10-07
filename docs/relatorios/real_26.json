@@ -1,0 +1,31 @@
+{
+ "incluidas": 39,
+ "descartadas": [
+  {
+   "pid": "g25013",
+   "motivo": "nenhuma resposta defensável: pela Classificação Internacional de Segurança do Paciente (OMS) e pelo Documento de Referência do PNSP (MS/ANVISA, 2014), infusão de KCl iniciada e interrompida sem dano é incidente que ATINGIU o paciente sem dano ('incidente sem dano'), não near miss; além disso, 'quase-acidente' (gabarito) e 'quase-erro' são traduções do mesmo termo near miss, o que deixa duas alternativas equivalentes."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "g25001",
+   "nota": "Gabarito mantido por ser a única alternativa que manda vacinar já com 9 semanas (MS 2025: uma dose de covid-19 a cada gestação, em qualquer idade gestacional). O trecho 'podendo fazer o reforço após 6 meses' não faz parte do esquema atual da gestante; o comentário registra isso."
+  },
+  {
+   "pid": "g25016",
+   "nota": "Psicose puerperal: internação e antipsicótico corretos; a 'suspensão do aleitamento' é decisão do quadro agudo, não regra absoluta (vários antipsicóticos são compatíveis com amamentação). Mantida por ser a única alternativa adequada; comentário ressalva."
+  },
+  {
+   "pid": "g25008",
+   "nota": "Dengue grave na gestação: o MS recomenda estabilizar a mãe antes de qualquer decisão obstétrica e evitar intervenção na fase crítica; a antecipação do parto se justifica aqui pela vitalidade fetal comprometida (centralização e CTG sem reatividade), após estabilização. Demais alternativas claramente erradas."
+  },
+  {
+   "pid": "g25031",
+   "nota": "Há taquissistolia (5 contrações em 10 min); reanimação intrauterina com tocólise aguda é medida concomitante, mas traçado categoria III longe do expulsivo indica cesariana de emergência. Gabarito mantido."
+  },
+  {
+   "pid": "vários (g25005, g25006, g25007, g25008, g25011, g25016, g25019, g25020, g25023, g25026, g25033, g25040)",
+   "nota": "Não é gabarito: só correções de artefato de extração no enunciado, sem mudar conteúdo. Hífens perdidos na quebra de linha (préeclampsia, prénatal, recémnascido, maternoinfantil, ventilatóriodependente, antihipertensivo) e o glifo de grau da fonte Symbol (U+F0B0) trocado por °."
+  }
+ ]
+}

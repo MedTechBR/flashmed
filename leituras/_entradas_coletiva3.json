@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Saúde Coletiva e SUS",
+  "f": "politicas-nacionais-de-saude.html",
+  "tipo": "PNH, PNPS 2014, equidade e Rede Alyne 2024 · resumo de prova",
+  "area": "sus",
+  "min": 55,
+  "t": "Políticas nacionais de saúde",
+  "s": "Política Nacional de Humanização com acolhimento e classificação de risco, clínica ampliada e projeto terapêutico singular; Política Nacional de Promoção da Saúde redefinida em 2014; políticas de equidade, da mulher, do homem, da pessoa idosa e da pessoa com deficiência; Rede Alyne e redes temáticas, conferidas nas portarias do Ministério da Saúde."
+ },
+ {
+  "grupo": "Saúde Coletiva e SUS",
+  "f": "seguranca-do-paciente-e-qualidade.html",
+  "tipo": "Portaria 529 e RDC 36/2013, OMS · resumo de prova",
+  "area": "sus",
+  "min": 49,
+  "t": "Segurança do paciente e qualidade",
+  "s": "Programa Nacional de Segurança do Paciente e RDC 36/2013, classificação de incidentes da OMS, os seis protocolos básicos, cirurgia segura, notificação no Notivisa, cultura justa e análise de causa raiz, qualidade pela tríade de Donabedian e acreditação, pelas normas do Ministério da Saúde e da Anvisa."
+ },
+ {
+  "grupo": "Saúde Coletiva e SUS",
+  "f": "medicina-legal-essencial.html",
+  "tipo": "CPP, Código Penal e CTB (CONTRAN 2026) · resumo de prova",
+  "area": "etica",
+  "min": 52,
+  "t": "Medicina legal essencial",
+  "s": "Perícia e exame de corpo de delito, lesões corporais pelo Código Penal, instrumentos e ferimentos, arma de fogo, tanatologia e cronologia da morte, morte violenta e IML, violência sexual sem exigência de boletim de ocorrência, notificação de violência e embriaguez, pelo que o médico do pronto-socorro precisa saber e a prova cobra."
+ }
+]

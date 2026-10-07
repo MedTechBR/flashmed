@@ -1,0 +1,1546 @@
+[
+ {
+  "id": "en25_neo#1",
+  "q": "Lactente, quatro meses, é trazido à consulta pelo pai. Refere que a mãe está gravemente enferma, internada há uma semana e está alimentando seu filho com leite de vaca integral, “Longa vida”, que compra no supermercado. Durante a consulta, o pediatra deverá alertar para o fato de que o leite de vaca integral apresenta",
+  "alts": [
+   "teor aumentado de ácidos graxos saturados sendo o uso de composto lácteo a melhor opção.",
+   "concentração muito baixa de proteína, devendo ser adicionado um suplemento.",
+   "relação inadequada entre caseína e proteínas do soro, devendo ser feita troca para fórmula.",
+   "baixa biodisponibilidade de micronutrientes, excetuando-se o ferro, que deve ser suplementado.",
+   "teor adequado de vitaminas D e E e baixo teor de vitamina C, podendo ser usado suco."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 1
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#2",
+  "q": "Menina pré-escolar, quatro anos, apresenta recusa persistente a experimentar novos alimentos, aceitando apenas preparações específicas de poucos itens, principalmente líquidos e derivados lácteos. Mostra intensa irritação quando exposta a frutas e verduras, além de desconforto em manipular massas ou texturas pegajosas. Pais relatam conflitos frequentes nas refeições e preocupação com a limitação alimentar. Essa situação alimentar é corretamente caracterizada por",
+  "alts": [
+   "recusa alimentar seletiva relacionada a características sensoriais dos alimentos.",
+   "anorexia nervosa típica da infância, marcada por medo intenso de ganhar peso.",
+   "transtorno disfágico funcional, definido pela incapacidade de deglutir alimentos sólidos.",
+   "transtorno de ruminação, com regurgitação repetida de alimentos previamente ingeridos.",
+   "síndrome de alimentação noturna, caracterizada pela ingestão compulsiva durante a madrugada."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 2
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#3",
+  "q": "Dois irmãos foram levados ao ambulatório de pediatria por ganho de peso progressivo. O mais novo, de três anos, apresenta escore Z do índice de massa corporal (IMC) maior que +2 e até +3. O irmão mais velho, de seis anos, também apresenta escore Z nessa mesma faixa. Considerando a classificação segundo o escore Z (IMC), os irmãos de três e seis anos serão considerados, respectivamente, com",
+  "alts": [
+   "sobrepeso e obesidade.",
+   "obesidade e obesidade grave.",
+   "obesidade grave e sobrepeso.",
+   "risco de sobrepeso e sobrepeso.",
+   "obesidade grave a risco de sobrepeso."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 3
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#4",
+  "q": "Uma gestante, na consulta pré-natal com o pediatra, informa que após os seis meses de idade de seu filho pretende seguir um tipo de alimentação vegetariana ainda não definida, desejando obter informações. O pediatra deverá orientar a gestante para o fato de que a dieta",
+  "alts": [
+   "lacto-ovovegetariana pode ser deficiente em vitamina A e em vitamina D.",
+   "lactovegetariana apresenta carência de cálcio e bons níveis de vitamina B12.",
+   "ovovegetariana pode apresentar níveis adequados de ferro, mas não de cálcio.",
+   "vegana apresenta risco aumentado de deficiência em vitamina A e vitamina B12.",
+   "lacto-ovovegetariana apresenta níveis adequados de cálcio, mas baixos de vitamina A."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 4
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#5",
+  "q": "Pré-escolar, 4 anos, masculino, é levado ao pronto atendimento com história de febre diária nas últimas três semanas associada a palidez e cansaço aos pequenos esforços. A mãe relata dor intensa nos membros inferiores, que piora à noite e não melhora com analgésicos comuns, além de dificuldade para caminhar. Ao exame, observa-se equimoses em membros, hepatoesplenomegalia e linfonodos cervicais palpáveis. Não há queixas respiratórias ou neurológicas no momento. A principal hipótese diagnóstica é leucemia",
+  "alts": [
+   "prolinfocítica.",
+   "linfoide aguda.",
+   "mieloide aguda.",
+   "mieloide crônica.",
+   "mielomonocítica crônica."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 5
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#6",
+  "q": "Escolar, 5 anos, masculino, com diagnóstico de anemia falciforme, é levado à emergência com dor intensa iniciada há 12 horas em membros inferiores e abdome, sem trauma prévio. O início foi súbito, não melhorando com analgésicos comuns e impedindo de caminhar. Ao exame físico, apresenta choro constante à mobilização, palidez cutaneomucosa e temperatura corporal normal. Não há sinais de infecção aparente. Inquirido sobre a escala de manejo da dor, concluiu-se que ela é 6 (moderada). A conduta em relação ao controle da dor, no caso, deve ser a prescrição de",
+  "alts": [
+   "dipirona por via oral a cada seis horas.",
+   "ibuprofeno por via oral a cada oito horas.",
+   "paracetamol por via oral a cada quatro horas.",
+   "tramadol por via intravenosa a cada seis horas.",
+   "morfina por via subcutânea a cada quatro horas."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 6
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#7",
+  "q": "Lactente feminino, 5 meses, em aleitamento materno exclusivo, inicia há 24 horas cólicas contínuas, vômitos persistentes, evoluindo com letargia. Apresentou evacuações com sangue desde o início dos sintomas. Ao exame encontra-se irritada e desidratada, com massa palpável em abdome. Na suspeita diagnóstica de invaginação intestinal, o exame complementar com maior sensibilidade e especificidade a ser realizado inicialmente é a",
+  "alts": [
+   "ultrassonografia abdominal.",
+   "radiografia abdominal simples.",
+   "tomografia de abdome.",
+   "ressonância de abdome.",
+   "rotina de abdome agudo."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 7
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#8",
+  "q": "Menino, 2 anos, é levado ao atendimento médico de emergência por apresentar equimoses e hematomas pelo corpo, de início há uma semana, sem relação com trauma. Exame físico evidencia apenas hematomas e equimoses em tronco, abdome e membros. Hemograma demonstra trombocitopenia (plaquetas: 5.000/mm3) e demais parâmetros dentro da normalidade. A hipótese diagnóstica é trombocitopenia imune primária. Em relação à trombocitopenia imune primária na infância, é correto afirmar que",
+  "alts": [
+   "não é um diagnóstico de exclusão.",
+   "cursa com trompocitopenia e anemia.",
+   "é um distúrbio agudo, autolimitado e imunomediado.",
+   "a contagem de plaquetas fica entre 100.000 e 150.000/mm3.",
+   "tem alguma condição clínica associada que reduz as plaquetas."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 8
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#9",
+  "q": "Lactente de 18 meses, masculino, apresenta aumento do volume abdominal de início há aproximadamente um mês, irritabilidade e perda de peso. Ao exame físico encontra-se irritado, com massa abdominal palpável ocupando toda a metade inferior do abdome à direita. Tomografia computadorizada evidencia massa em suprarrenal direita com hemorragia e calcificação. A dosagem urinária de ácido homovanílico e ácido vanilmandélico encontram-se elevadas. A hipótese diagnóstica é",
+  "alts": [
+   "tumor de Wilms.",
+   "neuroblastoma.",
+   "rabdomiosarcoma.",
+   "neurofibroma.",
+   "linfoma."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 9
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#10",
+  "q": "Pré-escolar, masculino, 2 anos e meio, previamente hígido, apresenta palidez, fraqueza, dor abdominal e icterícia 48 horas após iniciar tratamento para infecção do trato urinário com nitrofurantoína. Hemograma evidencia anemia normocítica e normocrômica. Os reticulócitos e a desidrogenase láctica estão elevados. A hipótese diagnóstica, nesse caso, é",
+  "alts": [
+   "deficiência de glicose-6-fosfato desidrogenase.",
+   "anemia falciforme.",
+   "talassemia minor.",
+   "esferocitose hereditária.",
+   "traço falcêmico."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 10
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#11",
+  "q": "Escolar de 8 anos, menino, em tratamento de asma com beclometasona spray oral, na dose de 400 mcg ao dia há 3 meses, sem controle dos sintomas nas últimas 4 semanas. Faz uso da medicação com espaçador, tem boa adesão ao tratamento e a técnica inalatória está correta. Em relação à terapia farmacológica para a asma, a conduta nesse momento é",
+  "alts": [
+   "trocar o corticoide inalatório para associação de broncodilatador de longa ação e corticoide inalatório.",
+   "manter o corticoide inalatório e associar antileucotrieno.",
+   "manter o corticoide inalatório e associar antimuscarínico de longa duração.",
+   "manter o corticoide inalatório e associar imunobiológico de acordo com o fenótipo da asma.",
+   "manter o corticoide inalatório e associar broncodilatador de curta ação contínuo."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 11
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#12",
+  "q": "Escolar de 7 anos, menina, em tratamento profilático de asma com corticoide inalatório, chega à emergência com exacerbação da doença. É medicada com broncodilatador de curta ação, por via inalatória, de 20 em 20 minutos durante uma hora e corticoide sistêmico por via oral. Apresenta melhora e recebe alta hospitalar. A prescrição para o domicílio deverá ser feita com",
+  "alts": [
+   "broncodilatador inalatório de longa ação e corticoide inalatório.",
+   "broncodilatador inalatório de curta ação e anti-histamínico oral.",
+   "broncodilatador inalatório de curta ação e corticoide oral.",
+   "broncodilatador inalatório de curta ação.",
+   "antimuscarínico de longa duração e corticoide inalatório."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 12
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#13",
+  "q": "A urticaria é uma erupção cutânea transitória, pruriginosa, eritematosa e elevada, que pode se tornar tensa e dolorosa. As lesões podem coalescer e formar lesões polimórficas, que frequentemente desaparecem, reaparecendo em outros locais. Sobre a urticária aguda na infância, é correto afirmar que",
+  "alts": [
+   "o diagnóstico é estabelecido quando as lesões ocorrem na maioria dos dias da semana por mais de 6 semanas.",
+   "o papel de um alimento desencadeante não pode ser comprovado pela eliminação e provocação alimentar.",
+   "na ausência de informações que impliquem no alimento envolvido, os testes cutâneos para alimentos são úteis.",
+   "é frequentemente causada por uma reação alérgica não mediada por IgE.",
+   "as causas identificáveis mais comuns são infecções virais, medicamentos e alimentos."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 13
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#14",
+  "q": "Lactente de 1 ano, apresenta lesões cutâneas intensamente pruriginosas com pápulas eritematosas em face, couro cabeludo e superfícies extensoras de extremidades, de início há aproximadamente um mês. A lesão polpa região de fraldas. O prurido piora à noite e quando faz uso de leite de vaca. A hipótese diagnóstica para o caso é",
+  "alts": [
+   "dermatite atópica.",
+   "dermatite seborreica.",
+   "pitiríase versicolor.",
+   "psoríase.",
+   "pitiríase rósea."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 14
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#15",
+  "q": "Recém-nascido a termo apresenta, no segundo dia de vida, lesões papulares branco-amareladas, com erupção eritematosa circundante, dispersas em face, tronco e membros, poupando palmas e plantas. O restante do exame físico é normal. No caso, a principal hipótese diagnóstica é",
+  "alts": [
+   "miliária.",
+   "eritema tóxico.",
+   "herpes simplex.",
+   "candidíase.",
+   "melanose pustulosa."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 15
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#16",
+  "q": "Lactente de 20 dias apresenta lacrimejamento constante e secreção esbranquiçada no olho desde os primeiros dias de vida, sem sinais sistêmicos ou febre. A mãe relata que o quadro piora quando o bebê chora. Ao exame, há leve edema palpebral e refluxo de secreção à compressão do saco lacrimal direito. A principal hipótese diagnóstica sobre a origem dos sintomas é",
+  "alts": [
+   "obstrução pela presença de muco.",
+   "estenose por processo infeccioso local.",
+   "produção anômala de secreção serosa ocular.",
+   "formação de membrana impedindo a drenagem pelo ducto.",
+   "aumento da pressão no canal devido à má formação ocular."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 16
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#17",
+  "q": "Adolescente, sexo feminino, com quadro insidioso de dor e inchaço em joelhos, punhos e tornozelos, com rigidez matinal e limitação progressiva dos movimentos. Ao exame, observa-se simetria no acometimento articular e leve contratura em flexão dos dedos das mãos. Exames laboratoriais revelam elevação de velocidade de hemossedimentação (VHS) e proteína C reativa (PCR), com fator reumatoide positivo. Relata, ainda, fadiga e episódios de febre baixa nas últimas semanas. Considerando a principal hipótese diagnóstica e os biomarcadores a ela relacionados, é correto afirmar que",
+  "alts": [
+   "a presença de anticorpos antinucleares apresenta forte associação com sacroileíte.",
+   "a detecção do HLA-B27 afasta a possibilidade de envolvimento de espondiloartrites.",
+   "os valores de VHS e PCR são altos, mas não há aumento significativo de imunoglobulinas.",
+   "a detecção de fator antinuclear está relacionada à falha ao tratamento com imunossupressor.",
+   "a positividade do fator reumatoide se associa a maior risco de progressão com dano estrutural."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 17
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#18",
+  "q": "Escolar, nove anos, apresenta, há seis meses, movimentos repetitivos e abruptos da cabeça e emissão de sons guturais. Os episódios aumentam em situações de estresse, mas cessam durante o sono e não ocorrem enquanto ele joga videogame. Os pais relatam que ele consegue controlar os movimentos por curtos períodos. Baseado na principal hipótese diagnóstica, os sintomas motores, vocais e o tempo de duração deles são classificados, respectivamente, como",
+  "alts": [
+   "simples, complexo e crônico.",
+   "simples, simples e temporário.",
+   "complexo, complexo e crônico.",
+   "complexo, simples e temporário.",
+   "complexo, complexo e temporário."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 18
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#19",
+  "q": "Escolar, masculino, cinco anos, é trazido à consulta ambulatorial por apresentar micções muito frequentes durante o dia, chegando a urinar a cada 10 a 15 minutos, com início súbito. Os responsáveis negam dor, infecção urinária, escapes diurnos ou episódios noturnos. A criança já era desfraldada e os sintomas começaram pouco antes do início das aulas. Não há alterações ao exame físico. Sobre a principal hipótese diagnóstica, é correto afirmar que",
+  "alts": [
+   "está relacionada à incompetência da junção ureterovesical.",
+   "trata-se de um distúrbio funcional que acomete mais meninos que meninas.",
+   "em torno da metade dos casos observa-se a presença de enurese intermitente.",
+   "na maioria dos casos, um problema anatômico no trato urinário leva a esses sintomas.",
+   "é uma das causas de disfunção da bexiga que não está relacionada à constipação intestinal."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 19
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#20",
+  "q": "Lactente, 2 meses, em aleitamento materno exclusivo, é trazido à consulta de puericultura com história de esforço e choro intenso antes de evacuar, há cerca de duas semanas. Após o esforço, elimina fezes amolecidas sem sangue ou muco. As evacuações ocorrem diariamente, e está se alimentando bem, ganhando peso adequadamente. Exame físico sem alterações. A principal hipótese diagnóstica é",
+  "alts": [
+   "cólica.",
+   "disquezia.",
+   "constipação.",
+   "alergia alimentar.",
+   "refluxo gastroesofágico."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 20
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#21",
+  "q": "Lactente, 50 dias, é trazido ao ambulatório de puericultura por estar amarelado desde o quinto dia de vida. Nasceu a termo, parto normal, com peso adequado e usa leite materno exclusivo. Ao exame físico, bom ganho ponderal, icterícia, hipocolia e colúria, hepatomegalia de consistência firme às custas do lobo esquerdo proeminente. Exames laboratoriais mostram elevação de bilirrubina conjugada (>1 mg/dL) e a ultrassonografia abdominal revela vesícula biliar contraída e não visualização do ducto colédoco e sinal do “cordão triangular”. O passo seguinte em relação à confirmação da principal hipótese diagnóstica é realizar",
+  "alts": [
+   "elastografia hepática.",
+   "ressonância magnética.",
+   "cintilografia hepatobiliar.",
+   "colangiograma intraoperatório.",
+   "colangiopancreatografia endoscópica."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 21
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#22",
+  "q": "Adolescente, 17 anos, comparece com seu filho de 4 anos para avaliação devido a queixa da escola sobre comportamentos agressivos e dificuldade de interação com os colegas. A mãe relata que cria o filho sozinha, com pouco apoio familiar, vive em condição de vulnerabilidade social e enfrenta conflitos frequentes com a própria mãe. Refere dificuldade para estabelecer rotinas e sente-se sobrecarregada emocionalmente. O pai da criança não participa ativamente da criação. Considerando o contexto clínico e os determinantes sociais envolvidos, é correto afirmar que",
+  "alts": [
+   "a idade materna, isoladamente, foi demonstrada como o fator determinante dos problemas comportamentais dessas crianças.",
+   "a presença contínua e positiva do pai ao longo da vida da criança pode ter um efeito protetor parcial contra esse tipo de comportamento.",
+   "os conflitos com avós são comuns nas famílias com mães adolescentes parecendo estar desvinculado com essas alterações de comportamento.",
+   "a presença de mães adolescentes em todas as classes sociais sugere que a condição socioeconômica não explica essas alterações comportamentais.",
+   "o início precoce dessas alterações de comportamento aumenta a probabilidade de abandono precoce da escola, fato pouco comum em filhos de adolescentes."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 22
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#23",
+  "q": "Escolar, 8 anos, masculino, apresenta aumento de volume na parte posterior do joelho direito, percebido há cerca de duas semanas, sem história de trauma. Ao exame físico, nota-se massa firme, compressível, pouco dolorosa à palpação, localizada medialmente à fossa poplítea, mais evidente com o joelho em extensão. Radiografia do joelho não mostra alterações ósseas. Considerando a principal hipótese diagnóstica, o teste realizado durante o exame físico que auxilia no diagnóstico é a avaliação por meio da",
+  "alts": [
+   "ausculta.",
+   "rotação interna.",
+   "transiluminação.",
+   "marcha acelerada.",
+   "mobilidade passiva."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 23
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#24",
+  "q": "Lactente de 7 meses, previamente saudável, apresentou episódios de vômitos intensos cerca de duas horas após se alimentar com arroz há um mês, seguido de palidez cutânea, letargia, hipotonia, diarreia, hipotermia e leve distensão abdominal. Hoje, repetiu o alimento e novamente apresentou os mesmos sintomas. Não há febre, nem sangue nas fezes. Exame físico mostra criança prostrada, com perfusão periférica levemente reduzida e abdome levemente distendido, porém flácido. Tendo em conta a principal hipótese diagnóstica, o sintoma considerado como critério diagnóstico maior é",
+  "alts": [
+   "a palidez.",
+   "a letargia.",
+   "o vômito.",
+   "a diarreia.",
+   "a hipotermia."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 24
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#25",
+  "q": "Escolar, quatro anos, é trazido para atendimento no setor de emergência por apresentar febre, dor no ouvido direito e abaulamento retroauricular com vermelhidão e sensibilidade local há dois dias. Foi diagnosticada com infecção de ouvido na semana anterior, mas os sintomas persistiram apesar do uso de amoxicilina. Ao exame, nota-se discreta protrusão da orelha direita; restante do exame sem alterações. A conduta imediata baseada na principal hipótese diagnóstica é",
+  "alts": [
+   "internar, realizar exames laboratoriais, iniciar ampicilina + sulbactam via endovenosa.",
+   "trocar o antibiótico oral para amoxicilina + ácido clavulânico, retornando em dois dias.",
+   "realizar exames laboratoriais e de imagem e, se alterados, usar cefotaxima via venosa.",
+   "realizar ultrassom da região retroauricular para definir internação e antibiótico venoso.",
+   "internar, realizar tomografia de crânio, iniciar por via venosa amoxicilina e gentamicina."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 25
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#26",
+  "q": "Adolescente do sexo feminino é trazida à emergência com febre, artralgia em grandes articulações e cansaço aos esforços. Ao exame físico, apresenta sopro cardíaco (sem história prévia) e sinais inflamatórios em joelhos e tornozelos. Exames laboratoriais mostram PCR e VHS elevados, além de título aumentado de ASLO. Considerando os critérios revisados pela Organização Mundial da Saúde (OMS) em 2004, a categoria diagnóstica dessa adolescente é",
+  "alts": [
+   "primeiro episódio febre reumática.",
+   "artrite pós-estreptocócica sem critérios maiores.",
+   "cardiopatia reumática crônica com atividade inflamatória.",
+   "febre reumática recorrente sem cardite prévia documentada.",
+   "recorrência de febre reumática com cardite prévia estabelecida."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 26
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#27",
+  "q": "Recém-nascido do sexo masculino, com 3 dias de vida, nascido a termo (39 semanas), parto vaginal sem intercorrências, Apgar 8/9, peso adequado para a idade gestacional. Mãe saudável, sem histórico de infecções ou uso de medicações durante a gestação, realizou pré-natal completo e ultrassonografias, sem alterações estruturais cardíacas detectadas. Desde o nascimento, o RN apresenta cianose central persistente, não responsiva ao oxigênio suplementar por cateter nasal. Não há desconforto respiratório evidente. À ausculta cardíaca, nota-se sopro sistólico 2+/6+, audível no foco tricúspide. Pulmões com murmúrio vesicular presente e simétrico. A oximetria de pulso revela saturação pré-ductal 85% e pós-ductal de 84%. A gasometria arterial mostra acidose respiratória leve com hipoxemia. À exceção da cianose persistente, e do sopro já relatado não há outras alterações ao exame físico. Diante da suspeita de cardiopatia congênita cianótica, foi realizado ecocardiograma transtorácico que evidenciou transposição das grandes artérias (TGA), com septo interventricular íntegro e comunicação interatrial pequena. Com base no quadro clínico e nos achados ecocardiográficos, a conduta prioritária imediata é",
+  "alts": [
+   "indicar intubação e ventilação mecânica com FiO₂ 100%.",
+   "iniciar infusão de prostaglandina E1.",
+   "aguardar estabilidade clínica para cirurgia corretiva tardia.",
+   "administrar antibiótico de amplo espectro para sepse neonatal até elucidação completa.",
+   "solicitar angiotomografia de tórax."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 27
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#28",
+  "q": "Menino de 6 anos, previamente com desenvolvimento neuropsicomotor adequado, é trazido à consulta por regressão na linguagem expressiva há cerca de 4 meses. A mãe relata que ele, que já falava frases completas, passou a ter dificuldade crescente para formar palavras e responder comandos verbais, mesmo sem alterações auditivas aparentes. O comportamento tornou-se mais irritadiço, com períodos de desatenção, isolamento e episódios noturnos em que se debate na cama, com rigidez e salivação excessiva. O exame físico neurológico não apresenta déficits motores ou sensitivos, mas não executa comandos verbais simples nem emite frases coerentes. Teste de audiometria normal. Ressonância magnética de crânio sem alterações estruturais. EEG com padrão de descargas epileptiformes bilaterais, contínuas durante o sono, com predominância nas regiões temporais posteriores. Nesse caso, o diagnóstico mais provável é de",
+  "alts": [
+   "epilepsia rolândica benigna.",
+   "síndrome de Lennox-Gastaut.",
+   "epilepsia mioclônica juvenil.",
+   "síndrome de Landau-Kleffner.",
+   "encefalite autoimune."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 28
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#29",
+  "q": "Menina de 5 anos apresenta palidez importante, cansaço aos esforços e irritabilidade progressiva. Ao exame físico apresenta peso e estatura adequados para a idade, palidez mucosa +/4+, frequência cardíaca: 120 bpm, ausculta cardíaca com sopro sistólico 1+/6+ no foco pulmonar e não há linfadenomegalia ou visceromegalias. O hemograma revela: Hb 8,7 g/dL | Ht 26% | VCM 68 fL | CHCM 28 g/dL | RDW 18% | Leucócitos e plaquetas normais. Ferritina: 10 ng/mL. Ferro sérico: 25mcg/dL, TIBIC: 420mcg/dL, saturação de transferrina: 6%, o PCR está abaixo do limite de detecção. A principal suspeita diagnóstica é de",
+  "alts": [
+   "anemia ferropriva.",
+   "anemia de Fanconi.",
+   "talassemia beta maior.",
+   "leucemia linfoblástica aguda.",
+   "deficiência de vitamina B12."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 29
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#30",
+  "q": "Pré-escolar de 6 anos, com história prévia de asma, é levado ao pronto-socorro com dispneia progressiva, sibilância difusa, FR: 52 irpm, SatO₂: 89% em ar ambiente, batimento de asa do nariz e fala entrecortada. A mãe nega febre e rinorreia. Não há história de contato com indivíduos com infecção de vias aéreas. No manejo inicial são administradas duas doses de salbutamol inalatório com espaçador. Nesse caso, as seguintes medidas são preconizadas, à exceção de uma. Assinale-a.",
+  "alts": [
+   "Iniciar oxigenoterapia.",
+   "Repetir broncodilatadores em dose escalonada.",
+   "Administrar azitromicina oral.",
+   "Iniciar corticoterapia sistêmica.",
+   "Avaliar necessidade de internação."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 30
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#31",
+  "q": "Lactente de 7 meses, sexo feminino, apresenta febre há 3 dias, sem sinais localizatórios. Ao exame físico, mostra-se irritada, com temperatura de 38,9 C, sem alterações em vias aéreas ou na otoscopia. Urina coletada por sondagem revela leucócitos ++, nitrito positivo. A conduta inicial mais apropriada é",
+  "alts": [
+   "solicitar urocultura e aguardar ambulatorialmente o resultado para tratar.",
+   "tratar empiricamente com antibiótico oral e reavaliar em 72 h.",
+   "solicitar urocultura, internar e iniciar antibiótico parenteral imediatamente.",
+   "repetir exame de urina após 24h de observação.",
+   "iniciar antipirético e hidratação oral exclusiva."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 31
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#32",
+  "q": "Lactente de 5 meses, amamentado exclusivamente com fórmula, apresenta fezes com muco e sangue há duas semanas. Boa aceitação alimentar, sem vômitos, ganho ponderal adequado. Mãe relata história de rinite alérgica. O diagnóstico mais provável é de",
+  "alts": [
+   "gastroenterite bacteriana.",
+   "alergia à proteína do leite de vaca (APLV) não-IgE mediada.",
+   "invaginação intestinal.",
+   "colite ulcerativa.",
+   "constipação com fissura anal."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 32
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#33",
+  "q": "Escolar de 9 anos apresenta febre há 5 dias, artrite em grandes articulações de caráter migratório e lesões eritematosas em tronco. Exame físico: sopro sistólico em foco mitral. ASLO aumentado. O diagnóstico mais provável é",
+  "alts": [
+   "lúpus eritematoso sistêmico.",
+   "artrite idiopática juvenil.",
+   "artrite séptica.",
+   "doença de Lyme.",
+   "febre reumática."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 33
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#34",
+  "q": "Recém-nascido com 4 dias de vida apresenta vômitos em jato, sucção pobre e letargia. Exame: desidratado, fontanela afundada. Glicemia 28 mg/dL, sódio 128 mEq/L, potássio 6,2 mEq/L. A hipótese diagnóstica a ser considerada com prioridade é",
+  "alts": [
+   "hipoglicemia por infecção neonatal.",
+   "hiperplasia adrenal congênita.",
+   "hipotiroidismo congênito.",
+   "erros inatos do metabolismo.",
+   "insuficiência hepática neonatal."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 34
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#35",
+  "q": "Adolescente de 14 anos comparece à consulta desacompanhado, referindo desejo de iniciar acompanhamento para orientação sobre saúde sexual e contracepção. Relata já ter iniciado vida sexual e não deseja que os pais sejam informados. Segundo o ECA e as normas éticas, a conduta mais adequada para o caso é",
+  "alts": [
+   "exigir presença dos pais para autorizar atendimento.",
+   "registrar a consulta, mas comunicar os responsáveis.",
+   "garantir sigilo e realizar atendimento conforme solicitado.",
+   "encaminhar o adolescente ao Conselho Tutelar.",
+   "notificar o Ministério Público por risco social."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 35
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#37",
+  "q": "Lactente de 11 meses, previamente hígido, está com vacinação atualizada e irá viajar para área de risco de febre amarela. A mãe deseja saber se ele pode ser vacinado. A recomendação atual, segundo o PNI e a SBP, é",
+  "alts": [
+   "administrar a vacina com pelo menos 10 dias antes da viagem com reforço aos 4 anos.",
+   "não vacinar, pois a vacina é contraindicada em menores de 12 meses e adotar medidas preventivas sem vacinação.",
+   "aplicar a vacina da dengue pela possibilidade de fazer proteção cruzada.",
+   "aplicar a vacina e repetir aos 12 meses.",
+   "administrar apenas com laudo médico e termo de consentimento formal."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 37
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#38",
+  "q": "Recém-nascida do sexo feminino, nascida de parto vaginal com 38 semanas de gestação, apresenta peso ao nascer de 2.200 g. A mãe tem 37 anos e realizou pré-natal com ultrassonografia morfológica alterada, mas não fez cariótipo fetal. Ao exame físico, nota-se presença de microcefalia, fenda labial bilateral, polidactilia pós-axial em ambas as mãos, hipotonia generalizada e sopro cardíaco holossistólico audível em borda esternal esquerda. A ultrassonografia transfontanela revelou holoprosencefalia, e o ecocardiograma evidenciou comunicação interventricular ampla. Assinale a opção que apresenta a principal hipótese diagnóstica e a conduta inicial mais adequada para esse caso.",
+  "alts": [
+   "Síndrome de Edwards – confirmar com cariótipo e encaminhar para cirurgia cardíaca precoce.",
+   "Síndrome de Down – iniciar estimulação precoce e investigação cardiológica.",
+   "Síndrome de Turner – dosar hormônios tireoidianos e iniciar estrógenos na puberdade.",
+   "Síndrome de Patau – solicitar cariótipo e instituir cuidados paliativos com foco em conforto.",
+   "Síndrome de Noonan – investigação genética e correção cirúrgica das más-formações."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 38
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#39",
+  "q": "Lactente, 10 meses de idade, é trazido ao pronto-socorro com história de convulsão na manhã do atendimento. A mãe relata história de febre há cerca de 2 dias (até 39 C), associada a irritabilidade e redução do apetite. Fora avaliado no dia anterior, recebendo diagnóstico de otite média aguda à direita e iniciando amoxicilina (está em uso há cerca de 24 horas) e antipiréticos. A crise convulsiva desta manhã fora em vigência de febre (38,5 oC) de forma tônico-clônico generalizada, com cianose labial transitória durando cerca de 4 minutos. Não há história prévia de convulsões e mãe nega trauma. A gestação fora sem intercorrências, o desenvolvimento neuropsicomotor está adequado para a idade, sem doenças crônicas conhecidas. Vacinação: esquema vacinal incompleto – recebeu as vacinas do 2º e 4º mês de vida, porém não recebeu as doses previstas para 6 meses (incluindo Haemophilus influenzae tipo b e pneumococo). Não há história familiar de epilepsia, embora o pai relate ter tido convulsões febris na infância. Ao exame a criança está com o estado geral regular, chorosa e irritada alternando com sonolência leve responsiva a estímulos. Temperatura: 38,3 C; FC: 150 bpm; FR: 34 irpm; SpO₂: 97% em ar ambiente. À exceção da membrana timpânica direita hiperemiada e abaulada, com nível hidroaéreo visível, compatível com otite média purulenta, não há outras alterações semiológicas incluindo o exame neurológico que é compatível com a idade. Você realiza exames laboratoriais iniciais cujos resultados são: hemograma: Hb 11,5 g/dL; leucócitos 15.800/mm³ (neutrófilos 72%, bastões 5%, linfócitos 20%, monócitos 3%); plaquetas 320.000/mm³ – leucocitose com neutrofilia e discreto desvio à esquerda. Proteína C-reativa (PCR): 8,5 mg/dL (VN < 1,0); Glicemia à admissão: 92 mg/dL. O EAS (urina tipo 1), o Raio X de tórax, os eletrólitos séricos e escórias renais são normais. A conduta mais adequada neste momento, entre as listadas, é",
+  "alts": [
+   "realizar punção lombar e iniciar antibioticoterapia empírica adequada se necessário.",
+   "iniciar medicação anticonvulsivante profilática de longa duração (como fenobarbital), mantendo também antipiréticos agressivamente a cada 4-6 horas.",
+   "solicitar eletroencefalograma (EEG) imediato e encaminhar para avaliação com neurologista pediátrico, devido ao risco de epilepsia após a crise convulsiva febril.",
+   "acompanhar ambulatorialmente sem investigar de forma invasiva, por se tratar de uma convulsão febril simples; orientar medidas antipiréticas e observar evolução, com retorno em caso de nova convulsão.",
+   "realizar neuroimagem cerebral (TC de crânio) imediatamente, para descartar lesão estrutural intracraniana ou outras causas neurológicas."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 39
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#40",
+  "q": "Pré-escolar, quatro anos, feminino, apresenta história de dois dias de febre alta, ardência para urinar e aumento da frequência urinária. Exame de urina mostrou leucocitúria e urocultura confirma crescimento de mais de 100.000 UFC/mL de uma única espécie bacteriana. Foi terminado o tratamento com antibióticos e, no momento, o pré-escolar retornou ao ambulatório sem queixas e com exame físico normal. A investigação diagnóstica por imagem deve ser iniciada por",
+  "alts": [
+   "ultrassonografia.",
+   "cintilografia renal.",
+   "urografia excretora.",
+   "ressonância magnética.",
+   "uretrocistografia miccional."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 40
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_neo#41",
+  "q": "Escolar, cinco anos, apresenta rigidez muscular em seu lado esquerdo, com dificuldade em controlar os movimentos das mãos e pés, dificuldade em andar (pé direito ligeiramente levantado) e algumas dificuldades de fala. Nasceu prematuro, com 32 semanas de gestação, com baixo peso ao nascer. Aos 6 meses, seus pais notaram atrasos no desenvolvimento motor, como dificuldade de sentar-se e rolar. Sobre o tratamento da principal hipótese diagnóstica, é correto afirmar que",
+  "alts": [
+   "a toxina botulínica deve ser considerada mesmo quando os prejuízos funcionais da espasticidade forem pouco significativos.",
+   "a combinação de toxina botulínica com medicamentos antiespasmódicos tem eficácia duvidosa, devendo ser evitada.",
+   "os antiespasmódicos são eficientes, mas o uso contínuo é contraindicado, uma vez que seus efeitos adversos são comuns.",
+   "os bloqueadores periféricos de cálcio causam mais sedação do que outros agentes de ação central, o que impede o uso em crianças.",
+   "radiografias da coluna devem ser realizadas após a rizotomia dorsal seletiva visando monitorar a presença de deformidades."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 41
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#42",
+  "q": "Lactente, 18 meses, é levado à consulta devido a arqueamento das pernas, observado pelos pais desde que começou a andar. A criança apresenta crescimento e desenvolvimento adequados para a idade, sem histórico de trauma ou infecções, e sem dor. Ao exame físico, há deformidade bilateral simétrica em membros inferiores. A seguinte orientação deve então ser dada aos responsáveis:",
+  "alts": [
+   "devido a idade atual do lactente, alguns exames têm de ser realizados, sendo mandatória a tomografia dos membros inferiores.",
+   "tal angulação nessa idade já não é mais esperada e, portanto, será necessária a intervenção, por um curto período, com o uso de palmilhas.",
+   "a consulta a um ortopedista pediátrico deve ser feita o mais breve possível, pois nessa idade pode haver necessidade de intervenção cirúrgica.",
+   "o lactente deverá ser observado, pois até o terceiro ano é esperada a inversão do alinhamento, com os joelhos se aproximando e os tornozelos se afastando.",
+   "deve ser iniciada imediatamente a correção dos níveis de cálcio e vitamina D já que, nessa idade, a deficiência é muito comum e leva a esse acometimento."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 42
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#43",
+  "q": "Escolar, seis anos, é trazida ao ambulatório de pediatria com história de coceira intensa na região anal, à noite, causando sono agitado e irritabilidade. Ela não apresenta febre, dor abdominal ou alterações intestinais. Os responsáveis negam vermes visíveis nas fezes, mas relatam que a criança frequentemente leva as mãos à região perianal durante o sono. O irmão, que dorme na mesma cama várias noites na semana, há um dia vem apresentando os mesmos sintomas. Ao exame físico, foram observadas lesões cutâneas locais. Considerando a principal hipótese diagnóstica, o habitat natural típico do agente etiológico causador do desconforto é a região do",
+  "alts": [
+   "sigmoide e do reto.",
+   "jejuno terminal e do íleo.",
+   "ceco e do apêndice cecal.",
+   "duodeno e do jejuno proximal.",
+   "colón transverso e do descendente."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 43
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#44",
+  "q": "Lactente, 30 dias, é avaliado por apresentar ruído inspiratório intermitente desde os primeiros dias de vida, mais perceptível durante o choro e as mamadas. O som é mais agudo quando o bebê está agitado, deitado de barriga para cima, melhorando quando é colocado de bruços, estando presente até mesmo em repouso. Não há cianose ou pausas respiratórias, dificuldade alimentar ou disfagia. Considerando a principal hipótese diagnóstica, o diagnóstico poderá ser confirmado por",
+  "alts": [
+   "broncoscopia.",
+   "deglutograma.",
+   "raio X contrastado do trato digestivo alto.",
+   "radiografias das vias aéreas superiores.",
+   "laringoscopia flexível ambulatorial em vigília."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 44
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#45",
+  "q": "Pré-escolar, quatro anos, é trazida ao ambulatório de pediatria com história de dor abdominal recorrente e episódios de evacuação a cada 5 dias, com fezes volumosas e endurecidas. Os pais relatam que a criança demonstra medo de evacuar, frequentemente se encolhendo ou cruzando as pernas quando sente vontade; ao menos uma vez ao dia é percebido algum resíduo de fezes na roupa íntima. O início ocorreu após o desfralde, e desde então a criança evita ir ao banheiro. Ao exame físico, o abdome está distendido, com massa palpável em quadrante inferior esquerdo. Nesse caso, a conduta imediata é",
+  "alts": [
+   "realizar radiografia de abdome para diagnosticar fecaloma, iniciando após, desimpactação com clister glicerinado durante 5 a 7 dias.",
+   "contatar o cirurgião pediátrico objetivando a remoção manual sob anestesia e, após o procedimento, iniciar lactulose ou polietilenoglicol.",
+   "orientar treino de toalete com suporte adequado para os pés e iniciar lactulose, sem necessidade imediata de desimpactação.",
+   "indicar o acompanhamento com psiquiatra e psicoterapia e fazer desimpactação com óleo mineral em dose mais elevada por 10 a 15 dias.",
+   "colher anamnese alimentar rigorosa, aferindo o consumo de fibras e água, e realizar desimpactação oral com polietilenoglicol por 3 a 5 dias."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 45
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#46",
+  "q": "Em consulta de puericultura de um pré-escolar de três anos, a mãe refere que seu filho tem estrabismo. O exame físico está normal, porém o pediatra sugere realizar um teste para dirimir a dúvida. A técnica correta para a realização desse teste exige que a criança",
+  "alts": [
+   "fixe os olhos na fonte de luz.",
+   "acompanhe o deslocamento da luz.",
+   "mova a cabeça lateralmente durante o teste.",
+   "desvie o olhar para um objeto próximo ao rosto.",
+   "mantenha os olhos fechados antes da exposição à luz."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 46
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#47",
+  "q": "Adolescente, 11 anos, apresenta atraso no desenvolvimento neuropsicomotor e dificuldade alimentar progressiva, sendo a ingestão insuficiente para manter crescimento adequado. Há perda de peso nas últimas semanas. O adolescente permanece longos períodos com o alimento na boca, apresenta engasgos frequentes com saliva e alimentos, e a alimentação oral ultrapassa três horas por dia. Nesse caso, a alimentação desse adolescente deve ser feita por meio de",
+  "alts": [
+   "sonda enteral, pois ela é segura e pode ser usada por longos períodos.",
+   "alimentação por via oral, intensificando a estimulação fonoaudiológica.",
+   "gastrostomia cirúrgica, já que a alteração de base é a disfagia orofaríngea.",
+   "gastrostomia endoscópica para reduzir o tempo gasto com a alimentação.",
+   "sonda gástrica, pois é facilmente removível e estimula o esvaziamento gástrico."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 47
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#48",
+  "q": "Escolar, masculino, cinco anos, previamente saudável, apresenta início súbito de dor intensa em região inguinal direita, com irradiação para coxa e joelho, dois dias após quadro de infecção respiratória alta. A dor piora com movimentos e o paciente se recusa a deambular. Não há febre, e os exames laboratoriais mostram leucograma e velocidade de hemossedimentação (VHS) normais. Ultrassonografia evidencia aumento do espaço articular do quadril direito por provável derrame articular. Considerando a principal hipótese diagnóstica, a conduta imediata é o uso de",
+  "alts": [
+   "corticosteroide.",
+   "imunossupressor.",
+   "antibiótico por via endovenosa.",
+   "anti-inflamatório não esteroide.",
+   "antibiótico por via intramuscular."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 48
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#49",
+  "q": "Em consulta de rotina, o pediatra encontra dificuldade para exposição da glande, sem sinais de inflamação. Os responsáveis negam dor, infecção ou sangramento local, mas relatam que o prepúcio permanece estreito desde o nascimento. Em casos como esse, o tratamento cirúrgico é preferencial quando ocorre",
+  "alts": [
+   "bexiga prepucial.",
+   "cisto de esmegma.",
+   "infecção do trato urinário.",
+   "balanopostite de repetição.",
+   "presença de anel fimótico até 3 anos."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 49
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#50",
+  "q": "Adolescente, previamente saudável, é levado à emergência com dor abdominal em região epigástrica, associada a náuseas e vômitos há dois dias. Ao exame, apresenta dor à palpação epigástrica, sem sinais de irritação peritoneal. Exames laboratoriais revelam níveis de amilase e lipase séricas acima de três vezes o limite superior da normalidade. Ultrassonografia abdominal mostra aumento do volume pancreático e alteração da ecogenicidade. Não há disfunção de órgãos ou complicações locais. Considerando a principal hipótese diagnóstica, a conduta em relação à alimentação é",
+  "alts": [
+   "manter jejum por no mínimo 5 dias para evitar sobrecarga pancreática.",
+   "introduzir nutrição parenteral precoce para prevenir desnutrição e complicações.",
+   "retornar à alimentação oral após a diminuição importante da dor, evitando o íleo adinâmico.",
+   "adiar a alimentação enteral até a completa normalização da lipase, diminuindo a gastroparesia.",
+   "iniciar nutrição oral após 48 horas do início da doença para diminuir o risco de disfunção orgânica."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 50
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#51",
+  "q": "Escolar, sete anos, é trazido para consulta de puericultura e seu responsável apresenta um exame de impedanciometria convencional (de baixa frequência) que foi solicitado por otorrinolaringologista devido ao fato de a criança apresentar roncos noturnos e respiração predominantemente pela boca. O resultado esperado, nesse contexto clínico, é uma curva do tipo",
+  "alts": [
+   "A, sem relação entre o sintoma e o exame solicitado.",
+   "B, tendo valor preditivo para efusão de orelha média.",
+   "A, indicando haver pressão negativa na orelha média.",
+   "C, mas esse exame tem baixa sensibilidade nessa idade.",
+   "B, demonstrando que a pressão é igual entre as orelhas."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 51
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#52",
+  "q": "Escolar, cinco anos, é levado à emergência com história de diarreia há dois dias, cinco episódios nas últimas 24 horas, sendo os dois mais recentes com sangue e muco. Hoje ele apresenta febre alta, dor abdominal e dor ao evacuar. Ao exame, hidratado, com queda do estado geral, olhos normais e turgor preservado. Nega doenças anteriores. Segundo o Ministério da Saúde do Brasil, o antimicrobiano de escolha a ser usado é",
+  "alts": [
+   "a azitromicina.",
+   "a nitazoxanida.",
+   "o ciprofloxacino.",
+   "a penicilina benzatina.",
+   "amoxicilina + clavulanato."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 52
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#53",
+  "q": "Adolescente, 13 anos, praticante regular de esportes, é trazido à consulta por apresentar dor anterior no joelho direito há algumas semanas, sem história de trauma agudo. Refere piora da dor durante atividades físicas e, mais recentemente, mesmo em repouso. Ao exame, há sensibilidade e aumento da proeminência no tubérculo tibial, sem derrame articular. A conduta imediata é",
+  "alts": [
+   "uso de ondas de choque.",
+   "intervenção cirúrgica.",
+   "aplicação local de gelo.",
+   "imobilização com gesso.",
+   "infiltração com corticoide."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 53
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#54",
+  "q": "Adolescente, 10 anos, é trazido à consulta por apresentar \"caroço\" na pálpebra superior direita há cerca de duas semanas. A lesão não é dolorosa, mas permanece do mesmo tamanho sem causar desconforto. Já ocorreram anteriormente episódios semelhantes com resolução espontânea. Ao exame, observa-se nódulo firme, indolor, não eritematoso, localizado na margem tarsal da pálpebra superior direita, sem sinais inflamatórios. Considerando a principal hipótese diagnóstica, o tratamento é",
+  "alts": [
+   "eritromicina ou azitromicina por via oral.",
+   "prescrição de colírio com anti-histamínico.",
+   "drenagem cirúrgica caso apresente distorção da visão.",
+   "aplicação de pomada de corticosteroides sobre a lesão.",
+   "uso de compressas quentes o máximo de tempo possível."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 54
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#55",
+  "q": "Recém-nascida do sexo feminino, nascida a termo, parto vaginal, peso ao nascimento de 3.350 g, sem intercorrências durante a gestação ou parto. Apgar 8/9. No exame físico de rotina realizado nas primeiras 24 horas de vida, o pediatra observa assimetria de pregas cutâneas nos membros inferiores, encurtamento aparente de membro inferior esquerdo e limitação à abdução da coxa esquerda. Realiza a manobra de Ortolani e sente um ‘clunk’ positivo no quadril esquerdo. O quadril direito não apresenta alterações ao exame físico. A conduta mais indicada nesse caso é",
+  "alts": [
+   "observar e reavaliar em 1 mês, pois os sinais clínicos são comuns e autolimitados nos primeiros dias de vida.",
+   "agendar avaliação com ortopedista para 4 meses de idade, quando será possível confirmar o diagnóstico.",
+   "iniciar uso de órtese nas primeiras duas semanas a fim de assegurar sucesso terapêutico.",
+   "solicitar radiografia de bacia em AP.",
+   "considerar displasia apenas com sinais bilaterais."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 55
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#56",
+  "q": "Menino de 6 anos, previamente hígido, é trazido ao pronto atendimento com lesões cutâneas pruriginosas no abdome, coxas e membros superiores há 5 dias. As lesões iniciaram como pápulas eritematosas que evoluíram para vesículas agrupadas com base eritematosa, com posterior formação de crostas melicéricas. Não há febre ou outros sintomas sistêmicos. A mãe relata que a criança frequenta escola e recentemente teve contato com um primo que apresentou lesões semelhantes. Ao exame físico, observam-se múltiplas lesões crostosas com áreas de exsudação na região periumbilical e membros superiores, além de algumas vesículas íntegras e pústulas em estágio inicial. Não há sinais de sistêmicos. Não se notam linfadenomegalia, lesões orais ou mucosas. O diagnóstico mais provável e a conduta inicial recomendada são",
+  "alts": [
+   "Varicela e iniciar aciclovir oral e isolamento domiciliar por até 7 dias.",
+   "Escabiose com sobreinfecção bacteriana e prescrever ivermectina oral e antibiótico tópico.",
+   "Dermatite atópica com liquenificação e orientar cuidados com emolientes e iniciar corticosteroide tópico.",
+   "Eczema herpético e encaminhar para hospitalização e iniciar aciclovir intravenoso.",
+   "Impetigo e iniciar antibioticoterapia oral e reforçar medidas de higiene."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 56
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#57",
+  "q": "Lactente do sexo masculino, 6 meses de idade, sem história de internações prévias, é trazido à consulta por apresentar diarreia crônica com fezes volumosas, amareladas, fétidas e oleosas desde os 3 meses de vida. A mãe relata que o bebê tem dificuldade para ganhar peso, apesar de se alimentar bem. Exame físico: paciente ativo, com peso e estatura abaixo do percentil 3 para a idade, presença de baqueteamento digital e leve distensão abdominal. Não há alterações respiratórias evidentes no momento da consulta. Foi realizado teste do pezinho ampliado, com suspeita de alteração metabólica, ainda sem confirmação diagnóstica. O próximo passo mais apropriado na investigação diagnóstica é",
+  "alts": [
+   "solicitar coprocultura e iniciar antibioticoterapia empírica.",
+   "iniciar dieta isenta de lactose e solicitar teste de hidrogênio expirado.",
+   "solicitar dosagem de tripsina imunorreativa e teste do suor.",
+   "realizar teste genético para intolerância à frutose e orientar dieta restritiva.",
+   "prescrever enzimas pancreáticas e avaliar resposta clínica antes de investigação adicional."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 57
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#58",
+  "q": "Lactente do sexo masculino, 7 meses de idade, previamente hígido, é trazido à emergência com história de início súbito de episódios de choro intenso, acompanhado de flexão das pernas contra o abdome, intercalados com períodos de aparente bem‑estar. Nas últimas 6 horas evoluiu com vômitos biliosos e eliminação de fezes com muco-sanguinolentas. Ao exame físico: irritado, pálido, frequência cardíaca 168 bpm, pressão arterial 90/55 mmHg, temperatura 37,4 C. Abdome discretamente distendido; à palpação, nota‑se massa alongada e firme no hipocôndrio direito. Sem sinais de peritonite. De imediato, você solicita dois acessos venosos para iniciar a reposição volêmica. Considerando a principal hipótese diagnóstica, o seguinte exame deve ser solicitado como próximo passo para confirmar o diagnóstico:",
+  "alts": [
+   "radiografia abdominal em decúbito dorsal e ortostase.",
+   "ultrassonografia abdominal com Doppler colorido.",
+   "radiografia do tórax em PA e perfil direito.",
+   "tomografia computadorizada de abdome com contraste intravenoso.",
+   "cintilografia com tecnécio‑99m (pesquisa de mucosa ectópica)."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 58
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#59",
+  "q": "Paciente de 9 anos, cursando o 3º ano do ensino fundamental, é trazido pela mãe por apresentar, há cerca de 2 anos, comportamento cada vez mais desafiador e conflituoso em casa e na escola. Relatos incluem discussões frequentes com adultos, recusa em obedecer regras, irritabilidade, e tendência a culpar os outros por seus próprios erros. Na escola, o paciente costuma contestar professores e provocar colegas, sem, contudo, envolver‑se em agressões físicas graves ou destruição de propriedade. Os episódios são diários e prejudicam muito a dinâmica familiar e a acadêmica. Não há evidência de crises de raiva explosiva acompanhadas de agressão física nem de sintomas persistentes de humor deprimido ou eufórico. Questionado sobre o relacionamento com os irmãos, a mãe refere discussões verbais, mas sem agressão física. Não há histórico de uso de substâncias, maltrato ou doença crônica. Ao exame não se notam anormalidades físicas, neurológicas ou cognitivas. Os marcos neuropsicomotores do menino estão dentro dos limites de normalidade. Com base nesses achados, dos diagnósticos a seguir, o mais provável é",
+  "alts": [
+   "Transtorno de Conduta.",
+   "Transtorno de Déficit de Atenção/Hiperatividade (TDAH) – subtipo combinado.",
+   "Transtorno Opositor Desafiante (TOD).",
+   "Transtorno Disruptivo da Desregulação do Humor.",
+   "Transtorno do Espectro Autista (TEA) – nível 1."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 59
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_neo#60",
+  "q": "Paciente do sexo masculino, 10 anos, portador de leucemia linfoblástica aguda em indução (dia 14 de quimioterapia), com neutropenia absoluta (< 500 cél/mm³) com cateter venoso central tipo Port‑a‑Cath. É atendido na emergência com febre de 39,2 C, prostração progressiva e extremidades frias há 3 horas. Na triagem apresenta: PA 78/45 mmHg (percentil < 5 para a idade), FC 152 bpm, FR 32 ipm, SatO₂ 93 % em ar ambiente, tempo de enchimento capilar 5 s, pulsos periféricos filiformes. Diurese das últimas 6 h: 0,3 mL/kg/h. Ausculta cardíaca e pulmonar sem alterações. Abdome sem visceromegalias. Pele sem exantemas visíveis. Exames iniciais: lactato sérico 4,2 mmol/L, leucócitos totais 1.500 cél/mm³ com 4 % neutrófilos, hematócrito 28 %, plaquetas 48.000/mm³, PCR 10 mg/dL. Glicemia 84 mg/dL. Cateter aparentemente pérvio, sem sinais flogísticos cutâneos. Equipe de enfermagem já obteve acesso venoso periférico calibre 20 G bilateralmente. Diante do quadro descrito, das seguintes condutas, assinale a que representa o manejo inicial mais adequado ainda na primeira hora de atendimento (terapia de “hora de ouro”).",
+  "alts": [
+   "Administrar rapidamente bolus de 20 mL/kg de cristaloide isotônico aquecido, coletar hemoculturas preferencialmente de todos os lúmens do cateter e periferia, iniciar antibióticos de amplo espectro com cobertura antipseudomonas + glicopeptídeo e, se a hipotensão persistir após 40 mL/kg, começar norepinefrina em infusão contínua por acesso periférico sob monitorização rigorosa.",
+   "Iniciar anfotericina B lipossomal devido ao alto risco de infecção fúngica em neutropênicos e observar a perfusão tecidual antes de administrar fluidos, para evitar sobrecarga hídrica",
+   "Iniciar dopamina a 10 µg/kg/min imediatamente, evitando infusão de fluidos para não precipitar edema pulmonar, comum em pacientes imunossuprimidos.",
+   "Administrar dipirona para controle da febre e aguardar resultados de culturas antes de iniciar antibioticoterapia, para reduzir o risco de resistência bacteriana",
+   "Solicitar transfusão de plaquetas profilática antes de qualquer intervenção, haja vista que a contagem está < 50.000/mm³, postergando a ressuscitação volêmica até estabilizar a hemostasia."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 60
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#62",
+  "q": "Lactente masculino de 6 meses, nasceu a termo com 39 semanas via parto vaginal, peso ao nascer 3.200 g. Recebeu vitamina K, BCG e 1ª dose de hepatite B na maternidade. Aos 5 meses, foi internado por pneumonia grave e candidíase oral refratária. Investigação imunológica: linfócitos T CD3+ 180 cél/mm³, linfócitos B CD19+ 22 cél/mm³, NK 45 cél/mm³ com o diagnóstico de Imunodeficiência Combinada Severa (SCID) ligada ao X. Realiza IVIG mensal (400 mg/kg), TMP‑SMX e fluconazol profiláticos. células‑tronco Transplante de hematopoiéticas (TCTH) programado em 2 meses. A conduta vacinal mais apropriada neste momento é",
+  "alts": [
+   "manter todas as vacinas inativadas indicadas para idade e iniciar influenza inativada anual; contraindicar vacinas vivas.",
+   "administrar imediatamente MMR e varicela em dose reduzida para imunizar antes do TCTH.",
+   "suspender todo esquema vacinal até após reconstituição imune pós‑TCTH, evitando inclusive inativadas.",
+   "aplicar dose de reforço de BCG e postergar demais vacinas.",
+   "substituir permanentemente vacinas por IVIG mensal e antibióticos profiláticos."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 62
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#63",
+  "q": "Paciente feminino, 4 anos e 3 meses, encaminhada ao ambulatório de gastroenterologia pediátrica por atraso de crescimento e episódios de diarreia intermitente há 8 meses. Pais referem distensão abdominal progressiva, irritabilidade e perda ponderal de 1,2 kg no período. No histórico alimentar, a criança consome pão, massas e farináceos diariamente. Gestação sem intercorrências; aleitamento materno exclusivo até 5 meses; alimentação complementar introduzida aos 7 meses. Antecedentes familiares: mãe com tireoidite de Hashimoto, primo materno com doença celíaca. Exame físico: peso 13,1 kg (< p5), estatura 94 cm (< p5), IMC 14,8 kg/m²; abdome globoso, sem visceromegalias; mucosas hipocrômicas; unhas quebradiças. Sem edemas. Desenvolvimento neuropsicomotor preservado para idade. O laboratório revela: Hemograma: Hb 9,2 g/dL, VCM 70 fL, RDW 17 %; ferritina 9 ng/mL (VR > 15 ng/mL); albumina 4,1 g/dL; PCR < 0,5 mg/dL; IgA sérica total 110 mg/dL (VR 20-150 mg/dL); coprocultura e exame parasitológico negativos. Considerando o quadro clínico e a suspeita de doença celíaca, o próximo passo diagnóstico mais adequado é anti‑transglutaminase",
+  "alts": [
+   "solicitar anticorpo IgA tecidual (anti‑tTG) concomitantemente à dosagem de IgA total, mantendo a dieta com glúten até conclusão da investigação.",
+   "iniciar dieta isenta de glúten imediatamente e reavaliar clinicamente em 8 semanas para confirmação diagnóstica.",
+   "indicar colonoscopia com biópsias múltiplas do cólon e íleo terminal para avaliar processo inflamatório.",
+   "realizar endoscopia digestiva alta com biópsias duodenais com o paciente em dieta isenta de glúten.",
+   "solicitar tipagem HLA‑DQ2/DQ8 e, se positiva, instituir dieta isenta de glúten sem necessidade de exames adicionais."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 63
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#64",
+  "q": "Lactente masculino, 3 meses de idade, nascido a termo, parto vaginal, peso ao nascer 3 100 g, com bom desenvolvimento neuropsicomotor. A mãe refere que há cerca de 4 semanas percebeu sudorese excessiva durante as mamadas e aumento da frequência respiratória. Relata também dificuldades para ganhar peso apesar da boa aceitação alimentar. Exame físico: peso atual 4.100 g (< p3), frequência respiratória 56 ipm, frequência cardíaca 158 bpm, perfusão periférica preservada. Ausculta cardíaca revela sopro holossistólico em borda esternal esquerda baixa, intensidade +3/6, sem frêmito. Pulsos periféricos amplos e simétricos. Ausculta pulmonar com estertores finos bibasais. Fígado palpável a 3 cm do rebordo costal direito. Radiografia de tórax: cardiomegalia e aumento da vascularização pulmonar. Oximetria: 97% em ar ambiente. Diante do quadro clínico, o diagnóstico mais provável é",
+  "alts": [
+   "tetralogia de Fallot com fluxo pulmonar aumentado.",
+   "comunicação interventricular (CIV) perimembranosa com hiperfluxo pulmonar.",
+   "estenose pulmonar crítica com insuficiência cardíaca congestiva.",
+   "comunicação interatrial (CIA) tipo ostium secundum com repercussão hemodinâmica.",
+   "canal arterial persistente (PCA) com hipertensão pulmonar irreversível."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 64
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#65",
+  "q": "Recém‑nascido do sexo masculino, 14 dias de vida, nascido a termo (39 semanas), parto vaginal sem intercorrências. Peso ao nascer 3.250 g. Alimentação exclusivamente ao seio materno. Mãe procura emergência por episódios de vômitos em jato e letargia nas últimas 24 h. Relata diminuição da diurese. Ao exame: nota-se RN pálido, anictérico, peso atual 2.980 g, FC 178 bpm, PA 58/34 mmHg, FR 68 ipm, temperatura 36,4 C, enchimento capilar em 4 segundos. Genitália externa masculina normal, sem hipospádia ou criptorquidia. Fontanela normotensa. O laboratório inicial revela: glicemia capilar 46 mg/dL; gasometria arterial: pH 7,29 / HCO₃⁻ 17 mEq/L / BE –8 mEq/L; sódio 124 mEq/L, potássio 6,8 mEq/L, Cloro 96 mEq/L; ureia 38 mg/dL, creatinina 0,6 mg/dL; 17‑hidroxiprogesterona sérica colhida 2 horas após admissão: 11 000 ng/dL (VR < 200 ng/dL). Considerando os achados clínicos e laboratoriais, o diagnóstico mais provável é",
+  "alts": [
+   "sepse neonatal tardia por enterobactéria produtora de endotoxina.",
+   "estenose hipertrófica de piloro com alcalose metabólica hipoclorêmica.",
+   "acidose tubular renal distal (tipo 1).",
+   "hiperplasia congênita da suprarrenal por deficiência de 21‑hidroxilase – forma perdedora de sal.",
+   "hipotireoidismo congênito com crise de mixedema."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 65
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#66",
+  "q": "Paciente masculino, 5 anos de idade, história de hidronefrose bilateral detectada no pré‑natal. Realizou ablação endoscópica de válvula de uretra posterior (VUP) com 10 dias de vida. Evoluiu com infecções urinárias de repetição no 1º ano, tratadas ambulatorialmente. Está em seguimento nefrológico. Nas últimas consultas, os pais relatam poliúria (4,2 L/m²/dia), noctúria, atraso de crescimento (P < p3) e episódios de urgência miccional. Exame físico: PA 112/70 mmHg (p95 para idade/estatura), peso 14 kg, estatura 96 cm. Abdome sem massas; bexiga não palpável pós‑micção. Laboratório: creatinina 1,2 mg/dL (eTFG 42 mL/min/1,73 m²), ureia 58 mg/dL, bicarbonato 18 mEq/L, potássio 4,9 mEq/L. Urina de 24 h: proteinúria 240 mg/m²/dia. US recente: rins diminuídos z‑score córtico‑medular (comprimento 6,5 cm; –2), hiperecogênica; bexiga com parede espessada (6 mm) e volume residual 50 mL. O paciente utilizava sulfametoxazol‑trimetoprima profilática desde o primeiro ano, suspensa há 4 meses. Não faz cateterismo intermitente. Com base no quadro atual e visando retardar a progressão da insuficiência renal crônica, a conduta imediata a ser tomada é",
+  "alts": [
+   "realizar estudo urodinâmico e iniciar terapia de baixa pressão vesical (antimuscarínico + cateterismo vesical intermitente), além de alcalinização oral.",
+   "aumentar ingestão proteica para 2,5 g/kg/dia e suplementar creatina para otimizar ganho ponderal.",
+   "introduzir furosemida em altas doses para reduzir poliúria e prevenir sobrecarga de volume.",
+   "encaminhar para hemodiálise imediata, pois a taxa de filtração glomerular < 45 mL/min/1,73 m² é indicação absoluta.",
+   "manter observação expectante até que eTFG caia abaixo de 30 mL/min/1,73 m² e então listar para transplante renal."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 66
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#67",
+  "q": "Paciente masculino, 9 anos, previamente hígido, é levado à emergência com febre persistente (picos de 39 C há 4 dias), dor abdominal difusa, vômitos, diarreia aquosa e exantema maculopapular em tronco e membros. Há 3 semanas, mãe e irmão apresentaram teste positivo para SARS‑CoV‑2 (variante Ômicron XBB sublinhagem). A criança não foi testada na ocasião e permaneceu assintomática. Exame físico: PA 88/50 mmHg, FC 132 bpm, FR 30 ipm, SpO₂ 96 % em ar ambiente, temperatura 38,8 °C. Conjuntivite não purulenta, hiperemia labial. Ausculta cardíaca normal. Os exames laboratoriais revelam: hemograma: leucócitos 5 300 cél/mm³ (linfócitos 12 %), plaquetas 128 000 /mm³; PCR 195 mg/L, ferritina 780 ng/mL, D‑dímero 2 200 ng/mL; Troponina I 0,23 ng/mL (VR < 0,04); Procalcitonina 0,7 ng/mL; RT‑PCR para SARS‑CoV‑2: negativo; sorologia SARS‑CoV‑2 IgG nucleocapsídeo: positiva. Ecocardiograma: fração de ejeção 50 %, discreta dilatação da artéria coronária direita (Z‑score +2,5). Com base no quadro apresentado, o diagnóstico mais provável é",
+  "alts": [
+   "COVID‑19 aguda sintomática com pneumonia viral.",
+   "síndrome inflamatória multissistêmica associada à COVID‑19 (MIS‑C).",
+   "doença de Kawasaki clássica.",
+   "choque tóxico estafilocócico.",
+   "apendicite aguda complicada com peritonite."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 67
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#68",
+  "q": "Adolescente feminino, 14 anos, é levada ao pronto-socorro por ingestão intencional de aproximadamente 25 comprimidos de fluoxetina 20 mg (dose total estimada: 500 mg) há cerca de 1 hora, após discutir com pais sobre notas escolares. Ao chegar, relata arrependimento parcial, mas permanece retraída, negando ideação suicida imediata. Antecedentes: episódio prévio de automutilação (cortes superficiais) há 6 meses, fazia acompanhamento em um serviço de saúde mental, porém abandonou o seguimento. Sem comorbidades clínicas conhecidas. Uso regular de fluoxetina 20 mg/dia para depressão moderada, prescrita há 4 meses. Exame inicial: FC 98 bpm, PA 108/66 mmHg, FR 18 ipm, SatO₂ 98 % em ar ambiente, T 36,7 °C. Consciente, orientada, fala pausada, olhar no chão. Pupilas isofotorreagentes. Abdome flácido, indolor, sem vômitos. Sem alterações neurológicas focais. Cicatrizes lineares antigas nos antebraços. ECG: ritmo sinusal, QTc 470ms. Os exames laboratoriais iniciais revelam glicemia 88 mg/dL, eletrólitos e função renal normal. Com base nas diretrizes atuais de manejo de tentativa de suicídio em crianças e adolescentes, a conduta inicial adequada neste momento é",
+  "alts": [
+   "admitir em unidade de observação pediátrica, iniciar monitorização cardíaca contínua, administrar carvão ativado dose única (1 g/kg) via oral/naso‑gástrica, solicitar parecer psiquiátrico de emergência e envolver família em plano de segurança antes da alta.",
+   "realizar lavagem gástrica imediata e administrar eméticos para induzir vômitos, mantendo observação de 6 h.",
+   "iniciar benzodiazepínico profilático IV para prevenir convulsões, depois alta ambulatorial, solicitando retorno em 72 h ao CAPS.",
+   "encaminhar diretamente para internação em UTI pediátrica sem monitorização pré-hospitalar, ou necessidade de esvaziamento gástrico pois todo QTc > 450 ms exige suporte avançado imediato.",
+   "liberar para casa após aconselhamento breve, visto que fluoxetina possui ampla margem terapêutica e risco de toxicidade grave é baixo."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 68
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#69",
+  "q": "Lactente masculino, 5 semanas de vida, nascido a termo sem intercorrências, é trazido ao ambulatório porque a mãe percebe que desde o nascimento o bebê mantém a cabeça inclinada para a direita e o queixo voltado para a esquerda. Nega febre, trauma ou sinais neurológicos. Ao exame físico, nota-se inclinação lateral da cabeça para a direita com rotação contralateral do queixo, sem limitação Palpa‑se passiva importante. “massa” fusiforme de aproximadamente 1,5 × 0,8 cm no terço médio do esternocleidomastoideo (ECM) direito, sem hiperemia ou dor. Desenvolvimento psicomotor apropriado. A ultrassonografia cervical mostra espessamento do ECM direito, ecotextura fibrótica, sem alterações ósseas. Não há assimetria facial significativa nem plagiocefalia franca. A conduta inicial mais adequada para esse paciente é",
+  "alts": [
+   "tranquilizar os pais e reavaliar apenas quando a criança iniciar a marcha, pois a condição costuma regredir espontaneamente até 2 anos.",
+   "iniciar imediatamente fisioterapia com alongamentos passivos do ECM e posicionamento ativo, acompanhado de avaliação mensal do progresso.",
+   "prescrever colar cervical rígido em uso contínuo por seis semanas para manter o pescoço em posição neutra.",
+   "programar liberação cirúrgica do esternocleidomastoideo direito nas próximas duas semanas para evitar deformidades craniofaciais.",
+   "solicitar tomografia computadorizada de crânio e coluna cervical antes de tomar qualquer decisão terapêutica."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 69
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#70",
+  "q": "Paciente masculino, 12 anos, com história de leucemia linfoblástica aguda (LLA) diagnosticada há 9 meses, atualmente em fase de consolidação do tratamento com quimioterapia, incluindo dexametasona, metotrexato e vincristina. A mãe relata que, nas últimas semanas, o paciente apresenta ganho ponderal importante, fraqueza muscular proximal, pletora facial, estrias violáceas no abdome e alteração do humor. Ao exame físico: PA 135/85 mmHg, glicemia capilar 168 mg/dL, IMC no percentil 97. Não há sinais de puberdade avançada ou atraso puberal. Nega cefaleia, vômitos ou alterações visuais. Com base no quadro clínico descrito, assinale a opção que apresenta a principal hipótese diagnóstica e a conduta inicial mais adequada.",
+  "alts": [
+   "Diabetes mellitus tipo 1 – iniciar insulinoterapia e suspender a dexametasona imediatamente.",
+   "Puberdade precoce central – solicitar ressonância magnética de sela túrcica e dosar LH basal.",
+   "Síndrome de Cushing iatrogênica – manter vigilância clínica e avaliar redução gradual da dose de corticosteroide.",
+   "Síndrome metabólica – iniciar metformina e dieta hipocalórica rigorosa.",
+   "Neuropatia periférica induzida por vincristina – suspender a vincristina e encaminhar à fisioterapia."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 70
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#71",
+  "q": "Recém-nascido do sexo masculino, parto vaginal, Apgar 8/9, peso adequado para a idade gestacional, nascido em hospital terciário após gestação sem acompanhamento pré-natal adequado. Mãe com sorologia positiva para HIV confirmada durante o trabalho de parto, sem uso de terapia antirretroviral (TARV) durante a gestação. Carga viral materna desconhecida. Não houve rotura prolongada de membranas nem uso de fórceps. A mãe não apresenta outras comorbidades e deseja amamentar. O recémnascido encontra-se estável, em boas condições clínicas nas primeiras horas de vida. A conduta imediata mais apropriada para esse recém-nascido é",
+  "alts": [
+   "iniciar zidovudina (AZT) oral por 4 semanas e permitir o aleitamento materno com seguimento ambulatorial mensal.",
+   "iniciar esquema de profilaxia com três drogas (zidovudina, lamivudina e nevirapina) e contraindicar aleitamento materno.",
+   "não iniciar profilaxia, apenas observar, pois o RN encontra-se assintomático.",
+   "iniciar nevirapina isolada por 6 semanas, liberar aleitamento e aguardar testes de HIV para definição de conduta.",
+   "indicar zidovudina intravenosa no RN."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 71
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#72",
+  "q": "Lactente feminina, 1 mês e 10 dias de vida, nascida a termo, com peso adequado ao nascer, vem apresentando baixo ganho ponderal nas últimas semanas. Alimentada exclusivamente ao seio, com boa pega e sucção eficaz; a mãe relata produção láctea adequada. Há uma semana, iniciou vômitos pós-prandiais, em jato, com piora progressiva. A criança mantém-se hipoativa, com leve icterícia em escleras. Ao exame físico: fontanela normotensa, perfusão periférica preservada, sem sinais de desidratação grave. Exames laboratoriais revelam bilirrubina total 8,5 mg/dL (predomínio indireto), glicemia 72 mg/dL, sódio 132 mEq/L, potássio 4,7 mEq/L, pH 7,20, HCO₃⁻ 14 mEq/L, anion gap aumentado. A principal hipótese diagnóstica para esse caso é",
+  "alts": [
+   "erro inato do metabolismo – galactosemia clássica.",
+   "hiperplasia congênita da adrenal – forma perdedora de sal.",
+   "síndrome de Reye.",
+   "hepatite neonatal idiopática.",
+   "estenose hipertrófica de piloro."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 72
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#74",
+  "q": "Lactente do sexo feminino, 10 meses, é trazida à consulta por apresentar atraso no crescimento e episódios recorrentes de vômitos. A mãe relata que a criança se alimenta bem, mas não ganha peso como o esperado. Ao exame físico, apresenta estatura e peso abaixo do percentil 3, fontanela anterior ampla e tônus muscular reduzido. Exames laboratoriais mostram: pH arterial 7,29, bicarbonato 14 mEq/L, ânion gap normal, potássio 2,9 mEq/L, cloro 113 mEq/L. Glicemia e função renal normais. Urina com pH de 6,5 e ausência de glicosúria ou proteinúria. Com base nesses achados clínicos e laboratoriais, assinale a opção que apresenta o diagnóstico mais provável e a conduta inicial.",
+  "alts": [
+   "Acidemia orgânica – iniciar dieta restrita em proteínas e internação hospitalar imediata.",
+   "Acidose tubular renal distal – iniciar reposição de bicarbonato e citrato de potássio.",
+   "Acidose tubular renal proximal – suspender alimentação oral e iniciar diálise peritoneal.",
+   "Síndrome nefrótica congênita – iniciar corticoide e controle da proteinúria.",
+   "Acidemia láctica – iniciar suplementação com biotina e monitorização intensiva em UTI."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 74
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#75",
+  "q": "Pré-escolar do sexo masculino, 3 anos, residente em área rural de estado endêmico para leishmaniose visceral, é trazido à consulta com história de febre diária há 30 dias, perda ponderal, inapetência e aumento progressivo do abdome. Ao exame físico: palidez cutaneomucosa, hepatoesplenomegalia importante e linfonodomegalia cervical discreta. Hemograma evidencia pancitopenia (Hb 8,1 g/dL, leucócitos 2.300/mm³, plaquetas 78.000/mm³), proteína C reativa elevada e hipergamaglobulinemia. Teste rápido rK39 para leishmaniose foi positivo e a punção de medula óssea confirmou a presença de amastigotas. A conduta terapêutica inicial mais adequada para esse caso é",
+  "alts": [
+   "iniciar tratamento ambulatorial com antimoniato de meglumina por via intramuscular por 30 dias.",
+   "internar e iniciar anfotericina B lipossomal, com ajuste conforme função renal e gravidade clínica.",
+   "prescrever corticoterapia associada a antifúngico empírico, aguardando confirmação da doença.",
+   "repetir a punção de medula óssea para novo exame e acompanhar clinicamente antes de iniciar qualquer terapia.",
+   "iniciar azitromicina oral e acompanhar por 10 dias, devido à possibilidade de infecção bacteriana associada."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 75
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#76",
+  "q": "Pré-escolar masculino, 4 anos, previamente hígido, estava alimentando-se com pedaço de carne quando subitamente iniciou tosse intensa seguida de silêncio súbito, cianose perioral e queda ao solo. A criança encontra-se em apneia, inconsciente, porém com pulso palpável a 90 bpm. Não há expansibilidade torácica e os esforços ventilatórios estão ausentes. A obstrução de vias aéreas por corpo estranho é fortemente suspeitada. A conduta imediata mais adequada nesse cenário é",
+  "alts": [
+   "iniciar manobra de Heimlich em pé.",
+   "iniciar ventilação com bolsa-válvula-máscara imediatamente, mesmo sem liberar as vias aéreas.",
+   "realizar até 5 tentativas de ventilação com pressão positiva antes de considerar obstrução de via aérea.",
+   "iniciar manobras de desobstrução com compressões torácicas e inspeção oral, evitando ventilação até desobstrução.",
+   "realizar aspiração orotraqueal imediatamente para remover o corpo estranho antes de qualquer outra medida."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 76
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#77",
+  "q": "Escolar do sexo feminino, 10 anos, previamente hígida, apresenta aumento progressivo de volume em região cervical direita há 6 semanas, associado a febre vespertina baixa, sudorese noturna e perda ponderal de 2 kg. Ao exame físico, nota-se linfonodo cervical posterior direito, de consistência endurecida, indolor, medindo cerca de 3 cm, sem sinais flogísticos cutâneos. Ausculta pulmonar sem alterações. Radiografia de tórax sem infiltrados ou adenomegalias hiliares evidentes. Prova tuberculínica (PPD) positiva (15 mm). Hemograma com leucócitos 7.200/mm³, VHS 48 mm/h. Ultrassonografia cervical confirma linfonodo hipoecoico com áreas de necrose central. Punção aspirativa por agulha fina (PAAF) revelou granuloma caseoso e bacilos álcool‑ácido resistentes (BAAR) na baciloscopia direta. O diagnóstico mais provável para esse caso é",
+  "alts": [
+   "tuberculose linfonodal (tuberculose ganglionar cervical).",
+   "linfoma de Hodgkin em fase inicial.",
+   "adenite por Bartonella henselae (doença da arranhadura do gato).",
+   "linfadenite bacteriana aguda por Staphylococcus aureus.",
+   "metástase de carcinoma papilífero da tireoide."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 77
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#78",
+  "q": "Adolescente do sexo masculino, 14 anos, comparece à consulta para avaliação de rotina. É nadador competitivo, treinando 2 horas por dia, 6 dias por semana. Apresenta medidas antropométricas dentro da normalidade (IMC: 20 kg/m², estágio puberal G4P4). Refere dieta variada e aumento recente do gasto energético devido à intensificação dos treinos. Ele e seus pais questionam sobre a necessidade de uso de suplementos proteicos e vitaminas para “melhorar o desempenho” e “evitar fadiga”. O recordatório alimentar revela: Ingestão proteica de 1,6 g/kg/dia, calorias adequadas para idade e nível de atividade, nenhum sinal clínico de carência nutricional, exames laboratoriais normais (hemograma, ferritina, vitamina D, B12). A conduta mais apropriada em relação à suplementação nutricional nesse caso é",
+  "alts": [
+   "recomendar suplementação proteica para apoiar a hipertrofia muscular e melhorar o desempenho atlético.",
+   "iniciar suplementação com multivitamínicos para prevenir possíveis deficiências subclínicas devido à alta demanda física.",
+   "introduzir suplementos de aminoácidos de cadeia ramificada (BCAA) para reduzir a fadiga e promover recuperação.",
+   "recomendar creatina monoidratada para melhorar o desempenho anaeróbico em esportes de alta intensidade.",
+   "contraindicar suplementação, reforçar uma alimentação adequada baseada em alimentos e monitorar crescimento e desempenho."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 78
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#79",
+  "q": "Escolar do sexo feminino, 11 anos, previamente hígida, apresenta queixas de febre vespertina, fadiga, perda de peso, dor articular em joelhos e punhos, além de lesões eritematosas em região malar que poupam o sulco nasolabial. Ao exame físico, apresenta-se pálida, com pressão arterial de 130/90 mmHg, hepatomegalia discreta e edema de membros inferiores. Exames laboratoriais revelam: Hb 9,2 g/dL, leucócitos 2.800/mm³, plaquetas 110.000/mm³, urina 1 com proteinúria 3+ e hematúria microscópica. Função renal: ureia 52 mg/dL, creatinina 1,3 mg/dL. FAN positivo (1:640, padrão nuclear pontilhado fino), antiDNA nativo positivo, C3 e C4 reduzidos. Assinale a opção que apresenta o diagnóstico mais provável e a conduta inicial mais adequada.",
+  "alts": [
+   "Artrite idiopática juvenil – iniciar AINE e acompanhamento ambulatorial.",
+   "Lúpus eritematoso sistêmico juvenil – iniciar pulsoterapia com metilprednisolona e solicitar biópsia renal.",
+   "Púrpura trombocitopênica idiopática – iniciar imunoglobulina intravenosa.",
+   "Glomerulonefrite pós-estreptocócica – tratar com antibiótico e repouso.",
+   "Nefrite lúpica isolada – iniciar corticoide oral em baixa dose e reavaliar em 30 dias."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 79
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_neo#80",
+  "q": "Criança do sexo masculino, 5 anos, é levada ao pronto atendimento por vizinhos após ser encontrada sozinha em casa, chorando, trancada e sem supervisão adulta. Relata que costuma ficar sozinho por horas, sem saber onde estão seus pais. Apresenta vestimentas inadequadas, sinais de higiene precária, baixo peso e relato de alimentação irregular. Ao exame, está em bom estado geral, mas com sinais de desnutrição leve e atraso no desenvolvimento da linguagem. Não há sinais de agressão física. Com base no caso e na legislação brasileira, a conduta mais adequada é",
+  "alts": [
+   "registrar o caso apenas em prontuário e orientar a família sobre cuidados domiciliares, visto que não há sinais de violência física.",
+   "encaminhar imediatamente a criança para abrigo institucional e impedir qualquer contato com os pais antes da avaliação judicial.",
+   "solicitar avaliação psiquiátrica imediata da criança e encaminhar aos pais com recomendação de terapia familiar.",
+   "encaminhar a criança para casa com termo de responsabilidade assinado pelos vizinhos, mantendo acompanhamento ambulatorial.",
+   "notificar formalmente o caso de suspeita de negligência à autoridade competente, conforme previsto no ECA, e manter vigilância compartilhada com a rede de proteção."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Pediatria",
+   "ex": "enare25ped",
+   "n": 80
+  },
+  "avisos": []
+ }
+]

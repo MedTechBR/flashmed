@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Cirurgia",
+  "f": "hernias-da-parede-abdominal.html",
+  "tipo": "EHS/AHS 2023 · resumo de prova",
+  "area": "hernias",
+  "min": 56,
+  "t": "Hérnias da parede abdominal",
+  "s": "Hérnias ventrais primárias e incisionais pelas diretrizes da European e da Americas Hernia Society (2020 a 2023): umbilical do adulto e da criança, epigástrica, cirrose com ascite, diástase dos retos, prevenção no fechamento da laparotomia, reparo da incisional, Spiegel, Richter, hérnias internas e a hérnia complicada pela WSES."
+ },
+ {
+  "grupo": "Cirurgia",
+  "f": "pele-e-partes-moles-cirurgicas.html",
+  "tipo": "ESMO 2021 · WSES 2022 · resumo de prova",
+  "area": "cironco",
+  "min": 55,
+  "t": "Pele e partes moles cirúrgicas",
+  "s": "O lado cirúrgico da pele e do subcutâneo: biópsia e estadiamento do melanoma pelo AJCC, margens e linfonodo sentinela pela AAD 2019, carcinoma basocelular e espinocelular e a cirurgia de Mohs, cisto epidérmico e lipoma, biópsia correta do sarcoma pela ESMO 2021, abscesso, fasciíte necrosante e Fournier pela WSES 2022, cicatrização, queloide, enxertos e retalhos."
+ },
+ {
+  "grupo": "Cirurgia",
+  "f": "ortopedia-de-urgencia.html",
+  "tipo": "ATLS 2025 · AAOS 2021 · resumo de prova",
+  "area": "especialidades",
+  "min": 55,
+  "t": "Ortopedia de urgência",
+  "s": "As urgências ortopédicas que a prova de acesso direto cobra, pelo ATLS 11ª edição (2025) e pelas diretrizes da AAOS: membro traumatizado, fratura exposta com Gustilo-Anderson e antibiótico, síndrome compartimental, luxações de ombro e quadril, fratura do colo do fêmur no idoso, rádio distal, fraturas da criança e maus-tratos, lombalgia com sinais de alarme, regras de Ottawa e entorse do tornozelo."
+ }
+]

@@ -3,6 +3,131 @@
    `orig` no grupo diz de que app vieram. Não editar à mão. */
 window.LEITURAS=[
 {
+"grupo": "Cirurgia",
+"sub": "",
+"orig": "flashmed"
+},
+{
+"f": "trauma-toracico.html",
+"tipo": "ATLS 2025 · resumo de prova",
+"area": "trauma",
+"min": 56,
+"t": "Trauma torácico",
+"s": "Lesões torácicas que matam na avaliação primária e as que se escondem até a secundária, pneumotórax, hemotórax e indicação de toracotomia pela fisiologia, tamponamento, parede torácica e contusão pulmonar, aorta, diafragma, esôfago, vias aéreas e drenagem, pelo ATLS 11ª edição (ACS, 2025) e pela Medicina de Emergência da USP (2024)."
+},
+{
+"f": "queimaduras.html",
+"tipo": "ATLS 2025 e MS 2012 · resumo de prova",
+"area": "trauma",
+"min": 54,
+"t": "Queimaduras",
+"s": "Profundidade, regra dos nove e Lund-Browder, reposição volêmica do ATLS 11 (2 mL/kg/% no adulto, 3 na criança, 4 na elétrica) com as metas de diurese, via aérea e inalação, monóxido de carbono e cianeto, escarotomia, queimadura elétrica e química e critérios de transferência, pelo ATLS 11ª edição (ACS, 2025), pela cartilha do Ministério da Saúde (2012) e pela Medicina de Emergência da USP (2024)."
+},
+{
+"f": "tce-e-trauma-raquimedular.html",
+"tipo": "ATLS 2025 · resumo de prova",
+"area": "trauma",
+"min": 56,
+"t": "TCE e trauma raquimedular",
+"s": "Glasgow e Glasgow-P, classificação do TCE, hematomas epidural e subdural, contusão e lesão axonal difusa, indicação de tomografia pela regra canadense, metas e manejo da hipertensão intracraniana e da herniação no trauma, lesão medular, choque neurogênico e choque medular, restrição seletiva do movimento da coluna, NEXUS e regra canadense da coluna cervical, pelo ATLS 11ª edição (ACS, 2025)."
+},
+{
+"f": "abdome-agudo.html",
+"tipo": "WSES 2017 a 2022 e ASCRS 2021 · resumo de prova",
+"area": "abdome",
+"min": 56,
+"t": "Abdome agudo",
+"s": "Abordagem sindrômica do abdome agudo (inflamatório, obstrutivo, perfurativo, vascular e hemorrágico), exames por síndrome, obstrução de delgado por bridas, obstrução do cólon e volvos, úlcera perfurada, isquemia mesentérica aguda, gestante e idoso, pelas diretrizes da WSES (Bologna 2017, cólon esquerdo obstruído 2018, úlcera perfurada 2020, isquemia mesentérica 2022), da ASCRS (volvo e pseudo-obstrução, 2021) e da SAGES (laparoscopia na gestação, 2017)."
+},
+{
+"f": "doencas-do-colon-e-anorretais.html",
+"tipo": "ASCRS 2019 a 2024, WSES 2020 e AGA 2021 · resumo de prova",
+"area": "digestivo",
+"min": 51,
+"t": "Doenças do cólon e anorretais",
+"s": "Diverticulite (classificação de Hinchey, tratamento ambulatorial sem antibiótico em casos selecionados, abscesso e cirurgia), câncer colorretal no aspecto cirúrgico (estadiamento, cirurgia do cólon, neoadjuvância e preservação de órgão no reto), doença hemorroidária, fissura, abscesso e fístula anal e doença pilonidal, pelas diretrizes da ASCRS (2019 a 2024), da WSES (2020) e da AGA (2021)."
+},
+{
+"f": "esofago-e-estomago-cirurgicos.html",
+"tipo": "SAGES 2021 e 2024, JGCA 2021 e CFM 2025 · resumo de prova",
+"area": "digestivo",
+"min": 53,
+"t": "Esôfago e estômago cirúrgicos",
+"s": "Indicação cirúrgica na doença do refluxo, hérnia de hiato, acalasia e megaesôfago, câncer de esôfago e de estômago (fatores de risco, estadiamento e cirurgia) e cirurgia bariátrica (indicações pela Resolução CFM 2.429/2025, técnicas, complicações tardias e deficiências), pelas diretrizes da SAGES (2021 e 2024), do ACG (2020), da Associação Japonesa de Câncer Gástrico (2021) e do Conselho Federal de Medicina."
+},
+{
+"f": "pre-operatorio.html",
+"tipo": "ACC/AHA 2024 · resumo de prova",
+"area": "periop",
+"min": 56,
+"t": "Avaliação e preparo pré-operatório",
+"s": "Classificação ASA, risco cardíaco pelo índice de Lee e pela capacidade funcional segundo a ACC/AHA 2024 e a SBC 2017, exames que de fato mudam conduta, jejum pela ASA 2017 e 2023, manejo de anticoagulantes, antiagregantes, hipoglicemiantes (com os agonistas de GLP-1 pela orientação multissocietária de 2024) e corticoide, profilaxia antibiótica, profilaxia de tromboembolismo pelo escore de Caprini e o protocolo ERAS."
+},
+{
+"f": "pos-operatorio-e-complicacoes.html",
+"tipo": "CDC/NHSN 2024 · resumo de prova",
+"area": "periop",
+"min": 55,
+"t": "Pós-operatório e complicações cirúrgicas",
+"s": "Febre pós-operatória pelo tempo de aparecimento, classificação da ferida e infecção de sítio cirúrgico pelos critérios do CDC/NHSN, deiscência e evisceração, fístulas pelo débito e pela conduta em etapas, íleo, retenção urinária, complicações respiratórias, hipertermia maligna, toxicidade sistêmica por anestésico local pela ASRA 2020 e hidratação com os distúrbios eletrolíticos do operado."
+},
+{
+"f": "cirurgia-pediatrica.html",
+"tipo": "EAU 2025 · resumo de prova",
+"area": "especialidades",
+"min": 54,
+"t": "Cirurgia pediátrica",
+"s": "Os temas de cirurgia pediátrica que caem no ENARE e no ENAMED: estenose hipertrófica de piloro, invaginação, má rotação com volvo, doença de Hirschsprung, atresias de esôfago, duodeno, jejunoíleo e anorretal, gastrosquise e onfalocele, hérnias, criptorquidia pelas diretrizes da EAU e da AUA, torção testicular com o escore TWIST, apendicite na criança e corpo estranho ingerido pela ESPGHAN 2021."
+},
+{
+"f": "urologia-de-urgencia.html",
+"tipo": "EAU 2025 · AUA 2020 e 2022 · resumo de prova",
+"area": "especialidades",
+"min": 56,
+"t": "Urologia de urgência",
+"s": "Cólica renal com obstrução e a pielonefrite obstrutiva como urgência, escroto agudo com o escore TWIST, retenção urinária aguda, priapismo, parafimose, trauma renal, vesical e uretral e hematúria macroscópica, pelas diretrizes da EAU, da AUA e pelo ATLS 11ª edição."
+},
+{
+"f": "cirurgia-vascular.html",
+"tipo": "ESVS 2020 a 2024 · ESC 2024 · IWGDF 2023 · resumo de prova",
+"area": "especialidades",
+"min": 55,
+"t": "Cirurgia vascular",
+"s": "Oclusão arterial aguda pela classificação de Rutherford, doença arterial obstrutiva periférica e isquemia crônica ameaçadora do membro, aneurisma de aorta abdominal do rastreamento à ruptura, pé diabético, doença venosa crônica e acesso para hemodiálise, pelas diretrizes da ESVS, da ESC, do IWGDF e do KDOQI."
+},
+{
+"f": "tireoide-e-pescoco-cirurgicos.html",
+"tipo": "ATA 2025 · Bethesda 2023 · resumo de prova",
+"area": "cabeca",
+"min": 48,
+"t": "Tireoide e pescoço cirúrgicos",
+"s": "Nódulo de tireoide do laudo citológico à cirurgia, carcinoma diferenciado pela ATA 2025, carcinoma medular, complicações da tireoidectomia, hiperparatireoidismo primário com indicação cirúrgica, massa cervical no adulto e na criança, e o lado cirúrgico do incidentaloma adrenal e do feocromocitoma."
+},
+{
+"f": "hernias-da-parede-abdominal.html",
+"tipo": "EHS/AHS 2023 · resumo de prova",
+"area": "hernias",
+"min": 56,
+"t": "Hérnias da parede abdominal",
+"s": "Hérnias ventrais primárias e incisionais pelas diretrizes da European e da Americas Hernia Society (2020 a 2023): umbilical do adulto e da criança, epigástrica, cirrose com ascite, diástase dos retos, prevenção no fechamento da laparotomia, reparo da incisional, Spiegel, Richter, hérnias internas e a hérnia complicada pela WSES."
+},
+{
+"f": "pele-e-partes-moles-cirurgicas.html",
+"tipo": "ESMO 2021 · WSES 2022 · resumo de prova",
+"area": "cironco",
+"min": 55,
+"t": "Pele e partes moles cirúrgicas",
+"s": "O lado cirúrgico da pele e do subcutâneo: biópsia e estadiamento do melanoma pelo AJCC, margens e linfonodo sentinela pela AAD 2019, carcinoma basocelular e espinocelular e a cirurgia de Mohs, cisto epidérmico e lipoma, biópsia correta do sarcoma pela ESMO 2021, abscesso, fasciíte necrosante e Fournier pela WSES 2022, cicatrização, queloide, enxertos e retalhos."
+},
+{
+"f": "ortopedia-de-urgencia.html",
+"tipo": "ATLS 2025 · AAOS 2021 · resumo de prova",
+"area": "especialidades",
+"min": 55,
+"t": "Ortopedia de urgência",
+"s": "As urgências ortopédicas que a prova de acesso direto cobra, pelo ATLS 11ª edição (2025) e pelas diretrizes da AAOS: membro traumatizado, fratura exposta com Gustilo-Anderson e antibiótico, síndrome compartimental, luxações de ombro e quadril, fratura do colo do fêmur no idoso, rádio distal, fraturas da criança e maus-tratos, lombalgia com sinais de alarme, regras de Ottawa e entorse do tornozelo."
+},
+{
 "grupo": "Ginecologia e Obstetrícia",
 "sub": "",
 "orig": "flashmed"
@@ -94,6 +219,54 @@ window.LEITURAS=[
 "min": 49,
 "t": "Violência sexual e aborto legal",
 "s": "Atendimento à pessoa em situação de violência sexual pelo PCDT de PEP de 2024 e pelas normas técnicas do Ministério da Saúde, com profilaxias, notificação e coleta de vestígios; as três hipóteses de aborto previsto em lei, a documentação exigida e a dispensada, a objeção de consciência e a violência contra a mulher na APS."
+},
+{
+"f": "climaterio-e-sangramento-uterino.html",
+"tipo": "Menopause Society 2022 · NICE · ACOG · resumo de prova",
+"area": "ginecologia",
+"min": 49,
+"t": "Climatério e sangramento uterino",
+"s": "Avaliação antes da terapia hormonal, esquemas, vias e progestagênios, janela de oportunidade e riscos; sangramento uterino agudo e crônico com doses, miomatose do tipo FIGO à escolha da cirurgia, endometriose e adenomiose além do básico, sangramento pós-menopausa na usuária de hormônio e de tamoxifeno, e hiperplasia endometrial. Complementa a leitura de ginecologia endócrina."
+},
+{
+"f": "canceres-ginecologicos.html",
+"tipo": "FIGO 2018/2021/2023 · INCA · O-RADS · resumo de prova",
+"area": "ginonco",
+"min": 54,
+"t": "Cânceres ginecológicos",
+"s": "Câncer do colo do útero com estadiamento FIGO 2018 e tratamento por estádio, carcinoma microinvasor e adenocarcinoma in situ, câncer do endométrio com Lynch e o estadiamento FIGO 2023, massa anexial por O-RADS e IOTA, câncer de ovário e BRCA, câncer de vulva (FIGO 2021) e o seguimento ginecológico da mulher tratada de câncer de mama."
+},
+{
+"f": "vitalidade-fetal-prematuridade-e-rpmo.html",
+"tipo": "MS 2022 · Delphi 2016 · resumo de prova",
+"area": "obstpat",
+"min": 52,
+"t": "Vitalidade fetal, prematuridade e rotura de membranas",
+"s": "Cardiotocografia anteparto e desacelerações, perfil biofísico, Doppler de umbilical, cerebral média e ducto venoso, restrição de crescimento fetal por estágios, trabalho de parto prematuro com corticoide, tocólise, neuroproteção e progesterona, rotura prematura de membranas e gravidez prolongada, pelo Manual de Gestação de Alto Risco do Ministério da Saúde (2022)."
+},
+{
+"f": "puerperio-e-lactacao.html",
+"tipo": "MS 2022 · PCDT-TV · FEBRASGO 2021 · resumo de prova",
+"area": "obstetricia",
+"min": 56,
+"t": "Puerpério e lactação",
+"s": "Puerpério normal e consulta puerperal, febre e infecção puerperal, mama da puérpera, transtornos mentais do pós-parto, contracepção na lactação, medicamentos na amamentação, inibição da lactação no HIV e no HTLV e tromboprofilaxia pelo escore da FEBRASGO, pelo Manual de Gestação de Alto Risco do Ministério da Saúde (2022), pelo Caderno de Atenção Básica nº 32 e pelo PCDT de Transmissão Vertical."
+},
+{
+"f": "infertilidade-e-reproducao.html",
+"tipo": "OMS 2021 · SOP 2023 · CFM 2.320/2022 · resumo de prova",
+"area": "reprodutiva",
+"min": 53,
+"t": "Infertilidade e reprodução assistida",
+"s": "Definição e momento de investigar, propedêutica do casal (reserva ovariana, histerossalpingografia, espermograma pelo manual da OMS de 2021), fatores ovulatório, tuboperitoneal, uterino, masculino e endometriose, indução da ovulação com letrozol pela diretriz internacional de SOP de 2023, técnicas de reprodução assistida, regras da Resolução CFM 2.320/2022 e preservação da fertilidade."
+},
+{
+"f": "gemelaridade-e-isoimunizacao.html",
+"tipo": "MS 2022 · ISUOG 2016 · ACOG 2021 · resumo de prova",
+"area": "obstpat",
+"min": 51,
+"t": "Gemelaridade e isoimunização",
+"s": "Zigotia, corionicidade e amnionicidade pelos sinais do lambda e do T, pré-natal da gestação gemelar, complicações da monocoriônica com os estágios de Quintero, momento e via do parto por tipo, doença hemolítica perinatal por anti-D e por outros anticorpos irregulares, com Coombs indireto, Doppler da artéria cerebral média e transfusão intrauterina, pelo Manual de Gestação de Alto Risco do Ministério da Saúde (2022) e pelas diretrizes da ISUOG e do ACOG."
 },
 {
 "grupo": "Pediatria",
@@ -189,6 +362,54 @@ window.LEITURAS=[
 "s": "Os temas de ambulatório pediátrico que mais caem no ENAMED: asma pela GINA 2026, alergia à proteína do leite de vaca, refluxo e constipação pelos critérios de Roma IV, sopro e cardiopatias congênitas, puberdade, baixa estatura, anemia ferropriva, sinais de alerta de câncer, síndrome nefrótica, glomerulonefrite pós-estreptocócica, infecção urinária e sigilo na consulta do adolescente."
 },
 {
+"f": "itu-e-nefrologia-pediatrica.html",
+"tipo": "AAP 2017 · resumo de prova",
+"area": "pedgeral",
+"min": 56,
+"t": "ITU e nefrologia pediátrica",
+"s": "Infecção urinária na criança com coleta, critérios, tratamento e imagem pela AAP (2011 e a nova diretriz de outubro de 2026) e pelo NICE 2022, refluxo vesicoureteral, recidivas da síndrome nefrótica pela IPNA 2022, síndrome nefrítica, hipertensão na criança pela AAP 2017, síndrome hemolítico-urêmica e enurese pela ICCS 2020."
+},
+{
+"f": "endocrino-e-crescimento-pediatrico.html",
+"tipo": "ISPAD 2022 · resumo de prova",
+"area": "pedgeral",
+"min": 53,
+"t": "Endocrinologia pediátrica",
+"s": "Baixa estatura patológica e idade óssea, puberdade precoce e atrasada, diabetes tipo 1 e cetoacidose na criança pela ISPAD 2022 e 2024 com o risco de lesão cerebral, hipotireoidismo congênito pelo consenso europeu de 2020 e o teste do pezinho do Ministério da Saúde, e hiperplasia adrenal congênita pela Endocrine Society 2018."
+},
+{
+"f": "neuro-e-maus-tratos-na-infancia.html",
+"tipo": "ILAE 2022 · resumo de prova",
+"area": "pedgeral",
+"min": 52,
+"t": "Neurologia infantil e maus-tratos",
+"s": "Crise febril simples e complexa e o que investigar pela AAP, síndromes epilépticas da infância pela classificação da ILAE de 2022, estado de mal na criança, cefaleia com sinais de alarme e tratamento pela AAN 2019, e maus-tratos: sinais físicos, trauma craniano abusivo, violência sexual, notificação e Conselho Tutelar pelo ECA."
+},
+{
+"f": "asma-e-alergia-na-crianca.html",
+"tipo": "GINA 2026 · resumo de prova",
+"area": "pedgeral",
+"min": 54,
+"t": "Asma e alergia na criança",
+"s": "Sibilância do lactente e do pré-escolar com os critérios diagnósticos da GINA, tratamento por idade e crise na emergência pela GINA 2026, rinite alérgica pelo ARIA, alergia à proteína do leite de vaca nas formas IgE e não IgE, anafilaxia com a dose de adrenalina por peso e dermatite atópica."
+},
+{
+"f": "cardiologia-e-reumatologia-pediatrica.html",
+"tipo": "AHA 2024 · resumo de prova",
+"area": "pedgeral",
+"min": 56,
+"t": "Cardiologia e reumatologia pediátrica",
+"s": "Sopro inocente e patológico, fisiologia e quadro das cardiopatias congênitas mais cobradas, teste do coraçãozinho, insuficiência cardíaca do lactente, febre reumática pelos critérios de Jones de 2015, doença de Kawasaki pela AHA, artrite idiopática juvenil e vasculite por IgA."
+},
+{
+"f": "hematologia-e-oncologia-pediatrica.html",
+"tipo": "MS 2024 · resumo de prova",
+"area": "pedgeral",
+"min": 50,
+"t": "Hematologia e oncologia pediátrica",
+"s": "Profilaxia de ferro pelo programa do Ministério da Saúde, doença falciforme na infância pelo PCDT de 2024, trombocitopenia imune pela ASH, sinais de alerta de câncer infantil, leucemia linfoide aguda, tumor de Wilms e neuroblastoma, retinoblastoma e tumores do sistema nervoso central."
+},
+{
 "grupo": "Medicina de Família e Comunidade",
 "sub": "",
 "orig": "flashmed"
@@ -232,6 +453,22 @@ window.LEITURAS=[
 "min": 50,
 "t": "Populações na APS e atenção domiciliar",
 "s": "Pessoa idosa na atenção primária (avaliação multidimensional, fragilidade e quedas), as políticas nacionais de saúde do homem, da população LGBT, da população em situação de rua, dos povos indígenas e das populações do campo, da floresta e das águas, a atenção domiciliar do SUS pela Portaria GM/MS 3.005/2024 e a priorização de visitas pela escala de Coelho e Savassi."
+},
+{
+"f": "queixas-comuns-na-aps.html",
+"tipo": "CAB 28 2012, IDSA 2012, NICE 2018 · resumo de prova",
+"area": "cronicas",
+"min": 56,
+"t": "Queixas comuns na APS",
+"s": "Lombalgia, cefaleia, tontura, dispepsia, dor de garganta pelos critérios de Centor e McIsaac, rinossinusite e otite no adulto, olho vermelho, cistite não complicada, queixas de pele e fadiga, com demora permitida e uso racional de exames, pelo Caderno de Atenção Básica 28, pelas diretrizes da IDSA e do NICE e pelo Tratado de Medicina de Família e Comunidade."
+},
+{
+"f": "tabagismo-e-mudanca-de-comportamento.html",
+"tipo": "PCDT do Tabagismo 2020 e RDC Anvisa 855/2024 · resumo de prova",
+"area": "cronicas",
+"min": 55,
+"t": "Tabagismo e mudança de comportamento",
+"s": "Programa Nacional de Controle do Tabagismo, avaliação do fumante pelo teste de Fagerström, modelo transteórico, entrevista motivacional, abordagem breve (PAAPA e 5As), tratamento em grupo, reposição de nicotina, bupropiona e vareniclina, populações especiais e cigarro eletrônico, pelo PCDT do Tabagismo do Ministério da Saúde (2020), pelo INCA e pela RDC Anvisa 855/2024."
 },
 {
 "grupo": "Saúde Coletiva e SUS",
@@ -287,6 +524,38 @@ window.LEITURAS=[
 "s": "Política Nacional de Saúde do Trabalhador e da Trabalhadora, nexo causal e classificação de Schilling, CAT e notificação, Lista de Doenças Relacionadas ao Trabalho (Portaria GM/MS 1.999/2023), LER/DORT, perda auditiva por ruído, pneumoconioses, chumbo, benzeno, agrotóxicos, dermatoses, acidente com material biológico e o papel do médico assistente no afastamento."
 },
 {
+"f": "politicas-nacionais-de-saude.html",
+"tipo": "PNH, PNPS 2014, equidade e Rede Alyne 2024 · resumo de prova",
+"area": "sus",
+"min": 55,
+"t": "Políticas nacionais de saúde",
+"s": "Política Nacional de Humanização com acolhimento e classificação de risco, clínica ampliada e projeto terapêutico singular; Política Nacional de Promoção da Saúde redefinida em 2014; políticas de equidade, da mulher, do homem, da pessoa idosa e da pessoa com deficiência; Rede Alyne e redes temáticas, conferidas nas portarias do Ministério da Saúde."
+},
+{
+"f": "seguranca-do-paciente-e-qualidade.html",
+"tipo": "Portaria 529 e RDC 36/2013, OMS · resumo de prova",
+"area": "sus",
+"min": 49,
+"t": "Segurança do paciente e qualidade",
+"s": "Programa Nacional de Segurança do Paciente e RDC 36/2013, classificação de incidentes da OMS, os seis protocolos básicos, cirurgia segura, notificação no Notivisa, cultura justa e análise de causa raiz, qualidade pela tríade de Donabedian e acreditação, pelas normas do Ministério da Saúde e da Anvisa."
+},
+{
+"f": "medicina-legal-essencial.html",
+"tipo": "CPP, Código Penal e CTB (CONTRAN 2026) · resumo de prova",
+"area": "etica",
+"min": 52,
+"t": "Medicina legal essencial",
+"s": "Perícia e exame de corpo de delito, lesões corporais pelo Código Penal, instrumentos e ferimentos, arma de fogo, tanatologia e cronologia da morte, morte violenta e IML, violência sexual sem exigência de boletim de ocorrência, notificação de violência e embriaguez, pelo que o médico do pronto-socorro precisa saber e a prova cobra."
+},
+{
+"f": "planejamento-financiamento-e-regulacao-do-sus.html",
+"tipo": "LC 141/2012 compilada 2026 e Portaria 828/2020 · resumo de prova",
+"area": "sus",
+"min": 52,
+"t": "Planejamento, financiamento e regulação do SUS",
+"s": "Pisos da saúde da EC 29 ao regime fiscal de 2023 e às leis complementares de 2026, transferências fundo a fundo e blocos de financiamento, cofinanciamento da APS, instrumentos de planejamento com seus prazos, regionalização e comissões intergestores, COAP, regulação e complexos reguladores, auditoria e controle social, pela LC 141/2012 compilada, pelas portarias de consolidação do Ministério da Saúde e pelo Decreto 7.508/2011."
+},
+{
 "grupo": "Saúde Mental",
 "sub": "",
 "orig": "flashmed"
@@ -338,6 +607,30 @@ window.LEITURAS=[
 "min": 51,
 "t": "TDAH, autismo, transtornos alimentares, personalidade e insônia",
 "s": "TDAH com o PCDT de 2022 e o uso do metilfenidato, transtorno do espectro autista com sinais precoces, M-CHAT-R/F e a legislação, anorexia, bulimia e compulsão alimentar com critérios de internação e síndrome de realimentação, transtornos de personalidade borderline e antissocial, e insônia com TCC-I e desprescrição de benzodiazepínicos, pelo DSM-5-TR, MS, SBP, NICE e diretrizes do sono."
+},
+{
+"f": "psicofarmacologia-essencial.html",
+"tipo": "CANMAT 2023 · Beers 2023 · resumo de prova",
+"area": "humor",
+"min": 56,
+"t": "Psicofarmacologia essencial",
+"s": "Classes de antidepressivos, troca e potencialização pela CANMAT 2023, síndromes de descontinuação e serotoninérgica, antipsicóticos com a monitorização metabólica, lítio, valproato na idade fértil e lamotrigina, uso racional e retirada de benzodiazepínicos, interações que caem em prova e psicofármacos na gestação, na lactação e no idoso, pela CANMAT 2023, NICE, AGS Beers 2023 e ACOG 2023."
+},
+{
+"f": "toc-tept-luto-e-sintomas-somaticos.html",
+"tipo": "DSM-5-TR 2022 · NICE · resumo de prova",
+"area": "humor",
+"min": 54,
+"t": "TOC, TEPT, luto e sintomas somáticos",
+"s": "Transtorno obsessivo-compulsivo e transtornos relacionados, reação aguda ao estresse, estresse agudo e pós-traumático, transtorno de adaptação, luto normal e prolongado, transtorno de sintomas somáticos, ansiedade de doença, transtorno conversivo, factício e simulação, e o manejo na APS dos sintomas sem explicação médica, pelo DSM-5-TR (2022), CID-11, NICE, VA/DoD 2023 e Caderno de Atenção Básica nº 34."
+},
+{
+"f": "personalidade-sono-e-sexualidade.html",
+"tipo": "DSM-5-TR 2022 · CFM 2025 · resumo de prova",
+"area": "psiqinf",
+"min": 47,
+"t": "Personalidade, sono e sexualidade",
+"s": "Transtornos de personalidade dos grupos A, B e C com a abordagem do borderline, insônia na APS, uso indevido de medicamentos de prescrição e o receituário de controle especial, disfunções sexuais e disforia de gênero no que cabe ao generalista, pelo DSM-5-TR (2022), APA 2024, diretriz brasileira de insônia (2023), Portaria SVS/MS 344/1998 e Resolução CFM 2.427/2025."
 },
 {
 "grupo": "Cardiologia",

@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Homem de 30 anos sofreu ferimento por arma branca na face lateral do hemitórax direito. Chega taquipneico, com SpO2 de 88% em ar ambiente, PA 118/76 mmHg e FC 112 bpm. Há uma ferida de cerca de 4 cm na parede torácica que borbulha e aspira ar a cada inspiração. A traqueia está centrada e as veias do pescoço não estão distendidas. Qual é a conduta imediata?",
+  "alts": [
+   "Curativo oclusivo estéril fixado em três lados e, depois, dreno torácico por incisão separada",
+   "Intubação orotraqueal imediata com ventilação sob pressão positiva antes de cobrir a ferida",
+   "Curativo oclusivo fixado nos quatro lados e reavaliação após a radiografia de tórax em leito",
+   "Dreno torácico introduzido pela própria ferida, aproveitando o orifício já aberto na parede",
+   "Toracotomia de reanimação na sala de emergência para fechar o defeito da parede torácica"
+  ],
+  "gab": 0,
+  "tema": "trauma",
+  "sub": "Pneumotórax aberto",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Ferida torácica aspirativa é pneumotórax aberto: quando o defeito é grande, o ar entra preferencialmente pela parede e o pulmão colaba. O ATLS 11ª edição manda cobrir de imediato o defeito com curativo estéril maior que a ferida, fixado em três lados, para que funcione como válvula: fecha na inspiração e deixa o ar sair na expiração, evitando a evolução para pneumotórax hipertensivo. Em seguida coloca-se o dreno torácico por incisão diferente da ferida; o fechamento cirúrgico da parede é o tratamento definitivo.",
+  "porAlt": [
+   "Correta: o curativo em três lados faz efeito de válvula e o dreno vai por outra incisão, nunca pela ferida.",
+   "Pressão positiva com o defeito aberto não resolve o vazamento e pode precipitar fisiologia de tensão.",
+   "Vedar os quatro lados sem dreno torácico pode transformar o quadro em pneumotórax hipertensivo.",
+   "Passar o dreno pela ferida aumenta contaminação e sangramento; o dreno entra por incisão separada.",
+   "Toracotomia de reanimação é reservada à parada ou quase parada, situação que este paciente não apresenta."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos, motorista em colisão frontal em alta velocidade, chega com PA 158/92 mmHg e FC 106 bpm, sem outras lesões graves. A radiografia mostra mediastino alargado e a angiotomografia evidencia pequeno hematoma intramural no istmo aórtico, sem pseudoaneurisma nem extravasamento (lesão aórtica contusa de grau II). Qual é a conduta inicial?",
+  "alts": [
+   "Toracotomia esquerda de urgência para reparo aberto do istmo antes de qualquer outra medida",
+   "Betabloqueador de ação curta para manter PAS abaixo de 100 mmHg e FC abaixo de 100 bpm",
+   "Cristaloide em volume para manter a PAS acima de 140 mmHg até o reparo endovascular",
+   "Nitroprussiato isolado, sem betabloqueio, para reduzir a PAS a cerca de 130 mmHg",
+   "Alta após 24 horas de observação, pois lesões de grau II regridem sem tratamento"
+  ],
+  "gab": 1,
+  "tema": "trauma",
+  "sub": "Lesão aórtica contusa",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "A lesão aórtica contusa ocorre em mecanismos de desaceleração e se concentra no istmo, junto ao ligamento arterioso. A angiotomografia é o exame de escolha, e a radiografia normal não a exclui. Nas lesões de grau I e em muitas de grau II, o tratamento inicial e muitas vezes definitivo é o controle da pressão: o ATLS 11ª edição cita PAS abaixo de 100 mmHg e pulso abaixo de 100 bpm, com betabloqueador titulável de ação curta, como o esmolol, como primeira escolha. Lesões de grau III e IV têm indicação de reparo.",
+  "porAlt": [
+   "Reparo é indicado nos graus III e IV; no grau II o controle da pressão costuma ser suficiente.",
+   "Correta: betabloqueio titulável com PAS abaixo de 100 mmHg e FC abaixo de 100 bpm reduz o risco de ruptura.",
+   "Elevar a pressão aumenta a tensão na parede lesada e o risco de ruptura livre.",
+   "Vasodilatador sem betabloqueio provoca taquicardia reflexa e aumenta o estresse sobre a aorta.",
+   "Lesão aórtica não tratada pode romper; exige controle hemodinâmico e seguimento com imagem."
+  ]
+ },
+ {
+  "q": "Mulher de 38 anos, vítima de capotamento, tem fraturas do quarto ao sétimo arco costal esquerdo e contusão pulmonar extensa na tomografia, sem pneumotórax ou hemotórax. Está com PA 124/80 mmHg, FC 98 bpm e SpO2 de 93% com cateter nasal de oxigênio, sem esforço respiratório importante. Qual orientação é a mais adequada para as próximas 72 horas?",
+  "alts": [
+   "Hidratação liberal com cristaloide para manter diurese acima de 2 mL/kg/h durante as primeiras 72 horas",
+   "Corticoide sistêmico em dose alta para limitar o edema alveolar e o sangramento da contusão",
+   "Analgesia multimodal, fisioterapia respiratória e vigilância, pois a troca gasosa pode piorar até 72 h",
+   "Antibiótico profilático de amplo espectro para prevenir a pneumonia sobre a área contusa",
+   "Intubação profilática imediata, independentemente da troca gasosa e do trabalho respiratório"
+  ],
+  "gab": 2,
+  "tema": "trauma",
+  "sub": "Contusão pulmonar",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Na contusão pulmonar, a hipoxemia e a hipercapnia costumam atingir o pico por volta de 72 horas, e a deterioração pode ser tardia. O manejo é de suporte: analgesia multimodal com ênfase em não opioides e bloqueios regionais, fisioterapia, espirometria de incentivo e monitorização, evitando excesso de cristaloide. A intubação fica reservada para insuficiência respiratória, hipoxemia grave ou necessidade de sedação para analgesia. A principal causa de morbidade após fraturas de costela é a pneumonia por dor que impede a higiene pulmonar.",
+  "porAlt": [
+   "Sobrecarga hídrica agrava o edema do pulmão contuso e piora a oxigenação.",
+   "Corticoide não tem benefício demonstrado na contusão pulmonar e aumenta risco de infecção.",
+   "Correta: suporte com analgesia e higiene pulmonar, vigiando a piora que pode chegar até cerca de 72 horas.",
+   "Antibiótico profilático não previne pneumonia; o que previne é analgesia e expansão pulmonar.",
+   "Intubação é indicada por falência respiratória ou hipoxemia grave, ausentes neste momento."
+  ]
+ },
+ {
+  "q": "Homem de 22 anos sofreu facada no sexto espaço intercostal esquerdo, na linha axilar anterior. Está com PA 126/78 mmHg, FC 92 bpm, abdome sem sinais de peritonite, radiografia de tórax normal e FAST negativo. Não há indicação de laparotomia ou toracotomia imediata. Qual método é o mais confiável para excluir lesão do diafragma nesse paciente?",
+  "alts": [
+   "Radiografia de tórax repetida após 6 horas de observação",
+   "Ultrassonografia FAST repetida a cada 2 horas no leito",
+   "Exploração digital local da ferida na sala de emergência",
+   "Videolaparoscopia diagnóstica do hemidiafragma esquerdo",
+   "Esofagograma com contraste hidrossolúvel pela ferida"
+  ],
+  "gab": 3,
+  "tema": "trauma",
+  "sub": "Ferimento toracoabdominal",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Ferimentos penetrantes abaixo do quinto espaço intercostal anterior e do sétimo posterior podem atravessar o diafragma. A lesão diafragmática pequena costuma ser silenciosa: radiografia e FAST podem ser normais. O ATLS 11ª edição aponta a laparoscopia diagnóstica como estudo confiável para penetração peritoneal e diafragmática em ferimentos toracoabdominais. À esquerda, a lesão deve ser reparada, porque o fígado não protege e as vísceras herniam com risco de estrangulamento tardio.",
+  "porAlt": [
+   "A radiografia é normal em boa parte das lesões diafragmáticas pequenas e não as exclui.",
+   "FAST detecta líquido livre em volume, não perfurações pequenas do diafragma.",
+   "A exploração digital não alcança com segurança o diafragma e não define a lesão.",
+   "Correta: a laparoscopia visualiza diretamente o diafragma e permite o reparo no mesmo tempo.",
+   "Esofagograma investiga lesão esofágica em trajetos mediastinais, não o diafragma."
+  ]
+ },
+ {
+  "q": "Homem de 28 anos, após colisão de moto contra poste, apresentou pneumotórax hipertensivo à direita, descomprimido e drenado com dreno de 28 Fr. Mesmo com o dreno bem posicionado em aspiração, há borbulhamento intenso e contínuo no selo d'água, o pulmão não reexpande na radiografia e surge enfisema subcutâneo cervical progressivo. Qual é a principal hipótese e a conduta?",
+  "alts": [
+   "Dreno mal fixado; trocar por dreno mais calibroso pelo mesmo orifício e manter observação",
+   "Fístula de parênquima periférico; manter o dreno em selo d'água e reavaliar em 7 dias",
+   "Pneumotórax contralateral oculto; drenar o lado esquerdo de forma empírica e aguardar",
+   "Ruptura esofágica; jejum, antibiótico e esofagograma antes de qualquer outra medida",
+   "Lesão traqueobrônquica; broncoscopia diagnóstica e avaliação cirúrgica imediata"
+  ],
+  "gab": 4,
+  "tema": "trauma",
+  "sub": "Lesão traqueobrônquica",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Grande escape aéreo contínuo após a drenagem, pulmão que não reexpande e enfisema subcutâneo ou pneumomediastino progressivos sugerem lesão traqueobrônquica. A broncoscopia confirma o diagnóstico. O ATLS 11ª edição pede consulta cirúrgica imediata: lesões pequenas podem ser tratadas sem cirurgia, rupturas maiores são reparadas, e um segundo dreno pode ser necessário para controlar o vazamento. A intubação pode ser difícil e às vezes exige posicionamento do tubo guiado por fibra óptica além da lesão ou intubação seletiva.",
+  "porAlt": [
+   "Fixação ruim não explica escape maciço com pulmão colabado e enfisema progressivo.",
+   "Fístula periférica costuma permitir reexpansão; aqui o pulmão não expande, o que aponta para via aérea central.",
+   "Nada indica pneumotórax contralateral; drenar sem indicação acrescenta complicação.",
+   "Ruptura esofágica contusa é rara e não produz escape aéreo maciço pelo dreno.",
+   "Correta: escape persistente com pulmão colabado sugere lesão de via aérea; broncoscopia e cirurgião."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos bateu o tórax contra o volante em colisão a cerca de 50 km/h. Refere dor esternal. Está com PA 132/84 mmHg e FC 84 bpm, sem outras lesões. A radiografia de tórax é normal, o eletrocardiograma mostra ritmo sinusal sem alterações e a troponina sérica está normal. Qual é a conduta adequada quanto à suspeita de contusão miocárdica?",
+  "alts": [
+   "Liberar para casa com analgesia e orientações, sem monitorização cardíaca prolongada",
+   "Ecocardiograma transesofágico obrigatório antes de qualquer decisão sobre a alta",
+   "Internação em UTI com monitorização contínua por 48 horas, mesmo com exames normais",
+   "Cineangiocoronariografia de urgência para excluir dissecção traumática da coronária",
+   "Dosagem seriada de CK-MB por 72 horas, já que a troponina normal não tem valor"
+  ],
+  "gab": 0,
+  "tema": "trauma",
+  "sub": "Contusão miocárdica",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Na lesão cardíaca contusa, ECG ou ritmo anormal no monitor se associam a arritmias súbitas e justificam monitorização por 24 a 48 horas. Pelo ATLS 11ª edição, paciente com ECG normal e troponina normal pode receber alta com segurança, lembrando que essa triagem não detecta complicações raras e tardias, como ruptura do septo. Supradesnivelamento do ST sugere contusão ou infarto por lesão coronária e pode exigir cateterismo. Ecocardiograma fica para instabilidade ou arritmia.",
+  "porAlt": [
+   "Correta: ECG e troponina normais têm alto valor preditivo negativo e permitem a alta.",
+   "Ecocardiograma é reservado a instabilidade, arritmia ou suspeita de lesão estrutural.",
+   "Monitorização por 24 a 48 horas é para quem tem ECG ou ritmo alterado.",
+   "Cateterismo é considerado diante de supradesnivelamento do ST, ausente aqui.",
+   "CK-MB é menos específica; a troponina normal com ECG normal é o que orienta a alta."
+  ]
+ },
+ {
+  "q": "Mulher de 40 anos foi atropelada por carro. Chega com PA 82/50 mmHg e FC 128 bpm, dor à compressão suave das cristas ilíacas, equimose perineal e membros inferiores em rotação externa. O FAST é negativo e a radiografia mostra diástase ampla da sínfise púbica com abertura das articulações sacroilíacas. Qual medida deve ser feita de imediato para reduzir o sangramento?",
+  "alts": [
+   "Cinta pélvica sobre as cristas ilíacas, mantendo os membros em rotação externa",
+   "Cinta pélvica ou lençol na altura dos trocânteres maiores, com rotação interna",
+   "Compressão e distração repetidas da pelve para confirmar a instabilidade do anel",
+   "Laparotomia exploradora imediata para tamponar a fonte intraperitoneal",
+   "Fixação interna definitiva no centro cirúrgico antes de iniciar a transfusão"
+  ],
+  "gab": 1,
+  "tema": "trauma",
+  "sub": "Fratura pélvica instável",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "A pelve acomoda de 4 a 6 litros de sangue, e cerca de 85% do sangramento é venoso, o que explica o sucesso da compressão. O ATLS 11ª edição manda estabilizar com lençol ou cinta comercial posicionados circunferencialmente no nível dos trocânteres maiores, com rotação interna dos membros e, se possível, tornozelos unidos. A manobra de distração agressiva é desaconselhada porque aumenta o sangramento. Com FAST negativo, a sequência inclui ressuscitação hemostática, ácido tranexâmico em até 3 horas e angioembolização ou tamponamento pré-peritoneal.",
+  "porAlt": [
+   "Sobre as cristas a cinta não fecha o anel e a rotação externa mantém o volume pélvico aumentado.",
+   "Correta: cinta nos trocânteres maiores com rotação interna reduz o volume pélvico e tampona o sangramento venoso.",
+   "Repetir a manobra de distração desloca coágulos e aumenta a perda de sangue.",
+   "FAST negativo afasta fonte intraperitoneal volumosa; a fonte provável é retroperitoneal pélvica.",
+   "Fixação definitiva não é etapa da reanimação; a transfusão não deve esperar."
+  ]
+ },
+ {
+  "q": "Homem de 33 anos, vítima de colisão de moto, tem lesão esplênica de alto grau e fratura de fêmur, sem trauma craniano ou raquimedular e sem hipertensão prévia. Está a caminho do centro cirúrgico, que estará pronto em cerca de 15 minutos, recebendo hemocomponentes. Segundo o ATLS 11ª edição, qual alvo de pressão orienta a reposição até o controle da hemorragia?",
+  "alts": [
+   "PAS de 120 mmHg, com bolus de 1 L de cristaloide a cada queda da pressão",
+   "PAM de 90 mmHg, sustentada com noradrenalina desde a admissão do paciente",
+   "PAS próxima de 90 mmHg, com alíquotas de 100 a 200 mL de hemocomponente",
+   "PAS de 60 mmHg, sem nenhuma reposição até a abertura da cavidade abdominal",
+   "PAS de 110 mmHg, com cristaloide como fluido preferencial até a cirurgia"
+  ],
+  "gab": 2,
+  "tema": "trauma",
+  "sub": "Hipotensão permissiva",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Restaurar a pressão normal antes do controle da hemorragia pode aumentar o sangramento. No trauma contuso, o ATLS 11ª edição sugere hipotensão permissiva com PAS em torno de 90 mmHg, usando infusões de 100 a 200 mL de hemocomponente, até o controle definitivo. Com TCE, lesão medular ou hipertensão prévia, alvo mais alto, de 110 mmHg, pode ser mais apropriado. A estratégia não substitui a hemostasia, não serve para sustentar tratamento não operatório e não é aceitável em transferências sem supervisão.",
+  "porAlt": [
+   "Normotensão com cristaloide em bolus aumenta sangramento, hemodiluição e coagulopatia.",
+   "Vasopressor precoce no choque hemorrágico não corrige a perda de volume e piora o desfecho.",
+   "Correta: no contuso sem TCE, alvo de PAS por volta de 90 mmHg com pequenas alíquotas de sangue.",
+   "Não repor nada leva a hipoperfusão grave; a meta é hipotensão controlada, não ausência de reposição.",
+   "PAS de 110 mmHg é a meta com TCE ou lesão medular; cristaloide não é o fluido de escolha."
+  ]
+ },
+ {
+  "q": "Mulher de 24 anos, sem gestações prévias, chega após colisão automobilística em choque hemorrágico grave, com PA 70/40 mmHg, FC 140 bpm e sangramento ativo por fratura pélvica. A tipagem sanguínea ainda não está disponível e a equipe decide transfundir imediatamente. Quais hemocomponentes devem ser liberados?",
+  "alts": [
+   "Hemácias O Rh positivo e plasma O, por serem doadores universais",
+   "Cristaloide em volume até a prova cruzada completa e hemácias tipadas",
+   "Hemácias AB Rh negativo e plasma O Rh negativo até a tipagem final",
+   "Hemácias O Rh negativo e plasma AB até chegarem os tipo-específicos",
+   "Albumina a 20% e coloide sintético até liberar o sangue compatível"
+  ],
+  "gab": 3,
+  "tema": "trauma",
+  "sub": "Hemocomponentes de emergência",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "No sangramento ativo grave não se espera a prova cruzada. O ATLS 11ª edição orienta transfundir hemácias do grupo O e plasma AB até que produtos tipo-específicos e com prova cruzada estejam disponíveis, mirando proporção equilibrada de hemácias, plasma e plaquetas, ou sangue total. Em pacientes que podem engravidar, as hemácias devem ser Rh negativo, para evitar aloimunização anti-D; nos demais, aceita-se Rh positivo. Coloides e hipertônicos não mostraram benefício sobre cristaloides, e o cristaloide deve ser minimizado.",
+  "porAlt": [
+   "Plasma doador universal é AB, não O; e em mulher em idade fértil as hemácias devem ser Rh negativo.",
+   "Esperar prova cruzada com cristaloide em volume agrava coagulopatia e hipoperfusão.",
+   "Hemácias AB não são doadoras universais; o plasma O tem anti-A e anti-B.",
+   "Correta: hemácias O Rh negativo em quem pode engravidar e plasma AB até os produtos tipados.",
+   "Coloides não trazem benefício na ressuscitação do trauma e não transportam oxigênio."
+  ]
+ },
+ {
+  "q": "Homem de 19 anos foi atingido na região temporal direita por um taco durante briga. Perdeu a consciência por cerca de 1 minuto, acordou conversando normalmente e, 2 horas depois, ficou sonolento, com Glasgow 11 e pupila direita maior que a esquerda. A tomografia mostra coleção hiperdensa biconvexa temporal direita de cerca de 40 mL, com desvio da linha média de 7 mm. Qual é a conduta?",
+  "alts": [
+   "Hiperventilação mantida com PaCO2 de 25 mmHg e nova tomografia em 24 horas",
+   "Dexametasona em dose alta e observação neurológica horária em enfermaria",
+   "Manitol em bolus e repetição da tomografia em 6 horas antes de decidir cirurgia",
+   "Observação, porque o paciente teve período de lucidez e abre os olhos ao chamado",
+   "Craniotomia de urgência para drenagem do hematoma, acionando a neurocirurgia"
+  ],
+  "gab": 4,
+  "tema": "trauma",
+  "sub": "Hematoma extradural",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Trauma temporal com perda breve de consciência, intervalo lúcido e piora com anisocoria é o quadro clássico do hematoma extradural, em geral por lesão da artéria meníngea média, com imagem biconvexa na tomografia. O ATLS 11ª edição lista como indicação cirúrgica o hematoma extradural com volume acima de 25 mL, espessura acima de 15 mm, desvio da linha média acima de 5 mm ou Glasgow de 8 ou menos. A drenagem precoce tem excelente prognóstico; medidas osmóticas e hiperventilação breve servem só como ponte.",
+  "porAlt": [
+   "Hiperventilação prolongada causa isquemia cerebral e não trata a lesão de massa.",
+   "Corticoide não tem papel no TCE e aumenta a mortalidade.",
+   "Manitol é ponte; esperar nova imagem com hematoma de 40 mL e desvio de 7 mm atrasa a cirurgia.",
+   "O intervalo lúcido seguido de piora é justamente o alerta da lesão expansiva.",
+   "Correta: volume acima de 25 mL e desvio acima de 5 mm indicam drenagem cirúrgica imediata."
+  ]
+ },
+ {
+  "q": "Homem de 42 anos com TCE grave após queda de andaime está intubado, com PA 138/80 mmHg e SpO2 de 98%. Na reavaliação, a pupila esquerda fica dilatada e não reativa e surge postura em extensão. A tomografia mostra hematoma subdural agudo com desvio da linha média, e a neurocirurgia chegará em 20 minutos. Qual conjunto de medidas é adequado enquanto se aguarda a cirurgia?",
+  "alts": [
+   "Cabeceira a 30 a 45 graus, bolus de salina hipertônica ou manitol e hiperventilação breve",
+   "Cabeceira a zero grau, hipotermia a 33 °C e hiperventilação mantida com PaCO2 de 25 mmHg",
+   "Dexametasona em dose alta, restrição hídrica e PAS mantida em torno de 80 mmHg",
+   "Manitol em infusão contínua sem bolus, PaCO2 alvo de 50 mmHg e colar cervical bem apertado",
+   "Bolus de soro glicosado a 5%, suspensão de toda a sedação e PAS alvo de apenas 90 mmHg"
+  ],
+  "gab": 0,
+  "tema": "trauma",
+  "sub": "Herniação cerebral",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Diante de sinais de herniação, o ATLS 11ª edição recomenda elevar a cabeceira a 30 a 45 graus com a coluna neutra, conferir colar e fixação do tubo para não comprimir as jugulares, otimizar analgesia e sedação, fazer bolus de salina hipertônica a 5% ou manitol a 20% (250 mL) e hiperventilação transitória com ETCO2 de 30 a 35 mmHg como medida de salvamento, mantendo normotermia. A hiperventilação prolongada causa isquemia. Para maiores de 15 anos com TCE, a PAS deve ficar em pelo menos 100 mmHg.",
+  "porAlt": [
+   "Correta: cabeceira elevada, terapia hiperosmolar e hiperventilação breve são a ponte até a descompressão.",
+   "Hiperventilação mantida e profunda reduz o fluxo cerebral e aumenta a isquemia.",
+   "Corticoide não é indicado no TCE e hipotensão agrava a lesão secundária.",
+   "Hipercapnia aumenta a PIC e colar apertado dificulta o retorno venoso cerebral.",
+   "Solução glicosada hipotônica piora o edema cerebral; hipotensão deve ser evitada."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos teve o carro atingido na traseira por outro veículo em baixa velocidade, num semáforo. Chega com colar cervical, Glasgow 15, orientado, sem uso de álcool ou drogas, sem dor à palpação da linha média cervical, com exame neurológico normal e sem outras lesões dolorosas. Refere apenas leve dor muscular paravertebral. Qual é a conduta em relação à coluna cervical?",
+  "alts": [
+   "Radiografia da coluna cervical em três incidências antes de retirar o colar",
+   "Liberar a coluna clinicamente e retirar o colar sem pedir exame de imagem",
+   "Tomografia da coluna cervical, por se tratar de colisão entre automóveis",
+   "Manter o colar por 7 dias e reavaliar no ambulatório de ortopedia",
+   "Ressonância magnética para excluir lesão ligamentar antes de retirar o colar"
+  ],
+  "gab": 1,
+  "tema": "trauma",
+  "sub": "Liberação da coluna cervical",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Os critérios NEXUS dispensam imagem quando não há dor na linha média posterior, intoxicação, alteração do nível de consciência, déficit neurológico focal nem lesão dolorosa que distraia. A regra canadense também classifica a colisão traseira simples como mecanismo de baixo risco. Cumpridos os critérios, o ATLS 11ª edição permite liberar a coluna pelo exame clínico sistemático, inclusive com teste de rotação ativa. As regras não se aplicam a crianças e a maiores de 65 anos, em quem o desempenho foi ruim.",
+  "porAlt": [
+   "Imagem não é necessária quando todos os critérios de baixo risco estão presentes.",
+   "Correta: preenche os critérios NEXUS e a regra canadense; a liberação é clínica.",
+   "O tipo de colisão não define imagem; a colisão traseira simples é de baixo risco.",
+   "Manter colar sem indicação causa desconforto, lesão de pele e atraso sem benefício.",
+   "Ressonância não é rastreamento para paciente de baixo risco com exame normal."
+  ]
+ },
+ {
+  "q": "Homem de 74 anos, com espondilose cervical conhecida, caiu de frente na calçada e bateu o queixo, com hiperextensão do pescoço. Chega com força grau 2 nos membros superiores e grau 4 nos membros inferiores, alteração variável da sensibilidade e retenção urinária. A tomografia não mostra fratura nem luxação. Qual é a síndrome medular mais provável?",
+  "alts": [
+   "Síndrome de Brown-Séquard",
+   "Síndrome medular anterior",
+   "Síndrome medular central",
+   "Síndrome da cauda equina",
+   "Síndrome do cone medular"
+  ],
+  "gab": 2,
+  "tema": "trauma",
+  "sub": "Síndrome medular central",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "A síndrome medular central responde por 15% a 25% das lesões medulares e se associa à hiperextensão cervical em pacientes com estenose de canal prévia, por isso é mais comum em idosos, muitas vezes sem fratura. O déficit motor é desproporcionalmente maior nos membros superiores do que nos inferiores, com alteração sensitiva variável e disfunção vesical. A Brown-Séquard dá déficit motor e proprioceptivo ipsilateral com perda de dor e temperatura contralateral; a anterior poupa a propriocepção.",
+  "porAlt": [
+   "Brown-Séquard produz déficit motor ipsilateral e perda termoálgica contralateral, não padrão braço maior que perna.",
+   "A síndrome anterior compromete motricidade e dor abaixo da lesão, poupando a coluna dorsal, sem predomínio nos braços.",
+   "Correta: hiperextensão em idoso com estenose e fraqueza maior nos membros superiores.",
+   "Cauda equina é lesão lombossacra de raízes, sem acometer membros superiores.",
+   "O cone medular é lesão toracolombar, sem déficit nos membros superiores."
+  ]
+ },
+ {
+  "q": "Menina de 4 anos, 16 kg, sofreu escaldadura por água fervente há 1 hora, com queimaduras de segunda grau profundo e terceiro grau somando 30% da superfície corporal. Está hemodinamicamente estável, com sonda vesical. Segundo o ATLS 11ª edição, qual é a taxa inicial de reposição ajustada e a meta de diurese?",
+  "alts": [
+   "Ringer lactato a 60 mL/h, sem glicose, com diurese alvo de 0,5 mL/kg/h",
+   "Ringer lactato a 120 mL/h (4 mL/kg/%SCQ), com diurese alvo de 2 mL/kg/h",
+   "Bolus de 20 mL/kg seguido de Ringer a 45 mL/h, com diurese alvo de 1 mL/kg/h",
+   "Ringer lactato a 90 mL/h, mais glicosado de manutenção, com diurese de 1 mL/kg/h",
+   "Soro fisiológico a 30 mL/h e albumina desde a primeira hora, diurese de 3 mL/kg/h"
+  ],
+  "gab": 3,
+  "tema": "trauma",
+  "sub": "Reposição no queimado pediátrico",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Para crianças com menos de 13 anos, o ATLS 11ª edição estima 3 mL de Ringer lactato por kg por %SCQ em 24 horas e divide o total por 16 para obter a taxa horária ajustada: 3 x 16 x 30 = 1.440 mL, ou 90 mL/h. Crianças com 30 kg ou menos recebem ainda Ringer lactato com glicose a 5% em taxa de manutenção, não titulado, para evitar hipoglicemia. A meta de diurese abaixo de 14 anos é 1 mL/kg/h; a taxa sobe ou desce de 10% a 30% conforme a diurese, e bolus só se houver hipotensão.",
+  "porAlt": [
+   "2 mL/kg/%SCQ e 0,5 mL/kg/h são os valores do adulto; a criança pequena também precisa de glicose.",
+   "4 mL/kg/%SCQ é o cálculo da lesão elétrica, não da escaldadura.",
+   "Bolus é desencorajado no queimado sem hipotensão, pois aumenta o edema.",
+   "Correta: 3 x 16 x 30 dividido por 16 dá 90 mL/h, mais manutenção glicosada, diurese 1 mL/kg/h.",
+   "Soro fisiológico em baixa taxa subestima a perda e não há indicação de albumina inicial."
+  ]
+ },
+ {
+  "q": "Homem de 36 anos, resgatado de incêndio, tem queimaduras de terceiro grau circunferenciais em todo o tronco, 45% da superfície corporal. Foi intubado na admissão. Seis horas depois, em ventilação controlada, a pressão de pico sobe de 28 para 48 cmH2O, a PaCO2 aumenta progressivamente e a expansibilidade torácica está muito reduzida, sem pneumotórax na radiografia. Qual é a conduta indicada?",
+  "alts": [
+   "Trocar o tubo orotraqueal por outro de maior calibre e aumentar bastante o volume corrente ofertado",
+   "Drenar os dois hemitórax de forma empírica, apesar da radiografia sem pneumotórax",
+   "Bloqueio neuromuscular contínuo isolado e reavaliação da ventilação em 24 horas",
+   "Aumentar a reposição para 4 mL/kg/%SCQ e iniciar diurético para reduzir o edema",
+   "Escarotomia nas linhas axilares anteriores com incisão cruzada na transição toracoabdominal"
+  ],
+  "gab": 4,
+  "tema": "trauma",
+  "sub": "Escarotomia torácica",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "A escara de queimadura profunda circunferencial não se distende. Com o edema da ressuscitação, o tórax fica encarcerado: sobem a pressão inspiratória de pico e a PaCO2, e cai a complacência. O ATLS 11ª edição indica escarotomias torácica e abdominal ao longo das linhas axilares anteriores, unidas por incisão transversal na junção do tórax com o abdome, o que costuma resolver o problema. O mesmo raciocínio vale para membros com escara circunferencial e sinais de síndrome compartimental, de preferência em contato com um centro de queimados.",
+  "porAlt": [
+   "O problema é a restrição da parede, não o calibre do tubo; volume maior eleva ainda mais as pressões.",
+   "Sem pneumotórax, drenar não corrige a restrição imposta pela escara.",
+   "Bloqueio neuromuscular não libera a escara rígida que encarcera o tórax.",
+   "Mais volume aumenta o edema sob a escara; diurético não trata a restrição mecânica.",
+   "Correta: escara circunferencial com pico de pressão e hipercapnia pede escarotomia torácica."
+  ]
+ },
+ {
+  "q": "Mulher de 55 anos foi retirada de apartamento em chamas após 20 minutos de exposição à fumaça. Tem queimaduras de primeiro grau na face, cefaleia intensa, náuseas e confusão. Respira sem esforço, sem estridor ou rouquidão. O oxímetro de pulso marca 99% em ar ambiente e a carboxi-hemoglobina na gasometria é de 32%. Qual é a conduta imediata?",
+  "alts": [
+   "Oxigênio a 100% por máscara com reservatório, que reduz a meia-vida do CO para cerca de 45 minutos",
+   "Oxigênio por cateter nasal a 2 L/min, pois a saturação de pulso de 99% indica oxigenação adequada",
+   "Câmara hiperbárica antes da avaliação primária, como primeira etapa da reanimação do queimado",
+   "Observação em ar ambiente, pois sem oxigênio a meia-vida do CO no sangue é de cerca de 40 minutos",
+   "Intubação imediata em sequência rápida só pela queimadura de primeiro grau na face e pela fumaça"
+  ],
+  "gab": 0,
+  "tema": "trauma",
+  "sub": "Intoxicação por monóxido de carbono",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Em queimados em ambiente fechado deve-se presumir exposição ao CO. A hemoglobina tem afinidade mais de 200 vezes maior pelo CO que pelo oxigênio, e o oxímetro de pulso comum não distingue carboxi-hemoglobina, dando leitura falsamente normal. Níveis de 30% a 40% causam confusão. O ATLS 11ª edição manda oferecer oxigênio a 100% a todo queimado na avaliação primária: a meia-vida do CO cai de cerca de 4 horas em ar ambiente para 40 a 50 minutos. A oxigenoterapia hiperbárica não tem papel na ressuscitação primária.",
+  "porAlt": [
+   "Correta: O2 a 100% encurta a meia-vida do CO de cerca de 4 horas para 40 a 50 minutos.",
+   "A oximetria de pulso comum lê carboxi-hemoglobina como oxi-hemoglobina e superestima a saturação.",
+   "Hiperbárica não faz parte da reanimação primária e não deve atrasar a avaliação inicial.",
+   "Em ar ambiente a meia-vida do CO é de cerca de 4 horas, não 40 minutos.",
+   "Sem sinais de obstrução ou rebaixamento que comprometa a via aérea, não há indicação imediata de intubação."
+  ]
+ },
+ {
+  "q": "Homem de 29 anos, operário, teve o antebraço e a mão direitos atingidos por solução concentrada de hidróxido de sódio (soda cáustica) há 10 minutos. A pele está avermelhada, com áreas esbranquiçadas e dor intensa. A roupa da manga ainda está molhada com o produto. Qual é a conduta inicial?",
+  "alts": [
+   "Aplicar vinagre diluído sobre a pele para neutralizar o álcali e depois secar",
+   "Retirar a roupa e irrigar com água morna abundante por tempo prolongado, checando o pH",
+   "Cobrir a área com sulfadiazina de prata e encaminhar ao centro de queimados, sem lavar antes",
+   "Irrigar com água por 5 minutos e fazer curativo oclusivo seco sobre a área",
+   "Aplicar gel de gluconato de cálcio tópico como tratamento principal da lesão"
+  ],
+  "gab": 1,
+  "tema": "trauma",
+  "sub": "Queimadura química cutânea",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Na queimadura química, o único fator modificável pelo médico é o tempo de contato. O ATLS 11ª edição manda remover roupas contaminadas, escovar antes o pó seco quando houver e irrigar imediatamente com grande volume de água morna por pelo menos 20 a 30 minutos, com irrigação mais longa nos álcalis, que penetram mais fundo por saponificação. O pH da pele confere a eficácia. Agentes neutralizantes não têm vantagem e a reação gera calor. Gluconato de cálcio tópico é específico do ácido fluorídrico.",
+  "porAlt": [
+   "Neutralizar produz reação exotérmica e mais lesão; a água é o tratamento.",
+   "Correta: remover a fonte e irrigar longamente com água, guiando-se pelo pH da pele.",
+   "Pomada sobre pele ainda contaminada mantém o álcali em contato com o tecido.",
+   "Cinco minutos são insuficientes; álcalis exigem irrigação ainda mais longa que ácidos.",
+   "Cálcio tópico é para ácido fluorídrico, não para hidróxido de sódio."
+  ]
+ },
+ {
+  "q": "Eletricista de 34 anos, 70 kg, tocou um cabo de 13.800 V. Tem pequena queimadura de entrada na mão direita, que está fletida e endurecida, e de saída no pé esquerdo, somando cerca de 10% da superfície corporal. A urina na sonda está vermelho-escura. PA 128/80 mmHg. Qual conduta está de acordo com o ATLS 11ª edição?",
+  "alts": [
+   "Reposição pela fórmula de 2 mL/kg/%SCQ, já que a área queimada é pequena",
+   "Hidratação apenas oral, pois a área queimada é inferior a 20% da superfície",
+   "Ringer a 4 mL/kg/%SCQ, diurese alvo de 100 mL/h até clarear e avaliar fasciotomia",
+   "Alta após 6 horas se a dor melhorar, pois a pele restante tem aspecto normal",
+   "Restrição hídrica e diurético de alça para evitar edema do membro afetado"
+  ],
+  "gab": 2,
+  "tema": "trauma",
+  "sub": "Queimadura elétrica de alta tensão",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Na lesão elétrica a ferida visível subestima a necrose muscular profunda. Por isso o ATLS 11ª edição calcula a reposição com 4 mL/kg/%SCQ em qualquer idade, dividindo por 16 para a taxa horária. Urina vermelho-escura sugere mioglobinúria: a meta de diurese passa a 100 mL/h no adulto e 2 mL/kg/h na criança até a urina clarear. Mão fletida e contraída com pequena ferida indica lesão profunda e provável necessidade de fasciotomia. Alta tensão exige ECG, monitorização e busca de trauma associado.",
+  "porAlt": [
+   "2 mL/kg/%SCQ é a fórmula da queimadura térmica e subestima a lesão elétrica.",
+   "O limiar de 20% vale para queimadura térmica; a elétrica com mioglobinúria exige reposição venosa.",
+   "Correta: 4 mL/kg/%SCQ, diurese de 100 mL/h enquanto há pigmento e atenção ao compartimento.",
+   "Alta tensão, mioglobinúria e mão contraída exigem internação e monitorização.",
+   "Restringir volume com mioglobinúria precipita lesão renal aguda."
+  ]
+ },
+ {
+  "q": "Menino de 5 anos foi atropelado e tem fraturas múltiplas de mandíbula e maxila com sangramento oral volumoso. A intubação orotraqueal falhou duas vezes, a ventilação com bolsa e máscara não mantém a saturação e a máscara laríngea não vedou. A SpO2 é de 72% e caindo. Qual é a via aérea de resgate indicada?",
+  "alts": [
+   "Cricotireoidostomia cirúrgica com tubo traqueal número 6,0 com balonete",
+   "Traqueostomia cirúrgica formal na sala de emergência com o pescoço estendido",
+   "Cricotireoidostomia por punção com agulha e insuflação de oxigênio a jato",
+   "Nova tentativa de intubação nasotraqueal às cegas, com o cuff já insuflado",
+   "Retirar o colar e hiperestender o pescoço para tentar a terceira laringoscopia"
+  ],
+  "gab": 2,
+  "tema": "trauma",
+  "sub": "Via aérea de resgate na criança",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Quando não se consegue intubar nem ventilar a criança, o ATLS 11ª edição indica dispositivo supraglótico ou cricotireoidostomia por agulha. A insuflação a jato pela membrana cricotireoidea oxigena temporariamente, mas não ventila de modo adequado e leva a hipercapnia progressiva, servindo de ponte para a via aérea definitiva. A cricotireoidostomia cirúrgica raramente deve ser feita em lactentes e crianças pequenas; é possível em crianças maiores, em geral a partir dos 12 anos, quando a membrana é facilmente palpável.",
+  "porAlt": [
+   "A via cirúrgica pela membrana cricotireoidea é evitada antes de cerca de 12 anos.",
+   "Traqueostomia de emergência é demorada e arriscada; não é a via de resgate na sala de trauma.",
+   "Correta: punção com agulha e jato de oxigênio é a ponte em criança pequena.",
+   "Via nasotraqueal às cegas é contraindicada no trauma de face e em criança pequena.",
+   "Hiperextensão desrespeita a proteção cervical e uma terceira tentativa adia a oxigenação."
+  ]
+ },
+ {
+  "q": "Lactente de 4 meses é levado ao pronto-socorro com edema na coxa direita. A mãe relata que ele caiu do sofá no dia anterior. A radiografia mostra fratura diafisária de fêmur e o exame revela equimoses de cores diferentes no dorso. Os pais dão versões diferentes para o horário da queda. Além do tratamento da fratura, qual conduta é obrigatória?",
+  "alts": [
+   "Notificar o caso apenas depois que o laudo do IML confirmar a agressão física",
+   "Pedir a autorização dos pais antes de comunicar a suspeita a qualquer órgão",
+   "Comunicar à polícia somente se houver lesão genital associada ao quadro",
+   "Comunicar a suspeita ao Conselho Tutelar e notificar, mesmo sem confirmação",
+   "Dar alta com imobilização e marcar retorno para reavaliar a história contada"
+  ],
+  "gab": 3,
+  "tema": "trauma",
+  "sub": "Maus-tratos na criança",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Lei 8.069/1990 (Estatuto da Criança e do Adolescente, art. 13 e 245); ATLS, 11ª edição, 2025",
+  "coment": "Fratura de osso longo em criança que ainda não anda, história incompatível com o desenvolvimento, versões discordantes e hematomas em diferentes estágios estão entre os sinais de maus-tratos listados pelo ATLS 11ª edição, que também cita hemorragia retiniana e fraturas de costela ou crânio antes dos 24 meses. No Brasil, o ECA obriga a comunicação ao Conselho Tutelar diante da simples suspeita, e o artigo 245 prevê penalidade ao médico que deixar de comunicar. A violência também é de notificação compulsória ao sistema de vigilância.",
+  "porAlt": [
+   "A lei exige comunicação diante da suspeita; esperar confirmação expõe a criança a novo trauma.",
+   "A comunicação não depende de autorização dos responsáveis, que podem ser os agressores.",
+   "Qualquer suspeita de maus-tratos deve ser comunicada, não só a violência sexual.",
+   "Correta: o ECA obriga comunicar ao Conselho Tutelar a suspeita, sem esperar confirmação.",
+   "Dar alta sem proteção mantém a criança no ambiente de risco."
+  ]
+ },
+ {
+  "q": "Menino de 6 anos, 22 kg, foi atropelado por moto. Tem deformidade fechada na coxa esquerda, com fratura diafisária de fêmur na radiografia, e escoriações no abdome superior. Está com FC 150 bpm, PA 78/50 mmHg, enchimento capilar de 4 segundos e sonolento. A equipe atribui o choque à fratura do fêmur. Qual raciocínio deve orientar a conduta?",
+  "alts": [
+   "A fratura fechada de fêmur explica o choque; basta imobilizar com tração e repor volume",
+   "O choque é neurogênico até prova em contrário, e a prioridade é iniciar vasopressor",
+   "A hipotensão na criança é sinal precoce de perda pequena, e a observação basta",
+   "O choque se deve à dor da fratura e deve responder a analgesia endovenosa potente",
+   "A fratura isolada raramente causa choque na criança; deve-se buscar sangramento abdominal"
+  ],
+  "gab": 4,
+  "tema": "trauma",
+  "sub": "Choque na criança politraumatizada",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Diferente do adulto, a fratura fechada de fêmur na criança dificilmente causa perda capaz de alterar a hemodinâmica. Pelo ATLS 11ª edição, instabilidade diante de suposta fratura isolada de fêmur deve levar à busca de outra fonte, sendo a intra-abdominal a mais comum. A hipotensão na criança é sinal tardio, que aparece quando a perda já passa de cerca de 25% a 30% da volemia. A reposição começa com 20 mL/kg de cristaloide e, sem resposta sustentada, segue com 10 mL/kg de concentrado de hemácias ou sangue total.",
+  "porAlt": [
+   "Imobilizar e repor sem procurar a fonte atrasa o diagnóstico do sangramento abdominal.",
+   "Choque neurogênico cursa com bradicardia e pele quente; aqui há taquicardia e má perfusão.",
+   "Na criança a hipotensão é tardia e indica perda volumosa, não pequena.",
+   "Dor não explica hipotensão com má perfusão; tratar só a dor esconde a hemorragia.",
+   "Correta: choque com fratura fechada de fêmur na criança pede busca ativa de fonte abdominal."
+  ]
+ },
+ {
+  "q": "Gestante de 28 semanas, tipo sanguíneo O Rh negativo, sofreu colisão automobilística a baixa velocidade usando cinto. Está estável, sem dor abdominal, sem sangramento vaginal ou perda de líquido, com útero indolor e batimentos fetais normais. O teste de Kleihauer-Betke é negativo. Qual é a conduta adequada?",
+  "alts": [
+   "Imunoglobulina anti-D e cardiotocografia contínua por pelo menos 6 horas",
+   "Alta imediata, pois o Kleihauer-Betke negativo dispensa a imunoglobulina anti-D",
+   "Anti-D só se houver sangramento vaginal, com monitorização fetal por uma hora",
+   "Ultrassonografia normal exclui descolamento e permite a alta sem monitorizar",
+   "Anti-D somente após o parto, caso o recém-nascido tenha sangue Rh positivo"
+  ],
+  "gab": 0,
+  "tema": "trauma",
+  "sub": "Trauma na gestante Rh negativo",
+  "cenario": "emg",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "O trauma pode causar hemorragia feto-materna e sensibilização anti-D. O ATLS 11ª edição recomenda pelo menos uma dose de imunoglobulina anti-D, padrão de 300 microgramas, a toda gestante Rh negativo vítima de trauma, mesmo com Kleihauer-Betke negativo ou indisponível, em até 72 horas. O descolamento de placenta pode surgir até 24 horas depois e a ultrassonografia tem baixa sensibilidade para ele. Por isso a monitorização fetal eletrônica dura no mínimo 6 horas, estendida a 24 horas se houver mais de 6 contrações por hora.",
+  "porAlt": [
+   "Correta: anti-D para toda gestante Rh negativo traumatizada e monitorização fetal por no mínimo 6 horas.",
+   "O ATLS manda aplicar anti-D mesmo com Kleihauer-Betke negativo.",
+   "A hemorragia feto-materna pode ser oculta; uma hora de monitorização é insuficiente.",
+   "A ultrassonografia tem baixa sensibilidade para descolamento e não substitui a cardiotocografia.",
+   "Postergar o anti-D para o parto perde a janela de 72 horas para evitar a sensibilização."
+  ]
+ },
+ {
+  "q": "Gestante com cerca de 32 semanas, útero palpável acima da cicatriz umbilical, chega em parada cardíaca após atropelamento. A equipe faz RCP de alta qualidade com deslocamento manual do útero para a esquerda, via aérea definitiva, descompressão bilateral do tórax e transfusão. Após 5 minutos não há retorno da circulação espontânea. O hospital dispõe de equipe cirúrgica. Qual é a conduta?",
+  "alts": [
+   "Encerrar a reanimação, pois 5 minutos sem retorno indicam futilidade no trauma",
+   "Realizar a cesárea ressuscitativa, independentemente da atividade cardíaca fetal",
+   "Fazer a cesárea somente se houver batimentos fetais na ultrassonografia à beira do leito",
+   "Inclinar a mesa a 30 graus para a esquerda e manter a RCP por mais 15 minutos",
+   "Deslocar as mãos para o terço superior do esterno e manter RCP sem abordar o útero"
+  ],
+  "gab": 1,
+  "tema": "trauma",
+  "sub": "Parada cardíaca na gestante",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "O ATLS 11ª edição substituiu o termo cesárea perimortem por parto cesáreo ressuscitativo, porque esvaziar o útero rapidamente desfaz a compressão aortocava, reduz a demanda circulatória e aumenta a chance de retorno da circulação materna em mais de 50%, mesmo com feto inviável. Deve ser considerado quando o útero está na altura ou acima do umbigo e não há retorno após 5 minutos de reanimação adequada, sem depender do estado fetal. Mantém-se decúbito dorsal com deslocamento manual do útero e a posição habitual das mãos.",
+  "porAlt": [
+   "Cinco minutos não definem futilidade; é justamente o momento de esvaziar o útero.",
+   "Correta: útero no umbigo ou acima e sem retorno em 5 minutos indicam a cesárea ressuscitativa.",
+   "A decisão é pela fisiologia materna e não depende da atividade cardíaca fetal.",
+   "A diretriz prefere deslocamento manual à inclinação, que prejudica as compressões.",
+   "Não há modificação da posição das mãos na gestante; o útero precisa ser esvaziado."
+  ]
+ },
+ {
+  "q": "Homem de 79 anos, hipertenso em uso de atenolol e losartana, caiu da escada de casa. Queixa dor no quadril e na bacia. Está com PA 112/70 mmHg, FC 74 bpm, pele fria e lactato de 3,8 mmol/L. A radiografia mostra fratura dos ramos isquiopúbicos e do acetábulo. Como interpretar a hemodinâmica desse paciente?",
+  "alts": [
+   "Está estável, pois a FC abaixo de 100 bpm afasta choque hemorrágico relevante",
+   "Está estável, já que só PAS abaixo de 90 mmHg define hipotensão em qualquer idade",
+   "Há choque provável: acima de 65 anos PAS abaixo de 110 mmHg já é hipotensão",
+   "O lactato elevado decorre do jejum e da dor, sem relação com perfusão tecidual",
+   "Há choque cardiogênico pelo betabloqueador, que deve ser revertido com glucagon"
+  ],
+  "gab": 2,
+  "tema": "trauma",
+  "sub": "Choque oculto no idoso",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "No idoso hipertenso, uma pressão aparentemente normal pode ser hipotensão. O ATLS 11ª edição apoia usar PAS de 110 mmHg como limiar de hipotensão acima de 65 anos. Insensibilidade às catecolaminas, rigidez vascular e betabloqueadores impedem a taquicardia compensatória. Lactato, déficit de base e índice de choque ajudam a detectar hipovolemia oculta; índice de choque de 0,7 ou mais tem boa especificidade para necessidade de transfusão. A insuficiência circulatória no idoso traumatizado geralmente significa sangramento ativo.",
+  "porAlt": [
+   "O betabloqueador bloqueia a taquicardia; FC normal não exclui choque no idoso.",
+   "O limiar de 90 mmHg subestima a hipotensão no idoso, para quem se usa 110 mmHg.",
+   "Correta: PAS abaixo de 110 mmHg no idoso, com lactato alto e pele fria, indica hipoperfusão.",
+   "Lactato de 3,8 mmol/L com pele fria após trauma deve ser lido como hipoperfusão.",
+   "O mais provável é sangramento pela fratura pélvica, mascarado pelo betabloqueador."
+  ]
+ },
+ {
+  "q": "Mulher de 82 anos, que mora sozinha, caiu da própria altura e tem fraturas do quinto ao oitavo arco costal direito, sem pneumotórax, hemotórax ou contusão pulmonar relevante. Está estável, com SpO2 de 94% em ar ambiente, mas não consegue tossir nem respirar fundo por causa da dor. Qual é a conduta mais adequada?",
+  "alts": [
+   "Alta com opioide oral em dose plena e retorno em 7 dias para nova radiografia",
+   "Alta com faixa torácica compressiva, que imobiliza os arcos e reduz a dor",
+   "Internação com repouso absoluto no leito e opioide endovenoso em horário fixo",
+   "Internação com analgesia multimodal, bloqueio regional se possível e fisioterapia",
+   "Fixação cirúrgica imediata de todos os arcos costais fraturados nas primeiras horas"
+  ],
+  "gab": 3,
+  "tema": "trauma",
+  "sub": "Fraturas de costela no idoso",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "No idoso, a principal complicação das fraturas de costela é a pneumonia, que chega a 30%, e a mortalidade cresce a cada costela fraturada a mais. O ATLS 11ª edição centra o tratamento no controle da dor e na higiene pulmonar: analgesia multimodal com paracetamol, anti-inflamatório quando possível, cetamina e bloqueios regionais, poupando opioide para reduzir depressão respiratória e delirium, com espirometria de incentivo e fisioterapia. Quatro fraturas, idade avançada e tosse ineficaz justificam internação; fixação cirúrgica é para casos selecionados.",
+  "porAlt": [
+   "Opioide em dose plena em casa expõe a depressão respiratória e delirium, sem fisioterapia.",
+   "Faixa compressiva reduz a expansão pulmonar e favorece atelectasia e pneumonia.",
+   "Repouso absoluto e opioide isolado favorecem atelectasia, pneumonia e delirium.",
+   "Correta: analgesia multimodal com bloqueio regional e higiene pulmonar previnem a pneumonia.",
+   "Fixação cirúrgica beneficia casos selecionados, não é rotina nas primeiras horas."
+  ]
+ },
+ {
+  "q": "Homem de 25 anos, com fratura fechada da diáfise da tíbia por queda de moto, está há 8 horas em tala gessada. Refere dor intensa que não melhora com morfina e piora muito à extensão passiva dos dedos. A perna está tensa, com parestesia no dorso do pé e pulsos pediosos palpáveis. A PA diastólica é de 70 mmHg e a pressão medida no compartimento anterior é de 48 mmHg. Qual é a conduta?",
+  "alts": [
+   "Elevar o membro acima do coração e repetir a medida da pressão em 6 horas",
+   "Manter a tala e aguardar perda de pulso para confirmar o diagnóstico",
+   "Aumentar a dose de morfina e fazer bloqueio anestésico regional da perna",
+   "Pedir doppler arterial e decidir a conduta somente após o resultado do exame",
+   "Retirar a tala e acionar fasciotomia de urgência de todos os compartimentos"
+  ],
+  "gab": 4,
+  "tema": "trauma",
+  "sub": "Síndrome compartimental",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Dor desproporcional, dor ao estiramento passivo, compartimento tenso e parestesia caracterizam síndrome compartimental; a perda de pulso é tardia e pode indicar dano irreversível. O ATLS 11ª edição considera preocupante pressão compartimental acima de 30 mmHg ou delta P, diastólica menos pressão do compartimento, abaixo de 30 mmHg: aqui o delta é 22 mmHg. Todo material constritivo deve ser retirado e a fasciotomia é o tratamento definitivo. Bloqueio regional deve ser evitado por mascarar a evolução.",
+  "porAlt": [
+   "Elevar acima do coração reduz a perfusão e esperar 6 horas causa necrose muscular.",
+   "Pulso ausente é achado tardio; esperar por ele significa perder o músculo.",
+   "Analgesia potente e bloqueio regional mascaram a síndrome e atrasam a fasciotomia.",
+   "Pulso palpável não exclui o diagnóstico, que é clínico e pressórico, não arterial.",
+   "Correta: quadro clínico com delta P de 22 mmHg exige descompressão imediata."
+  ]
+ },
+ {
+  "q": "Homem de 32 anos, vítima de colisão de moto, tem fratura exposta da tíbia com ferida de 12 cm, grande perda de partes moles e contaminação grosseira com terra, classificada como Gustilo-Anderson tipo III. Está estável e sem alergias, com vacinação antitetânica desconhecida. Quanto à antibioticoprofilaxia, qual conduta segue o ATLS 11ª edição?",
+  "alts": [
+   "Cefazolina associada a cobertura para gram-negativos, idealmente na primeira hora da chegada",
+   "Cefazolina isolada, iniciada no centro cirúrgico após o primeiro desbridamento da ferida",
+   "Nenhum antibiótico até o resultado da cultura colhida da ferida na sala de emergência",
+   "Ciprofloxacino oral por 14 dias, iniciado somente após a alta hospitalar do paciente",
+   "Vancomicina isolada por 7 dias, já que o paciente não tem fatores de risco para MRSA"
+  ],
+  "gab": 0,
+  "tema": "trauma",
+  "sub": "Fratura exposta",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "O antibiótico na fratura exposta deve começar no diagnóstico: o ATLS 11ª edição registra que o atraso além de 3 horas aumenta a infecção e que o ideal é a primeira hora após a chegada. No tipo III de Gustilo-Anderson, soma-se à cefazolina a cobertura para gram-negativos, como gentamicina ou a troca por ceftriaxona; contaminação com solo pede ainda anaeróbios com metronidazol. O antibiótico é suspenso 24 horas após o fechamento nos tipos I e II e 72 horas no tipo III. Profilaxia antitetânica, desbridamento e curativo úmido completam o cuidado.",
+  "porAlt": [
+   "Correta: tipo III exige gram-positivo e gram-negativo, começando o mais cedo possível.",
+   "Esperar o centro cirúrgico atrasa o antibiótico e a cefazolina isolada não cobre o tipo III.",
+   "Cultura não deve atrasar a profilaxia, que é empírica e imediata.",
+   "Via oral e início tardio não fazem profilaxia de infecção na fratura exposta grave.",
+   "Vancomicina substitui a cefazolina só em risco de MRSA e não cobre gram-negativos."
+  ]
+ },
+ {
+  "q": "Homem de 27 anos teve luxação do joelho direito em acidente de moto, reduzida no pré-hospitalar. Na sala de trauma, o pé está quente, os pulsos pediosos são palpáveis, porém mais fracos que à esquerda, sem hematoma expansivo nem sangramento. O índice tornozelo-braquial do membro afetado é de 0,78. Qual é a conduta?",
+  "alts": [
+   "Alta com tala, pois pulsos palpáveis excluem lesão arterial significativa",
+   "Angiotomografia do membro pela suspeita de lesão da artéria poplítea",
+   "Exploração cirúrgica imediata da fossa poplítea sem exame de imagem",
+   "Repetir o índice tornozelo-braquial em 48 horas antes de decidir",
+   "Anticoagulação plena e observação ambulatorial do pulso distal"
+  ],
+  "gab": 1,
+  "tema": "trauma",
+  "sub": "Lesão arterial de extremidade",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Luxação do joelho tem alto risco de lesão da artéria poplítea, mesmo após redução e com pulsos presentes. O ATLS 11ª edição recomenda medir o índice tornozelo-braquial; valores abaixo de 0,9 indicam lesão vascular. Sinal de doppler ou pulso palpável não excluem lesão significativa. Sem sinais definitivos, como hematoma pulsátil expansivo, ausência de pulso ou sangramento arterial, o paciente estável segue para angiotomografia, que mostra a lesão e orienta o tratamento aberto ou endovascular.",
+  "porAlt": [
+   "Pulso palpável não exclui lesão da íntima, que pode tromboser e causar isquemia tardia.",
+   "Correta: ITB abaixo de 0,9 após luxação do joelho indica angiotomografia.",
+   "Exploração sem imagem é reservada aos sinais definitivos de lesão arterial.",
+   "Esperar 48 horas arrisca trombose e perda do membro.",
+   "Anticoagular às cegas sem definir a lesão é arriscado e não trata o problema."
+  ]
+ },
+ {
+  "q": "Homem de 21 anos com facada no precórdio chega à sala de emergência com pulso radial fraco e, 3 minutos depois, evolui com atividade elétrica sem pulso. O ultrassom mostra derrame pericárdico volumoso. Há cirurgião experiente e material disponível. A reanimação foi iniciada há 4 minutos. Qual conduta é indicada?",
+  "alts": [
+   "Encerrar a reanimação, já que a parada no trauma penetrante não tem sobrevida",
+   "Pericardiocentese guiada e manter compressões por mais 30 minutos antes de operar",
+   "Toracotomia de reanimação esquerda para liberar o tamponamento e controlar o sangramento",
+   "Adrenalina em doses repetidas e desfibrilação até surgir ritmo chocável no monitor",
+   "Laparotomia exploradora para afastar sangramento abdominal antes da toracotomia"
+  ],
+  "gab": 2,
+  "tema": "trauma",
+  "sub": "Toracotomia de reanimação",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Na parada traumática as causas reversíveis são hipovolemia, hipoxemia, pneumotórax hipertensivo e tamponamento. Para ferimento cardíaco com parada ou hipotensão profunda, o ATLS 11ª edição indica toracotomia na sala de emergência desde que a parada não passe de 15 minutos, se houver equipe treinada: abre-se o pericárdio, faz-se massagem direta e controle do sangramento. A reanimação é considerada fútil com RCP acima de 10 minutos no trauma contuso, acima de 15 no penetrante, ou sem movimento cardíaco nem tamponamento ao ultrassom.",
+  "porAlt": [
+   "A parada recente no ferimento cardíaco penetrante é o cenário de maior sobrevida da toracotomia.",
+   "Pericardiocentese é ponte limitada e 30 minutos de compressão ultrapassam o limite de futilidade.",
+   "Correta: parada há menos de 15 minutos com tamponamento penetrante indica toracotomia de reanimação.",
+   "A parada é obstrutiva por tamponamento; drogas e choques não a revertem.",
+   "Nada sugere fonte abdominal; a causa é o tamponamento demonstrado no ultrassom."
+  ]
+ },
+ {
+  "q": "Homem de 35 anos sofreu facada no hemitórax direito, na linha axilar média. Está com PA 124/80 mmHg, FC 90 bpm e SpO2 de 95%. A radiografia mostra velamento do seio costofrênico direito, com volume estimado de 500 mL, sem pneumotórax, e não há sinais de choque. Segundo o ATLS 11ª edição, qual é a conduta mais adequada?",
+  "alts": [
+   "Observação, pois hemotórax abaixo de 1.000 mL é reabsorvido sem drenagem",
+   "Toracotomia imediata, pois todo hemotórax penetrante exige exploração",
+   "Dreno de 36 a 40 Fr obrigatório, porque drenos finos coagulam com sangue",
+   "Drenagem com cateter de cerca de 14 Fr, tão eficaz quanto drenos grossos",
+   "Punção com agulha no segundo espaço intercostal na linha hemiclavicular"
+  ],
+  "gab": 3,
+  "tema": "trauma",
+  "sub": "Hemotórax simples",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "O ATLS 11ª edição recomenda evacuar hemotórax com volume estimado acima de 300 mL, para evitar coágulo retido e encarceramento pulmonar. Estudos mostraram que cateter de 14 Fr é tão eficaz quanto drenos grossos no hemotórax e no pneumotórax, com menos dor; o hemotórax maciço ou com fisiologia de tensão, em geral excluído desses estudos, ainda é tratado com tubo de 24 Fr ou mais. A decisão de operar segue a fisiologia, choque ou sangramento contínuo, e não um débito fixo do dreno.",
+  "porAlt": [
+   "Hemotórax acima de cerca de 300 mL deve ser drenado para evitar coágulo retido e pulmão encarcerado.",
+   "A toracotomia é guiada por choque e sangramento contínuo, ausentes neste paciente.",
+   "O ATLS 11ª edição reconhece o cateter de 14 Fr como eficaz no hemotórax não maciço.",
+   "Correta: hemotórax de 500 mL em paciente estável pode ser drenado com cateter de 14 Fr.",
+   "Punção com agulha é descompressão de pneumotórax hipertensivo, não drena sangue."
+  ]
+ },
+ {
+  "q": "Homem de 23 anos está sob anestesia geral com sevoflurano para osteossíntese de tornozelo; recebeu succinilcolina na indução. Após 40 minutos surgem taquicardia de 140 bpm, CO2 expirado subindo de 38 para 70 mmHg apesar do aumento da ventilação, rigidez muscular generalizada e temperatura de 38,9 °C em ascensão. Qual é a conduta imediata?",
+  "alts": [
+   "Aprofundar o plano com mais sevoflurano e dar dose adicional de succinilcolina",
+   "Paracetamol endovenoso e manta térmica, mantendo o anestésico e a cirurgia",
+   "Bloqueador de canal de cálcio endovenoso para controlar a taquicardia e a rigidez",
+   "Aguardar a creatinoquinase e a gasometria antes de qualquer mudança na anestesia",
+   "Suspender o halogenado, hiperventilar com O2 a 100% e dar dantroleno 2,5 mg/kg"
+  ],
+  "gab": 4,
+  "tema": "periop",
+  "sub": "Hipertermia maligna",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "European Malignant Hyperthermia Group. Recognizing and managing a malignant hyperthermia crisis, 2020",
+  "coment": "Hipercapnia inexplicada e progressiva apesar de aumentar a ventilação, taquicardia e rigidez após halogenado ou succinilcolina indicam hipertermia maligna; a febre costuma ser sinal tardio. A conduta é interromper o agente desencadeante, hiperventilar com oxigênio a 100% em alto fluxo, pedir ajuda e administrar dantroleno 2,5 mg/kg endovenoso, repetindo até controlar a hipercapnia e a taquicardia. Associam-se resfriamento ativo, tratamento da hipercalemia e da acidose e monitorização da rabdomiólise. Bloqueador de canal de cálcio é contraindicado com dantroleno.",
+  "porAlt": [
+   "Mais halogenado e succinilcolina mantêm o gatilho e agravam a crise.",
+   "Antitérmico e manta não tratam o hipermetabolismo muscular, que exige dantroleno.",
+   "Bloqueador de canal de cálcio com dantroleno pode causar hipercalemia e colapso cardiovascular.",
+   "O diagnóstico é clínico; esperar exames aumenta a mortalidade.",
+   "Correta: retirar o gatilho, hiperventilar com O2 a 100% e dar dantroleno 2,5 mg/kg."
+  ]
+ },
+ {
+  "q": "Mulher de 58 anos, 60 kg, recebe 30 mL de bupivacaína a 0,5% para bloqueio de plexo braquial. Dois minutos depois relata gosto metálico e zumbido, tem crise convulsiva tônico-clônica e, em seguida, taquicardia ventricular com pulso e PA de 70/40 mmHg. A via aérea já foi garantida e a convulsão cedeu com benzodiazepínico. Qual é a medida específica a seguir?",
+  "alts": [
+   "Emulsão lipídica a 20%, 1,5 mL/kg em bolus, seguida de infusão contínua",
+   "Lidocaína endovenosa em bolus para tratar a taquicardia ventricular instalada",
+   "Propofol em dose alta como substituto da emulsão lipídica na instabilidade",
+   "Vasopressina em bolus e betabloqueador para controlar a frequência cardíaca",
+   "Adrenalina 1 mg a cada 3 minutos como primeira medida, antes de outro fármaco"
+  ],
+  "gab": 0,
+  "tema": "periop",
+  "sub": "Toxicidade sistêmica de anestésico local",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ASRA Pain Medicine. Checklist for Treatment of Local Anesthetic Systemic Toxicity, 2020",
+  "coment": "A dose de 150 mg de bupivacaína (2,5 mg/kg) atinge o teto habitual e os sintomas neurológicos seguidos de arritmia são típicos de toxicidade sistêmica, que é especialmente cardiotóxica com bupivacaína. O checklist da ASRA manda pedir ajuda, garantir via aérea, controlar convulsão com benzodiazepínico e iniciar emulsão lipídica a 20%: bolus de 1,5 mL/kg em 2 a 3 minutos e infusão de 0,25 mL/kg/min. Na reanimação, usar adrenalina em doses reduzidas, até 1 mcg/kg, e evitar vasopressina, bloqueadores de canal de cálcio, betabloqueadores e outro anestésico local.",
+  "porAlt": [
+   "Correta: emulsão lipídica em bolus de 1,5 mL/kg e infusão é o antídoto da toxicidade por anestésico local.",
+   "Lidocaína é outro anestésico local e soma toxicidade; está contraindicada.",
+   "Propofol deprime o miocárdio e não substitui a emulsão lipídica.",
+   "Vasopressina e betabloqueador estão entre os fármacos a evitar nessa toxicidade.",
+   "Na toxicidade por anestésico local a adrenalina é usada em doses reduzidas, até 1 mcg/kg."
+  ]
+ },
+ {
+  "q": "Mulher de 62 anos, com prótese mecânica mitral e fibrilação atrial, usa varfarina com INR estável entre 2,5 e 3,5 e nunca teve sangramento. Será submetida a colectomia eletiva por adenocarcinoma de sigmoide, procedimento de alto risco de sangramento, daqui a 3 semanas. Qual é o manejo perioperatório da anticoagulação?",
+  "alts": [
+   "Manter a varfarina até a véspera e reverter com vitamina K na manhã da cirurgia",
+   "Suspender a varfarina 5 dias antes e fazer ponte com heparina em dose terapêutica",
+   "Suspender a varfarina 5 dias antes, sem ponte, e reiniciá-la 7 dias após a cirurgia",
+   "Trocar a varfarina por apixabana, suspendendo a apixabana 48 horas antes da cirurgia",
+   "Suspender a varfarina 24 horas antes e dar plasma fresco congelado na indução"
+  ],
+  "gab": 1,
+  "tema": "periop",
+  "sub": "Varfarina e ponte com heparina",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American College of Chest Physicians. Perioperative Management of Antithrombotic Therapy, 2022",
+  "coment": "Para cirurgia de risco hemorrágico relevante, a varfarina é suspensa 5 dias antes para normalizar o INR. A ponte com heparina não é rotina, mas a diretriz do ACCP de 2022 a sugere em alto risco tromboembólico, como prótese mecânica mitral: heparina de baixo peso molecular em dose terapêutica quando o INR sai da faixa, última dose cerca de 24 horas antes e reinício 48 a 72 horas depois em cirurgia de alto risco de sangramento, junto com a varfarina. Anticoagulantes diretos são contraindicados em prótese mecânica.",
+  "porAlt": [
+   "Vitamina K na véspera dificulta a reanticoagulação; o caminho é suspender com antecedência.",
+   "Correta: prótese mecânica mitral é alto risco trombótico e justifica a ponte com heparina.",
+   "Sem ponte, a prótese mitral fica exposta a trombose por muitos dias.",
+   "Anticoagulante direto é contraindicado em prótese valvar mecânica.",
+   "Suspender só 24 horas antes não normaliza o INR; plasma rotineiro expõe a riscos evitáveis."
+  ]
+ },
+ {
+  "q": "Homem de 76 anos com fibrilação atrial usa dabigatrana 110 mg duas vezes ao dia. O clearance de creatinina é de 40 mL/min e estável. Ele fará prostatectomia radical eletiva, considerada de alto risco de sangramento, sob anestesia geral. Quando suspender a dabigatrana?",
+  "alts": [
+   "Na noite anterior, com a última dose cerca de 12 horas antes da cirurgia",
+   "Dois dias antes, como se a função renal fosse normal, sem ponte de heparina",
+   "Cinco dias antes, com ponte de heparina de baixo peso molecular terapêutica",
+   "Cerca de 4 dias antes, sem ponte, pela depuração renal reduzida do fármaco",
+   "Manter até o dia da cirurgia e reverter com idarucizumabe antes da incisão"
+  ],
+  "gab": 3,
+  "tema": "periop",
+  "sub": "Anticoagulante direto no pré-operatório",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American College of Chest Physicians. Perioperative Management of Antithrombotic Therapy, 2022",
+  "coment": "A dabigatrana tem eliminação predominantemente renal, e a meia-vida se alonga quando o clearance cai. Pelo esquema validado no estudo PAUSE e adotado pelo ACCP em 2022, em cirurgia de alto risco de sangramento ela é suspensa 2 dias antes com clearance de 50 mL/min ou mais e cerca de 4 dias antes com clearance entre 30 e 49 mL/min. Anticoagulantes diretos não precisam de ponte com heparina, que só aumenta o sangramento. O reinício ocorre 48 a 72 horas após cirurgias de alto risco hemorrágico.",
+  "porAlt": [
+   "Doze horas não bastam para eliminar o fármaco, ainda mais com função renal reduzida.",
+   "Dois dias valem para clearance de 50 mL/min ou mais; aqui a eliminação é mais lenta.",
+   "Ponte com heparina não se aplica a anticoagulante direto e aumenta sangramento.",
+   "Correta: clearance entre 30 e 49 mL/min e alto risco de sangramento pedem cerca de 4 dias.",
+   "O reversor é para urgência ou sangramento grave, não substitui a suspensão programada."
+  ]
+ },
+ {
+  "q": "Homem de 63 anos com angina estável recebeu stent farmacológico na artéria descendente anterior há 6 semanas e usa ácido acetilsalicílico e clopidogrel. Está assintomático. Tem hérnia inguinal redutível, pouco sintomática, e o cirurgião deseja operá-lo no mês que vem. Qual é a conduta mais adequada?",
+  "alts": [
+   "Operar no mês que vem, suspendendo os dois antiagregantes 7 dias antes",
+   "Operar no mês que vem, trocando a dupla antiagregação por enoxaparina",
+   "Operar no mês que vem, mantendo só o clopidogrel e suspendendo o AAS",
+   "Operar no mês que vem após cintilografia miocárdica de estresse normal",
+   "Adiar a hernioplastia eletiva e manter a dupla antiagregação plaquetária"
+  ],
+  "gab": 4,
+  "tema": "periop",
+  "sub": "Stent coronariano recente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "AHA/ACC/multissocietária. Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, 2024",
+  "coment": "Nos primeiros meses após stent farmacológico, suspender a dupla antiagregação expõe a trombose do stent, com infarto e alta mortalidade, e operar sem suspender aumenta o sangramento. Por isso a diretriz recomenda adiar a cirurgia não cardíaca eletiva, em geral até pelo menos 6 meses após stent farmacológico implantado por doença estável e idealmente 12 meses após síndrome coronariana aguda. Hérnia redutível e pouco sintomática pode esperar. Se a cirurgia for inadiável, mantém-se o AAS sempre que possível, com decisão conjunta com o cardiologista.",
+  "porAlt": [
+   "Suspender os dois antiagregantes com 2 meses de stent é a situação de maior risco de trombose.",
+   "Heparina não protege contra trombose de stent, que é fenômeno plaquetário.",
+   "Na rara suspensão parcial mantém-se o AAS, não o contrário; aqui o melhor é adiar.",
+   "Teste de estresse normal não reduz o risco de trombose do stent ao suspender os antiagregantes.",
+   "Correta: cirurgia eletiva adiável deve esperar o período mínimo de dupla antiagregação."
+  ]
+ },
+ {
+  "q": "Mulher de 66 anos usa prednisona 15 mg por dia há 2 anos para polimialgia reumática. Será submetida a colectomia direita aberta eletiva sob anestesia geral. Está clinicamente estável e sem sinais de insuficiência adrenal. Qual é a conduta com o corticoide no perioperatório?",
+  "alts": [
+   "Suspender a prednisona 7 dias antes para evitar deiscência e infecção de ferida",
+   "Manter a prednisona oral habitual, sem dose adicional, mesmo no jejum pós-operatório",
+   "Hidrocortisona 100 mg endovenosa na indução e depois 200 mg nas 24 horas seguintes",
+   "Dexametasona 20 mg diária por 7 dias a partir do dia da cirurgia, em todos os casos",
+   "Só dar hidrocortisona se surgir hipotensão refratária no pós-operatório imediato"
+  ],
+  "gab": 2,
+  "tema": "periop",
+  "sub": "Corticoide crônico e dose de estresse",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "European Society of Endocrinology e Endocrine Society. Diagnosis and therapy of glucocorticoid-induced adrenal insufficiency, 2024",
+  "coment": "Uso de glicocorticoide equivalente a 5 mg ou mais de prednisona por mais de 4 semanas pode suprimir o eixo hipotálamo-hipófise-adrenal. A diretriz conjunta europeia e americana de 2024 recomenda, para cirurgia de grande porte sob anestesia geral, hidrocortisona 100 mg endovenosa antes da indução seguida de 200 mg em 24 horas, em infusão contínua ou fracionada, com retorno à dose habitual conforme a recuperação. Suspender o corticoide antes da cirurgia precipita crise adrenal.",
+  "porAlt": [
+   "Suspender corticoide crônico pode desencadear crise adrenal no estresse cirúrgico.",
+   "A dose habitual não cobre o estresse da cirurgia de grande porte e o jejum impede a via oral.",
+   "Correta: cirurgia de grande porte pede 100 mg na indução e 200 mg nas 24 horas seguintes.",
+   "Dexametasona em dose alta por 7 dias é excessiva e não é o esquema recomendado.",
+   "Esperar a hipotensão é tratar a crise adrenal já instalada, em vez de preveni-la."
+  ]
+ },
+ {
+  "q": "Homem de 57 anos com diabetes tipo 2 usa metformina e dapagliflozina, com hemoglobina glicada de 7,2% e função renal normal. Fará colecistectomia videolaparoscópica eletiva em 5 dias, com jejum pré-operatório habitual e previsão de alta no dia seguinte. Na consulta pré-anestésica, pergunta o que fazer com os remédios. Qual orientação sobre a dapagliflozina é a recomendada?",
+  "alts": [
+   "Suspender ao menos 3 dias antes pelo risco de cetoacidose euglicêmica",
+   "Manter inclusive no dia da cirurgia, pois o fármaco não causa hipoglicemia",
+   "Suspender na manhã da cirurgia e retomar logo na primeira refeição líquida",
+   "Trocar por insulina NPH em dose plena 7 dias antes, para todo diabético",
+   "Suspender 30 dias antes, pelo risco de infecção urinária no pós-operatório"
+  ],
+  "gab": 0,
+  "tema": "periop",
+  "sub": "Inibidor de SGLT2 no pré-operatório",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "American Diabetes Association. Standards of Care in Diabetes (seção 16), 2025",
+  "coment": "Os inibidores de SGLT2 favorecem cetoacidose euglicêmica no jejum e no estresse cirúrgico, quadro grave porque a glicemia pouco elevada atrasa o diagnóstico. A ADA recomenda suspender esses fármacos 3 a 4 dias antes da cirurgia: 3 dias para dapagliflozina, empagliflozina e canagliflozina e 4 dias para ertugliflozina. A retomada ocorre quando o paciente estiver comendo e hidratado. A metformina em geral é suspensa apenas no dia da cirurgia.",
+  "porAlt": [
+   "Correta: dapagliflozina sai pelo menos 3 dias antes para prevenir cetoacidose euglicêmica.",
+   "O risco perioperatório é cetoacidose, não hipoglicemia; manter é perigoso.",
+   "Suspender só na manhã da cirurgia não elimina o efeito do fármaco.",
+   "Não há indicação de trocar todo diabético compensado por insulina dias antes.",
+   "Trinta dias não tem base; o motivo da suspensão é a cetoacidose, não infecção urinária."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos, tabagista de 30 maços-ano, tem colecistectomia eletiva marcada para daqui a 8 semanas. Pergunta se ainda vale a pena parar de fumar, pois ouviu que parar perto da cirurgia piora a tosse e as complicações pulmonares. Qual é a orientação correta?",
+  "alts": [
+   "Manter o fumo até a cirurgia, pois parar a menos de 8 semanas aumenta complicações",
+   "Parar já; quanto mais cedo antes da cirurgia, maior a redução de complicações",
+   "Parar só na véspera, pois o benefício depende apenas da queda do monóxido",
+   "Reduzir para metade dos cigarros, o que tem o mesmo efeito de parar de fumar",
+   "Adiar a cirurgia por 1 ano, já que a cessação só traz benefício após esse prazo"
+  ],
+  "gab": 1,
+  "tema": "periop",
+  "sub": "Cessação do tabagismo",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "World Health Organization. Tobacco and postsurgical outcomes, 2020",
+  "coment": "O tabagismo aumenta complicações de ferida, infecção, complicações pulmonares e cardiovasculares. A OMS mostra que parar de fumar em qualquer momento antes da cirurgia é benéfico, com redução clara de complicações a partir de cerca de 4 semanas de abstinência e ganho maior com prazos mais longos. A ideia de que parar perto da cirurgia piora o desfecho não se confirmou. Terapia de reposição de nicotina e apoio comportamental podem ser usados no perioperatório.",
+  "porAlt": [
+   "O suposto aumento de complicações ao parar perto da cirurgia não se confirmou; parar sempre ajuda.",
+   "Correta: parar o quanto antes, com benefício que aumenta a partir de cerca de 4 semanas.",
+   "Parar na véspera reduz o monóxido, mas perde o benefício sobre ferida e via aérea.",
+   "Reduzir pela metade não equivale a parar e tem benefício pequeno.",
+   "Não é preciso adiar a cirurgia por 1 ano; o benefício surge em semanas."
+  ]
+ },
+ {
+  "q": "Mulher de 34 anos está no sexto dia após apendicectomia por apendicite não complicada. Refere dor na incisão. Há eritema de 1 cm ao redor da ferida, saída de secreção purulenta pela pele e subcutâneo, aponeurose íntegra à exploração, sem febre e sem coleção profunda à ultrassonografia. Qual é a classificação e a conduta?",
+  "alts": [
+   "Infecção de órgão ou espaço; drenagem percutânea guiada por tomografia",
+   "Infecção incisional profunda; reabordagem cirúrgica com abertura da aponeurose",
+   "Celulite sem infecção de sítio cirúrgico; antibiótico oral e manter a sutura",
+   "Infecção incisional superficial; abrir a pele, drenar e fazer curativos",
+   "Deiscência aponeurótica; compressa úmida e fechamento no centro cirúrgico"
+  ],
+  "gab": 3,
+  "tema": "periop",
+  "sub": "Infecção de sítio cirúrgico",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "ANVISA. Critérios Diagnósticos de Infecção Relacionada à Assistência à Saúde, 2017",
+  "coment": "A infecção incisional superficial ocorre em até 30 dias, envolve apenas pele e subcutâneo e tem drenagem purulenta, cultura positiva ou sinais locais com abertura da ferida. A profunda atinge fáscia e músculo, e a de órgão ou espaço envolve cavidades manipuladas; ambas podem ir até 90 dias quando há implante. O tratamento da superficial é abrir a incisão, drenar e fazer curativos. Antibiótico sistêmico fica para eritema extenso, geralmente acima de 5 cm, ou sinais sistêmicos.",
+  "porAlt": [
+   "Não há coleção cavitária; o processo está restrito à incisão.",
+   "A aponeurose está íntegra, o que afasta a infecção incisional profunda.",
+   "Há pus na incisão, o que define infecção de sítio cirúrgico; antibiótico sem drenagem falha.",
+   "Correta: pus restrito à pele e ao subcutâneo é ISC superficial, tratada com abertura e drenagem.",
+   "A aponeurose está íntegra; não há deiscência fascial."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos será submetido a hernioplastia inguinal com tela. Na véspera, a enfermagem da unidade pretende raspar com lâmina os pelos da região inguinal e da coxa e dar banho com antisséptico. No centro cirúrgico, discute-se a antissepsia da pele. Qual conduta reduz o risco de infecção de sítio cirúrgico?",
+  "alts": [
+   "Raspar com lâmina na véspera e degermar a pele com iodopovidona aquosa",
+   "Raspar com lâmina no centro cirúrgico e usar álcool 70% isolado",
+   "Remover os pelos com creme depilatório na véspera e usar clorexidina aquosa",
+   "Raspar a área toda com lâmina, por rotina, para facilitar o curativo",
+   "Não remover pelos; se preciso, usar tricotomizador e clorexidina alcoólica"
+  ],
+  "gab": 4,
+  "tema": "periop",
+  "sub": "Preparo da pele e tricotomia",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "World Health Organization. Global Guidelines for the Prevention of Surgical Site Infection, 2ª edição, 2018",
+  "coment": "A OMS recomenda não remover pelos rotineiramente; quando for indispensável, usar tricotomizador elétrico, e nunca lâmina, que causa microlesões colonizadas e aumenta a infecção de sítio cirúrgico. A ANVISA orienta fazê-lo o mais próximo possível da cirurgia, fora da sala operatória. Para o preparo do campo operatório, a solução de escolha é a clorexidina em base alcoólica, superior às soluções aquosas de iodopovidona. O banho pré-operatório pode ser com sabão comum ou antisséptico.",
+  "porAlt": [
+   "Lâmina aumenta a infecção e a iodopovidona aquosa é inferior à clorexidina alcoólica.",
+   "Lâmina é desaconselhada mesmo no centro cirúrgico; álcool isolado não tem efeito residual.",
+   "Creme depilatório tem papel limitado e a solução aquosa é inferior à alcoólica.",
+   "Raspar por rotina é justamente o que a diretriz contraindica.",
+   "Correta: não tricotomizar ou usar tricotomizador, com antissepsia por clorexidina alcoólica."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos, 80 kg, está em retossigmoidectomia aberta. Recebeu cefazolina 2 g e metronidazol 500 mg endovenosos às 8 h, 40 minutos antes da incisão. Às 12 h 10 min a cirurgia ainda deve durar mais 2 horas e o sangramento estimado até agora é de 900 mL. O anestesista pergunta sobre a profilaxia antimicrobiana. Qual é a conduta?",
+  "alts": [
+   "Nenhuma nova dose, pois a profilaxia é sempre dose única pré-incisão",
+   "Repetir as duas drogas só se a perda de sangue passar de 3.000 mL",
+   "Repetir a cefazolina agora, pois o intervalo de redose dela é de 4 horas",
+   "Trocar para ceftriaxona e manter a nova profilaxia por mais 72 horas",
+   "Repetir o metronidazol a cada 2 horas até o fim do ato operatório"
+  ],
+  "gab": 2,
+  "tema": "periop",
+  "sub": "Redose da profilaxia antimicrobiana",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "ASHP, IDSA, SIS e SHEA. Clinical practice guidelines for antimicrobial prophylaxis in surgery, 2013",
+  "coment": "A profilaxia deve manter concentração tecidual durante todo o tempo em que a ferida está aberta. A diretriz da ASHP, IDSA, SIS e SHEA recomenda redose quando a cirurgia ultrapassa duas meias-vidas do antibiótico: para a cefazolina, a cada 4 horas, e também diante de perda sanguínea acima de 1.500 mL. O metronidazol tem meia-vida longa e não exige redose nesse intervalo. Fora do centro cirúrgico, a profilaxia não deve ultrapassar 24 horas.",
+  "porAlt": [
+   "A dose única vale para cirurgias curtas; procedimentos longos exigem redose.",
+   "O gatilho de perda sanguínea é 1.500 mL, e a redose por tempo já está indicada.",
+   "Correta: passaram 4 horas da dose de cefazolina, que deve ser repetida.",
+   "Trocar o antibiótico e estender por 72 horas aumenta resistência sem reduzir infecção.",
+   "Metronidazol tem meia-vida longa e não precisa de redose em 2 horas."
+  ]
+ },
+ {
+  "q": "Mulher de 49 anos foi submetida a colecistectomia aberta eletiva, sem intercorrências, com dreno subepático deixado pelo cirurgião. Recebeu cefazolina 30 minutos antes da incisão. No pós-operatório, o residente prescreve cefazolina de 8 em 8 horas até a retirada do dreno, prevista para o quinto dia. Qual é a conduta adequada?",
+  "alts": [
+   "Suspender a cefazolina, pois a profilaxia não deve se estender além de 24 horas",
+   "Manter a cefazolina até a retirada do dreno para prevenir infecção ascendente",
+   "Manter por 7 dias, pois a cirurgia aberta exige profilaxia mais prolongada",
+   "Trocar por ciprofloxacino oral e manter até a revisão ambulatorial da ferida",
+   "Manter enquanto houver leucocitose, que é esperada nos primeiros dias pós-operatórios"
+  ],
+  "gab": 0,
+  "tema": "periop",
+  "sub": "Duração da antibioticoprofilaxia",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "World Health Organization. Global Guidelines for the Prevention of Surgical Site Infection, 2ª edição, 2018",
+  "coment": "A OMS recomenda não prolongar a profilaxia antimicrobiana após o término da cirurgia, inclusive na presença de drenos, porque a extensão não reduz infecção de sítio cirúrgico e aumenta efeitos adversos, colite por Clostridioides difficile e resistência. A diretriz americana de profilaxia aceita no máximo 24 horas. O que previne infecção é a dose correta no momento certo, até 60 minutos antes da incisão, com redose em cirurgias longas.",
+  "porAlt": [
+   "Correta: a profilaxia termina com a cirurgia e não deve passar de 24 horas, mesmo com dreno.",
+   "A presença de dreno não justifica estender a profilaxia, segundo a OMS.",
+   "A via de acesso não muda a duração; prolongar não reduz infecção.",
+   "Trocar por quinolona oral sem indicação é tratamento sem infecção.",
+   "Leucocitose discreta do pós-operatório imediato é resposta inflamatória, não indicação de antibiótico."
+  ]
+ },
+ {
+  "q": "Homem de 79 anos foi submetido a gastrectomia aberta de 4 horas sem aquecimento ativo. Na sala de recuperação, a temperatura central é de 34,9 °C; ele tem tremores, PA 150/90 mmHg e sangramento discreto e difuso pela ferida. A equipe discute as consequências e a prevenção da hipotermia perioperatória. Qual afirmação é correta?",
+  "alts": [
+   "A hipotermia leve protege o miocárdio e reduz a infecção de sítio cirúrgico, devendo ser mantida",
+   "Aquecimento ativo só é indicado quando a temperatura central cai abaixo de 33 °C no pós-operatório",
+   "Cobertor de algodão comum é tão eficaz quanto o ar forçado para prevenir a hipotermia intraoperatória",
+   "A hipotermia aumenta infecção, sangramento e eventos cardíacos; aquecer ativamente desde a indução",
+   "A hipotermia no idoso é inevitável e sem repercussão clínica após a anestesia geral"
+  ],
+  "gab": 3,
+  "tema": "periop",
+  "sub": "Hipotermia perioperatória",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "NICE. Hypothermia: prevention and management in adults having surgery (CG65), atualização 2016",
+  "coment": "Hipotermia perioperatória é temperatura central abaixo de 36 °C. Ela prejudica a função plaquetária e a cascata, aumentando o sangramento e a transfusão, eleva a infecção de sítio cirúrgico, causa tremores com maior consumo de oxigênio e aumenta eventos cardíacos, além de prolongar a ação de anestésicos. A diretriz do NICE recomenda medir a temperatura antes da indução, aquecer ativamente com ar forçado desde a indução em cirurgias acima de 30 minutos ou pacientes de risco e aquecer fluidos e hemocomponentes.",
+  "porAlt": [
+   "Hipotermia não intencional aumenta infecção e eventos cardíacos, não protege.",
+   "O aquecimento ativo é preventivo e começa antes de a temperatura cair.",
+   "Cobertores passivos são inferiores ao aquecimento ativo com ar forçado.",
+   "Correta: hipotermia piora coagulação, infecção e desfecho cardíaco, e a prevenção é ativa.",
+   "A hipotermia é prevenível e tem repercussão em sangramento, infecção e coração."
+  ]
+ },
+ {
+  "q": "Homem de 74 anos está no quarto dia após artroplastia de quadril, em uso de morfina. Evolui com distensão abdominal progressiva, sem dor intensa nem peritonite. A tomografia mostra dilatação difusa do cólon com ceco de 13 cm, sem ponto de obstrução mecânica. Após 48 horas de jejum, sonda nasogástrica, correção de potássio e magnésio e suspensão do opioide, não houve melhora. FC 82 bpm. Qual é a próxima conduta?",
+  "alts": [
+   "Colectomia subtotal de urgência por risco iminente de perfuração",
+   "Neostigmina endovenosa com monitorização cardíaca contínua",
+   "Enema baritado para descomprimir o cólon e confirmar o diagnóstico",
+   "Manter conduta expectante por mais 10 dias com nutrição parenteral",
+   "Metoclopramida endovenosa em doses altas a cada 4 horas"
+  ],
+  "gab": 1,
+  "tema": "periop",
+  "sub": "Pseudo-obstrução colônica aguda",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ASCRS. Clinical Practice Guidelines for the Management of Colonic Volvulus and Acute Colonic Pseudo-Obstruction, 2021",
+  "coment": "A síndrome de Ogilvie é a dilatação colônica sem obstrução mecânica, comum após cirurgia ortopédica e em idosos com opioide e distúrbios eletrolíticos. Excluídas obstrução e perfuração, trata-se primeiro de forma conservadora. Se falhar após 24 a 48 horas, ou com ceco muito dilatado, a diretriz da ASCRS recomenda neostigmina endovenosa, em geral 2 mg, com monitorização cardíaca e atropina disponível pelo risco de bradicardia. Sem resposta, a descompressão colonoscópica é a etapa seguinte; cirurgia fica para isquemia ou perfuração.",
+  "porAlt": [
+   "Cirurgia é para isquemia, perfuração ou falha das medidas, não a etapa seguinte.",
+   "Correta: falha do tratamento conservador sem obstrução mecânica indica neostigmina.",
+   "Bário é contraindicado pelo risco de perfuração e não descomprime o cólon.",
+   "Ceco de 13 cm sem resposta não pode esperar dias pelo risco de perfuração.",
+   "Procinético gástrico não tem papel na pseudo-obstrução colônica."
+  ]
+ },
+ {
+  "q": "Homem de 51 anos, etilista, com IMC de 15 kg/m² e quase sem ingestão há 3 semanas, foi operado por úlcera perfurada. No primeiro dia pós-operatório recebeu nutrição enteral plena de 30 kcal/kg/dia. No terceiro dia apresenta fraqueza muscular intensa, insuficiência respiratória, edema e arritmia ventricular. Qual é o distúrbio característico e o que deveria ter sido feito?",
+  "alts": [
+   "Hipercalemia por lise celular; dieta plena e resina de troca no mesmo dia",
+   "Hipernatremia por desidratação; dieta plena com água livre adicional na sonda",
+   "Hipercalcemia de imobilização; dieta plena associada a hidratação venosa intensa",
+   "Hipoglicemia de jejum; dieta plena hipercalórica desde o pós-operatório imediato",
+   "Hipofosfatemia da realimentação; aporte inicial reduzido e tiamina antes da dieta"
+  ],
+  "gab": 4,
+  "tema": "periop",
+  "sub": "Síndrome de realimentação",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "ASPEN. Consensus Recommendations for Refeeding Syndrome, 2020",
+  "coment": "Na realimentação de desnutridos graves, a insulina desloca fosfato, potássio e magnésio para dentro das células, e a hipofosfatemia é o marco: causa fraqueza, insuficiência respiratória, insuficiência cardíaca, arritmias e rabdomiólise. A deficiência de tiamina pode precipitar encefalopatia de Wernicke. O consenso da ASPEN recomenda identificar o risco, iniciar com 10 a 20 kcal/kg ou cerca de 100 a 150 g de glicose e progredir em alguns dias, repor tiamina antes da dieta e monitorar fósforo, potássio e magnésio.",
+  "porAlt": [
+   "O padrão é queda intracelular de eletrólitos, com potássio baixo e não alto.",
+   "Hipernatremia não explica fraqueza muscular, falência respiratória e arritmia.",
+   "Cálcio não é o distúrbio da realimentação e hidratação intensa piora o edema.",
+   "Dieta plena desde o início é a causa do quadro, não a prevenção.",
+   "Correta: hipofosfatemia é o marco; prevenção com aporte lento e tiamina antes da dieta."
+  ]
+ },
+ {
+  "q": "Mulher de 46 anos está há 4 horas no pós-operatório de tireoidectomia total. Evolui com aumento rápido do volume cervical anterior, dor, sensação de aperto no pescoço, dispneia, estridor e SpO2 de 89%. A equipe de anestesia está a caminho. Qual é a conduta imediata do médico no leito?",
+  "alts": [
+   "Abrir a incisão no leito, soltando pele e músculos para evacuar o hematoma",
+   "Pedir tomografia cervical com contraste para localizar o sangramento ativo",
+   "Aplicar compressão firme sobre o pescoço com curativo e aguardar a anestesia",
+   "Administrar corticoide e adrenalina inalatória como se fosse edema laríngeo",
+   "Puncionar o hematoma com agulha fina e aguardar a transferência ao centro"
+  ],
+  "gab": 0,
+  "tema": "periop",
+  "sub": "Hematoma cervical pós-tireoidectomia",
+  "cenario": "enf",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Difficult Airway Society, BAETS e ENT UK. Management of haematoma after thyroid surgery: consensus guidelines, 2022",
+  "coment": "O hematoma após tireoidectomia comprime a via aérea e causa congestão venosa e edema laríngeo, com piora rápida. O consenso britânico de 2022 orienta que, diante de comprometimento respiratório, o hematoma seja evacuado no próprio leito, sem esperar transporte: expor a pele, cortar as suturas, abrir a pele e os músculos e liberar o coágulo, depois tamponar e levar ao centro cirúrgico. Oxigênio e chamada da equipe de via aérea correm em paralelo; a intubação pode ser difícil pelo edema.",
+  "porAlt": [
+   "Correta: com obstrução respiratória, a descompressão imediata no leito salva a via aérea.",
+   "Ir à tomografia com estridor atrasa a descompressão e é perigoso.",
+   "Comprimir o pescoço agrava a compressão da via aérea.",
+   "O problema é mecânico e venoso; tratamento de edema isolado não resolve.",
+   "Coágulo não sai por agulha fina; a abertura da ferida é o tratamento."
+  ]
+ },
+ {
+  "q": "Mulher de 84 anos, que mora com a filha e usa óculos e aparelho auditivo, foi operada de fratura de colo do fêmur há 1 dia. À noite fica desorientada e agitada, com flutuação da atenção ao longo do dia. A equipe quer reduzir a duração do quadro e prevenir novos episódios. Qual medida tem melhor respaldo?",
+  "alts": [
+   "Haloperidol profilático em horário fixo para todos os idosos operados",
+   "Benzodiazepínico à noite para garantir o sono e reduzir a agitação",
+   "Contenção mecânica no leito até o fim da internação para evitar quedas",
+   "Medidas não farmacológicas: óculos, aparelho auditivo, sono e mobilização",
+   "Jejum prolongado e opioide em dose alta até o desaparecimento da confusão"
+  ],
+  "gab": 3,
+  "tema": "periop",
+  "sub": "Delirium pós-operatório",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "NICE. Delirium: prevention, diagnosis and management in hospital and long-term care (CG103), atualização 2023",
+  "coment": "Delirium é comum após fratura de quadril no idoso e se associa a declínio funcional e mortalidade. O NICE recomenda intervenção multicomponente não farmacológica: reorientação, óculos e aparelhos auditivos, higiene do sono, mobilização precoce, hidratação, controle adequado da dor, prevenção de constipação e retenção e revisão de fármacos. Benzodiazepínicos pioram o quadro, contenção aumenta agitação e lesão, e antipsicótico não deve ser usado como profilaxia, ficando para sofrimento intenso ou risco, em dose baixa e por curto período.",
+  "porAlt": [
+   "Antipsicótico profilático não é recomendado e expõe a efeitos adversos.",
+   "Benzodiazepínico é fator precipitante de delirium no idoso.",
+   "Contenção aumenta a agitação, as lesões e a duração do delirium.",
+   "Correta: medidas multicomponentes não farmacológicas têm o melhor respaldo.",
+   "Jejum e opioide em excesso precipitam e prolongam o delirium; a dor deve ser bem controlada com parcimônia."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos, IMC de 34 kg/m², com história de trombose venosa prévia, foi submetido a esplenectomia e reparo hepático por trauma abdominal fechado. No primeiro dia pós-operatório tem queda de hemoglobina em investigação e o cirurgião considera alto o risco de sangramento. Qual é a profilaxia de tromboembolismo venoso indicada neste momento?",
+  "alts": [
+   "Enoxaparina em dose plena terapêutica, já que o risco trombótico é alto",
+   "Nenhuma profilaxia até a alta, pela possibilidade de sangramento ativo",
+   "Compressão pneumática intermitente, com heparina assim que o sangramento cessar",
+   "Ácido acetilsalicílico isolado em dose baixa até completar 35 dias de uso",
+   "Filtro de veia cava inferior profilático antes de qualquer outra medida"
+  ],
+  "gab": 2,
+  "tema": "periop",
+  "sub": "Profilaxia mecânica de TEV",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "American Society of Hematology. Guidelines for management of venous thromboembolism: prevention in surgical hospitalized patients, 2019",
+  "coment": "Paciente de alto risco trombótico com alto risco de sangramento não deve ficar sem profilaxia. As diretrizes da ASH de 2019 apoiam a profilaxia mecânica, preferindo a compressão pneumática intermitente às meias, enquanto o risco hemorrágico impede o anticoagulante, e a introdução de heparina de baixo peso molecular ou não fracionada assim que o sangramento estiver controlado. Filtro de veia cava profilático não é recomendado de rotina, e dose terapêutica não é profilaxia.",
+  "porAlt": [
+   "Dose terapêutica com sangramento em investigação é perigosa e não é profilaxia.",
+   "Ficar sem profilaxia num paciente de alto risco trombótico expõe a TVP e embolia.",
+   "Correta: profilaxia mecânica agora e farmacológica quando o risco de sangramento cair.",
+   "AAS isolado não é a escolha neste cenário cirúrgico de alto risco.",
+   "Filtro profilático não reduz mortalidade e não é recomendado de rotina."
+  ]
+ },
+ {
+  "q": "Mulher de 70 anos fará artroplastia total de joelho sob raquianestesia, marcada para as 7 h. Está internada há 3 dias por outro motivo e recebe enoxaparina 40 mg uma vez ao dia, por via subcutânea, como profilaxia; a última dose foi aplicada às 21 h da véspera. A função renal é normal. Quando a punção raquidiana pode ser feita com segurança?",
+  "alts": [
+   "Imediatamente, pois a dose profilática não altera o risco de hematoma espinhal",
+   "A partir de 9 h, quando completar 12 horas desde a última dose da enoxaparina",
+   "Somente 24 horas após a última dose, como em qualquer uso de heparina",
+   "Apenas após dosar o anti-Xa, exame obrigatório antes de qualquer bloqueio",
+   "A partir de 1 h, quando completar 4 horas desde a última dose da enoxaparina"
+  ],
+  "gab": 1,
+  "tema": "periop",
+  "sub": "Anestesia neuroaxial e heparina",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "ASRA Pain Medicine. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy, 5ª edição, 2025",
+  "coment": "O hematoma espinhal após bloqueio neuroaxial é raro, mas devastador. As diretrizes da ASRA estabelecem intervalos após heparina de baixo peso molecular: pelo menos 12 horas após dose baixa, de profilaxia, e 24 horas após dose alta, terapêutica, antes da punção ou da retirada de cateter. A última dose às 21 h libera a punção a partir das 9 h. Na quinta edição, de 2025, os termos profilático e terapêutico passaram a baixa dose e alta dose.",
+  "porAlt": [
+   "Mesmo a dose profilática exige intervalo mínimo antes da punção.",
+   "Correta: após dose baixa de enoxaparina, aguardam-se pelo menos 12 horas.",
+   "Vinte e quatro horas valem para dose terapêutica, não para 40 mg ao dia.",
+   "O anti-Xa não é exigido de rotina; o critério é o intervalo de tempo.",
+   "Quatro horas é o intervalo da heparina não fracionada subcutânea, não da enoxaparina."
+  ]
+ },
+ {
+  "q": "Homem de 27 anos, saudável, sem uso de medicamentos, atividade física regular e exame clínico normal, será submetido a hernioplastia inguinal videolaparoscópica eletiva. Classificação ASA I. O serviço tem protocolo antigo que pede hemograma, coagulograma, glicemia, creatinina, eletrocardiograma e radiografia de tórax para todos. Qual é a conduta mais adequada?",
+  "alts": [
+   "Pedir todos os exames do protocolo, por segurança médico-legal",
+   "Pedir apenas eletrocardiograma e radiografia de tórax pela anestesia",
+   "Pedir coagulograma para excluir hemofilia antes de qualquer cirurgia",
+   "Pedir hemograma e tipagem para reservar concentrado de hemácias",
+   "Não pedir exames de rotina; operar com base na avaliação clínica"
+  ],
+  "gab": 4,
+  "tema": "periop",
+  "sub": "Exames pré-operatórios",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "NICE. Routine preoperative tests for elective surgery (NG45), 2016",
+  "coment": "Exames pré-operatórios de rotina em pacientes saudáveis raramente mudam a conduta, geram achados falso-positivos, atrasam a cirurgia e aumentam custos. A diretriz NG45 do NICE não recomenda hemograma, coagulograma, função renal, eletrocardiograma nem radiografia de tórax de rotina para paciente ASA I em cirurgia de porte pequeno ou intermediário; os exames devem ser guiados pela história, pelo exame físico e pelo porte do procedimento. A anamnese de sangramento orienta a investigação de coagulopatia melhor que o coagulograma.",
+  "porAlt": [
+   "Exames sem indicação não trazem proteção e geram falso-positivos e atrasos.",
+   "ECG e radiografia de tórax não são indicados em jovem ASA I assintomático.",
+   "A história de sangramento rastreia coagulopatia melhor que o coagulograma de rotina.",
+   "Hernioplastia tem perda sanguínea mínima; reserva de sangue não é necessária.",
+   "Correta: paciente ASA I em cirurgia de pequeno porte não precisa de exames de rotina."
+  ]
+ }
+]

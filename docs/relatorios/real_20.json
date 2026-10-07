@@ -1,0 +1,19 @@
+{
+ "incluidas": 33,
+ "descartadas": [
+  {"pid": "p24018", "motivo": "Gabarito ensina analgesia com tramadol em lactente de 6 meses em suporte ventilatório: a bula brasileira não recomenda tramadol abaixo de 1 ano e a FDA o contraindica abaixo de 12 anos (2017); a analgossedação padrão em UTI pediátrica usa opioide como fentanil ou morfina com midazolam. Além disso, 'suporte ventilatório' sem dizer se é invasivo deixa defensável dispensar sedação em suporte não invasivo."},
+  {"pid": "p24019", "motivo": "Gabarito indica postectomia em menino de 4 anos assintomático. As diretrizes vigentes (EAU/ESPU, urologia pediátrica) tratam a fimose não complicada primeiro com corticoide tópico e reservam a cirurgia para falha, fimose patológica (balanite xerótica obliterante), balanopostites ou ITU de repetição; nenhuma alternativa traz essa conduta."},
+  {"pid": "p24021", "motivo": "Gabarito aplica o M-CHAT-R/F aos 8 meses, fora da faixa validada do instrumento (16 a 30 meses; a SBP recomenda aplicação universal entre 18 e 24 meses). Aos 8 meses a conduta é vigilância dos sinais de risco e encaminhamento para avaliação e estimulação precoce. Nenhuma alternativa correta."},
+  {"pid": "p24024", "motivo": "Mais de uma resposta defensável: o enunciado não informa SpO2, frequência respiratória nem sinais de esforço; pneumonia viral por SARS-CoV-2 sem hipoxemia em criança em bom estado pode ser manejada em casa com sintomáticos, e a internação do gabarito não decorre de critério de diretriz."},
+  {"pid": "p24036", "motivo": "Mais de uma resposta defensável: TCE leve aos 2 anos com queda abaixo de 90 cm e vômito isolado é risco intermediário pelo PECARN, para o qual se recomenda observação clínica, classicamente de 4 a 6 horas após o trauma; tanto o gabarito (2 horas) quanto a opção de no mínimo 6 horas são discutíveis."},
+  {"pid": "p24038", "motivo": "Mais de uma resposta defensável: com petéquias o agente provável é o meningococo, e o Ministério da Saúde trata meningite bacteriana acima de 3 meses com ceftriaxona isolada (100 mg/kg/dia); a associação com vancomicina do gabarito segue a conduta norte-americana (IDSA) para pneumococo resistente, rara no Brasil. Ceftriaxona isolada e ceftriaxona com vancomicina são ambas defensáveis."}
+ ],
+ "gabaritos_discutiveis": [
+  {"pid": "p24003", "nota": "Mantida. O PNI adia a vacinação em doença febril aguda moderada ou grave; febre de 38,5 °C com sintomas respiratórios foi tratada como motivo de adiamento, que é a leitura da banca. Quadro leve sem febre não contraindicaria."},
+  {"pid": "p24008", "nota": "Mantida. Monoartrite com sinais flogísticos exigiria também ASLO e, se suspeita de artrite séptica, artrocentese; o gabarito (hemograma e provas inflamatórias) é o primeiro passo investigativo e as demais opções tratam sem diagnóstico. 'Provas de atividade inflamatória e VHS' é redundante no original."},
+  {"pid": "p24022", "nota": "Mantida. A alternativa fala em 'creme dental para bebê'; a recomendação vigente é creme dental fluoretado (cerca de 1.000 ppm) em quantidade de grão de arroz, e o comentário deixa claro que deve conter flúor."},
+  {"pid": "p24029", "nota": "Mantida. Vinagre é a conduta do manejo brasileiro (Haddad Jr) para cnidários; fora do Brasil há controvérsia sobre vinagre na caravela (Physalia). O enunciado não especifica o animal."},
+  {"pid": "p24032", "nota": "Mantida. 'Aumento de volume do local da dor' poderia sugerir adenite supurada lateral, e a síndrome de Grisel também segue faringite; o abscesso retrofaríngeo é a resposta mais consistente com febre, limitação cervical e falha do antibiótico oral."},
+  {"pid": "p24008", "nota": "Correção de extração no enunciado: '38,5 oC' → '38,5 °C'."}
+ ]
+}

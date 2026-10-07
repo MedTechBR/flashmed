@@ -139,7 +139,16 @@ def main():
         ex = ORIGEM.get(pre)
         if not ex: return
         for k in (chave_q(q), "p:" + normtxt(q["q"])[:150]):
-            ordem.setdefault(k, {"ex": ex, **({"n": n} if n else {})})
+            o = ordem.get(k)
+            if o is None:
+                ordem[k] = {"ex": ex, **({"n": n} if n else {})}
+            elif o["ex"] != ex and all(t["ex"] != ex for t in o.get("tb", [])):
+                o.setdefault("tb", []).append({"ex": ex, **({"n": n} if n else {})})
+    # provas extraídas aqui (provas-extras/*.json, ids "<prefixo>#<n>") entram PRIMEIRO: a questão do
+    # ENAMED 2025 que também caiu no Revalida 2025.2 fica rotulada como ENAMED, com o Revalida em "tb"
+    for arq in sorted(glob.glob(os.path.join(RAIZ, "provas-extras", "*.json"))):
+        for x in json.load(open(arq, encoding="utf-8")):
+            pre, n = x["id"].split("#"); reg(x, pre, int(n))
     cand = json.load(open(C + "clinicamed/provas-reais/candidatas.json", encoding="utf-8"))
     for x in cand:
         pre, n = x["id"].split("#"); reg(x, pre, int(n))

@@ -1,0 +1,1157 @@
+[
+ {
+  "pid": "s25042",
+  "q": "Psiquiatra opta por substituir o tratamento de um paciente com episódio depressivo maior, trocando um antidepressivo tricíclico por um inibidor irreversível da monoamina oxidase (IMAO). Em relação a essa conduta, assinale a afirmativa correta.",
+  "alts": [
+   "Caso a substituição seja feita, o paciente deverá seguir uma dieta restritiva, evitando alimentos como queijos, embutidos e bebidas fermentadas como vinho, devido ao risco de crise hipertensiva.",
+   "A troca só pode ser realizada mediante associação obrigatória com um benzodiazepínico de longa duração e um antipsicótico típico.",
+   "Essa substituição deve ocorrer imediatamente, sem necessidade de intervalo entre as medicações.",
+   "IMAOs não devem mais ser utilizados para o tratamento da depressão porque seu uso está restrito a pacientes com doença de Parkinson.",
+   "É necessário associar um inibidor seletivo da recaptação de serotonina ao IMAO para potencializar a resposta terapêutica em quadros refratários."
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Troca de tricíclico por IMAO",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "CANMAT 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults (publicada em 2024)",
+  "coment": "Os IMAO irreversíveis (tranilcipromina, fenelzina) bloqueiam a MAO intestinal e hepática, que degrada a tiramina dos alimentos. Sem essa barreira, a tiramina de queijos curados, embutidos, carnes defumadas, molho de soja e bebidas fermentadas libera noradrenalina e pode causar crise hipertensiva. Por isso a dieta pobre em tiramina é obrigatória durante o uso e por cerca de duas semanas após a suspensão. A troca a partir de outro antidepressivo exige intervalo de washout (em geral 1 a 2 semanas para tricíclicos, 5 semanas para fluoxetina) pelo risco de síndrome serotoninérgica e crise hipertensiva. O CANMAT 2023 mantém os IMAO como opção de terceira linha na depressão resistente.",
+  "porAlt": [
+   "Correta: o IMAO irreversível impede a degradação da tiramina da dieta, e alimentos ricos nela podem precipitar crise hipertensiva, daí a restrição alimentar.",
+   "Não existe associação obrigatória com benzodiazepínico e antipsicótico típico para iniciar um IMAO; a troca exige washout e orientação dietética.",
+   "A troca imediata é perigosa: é preciso intervalo entre as medicações pelo risco de síndrome serotoninérgica e de crise hipertensiva.",
+   "Os IMAO continuam indicados na depressão, sobretudo resistente ou com características atípicas; a selegilina em baixa dose é que tem uso no Parkinson.",
+   "Associar ISRS a IMAO é contraindicado pelo alto risco de síndrome serotoninérgica potencialmente fatal."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 42
+  }
+ },
+ {
+  "pid": "s25043",
+  "q": "Mulher de 45 anos procura atendimento relatando preocupação constante com sua saúde, com medo recorrente de que algo grave possa acontecer. Nos episódios mais intensos, refere dor precordial associada à sensação de taquicardia, tontura, parestesias e impressão de “morte iminente”. Os sintomas costumam durar poucos minutos, mas são descritos como altamente desconfortáveis. Nega uso de substâncias ou histórico de outras doenças. Com base no quadro clínico, o diagnóstico mais provável é",
+  "alts": [
+   "infarto agudo do miocárdio.",
+   "transtorno do pânico.",
+   "transtorno de personalidade borderline.",
+   "esclerose múltipla.",
+   "transtorno de ansiedade social."
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Transtorno de pânico",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, Manual Diagnóstico e Estatístico de Transtornos Mentais, 2022",
+  "coment": "Ataques de pânico são surtos abruptos de medo intenso que atingem o pico em minutos, com pelo menos 4 sintomas entre palpitação, dor torácica, sudorese, tremor, dispneia, tontura, parestesias, desrealização e medo de morrer. O transtorno de pânico exige ataques recorrentes e inesperados seguidos de ao menos 1 mês de preocupação persistente com novos ataques ou suas consequências, ou mudança de comportamento. A paciente tem episódios de minutos com dor precordial, taquicardia, tontura, parestesias e sensação de morte iminente, além da preocupação constante com a saúde, sem uso de substâncias nem doença orgânica, o que configura o quadro pelo DSM-5-TR. Na primeira crise com dor torácica, a causa cardíaca deve ser afastada.",
+  "porAlt": [
+   "O infarto não se repete em episódios de poucos minutos que regridem espontaneamente, e a paciente não tem doença prévia nem fatores descritos; deve ser afastado, mas não é a hipótese mais provável.",
+   "Correta: crises recorrentes de minutos com sintomas autonômicos, parestesias e sensação de morte iminente, somadas à preocupação persistente, definem o transtorno de pânico.",
+   "O transtorno de personalidade borderline envolve instabilidade afetiva, impulsividade e medo de abandono, sem crises autonômicas isoladas como quadro central.",
+   "A esclerose múltipla causa déficits neurológicos focais que duram dias, não crises de minutos com taquicardia e medo de morrer.",
+   "Na ansiedade social o medo é desencadeado pela exposição ao julgamento alheio, e o caso não descreve esse gatilho."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 43
+  }
+ },
+ {
+  "pid": "s25044",
+  "q": "Sobre as medicações utilizadas como estabilizadores do humor, assinale a afirmativa correta.",
+  "alts": [
+   "O uso de topiramato está frequentemente associado ao ganho de peso como efeito adverso.",
+   "O carbonato de lítio é eficaz no tratamento de episódios maníacos.",
+   "A associação de lamotrigina com valproato é contraindicada em qualquer circunstância clínica.",
+   "A carbamazepina não requer monitoramento eletrolítico, pois raramente altera os níveis de sódio.",
+   "As drogas estabilizadoras com propriedades antiepilépticas costumam atuar como facilitadoras dos canais de sódio voltagem-dependentes."
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Estabilizadores do humor",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "CANMAT/ISBD Guidelines for the Management of Patients with Bipolar Disorder, 2018",
+  "coment": "O lítio é primeira linha no tratamento da mania aguda e na manutenção do transtorno bipolar pelo CANMAT/ISBD 2018, com eficácia antimaníaca demonstrada e efeito antissuicida. Os demais itens têm erros farmacológicos: o topiramato tende a causar perda de peso; lamotrigina com valproato é associação possível, exigindo reduzir a dose de lamotrigina (o valproato dobra seu nível e aumenta o risco de exantema grave); a carbamazepina causa hiponatremia por efeito semelhante ao da SIADH e pede dosagem de sódio; e os anticonvulsivantes estabilizadores (carbamazepina, lamotrigina, valproato) bloqueiam canais de sódio voltagem-dependentes, em vez de facilitá-los.",
+  "porAlt": [
+   "O topiramato costuma causar perda de peso e anorexia, e por isso às vezes é usado para atenuar o ganho de peso de outros psicotrópicos.",
+   "Correta: o carbonato de lítio é tratamento de primeira linha da mania aguda e da manutenção no transtorno bipolar.",
+   "A associação lamotrigina e valproato é usada na prática, desde que a lamotrigina seja iniciada em dose reduzida e titulada devagar.",
+   "A carbamazepina causa hiponatremia com frequência, sobretudo em idosos, e exige monitorar o sódio sérico.",
+   "Os estabilizadores com ação antiepiléptica bloqueiam, e não facilitam, os canais de sódio voltagem-dependentes."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 44
+  }
+ },
+ {
+  "pid": "s25045",
+  "q": "Jovem de 20 anos é admitido em emergência psiquiátrica apresentando quadro de psicose aguda caracterizado por delírios e alucinações, além de sinais autonômicos como hipertensão, hipertermia, taquicardia, midríase e sudorese intensa. O acompanhante informou que o paciente possui uma alteração genética que reduz os níveis séricos de colinesterase e que fazia uso de álcool. Considerando os dados clínicos, a causa mais provável desse quadro é",
+  "alts": [
+   "uso de atropina.",
+   "uso de cocaína.",
+   "alcoolismo agudo.",
+   "transtorno esquizoafetivo.",
+   "depressão psicótica."
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Intoxicação por cocaína",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Goldfrank's Toxicologic Emergencies, 11ª ed., 2019",
+  "coment": "O quadro é uma síndrome simpaticomimética: psicose aguda com hipertensão, taquicardia, hipertermia, midríase e sudorese intensa. A cocaína é hidrolisada principalmente pela colinesterase plasmática (pseudocolinesterase); quem tem deficiência genética dessa enzima acumula a droga e intoxica com doses habituais. O álcool agrava o quadro porque, junto com a cocaína, forma cocaetileno, metabólito de meia-vida mais longa e maior cardiotoxicidade. A sudorese é o dado que separa a síndrome simpaticomimética da anticolinérgica: a atropina também causa midríase, taquicardia e hipertermia, mas com pele seca e quente.",
+  "porAlt": [
+   "A atropina gera síndrome anticolinérgica com pele seca, retenção urinária e íleo; a sudorese intensa do caso aponta para simpaticomimético.",
+   "Correta: cocaína causa síndrome simpaticomimética com psicose, e a deficiência de colinesterase plasmática, somada ao álcool (cocaetileno), aumenta sua toxicidade.",
+   "A intoxicação alcoólica aguda deprime o sistema nervoso central e não explica midríase, hipertermia e hipertensão com psicose.",
+   "O transtorno esquizoafetivo não produz hipertermia, midríase e sudorese, e a pista da colinesterase não teria relação com ele.",
+   "A depressão psicótica não cursa com síndrome autonômica simpaticomimética aguda."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 45
+  }
+ },
+ {
+  "pid": "s25046",
+  "q": "Homem de 47 anos procura atendimento relatando, de forma convicta, que existe um animal rastejante alojado em seu abdome. Ele afirma sentir seus movimentos internos, apesar de múltiplas avaliações clínicas e exames complementares não apontarem qualquer anormalidade orgânica. Ele permanece firme nessa crença, sem qualquer crítica à ideia. Assinale a afirmativa que melhor descreve esse fenômeno clínico.",
+  "alts": [
+   "Alucinação somestésica, geralmente associada ao uso de substâncias psicoativas.",
+   "Delírio de referência, típico de quadros esquizoafetivos.",
+   "Alteração somática compatível com episódios depressivos psicóticos.",
+   "Delírio cenestopático, comumente encontrado em pacientes com esquizofrenia ou transtorno delirante persistente.",
+   "Alucinação cenestopática, mais prevalente na esquizofrenia do tipo paranoide."
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Delírio cenestopático",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022 (transtorno delirante, tipo somático); Dalgalarrondo, Psicopatologia e Semiologia dos Transtornos Mentais, 3ª ed., 2019",
+  "coment": "O elemento central é a convicção inabalável, sem crítica e refratária à prova contrária (exames normais), de que há um animal dentro do abdome: isso é delírio, de conteúdo somático ou cenestopático (relativo à sensibilidade corporal interna). A sensação de movimento faz parte da vivência delirante. Delírios somáticos desse tipo (zoopatia interna, parasitose delirante) aparecem no transtorno delirante persistente, tipo somático, e na esquizofrenia. O DSM-5-TR admite que alucinações táteis ou olfativas relacionadas ao tema delirante existam no transtorno delirante sem mudar o diagnóstico, por isso a melhor descrição do fenômeno é o delírio, e não a alucinação isolada.",
+  "porAlt": [
+   "O enunciado enfatiza a crença firme e sem crítica, que é delírio; atribuir o quadro a substâncias também não tem apoio no caso.",
+   "Delírio de referência é a convicção de que fatos e falas alheias se dirigem ao paciente, o que não corresponde a um animal no abdome.",
+   "Não há humor deprimido nem outros sintomas depressivos descritos que sustentem depressão psicótica.",
+   "Correta: a convicção irredutível de um animal no corpo, apesar dos exames normais, é delírio cenestopático, típico do transtorno delirante tipo somático e da esquizofrenia.",
+   "O fenômeno principal é a crença delirante; a sensação corporal acompanha o delírio, e não há dado de que seja mais prevalente no subtipo paranoide."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 46
+  }
+ },
+ {
+  "pid": "s25047",
+  "q": "A esquizofrenia apresenta sintomas positivos e negativos. Com base nesse entendimento, assinale a afirmativa correta.",
+  "alts": [
+   "Sintomas positivos englobam o aumento das funções executivas enquanto os negativos se referem ao delirium.",
+   "Sintomas positivos são aqueles relacionados ao aumento de afeto, e os negativos, à depressão.",
+   "Delírios e alucinações são sintomas positivos, e embotamento afetivo e retraimento social são negativos.",
+   "Ideações de suicídio são sintomas negativos e ideações de grandeza são positivos.",
+   "Delírio de autorreferência é sintoma negativo, e expressão artística é positivo."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Sintomas positivos e negativos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "Sintomas positivos são acréscimos ao funcionamento normal: delírios, alucinações, discurso e comportamento desorganizados. Sintomas negativos são perdas: embotamento ou diminuição da expressão emocional, avolição, alogia, anedonia e retraimento social. O DSM-5-TR lista os negativos como um dos cinco domínios do critério A da esquizofrenia. Os negativos respondem pouco aos antipsicóticos e pesam mais no prognóstico funcional. Ideação suicida, criatividade e funções executivas não entram nessa divisão.",
+  "porAlt": [
+   "Sintoma positivo não é aumento de funções executivas (que costumam estar prejudicadas), e delirium é síndrome orgânica, não sintoma negativo.",
+   "A divisão não se refere a aumento de afeto contra depressão; afeto embotado é negativo e humor deprimido é dimensão à parte.",
+   "Correta: delírios e alucinações são positivos, e embotamento afetivo e retraimento social são negativos.",
+   "Ideação suicida não é sintoma negativo da esquizofrenia, e ideias de grandeza só seriam positivas se delirantes.",
+   "Delírio de autorreferência é sintoma positivo, e expressão artística não é sintoma."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 47
+  }
+ },
+ {
+  "pid": "s25048",
+  "q": "Homem de 40 anos começou a apresentar comportamentos marcados por desconfiança excessiva: acreditava estar sendo enganado por pessoas próximas, demonstrava constante dúvida sobre a lealdade dos amigos e interpretava comentários neutros como ameaças ocultas. Com o tempo, passou a ter conflitos conjugais frequentes, sustentando firmemente que sua parceira era infiel, apesar de se apoiar apenas em suposições frágeis. Não havia uso de substâncias psicoativas nem sinais de delírios bizarros. Com base nesse quadro, o diagnóstico mais compatível é",
+  "alts": [
+   "transtorno obsessivo compulsivo.",
+   "transtorno delirante.",
+   "transtorno bipolar.",
+   "episódio depressivo maior.",
+   "esquizofrenia."
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Transtorno delirante tipo ciumento",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "O transtorno delirante exige um ou mais delírios por pelo menos 1 mês, sem preencher critério A de esquizofrenia, com funcionamento relativamente preservado fora do tema delirante e comportamento não bizarro. O caso tem início na meia-idade, delírios não bizarros de perseguição e de ciúme (convicção de infidelidade da parceira com base em indícios frágeis), sem alucinações, sem desorganização, sem episódio de humor e sem substâncias. O tipo ciumento, também chamado síndrome de Otelo, gera conflitos conjugais e risco de violência contra o parceiro.",
+  "porAlt": [
+   "No TOC as obsessões são reconhecidas como excessivas e acompanhadas de compulsões; aqui há convicção sem crítica.",
+   "Correta: delírios não bizarros de perseguição e ciúme, sem outros sintomas psicóticos e sem substâncias, configuram transtorno delirante.",
+   "Não há episódio maníaco ou depressivo descrito que caracterize transtorno bipolar.",
+   "Não há humor deprimido, anedonia ou sintomas neurovegetativos que indiquem episódio depressivo maior.",
+   "A esquizofrenia exigiria dois sintomas do critério A, como alucinações, desorganização ou sintomas negativos, e declínio funcional global."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 48
+  }
+ },
+ {
+  "pid": "s25049",
+  "q": "Um adolescente de 15 anos passou a se isolar socialmente, afastando-se dos amigos e apresentando piora significativa no rendimento escolar. Relata escutar vozes que descreve como “um computador falando dentro da minha cabeça”, além de afirmar ter conversado com um ser de outro planeta e que em breve cumprirá uma missão no espaço. Esses sintomas começaram há cerca de 8 meses e vêm se tornando mais frequentes. Considerando o quadro descrito, o diagnóstico mais provável é",
+  "alts": [
+   "esquizofrenia.",
+   "transtorno de ansiedade generalizada.",
+   "episódio depressivo maior.",
+   "transtorno afetivo bipolar.",
+   "transtorno delirante."
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Esquizofrenia de início precoce",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "O adolescente tem alucinações auditivas (voz de computador dentro da cabeça), delírios bizarros (contato com ser de outro planeta e missão no espaço), retraimento social e queda do rendimento escolar há 8 meses. O DSM-5-TR exige dois ou mais sintomas do critério A por 1 mês, sendo ao menos um delírio, alucinação ou discurso desorganizado, declínio funcional e duração total de sinais de pelo menos 6 meses. Os critérios são preenchidos. Antes de fechar o diagnóstico, afastam-se uso de substâncias e causa orgânica.",
+  "porAlt": [
+   "Correta: alucinações, delírios bizarros, retraimento e declínio escolar por mais de 6 meses preenchem os critérios de esquizofrenia.",
+   "O transtorno de ansiedade generalizada não produz alucinações nem delírios.",
+   "Não há humor deprimido predominante descrito, e o quadro psicótico domina sem episódio depressivo.",
+   "Não há episódio maníaco com euforia, redução da necessidade de sono ou aceleração descritos.",
+   "O transtorno delirante não tem alucinações proeminentes nem declínio funcional global, e seus delírios não costumam ser bizarros."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 49
+  }
+ },
+ {
+  "pid": "s25050",
+  "q": "Com base nos critérios diagnósticos do DSM-5 para o episódio depressivo maior, além de sintomas secundários como alterações de sono e concentração, o seguinte sintoma principal obrigatoriamente deve estar presente:",
+  "alts": [
+   "tristeza e alterações no sono, sendo necessária a presença de apenas um deles.",
+   "baixa autoestima e ideação suicida, sendo obrigatória a presença dos dois.",
+   "presença de tristeza e/ou perda do interesse ou prazer (anedonia).",
+   "anedonia e suicidalidade, sendo ambos obrigatórios.",
+   "tristeza e baixa autoestima, sendo exigido pelo menos um desses sintomas."
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Critérios do episódio depressivo maior",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "O critério A do episódio depressivo maior pede 5 ou mais de 9 sintomas na maior parte do dia, quase todos os dias, por 2 semanas, e pelo menos um deles tem de ser humor deprimido (ou irritável em crianças e adolescentes) ou perda acentuada de interesse ou prazer (anedonia). Os outros sete são alteração de peso ou apetite, insônia ou hipersonia, agitação ou retardo psicomotor, fadiga, culpa ou desvalia, prejuízo de concentração e pensamentos de morte ou ideação suicida. Basta um dos dois sintomas nucleares, e podem estar presentes os dois.",
+  "porAlt": [
+   "Alteração do sono é sintoma acessório, não nuclear, e não substitui humor deprimido ou anedonia.",
+   "Baixa autoestima e ideação suicida são acessórios e não obrigatórios.",
+   "Correta: humor deprimido e/ou anedonia são os sintomas nucleares, e ao menos um deles é obrigatório.",
+   "Suicidalidade não é obrigatória; o critério exige humor deprimido ou anedonia, não ambos com ideação suicida.",
+   "Baixa autoestima não é sintoma nuclear; o par obrigatório é humor deprimido ou anedonia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 50
+  }
+ },
+ {
+  "pid": "s25051",
+  "q": "Os critérios do DSM-5 consideram o seguinte tempo mínimo de persistência dos sintomas para se considerar o diagnóstico de um episódio depressivo maior:",
+  "alts": [
+   "uma semana.",
+   "duas semanas.",
+   "1 mês.",
+   "2 meses.",
+   "6 meses."
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Duração do episódio depressivo",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "Pelo DSM-5-TR, os sintomas do episódio depressivo maior precisam estar presentes durante o mesmo período de 2 semanas, na maior parte do dia e quase todos os dias, representando mudança em relação ao funcionamento anterior. Outros prazos ajudam a diferenciar: hipomania exige 4 dias, mania 1 semana (ou qualquer duração se houver internação), transtorno depressivo persistente 2 anos em adultos e transtorno de ansiedade generalizada 6 meses.",
+  "porAlt": [
+   "Uma semana é o prazo do episódio maníaco, não do depressivo.",
+   "Correta: o DSM-5-TR exige ao menos 2 semanas de sintomas para o episódio depressivo maior.",
+   "Um mês é prazo de outros quadros, como sintomas ativos da esquizofrenia, e não do episódio depressivo.",
+   "Dois meses não é critério do episódio depressivo maior; aparece no limite de sintomas do luto em versões antigas.",
+   "Seis meses é a duração exigida para transtorno de ansiedade generalizada e para esquizofrenia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 51
+  }
+ },
+ {
+  "pid": "s25053",
+  "q": "Assinale a opção que apresenta um sintoma positivo da Doença de Lewy.",
+  "alts": [
+   "Afasia motora.",
+   "Alucinações visuais.",
+   "Embotamento afetivo.",
+   "Retração social.",
+   "Melhora das funções executivas."
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Alucinações na demência com corpos de Lewy",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "McKeith IG et al. Diagnosis and management of dementia with Lewy bodies: fourth consensus report of the DLB Consortium, Neurology, 2017",
+  "coment": "Na demência com corpos de Lewy, as alucinações visuais recorrentes, bem formadas e detalhadas (pessoas, animais) são uma das quatro características clínicas centrais do consenso de McKeith 2017, ao lado da flutuação da cognição e da atenção, do transtorno comportamental do sono REM e do parkinsonismo. Em linguagem psicopatológica, são o sintoma positivo (produtivo) do quadro. Isso tem implicação prática: esses pacientes têm hipersensibilidade grave a antipsicóticos, e o tratamento inicial das alucinações é com inibidor da colinesterase.",
+  "porAlt": [
+   "Afasia motora é déficit focal de linguagem, típico de lesão frontal ou de afasia progressiva primária, não sintoma produtivo da doença de Lewy.",
+   "Correta: alucinações visuais recorrentes e bem formadas são característica central da demência com corpos de Lewy e representam sintoma positivo.",
+   "Embotamento afetivo é sintoma negativo, por definição uma perda, e não um sintoma positivo.",
+   "Retração social também é perda de função, ou seja, sintoma negativo.",
+   "A doença de Lewy cursa com piora, e não melhora, das funções executivas e visuoespaciais."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 53
+  }
+ },
+ {
+  "pid": "s25054",
+  "q": "Um psiquiatra foi chamado para avaliar um paciente hospitalizado que apresenta imobilidade, posturas rígidas mantidas por longos períodos e imitação involuntária dos movimentos do examinado. Considerando o diagnóstico mais provável, assinale o tratamento inicial mais indicado.",
+  "alts": [
+   "Fluoxetina.",
+   "Gabapentina.",
+   "Lorazepam.",
+   "Donepezila.",
+   "Topiramato."
+  ],
+  "gab": 2,
+  "tema": "emergpsiq",
+  "sub": "Tratamento da catatonia",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Rogers JP et al. British Association for Psychopharmacology consensus guidelines on the management of catatonia, J Psychopharmacol, 2023",
+  "coment": "Imobilidade (estupor), posturas rígidas mantidas por longo tempo (catalepsia ou postura) e ecopraxia (imitação dos movimentos do examinador) somam três dos sinais do DSM-5-TR, que pede três ou mais de doze para catatonia. O tratamento de primeira linha é o lorazepam, com teste terapêutico (1 a 2 mg IV, IM ou VO, repetido e titulado); a resposta costuma ser rápida e confirma o diagnóstico. Se não houver resposta ou houver risco de vida (catatonia maligna), indica-se eletroconvulsoterapia, conforme o consenso da British Association for Psychopharmacology de 2023. Antipsicóticos devem ser evitados na fase aguda pelo risco de síndrome neuroléptica maligna.",
+  "porAlt": [
+   "A fluoxetina pode tratar a depressão de base depois, mas não reverte a catatonia aguda e demora semanas para agir.",
+   "A gabapentina não é tratamento estabelecido para catatonia.",
+   "Correta: o lorazepam é a primeira linha na catatonia, com resposta rápida que também serve de teste diagnóstico.",
+   "A donepezila é usada na doença de Alzheimer e não trata catatonia.",
+   "O topiramato não tem papel no tratamento da catatonia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 54
+  }
+ },
+ {
+  "pid": "s25055",
+  "q": "A depressão na população idosa pode estar associada a diversas condições de interesse clínico. Assinale a condição que melhor caracteriza a depressão no idoso.",
+  "alts": [
+   "A ideação suicida tende a ocorrer com menos frequência em idosos do que em adultos jovens.",
+   "A depressão é um processo esperado do envelhecimento e não requer atenção clínica específica.",
+   "Indivíduos com primeiro episódio depressivo tardio geralmente apresentam forte histórico familiar.",
+   "Homens casados são o grupo com maior vulnerabilidade à depressão nessa faixa etária.",
+   "A presença de depressão em idosos pode estar associada ao aumento do risco de desenvolver quadros demenciais."
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Depressão no idoso",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Diniz BS et al. Late-life depression and risk of vascular dementia and Alzheimer's disease: systematic review and meta-analysis, Br J Psychiatry, 2013",
+  "coment": "A depressão de início tardio associa-se a maior risco de demência: a metanálise de Diniz e colaboradores (2013) mostrou risco cerca de duas vezes maior de doença de Alzheimer e de demência vascular. A relação é bidirecional, pois a depressão pode ser fator de risco, pródromo ou manifestação de doença cerebrovascular. Por isso, o idoso deprimido merece avaliação cognitiva e seguimento. A depressão não faz parte do envelhecimento normal, o primeiro episódio tardio tem menos carga familiar do que o de início precoce e mais relação com doença vascular, e o suicídio consumado tem suas maiores taxas entre homens idosos, sobretudo viúvos ou isolados.",
+  "porAlt": [
+   "Ainda que inquéritos populacionais registrem ideação declarada menor em idosos, no idoso deprimido ela é subnotificada e as tentativas são mais letais, com as maiores taxas de suicídio; a frase não caracteriza a depressão do idoso e leva a subestimar o risco.",
+   "Depressão não é parte esperada do envelhecimento e exige diagnóstico e tratamento.",
+   "O primeiro episódio tardio tem menor carga familiar e maior associação com doença cerebrovascular do que a depressão de início precoce.",
+   "Homens casados não são o grupo mais vulnerável; o risco é maior em mulheres para depressão e em homens viúvos ou isolados para suicídio.",
+   "Correta: a depressão no idoso se associa a risco cerca de duas vezes maior de demência, como fator de risco ou pródromo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 55
+  }
+ },
+ {
+  "pid": "s25056",
+  "q": "O ecstasy tem sido muito usado como droga de abuso. Na composição do ecstasy, a principal substância presente é",
+  "alts": [
+   "a buspirona.",
+   "a metilenodioximetanfetamina.",
+   "o tetrahidrocanabinol.",
+   "o metilfenidato.",
+   "a cocaína."
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Ecstasy (MDMA)",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "United Nations Office on Drugs and Crime (UNODC). World Drug Report, 2024",
+  "coment": "O ecstasy tem como princípio ativo a 3,4-metilenodioximetanfetamina (MDMA), derivado anfetamínico com ação de liberação de serotonina, além de noradrenalina e dopamina, o que dá o efeito estimulante e empatogênico. Os riscos agudos são hipertermia, hiponatremia (por secreção de ADH e ingestão excessiva de água), síndrome serotoninérgica, rabdomiólise e arritmias. Comprimidos vendidos como ecstasy frequentemente contêm adulterantes, como catinonas sintéticas, o que aumenta o risco.",
+  "porAlt": [
+   "A buspirona é ansiolítico agonista parcial 5-HT1A, sem relação com o ecstasy.",
+   "Correta: o princípio ativo do ecstasy é a metilenodioximetanfetamina (MDMA).",
+   "O tetra-hidrocanabinol é o principal canabinoide psicoativo da maconha.",
+   "O metilfenidato é psicoestimulante usado no TDAH, não componente do ecstasy.",
+   "A cocaína é alcaloide da folha de coca, droga distinta do ecstasy."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 56
+  }
+ },
+ {
+  "pid": "s25057",
+  "q": "O transtorno de estresse pós-traumático (TEPT) tem sido descrito em diversas condições comumente encontradas na prática cotidiana (acidentes, assaltos, etc.) As principais dimensões relacionadas à resposta ao trauma são",
+  "alts": [
+   "evitação, intrusão e hiperestimulação.",
+   "pensamentos obsessivos e ideias recorrentes.",
+   "dificuldade de concentração e desesperança.",
+   "angústia, medo e evitação.",
+   "intrusão e desesperança."
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Dimensões do TEPT",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022; NICE NG116, Post-traumatic stress disorder, 2018",
+  "coment": "A resposta clássica ao trauma no TEPT se organiza em revivência ou intrusão (lembranças intrusivas, pesadelos, flashbacks), evitação de pistas do trauma e hiperestimulação ou hiperexcitabilidade (hipervigilância, sobressalto exagerado, insônia, irritabilidade). O DSM-5-TR acrescentou um quarto grupo, de alterações negativas na cognição e no humor, mas a tríade intrusão, evitação e hiperexcitação segue sendo o núcleo, e é ela que define o TEPT na CID-11. Os sintomas devem durar mais de 1 mês após o evento.",
+  "porAlt": [
+   "Correta: intrusão, evitação e hiperestimulação são as dimensões nucleares da resposta ao trauma no TEPT.",
+   "Pensamentos obsessivos e ideias recorrentes descrevem o TOC, não a resposta ao trauma.",
+   "Dificuldade de concentração e desesperança são sintomas inespecíficos, comuns à depressão.",
+   "Angústia e medo são inespecíficos; falta a intrusão e a hiperexcitação que caracterizam o TEPT.",
+   "Desesperança não é dimensão nuclear do TEPT, e a dupla omite evitação e hiperexcitação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 57
+  }
+ },
+ {
+  "pid": "s25058",
+  "q": "A acatasia tem sido relatada como efeito colateral ao uso de antipsicóticos. Acatisia é",
+  "alts": [
+   "a incapacidade de realizar movimentos voluntários e coordenados.",
+   "a incapacidade de reconhecer objetos pelo tato.",
+   "um transtorno de memória em que o paciente perde se desconecta de sua autobiografia.",
+   "um transtorno do movimento caracterizado por inquietude que pode fazer o paciente andar incessantemente.",
+   "um transtorno de funções executivas em que o paciente não consegue planejar ações."
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Acatisia por antipsicótico",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022 (acatisia aguda induzida por medicamento)",
+  "coment": "Acatisia é inquietude motora subjetiva e objetiva: o paciente sente necessidade de se mexer, cruza e descruza as pernas, troca o peso de um pé para o outro e anda sem parar. É efeito extrapiramidal comum dos antipsicóticos, sobretudo de alta potência e de alguns atípicos como aripiprazol, em geral nas primeiras semanas ou após aumento de dose. Associa-se a má adesão, agitação e risco de suicídio, e pode ser confundida com piora psicótica. O manejo inclui reduzir a dose ou trocar o antipsicótico e usar propranolol em baixa dose, benzodiazepínico ou mirtazapina.",
+  "porAlt": [
+   "Incapacidade de realizar movimentos voluntários coordenados descreve apraxia ou ataxia, não acatisia.",
+   "Incapacidade de reconhecer objetos pelo tato é estereoagnosia (agnosia tátil).",
+   "Perda de conexão com a própria autobiografia remete a amnésia dissociativa, não a efeito extrapiramidal.",
+   "Correta: acatisia é inquietude motora que pode levar o paciente a andar incessantemente, efeito comum dos antipsicóticos.",
+   "Incapacidade de planejar ações é disfunção executiva, sem relação com acatisia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 58
+  }
+ },
+ {
+  "pid": "s25059",
+  "q": "O transtorno de atenção e hiperatividade em crianças e adolescentes causa impacto significativo na vida escolar e nas relações sociais. A seguinte medicação é indicada para o tratamento dessa condição:",
+  "alts": [
+   "selegilina.",
+   "haloperidol.",
+   "amitriptilina.",
+   "metilfenidato.",
+   "valproato de sódio."
+  ],
+  "gab": 3,
+  "tema": "psiqinf",
+  "sub": "Tratamento farmacológico do TDAH",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NICE NG87, Attention deficit hyperactivity disorder: diagnosis and management, 2018 (atualizada em 2019)",
+  "coment": "O metilfenidato, psicoestimulante que bloqueia a recaptação de dopamina e noradrenalina, é a primeira linha farmacológica no TDAH de crianças a partir de 5 anos e adolescentes pela NICE NG87, junto com medidas psicossociais e orientação escolar. As alternativas incluem lisdexanfetamina e, como não estimulantes, atomoxetina e guanfacina. Antes de iniciar, avaliam-se pressão arterial, frequência cardíaca, peso e altura, e história cardiovascular pessoal e familiar.",
+  "porAlt": [
+   "A selegilina é IMAO-B usada no Parkinson e, em adesivo, na depressão, sem indicação no TDAH.",
+   "O haloperidol é antipsicótico típico, sem papel no tratamento do TDAH.",
+   "A amitriptilina não é indicada no TDAH e tem toxicidade cardíaca relevante em crianças.",
+   "Correta: o metilfenidato é tratamento de primeira linha do TDAH em crianças e adolescentes.",
+   "O valproato é estabilizador do humor e antiepiléptico, sem indicação no TDAH."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 59
+  }
+ },
+ {
+  "pid": "s25060",
+  "q": "O transtorno bipolar é caracterizado por flutuações extremas no humor, alternando entre episódios de mania (ou hipomania) e de depressão. No caso de um paciente com transtorno bipolar do humor que comete um ato ilícito, assinale a afirmativa correta.",
+  "alts": [
+   "Uma pessoa com transtorno bipolar poderá ser considerada inimputável caso, no momento do crime, ela esteja em um episódio maníaco ou depressivo grave, que tenha prejudicado substancialmente sua capacidade de entender o caráter ilícito do ato ou de se controlar.",
+   "No Brasil, o transtorno bipolar, por si só, é considerado uma justificativa para alegar inimputabilidade ou semiimputabilidade.",
+   "Uma pessoa com transtorno bipolar poderá ser considerada no máximo semi-imputável no Brasil caso, no momento do crime, ela esteja em um episódio maníaco grave.",
+   "Uma pessoa com transtorno bipolar é sempre considerada portadora de transtorno mental, o que, embora não anule completamente a responsabilidade penal, deve ser sempre considerada semi-imputável.",
+   "Uma pessoa com transtorno bipolar poderá ser considerada no máximo semi-imputável no Brasil caso, no momento do crime, ela esteja em um episódio depressivo grave."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Imputabilidade no transtorno bipolar",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Código Penal Brasileiro, Decreto-Lei 2.848/1940, art. 26 (redação da Lei 7.209/1984)",
+  "coment": "O Código Penal adota o critério biopsicológico: não basta o diagnóstico, é preciso que a doença mental, no momento da ação, tenha retirado (inimputabilidade, art. 26, caput) ou reduzido (semi-imputabilidade, parágrafo único) a capacidade de entender o caráter ilícito do fato ou de se determinar conforme esse entendimento. No transtorno bipolar, isso depende do estado no momento do crime: em eutimia a pessoa é em regra imputável, e em episódio maníaco ou depressivo grave, com ou sem sintomas psicóticos, pode ser inimputável ou semi-imputável. A perícia psiquiátrica avalia o caso e o juiz decide.",
+  "porAlt": [
+   "Correta: pelo critério biopsicológico do art. 26, o bipolar pode ser inimputável se, no momento do ato, um episódio grave tiver comprometido o entendimento ou a autodeterminação.",
+   "O diagnóstico isolado não basta; é preciso demonstrar o prejuízo da capacidade no momento do fato.",
+   "Episódio maníaco grave pode levar à inimputabilidade plena, e não apenas à semi-imputabilidade.",
+   "O transtorno bipolar não implica semi-imputabilidade automática; fora dos episódios a pessoa é em regra imputável.",
+   "Episódio depressivo grave, sobretudo com sintomas psicóticos, também pode gerar inimputabilidade plena."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 60
+  }
+ },
+ {
+  "pid": "s25061",
+  "q": "A pedofilia é caracterizada por um interesse sexual persistente e intenso por crianças ou adolescentes que ainda não atingiram a puberdade. Caso o portador desse transtorno cometa atos sexuais com menores de idade, assinale a afirmativa correta em relação à responsabilidade criminal.",
+  "alts": [
+   "No Brasil, considera-se que o pedófilo é sempre portador de transtorno mental de personalidade, o que, embora não anule completamente a responsabilidade penal, deve ser considerado como semi-imputável.",
+   "A avaliação psiquiátrica pericial irá subsidiar a decisão do magistrado ao analisar se, no momento do crime, a pessoa tinha condições de entender o caráter ilícito do ato e de se autodeterminar de acordo com esse entendimento.",
+   "A pedofilia, atestada como transtorno cognitivo por psiquiatra, justifica a obrigação legal de redução da pena.",
+   "No Brasil, a pedofilia, por si só, é considerada uma justificativa para alegar inimputabilidade",
+   "Como a pedofilia pode ser classificada como um transtorno de personalidade, ela exime automaticamente toda responsabilidade penal."
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Pedofilia e responsabilidade penal",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Código Penal Brasileiro, Decreto-Lei 2.848/1940, art. 26 (redação da Lei 7.209/1984)",
+  "coment": "A pedofilia é transtorno parafílico, não doença que por si só afaste a responsabilidade penal. Pelo critério biopsicológico do art. 26 do Código Penal, cabe à perícia psiquiátrica examinar se, no momento do crime, o agente tinha capacidade de entender o caráter ilícito do ato e de se autodeterminar. Na grande maioria dos casos a capacidade de entendimento está preservada, e a discussão recai sobre a autodeterminação. O laudo subsidia, e a decisão sobre inimputabilidade, semi-imputabilidade ou imputabilidade é do magistrado.",
+  "porAlt": [
+   "Não existe semi-imputabilidade automática para pedofilia; a capacidade é avaliada caso a caso pela perícia.",
+   "Correta: a perícia psiquiátrica avalia o entendimento e a autodeterminação no momento do crime, e o juiz decide com base nela.",
+   "Pedofilia é transtorno parafílico, não cognitivo, e não obriga redução de pena.",
+   "O diagnóstico de pedofilia isolado não justifica inimputabilidade no direito brasileiro.",
+   "Pedofilia não é classificada como transtorno de personalidade e não exime automaticamente a responsabilidade penal."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 61
+  }
+ },
+ {
+  "pid": "s25062",
+  "q": "Homem de 35 anos com histórico de depressão é encontrado inconsciente em sua residência. Após atendimento em unidade de saúde, o paciente desperta com o uso de flumazenil. Considerando o quadro clínico, indique a causa mais provável para a alteração.",
+  "alts": [
+   "Mielopatia compressiva.",
+   "Tentativa de suicídio com uso de benzodiazepínico.",
+   "Transtorno somatiforme.",
+   "Acidente vascular encefálico.",
+   "Crise histérica conversiva."
+  ],
+  "gab": 1,
+  "tema": "emergpsiq",
+  "sub": "Tentativa de suicídio com benzodiazepínico",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Goldfrank's Toxicologic Emergencies, 11ª ed., 2019",
+  "coment": "O flumazenil é antagonista competitivo do receptor benzodiazepínico do GABA-A; o despertar após sua administração indica intoxicação por benzodiazepínico. Em paciente com história de depressão encontrado inconsciente em casa, a hipótese mais provável é tentativa de suicídio por ingestão, o que exige avaliação psiquiátrica e de risco após a estabilização. O flumazenil não é de uso rotineiro: pode precipitar convulsões em usuários crônicos e em coingestão de tricíclicos, e tem meia-vida curta, com risco de ressedação.",
+  "porAlt": [
+   "Mielopatia compressiva não causa coma nem melhora com flumazenil.",
+   "Correta: a reversão com flumazenil indica intoxicação por benzodiazepínico, e a história de depressão aponta tentativa de suicídio.",
+   "Transtorno somatiforme não explica inconsciência revertida por antagonista benzodiazepínico.",
+   "AVC não reverte com flumazenil, que não tem ação sobre lesão estrutural.",
+   "Crise conversiva não responderia de forma específica ao flumazenil, e a resposta farmacológica aponta intoxicação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 62
+  }
+ },
+ {
+  "pid": "s25063",
+  "q": "Criança do sexo feminino, 9 anos de idade, passou a demonstrar nervosismo constante, retraimento social e evitação de situações de convivência após iniciar os estudos em uma nova escola. Essas manifestações são acompanhadas de sintomas físicos como palpitações. Considerando esse quadro clínico, o diagnóstico que apresenta maior compatibilidade é de transtorno",
+  "alts": [
+   "bipolar do humor.",
+   "de apego reativo.",
+   "depressivo maior.",
+   "do espectro autista.",
+   "de ansiedade social."
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Ansiedade social na infância",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "O transtorno de ansiedade social é medo ou ansiedade marcante em situações em que a pessoa pode ser observada ou avaliada por outros, com evitação ou sofrimento intenso, por 6 meses ou mais. Em crianças, o DSM-5-TR exige que a ansiedade ocorra também com pares, e não só com adultos, e ela pode aparecer como choro, birra, imobilidade ou recusa em falar. A menina de 9 anos tem nervosismo, retraimento e evitação do convívio após entrar numa escola nova, com sintomas físicos como palpitações, quadro mais compatível com ansiedade social entre as opções. Sem humor deprimido, sem história de negligência e sem déficits precoces de comunicação.",
+  "porAlt": [
+   "Não há episódio de mania ou hipomania descrito, e o transtorno bipolar é raro nessa idade.",
+   "O transtorno de apego reativo decorre de negligência grave na primeira infância e se manifesta antes dos 5 anos, o que o caso não descreve.",
+   "Não há humor deprimido, irritabilidade persistente nem anedonia que sustentem episódio depressivo maior.",
+   "O transtorno do espectro autista tem déficits de comunicação social presentes desde o início do desenvolvimento, não iniciados com a mudança de escola.",
+   "Correta: medo e evitação de situações sociais com pares, com sintomas autonômicos, caracterizam transtorno de ansiedade social."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 63
+  }
+ },
+ {
+  "pid": "s25064",
+  "q": "Um jovem de 35 anos, previamente diagnosticado com transtorno bipolar, está hospitalizado porque, nas últimas 48 horas, passou a apresentar mutismo, negativismo, imobilidade intensa com posturas incomuns e caretas. Tomografia de crânio foi normal, sem achados estruturais. O diagnóstico que melhor explica o quadro atual é",
+  "alts": [
+   "delirium hiperativo.",
+   "catatonia.",
+   "síndrome neuroléptica maligna.",
+   "parkinsonismo medicamentoso.",
+   "delirium hipoativo."
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Catatonia no transtorno bipolar",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022; Rogers JP et al. BAP consensus guidelines on the management of catatonia, 2023",
+  "coment": "Mutismo, negativismo, estupor (imobilidade intensa), posturas incomuns e caretas somam cinco dos doze sinais do DSM-5-TR, que exige três para catatonia. O DSM-5-TR prevê o especificador catatonia associada a outro transtorno mental, e os transtornos de humor, sobretudo o bipolar, são a causa mais comum, mais do que a esquizofrenia. A tomografia normal afasta lesão estrutural. A conduta é teste com lorazepam e, se não houver resposta, eletroconvulsoterapia. A síndrome neuroléptica maligna seria lembrada se houvesse febre, rigidez, instabilidade autonômica e CK elevada após antipsicótico.",
+  "porAlt": [
+   "Delirium hiperativo cursa com agitação, desatenção e flutuação da consciência, não com mutismo e posturas mantidas.",
+   "Correta: mutismo, negativismo, estupor, posturas e caretas preenchem critérios de catatonia, comum no transtorno bipolar.",
+   "A síndrome neuroléptica maligna exigiria antipsicótico recente com febre, rigidez, instabilidade autonômica e CK alta, ausentes no caso.",
+   "Parkinsonismo medicamentoso tem bradicinesia, rigidez e tremor, sem negativismo, mutismo e posturas bizarras.",
+   "Delirium hipoativo tem rebaixamento e desatenção flutuantes; negativismo e posturas incomuns apontam para catatonia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 64
+  }
+ },
+ {
+  "pid": "s25065",
+  "q": "Um paciente de 88 anos está hospitalizado para tratamento de pneumonia com antibioticoterapia intravenosa. Durante a internação, apresenta episódios de agitação intensa que exigem contenção mecânica para evitar que deixe o leito. Ao ser examinado, o paciente acredita estar em casa. O quadro apresenta flutuações ao longo do dia, intercalando períodos assintomáticos. O diagnóstico mais provável é",
+  "alts": [
+   "episódio maníaco.",
+   "demência rapidamente progressiva.",
+   "delirium.",
+   "crise psicótica aguda.",
+   "episódio depressivo."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Delirium no idoso hospitalizado",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022; NICE CG103, Delirium: prevention, diagnosis and management, 2010 (atualizada em 2023)",
+  "coment": "Delirium é síndrome de início agudo com distúrbio de atenção e consciência e alteração cognitiva (desorientação, como achar que está em casa), que flutua ao longo do dia e tem causa orgânica, aqui pneumonia, idade avançada e hospitalização. A flutuação com períodos lúcidos é o dado que diferencia de demência e de transtornos psiquiátricos primários. O tratamento é da causa e com medidas não farmacológicas (orientação, sono, óculos e aparelho auditivo, mobilização, evitar contenção); antipsicótico em dose baixa fica restrito à agitação com risco, pela NICE CG103.",
+  "porAlt": [
+   "Episódio maníaco não surge de forma aguda num idoso sem história, com desorientação flutuante durante infecção.",
+   "Demência rapidamente progressiva evolui em semanas a meses e não flutua com períodos assintomáticos ao longo do mesmo dia.",
+   "Correta: início agudo, desorientação e flutuação durante doença clínica no idoso caracterizam delirium.",
+   "Crise psicótica primária não cursa com desorientação flutuante ligada a doença orgânica aguda.",
+   "Episódio depressivo não explica agitação com desorientação e flutuação diária da consciência."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 65
+  }
+ },
+ {
+  "pid": "s25066",
+  "q": "Homem de 48 anos relata comportamento repetido de tocar ou se esfregar em outras pessoas sem o consentimento delas, com o objetivo de obter excitação sexual. Esse comportamento ocorre com mais frequência quando pega ônibus lotado. Diante do quadro clínico exposto, o diagnóstico mais compatível é de transtorno",
+  "alts": [
+   "fetichista.",
+   "exibicionista.",
+   "de sadismo sexual.",
+   "frotteurista.",
+   "voyeurista."
+  ],
+  "gab": 3,
+  "tema": "psiqinf",
+  "sub": "Transtorno frotteurista",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "O transtorno frotteurista é excitação sexual recorrente e intensa por tocar ou esfregar-se em pessoa que não consentiu, manifestada por fantasias, impulsos ou comportamentos, por pelo menos 6 meses. O DSM-5-TR exige que a pessoa tenha agido sobre esses impulsos com alguém sem consentimento, ou que eles causem sofrimento ou prejuízo. Ocorre tipicamente em locais com aglomeração, como transporte público, que facilitam o contato e a fuga. No Brasil, a conduta pode configurar importunação sexual (Lei 13.718/2018).",
+  "porAlt": [
+   "O transtorno fetichista envolve excitação com objetos inanimados ou partes não genitais do corpo.",
+   "O transtorno exibicionista envolve expor os próprios genitais a quem não espera.",
+   "O sadismo sexual envolve excitação com o sofrimento físico ou psicológico de outra pessoa.",
+   "Correta: tocar ou esfregar-se em pessoas sem consentimento para obter excitação, sobretudo em transporte lotado, define o transtorno frotteurista.",
+   "O transtorno voyeurista envolve observar, sem consentimento, pessoas nuas, despindo-se ou em atividade sexual."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 66
+  }
+ },
+ {
+  "pid": "s25068",
+  "q": "O transtorno dissociativo de identidade tem sido relatado na pratica psiquiátrica. Uma manifestação típica desse transtorno é",
+  "alts": [
+   "a ocorrência em indivíduos idosos com agnosia.",
+   "amnésia dissociativa acompanhada de prosopagnosia.",
+   "a existência de múltiplas identidades distintas possivelmente presentes desde os primeiros anos de vida.",
+   "amnésia retrógrada e anterógrada com comprometimento da continuidade da memória.",
+   "a criação voluntária de identidades falsas para manipulação de outras pessoas."
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Transtorno dissociativo de identidade",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "O transtorno dissociativo de identidade é a ruptura da identidade em dois ou mais estados de personalidade distintos, com descontinuidade do senso de si e da agência, alterações de afeto, comportamento, memória e percepção, e lacunas recorrentes de memória para fatos cotidianos ou traumáticos. Associa-se fortemente a trauma grave e repetido na infância, por isso as identidades costumam se formar nos primeiros anos de vida. Não é produção voluntária, o que o distingue de simulação e transtorno factício, e não faz parte de prática cultural ou religiosa aceita.",
+  "porAlt": [
+   "Não é quadro típico de idosos com agnosia; costuma começar na infância, ligado a trauma precoce.",
+   "Prosopagnosia é déficit neurológico de reconhecimento de faces e não caracteriza o transtorno.",
+   "Correta: o transtorno se define por múltiplas identidades distintas, geralmente formadas na infância no contexto de trauma.",
+   "Amnésia retrógrada e anterógrada global sugere causa orgânica; no transtorno dissociativo as lacunas são episódicas e ligadas à alternância de identidades.",
+   "A criação voluntária de identidades para manipular configura simulação, não transtorno dissociativo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 68
+  }
+ },
+ {
+  "pid": "s25069",
+  "q": "No contexto da psiquiatria, os episódios de transe e possessão merecem atenção clínica. Em relação ao transtorno de transe e possessão, assinale a afirmativa correta.",
+  "alts": [
+   "Ocorre com frequência na síndrome de Ganser.",
+   "O indivíduo apresenta comportamento influenciado por uma entidade ou personalidade externa, com suspensão momentânea da identidade própria.",
+   "É uma característica marcante da demência com corpos de Lewy.",
+   "É uma manifestação exclusiva de cerimônias religiosas.",
+   "Representa um sintoma essencial na doença de Alzheimer."
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Transtorno de transe e possessão",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "tit",
+  "base": "Organização Mundial da Saúde. CID-11 (6B63, transtorno de transe de possessão), 2022",
+  "coment": "Na CID-11, o transtorno de transe de possessão (6B63) é a alteração do estado de consciência em que a identidade habitual é substituída por uma identidade externa, atribuída a espírito, divindade ou outra entidade, com comportamentos e movimentos vividos como controlados por ela. A identidade própria fica suspensa durante o episódio. Só é transtorno quando é involuntário e indesejado, recorrente, causa sofrimento ou prejuízo e não faz parte de prática cultural ou religiosa aceita. O DSM-5-TR inclui formas de possessão no transtorno dissociativo de identidade e no transtorno dissociativo especificado.",
+  "porAlt": [
+   "A síndrome de Ganser se caracteriza por respostas aproximadas e absurdas, e não por possessão.",
+   "Correta: no transtorno de transe e possessão o comportamento é atribuído a entidade externa, com suspensão temporária da identidade própria.",
+   "A demência com corpos de Lewy cursa com alucinações visuais e flutuação, não com transe de possessão.",
+   "Transe e possessão em rituais culturalmente aceitos não são transtorno, e o transtorno ocorre fora desse contexto.",
+   "A doença de Alzheimer tem declínio de memória e outras funções cognitivas, e transe não é sintoma dela."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 69
+  }
+ },
+ {
+  "pid": "s25070",
+  "q": "Paciente do sexo masculino 24 anos, apresenta sinais clínicos compatíveis com a Síndrome de Cushing, Apesar de múltiplas consultas, ele continua buscando outras explicações clínicas e reage com desconforto quando questionado. Considerando a ausência de ganhos secundários da doença de base, o diagnóstico mais provável é de",
+  "alts": [
+   "síndrome de Munchausen por procuração.",
+   "simulação voluntária de sintomas (malingering).",
+   "transtorno somatoforme.",
+   "transtorno factício.",
+   "transtorno de conversão."
+  ],
+  "gab": 3,
+  "tema": "humor",
+  "sub": "Transtorno factício",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "O transtorno factício imposto a si mesmo é a falsificação de sinais ou sintomas, ou indução de lesão ou doença, ligada a engano identificado, com a pessoa se apresentando como doente sem incentivo externo evidente. Um jovem com sinais de Cushing sem causa encontrada, que busca múltiplas consultas e reage mal a questionamentos, sugere uso oculto de corticoide. A ausência de ganho secundário externo (dinheiro, afastamento, fuga de pena) é o que separa o transtorno factício da simulação. Ele difere dos transtornos somatoformes porque nestes não há produção deliberada dos sinais.",
+  "porAlt": [
+   "No Munchausen por procuração (transtorno factício imposto a outro), a pessoa produz a doença em outrem, em geral um filho, e não em si mesma.",
+   "A simulação exige incentivo externo, como dinheiro ou afastamento, ausente no caso.",
+   "No transtorno somatoforme (de sintomas somáticos) não há produção deliberada de sinais objetivos como os do Cushing.",
+   "Correta: sinais induzidos sem ganho externo, com busca repetida de atendimento e desconforto ao ser questionado, indicam transtorno factício.",
+   "O transtorno de conversão produz sintomas neurológicos funcionais, como paralisia ou crises, e não sinais endócrinos como o Cushing."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 70
+  }
+ },
+ {
+  "pid": "s25071",
+  "q": "Mulher, 33 anos, acredita estar diante da possibilidade de ter alguma doença grave, mesmo sem sintomas físicos evidentes. Há 9 meses, dedica-se obsessivamente à aferição de sinais vitais e à busca por informações médicas, consultando profissionais diversos e realizando exames – todos com resultados normais Considerando esse padrão comportamental, o diagnóstico mais compatível com o caso é de",
+  "alts": [
+   "transtorno bipolar do humor.",
+   "síndrome de Munchausen.",
+   "transtorno de ansiedade.",
+   "esquizofrenia.",
+   "transtorno depressivo maior."
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Transtorno de ansiedade de doença",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "A preocupação com ter ou adquirir doença grave, com sintomas somáticos ausentes ou leves, por 6 meses ou mais, com comportamentos excessivos de checagem (aferir sinais vitais, buscar informação, consultar vários médicos, repetir exames) ou de evitação, define o transtorno de ansiedade de doença do DSM-5-TR (antiga hipocondria). Ele está no capítulo dos sintomas somáticos, mas tem natureza ansiosa, e a CID-11 o coloca no grupo dos transtornos obsessivo-compulsivos e relacionados. Entre as opções, transtorno de ansiedade é a que corresponde ao quadro. Não há falsificação, o que afasta Munchausen.",
+  "porAlt": [
+   "Não há episódios de mania ou hipomania descritos.",
+   "A síndrome de Munchausen envolve falsificação ou indução de sintomas, ausente quando a paciente apenas teme a doença e se examina.",
+   "Correta: medo persistente de doença grave sem sintomas, com checagens e consultas repetidas, é ansiedade de doença, quadro de natureza ansiosa.",
+   "Não há delírios, alucinações nem desorganização que indiquem esquizofrenia; a preocupação não tem caráter bizarro.",
+   "Não há humor deprimido, anedonia ou sintomas neurovegetativos predominantes."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 71
+  }
+ },
+ {
+  "pid": "s25072",
+  "q": "A seguinte medicação é utilizada especificamente no manejo da abstinência de opioides:",
+  "alts": [
+   "metilfenidato.",
+   "imipramina.",
+   "carbamazepina.",
+   "carbonato de lítio.",
+   "metadona."
+  ],
+  "gab": 4,
+  "tema": "drogas",
+  "sub": "Abstinência de opioides",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "World Health Organization. Guidelines for the psychosocially assisted pharmacological treatment of opioid dependence, 2009",
+  "coment": "A metadona é agonista opioide completo do receptor mu, com meia-vida longa, usada para controlar a abstinência na desintoxicação e como terapia de manutenção na dependência de opioides, segundo a diretriz da OMS de 2009. A buprenorfina, agonista parcial, é a outra opção de primeira linha, e a clonidina alivia os sintomas adrenérgicos da abstinência. Os demais fármacos listados não têm ação específica sobre essa síndrome.",
+  "porAlt": [
+   "O metilfenidato é psicoestimulante para TDAH e não trata abstinência de opioides.",
+   "A imipramina é antidepressivo tricíclico, sem indicação na abstinência de opioides.",
+   "A carbamazepina já foi usada na abstinência alcoólica, mas não é tratamento específico da abstinência de opioides.",
+   "O carbonato de lítio é estabilizador do humor, sem papel na abstinência de opioides.",
+   "Correta: a metadona, agonista opioide de meia-vida longa, é usada na desintoxicação e na manutenção da dependência de opioides."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 72
+  }
+ },
+ {
+  "pid": "s25073",
+  "q": "Paciente mulher, 28 anos, recentemente diagnosticada com transtorno bipolar do humor, iniciou tratamento com monoterapia de valproato de sódio. Considerando que a paciente relata vida sexual ativa sem uso de medidas de anticoncepção, o motivo pelo qual será necessário substituir o medicamento se deve",
+  "alts": [
+   "ao risco aumentado de teratogenicidade.",
+   "à medicação, que pode precipitar virada maníaca.",
+   "à associação com perda ponderal.",
+   "à piora dos sintomas de ideação suicida.",
+   "ao efeito tireotóxico."
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Valproato em mulher em idade fértil",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "European Medicines Agency. Valproato: novas medidas e Programa de Prevenção da Gravidez, 2018; CANMAT/ISBD 2018",
+  "coment": "O valproato é o estabilizador de maior teratogenicidade: risco de cerca de 10% de malformações maiores (defeitos do tubo neural, cardíacos, fenda labial) e de 30 a 40% de alterações do neurodesenvolvimento, incluindo TEA e redução do QI. Desde 2018 a Agência Europeia de Medicamentos contraindica o uso em mulheres em idade fértil sem programa de prevenção da gravidez, e o CANMAT/ISBD 2018 orienta evitá-lo nessa população. Mulher de 28 anos sexualmente ativa sem contracepção deve trocar por outro estabilizador, como lítio, lamotrigina ou antipsicótico atípico, conforme o caso.",
+  "porAlt": [
+   "Correta: o valproato tem alto risco teratogênico e de prejuízo ao neurodesenvolvimento, devendo ser evitado em mulher fértil sem contracepção.",
+   "O valproato é antimaníaco e não precipita virada maníaca; esse risco é atribuído aos antidepressivos.",
+   "O valproato causa ganho, e não perda, de peso.",
+   "Não há evidência de que o valproato piore ideação suicida a ponto de motivar troca neste contexto.",
+   "O valproato não tem efeito tireotóxico; o lítio é que se associa a hipotireoidismo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 73
+  }
+ },
+ {
+  "pid": "s25074",
+  "q": "Paciente de 57 anos é admitido na emergência em estado de coma, após episódio de intoxicação aguda por álcool. A abordagem inicial mais adequada nesse caso é",
+  "alts": [
+   "administrar solução glicosada intravenosa combinada com tiamina.",
+   "administrar diazepam intramuscular juntamente com solução fisiológica intravenosa.",
+   "aguardar recuperação espontânea, sem intervenção medicamentosa inicial.",
+   "iniciar antipsicótico logo após infusão de glicose intravenosa.",
+   "utilizar naltrexona intramuscular em associação com hidratação por soro fisiológico."
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Coma por intoxicação alcoólica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "NICE CG100, Alcohol-use disorders: diagnosis and management of physical complications, 2010 (atualizada em 2017)",
+  "coment": "Depois de garantir via aérea, ventilação e circulação, o paciente em coma por álcool precisa de glicemia capilar e correção da hipoglicemia, frequente pela inibição da gliconeogênese hepática no etilista desnutrido. A tiamina parenteral deve ser dada antes ou junto com a glicose, porque a oferta de glicose aumenta o consumo de tiamina e pode precipitar ou agravar a encefalopatia de Wernicke. A NICE CG100 recomenda tiamina parenteral a quem tem suspeita ou risco de Wernicke. Não existe antídoto para o etanol; o restante é suporte, observação e busca de trauma craniano e outras intoxicações.",
+  "porAlt": [
+   "Correta: glicose intravenosa com tiamina corrige a hipoglicemia frequente no etilista e previne a encefalopatia de Wernicke.",
+   "Diazepam em paciente já em coma por depressor do sistema nervoso central agrava a depressão respiratória.",
+   "Aguardar sem intervir ignora a hipoglicemia e o risco de Wernicke, que exigem tratamento imediato.",
+   "Antipsicótico não tem indicação no coma alcoólico e pode baixar o limiar convulsivo e causar hipotensão.",
+   "A naltrexona é usada na prevenção de recaída na dependência de álcool e não reverte a intoxicação aguda."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 74
+  }
+ },
+ {
+  "pid": "s25075",
+  "q": "Homem de 69 anos sem histórico psiquiátrico prévio apresenta, há cerca de um ano, alucinações visuais complexas e declínio cognitivo que compromete suas atividades instrumentais diárias. Ao exame, nota-se bradicinesia e rigidez em “roda dentada”. Considerando o diagnóstico mais provável, a seguinte classe de medicamentos é indicada para o início do tratamento:",
+  "alts": [
+   "antidepressivos.",
+   "benzodiazepínicos.",
+   "inibidores da colinesterase.",
+   "anticonvulsivantes.",
+   "antipsicóticos."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Tratamento da demência com corpos de Lewy",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "McKeith IG et al. Diagnosis and management of dementia with Lewy bodies: fourth consensus report of the DLB Consortium, Neurology, 2017",
+  "coment": "Alucinações visuais complexas, declínio cognitivo com prejuízo funcional e parkinsonismo (bradicinesia e rigidez em roda denteada) num homem de 69 anos sem história psiquiátrica configuram demência com corpos de Lewy provável pelo consenso de McKeith 2017. Os inibidores da colinesterase (rivastigmina, donepezila) são o tratamento inicial, com benefício na cognição, na flutuação e também nas alucinações, pois o déficit colinérgico é mais intenso que no Alzheimer. Antipsicóticos devem ser evitados: até metade dos pacientes tem reação de hipersensibilidade grave, com rigidez, confusão e risco de morte. Se forem inevitáveis, usam-se quetiapina ou clozapina em dose mínima.",
+  "porAlt": [
+   "Antidepressivos não tratam o núcleo cognitivo e psicótico da doença e não são a classe inicial.",
+   "Benzodiazepínicos pioram cognição, quedas e confusão no idoso com demência.",
+   "Correta: inibidores da colinesterase são o tratamento inicial na demência com corpos de Lewy e melhoram inclusive as alucinações.",
+   "Anticonvulsivantes não têm papel no tratamento da demência com corpos de Lewy.",
+   "Antipsicóticos provocam hipersensibilidade grave em grande parte desses pacientes e devem ser evitados."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 75
+  }
+ },
+ {
+  "pid": "s25076",
+  "q": "Mulher, 26 anos, procura atendimento psiquiátrico relatando medo intenso de abandono e sensação de incompreensão por parte de amigos e familiares. Ela descreve alterações de humor, desde a adolescência, que resultaram em conflitos com suas irmãs. Relata dificuldades nos relacionamentos amorosos, alternando entre se sentir indignamente rejeitada e desvalorizar seus parceiros. Há histórico de tentativa de suicídio há cinco anos. Durante a consulta, apresenta-se irritada e agitada O diagnóstico mais provável é de transtorno",
+  "alts": [
+   "de ansiedade generalizada.",
+   "bipolar.",
+   "de personalidade antissocial.",
+   "depressivo maior.",
+   "de personalidade borderline."
+  ],
+  "gab": 4,
+  "tema": "psiqinf",
+  "sub": "Transtorno de personalidade borderline",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "O transtorno de personalidade borderline é padrão persistente, desde a adolescência ou início da vida adulta, de instabilidade nas relações, na autoimagem e no afeto, com impulsividade marcante. O DSM-5-TR exige 5 de 9 critérios. A paciente tem esforço para evitar abandono, relações instáveis que alternam idealização e desvalorização, instabilidade afetiva desde a adolescência, comportamento suicida e raiva intensa ou irritabilidade. O padrão é duradouro e não episódico, o que o diferencia do transtorno bipolar. O tratamento de escolha é psicoterapia estruturada, como a terapia comportamental dialética.",
+  "porAlt": [
+   "A ansiedade generalizada é preocupação excessiva e difusa, sem medo de abandono e relações instáveis como eixo.",
+   "No transtorno bipolar os sintomas ocorrem em episódios delimitados de dias a semanas, e não como padrão relacional contínuo desde a adolescência.",
+   "A personalidade antissocial se caracteriza por desrespeito a direitos alheios e ausência de remorso, não por medo de abandono.",
+   "O episódio depressivo maior não explica o padrão de instabilidade relacional e medo de abandono desde a adolescência.",
+   "Correta: medo de abandono, alternância entre idealizar e desvalorizar, instabilidade afetiva e tentativa de suicídio caracterizam o transtorno borderline."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 76
+  }
+ },
+ {
+  "pid": "s25077",
+  "q": "Homem, 53 anos, busca atendimento para cessar o tabagismo e recebe prescrição de bupropiona. (450 mg/dia). Uma contraindicação ao uso desse medicamento na dose indicada é",
+  "alts": [
+   "diagnóstico de epilepsia.",
+   "uso concomitante de inibidor da recaptação de serotonina.",
+   "associação com adesivos de nicotina.",
+   "diagnóstico de doença pulmonar obstrutiva crônica.",
+   "diagnóstico de transtorno depressivo maior."
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Contraindicação da bupropiona",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas do Tabagismo (Portaria Conjunta SAES/SCTIE nº 10/2020), 2020",
+  "coment": "A bupropiona reduz o limiar convulsivo de forma dose-dependente, e por isso epilepsia ou história de convulsão é contraindicação, assim como bulimia e anorexia nervosa, suspensão abrupta de álcool ou benzodiazepínicos e uso de IMAO nos últimos 14 dias. A dose para cessação do tabagismo no PCDT do Tabagismo 2020 é 150 mg/dia por 3 dias e depois 300 mg/dia; 450 mg/dia é a dose máxima usada na depressão e eleva ainda mais o risco de crise. A associação com terapia de reposição de nicotina é permitida e mais eficaz, e DPOC e depressão não contraindicam o fármaco.",
+  "porAlt": [
+   "Correta: a bupropiona baixa o limiar convulsivo, e epilepsia é contraindicação, sobretudo em dose alta como 450 mg/dia.",
+   "A combinação com ISRS é possível com cautela e é usada na prática na depressão; não é contraindicação formal.",
+   "A associação de bupropiona com adesivo de nicotina é permitida e aumenta a taxa de cessação.",
+   "DPOC não contraindica a bupropiona, e esses pacientes estão entre os que mais se beneficiam de parar de fumar.",
+   "A bupropiona é também antidepressivo, e a depressão não contraindica seu uso."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 77
+  }
+ },
+ {
+  "pid": "s25079",
+  "q": "Adolescente, 15 anos, relata que, nos últimos cinco meses, pouco tempo após as refeições, sente que o alimento retorna à boca, momento em que remastiga ou cospe a comida. Nega outros sintomas como náuseas, vômitos ou azia. Relata vergonha de comer em público e perda de peso. Considerando que a endoscopia digestiva alta não mostrou alterações, assinale o diagnóstico mais provável.",
+  "alts": [
+   "Síndrome do intestino irritável.",
+   "Síndrome de ruminação.",
+   "Anorexia nervosa.",
+   "Doença do refluxo gastroesofágico.",
+   "Bulimia nervosa."
+  ],
+  "gab": 1,
+  "tema": "psiqinf",
+  "sub": "Transtorno de ruminação",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022; Critérios de Roma IV para distúrbios gastrointestinais funcionais, 2016",
+  "coment": "O transtorno de ruminação, no DSM-5-TR, é a regurgitação repetida de alimento por pelo menos 1 mês, que pode ser remastigado, novamente deglutido ou cuspido, sem doença gastrointestinal que a explique. Pelo Roma IV, a regurgitação é sem esforço, ocorre logo após a refeição e não é precedida de náusea ou ânsia, o que a separa do vômito. A endoscopia normal afasta doença orgânica. Vergonha de comer em público e perda de peso são consequências comuns. Na anorexia e na bulimia, o comportamento é guiado por medo de engordar e distorção da imagem corporal, ausentes no caso. O tratamento é respiração diafragmática e terapia comportamental.",
+  "porAlt": [
+   "A síndrome do intestino irritável causa dor abdominal ligada à evacuação e alteração do hábito intestinal, não regurgitação.",
+   "Correta: regurgitação sem esforço logo após as refeições, com remastigação ou cuspe e endoscopia normal, define a síndrome de ruminação.",
+   "Na anorexia nervosa há restrição alimentar por medo de engordar e distorção da imagem corporal, não descritos.",
+   "A doença do refluxo cursa com azia e regurgitação ácida sem remastigação, e o paciente nega azia.",
+   "Na bulimia há compulsão alimentar seguida de vômito autoinduzido ou outras compensações, ausentes no caso."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 79
+  }
+ }
+]

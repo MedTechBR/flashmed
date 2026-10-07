@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Uma coorte acompanhou 500 trabalhadores de uma fundição, sem doença renal no início, para estimar a ocorrência de nefropatia. Por perdas de seguimento, mudanças de emprego e entradas tardias, o tempo de observação variou: 200 trabalhadores foram seguidos por 6 anos, 180 por 4 anos e 120 por 2 anos. Ao final, foram diagnosticados 18 casos novos. Qual a medida de frequência adequada e o seu valor?",
+  "alts": [
+   "Incidência cumulativa de 3,6% no período, com os 500 no denominador",
+   "Densidade de incidência de cerca de 6,0 casos por 1.000 pessoas-ano",
+   "Incidência cumulativa anual de 0,9%, dividindo 3,6% pelos 4 anos médios",
+   "Densidade de incidência de cerca de 8,3 casos por 1.000 pessoas-ano",
+   "Prevalência de 3,6%, porque todos os casos foram contados ao final"
+  ],
+  "gab": 3,
+  "tema": "epidemio",
+  "sub": "Densidade de incidência",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Rouquayrol MZ, Gurgel M. Rouquayrol: Epidemiologia e Saúde, 8ª ed., 2018",
+  "coment": "Quando os participantes contribuem com tempos diferentes de observação, a medida adequada é a densidade de incidência: casos novos divididos pela soma das pessoas-tempo em risco. Aqui, 200 × 6 = 1.200, 180 × 4 = 720 e 120 × 2 = 240, total de 2.160 pessoas-ano. Assim, 18 ÷ 2.160 = 0,0083, ou 8,3 casos por 1.000 pessoas-ano. A incidência cumulativa (risco) só é válida em coorte fechada, com todos observados pelo mesmo período (Rouquayrol, 2018).",
+  "porAlt": [
+   "Incidência cumulativa exige que todos sejam observados pelo mesmo período, o que não ocorreu.",
+   "Esse valor supõe que os 500 foram seguidos por 6 anos (3.000 pessoas-ano), o que ignora as perdas.",
+   "Dividir a proporção pelo tempo médio não corrige as diferenças individuais de exposição ao risco.",
+   "Correta: com tempos de seguimento diferentes, divide-se 18 por 2.160 pessoas-ano (1.200 + 720 + 240).",
+   "Os 18 são casos novos surgidos durante o seguimento; prevalência contaria casos existentes num momento."
+  ]
+ },
+ {
+  "q": "Dois municípios têm coeficientes de mortalidade geral muito diferentes, e a gestora suspeita que a estrutura etária explique a diferença. No município A há 15.000 pessoas com menos de 60 anos, com coeficiente específico de 2 óbitos por 1.000, e 5.000 com 60 anos ou mais, com 20 óbitos por 1.000. Usando como padrão uma população de 60.000 pessoas com menos de 60 anos e 40.000 com 60 anos ou mais, qual o coeficiente de A padronizado pelo método direto?",
+  "alts": [
+   "9,2 óbitos por 1.000 habitantes",
+   "11,0 óbitos por 1.000 habitantes",
+   "12,8 óbitos por 1.000 habitantes",
+   "4,6 óbitos por 1.000 habitantes",
+   "6,5 óbitos por 1.000 habitantes"
+  ],
+  "gab": 0,
+  "tema": "epidemio",
+  "sub": "Padronização direta",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Na padronização direta, aplicam-se os coeficientes específicos por idade da população estudada a uma população-padrão comum. Para A: 60.000 × 2/1.000 = 120 óbitos e 40.000 × 20/1.000 = 800 óbitos, total de 920 em 100.000 pessoas, ou 9,2 por 1.000. O coeficiente bruto de A (130 ÷ 20.000 = 6,5 por 1.000) parece baixo só porque A tem poucos idosos. O coeficiente padronizado é fictício e serve apenas para comparar populações ajustadas ao mesmo padrão (RIPSA, 2008).",
+  "porAlt": [
+   "Correta: óbitos esperados no padrão = 60.000 × 0,002 + 40.000 × 0,02 = 920, sobre 100.000.",
+   "É a média simples dos dois coeficientes específicos, sem ponderar pela população-padrão.",
+   "Resulta de trocar os pesos, aplicando 20 por 1.000 aos 60.000 mais jovens do padrão.",
+   "Divide os 920 óbitos esperados por 200.000, o dobro da população-padrão usada.",
+   "É o coeficiente bruto de A (30 + 100 óbitos sobre 20.000), que não remove o efeito da idade."
+  ]
+ },
+ {
+  "q": "Um município pequeno registrou 150 óbitos por doença cardiovascular em adultos no ano, mas os coeficientes específicos por idade são instáveis pelo pequeno número de eventos em cada faixa. Aplicando-se os coeficientes específicos do estado à estrutura etária do município, seriam esperados 120 óbitos. Qual o resultado e o método empregado?",
+  "alts": [
+   "Razão de mortalidade padronizada de 0,80, por padronização indireta",
+   "Risco relativo de 1,25 em relação ao estado, por padronização direta",
+   "Excesso de 30 óbitos por 100.000, por padronização indireta do estado",
+   "Coeficiente padronizado de 1,25 por 1.000, por padronização direta",
+   "Razão de mortalidade padronizada de 1,25, por padronização indireta"
+  ],
+  "gab": 4,
+  "tema": "epidemio",
+  "sub": "Padronização indireta",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Quando os coeficientes específicos da população estudada são instáveis ou desconhecidos, usa-se a padronização indireta: aplicam-se os coeficientes de uma população de referência à estrutura etária local para obter os óbitos esperados. A razão de mortalidade padronizada é óbitos observados ÷ esperados = 150 ÷ 120 = 1,25. Valor acima de 1 indica mais mortes que o esperado para aquela estrutura etária; abaixo de 1, menos. O método direto, ao contrário, exige os coeficientes específicos da própria população (RIPSA, 2008).",
+  "porAlt": [
+   "Esse valor inverte a razão (esperados sobre observados) e sugeriria mortalidade menor que a do estado.",
+   "Aplicar coeficientes de referência à estrutura local é o método indireto, e o resultado é uma razão.",
+   "Os 30 óbitos de excesso são números absolutos, não um coeficiente por 100.000 habitantes.",
+   "A razão não tem unidade por 1.000, e o método direto exigiria os coeficientes específicos do município.",
+   "Correta: observados sobre esperados, 150 ÷ 120 = 1,25, isto é, 25% mais óbitos que o esperado."
+  ]
+ },
+ {
+  "q": "Em um ano, uma regional de saúde registrou 4.000 nascidos vivos e 40 óbitos fetais com 22 semanas ou mais de gestação. Entre os nascidos vivos, houve 28 óbitos de 0 a 6 dias de vida, 12 de 7 a 27 dias e 20 de 28 a 364 dias. Qual o coeficiente de mortalidade perinatal?",
+  "alts": [
+   "10,0 por 1.000 (40 óbitos sobre 4.000 nascidos vivos)",
+   "15,0 por 1.000 (60 óbitos sobre 4.000 nascidos vivos)",
+   "16,8 por 1.000 (68 óbitos sobre 4.040 nascimentos)",
+   "19,8 por 1.000 (80 óbitos sobre 4.040 nascimentos)",
+   "17,0 por 1.000 (68 óbitos sobre 4.000 nascidos vivos)"
+  ],
+  "gab": 2,
+  "tema": "epidemio",
+  "sub": "Mortalidade perinatal",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "OMS. CID-10, volume 2, definições do período perinatal, 2008",
+  "coment": "O período perinatal começa com 22 semanas completas de gestação e termina aos 7 dias completos de vida (CID-10). O coeficiente soma os óbitos fetais a partir de 22 semanas e os neonatais precoces (0 a 6 dias): 40 + 28 = 68. O denominador soma nascidos vivos e óbitos fetais do mesmo período: 4.000 + 40 = 4.040. Assim, 68 ÷ 4.040 × 1.000 = 16,8. Ele reflete a qualidade da assistência ao pré-natal e ao parto. Neonatal tardio e pós-neonatal entram só na mortalidade infantil.",
+  "porAlt": [
+   "Esse é o coeficiente de mortalidade neonatal (precoce mais tardia), não o perinatal.",
+   "Esse é o coeficiente de mortalidade infantil (todos os óbitos de menores de 1 ano).",
+   "Correta: soma óbitos fetais e neonatais precoces e usa nascidos vivos mais óbitos fetais no denominador.",
+   "Inclui os 12 óbitos neonatais tardios, que ficam fora do período perinatal.",
+   "O numerador está certo, mas o denominador omite os 40 óbitos fetais, que também são nascimentos."
+  ]
+ },
+ {
+  "q": "Um município registrou 25.000 nascidos vivos em um ano. Entre as mulheres que morreram durante a gestação ou após o parto, o comitê de mortalidade materna classificou: 6 óbitos por hemorragia pós-parto, pré-eclâmpsia ou infecção puerperal; 2 por cardiopatia reumática descompensada na gestação; 1 por homicídio no 2º trimestre; e 1 por cardiomiopatia periparto no 70º dia de puerpério. Qual a razão de mortalidade materna?",
+  "alts": [
+   "28 por 100.000 nascidos vivos",
+   "40 por 100.000 nascidos vivos",
+   "32 por 100.000 nascidos vivos",
+   "36 por 100.000 nascidos vivos",
+   "24 por 100.000 nascidos vivos"
+  ],
+  "gab": 2,
+  "tema": "epidemio",
+  "sub": "Razão de mortalidade materna",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "OMS. CID-10, volume 2, definição de morte materna, 2008",
+  "coment": "Morte materna é a que ocorre na gestação ou até 42 dias após o seu término, por causa relacionada ou agravada pela gravidez, excluídas as causas acidentais ou incidentais (CID-10). Entram as obstétricas diretas (6) e as indiretas, como a cardiopatia agravada pela gestação (2). O homicídio é morte não obstétrica, e o óbito por causa obstétrica no 70º dia é morte materna tardia, que não entra na razão. Logo, 8 ÷ 25.000 × 100.000 = 32 por 100.000 nascidos vivos.",
+  "porAlt": [
+   "Soma o homicídio às diretas, mas morte por causa externa não é morte materna.",
+   "Soma todas as 10 mortes, incluindo a causa externa e a morte materna tardia.",
+   "Correta: entram as 6 mortes diretas e as 2 indiretas: 8 ÷ 25.000 × 100.000 = 32.",
+   "Inclui a cardiomiopatia no 70º dia, que é morte materna tardia e fica fora da razão.",
+   "Considera só as causas obstétricas diretas e omite as indiretas, que também entram."
+  ]
+ },
+ {
+  "q": "Num surto de coqueluche, a vigilância identificou 30 casos primários, cada um em um domicílio diferente. Nesses domicílios viviam 150 outras pessoas, das quais 30 foram consideradas não suscetíveis para a análise por terem esquema vacinal completo e recente. Nas semanas seguintes, 18 contatos domiciliares adoeceram. Qual a taxa de ataque secundário?",
+  "alts": [
+   "40%, somando primários e secundários sobre os 120",
+   "10%, somando casos primários e contatos no denominador",
+   "60%, com os 30 casos primários no denominador",
+   "15%, com os 120 contatos suscetíveis no denominador",
+   "12%, com todos os 150 contatos no denominador"
+  ],
+  "gab": 3,
+  "tema": "epidemio",
+  "sub": "Taxa de ataque secundário",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "A taxa de ataque secundário mede a transmissibilidade a partir de casos índices: número de casos secundários dividido pelo número de contatos suscetíveis expostos. Os casos primários ficam fora do numerador e do denominador, e os contatos não suscetíveis saem do denominador. Aqui, 18 ÷ (150 menos 30) = 18 ÷ 120 = 15%. A medida expressa a infectividade do agente em contatos próximos e orienta medidas como a quimioprofilaxia dos contatos domiciliares de coqueluche (Guia de Vigilância em Saúde, 2023).",
+  "porAlt": [
+   "Inclui os 30 casos primários no numerador, que só deve conter os casos gerados pelos contatos.",
+   "Os casos primários não podem estar no denominador, pois não estavam sob risco de adoecer por contato.",
+   "Divide os secundários pelos primários, o que se aproxima de um número de reprodução, não de taxa de ataque.",
+   "Correta: casos secundários (18) divididos pelos contatos suscetíveis expostos (150 menos 30 = 120).",
+   "Usa todos os contatos, inclusive os considerados não suscetíveis, o que subestima a transmissão."
+  ]
+ },
+ {
+  "q": "Em uma população estável, a infecção crônica por um vírus hepatotrópico tem incidência de 2 casos por 1.000 pessoas-ano e, sem tratamento, duração média de 10 anos até o óbito ou a resolução. Um antiviral curativo passa a ser oferecido a todos, e a duração média da infecção cai para 1 ano, sem efeito sobre a transmissão. Em equilíbrio, o que se espera?",
+  "alts": [
+   "Prevalência e incidência caem ambas a um décimo dos valores iniciais",
+   "Incidência cai para 0,2 por 1.000, com prevalência estável em 2%",
+   "Prevalência fica em 2%, pois a cura não muda o número de doentes",
+   "Prevalência cai de cerca de 2% para 0,2%, com incidência inalterada",
+   "Prevalência sobe de 2% para cerca de 20%, com incidência inalterada"
+  ],
+  "gab": 3,
+  "tema": "epidemio",
+  "sub": "Prevalência, incidência e duração",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Rouquayrol MZ, Gurgel M. Rouquayrol: Epidemiologia e Saúde, 8ª ed., 2018",
+  "coment": "Em situação estável e de baixa prevalência, prevalência ≈ incidência × duração média. Antes do antiviral: 2 por 1.000 pessoas-ano × 10 anos = 0,02, ou 2%. Depois: 2 por 1.000 × 1 ano = 0,2%. A incidência não muda, porque o tratamento não impede casos novos. É o raciocínio oposto ao da terapia antirretroviral para HIV, que prolonga a vida sem curar e, por isso, aumenta a prevalência. Tudo que encurta a duração (cura rápida ou maior letalidade) diminui a prevalência (Rouquayrol, 2018).",
+  "porAlt": [
+   "A incidência depende da transmissão e não muda com um tratamento que só cura os já infectados.",
+   "Sem efeito sobre a transmissão, os casos novos continuam surgindo no mesmo ritmo.",
+   "A cura retira pessoas do grupo de doentes e, portanto, reduz diretamente a prevalência.",
+   "Correta: prevalência ≈ incidência × duração; 0,002 × 10 = 2% antes e 0,002 × 1 = 0,2% depois.",
+   "Tratamento que encurta a duração reduz a prevalência; ela sobe quando a sobrevida aumenta sem cura."
+  ]
+ },
+ {
+  "q": "Um vírus respiratório imunoprevenível tem número básico de reprodução estimado em 6 numa população totalmente suscetível. A vacina disponível tem eficácia de 90% contra a infecção. Qual a cobertura vacinal mínima aproximada para alcançar o limiar teórico de imunidade coletiva?",
+  "alts": [
+   "Cerca de 98% da população vacinada",
+   "Cerca de 83% da população vacinada",
+   "Cerca de 75% da população vacinada",
+   "Cerca de 90% da população vacinada",
+   "Cerca de 93% da população-alvo vacinada"
+  ],
+  "gab": 4,
+  "tema": "epidemio",
+  "sub": "Imunidade coletiva e cobertura",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Rouquayrol MZ, Gurgel M. Rouquayrol: Epidemiologia e Saúde, 8ª ed., 2018",
+  "coment": "O limiar teórico de imunidade coletiva é 1 menos 1/R0. Com R0 de 6, 1 menos 0,167 = 0,833: cerca de 83% da população precisa estar imune para que cada caso gere, em média, menos de um caso novo. Como a vacina protege 90% dos vacinados, a cobertura necessária é o limiar dividido pela eficácia: 0,833 ÷ 0,90 ≈ 0,93. Quanto maior o R0 e menor a eficácia, maior a cobertura exigida, o que explica as metas altas para sarampo (Rouquayrol, 2018).",
+  "porAlt": [
+   "Superestima a meta, como se o limiar fosse dividido por uma eficácia de cerca de 85%.",
+   "É o limiar de imunes, que só equivale à cobertura se a vacina tivesse eficácia de 100%.",
+   "Corresponde a um número básico de reprodução de 4, menor que o informado.",
+   "Repete a eficácia da vacina, sem relação com o número básico de reprodução do agente.",
+   "Correta: limiar 1 menos 1/6 = 83,3% imunes; dividido pela eficácia, 0,833 ÷ 0,9 ≈ 93%."
+  ]
+ },
+ {
+  "q": "Num município do interior sem estimativa populacional confiável, os óbitos do ano se distribuíram assim: menores de 1 ano, 30%; 1 a 4 anos, 5%; 5 a 19 anos, 5%; 20 a 49 anos, 20%; 50 anos ou mais, 40%. Como se classificam a curva de mortalidade proporcional e o índice de Swaroop-Uemura desse município?",
+  "alts": [
+   "Curva tipo III, em U, e índice no terceiro nível (25% a 49%)",
+   "Curva tipo I, em N invertido, e índice no terceiro nível",
+   "Curva tipo II, em L, e índice no quarto nível (abaixo de 25%)",
+   "Curva tipo III, em U, e índice no segundo nível (50% a 74%)",
+   "Curva tipo IV, em J, e índice no segundo nível (50% a 74%)"
+  ],
+  "gab": 0,
+  "tema": "epidemio",
+  "sub": "Curva de Nelson de Moraes",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Rouquayrol: Epidemiologia e Saúde, 8ª ed., 2018",
+  "coment": "Os dois indicadores usam só óbitos, por isso servem onde falta denominador populacional. A curva de Nelson de Moraes distribui os óbitos em cinco faixas: com 30% em menores de 1 ano e 40% em 50 anos ou mais, o gráfico tem forma de U ou V (tipo III), nível de saúde regular. O índice de Swaroop-Uemura é a proporção de óbitos com 50 anos ou mais: 40%, no terceiro nível (25% a 49%). Ambos são proporções e não medem risco, mas resumem bem o nível de saúde (Rouquayrol, 2018).",
+  "porAlt": [
+   "Correta: picos em menores de 1 ano e em 50 anos ou mais formam o U; 40% de óbitos acima de 50 anos.",
+   "O N invertido tem peso grande também em 1 a 19 anos e adultos jovens, o que não ocorre.",
+   "A curva em L tem predomínio absoluto de óbitos infantis, e o índice aqui é de 40%.",
+   "O formato está certo, mas 40% de óbitos com 50 anos ou mais cai no terceiro nível.",
+   "A curva em J exige concentração clara em 50 anos ou mais, com poucos óbitos infantis."
+  ]
+ },
+ {
+  "q": "Ao planejar a rede de serviços para as próximas décadas, um técnico descreve o período da transição demográfica brasileira em que a proporção de pessoas em idade ativa é máxima e a razão de dependência atinge o ponto mais baixo. Que fenômeno é esse e o que o produz?",
+  "alts": [
+   "Envelhecimento populacional, pela queda simultânea da natalidade e da mortalidade",
+   "Bônus demográfico, pela queda da mortalidade infantil com fecundidade ainda alta",
+   "Polarização epidemiológica, pela diferença de perfis entre as regiões do país",
+   "Bônus demográfico, pela queda da fecundidade antes do envelhecimento acentuado",
+   "Contratransição, pelo retorno de doenças infecciosas numa população ainda jovem"
+  ],
+  "gab": 3,
+  "tema": "epidemio",
+  "sub": "Bônus demográfico",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "IBGE. Projeções da população do Brasil e das Unidades da Federação, revisão 2024",
+  "coment": "Na transição demográfica, a mortalidade cai primeiro e a população cresce com base larga. Quando a fecundidade cai, o peso das crianças diminui antes que os idosos se tornem numerosos: a proporção em idade ativa chega ao máximo e a razão de dependência ao mínimo. Essa janela é o bônus demográfico, temporária. No Brasil, a queda rápida da fecundidade, abaixo do nível de reposição desde o início do século, abriu a janela, que se fecha com o envelhecimento acelerado projetado pelo IBGE (2024).",
+  "porAlt": [
+   "O envelhecimento eleva a razão de dependência pelos idosos e encerra a janela favorável.",
+   "Mortalidade infantil em queda com fecundidade alta aumenta o número de crianças e a dependência.",
+   "Polarização é a coexistência de perfis epidemiológicos distintos, não um fenômeno etário.",
+   "Correta: com menos crianças e ainda poucos idosos, a população de 15 a 59 anos pesa mais.",
+   "Contratransição é termo da transição epidemiológica e não descreve a estrutura etária."
+  ]
+ },
+ {
+  "q": "Numa aula sobre tuberculose, o preceptor lembra que o Mycobacterium tuberculosis está presente em todos os casos da doença, mas que a maioria das pessoas infectadas nunca adoece; desnutrição, diabetes, infecção pelo HIV e tabagismo aumentam o risco de adoecimento. No modelo de causas suficientes e componentes, como se classifica o bacilo?",
+  "alts": [
+   "Causa suficiente, porém não necessária para a doença",
+   "Causa necessária e suficiente para produzir a doença",
+   "Fator de risco modificável, sem papel de causa direta",
+   "Causa necessária, porém não suficiente para a doença",
+   "Causa componente presente em só uma das constelações"
+  ],
+  "gab": 3,
+  "tema": "epidemio",
+  "sub": "Causa necessária e suficiente",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Rothman KJ, Greenland S, Lash TL. Modern Epidemiology, 4ª ed., 2021",
+  "coment": "No modelo de Rothman, cada doença tem uma ou mais causas suficientes, formadas por causas componentes. Causa necessária é a que integra todas as constelações: sem ela, a doença não ocorre. O bacilo de Koch está em todos os casos de tuberculose, mas a maioria dos infectados permanece em infecção latente, porque faltam outros componentes, como imunossupressão, desnutrição ou diabetes. Por isso é necessário e não suficiente. O modelo explica por que agir sobre um componente modificável previne parte dos casos (Rothman, 2021).",
+  "porAlt": [
+   "Se fosse suficiente, todo infectado adoeceria; e sem bacilo não há tuberculose.",
+   "A maioria dos infectados não adoece, logo o bacilo sozinho não completa uma causa suficiente.",
+   "O bacilo é o agente etiológico, componente obrigatório de toda causa suficiente da doença.",
+   "Correta: está em todos os casos (necessária), mas sozinho não produz doença na maioria dos infectados.",
+   "Causa necessária está presente em todas as constelações suficientes, não em apenas uma."
+  ]
+ },
+ {
+  "q": "Para comparar o peso das causas de morte prematura, a vigilância calcula os anos potenciais de vida perdidos com idade-limite de 70 anos. Num pequeno distrito, as mortes por causas externas do ano ocorreram nas idades de 18, 25, 40, 66 e 82 anos. Quantos anos potenciais de vida perdidos essas mortes somam?",
+  "alts": [
+   "127 anos",
+   "151 anos",
+   "231 anos",
+   "119 anos",
+   "131 anos"
+  ],
+  "gab": 4,
+  "tema": "epidemio",
+  "sub": "Anos potenciais de vida perdidos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Os anos potenciais de vida perdidos somam, para cada óbito antes da idade-limite, a diferença entre o limite e a idade da morte. Com limite de 70 anos: 70 menos 18 = 52; 70 menos 25 = 45; 70 menos 40 = 30; 70 menos 66 = 4; a morte aos 82 contribui com zero. Total: 131 anos. O indicador dá peso à morte precoce, por isso causas externas, que matam jovens, sobem no ranking mesmo matando menos que as doenças cardiovasculares. O limite escolhido deve ser explicitado, pois muda o resultado (RIPSA, 2008).",
+  "porAlt": [
+   "Exclui a morte aos 66 anos, como se o limite fosse 65, e não os 70 anos definidos.",
+   "Resulta de usar idade-limite de 75 anos, e não os 70 anos definidos pela vigilância.",
+   "É a soma das idades ao morrer, que não mede anos de vida perdidos em relação ao limite.",
+   "Subtrai 12 anos pela morte aos 82, como se óbito acima do limite gerasse valor negativo.",
+   "Correta: 52 + 45 + 30 + 4 + 0; a morte aos 82 anos, acima do limite, não soma anos perdidos."
+  ]
+ },
+ {
+  "q": "Um programa rastreia uma infecção com prevalência de 2% em 10.000 pessoas, usando um teste rápido com sensibilidade de 95% e especificidade de 90%. Todos os positivos fazem, em seguida, um teste confirmatório com sensibilidade de 90% e especificidade de 99%, e só quem é positivo nos dois é considerado caso. Qual o desempenho aproximado da estratégia em série?",
+  "alts": [
+   "VPP de cerca de 50%, com sensibilidade global de cerca de 90%",
+   "VPP de cerca de 16%, com sensibilidade global de cerca de 95%",
+   "VPP de cerca de 99%, com sensibilidade global de cerca de 99%",
+   "VPP de cerca de 95%, com sensibilidade global de cerca de 99%",
+   "VPP de cerca de 95%, com sensibilidade global de cerca de 85,5%"
+  ],
+  "gab": 4,
+  "tema": "bioestat",
+  "sub": "Testes em série e VPP",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021",
+  "coment": "Com 10.000 pessoas e prevalência de 2%, há 200 doentes e 9.800 sadios. O teste rápido dá 190 verdadeiros positivos e 980 falsos positivos (VPP de 16%). No confirmatório, dos 190 doentes, 90% seguem positivos (171); dos 980 sadios, só 1% (cerca de 10). VPP final: 171 ÷ 181 ≈ 95%. A sensibilidade global cai para 0,95 × 0,90 ≈ 86%. Testes em série ganham especificidade e VPP à custa de sensibilidade; em paralelo, ocorre o inverso (Fletcher, 2021).",
+  "porAlt": [
+   "Não corresponde a nenhuma das etapas; o confirmatório elimina quase todos os falsos positivos.",
+   "Esse é o desempenho do teste rápido isolado: 190 verdadeiros e 980 falsos positivos.",
+   "Repete a especificidade do confirmatório, que não equivale ao VPP nem à sensibilidade global.",
+   "O VPP está certo, mas testar em série reduz a sensibilidade em vez de aumentá-la.",
+   "Correta: 171 verdadeiros positivos e cerca de 10 falsos positivos ao fim; sensibilidade 0,95 × 0,90."
+  ]
+ },
+ {
+  "q": "Mulher de 58 anos com dor torácica atípica tem, pela avaliação clínica, probabilidade pré-teste de doença coronariana de 20%. Ela faz um exame funcional cuja razão de verossimilhança positiva é 8, e o resultado vem positivo. Qual a probabilidade pós-teste aproximada de doença coronariana?",
+  "alts": [
+   "Cerca de 62%",
+   "Cerca de 89%",
+   "Cerca de 28%",
+   "Cerca de 40%",
+   "Cerca de 67%"
+  ],
+  "gab": 4,
+  "tema": "bioestat",
+  "sub": "Razão de verossimilhança positiva",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021",
+  "coment": "A razão de verossimilhança multiplica a chance, não a probabilidade. Converte-se a probabilidade pré-teste em chance: 0,20 ÷ 0,80 = 0,25. Multiplica-se pela RV positiva: 0,25 × 8 = 2. Reconverte-se: 2 ÷ (1 + 2) = 0,67. Um resultado positivo leva a paciente de 20% para cerca de 67%. RV positiva acima de 10 muda muito a probabilidade; entre 5 e 10, moderadamente. A vantagem da RV é não depender da prevalência, o que permite aplicá-la à probabilidade de cada paciente (Fletcher, 2021).",
+  "porAlt": [
+   "Multiplica a probabilidade, e não a chance, por 8 (1,6) e só então converte: 1,6 ÷ 2,6.",
+   "Aplica a razão a uma chance pré-teste de 1 para 1, ignorando a probabilidade clínica de 20%.",
+   "Soma 8 pontos percentuais à probabilidade pré-teste, sem usar a razão como multiplicador.",
+   "Dobra a probabilidade pré-teste, confundindo a chance pós-teste de 2 com um fator de 2.",
+   "Correta: chance pré-teste 0,2 ÷ 0,8 = 0,25; × 8 = 2; probabilidade 2 ÷ 3 ≈ 67%."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos com dor torácica pleurítica tem probabilidade clínica de embolia pulmonar estimada em 30%. Um teste de dímero D com sensibilidade de 98% e especificidade de 60% vem negativo. Qual a razão de verossimilhança negativa e a probabilidade pós-teste aproximada?",
+  "alts": [
+   "RV negativa de 0,02 e probabilidade pós-teste de cerca de 2,0%",
+   "RV negativa de 0,03 e probabilidade pós-teste de cerca de 0,9%",
+   "RV negativa de 0,40 e probabilidade pós-teste de cerca de 15%",
+   "RV negativa de 2,45 e probabilidade pós-teste de cerca de 51%",
+   "RV negativa de 0,03 e probabilidade pós-teste de cerca de 1,4%"
+  ],
+  "gab": 4,
+  "tema": "bioestat",
+  "sub": "Razão de verossimilhança negativa",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021",
+  "coment": "A razão de verossimilhança negativa é (1 menos sensibilidade) ÷ especificidade = 0,02 ÷ 0,60 = 0,033. A chance pré-teste é 0,30 ÷ 0,70 = 0,43; multiplicada por 0,033, dá 0,014, e a probabilidade pós-teste fica em cerca de 1,4%. Um teste muito sensível tem RV negativa pequena, e o resultado negativo afasta a doença (SnNout), mesmo com especificidade baixa. RV negativa abaixo de 0,1 reduz bastante a probabilidade; o dímero D positivo, com RV de 2,45, pouco acrescenta (Fletcher, 2021).",
+  "porAlt": [
+   "Toma o complemento da sensibilidade como se fosse a própria razão de verossimilhança.",
+   "Multiplica a probabilidade, e não a chance, pela razão: 0,30 × 0,03.",
+   "Usa 1 menos a especificidade como razão, sem dividir pelo complemento da sensibilidade.",
+   "2,45 é a razão positiva (0,98 ÷ 0,40), que só se aplica a resultado positivo.",
+   "Correta: (1 menos 0,98) ÷ 0,60 = 0,033; chance 0,43 × 0,033 = 0,014, cerca de 1,4%."
+  ]
+ },
+ {
+  "q": "Ensaio clínico randomizado em pacientes com fibrilação atrial comparou um novo antitrombótico com placebo por 2 anos. O AVC isquêmico ocorreu em 6,0% do grupo placebo e em 4,0% do grupo tratado; o sangramento maior, em 1,5% e em 3,5%, respectivamente. Para cada 1.000 pacientes tratados por 2 anos, o que se espera?",
+  "alts": [
+   "Cerca de 40 AVC evitados e 15 sangramentos maiores a mais",
+   "Cerca de 20 AVC evitados e 35 sangramentos maiores a mais",
+   "Cerca de 20 AVC evitados e 20 sangramentos maiores adicionais",
+   "Cerca de 60 AVC evitados e 35 sangramentos maiores a mais",
+   "Cerca de 50 AVC evitados e 50 sangramentos maiores a mais"
+  ],
+  "gab": 2,
+  "tema": "bioestat",
+  "sub": "NNT e NNH no mesmo ensaio",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021",
+  "coment": "O efeito absoluto vem da diferença de riscos. AVC: 6,0% menos 4,0% = 2 pontos percentuais, NNT = 1 ÷ 0,02 = 50 em 2 anos, ou 20 AVC evitados por 1.000 tratados. Sangramento: 3,5% menos 1,5% = 2 pontos, NNH = 50, ou 20 sangramentos maiores a mais por 1.000. A redução relativa do AVC (33%) impressiona mais, mas é a comparação absoluta, com o mesmo horizonte de tempo, que mostra o balanço entre benefício e dano e permite discutir a decisão com o paciente (Fletcher, 2021).",
+  "porAlt": [
+   "Usa os eventos do grupo tratado e do placebo isoladamente, sem calcular as diferenças.",
+   "Os 35 são todos os sangramentos do grupo tratado, não o excesso atribuível ao fármaco.",
+   "Correta: redução absoluta de 2 pontos (NNT 50) e aumento absoluto de 2 pontos (NNH 50).",
+   "Os 60 são os AVC do grupo placebo; o fármaco evita só a diferença entre os grupos.",
+   "Confunde o NNT e o NNH (50) com o número de eventos evitados ou causados em 1.000."
+  ]
+ },
+ {
+  "q": "Uma coorte de base populacional estimou a incidência de câncer de bexiga em 5 casos por 10.000 pessoas-ano na população total e em 2 casos por 10.000 pessoas-ano entre os que nunca fumaram. Supondo relação causal, que proporção dos casos da população seria evitada se ninguém fumasse?",
+  "alts": [
+   "60% dos casos, com risco atribuível populacional de 3 por 10.000",
+   "30% dos casos, dividindo 3 por 10.000 pelo risco basal de 10",
+   "Não há como estimar sem saber a prevalência de tabagismo local",
+   "150% de excesso, que é o risco relativo de 2,5 subtraído de 1",
+   "40% dos casos, razão entre a incidência dos nunca fumantes e a total"
+  ],
+  "gab": 0,
+  "tema": "bioestat",
+  "sub": "Fração atribuível populacional",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Gordis L, Celentano DD, Szklo M. Gordis Epidemiology, 6ª ed., 2019",
+  "coment": "O risco atribuível populacional é a incidência na população total menos a incidência nos não expostos: 5 menos 2 = 3 casos por 10.000 pessoas-ano. A fração atribuível populacional divide essa diferença pela incidência total: 3 ÷ 5 = 60%. Se o tabagismo for causal, 60% dos casos da população seriam evitados sem a exposição. A medida depende da força da associação e da prevalência da exposição, mas, conhecidas as duas incidências, a prevalência já está embutida no cálculo (Gordis, 2019).",
+  "porAlt": [
+   "Correta: (5 menos 2) ÷ 5 = 60%; a diferença de 3 por 10.000 é o risco atribuível populacional.",
+   "O denominador correto é a incidência total (5), não um risco basal arbitrário.",
+   "Com a incidência total e a dos não expostos, a fração sai direto, sem a prevalência da exposição.",
+   "Excesso relativo não é proporção de casos evitáveis e não pode passar de 100%.",
+   "Essa razão é a proporção de casos que ocorreria mesmo sem tabagismo, o complemento da resposta."
+  ]
+ },
+ {
+  "q": "Num estudo de coorte, 40 de 100 pacientes expostos a um fármaco e 20 de 100 não expostos apresentaram náusea intensa. Um residente calcula a razão de chances e a apresenta no seminário como se fosse risco relativo. Qual afirmação descreve corretamente os resultados?",
+  "alts": [
+   "RR de 2,0 e OR de 2,67; por ser observacional, a coorte só permite a OR",
+   "RR de 2,0 e OR de 2,0; com desfecho frequente, as duas medidas coincidem",
+   "RR de 2,67 e OR de 2,0; a OR subestima o RR quando o desfecho é frequente",
+   "RR de 2,0 e OR de 1,5; a OR se aproxima do RR quando o desfecho é frequente",
+   "RR de 2,0 e OR de 2,67; com desfecho frequente, a OR superestima o RR"
+  ],
+  "gab": 4,
+  "tema": "bioestat",
+  "sub": "Razão de chances e risco relativo",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Gordis L, Celentano DD, Szklo M. Gordis Epidemiology, 6ª ed., 2019",
+  "coment": "Na coorte, o risco relativo é a razão das incidências: 40% ÷ 20% = 2,0. A razão de chances compara chances: (40 ÷ 60) ÷ (20 ÷ 80) = 0,667 ÷ 0,25 = 2,67, o mesmo que (a × d) ÷ (b × c). Quando o desfecho é raro (menos de cerca de 10%), as chances quase igualam os riscos e a OR aproxima o RR. Com desfecho frequente, a OR se afasta de 1 mais que o RR e exagera a associação se lida como risco. Por isso a coorte deve relatar o RR (Gordis, 2019).",
+  "porAlt": [
+   "A coorte mede incidência nos dois grupos e permite calcular diretamente o risco relativo.",
+   "As medidas só se aproximam quando o desfecho é raro; com 20% a 40%, divergem.",
+   "Os valores estão invertidos: 2,67 é a razão de chances e 2,0 o risco relativo.",
+   "A OR calculada é 2,67, e a aproximação com o RR vale para desfecho raro.",
+   "Correta: RR = 0,40 ÷ 0,20 = 2,0; OR = (40 × 80) ÷ (60 × 20) = 2,67."
+  ]
+ },
+ {
+  "q": "Um estudo caso-controle encontrou associação entre consumo diário de café e infarto agudo do miocárdio, com razão de chances bruta de 2,4. Estratificando por tabagismo, a razão de chances foi de 1,1 entre fumantes e de 1,0 entre não fumantes. Fumar é mais comum entre quem bebe café e é fator de risco para infarto. Como interpretar?",
+  "alts": [
+   "Tabagismo é fator de confusão, e a associação bruta é em grande parte espúria",
+   "A diferença decorre de viés de memória, típico de todo desenho caso-controle",
+   "O café protege fumantes e não fumantes, pois as duas razões ficaram perto de 1",
+   "Tabagismo está no caminho causal entre café e infarto e não deve ser ajustado",
+   "Tabagismo modifica o efeito do café, que deve ser relatado em cada estrato"
+  ],
+  "gab": 0,
+  "tema": "bioestat",
+  "sub": "Confusão por estratificação",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Gordis L, Celentano DD, Szklo M. Gordis Epidemiology, 6ª ed., 2019",
+  "coment": "Confusão ocorre quando uma terceira variável se associa à exposição, é fator de risco para o desfecho e não está no caminho causal. A estratificação revela: dentro de cada estrato de tabagismo, a razão de chances é cerca de 1, e a associação bruta de 2,4 desaparece. Quando as medidas dos estratos são parecidas entre si e diferentes da bruta, há confusão, e deve-se relatar a medida ajustada. Se as medidas dos estratos diferissem entre si, haveria modificação de efeito, a ser relatada separadamente (Gordis, 2019).",
+  "porAlt": [
+   "Correta: estratos semelhantes entre si e diferentes da medida bruta indicam confusão.",
+   "O viés de memória não explicaria o desaparecimento da associação dentro dos estratos.",
+   "Razão de chances perto de 1 indica ausência de associação, não proteção.",
+   "O tabagismo não é consequência do café nem passo intermediário até o infarto.",
+   "Modificação de efeito exige razões diferentes entre os estratos, o que não ocorreu."
+  ]
+ },
+ {
+  "q": "Um ensaio randomizado de não inferioridade compara um esquema oral curto de antibiótico com o esquema venoso padrão para osteomielite. A margem de não inferioridade pré-especificada para o risco relativo de falha terapêutica foi de 1,25. O resultado foi risco relativo de 1,08, com intervalo de confiança de 95% de 0,90 a 1,32. Qual a conclusão correta?",
+  "alts": [
+   "Superioridade do venoso demonstrada, pois o risco relativo é maior que 1",
+   "Não inferioridade não demonstrada, pois o limite superior passa de 1,25",
+   "Inferioridade demonstrada, pois o intervalo de confiança ultrapassa 1,25",
+   "Equivalência demonstrada, pois o intervalo de confiança contém o valor 1",
+   "Não inferioridade demonstrada, pois a estimativa pontual fica abaixo de 1,25"
+  ],
+  "gab": 1,
+  "tema": "bioestat",
+  "sub": "Ensaio de não inferioridade",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Piaggio G et al. CONSORT extension for noninferiority and equivalence trials, JAMA, 2012",
+  "coment": "Num ensaio de não inferioridade com desfecho desfavorável (falha), o novo tratamento é declarado não inferior quando o limite superior do intervalo de confiança de 95% fica abaixo da margem definida antes do estudo. Aqui, o limite superior é 1,32, acima de 1,25: os dados são compatíveis com uma perda de eficácia maior que a aceitável, e a não inferioridade não foi demonstrada. Como o intervalo inclui 1, também não há prova de inferioridade. A estimativa pontual sozinha não decide (CONSORT, 2012).",
+  "porAlt": [
+   "Como o intervalo inclui 1, não há diferença estatística demonstrada a favor do venoso.",
+   "Correta: o intervalo inclui valores de risco além da margem aceita, e o resultado fica inconclusivo.",
+   "Para concluir inferioridade, o intervalo inteiro teria de indicar pior resultado, e ele começa em 0,90.",
+   "Conter o 1 não demonstra equivalência; o intervalo cruza a margem pré-definida.",
+   "A decisão depende do limite superior do intervalo, não da estimativa pontual."
+  ]
+ },
+ {
+  "q": "Uma metanálise de 22 ensaios sobre um suplemento para prevenção de fraturas mostra efeito combinado favorável. No gráfico de funil, os estudos grandes se concentram perto do efeito nulo, e há muitos estudos pequenos com efeito protetor intenso, sem nenhum estudo pequeno com efeito nulo ou desfavorável. Qual a interpretação mais provável?",
+  "alts": [
+   "Erro aleatório dos estudos pequenos, que se anula na combinação",
+   "Efeito real maior em amostras pequenas, mais homogêneas e controladas",
+   "Viés de publicação, que tende a superestimar o efeito combinado",
+   "Heterogeneidade clínica, corrigida pelo modelo de efeitos aleatórios",
+   "Viés de seleção dos participantes nos ensaios de maior tamanho"
+  ],
+  "gab": 2,
+  "tema": "bioestat",
+  "sub": "Viés de publicação em metanálise",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Higgins JPT et al. Cochrane Handbook for Systematic Reviews of Interventions, versão 6.4, 2023",
+  "coment": "O gráfico de funil plota o efeito de cada estudo contra sua precisão. Sem viés, os estudos pequenos se espalham simetricamente em torno do efeito dos grandes. A falta de estudos pequenos com resultado nulo ou desfavorável sugere que eles não foram publicados ou foram relatados seletivamente, e a metanálise tende a superestimar o efeito. Outras causas de assimetria (qualidade metodológica pior nos pequenos) também são consideradas. A conduta é buscar estudos não publicados e fazer análises de sensibilidade (Cochrane Handbook, 2023).",
+  "porAlt": [
+   "Erro aleatório produz dispersão simétrica; a falta de um lado do funil é sistemática.",
+   "Estudos pequenos são menos precisos, e o efeito exagerado neles costuma ser artefato.",
+   "Correta: o funil assimétrico, sem estudos pequenos negativos, sugere que estes não foram publicados.",
+   "Efeitos aleatórios não corrigem a assimetria e dão até mais peso aos estudos pequenos.",
+   "Os estudos grandes, mais precisos, são justamente os que dão a estimativa mais confiável."
+  ]
+ },
+ {
+  "q": "Após a introdução do rastreamento por imagem para um câncer, a sobrevida em 5 anos a partir do diagnóstico passou de 40% para 65%. No mesmo período, a idade mediana ao diagnóstico caiu 3 anos, mas a idade mediana ao óbito pela doença e a mortalidade específica ajustada por idade não se alteraram. Qual a explicação mais provável para a melhora da sobrevida?",
+  "alts": [
+   "Viés de tempo de antecipação, com diagnóstico precoce sem adiar a morte",
+   "Confusão pela idade, já que a mortalidade foi ajustada e a sobrevida não",
+   "Aumento da incidência real, com mais casos graves detectados pela imagem",
+   "Benefício real do rastreamento, já que a sobrevida é o melhor desfecho",
+   "Viés de memória, porque os rastreados recordam melhor os sintomas iniciais"
+  ],
+  "gab": 0,
+  "tema": "bioestat",
+  "sub": "Viés de tempo de antecipação",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Gordis L, Celentano DD, Szklo M. Gordis Epidemiology, 6ª ed., 2019",
+  "coment": "O viés de tempo de antecipação (lead time) ocorre quando o rastreamento só adianta a data do diagnóstico. A sobrevida, contada a partir dele, aumenta artificialmente, mas a morte ocorre na mesma idade. A pista é exatamente essa: diagnóstico 3 anos mais cedo, idade ao óbito e mortalidade inalteradas. Por isso o desfecho válido para avaliar rastreamento é a mortalidade específica na população, e não a sobrevida dos diagnosticados, também inflada pelo viés de duração e pelo sobrediagnóstico (Gordis, 2019).",
+  "porAlt": [
+   "Correta: o relógio da sobrevida começa mais cedo, e a data da morte permanece a mesma.",
+   "A idade ao óbito não mudou, o que afasta a idade como explicação para o ganho aparente.",
+   "Mais casos graves piorariam a sobrevida, e nada indica aumento da incidência real.",
+   "Sobrevida a partir do diagnóstico é distorcida pela antecipação; o desfecho válido é a mortalidade.",
+   "Viés de memória afeta relatos de exposição, não datas de diagnóstico e de óbito registradas."
+  ]
+ },
+ {
+  "q": "Um ensaio clínico de anti-hipertensivo não mostrou diferença no desfecho primário. Os autores analisaram em seguida 20 subgrupos, definidos por sexo, idade, etnia e comorbidades, e destacaram no resumo o benefício significativo em mulheres diabéticas acima de 65 anos (p = 0,04). Qual a leitura adequada desse achado?",
+  "alts": [
+   "Evidência de alta certeza, por ter vindo de um ensaio clínico randomizado",
+   "Prova de benefício nesse subgrupo, pois p abaixo de 0,05 indica efeito real",
+   "Probabilidade de 4% de a hipótese nula ser verdadeira nesse subgrupo",
+   "Gerador de hipótese, pois 1 em 20 testes dá p abaixo de 0,05 por acaso",
+   "Correção do erro tipo II do desfecho primário pela análise de subgrupos"
+  ],
+  "gab": 3,
+  "tema": "bioestat",
+  "sub": "Múltiplas comparações e subgrupos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021",
+  "coment": "Cada teste com α de 0,05 tem 5% de chance de falso positivo quando não há efeito. Com 20 comparações independentes, espera-se cerca de um resultado significativo só pelo acaso, e a chance de ao menos um falso positivo passa de 60%. Achado de subgrupo, sobretudo não pré-especificado e num ensaio negativo no desfecho primário, é gerador de hipótese e precisa de confirmação em novo estudo. Lembre também que valor-p é a probabilidade de dados tão extremos se a hipótese nula fosse verdadeira (Fletcher, 2021).",
+  "porAlt": [
+   "Subgrupo não pré-especificado de um ensaio negativo tem certeza baixa, mesmo randomizado.",
+   "Com muitas comparações, p de 0,04 isolado não distingue efeito real de erro tipo I.",
+   "O valor-p não é a probabilidade de a hipótese nula ser verdadeira, mas a dos dados se ela for.",
+   "Correta: com 20 comparações a α de 5%, espera-se cerca de um resultado significativo só por acaso.",
+   "Subgrupos têm menos pacientes e menos poder; não corrigem a falta de poder do desfecho principal."
+  ]
+ },
+ {
+  "q": "Um ensaio randomizou 200 pacientes para cirurgia e 200 para tratamento clínico de uma doença valvar. Quarenta do grupo clínico migraram para cirurgia por piora, e 10 do grupo cirúrgico recusaram a operação. Na análise principal, cada paciente foi contado no grupo para o qual foi sorteado, tendo ou não recebido aquele tratamento. Qual o nome dessa análise e o seu principal mérito?",
+  "alts": [
+   "Análise de sensibilidade, que exclui quem trocou de grupo após o sorteio",
+   "Intenção de tratar, que preserva a comparabilidade criada pelo sorteio",
+   "Tratamento recebido, que mostra o efeito real de quem de fato foi operado",
+   "Por protocolo, que estima a eficácia biológica sem perder a randomização",
+   "Intenção de tratar, que elimina o efeito do cruzamento entre os grupos"
+  ],
+  "gab": 1,
+  "tema": "bioestat",
+  "sub": "Intenção de tratar",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Schulz KF, Altman DG, Moher D. CONSORT 2010 Statement, BMJ, 2010",
+  "coment": "Na análise por intenção de tratar, cada paciente é analisado no grupo para o qual foi randomizado, independentemente do que recebeu. Isso preserva a comparabilidade obtida pelo sorteio, inclusive quanto a fatores desconhecidos, e estima a efetividade da estratégia no mundo real. O preço é a diluição do efeito quando há muito cruzamento, o que torna o resultado conservador. Em ensaio de superioridade, ela é a análise principal; a análise por protocolo é complementar e mais sujeita a viés (CONSORT, 2010).",
+  "porAlt": [
+   "Excluir quem trocou de grupo é análise por protocolo, não a descrita no enunciado.",
+   "Correta: manter cada paciente no grupo sorteado conserva o equilíbrio de fatores conhecidos e desconhecidos.",
+   "Agrupar por tratamento recebido reintroduz confusão, pois quem cruza difere de quem não cruza.",
+   "A análise por protocolo exclui desvios e, por isso, quebra a comparabilidade da randomização.",
+   "O nome está certo, mas o cruzamento dilui a diferença; a análise não o elimina."
+  ]
+ },
+ {
+  "q": "O conselho municipal de saúde analisa o relatório anual de gestão. A receita de impostos municipais e de transferências constitucionais recebidas somou R$ 200 milhões. O município declarou R$ 33 milhões aplicados em saúde pelo fundo municipal, dos quais R$ 3 milhões em aposentadorias e pensões de servidores da saúde e R$ 2 milhões em merenda escolar; o restante foi gasto em atenção primária, vigilância e hospital municipal. O mínimo legal foi cumprido?",
+  "alts": [
+   "Sim: os R$ 33 milhões somam 16,5% da base, acima dos 15% exigidos",
+   "Sim: só a merenda sai da conta, e os R$ 31 milhões somam 15,5% da base",
+   "Sim: o computável é R$ 28 milhões, 14% da base, acima dos 12% exigidos",
+   "Não: o computável é R$ 30 milhões, mas o mínimo municipal é de 18%",
+   "Não: o computável é R$ 28 milhões, 14% da base, abaixo dos 15% exigidos"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "LC 141 e mínimo municipal",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei Complementar 141/2012, arts. 3º, 4º e 7º",
+  "coment": "A Lei Complementar 141/2012 fixa que os municípios apliquem, no mínimo, 15% da arrecadação de impostos e das transferências constitucionais em ações e serviços públicos de saúde (art. 7º); os estados, 12%. O art. 4º exclui do cômputo, entre outros, aposentadorias e pensões, inclusive de servidores da saúde, e merenda escolar. Assim, R$ 33 milhões menos R$ 5 milhões = R$ 28 milhões, ou 14% de R$ 200 milhões. O município não cumpriu o mínimo, e cabe ao conselho apontar a irregularidade no relatório de gestão.",
+  "porAlt": [
+   "Inclui despesas que a lei exclui expressamente do cômputo das ações e serviços de saúde.",
+   "Aposentadorias e pensões, mesmo de servidores da saúde, também não contam como gasto em saúde.",
+   "O percentual de 12% é o mínimo dos estados; o dos municípios é 15%.",
+   "O mínimo municipal é 15%, e o valor computável é R$ 28 milhões, não R$ 30 milhões.",
+   "Correta: aposentadorias e merenda não contam; 28 ÷ 200 = 14%, abaixo do piso municipal de 15%."
+  ]
+ },
+ {
+  "q": "Numa reunião da secretaria, um gestor afirma que a humanização do atendimento é apenas diretriz de uma política ministerial, sem força de lei, e que por isso não pode ser cobrada dos serviços contratados. Considerando o texto atual do art. 7º da Lei 8.080/1990, como responder?",
+  "alts": [
+   "Atenção humanizada é princípio do SUS no art. 7º desde a Lei 15.126/2025",
+   "Atenção humanizada entrou na lei em 2017, com o atendimento à mulher vítima",
+   "Humanização está na Constituição como quarta diretriz do art. 198 do SUS",
+   "Humanização integra a Lei 8.142 como requisito do repasse fundo a fundo",
+   "Humanização segue só como diretriz da PNH, instituída por portaria em 2003"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Atenção humanizada como princípio",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, XVI, incluído pela Lei 15.126/2025",
+  "coment": "O art. 7º da Lei 8.080/1990 lista os princípios do SUS. Até 2017 eram 13 incisos; a Lei 13.427/2017 incluiu o XIV (atendimento específico a mulheres e vítimas de violência doméstica), a Lei 14.679/2023 o XV (proteção integral de crianças e adolescentes) e a Lei 15.126/2025 o XVI, atenção humanizada. A Política Nacional de Humanização, de 2003, continua como política transversal, mas a humanização deixou de ser só diretriz de portaria e passou a princípio legal, aplicável também aos serviços contratados.",
+  "porAlt": [
+   "Correta: o inciso XVI do art. 7º, de 2025, transformou a atenção humanizada em princípio legal do SUS.",
+   "Em 2017 entrou o inciso XIV, sobre atendimento específico a mulheres e vítimas de violência.",
+   "O art. 198 tem três diretrizes: descentralização, atendimento integral e participação da comunidade.",
+   "Os requisitos da Lei 8.142 são fundo, conselho, plano, relatório, contrapartida e comissão de carreira.",
+   "A PNH continua existindo, mas desde 2025 a atenção humanizada também é princípio escrito na lei."
+  ]
+ },
+ {
+  "q": "Mulher de 47 anos fará colonoscopia com sedação em uma clínica privada. Ao chegar com a irmã de 30 anos, a recepção informa que acompanhante só entra se tiver sido avisado com 48 horas de antecedência e que o direito vale apenas para gestantes. Pela Lei 8.080/1990, na redação vigente, qual a situação correta?",
+  "alts": [
+   "Ela tem o direito só em serviço público, e a clínica privada define a regra",
+   "Ela tem direito a acompanhante maior de idade, sem necessidade de aviso prévio",
+   "Ela não tem o direito, garantido só à parturiente no parto e no pós-parto",
+   "Ela tem o direito, mas o serviço pode exigir aviso prévio de 48 horas",
+   "Ela tem o direito só se o médico da clínica autorizar a presença por escrito"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Acompanhante em consultas e exames",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 19-J, com redação da Lei 14.737/2023",
+  "coment": "O art. 19-J da Lei 8.080/1990 garantia acompanhante à parturiente (Lei 11.108/2005). A Lei 14.737/2023 ampliou o direito: toda mulher pode ter acompanhante maior de idade em consultas, exames e procedimentos realizados em unidades de saúde públicas e privadas, sem necessidade de notificação prévia. Em procedimentos com sedação, a presença ganha importância adicional de proteção. A clínica não pode restringir o direito a gestantes nem condicioná-lo a aviso com antecedência.",
+  "porAlt": [
+   "A garantia vale para unidades de saúde públicas e privadas.",
+   "Correta: o art. 19-J garante acompanhante a toda mulher em consultas, exames e procedimentos.",
+   "Essa era a regra da Lei 11.108/2005, ampliada em 2023 para toda mulher, gestante ou não.",
+   "A lei dispensa notificação prévia para o exercício do direito ao acompanhante.",
+   "O direito decorre da lei e não depende de autorização médica caso a caso."
+  ]
+ },
+ {
+  "q": "Na discussão sobre um surto de diarreia numa aldeia, um interno pergunta como a atenção à saúde dos povos indígenas se organiza no SUS. Segundo a Lei 8.080/1990, com o capítulo incluído pela Lei 9.836/1999, qual a afirmação correta?",
+  "alts": [
+   "Há subsistema próprio, sem acesso dos indígenas à rede regional de média e alta complexidade",
+   "A atenção cabe ao município da aldeia, como qualquer ação de atenção primária do seu território",
+   "Há subsistema próprio, custeado pela União e organizado em Distritos Sanitários Especiais Indígenas",
+   "Há subsistema próprio, custeado pelos estados e organizado em consórcios intermunicipais de saúde",
+   "A atenção é executada pela FUNAI, fora do SUS, com recursos orçamentários do Ministério da Justiça"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Subsistema de saúde indígena",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 19-A a 19-H, incluídos pela Lei 9.836/1999",
+  "coment": "A Lei 9.836/1999, conhecida como Lei Arouca, incluiu na Lei 8.080/1990 o Subsistema de Atenção à Saúde Indígena (arts. 19-A a 19-H). Ele integra o SUS, é financiado pela União e organizado de forma descentralizada e regionalizada, tendo como base os Distritos Sanitários Especiais Indígenas. Estados, municípios e organizações podem atuar complementarmente. A lei assegura às populações indígenas acesso aos níveis secundário e terciário do SUS e a consideração da realidade cultural local na atenção.",
+  "porAlt": [
+   "A lei garante aos indígenas acesso a todos os níveis do SUS, inclusive média e alta complexidade.",
+   "Estados e municípios atuam de forma complementar; a responsabilidade principal é federal.",
+   "Correta: o subsistema é financiado pela União e tem como base os Distritos Sanitários Especiais Indígenas.",
+   "O financiamento do subsistema é da União, e a base organizativa são os distritos especiais.",
+   "O subsistema integra o SUS; a FUNAI não executa a atenção à saúde indígena."
+  ]
+ },
+ {
+  "q": "Um navio de cruzeiro atraca num porto brasileiro com vários tripulantes com febre e exantema. Durante a resposta, surge dúvida sobre qual esfera de governo tem competência para executar a vigilância sanitária no porto. Pela Lei 8.080/1990, a quem cabe essa execução?",
+  "alts": [
+   "À autoridade marítima, por se tratar de embarcação em águas sob jurisdição federal",
+   "À direção estadual, que executa as ações em portos em caráter supletivo ao município",
+   "Ao município sede, com a União atuando só em evento de risco de alcance nacional",
+   "À direção nacional do SUS, que pode tê-la complementada por estados e municípios",
+   "À direção municipal, que executa todas as ações de vigilância no seu território"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Vigilância sanitária em portos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 16 a 18",
+  "coment": "A Lei 8.080/1990 distribui competências por esfera. À direção nacional cabe executar a vigilância sanitária de portos, aeroportos e fronteiras, podendo a execução ser complementada por estados, Distrito Federal e municípios (art. 16), o que se faz por meio da ANVISA. À direção municipal cabe executar as vigilâncias epidemiológica e sanitária no território (art. 18). A União executa vigilância epidemiológica de forma direta apenas em circunstâncias especiais, como agravo inusitado ou risco de disseminação nacional.",
+  "porAlt": [
+   "A vigilância sanitária é competência do SUS, exercida no plano federal pela ANVISA.",
+   "A atuação supletiva do estado não se aplica a essa competência, que é da direção nacional.",
+   "A regra do agravo inusitado vale para a vigilância epidemiológica, não para portos.",
+   "Correta: o art. 16 atribui à direção nacional executar a vigilância sanitária de portos, aeroportos e fronteiras.",
+   "O município executa as vigilâncias em geral, mas portos, aeroportos e fronteiras são exceção federal."
+  ]
+ },
+ {
+  "q": "Homem de 60 anos, atendido em consultório particular, recebe receita de losartana e a leva à farmácia da unidade básica do seu bairro. O farmacêutico explica as regras de acesso. Segundo o art. 28 do Decreto 7.508/2011, quais condições, cumulativas, garantem o acesso universal e igualitário à assistência farmacêutica?",
+  "alts": [
+   "Morar no município, ter prescrição de médico do SUS, seguir a RENAME e passar por avaliação do farmacêutico",
+   "Ser assistido pelo SUS, ter prescrição de profissional do SUS, seguir a RENAME e comprovar renda familiar baixa",
+   "Ser assistido pelo SUS, ter prescrição de profissional do SUS, seguir RENAME e PCDT e retirar na unidade indicada",
+   "Ser assistido pelo SUS, ter prescrição com o CID, seguir a lista estadual e retirar na farmácia de alto custo",
+   "Ter cartão SUS, prescrição de qualquer médico com CRM ativo, seguir a RENAME e retirar em qualquer farmácia"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Acesso à assistência farmacêutica",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Decreto 7.508/2011, art. 28",
+  "coment": "O Decreto 7.508/2011 regulamenta a Lei 8.080/1990 e, no art. 28, condiciona o acesso universal e igualitário à assistência farmacêutica a quatro requisitos cumulativos: estar o usuário assistido por ações e serviços do SUS; ter o medicamento prescrito por profissional de saúde no exercício regular de suas funções no SUS; estar a prescrição em conformidade com a RENAME e os Protocolos Clínicos e Diretrizes Terapêuticas ou relação complementar; e ter a dispensação ocorrido em unidade indicada pela direção do SUS.",
+  "porAlt": [
+   "Residência e avaliação do farmacêutico não estão entre as condições do art. 28.",
+   "Não há critério de renda; o acesso é universal e igualitário entre os usuários assistidos pelo SUS.",
+   "Correta: são quatro requisitos cumulativos: usuário do SUS, prescritor do SUS, RENAME e PCDT, e unidade indicada.",
+   "CID na receita e lista estadual não são requisitos; a referência é a RENAME com os PCDT.",
+   "O decreto exige prescrição de profissional no exercício de funções no SUS e unidade definida pelo gestor."
+  ]
+ },
+ {
+  "q": "Ao estudar a municipalização do SUS, um residente precisa identificar a norma que criou o Piso da Atenção Básica, com parte fixa per capita e parte variável para incentivos como PACS e PSF, e que instituiu as condições de gestão plena da atenção básica e plena do sistema municipal. Qual é ela?",
+  "alts": [
+   "Norma Operacional Básica de 1991",
+   "Norma Operacional Básica de 1993",
+   "Norma Operacional Básica de 1996",
+   "NOAS, Norma Operacional de 2001",
+   "Pacto pela Saúde, portaria de 2006"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "NOB 96 e Piso da Atenção Básica",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Norma Operacional Básica do SUS 01/96, 1996",
+  "coment": "A descentralização do SUS foi conduzida por normas operacionais. A NOB 91 tratava o município como prestador e pagava por produção. A NOB 93 criou as gestões incipiente, parcial e semiplena. A NOB 96 criou o Piso da Atenção Básica, com parte fixa per capita e parte variável para incentivos como PACS e PSF, a Programação Pactuada e Integrada e as condições de gestão plena da atenção básica e plena do sistema municipal. Depois vieram a NOAS (2001 e 2002), o Pacto pela Saúde (2006) e o Decreto 7.508/2011.",
+  "porAlt": [
+   "A NOB 91 manteve repasse por convênio e pagamento por produção, com o município como prestador.",
+   "A NOB 93 criou as gestões incipiente, parcial e semiplena e a Comissão Intergestores Bipartite.",
+   "Correta: a NOB 96 criou o PAB, a Programação Pactuada e Integrada e as duas gestões plenas.",
+   "A NOAS organizou a regionalização, com Plano Diretor de Regionalização e atenção básica ampliada.",
+   "O Pacto pela Saúde trocou as habilitações por adesão a compromissos e Termo de Compromisso de Gestão."
+  ]
+ },
+ {
+  "q": "Em 2006, o Ministério da Saúde, o CONASS e o CONASEMS substituíram o processo de habilitação dos municípios por adesão a compromissos sanitários, com metas e Termo de Compromisso de Gestão. Quais são as três dimensões desse Pacto pela Saúde?",
+  "alts": [
+   "Pacto Federativo, Pacto de Metas e Pacto de Gestão Regional",
+   "Pacto de Gestão, Pacto pela Atenção Básica e Pacto do Cuidado",
+   "Pacto pela Vida, Pacto em Defesa do SUS e Pacto de Gestão",
+   "Pacto pela Vida, Pacto em Defesa do SUS e Pacto pela Regulação",
+   "Pacto pela Vida, Pacto Regional e Pacto de Financiamento"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Pacto pela Saúde",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria GM/MS 399/2006 (Pacto pela Saúde), 2006",
+  "coment": "O Pacto pela Saúde (Portaria GM/MS 399/2006) tem três dimensões. O Pacto pela Vida fixa prioridades sanitárias com metas, como saúde do idoso, câncer de colo e de mama, mortalidade infantil e materna, doenças emergentes, promoção da saúde e atenção básica. O Pacto em Defesa do SUS trata da repolitização do sistema e da regulamentação do financiamento. O Pacto de Gestão define responsabilidades sanitárias, regionalização com Colegiados de Gestão Regional, financiamento em blocos, regulação e participação social.",
+  "porAlt": [
+   "Indicadores e colegiados regionais são instrumentos, não as dimensões do pacto.",
+   "Atenção básica é prioridade do Pacto pela Vida, e humanização não é dimensão do pacto.",
+   "Correta: são as três dimensões da Portaria 399/2006.",
+   "Regulação integra o Pacto de Gestão; a terceira dimensão é o próprio Pacto de Gestão.",
+   "Regionalização e financiamento são eixos do Pacto de Gestão, não dimensões próprias."
+  ]
+ },
+ {
+  "q": "Uma regional de saúde organiza a rede de atenção às pessoas com doenças crônicas e lista os seguintes componentes: cartão de identificação do usuário, prontuário clínico, central de regulação do acesso e transporte sanitário. Pela Portaria 4.279/2010, em que componente da estrutura operacional das Redes de Atenção à Saúde eles se enquadram?",
+  "alts": [
+   "Sistemas de apoio",
+   "Pontos de atenção",
+   "Sistemas logísticos",
+   "Centro de comunicação",
+   "Sistema de governança"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Estrutura operacional das RAS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 4.279/2010 (Redes de Atenção à Saúde), 2010",
+  "coment": "A Portaria GM/MS 4.279/2010 define três elementos constitutivos das Redes de Atenção à Saúde: população, estrutura operacional e modelo de atenção. A estrutura operacional tem cinco componentes: centro de comunicação (atenção primária); pontos de atenção secundária e terciária; sistemas de apoio (diagnóstico e terapêutico, assistência farmacêutica, teleassistência, informação); sistemas logísticos (cartão de identificação, prontuário clínico, regulação do acesso e transporte sanitário); e sistema de governança. Os logísticos garantem o fluxo organizado de pessoas e informações.",
+  "porAlt": [
+   "Sistemas de apoio são o diagnóstico e terapêutico, a assistência farmacêutica e a informação em saúde.",
+   "Pontos de atenção são ambulatórios, hospitais e outros serviços que prestam o cuidado.",
+   "Correta: identificação do usuário, prontuário, regulação e transporte são os sistemas logísticos da rede.",
+   "O centro de comunicação é a atenção primária, que coordena o cuidado e ordena a rede.",
+   "A governança é o arranjo interfederativo que gere a rede, não as ferramentas de fluxo do usuário."
+  ]
+ },
+ {
+  "q": "Um município contrata um hospital filantrópico para complementar os leitos do SUS. O diretor clínico desse hospital é convidado pelo prefeito para assumir também a coordenação de regulação da secretaria municipal de saúde. Pela Lei 8.080/1990, qual a análise correta?",
+  "alts": [
+   "A nomeação é permitida se aprovada pelo conselho municipal de saúde em plenária",
+   "A nomeação é vedada: dirigente de serviço contratado não pode ter chefia no SUS",
+   "A nomeação é permitida, desde que ele não regule os leitos do próprio hospital",
+   "A nomeação é permitida, pois filantrópicos têm preferência na contratação pelo SUS",
+   "A nomeação é vedada só se o hospital tiver fins lucrativos ou capital estrangeiro"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Participação complementar",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 24 a 26",
+  "coment": "Pela Lei 8.080/1990, o SUS pode recorrer aos serviços privados quando sua disponibilidade for insuficiente, por contrato ou convênio, com preferência para entidades filantrópicas e sem fins lucrativos (arts. 24 e 25). A remuneração é fixada pela direção nacional e aprovada no Conselho Nacional de Saúde, e o art. 26 veda a proprietários, administradores e dirigentes de entidades ou serviços contratados o exercício de cargo de chefia ou função de confiança no SUS, para evitar conflito de interesses entre comprador e prestador.",
+  "porAlt": [
+   "A proibição é legal e não pode ser afastada por deliberação do conselho de saúde.",
+   "Correta: o art. 26 veda a proprietários, administradores e dirigentes de contratados cargo de chefia no SUS.",
+   "A lei veda o cargo de chefia ou função de confiança no SUS, sem ressalva de setor.",
+   "A preferência às filantrópicas trata da contratação, não autoriza acumular direção e chefia.",
+   "A vedação vale para dirigentes de qualquer serviço contratado ou conveniado, filantrópico ou não."
+  ]
+ },
+ {
+  "q": "Operador de prensa de 32 anos, exposto a ruído, faz audiometria periódica. No exame de referência, os limiares em 3.000, 4.000 e 6.000 Hz eram de 5, 5 e 10 dB; no exame atual, são de 15, 20 e 20 dB, com todas as frequências de 250 a 8.000 Hz ainda até 25 dB. Pela NR-7, como se interpreta o exame atual?",
+  "alts": [
+   "Presbiacusia inicial, pela piora progressiva nas frequências mais agudas",
+   "Desencadeamento de perda induzida por ruído, com audiograma ainda normal",
+   "Audiograma normal, sem significado, pois os limiares não passam de 25 dB",
+   "Variação técnica esperada, pois a piora média ficou abaixo de 15 dB",
+   "Perda auditiva induzida por ruído instalada, com indicação de afastamento"
+  ],
+  "gab": 1,
+  "tema": "trabalho",
+  "sub": "Desencadeamento de PAIR",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério do Trabalho e Emprego. Norma Regulamentadora 7 (PCMSO), redação da Portaria SEPRT 6.734/2020, Anexo II",
+  "coment": "Pela NR-7 (Anexo II), é sugestivo de desencadeamento de perda auditiva induzida por ruído o audiograma ainda dentro dos limites normais (até 25 dB) que, comparado ao de referência, mostra piora de 10 dB ou mais na média de 3.000, 4.000 e 6.000 Hz ou de 15 dB ou mais em qualquer dessas frequências. Aqui, a média passou de 6,7 para 18,3 dB (11,7 dB) e 4.000 Hz piorou 15 dB. É o momento de intervir: rever exposição, medidas coletivas e protetor, antes da perda irreversível.",
+  "porAlt": [
+   "Aos 32 anos, com exposição a ruído e piora em 3 a 6 kHz, presbiacusia não explica o quadro.",
+   "Correta: a média em 3, 4 e 6 kHz piorou 11,7 dB (de 6,7 para 18,3), e em 4 kHz a piora foi de 15 dB.",
+   "Mesmo com limiares normais, a comparação com o exame de referência define o desencadeamento.",
+   "O critério é piora de 10 dB na média ou de 15 dB em uma frequência, e ambos foram atingidos.",
+   "Perda instalada exige limiares acima de 25 dB nas frequências agudas, o que não ocorre."
+  ]
+ },
+ {
+  "q": "Auxiliar de logística de 41 anos ficou afastado 35 dias por pneumonia grave, sem relação com o trabalho. A empresa pretende que ele volte direto ao posto e faça o exame clínico ocupacional apenas no próximo exame periódico. Pela NR-7, qual a conduta correta?",
+  "alts": [
+   "Exame de retorno apenas se o afastamento passasse de 60 dias",
+   "Exame de retorno ao trabalho antes de ele reassumir a função",
+   "Exame periódico antecipado, feito em até 10 dias após o retorno",
+   "Exame de mudança de risco ocupacional até 30 dias após a volta",
+   "Nenhum exame, pois o afastamento não teve natureza ocupacional"
+  ],
+  "gab": 1,
+  "tema": "trabalho",
+  "sub": "PCMSO e exame de retorno",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério do Trabalho e Emprego. Norma Regulamentadora 7 (PCMSO), redação da Portaria SEPRT 6.734/2020",
+  "coment": "A NR-7 prevê, no Programa de Controle Médico de Saúde Ocupacional, os exames admissional, periódico, de retorno ao trabalho, de mudança de risco ocupacional e demissional. O exame de retorno deve ser feito antes que o empregado reassuma suas funções quando ele esteve ausente por 30 dias ou mais por doença ou acidente, de natureza ocupacional ou não. O resultado é registrado no atestado de saúde ocupacional, que declara aptidão ou inaptidão para a função e não traz resultados de exames.",
+  "porAlt": [
+   "O prazo que gera o exame de retorno é de 30 dias de afastamento, não de 60.",
+   "Correta: ausência de 30 dias ou mais por doença ou acidente, ocupacional ou não, exige exame de retorno.",
+   "O exame de retorno não se confunde com o periódico e deve preceder a volta à função.",
+   "Não houve mudança de risco; o exame devido é o de retorno, feito antes de reassumir.",
+   "A natureza do afastamento não importa: vale doença ou acidente, ocupacional ou não."
+  ]
+ },
+ {
+  "q": "Pedreiro de 38 anos, empregado com carteira assinada, fratura o calcâneo ao cair de um andaime e fica 90 dias afastado. A empresa emitiu a CAT no dia seguinte. Sobre o pagamento durante o afastamento e a situação no retorno, qual afirmação está de acordo com a Lei 8.213/1991?",
+  "alts": [
+   "O INSS paga desde o primeiro dia, e a estabilidade no emprego dura 6 meses após a alta",
+   "A empresa paga os 15 primeiros dias; depois, o INSS, com estabilidade de 12 meses na volta",
+   "A empresa paga os 30 primeiros dias, e o benefício exige carência de 12 contribuições",
+   "A empresa paga os 15 primeiros dias, e não há estabilidade por ser acidente típico",
+   "O INSS paga a partir do 16º dia, e a estabilidade vale só para a doença ocupacional"
+  ],
+  "gab": 1,
+  "tema": "trabalho",
+  "sub": "Benefício acidentário e estabilidade",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.213/1991, arts. 22, 60 e 118",
+  "coment": "Pela Lei 8.213/1991, a empresa paga o salário dos primeiros 15 dias consecutivos de afastamento; a partir do 16º dia, o INSS paga o auxílio por incapacidade temporária, após perícia, que reconhece a natureza acidentária. O benefício acidentário dispensa carência. Ao retornar, o segurado que sofreu acidente do trabalho tem garantia de manutenção do contrato por 12 meses após a cessação do benefício (art. 118). Se restar sequela que reduza a capacidade para o trabalho habitual, cabe auxílio-acidente.",
+  "porAlt": [
+   "Os 15 primeiros dias são pagos pela empresa, e a garantia de emprego é de 12 meses.",
+   "Correta: a partir do 16º dia o INSS paga o benefício acidentário, com garantia de 12 meses após cessá-lo.",
+   "A empresa paga 15 dias, e o benefício acidentário dispensa carência.",
+   "O acidente típico gera a mesma estabilidade de 12 meses que a doença do trabalho.",
+   "A estabilidade do art. 118 vale para todo acidente do trabalho, típico ou doença equiparada."
+  ]
+ },
+ {
+  "q": "Mulher de 66 anos, dona de casa, que nunca trabalhou fora, apresenta dispneia, derrame pleural unilateral e espessamento pleural nodular; a biópsia confirma mesotelioma maligno da pleura. Durante 25 anos, ela lavou à mão as roupas de trabalho do marido, que fabricava telhas de fibrocimento. Qual a interpretação mais adequada?",
+  "alts": [
+   "Exposição improvável, pois só a forma anfibólio do amianto entra em fibrocimento",
+   "Exposição paraocupacional ao amianto, que explica a doença sem trabalho próprio",
+   "Mesotelioma atribuível ao tabagismo passivo, principal fator de risco do tumor",
+   "Doença sem relação com o amianto, pois a paciente nunca teve vínculo de trabalho",
+   "Exposição improvável, pois a latência do mesotelioma raramente passa de 10 anos"
+  ],
+  "gab": 1,
+  "tema": "trabalho",
+  "sub": "Mesotelioma e amianto",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Lista de Doenças Relacionadas ao Trabalho (Portaria GM/MS 1.999/2023), 2023",
+  "coment": "O amianto causa asbestose, placas pleurais, câncer de pulmão, câncer de ovário e mesotelioma, tumor de pleura ou peritônio com latência de décadas e forte associação com a fibra. A exposição pode ser paraocupacional: familiares que lavam a roupa do trabalhador ou vivem perto de fábricas inalam a poeira. Mesotelioma sem exposição óbvia obriga a refazer a história ocupacional e ambiental em detalhe. O uso de crisotila foi proibido no Brasil após decisão do STF de 2017, mas os casos persistem pela longa latência.",
+  "porAlt": [
+   "O fibrocimento brasileiro usava crisotila, que também está associada ao mesotelioma.",
+   "Correta: a poeira levada na roupa contamina o domicílio, e familiares adoecem sem trabalhar no setor.",
+   "O tabagismo potencializa o câncer de pulmão por amianto, mas não é causa de mesotelioma.",
+   "A exposição doméstica ou ambiental a fibras de amianto basta para causar mesotelioma.",
+   "A latência do mesotelioma é longa, em geral de décadas após o início da exposição."
+  ]
+ },
+ {
+  "q": "Homem de 44 anos trabalha há 6 anos numa reformadora informal de baterias automotivas. Procura a UPA com dor abdominal em cólica intensa, constipação, fraqueza para estender os punhos e anemia. O exame mostra linha azulada na margem gengival, e o esfregaço de sangue periférico, pontilhado basófilo nas hemácias. Qual o diagnóstico e a primeira medida?",
+  "alts": [
+   "Saturnismo, com quelação ambulatorial mantendo o trabalho",
+   "Abdome agudo obstrutivo, com laparotomia exploradora urgente",
+   "Benzenismo, com hemograma seriado e afastamento da exposição",
+   "Saturnismo, com afastamento imediato da exposição ao chumbo",
+   "Porfiria aguda intermitente, com infusão de hemina e glicose"
+  ],
+  "gab": 3,
+  "tema": "trabalho",
+  "sub": "Intoxicação por chumbo",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Lista de Doenças Relacionadas ao Trabalho (Portaria GM/MS 1.999/2023), 2023",
+  "coment": "A intoxicação crônica por chumbo é típica de reforma e reciclagem de baterias, fundição e soldas. O quadro é multissistêmico: cólica saturnina, que simula abdome agudo, neuropatia motora com punho caído, anemia com pontilhado basófilo, orla gengival de Burton, nefropatia, gota e hipertensão. O diagnóstico combina plumbemia e indicadores de efeito. A primeira medida é interromper a exposição; a quelação fica para casos graves, em serviço de toxicologia. Notifica-se a intoxicação exógena (semanal) e aciona-se a vigilância do local.",
+  "porAlt": [
+   "Quelar sem interromper a exposição não resolve, e a quelação é decisão de centro de referência.",
+   "A cólica saturnina simula abdome agudo, mas não tem obstrução mecânica a operar.",
+   "O benzeno afeta a medula, com citopenias, sem cólica, punho caído ou orla gengival.",
+   "Correta: cólica saturnina, punho caído, orla de Burton e pontilhado basófilo apontam o chumbo.",
+   "Porfiria causa dor abdominal e neuropatia, mas não orla gengival nem pontilhado basófilo."
+  ]
+ },
+ {
+  "q": "Agricultor de 29 anos é levado à emergência 1 hora após pulverizar inseticida organofosforado sem equipamento de proteção. Apresenta miose, sialorreia, broncorreia com sibilos, bradicardia de 48 bpm e fasciculações. Após descontaminação e suporte ventilatório, qual o critério para titular a dose de atropina?",
+  "alts": [
+   "Desaparecimento das fasciculações e da fraqueza muscular",
+   "Secagem das secreções brônquicas, com melhora da ausculta",
+   "Reversão da miose, até as pupilas ficarem midriáticas",
+   "Frequência cardíaca acima de 120 bpm de forma sustentada",
+   "Normalização da atividade da colinesterase plasmática"
+  ],
+  "gab": 1,
+  "tema": "trabalho",
+  "sub": "Organofosforado e atropina",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Diretrizes Brasileiras para Diagnóstico e Tratamento de Intoxicação por Agrotóxicos, 2018",
+  "coment": "Na intoxicação por inibidores da colinesterase, a síndrome colinérgica tem componentes muscarínicos (miose, sialorreia, broncorreia, broncoespasmo, bradicardia, vômitos), nicotínicos (fasciculações, fraqueza, paralisia) e centrais. Após descontaminação com proteção da equipe e suporte ventilatório, administra-se atropina em doses crescentes até secar as secreções brônquicas. A atropina não atua nos efeitos nicotínicos; no organofosforado associa-se a pralidoxima. Notifica-se a intoxicação exógena e investiga-se o processo de trabalho.",
+  "porAlt": [
+   "Fasciculações e fraqueza são nicotínicas, e a atropina não as reverte.",
+   "Correta: o alvo da atropina é a broncorreia, que ameaça a vida pela hipoxemia.",
+   "A pupila responde tarde e de forma variável, e buscá-la leva a doses excessivas.",
+   "Taquicardia pode decorrer de hipoxemia ou do componente nicotínico e não guia a dose.",
+   "A colinesterase confirma o diagnóstico, mas demora a se recuperar e não orienta a dose."
+  ]
+ },
+ {
+  "q": "Enfermeira de 36 anos, em UTI com plantões dobrados e metas de produtividade, relata exaustão, distanciamento afetivo dos pacientes e sensação de ineficácia profissional há 8 meses, sem critérios de episódio depressivo. Três colegas do setor estão afastadas por quadro semelhante. Considerando a Lista de Doenças Relacionadas ao Trabalho atualizada em 2023, qual a conduta?",
+  "alts": [
+   "Reconhecer burnout com provável nexo, notificar no SINAN e solicitar a CAT",
+   "Tratar como ajustamento pessoal, pois o burnout não consta da lista oficial",
+   "Reconhecer burnout, sem notificar, já que a lista abrange só agravos físicos",
+   "Encaminhar ao psiquiatra e esperar a perícia do INSS para discutir o nexo",
+   "Diagnosticar episódio depressivo e prescrever antidepressivo, sem afastar"
+  ],
+  "gab": 0,
+  "tema": "trabalho",
+  "sub": "Burnout na lista de 2023",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria GM/MS 1.999/2023 (Lista de Doenças Relacionadas ao Trabalho), 2023",
+  "coment": "A Portaria GM/MS 1.999/2023 atualizou a Lista de Doenças Relacionadas ao Trabalho, sem revisão desde 1999, e incluiu a síndrome de esgotamento profissional (burnout, Z73.0), ligada a fatores psicossociais como jornada e organização do trabalho. Exaustão, distanciamento e ineficácia em contexto de sobrecarga, com casos semelhantes no setor, sustentam o nexo pelos critérios da Resolução CFM 2.323/2022. Condutas: tratar e afastar se necessário, notificar transtorno mental relacionado ao trabalho (semanal), solicitar a CAT e acionar a vigilância.",
+  "porAlt": [
+   "Correta: burnout (Z73.0) entrou na lista de 2023, e o agrupamento no setor reforça o nexo.",
+   "A Portaria 1.999/2023 incluiu o burnout entre as doenças relacionadas ao trabalho.",
+   "Transtornos mentais relacionados ao trabalho são de notificação semanal no SINAN.",
+   "O médico assistente registra a história ocupacional e notifica; não precisa esperar a perícia.",
+   "Não há critérios de depressão, e afastar da exposição faz parte do tratamento."
+  ]
+ },
+ {
+  "q": "Médica de família atende, em um mês, quatro trabalhadores informais de uma pequena fábrica de calçados de fundo de quintal com cefaleia, tontura e parestesias em membros inferiores; todos usam cola à base de solvente em ambiente fechado. Nenhum tem carteira assinada. Qual conduta segue a Política Nacional de Saúde do Trabalhador e da Trabalhadora?",
+  "alts": [
+   "Orientar o uso de luvas e marcar retorno, sem envolver a vigilância em saúde",
+   "Emitir a CAT de cada um, que substitui a notificação dos casos no SINAN",
+   "Não notificar, pois a política e a CAT se restringem aos trabalhadores formais",
+   "Notificar no SINAN e acionar o CEREST para inspecionar o local de trabalho",
+   "Encaminhar todos ao CEREST, que passa a ser a porta de entrada do cuidado deles"
+  ],
+  "gab": 3,
+  "tema": "trabalho",
+  "sub": "Renast, CEREST e informais",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Política Nacional de Saúde do Trabalhador e da Trabalhadora (Portaria GM/MS 1.823/2012), 2012",
+  "coment": "A Política Nacional de Saúde do Trabalhador e da Trabalhadora (Portaria GM/MS 1.823/2012) abrange todos os trabalhadores, formais ou informais, com ênfase na vigilância e prioridade aos vínculos precários. O agrupamento de neuropatia em expostos a solventes de cola sugere intoxicação ocupacional, de notificação semanal no SINAN. A atenção primária acolhe e notifica, e o Centro de Referência em Saúde do Trabalhador, componente especializado da Renast, dá retaguarda técnica e investiga o ambiente. A CAT só se aplica ao segurado do INSS.",
+  "porAlt": [
+   "Agrupamento de casos com exposição comum pede investigação do processo de trabalho.",
+   "Sem vínculo com o INSS não há CAT, e ela nunca substitui a notificação no SINAN.",
+   "A política alcança todos os trabalhadores; a CAT é que é restrita aos segurados do INSS.",
+   "Correta: a política abrange informais, e o agrupamento exige notificação e vigilância do ambiente.",
+   "A atenção primária segue como porta de entrada; o CEREST dá retaguarda e faz vigilância."
+  ]
+ },
+ {
+  "q": "Dermatologista com registro de qualificação de especialista quer divulgar o consultório numa rede social. Planeja publicar o valor da consulta, fotos da equipe e dos equipamentos registrados na Anvisa e uma série de casos de antes e depois. Pela Resolução CFM 2.336/2023, o que é permitido?",
+  "alts": [
+   "Divulgar preço e equipe, e antes e depois educativo que inclua também resultados ruins",
+   "Divulgar preço, equipe e antes e depois, desde que identifique cada paciente",
+   "Divulgar preço e transmitir procedimentos ao vivo, com autorização do paciente",
+   "Divulgar preço e antes e depois só com os melhores resultados, sem editar fotos",
+   "Divulgar a equipe, mas nunca o preço da consulta nem imagens de antes e depois"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Publicidade médica nas redes",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Resolução CFM 2.336/2023 (publicidade e propaganda médicas)",
+  "coment": "A Resolução CFM 2.336/2023, em vigor desde março de 2024, substituiu a 1.974/2011 e passou a permitir que o médico divulgue valores de consulta, meios e formas de pagamento, imagens da equipe e de equipamentos registrados na Anvisa. O antes e depois é admitido com finalidade educativa, em conjunto que mostre indicações, evoluções satisfatórias e insatisfatórias e complicações, sem identificar o paciente e sem edição. Seguem vedados prometer resultado, sensacionalismo e transmissão de procedimentos ao público.",
+  "porAlt": [
+   "Correta: valores e equipe podem ser divulgados, e o antes e depois só com finalidade educativa e resultados variados.",
+   "O paciente não pode ser identificado nas imagens, que exigem sua autorização.",
+   "Transmitir consultas e procedimentos ao público em tempo real continua vedado.",
+   "Mostrar só bons resultados insinua garantia; o conjunto deve incluir evoluções insatisfatórias e complicações.",
+   "Desde 2024 a resolução permite informar valores de consulta e formas de pagamento."
+  ]
+ },
+ {
+  "q": "Mulher de 74 anos, com diabetes melito há 20 anos e hipertensão arterial, é internada por pé diabético infectado. Evolui com sepse de foco cutâneo e morre em choque séptico 9 dias depois. Como preencher a Parte I, da linha superior para a inferior, e a Parte II da declaração de óbito?",
+  "alts": [
+   "Parte I: choque séptico; pé diabético infectado; diabetes melito. Parte II: hipertensão",
+   "Parte I: choque séptico; diabetes melito. Parte II: pé diabético infectado e hipertensão",
+   "Parte I: choque séptico; pé diabético infectado; hipertensão. Parte II: diabetes melito",
+   "Parte I: diabetes melito; pé diabético infectado; choque séptico. Parte II: hipertensão",
+   "Parte I: parada cardiorrespiratória; choque séptico; pé diabético. Parte II: diabetes"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Causa básica na declaração de óbito",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Declaração de Óbito: manual de instruções para preenchimento, 2022",
+  "coment": "A causa básica é a doença que iniciou a cadeia de eventos que levou à morte, e é ela que entra nas estatísticas do SIM. Na Parte I, a linha superior recebe a causa terminal (choque séptico), as seguintes as intermediárias (pé diabético infectado) e a última linha preenchida a causa básica (diabetes melito), com o tempo aproximado de cada condição. Na Parte II entram condições que contribuíram sem pertencer à cadeia, como a hipertensão. Parada cardiorrespiratória não deve constar como causa (MS, 2022; Resolução CFM 1.779/2005).",
+  "porAlt": [
+   "Correta: a cadeia vai da causa terminal à causa básica, o diabetes, na última linha; a hipertensão contribuiu.",
+   "O pé diabético infectado é elo da cadeia e deve ficar na Parte I, não na Parte II.",
+   "A hipertensão não originou o pé diabético; quem iniciou a cadeia foi o diabetes.",
+   "A ordem está invertida: a causa básica fica na última linha preenchida, e a terminal na primeira.",
+   "Parada cardiorrespiratória é modo de morrer, não causa, e o diabetes pertence à cadeia."
+  ]
+ },
+ {
+  "q": "O delegado de polícia envia ofício a um hospital pedindo cópia integral do prontuário de um paciente internado por ferimento de arma branca, para instruir um inquérito. O paciente, lúcido, não autorizou a liberação. Pelo Código de Ética Médica, qual a conduta correta?",
+  "alts": [
+   "Entregar só o resumo de alta, que não está protegido pelo sigilo profissional",
+   "Não entregar e retirar do prontuário as folhas com dados sensíveis do caso",
+   "Não entregar; a cópia só sai por ordem judicial ou autorização escrita do paciente",
+   "Entregar a cópia ao delegado, desde que o diretor clínico assine o envio",
+   "Entregar a cópia, porque o inquérito policial configura dever legal do médico"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Prontuário e autoridade policial",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Resolução CFM 2.217/2018 (Código de Ética Médica), arts. 73 e 89",
+  "coment": "O sigilo só cede por motivo justo, dever legal ou consentimento escrito do paciente (art. 73 do Código de Ética Médica). Para o prontuário, o art. 89 permite a liberação de cópia por ordem judicial, para a defesa do próprio médico ou com autorização escrita do paciente; o CRM também pode requisitá-la (art. 90). Delegado, Ministério Público, empresa ou seguradora não têm acesso direto. Diante de ordem judicial, a cópia é encaminhada ao juízo requisitante. A guarda é do médico ou da instituição, e o conteúdo pertence ao paciente.",
+  "porAlt": [
+   "O sumário de alta faz parte do prontuário e está igualmente protegido pelo sigilo.",
+   "Suprimir folhas do prontuário é infração grave; o documento deve ser preservado íntegro.",
+   "Correta: o art. 89 restringe a liberação a ordem judicial, defesa do médico ou autorização escrita do paciente.",
+   "A assinatura do diretor não supre a falta de ordem judicial ou de autorização do paciente.",
+   "Requisição de delegado não equivale a ordem judicial nem cria dever legal de entrega."
+  ]
+ },
+ {
+  "q": "Homem de 30 anos foi agredido com uma barra de ferro. No exame de corpo de delito complementar, feito logo após o 30º dia, persiste incapacidade para as ocupações habituais por fratura de úmero ainda não consolidada, sem previsão de perda de função ou deformidade. Pelo art. 129 do Código Penal, como se classifica a lesão?",
+  "alts": [
+   "Leve, pois a fratura deve consolidar sem sequela funcional permanente",
+   "Gravíssima, pela debilidade permanente de membro superior presumida",
+   "Grave, pela deformidade permanente que toda fratura de úmero produz",
+   "Grave, pela incapacidade para as ocupações habituais por mais de 30 dias",
+   "Gravíssima, pela incapacidade para as ocupações habituais por mais de 30 dias"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Lesão corporal grave",
+  "cenario": "emg",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Código Penal (Decreto-Lei 2.848/1940), art. 129, texto compilado 2026",
+  "coment": "O art. 129 do Código Penal gradua a lesão pelo resultado. É grave (§ 1º) a que causa incapacidade para as ocupações habituais por mais de 30 dias, perigo de vida, debilidade permanente de membro, sentido ou função, ou aceleração de parto. É gravíssima (§ 2º) a que causa incapacidade permanente para o trabalho, enfermidade incurável, perda ou inutilização de membro, sentido ou função, deformidade permanente ou aborto. A incapacidade por mais de 30 dias é comprovada no exame complementar feito logo após o 30º dia.",
+  "porAlt": [
+   "A gravidade se mede pelo resultado, e a incapacidade além de 30 dias já a torna grave.",
+   "Debilidade permanente seria grave, e aqui não há previsão de sequela.",
+   "Deformidade permanente é gravíssima e não decorre necessariamente de fratura.",
+   "Correta: incapacidade para as ocupações habituais por mais de 30 dias está no § 1º, lesão grave.",
+   "Gravíssima exige incapacidade permanente para o trabalho, não a temporária acima de 30 dias."
+  ]
+ },
+ {
+  "q": "Criança de 5 anos, sem comorbidades, é atendida na unidade básica com febre baixa e exantema vesicular pruriginoso em diferentes estágios, em bom estado geral e sem indicação de internação. Pela lista nacional de notificação compulsória vigente em 2026, qual a conduta quanto à notificação?",
+  "alts": [
+   "Notificar semanalmente, por ser caso leve e sem internação",
+   "Notificar só se houver surto, com casos na mesma escola",
+   "Notificar de forma imediata às três esferas de gestão",
+   "Não notificar, pois só caso grave internado ou óbito é notificável",
+   "Notificar o caso de varicela de forma imediata à SES e à SMS"
+  ],
+  "gab": 4,
+  "tema": "vigilancia",
+  "sub": "Varicela na lista de 2026",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V, redação da Portaria GM/MS 11.211/2026",
+  "coment": "A lista nacional de notificação compulsória está no Anexo 1 do Anexo V da Portaria de Consolidação 4/2017. A redação dada pela Portaria GM/MS 11.211, de maio de 2026, ampliou a varicela de caso grave internado ou óbito para qualquer caso, com notificação imediata (até 24 horas) à secretaria estadual e à municipal. A mesma portaria incluiu Oropouche e parotidite, passou a usar o termo ESAVI e mudou a periodicidade do tétano. A notificação se faz na suspeita, sem esperar confirmação.",
+  "porAlt": [
+   "A periodicidade da varicela na lista vigente é imediata, não semanal.",
+   "A notificação é do caso individual, sem depender de agrupamento de casos.",
+   "A notificação imediata da varicela é para a secretaria estadual e a municipal, não para o Ministério.",
+   "Essa era a regra anterior, alterada em maio de 2026, que ampliou a notificação a qualquer caso.",
+   "Correta: desde a Portaria GM/MS 11.211/2026, qualquer caso de varicela é imediato para SES e SMS."
+  ]
+ },
+ {
+  "q": "A vigilância de um município construiu o canal endêmico da doença diarreica aguda pelo método da média e do desvio-padrão, com a série dos últimos 7 anos sem epidemia. Para a semana epidemiológica 14, a média é de 20 casos e o desvio-padrão, de 5. Nesta semana foram notificados 27 casos. Em que zona o município se encontra?",
+  "alts": [
+   "Zona de alerta, entre a média e o limite superior de 29,8 casos",
+   "Zona de segurança, entre o limite inferior e a média da semana",
+   "Zona epidêmica, acima do limite superior de 29,8 casos da semana",
+   "Zona epidêmica, acima do limite superior de 25 casos da semana",
+   "Zona de sucesso, abaixo do limite inferior de 10,2 casos da semana"
+  ],
+  "gab": 0,
+  "tema": "vigilancia",
+  "sub": "Canal endêmico",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "O canal endêmico mostra se a ocorrência está dentro do esperado para aquela semana. Pelo método da média e do desvio-padrão, a faixa esperada vai da média menos 1,96 desvio-padrão à média mais 1,96 desvio-padrão: 20 menos 9,8 = 10,2 e 20 + 9,8 = 29,8. Abaixo do limite inferior fica a zona de sucesso; entre ele e a média, a de segurança; entre a média e o limite superior, a de alerta; acima, a zona epidêmica. Com 27 casos, o município está em alerta: intensificar a vigilância, sem caracterizar epidemia.",
+  "porAlt": [
+   "Correta: o limite superior é 20 + 1,96 × 5 = 29,8, e 27 casos ficam entre a média e esse limite.",
+   "A zona de segurança fica abaixo da média, e 27 casos estão acima dela.",
+   "O limite está certo, mas 27 casos ainda não o ultrapassaram.",
+   "O limite usa 1,96 desvio-padrão, não um só; 20 + 5 = 25 subestima a faixa esperada.",
+   "A zona de sucesso fica abaixo do limite inferior, e 27 está acima da média."
+  ]
+ },
+ {
+  "q": "Um hospital de pequeno porte não identificou, em toda a semana epidemiológica, nenhum caso suspeito de doença ou agravo da lista nacional. A coordenadora do núcleo de vigilância pergunta se há algo a comunicar à secretaria municipal. Pela Portaria de Consolidação 4/2017, qual a resposta?",
+  "alts": [
+   "Não, a comunicação semanal cabe só às unidades sentinela de gripe",
+   "Sim, a notificação compulsória negativa, informando ausência de casos",
+   "Sim, a notificação de evento de saúde pública, de forma imediata",
+   "Não, a notificação é exigida apenas na suspeita de agravo da lista",
+   "Sim, a notificação de rotina ao SIM, com os óbitos ocorridos na semana"
+  ],
+  "gab": 1,
+  "tema": "vigilancia",
+  "sub": "Notificação compulsória negativa",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria de Consolidação GM/MS 4/2017, Anexo V, 2017",
+  "coment": "A Portaria de Consolidação GM/MS 4/2017, no Anexo V, define a notificação compulsória negativa como a comunicação semanal, feita pelo responsável pelo estabelecimento de saúde à autoridade de saúde, informando que na semana epidemiológica não foi identificada nenhuma doença, agravo ou evento da lista. Ela permite distinguir o silêncio por ausência de casos do silêncio por falha de vigilância. A mesma norma define vigilância sentinela e evento de saúde pública, conceitos diferentes e frequentemente confundidos.",
+  "porAlt": [
+   "A vigilância sentinela é outra estratégia; a notificação negativa vale para os estabelecimentos.",
+   "Correta: a notificação negativa comunica que nenhum agravo da lista foi identificado na semana.",
+   "Evento de saúde pública exige situação de ameaça, como surto ou agravo inusitado.",
+   "A ausência de casos também é comunicada, para provar que o serviço está vigilante.",
+   "O SIM é alimentado pela declaração de óbito, sem relação com a notificação negativa."
+  ]
+ },
+ {
+  "q": "Num pronto-socorro de Belo Horizonte, homem de 35 anos que voltou há 12 dias de garimpo no Pará tem febre com calafrios, e a gota espessa confirma Plasmodium vivax. No mesmo plantão são atendidos uma mordedura de cão, um caso de leptospirose, uma tentativa de suicídio e um caso de dengue sem sinais de alarme. Qual desses agravos é de notificação imediata ao Ministério da Saúde, à SES e à SMS?",
+  "alts": [
+   "A leptospirose com quadro febril e mialgia intensa",
+   "A tentativa de suicídio atendida durante o plantão",
+   "A mordedura de cão, potencial transmissor da raiva",
+   "A dengue sem sinais de alarme confirmada por NS1",
+   "A malária diagnosticada fora da região amazônica"
+  ],
+  "gab": 4,
+  "tema": "vigilancia",
+  "sub": "Malária fora da Amazônia",
+  "cenario": "emg",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V, redação da Portaria GM/MS 11.211/2026",
+  "coment": "A lista nacional define a quem a notificação imediata se destina. Malária diagnosticada fora da região amazônica é imediata para Ministério, SES e SMS, porque ocorre em área sem transmissão e pode ser reintroduzida; na Amazônia, é semanal. Acidente por animal potencialmente transmissor da raiva, leptospirose e tentativa de suicídio são imediatos apenas para a SMS, que executa a ação local. Caso de dengue é semanal, e o óbito por dengue é imediato para as três esferas (Portaria GM/MS 11.211/2026).",
+  "porAlt": [
+   "Leptospirose é de notificação imediata apenas para a secretaria municipal.",
+   "Tentativa de suicídio é imediata para a SMS, que aciona a rede de cuidado local.",
+   "Acidente por animal potencialmente transmissor da raiva é imediato só para a SMS.",
+   "Caso de dengue sem óbito é de notificação semanal; o óbito é que é imediato.",
+   "Correta: malária na região extra-amazônica é imediata para as três esferas, pelo risco de reintrodução."
+  ]
+ }
+]

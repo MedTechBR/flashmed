@@ -1,0 +1,1124 @@
+[
+ {
+  "pid": "s25001",
+  "q": "Paciente idosa, 68 anos, relata que há cerca de um mês não frequenta as atividades da universidade da terceira idade, pois não sente mais vontade de frequentar as classes. Desde o início do quadro, abandonou atividades que antes lhe davam prazer, como encontros com amigos e idas à academia. Também refere aumento de peso de aproximadamente 8 kg (peso anterior: 62 kg), sensação persistente de fadiga, dificuldade em dormir e, principalmente, dificuldade de memorização de fatos recentes. Familiares confirmam que ela está ficando mais “esquecida”. Considerando as medicações a seguir, a conduta farmacológica mais apropriada é",
+  "alts": [
+   "amitriptilina.",
+   "vortioxetina.",
+   "risperidona.",
+   "ácido valproico.",
+   "buspiorona."
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Depressão no idoso com queixa cognitiva",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "CANMAT 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults (Can J Psychiatry, 2024) e Critérios de Beers, 2023",
+  "coment": "O quadro é de episódio depressivo (anedonia, fadiga, insônia e ganho de peso há um mês) com queixa cognitiva proeminente, a chamada pseudodemência depressiva. No idoso, o antidepressivo deve evitar efeito anticolinérgico e sedação, que pioram memória e aumentam quedas. A vortioxetina, antidepressivo multimodal, tem ensaios mostrando melhora de atenção e velocidade de processamento independente da melhora do humor, inclusive em idosos, e pouco impacto no peso. O CANMAT 2023 a coloca na primeira linha e a destaca quando há disfunção cognitiva.",
+  "porAlt": [
+   "Tricíclico com forte ação anticolinérgica e anti-histamínica: piora memória, engorda, causa hipotensão e deve ser evitado em idosos (Beers 2023).",
+   "Correta: antidepressivo de primeira linha com benefício documentado nos sintomas cognitivos da depressão e boa tolerabilidade no idoso.",
+   "Antipsicótico sem indicação em depressão sem sintomas psicóticos; em idosos aumenta risco de AVC e mortalidade.",
+   "Estabilizador do humor usado na mania; não trata episódio depressivo unipolar e pode piorar cognição e peso.",
+   "Ansiolítico agonista 5-HT1A sem eficácia como monoterapia antidepressiva em episódio depressivo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 1
+  }
+ },
+ {
+  "pid": "s25002",
+  "q": "Homem de 35 anos procura atendimento por apresentar, há aproximadamente 6 meses, tremores nas mãos e lentidão nos movimentos. Ao exame físico, observa-se rigidez em roda dentada, tremor de repouso, bradicinesia nos membros superiores e marcha em pequenos passos, com distribuição simétrica dos sinais. Levantou-se a hipótese de parkinsonismo de origem medicamentosa. Entre as medicações listadas a seguir, assinale a mais frequentemente associada ao quadro descrito.",
+  "alts": [
+   "Fluvoxamina.",
+   "Pramipexol.",
+   "Olanzapina.",
+   "Levetiracetam.",
+   "Bromazepam."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Parkinsonismo induzido por antipsicótico",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Maudsley Prescribing Guidelines in Psychiatry, 14ª ed., 2021",
+  "coment": "Parkinsonismo de instalação subaguda e simétrico em adulto jovem sugere causa medicamentosa: o bloqueio de receptores D2 na via nigroestriatal reproduz rigidez, bradicinesia e tremor. Entre as opções, só a olanzapina é antagonista D2. Mesmo sendo atípica e com risco menor que o haloperidol, causa parkinsonismo de modo dose-dependente. A conduta é reduzir a dose ou trocar por antipsicótico de menor afinidade D2 (quetiapina, clozapina), com anticolinérgico como opção sintomática. Simetria e relação temporal com o fármaco ajudam a separar da doença de Parkinson.",
+  "porAlt": [
+   "ISRS pode raramente causar sintomas extrapiramidais, mas é causa bem menos frequente de parkinsonismo que um antagonista D2.",
+   "Agonista dopaminérgico usado para tratar Parkinson; não provoca parkinsonismo, e sim alucinações e descontrole de impulsos.",
+   "Correta: antipsicótico que bloqueia D2 na via nigroestriatal, mecanismo clássico do parkinsonismo medicamentoso.",
+   "Antiepiléptico sem ação dopaminérgica relevante; seus efeitos típicos são irritabilidade e alterações de humor.",
+   "Benzodiazepínico causa sedação e ataxia, não parkinsonismo com rigidez em roda denteada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 2
+  }
+ },
+ {
+  "pid": "s25003",
+  "q": "Indivíduo dá entrada no pronto-socorro com rebaixamento do nível de consciência, mutismo, rigidez muscular intensa temperatura axilar de 39,2 °C, frequência cardíaca de 132 bpm, frequência respiratória de 26 irpm e pressão arterial de 172 × 100 mmHg. Há cerca de uma semana, iniciou uso de haloperidol devido a episódio psicótico. Relata-se ainda uso ocasional de cannabis. Diante desse quadro clínico agudo a principal hipótese diagnóstica é",
+  "alts": [
+   "transtorno afetivo bipolar.",
+   "síndrome colinérgica.",
+   "esquizofrenia.",
+   "síndrome de Parkinson-plus.",
+   "síndrome neuroléptica maligna."
+  ],
+  "gab": 4,
+  "tema": "emergpsiq",
+  "sub": "Síndrome neuroléptica maligna",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022) e Maudsley Prescribing Guidelines in Psychiatry, 14ª ed., 2021",
+  "coment": "A síndrome neuroléptica maligna combina, após início ou aumento de antagonista dopaminérgico, rigidez muscular intensa (em cano de chumbo), hipertermia, alteração de consciência e instabilidade autonômica (taquicardia, taquipneia, hipertensão). O haloperidol iniciado há uma semana é o gatilho típico, já que a maioria dos casos surge nas primeiras duas semanas. CPK elevada e leucocitose reforçam o diagnóstico. Conduta: suspender o antipsicótico, suporte intensivo, resfriamento e hidratação, com benzodiazepínico, bromocriptina ou dantroleno nos casos moderados a graves. A cannabis não explica o quadro.",
+  "porAlt": [
+   "O transtorno de base não explica febre, rigidez e instabilidade autonômica surgidas logo após o antipsicótico.",
+   "Cursa com miose, sialorreia, broncorreia, bradicardia e fasciculações, sem rigidez em cano de chumbo nem hipertermia.",
+   "Pode haver mutismo catatônico, mas não febre de 39 °C com disautonomia uma semana após iniciar haloperidol.",
+   "Doença degenerativa de evolução crônica, sem febre nem instalação em dias.",
+   "Correta: rigidez, hipertermia, rebaixamento de consciência e disautonomia após antipsicótico de alta potência."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 3
+  }
+ },
+ {
+  "pid": "s25004",
+  "q": "Estudante de 17 anos, residente com os pais, sem histórico de doença neurológia, relata uso regular de tabaco e nega consumo ocasional de álcool. Nega também uso de substâncias ilícitas. Segundo seus pais, nos últimos 6 meses ele passou a apresentar comportamentos incomuns, como reclusão progressiva e desconfiança excessiva. Ao exame, afirma estar sendo seguido por seus colegas de turma e afirma que professores da escola conspiram contra ele. Diz ouvir vozes que proferem xingamentos contra ele. O diagnóstico mais provável e a conduta terapêutica mais indicada são, respectivamente,",
+  "alts": [
+   "depressão grave, iniciar venlafaxina.",
+   "esquizofrenia, iniciar quetiapina ou outro neuroléptico.",
+   "sem diagnóstico provável, iniciar psicoterapia familiar incluindo o paciente para elucidar as ideias de perseguição.",
+   "transtorno bipolar do humor, internar imediatamente e iniciar carbonato de lítio.",
+   "transtorno de ansiedade generalizada, iniciar alprazolam."
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Primeiro episódio de esquizofrenia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020, e DSM-5-TR (APA, 2022)",
+  "coment": "Seis meses de sintomas, com delírios persecutórios, alucinações auditivas depreciativas e retraimento social (sintoma negativo), sem drogas ilícitas e sem doença neurológica, preenchem o critério de duração mínima de 6 meses da esquizofrenia no DSM-5-TR. Em homens, o pico de início é no fim da adolescência. A diretriz da APA de 2020 recomenda antipsicótico já no primeiro episódio, com monitorização metabólica e motora; a quetiapina é uma das opções e a escolha segue o perfil de efeitos adversos. Antes, afastar causas orgânicas e uso de substâncias.",
+  "porAlt": [
+   "Não há humor deprimido predominante; delírios e alucinações persecutórias por 6 meses apontam psicose primária, e antidepressivo isolado não a trata.",
+   "Correta: delírios, alucinações e retraimento por 6 meses fecham esquizofrenia, e o tratamento é antipsicótico.",
+   "Há critérios para diagnóstico; adiar o antipsicótico prolonga a psicose não tratada, o que piora o prognóstico.",
+   "Não há episódio maníaco (euforia, aceleração, menor necessidade de sono) que justifique lítio.",
+   "Ansiedade generalizada não produz alucinações nem delírios, e alprazolam não trata psicose."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 4
+  }
+ },
+ {
+  "pid": "s25006",
+  "q": "Para pacientes que fazem uso contínuo de lítio para tratamento psiquiátrico, há exigência de que sejam feitos exames laboratoriais de rotina. Os exames laboratoriais que devem ser monitorados periodicamente para garantir a segurança e a eficácia do tratamento são:",
+  "alts": [
+   "vitamina B12, ácido fólico e vitamina D.",
+   "dosagem sérica do lítio, ureia, creatinina e TSH.",
+   "vitamina D e dosagem sérica do lítio.",
+   "amilase, lipase e sódio.",
+   "PCR, dosagem sérica do lítio, bilirrubinas."
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Monitorização laboratorial do lítio",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "CANMAT/ISBD Guidelines for the Management of Patients With Bipolar Disorder, 2018",
+  "coment": "O lítio tem janela terapêutica estreita (litemia de manutenção em torno de 0,6 a 1,0 mEq/L, colhida 12 horas após a última dose) e é excretado pelo rim. Por isso se monitoram a litemia, a função renal (ureia, creatinina, filtração glomerular), pelo risco de nefropatia crônica e diabetes insípido nefrogênico, e o TSH, pelo hipotireoidismo induzido. O CANMAT/ISBD 2018 recomenda dosagens a cada 3 a 6 meses no primeiro ano e depois a cada 6 a 12 meses, incluindo cálcio (hiperparatireoidismo) e, conforme o caso, peso e ECG.",
+  "porAlt": [
+   "Vitaminas não sofrem efeito relevante do lítio e não fazem parte da monitorização de segurança.",
+   "Correta: litemia pela janela estreita, função renal pela excreção e nefrotoxicidade e TSH pelo hipotireoidismo.",
+   "Omite função renal e tireoide, os principais órgãos afetados; vitamina D não é rotina.",
+   "Amilase e lipase vigiam pancreatite por valproato, não toxicidade do lítio; sódio isolado não basta.",
+   "PCR e bilirrubinas não avaliam o lítio, cuja toxicidade é renal e tireoidiana, não hepática."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 6
+  }
+ },
+ {
+  "pid": "s25007",
+  "q": "Homem de 76 anos foi levado à consulta pela esposa, que relata episódios recorrentes, durante a madrugada, enquanto o marido dorme, nos quais ele fica muito agitado, fala e chega a chutá-la, causando-lhe ferimentos. O diagnóstico mais provável para esse quadro é",
+  "alts": [
+   "síndrome das pernas inquietas.",
+   "doença de Alzheimer.",
+   "narcolepsia.",
+   "transtorno comportamental do sono REM.",
+   "terror noturno."
+  ],
+  "gab": 3,
+  "tema": "psiqinf",
+  "sub": "Transtorno comportamental do sono REM",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ICSD-3-TR, Classificação Internacional dos Distúrbios do Sono (AASM, 2023)",
+  "coment": "Homem idoso que, dormindo, fala, se agita e agride o parceiro está encenando sonhos por perda da atonia muscular normal do sono REM. Os episódios ocorrem na segunda metade da noite, quando o REM predomina, e o paciente costuma lembrar do sonho se despertado. A confirmação é por polissonografia com REM sem atonia. A importância clínica é que a forma idiopática é marcador prodrômico de sinucleinopatias (doença de Parkinson, demência com corpos de Lewy, atrofia de múltiplos sistemas). Conduta: segurança do ambiente, melatonina ou clonazepam.",
+  "porAlt": [
+   "Desconforto nas pernas com urgência de movê-las em repouso, antes de dormir, sem encenação de sonhos.",
+   "Pode alterar o ritmo sono-vigília, mas não explica luta durante o sono, e não há déficit cognitivo descrito.",
+   "Cursa com sonolência diurna excessiva, cataplexia e alucinações hipnagógicas, não com agressividade durante o sono.",
+   "Correta: encenação de sonhos por perda da atonia do REM, típica de homem idoso.",
+   "Parassonia do sono NREM profundo, típica da infância, no primeiro terço da noite e com amnésia do episódio."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 7
+  }
+ },
+ {
+  "pid": "s25008",
+  "q": "O desenvolvimento da técnica lobotomia deu o prêmio Nobel a um médico português. O procedimento consistia em seccionar conexões do córtex pré-frontal com o restante do cérebro. Assinale a opção que indica uma possível consequência desse procedimento.",
+  "alts": [
+   "Astereognosia.",
+   "Disdiadococinesia.",
+   "Hemiparestesia.",
+   "Alucinações auditivas.",
+   "Apatia e abulia"
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Lobotomia e síndrome pré-frontal",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2021",
+  "coment": "Egas Moniz recebeu o Nobel de Medicina de 1949 pela leucotomia pré-frontal. Ao desconectar o córtex pré-frontal de suas vias com tálamo e sistema límbico, o procedimento reduzia a agitação à custa de uma síndrome pré-frontal: apatia, abulia (perda de iniciativa e vontade), embotamento afetivo, desinibição e prejuízo das funções executivas. Por esses efeitos e pela chegada da clorpromazina nos anos 1950, foi abandonado. Os outros déficits listados dependem de outras regiões: córtex parietal, cerebelo e vias sensitivas.",
+  "porAlt": [
+   "Incapacidade de reconhecer objetos pelo tato, ligada ao córtex parietal, não à desconexão pré-frontal.",
+   "Sinal cerebelar de dificuldade em movimentos alternados rápidos, sem relação com o córtex pré-frontal.",
+   "Alteração sensitiva de um hemicorpo por lesão da via sensitiva ou do córtex parietal, não da conexão pré-frontal.",
+   "Sintoma positivo de psicose; a lobotomia era usada para reduzir agitação e não tinha alucinações como efeito típico.",
+   "Correta: a desconexão pré-frontal produz síndrome apático-abúlica, com perda de iniciativa e embotamento afetivo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 8
+  }
+ },
+ {
+  "pid": "s25009",
+  "q": "Muitas vezes, o médico psiquiatra necessita realizar internação compulsória. A respeito da internação psiquiátrica involuntária, assinale a afirmativa correta.",
+  "alts": [
+   "Não necessita do consentimento do paciente e deve ser informada ao Ministério Público em até 72 h.",
+   "Pode ser solicitada por familiares e tem duração máxima de sete dias.",
+   "Não é permitida.",
+   "Se dá com o consentimento do paciente.",
+   "Só pode ocorrer mediante a determinação prévia da justiça."
+  ],
+  "gab": 0,
+  "tema": "raps",
+  "sub": "Internação psiquiátrica involuntária",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 10.216/2001 (Reforma Psiquiátrica) e Lei 13.840/2019",
+  "coment": "A Lei 10.216/2001 define três tipos de internação: voluntária (com consentimento), involuntária (sem consentimento, a pedido de terceiro) e compulsória (determinada pela Justiça). A involuntária exige laudo médico circunstanciado e deve ser comunicada ao Ministério Público Estadual em até 72 horas pelo responsável técnico do estabelecimento, o mesmo valendo para a alta (art. 8º, § 1º). Termina por pedido da família ou do responsável legal ou por decisão do especialista. Para dependência química, a Lei 13.840/2019 fixou prazo máximo de 90 dias, não sete.",
+  "porAlt": [
+   "Correta: a involuntária dispensa consentimento e deve ser comunicada ao Ministério Público em até 72 horas.",
+   "Pode ser pedida por familiar, mas a lei não fixa sete dias; o teto de 90 dias existe só para dependência química (Lei 13.840/2019).",
+   "É prevista em lei, com laudo médico, quando os recursos extra-hospitalares forem insuficientes.",
+   "Internação com consentimento do paciente é a voluntária, não a involuntária.",
+   "Determinação judicial define a internação compulsória; a involuntária dispensa ordem judicial."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 9
+  }
+ },
+ {
+  "pid": "s25010",
+  "q": "No tratamento psiquiátrico, há sempre necessidade de se estabelecer uma aliança terapêutica. Assinale a definição correta de aliança terapêutica.",
+  "alts": [
+   "Reações do terapeuta em relação ao comportamento do paciente.",
+   "Atitudes do paciente que dificultem o prosseguimento da terapia.",
+   "Associação do terapeuta com a família do paciente, excluindo o paciente do processo devido ao seu estado mórbido.",
+   "Sentimentos do paciente relativos a figuras do passado que são transferidas ao terapeuta.",
+   "Vínculo entre paciente e terapeuta, incluindo metas e objetivos em prol do processo psicoterapêutico."
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Aliança terapêutica",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2021 (conceito de aliança de Bordin, 1979)",
+  "coment": "Aliança terapêutica é o vínculo colaborativo entre paciente e terapeuta. No modelo de Bordin (1979) tem três componentes: acordo sobre as metas, acordo sobre as tarefas para alcançá-las e o laço afetivo de confiança. É um dos melhores preditores de resultado em qualquer psicoterapia e também da adesão ao tratamento farmacológico. Deve ser diferenciada da transferência (sentimentos ligados a figuras do passado deslocados ao terapeuta), da contratransferência (reações do terapeuta ao paciente) e da resistência (forças que dificultam o processo).",
+  "porAlt": [
+   "Descreve a contratransferência, as reações emocionais do terapeuta diante do paciente.",
+   "Descreve a resistência, atitudes do paciente que dificultam o andamento da terapia.",
+   "Excluir o paciente contraria a própria ideia de aliança, que é um vínculo construído com ele.",
+   "Descreve a transferência, deslocamento ao terapeuta de sentimentos vividos com figuras do passado.",
+   "Correta: vínculo colaborativo com acordo de metas e tarefas e laço de confiança entre paciente e terapeuta."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 10
+  }
+ },
+ {
+  "pid": "s25011",
+  "q": "Cada vez os polimorfismos genéticos são estudados como base para o tratamento. Assinale a opção que adequadamente apresenta a razão pela qual os polimorfismos genéticos do sistema CYP450 podem influenciar a resposta terapêutica a fármacos psiquiátricos.",
+  "alts": [
+   "Disrupção da barreira heamtoencefálica.",
+   "Modificação estrutural dos neurotransmissores.",
+   "Interferência na metabolização hepática.",
+   "Redução da recaptação pré-sinaptica.",
+   "Aumento da excreção renal."
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Polimorfismos do CYP450",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "CPIC Guideline for CYP2D6, CYP2C19, CYP2B6, SLC6A4 and HTR2A Genotypes and Serotonin Reuptake Inhibitor Antidepressant Dosing (Bousman et al., 2023)",
+  "coment": "As enzimas do citocromo P450 hepático, sobretudo CYP2D6 e CYP2C19, metabolizam a maioria dos antidepressivos e antipsicóticos. Variantes genéticas definem metabolizador lento, intermediário, normal ou ultrarrápido. O lento acumula o fármaco e tem mais efeitos adversos; o ultrarrápido tem níveis baixos e pode não responder. A diretriz do CPIC de 2023 usa esses fenótipos para ajustar dose ou trocar o ISRS, por exemplo evitando citalopram e escitalopram no ultrarrápido do CYP2C19. O efeito é farmacocinético, não sobre o neurotransmissor.",
+  "porAlt": [
+   "Polimorfismos do CYP450 não alteram a barreira hematoencefálica, que depende de transportadores como a glicoproteína P.",
+   "Enzimas CYP metabolizam fármacos e não modificam a estrutura dos neurotransmissores.",
+   "Correta: variantes das enzimas hepáticas mudam a velocidade de metabolização e, com isso, o nível sérico do fármaco.",
+   "A recaptação pré-sináptica depende de transportadores como o SERT, alvo farmacodinâmico, não das enzimas CYP.",
+   "Excreção renal não é função do CYP450, que atua na metabolização hepática."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 11
+  }
+ },
+ {
+  "pid": "s25012",
+  "q": "A farmacogenômica tem sido frequentemente utilizada pelos médicos psiquiatras. O principal foco da farmacogenética é",
+  "alts": [
+   "analisar o modo como variáveis genéticas podem influenciar a resposta a determinados fármacos.",
+   "a edição genética para realizar modificações precisas no DNA.",
+   "aumentar a acurácia dos diagnósticos dos transtornos mentais.",
+   "a cura de doenças genéticas que cursam com transtornos mentais.",
+   "o uso de vetores virais para a correção de genes patológicos."
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Farmacogenética em psiquiatria",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "CPIC Guideline for CYP2D6, CYP2C19, CYP2B6, SLC6A4 and HTR2A Genotypes and Serotonin Reuptake Inhibitor Antidepressant Dosing (Bousman et al., 2023)",
+  "coment": "Farmacogenética estuda como variantes genéticas individuais alteram a resposta a fármacos: na farmacocinética (CYP2D6, CYP2C19), na farmacodinâmica (receptores e transportadores) e no risco de reações graves, como o HLA-B*15:02 e a síndrome de Stevens-Johnson com carbamazepina. O objetivo é escolher fármaco e dose com mais chance de eficácia e menos efeito adverso. Não é terapia gênica nem método diagnóstico de transtorno mental. Diretrizes como a do CPIC de 2023 para ISRS orientam o uso clínico dos genótipos.",
+  "porAlt": [
+   "Correta: a farmacogenética analisa como variantes genéticas modificam eficácia e toxicidade dos fármacos.",
+   "Edição genética, como CRISPR, é outra área; a farmacogenética usa o genótipo para orientar a prescrição.",
+   "O diagnóstico psiquiátrico segue clínico; testes farmacogenéticos não diagnosticam transtornos mentais.",
+   "Curar doença genética é objetivo da terapia gênica, não da farmacogenética.",
+   "Vetores virais são ferramenta de terapia gênica, sem relação com a escolha de psicofármacos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 12
+  }
+ },
+ {
+  "pid": "s25013",
+  "q": "Um paciente tem medo de conhecer pessoas novas e de falar em público. Tem ainda um injustificado receio de ser julgado negativamente. Dentre as opções listadas a seguir, assinale aquela que melhor descreve a doença desse paciente.",
+  "alts": [
+   "Transtorno depressivo unipolar.",
+   "Transtorno afetivo bipolar.",
+   "Transtorno obsessivo compulsivo.",
+   "Transtorno de fobia social.",
+   "Transtorno de adaptação."
+  ],
+  "gab": 3,
+  "tema": "humor",
+  "sub": "Transtorno de ansiedade social",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (APA, 2022)",
+  "coment": "Medo acentuado de situações sociais em que a pessoa pode ser observada ou avaliada (conhecer pessoas, falar em público), com temor de ser julgada negativamente ou humilhada, é o núcleo do transtorno de ansiedade social (fobia social) no DSM-5-TR. As situações são evitadas ou suportadas com intenso sofrimento, o medo é desproporcional e dura pelo menos 6 meses. A primeira linha de tratamento é terapia cognitivo-comportamental e ISRS ou venlafaxina. Nenhum dos outros diagnósticos listados tem o medo de avaliação social como eixo.",
+  "porAlt": [
+   "A depressão exige humor deprimido ou anedonia; medo de avaliação social não é seu eixo.",
+   "Exige episódios de mania ou hipomania, ausentes no relato.",
+   "O TOC envolve obsessões e compulsões, não medo de julgamento em situações sociais.",
+   "Correta: medo de situações sociais e de avaliação negativa define a fobia social.",
+   "Transtorno de adaptação surge após estressor identificável e cede em até 6 meses; não há estressor descrito."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 13
+  }
+ },
+ {
+  "pid": "s25014",
+  "q": "Pacientes com doença de Alzheimer podem apresentar quadros de psicose e agitação, sintomas que frequentemente exigem intervenção medicamentosa. Apesar do uso recorrente de antipsicóticos para controle dessas manifestações, poucos desses fármacos contam com aprovação específica do FDA (Food and Drug Administration) para esse objetivo. Das opções a seguir, assinale o antipsicótico formalmente aprovado pelo FDA para tratar sintomas psicóticos em indivíduos com Alzheimer.",
+  "alts": [
+   "Quetiapina.",
+   "Risperidona.",
+   "Paroxetina",
+   "Olanzapina.",
+   "Brexpiprazol."
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Antipsicótico na agitação do Alzheimer",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "FDA, aprovação do brexpiprazol (Rexulti) para agitação associada à demência da doença de Alzheimer, 2023",
+  "coment": "Em maio de 2023 o FDA aprovou o brexpiprazol, agonista parcial D2 e 5-HT1A, para agitação associada à demência da doença de Alzheimer, a primeira aprovação de um antipsicótico nesse contexto. A rigor, a indicação é agitação e não psicose: nenhum antipsicótico tem aprovação do FDA para psicose da doença de Alzheimer. Ainda assim, é a única opção da lista com aprovação formal para sintomas comportamentais da doença. Quetiapina, risperidona e olanzapina são usadas fora da bula, e todos os antipsicóticos têm alerta de aumento de mortalidade em idosos com demência. Medidas não farmacológicas vêm antes.",
+  "porAlt": [
+   "Muito usada fora da bula na demência, mas sem aprovação do FDA para psicose ou agitação na doença de Alzheimer.",
+   "Aprovada em alguns países europeus para agressividade persistente na demência por curto prazo, mas não pelo FDA.",
+   "É um ISRS, não um antipsicótico, e seu efeito anticolinérgico a torna inadequada em idosos com demência.",
+   "Uso fora da bula, com eficácia modesta e efeitos anticolinérgico e metabólico desfavoráveis no idoso.",
+   "Correta: primeiro antipsicótico aprovado pelo FDA (2023) para sintomas comportamentais da doença de Alzheimer, especificamente a agitação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 14
+  }
+ },
+ {
+  "pid": "s25017",
+  "q": "Um paciente de sexo masculino, 38 anos, procura ajuda psiquiátrica e relata um aumento significativo no comportamento compulsivo relacionado aos jogos, que se intensificou após o início de tratamento para uma sensação desconfortável nas pernas, em repouso e à noite. Após a introdução do tratamento adequado para as pernas inquietas, a esposa, presente na consulta de retorno, comenta que o paciente, que era conhecido como “viciado em jogos de azar”, piorou e continuou a jogar compulsivamente, agora sem se importar com as consequências. Com base nesse quadro, indique assinale a afirmativa mais provavelmente correta.",
+  "alts": [
+   "O paciente foi diagnosticado com síndrome das pernas inquietas e iniciou tratamento com naltrexona, agravando a dificuldade no controle de impulsos.",
+   "O paciente foi diagnosticado com transtorno de déficit de atenção e hiperatividade, iniciando o uso de metilfenidato, o que resultou em piora no controle de impulsos.",
+   "O paciente foi diagnosticado com acatisia e passou a usar clonazepam, piorando o controle dos impulsos.",
+   "O paciente foi diagnosticado com síndrome das pernas inquietas e começou tratamento com pramipexol, o que piorou o quadro de controle dos impulsos.",
+   "O paciente foi diagnosticado com acatisia e iniciou tratamento com clozapina, o que agravou o controle dos impulsos."
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Jogo compulsivo por agonista dopaminérgico",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "AASM Clinical Practice Guideline for the Treatment of Restless Legs Syndrome, 2024",
+  "coment": "Desconforto nas pernas em repouso e à noite, aliviado pelo movimento, é síndrome das pernas inquietas, tratada classicamente com agonistas dopaminérgicos (pramipexol, ropinirol, rotigotina). Esses fármacos estimulam receptores D3 do estriado ventral, circuito de recompensa, e causam transtornos do controle de impulsos: jogo patológico, compras, hipersexualidade e compulsão alimentar. O risco é maior em quem já tinha tendência ao jogo, como este paciente. A conduta é reduzir ou suspender o agonista. A diretriz da AASM de 2024 passou a preferir ferro e gabapentinoides pelo risco de aumentação e de descontrole de impulsos.",
+  "porAlt": [
+   "Naltrexona não trata pernas inquietas e, como antagonista opioide, é usada para reduzir o jogo patológico, não para piorá-lo.",
+   "O quadro descrito é de pernas inquietas, não de TDAH, e metilfenidato não trata desconforto nas pernas.",
+   "Acatisia é inquietação causada por antipsicótico, ausente na história, e clonazepam não se associa a jogo compulsivo.",
+   "Correta: pernas inquietas tratadas com pramipexol, agonista dopaminérgico que desencadeia descontrole de impulsos.",
+   "Clozapina não trata acatisia nem pernas inquietas e não está associada a jogo compulsivo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 17
+  }
+ },
+ {
+  "pid": "s25018",
+  "q": "Uma paciente de 35 anos foi diagnosticada com transtorno de compulsão alimentar periódica, e seu psiquiatra prescreveu offlabel o uso de topiramato, com aumento gradual da dose a cada semana. Após o primeiro mês de tratamento, ela começou a apresentar dor ocular intensa, cefaleia, náuseas, vômitos, turvação visual com halos coloridos ao redor das luzes, além de midríase e vermelhidão ocular ao exame físico. Considerando esse quadro clínico, a melhor hipótese diagnóstica é",
+  "alts": [
+   "crise de enxaqueca.",
+   "hemorragia subaracnóidea por rompimento de aneurisma.",
+   "hipertensão intracraniana idiopática.",
+   "histeria.",
+   "crise aguda de glaucoma de ângulo fechado."
+  ],
+  "gab": 4,
+  "tema": "psiqinf",
+  "sub": "Glaucoma agudo induzido por topiramato",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "Stahl's Essential Psychopharmacology: Prescriber's Guide, 7ª ed., 2020",
+  "coment": "O topiramato, usado fora da bula na compulsão alimentar, pode causar efusão ciliocoroidal com deslocamento anterior do cristalino e fechamento angular secundário, em geral no primeiro mês ou após aumento de dose, muitas vezes bilateral. O quadro é de glaucoma agudo: dor ocular intensa, cefaleia, náuseas e vômitos, visão turva com halos coloridos, olho vermelho e pupila em média midríase pouco reativa. Conduta: suspender o topiramato e encaminhar com urgência ao oftalmologista; nesse mecanismo a iridotomia não resolve, e usam-se cicloplégico e hipotensores oculares.",
+  "porAlt": [
+   "Pode ter náuseas e fotofobia, mas não causa olho vermelho, midríase e halos coloridos; o topiramato até previne enxaqueca.",
+   "Cefaleia súbita em trovoada com rigidez de nuca, sem olho vermelho nem halos coloridos.",
+   "Cefaleia com papiledema e perda visual transitória, sem olho vermelho ou midríase; o topiramato é até usado no tratamento.",
+   "Sinais objetivos como midríase e hiperemia ocular afastam diagnóstico funcional.",
+   "Correta: dor ocular, halos, midríase e olho vermelho no primeiro mês de topiramato configuram glaucoma agudo de ângulo fechado."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 18
+  }
+ },
+ {
+  "pid": "s25019",
+  "q": "Uma mulher de 74 anos, recentemente diagnosticada com fibromialgia, busca orientação psiquiátrica devido a sintomas que começaram há 2 meses. Ela apresenta quadro de tristeza, anedonia, dificuldade de concentração, aumento do apetite e sentimento de culpa inadequados na maior parte dos dias. Com base nos sintomas descritos, assinale a melhor escolha medicamentosa para tratar essa paciente.",
+  "alts": [
+   "Amitriptilina.",
+   "Bupropiona.",
+   "Sertralina.",
+   "Buspirona.",
+   "Duloxetina."
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Depressão no idoso com fibromialgia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "CANMAT 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults (Can J Psychiatry, 2024) e EULAR Revised Recommendations for the Management of Fibromyalgia, 2017",
+  "coment": "A paciente tem episódio depressivo (tristeza, anedonia, culpa, alteração do apetite e da concentração há 2 meses) somado a fibromialgia. A duloxetina, inibidor da recaptação de serotonina e noradrenalina, é antidepressivo de primeira linha e tem evidência e aprovação para a dor da fibromialgia, tratando as duas condições com um só fármaco; a ação noradrenérgica nas vias descendentes inibitórias da dor explica o benefício. No idoso é preferível à amitriptilina, anticolinérgica e associada a hipotensão e quedas (Beers 2023). Vigiar hiponatremia e pressão arterial.",
+  "porAlt": [
+   "Útil em dose baixa na fibromialgia, mas em dose antidepressiva aos 74 anos traz efeito anticolinérgico, hipotensão e quedas (Beers 2023).",
+   "Antidepressivo sem efeito analgésico na fibromialgia, trataria apenas uma das condições.",
+   "Trata a depressão com segurança no idoso, mas ISRS tem pouco efeito sobre a dor da fibromialgia em comparação ao IRSN.",
+   "Ansiolítico sem eficácia como antidepressivo isolado e sem ação sobre a dor.",
+   "Correta: IRSN que trata depressão e dor da fibromialgia, com perfil seguro no idoso."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 19
+  }
+ },
+ {
+  "pid": "s25021",
+  "q": "Um homem de 34 anos foi conduzido à consulta psiquiátrica pela esposa porque apresenta interpretações errôneas sobre acontecimentos cotidianos, que começaram há aproximadamente 3 anos. Ele descreve que, durante conversas informais, percebe insinuações de que seus colegas de trabalho estariam conspirando contra ele, interpretando comentários neutros como ameaças disfarçadas. Além disso, está convencido de que sua esposa está tendo um caso, com base em pequenos comportamentos que, na realidade, não evidenciam concretamente uma traição. Embora mantenha sua rotina diária sem grandes prejuízos, sem alucinações, desorganização do pensamento ou variações bruscas de humor, essa crença fixa tem gerado sérios conflitos familiares. O paciente nega o uso de substâncias psicoativas ou de álcool. Considerando esse quadro clínico, assinale o diagnóstico mais adequado.",
+  "alts": [
+   "Transtorno obsessivo compulsivo.",
+   "Transtorno neurocognitivo maior.",
+   "Esquizofrenia delirante.",
+   "Transtorno delirante.",
+   "Transtorno bipolar do humor."
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Transtorno delirante",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022)",
+  "coment": "Delírios não bizarros, persecutório no trabalho e de ciúme em relação à esposa, há 3 anos, sem alucinações proeminentes, sem desorganização, sem sintomas negativos e com funcionamento preservado fora do tema delirante configuram transtorno delirante no DSM-5-TR: delírio por pelo menos 1 mês sem preencher o critério A de esquizofrenia. Aqui o subtipo é misto (persecutório e ciumento). A ausência de substâncias e de declínio cognitivo reforça o diagnóstico. O tratamento é antipsicótico com abordagem psicoterápica, e a adesão costuma ser difícil pela falta de crítica.",
+  "porAlt": [
+   "Obsessões são reconhecidas como próprias e indesejadas, com crítica preservada, e não são convicções delirantes.",
+   "Não há declínio cognitivo nem perda funcional; a rotina está preservada.",
+   "Exigiria dois sintomas do critério A, como alucinações, desorganização ou sintomas negativos, ausentes no caso.",
+   "Correta: delírios não bizarros persistentes com funcionamento preservado e sem outros sintomas psicóticos.",
+   "Não há episódios de mania ou depressão; o próprio texto afasta variações de humor."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 21
+  }
+ },
+ {
+  "pid": "s25024",
+  "q": "A esquizofrenia envolve uma combinação complexa de sinais clínicos. Assinale a opção que exemplifica, nessa ordem, um sintoma negativo e um sintoma positivo.",
+  "alts": [
+   "Afasia e inteligência superiores à média.",
+   "Embotamento afetivo e alucinações.",
+   "Delírios e alucinações.",
+   "Agnosia e perda da timidez.",
+   "Síndrome disexecutiva e delírios."
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Sintomas positivos e negativos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "DSM-5-TR (APA, 2022) e APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020",
+  "coment": "Sintomas positivos são acréscimos ao funcionamento normal: delírios, alucinações, pensamento e comportamento desorganizados. Sintomas negativos são perdas: embotamento afetivo, alogia, avolição, anedonia e isolamento social. Na ordem pedida, embotamento afetivo (negativo) e alucinações (positivo). Os negativos respondem pouco aos antipsicóticos e pesam mais no prognóstico funcional, enquanto os positivos respondem bem ao bloqueio D2 na via mesolímbica.",
+  "porAlt": [
+   "Afasia é déficit de linguagem por lesão cortical, e inteligência acima da média não é sintoma da esquizofrenia.",
+   "Correta: embotamento afetivo é sintoma negativo e alucinação é sintoma positivo, na ordem pedida.",
+   "Delírios e alucinações são ambos sintomas positivos.",
+   "Agnosia é déficit neurológico cortical, e perda da timidez não é sintoma positivo clássico.",
+   "Síndrome disexecutiva pertence ao domínio cognitivo, não aos sintomas negativos clássicos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 24
+  }
+ },
+ {
+  "pid": "s25025",
+  "q": "Paciente masculino, 35 anos, previamente saudável, deu entrada no pronto-socorro relatando sintomas como insônia, irritabilidade, sudorese intensa, taquicardia e pesadelos. O quadro iniciou após um acidente automobilístico traumático ocorrido há 9 dias, que provocou lembranças intrusivas e comportamento evitativo em relação a carros e direção. Diante do contexto clínico e temporal, o diagnóstico que representa melhor o estado atual do paciente é o transtorno",
+  "alts": [
+   "de apego reativo.",
+   "dissociativo.",
+   "de estresse agudo.",
+   "do pânico.",
+   "de estresse pós-traumático."
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Transtorno de estresse agudo",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022)",
+  "coment": "O DSM-5-TR define transtorno de estresse agudo quando, após evento traumático, surgem sintomas de intrusão, humor negativo, dissociação, evitação e excitabilidade (pelo menos 9 de 14) com duração de 3 dias a 1 mês. Com 9 dias de evolução, o paciente tem lembranças intrusivas, pesadelos, evitação de carros, insônia, irritabilidade e hiperativação autonômica. O TEPT só pode ser diagnosticado quando os sintomas passam de 1 mês. A abordagem inicial é psicoeducação e terapia cognitivo-comportamental focada no trauma, evitando benzodiazepínico.",
+  "porAlt": [
+   "Transtorno da infância ligado a negligência grave nos cuidados, não a trauma recente em adulto.",
+   "Predominam intrusão, evitação e hiperexcitação; dissociação isolada não explica o quadro.",
+   "Correta: sintomas pós-traumáticos com 9 dias de evolução, dentro da janela de 3 dias a 1 mês.",
+   "Crises inesperadas e recorrentes, sem gatilho traumático, com medo de novas crises; aqui há trauma e evitação específica.",
+   "Exige sintomas por mais de 1 mês; com 9 dias ainda é estresse agudo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 25
+  }
+ },
+ {
+  "pid": "s25026",
+  "q": "O transtorno obsessivo compulsivo envolve pensamentos e imagens angustiantes que invadem a mente – e compulsões, que são ações repetitivas realizadas para aliviar esse sofrimento. Dentre as opções farmacológicas a seguir, assinale a que representa a abordagem terapêutica inicial mais recomendada para esse quadro clínico.",
+  "alts": [
+   "Inibidores da acetilcolinesterase.",
+   "Inibidores seletivos da recaptação da serotonina.",
+   "Estabilizadores do humor.",
+   "Inibidores seletivos da recaptação de dopamina e noradrenalina.",
+   "Benzodiazepínicos."
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Tratamento farmacológico do TOC",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "APA Practice Guideline for the Treatment of Patients With Obsessive-Compulsive Disorder, 2007 (Guideline Watch, 2013)",
+  "coment": "A primeira linha do TOC é terapia cognitivo-comportamental com exposição e prevenção de resposta e/ou ISRS (fluoxetina, sertralina, fluvoxamina, paroxetina, escitalopram). No TOC as doses costumam ser mais altas que na depressão e a resposta é mais lenta, avaliada após 8 a 12 semanas em dose adequada. A clomipramina, tricíclico serotoninérgico, é alternativa menos tolerada. Na resposta parcial, a potencialização com mais evidência é antipsicótico em dose baixa (risperidona, aripiprazol).",
+  "porAlt": [
+   "Usados na doença de Alzheimer, sem papel no TOC.",
+   "Correta: ISRS em dose adequada, junto com terapia cognitivo-comportamental, é a primeira linha no TOC.",
+   "Indicados no transtorno bipolar, sem eficácia como primeira linha no TOC.",
+   "Sem ação serotoninérgica, como a bupropiona, não têm eficácia demonstrada no TOC.",
+   "Não tratam obsessões nem compulsões e trazem risco de dependência."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 26
+  }
+ },
+ {
+  "pid": "s25027",
+  "q": "Paciente do sexo feminino, 20 anos, é acompanhada por sua mãe em consulta psiquiátrica. A mãe relata que a filha busca constantemente atenção e se sente incomodada quando não recebe a atenção que acredita merecer. Além disso, é facilmente influenciada pelas opiniões e pelos comportamentos das pessoas ao seu redor, mudando suas atitudes conforme o grupo no qual está inserida. Durante a consulta, o psiquiatra observou que seu discurso é teatral e superficial e apresenta oscilações rápidas. Diante desse quadro clínico, o diagnóstico mais provável é o transtorno",
+  "alts": [
+   "de personalidade histriônica.",
+   "do déficit de atenção e hiperatividade.",
+   "do afeto.",
+   "de personalidade narcisista.",
+   "de personalidade antissocial."
+  ],
+  "gab": 0,
+  "tema": "psiqinf",
+  "sub": "Transtorno de personalidade histriônica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022)",
+  "coment": "O DSM-5-TR descreve a personalidade histriônica como padrão global de emotividade excessiva e busca de atenção: desconforto quando não é o centro das atenções, emoções rasas que mudam rapidamente, discurso impressionista e pobre em detalhes, teatralidade, sugestionabilidade e uso da aparência para chamar atenção. A paciente reúne busca de atenção, facilidade em ser influenciada pelo grupo, discurso teatral e superficial e oscilações rápidas, que são os traços centrais. Pertence ao grupo B dos transtornos de personalidade.",
+  "porAlt": [
+   "Correta: busca de atenção, sugestionabilidade, teatralidade e emoções rasas e instáveis são os traços centrais.",
+   "TDAH envolve desatenção e hiperatividade desde a infância, não busca de atenção teatral e sugestionabilidade.",
+   "Transtornos do humor se manifestam em episódios, não como padrão estável de teatralidade e sugestionabilidade.",
+   "Narcisismo envolve grandiosidade, necessidade de admiração e falta de empatia, sem a sugestionabilidade descrita.",
+   "Personalidade antissocial envolve violação de direitos alheios, impulsividade e falta de remorso, ausentes no relato."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 27
+  }
+ },
+ {
+  "pid": "s25028",
+  "q": "O transtorno de personalidade anancástica é reconhecido na prática psiquiátrica por características específicas. Os traços característicos desse transtorno incluem",
+  "alts": [
+   "exigência de admiração excessiva e megalomania.",
+   "desvalia, anedonia e entusiasmo excessivo.",
+   "rigidez e perfeccionismo.",
+   "purgação e cautela excessiva.",
+   "megalomania e perfeccionismo."
+  ],
+  "gab": 2,
+  "tema": "psiqinf",
+  "sub": "Personalidade anancástica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "CID-10, Descrições Clínicas e Diretrizes Diagnósticas (OMS, 1992), F60.5, e DSM-5-TR (APA, 2022)",
+  "coment": "Personalidade anancástica é o nome da CID-10 (F60.5) para o que o DSM-5-TR chama de transtorno de personalidade obsessivo-compulsiva. Os traços centrais são perfeccionismo que atrapalha a conclusão das tarefas, rigidez e teimosia, preocupação excessiva com detalhes, regras e ordem, devoção excessiva ao trabalho, escrupulosidade moral e dificuldade em delegar. Diferente do TOC, os traços são egossintônicos e não há obsessões e compulsões verdadeiras. Na CID-11, a anancastia passou a ser um domínio de traço de personalidade.",
+  "porAlt": [
+   "Necessidade de admiração e grandiosidade são traços da personalidade narcisista.",
+   "Desvalia e anedonia lembram depressão, e entusiasmo excessivo lembra mania; nada disso define anancastia.",
+   "Correta: rigidez e perfeccionismo são o núcleo da personalidade anancástica (obsessivo-compulsiva).",
+   "Purgação remete a transtornos alimentares, e cautela excessiva isolada não define o transtorno.",
+   "Megalomania é traço narcisista, o que invalida a combinação mesmo com o perfeccionismo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 28
+  }
+ },
+ {
+  "pid": "s25029",
+  "q": "Durante avaliação psiquiátrica infantil, a mãe de um menino de 8 anos apresenta relatório da escola que descreve postura resistente à autoridade escolar, frequentes discussões com adultos, irritabilidade acentuada e tendência a culpar terceiros por seu comportamento. Não há indícios de agressividade física ou destruição de propriedade. A mãe confirma contínuos episódios de “falta de respeito”. O diagnóstico que melhor se compatibiliza com esse quadro clínico é o transtorno",
+  "alts": [
+   "explosivo intermitente.",
+   "do afeto.",
+   "do déficit de atenção e hiperatividade.",
+   "opositivo-desafiador.",
+   "depressivo maior."
+  ],
+  "gab": 3,
+  "tema": "psiqinf",
+  "sub": "Transtorno de oposição desafiante",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022)",
+  "coment": "O transtorno de oposição desafiante (DSM-5-TR) é um padrão de humor raivoso ou irritável, comportamento questionador e desafiante e índole vingativa por pelo menos 6 meses, com 4 ou mais sintomas: perde a calma, irrita-se facilmente, discute com adultos e figuras de autoridade, desafia regras, incomoda de propósito e culpa os outros pelos próprios erros. A ausência de agressão física, destruição de propriedade e violação grave de regras o separa do transtorno da conduta. O tratamento se apoia em treinamento parental e intervenções comportamentais.",
+  "porAlt": [
+   "Caracteriza-se por explosões agressivas desproporcionais e recorrentes, não por padrão contínuo de desafio à autoridade.",
+   "Não há episódios de humor descritos; irritabilidade dirigida a figuras de autoridade aponta oposição.",
+   "Exigiria desatenção ou hiperatividade e impulsividade, não descritas; é comorbidade frequente, mas não explica o quadro.",
+   "Correta: irritabilidade, discussões com adultos, desafio à autoridade e culpar terceiros, sem agressão física.",
+   "Faltam humor deprimido ou anedonia persistentes; irritabilidade com desafio a regras sugere oposição."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 29
+  }
+ },
+ {
+  "pid": "s25030",
+  "q": "Menino de 8 anos, apresenta episódios frequentes de incontinência fecal na roupa íntima, mesmo após já ter aprendido a usar o banheiro. Há queixas de dor durante a evacuação e um histórico de constipação crônica com retenção voluntária das fezes. O exame físico indica impacto fecal sem alterações estruturais ou neurológicas. Avaliando o quadro clínico, o diagnóstico que melhor corresponde a essa situação é",
+  "alts": [
+   "transtorno depressivo da infância.",
+   "encoprese retentiva.",
+   "encoprese não-retentiva.",
+   "síndrome do intestino irritável.",
+   "constipação histérica."
+  ],
+  "gab": 1,
+  "tema": "psiqinf",
+  "sub": "Encoprese retentiva",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022) e Critérios de Roma IV, 2016",
+  "coment": "Encoprese é a evacuação repetida em locais inadequados após os 4 anos. Em cerca de 80% dos casos é retentiva: a criança retém fezes, muitas vezes após evacuação dolorosa, forma-se fecaloma no reto e fezes amolecidas escapam por transbordamento, sujando a roupa. O DSM-5-TR a chama de encoprese com constipação e incontinência por extravasamento. Dor ao evacuar, retenção voluntária e impactação ao exame fecham o diagnóstico. Tratamento: desimpactação, laxativo osmótico (polietilenoglicol) por meses e treino de toalete.",
+  "porAlt": [
+   "Depressão pode coexistir, mas não explica constipação crônica com impactação e escape fecal.",
+   "Correta: retenção voluntária, dor ao evacuar e fecaloma com escape por transbordamento.",
+   "Ocorre sem constipação nem fecaloma, geralmente ligada a fatores emocionais ou oposição; aqui há impactação.",
+   "Cursa com dor abdominal recorrente relacionada à evacuação, sem fecaloma nem incontinência por transbordamento.",
+   "Termo sem respaldo nosológico; a constipação funcional com retenção explica todo o quadro."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 30
+  }
+ },
+ {
+  "pid": "s25031",
+  "q": "Idoso com 67 anos e sem antecedentes psiquiátricos passou a apresentar alucinações visuais ao longo dos últimos dois anos. Após uso de haloperidol, desenvolveu rigidez muscular progressiva, compatível com síndrome parkinsoniana e piora dos delírios e alucinações. Considerando a inexistência de causas infecciosas, tumorais ou tóxicas, o diagnóstico mais compatível com o quadro clínico e a conduta apropriada são, respectivamente,",
+  "alts": [
+   "episódio depressivo com componente psicótico – retirar haloperidol.",
+   "esquizofrenia – acrescentar risperidona ao haloperidol.",
+   "doença de Lewy – retirar antipsicóticos e iniciar inibidores da acetilcolinesterase.",
+   "transtorno esquizoide – substituir haloperidol por quetiapina.",
+   "psicose aguda – aumentar dose de haloperidol com cautela."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Doença de Lewy e sensibilidade a antipsicótico",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "McKeith et al., 4º Relatório de Consenso do DLB Consortium (Neurology, 2017)",
+  "coment": "Idoso sem história psiquiátrica com alucinações visuais recorrentes e grave sensibilidade a antipsicótico (parkinsonismo e piora psicótica após haloperidol) sugere demência com corpos de Lewy. O consenso de 2017 tem como características centrais flutuação cognitiva, alucinações visuais, transtorno comportamental do sono REM e parkinsonismo; a sensibilidade grave a neurolépticos é característica de suporte. Conduta: suspender o haloperidol, pelo risco de rigidez grave e síndrome neuroléptica, e iniciar inibidor da acetilcolinesterase (rivastigmina, donepezila), que melhora alucinações e cognição.",
+  "porAlt": [
+   "Não há humor deprimido; alucinações visuais com parkinsonismo sensível a antipsicótico apontam doença de Lewy.",
+   "Esquizofrenia de início aos 67 anos com alucinações visuais é atípica, e somar outro antagonista D2 agravaria o parkinsonismo.",
+   "Correta: alucinações visuais e sensibilidade a neuroléptico indicam doença de Lewy; suspende-se o antipsicótico e inicia-se anticolinesterásico.",
+   "Personalidade esquizoide é distanciamento social estável, sem alucinações, e trocar o antipsicótico sem tratar a demência é incompleto.",
+   "Aumentar haloperidol em quem tem sensibilidade a neurolépticos pode precipitar rigidez grave e síndrome neuroléptica maligna."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 31
+  }
+ },
+ {
+  "pid": "s25032",
+  "q": "Mulher de 77 anos, com histórico de diabetes tipo 2, hipertensão arterial sistêmica e dislipidemia, procura atendimento psiquiátrico relatando que, há cerca de 1 ano, tem feito ligações frequentes para os filhos ao longo do dia, com receio constante de que algo ruim possa ter acontecido com eles. Refere estar constantemente irritada, com dores musculares e “muito nervosa”. Aproveita a consulta para relatar também sensação de formigamento e dor em queimação nos pés, com início há cerca de 2 anos e piora progressiva. Avaliando as comorbidades clínicas e os sintomas descritos, a abordagem farmacológica mais adequada é",
+  "alts": [
+   "quetiapina.",
+   "pregabalina.",
+   "trazodona.",
+   "risperidona",
+   "bupropiona."
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Ansiedade generalizada com neuropatia diabética",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ADA Standards of Care in Diabetes, 2026, e NICE CG113 (ansiedade generalizada e pânico), 2011",
+  "coment": "A paciente tem transtorno de ansiedade generalizada (preocupação excessiva e difícil de controlar há 1 ano, irritabilidade, tensão muscular) e dor neuropática diabética (queimação e formigamento nos pés com piora progressiva). A pregabalina, ligante da subunidade alfa-2-delta dos canais de cálcio, tem eficácia na ansiedade generalizada (aprovada para essa indicação na Europa) e é primeira linha na neuropatia diabética dolorosa pelo ADA 2026, tratando as duas condições. Ajustar a dose pela função renal e vigiar tontura, sedação e quedas no idoso. A duloxetina seria alternativa, mas não está entre as opções.",
+  "porAlt": [
+   "Tem alguma eficácia na ansiedade generalizada, mas piora o perfil metabólico da diabética, tem alerta em idosos e não trata a neuropatia.",
+   "Correta: trata ao mesmo tempo a ansiedade generalizada e a dor neuropática diabética.",
+   "Útil para insônia, mas não é escolha para ansiedade generalizada nem trata dor neuropática.",
+   "Antipsicótico sem indicação na ansiedade generalizada, com risco metabólico e cerebrovascular no idoso.",
+   "Antidepressivo ativador que pode piorar a ansiedade e não tem eficácia na dor neuropática."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 32
+  }
+ },
+ {
+  "pid": "s25033",
+  "q": "Homem de 48 anos é levado por seus filhos para a emergência de hospital municipal com histórico de etilismo crônico. Segundo os familiares, ele consome bebidas destiladas quase todos os dias e mantém alimentação bastante irregular. Há 5 dias, apresenta episódios de confusão mental e quedas frequentes. Está há 3 dias sem ingerir álcool, mas sem melhora clínica. No exame físico, observa-se paciente caquético, desorientado no tempo e no espaço, com nistagmo horizontal bilateral, dificuldade de atenção, marcha instável e equilíbrio prejudicado. Não há relato de trauma craniano. Com base no quadro clínico agudo, a hipótese diagnóstica mais provável é",
+  "alts": [
+   "encefalite límbica.",
+   "encefalopatia de Wernicke.",
+   "transtorno conversivo.",
+   "doença de Creutzfeldt-Jakob.",
+   "cirrose hepática."
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Encefalopatia de Wernicke",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "EFNS Guidelines for Diagnosis, Therapy and Prevention of Wernicke Encephalopathy, 2010",
+  "coment": "Etilista crônico desnutrido com confusão mental, nistagmo e ataxia de marcha tem a tríade clássica da encefalopatia de Wernicke, causada por deficiência de tiamina. A tríade completa aparece numa minoria; a diretriz da EFNS de 2010 aceita o diagnóstico no alcoolista com dois de quatro achados: desnutrição, alteração oculomotora, disfunção cerebelar e alteração mental ou de memória. A falta de melhora após 3 dias sem álcool afasta abstinência simples. Conduta imediata: tiamina intravenosa em dose alta, antes ou junto da glicose. Sem tratamento evolui para síndrome de Korsakoff.",
+  "porAlt": [
+   "Cursa com crises epilépticas, amnésia e sintomas psiquiátricos, em geral autoimune ou paraneoplásica, sem relação com etilismo e desnutrição.",
+   "Correta: confusão, nistagmo e ataxia em etilista desnutrido formam a tríade da deficiência de tiamina.",
+   "Diagnóstico funcional não se sustenta diante de nistagmo e ataxia, sinais objetivos de lesão orgânica.",
+   "Demência rapidamente progressiva em semanas a meses com mioclonias, não quadro agudo de 5 dias com nistagmo.",
+   "Cirrose é doença hepática; a encefalopatia hepática causa asterixe e sonolência, não nistagmo com ataxia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 33
+  }
+ },
+ {
+  "pid": "s25034",
+  "q": "A respeito do uso de antipsicóticos, avalie as afirmativas a seguir. I. Antipsicóticos típicos, também chamados de convencionais, atuam principalmente por meio do bloqueio dos receptores dopaminérgicos do tipo D2. II. O uso de antipsicóticos típicos pode estar associado ao agravamento de sintomas extrapiramidais. III. Antipsicóticos atípicos tendem a causar menos efeitos extrapiramidais em comparação com os antipsicóticos típicos. Está correto o que se afirma em",
+  "alts": [
+   "II, apenas.",
+   "I e III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II, III."
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Antipsicóticos típicos e atípicos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Stahl's Essential Psychopharmacology, 5ª ed., 2021",
+  "coment": "As três afirmativas estão corretas. Os antipsicóticos típicos (haloperidol, clorpromazina) agem por bloqueio de receptores D2, e o efeito antipsicótico surge com ocupação de cerca de 60 a 80% desses receptores. O mesmo bloqueio na via nigroestriatal gera sintomas extrapiramidais: distonia aguda, parkinsonismo, acatisia e discinesia tardia. Os atípicos associam antagonismo 5-HT2A, dissociação rápida do D2 ou agonismo parcial, o que reduz o risco extrapiramidal, ao custo de mais efeito metabólico em vários deles, como olanzapina e clozapina.",
+  "porAlt": [
+   "Omite I e III, que também estão corretas.",
+   "Omite II, também correta: os típicos causam e agravam sintomas extrapiramidais.",
+   "Omite III, correta: os atípicos têm menor risco extrapiramidal.",
+   "Omite I, correta: o mecanismo principal dos típicos é o bloqueio D2.",
+   "Correta: as três afirmativas descrevem corretamente mecanismo e efeitos extrapiramidais."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 34
+  }
+ },
+ {
+  "pid": "s25035",
+  "q": "Em relação ao mecanismo de ação das medicações estabilizadoras do humor, avalie as afirmações a seguir. I. Atuam por meio do bloqueio dos canais de sódio. II. Podem exercer efeito por meio da potenciação da ação do neurotransmissor GABA. III. Potencializam a ação do glutamato no sistema nervoso central. Está correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II, III."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Mecanismo dos estabilizadores do humor",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Stahl's Essential Psychopharmacology, 5ª ed., 2021",
+  "coment": "Os anticonvulsivantes usados como estabilizadores do humor agem por bloqueio de canais de sódio voltagem-dependentes (valproato, carbamazepina, lamotrigina) e, no caso do valproato, também por aumento da ação do GABA. O efeito sobre o glutamato é o inverso do afirmado em III: a lamotrigina, ao bloquear canais de sódio, reduz a liberação de glutamato, e é a hiperatividade glutamatérgica que se associa à mania. Por isso estão corretas I e II. O lítio age por outras vias, como inibição da GSK-3 e da inositol monofosfatase.",
+  "porAlt": [
+   "Omite II, correta: o valproato potencializa a transmissão GABAérgica.",
+   "III é falsa: os estabilizadores reduzem, e não potencializam, a ação do glutamato.",
+   "Correta: bloqueio de canais de sódio e potenciação do GABA são mecanismos reconhecidos.",
+   "Exclui I, correta, e inclui III, falsa.",
+   "Inclui III, falsa, pois a lamotrigina e outros reduzem a liberação de glutamato."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 35
+  }
+ },
+ {
+  "pid": "s25037",
+  "q": "Homem de 71 anos apresenta-se na consulta desorientado no tempo e no espaço, com incapacidade de recordar três palavras que havia repetido corretamente há poucos minutos. Sua esposa informa piora progressiva da memória recente ao longo do último ano, com prejuízos funcionais importantes nas atividades cotidianas. O diagnóstico mais provável é",
+  "alts": [
+   "atrofia de múltiplos sistemas.",
+   "transtorno esquizoide.",
+   "doença de Alzheimer.",
+   "crise psicótica aguda.",
+   "episódio depressivo maior."
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Doença de Alzheimer versus depressão",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "NIA-AA, critérios clínicos de demência por doença de Alzheimer (McKhann et al., 2011), e DSM-5-TR (APA, 2022)",
+  "coment": "Declínio progressivo da memória recente ao longo de um ano, com perda funcional nas atividades diárias, desorientação e falha na evocação tardia de três palavras registradas corretamente (déficit de consolidação, típico de lesão hipocampal) definem transtorno neurocognitivo maior, e o padrão amnéstico de início insidioso aponta doença de Alzheimer (NIA-AA 2011; DSM-5-TR). Na depressão, a queixa costuma partir do próprio paciente, o início é mais abrupto e a memória melhora com pistas. Antes de fechar, investigar causas reversíveis: TSH, vitamina B12, sífilis e neuroimagem.",
+  "porAlt": [
+   "Sinucleinopatia com disautonomia grave e parkinsonismo ou ataxia cerebelar, sem amnésia como quadro inicial.",
+   "Padrão de personalidade com distanciamento social desde a vida adulta jovem, sem declínio cognitivo.",
+   "Correta: amnésia anterógrada progressiva com perda funcional e desorientação é o padrão típico da doença de Alzheimer.",
+   "Instala-se em dias, com delírios ou alucinações, e não como declínio amnéstico progressivo ao longo de um ano.",
+   "Pode simular demência, mas não há humor deprimido relatado, e a falha na evocação tardia indica amnésia verdadeira."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 37
+  }
+ },
+ {
+  "pid": "s25038",
+  "q": "Em casos de depressão que não respondem adequadamente ao tratamento convencional e nos quais há presença de ideação suicida, das condutas a seguir, a que é considerada mais apropriada, de acordo com as evidências atuais, e",
+  "alts": [
+   "manter o mesmo antidepressivo por pelo menos seis meses, com monitoramento rigoroso.",
+   "associar inibidor de recaptação de serotonina com clobazam para efeito ansiolítico.",
+   "utilizar quetamina intravenosa ou eletroconvulsoterapia.",
+   "prescrever combinação de sertralina com um inibidor da monoaminoxidase.",
+   "iniciar combinação de três antidepressivos diferentes e aguardar resposta por oito semanas."
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Depressão resistente com ideação suicida",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "CANMAT 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults (Can J Psychiatry, 2024)",
+  "coment": "Depressão sem resposta a tratamento adequado e com ideação suicida pede estratégia rápida e eficaz. A eletroconvulsoterapia é o tratamento mais eficaz da depressão resistente, com altas taxas de remissão e efeito rápido sobre a suicidalidade. A cetamina intravenosa (fora da bula) e a escetamina intranasal (aprovada pela ANVISA e pelo FDA) reduzem sintomas depressivos e ideação suicida em horas a dias. O CANMAT 2023 inclui ECT e cetamina ou escetamina entre as opções para depressão difícil de tratar e risco de suicídio, com vigilância ou internação no período.",
+  "porAlt": [
+   "Manter por 6 meses um antidepressivo que já falhou expõe ao risco de suicídio sem ganho; sem resposta em 4 a 8 semanas, troca-se ou potencializa-se.",
+   "Benzodiazepínico não trata depressão resistente nem reduz suicidalidade, e o clobazam não é potencializador antidepressivo.",
+   "Correta: ECT e cetamina têm ação rápida e eficácia na depressão resistente com ideação suicida.",
+   "ISRS com IMAO é contraindicado pelo risco de síndrome serotoninérgica potencialmente fatal.",
+   "Três antidepressivos simultâneos não têm respaldo e somam toxicidade; esperar 8 semanas é inaceitável com ideação suicida."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 38
+  }
+ },
+ {
+  "pid": "s25039",
+  "q": "Durante uma avaliação neuropsiquiátrica, um paciente relata frequentemente ver “rostos nas paredes” e “pessoas escondidas entre os móveis”, embora admita que essas imagens desaparecem quando ele presta mais atenção. Esse tipo de distorção perceptiva, chamada pareidolia, é mais característico de",
+  "alts": [
+   "transtorno esquizoide.",
+   "doença de Alzheimer.",
+   "transtorno do espectro autista.",
+   "doença de Lewy.",
+   "esquizofrenia."
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Pareidolias na doença de Lewy",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "McKeith et al., 4º Relatório de Consenso do DLB Consortium (Neurology, 2017)",
+  "coment": "Pareidolia é a ilusão visual em que padrões ambíguos (manchas, texturas, móveis) são percebidos como rostos ou pessoas. É marcador característico da demência com corpos de Lewy, ligado à disfunção visuoperceptiva e ao déficit colinérgico do córtex occipital, e forma um espectro com as alucinações visuais bem formadas, característica central do consenso de 2017. O teste de pareidolias diferencia a doença de Lewy da doença de Alzheimer com boa acurácia. Na esquizofrenia predominam alucinações auditivas, em geral sem crítica.",
+  "porAlt": [
+   "Padrão de personalidade com distanciamento social, sem alterações perceptivas.",
+   "Pode ter alucinações em fase avançada, mas pareidolias são bem mais frequentes e precoces na doença de Lewy.",
+   "Caracteriza-se por déficit de comunicação social e comportamentos restritos, não por ilusões visuais.",
+   "Correta: pareidolias e alucinações visuais são marcas da demência com corpos de Lewy.",
+   "Predominam alucinações auditivas com convicção, não ilusões visuais que somem com a atenção."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 39
+  }
+ },
+ {
+  "pid": "s25040",
+  "q": "A esquizofrenia apresenta sintomas positivos e negativos. Com base nesse entendimento, assinale a afirmativa correta.",
+  "alts": [
+   "Antipsicóticos típicos demonstram maior eficácia que os atípicos no manejo dos sintomas negativos da esquizofrenia.",
+   "A eficácia terapêutica da remissão dos sintomas negativos e positivos da esquizofrenia está diretamente relacionado ao bloqueio dos receptores dopaminérgicos nas vias nigroestriatal e túbero-infundibular.",
+   "Antipsicóticos típicos e atípicos são igualmente eficazes para sintomas negativos, embora os atípicos associados mais frequentemente ao aumento da prolactina.",
+   "Antipsicóticos típicos e atípicos são eficazes no tratamento dos sintomas positivos, embora os típicos estejam associados a maior incidência de efeitos extrapiramidais.",
+   "Antipsicóticos típicos e atípicos apresentam eficácia semelhante tanto tratamento dos sintomas negativos como positivos da esquizofrenia, sendo que os atípicos boqueiam completamente a transmissão dopaminérgica da via nigroestriatal."
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Eficácia de antipsicóticos típicos e atípicos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020, e Stahl's Essential Psychopharmacology, 5ª ed., 2021",
+  "coment": "Típicos e atípicos têm eficácia semelhante sobre sintomas positivos, mediada pelo bloqueio D2 na via mesolímbica; a exceção é a clozapina, superior na esquizofrenia resistente. A diferença principal está nos efeitos adversos: os típicos causam mais sintomas extrapiramidais e discinesia tardia. Nos sintomas negativos nenhum grupo tem grande eficácia, e a vantagem dos atípicos é pequena, em parte por causarem menos sintomas negativos secundários ao parkinsonismo. O bloqueio nigroestriatal e túbero-infundibular explica efeitos adversos (extrapiramidais e hiperprolactinemia), não a eficácia.",
+  "porAlt": [
+   "Típicos não são mais eficazes nos sintomas negativos; o bloqueio D2 mesocortical pode até piorá-los.",
+   "O bloqueio nigroestriatal e túbero-infundibular gera efeitos extrapiramidais e hiperprolactinemia; a eficácia vem da via mesolímbica.",
+   "A hiperprolactinemia é mais ligada aos típicos (e a risperidona e paliperidona), não aos atípicos como classe.",
+   "Correta: ambos tratam sintomas positivos, e os típicos causam mais efeitos extrapiramidais.",
+   "Atípicos não bloqueiam completamente a via nigroestriatal; o bloqueio parcial ou transitório é que reduz os efeitos extrapiramidais."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 40
+  }
+ },
+ {
+  "pid": "s25041",
+  "q": "Uma criança de 8 anos foi levada à consulta na Unidade Básica de Saúde devido a queixas de baixo rendimento escolar e episódios descritos pelos pais como “apagões”. Durante a anamnese, o médico suspeitou de um tipo específico de crise epiléptica e realizou a manobra de hiperventilação, que desencadeou um episódio caracterizado por breve interrupção da consciência, com postura imóvel e olhar fixo por alguns segundos, seguido de retorno espontâneo à atividade anterior. Pequenos movimentos das pálpebras foram observados. Os pais relataram que esses episódios ocorriam diversas vezes ao dia, mas, por serem muito breves, passaram despercebidos por algum tempo. O médico iniciou tratamento com etossuximida, com boa resposta em relação às crises. No entanto, após o início do tratamento, a mãe observou que a criança passou a apresentar alucinações visuais, acreditando firmemente nas imagens que via. Diante desse quadro, a conduta mais adequada deve ser adotada.",
+  "alts": [
+   "A criança apresenta crises generalizadas e deve ter o antiepiléptico substituído por ácido valproico.",
+   "A droga antiepiléptica deve ser trocada por carbamazepina, pois trata-se de crise focal com ansiedade associada.",
+   "A paciente é portadora de esquizofrenia infantil e deve ser tratada com haloperidol.",
+   "Trata-se de um caso de déficit de atenção com esquizofrenia, sendo indicado o uso de risperidona e metilfenidato.",
+   "A criança não apresenta epilepsia, mas sim déficit de atenção e personalidade tipo borderline, devendo ser tratada com metilfenidato."
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Psicose induzida por etossuximida",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "NICE NG217, Epilepsies in children, young people and adults, 2022",
+  "coment": "Ausências típicas da infância: episódios breves e frequentes de parada com olhar fixo e piscamento, desencadeados pela hiperventilação, com queda do rendimento escolar. São crises generalizadas, e a etossuximida é primeira escolha, com o valproato como alternativa (NICE NG217, 2022). A etossuximida pode causar sintomas psicóticos, inclusive alucinações, efeito adverso descrito e associado à normalização forçada (controle das crises acompanhado de psicose). A conduta é retirar o fármaco responsável e trocar por outro eficaz em ausências, o valproato, sem rotular a criança com transtorno psicótico primário.",
+  "porAlt": [
+   "Correta: crises de ausência são generalizadas, e a troca da etossuximida pelo valproato mantém o controle e retira a causa da psicose.",
+   "Ausência típica é crise generalizada, e a carbamazepina agrava ausências.",
+   "Alucinações surgidas após iniciar etossuximida indicam efeito adverso, não esquizofrenia infantil, que é rara e exigiria quadro persistente.",
+   "Os apagões eram crises de ausência, não desatenção do TDAH, e as alucinações têm causa medicamentosa.",
+   "A hiperventilação reproduziu a crise e houve resposta ao antiepiléptico, o que confirma epilepsia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Psiquiatria",
+   "ex": "enare25psq",
+   "n": 41
+  }
+ }
+]

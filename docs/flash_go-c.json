@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "obstetricia",
+  "a": "Onde começa a fase ativa na diretriz brasileira de parto normal e na OMS 2018?",
+  "b": "Com contrações regulares e 4 cm de dilatação na diretriz brasileira (MS/CONITEC, 2017); com 5 cm na OMS 2018. Com 3 cm, apoio e retorno para casa se possível."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Episiotomia e manobra de Kristeller: o que diz a diretriz nacional de parto normal?",
+  "b": "Episiotomia não é rotina; quando indicada, mediolateral, 45 a 60 graus a partir da fúrcula. Kristeller não deve ser feita (MS/CONITEC, 2017)."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Quando clampear o cordão do recém-nascido a termo vigoroso?",
+  "b": "Não antes de 1 minuto: entre 1 e 5 minutos ou quando parar de pulsar. Clampeamento imediato só se precisar de reanimação (MS/CONITEC, 2017)."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Quais os 5 parâmetros do perfil biofísico fetal e o que indica escore 4?",
+  "b": "CTG reativa, movimentos respiratórios, movimentos corporais, tônus e líquido (bolsão acima de 2 cm), 2 pontos cada. Escore de 4 ou menos sugere hipóxia; a termo, resolver (MS, 2022)."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Taquissistolia com desaceleração prolongada em uso de ocitocina: primeiras medidas?",
+  "b": "Suspender ocitocina, decúbito lateral, hidratar e corrigir hipotensão, toque para afastar prolapso; tocolítico se persistir; sem recuperação, nascimento rápido (ACOG PB 116, 2010)."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Lóquios normais: como evoluem na primeira e segunda semanas?",
+  "b": "Vermelhos nos primeiros 3 a 4 dias, serosos depois e esbranquiçados ou amarelados a partir de cerca de 10 dias. Útero intrapélvico por volta de 2 semanas (CAB 32, 2012)."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Tristeza puerperal x depressão pós-parto: o que separa?",
+  "b": "Tristeza: início nos primeiros dias, pico perto do 5º dia, some em até 2 semanas, sem prejuízo funcional. Persistência, gravidade ou ideação: depressão pós-parto (ACOG, 2023)."
+ },
+ {
+  "tema": "obstetricia",
+  "a": "Ingurgitamento mamário no 3º dia: conduta?",
+  "b": "Livre demanda, ordenha da aréola antes da mamada, massagem, compressa fria, analgésico e sutiã firme. Não suspender a amamentação nem dar antibiótico (CAB 23, 2015)."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Qual exame confirma colestase intra-hepática da gestação e qual o risco fetal?",
+  "b": "Ácidos biliares séricos de 10 µmol/L ou mais. Risco de óbito fetal súbito, maior com 100 µmol/L ou mais, que orienta o momento do parto (SMFM, 2021)."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Sinal do T e sinal do lambda na ultrassonografia gemelar?",
+  "b": "T: monocoriônica diamniótica, ultrassonografia a cada 2 semanas desde 16 semanas. Lambda: dicoriônica, a cada 4 semanas no segundo trimestre (ISUOG, 2016)."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Tratamento da transfusão feto-fetal a partir do estádio II de Quintero?",
+  "b": "Coagulação a laser das anastomoses por fetoscopia, entre 16 e 26 semanas; superior à amniodrenagem (SMFM, 2013)."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Esquema de Pritchard do sulfato de magnésio e quando preferi-lo?",
+  "b": "4 g IV lento mais 10 g IM (5 g em cada glúteo); manutenção de 5 g IM a cada 4 h. Preferido para transferência sem bomba de infusão (MS, 2022)."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Infecção intra-amniótica intraparto: antibiótico e via de parto?",
+  "b": "Ampicilina mais gentamicina IV, com anaerobicida se cesárea. O diagnóstico não indica cesárea por si (ACOG CO 712, 2017)."
+ },
+ {
+  "tema": "obstpat",
+  "a": "Por que vigiar o fibrinogênio no óbito fetal retido?",
+  "b": "Retenção por mais de 4 semanas pode causar coagulação intravascular disseminada com hipofibrinogenemia; coagulograma seriado na conduta expectante (MS, 2022)."
+ },
+ {
+  "tema": "gininfec",
+  "a": "Linfogranuloma venéreo: quadro e tratamento?",
+  "b": "Lesão fugaz e indolor, depois bubão inguinal que fistuliza por múltiplos orifícios. Doxiciclina 100 mg 12/12 h por 21 dias; bubão se aspira (PCDT IST, 2022)."
+ },
+ {
+  "tema": "gininfec",
+  "a": "Resposta adequada ao tratamento da sífilis recente?",
+  "b": "Negativação ou queda de duas diluições do não treponêmico em até 6 meses (12 meses na tardia), com VDRL trimestral até 12 meses (PCDT IST, 2022)."
+ },
+ {
+  "tema": "gininfec",
+  "a": "Quando indicar supressão no herpes genital e com que esquema?",
+  "b": "Seis ou mais recorrências por ano: aciclovir 400 mg de 12/12 h por até 6 meses, podendo chegar a 2 anos (PCDT IST, 2022)."
+ },
+ {
+  "tema": "gininfec",
+  "a": "Clamídia na gestante: qual antibiótico?",
+  "b": "Azitromicina 1 g VO dose única, com tratamento da parceria. Doxiciclina é contraindicada na gestação (PCDT IST, 2022)."
+ },
+ {
+  "tema": "gininfec",
+  "a": "Febre e piora das lesões horas após benzatina na sífilis recente: o que é?",
+  "b": "Reação de Jarisch-Herxheimer: autolimitada, tratada com sintomáticos; não é alergia nem motivo para trocar a penicilina (PCDT IST, 2022)."
+ },
+ {
+  "tema": "reprodutiva",
+  "a": "Três ou mais pílulas combinadas esquecidas na 3ª semana: conduta?",
+  "b": "Tomar uma já, seguir os ativos, emendar a próxima cartela sem pausa e usar preservativo por 7 dias (OMS, recomendações práticas, 2016)."
+ },
+ {
+  "tema": "reprodutiva",
+  "a": "Quais métodos não sofrem interação com carbamazepina ou rifampicina?",
+  "b": "DMPA e DIU de cobre ou de levonorgestrel, categoria 1. Combinados e pílula de progestagênio são categoria 3; implante, 2 (OMS, 2015)."
+ },
+ {
+  "tema": "reprodutiva",
+  "a": "Até quanto atraso se reaplica o DMPA sem método adicional?",
+  "b": "Até 4 semanas após a data prevista. Acima disso, reaplicar com razoável certeza de não gravidez e preservativo por 7 dias (OMS, 2016)."
+ },
+ {
+  "tema": "reprodutiva",
+  "a": "Limites inferiores do espermograma pela OMS?",
+  "b": "Volume 1,4 mL; concentração 16 milhões/mL; total 39 milhões; motilidade progressiva 30%; formas normais 4% (OMS, manual de 2021)."
+ },
+ {
+  "tema": "ginecologia",
+  "a": "Até quando manter contracepção não hormonal na perimenopausa?",
+  "b": "Até 12 meses de amenorreia se 50 anos ou mais; 24 meses se a amenorreia começou antes dos 50 (FSRH, 2017, atualizada em 2023)."
+ },
+ {
+  "tema": "ginonco",
+  "a": "Quando fazer a salpingo-ooforectomia redutora de risco em BRCA1 e BRCA2?",
+  "b": "BRCA1: entre 35 e 40 anos, com prole completa. BRCA2: pode adiar para 40 a 45 anos. CA-125 e ultrassonografia não substituem (NCCN, 2024)."
+ }
+]

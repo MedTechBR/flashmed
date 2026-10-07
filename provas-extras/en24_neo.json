@@ -1,0 +1,1606 @@
+[
+ {
+  "id": "en24_neo#1",
+  "q": "Um recém-nascido com 24 horas de vida foi submetido ao teste da oximetria de pulso (teste do coraçãozinho). A saturação de O2 foi de 92% no membro superior direito e 91% no membro inferior esquerdo na primeira aferição. Diante desse resultado, a criança deverá:",
+  "alts": [
+   "ter alta, pois o teste foi negativo;",
+   "realizar avaliação cardiológica, pois o teste foi positivo;",
+   "realizar avaliação cardiológica, pois o teste foi duvidoso;",
+   "repetir o teste após uma hora, pois o teste foi duvidoso;",
+   "realizar avaliação cardiológica após a alta, pois o teste foi positivo."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 1
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#2",
+  "q": "Um lactente de 9 meses, com fácies sindrômica, assintomático, apresenta ausculta cardíaca com ritmo regular, bulhas normofonéticas com desdobramento variável da segunda bulha, sopro sistólico 2+/6+ mais audível em borda esternal esquerda baixa, sem irradiação, que diminui com a posição sentada. Os pulsos femorais são palpáveis. Nesse caso, o médico deve:",
+  "alts": [
+   "internar a criança para realização de exames;",
+   "encaminhar a criança para avaliação do cardiopediatra;",
+   "iniciar medicação cardiológica (furosemida e captopril);",
+   "solicitar teste de oximetria de pulso;",
+   "considerar o achado como funcional, sem necessidade de encaminhamento."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 2
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#3",
+  "q": "Uma lactente de 8 meses, com febre de 38,5 °C, coriza e tosse, foi levada ao posto de saúde para ser vacinada para influenza pela primeira vez. Considerando o estado dessa lactente, a equipe do posto de saúde deve:",
+  "alts": [
+   "aguardar a remissão do quadro febril para vacinar a criança;",
+   "vacinar a criança com dose única da vacina;",
+   "vacinar a criança e indicar seu retorno ao posto após 1 mês para dose de reforço;",
+   "aguardar 15 dias após o desaparecimento de todos os sintomas para vacinar a criança;",
+   "vacinar a criança após 12 meses, de acordo com o Programa Nacional de Imunizações."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 3
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#4",
+  "q": "Uma criança de 2 anos, portadora de síndrome de Down, sem queixas, compareceu à consulta de rotina. De acordo com o protocolo de acompanhamento dos portadores de síndrome de Down, o médico deve:",
+  "alts": [
+   "solicitar acompanhamento com neuropediatra;",
+   "solicitar tomografia computadorizada do crânio;",
+   "solicitar avaliação da acuidade auditiva e visual;",
+   "dar orientações gerais, sem necessidade de exames complementares ou encaminhamento;",
+   "encaminhar o paciente para a nutricionista pelo maior risco de déficit pôndero-estatural."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 4
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#5",
+  "q": "Um escolar de 9 anos é levado à emergência com tosse seca, taquidispneia moderada, tiragens intercostais, acianótico em ar ambiente e com sibilos difusos à ausculta pulmonar. Esse paciente deve ser medicado com:",
+  "alts": [
+   "dropropizina xarope;",
+   "nebulização com acetilcisteína;",
+   "ambroxol xarope;",
+   "salbutamol spray utilizado com espaçador;",
+   "nebulização com brometo de ipratrópio."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 5
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#6",
+  "q": "Uma professora encaminha criança de 6 anos, cursando o primeiro ano do Ensino Fundamental, ao serviço de saúde devido a dificuldade de aprendizado e hiperatividade. Nessa situação, o médico deve:",
+  "alts": [
+   "solicitar avaliação auditiva e oftalmológica;",
+   "prescrever metilfenidato;",
+   "encaminhar a criança ao psiquiatra infantil;",
+   "solicitar mudança de turma na escola;",
+   "prescrever zinco e magnésio."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 6
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#7",
+  "q": "Durante tratamento de amidalite com amoxicilina, um adolescente apresentou placas urticariformes difusas, com necessidade de atendimento na emergência. Após tratamento da urticária, a orientação correta é:",
+  "alts": [
+   "trocar a amoxicilina por cefadroxil;",
+   "trocar a amoxicilina por azitromicina;",
+   "trocar a amoxicilina por sulfametoxazol-trimetoprima;",
+   "suspender a amoxicilina e aplicar dose única de penicilina benzatina;",
+   "manter o antibiótico após melhora do quadro urticariforme."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 7
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#8",
+  "q": "Uma adolescente apresentou, há 15 dias, intensa dor de garganta e febre (temperatura axilar de 38,5 oC). Foi medicada por 5 dias com diclofenaco, com melhora. Há 24 horas, iniciou dor intensa e edema com sinais flogísticos no joelho esquerdo. Na emergência, o médico deve:",
+  "alts": [
+   "colher hemograma, provas de atividade inflamatória e VHS;",
+   "prescrever cefalexina, após colher hemoculturas;",
+   "imobilizar o joelho e prescrever ibuprofeno;",
+   "internar o paciente e iniciar oxacilina por via intravenosa;",
+   "solicitar radiografia do joelho e encaminhar ao ortopedista."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 8
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#9",
+  "q": "Um lactente de 2 meses se submete a radiografia de tórax para avaliar quadro de cansaço com crises de cianose. O laudo do exame descreve coração com formato de “tamanco holandês”. O médico conclui, corretamente, que o paciente apresenta:",
+  "alts": [
+   "hipertrofia de cavidades esquerdas;",
+   "hipertensão pulmonar;",
+   "hipertrofia do ventrículo direito;",
+   "persistência do canal arterial;",
+   "coarctação da aorta. "
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 9
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#10",
+  "q": "Uma criança com 18 meses de idade foi afastada da creche devido ao aparecimento de pequenas vesículas no tronco, genitália e regiões palmares e plantares. Ela apresenta, também, febre alta e lesões aftosas em orofaringe. Outras crianças da creche estão com o mesmo quadro. Com base no quadro clínico, o pediatra fez, corretamente, o diagnóstico de:",
+  "alts": [
+   "impetigo;",
+   "herpes simples;",
+   "varicela;",
+   "escarlatina;",
+   "coxsackievirose."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 10
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#11",
+  "q": "Um escolar de 10 anos apresenta queixa de cansaço, dores nas pernas que o acordam durante a noite e emagrecimento de 2 kg no último mês. Apresenta as seguintes alterações ao exame físico: palidez cutâneo-mucosa 3+/4+, sopro sistólico 2+/6+ em bordo esternal esquerdo, taquicardia (FC = 120 bpm), fígado a 2,5 cm do RCD, ponta de baço palpável, dor à palpação do terço proximal da tíbia bilateralmente e petéquias esparsas em membros. O quadro clínico é sugestivo de:",
+  "alts": [
+   "anemia falciforme;",
+   "leucemia;",
+   "zika vírus;",
+   "endocardite infecciosa;",
+   "toxoplasmose."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 11
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#12",
+  "q": "Um médico, residente da pediatria, atendeu uma criança que evoluiu para parada cardiorrespiratória. Ele realizou, sob supervisão, manobras de reanimação, sem sucesso. Não fez anotações da evolução e tratamento no prontuário. A conduta do residente deve ser considerada:",
+  "alts": [
+   "correta, pois como residente não tem essa obrigação;",
+   "correta, pois a criança faleceu;",
+   "errada, pois ele não deveria ter participado da reanimação cardiorrespiratória;",
+   "correta, pois na emergência não há necessidade de registro no prontuário;",
+   "errada, pois todo atendimento deve ser registrado no prontuário."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 12
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#13",
+  "q": "Na primeira consulta de um recém-nascido em aleitamento materno exclusivo com satisfatório ganho ponderal, a mãe refere que a criança chora muito. Nessa situação, o pediatra deve orientar a mãe a:",
+  "alts": [
+   "oferecer chupeta para o bebê;",
+   "complementar a alimentação com fórmula infantil;",
+   "amamentar em livre demanda;",
+   "oferecer leite materno na mamadeira durante a madrugada;",
+   "oferecer chá de camomila e água nos intervalos das mamadas."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 13
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#14",
+  "q": "Uma criança de 8 anos, com índice de massa corporal (IMC) acima do percentil 95 para idade e sexo, é levada à consulta pela mãe, que está preocupada com o ganho ponderal excessivo do filho. As orientações médicas devem ser para:",
+  "alts": [
+   "a adesão ao tratamento medicamentoso com sibutramina;",
+   "a redução da ingesta de proteínas e o aumento do consumo de carboidratos;",
+   "a necessidade de redução do peso pelo maior risco de desenvolver doença hepática não alcoólica;",
+   "a diminuição de atividade física pelo risco aumentado de lesões;",
+   "a realização de dieta cetogênica."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 14
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#15",
+  "q": "Um pai está preocupado com seu filho de 15 anos, que tem apresentado queda do rendimento escolar, desinteresse pelos esportes que praticava, comportamento hostil com familiares, perda de peso e irritação ocular (“olhos vermelhos”) com fotofobia. Considerando as informações do pai, o médico faz a hipótese diagnóstica adequada de:",
+  "alts": [
+   "distúrbio do sono;",
+   "síndrome de ansiedade generalizada;",
+   "uso de drogas ilícitas;",
+   "erro de refração ocular;",
+   "alterações comportamentais próprias da adolescência."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 15
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#16",
+  "q": "Uma criança, portadora de doença falciforme, é admitida na emergência com priapismo há 24 horas, que não respondeu ao tratamento habitual. A conduta correta, nesse caso, é:",
+  "alts": [
+   "aplicação de compressas frias;",
+   "redução da hidratação;",
+   "repouso absoluto;",
+   "injeção local de fenilefrina;",
+   "prescrição de corticoide."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 16
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#17",
+  "q": "Um paciente de 8 anos, com sobrepeso, apresenta pressão arterial (PA) entre o percentil 90 e 95 para sexo, idade e altura. A pressão arterial nunca havia sido aferida. Nega sintomas. É correto afirmar que:",
+  "alts": [
+   "o paciente está normotenso;",
+   "ele deve ser encaminhado ao nefrologista;",
+   "a medicação anti-hipertensiva deve ser iniciada;",
+   "o paciente está hipertenso, mas sem necessidade de tratamento;",
+   "a PA deve ser aferida mais duas vezes, com cálculo da média das aferições, para definição diagnóstica. "
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 17
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#18",
+  "q": "Um lactente de 6 meses, internado com bronquiolite, está em suporte ventilatório. Sobre a necessidade de analgesia/sedação do paciente, é correto afirmar que:",
+  "alts": [
+   "deve ser realizada sedação, sem necessidade de analgesia;",
+   "deve ser utilizado o pancurônio, sem necessidade de sedação/analgesia;",
+   "deve ser realizada sedação com benzodiazepínico e analgesia com tramadol;",
+   "não há necessidade de analgésicos ou sedativos se o paciente estiver ventilando bem;",
+   "deve ser realizada analgesia com meperidina pelo baixo risco de dependência química."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 18
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#19",
+  "q": "Os pais de uma criança de 4 anos com fimose perguntam ao médico sobre a necessidade de cirurgia. O médico deve:",
+  "alts": [
+   "indicar postectomia;",
+   "informar que a cirurgia tem alto potencial de complicações;",
+   "aguardar ocorrência de infecção urinária para indicar cirurgia;",
+   "aguardar queixa de dificuldade para urinar para indicar a cirurgia;",
+   "explicar que a cirurgia aumenta risco futuro de infecções sexualmente transmissíveis."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 19
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#20",
+  "q": "Um recém-nascido de mãe adolescente com 15 anos recebe alta com orientação para que seja realizado o registro civil de nascimento (RCN) da criança. As orientações para o procedimento devem incluir:",
+  "alts": [
+   "a necessidade da presença do pai e da mãe para registro no cartório;",
+   "a não obrigatoriedade de apresentação de documentos de identidade dos pais;",
+   "a obrigatoriedade de que o registro seja realizado na Vara da Infância e da Juventude, por ser a mãe menor de idade;",
+   "a necessidade da presença de um dos avós do bebê, caso a mãe não seja emancipada;",
+   "a necessidade de apresentação de certidão de casamento ou contrato de união estável dos pais."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 20
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#21",
+  "q": "Durante consulta de puericultura, a mãe de um lactente de 8 meses demonstra preocupação com o desenvolvimento psicomotor de sua filha, que é bem diferente do de outras crianças da mesma idade. Ela não responde ao olhar ou sons, faz movimentos repetitivos, tem dificuldade em aceitar novos alimentos e comportamento agitado. O pediatra corretamente:",
+  "alts": [
+   "considera o comportamento do bebê normal para a idade;",
+   "considera que o bebê pode ser hiperativo;",
+   "indica matriculá-lo na creche para melhor socialização;",
+   "prescreve um complexo vitamínico para melhora no desenvolvimento;",
+   "aplica o formulário M-CHAT-R/F para auxiliar no diagnóstico."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 21
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#22",
+  "q": "Um lactente de 7 meses, com salivação excessiva, coceira nas gengivas e irritabilidade, ao exame, apresenta erupção parcial do dente incisivo central inferior esquerdo. Sobre a saúde oral dessa criança, devem ser dadas as seguintes orientações:",
+  "alts": [
+   "a escovação dos dentes é necessária quando completar 1 ano;",
+   "a chupeta deve ser oferecida;",
+   "a utilização de anestésico tópico para redução do desconforto;",
+   "a suspensão do aleitamento materno está indicada quando nascerem os dentes pelo risco de lesão mamária;",
+   "a escovação dos dentes deve ser realizada com pequena quantidade de creme dental para bebê."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 22
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#23",
+  "q": "Um escolar de 7 anos apresenta, há 3 dias, cefaleia, edema de membros inferiores, sem sinais flogísticos, e urina escura. Ao exame, foram constatadas hipertensão arterial e hematúria no exame de urina. Está em uso de polivitamínicos e dipirona. A principal hipótese diagnóstica, nesse caso, é de:",
+  "alts": [
+   "reação alérgica medicamentosa;",
+   "síndrome nefrótica;",
+   "complicação de infecção estreptocócica;",
+   "intoxicação exógena;",
+   "hipertensão arterial primária com lesão renal."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 23
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#24",
+  "q": "Um paciente de 1 ano e 3 meses, com síndrome gripal, realizou teste rápido para SARS-CoV-2, que foi positivo. O exame físico identificou estertores subcrepitantes difusos, e a radiografia de tórax revelou infiltrado intersticial peri-hilar, bilateralmente. O tratamento deve ser:",
+  "alts": [
+   "internado em enfermaria para observação da resposta ao tratamento sintomático;",
+   "domiciliar, nebulizando com corticoide e beta-2 adrenérgico;",
+   "internado, para realização de antibiótico venoso;",
+   "domiciliar, com uso de sintomáticos;",
+   "internado em unidade de terapia intensiva com administração de oxigênio."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 24
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#25",
+  "q": "Uma criança de 2 anos, com febre alta (39 °C) há 3 dias e irritabilidade, se recusa a se alimentar, tem dor abdominal intensa e a mãe relata 3 episódios de vômitos nas últimas 12 horas. A mãe procurou a emergência, onde foram realizados exames, e foi dado o diagnóstico de dengue. O tratamento deve ser:",
+  "alts": [
+   "prescrever prednisolona e sais de reidratação oral;",
+   "prescrever sintomáticos e orientar sinais de gravidade;",
+   "internar a criança para início de antibiótico venoso;",
+   "prescrever nitazoxanida e solicitar exames de controle;",
+   "internar a criança para hidratação venosa, sintomáticos e observação. "
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 25
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#26",
+  "q": "Uma mãe informa que recebeu comunicado da escola sobre caso de meningite meningocócica na turma do seu filho de 6 anos. O pediatra deve orientá-la a:",
+  "alts": [
+   "iniciar quimioprofilaxia na criança, com rifampicina;",
+   "colher hemograma da criança;",
+   "deixar o filho em isolamento por 7 dias;",
+   "procurar o posto de saúde para vaciná-lo para meningite ACWY;",
+   "procurar emergência para que a criança seja examinada, mesmo sem sintomas."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 26
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#27",
+  "q": "Na avaliação de rotina de uma criança de 7 anos, foi observado ganho ponderal excessivo nos últimos 6 meses. Em relação à realização de exercícios físicos, o paciente deve ser orientado a:",
+  "alts": [
+   "evitar atividades de flexibilidade pelo risco de lesões articulares;",
+   "evitar exercícios ao ar livre, devido à exposição solar;",
+   "priorizar exercícios extenuantes que estimulam a produção do hormônio de crescimento;",
+   "fazer 60 minutos diários de atividade física de moderada a vigorosa intensidade;",
+   "iniciar atividades físicas estruturadas (danças, lutas, esportes coletivos) após os 8 anos."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 27
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#28",
+  "q": "Uma criança de 5 anos, atendida na emergência com queixa de coriza e tosse há 5 dias, tem usado desloratadina com pouca melhora. Ontem iniciou dor nos tornozelos e dor abdominal intensa, além de terem aparecido petéquias elevadas nas nádegas e nos membros inferiores, com discreto edema de mãos e tornozelos. A principal hipótese diagnóstica, nesse caso, é:",
+  "alts": [
+   "leucemia;",
+   "farmacodermia;",
+   "distúrbio da coagulação;",
+   "púrpura de Henoch-Schönlein;",
+   "púrpura trombocitopênica idiopática."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 28
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#29",
+  "q": "Um adolescente que estava praticando surfe apresentou, subitamente, dor em queimação na perna. Após sair do mar, observou lesão de queimadura na panturrilha esquerda. No posto do salva-vidas, foi corretamente realizada:",
+  "alts": [
+   "limpeza da lesão com água doce;",
+   "aplicação de urina do paciente na lesão;",
+   "aplicação de pasta d’água no local;",
+   "limpeza da lesão com água do mar e aplicação de vinagre;",
+   "fricção da lesão com água morna para retirada do veneno."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 29
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#30",
+  "q": "Uma lactente de 10 meses, com episódios de melena e anemia, foi avaliada na emergência, onde o cirurgião pediátrico realizou toque retal, que foi livre de sangramento, e clister opaco, sem evidências de pólipos intestinais. Com o objetivo de elucidação diagnóstica, deve-se solicitar:",
+  "alts": [
+   "pesquisa de elementos anormais nas fezes;",
+   "colonoscopia;",
+   "ressonância magnética do abdômen;",
+   "seriografia esôfago-gastro-duodenal;",
+   "cintilografia intestinal com Tc-99."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 30
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#31",
+  "q": "A abordagem de lactente de 2 meses, saudável, em bom estado geral, com aleitamento materno exclusivo, apresentando proctocolite alérgica, é:",
+  "alts": [
+   "iniciar dieta isenta de proteína do leite de vaca para a mãe até 6 meses de idade e dosar IgE específica contra caseína e proteínas do soro do leite de vaca e soja no lactente;",
+   "iniciar fórmula hidrolisada para lactente, manter aleitamento materno complementar e realizar hemograma, coagulograma e corpocultura no lactente;",
+   "iniciar fórmula hidrolisada para lactente, suspender aleitamento materno e dosar IgE sérica específica contra caseína e proteínas do soro leite de vaca;",
+   "iniciar dieta isenta de proteína do leite de vaca para a mãe, não realizar exames laboratoriais, reavaliar lactente após 4 semanas, avaliar reintrodução de proteínas;",
+   "iniciar fórmula de aminoácidos para lactente, suspender aleitamento materno e realizar hemograma, coagulograma e corpocultura no lactente."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 31
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#32",
+  "q": "Menina de 6 anos foi atendida na UPA com queixa de febre e cervicalgia à direita, com amplitude reduzida do movimento do pescoço e aumento de volume do local da dor há 24 horas. Está em tratamento para amidalite estreptocócica com amoxicilina em dose e intervalo adequados há 4 dias. O diagnóstico é:",
+  "alts": [
+   "abscesso retrofaríngeo;",
+   "meningite bacteriana;",
+   "subluxação atlantoaxial;",
+   "torcicolo muscular traumático;",
+   "adenite cervical reacional."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 32
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#33",
+  "q": "Uma menina de 7 anos, portadora de epilepsia, associou carbamazepina ao esquema anticonvulsivante prévio por descontrole de crises. Após uma semana do início da medicação, evoluiu com melhora das crises, mas há 24 horas apresenta anorexia, cefaleia e exantema maculopapular eritematoso em face e tórax, doloroso ao toque, com formação de bolhas no centro e ocupando 40% da superfície corporal. Há lesões em conjuntiva e mucosa oral. A hipótese diagnóstica, com base nos dados apresentados, é:",
+  "alts": [
+   "necrólise epidérmica tóxica;",
+   "eritema multiforme;",
+   "síndrome de Stevens-Johnson;",
+   "penfigoide bolhoso;",
+   "vasculite. "
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 33
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#34",
+  "q": "Joana, mãe de 4 filhos, recebeu diagnóstico de tuberculose pulmonar há 7 dias (BAAR positivo no escarro espontâneo), ao sair da maternidade. Procura a unidade básica de saúde para avaliação dos menores. Todos estão assintomáticos e têm radiografias de tórax normais. As idades e os resultados da prova tuberculínica (PT) estão descritos a seguir. • Criança A: 8 dias de vida; não realizou PT; não vacinada com BCG; • Criança B: 1 ano; PT = 6 mm; vacinada com BCG ao nascer; • Criança C: 3 anos; PT = 0 mm; vacinada com BCG ao nascer; • Adolescente D: 12 anos; PT = 5 mm; vacinado com BCG ao nascer. A conduta correta para cada caso, nesse momento, é:",
+  "alts": [
+   "criança A: iniciar quimioprofilaxia primária para tuberculose; criança B: iniciar tratamento para tuberculose latente; criança C: repetir PT em 8 semanas; adolescente D: iniciar tratamento para tuberculose latente;",
+   "criança A: iniciar quimioprofilaxia primária para tuberculose; criança B: repetir PT em 8 semanas; criança C: repetir PT em 8 semanas; adolescente D: iniciar tratamento para tuberculose latente;",
+   "criança A: realizar PT e, se positiva, iniciar quimioprofilaxia primária para tuberculose; criança B: repetir PT em 8 semanas; criança C: repetir PT em 8 semanas; adolescente D: repetir PT em 8 semanas;",
+   "criança A: realizar BCG e não realizar PT pela idade; criança B: repetir PT em 8 semanas; criança C: repetir PT em 8 semanas; adolescente D: repetir PT em 8 semanas;",
+   "criança A: aguardar até o terceiro mês de vida para realizar PT; criança B: iniciar tratamento para tuberculose latente; criança C: repetir PT em 8 semanas; adolescente D: repetir PT em 8 semanas."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 34
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en24_neo#35",
+  "q": "Um menino de 5 anos é trazido para consulta pediátrica na unidade básica de saúde, por estar apresentando perda de peso há 2 meses, esteatorreia, dor epigástrica, náuseas e vômitos. Traz um exame parasitológico de fezes, que indica a presença de Giardia lamblia. O único antiparasitário disponível para dispensação é o albendazol, que, nesse caso:",
+  "alts": [
+   "deve ser prescrito em uma dose diária por 3 dias, sem necessidade de repetir;",
+   "deve ser prescrito em uma dose diária por 7 dias e repetido após 1 semana;",
+   "deve ser prescrito em uma dose diária por 5 dias, sem necessidade de repetir;",
+   "deve ser prescrito em uma dose única e repetido após 7 dias;",
+   "deve ser prescrito em uma dose diária por 5 dias e repetido após 7 dias."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 35
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#36",
+  "q": "Uma menina de 2 anos é trazida à emergência porque sofreu trauma de crânio após queda da cama dos pais (altura de 50 cm), há 30 minutos. Apresentou um episódio de vômito após a queda, mas não teve alteração no nível de consciência. No momento, pontua 15 na escala de coma de Glasgow e está assintomática. A conduta correta, nesse caso, é:",
+  "alts": [
+   "alta hospitalar com observação domiciliar;",
+   "observação clínica por 2 horas e alta após, se assintomática;",
+   "realização de tomografia de crânio e observação hospitalar por 6 horas;",
+   "observação clínica por no mínimo 6 horas e alta após, se assintomática;",
+   "realização de tomografia de crânio e observação hospitalar por 12 horas."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 36
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#37",
+  "q": "Uma menina de 10 anos chega à emergência com edema de lábios e língua, broncoespasmo e vômitos. Os sintomas se iniciaram há 30 minutos, após uso de anti-inflamatório para cefaleia. A hipótese diagnóstica e a conduta nesse caso são, respectivamente:",
+  "alts": [
+   "angioedema; adrenalina intramuscular no vastolateral da coxa na dose de 0,01 mg/kg da diluição 1:1000;",
+   "anafilaxia; adrenalina subcutânea no braço na dose de 0,01 mg/kg da diluição 1:1000;",
+   "angioedema; adrenalina subcutânea no braço na dose de 0,01 mg/kg da diluição 1:1000;",
+   "anafilaxia; adrenalina intramuscular no vastolateral da coxa na dose de 0,01 mg/kg da diluição 1:1000;",
+   "anafilaxia; adrenalina intramuscular no vastolateral da coxa na dose de 0,01 mg/kg da diluição 1:10000."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 37
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#38",
+  "q": "Um menino de 7 anos é admitido na emergência com cefaleia de forte intensidade, febre alta e vômitos há 24 horas. Ao exame, apresenta-se prostrado e com rigidez de nuca, além de exibir petéquias em membros superiores e tronco. A punção lombar é realizada, e o resultado do líquor é sugestivo de meningite bacteriana. A antibioticoterapia de escolha para o caso é:",
+  "alts": [
+   "ceftriaxona (100 mg/kg/dia);",
+   "ceftriaxona (100 mg/kg/dia) + vancomicina (60 mg/kg/dia);",
+   "cefotaxima (200 mg/kg/dia) + vancomicina (60 mg/kg/dia);",
+   "ceftriaxona (50 mg/kg/dia) + vancomicina (60 mg/kg/dia);",
+   "cefotaxima (200 mg/kg/dia) + ampicilina (200 mg/kg/dia)."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 38
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#39",
+  "q": "Um adolescente de 12 anos apresenta febre (38 – 38,5 °C) há 14 dias, cansaço e dor de garganta. Ao exame, placas esbranquiçadas em amígdalas, linfonodomegalias em cadeias cervicais anteriores bilaterais e esplenomegalia. Refere que, no segundo dia dos sintomas, procurou emergência e foi liberado com amoxicilina, mas evoluiu com exantema maculopapular, no segundo dia do antibiótico, que foi suspenso. A provável etiologia para o quadro é:",
+  "alts": [
+   "vírus da dengue;",
+   "vírus Epstein-Barr;",
+   "Streptococcus beta-hemolítico do grupo A;",
+   "zika vírus;",
+   "parvovírus B19. "
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 39
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#40",
+  "q": "A asma é uma doença pulmonar crônica que necessita de controle para evitar perda progressiva da função pulmonar. O tratamento intercrise tem como principal fármaco:",
+  "alts": [
+   "corticoide inalatório;",
+   "antileucotrieno;",
+   "broncodilatador de longa duração;",
+   "broncodilatador de curta duração;",
+   "corticoide sistêmico na menor dose possível."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 40
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#41",
+  "q": "Na vasculite por imunoglobulina A, algumas manifestações clínicas requerem tratamento com corticoterapia sistêmica, dentre elas:",
+  "alts": [
+   "oligoartrite aguda e hemorragia pulmonar;",
+   "púrpura palpável e envolvimento gastrointestinal grave;",
+   "orquite e envolvimento gastrointestinal grave;",
+   "necrose de pele e oligoartrite aguda;",
+   "artralgia e vasculite cerebral."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 41
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#42",
+  "q": "Na distopia testicular, o testículo é palpável, mas não se encontra na posição anatômica adequada. O tratamento cirúrgico está indicado:",
+  "alts": [
+   "dentro do segundo ano de vida;",
+   "após o primeiro ano de vida;",
+   "após o segundo ano de vida;",
+   "após confirmação da distopia por ultrassonografia;",
+   "no primeiro ano de vida, passados os primeiros 6 meses."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 42
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#43",
+  "q": "A leucorreia fisiológica, que ocorre em recém-nascidas e meninas na puberdade, tem curso benigno. É papel do pediatra identificar as características desse tipo de leucorreia, que:",
+  "alts": [
+   "cursa com disúria associada;",
+   "apresenta, ao microscópio, patógenos e leucócitos;",
+   "tem aspecto inodor, homogêneo, leitoso ou transparente e não pruriginoso;",
+   "acontece sempre após a menarca por ser uma secreção estrogênio-dependente;",
+   "cursa com secreção clara, não se tornando amarelada quando depositada por um tempo na calcinha."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 43
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#44",
+  "q": "Um menino de 6 anos é trazido para atendimento médico por apresentar edema de início há 3 semanas, inicialmente em membros inferiores, evoluindo para anasarca. Refere ainda “urina espumosa” e ganho de 3 kg no período. Traz um exame de elementos anormais na urina, que demonstra proteinúria, cilindrúria e lipidúria. Demais exames laboratoriais: hemograma normal, hipoalbuminemia e hipercolesterolemia. Diante da hipótese diagnóstica de síndrome nefrótica, considerase confirmada proteína nefrótica quando a proteína de 24 horas apresenta valor:",
+  "alts": [
+   "acima de 50 mg/kg/dia ou 40 mg/m2/hora;",
+   "acima de 40 mg/kg/dia ou 30 mg/m2/hora;",
+   "acima de 30 mg/kg/dia ou 20 mg/m2/hora;",
+   "acima de 40 mg/kg/dia ou 20 mg/m2/hora;",
+   "acima de 50 mg/kg/dia ou 30 mg/m2/hora."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 44
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#45",
+  "q": "A hematúria é uma manifestação que faz parte do quadro clínico da síndrome nefrítica, além do edema, da proteinúria e da hipertensão arterial. Nessa síndrome, a hematúria:",
+  "alts": [
+   "é microscópica e está acompanhada de cilindros hemáticos;",
+   "é macroscópica e não está acompanhada de cilindros hemáticos;",
+   "é macroscópica e está acompanhada de cilindros hemáticos;",
+   "pode ser microscópica ou macroscópica e está acompanhada de cilindros hemáticos;",
+   "pode ser microscópica ou macroscópica e não está acompanhada de cilindros hemáticos."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 45
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#46",
+  "q": "Nos meninos com fimose, é comum a formação dos cistos de esmegma pela aderência balanoprepucial. Esses cistos indicam:",
+  "alts": [
+   "processo de resolução da fimose e prepúcio descolando da glande;",
+   "complicação da aderência, havendo indicação para intervenção cirúrgica de imediato;",
+   "infecção secundária ao acúmulo do esmegma, devendo ser tratado com antibioticoterapia tópica;",
+   "infecção secundária ao acúmulo do esmegma, devendo ser tratado com antibioticoterapia sistêmica;",
+   "necessidade de tratamento tópico com beclometasona ou clobetasol por 4 semanas."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 46
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#47",
+  "q": "A otite média aguda pode necessitar de tratamento com antibioticoterapia sistêmica em algumas situações. Nos casos em que não há uso prévio de antibiótico nos últimos 30 dias nem conjuntivite purulenta, o fármaco de escolha é:",
+  "alts": [
+   "cefuroxima;",
+   "cefaclor;",
+   "amoxicilina;",
+   "ampicilina + sulbactam;",
+   "amoxicilina + clavulanato de potássio."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 47
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#48",
+  "q": "O índice universalmente aceito para classificação da obesidade é o índice de massa corporal (IMC). A classificação de obesidade, na faixa etária de 5 a 19 anos, corresponde ao IMC:",
+  "alts": [
+   "entre percentis 97 e 99,9 ou escores entre Z +2 e +3;",
+   "entre percentis 85 e 97 ou escores entre Z +1 e +2;",
+   "acima do percentil 99,9 ou escores acima de Z+3;",
+   "acima do percentil 99,9 ou de escores entre Z+2 e +3;",
+   "entre percentis 50 e 85 ou escores Z entre 0 e +1. "
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 48
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#49",
+  "q": "As leucemias são as neoplasias malignas mais comuns na infância. Em relação a essas neoplasias, é correto afirmar que:",
+  "alts": [
+   "a leucemia linfoide crônica é a forma mais comum das leucemias na infância;",
+   "tais doenças apresentam anemia, leucocitose, neutropenia e plaquetopenia, mas não são identificados blastos no sangue periférico;",
+   "o diagnóstico é confirmado com exames laboratoriais que evidenciam pancitopenia, aumento de VHS e LDH;",
+   "a leucemia mieloide crônica é sintomática desde sua fase inicial e não cursa com esplenomegalia;",
+   "a leucemia linfoblástica aguda tem como sintomas predominantes astenia, dor óssea, febre, fenômenos hemorrágicos e linfonodomegalias."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 49
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#50",
+  "q": "Um lactente de 18 meses é trazido à consulta de puericultura apresentando palidez de mucosas, fadiga e cansaço, há aproximadamente 3 meses. Recebeu aleitamento materno exclusivo até os 3 meses de vida, quando iniciou leite de vaca integral; aos 6 meses, introduziu alimentação complementar, mas nunca fez uso de ferro profilático. Sabendo-se que a principal hipótese é anemia ferropriva, e considerando que hematócrito e hemoglobina estão abaixo de 2 desvios padrão da média da população normal, é correto concluir que o hemograma evidencia:",
+  "alts": [
+   "VCM baixo, HCM baixo e RDW elevado;",
+   "VCM normal, HCM baixo e RDW elevado;",
+   "VCM baixo, HCM baixo e RDW normal;",
+   "VCM normal, HCM normal e RDW elevado;",
+   "VCM normal, HCM normal e RDW normal."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 50
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#51",
+  "q": "Um lactente de 7 meses apresenta há 1 mês contrações abruptas de tronco e pescoço com adução dos braços, seguidas por uma contração tônica que dura segundos. Desde o início dos sintomas, parou de levar a mão até a linha média e de sentar com apoio. Traz um eletroencefalograma que demonstra hipsarritimia. A síndrome epiléptica compatível com os achados é:",
+  "alts": [
+   "síndrome de West;",
+   "síndrome de Dravet;",
+   "crise de ausência;",
+   "síndrome de Lennox-Gastaut;",
+   "paroxismos centrotemporais."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 51
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#52",
+  "q": "Uma escolar de 8 anos em tratamento de doença de Crohn há 2 anos apresenta recaída com dor abdominal e emagrecimento, sem resposta adequada às atuais medicações. Sente-se cansada, enfraquecida, sonolenta e sem motivação; relata ainda não conseguir prestar atenção no que estuda. Considerando esses últimos sintomas, é correto afirmar que:",
+  "alts": [
+   "apesar dos diversos sintomas presentes na queixa, inexiste a possibilidade de a doença se tornar incapacitante;",
+   "como o tratamento da doença de base já se mostrou adequado antes, deve ser evitado o uso de antidepressivos;",
+   "estratégias de modificação de comportamentos têm resultados dúbios neste momento, devendo ser evitadas;",
+   "muito provavelmente está ocorrendo alguma complicação neurológica da doença de base, pois houve recaída;",
+   "trata-se de sintomas que ocorrem comumente nesses casos, e a prática de atividade física pode trazer benefício."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 52
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#53",
+  "q": "Escolar, 9 anos, masculino, há 15 dias apresentou quadro de diarreia aguda com febre baixa. Há 3 dias iniciou dormência e parestesia em ambos os membros inferiores, seguidas de fraqueza, que impede a deambulação. Atualmente apresenta, além da perda da força muscular, arreflexia nos membros inferiores e dormência e parestesia em tórax. No liquor apresenta aumento de proteínas com leucócitos e glicose normais. O tratamento a ser iniciado é:",
+  "alts": [
+   "imunoglobulina;",
+   "plasmaférese;",
+   "corticosteroides;",
+   "imunossupressores;",
+   "anti-inflamatório não esteroide."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 53
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#54",
+  "q": "Um lactente com 3 meses, nascido a termo e com acompanhamento adequado de puericultura, apresenta criptorquidia à esquerda. Tem crescimento e desenvolvimento adequados e não há outras alterações ao exame físico. A conduta preconizada nesse caso é:",
+  "alts": [
+   "encaminhar o mais breve possível ao cirurgião para orquidopexia;",
+   "aguardar a descida espontânea do testículo até os 6 meses de idade;",
+   "iniciar tratamento com hormônios para induzir a descida do testículo;",
+   "solicitar ultrassonografia para avaliar a localização do testículo;",
+   "indicar a orquiectomia pelo risco de malignização em idade posterior. "
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 54
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#55",
+  "q": "Um escolar de 7 anos está sendo atendido no setor de emergência com história de ter iniciado, 5 minutos antes, episódio de tremores no corpo, repetitivos, com saída de baba pela boca e olhos virados para cima. Próximo à chegada ao hospital, parou de tremer. Antes do episódio, a criança estava brincando sentada no sofá, quando tombou já tremendo, sem cair no chão. Não consumiu alimentos ou bebidas, nem tem história de doenças ou crises anteriores. O exame físico mostrou apenas perda da consciência e presença de urina na roupa. A conduta imediata deve ser:",
+  "alts": [
+   "medicar com benzodiazepínico, buscando evitar que a crise se repita;",
+   "indicar a internação, uma vez que não há história prévia de crises;",
+   "monitorar os sinais vitais e ter atenção com as vias aéreas;",
+   "liberar a criança e orientar os pais, uma vez que a crise cessou;",
+   "realizar punção lombar visando a afastar infecção do sistema nervoso."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 55
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#56",
+  "q": "Uma escolar com 2 anos é levada à unidade básica de saúde para consulta com o pediatra porque sua mãe percebeu que sua vagina estava fechada. Não havia queixas anteriores. Ao exame físico, foi encontrada aderência dos pequenos lábios até o terço superior da vulva com uma linha central semitransparente, sendo o restante normal. A conduta é:",
+  "alts": [
+   "encaminhar a criança ao ginecologista pediátrico;",
+   "indicar a separação cirúrgica dos pequenos lábios;",
+   "separar manualmente usando um anestésico local;",
+   "observar, uma vez que a criança está assintomática;",
+   "usar estrogênio tópico, já que pode ocorrer disúria."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 56
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#57",
+  "q": "Uma adolescente comparece à unidade básica de saúde para consulta, pois necessita de uma declaração médica para matrícula no colégio. No prontuário consta que, aos 10 anos e quatro meses, apresentou telarca e aos 11 anos, pubarca. No momento tem 14 anos e seis meses e relata ainda não ter menstruado. O exame físico é normal. Considerando a fisiologia da puberdade, a conduta em relação à ausência de menarca deve ser:",
+  "alts": [
+   "investigar com exames laboratoriais;",
+   "encaminhar para o endocrinologista;",
+   "fazer exame de ultrassonografia pélvica;",
+   "iniciar o tratamento medicamentoso;",
+   "considerar o desenvolvimento normal."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 57
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#58",
+  "q": "Pré-escolar, 3 anos, sexo feminino, com história de várias infecções respiratórias, incluindo internações, está sempre com tosse produtiva e secreção espessa. Atualmente vem apresentando fezes muito pastosas (podendo ser líquidas), de cor acinzentada, volumosas e gordurosas. Exame físico: aumento do diâmetro anteroposterior do tórax; índice de massa corporal entre (–)3 e (–)2 escores Z. O exame complementar que pode confirmar os sintomas atuais é:",
+  "alts": [
+   "dosagem de calprotectina;",
+   "ultrassonografia abdominal;",
+   "pesquisa de Clostridioide;",
+   "dosagem de elastase fecal;",
+   "colonoscopia com biópsias."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 58
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#59",
+  "q": "Um lactente com 3 meses é levado ao atendimento de emergência por ter apresentado pela primeira vez episódio de cianose e hipotonia, que durou cerca de 30 segundos. Os pais negam qualquer intercorrência antes ou tentativa de ajuda após o episódio. A história clínica revela ter nascido a termo e o exame físico no momento não mostra alterações. Não há uma condição médica que justifique o evento. O pediatra responsável pelo atendimento deverá considerar o evento como de:",
+  "alts": [
+   "baixo risco e opcionalmente observar por uma a quatro horas;",
+   "alto risco e realizar oximetria de pulso por ao menos seis horas;",
+   "baixo risco e solicitar eletroencefalograma com 12 derivações;",
+   "alto risco e indicar internação hospitalar e exames laboratoriais;",
+   "baixo risco e realizar exames laboratoriais e de imagem."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 59
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#60",
+  "q": "Um escolar de 6 anos, masculino, apresenta perda involuntária de urina durante o sono. Os episódios correm mais de duas vezes na semana, não havendo relato de períodos sem essa perda. Não há nada digno de nota na anamnese e o exame físico é normal. A criança deve ser:",
+  "alts": [
+   "investigada com ultrassonografia para defeitos do trato urinário;",
+   "encaminhada a um urologista por estar fora da faixa etária para os sintomas;",
+   "considerada como sem necessidade de investigação pela ausência de fatores de risco;",
+   "submetida a uma uretrocistografia miccional para avaliação de disfunção da bexiga;",
+   "inicialmente submetida a exames laboratoriais de rotina de urina, assim como urocultura. "
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 60
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#61",
+  "q": "Um escolar, masculino, de 5 anos é levado à consulta por sua mãe, que se mostra preocupada por ter encontrado acidentalmente um caroço no pescoço do filho e outro na raiz da coxa. A criança está assintomática e não há história prévia de doenças a curto prazo. Após constatar que, no exame físico, nada foi encontrado além da palpação de pequenos linfonodos em região cervical esquerda e em região inguinal direita, o pediatra deverá explicar à mãe que esses linfonodos só são considerados aumentados nessas regiões, se maiores, respectivamente, que:",
+  "alts": [
+   "0,5 cm e 1 cm;",
+   "1 cm e 1,5 cm;",
+   "1,5 cm e 2 cm;",
+   "2 cm e 2,5 cm;",
+   "2,5 cm e 3 cm."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 61
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#62",
+  "q": "Em consulta de puericultura na unidade básica de saúde, o responsável por um pré-escolar de 3 anos e meio relata que a criança vem lutando contra a retirada da fralda, recusando-se a sentar no penico ou entrar no banheiro para evacuar. Já foram feitas várias tentativas de convencimento com estratégias diferentes, e a criança, além de não ceder, pode ficar alguns dias sem evacuar caso não seja colocada a fralda. A orientação adequada para esse momento é:",
+  "alts": [
+   "insistir com o treinamento, não valorizando esse comportamento;",
+   "buscar novas formas de convencimento, sem retorno às fraldas;",
+   "procurar ajuda especializada, já que não se justifica o uso de fralda;",
+   "interromper temporariamente o treinamento, retornando ao uso de fraldas;",
+   "iniciar tratamento cognitivo-comportamental, retornando ao uso de fraldas."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 62
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#63",
+  "q": "Pré-escolar, sexo feminino, moradora de região rural, apresenta queda do desempenho escolar e frequentemente se queixa de cansaço. Tem dor abdominal e apresenta esporadicamente episódios de diarreia e vômitos. Sua mãe relata já ter percebido vesículas muito pruriginosas na planta dos pés da filha. O exame físico mostra adinamia e palidez. No hemograma apresenta anemia e eosinofilia. O diagnóstico mais provável é:",
+  "alts": [
+   "tricuríase;",
+   "amebíase;",
+   "balantidíase;",
+   "ascaridíase;",
+   "ancilostomíase."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 63
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#64",
+  "q": "Um escolar de 8 anos apresenta há 15 dias secreção e obstrução nasal, além de tosse. Há um dia vem apresentando febre. O medicamento a ser iniciado é:",
+  "alts": [
+   "claritromicina;",
+   "cefixima;",
+   "azitromicina;",
+   "amoxicilina;",
+   "cefalexina."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 64
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#65",
+  "q": "Um adolescente com 11 anos apresentou tosse produtiva, secreção hialina nasal e febre que duraram cerca de quatro dias. Na sequência, surgiu conjuntivite e prostração, vindo em seguida exantema eritematoso maculopapular, inicialmente retroauricular, progredindo caudalmente, seguindo-se de descamação furfurácea. O diagnóstico mais provável é:",
+  "alts": [
+   "sarampo;",
+   "dengue;",
+   "rubéola;",
+   "escarlatina;",
+   "exantema súbito."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 65
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#66",
+  "q": "Um escolar com 4 anos, em acompanhamento no ambulatório de pediatria, apresenta lesões de eczema subagudo e crônico, com pele áspera e seca, localizadas em pregas antecubitais e poplíteas, resultando no espessamento das linhas naturais e formação de crostas hemáticas. No momento as lesões estão úmidas, com presença de crostas amareladas (melicéricas). Considerando essa lesão em seu momento atual, o provável agente etiológico é:",
+  "alts": [
+   "Herpes simplex vírus;",
+   "Candida albicans;",
+   "Staphylococcus aureus;",
+   "Papilomavírus humano;",
+   "Streptococcus pyogenes."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 66
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#67",
+  "q": "Em consulta de puericultura de um recém-nascido com 15 dias de vida que nasceu no próprio domicílio, foi observada a ausência de vacinas, assim como dos testes de triagem neonatal. Durante a consulta, o responsável foi orientado quanto à vacinação e à triagem neonatal. Após a realização do teste do reflexo vermelho, recebeu a orientação de que este deverá ser repetido ao menos:",
+  "alts": [
+   "quatro vezes ao ano no primeiro ano de vida;",
+   "três vezes ao ano nos primeiros três anos de vida;",
+   "duas vezes ao ano nos primeiros dois anos de vida;",
+   "seis vezes ao ano nos primeiros dois anos de vida;",
+   "uma vez ao ano nos primeiros quatro anos de vida."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 67
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#68",
+  "q": "Um lactente com 5 meses de vida levado à consulta de puericultura apresenta exame físico normal. Na avaliação do desenvolvimento, é esperado que o paciente:",
+  "alts": [
+   "brinque com os pés;",
+   "agite os brinquedos;",
+   "apoie-se nos pés e nas mãos;",
+   "pare de chorar diante de voz conhecida;",
+   "apresente desconexão de movimentos de mãos e pés. "
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 68
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#69",
+  "q": "Uma primípara, com acompanhamento pré-natal com três consultas, dá à luz recém-nascido a termo, masculino, com peso de 3,010 g, parto normal, Apgar 9/9. No exame físico é observada fissura labial sem fenda palatina. A conduta imediata a ser tomada é a de:",
+  "alts": [
+   "amamentação direta no seio;",
+   "dieta por sonda nasogástrica;",
+   "utilização de copo e leite materno;",
+   "oferta da dieta na mamadeira;",
+   "suspensão de toda a alimentação."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 69
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#70",
+  "q": "Um adolescente masculino de 11 anos comparece à consulta com pediatra. Na anamnese, há referência a demora para andar – o que, segundo a mãe, teria ocorrido quase aos 3 anos – e a fraqueza. Quando o paciente se deitou na maca para ser examinado, o pediatra percebeu marcha anserina e lordose lombar importante. O paciente apresentou dificuldade em subir os degraus da escada de acesso à maca. No exame físico foram observados hipertrofia de panturrilhas e levantar miopático. O exame laboratorial a ser solicitado de imediato é a dosagem de:",
+  "alts": [
+   "amônia sérica;",
+   "creatinoquinase;",
+   "eletrólitos séricos;",
+   "enzimas hepáticas;",
+   "proteína C reativa."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 70
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#71",
+  "q": "Uma lactente de 18 meses é levada à emergência com história de febre há 2 dias. Quando a temperatura sobe, fica um pouco parada, voltando a ficar bem quando a temperatura se aproxima novamente de 36,5 °C. O responsável nega outros sintomas. As vacinas estão em dia. Exame físico: sem qualquer alteração. Para que se trace a conduta adequada a essa criança, os quesitos fundamentais a serem avaliados, além da idade, são:",
+  "alts": [
+   "a temperatura axilar, o exame físico e o leucograma;",
+   "o estado geral, o exame físico e o exame de urocultura;",
+   "o estado vacinal, a temperatura axilar e o leucograma;",
+   "o estado geral, o estado vacinal e exame de urocultura;",
+   "o exame físico, o estado geral da criança e o leucograma."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 71
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#72",
+  "q": "Um pré-escolar masculino com 4 anos, portador de doença falciforme, é levado à emergência com febre, tosse e dor abdominal iniciadas quase 24 horas antes. O exame físico mostra o estado geral regular, hipocorado 3+/4+, ictérico 1+/4+, boa perfusão periférica, taquidispneico, temperatura 38 °C, sat O2 90% em ar ambiente; ausculta respiratória com sibilos esparsos e cardíaca com ritmo em 2T, bulhas normofonéticas com sopro holossistólico 2+/4+; a palpação do abdômen mostrou o fígado a 1 cm do RCD e o baço a 2 cm do RCE. Radiografia de tórax mostrou infiltrado pulmonar. A conduta é:",
+  "alts": [
+   "analgesia, hidratação e antibiótico via oral;",
+   "internação, hidratação rigorosa e analgesia;",
+   "hidratação, salbutamol e antibiótico venoso;",
+   "internação, analgesia e antibiótico venoso;",
+   "internação, corticoide e antibiótico via oral."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 72
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#73",
+  "q": "Um recém-nascido feminino apresentou, aos 2 meses, lesões eritematosas anulares e levemente descamativas em face, tronco e membros, chamando atenção as lesões periorbitárias. Submetida a exames, o hemograma evidenciou anemia, leucopenia, neutropenia e plaquetopenia; sorologias virais negativas. As triagens neonatais foram normais. Foi constatado bloqueio cardíaco congênito de 2º grau. Não há relato de doença materna, o pré-natal foi feito corretamente e os exames foram normais. Esses sintomas estão relacionados principalmente aos anticorpos:",
+  "alts": [
+   "anti-U1RNP e ANCA;",
+   "anti-dsDNA e anti-MCV;",
+   "ASCA e fator antinuclear;",
+   "anti-CPP e antiqueratina;",
+   "anti-Ro/SSA e anti-La/SSB."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 73
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#74",
+  "q": "Um pré-escolar com 2 anos e 8 meses apresentou alteração em seu comportamento. Rapidamente regrediu, deixando de falar, evitando contato com outras pessoas, à exceção de uma prima, não correspondendo a afetos e fugindo do contato visual. Passou a apresentar comportamentos repetitivos, ficando todo o tempo com o mesmo objeto (uma chave de armário), alinhando brinquedos, não aceitando mudanças e mostrando-se seletivo em relação à alimentação. Nesse caso, a associação correta é:",
+  "alts": [
+   "estereotipias: estar sempre com um mesmo objeto;",
+   "déficit da linguagem corporal: evitar outras pessoas;",
+   "comportamento ritualizado: não aceitar mudanças;",
+   "interesses fixos e anormais: alimentação seletiva;",
+   "déficits de comunicação: contato apenas com a prima."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 74
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#75",
+  "q": "Um lactente com 6 meses é levado à unidade de saúde para vacinação, seguindo o Programa Nacional de Imunização. Em sua caderneta, consta terem sido feitas as seguintes vacinas: BCG; hepatite B; duas doses da vacina Penta; uma dose da vacina VIP; duas doses da vacina Pneumo 10; duas doses da vacina contra rotavírus; uma dose da vacina Meningo C. É explicado para o responsável que não foram feitas:",
+  "alts": [
+   "uma dose da Penta e duas da VIP;",
+   "uma dose da Penta e duas da Meningo C;",
+   "uma dose da hepatite B e uma da VIP;",
+   "uma dose da VIP e uma da Meningo C;",
+   "duas doses da hepatite B e uma da Pneumo 10."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 75
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#76",
+  "q": "Em palestra sobre a puericultura para os cuidadores de crianças em uma unidade básica de saúde, o pediatra abordou a prevenção de acidentes, identificando a principal causa de morte para cada faixa etária. A alternativa que relaciona corretamente uma determinada faixa etária à sua principal causa de morte é:",
+  "alts": [
+   "entre 12 e 18 anos: afogamento;",
+   "entre 2 e 5 anos: queimadura;",
+   "entre 6 e 10 anos: intoxicação;",
+   "entre 1 e 4 anos: queda em casa;",
+   "entre 14 e 17 anos: arma de fogo. "
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 76
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#77",
+  "q": "Um escolar, 5 anos, masculino, é levado à emergência apresentando dor abdominal forte, de início súbito, intermitente, que, quando ocorre, leva à posição antálgica e causa vômitos. Ao exame físico mostra-se em bom estado geral, com massa palpável em abdômen superior, mal definida e dolorosa. Foi realizada radiografia simples do abdômen, que mostrou área de densidade aumentada em epigástrio e ultrassonografia, com imagem tubular transversalmente e longitudinalmente em alvo. Considerando a principal hipótese diagnóstica, a localização mais comumente encontrada desse acometimento é:",
+  "alts": [
+   "ileal;",
+   "ileocólica;",
+   "cecocólica;",
+   "jejunoileal;",
+   "colônica."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 77
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en24_neo#78",
+  "q": "Escolar, 5 anos, masculino, apresentando disúria, foi medicado com sulfametoxazol + trimetoprim em serviço de emergência. Após 48 horas, surgiu icterícia, retornando o paciente à emergência. Exames laboratoriais: Hg: 8%, reticulocitose; exame de urina: hemoglobinúria. O mecanismo fisiopatológico da principal hipótese diagnóstica é:",
+  "alts": [
+   "reação antígeno-anticorpo;",
+   "lesão do imune endotelial;",
+   "dano à membrana celular;",
+   "alteração do formato celular;",
+   "microangiopatia trombótica."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 78
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#79",
+  "q": "Escolar, 5 anos, masculino, vem apresentando diarreia e distensão abdominal intermitentemente. Realizou o teste do hidrogênio espirado com lactulose, que foi positivo. Exames laboratoriais mostram dosagem de vitamina B12 sérica diminuída e aumento do folato sérico. Esses achados podem estar relacionados a:",
+  "alts": [
+   "defeitos anatômicos do intestino e aumento da motilidade;",
+   "erros inatos da imunidade e diminuição do pH do estômago;",
+   "presença de divertículos intestinais e aumento da motilidade;",
+   "pseudo-obstrução intestinal e aumento do pH do estômago;",
+   "uso de inibidores de bomba de prótons e aumento de motilidade."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 79
+  },
+  "avisos": []
+ },
+ {
+  "id": "en24_neo#80",
+  "q": "Um adolescente de 16 anos, masculino, sexualmente ativo com a namorada, apresenta duas lesões ulceradas, dolorosas, com bordos irregulares e eritemato-edematosas, cobertas por exsudato amarelado e de odor fétido, localizadas no sulco bálano prepucial; as lesões sangram facilmente. Há presença de linfadenomegalia inguino-crural dolorosa à direita. Em consulta com o hebiatra, foi medicado com dose única de 1 g de azitromicina. Em relação à atividade sexual do casal, o paciente deve ser informado de que:",
+  "alts": [
+   "deve suspender as relações e observar se a namorada apresentará doença;",
+   "pode manter relações a partir do início do tratamento;",
+   "deve aguardar a melhora da dor para voltar a ter relações sexuais;",
+   "deve triar laboratorialmente a namorada antes de retornarem às relações;",
+   "deve aguardar 1 a 2 semanas após o uso do medicamento para ter relações.   "
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 80
+  },
+  "avisos": []
+ }
+]

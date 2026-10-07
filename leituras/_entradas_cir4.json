@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Cirurgia",
+  "f": "urologia-de-urgencia.html",
+  "tipo": "EAU 2025 · AUA 2020 e 2022 · resumo de prova",
+  "area": "especialidades",
+  "min": 56,
+  "t": "Urologia de urgência",
+  "s": "Cólica renal com obstrução e a pielonefrite obstrutiva como urgência, escroto agudo com o escore TWIST, retenção urinária aguda, priapismo, parafimose, trauma renal, vesical e uretral e hematúria macroscópica, pelas diretrizes da EAU, da AUA e pelo ATLS 11ª edição."
+ },
+ {
+  "grupo": "Cirurgia",
+  "f": "cirurgia-vascular.html",
+  "tipo": "ESVS 2020 a 2024 · ESC 2024 · IWGDF 2023 · resumo de prova",
+  "area": "especialidades",
+  "min": 55,
+  "t": "Cirurgia vascular",
+  "s": "Oclusão arterial aguda pela classificação de Rutherford, doença arterial obstrutiva periférica e isquemia crônica ameaçadora do membro, aneurisma de aorta abdominal do rastreamento à ruptura, pé diabético, doença venosa crônica e acesso para hemodiálise, pelas diretrizes da ESVS, da ESC, do IWGDF e do KDOQI."
+ },
+ {
+  "grupo": "Cirurgia",
+  "f": "tireoide-e-pescoco-cirurgicos.html",
+  "tipo": "ATA 2025 · Bethesda 2023 · resumo de prova",
+  "area": "cabeca",
+  "min": 48,
+  "t": "Tireoide e pescoço cirúrgicos",
+  "s": "Nódulo de tireoide do laudo citológico à cirurgia, carcinoma diferenciado pela ATA 2025, carcinoma medular, complicações da tireoidectomia, hiperparatireoidismo primário com indicação cirúrgica, massa cervical no adulto e na criança, e o lado cirúrgico do incidentaloma adrenal e do feocromocitoma."
+ }
+]

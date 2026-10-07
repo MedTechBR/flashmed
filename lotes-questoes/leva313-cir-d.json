@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Mulher de 44 anos faz ultrassonografia cervical por desconforto inespecífico. Há nódulo único de 1,2 cm no lobo esquerdo, sólido, hipoecoico, com margens regulares, mais largo que alto e sem focos ecogênicos. Pelo ACR TI-RADS, a soma é de 4 pontos. Ela está eutireóidea e não tem linfonodos suspeitos nem história de irradiação cervical. Qual é a conduta adequada para o nódulo?",
+  "alts": [
+   "Seguimento ultrassonográfico, sem punção neste momento",
+   "Punção aspirativa com agulha fina guiada por ultrassom",
+   "Cintilografia com iodo para definir se o nódulo é quente",
+   "Lobectomia esquerda diagnóstica com exame de congelação",
+   "Dosagem de calcitonina e tireoglobulina antes de decidir"
+  ],
+  "gab": 0,
+  "tema": "cabeca",
+  "sub": "TI-RADS e indicação de PAAF",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American College of Radiology. ACR TI-RADS: White Paper, 2017",
+  "coment": "No ACR TI-RADS, 4 pontos classificam o nódulo como TR4 (moderadamente suspeito). Para TR4, a punção é indicada a partir de 1,5 cm e o seguimento ultrassonográfico a partir de 1,0 cm. Com 1,2 cm, o nódulo entra na faixa de seguimento (exames em 1, 2, 3 e 5 anos), sem punção agora. Os cortes de PAAF são 2,5 cm para TR3 e 1,0 cm para TR5. Cintilografia só faz sentido com TSH suprimido, e tireoglobulina não diferencia nódulo benigno de maligno.",
+  "porAlt": [
+   "Correta: TR4 com 1,2 cm fica abaixo do corte de punção (1,5 cm) e acima do de seguimento (1,0 cm).",
+   "A punção no TR4 é indicada só a partir de 1,5 cm; com 1,2 cm o caminho é o seguimento.",
+   "A cintilografia é reservada ao nódulo com TSH baixo, para identificar nódulo autônomo.",
+   "Cirurgia diagnóstica não é indicada para nódulo TR4 abaixo do corte de punção.",
+   "Tireoglobulina não tem papel na avaliação inicial do nódulo e não muda a indicação de punção."
+  ]
+ },
+ {
+  "q": "Homem de 38 anos tem nódulo tireoidiano de 2,3 cm, TR4, puncionado. O laudo citológico, pelo Sistema Bethesda de 2023, é categoria III: atipia de significado indeterminado, com amostra adequada. O TSH é normal e não há linfonodos suspeitos ao ultrassom. Ele pergunta se precisa operar já. Qual é a orientação mais adequada?",
+  "alts": [
+   "Tireoidectomia total com esvaziamento central profilático",
+   "Repetir a punção ou realizar teste molecular na amostra",
+   "Alta ambulatorial, pois a categoria III equivale a benigno",
+   "Iodo radioativo em dose terapêutica antes de nova avaliação",
+   "Tireoidectomia total imediata por ser citologia maligna"
+  ],
+  "gab": 1,
+  "tema": "cabeca",
+  "sub": "Bethesda III",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ali SZ et al. The 2023 Bethesda System for Reporting Thyroid Cytopathology, 3ª edição, 2023",
+  "coment": "A categoria III do Bethesda 2023 (atipia de significado indeterminado, que absorveu o antigo termo lesão folicular de significado indeterminado) tem risco de malignidade intermediário, na faixa de 20%. A conduta habitual é repetir a punção ou usar teste molecular quando disponível; vigilância ou lobectomia diagnóstica são opções conforme o resultado e o quadro clínico. Tireoidectomia total já de início superestima o risco, e a alta subestima.",
+  "porAlt": [
+   "Esvaziamento profilático e tireoidectomia total não cabem em citologia indeterminada sem câncer confirmado.",
+   "Correta: na categoria III a regra é repetir a PAAF ou fazer teste molecular antes de decidir cirurgia.",
+   "A categoria benigna é a II; a III tem risco de malignidade próximo de 20%.",
+   "Iodo radioativo não trata nódulo indeterminado e só se usa após tireoidectomia por câncer.",
+   "Citologia maligna é a categoria VI; a III é indeterminada e não justifica cirurgia ampla imediata."
+  ]
+ },
+ {
+  "q": "Mulher de 41 anos tem carcinoma papilífero de 1,7 cm no lobo direito confirmado por punção (Bethesda VI). O ultrassom pré-operatório não mostra extensão extratireoidiana, o lobo esquerdo é normal e não há linfonodos cervicais suspeitos. Não há história de irradiação na infância nem de câncer de tireoide na família. Segundo a diretriz de 2025 da American Thyroid Association, qual é a cirurgia indicada?",
+  "alts": [
+   "Tireoidectomia total com esvaziamento central bilateral",
+   "Lobectomia direita com istmectomia, sem esvaziamento",
+   "Tireoidectomia total seguida de iodo radioativo",
+   "Tireoidectomia total com esvaziamento lateral direito",
+   "Nodulectomia com margem de 1 cm e congelação"
+  ],
+  "gab": 1,
+  "tema": "cabeca",
+  "sub": "Extensão da cirurgia no papilífero",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Thyroid Association. Management Guidelines for Adult Patients with Differentiated Thyroid Cancer, 2025",
+  "coment": "A diretriz da ATA de 2025 reforçou a cirurgia menos extensa no câncer diferenciado de baixo risco: tumor de até 2 cm, restrito a um lobo, sem extensão extratireoidiana e sem metástase linfonodal clínica deve ser tratado com lobectomia. Entre 2 e 4 cm, lobectomia ou tireoidectomia total são aceitas conforme o caso. Esvaziamento só é indicado com linfonodo comprometido, e o iodo não se aplica após lobectomia. Nodulectomia não é cirurgia oncológica para tireoide.",
+  "porAlt": [
+   "Esvaziamento central profilático não é rotina em tumor pequeno sem linfonodo suspeito.",
+   "Correta: tumor de 1,7 cm, intratireoidiano e sem linfonodos, é baixo risco e pede lobectomia.",
+   "Tireoidectomia total com iodo é excesso de tratamento para câncer de baixo risco de 1,7 cm.",
+   "Esvaziamento lateral exige metástase linfonodal lateral comprovada, ausente aqui.",
+   "Nodulectomia deixa tecido tumoral potencial e não é ressecção oncológica adequada na tireoide."
+  ]
+ },
+ {
+  "q": "Homem de 56 anos tem microcarcinoma papilífero de 8 mm, confirmado por punção, no centro do lobo esquerdo, longe da traqueia e do trajeto do nervo laríngeo recorrente. Não há linfonodos suspeitos. Ele prefere evitar cirurgia e aceita acompanhamento. Optou-se por vigilância ativa. Qual achado no seguimento indica que é hora de operar?",
+  "alts": [
+   "Aumento isolado da tireoglobulina sérica entre duas dosagens",
+   "Aparecimento de microcalcificações novas dentro do nódulo",
+   "TSH acima do valor de referência em uma dosagem isolada",
+   "Crescimento do tumor de 3 mm ou mais no maior diâmetro",
+   "Surgimento de nódulo TR2 no lobo contralateral ao tumor"
+  ],
+  "gab": 3,
+  "tema": "cabeca",
+  "sub": "Vigilância ativa do microcarcinoma",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "American Thyroid Association. Management Guidelines for Adult Patients with Differentiated Thyroid Cancer, 2025",
+  "coment": "A ATA 2025 ampliou o papel da vigilância ativa no microcarcinoma papilífero de baixo risco, em localização favorável. A cirurgia passa a ser indicada se surgir metástase linfonodal comprovada por punção, crescimento do tumor de 3 mm ou mais, extensão extratireoidiana, metástase a distância, crescimento em direção posterior, ansiedade do paciente ou impossibilidade de seguimento. A tireoglobulina não é medida de rotina na vigilância ativa, porque o tecido normal a produz.",
+  "porAlt": [
+   "Com a tireoide intacta, a tireoglobulina não serve como marcador e não é dosada de rotina.",
+   "As microcalcificações já fazem parte do achado suspeito inicial e não definem progressão.",
+   "TSH isolado alterado não indica cirurgia; avalia-se a função tireoidiana em separado.",
+   "Correta: crescimento de 3 mm ou mais é um dos gatilhos da ATA 2025 para indicar cirurgia.",
+   "Nódulo TR2 é benigno e não muda a conduta do microcarcinoma em vigilância."
+  ]
+ },
+ {
+  "q": "Mulher de 33 anos tem nódulo de 2 cm na tireoide e calcitonina sérica de 480 pg/mL. A punção é compatível com carcinoma medular. Ela tem hipertensão de difícil controle e episódios de cefaleia com palpitações. A irmã teve câncer de tireoide aos 30 anos. A tireoidectomia está sendo programada. Qual exame deve ser feito antes da cirurgia?",
+  "alts": [
+   "Cintilografia de corpo inteiro com iodo-131",
+   "Metanefrinas plasmáticas livres ou urinárias fracionadas",
+   "Tireoglobulina sérica com anticorpo antitireoglobulina",
+   "Ultrassonografia de mamas com mamografia bilateral de rastreio",
+   "Dosagem de cortisol após 1 mg de dexametasona"
+  ],
+  "gab": 1,
+  "tema": "cabeca",
+  "sub": "Carcinoma medular e NEM 2",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Wells SA et al. Revised American Thyroid Association Guidelines for the Management of Medullary Thyroid Carcinoma, 2015",
+  "coment": "Todo paciente com carcinoma medular deve ser avaliado antes da tireoidectomia para feocromocitoma (metanefrinas), hiperparatireoidismo (cálcio) e mutação germinativa do RET. O caso sugere NEM 2: história familiar e sintomas adrenérgicos. Se houver feocromocitoma, ele é operado primeiro, após bloqueio alfa, porque uma crise adrenérgica na indução anestésica pode ser fatal. Tireoglobulina e iodo não têm papel no medular, que vem das células C e não capta iodo.",
+  "porAlt": [
+   "O carcinoma medular não capta iodo, então a cintilografia com iodo-131 não tem utilidade.",
+   "Correta: feocromocitoma deve ser excluído antes da tireoidectomia no medular, sobretudo com suspeita de NEM 2.",
+   "A tireoglobulina é marcador do carcinoma folicular e papilífero, não do medular.",
+   "Rastreio de mama não faz parte da avaliação pré-operatória do carcinoma medular.",
+   "O teste com dexametasona avalia hipercortisolismo, não o feocromocitoma associado à NEM 2."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos está no quarto, 4 horas após tireoidectomia total por bócio volumoso. A enfermagem chama porque ele refere falta de ar progressiva. Há abaulamento cervical tenso sob o curativo, estridor inspiratório e SpO2 de 89%. Não foi deixado dreno. Qual é a primeira medida?",
+  "alts": [
+   "Solicitar tomografia cervical urgente para confirmar o hematoma",
+   "Administrar corticoide e nebulização com adrenalina e observar",
+   "Abrir a sutura cervical à beira do leito e evacuar o hematoma",
+   "Puncionar o abaulamento com agulha e aspirar o conteúdo",
+   "Transferir ao centro cirúrgico para reexplorar sob anestesia"
+  ],
+  "gab": 2,
+  "tema": "cabeca",
+  "sub": "Hematoma pós-tireoidectomia",
+  "cenario": "enf",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Townsend CM et al. Sabiston Textbook of Surgery, 21ª edição, 2022",
+  "coment": "Hematoma cervical com comprometimento respiratório após tireoidectomia é emergência: o sangue sob a musculatura pré-tireoidiana comprime a via aérea e causa edema de laringe por congestão venosa. A conduta imediata é abrir a pele, o subcutâneo e a rafe dos músculos pré-tireoidianos à beira do leito, liberando o hematoma; depois o paciente vai ao centro cirúrgico para hemostasia. Esperar exame ou transporte pode custar a via aérea.",
+  "porAlt": [
+   "Exame de imagem atrasa uma descompressão que é decidida clinicamente.",
+   "Medidas para edema não resolvem compressão mecânica por sangue coagulado.",
+   "Correta: com estridor e dessaturação, a descompressão é feita na hora, à beira do leito, antes do transporte.",
+   "Coágulo não sai por punção com agulha; a compressão persiste.",
+   "Levar ao centro cirúrgico é o passo seguinte, não o primeiro, com via aérea em risco."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos está no primeiro dia após tireoidectomia total por bócio multinodular. Refere formigamento perioral e nas mãos. Ao insuflar o manguito do esfigmomanômetro, surge espasmo carpal. O cálcio total é de 6,9 mg/dL com albumina normal e o PTH está baixo. O ECG mostra QT prolongado. Qual é a conduta imediata?",
+  "alts": [
+   "Carbonato de cálcio por via oral em dose fracionada, sem calcitriol",
+   "Sulfato de magnésio intravenoso isolado e nova dosagem em 24 horas",
+   "Gluconato de cálcio por via intravenosa, depois cálcio oral e calcitriol",
+   "Colecalciferol em dose de ataque por via oral e observação clínica",
+   "Reabordagem cervical para reimplante das paratireoides removidas"
+  ],
+  "gab": 2,
+  "tema": "cabeca",
+  "sub": "Hipocalcemia pós-tireoidectomia",
+  "cenario": "enf",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Orloff LA et al. American Thyroid Association Statement on Postoperative Hypoparathyroidism, 2018",
+  "coment": "Hipocalcemia sintomática com sinal de Trousseau e QT longo após tireoidectomia indica hipoparatireoidismo transitório ou definitivo. A correção imediata é com gluconato de cálcio intravenoso, lento e com monitorização, seguido de cálcio oral e calcitriol, já que sem PTH o rim não ativa a vitamina D. O magnésio deve ser corrigido se baixo, mas não substitui o cálcio. Colecalciferol depende de ativação renal pelo PTH e demora a agir.",
+  "porAlt": [
+   "Via oral isolada é lenta para quem já tem tetania latente e alteração no ECG.",
+   "Magnésio é corrigido se baixo, mas sozinho não repõe o cálcio nesta hipocalcemia.",
+   "Correta: sintoma neuromuscular e QT longo pedem cálcio intravenoso, depois cálcio oral com calcitriol.",
+   "Colecalciferol precisa de PTH para ser ativado no rim e não age na urgência.",
+   "Reoperar não trata a hipocalcemia; o reimplante é feito durante a cirurgia, quando indicado."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos tem cálcio sérico de 10,8 mg/dL em duas dosagens e PTH de 68 pg/mL, com 25-hidroxivitamina D normal e função renal preservada. É assintomático, sem cálculos, e a densitometria é normal. O pai e um irmão também têm cálcio alto e nenhum melhorou após paratireoidectomia. Antes de indicar cirurgia, qual exame é decisivo?",
+  "alts": [
+   "Cintilografia com sestamibi para localizar adenoma de paratireoide",
+   "Ultrassonografia cervical para procurar paratireoide aumentada de volume",
+   "Dosagem de PTH intacto após sobrecarga oral de cálcio",
+   "Razão entre clearance de cálcio e de creatinina na urina de 24 horas",
+   "Tomografia cervical em quatro fases para mapear as glândulas"
+  ],
+  "gab": 3,
+  "tema": "cabeca",
+  "sub": "Hipercalcemia hipocalciúrica familiar",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Bilezikian JP et al. Evaluation and Management of Primary Hyperparathyroidism: Fifth International Workshop, 2022",
+  "coment": "Hipercalcemia leve com PTH normal ou pouco elevado, familiares afetados e cirurgias sem sucesso sugere hipercalcemia hipocalciúrica familiar (mutação do receptor sensor de cálcio). O exame que separa as duas condições é a razão entre o clearance de cálcio e o de creatinina: valor abaixo de 0,01 favorece a forma familiar, que não tem indicação cirúrgica. Exames de localização só entram depois do diagnóstico bioquímico de hiperparatireoidismo primário e não fazem diagnóstico.",
+  "porAlt": [
+   "Exame de localização não faz diagnóstico; entra só após confirmar hiperparatireoidismo primário.",
+   "Ultrassom é exame de localização pré-operatória e não diferencia a forma familiar.",
+   "Sobrecarga de cálcio não é o teste usado para separar as duas condições.",
+   "Correta: razão abaixo de 0,01 aponta hipercalcemia hipocalciúrica familiar, que não se opera.",
+   "Tomografia em quatro fases também é localização e não confirma o diagnóstico bioquímico."
+  ]
+ },
+ {
+  "q": "Mulher de 47 anos fez tireoidectomia total por bócio mergulhante volumoso, com dissecção difícil. Foi extubada na sala e, minutos depois, apresenta estridor inspiratório progressivo, esforço respiratório e voz relativamente preservada. Não há abaulamento cervical. A laringoscopia mostra as duas pregas vocais imóveis em posição paramediana. Qual é a conduta?",
+  "alts": [
+   "Corticoide intravenoso e alta da sala de recuperação",
+   "Fonoterapia precoce e reavaliação em ambulatório",
+   "Reintubação e, se não houver recuperação, traqueostomia",
+   "Reabertura da ferida para drenar hematoma cervical",
+   "Gluconato de cálcio intravenoso e oxigênio por cateter"
+  ],
+  "gab": 2,
+  "tema": "cabeca",
+  "sub": "Lesão bilateral do laríngeo recorrente",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Townsend CM et al. Sabiston Textbook of Surgery, 21ª edição, 2022",
+  "coment": "Lesão bilateral do nervo laríngeo recorrente deixa as pregas vocais em posição paramediana: a voz pode ficar quase normal, mas a fenda glótica fica estreita e surge obstrução respiratória logo após a extubação. A conduta é garantir a via aérea com reintubação; se a função não voltar, faz-se traqueostomia. A lesão unilateral, ao contrário, dá rouquidão sem obstrução. Hematoma e hipocalcemia são outras causas de dispneia pós-tireoidectomia, mas não explicam pregas imóveis sem abaulamento.",
+  "porAlt": [
+   "Dar alta com obstrução glótica por paralisia bilateral põe a via aérea em risco.",
+   "Fonoterapia é para disfonia de lesão unilateral, não para obstrução respiratória aguda.",
+   "Correta: pregas paramedianas bilaterais obstruem a glote; garante-se a via aérea e, se persistir, traqueostomia.",
+   "Sem abaulamento cervical e com pregas imóveis, o quadro não é de hematoma.",
+   "Hipocalcemia costuma surgir após 24 a 48 horas e não paralisa as pregas vocais."
+  ]
+ },
+ {
+  "q": "Homem de 61 anos fez tomografia de abdome por cólica renal e teve achado de nódulo adrenal direito de 2,4 cm, homogêneo, com densidade de 6 unidades Hounsfield na fase sem contraste. É normotenso, não tem sinais de Cushing e tem potássio normal. Segundo a diretriz europeia de 2023, qual é a próxima etapa?",
+  "alts": [
+   "Nova tomografia em 6 e 12 meses para avaliar crescimento",
+   "Metanefrinas plasmáticas e ressonância de adrenais em 3 meses",
+   "Biópsia percutânea guiada por tomografia para definir a natureza",
+   "Adrenalectomia laparoscópica pelo risco de carcinoma adrenal",
+   "Teste de supressão com 1 mg de dexametasona, sem nova imagem"
+  ],
+  "gab": 4,
+  "tema": "cabeca",
+  "sub": "Incidentaloma adrenal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Fassnacht M et al. European Society of Endocrinology Clinical Practice Guidelines on the Management of Adrenal Incidentalomas, 2023",
+  "coment": "Nódulo adrenal homogêneo com densidade de até 10 unidades Hounsfield sem contraste é adenoma rico em lípides: a diretriz europeia de 2023 dispensa nova imagem, qualquer que seja o tamanho, e dispensa dosar metanefrinas nesse cenário, porque feocromocitoma com densidade tão baixa é excepcional. Todo incidentaloma deve ser avaliado para secreção autônoma de cortisol com o teste de 1 mg de dexametasona; aldosterona e renina são pedidas se houver hipertensão ou hipocalemia. Biópsia adrenal raramente é indicada.",
+  "porAlt": [
+   "Densidade de até 10 UH dispensa seguimento por imagem segundo a diretriz de 2023.",
+   "Metanefrinas não são exigidas em nódulo com densidade de até 10 UH, e nova imagem não se justifica.",
+   "Biópsia adrenal é reservada a casos muito selecionados, como suspeita de metástase.",
+   "Lesão pequena e com imagem de adenoma não tem indicação de cirurgia por risco oncológico.",
+   "Correta: lesão de até 10 UH é benigna pela imagem; resta avaliar a secreção autônoma de cortisol."
+  ]
+ },
+ {
+  "q": "Mulher de 39 anos tem crises de cefaleia, sudorese e palpitações, com PA de 190/110 mmHg nas crises. As metanefrinas plasmáticas livres estão quatro vezes acima do limite superior e a tomografia mostra massa adrenal esquerda de 4 cm, sem sinais de invasão. A adrenalectomia laparoscópica será agendada. Como deve ser o preparo pré-operatório?",
+  "alts": [
+   "Betabloqueador desde o início para controlar a taquicardia, seguido de alfabloqueador",
+   "Restrição de sódio e diurético tiazídico para controle pressórico nas duas semanas",
+   "Cirurgia imediata sem medicação, pois o bloqueio mascara crises na indução",
+   "Alfabloqueador por 7 a 14 dias, com sal e líquidos liberados, e betabloqueador só depois",
+   "Bloqueador de canal de cálcio isolado no dia anterior, sem qualquer outra droga"
+  ],
+  "gab": 3,
+  "tema": "cabeca",
+  "sub": "Preparo do feocromocitoma",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Lenders JWM et al. Pheochromocytoma and Paraganglioma: An Endocrine Society Clinical Practice Guideline, 2014",
+  "coment": "O preparo do feocromocitoma começa pelo bloqueio alfa-adrenérgico (doxazosina ou fenoxibenzamina) por 7 a 14 dias, com dieta rica em sal e boa ingestão de líquidos para reexpandir a volemia contraída. O betabloqueador só entra depois do bloqueio alfa, para controlar taquicardia: usado antes, deixa a estimulação alfa sem oposição e pode precipitar crise hipertensiva e edema pulmonar. Bloqueador de canal de cálcio é alternativa ou complemento, não preparo isolado de véspera.",
+  "porAlt": [
+   "Betabloqueio antes do alfa deixa o receptor alfa sem oposição e pode precipitar crise hipertensiva.",
+   "A volemia está contraída; restringir sódio e usar diurético agrava a hipotensão pós-ressecção.",
+   "Operar sem bloqueio expõe a crise adrenérgica grave na indução e na manipulação do tumor.",
+   "Correta: bloqueio alfa primeiro, com expansão volêmica, e beta só depois para a taquicardia.",
+   "Bloqueador de canal de cálcio pode complementar o preparo, mas não substitui duas semanas de bloqueio."
+  ]
+ },
+ {
+  "q": "Homem de 44 anos, não tabagista, nota massa cervical lateral direita há 2 meses, indolor, de 3,5 cm, abaixo do ângulo da mandíbula e anterior ao esternocleidomastóideo. O ultrassom mostra lesão cística de paredes finas. Não tem febre nem infecção recente. Na UBS, foi orientado a retirar o cisto branquial. Qual deve ser a investigação antes de qualquer excisão?",
+  "alts": [
+   "Punção aspirativa e exame da via aerodigestiva com nasofibrolaringoscopia",
+   "Excisão cirúrgica completa do cisto como primeiro procedimento diagnóstico",
+   "Antibiótico por 14 dias e reavaliação, pois deve ser linfonodo reacional",
+   "Biópsia incisional da massa no ambulatório para obter tecido rapidamente",
+   "Cintilografia cervical com tecnécio para afastar tireoide ectópica"
+  ],
+  "gab": 0,
+  "tema": "cabeca",
+  "sub": "Massa cervical cística no adulto",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Pynnonen MA et al. Clinical Practice Guideline: Evaluation of the Neck Mass in Adults, American Academy of Otolaryngology, 2017",
+  "coment": "No adulto, massa cervical lateral persistente por mais de duas semanas é considerada potencialmente maligna até prova em contrário. Lesão cística no nível II pode ser metástase de carcinoma espinocelular de orofaringe ligado ao HPV, comum em não tabagistas de meia-idade. A investigação inclui punção aspirativa, exame completo da via aerodigestiva alta e imagem com contraste. Excisão ou biópsia aberta antes disso contamina o campo e pode comprometer o tratamento oncológico.",
+  "porAlt": [
+   "Correta: no adulto, massa cervical persistente pede punção e busca do primário antes de qualquer cirurgia.",
+   "Excisão de metástase confundida com cisto viola os planos e prejudica o tratamento posterior.",
+   "Antibiótico empírico sem sinais de infecção atrasa o diagnóstico de possível câncer.",
+   "Biópsia aberta precoce contamina o pescoço e não é o primeiro passo diagnóstico.",
+   "Tireoide ectópica é suspeita em massa de linha média, não em lesão cística lateral."
+  ]
+ },
+ {
+  "q": "Mulher de 36 anos tem melanoma extensivo superficial no dorso, retirado por biópsia excisional com margem estreita. O laudo mostra espessura de Breslow de 1,6 mm, sem ulceração, com margens livres. Não há linfonodos palpáveis e o exame físico é normal. Qual é a conduta cirúrgica recomendada?",
+  "alts": [
+   "Ampliação com margem de 0,5 cm, sem pesquisa de linfonodo sentinela",
+   "Ampliação com margem de 1 a 2 cm e biópsia do linfonodo sentinela",
+   "Ampliação com margem de 3 cm e linfadenectomia axilar eletiva",
+   "Vigilância clínica semestral, pois a biópsia teve margens livres",
+   "Ampliação com margem de 2 cm, sem pesquisa de linfonodo sentinela"
+  ],
+  "gab": 1,
+  "tema": "cironco",
+  "sub": "Margem e sentinela no melanoma",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "National Comprehensive Cancer Network. NCCN Guidelines: Cutaneous Melanoma, versão 2025",
+  "coment": "A margem de ampliação do melanoma segue o Breslow: 0,5 a 1 cm no in situ, 1 cm até 1 mm, 1 a 2 cm entre 1,01 e 2 mm e 2 cm acima de 2 mm. A biópsia de linfonodo sentinela é oferecida a partir de 1 mm de espessura (e discutida a partir de 0,8 mm ou com ulceração), porque informa o estadiamento e orienta a terapia adjuvante. Linfadenectomia eletiva não é feita, e margens livres da biópsia não substituem a ampliação.",
+  "porAlt": [
+   "Margem de 0,5 cm é do melanoma in situ e omitir o sentinela subestadia este tumor.",
+   "Correta: Breslow entre 1,01 e 2 mm pede margem de 1 a 2 cm e oferta de linfonodo sentinela.",
+   "Margem de 3 cm não traz ganho e linfadenectomia eletiva foi abandonada.",
+   "Margem livre da biópsia não dispensa a ampliação, que reduz recidiva local.",
+   "A margem de 2 cm é aceitável, mas omitir o sentinela com 1,6 mm de Breslow está errado."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos tem melanoma de 0,5 mm de Breslow, sem ulceração, no braço, retirado por biópsia excisional com margem estreita. Não há linfonodos palpáveis. Ele pergunta se precisa de nova cirurgia e de exames de estadiamento. Qual é a conduta?",
+  "alts": [
+   "Ampliação com margem de 2 cm e linfonodo sentinela",
+   "Ampliação com margem de 1 cm, sem linfonodo sentinela",
+   "Ampliação com margem de 1 cm e PET-CT de estadiamento",
+   "Nenhuma cirurgia adicional e dermatoscopia anual",
+   "Linfonodo sentinela isolado, sem ampliar a cicatriz"
+  ],
+  "gab": 1,
+  "tema": "cironco",
+  "sub": "Melanoma fino T1a",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "National Comprehensive Cancer Network. NCCN Guidelines: Cutaneous Melanoma, versão 2025",
+  "coment": "Melanoma com menos de 0,8 mm de espessura e sem ulceração (T1a) tem risco de metástase linfonodal baixo, em torno de 5%, e a biópsia de linfonodo sentinela não é recomendada de rotina. A ampliação é feita com margem de 1 cm. Exames de imagem de estadiamento não são indicados em estádio inicial sem sintomas, pela baixa chance de achado e pelo risco de falsos positivos. O seguimento é com exame clínico da pele e dos linfonodos.",
+  "porAlt": [
+   "Margem de 2 cm e sentinela são para tumores mais espessos, não para 0,5 mm sem ulceração.",
+   "Correta: T1a pede margem de 1 cm e dispensa sentinela e exames de imagem.",
+   "PET-CT não é indicado no melanoma inicial assintomático e gera falsos positivos.",
+   "Mesmo com margem livre, a ampliação de 1 cm é necessária para controle local.",
+   "O sentinela não está indicado em T1a e não dispensa a ampliação da cicatriz."
+  ]
+ },
+ {
+  "q": "Mulher de 49 anos fez ampliação de melanoma de 2,4 mm de Breslow na perna, com biópsia de linfonodo sentinela inguinal. Um linfonodo sentinela mostrou micrometástase de 0,8 mm. A ultrassonografia inguinal e a tomografia de estadiamento não mostram outras lesões. Qual é a conduta mais adequada para a região inguinal?",
+  "alts": [
+   "Linfadenectomia inguinal completa obrigatória nas próximas duas semanas",
+   "Linfadenectomia inguinal e ilíaca com radioterapia da cadeia",
+   "Radioterapia da região inguinal no lugar da cirurgia nodal",
+   "Nova biópsia de linfonodo sentinela na mesma região em seis meses",
+   "Vigilância com ultrassonografia inguinal seriada, sem linfadenectomia"
+  ],
+  "gab": 4,
+  "tema": "cironco",
+  "sub": "Sentinela positivo no melanoma",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Faries MB et al. Completion Dissection or Observation for Sentinel-Node Metastasis in Melanoma (MSLT-II), N Engl J Med, 2017",
+  "coment": "Os ensaios MSLT-II e DeCOG-SLT mostraram que a linfadenectomia de complemento após sentinela positivo melhora o controle regional, mas não aumenta a sobrevida específica por melanoma. Por isso, a conduta padrão passou a ser a vigilância com ultrassonografia nodal seriada, evitando a morbidade do esvaziamento inguinal (linfedema, infecção). O paciente com sentinela positivo é estádio III e deve ser avaliado para terapia sistêmica adjuvante.",
+  "porAlt": [
+   "O MSLT-II mostrou que o esvaziamento de complemento não melhora a sobrevida por melanoma.",
+   "Esvaziamento ilíaco com radioterapia é excesso sem doença nodal clínica.",
+   "Radioterapia regional não é a conduta padrão para micrometástase no sentinela.",
+   "O sentinela já foi feito e positivo; repeti-lo não tem sentido técnico.",
+   "Correta: após sentinela positivo, a vigilância ultrassonográfica substitui o esvaziamento de rotina."
+  ]
+ },
+ {
+  "q": "Homem de 67 anos, agricultor, tem faixa pigmentada longitudinal de 4 mm na unha do hálux direito, que se alargou no último ano. O pigmento se estende à pele da dobra ungueal proximal. Não lembra de trauma. Qual é a conduta diagnóstica adequada?",
+  "alts": [
+   "Antifúngico oral por 12 semanas e reavaliação clínica",
+   "Observação com fotografia e nova consulta em um ano",
+   "Raspado da lâmina ungueal para exame micológico direto",
+   "Amputação do hálux sem biópsia pela suspeita clínica forte",
+   "Biópsia da matriz ungueal na origem da faixa pigmentada"
+  ],
+  "gab": 4,
+  "tema": "cironco",
+  "sub": "Melanoma subungueal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "National Comprehensive Cancer Network. NCCN Guidelines: Cutaneous Melanoma, versão 2025",
+  "coment": "Melanoníquia longitudinal em adulto que se alarga, com largura acima de 3 mm e pigmento que invade a dobra ungueal (sinal de Hutchinson), é suspeita de melanoma subungueal, subtipo acral lentiginoso. O diagnóstico exige biópsia da matriz, onde o pigmento se origina; raspar a lâmina não alcança a lesão. Tratamento definitivo, como amputação, só depois da confirmação histológica, que também define a espessura de Breslow.",
+  "porAlt": [
+   "Antifúngico atrasa o diagnóstico de lesão pigmentada suspeita de melanoma.",
+   "Observar lesão com sinal de Hutchinson e crescimento retarda um diagnóstico oncológico.",
+   "Raspado da lâmina investiga fungo, mas não alcança a matriz, onde está a lesão melanocítica.",
+   "Amputação sem histologia é inaceitável; a biópsia vem antes de qualquer tratamento definitivo.",
+   "Correta: faixa larga, crescente e com sinal de Hutchinson exige biópsia da matriz ungueal."
+  ]
+ },
+ {
+  "q": "Mulher de 72 anos tem lesão de 1,2 cm na asa nasal, de bordas mal definidas, aspecto cicatricial e esbranquiçado. A biópsia mostra carcinoma basocelular esclerodermiforme. Ela já teve outro basocelular retirado no mesmo local há 3 anos. Qual é o tratamento de escolha?",
+  "alts": [
+   "Crioterapia com nitrogênio líquido",
+   "Cirurgia micrográfica de Mohs",
+   "Imiquimode tópico por seis semanas",
+   "Curetagem seguida de eletrocoagulação",
+   "Excisão simples com margem de 2 mm"
+  ],
+  "gab": 1,
+  "tema": "cironco",
+  "sub": "Carcinoma basocelular de alto risco",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "National Comprehensive Cancer Network. NCCN Guidelines: Basal Cell Skin Cancer, versão 2025",
+  "coment": "O carcinoma basocelular da asa nasal, região central da face (zona H), com subtipo esclerodermiforme e recidivado reúne três critérios de alto risco. Nesses casos, a cirurgia micrográfica de Mohs é o tratamento de escolha: examina 100% da margem e poupa tecido em área nobre, com as menores taxas de recidiva. Crioterapia, imiquimode e curetagem ficam para lesões superficiais de baixo risco fora da face central.",
+  "porAlt": [
+   "Crioterapia não controla margem e é reservada a lesões superficiais de baixo risco.",
+   "Correta: subtipo agressivo, recidiva e zona H definem alto risco, e Mohs controla a margem inteira.",
+   "Imiquimode serve ao basocelular superficial, não ao esclerodermiforme recidivado.",
+   "Curetagem não é indicada em subtipo infiltrativo nem em lesão recidivada da face.",
+   "Margem de 2 mm é insuficiente para basocelular esclerodermiforme de bordas mal definidas."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos tem ferida na perna esquerda há 2 anos, sobre cicatriz de queimadura sofrida na infância. Nos últimos meses, a borda ficou elevada, endurecida e vegetante, com sangramento fácil e odor. Não há linfonodos inguinais palpáveis. Vinha fazendo curativos na UBS. Qual é o próximo passo?",
+  "alts": [
+   "Antibiótico sistêmico e curativo com ácidos graxos",
+   "Enxerto de pele parcial após desbridamento da base",
+   "Doppler venoso para investigar insuficiência venosa",
+   "Biópsia da borda da úlcera, em mais de um ponto",
+   "Oxigenoterapia hiperbárica para estimular cicatrização"
+  ],
+  "gab": 3,
+  "tema": "cironco",
+  "sub": "Úlcera de Marjolin",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Townsend CM et al. Sabiston Textbook of Surgery, 21ª edição, 2022",
+  "coment": "Ferida crônica sobre cicatriz de queimadura com borda elevada, vegetante e sangrante sugere úlcera de Marjolin, transformação maligna que na maioria das vezes é carcinoma espinocelular. O diagnóstico é histológico: biópsia incisional da borda, em vários pontos, porque o centro costuma ter só necrose e tecido de granulação. O tumor tende a ser agressivo, com maior chance de metástase linfonodal, e o tratamento é a excisão com margem ampla.",
+  "porAlt": [
+   "Tratar como infecção atrasa o diagnóstico de carcinoma em cicatriz.",
+   "Enxertar sem histologia pode cobrir um carcinoma e atrasar o tratamento correto.",
+   "A história de queimadura e a borda vegetante apontam neoplasia, não úlcera venosa.",
+   "Correta: lesão crônica que muda de aspecto em cicatriz de queimadura exige biópsia da borda.",
+   "Câmara hiperbárica estimula cicatrização, mas não tem lugar diante de suspeita de câncer."
+  ]
+ },
+ {
+  "q": "Homem de 63 anos, imunocompetente, tem lesão queratósica de 1,1 cm no dorso da mão, de bordas bem definidas, sem recidiva prévia. A biópsia mostra carcinoma espinocelular bem diferenciado, sem invasão perineural, com profundidade menor que 2 mm. Não há linfonodos palpáveis. Qual é o tratamento cirúrgico adequado?",
+  "alts": [
+   "Excisão com margem de 2 cm e biópsia de linfonodo sentinela axilar",
+   "Esvaziamento axilar eletivo associado à excisão com margem de 1 cm",
+   "Radioterapia exclusiva, pois a cirurgia na mão compromete a função",
+   "Excisão com margem clínica de 4 a 6 mm e avaliação histológica das margens",
+   "Shaving da lesão seguido de eletrocoagulação da base sem margem"
+  ],
+  "gab": 3,
+  "tema": "cironco",
+  "sub": "Carcinoma espinocelular de baixo risco",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "National Comprehensive Cancer Network. NCCN Guidelines: Squamous Cell Skin Cancer, versão 2025",
+  "coment": "Carcinoma espinocelular cutâneo de baixo risco (menos de 2 cm no tronco e extremidades, bem diferenciado, bordas definidas, sem invasão perineural, primário e em paciente imunocompetente) é tratado com excisão com margem clínica de 4 a 6 mm e controle histológico das margens. Linfonodo sentinela e esvaziamento eletivo não são indicados no baixo risco. Radioterapia exclusiva é opção para quem não pode operar, em geral acima de 60 anos, não a primeira escolha.",
+  "porAlt": [
+   "Margem de 2 cm e sentinela são excessivos para lesão de baixo risco de 1,1 cm.",
+   "Esvaziamento eletivo não tem indicação sem linfonodo clinicamente comprometido.",
+   "Radioterapia exclusiva fica para quem não é candidato cirúrgico, não como primeira escolha.",
+   "Correta: no espinocelular de baixo risco, margem de 4 a 6 mm com margens conferidas na histologia.",
+   "Shaving sem margem não garante ressecção e não é tratamento de carcinoma espinocelular."
+  ]
+ },
+ {
+  "q": "Mulher de 52 anos procura a UBS por nódulo no ombro direito percebido há 6 meses. Ao exame, a lesão tem 3 cm, é amolecida, móvel e superficial à fáscia, sem dor. Ela pergunta se pode deixar como está. Entre os achados abaixo, qual indicaria investigação com imagem e encaminhamento por suspeita de sarcoma de partes moles?",
+  "alts": [
+   "Consistência amolecida e mobilidade sobre os planos",
+   "Ausência de dor à palpação e de sinais inflamatórios",
+   "Massa maior que 5 cm ou situada abaixo da fáscia",
+   "Localização no tronco ou na raiz do membro superior",
+   "Tempo de evolução maior que seis meses sem febre"
+  ],
+  "gab": 2,
+  "tema": "cironco",
+  "sub": "Sinais de alarme de sarcoma",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Gronchi A et al. Soft tissue and visceral sarcomas: ESMO-EURACAN-GENTURIS Clinical Practice Guidelines, 2021",
+  "coment": "A maioria das massas de partes moles é benigna, sobretudo lipomas. São sinais de alarme para sarcoma: tamanho maior que 5 cm, localização profunda à fáscia, crescimento progressivo e dor de início recente. A diretriz europeia recomenda que lesões superficiais maiores que 5 cm ou qualquer lesão profunda sejam estudadas com ressonância e biopsiadas por agulha grossa em centro de referência. Massa pequena, superficial, mole e móvel pode ser acompanhada.",
+  "porAlt": [
+   "Massa amolecida e móvel tem perfil de lipoma e é achado tranquilizador.",
+   "Sarcomas costumam ser indolores; ausência de dor não afasta nem aponta malignidade.",
+   "Correta: tamanho acima de 5 cm e localização profunda são os principais sinais de alarme de sarcoma.",
+   "A topografia no tronco ou ombro, isoladamente, não define suspeita de sarcoma.",
+   "Evolução longa sem febre não é critério de alarme; o crescimento progressivo é que preocupa."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos teve diagnóstico de sarcoma pleomórfico indiferenciado de alto grau, com 11 cm, profundo, na coxa direita, por biópsia com agulha grossa. A ressonância define a relação com o feixe neurovascular. Antes de planejar a ressecção, qual exame de estadiamento é indispensável?",
+  "alts": [
+   "Biópsia de linfonodo sentinela inguinal para estadiar a doença",
+   "Cintilografia óssea de corpo inteiro como rastreio de metástase",
+   "Endoscopia digestiva alta e colonoscopia para buscar primário",
+   "Ultrassonografia de abdome para pesquisa de lesões hepáticas",
+   "Tomografia de tórax para pesquisa de metástases pulmonares"
+  ],
+  "gab": 4,
+  "tema": "cironco",
+  "sub": "Estadiamento do sarcoma",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Gronchi A et al. Soft tissue and visceral sarcomas: ESMO-EURACAN-GENTURIS Clinical Practice Guidelines, 2021",
+  "coment": "Sarcomas de partes moles disseminam-se principalmente por via hematogênica, e o pulmão é o sítio mais frequente de metástase, sobretudo nas lesões de extremidade, grandes, profundas e de alto grau. Por isso a tomografia de tórax é obrigatória no estadiamento. Metástase linfonodal é rara na maioria dos subtipos, exceto em alguns, como sarcoma sinovial, epitelioide e rabdomiossarcoma, de modo que o sentinela não é rotina. Cintilografia óssea não é exame de rotina.",
+  "porAlt": [
+   "A disseminação linfática é rara na maioria dos sarcomas, e o sentinela não é rotina.",
+   "Metástase óssea é incomum e a cintilografia não faz parte do estadiamento habitual.",
+   "O sarcoma já tem diagnóstico histológico próprio; não há primário digestivo a buscar.",
+   "O fígado não é o sítio preferencial do sarcoma de extremidade; a prioridade é o tórax.",
+   "Correta: o pulmão é o principal alvo de metástase do sarcoma e a TC de tórax é obrigatória."
+  ]
+ },
+ {
+  "q": "Mulher de 57 anos tem carcinoma ductal invasivo de 2,2 cm na mama esquerda, axila clinicamente e ultrassonograficamente negativa. Fez setorectomia com margens livres e biópsia de linfonodo sentinela: dois de três linfonodos sentinela têm macrometástase, sem extensão extracapsular grosseira. Fará radioterapia de toda a mama e terapia sistêmica. Qual é a conduta axilar?",
+  "alts": [
+   "Linfadenectomia axilar completa dos níveis I e II",
+   "Linfadenectomia axilar com retirada do nível III",
+   "Mastectomia radical modificada para tratar a axila",
+   "Dispensar a linfadenectomia axilar complementar",
+   "Nova pesquisa de linfonodo sentinela com tecnécio"
+  ],
+  "gab": 3,
+  "tema": "cironco",
+  "sub": "Axila após sentinela positivo",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Brackstone M et al. Management of the Axilla in Early-Stage Breast Cancer: ASCO Guideline Update, 2021",
+  "coment": "O ensaio ACOSOG Z0011 incluiu mulheres com tumor T1 ou T2, axila clinicamente negativa, um ou dois linfonodos sentinela positivos, cirurgia conservadora e radioterapia de toda a mama. A linfadenectomia de complemento não melhorou sobrevida nem controle regional em 10 anos e aumentou linfedema. A ASCO 2021 recomenda não fazer esvaziamento nessas pacientes. Com três ou mais sentinelas positivos ou mastectomia sem radioterapia, o raciocínio muda.",
+  "porAlt": [
+   "O esvaziamento aumenta linfedema sem ganho de sobrevida neste perfil de paciente.",
+   "Retirar o nível III aumenta morbidade e não tem indicação neste cenário.",
+   "Converter para mastectomia não trata melhor a axila e perde a vantagem da conservadora.",
+   "Correta: preenche os critérios do Z0011, e o esvaziamento não traz ganho de sobrevida.",
+   "O sentinela já foi feito e mostrou o estado axilar; repeti-lo não acrescenta nada."
+  ]
+ },
+ {
+  "q": "Mulher de 61 anos fez setorectomia por carcinoma ductal invasivo de 1,8 cm. No laudo, as margens estão livres, mas a margem mais próxima tem 0,5 mm de tecido normal entre o tumor e a tinta. Ela fará radioterapia de toda a mama. O cirurgião discute se deve reabordar para ampliar. Qual é a conduta?",
+  "alts": [
+   "Ampliar a margem até obter 1 cm de tecido livre",
+   "Manter a margem atual, sem nova ampliação local",
+   "Ampliar até obter pelo menos 2 mm de margem",
+   "Indicar mastectomia por margem considerada exígua",
+   "Aumentar a dose de radioterapia como substituto"
+  ],
+  "gab": 1,
+  "tema": "cironco",
+  "sub": "Margem na cirurgia conservadora",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Moran MS et al. SSO-ASTRO Consensus Guideline on Margins for Breast-Conserving Surgery with Whole-Breast Irradiation in Stages I and II Invasive Breast Cancer, 2014",
+  "coment": "Para carcinoma invasivo tratado com cirurgia conservadora e radioterapia de toda a mama, o consenso SSO-ASTRO define margem adequada como ausência de tumor na tinta. Margens mais largas não reduzem a recidiva local de forma significativa e aumentam reoperações. A regra de 2 mm vale para carcinoma ductal in situ isolado, outro cenário. Tumor tocando a tinta, sim, pede ampliação.",
+  "porAlt": [
+   "Margem de 1 cm não reduz recidiva e piora o resultado estético sem benefício.",
+   "Correta: no invasivo com radioterapia, basta não haver tumor na tinta; 0,5 mm é adequado.",
+   "O corte de 2 mm é do carcinoma ductal in situ, não do carcinoma invasivo.",
+   "Mastectomia não é indicada quando a margem já é negativa pela definição vigente.",
+   "A radioterapia não substitui margem; aqui a margem já é adequada e não há o que compensar."
+  ]
+ },
+ {
+  "q": "Mulher de 38 anos tem carcinoma ductal invasivo de 1,5 cm, unifocal, na mama direita, axila clinicamente negativa. Aos 19 anos tratou linfoma de Hodgkin com radioterapia em manto, que incluiu a parede torácica. Ela deseja preservar a mama. Qual fator impede a cirurgia conservadora neste caso?",
+  "alts": [
+   "Idade abaixo de 40 anos no diagnóstico",
+   "Tumor localizado no quadrante superolateral",
+   "Ausência de linfonodos axilares palpáveis",
+   "Radioterapia prévia na parede torácica",
+   "Tamanho tumoral acima de 1 cm de diâmetro"
+  ],
+  "gab": 3,
+  "tema": "cironco",
+  "sub": "Contraindicação à conservadora",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "National Comprehensive Cancer Network. NCCN Guidelines: Breast Cancer, versão 2025",
+  "coment": "A cirurgia conservadora depende da radioterapia complementar de toda a mama. Radioterapia prévia na parede torácica ou na mama, em dose que impeça nova irradiação, é contraindicação clássica, e a paciente é candidata a mastectomia, com reconstrução se desejar. Outras contraindicações são doença multicêntrica difusa, microcalcificações malignas difusas e margem persistentemente comprometida. Idade jovem e tamanho de 1,5 cm não contraindicam, desde que a relação tumor e mama permita bom resultado.",
+  "porAlt": [
+   "Idade jovem aumenta o risco de recidiva, mas não contraindica a conservadora.",
+   "A localização no quadrante superolateral favorece, não impede, a ressecção conservadora.",
+   "Axila negativa é situação favorável e permite a pesquisa de linfonodo sentinela.",
+   "Correta: sem possibilidade de nova irradiação, não se pode fazer a conservadora com segurança.",
+   "Tumores de até cerca de 5 cm podem ser conservados se a relação com a mama permitir."
+  ]
+ },
+ {
+  "q": "Mulher de 74 anos com fibrilação atrial sem anticoagulação chega ao pronto-socorro com dor súbita na perna esquerda há 4 horas. O membro está frio e pálido, sem pulsos a partir do femoral, com hipoestesia nos pés e no terço distal da perna e discreta fraqueza para a dorsiflexão. O Doppler arterial no pé é inaudível e o venoso, audível. Qual é a conduta?",
+  "alts": [
+   "Heparina intravenosa e embolectomia com cateter de Fogarty em caráter de urgência",
+   "Heparina intravenosa e angiotomografia eletiva em 48 horas para planejar cirurgia",
+   "Amputação primária acima do joelho por isquemia já considerada irreversível",
+   "Antiagregante e cilostazol com caminhada supervisionada após a alta hospitalar",
+   "Trombólise sistêmica com alteplase em veia periférica sem imagem prévia"
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Oclusão arterial aguda embólica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Björck M et al. European Society for Vascular Surgery 2020 Clinical Practice Guidelines on the Management of Acute Limb Ischaemia, 2020",
+  "coment": "Início súbito, fibrilação atrial e membro previamente normal sugerem embolia. Perda sensitiva além dos dedos e fraqueza leve, com Doppler arterial inaudível e venoso audível, classificam a isquemia como Rutherford IIb, ameaça imediata. A conduta é heparina não fracionada intravenosa já no diagnóstico e revascularização de urgência, aqui por embolectomia com cateter de Fogarty. Amputação primária fica para a classe III, com paralisia, anestesia profunda e Doppler venoso ausente.",
+  "porAlt": [
+   "Correta: isquemia IIb é ameaça imediata e pede anticoagulação e revascularização de urgência.",
+   "Adiar 48 horas em membro com déficit sensitivo e motor leva à perda do membro.",
+   "Doppler venoso audível e fraqueza leve mostram membro ainda salvável, não classe III.",
+   "Cilostazol e caminhada tratam claudicação crônica, não oclusão arterial aguda.",
+   "Trombólise é intra-arterial dirigida por cateter, nunca sistêmica, e é mais lenta que a embolectomia."
+  ]
+ },
+ {
+  "q": "Homem de 69 anos, tabagista, chega 30 horas após início de dor súbita na perna direita. O membro está marmóreo com manchas fixas que não clareiam à pressão, a panturrilha está endurecida, há paralisia da dorsiflexão e anestesia até o joelho. Não há sinal ao Doppler arterial nem venoso no pé. A creatinoquinase está muito elevada. Qual é a conduta?",
+  "alts": [
+   "Embolectomia com cateter de Fogarty",
+   "Trombólise intra-arterial por cateter",
+   "Fasciotomia e revascularização no mesmo ato",
+   "Heparina intravenosa e observação clínica",
+   "Amputação primária em nível viável"
+  ],
+  "gab": 4,
+  "tema": "especialidades",
+  "sub": "Isquemia irreversível",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Björck M et al. European Society for Vascular Surgery 2020 Clinical Practice Guidelines on the Management of Acute Limb Ischaemia, 2020",
+  "coment": "Manchas fixas que não clareiam, rigidez muscular, paralisia, anestesia profunda e ausência de sinal ao Doppler arterial e venoso definem isquemia Rutherford III, irreversível. Revascularizar um membro necrótico libera potássio, mioglobina e ácido na circulação (síndrome de reperfusão), com risco de arritmia, insuficiência renal e morte, sem chance de recuperar função. A conduta é amputação primária em nível viável, além do suporte clínico.",
+  "porAlt": [
+   "Embolectomia restaura fluxo para músculo necrótico e desencadeia síndrome de reperfusão.",
+   "Trombólise é lenta e indicada só em membro viável ou pouco ameaçado.",
+   "Fasciotomia não recupera membro com necrose muscular estabelecida e paralisia.",
+   "Apenas heparinizar deixa no corpo um membro necrótico que causará sepse e reperfusão.",
+   "Correta: isquemia classe III é irreversível, e revascularizar só traz risco de reperfusão grave."
+  ]
+ },
+ {
+  "q": "Homem de 64 anos, tabagista e diabético, refere dor na panturrilha direita ao caminhar 200 metros, que melhora com 2 minutos de repouso, há um ano. Não tem dor em repouso nem feridas. O índice tornozelo-braquial é de 0,65 à direita. Usa metformina. Qual é o tratamento inicial mais adequado?",
+  "alts": [
+   "Angioplastia femoropoplítea com stent para aliviar logo a claudicação limitante",
+   "Pentoxifilina e repouso relativo do membro até melhora da dor",
+   "Exercício supervisionado, cessação do tabagismo, estatina e antiagregante",
+   "Ponte femoropoplítea com veia safena invertida em caráter eletivo",
+   "Anticoagulação plena com varfarina, mantendo o INR entre 2 e 3"
+  ],
+  "gab": 2,
+  "tema": "especialidades",
+  "sub": "Claudicação intermitente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Mazzolai L et al. 2024 ESC Guidelines for the management of peripheral arterial and aortic diseases, 2024",
+  "coment": "Claudicação intermitente estável com índice tornozelo-braquial menor que 0,90 confirma doença arterial periférica. O tratamento inicial é clínico: parar de fumar, estatina de alta intensidade, antiagregante plaquetário, controle de diabetes e pressão, e exercício supervisionado, que aumenta a distância de marcha. Revascularização fica para claudicação limitante que não melhora com tratamento clínico e para isquemia crônica ameaçadora do membro (dor em repouso, úlcera, gangrena).",
+  "porAlt": [
+   "Revascularização não é a primeira opção na claudicação sem tratamento clínico prévio.",
+   "Repouso piora o condicionamento; o exercício é o que aumenta a distância de marcha.",
+   "Correta: claudicação estável começa por exercício supervisionado e controle de fatores de risco.",
+   "Cirurgia de ponte fica para isquemia ameaçadora ou falha do tratamento clínico.",
+   "Anticoagulação plena isolada não é indicada na doença arterial periférica estável."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos, ex-tabagista há 10 anos (30 maços-ano), hipertenso, vem à UBS para consulta de rotina. Não tem queixas e o abdome não tem massa palpável. Nunca fez exame de imagem do abdome. Segundo a USPSTF, que rastreamento é recomendado para aneurisma de aorta abdominal?",
+  "alts": [
+   "Ultrassonografia de abdome uma única vez",
+   "Ultrassonografia de abdome a cada dois anos",
+   "Angiotomografia de aorta uma única vez",
+   "Nenhum, pois ele parou de fumar há anos",
+   "Palpação abdominal anual em toda consulta"
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Rastreamento do aneurisma de aorta",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "US Preventive Services Task Force. Abdominal Aortic Aneurysm: Screening, 2019",
+  "coment": "A USPSTF recomenda uma ultrassonografia de abdome, uma única vez, para homens de 65 a 75 anos que já fumaram alguma vez na vida, mesmo que tenham parado. O exame é barato, sem radiação e reduz a mortalidade por ruptura. Se a aorta for normal, não há necessidade de repetir. Em homens que nunca fumaram, a oferta é seletiva; em mulheres que nunca fumaram, não se recomenda. Palpação tem baixa sensibilidade, sobretudo em obesos.",
+  "porAlt": [
+   "Correta: homem de 65 a 75 anos que já fumou faz um rastreamento único por ultrassom.",
+   "Se a primeira ultrassonografia for normal, não há indicação de repetir.",
+   "Tomografia expõe a radiação e contraste sem vantagem para rastreamento.",
+   "Ter fumado em algum momento da vida já define o grupo de rastreamento.",
+   "A palpação não tem sensibilidade suficiente para servir de rastreamento."
+  ]
+ },
+ {
+  "q": "Homem de 59 anos, diabético há 15 anos, com neuropatia, tem úlcera plantar sob a cabeça do primeiro metatarsiano há 6 semanas. Há discreto eritema periulceroso. Ao tocar o fundo da úlcera com um estilete metálico estéril, percebe-se superfície dura e áspera. Os pulsos podais são palpáveis. O que esse achado sugere e qual exame deve vir a seguir?",
+  "alts": [
+   "Celulite superficial; apenas antibiótico oral por sete dias",
+   "Osteomielite; radiografia simples do pé como exame inicial",
+   "Isquemia crítica; arteriografia de membro inferior urgente",
+   "Artropatia de Charcot aguda; imobilização sem outros exames",
+   "Calo hiperqueratótico; desbridamento da borda e alta da UBS"
+  ],
+  "gab": 1,
+  "tema": "especialidades",
+  "sub": "Osteomielite no pé diabético",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Senneville É et al. IWGDF/IDSA Guidelines on the Diagnosis and Treatment of Diabetes-related Foot Infections, 2023",
+  "coment": "O teste de sondagem óssea (probe-to-bone) positivo em úlcera de pé diabético, sobretudo se infectada, tem alto valor para osteomielite. O IWGDF 2023 recomenda combiná-lo com radiografia simples e marcadores inflamatórios; se a dúvida persistir, ressonância magnética, e a biópsia óssea confirma e orienta o antibiótico. A úlcera de 6 semanas sobre proeminência óssea em pé neuropático também aumenta a probabilidade. Pulsos palpáveis afastam isquemia significativa.",
+  "porAlt": [
+   "Tocar osso no fundo da úlcera indica infecção óssea, não só de partes moles.",
+   "Correta: sondagem óssea positiva sugere osteomielite, e a radiografia é o primeiro exame de imagem.",
+   "Pulsos podais palpáveis tornam improvável a isquemia crítica.",
+   "Charcot agudo se apresenta com pé quente e edemaciado, não com osso exposto na úlcera.",
+   "Tocar osso no fundo da lesão afasta a hipótese de calo simples."
+  ]
+ },
+ {
+  "q": "Homem de 47 anos está no segundo dia após craniotomia por hematoma subdural traumático. Desenvolve edema e dor na perna esquerda, e o Doppler mostra trombose da veia femoral comum. O neurocirurgião contraindica qualquer anticoagulação nos próximos dias pelo risco de novo sangramento intracraniano. Qual é a conduta para prevenir embolia pulmonar?",
+  "alts": [
+   "Implante de filtro de veia cava inferior, retirável",
+   "Enoxaparina em dose plena a cada 12 horas desde já",
+   "Ácido acetilsalicílico em dose de 300 mg ao dia",
+   "Trombólise sistêmica com alteplase em infusão",
+   "Meia elástica isolada e reavaliação em 30 dias"
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Filtro de veia cava",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Stevens SM et al. Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report, 2021",
+  "coment": "A indicação mais aceita de filtro de veia cava inferior é a trombose venosa profunda proximal aguda, ou embolia pulmonar, em paciente com contraindicação absoluta à anticoagulação, como hemorragia intracraniana recente. O filtro deve ser retirável, e a anticoagulação é iniciada assim que o risco de sangramento permitir, com retirada do filtro depois. Filtro não é indicado de rotina como complemento da anticoagulação.",
+  "porAlt": [
+   "Correta: trombose proximal com contraindicação absoluta à anticoagulação é a indicação clássica do filtro.",
+   "A anticoagulação plena está contraindicada pelo risco de novo sangramento intracraniano.",
+   "Antiagregante não trata nem previne a extensão da trombose venosa proximal.",
+   "Trombólise tem contraindicação absoluta após neurocirurgia recente.",
+   "Compressão elástica não protege contra embolia pulmonar na trombose proximal aguda."
+  ]
+ },
+ {
+  "q": "Homem de 36 anos chega ao pronto-socorro com cólica lombar direita irradiada para a virilha, que melhorou após cetoprofeno intravenoso. Está afebril, com creatinina normal e urina tipo 1 com hematúria, sem leucocitúria significativa. A tomografia sem contraste mostra cálculo de 7 mm no ureter distal direito, com hidronefrose leve. O rim esquerdo é normal. Qual é a conduta?",
+  "alts": [
+   "Analgesia com anti-inflamatório e tansulosina, com reavaliação ambulatorial",
+   "Ureteroscopia com litotripsia a laser em caráter de urgência na mesma noite",
+   "Nefrostomia percutânea direita para drenar a hidronefrose antes de tudo",
+   "Internação com hidratação venosa vigorosa para forçar a eliminação do cálculo",
+   "Litotripsia extracorpórea imediata, por ser cálculo maior que 5 mm"
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Terapia expulsiva na litíase ureteral",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "European Association of Urology. EAU Guidelines on Urolithiasis, 2025",
+  "coment": "Cálculo ureteral distal maior que 5 mm, com dor controlada, sem infecção, sem lesão renal aguda e com rim contralateral normal pode receber terapia médica expulsiva com alfabloqueador (tansulosina), que aumenta a taxa de eliminação. A analgesia preferida é o anti-inflamatório não esteroide. Reavalia-se com imagem; se não houver eliminação em algumas semanas, dor refratária ou complicação, indica-se tratamento ativo. Hidratação venosa forçada não acelera a passagem e piora a dor.",
+  "porAlt": [
+   "Correta: cálculo distal de 7 mm, sem infecção e com dor controlada, é candidato à terapia expulsiva.",
+   "Tratamento ativo de urgência é para dor refratária, infecção, rim único ou lesão renal aguda.",
+   "Hidronefrose leve sem infecção não exige drenagem de urgência.",
+   "Hiperidratação venosa não aumenta a eliminação do cálculo e pode piorar a cólica.",
+   "Cálculo de 7 mm não indica litotripsia imediata; a terapia expulsiva vem primeiro."
+  ]
+ },
+ {
+  "q": "Mulher de 48 anos tem dor lombar esquerda há 2 dias, febre de 39,2 °C, calafrios, PA de 96/60 mmHg e FC de 112 bpm. A tomografia mostra cálculo de 9 mm no ureter proximal esquerdo com hidronefrose moderada. Há leucocitose e lactato de 2,8 mmol/L. Já recebeu hemoculturas, urocultura e antibiótico de amplo espectro. Qual é o passo seguinte?",
+  "alts": [
+   "Ureteroscopia com retirada do cálculo no mesmo procedimento de urgência",
+   "Terapia expulsiva com tansulosina e antibiótico intravenoso por 14 dias",
+   "Litotripsia extracorpórea por ondas de choque assim que estabilizar",
+   "Nefrolitotripsia percutânea após 48 horas de antibiótico intravenoso",
+   "Descompressão urgente com cateter duplo J ou nefrostomia percutânea"
+  ],
+  "gab": 4,
+  "tema": "especialidades",
+  "sub": "Rim obstruído e infectado",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "European Association of Urology. EAU Guidelines on Urolithiasis, 2025",
+  "coment": "Rim obstruído por cálculo com infecção e sinais de sepse é emergência urológica. Antibiótico sozinho não penetra adequadamente o sistema coletor obstruído, e a conduta é a descompressão urgente, com cateter ureteral duplo J ou nefrostomia percutânea, conforme disponibilidade e anatomia. O tratamento definitivo do cálculo é adiado até a resolução da infecção, porque manipulá-lo com urina infectada sob pressão aumenta o risco de bacteremia e choque.",
+  "porAlt": [
+   "Retirar o cálculo durante a sepse aumenta bacteremia; o tratamento definitivo é adiado.",
+   "Terapia expulsiva é contraindicada quando há infecção com obstrução.",
+   "Litotripsia em rim infectado e obstruído é contraindicada e pode agravar a sepse.",
+   "Esperar 48 horas sem drenar mantém o foco fechado e piora o prognóstico.",
+   "Correta: obstrução com sepse pede drenagem urgente do sistema coletor; o cálculo fica para depois."
+  ]
+ },
+ {
+  "q": "Menino de 9 anos tem dor no testículo direito há 30 horas, de início gradual, sem náuseas ou vômitos. Ao exame, há nódulo doloroso de 4 mm no polo superior do testículo, com mancha azulada visível através da pele. O reflexo cremastérico está presente e o testículo tem posição normal. O Doppler mostra fluxo testicular preservado. Qual é a conduta?",
+  "alts": [
+   "Exploração cirúrgica imediata com orquidopexia bilateral",
+   "Ceftriaxona e doxiciclina por 10 dias para orquiepididimite",
+   "Orquiectomia direita pela suspeita de tumor testicular",
+   "Tentativa de distorção manual no sentido de abrir o livro",
+   "Tratamento clínico com analgesia, anti-inflamatório e repouso"
+  ],
+  "gab": 4,
+  "tema": "especialidades",
+  "sub": "Torção de apêndice testicular",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "European Association of Urology. EAU Guidelines on Paediatric Urology, 2025",
+  "coment": "Torção de apêndice testicular é causa comum de escroto agudo entre 7 e 12 anos. Dor de início gradual, nódulo doloroso no polo superior e o sinal do ponto azul, com reflexo cremastérico presente e fluxo normal ao Doppler, distinguem o quadro da torção do cordão espermático. O tratamento é conservador, com analgesia e anti-inflamatório, e a dor cede em poucos dias. Na dúvida diagnóstica com torção testicular, a exploração cirúrgica prevalece.",
+  "porAlt": [
+   "Exploração é para torção do cordão ou dúvida diagnóstica, não para quadro típico de apêndice.",
+   "Orquiepididimite por IST não é esperada aos 9 anos e não explica o ponto azul.",
+   "Tumor testicular é massa indolor no testículo, não nódulo doloroso no polo superior.",
+   "Distorção manual é medida temporária na torção do cordão, ausente aqui.",
+   "Correta: ponto azul, cremastérico presente e fluxo normal indicam torção de apêndice, de tratamento clínico."
+  ]
+ },
+ {
+  "q": "Homem de 74 anos chega ao pronto-socorro sem conseguir urinar há 12 horas, com dor suprapúbica intensa e bexiga palpável até perto da cicatriz umbilical. Há anos tem jato fraco e noctúria. Tomou um antigripal com descongestionante há dois dias. O toque retal mostra próstata aumentada, lisa e fibroelástica. Qual é a conduta inicial?",
+  "alts": [
+   "Ressecção transuretral da próstata ainda nesta internação, antes de qualquer sondagem vesical",
+   "Cistostomia suprapúbica por punção como primeira opção de drenagem da bexiga distendida",
+   "Diurético de alça intravenoso para aumentar o fluxo urinário e induzir a micção",
+   "Sondagem vesical de demora e alfabloqueador, tentando retirar a sonda em 2 a 3 dias",
+   "Finasterida e alta com retorno ambulatorial em uma semana, sem drenar a bexiga"
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Retenção urinária aguda",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "European Association of Urology. EAU Guidelines on Management of Non-neurogenic Male LUTS, 2025",
+  "coment": "Retenção urinária aguda em homem com hiperplasia prostática, aqui precipitada por descongestionante simpaticomimético, exige drenagem imediata da bexiga, em geral por sonda uretral. Iniciar alfabloqueador durante a sondagem aumenta a chance de sucesso na tentativa de retirada da sonda, feita após dois a três dias. A cistostomia fica para quando a sondagem uretral falha ou é contraindicada. A cirurgia da próstata é discutida depois, se houver nova retenção ou falha da retirada.",
+  "porAlt": [
+   "A cirurgia não é feita antes de drenar a bexiga e não é a primeira medida na retenção.",
+   "Cistostomia é alternativa quando a sonda uretral falha ou é contraindicada.",
+   "Diurético com bexiga obstruída só aumenta a distensão e a dor.",
+   "Correta: drena-se a bexiga, inicia-se alfabloqueador e tenta-se retirar a sonda em dois a três dias.",
+   "Finasterida demora meses para agir e não resolve uma retenção aguda."
+  ]
+ },
+ {
+  "q": "Homem de 66 anos tem jato fraco, hesitação, noctúria de três vezes e esvaziamento incompleto há dois anos. O escore internacional de sintomas prostáticos é 21, o PSA é compatível com a idade e a ultrassonografia estima a próstata em 70 mL, sem resíduo pós-miccional significativo. Não há infecção, cálculos ou hidronefrose. Qual é o tratamento clínico mais adequado?",
+  "alts": [
+   "Inibidor da 5-alfa-redutase isolado por três meses",
+   "Antimuscarínico isolado para reduzir a noctúria",
+   "Alfabloqueador isolado e reavaliação em um ano",
+   "Ressecção transuretral da próstata como primeira linha",
+   "Alfabloqueador associado a inibidor da 5-alfa-redutase"
+  ],
+  "gab": 4,
+  "tema": "especialidades",
+  "sub": "Hiperplasia prostática benigna",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "European Association of Urology. EAU Guidelines on Management of Non-neurogenic Male LUTS, 2025",
+  "coment": "Sintomas moderados a graves com próstata maior que 40 mL indicam risco de progressão (retenção e necessidade de cirurgia). A terapia combinada, com alfabloqueador para o alívio rápido e inibidor da 5-alfa-redutase (finasterida ou dutasterida) para reduzir o volume prostático ao longo de meses, reduz esse risco mais que cada droga isolada. A cirurgia fica para falha clínica ou complicações, como retenção recorrente, cálculos vesicais, infecção de repetição ou lesão renal.",
+  "porAlt": [
+   "O inibidor sozinho demora meses para aliviar sintomas e não é o melhor esquema aqui.",
+   "Antimuscarínico isolado não trata a obstrução e pode precipitar retenção.",
+   "Alfabloqueador alivia sintomas, mas não reduz o risco de progressão de próstata volumosa.",
+   "Cirurgia é reservada à falha do tratamento clínico ou a complicações, ausentes aqui.",
+   "Correta: sintomas importantes e próstata acima de 40 mL pedem terapia combinada para conter a progressão."
+  ]
+ },
+ {
+  "q": "Homem de 29 anos, vítima de queda de moto, tem fratura de bacia em livro aberto, já estabilizada com cinta pélvica. Está hemodinamicamente estável após transfusão. Ao exame, há sangue no meato uretral, hematoma perineal e bexiga palpável. Ele não consegue urinar. Qual é a conduta antes de drenar a bexiga?",
+  "alts": [
+   "Sondagem uretral com sonda fina e lubrificante anestésico",
+   "Cistoscopia flexível com passagem de fio-guia às cegas",
+   "Uretrografia retrógrada para avaliar a integridade da uretra",
+   "Uretroplastia primária com anastomose na mesma noite",
+   "Ultrassonografia renal para afastar lesão do parênquima"
+  ],
+  "gab": 2,
+  "tema": "especialidades",
+  "sub": "Trauma de uretra posterior",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Sangue no meato uretral, hematoma perineal e fratura pélvica sugerem lesão da uretra posterior. O ATLS orienta não tentar o cateterismo transuretral antes de uma uretrografia retrógrada, porque a sonda pode converter uma ruptura parcial em completa ou criar falso trajeto. Confirmada a lesão, a bexiga é drenada por cistostomia suprapúbica, e a reconstrução uretral é planejada depois. Ultrassom renal não responde à pergunta sobre a uretra.",
+  "porAlt": [
+   "Sondar às cegas pode transformar ruptura parcial em completa ou criar falso trajeto.",
+   "Manipulação endoscópica às cegas tem os mesmos riscos de piorar a lesão.",
+   "Correta: com sinais de lesão uretral, a uretrografia retrógrada vem antes de qualquer sonda.",
+   "Reconstrução da uretra não é feita em caráter de urgência no politraumatizado.",
+   "O problema suspeito está na uretra; o ultrassom renal não esclarece a conduta."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos, hígido, fez ultrassonografia por dor abdominal e teve achado de massa sólida de 3,2 cm no polo inferior do rim direito, confirmada por tomografia com realce ao contraste, sem invasão venosa, linfonodos ou metástases. O rim contralateral e a função renal são normais. Qual é o tratamento de escolha?",
+  "alts": [
+   "Nefrectomia radical",
+   "Biópsia e vigilância",
+   "Nefrectomia parcial",
+   "Quimioterapia sistêmica",
+   "Radioterapia exclusiva"
+  ],
+  "gab": 2,
+  "tema": "especialidades",
+  "sub": "Massa renal T1a",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "European Association of Urology. EAU Guidelines on Renal Cell Carcinoma, 2025",
+  "coment": "Massa renal sólida com realce ao contraste é carcinoma de células renais até prova em contrário. Tumor de até 4 cm (T1a) em paciente saudável deve ser tratado com nefrectomia parcial, que tem resultado oncológico equivalente ao da radical e preserva função renal, com menor risco de doença renal crônica e eventos cardiovasculares. Vigilância ativa e ablação são opções para idosos ou com comorbidades. O carcinoma renal é pouco sensível à quimioterapia e à radioterapia convencionais.",
+  "porAlt": [
+   "A radical tem controle oncológico semelhante, mas sacrifica néfrons sem necessidade em T1a.",
+   "Vigilância é reservada a idosos ou com comorbidades, não a paciente jovem e hígido.",
+   "Correta: tumor T1a em paciente saudável pede nefrectomia parcial, que preserva função renal.",
+   "O carcinoma renal localizado não é tratado com quimioterapia, à qual responde pouco.",
+   "Radioterapia convencional não é tratamento padrão do carcinoma renal localizado."
+  ]
+ },
+ {
+  "q": "Homem de 22 anos, alto e magro, tabagista, sente dor torácica súbita à direita há 6 horas, com leve desconforto ao respirar. Está com FC de 88 bpm, SpO2 de 97% em ar ambiente e fala sem dificuldade. A radiografia mostra pneumotórax direito com distância interpleural de 3 cm no hilo, sem desvio do mediastino. É o primeiro episódio e ele tem acesso fácil ao hospital. Qual conduta é adequada pela diretriz britânica de 2023?",
+  "alts": [
+   "Tratamento conservador com observação e controle radiológico",
+   "Drenagem torácica em selo d'água com dreno calibroso",
+   "Videotoracoscopia com pleurodese no primeiro episódio",
+   "Toracocentese de alívio no segundo espaço intercostal",
+   "Pleurodese química com talco pelo dreno de tórax"
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Pneumotórax espontâneo primário",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Roberts ME et al. British Thoracic Society Guideline for Pleural Disease, 2023",
+  "coment": "A diretriz da BTS de 2023 trocou a decisão por tamanho pela decisão por sintomas e fisiologia. No pneumotórax espontâneo primário com sintomas mínimos e sem comprometimento fisiológico, o tratamento conservador pode ser considerado qualquer que seja o tamanho, com seguimento e orientação para retorno. Se houver sintomas importantes, as opções são manejo ambulatorial com dispositivo, aspiração por agulha ou dreno. Cirurgia é discutida na recidiva, no vazamento persistente ou em ocupações de risco.",
+  "porAlt": [
+   "Correta: sem sintomas relevantes nem alteração fisiológica, a BTS 2023 aceita tratamento conservador.",
+   "Dreno calibroso não é necessário em quem está estável e pouco sintomático.",
+   "Cirurgia no primeiro episódio fica para situações especiais, como profissão de risco.",
+   "Descompressão por agulha é para pneumotórax hipertensivo, ausente neste caso.",
+   "Pleurodese química não é feita no primeiro episódio de pneumotórax primário."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos com DPOC grave (VEF1 de 38% do previsto) chega com dispneia súbita e dor torácica esquerda há 3 horas. Está com FR de 26 irpm, SpO2 de 88% com oxigênio e fala frases curtas. A radiografia mostra pneumotórax esquerdo de 2 cm, com enfisema bolhoso. Não há desvio do mediastino e a PA é normal. Qual é a conduta?",
+  "alts": [
+   "Observação ambulatorial com radiografia em 48 horas",
+   "Oxigênio e alta após melhora da saturação na sala",
+   "Pleurodese química com talco por via percutânea",
+   "Broncodilatador e corticoide sem abordar a pleura",
+   "Drenagem pleural e internação para observação"
+  ],
+  "gab": 4,
+  "tema": "especialidades",
+  "sub": "Pneumotórax espontâneo secundário",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Roberts ME et al. British Thoracic Society Guideline for Pleural Disease, 2023",
+  "coment": "Pneumotórax em paciente com doença pulmonar de base, como DPOC, é secundário e tem menor reserva respiratória, maior mortalidade e maior chance de vazamento persistente. Mesmo com volume pequeno, o paciente sintomático e hipoxêmico deve ser drenado e internado. A abordagem conservadora ambulatorial da BTS 2023 é pensada para o pneumotórax primário pouco sintomático. Se o vazamento persistir, discute-se cirurgia ou, em quem não pode operar, pleurodese.",
+  "porAlt": [
+   "Manejo ambulatorial não é seguro com baixa reserva pulmonar e hipoxemia.",
+   "Dar alta com pneumotórax não tratado em DPOC grave expõe a piora rápida e óbito.",
+   "Pleurodese não é a primeira medida e exige pulmão expandido para funcionar.",
+   "Tratar só o broncoespasmo ignora o ar na pleura, que é a causa da descompensação.",
+   "Correta: no secundário sintomático e hipoxêmico, drena-se a pleura e interna-se o paciente."
+  ]
+ },
+ {
+  "q": "Homem de 57 anos, etilista, foi internado com pneumonia e derrame pleural direito. A toracocentese mostrou líquido turvo com pH de 6,9, e foi colocado dreno torácico com antibiótico adequado. Após 6 dias, mantém febre, o dreno parou de drenar e a tomografia mostra coleção pleural multiloculada com espessamento pleural e pulmão encarcerado. Qual é a conduta?",
+  "alts": [
+   "Estreptoquinase intrapleural isolada pelo mesmo dreno",
+   "Retirar o dreno e manter antibiótico oral por quatro semanas",
+   "Videotoracoscopia com desbridamento e decorticação",
+   "Trocar o antibiótico e aguardar mais sete dias de drenagem",
+   "Toracocenteses diárias de alívio guiadas por ultrassom"
+  ],
+  "gab": 2,
+  "tema": "especialidades",
+  "sub": "Empiema loculado",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Roberts ME et al. British Thoracic Society Guideline for Pleural Disease, 2023",
+  "coment": "Empiema com loculações, pulmão encarcerado e sepse persistente apesar de dreno e antibiótico configura falha do tratamento inicial. A conduta preferencial em quem tolera anestesia é a cirurgia, de preferência por videotoracoscopia, com desbridamento das loculações e decorticação para reexpandir o pulmão. A terapia intrapleural combinada de alteplase com dornase alfa é alternativa em quem não é candidato cirúrgico. Estreptoquinase isolada não melhorou desfechos em ensaio randomizado (MIST1).",
+  "porAlt": [
+   "Fibrinolítico isolado, sem dornase, não mostrou benefício clínico em ensaio randomizado.",
+   "Retirar a drenagem com coleção infectada e febre mantém o foco sem controle.",
+   "Correta: falha da drenagem com loculações e encarceramento pede cirurgia, preferindo a videotoracoscopia.",
+   "Mais antibiótico não resolve coleção loculada sem drenagem efetiva.",
+   "Punções repetidas não alcançam as loculações nem liberam o pulmão encarcerado."
+  ]
+ },
+ {
+  "q": "Mulher de 46 anos, nunca fumou e não tem história de câncer, fez tomografia de tórax após trauma leve. O laudo descreve nódulo pulmonar sólido de 5 mm no lobo médio, de contornos regulares, isolado. Não há outros achados. Ela está ansiosa e pergunta sobre seguimento. Segundo a Fleischner Society, qual é a orientação?",
+  "alts": [
+   "Tomografia de controle em 3 meses",
+   "PET-CT para avaliar captação do nódulo",
+   "Nenhum seguimento tomográfico de rotina",
+   "Biópsia por agulha guiada por tomografia",
+   "Tomografias anuais por cinco anos"
+  ],
+  "gab": 2,
+  "tema": "especialidades",
+  "sub": "Nódulo pulmonar incidental",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "MacMahon H et al. Guidelines for Management of Incidental Pulmonary Nodules Detected on CT Images: From the Fleischner Society, 2017",
+  "coment": "Pela Fleischner Society, nódulo sólido isolado menor que 6 mm, em adulto de baixo risco, não exige seguimento de rotina, porque a chance de câncer é menor que 1%. Em alto risco, a tomografia em 12 meses é opcional. Entre 6 e 8 mm, controla-se em 6 a 12 meses; acima de 8 mm, considera-se tomografia em 3 meses, PET-CT ou amostra de tecido. As regras não valem para rastreamento de câncer de pulmão nem para pacientes oncológicos.",
+  "porAlt": [
+   "Controle em 3 meses é considerado para nódulos maiores que 8 mm.",
+   "PET-CT tem baixa sensibilidade abaixo de 8 mm e não é indicado aqui.",
+   "Correta: nódulo sólido menor que 6 mm em baixo risco dispensa seguimento de rotina.",
+   "Biópsia de nódulo de 5 mm é tecnicamente difícil e desnecessária em baixo risco.",
+   "Seguimento anual prolongado não é recomendado e expõe à radiação sem benefício."
+  ]
+ },
+ {
+  "q": "Homem de 30 anos sofreu queda de moto em estrada de terra seca. Tem fratura exposta da tíbia direita com ferida de 12 cm, exposição óssea, perda extensa de partes moles e cominução, sem lesão vascular e sem contaminação grosseira por terra ou água. Está estável. A vacina antitetânica foi feita há 3 anos. Qual é o esquema antibiótico a iniciar no pronto-socorro?",
+  "alts": [
+   "Cefazolina associada a gentamicina, por via intravenosa",
+   "Cefazolina isolada por via oral até o desbridamento",
+   "Amoxicilina com clavulanato por via oral por sete dias",
+   "Antibiótico só após cultura colhida no centro cirúrgico",
+   "Vancomicina isolada intravenosa como primeira escolha"
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Fratura exposta",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Ferida maior que 10 cm com exposição óssea e lesão extensa de partes moles classifica a fratura como Gustilo-Anderson tipo III. O ATLS 11ª edição recomenda iniciar antibiótico intravenoso no momento do diagnóstico, com cobertura para gram-positivos (cefazolina) e acréscimo de gram-negativos no tipo III (gentamicina ou ceftriaxona). Somam-se curativo estéril, alinhamento, imobilização e desbridamento cirúrgico. Vacina há menos de cinco anos dispensa reforço antitetânico.",
+  "porAlt": [
+   "Correta: no Gustilo tipo III, o esquema inclui cefazolina mais cobertura para gram-negativos, já no diagnóstico.",
+   "Via oral não é adequada na fratura exposta, e o tipo III precisa de cobertura gram-negativa.",
+   "Esquema oral ambulatorial não é profilaxia adequada para fratura exposta grave.",
+   "Esperar cultura atrasa a profilaxia, que deve começar já no diagnóstico.",
+   "Vancomicina é reservada a alergia grave ou risco de MRSA, e sozinha não cobre gram-negativos."
+  ]
+ },
+ {
+  "q": "Homem de 25 anos teve fratura fechada da diáfise da tíbia imobilizada com gesso circular há 8 horas. Agora tem dor intensa na perna que não melhora com morfina e piora muito à extensão passiva dos dedos. Os pulsos pediosos estão presentes e há parestesia no dorso do pé. Qual é a conduta?",
+  "alts": [
+   "Retirar o gesso e indicar fasciotomia se não houver melhora",
+   "Elevar o membro acima do coração e reavaliar em 6 horas",
+   "Aumentar a dose de opioide e solicitar Doppler arterial",
+   "Aguardar a perda dos pulsos para confirmar o diagnóstico",
+   "Bloqueio anestésico regional para controle da dor e observação"
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Síndrome compartimental",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Dor desproporcional à lesão, que piora com o estiramento passivo dos músculos do compartimento, é o sinal mais precoce da síndrome compartimental. Pulso presente não exclui o diagnóstico; a perda de pulso é tardia. A conduta é remover todo material constritivo (gesso e enfaixamento) e, se o quadro persistir, fasciotomia de urgência. Pressão intracompartimental com delta P menor que 30 mmHg reforça o diagnóstico. Bloqueios regionais devem ser evitados porque mascaram a dor.",
+  "porAlt": [
+   "Correta: remove-se o gesso e, sem melhora, faz-se fasciotomia de urgência.",
+   "Elevar demais o membro reduz a perfusão, e esperar seis horas leva à necrose muscular.",
+   "Mais opioide mascara o quadro, e o Doppler não diagnostica síndrome compartimental.",
+   "A perda de pulso é sinal tardio; esperar por ela significa lesão irreversível.",
+   "Bloqueio regional esconde a dor, que é o principal sinal de alerta da síndrome."
+  ]
+ },
+ {
+  "q": "Mulher de 82 anos, independente e que caminhava sem apoio, cai da própria altura em casa. Tem dor no quadril direito e o membro está encurtado e em rotação externa. A radiografia mostra fratura do colo do fêmur com desvio completo (Garden IV). Está clinicamente compensada. Qual é o tratamento indicado?",
+  "alts": [
+   "Tração cutânea e repouso no leito por seis semanas",
+   "Artroplastia do quadril nas primeiras 24 a 48 horas",
+   "Osteossíntese com parafusos canulados após duas semanas",
+   "Tratamento não cirúrgico com analgesia e fisioterapia",
+   "Osteossíntese com haste cefalomedular em caráter eletivo"
+  ],
+  "gab": 1,
+  "tema": "especialidades",
+  "sub": "Fratura do colo do fêmur no idoso",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "National Institute for Health and Care Excellence. Hip fracture: management (CG124), atualização de 2023",
+  "coment": "Na fratura intracapsular desviada do colo do fêmur em idoso, a vascularização da cabeça femoral fica comprometida, e a osteossíntese tem alta taxa de necrose avascular e pseudartrose. O tratamento é a artroplastia, parcial ou total conforme a funcionalidade prévia. A cirurgia deve ser feita no dia da admissão ou no seguinte: o atraso aumenta mortalidade, delírio, úlcera por pressão e trombose. Tração e repouso prolongado não têm papel no idoso.",
+  "porAlt": [
+   "Repouso prolongado no idoso causa trombose, pneumonia, úlceras e perda funcional.",
+   "Correta: fratura intracapsular desviada no idoso é tratada com artroplastia precoce.",
+   "Fixar fratura desviada do colo tem alta taxa de necrose da cabeça, e o atraso piora o desfecho.",
+   "Sem cirurgia, a paciente perde a marcha e tem mortalidade maior.",
+   "Haste cefalomedular é para fratura extracapsular trocantérica, não para colo desviado."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos, motorista em colisão frontal, bateu o joelho no painel. Tem dor no quadril esquerdo, com o membro em flexão, adução e rotação interna, e parestesia na face lateral da perna. A radiografia mostra luxação posterior do quadril, sem fratura do colo. Está estável. Qual é a conduta e por que é urgente?",
+  "alts": [
+   "Redução fechada sob sedação nas primeiras 6 horas, pelo risco de necrose da cabeça femoral",
+   "Tração esquelética por três semanas antes da redução, para relaxar a musculatura do quadril",
+   "Redução eletiva no dia seguinte, já que o nervo ciático só é avaliado após a imobilização",
+   "Artroplastia total de quadril de urgência, pela alta chance de lesão definitiva da cartilagem",
+   "Imobilização na posição encontrada e transferência, pois a redução cabe só ao especialista"
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Luxação traumática do quadril",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Impacto do joelho contra o painel com o quadril fletido é o mecanismo típico da luxação posterior do quadril, que deixa o membro fletido, aduzido e em rotação interna e pode lesar o nervo ciático. A redução fechada, sob sedação adequada, deve ser feita o quanto antes: o risco de necrose avascular da cabeça do fêmur aumenta após 6 horas. O exame neurovascular é feito e documentado antes e depois da manobra, seguido de tomografia para avaliar fragmentos.",
+  "porAlt": [
+   "Correta: a redução precoce, em até 6 horas, reduz o risco de necrose avascular da cabeça femoral.",
+   "Atrasar a redução por semanas mantém a cabeça sem irrigação e causa necrose.",
+   "O exame do ciático é feito antes e depois da redução, e esperar um dia aumenta a necrose.",
+   "Artroplastia não é tratamento inicial de luxação sem fratura em adulto jovem.",
+   "Sem a redução precoce, a demora na transferência aumenta o risco de necrose da cabeça."
+  ]
+ },
+ {
+  "q": "Menino de 5 semanas tem vômitos em jato, não biliosos, após as mamadas há 6 dias, e fica faminto logo depois. Perdeu peso, tem mucosas secas e diurese reduzida. O ultrassom mostra músculo pilórico de 5 mm de espessura e canal de 18 mm. A gasometria mostra pH 7,53, bicarbonato 34 mEq/L, cloro 86 mEq/L e potássio 2,9 mEq/L. Qual é a conduta?",
+  "alts": [
+   "Piloromiotomia de urgência, antes de repor volume e eletrólitos",
+   "Sonda nasogástrica e dieta espessada, sem programar cirurgia",
+   "Reidratação oral e alta com retorno para cirurgia eletiva",
+   "Corrigir a desidratação e os eletrólitos antes da piloromiotomia",
+   "Bicarbonato intravenoso para corrigir a acidose antes de operar"
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Estenose hipertrófica de piloro",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Townsend CM et al. Sabiston Textbook of Surgery, 21ª edição, 2022",
+  "coment": "Os vômitos da estenose hipertrófica de piloro causam perda de ácido clorídrico, com alcalose metabólica hipoclorêmica e hipocalêmica. A piloromiotomia não é uma emergência: a criança é operada depois de corrigir a volemia e os eletrólitos com solução salina e potássio, porque alcalose persistente aumenta o risco de apneia pós-anestésica. Busca-se bicarbonato abaixo de cerca de 30 mEq/L e cloro normal antes da cirurgia.",
+  "porAlt": [
+   "Operar com alcalose e hipovolemia aumenta o risco de apneia e instabilidade anestésica.",
+   "A estenose hipertrófica é tratada com cirurgia, e o espessamento não resolve o quadro.",
+   "A criança está desidratada e com distúrbio importante, e não pode ter alta.",
+   "Correta: a alcalose hipoclorêmica é corrigida antes, e a piloromiotomia é feita depois, com segurança.",
+   "O distúrbio é alcalose, não acidose; bicarbonato agravaria o quadro."
+  ]
+ },
+ {
+  "q": "Lactente de 10 meses tem crises de choro com flexão das pernas há 30 horas, vômitos e fezes em geleia de framboesa. Chega letárgico, com FC de 190 bpm, tempo de enchimento capilar de 4 segundos e abdome distendido, com defesa e dor à descompressão. A radiografia mostra ar livre sob o diafragma. O ultrassom havia mostrado sinal do alvo. Após reanimação volêmica, qual é a conduta?",
+  "alts": [
+   "Redução com enema de ar",
+   "Redução hidrostática guiada",
+   "Laparotomia exploradora",
+   "Observação e nova ecografia",
+   "Colonoscopia para desinvaginar"
+  ],
+  "gab": 2,
+  "tema": "especialidades",
+  "sub": "Invaginação com perfuração",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Townsend CM et al. Sabiston Textbook of Surgery, 21ª edição, 2022",
+  "coment": "A redução por enema pneumático ou hidrostático, guiada por imagem, é o tratamento de primeira linha da invaginação intestinal na criança estável. Peritonite, pneumoperitônio e choque refratário contraindicam a tentativa, pela chance de perfuração ou de alça já necrosada. Nesse caso, após reanimação, a criança vai à laparotomia para redução manual ou ressecção do segmento inviável. A colonoscopia não é método de redução.",
+  "porAlt": [
+   "Insuflar ar com perfuração já presente piora a contaminação e pode causar pneumoperitônio hipertensivo.",
+   "Enema hidrostático também está contraindicado diante de perfuração e peritonite.",
+   "Correta: com peritonite e pneumoperitônio, a redução por enema é contraindicada e opera-se.",
+   "Esperar com perfuração e choque aumenta a mortalidade.",
+   "A colonoscopia não é usada para reduzir invaginação e é perigosa com perfuração."
+  ]
+ },
+ {
+  "q": "Menino de 8 meses, nascido a termo, vem à consulta de puericultura. Desde o nascimento, o testículo direito não é palpável na bolsa; está palpável no canal inguinal e não desce ao escroto com manobras, mesmo com a criança relaxada. O testículo esquerdo é tópico e não há hipospádia. Qual é a orientação?",
+  "alts": [
+   "Aguardar a descida espontânea até a idade escolar",
+   "Iniciar gonadotrofina coriônica antes de considerar cirurgia",
+   "Solicitar ressonância de abdome para localizar o testículo",
+   "Reavaliar na puberdade e operar se houver dor ou torção",
+   "Encaminhar para orquidopexia, idealmente até os 18 meses"
+  ],
+  "gab": 4,
+  "tema": "especialidades",
+  "sub": "Criptorquidia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "European Association of Urology. EAU Guidelines on Paediatric Urology, 2025",
+  "coment": "A descida espontânea do testículo depois dos 6 meses de idade corrigida é rara. A diretriz europeia recomenda orquidopexia entre 6 e 12 meses, no máximo até os 18 meses, para reduzir o prejuízo à espermatogênese e facilitar o exame do testículo, cujo risco de câncer é maior. Testículo palpável no canal não precisa de exame de imagem; ultrassom e ressonância não mudam a conduta. Terapia hormonal não é recomendada de rotina, pela baixa eficácia.",
+  "porAlt": [
+   "Esperar até a idade escolar prejudica a fertilidade e atrasa a correção.",
+   "A terapia hormonal tem eficácia baixa e não é rotina no testículo palpável.",
+   "Testículo palpável dispensa imagem; o exame físico já localiza o órgão.",
+   "Adiar até a puberdade compromete a função testicular e dificulta o rastreio de tumor.",
+   "Correta: após 6 meses a descida é rara, e a orquidopexia deve ocorrer até os 18 meses."
+  ]
+ },
+ {
+  "q": "Menina de 7 anos tem dor periumbilical há 18 horas que migrou para a fossa ilíaca direita, com anorexia, um vômito e temperatura de 38 °C. Há dor à palpação e à descompressão da fossa ilíaca direita. Leucócitos de 15.800/mm³ com neutrofilia. A cirurgia pediátrica pede confirmação por imagem. Qual é o exame inicial preferido?",
+  "alts": [
+   "Tomografia com contraste",
+   "Ultrassonografia de abdome",
+   "Radiografia de abdome",
+   "Ressonância de abdome",
+   "Enema opaco com bário"
+  ],
+  "gab": 1,
+  "tema": "especialidades",
+  "sub": "Apendicite na criança",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Di Saverio S et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines, 2020",
+  "coment": "Na criança com suspeita de apendicite, a ultrassonografia é o exame de imagem inicial recomendado pelas diretrizes de Jerusalém da WSES: não usa radiação e tem boa acurácia em mãos experientes, sobretudo em crianças magras. Se o ultrassom for inconclusivo e a dúvida persistir, a ressonância sem contraste é preferida à tomografia nessa faixa etária. A radiografia simples tem baixa sensibilidade e o enema baritado não tem papel.",
+  "porAlt": [
+   "A tomografia expõe a radiação e fica para dúvida que persiste quando não há ressonância.",
+   "Correta: na criança, a ultrassonografia é o primeiro exame por não usar radiação e ter boa acurácia.",
+   "A radiografia simples tem sensibilidade baixa para apendicite.",
+   "A ressonância é a segunda linha após ultrassom inconclusivo, não o primeiro exame.",
+   "O enema baritado é obsoleto e não tem papel no diagnóstico de apendicite."
+  ]
+ },
+ {
+  "q": "Menino de 4 meses tem aumento de volume no hemiescroto direito desde o nascimento, indolor. A mãe nota que o tamanho não muda ao longo do dia nem com o choro. O volume é cístico, transiluminável, e é possível palpar o cordão acima dele. O testículo não é palpável separadamente, mas o ultrassom mostra testículo normal. Qual é a conduta?",
+  "alts": [
+   "Herniorrafia inguinal com ligadura alta do conduto em 7 dias",
+   "Punção aspirativa do líquido seguida de compressão escrotal",
+   "Escleroterapia com álcool absoluto no próprio ambulatório",
+   "Observação clínica, com cirurgia se persistir após 1 a 2 anos",
+   "Exploração escrotal de urgência para afastar torção"
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Hidrocele no lactente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "European Association of Urology. EAU Guidelines on Paediatric Urology, 2025",
+  "coment": "Hidrocele no lactente com volume constante, sem variação ao longo do dia ou com o esforço, e com cordão palpável acima é não comunicante e costuma regredir espontaneamente até 1 a 2 anos. A cirurgia é indicada se persistir após esse prazo, se houver suspeita de hérnia associada ou se o volume variar, o que indica conduto peritoniovaginal patente. Punção e escleroterapia não são usadas em crianças, pelo risco de infecção, recidiva e lesão do cordão.",
+  "porAlt": [
+   "Herniorrafia precoce é para hérnia ou hidrocele comunicante, não para volume constante e cordão livre.",
+   "Punção na criança tem recidiva alta e risco de infecção e lesão do cordão.",
+   "Escleroterapia não é usada em crianças pelo risco de lesão do cordão espermático.",
+   "Correta: hidrocele não comunicante no lactente tende a regredir, e opera-se só se persistir.",
+   "Massa indolor, transiluminável e presente desde o nascimento não sugere torção."
+  ]
+ }
+]

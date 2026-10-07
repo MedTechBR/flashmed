@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Medicina de Família e Comunidade",
+  "f": "queixas-comuns-na-aps.html",
+  "tipo": "CAB 28 2012, IDSA 2012, NICE 2018 · resumo de prova",
+  "area": "cronicas",
+  "min": 56,
+  "t": "Queixas comuns na APS",
+  "s": "Lombalgia, cefaleia, tontura, dispepsia, dor de garganta pelos critérios de Centor e McIsaac, rinossinusite e otite no adulto, olho vermelho, cistite não complicada, queixas de pele e fadiga, com demora permitida e uso racional de exames, pelo Caderno de Atenção Básica 28, pelas diretrizes da IDSA e do NICE e pelo Tratado de Medicina de Família e Comunidade."
+ },
+ {
+  "grupo": "Medicina de Família e Comunidade",
+  "f": "tabagismo-e-mudanca-de-comportamento.html",
+  "tipo": "PCDT do Tabagismo 2020 e RDC Anvisa 855/2024 · resumo de prova",
+  "area": "cronicas",
+  "min": 55,
+  "t": "Tabagismo e mudança de comportamento",
+  "s": "Programa Nacional de Controle do Tabagismo, avaliação do fumante pelo teste de Fagerström, modelo transteórico, entrevista motivacional, abordagem breve (PAAPA e 5As), tratamento em grupo, reposição de nicotina, bupropiona e vareniclina, populações especiais e cigarro eletrônico, pelo PCDT do Tabagismo do Ministério da Saúde (2020), pelo INCA e pela RDC Anvisa 855/2024."
+ },
+ {
+  "grupo": "Saúde Coletiva e SUS",
+  "f": "planejamento-financiamento-e-regulacao-do-sus.html",
+  "tipo": "LC 141/2012 compilada 2026 e Portaria 828/2020 · resumo de prova",
+  "area": "sus",
+  "min": 52,
+  "t": "Planejamento, financiamento e regulação do SUS",
+  "s": "Pisos da saúde da EC 29 ao regime fiscal de 2023 e às leis complementares de 2026, transferências fundo a fundo e blocos de financiamento, cofinanciamento da APS, instrumentos de planejamento com seus prazos, regionalização e comissões intergestores, COAP, regulação e complexos reguladores, auditoria e controle social, pela LC 141/2012 compilada, pelas portarias de consolidação do Ministério da Saúde e pelo Decreto 7.508/2011."
+ }
+]

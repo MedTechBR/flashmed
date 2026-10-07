@@ -1,0 +1,16 @@
+{"incluidas": 46,
+ "descartadas": [
+  {"pid": "enm019", "motivo": "gabarito oficial contraria diretriz vigente: a Diretriz Brasileira de Hipertensão Arterial 2025 (SBC/SBH/SBN) e a ESC 2024 indicam tratar idosos com 80 anos ou mais e PA a partir de 140/90 mmHg (monoterapia nos muito idosos ou frágeis), após confirmar com MAPA/MRPA; o limiar de PAS 160 mmHg para maiores de 80 anos, que sustenta a conduta expectante 'sem necessidade de medicamentos', vem das diretrizes antigas. Com a norma atual, a losartana com monitoramento passa a ser defensável e a questão fica com duas respostas."},
+  {"pid": "enm053", "motivo": "depende de figura: o enunciado pede o diagnóstico 'ao considerar a imagem tomográfica apresentada', e a TC de crânio não está no texto (só a legenda solta); distinguir contusão de hematoma epidural depende da imagem."}
+ ],
+ "gabaritos_discutiveis": [
+  {"pid": "enm055", "nota": "A alternativa oficial diz covid-19 'anualmente' para o idoso; desde 2024 o MS indica dose a cada 6 meses para 60 anos ou mais. O erro está em todas as opções e não muda a resposta (que se decide pela pneumocócica 23 e pela abordagem dialogada); o comentário registra a atualização."},
+  {"pid": "enm066", "nota": "Na CAD pediátrica, após a expansão a insulina e o potássio começam juntos (ISPAD 2022); a resposta 'reposição de potássio' é a melhor porque 'correção imediata da glicemia' é errada (a queda deve ser gradual)."},
+  {"pid": "enm079", "nota": "Sem disfunção orgânica descrita nem lactato, a Surviving Sepsis aceita até 3 h para antibiótico na sepse possível sem choque; o protocolo ILAS e o enunciado sustentam a primeira hora, e as outras opções são claramente erradas."},
+  {"pid": "enm082", "nota": "Com parto prematuro prévio e colo de 15 mm antes de 24 semanas, a cerclagem também seria opção (não listada); a progesterona vaginal está correta."},
+  {"pid": "enm083", "nota": "Repetir citologia em 6 meses na LSIL vale para o rastreamento citológico (INCA 2016); no rastreamento com DNA-HPV (diretrizes 2025) a citologia é triagem de HPV positivo e o fluxo muda. Mantida, com ressalva no comentário."},
+  {"pid": "enm085", "nota": "Flumazenil é o antídoto específico, mas em usuária crônica de clonazepam há risco de convulsão e abstinência e o suporte ventilatório é o pilar; o comentário registra a cautela."},
+  {"pid": "enm098", "nota": "Bilirrubina 6,2 com colédoco dilatado é alto risco pela ASGE 2019, que indicaria CPRE direta; mas a alternativa com CPRE rotula como colangite (errado pelos critérios de Tóquio 2018), então a oficial segue a única coerente. Também: correção de decodificação: d'K → TGO e d'W → TGP (rótulos das aminotransferases na tabela)."},
+  {"pid": "enm089", "nota": "correção de decodificação: Couvalaire → Couvelaire"},
+  {"pid": "enm060", "nota": "correção de decodificação/digitação: '30,5 mg/kg2' → '30,5 kg/m²' (unidade do IMC)"}
+ ]}

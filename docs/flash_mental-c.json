@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "raps",
+  "a": "Programa De Volta para Casa: quem tem direito?",
+  "b": "Egresso de internação psiquiátrica de 2 anos ou mais (tempo em residência terapêutica conta), com consentimento e cuidado garantido na rede. Auxílio mensal por 1 ano, renovável; suspenso se reinternar em hospital psiquiátrico (Lei 10.708/2003)."
+ },
+ {
+  "tema": "raps",
+  "a": "Como termina a internação involuntária pela Lei 10.216/2001?",
+  "b": "Por pedido escrito do familiar ou responsável legal, ou por decisão do especialista responsável. A alta também é comunicada ao Ministério Público Estadual em até 72 horas (Lei 10.216/2001, art. 8º)."
+ },
+ {
+  "tema": "raps",
+  "a": "Evasão, transferência ou óbito de internado psiquiátrico: comunicar a quem e em quanto tempo?",
+  "b": "Familiares ou representante legal e autoridade sanitária, em até 24 horas da ocorrência (Lei 10.216/2001, art. 10)."
+ },
+ {
+  "tema": "raps",
+  "a": "Quem NÃO pode pedir internação involuntária de dependente de drogas?",
+  "b": "Servidores da segurança pública. Pedem familiar ou responsável legal e, na falta, servidor da saúde, da assistência social ou do Sisnad; máximo de 90 dias (Lei 13.840/2019)."
+ },
+ {
+  "tema": "raps",
+  "a": "CAPS exige encaminhamento da UBS?",
+  "b": "Não. O CAPS é serviço aberto e comunitário e acolhe demanda espontânea ou referenciada (PRC 3/2017, Anexo V, com redação da Portaria 757/2023)."
+ },
+ {
+  "tema": "raps",
+  "a": "Quais os quatro momentos do Projeto Terapêutico Singular?",
+  "b": "Diagnóstico, definição de metas, divisão de responsabilidades (com técnico de referência) e reavaliação (Ministério da Saúde, Caderno de Atenção Básica 34, 2013)."
+ },
+ {
+  "tema": "raps",
+  "a": "Que equipe substituiu o NASF no apoio matricial da APS?",
+  "b": "eMulti, instituída pela Portaria GM/MS 635/2023, nas modalidades ampliada, complementar e estratégica, com apoio matricial e atendimento compartilhado."
+ },
+ {
+  "tema": "drogas",
+  "a": "Linha do tempo da abstinência alcoólica: alucinose, convulsão e delirium tremens?",
+  "b": "Alucinose em 12 a 24 h, com sensório claro; convulsão de 8 a 48 h, pico perto de 24 h; delirium tremens em 72 a 96 h após a última dose (ASAM, 2020)."
+ },
+ {
+  "tema": "drogas",
+  "a": "Convulsão de abstinência alcoólica: fármaco de escolha?",
+  "b": "Benzodiazepínico, de preferência de meia-vida longa (diazepam). Fenitoína não é eficaz para convulsão de abstinência (ASAM, 2020)."
+ },
+ {
+  "tema": "drogas",
+  "a": "Gravidade do transtorno por uso de substância no DSM-5-TR?",
+  "b": "Onze critérios em 12 meses: 2 a 3 leve, 4 a 5 moderado, 6 ou mais grave. Fissura é critério; abuso e dependência deixaram de existir (DSM-5-TR, 2022)."
+ },
+ {
+  "tema": "drogas",
+  "a": "Naltrexona ou acamprosato no hepatopata que usa opioide?",
+  "b": "Acamprosato (666 mg 3 vezes ao dia): sem metabolismo hepático e sem bloqueio opioide; evitar se filtração abaixo de 30 mL/min (APA, 2018)."
+ },
+ {
+  "tema": "drogas",
+  "a": "Hiperêmese canabinoide: pista clínica e tratamento?",
+  "b": "Vômitos cíclicos em usuário crônico de cannabis, aliviados por banho quente. Haloperidol ou droperidol na crise; definitivo é parar a cannabis (AGA, 2024)."
+ },
+ {
+  "tema": "drogas",
+  "a": "Tratamento que reduz mortalidade no transtorno por uso de opioides?",
+  "b": "Manutenção com metadona ou buprenorfina, sem prazo máximo; desintoxicação isolada aumenta o risco de overdose na recaída. Naloxona para paciente e família (ASAM, 2020)."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Quando a psicose após droga sugere transtorno independente?",
+  "b": "Se os sintomas precederam o uso ou persistem por cerca de 1 mês após o fim da intoxicação ou da abstinência (DSM-5-TR, 2022)."
+ },
+ {
+  "tema": "psicoses",
+  "a": "O que define o transtorno esquizoafetivo?",
+  "b": "Episódio de humor junto com fase ativa, pelo menos 2 semanas de delírios ou alucinações sem sintomas de humor, e humor presente na maior parte da doença (DSM-5-TR, 2022)."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Discinesia tardia: conduta?",
+  "b": "Rever indicação e dose, considerar troca e usar inibidor do VMAT2 se moderada a grave (recomenda, 1B). Anticolinérgico não ajuda (APA, 2020)."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Por que parar de fumar eleva o nível de clozapina?",
+  "b": "A fumaça do tabaco induz o CYP1A2; sem ela, o nível de clozapina e olanzapina sobe em dias, com sedação, sialorreia e convulsão. Reduzir a dose (APA, 2020)."
+ },
+ {
+  "tema": "psicoses",
+  "a": "Usuário de lítio com poliúria e sem resposta à desmopressina: diagnóstico e tratamento?",
+  "b": "Diabetes insípido nefrogênico pelo lítio; amilorida permite manter o fármaco quando ele é indispensável (NICE CG185, atualizada em 2025)."
+ },
+ {
+  "tema": "humor",
+  "a": "O que é melhora precoce do antidepressivo e o que fazer sem ela?",
+  "b": "Queda de pelo menos 20% no escore em 2 a 4 semanas. Sem ela em 4 semanas de dose adequada: revisar adesão e aumentar a dose ou trocar (CANMAT, 2023)."
+ },
+ {
+  "tema": "humor",
+  "a": "Dose máxima de citalopram acima de 60 anos e motivo?",
+  "b": "20 mg/dia, pelo prolongamento do QT dependente da dose (40 mg/dia no adulto mais jovem) (CANMAT, 2023)."
+ },
+ {
+  "tema": "humor",
+  "a": "Duração mínima do transtorno depressivo persistente?",
+  "b": "2 anos no adulto e 1 ano em criança e adolescente, com 2 de 6 sintomas e sem período livre maior que 2 meses (DSM-5-TR, 2022)."
+ },
+ {
+  "tema": "emergpsiq",
+  "a": "Pode associar olanzapina IM a benzodiazepínico parenteral?",
+  "b": "Não: risco de hipotensão, bradicardia e depressão respiratória, maior no alcoolizado. Haloperidol com midazolam ou prometazina é que tem grau A (ABP, 2019)."
+ },
+ {
+  "tema": "emergpsiq",
+  "a": "Agitação na intoxicação alcoólica: opção mais segura?",
+  "b": "Antipsicótico em dose baixa com vigilância; cautela com benzodiazepínico, que soma depressão respiratória. Benzodiazepínico é para a abstinência (ABP, 2019)."
+ },
+ {
+  "tema": "psiqinf",
+  "a": "O SUS fornece metilfenidato para TDAH?",
+  "b": "Não. O PCDT do TDAH (Portaria Conjunta 14/2022) oferta só tratamento não medicamentoso; a Conitec não incorporou metilfenidato nem lisdexanfetamina."
+ },
+ {
+  "tema": "psiqinf",
+  "a": "Vômito recorrente na bulimia: distúrbio eletrolítico e ácido-base?",
+  "b": "Hipocalemia com alcalose metabólica hipoclorêmica; laxante tende a acidose hiperclorêmica. Sinal de Russell, parótidas e erosão dental (DSM-5-TR, 2022)."
+ }
+]

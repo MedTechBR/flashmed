@@ -1,0 +1,35 @@
+{
+ "incluidas": 38,
+ "descartadas": [
+  {
+   "pid": "p24076",
+   "motivo": "Mais de uma resposta defensável e gabarito oficial contestável: entre adolescentes brasileiros a principal causa de morte é a agressão por arma de fogo (o que torna defensável a alternativa de 14 a 17 anos), e entre as causas acidentais nessa idade predominam os acidentes de transporte; afogamento não é a principal causa de morte de 12 a 18 anos."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p24057",
+   "nota": "Mantida pelo critério FEBRASGO (amenorreia primária aos 15 anos com caracteres sexuais presentes; regra dos 3 anos após telarca só se a telarca ocorreu antes dos 10 anos). Pelo critério do ACOG (mais de 3 anos após a telarca, independentemente da idade) a adolescente, 4 anos e 2 meses após a telarca, já seria investigada."
+  },
+  {
+   "pid": "p24060",
+   "nota": "Mantida: NICE CG111 dispensa exames na enurese monossintomática sem sinais de alerta; o documento da ICCS admite tira reagente de urina na avaliação inicial, o que torna a alternativa de exame de urina parcialmente defensável."
+  },
+  {
+   "pid": "p24067",
+   "nota": "Mantida: a recomendação brasileira costuma vir como 2 a 3 vezes ao ano até os 3 anos; a alternativa oficial é a única compatível com o período de 3 anos."
+  },
+  {
+   "pid": "p24068",
+   "nota": "Mantida: marcos como brincar com os pés e agitar brinquedos surgem por volta de 5 a 6 meses e alguns quadros os colocam aos 5 meses; a oficial é a única aquisição seguramente esperada para todas as crianças nessa idade."
+  },
+  {
+   "pid": "p24075",
+   "nota": "Interpretação: 'não foram feitas' = doses atrasadas (VIP dos 4 meses e meningo C dos 5 meses), sem contar as doses do dia (Penta e VIP dos 6 meses). Calendário PNI 2026 conferido: meningo C aos 3 e 5 meses, reforço ACWY aos 12."
+  },
+  {
+   "pid": "p24044",
+   "nota": "Correção de artefato de extração: 'considerase' → 'considera-se' e 'mg/m2' → 'mg/m²'."
+  }
+ ]
+}

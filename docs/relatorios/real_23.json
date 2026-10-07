@@ -1,0 +1,55 @@
+{
+ "incluidas": 34,
+ "descartadas": [
+  {
+   "pid": "p25049",
+   "motivo": "Mais de uma resposta defensável: balanopostite de repetição e ITU recorrente com anomalia do trato urinário são as indicações cirúrgicas clássicas da fimose (EAU/ESPU, diretriz de urologia pediátrica, 2024), enquanto o balonamento prepucial (gabarito oficial) em fimose fisiológica não é, por si, indicação de cirurgia segundo a mesma diretriz."
+  },
+  {
+   "pid": "p25062",
+   "motivo": "Mais de uma resposta defensável: o gabarito oficial (suspender todas as vacinas, inclusive inativadas, até a reconstituição pós-TCTH) reflete prática de alguns centros para paciente em uso de imunoglobulina, mas o Manual dos CRIE (MS, 6ª ed., 2023) e a diretriz IDSA 2013 consideram as inativadas seguras e permitidas na imunodeficiência combinada (apenas pouco eficazes), o que torna a alternativa de manter inativadas, influenza anual e contraindicar vivas igualmente defensável. Havia também texto embaralhado na extração ('células-tronco Transplante de hematopoiéticas')."
+  },
+  {
+   "pid": "p25072",
+   "motivo": "Dados incongruentes e mais de uma resposta defensável: o gabarito (HAC perdedora de sal) conflita com potássio normal (4,7), ânion gap aumentado e lactente do sexo feminino sem descrição de virilização da genitália; icterícia, vômitos, hipoatividade e acidose em lactente amamentado tornam a galactosemia clássica igualmente defensável."
+  },
+  {
+   "pid": "p25075",
+   "motivo": "Gabarito em conflito com a norma vigente: o Ministério da Saúde (Guia de Vigilância em Saúde; ampliação da indicação de anfotericina B lipossomal em fev/2026) mantém o antimoniato de N-metilglucamina como primeira escolha na leishmaniose visceral, reservando a anfotericina B lipossomal a critérios de gravidade ou vulnerabilidade (idade < 1 ano ou > 50, escore de gravidade, disfunções orgânicas etc.). A criança de 3 anos não tem critério de gravidade descrito (plaquetas 78 mil, leucócitos 2.300, sem sangramento, icterícia ou edema), o que torna o antimoniato defensável."
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "p25050",
+   "nota": "Mantida. A alternativa oficial fala em iniciar dieta oral 'após 48 horas'; a NASPGHAN 2018 recomenda nutrição enteral precoce dentro de 48 a 72 horas. A ideia central (alimentação oral precoce, sem esperar dor ou lipase) está correta e as demais são claramente erradas."
+  },
+  {
+   "pid": "p25054",
+   "nota": "Mantida. Compressas mornas são a primeira linha no calázio; a alternativa delas foi considerada errada pelo exagero 'o máximo de tempo possível'. A oficial (drenagem se distorção visual) está correta; o comentário explica a primeira linha."
+  },
+  {
+   "pid": "p25057",
+   "nota": "Mantida. A tripsina imunorreativa só tem valor nas primeiras semanas de vida (triagem neonatal); aos 6 meses o exame decisivo é o teste do suor. Ainda assim é a única alternativa coerente, e o comentário esclarece."
+  },
+  {
+   "pid": "p25071",
+   "nota": "Mantida. O PCDT de transmissão vertical (com Nota Informativa 12/2023) usa AZT + 3TC + raltegravir no RN de alto risco com 37 semanas ou mais, ficando a nevirapina para 34 a 37 semanas. A questão não informa a idade gestacional; o ponto central (três drogas e contraindicação do aleitamento) segue vigente, e o comentário explica a troca por raltegravir no RN a termo."
+  },
+  {
+   "pid": "p25076",
+   "nota": "Mantida. A alternativa oficial diz 'evitando ventilação até desobstrução'; a AHA 2025 manda tentar ventilações após inspecionar a boca a cada ciclo de RCP na vítima inconsciente. As outras alternativas são claramente erradas; o comentário traz a sequência correta."
+  },
+  {
+   "pid": "p25063",
+   "nota": "Correção de artefato de extração: a palavra 'anti-transglutaminase' saiu deslocada para o fim do enunciado; foi devolvida à alternativa ('solicitar anticorpo anti-transglutaminase IgA tecidual (anti-tTG)')."
+  },
+  {
+   "pid": "p25069",
+   "nota": "Correção de artefato de extração: 'sem limitação Palpa-se passiva importante. “massa”' reordenado para 'sem limitação passiva importante. Palpa-se “massa”'."
+  },
+  {
+   "pid": "p25071",
+   "nota": "Correção de artefato de extração: 'recémnascido' para 'recém-nascido'."
+  }
+ ]
+}

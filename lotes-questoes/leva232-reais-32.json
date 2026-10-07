@@ -1,0 +1,1190 @@
+[
+ {
+  "pid": "s24001",
+  "q": "Uma paciente de 71 anos relata que há 4 meses vem se sentindo \"triste e sem esperança\". Em associação com esse quadro, parou de sair com seus amigos e de frequentar a academia, pois diz não sentir mais prazer nessas atividades. Queixa-se também de fadiga e ganho ponderal de 7 kg no período (peso anterior: 63 kg), porém o sintoma que mais a incomoda é uma dificuldade de concentração, com relato de seus familiares de que ela está ficando \"esquecida\". Esses sintomas ocorreram na maior parte dos dias desse período. Dentre as medicações a seguir, o tratamento mais adequado para esse caso é:",
+  "alts": [
+   "amitriptilina;",
+   "ácido valproico;",
+   "vortioxetina;",
+   "buspiorona;",
+   "risperidona."
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Depressão no idoso com queixa cognitiva",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "CANMAT, atualização 2023 das diretrizes para transtorno depressivo maior (Lam RW et al., 2024); Critérios de Beers AGS 2023",
+  "coment": "Idosa com humor deprimido e anedonia há 4 meses, na maior parte dos dias, mais fadiga, ganho de peso e queixa cognitiva: episódio depressivo maior pelo DSM-5-TR, com disfunção cognitiva associada. A vortioxetina tem ação multimodal (inibe a recaptação de serotonina e modula receptores 5-HT) e é, entre as opções, a única com benefício demonstrado sobre a cognição na depressão, inclusive em idosos, com baixo potencial anticolinérgico. O CANMAT 2023 a coloca como primeira linha e a prefere quando há queixa cognitiva. Tricíclicos são evitados no idoso pelos efeitos anticolinérgicos e cardíacos (Beers 2023).",
+  "porAlt": [
+   "Tricíclico com forte efeito anticolinérgico, sedação, hipotensão postural e piora cognitiva; consta nos critérios de Beers para idosos.",
+   "Estabilizador do humor sem papel em monoterapia na depressão unipolar; não trata o episódio descrito.",
+   "Correta: antidepressivo de primeira linha com benefício sobre a cognição, adequado à depressão com queixa cognitiva no idoso.",
+   "Ansiolítico usado no transtorno de ansiedade generalizada, sem eficácia como antidepressivo em monoterapia.",
+   "Antipsicótico sem indicação como tratamento inicial de depressão sem sintomas psicóticos e com risco aumentado em idosos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 1
+  }
+ },
+ {
+  "pid": "s24002",
+  "q": "Um paciente de 54 anos foi atendido com queixa de lentidão e tremor nas mãos iniciado 7 meses antes. Ao exame, apresentava hipomimia facial, marcha em pequenos passos e quadro simétrico de rigidez em roda dentada, tremor de repouso e bradicinesia em membros superiores. Suspeitou-se de que o quadro poderia ter origem medicamentosa. A medicação que mais provavelmente está associada a essa clínica é:",
+  "alts": [
+   "pramipexol;",
+   "fluvoxamina;",
+   "bromazepam;",
+   "olanzapina;",
+   "levetiracetam."
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Parkinsonismo induzido por antipsicótico",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2021; Stahl's Essential Psychopharmacology, 5ª ed., 2021",
+  "coment": "Parkinsonismo simétrico, de instalação subaguda, com tremor de repouso, rigidez em roda dentada, bradicinesia e hipomimia sugere causa medicamentosa. Os principais responsáveis são os bloqueadores do receptor D2 na via nigroestriatal: antipsicóticos e antieméticos como a metoclopramida. A olanzapina, embora atípica, causa parkinsonismo dependente de dose, sobretudo em doses altas e em pacientes mais velhos. Conduta: reduzir a dose, trocar por antipsicótico de menor afinidade D2 (quetiapina, clozapina) ou associar anticolinérgico por tempo limitado. A simetria ajuda a diferenciar da doença de Parkinson idiopática, que costuma começar unilateral.",
+  "porAlt": [
+   "Agonista dopaminérgico usado no tratamento da doença de Parkinson; melhora, e não causa, parkinsonismo.",
+   "ISRS que raramente causa tremor ou acatisia, mas não é causa típica de parkinsonismo completo.",
+   "Benzodiazepínico que causa sedação e ataxia, não rigidez em roda dentada nem tremor de repouso.",
+   "Correta: antipsicótico com bloqueio D2 nigroestriatal, causa clássica de parkinsonismo medicamentoso simétrico.",
+   "Anticonvulsivante associado a irritabilidade e alterações de comportamento, não a parkinsonismo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 2
+  }
+ },
+ {
+  "pid": "s24003",
+  "q": "Uma paciente de 76 anos, em tratamento de longa data para diabetes mellitus tipo 2, dislipidemia e hipertensão arterial sistêmica, procura consultório psiquiátrico queixando-se de que há 1 ano liga para seus filhos várias vezes por dia com medo de que \"algo ruim possa acontecer a eles\". Relata também que anda \"com os nervos à flor da pele\", irritada e com muita dor muscular. Aproveitando a consulta, também se queixa de formigamento e dor em queimação em seus pés iniciados há 2 anos, com piora progressiva. Considerando as comorbidades da paciente, a melhor terapia medicamentosa nesse caso é:",
+  "alts": [
+   "bupropiona;",
+   "alprazolam;",
+   "quetiapina;",
+   "escitalopram;",
+   "pregabalina."
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "TAG no idoso com neuropatia diabética",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Katzman MA et al. Diretrizes canadenses para transtornos de ansiedade (CANMAT), 2014; ADA Standards of Care 2026 (neuropatia diabética dolorosa)",
+  "coment": "Preocupação excessiva e difícil de controlar há 1 ano, com irritabilidade e tensão muscular, caracteriza transtorno de ansiedade generalizada (DSM-5-TR). A paciente também tem neuropatia diabética dolorosa (dor em queimação e parestesia distal progressiva). A pregabalina é aprovada para TAG no Brasil, é primeira linha para TAG na diretriz canadense de 2014 e primeira linha para dor neuropática diabética na ADA 2026: trata as duas condições com um só fármaco e com poucas interações. O escitalopram também é primeira linha para TAG, mas não trata a dor neuropática, e a questão pede a escolha considerando as comorbidades. No idoso, ajustar a dose à função renal e vigiar tontura e quedas.",
+  "porAlt": [
+   "Antidepressivo noradrenérgico e dopaminérgico que pode piorar ansiedade e insônia e não trata dor neuropática.",
+   "Benzodiazepínico de curta ação, evitado no idoso (Beers 2023) por quedas, sedação, déficit cognitivo e dependência.",
+   "Antipsicótico com risco metabólico, ruim para quem tem diabetes e dislipidemia; não é primeira escolha para TAG.",
+   "ISRS de primeira linha para TAG, mas sem efeito sobre a neuropatia dolorosa, comorbidade que orienta a escolha.",
+   "Correta: trata o transtorno de ansiedade generalizada e a dor neuropática diabética com um único fármaco."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 3
+  }
+ },
+ {
+  "pid": "s24004",
+  "q": "Um paciente de 48 anos é levado pelos filhos ao Centro de Atenção Psicossocial (CAPS) devido a quadro de etilismo. Os filhos relatam que o paciente bebe destilados quase diariamente e pouco se alimenta, e há 5 dias encontra-se caindo e confuso. Negam traumatismo cranioencefálico. Está sem fazer o uso de bebidas alcoólicas há 3 dias, sem melhora do quadro. Ao exame, o médico nota o paciente bastante emagrecido, desorientado no tempo e no espaço, desatento, com dificuldade de manter o equilíbrio, marcha instável e com nistagmo horizontal bilateral. Frente a esse caso agudo, a principal hipótese diagnóstica é:",
+  "alts": [
+   "encefalopatia de Wernicke;",
+   "transtorno conversivo;",
+   "doença de Creutzfeldt-Jakob;",
+   "cirrose hepática;",
+   "encefalite límbica."
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Encefalopatia de Wernicke no etilista",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Galvin R et al. EFNS guidelines for diagnosis, therapy and prevention of Wernicke encephalopathy, 2010",
+  "coment": "Etilista crônico, desnutrido, com confusão mental, ataxia de marcha e nistagmo: tríade clássica da encefalopatia de Wernicke, causada por deficiência de tiamina. A tríade completa aparece em minoria dos casos; os critérios de Caine (2 de 4: déficit dietético, sinais oculomotores, disfunção cerebelar, alteração mental ou de memória) aumentam a sensibilidade. A persistência após 3 dias sem beber afasta intoxicação. É emergência: tiamina parenteral em dose alta (a EFNS 2010 recomenda 200 mg três vezes ao dia por via intravenosa), antes de glicose, com encaminhamento imediato ao hospital.",
+  "porAlt": [
+   "Correta: confusão, ataxia e nistagmo em etilista desnutrido formam a tríade da deficiência de tiamina.",
+   "Diagnóstico de exclusão que não explica nistagmo nem o contexto de desnutrição e etilismo.",
+   "Doença priônica com demência rapidamente progressiva e mioclonias em meses, não quadro agudo de dias em etilista.",
+   "Pode coexistir no etilista, mas não causa nistagmo e ataxia; a encefalopatia hepática teria asterixe e outro contexto.",
+   "Encefalite autoimune ou paraneoplásica com crises e alterações de memória, sem relação com etilismo e desnutrição."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 4
+  }
+ },
+ {
+  "pid": "s24005",
+  "q": "Um paciente dá entrada na emergência com quadro de redução do nível de consciência, mutismo, rigidez muscular generalizada (em \"cano de chumbo\") e tremor. Sinais vitais: temperatura axilar de 39,1 °C, FC de 112 bpm, FR de 26 irpm e PA de 172 x 100 mmHg. Há 1 semana iniciou haloperidol devido a surto psicótico. Faz uso ocasional de Cannabis. A principal hipótese diagnóstica desse caso é:",
+  "alts": [
+   "esquizofrenia;",
+   "síndrome neuroléptica maligna;",
+   "síndrome de Parkinson-plus;",
+   "transtorno afetivo bipolar;",
+   "síndrome colinérgica."
+  ],
+  "gab": 1,
+  "tema": "emergpsiq",
+  "sub": "Síndrome neuroléptica maligna",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2021; American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "Uma semana após iniciar haloperidol, o paciente tem a tétrade da síndrome neuroléptica maligna: rigidez em cano de chumbo, hipertermia, alteração do nível de consciência e instabilidade autonômica (taquicardia, hipertensão, taquipneia). O DSM-5-TR a lista entre os transtornos do movimento induzidos por medicação; CPK elevada e leucocitose reforçam o diagnóstico. Antipsicóticos típicos de alta potência e aumento rápido de dose são os maiores fatores de risco. Conduta: suspender o antipsicótico, resfriar, hidratar, corrigir distúrbios e, nos casos graves, usar bromocriptina ou dantroleno em terapia intensiva.",
+  "porAlt": [
+   "Transtorno de base que motivou o haloperidol; não explica febre, rigidez e instabilidade autonômica.",
+   "Correta: rigidez em cano de chumbo, hipertermia, rebaixamento e disautonomia após início de antipsicótico.",
+   "Grupo de doenças neurodegenerativas de evolução lenta, sem febre ou disautonomia aguda após medicação.",
+   "Episódio de humor não causa rigidez generalizada, hipertermia e mutismo após antipsicótico.",
+   "Síndrome colinérgica cursa com miose, sialorreia, broncorreia e bradicardia, não com rigidez e hipertermia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 5
+  }
+ },
+ {
+  "pid": "s24006",
+  "q": "No que se refere aos sintomas negativos e positivos da esquizofrenia, é correto afirmar que:",
+  "alts": [
+   "antipsicóticos típicos e atípicos são eficazes no tratamento dos sintomas negativos da esquizofrenia;",
+   "os antipsicóticos típicos têm eficácia maior que os atípicos no tratamento dos sintomas negativos da esquizofrenia;",
+   "o tratamento dos sintomas positivos da esquizofrenia depende do adequado bloqueio dos receptores dopaminérgicos das vias nigroestriatal e tuberoinfundibular;",
+   "antipsicóticos típicos e atípicos são eficazes no tratamento dos sintomas positivos, embora os típicos causem mais efeitos extrapiramidais que os atípicos;",
+   "antipsicóticos atípicos são eficazes no tratamento dos sintomas positivos e negativos, embora os atípicos causem com frequência maior aumento da prolactina. "
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Antipsicóticos típicos e atípicos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020; Stahl's Essential Psychopharmacology, 5ª ed., 2021",
+  "coment": "Todos os antipsicóticos tratam os sintomas positivos pelo bloqueio D2 na via mesolímbica, com eficácia semelhante entre típicos e atípicos (a clozapina é superior na esquizofrenia resistente). A diferença está nos efeitos adversos: típicos de alta potência causam mais sintomas extrapiramidais e hiperprolactinemia; atípicos causam mais ganho de peso e alterações metabólicas. Sobre os sintomas negativos nenhum antipsicótico tem efeito robusto; os atípicos têm vantagem discreta, em parte por causarem menos negativismo secundário. O bloqueio nigroestriatal e tuberoinfundibular explica efeitos adversos, não a ação terapêutica.",
+  "porAlt": [
+   "Típicos têm efeito mínimo sobre sintomas negativos e podem piorá-los por bradicinesia e embotamento secundário.",
+   "É o inverso: os atípicos têm vantagem, ainda que modesta, sobre os sintomas negativos.",
+   "A ação antipsicótica vem do bloqueio mesolímbico; o nigroestriatal causa parkinsonismo e o tuberoinfundibular, hiperprolactinemia.",
+   "Correta: eficácia semelhante sobre sintomas positivos, com mais efeitos extrapiramidais nos típicos.",
+   "Atípicos, em geral, elevam menos a prolactina; risperidona, paliperidona e amissulprida são as exceções."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 6
+  }
+ },
+ {
+  "pid": "s24007",
+  "q": "Uma criança de 8 anos foi levada a consulta em uma unidade básica de saúde com queixa de baixo rendimento escolar e \"apagões\". Após colher a anamnese, e suspeitando de um diagnóstico, o médico fez a manobra de hiperventilação. Durante a manobra, a criança apresentou breves interrupções de consciência: ela ficava ausente e estática por alguns segundos e, em seguida, retornava ao ponto em que ocorrera a perda de consciência. Esses episódios breves eram acompanhados de discretos movimentos das pálpebras. Os pais relataram que esses episódios ocorriam várias vezes ao dia, mas que, devido à sua curta duração, tiveram dificuldade em observá-los. A paciente foi tratada com sucesso pelo médico da UBS com medicação antiepiléptica (etossuximida). No entanto, a mãe relatou a ocorrência de um fenômeno estranho após o início da medicação: a criança passou a ver coisas que não existiam e acreditava nessas coisas que só ela via. A melhor conduta frente a esse caso é:",
+  "alts": [
+   "tratar essa criança com metilfenidato, pois ela não é epilética e sofre de déficit de atenção;",
+   "trocar a droga antiepiléptica pela carbamazepina, pois trata-se de crise focal associada a episódios de ansiedade;",
+   "administrar haloperidol, pois a paciente é de fato esquizofrênica;",
+   "trocar a droga antiepilética para o ácido valproico, pois a criança apresenta crises generalizadas;",
+   "tratar com risperidona e metilfenidato, pois a criança sofre de déficit de atenção e esquizofrenia."
+  ],
+  "gab": 3,
+  "tema": "psiqinf",
+  "sub": "Ausência infantil e psicose por etossuximida",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "NICE NG217, Epilepsies in children, young people and adults, 2022",
+  "coment": "Ausências breves, várias vezes ao dia, provocadas por hiperventilação e com retorno imediato à atividade caracterizam epilepsia ausência da infância, crise generalizada que muitas vezes é confundida com desatenção. A etossuximida é primeira escolha, mas pode causar sintomas psicóticos, efeito adverso conhecido. A conduta é trocar o antiepiléptico, e não rotular a criança com esquizofrenia ou TDAH. O valproato é alternativa eficaz para ausências; a carbamazepina, como outros bloqueadores de canal de sódio, pode agravá-las. Em meninas, o valproato exige discutir o risco teratogênico futuro (NICE NG217); a lamotrigina é a outra opção.",
+  "porAlt": [
+   "Os apagões induzidos por hiperventilação são crises de ausência, não desatenção; metilfenidato não trata epilepsia.",
+   "Não é crise focal, e a carbamazepina pode agravar crises de ausência generalizadas.",
+   "Os sintomas psicóticos surgiram após a etossuximida e são efeito adverso, não esquizofrenia.",
+   "Correta: ausências são crises generalizadas e o valproato substitui a etossuximida, causadora da psicose.",
+   "Não há TDAH nem esquizofrenia; o quadro é epilepsia ausência com psicose induzida por medicamento."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 7
+  }
+ },
+ {
+  "pid": "s24008",
+  "q": "Após tentar vários antidepressivos, o médico optou por trocar o tratamento de paciente com episódio depressivo maior, substituindo um antidepressivo tricíclico por um inibidor irreversível da monoanina oxidase (IMAO). Em relação a esse caso, é correto afirmar que:",
+  "alts": [
+   "essa troca pode ser feita imediatamente;",
+   "a troca só pode ser realizada se for associado um benzodiazepínico de longa duração;",
+   "os IMAOs são drogas antigas e encontram-se proscritas, portanto não devem ser mais utilizadas;",
+   "um inibidor de recaptação de serotonina deve ser associado obrigatoriamente ao IMAO, já que a depressão é refratária;",
+   "o paciente deve seguir dieta, caso a troca seja realizada, evitando alimentos como queijos e salames, bem como bebidas fermentadas como vinhos, que estão contraindicadas."
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "IMAO e restrição de tiramina",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Stahl's Essential Psychopharmacology, 5ª ed., 2021; CANMAT, atualização 2023 das diretrizes para transtorno depressivo maior (Lam RW et al., 2024)",
+  "coment": "Os IMAO irreversíveis (tranilcipromina, fenelzina) bloqueiam a MAO intestinal e hepática, que degrada a tiramina da dieta. Alimentos ricos em tiramina, como queijos curados, embutidos fermentados (salame), vinho tinto, chope e derivados fermentados de soja, podem precipitar crise hipertensiva grave. Por isso o paciente precisa de orientação dietética, mantida até cerca de 2 semanas após a suspensão. A troca a partir de tricíclico exige período de eliminação para evitar síndrome serotoninérgica e crise hipertensiva. Os IMAO seguem indicados na depressão resistente e na atípica, e não se associam a ISRS.",
+  "porAlt": [
+   "A troca de tricíclico para IMAO exige período de eliminação do primeiro fármaco, pelo risco de interação grave.",
+   "Benzodiazepínico não torna a troca segura; o que previne a interação é o período de eliminação.",
+   "Os IMAO não estão proscritos e continuam como opção na depressão resistente e na depressão atípica.",
+   "ISRS associado a IMAO é contraindicado pelo risco de síndrome serotoninérgica potencialmente fatal.",
+   "Correta: o IMAO irreversível exige restrição de tiramina, evitando queijos curados, embutidos e vinhos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 8
+  }
+ },
+ {
+  "pid": "s24009",
+  "q": "Um paciente de 20 anos, estudante universitário, reside com os pais. Não tem histórico de problemas clínicos ou neurológicos significativos. É tabagista e faz uso eventual de bebidas alcoólicas. Nega uso de drogas ilícitas. Seus pais começaram a ficar preocupados com ele, especialmente nos últimos 6 meses, quando começou a ter comportamentos estranhos. Dizia que estava sendo seguido por agentes secretos e começou a passar cada vez mais tempo sozinho, fechado no seu quarto. Perguntado sobre o que lhe estava ocorrendo, disse que ouvia vozes comentando seus atos ou o insultando. Disse também que seus professores da universidade estavam conspirando para prejudicar sua carreira. O diagnóstico mais provável e o tratamento mais adequado são, respectivamente:",
+  "alts": [
+   "transtorno bipolar do humor; internar imediatamente e iniciar carbonato de lítio;",
+   "transtorno depressivo maior; iniciar psicoterapia familiar incluindo o paciente para elucidar as ideias de perseguição, típicas desse transtorno;",
+   "transtorno de ansiedade generalizada; iniciar alprazolam;",
+   "esquizofrenia; iniciar quetiapina ou outro neuroléptico;",
+   "depressão grave; iniciar venlafaxina."
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Esquizofrenia: diagnóstico e tratamento",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020; American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "Jovem de 20 anos com delírios persecutórios, alucinações auditivas (vozes que comentam os atos ou insultam) e isolamento social há 6 meses, sem doença clínica ou droga que explique: preenche os critérios do DSM-5-TR para esquizofrenia (2 ou mais sintomas psicóticos por 1 mês, sinais contínuos por 6 meses e prejuízo funcional). Vozes que comentam a ação são sintoma de primeira ordem de Schneider. O tratamento é antipsicótico, de preferência atípico pelo menor risco extrapiramidal, com intervenção psicossocial e familiar (APA 2020). Lítio, antidepressivo isolado e benzodiazepínico não tratam a psicose primária.",
+  "porAlt": [
+   "Não há episódio maníaco nem humor elevado; lítio não é o tratamento da psicose primária.",
+   "Não há humor deprimido central e delírio persecutório não é típico da depressão; psicoterapia isolada não trata psicose.",
+   "TAG cursa com preocupação excessiva, não com delírios e alucinações; alprazolam não trata psicose.",
+   "Correta: delírios e alucinações por 6 meses com declínio funcional, tratados com antipsicótico.",
+   "Depressão psicótica exigiria humor deprimido predominante; venlafaxina isolada não trata a psicose."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 9
+  }
+ },
+ {
+  "pid": "s24010",
+  "q": "Uma paciente de 47 anos relata preocupação constante com a sua saúde, tendo receio de que algo ruim aconteça. Quando está pior, relata dor precordial, que atribui ao coração “disparado”, e tem sensações de “morte iminente”, tonteira e parestesias. Geralmente esses sintomas duram apenas alguns minutos, mas são bastante desconfortáveis. A paciente já compareceu várias vezes à unidade de pronto atendimento durante as crises mais graves. Em geral é liberada para casa com a justificativa de que não apresentava nenhuma doença. Nega outras patologias ou o uso de drogas. O diagnóstico mais provável é:",
+  "alts": [
+   "transtorno de personalidade borderline;",
+   "esclerose múltipla;",
+   "transtorno de ansiedade social;",
+   "infarto agudo do miocárdio;",
+   "transtorno do pânico."
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Transtorno do pânico",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022; NICE CG113 (ansiedade generalizada e pânico em adultos), 2011",
+  "coment": "Crises recorrentes de medo intenso que atingem o pico em minutos, com palpitação, dor torácica, tontura, parestesias e sensação de morte iminente, somadas à preocupação persistente com a saúde e à procura repetida da emergência com exames normais: transtorno do pânico pelo DSM-5-TR. A investigação clínica inicial é necessária, mas as repetidas avaliações normais e a ausência de drogas ou doença apontam para o diagnóstico psiquiátrico. Tratamento: ISRS e terapia cognitivo-comportamental; benzodiazepínico só por curto período (NICE CG113).",
+  "porAlt": [
+   "Borderline envolve instabilidade afetiva e de relações de longa data, não crises autonômicas paroxísticas.",
+   "Esclerose múltipla dá surtos neurológicos de dias a semanas, não crises de minutos com medo de morrer.",
+   "Na ansiedade social o medo está ligado à exposição e à avaliação por outras pessoas, não a crises inesperadas.",
+   "Crises de minutos, repetidas, com exames sempre normais e sem fatores de risco tornam infarto improvável.",
+   "Correta: crises de pânico recorrentes com preocupação persistente e procura repetida da emergência."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 10
+  }
+ },
+ {
+  "pid": "s24011",
+  "q": "Considerando as drogas estabilizadoras do humor, é correto afirmar que:",
+  "alts": [
+   "o carbonato de lítio é uma droga que pode ser utilizada nos episódios maníacos;",
+   "a utilização de carbamazepina requer que se monitore o sódio, devido ao risco aumentado de hipernatremia;",
+   "lamotrigina e valproato não podem ser usados concomitantemente;",
+   "um dos principais efeitos adversos do topiramato é o ganho ponderal;",
+   "drogas estabilizadoras do humor com ação antiepiléptica em geral são facilitadoras da ação dos canais de sódio dependentes de voltagem. "
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Estabilizadores do humor",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Yatham LN et al. CANMAT/ISBD Guidelines for the management of bipolar disorder, 2018",
+  "coment": "O lítio é primeira linha no CANMAT/ISBD 2018 para mania aguda, para manutenção e para prevenção de suicídio no transtorno bipolar. As outras afirmações têm erros farmacológicos clássicos. A carbamazepina causa hiponatremia por efeito semelhante à secreção inapropriada de ADH (é o lítio que pode causar diabetes insípido nefrogênico). Lamotrigina e valproato podem ser associados, mas o valproato inibe a glicuronidação e dobra o nível da lamotrigina, o que exige metade da dose e titulação lenta pelo risco de Stevens-Johnson. O topiramato causa perda de peso. Os anticonvulsivantes estabilizadores, em geral, bloqueiam canais de sódio voltagem-dependentes.",
+  "porAlt": [
+   "Correta: o lítio é primeira linha no tratamento da mania aguda e na manutenção do transtorno bipolar.",
+   "A carbamazepina causa hiponatremia por efeito semelhante à secreção inapropriada de ADH, não hipernatremia.",
+   "A associação é possível, desde que a lamotrigina seja iniciada em dose reduzida pela interação com o valproato.",
+   "O topiramato é associado a perda de peso, e não a ganho ponderal.",
+   "Carbamazepina, oxcarbazepina, lamotrigina e valproato bloqueiam, e não facilitam, canais de sódio."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 11
+  }
+ },
+ {
+  "pid": "s24013",
+  "q": "Um paciente jovem de 20 anos deu entrada no serviço de emergência psiquiátrica com o seguinte quadro: síndrome de psicose aguda (delírios e alucinações), hipertensão, hipertermia, taquicardia, midríase e diaforese. Seu pai relatou que o filho tinha uma alteração genética que causava a diminuição sérica da colinesterase e que usava álcool. A provável etiologia é:",
+  "alts": [
+   "alcoolismo agudo;",
+   "uso de atropina;",
+   "transtorno esquizoafetivo;",
+   "depressão psicótica;",
+   "uso de cocaína."
+  ],
+  "gab": 4,
+  "tema": "drogas",
+  "sub": "Intoxicação por cocaína",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Goldfrank's Toxicologic Emergencies, 11ª ed., 2019",
+  "coment": "Psicose aguda com hipertensão, taquicardia, hipertermia, midríase e diaforese é toxíndrome simpaticomimética. A cocaína é metabolizada sobretudo pela pseudocolinesterase plasmática (butirilcolinesterase); a deficiência genética dessa enzima prolonga e intensifica a intoxicação. O álcool soma risco, pois forma cocaetileno, metabólito ativo e mais cardiotóxico. A diaforese é o dado que separa a toxíndrome simpaticomimética da anticolinérgica, em que a pele é seca e quente. Tratamento: benzodiazepínico para agitação, hipertermia e hipertensão.",
+  "porAlt": [
+   "Intoxicação alcoólica aguda deprime o sistema nervoso, sem midríase, hipertermia e hiperatividade adrenérgica.",
+   "Atropina causa síndrome anticolinérgica, com pele seca e quente, sem diaforese, e não depende da colinesterase.",
+   "Transtorno psicótico primário não explica hipertermia, taquicardia, midríase e sudorese.",
+   "Depressão psicótica não cursa com instabilidade autonômica aguda nem hipertermia.",
+   "Correta: toxíndrome simpaticomimética com diaforese, agravada pela deficiência da colinesterase que metaboliza a cocaína."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 13
+  }
+ },
+ {
+  "pid": "s24014",
+  "q": "Um paciente de 47 anos afirma que há uma cobra em seu abdômen. Apesar de os exames objetivos mostrarem total normalidade, o paciente mantém sua crença inabalável na presença da cobra dentro de seu corpo. Esse episódio pode ser descrito como:",
+  "alts": [
+   "delírio cenestopático, que pode ocorrer principalmente na esquizofrenia e nos transtornos delirantes;",
+   "alucinação cenestopática, presente na esquizofrenia paranoide;",
+   "alucinação somestésica, presente no transtorno de uso de substâncias;",
+   "delírio de referência, presente na esquizofrenia;",
+   "alteração somática da depressão psicótica."
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Delírio cenestopático (somático)",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Dalgalarrondo P. Psicopatologia e Semiologia dos Transtornos Mentais, 3ª ed., 2019",
+  "coment": "O que define o fenômeno é a convicção inabalável, mantida apesar da prova em contrário (exames normais): é delírio, alteração do juízo de realidade, e não da percepção. Como o conteúdo é corporal (um animal dentro do abdome), chama-se delírio cenestopático ou somático. Na alucinação cenestésica o paciente sente a sensação corporal sem estímulo, e o foco é a percepção. Delírios somáticos aparecem na esquizofrenia e no transtorno delirante, subtipo somático. Delírio de referência é a crença de que fatos neutros se referem à própria pessoa.",
+  "porAlt": [
+   "Correta: crença irredutível de conteúdo corporal, vista na esquizofrenia e no transtorno delirante somático.",
+   "O enunciado destaca a crença mantida apesar das provas, o que define delírio, e não percepção sem objeto.",
+   "Alucinação somestésica (como sentir insetos na pele) é percepção, comum na abstinência e na cocaína, não crença fixa.",
+   "Delírio de referência é a convicção de que fatos neutros dizem respeito a si, conteúdo diferente do descrito.",
+   "Não há humor deprimido nem conteúdo de culpa ou ruína que sugira depressão psicótica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 14
+  }
+ },
+ {
+  "pid": "s24015",
+  "q": "Quando ocorrem alterações na percepção, o indivíduo interpreta algo inexistente como parte da realidade. Quando uma pessoa afirma ouvir vozes conversando com elas, embora não haja ninguém presente, está-se diante do sintoma conhecido como:",
+  "alts": [
+   "episódio depressivo maior;",
+   "delírio de referência (de alusão ou autorreferência);",
+   "delírio de perseguição;",
+   "alucinação;",
+   "esquizofrenia."
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Alucinação auditiva",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Dalgalarrondo P. Psicopatologia e Semiologia dos Transtornos Mentais, 3ª ed., 2019",
+  "coment": "Alucinação é a percepção sem objeto: o indivíduo ouve, vê ou sente algo que não existe, com caráter de realidade. Ouvir vozes conversando sem ninguém presente é alucinação auditiva, a mais comum na esquizofrenia. Delírio é alteração do juízo (crença falsa e irredutível), e não da percepção. Esquizofrenia e episódio depressivo maior são diagnósticos, e não sintomas. Diferencie também da ilusão, que é a percepção deformada de um objeto real.",
+  "porAlt": [
+   "Episódio depressivo maior é diagnóstico sindrômico, não o nome de um sintoma perceptivo.",
+   "Delírio de referência é alteração do juízo, a crença de que fatos neutros se referem a si, não da percepção.",
+   "Delírio de perseguição é crença falsa de ser perseguido, alteração do pensamento e não da percepção.",
+   "Correta: percepção sem objeto real, como ouvir vozes sem ninguém presente.",
+   "Esquizofrenia é diagnóstico, no qual a alucinação auditiva pode aparecer como sintoma."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 15
+  }
+ },
+ {
+  "pid": "s24016",
+  "q": "Um paciente de 50 anos apresentou inicialmente os seguintes sintomas: sensação de exploração, preocupação com a lealdade ou confiança de amigos e frequentes interpretações de comentários como ameaças. O comportamento não era evidentemente bizarro ou estranho. Passou a ter problemas conjugais, pois estava convencido de que seu cônjuge o estava traindo. Essa convicção era baseada em interpretações incorretas apoiadas em evidências duvidosas. Foi descartado o transtorno por uso de substâncias, porque não havia relato do uso de drogas ou álcool. O provável diagnóstico é:",
+  "alts": [
+   "transtorno bipolar;",
+   "episódio depressivo maior;",
+   "transtorno delirante;",
+   "esquizofrenia;",
+   "transtorno obsessivo compulsivo."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Transtorno delirante tipo ciumento",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "Delírio de ciúmes (infidelidade do cônjuge) sustentado em interpretações erradas, em homem de 50 anos, sem comportamento bizarro e sem uso de substâncias: transtorno delirante, subtipo ciumento, pelo DSM-5-TR (delírio por 1 mês ou mais, sem preencher o critério A da esquizofrenia, com funcionamento pouco afetado fora do tema delirante). A desconfiança prévia lembra traço paranoide, e o início na meia-idade é típico. Na esquizofrenia haveria alucinações proeminentes, desorganização ou sintomas negativos. Tratamento: antipsicótico e aliança terapêutica, com adesão costumeiramente baixa.",
+  "porAlt": [
+   "Não há episódios de mania ou hipomania nem alteração do humor que expliquem a convicção de traição.",
+   "Não há humor deprimido ou anedonia; o centro do quadro é uma crença delirante de ciúmes.",
+   "Correta: delírio não bizarro de infidelidade, sem outros sintomas psicóticos e sem uso de substâncias.",
+   "Faltam alucinações, desorganização e sintomas negativos, e o comportamento não é bizarro.",
+   "No TOC as ideias são reconhecidas como excessivas e geram rituais, sem convicção delirante."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 16
+  }
+ },
+ {
+  "pid": "s24017",
+  "q": "Um adolescente de 15 anos apresentou deterioração do desempenho escolar concomitante com o surgimento de sintomas como ouvir vozes identificadas como \"um computador na minha cabeça\". Outras vezes, relatou ter falado com um marciano e acreditava que faria uma missão espacial. Foi se distanciando dos amigos. Esses sintomas se iniciaram 8 meses antes. O provável diagnóstico é:",
+  "alts": [
+   "transtorno de ansiedade generalizada;",
+   "transtorno delirante;",
+   "esquizofrenia;",
+   "episódio depressivo maior;",
+   "transtorno afetivo bipolar."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Esquizofrenia de início precoce",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022; APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020",
+  "coment": "Adolescente com alucinações auditivas (voz de um computador na cabeça), delírios bizarros (conversa com marciano, missão espacial), queda do rendimento escolar e isolamento social há 8 meses: esquizofrenia de início precoce pelo DSM-5-TR (2 ou mais sintomas por 1 mês, sinais contínuos por 6 meses, prejuízo funcional). O início antes dos 18 anos costuma ser insidioso, com pior prognóstico e mais sintomas negativos e cognitivos. Antes do diagnóstico, afastar uso de substâncias e causas orgânicas. O delírio bizarro e as alucinações afastam transtorno delirante.",
+  "porAlt": [
+   "TAG cursa com preocupação excessiva e sintomas físicos de ansiedade, sem delírios ou alucinações.",
+   "Transtorno delirante tem delírio não bizarro, sem alucinações proeminentes, e raramente começa na adolescência.",
+   "Correta: alucinações, delírio bizarro, isolamento e queda funcional por mais de 6 meses.",
+   "Não há humor deprimido ou anedonia predominante, e os sintomas psicóticos não têm conteúdo depressivo.",
+   "A grandiosidade não vem com euforia, aceleração ou menor necessidade de sono que definam mania."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 17
+  }
+ },
+ {
+  "pid": "s24018",
+  "q": "Segundo o DSM-5, para caracterização de um episódio depressivo maior, deve(m) estar presente(s), além dos sintomas secundários:",
+  "alts": [
+   "anedonia e/ou tristeza (pelo menos um dos dois);",
+   "anedonia e suicidalidade (obrigatoriamente os dois);",
+   "baixa autoestima e tristeza (pelo menos um dos dois);",
+   "tristeza e/ou alterações no sono (pelo menos um dos dois);",
+   "baixa autoestima e suicidalidade (obrigatoriamente os dois)."
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Critérios do episódio depressivo maior",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "Pelo DSM-5-TR, o episódio depressivo maior exige 5 ou mais de 9 sintomas, na maior parte do dia, quase todos os dias, por pelo menos 2 semanas, e pelo menos um deles deve ser humor deprimido ou perda de interesse ou prazer (anedonia). Os demais são alteração de peso ou apetite, insônia ou hipersonia, agitação ou retardo psicomotor, fadiga, sentimento de inutilidade ou culpa excessiva, dificuldade de concentração e pensamentos recorrentes de morte ou ideação suicida. Em crianças e adolescentes o humor pode ser irritável. Baixa autoestima não é critério do episódio.",
+  "porAlt": [
+   "Correta: humor deprimido ou anedonia, ao menos um dos dois, é obrigatório no episódio depressivo maior.",
+   "Ideação suicida é sintoma acessório, não obrigatório, e basta um dos dois sintomas centrais.",
+   "Baixa autoestima não é sintoma central; o DSM fala em inutilidade ou culpa como sintoma acessório.",
+   "Alteração do sono é sintoma acessório e não substitui a anedonia como critério central.",
+   "Nenhum dos dois é sintoma central obrigatório, e o DSM não exige dois sintomas específicos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 18
+  }
+ },
+ {
+  "pid": "s24019",
+  "q": "Segundo o DSM-5, o período mínimo para manifestação dos sintomas que definem um episódio depressivo maior é:",
+  "alts": [
+   "1 semana;",
+   "2 semanas;",
+   "1 mês;",
+   "2 meses;",
+   "6 meses. "
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Duração do episódio depressivo maior",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "O DSM-5-TR exige que os sintomas do episódio depressivo maior estejam presentes na maior parte do dia, quase todos os dias, por no mínimo 2 semanas, representando mudança em relação ao funcionamento anterior e causando sofrimento ou prejuízo. Prazos que costumam ser confundidos: episódio maníaco, 1 semana (ou qualquer duração se houver internação); hipomania, 4 dias; transtorno depressivo persistente, 2 anos em adultos e 1 ano em crianças; TAG, 6 meses; esquizofrenia, 6 meses de sinais contínuos.",
+  "porAlt": [
+   "Uma semana é o tempo mínimo do episódio maníaco, não do episódio depressivo maior.",
+   "Correta: o DSM-5-TR exige ao menos 2 semanas de sintomas quase diários.",
+   "Um mês é o tempo de sintomas ativos do critério A da esquizofrenia, não da depressão.",
+   "Dois meses não é critério de duração do episódio; no DSM esse prazo define a remissão completa.",
+   "Seis meses é o prazo do TAG e da esquizofrenia, muito acima do exigido para o episódio depressivo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 19
+  }
+ },
+ {
+  "pid": "s24020",
+  "q": "O transtorno do estresse pós-traumático (TEPT) pode ser analisado por instrumentos como a escala de impacto de evento revisada (IES-R). Essa escala permite identificar várias dimensões do TEPT. As dimensões avaliadas por essa escala são:",
+  "alts": [
+   "intrusão e desesperança;",
+   "pensamentos obsessivos e ideias recorrentes;",
+   "angústia, medo e evitação;",
+   "dificuldade de concentração e desesperança;",
+   "evitação, intrusão e hiperestimulação."
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Escala IES-R no TEPT",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "tit",
+  "base": "Weiss DS, Marmar CR. The Impact of Event Scale Revised, 1997",
+  "coment": "A Escala de Impacto do Evento Revisada (IES-R), de Weiss e Marmar (1997), tem 22 itens autoaplicáveis e três subescalas: intrusão (lembranças, pesadelos), evitação (de pensamentos, lugares e conversas) e hiperestimulação (irritabilidade, sobressalto, dificuldade de concentração e de sono). A versão original de Horowitz, de 1979, avaliava só intrusão e evitação; a revisão acrescentou a hiperexcitação, aproximando a escala dos critérios de TEPT. Serve para rastreio e seguimento, não para diagnóstico isolado.",
+  "porAlt": [
+   "Desesperança não é dimensão da IES-R, que mede intrusão, evitação e hiperestimulação.",
+   "Pensamentos obsessivos são do TOC; a IES-R mede sintomas ligados a um evento traumático.",
+   "Angústia e medo não são subescalas; só a evitação está correta entre os três termos.",
+   "Dificuldade de concentração é item da hiperestimulação, e desesperança não é avaliada pela escala.",
+   "Correta: as três subescalas da IES-R são evitação, intrusão e hiperestimulação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 20
+  }
+ },
+ {
+  "pid": "s24022",
+  "q": "Um paciente de 70 anos, ensino superior, relata estar sendo furtado por sua esposa e afirma haver um complô para matá-lo. No miniexame do estado mental, encontra-se desorientado no tempo e no espaço e não consegue evocar as três palavras, embora as tenha repetido corretamente alguns minutos antes. Sua esposa relata que sua memória para fatos recentes vem piorando de maneira progressiva há 1 ano, levando a prejuízos significativos em suas atividades instrumentais da vida diária. O diagnóstico mais provável é:",
+  "alts": [
+   "transtorno esquizoide;",
+   "doença de Alzheimer;",
+   "episódio depressivo maior;",
+   "crise psicótica aguda;",
+   "atrofia de múltiplos sistemas."
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Alzheimer com delírio de roubo",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "McKhann GM et al. Critérios NIA-AA para demência por doença de Alzheimer, 2011; American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "Idoso com declínio progressivo da memória recente há 1 ano, desorientação, falha na evocação tardia com registro preservado e prejuízo nas atividades instrumentais: síndrome demencial de perfil amnéstico, típica da doença de Alzheimer (NIA-AA 2011). Delírios de roubo e de prejuízo são sintomas psicóticos comuns no Alzheimer e muitas vezes nascem do esquecimento (o paciente não acha o objeto e acusa alguém). Psicose de início tardio com déficit cognitivo progressivo pede investigação de demência antes de pensar em transtorno psicótico primário. Escolaridade alta não afasta o diagnóstico.",
+  "porAlt": [
+   "Personalidade esquizoide é padrão duradouro de distanciamento social, sem declínio cognitivo progressivo.",
+   "Correta: perda progressiva da memória recente, desorientação e prejuízo funcional, com delírio de roubo.",
+   "Não há humor deprimido; a pseudodemência depressiva tem início mais abrupto e queixa cognitiva exagerada pelo paciente.",
+   "Crise psicótica aguda não explica 1 ano de declínio progressivo da memória com prejuízo funcional.",
+   "Atrofia de múltiplos sistemas é sinucleinopatia com disautonomia, parkinsonismo e ataxia, não demência amnéstica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 22
+  }
+ },
+ {
+  "pid": "s24023",
+  "q": "Na depressão resistente, a conduta adequada, especialmente na presença de ideação suicida, é:",
+  "alts": [
+   "escolher entre eletroconvulsoterapia ou quetamina intravenosa;",
+   "associar três antidepressivos e aguardar 2 meses;",
+   "associar inibidor de receptação de serotonina com clobazam;",
+   "associar sertralina com inibidor de monoamino oxidase;",
+   "manter o mesmo tratamento por no mínimo 6 meses e vigilância constante."
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Depressão resistente com ideação suicida",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "CANMAT, atualização 2023 das diretrizes para transtorno depressivo maior (Lam RW et al., 2024)",
+  "coment": "Na depressão resistente, sobretudo com ideação suicida, buscam-se intervenções de resposta rápida e alta eficácia. A eletroconvulsoterapia é o tratamento mais eficaz para depressão grave e resistente, com indicação reforçada quando há risco de suicídio, sintomas psicóticos ou catatonia. A cetamina intravenosa em dose subanestésica (e a escetamina intranasal, aprovada pela ANVISA) tem efeito antidepressivo e sobre a ideação suicida em horas, com eficácia comparável à da ECT no ensaio ELEKT-D, de 2023. O CANMAT 2023 inclui ambas entre as estratégias para depressão resistente. Esperar meses ou acumular antidepressivos sem racional mantém o risco.",
+  "porAlt": [
+   "Correta: ECT e cetamina intravenosa agem rápido e são eficazes na depressão resistente com risco de suicídio.",
+   "Associar três antidepressivos sem racional soma efeitos adversos, e esperar 2 meses é inadequado com ideação suicida.",
+   "Clobazam é benzodiazepínico sem efeito antidepressivo e não é estratégia de potencialização validada.",
+   "ISRS com IMAO é contraindicado pelo risco de síndrome serotoninérgica.",
+   "Manter por mais 6 meses um tratamento que já falhou atrasa a resposta e mantém o risco de suicídio."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 23
+  }
+ },
+ {
+  "pid": "s24024",
+  "q": "As pareidolias são mais frequentes na seguinte doença:",
+  "alts": [
+   "transtorno esquizoide;",
+   "doença de Alzheimer;",
+   "transtorno do espectro autista;",
+   "esquizofrenia;",
+   "doença de Lewy."
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Pareidolias na demência com corpos de Lewy",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "McKeith IG et al. Diagnosis and management of dementia with Lewy bodies: fourth consensus report of the DLB Consortium, 2017",
+  "coment": "Pareidolias são ilusões complexas em que o indivíduo vê rostos, pessoas ou animais em estímulos ambíguos (manchas, nuvens, estampas). São muito frequentes na demência com corpos de Lewy, ligadas às alucinações visuais complexas que são característica clínica central no consenso de McKeith (2017), e decorrem de disfunção visuoperceptiva e colinérgica. O teste de pareidolias ajuda a diferenciar a doença de Lewy da doença de Alzheimer, em que o fenômeno é bem menos comum. Na esquizofrenia predominam as alucinações auditivas.",
+  "porAlt": [
+   "Personalidade esquizoide é padrão de distanciamento social, sem alteração perceptiva característica.",
+   "Ocorrem no Alzheimer, mas com frequência bem menor; o déficit visuoperceptivo pesa mais na doença de Lewy.",
+   "No autismo há alterações sensoriais, mas pareidolias não são marcadoras do transtorno.",
+   "Na esquizofrenia predominam alucinações auditivas e delírios; pareidolias não são típicas.",
+   "Correta: pareidolias acompanham as alucinações visuais complexas da demência com corpos de Lewy."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 24
+  }
+ },
+ {
+  "pid": "s24026",
+  "q": "Texto 1: Uma mulher de 30 anos, sem história de doença psiquiátrica prévia, apresenta há alguns anos quadros alternantes de dois grupamentos de sintomas. Primeiro grupo: ideação suicida, tristeza intensa, desvalia, fadiga e alterações no sono. Segundo grupo: excesso de euforia, logorreia, autoestima inflada, aceleração de pensamentos com “fuga de ideias”, perda de controle sobre as atitudes com intensificação de compulsões (alimentar, jogos, compras e desejos sexuais), irritabilidade, agressividade e delírios de grandeza.\n\nConsiderando que os dois grupos de sintomas citados no texto 1 causam prejuízo significativo nas atividades de vida diária, o tratamento mais adequado é:",
+  "alts": [
+   "ácido valproico e carbonato de lítio;",
+   "imipramina;",
+   "fluvoxamina e mirtazapina;",
+   "trazodona e escitalopram;",
+   "paroxetina e alprazolam."
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Tratamento do transtorno bipolar tipo I",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Yatham LN et al. CANMAT/ISBD Guidelines for the management of bipolar disorder, 2018; EMA, medidas restritivas do valproato, 2018",
+  "coment": "O texto descreve episódios depressivos e maníacos (euforia, logorreia, grandiosidade, fuga de ideias, compulsões, delírio de grandeza) com prejuízo importante: transtorno bipolar tipo I. O tratamento se apoia em estabilizadores do humor; lítio e valproato são primeira linha no CANMAT/ISBD 2018, e a associação dos dois é opção na mania grave ou com resposta insuficiente à monoterapia. Antidepressivo sem estabilizador no bipolar é contraindicado, pelo risco de virada maníaca e ciclagem rápida. Ressalva: em mulher em idade fértil, o valproato exige contracepção efetiva e, pelas restrições da EMA (2018), só deve ser usado se outras opções falharem.",
+  "porAlt": [
+   "Correta: única opção com estabilizadores do humor, base do tratamento do transtorno bipolar tipo I.",
+   "Tricíclico isolado no bipolar pode precipitar mania e ciclagem rápida.",
+   "Dois antidepressivos sem estabilizador aumentam o risco de virada maníaca e não tratam a mania.",
+   "Antidepressivos sem estabilizador não controlam os episódios maníacos descritos.",
+   "ISRS com benzodiazepínico não estabiliza o humor e pode induzir virada maníaca."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 26
+  }
+ },
+ {
+  "pid": "s24027",
+  "q": "Texto 1: Uma mulher de 30 anos, sem história de doença psiquiátrica prévia, apresenta há alguns anos quadros alternantes de dois grupamentos de sintomas. Primeiro grupo: ideação suicida, tristeza intensa, desvalia, fadiga e alterações no sono. Segundo grupo: excesso de euforia, logorreia, autoestima inflada, aceleração de pensamentos com “fuga de ideias”, perda de controle sobre as atitudes com intensificação de compulsões (alimentar, jogos, compras e desejos sexuais), irritabilidade, agressividade e delírios de grandeza.\n\nConsiderando o caso clínico relatado no texto 1, o diagnóstico mais provável da paciente em questão é:",
+  "alts": [
+   "depressão recorrente;",
+   "esquizofrenia;",
+   "transtorno bipolar;",
+   "demência precoce;",
+   "transtorno obsessivo-compulsivo."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Diagnóstico do transtorno bipolar",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "Alternância, ao longo dos anos, de episódios depressivos (tristeza intensa, desvalia, ideação suicida, fadiga, alteração do sono) e maníacos (euforia, logorreia, autoestima inflada, fuga de ideias, impulsividade em compras, jogo e sexo, irritabilidade e delírio de grandeza) define transtorno bipolar. Pelo DSM-5-TR, basta um episódio maníaco (1 semana ou internação) para o tipo I; sintomas psicóticos congruentes com o humor, como a grandiosidade, não mudam o diagnóstico. A presença de mania é o dado decisivo e exclui depressão recorrente.",
+  "porAlt": [
+   "Os episódios de euforia, grandiosidade e fuga de ideias excluem depressão unipolar recorrente.",
+   "Os delírios de grandeza ocorrem só dentro dos episódios de humor, o que não caracteriza esquizofrenia.",
+   "Correta: episódios depressivos e maníacos alternados definem transtorno bipolar.",
+   "Não há declínio cognitivo progressivo, e o quadro é episódico, com fases de humor bem delimitadas.",
+   "As compulsões são impulsividade da mania, não rituais para neutralizar obsessões como no TOC."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 27
+  }
+ },
+ {
+  "pid": "s24028",
+  "q": "Um homem de 60 anos sem história de doença psiquiátrica prévia ou de alterações cognitivas, encontra-se na emergência em coma por intoxicação alcoólica aguda. A melhor conduta inicial é:",
+  "alts": [
+   "iniciar por via intravenosa soro glicosado imediatamente seguido de antipsicótico;",
+   "iniciar por via intravenosa soro glicosado em conjunto com tiamina;",
+   "iniciar por via intravenosa soro fisiológico e diazepam por via intramuscular;",
+   "iniciar por via intravenosa soro fisiológico e naltrexona por via intramuscular;",
+   "aguardar o paciente acordar, sem nenhuma conduta medicamentosa nesse momento. "
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Coma por intoxicação alcoólica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Galvin R et al. EFNS guidelines for diagnosis, therapy and prevention of Wernicke encephalopathy, 2010",
+  "coment": "No coma por intoxicação alcoólica a conduta inicial é suporte (via aérea, ventilação, circulação), glicemia capilar e correção de hipoglicemia, frequente porque o etanol inibe a gliconeogênese. Em etilista ou paciente com risco nutricional que recebe glicose, administra-se tiamina parenteral junto ou antes, porque a glicose consome tiamina e pode precipitar encefalopatia de Wernicke (EFNS 2010). Não há antídoto para o etanol; sedativos e antipsicóticos pioram a depressão respiratória. Naltrexona serve para manter a abstinência, não para intoxicação aguda.",
+  "porAlt": [
+   "Antipsicótico no paciente em coma não tem indicação e aumenta o risco de depressão respiratória e hipotensão.",
+   "Correta: corrige ou previne a hipoglicemia, e a tiamina protege contra a encefalopatia de Wernicke.",
+   "Diazepam no paciente em coma piora a depressão respiratória e não tem indicação na intoxicação.",
+   "Naltrexona é usada para prevenir recaída no transtorno por uso de álcool, não no coma alcoólico.",
+   "Aguardar sem intervir deixa de tratar hipoglicemia e de proteger contra Wernicke, além de faltar suporte."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 28
+  }
+ },
+ {
+  "pid": "s24029",
+  "q": "Em relação ao paciente em tratamento com lítio, os exames laboratoriais que devem ser solicitados regularmente são:",
+  "alts": [
+   "amilase, lipase e sódio;",
+   "vitamina D e dosagem sérica do lítio;",
+   "PCR, dosagem sérica do lítio, bilirrubinas;",
+   "vitamina B12, ácido fólico e vitamina D;",
+   "dosagem sérica do lítio, ureia, creatinina e TSH."
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Monitorização do lítio",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Yatham LN et al. CANMAT/ISBD Guidelines for the management of bipolar disorder, 2018",
+  "coment": "O lítio tem janela terapêutica estreita e eliminação renal, e seus efeitos adversos de longo prazo são renais (diabetes insípido nefrogênico, queda da filtração) e endócrinos (hipotireoidismo e hiperparatireoidismo). Por isso o seguimento inclui litemia colhida 12 horas após a última dose (na manutenção, em geral entre 0,6 e 1,0 mmol/L), ureia e creatinina, TSH e cálcio, de forma regular, a cada 3 a 6 meses depois de estabilizado (CANMAT/ISBD 2018). Antes de iniciar, pedir também ECG em quem tem mais de 40 anos ou doença cardíaca e teste de gravidez em mulheres em idade fértil.",
+  "porAlt": [
+   "Amilase e lipase monitoram pancreatite, efeito ligado ao valproato e não ao lítio.",
+   "Vitamina D não faz parte do seguimento do lítio, e faltam função renal e tireoidiana.",
+   "PCR e bilirrubinas não monitoram efeitos do lítio, que são renais e tireoidianos, não hepáticos.",
+   "Vitaminas não fazem parte do seguimento do lítio, e falta a litemia.",
+   "Correta: litemia, função renal e TSH monitoram toxicidade, nefrotoxicidade e hipotireoidismo pelo lítio."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 29
+  }
+ },
+ {
+  "pid": "s24031",
+  "q": "Texto 2: Um homem de 70 anos, sem história de doença psiquiátrica prévia, apresentou, no último ano, quadro de alucinações visuais complexas e transtorno cognitivo que afeta suas atividades instrumentais da vida diária. Ao exame apresenta bradicinesia e rigidez em roda dentada.\n\nConsiderando o caso clínico apresentado no texto 2, o diagnóstico mais provável é:",
+  "alts": [
+   "trantorno esquizoide;",
+   "doença de Lewy;",
+   "síndrome de Hakim-Adams;",
+   "esquizofrenia;",
+   "crise psicótica aguda."
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Demência com corpos de Lewy",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "McKeith IG et al. Diagnosis and management of dementia with Lewy bodies: fourth consensus report of the DLB Consortium, 2017",
+  "coment": "Idoso com alucinações visuais complexas, declínio cognitivo com prejuízo funcional e parkinsonismo espontâneo (bradicinesia, rigidez) no mesmo período: demência com corpos de Lewy provável pelo consenso de McKeith (2017), que exige demência e 2 características centrais (alucinações visuais recorrentes, parkinsonismo, flutuação cognitiva, transtorno comportamental do sono REM). Regra de 1 ano: se a demência surge antes ou até 1 ano após o parkinsonismo, é doença de Lewy; se surge anos depois, demência da doença de Parkinson. Psicose de início tardio com parkinsonismo pede este diagnóstico antes de esquizofrenia.",
+  "porAlt": [
+   "Personalidade esquizoide é padrão desde o início da vida adulta, sem alucinações, demência ou parkinsonismo.",
+   "Correta: alucinações visuais complexas, demência e parkinsonismo no mesmo ano definem demência com corpos de Lewy.",
+   "Hakim-Adams é a hidrocefalia de pressão normal: marcha magnética, incontinência urinária e demência, sem alucinações.",
+   "Esquizofrenia iniciada aos 70 anos com demência e parkinsonismo é improvável, e nela predominam alucinações auditivas.",
+   "Crise psicótica aguda não explica o declínio cognitivo progressivo e o parkinsonismo de um ano."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 31
+  }
+ },
+ {
+  "pid": "s24032",
+  "q": "Texto 2: Um homem de 70 anos, sem história de doença psiquiátrica prévia, apresentou, no último ano, quadro de alucinações visuais complexas e transtorno cognitivo que afeta suas atividades instrumentais da vida diária. Ao exame apresenta bradicinesia e rigidez em roda dentada.\n\nDe acordo com o caso clínico relatado no texto 2, considerando o diagnóstico mais provável, a melhor classe farmacológica para iniciar tratamento da paciente em questão é:",
+  "alts": [
+   "antipsicóticos;",
+   "antidepressivos;",
+   "anticonvulsivantes;",
+   "benzodiazepínicos;",
+   "inibidores da colinesterase."
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Tratamento da demência com corpos de Lewy",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "McKeith IG et al. Diagnosis and management of dementia with Lewy bodies: fourth consensus report of the DLB Consortium, 2017",
+  "coment": "Na demência com corpos de Lewy o déficit colinérgico cortical é mais intenso que no Alzheimer, e os inibidores da colinesterase (rivastigmina, donepezila) melhoram cognição, flutuação e também as alucinações visuais, sendo a primeira classe recomendada no consenso de McKeith (2017). Antipsicóticos devem ser evitados: muitos pacientes têm reação de sensibilidade grave, com piora do parkinsonismo, rebaixamento e síndrome neuroléptica maligna; se indispensável, quetiapina ou clozapina em dose baixa. Benzodiazepínicos pioram cognição e risco de quedas.",
+  "porAlt": [
+   "Antipsicóticos causam reação de sensibilidade grave na doença de Lewy e não são a primeira escolha.",
+   "Antidepressivos tratam depressão associada, mas não as alucinações e o déficit cognitivo centrais.",
+   "Anticonvulsivantes não têm papel no tratamento dos sintomas centrais da demência com corpos de Lewy.",
+   "Benzodiazepínicos pioram a cognição, a confusão e o risco de quedas no idoso com demência.",
+   "Correta: inibidores da colinesterase melhoram cognição e alucinações visuais na demência com corpos de Lewy."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 32
+  }
+ },
+ {
+  "pid": "s24033",
+  "q": "Um paciente de 87 anos é internado para tratamento de pneumonia com antibioticoterapia venosa. Durante a internação, apresenta episódios de agitação, necessitando de contenção mecânica para que não saia do leito. Ao ser avaliado pelo médico, afirma que está em casa. O quadro flutua durante o dia, alternando com períodos assintomáticos. Considerando o quadro do paciente acima, o diagnóstico mais provável é:",
+  "alts": [
+   "delirium;",
+   "episódio maníaco;",
+   "crise psicótica aguda;",
+   "demência rapidamente progressiva;",
+   "episódio depressivo."
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Delirium no idoso internado",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "Idoso internado por pneumonia com início agudo de desorientação, agitação e curso flutuante, com períodos lúcidos, tem delirium: pelo DSM-5-TR, distúrbio da atenção e da consciência que se instala em horas a dias, flutua e é causado por condição médica. Idade avançada, infecção, internação e contenção mecânica são fatores de risco e de perpetuação. O CAM ajuda no diagnóstico à beira do leito. Conduta: tratar a causa, revisar medicamentos, reorientar, favorecer sono e mobilização e evitar contenção; antipsicótico só para agitação com risco, em dose baixa e por pouco tempo.",
+  "porAlt": [
+   "Correta: início agudo, curso flutuante e desorientação em idoso com pneumonia caracterizam delirium.",
+   "Mania exigiria humor elevado ou irritável sustentado, não desorientação flutuante iniciada com infecção.",
+   "Psicose primária não explica desorientação e flutuação da consciência ligadas a doença clínica.",
+   "Demência rapidamente progressiva evolui em semanas a meses, sem flutuação diária com períodos lúcidos.",
+   "Episódio depressivo não cursa com desorientação aguda flutuante e agitação desencadeada por infecção."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 33
+  }
+ },
+ {
+  "pid": "s24034",
+  "q": "Uma paciente de 25 anos procura consultório de psiquiatria queixando-se de medo de ser abandonada e alegando não ser compreendida por seus amigos e familiares. Relata mudanças bruscas de humor que se iniciaram na adolescência, levando inclusive a brigas físicas com suas irmãs. Tem dificuldade em seus relacionamentos, pois não se julga boa o suficiente para os parceiros; posteriormente, porém, afirma que esses parceiros \"não eram nada\" e não mereciam sua atenção. Relata múltiplos parceiros e relações sexuais desprotegidas. Houve tentativa de suicídio há 5 anos. Refere também desconfiar que suas irmãs estão tramando para que ela não receba a herança do pai, que está doente. Faz uso ocasional de cocaína. Durante a anamnese, mostra-se bastante agitada e irritada com as perguntas do examinador. O diagnóstico mais provável é transtorno:",
+  "alts": [
+   "bipolar;",
+   "depressivo maior;",
+   "de ansiedade generalizada;",
+   "de personalidade borderline;",
+   "de personalidade antissocial."
+  ],
+  "gab": 3,
+  "tema": "psiqinf",
+  "sub": "Transtorno de personalidade borderline",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "Mulher jovem com medo intenso de abandono, instabilidade afetiva desde a adolescência, relações intensas e instáveis com alternância entre idealização e desvalorização, impulsividade (sexo desprotegido, cocaína), tentativa de suicídio e ideação paranoide transitória: transtorno de personalidade borderline, que exige 5 de 9 critérios do DSM-5-TR. As mudanças de humor são reativas e duram horas, diferente dos episódios de dias a semanas do transtorno bipolar. O tratamento principal é psicoterapia estruturada, como a terapia comportamental dialética; medicamento só para sintomas-alvo.",
+  "porAlt": [
+   "No bipolar os episódios duram dias a semanas; aqui a instabilidade é reativa, persistente e ligada às relações.",
+   "Não há episódio de humor deprimido sustentado; o padrão é de instabilidade de longa data.",
+   "O quadro não é de preocupação excessiva crônica, e sim de instabilidade afetiva e relacional.",
+   "Correta: medo de abandono, idealização e desvalorização, impulsividade, suicidalidade e instabilidade afetiva.",
+   "Antissocial tem desprezo pelos direitos alheios e ausência de remorso, sem o medo de abandono central."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 34
+  }
+ },
+ {
+  "pid": "s24035",
+  "q": "Das medicações a seguir, aquela usada no tratamento de abstinência de opioides é:",
+  "alts": [
+   "metadona;",
+   "imipramina;",
+   "carbamazepina;",
+   "carbonato de lítio;",
+   "metilfenidato. "
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Abstinência de opioides",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "WHO. Guidelines for the psychosocially assisted pharmacological treatment of opioid dependence, 2009",
+  "coment": "A metadona, agonista completo do receptor opioide mu com meia-vida longa, é usada no manejo da abstinência de opioides (substituição com redução gradual) e na manutenção do transtorno por uso de opioides, junto com a buprenorfina, conforme a OMS (2009). Outra opção sintomática para a abstinência são os agonistas alfa-2 adrenérgicos, como a clonidina. A naloxona é antídoto da intoxicação, e a naltrexona serve para prevenir recaída após a desintoxicação.",
+  "porAlt": [
+   "Correta: agonista opioide de longa duração usado na abstinência e na manutenção do transtorno por uso de opioides.",
+   "Tricíclico antidepressivo, sem papel no manejo da abstinência de opioides.",
+   "Anticonvulsivante usado em algumas abstinências de álcool, mas não é tratamento padrão da abstinência de opioides.",
+   "Estabilizador do humor sem indicação na abstinência de opioides.",
+   "Psicoestimulante para TDAH e narcolepsia, sem papel na abstinência de opioides."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 35
+  }
+ },
+ {
+  "pid": "s24036",
+  "q": "Por insistência da família, Célio, 25 anos, comparece ao consultório, acompanhado de sua mãe. Já foi expulso da escola 2 vezes aos 12 anos devido a comportamento agressivo e brigas recorrentes com os colegas, como em uma situação em que agrediu o professor ao ser pego \"colando\" em uma prova. Demonstra indiferença ao ser perguntado dessas situações. Aos 19 anos foi preso por furto. Tem dificuldade em permanecer nos empregos por muito tempo. Há 6 meses iniciou novo trabalho, mas foi demitido após várias faltas e atrasos injustificados. Teve seu direito de dirigir suspenso recentemente por exceder o limite de pontos da carteira nacional de habilitação, com várias multas por excesso de velocidade e por ultrapassar o sinal vermelho. Ao ser indagado sobre o que achava da situação, Célio mostrava-se confiante em suas habilidades, dizendo que nunca causou um acidente e que essas leis serviam apenas para quem não sabia dirigir. O diagnóstico mais provável é:",
+  "alts": [
+   "esquizofrenia;",
+   "transtorno de personalidade antissocial;",
+   "atraso no desenvolvimento;",
+   "transtorno do déficit de atenção e hiperatividade;",
+   "transtorno de personalidade histriônica."
+  ],
+  "gab": 1,
+  "tema": "psiqinf",
+  "sub": "Transtorno de personalidade antissocial",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "Padrão persistente de desrespeito às regras e aos direitos alheios desde a infância (agressões e expulsões aos 12 anos, sugestivas de transtorno da conduta antes dos 15), seguido na vida adulta de furto e prisão, irresponsabilidade no trabalho, imprudência ao volante e indiferença ou racionalização sem remorso: transtorno de personalidade antissocial pelo DSM-5-TR. O diagnóstico exige 18 anos ou mais, evidência de transtorno da conduta antes dos 15 anos e 3 de 7 critérios. A falta de remorso e a racionalização distinguem do TDAH, em que a impulsividade costuma gerar arrependimento.",
+  "porAlt": [
+   "Não há delírios, alucinações ou desorganização que sugiram psicose.",
+   "Correta: transtorno da conduta na infância seguido de violações de normas, irresponsabilidade e ausência de remorso.",
+   "Não há atraso de aquisições nem déficit intelectual; o problema é de conduta.",
+   "Impulsividade não explica furto, agressividade e ausência de remorso; no TDAH costuma haver arrependimento.",
+   "Histriônica busca atenção com emotividade teatral e sedução, sem violação de regras e direitos alheios."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 36
+  }
+ },
+ {
+  "pid": "s24037",
+  "q": "Uma paciente de 28 anos teve diagnóstico recente de transtorno bipolar do humor, sendo iniciada monoterapia com valproato de sódio. Ela procura um novo psiquiatra para uma \"segunda opinião\". O psiquiatra informa que, embora o diagnóstico esteja correto e o valproato de sódio seja uma escolha de tratamento, vai precisar substituí-lo. A alternativa que identifica corretamente um motivo para essa substituição é:",
+  "alts": [
+   "associação com perda ponderal;",
+   "risco de precipitação de uma virada maníaca;",
+   "risco aumentado de teratogenicidade em caso de gravidez;",
+   "piora de sintomas de ideação suicida;",
+   "caráter tireotóxico da medicação."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Valproato em mulher em idade fértil",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "EMA, medidas restritivas do valproato (programa de prevenção da gravidez), 2018; Yatham LN et al. CANMAT/ISBD Guidelines for bipolar disorder, 2018",
+  "coment": "O valproato é eficaz no transtorno bipolar, mas é o antiepiléptico mais teratogênico: cerca de 10% de malformações (defeitos do tubo neural, cardíacas, faciais) e até 30 a 40% de alterações do neurodesenvolvimento, incluindo autismo e redução do QI. Desde 2018 a EMA restringe o uso em mulheres em idade fértil, que só devem recebê-lo se não houver alternativa e dentro de um programa de prevenção da gravidez. Em mulher de 28 anos é motivo legítimo para trocar por lítio, lamotrigina ou antipsicótico atípico, conforme a fase predominante.",
+  "porAlt": [
+   "O valproato causa ganho, e não perda, de peso, além de associação com síndrome dos ovários policísticos.",
+   "Virada maníaca é risco de antidepressivo; o valproato é antimaníaco.",
+   "Correta: alto risco teratogênico e de alterações do neurodesenvolvimento em mulheres em idade fértil.",
+   "Não há associação específica do valproato com piora da ideação suicida que motive a troca.",
+   "O valproato não é tireotóxico; quem altera a tireoide é o lítio, causando hipotireoidismo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 37
+  }
+ },
+ {
+  "pid": "s24038",
+  "q": "Adenor, 54 anos, procura o CAPS AD (Centro de Atenção Psicossocial – Álcool e outras Drogas), pois deseja parar de fumar, sendo prescrita para ele bupropiona. Uma contraindicação a essa prescrição é:",
+  "alts": [
+   "diagnóstico de transtorno depressivo maior;",
+   "associação com adesivos de nicotina;",
+   "diagnóstico de doença pulmonar obstrutiva crônica;",
+   "uso concomitante de inibidor de recaptação de serotonia;",
+   "diagnóstico de epilepsia."
+  ],
+  "gab": 4,
+  "tema": "drogas",
+  "sub": "Bupropiona no tabagismo",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas do Tabagismo, 2020",
+  "coment": "A bupropiona reduz o limiar convulsivo de forma dependente de dose e é contraindicada em pessoas com epilepsia ou história de convulsão, e também em bulimia ou anorexia nervosa, suspensão abrupta de álcool ou benzodiazepínico e uso de IMAO nos últimos 14 dias. No tratamento do tabagismo (PCDT do Ministério da Saúde, 2020) ela pode ser associada à terapia de reposição de nicotina, é útil em quem tem depressão e pode ser usada na DPOC. A associação com ISRS é possível, com atenção a interações (inibe CYP2D6) e ao limiar convulsivo.",
+  "porAlt": [
+   "A bupropiona é antidepressivo, e a depressão comórbida é inclusive situação em que ela é preferida.",
+   "A combinação com reposição de nicotina é permitida e pode aumentar a taxa de cessação.",
+   "DPOC não contraindica bupropiona, que é usada na cessação do tabagismo nesses pacientes.",
+   "A associação com ISRS é possível com monitorização; a contraindicação absoluta é o uso de IMAO.",
+   "Correta: a bupropiona reduz o limiar convulsivo e é contraindicada na epilepsia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 38
+  }
+ },
+ {
+  "pid": "s24039",
+  "q": "Quanto à terapia cognitivo-comportamental, é correto afirmar que:",
+  "alts": [
+   "é centrada na família e sua relação com o indivíduo;",
+   "auxilia o paciente na identificação e na correção de crenças distorcidas e comportamentos disfuncionais;",
+   "utiliza-se da terapia de grupo para criar redes de apoio a indivíduos com problemas semelhantes;",
+   "se baseia na ideia de que conflitos não resolvidos do passado e experiências da infância influenciam de maneira significativa a vida atual do paciente;",
+   "tem como fundamento a interpretação dos sonhos para o entendimento da pessoa e a relação com seus comportamentos."
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Princípios da terapia cognitivo-comportamental",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Beck JS. Cognitive Behavior Therapy: Basics and Beyond, 3ª ed., 2020",
+  "coment": "A terapia cognitivo-comportamental parte do modelo cognitivo: a forma como a pessoa interpreta os fatos (pensamentos automáticos e crenças) influencia emoções e comportamentos. É estruturada, focada no presente e em problemas, de duração limitada, com tarefas entre as sessões. O terapeuta ajuda a identificar distorções cognitivas, testá-las com evidências e substituí-las por interpretações mais realistas, e trabalha comportamentos disfuncionais com técnicas como exposição e ativação comportamental. Tem evidência forte em depressão, ansiedade, pânico, TOC e TEPT.",
+  "porAlt": [
+   "Foco central na família define a terapia familiar sistêmica, não a TCC.",
+   "Correta: a TCC identifica e corrige crenças distorcidas e comportamentos disfuncionais.",
+   "Grupos de apoio entre pares são grupos de mútua ajuda; a TCC pode ser feita em grupo, mas não se define assim.",
+   "A ênfase em conflitos do passado e experiências infantis é própria da psicoterapia psicodinâmica.",
+   "A interpretação dos sonhos é técnica da psicanálise, não da TCC."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 39
+  }
+ },
+ {
+  "pid": "s24040",
+  "q": "Leonardo, 67 anos, comparece com a sua esposa a consulta médica. A esposa reclama que o paciente fica muito agitado no meio da madrugada, falando e chegando a chutá-la, inclusive já tendo a machucado. Afirma que isso ocorre enquanto ele está dormindo e que esse comportamento é recorrente. O provável diagnóstico é:",
+  "alts": [
+   "narcolepsia;",
+   "terror noturno;",
+   "síndrome das pernas inquietas;",
+   "transtorno de ansiedade generalizada;",
+   "transtorno comportamental do sono REM."
+  ],
+  "gab": 4,
+  "tema": "psiqinf",
+  "sub": "Transtorno comportamental do sono REM",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Academy of Sleep Medicine. International Classification of Sleep Disorders, 3ª ed. revisada (ICSD-3-TR), 2023",
+  "coment": "Homem de 67 anos que fala, se debate e chuta a parceira durante o sono, de forma recorrente: transtorno comportamental do sono REM, em que falta a atonia muscular do sono REM e a pessoa encena os sonhos. Ocorre mais na segunda metade da noite, quando predomina o REM, e o paciente, se acordado, relata sonho vívido. A confirmação é por polissonografia (sono REM sem atonia), conforme a ICSD-3-TR (2023). A forma isolada no idoso é marcador precoce de sinucleinopatia (Parkinson, demência com corpos de Lewy, atrofia de múltiplos sistemas). Tratamento: segurança do ambiente, melatonina ou clonazepam.",
+  "porAlt": [
+   "Narcolepsia cursa com sonolência diurna excessiva e cataplexia, não com encenação agressiva de sonhos.",
+   "Terror noturno é parassonia do sono não REM, típica da infância, no primeiro terço da noite e sem lembrança do sonho.",
+   "Na síndrome das pernas inquietas há desconforto nas pernas ao repouso, antes de dormir, aliviado ao movê-las.",
+   "TAG causa insônia e preocupação, não comportamentos motores complexos durante o sono.",
+   "Correta: encenação recorrente de sonhos com agressividade em idoso caracteriza transtorno comportamental do sono REM."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 40
+  }
+ }
+]

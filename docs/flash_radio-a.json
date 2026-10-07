@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "radiologia",
+  "a": "Quais são os critérios de alto risco da regra canadense de TC de crânio?",
+  "b": "Glasgow abaixo de 15 duas horas após o trauma, suspeita de fratura aberta ou com afundamento, sinal de fratura de base, dois ou mais vômitos e idade de 65 anos ou mais. Stiell, Lancet, 2001."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Quem fica fora da regra canadense de TC de crânio?",
+  "b": "Anticoagulados ou com coagulopatia, menores de 16 anos, quem convulsionou após o trauma e Glasgow abaixo de 13; nesses a decisão é individual e tende à TC. Stiell, Lancet, 2001."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Quais são os cinco critérios NEXUS que dispensam imagem cervical?",
+  "b": "Sem dor na linha média posterior, sem intoxicação, alerta normal, sem déficit focal e sem lesão dolorosa que distraia. Sensibilidade de 99,6%. Hoffman, NEJM, 2000."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Regra de Ottawa do tornozelo: quando radiografar?",
+  "b": "Dor maleolar com dor óssea na borda posterior ou ponta dos 6 cm distais de um maléolo, ou incapacidade de dar 4 passos. Pé: base do 5º metatarso ou navicular. Stiell, JAMA, 1993."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Regra de Ottawa do joelho: quais os critérios?",
+  "b": "Basta um: idade de 55 anos ou mais, dor isolada na patela, dor na cabeça da fíbula, não fletir a 90 graus ou não dar 4 passos. Stiell, JAMA, 1997."
+ },
+ {
+  "tema": "radiologia",
+  "a": "PECARN abaixo de 2 anos: o que indica TC direto?",
+  "b": "Glasgow abaixo de 15, alteração do estado mental ou fratura de crânio palpável. Hematoma não frontal, perda de consciência de 5 s ou mais, queda acima de 0,9 m ou comportamento anormal: observar ou TC. Kuppermann, Lancet, 2009."
+ },
+ {
+  "tema": "radiologia",
+  "a": "PECARN a partir de 2 anos: o que indica TC direto?",
+  "b": "Glasgow abaixo de 15, alteração do estado mental ou sinais de fratura de base. Perda de consciência, vômitos, mecanismo grave ou cefaleia intensa: observar ou TC. Kuppermann, Lancet, 2009."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Contraste iodado IV: quem precisa de profilaxia renal pelo ACR/NKF?",
+  "b": "TFGe abaixo de 30 fora de diálise ou lesão renal aguda: salina isotônica IV. Entre 30 e 44: individualizar. 45 ou mais: nada. Exame de urgência não espera creatinina. ACR/NKF, 2020."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Metformina e contraste iodado: quando suspender?",
+  "b": "Só com TFGe abaixo de 30 ou lesão renal aguda: suspender no dia e por 48 h, retomando após reavaliar a função renal. Com TFGe de 30 ou mais, manter. ACR Manual on Contrast Media, 2024."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Pré-medicação para contraste iodado após reação prévia leve?",
+  "b": "Não é recomendada; prefere-se trocar o agente. Moderada: considerar. Grave: manter se não houver exame alternativo. Alergia a frutos do mar não é indicação. Consenso ACR/AAAAI, 2025."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Gadolínio no paciente em diálise: como fazer?",
+  "b": "Agente do grupo II na menor dose diagnóstica e hemodiálise logo após o exame. A fibrose sistêmica nefrogênica se associou aos agentes do grupo I. ACR Manual on Contrast Media, 2024."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Qual dose fetal se associa a malformação?",
+  "b": "Abaixo de 50 mGy não há aumento de malformação, restrição ou perda; efeitos determinísticos acima de 50 a 100 mGy. Uma TC diagnóstica fica abaixo disso. ACOG Committee Opinion 723, 2017."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Doses efetivas típicas: radiografia de tórax, TC de crânio, TC de abdome e pelve?",
+  "b": "Cerca de 0,02 mSv, 2 mSv e 8 a 10 mSv. Radiação natural de fundo: cerca de 3 mSv por ano. Mettler, Radiology, 2008."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Suspeita de embolia pulmonar na gestante sem sintomas nas pernas: sequência?",
+  "b": "Radiografia de tórax; se normal, cintilografia de perfusão; se alterada, angiotomografia. Com sinais de TVP, começar pela ultrassonografia das pernas. ATS/STR, 2011."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Fleischner 2017: nódulo sólido único de 6 a 8 mm, alto risco?",
+  "b": "TC em 6 a 12 meses e nova TC em 18 a 24 meses. Abaixo de 6 mm no baixo risco: sem seguimento. Acima de 8 mm: TC em 3 meses, PET-CT ou biópsia. Fleischner, 2017."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Para quem a Fleischner 2017 não se aplica?",
+  "b": "Menores de 35 anos, pacientes com câncer conhecido, imunossuprimidos e nódulos de rastreamento (que seguem o Lung-RADS). MacMahon, Radiology, 2017."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Incidentaloma adrenal com menos de 10 UH e menos de 4 cm: conduta?",
+  "b": "Adenoma benigno, sem nova imagem. Todos fazem dexametasona 1 mg (corte de cortisol 1,8 µg/dL); hipertenso ou hipocalêmico rastreia aldosterona/renina. ESE/ENSAT, 2023."
+ },
+ {
+  "tema": "radiologia",
+  "a": "BI-RADS: conduta das categorias 0, 3 e 4/5?",
+  "b": "0: avaliação adicional. 3: risco até 2%, controle em 6 meses e seguimento até 2 a 3 anos. 4 e 5: biópsia por agulha grossa, com checagem de concordância. ACR BI-RADS, 5ª ed., 2013."
+ },
+ {
+  "tema": "radiologia",
+  "a": "ACR TI-RADS: cortes de punção e seguimento do TR3, TR4 e TR5?",
+  "b": "TR3: punção a partir de 2,5 cm, seguimento a partir de 1,5 cm. TR4: 1,5 e 1,0 cm. TR5: 1,0 e 0,5 cm. TR1 e TR2: nada. ACR TI-RADS, 2017."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Epidural × subdural na TC: como diferenciar?",
+  "b": "Epidural: biconvexo, não cruza suturas, artéria meníngea média, intervalo lúcido. Subdural: crescente, cruza suturas, veias-ponte, idoso e anticoagulado. BTF, 2006."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Cefaleia em trovoada com TC normal: quando puncionar?",
+  "b": "TC de alta qualidade até 6 horas do início, normal, exclui hemorragia subaracnóidea. Após 6 horas, TC normal pede punção lombar com xantocromia. AHA/ASA, 2023."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Onde deve ficar a ponta do tubo orotraqueal na radiografia?",
+  "b": "Cerca de 5 cm (5 ± 2 cm) acima da carina com pescoço neutro, em geral entre T2 e T4. Abaixo da carina: seletiva, quase sempre à direita. Goodman, AJR, 1976."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Apendicite: primeiro exame no adulto, na criança e na gestante?",
+  "b": "Adulto: TC com contraste IV. Criança e gestante: ultrassonografia; na gestante com ultrassonografia inconclusiva, ressonância sem contraste. ACR Appropriateness Criteria, RLQ Pain, 2022."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Lombalgia aguda sem sinais de alarme: quando pedir imagem?",
+  "b": "Não pedir. Imagem só com sinais de alarme (cauda equina, déficit progressivo, câncer, infecção, fratura) ou dor após 6 semanas em candidato a intervenção. ACR Appropriateness Criteria, 2021."
+ },
+ {
+  "tema": "radiologia",
+  "a": "Cólica renal no adulto: exame de escolha?",
+  "b": "TC sem contraste, de preferência em baixa dose. Ultrassonografia é a primeira escolha na gestante e na criança. EAU Guidelines on Urolithiasis, 2024."
+ }
+]

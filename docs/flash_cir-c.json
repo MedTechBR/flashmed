@@ -1,0 +1,127 @@
+[
+ {
+  "tema": "abdome",
+  "a": "Qual é o tratamento do volvo de ceco?",
+  "b": "Cirurgia com ressecção: colectomia direita, com anastomose primária se o paciente estiver estável e a alça viável. A destorção endoscópica, padrão no volvo de sigmoide, raramente funciona no ceco (ASCRS, 2021)."
+ },
+ {
+  "tema": "abdome",
+  "a": "Qual é a sequência de tratamento da pseudo-obstrução colônica aguda (Ogilvie)?",
+  "b": "Conservador por 24 a 48 h (eletrólitos, suspender opioide, sondas); se falhar sem isquemia ou perfuração, neostigmina venosa com monitor cardíaco; depois colonoscopia descompressiva; cirurgia na perfuração ou isquemia (ASCRS, 2021)."
+ },
+ {
+  "tema": "abdome",
+  "a": "Por que o ceco perfura primeiro na obstrução do cólon esquerdo com válvula ileocecal competente?",
+  "b": "Forma-se alça fechada com pressão igual em todo o cólon; pela lei de Laplace a tensão parietal cresce com o raio, e o ceco é o segmento mais largo. Ceco acima de 10 a 12 cm com dor local é alarme (Sabiston, 2022)."
+ },
+ {
+  "tema": "abdome",
+  "a": "Como tratar a trombose venosa mesentérica sem peritonite?",
+  "b": "Anticoagulação plena imediata com heparina e exame abdominal seriado; cirurgia se houver peritonite ou piora. Anticoagulação oral por meses, ou indefinida se a causa persiste (WSES, 2022)."
+ },
+ {
+  "tema": "abdome",
+  "a": "Qual é a conduta inicial no aneurisma de aorta abdominal roto em paciente consciente?",
+  "b": "Hipotensão permissiva com hemoderivados, angiotomografia rápida e reparo endovascular quando a anatomia permite, preferido ao aberto (ESVS, 2024)."
+ },
+ {
+  "tema": "abdome",
+  "a": "O número de episódios de diverticulite indica sigmoidectomia eletiva?",
+  "b": "Não. A decisão é individual, por sintomas persistentes, qualidade de vida, imunossupressão ou complicação. Idade abaixo de 50 anos também não indica cirurgia por si (WSES, 2020)."
+ },
+ {
+  "tema": "abdome",
+  "a": "Qual é a cirurgia preferida na diverticulite Hinchey III em paciente estável?",
+  "b": "Sigmoidectomia com anastomose primária, com ou sem ileostomia de proteção, se houver experiência. Hartmann no instável ou com comorbidade grave. Lavagem laparoscópica não é rotina (WSES, 2020)."
+ },
+ {
+  "tema": "abdome",
+  "a": "Tumor neuroendócrino de apêndice: quando indicar colectomia direita?",
+  "b": "Tumor maior que 2 cm ou ressecção incompleta. Menor que 1 cm com margem livre: apendicectomia basta, sem seguimento. De 1 a 2 cm: decisão individual (ENETS, 2023)."
+ },
+ {
+  "tema": "abdome",
+  "a": "Por quanto tempo manter antibiótico após apendicectomia por apendicite complicada?",
+  "b": "De 2 a 3 dias após o controle do foco, em adultos e crianças (WSES, edição 2025). Na não complicada operada em até 24 h, só a dose profilática."
+ },
+ {
+  "tema": "hernias",
+  "a": "Qual via usar na recidiva de hérnia inguinal?",
+  "b": "O plano virgem: após reparo anterior (Lichtenstein ou tecidual), TEP ou TAPP; após reparo posterior, Lichtenstein; após os dois, especialista em hérnia (HerniaSurge, 2018)."
+ },
+ {
+  "tema": "hernias",
+  "a": "Hernioplastia de Lichtenstein eletiva precisa de antibioticoprofilaxia?",
+  "b": "Não, se o paciente é de risco habitual e o hospital tem infecção de sítio abaixo de 5%. Sugerida no paciente de alto risco; recomendada em ambiente de alto risco; quando usada, cefalosporina de 1ª geração (HerniaSurge, 2023)."
+ },
+ {
+  "tema": "hernias",
+  "a": "O que define dor crônica pós-herniorrafia e quando reoperar?",
+  "b": "Dor ao menos moderada, que limita atividades, por 3 meses ou mais. Reoperar só após 3 meses de tratamento clínico e intervencionista e 6 meses da cirurgia, em centro especializado; falha em cerca de 30% (HerniaSurge, 2023)."
+ },
+ {
+  "tema": "hernias",
+  "a": "Quais são os tipos da hérnia de Amyand (Losanoff e Basson)?",
+  "b": "1: apêndice normal no saco inguinal; 2: apendicite restrita ao saco; 3: apendicite com peritonite; 4: apendicite com outra doença abdominal. Apêndice em hérnia femoral é De Garengeot (Losanoff e Basson, 2008)."
+ },
+ {
+  "tema": "hernias",
+  "a": "O que contêm os triângulos da desgraça e da dor na via posterior?",
+  "b": "Desgraça, entre deferente e vasos gonadais: vasos ilíacos externos. Dor, lateral aos gonadais e abaixo do trato iliopúbico: cutâneo femoral lateral e ramo femoral do genitofemoral. Não fixar tela ali (HerniaSurge, 2018)."
+ },
+ {
+  "tema": "digestivo",
+  "a": "Quem tem IMC de 30 a 34,9 pode fazer cirurgia bariátrica pela Resolução CFM 2.429/2025?",
+  "b": "Sim, com falha clínica e uma destas: diabetes tipo 2, doença cardiovascular grave com lesão de órgão-alvo, DRC precoce no diabético, apneia grave, doença hepática gordurosa com fibrose, indicação de transplante, refluxo cirúrgico ou osteoartrose grave."
+ },
+ {
+  "tema": "digestivo",
+  "a": "Como se classifica o megaesôfago chagásico pela classificação de Rezende?",
+  "b": "I: calibre normal, trânsito lento; II: dilatação moderada, ondas terciárias; III: grande dilatação, hipotonia; IV: dolicomegaesôfago. Graus iniciais: Heller com fundoplicatura parcial; grau IV: esofagectomia (II Consenso Brasileiro em Doença de Chagas, 2015)."
+ },
+ {
+  "tema": "digestivo",
+  "a": "Qual é a tríade de Borchardt e o que ela indica?",
+  "b": "Dor epigástrica súbita, ânsia de vômito sem vomitar e impossibilidade de passar sonda nasogástrica: volvo gástrico agudo, em geral com hérnia paraesofágica. Cirurgia de urgência (SAGES, 2013)."
+ },
+ {
+  "tema": "digestivo",
+  "a": "Como diferenciar os tipos de Siewert do adenocarcinoma da junção esofagogástrica?",
+  "b": "Pelo epicentro em relação à cárdia: I, 1 a 5 cm acima; II, de 1 cm acima a 2 cm abaixo; III, 2 a 5 cm abaixo, tratado como câncer gástrico (Siewert e Stein, 1998)."
+ },
+ {
+  "tema": "digestivo",
+  "a": "Qual é o intervalo da próxima colonoscopia após 1 ou 2 adenomas tubulares menores que 10 mm?",
+  "b": "De 7 a 10 anos. Três a 4 adenomas pequenos: 3 a 5 anos. Adenoma de 10 mm ou mais, viloso ou com displasia de alto grau: 3 anos (USMSTF, 2020)."
+ },
+ {
+  "tema": "digestivo",
+  "a": "Qual é o tratamento inicial do carcinoma escamoso do canal anal localizado?",
+  "b": "Quimiorradioterapia com mitomicina e 5-fluoruracila ou capecitabina (Nigro). Amputação abdominoperineal só para persistência ou recidiva (ESMO, 2021)."
+ },
+ {
+  "tema": "hepatobiliar",
+  "a": "Quais são os critérios de alto risco de coledocolitíase pela ASGE 2019?",
+  "b": "Cálculo no colédoco em imagem, colangite, ou bilirrubina acima de 4 mg/dL com colédoco dilatado (acima de 6 mm com vesícula). Conduta: CPRE ou exploração cirúrgica da via biliar (ASGE, 2019)."
+ },
+ {
+  "tema": "hepatobiliar",
+  "a": "Como se classifica a síndrome de Mirizzi pela classificação de Csendes?",
+  "b": "I: compressão sem fístula; II: fístula com erosão de menos de 1/3 da circunferência; III: de 1/3 a 2/3; IV: circunferência toda; V: fístula colecistoentérica (Vb com íleo biliar). II e III: subtotal com retalho; IV: hepaticojejunostomia (Beltran e Csendes, 2008)."
+ },
+ {
+  "tema": "hepatobiliar",
+  "a": "Pólipo de vesícula de 6 a 9 mm: quando operar?",
+  "b": "Com um ou mais fatores de risco (idade acima de 60, colangite esclerosante, etnia asiática, lesão séssil): colecistectomia. Sem fator: ultrassom em 6 meses, 1 e 2 anos. 10 mm ou mais: colecistectomia (consenso europeu, 2022)."
+ },
+ {
+  "tema": "hepatobiliar",
+  "a": "Necrose pancreática infectada em paciente estável na segunda semana: drenar já?",
+  "b": "Não. Antibiótico que penetra a necrose e adiar a intervenção até a coleção encapsular, cerca de 4 semanas; drenar antes só se piorar (POINTER, 2021; ACG, 2024)."
+ },
+ {
+  "tema": "hepatobiliar",
+  "a": "Qual é a duração do antibiótico na colangite aguda após drenagem eficaz?",
+  "b": "De 4 a 7 dias após o controle da fonte. Bacteremia por enterococo ou estreptococo: no mínimo 2 semanas, pelo risco de endocardite (Tokyo Guidelines, 2018)."
+ }
+]

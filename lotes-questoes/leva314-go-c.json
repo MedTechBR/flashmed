@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Primigesta de 24 anos, 39 semanas, risco habitual, chega à maternidade às 3 h com contrações dolorosas irregulares há 6 horas. Bolsa íntegra, batimentos fetais de 136 bpm, duas contrações fracas em 10 minutos, colo fino com 3 cm de dilatação, cefálico alto. Mora a 10 minutos do hospital e está tranquila. Segundo a diretriz nacional de parto normal, qual a conduta?",
+  "alts": [
+   "Internar na sala de parto e abrir o partograma, já que o colo está apagado e dilatado",
+   "Internar e iniciar ocitocina em baixa dose para encurtar a fase latente prolongada",
+   "Apoiar, oferecer analgesia simples e orientar retorno para casa com sinais de alerta",
+   "Fazer amniotomia para acelerar a entrada na fase ativa e reavaliar em 2 horas",
+   "Internar para cardiotocografia contínua até que a dilatação atinja 4 centímetros"
+  ],
+  "gab": 2,
+  "tema": "obstetricia",
+  "sub": "Admissão na fase latente",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde/CONITEC. Diretrizes Nacionais de Assistência ao Parto Normal, 2017",
+  "coment": "Pela Diretriz Nacional de Assistência ao Parto Normal (MS/CONITEC, 2017), a fase latente tem contrações dolorosas e modificação cervical até 4 cm; a fase ativa começa com contrações regulares e dilatação progressiva a partir de 4 cm (5 cm na OMS 2018). Com 3 cm, a orientação é apoio, analgesia se necessário e, conforme a distância e a vontade da mulher, retorno para casa. Internar na fase latente aumenta ocitocina, amniotomia e cesárea sem benefício, e a monitorização contínua não melhora o desfecho no risco habitual.",
+  "porAlt": [
+   "Abrir partograma com 3 cm registra como fase ativa o que ainda é fase latente e leva a intervenções desnecessárias.",
+   "Ocitocina não é usada para encurtar a fase latente de evolução normal e aumenta taquissistolia e cesárea.",
+   "Correta: com 3 cm e contrações irregulares, a diretriz recomenda apoio, analgesia se preciso e retorno para casa.",
+   "Amniotomia não é recomendada para acelerar a fase latente e aumenta o risco de infecção sem benefício.",
+   "Monitorização contínua no risco habitual não melhora o desfecho neonatal e aumenta a taxa de cesárea."
+  ]
+ },
+ {
+  "q": "Parturiente de 28 anos, segunda gestação, 40 semanas, risco habitual, em fase ativa com 6 cm, sem uso de opioide e sem fator de risco para anestesia geral. Pede para comer algo leve e para caminhar pelo quarto. A equipe discute os cuidados do primeiro período. Qual prática está de acordo com a diretriz nacional de parto normal?",
+  "alts": [
+   "Manter jejum absoluto com hidratação venosa contínua até o nascimento",
+   "Fazer enema e tricotomia na admissão para reduzir infecção no puerpério",
+   "Romper a bolsa de rotina ao atingir 6 cm para encurtar o trabalho de parto",
+   "Restringir ao leito em decúbito dorsal para facilitar a ausculta fetal",
+   "Liberar líquidos e dieta leve e estimular a posição que ela preferir"
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Cuidados no primeiro período",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde/CONITEC. Diretrizes Nacionais de Assistência ao Parto Normal, 2017",
+  "coment": "A diretriz nacional (MS/CONITEC, 2017) permite que a mulher em trabalho de parto ingira líquidos, de preferência soluções isotônicas, e dieta leve quando não está sob efeito de opioide nem tem fator de risco para anestesia geral; estimula a mobilização e a adoção da posição mais confortável, inclusive verticais. Enema e tricotomia de rotina não reduzem infecção e não devem ser feitos. Amniotomia e ocitocina não são rotina no trabalho de parto que progride bem. O decúbito dorsal restrito piora a dinâmica e o conforto.",
+  "porAlt": [
+   "Jejum absoluto não é necessário na parturiente de baixo risco sem opioide e aumenta desconforto e cetose.",
+   "Enema e tricotomia de rotina não reduzem infecção materna ou neonatal e a diretriz recomenda não fazê-los.",
+   "Amniotomia de rotina em trabalho de parto que progride normalmente não é recomendada pela diretriz.",
+   "Decúbito dorsal restrito comprime a cava, piora a dinâmica e a ausculta intermitente é possível em qualquer posição.",
+   "Correta: líquidos, dieta leve sem opioide e liberdade de posição são recomendados no primeiro período."
+  ]
+ },
+ {
+  "q": "Recém-nascido a termo de parto vaginal sem intercorrências nasce chorando, com bom tônus, e é colocado em contato pele a pele sobre o abdome materno. A mãe recebeu ocitocina intramuscular logo após o desprendimento. Segundo a diretriz nacional de parto normal, quando deve ser feito o clampeamento do cordão?",
+  "alts": [
+   "Imediatamente, nos primeiros 30 segundos, para reduzir policitemia e icterícia",
+   "Não antes de 1 minuto, entre 1 e 5 minutos ou quando o cordão parar de pulsar",
+   "Somente após a saída da placenta, para garantir toda a transfusão placentária",
+   "Após 10 minutos, quando cessa o fluxo pelas artérias e pela veia umbilical",
+   "Logo após três ordenhas seguidas do cordão em direção ao recém-nascido"
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Clampeamento oportuno do cordão",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde/CONITEC. Diretrizes Nacionais de Assistência ao Parto Normal, 2017",
+  "coment": "No recém-nascido que não precisa de reanimação, a diretriz nacional (MS/CONITEC, 2017) recomenda não clampear o cordão antes de 1 minuto: entre 1 e 5 minutos ou quando parar de pulsar, conforme o desejo da mulher. O clampeamento oportuno aumenta hemoglobina e reservas de ferro nos primeiros meses; o pequeno aumento de icterícia com fototerapia não justifica clampear de imediato. A ocitocina intramuscular antes do clampeamento faz parte da conduta ativa do terceiro período. Clampeamento imediato fica para quem precisa de reanimação.",
+  "porAlt": [
+   "Clampeamento imediato fica para o recém-nascido que precisa de reanimação, não para o vigoroso.",
+   "Correta: a diretriz recomenda clampear entre 1 e 5 minutos ou quando o cordão parar de pulsar.",
+   "Aguardar a dequitação para clampear não é recomendação da diretriz e não traz benefício adicional.",
+   "Não há recomendação de esperar 10 minutos; o benefício ocorre nos primeiros minutos de transfusão.",
+   "A ordenha do cordão não é a conduta recomendada para o recém-nascido a termo vigoroso."
+  ]
+ },
+ {
+  "q": "Nulípara de 22 anos, 39 semanas, em período expulsivo há 40 minutos com puxos espontâneos eficazes, feto cefálico em occipitopúbica, batimentos fetais normais. O períneo distende bem. O interno pergunta se deve fazer episiotomia e se a manobra de Kristeller ajudaria. Qual a orientação correta?",
+  "alts": [
+   "Episiotomia mediolateral de rotina, por ser a primeira gestação, para evitar laceração grave",
+   "Kristeller suave no pico da contração, já que o puxo é eficaz e a vitalidade fetal é boa",
+   "Episiotomia mediana, que cicatriza melhor e protege o esfíncter anal da mulher nulípara",
+   "Sem episiotomia de rotina e sem Kristeller, com proteção do períneo no desprendimento",
+   "Episiotomia somente se o período expulsivo da nulípara passar de 30 minutos de puxo"
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Episiotomia e Kristeller",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde/CONITEC. Diretrizes Nacionais de Assistência ao Parto Normal, 2017",
+  "coment": "A diretriz nacional (MS/CONITEC, 2017) não recomenda episiotomia de rotina no parto vaginal espontâneo; quando indicada (por exemplo, preocupação fetal ou parto instrumental), a técnica é a mediolateral, com ângulo de 45 a 60 graus a partir da fúrcula. A episiotomia mediana se associa a mais lesão do esfíncter anal. A manobra de Kristeller não deve ser feita, pelo risco de trauma materno e fetal sem benefício. Quarenta minutos de período expulsivo com progresso estão dentro do esperado para a nulípara, cujo nascimento se espera em até 3 horas.",
+  "porAlt": [
+   "Episiotomia de rotina não reduz laceração grave e a diretriz a desaconselha mesmo na nulípara.",
+   "A diretriz recomenda não fazer a manobra de Kristeller pelo risco de trauma materno e fetal.",
+   "A episiotomia mediana aumenta a lesão do esfíncter anal; quando indicada, a técnica é a mediolateral.",
+   "Correta: sem episiotomia de rotina e sem Kristeller, protegendo o períneo no desprendimento.",
+   "Trinta minutos não é limite de período expulsivo; na nulípara o nascimento é esperado em até 3 horas."
+  ]
+ },
+ {
+  "q": "Multípara de 31 anos, 38 semanas, com analgesia peridural, está com dilatação completa e puxos há 2 horas e 30 minutos, sem descida na última hora. Cabeça fletida no plano +3 de DeLee, occipitoesquerda anterior, bolsa rota, bexiga vazia, sem sinais de desproporção. Os batimentos fetais mostram desacelerações tardias recorrentes. Qual a conduta?",
+  "alts": [
+   "Parto vaginal operatório com vácuo-extrator ou fórceps de Simpson",
+   "Cesárea imediata, pois parto instrumental exige expulsivo de duração normal",
+   "Manobra de Kristeller por 3 contrações antes de decidir a via de parto",
+   "Aguardar mais 1 hora de puxos, já que a peridural prolonga o expulsivo",
+   "Fórceps de Kielland, indicado em qualquer variedade com a cabeça em +3"
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Parto vaginal operatório",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde/CONITEC. Diretrizes Nacionais de Assistência ao Parto Normal, 2017",
+  "coment": "Há falha de progresso no segundo período (na multípara, confirmada após 1 hora de fase ativa, pela diretriz nacional de 2017) e preocupação com o bem-estar fetal: indicações de parto vaginal operatório. Os pré-requisitos estão presentes: dilatação completa, membranas rotas, cabeça insinuada e baixa (+3), variedade conhecida, ausência de desproporção, bexiga vazia e analgesia. O vácuo-extrator exige 34 semanas ou mais e cabeça fletida; o fórceps de Simpson serve às variedades anteriores, e o de Kielland às transversas e rotações amplas. A cesárea seria a via se faltasse algum pré-requisito.",
+  "porAlt": [
+   "Correta: com todos os pré-requisitos, o parto instrumental é a via mais rápida e segura aqui.",
+   "Expulsivo prolongado e preocupação fetal são justamente indicações de parto vaginal operatório.",
+   "A manobra de Kristeller é desaconselhada pela diretriz e não resolve a preocupação fetal.",
+   "Com desacelerações tardias recorrentes e falha de progresso, esperar mais 1 hora é inadequado.",
+   "O Kielland é reservado às variedades transversas e rotações amplas, não à occipitoanterior."
+  ]
+ },
+ {
+  "q": "Gestante de 39 semanas com hipertensão gestacional faz perfil biofísico fetal: cardiotocografia não reativa, ausência de movimentos respiratórios em 30 minutos, movimentos corporais e tônus presentes e maior bolsão de líquido amniótico de 1,5 cm. Qual a interpretação e a conduta?",
+  "alts": [
+   "Escore 8, normal, com repetição do perfil biofísico em 7 dias",
+   "Escore 6, duvidoso, com repetição do perfil em 24 horas",
+   "Escore 4, alterado, com indicação de resolver a gestação",
+   "Escore 4, aceitável no termo, com Doppler antes de decidir",
+   "Escore 2, de óbito iminente, com cesárea de emergência já"
+  ],
+  "gab": 2,
+  "tema": "obstetricia",
+  "sub": "Perfil biofísico fetal",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "O perfil biofísico de Manning dá 2 ou 0 pontos a cinco parâmetros: cardiotocografia reativa, movimentos respiratórios (um episódio de 30 segundos em 30 minutos), movimentos corporais (3 ou mais), tônus (extensão e flexão) e líquido amniótico (maior bolsão acima de 2 cm). Aqui: 0, 0, 2, 2 e 0, total 4. Escore de 8 ou 10 com líquido normal é tranquilizador; 6 é duvidoso; 4 ou menos sugere hipóxia e, na gestação a termo, indica a resolução. O oligoâmnio pesa por refletir hipóxia crônica (Manual de Gestação de Alto Risco, MS 2022).",
+  "porAlt": [
+   "A soma correta é 4, e o oligoâmnio isolado já afasta o perfil tranquilizador.",
+   "Escore 6 exigiria líquido normal e mais um parâmetro presente; aqui a soma é 4.",
+   "Correta: CTG, respiração e líquido zeram; escore 4 a termo indica resolver a gestação.",
+   "Escore 4 não é aceitável no termo; o Doppler não substitui a decisão de resolver.",
+   "Movimentos corporais e tônus presentes somam 4 pontos; não é escore 2."
+  ]
+ },
+ {
+  "q": "Parturiente de 26 anos, 40 semanas, em indução com ocitocina a 12 mU/min, está com 6 cm. Há 15 minutos apresenta 6 contrações em 10 minutos e, agora, desaceleração da frequência cardíaca fetal para 90 bpm que já dura 4 minutos. Pressão arterial materna normal. Qual a primeira conduta?",
+  "alts": [
+   "Indicar cesárea de emergência sem outras medidas, por desaceleração prolongada",
+   "Aumentar a dose de ocitocina para abreviar o trabalho de parto e o nascimento",
+   "Fazer amnioinfusão e colher microamostra de sangue do couro cabeludo fetal",
+   "Manter a ocitocina e colocar em decúbito dorsal com oxigênio sob máscara",
+   "Suspender a ocitocina, decúbito lateral, hidratar, tocar e dar tocolítico se persistir"
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Reanimação intrauterina",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ACOG Practice Bulletin nº 116: Management of intrapartum fetal heart rate tracings, 2010",
+  "coment": "Há taquissistolia (mais de 5 contrações em 10 minutos) e desaceleração prolongada (2 a 10 minutos), padrão de categoria II que pede reanimação intrauterina (ACOG Practice Bulletin 116, 2010): suspender a ocitocina, decúbito lateral, hidratação e correção de hipotensão, toque vaginal para afastar prolapso de cordão e parto iminente e, persistindo a taquissistolia, tocolítico agudo como a terbutalina. Se a frequência não se recupera, nascimento pela via mais rápida. O decúbito dorsal comprime a cava, e a amnioinfusão é para desacelerações variáveis recorrentes.",
+  "porAlt": [
+   "A causa reversível, a taquissistolia, deve ser corrigida primeiro; cesárea vem se não houver recuperação.",
+   "Aumentar a ocitocina agrava a taquissistolia e a hipóxia fetal.",
+   "Amnioinfusão é medida para desacelerações variáveis, e a microamostra não se aplica à bradicardia prolongada.",
+   "Manter a ocitocina perpetua a causa, e o decúbito dorsal comprime a veia cava.",
+   "Correta: suspender a ocitocina e aplicar as medidas de reanimação intrauterina, com tocolítico se persistir."
+  ]
+ },
+ {
+  "q": "Gestante de 35 semanas, risco habitual, liga para a UBS relatando que, desde a manhã, percebe o bebê mexer bem menos que o habitual. Não tem dor, sangramento nem perda de líquido. Qual a orientação adequada?",
+  "alts": [
+   "Avaliação no mesmo dia, com ausculta e cardiotocografia em serviço",
+   "Contar os movimentos por 7 dias e trazer o registro na próxima consulta",
+   "Comer algo doce e repetir a contagem na semana seguinte se persistir",
+   "Tranquilizar, pois a redução dos movimentos é esperada após 34 semanas",
+   "Agendar ultrassonografia morfológica eletiva para o próximo mês"
+  ],
+  "gab": 0,
+  "tema": "obstetricia",
+  "sub": "Redução de movimentos fetais",
+  "cenario": "amb",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 32: Atenção ao pré-natal de baixo risco, 2012",
+  "coment": "A redução da movimentação fetal é sinal de alerta que toda gestante deve conhecer (Caderno de Atenção Básica 32, 2012; Manual de Gestação de Alto Risco, 2022) e pode preceder o óbito fetal. No terceiro trimestre o padrão muda, com movimentos mais amplos e menos chutes, mas a frequência não cai. A gestante deve ser avaliada no mesmo dia: ausculta, cardiotocografia e, conforme o caso, ultrassonografia com líquido amniótico e perfil biofísico. Registrar por dias em casa atrasa o diagnóstico de hipóxia, e a morfológica não avalia vitalidade.",
+  "porAlt": [
+   "Correta: redução da movimentação é sinal de alerta e pede avaliação de vitalidade no mesmo dia.",
+   "Esperar 7 dias de registro atrasa o diagnóstico de comprometimento fetal.",
+   "Estímulo alimentar não substitui avaliação, e adiar uma semana é inadequado.",
+   "A frequência dos movimentos não diminui fisiologicamente no fim da gestação.",
+   "Ultrassonografia morfológica avalia anatomia, não vitalidade, e o prazo é longo demais."
+  ]
+ },
+ {
+  "q": "Puérpera de 27 anos, no 10º dia após parto vaginal, amamenta em livre demanda e relata cólicas leves durante as mamadas. Ao exame: afebril, PA 112/70 mmHg, mamas sem alterações, útero palpável logo acima da sínfise e indolor. Qual achado, se presente, exigiria investigação de complicação puerperal?",
+  "alts": [
+   "Lóquios amarelados ou esbranquiçados, sem odor, em pequena quantidade",
+   "Cólica uterina durante as mamadas, que melhora ao fim da sucção",
+   "Fundo uterino palpável pouco acima da sínfise, firme e indolor",
+   "Lóquios vermelhos abundantes, com coágulos, e útero amolecido",
+   "Sudorese noturna e diurese aumentada nos primeiros dias em casa"
+  ],
+  "gab": 3,
+  "tema": "obstetricia",
+  "sub": "Puerpério: involução e lóquios",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 32: Atenção ao pré-natal de baixo risco, 2012",
+  "coment": "Na involução normal, o útero está na altura da cicatriz umbilical logo após o parto, desce cerca de 1 cm por dia e se torna intrapélvico por volta de 2 semanas. Os lóquios são vermelhos nos primeiros 3 a 4 dias, depois serosos e, a partir de cerca de 10 dias, esbranquiçados ou amarelados. Cólica nas mamadas, pela ocitocina, e diurese e sudorese pela mobilização de líquidos são fisiológicas. Lóquios vermelhos abundantes com coágulos e útero amolecido depois da primeira semana sugerem restos placentários, endometrite ou hemorragia pós-parto secundária, e pedem exame, hemograma e ultrassonografia.",
+  "porAlt": [
+   "Lóquios esbranquiçados ou amarelados sem odor no 10º dia são esperados.",
+   "A cólica nas mamadas decorre da ocitocina e ajuda a involução uterina.",
+   "Útero logo acima da sínfise, firme e indolor, é compatível com o 10º dia.",
+   "Correta: sangramento vermelho abundante com útero amolecido sugere subinvolução, restos ou infecção.",
+   "Diurese e sudorese nos primeiros dias refletem a eliminação do líquido acumulado na gestação."
+  ]
+ },
+ {
+  "q": "Puérpera de 30 anos, no 5º dia após cesárea, chora com facilidade, sente-se irritada e insegura para cuidar do bebê, mas dorme quando o bebê dorme, alimenta-se e conversa animada com as visitas. Nega ideias de morte e não tem antecedente psiquiátrico. Qual a hipótese e a conduta?",
+  "alts": [
+   "Depressão pós-parto, com início de sertralina e retorno em 4 semanas",
+   "Tristeza puerperal, com acolhimento, apoio e reavaliação em 2 semanas",
+   "Psicose puerperal, com internação e antipsicótico pelo risco ao bebê",
+   "Transtorno bipolar, com estabilizador de humor e suspensão do aleitamento",
+   "Depressão pós-parto, com encaminhamento ao CAPS e fim da amamentação"
+  ],
+  "gab": 1,
+  "tema": "obstetricia",
+  "sub": "Tristeza puerperal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ACOG Clinical Practice Guideline nº 4: Screening and diagnosis of mental health conditions during pregnancy and postpartum, 2023",
+  "coment": "A tristeza puerperal acomete a maioria das puérperas, começa nos primeiros dias, tem pico por volta do 5º dia e se resolve em até 2 semanas, com labilidade, choro e irritabilidade sem prejuízo funcional importante. A conduta é acolher, orientar a família, mobilizar apoio e reavaliar. Sintomas que persistem além de 2 semanas, intensos ou com ideação suicida indicam depressão pós-parto, rastreável com a Escala de Edimburgo (ACOG, 2023). Psicose puerperal tem confusão, delírios e alucinações. Nenhum desses quadros, por si, obriga a suspender a amamentação.",
+  "porAlt": [
+   "Sintomas de 5 dias sem prejuízo funcional não preenchem critério de depressão pós-parto.",
+   "Correta: quadro precoce, leve e autolimitado de tristeza puerperal, manejado com apoio e reavaliação.",
+   "Não há confusão, delírio ou alucinação, que caracterizariam a psicose puerperal.",
+   "Não há episódio maníaco ou hipomaníaco, e a amamentação não precisa ser interrompida.",
+   "O quadro não é depressão, e a amamentação não deve ser suspensa por sintomas de humor."
+  ]
+ },
+ {
+  "q": "Puérpera de 19 anos, no 3º dia após parto vaginal, refere mamas muito cheias, endurecidas, brilhantes e doloridas, dos dois lados, com temperatura de 37,6 °C. O bebê tenta mamar, mas escorrega da aréola tensa e chora. Não há área localizada de eritema. Qual a conduta?",
+  "alts": [
+   "Suspender a amamentação por 48 horas e oferecer fórmula até a dor ceder",
+   "Cabergolina em dose baixa para reduzir a produção e a tensão das mamas",
+   "Ordenhar a aréola antes da mamada e manter mamadas frequentes sob demanda",
+   "Cefalexina por 10 dias, pela febre baixa associada à dor nas duas mamas",
+   "Compressas quentes por 30 minutos e intervalo fixo de 3 horas entre mamadas"
+  ],
+  "gab": 2,
+  "tema": "obstetricia",
+  "sub": "Ingurgitamento mamário",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 23: Aleitamento materno e alimentação complementar, 2015",
+  "coment": "O ingurgitamento ocorre nos primeiros dias, na apojadura, por estase láctea: mamas tensas, brilhantes e dolorosas, em geral bilaterais, às vezes com febre baixa. Difere da mastite, unilateral, com área quente e vermelha. Pelo Caderno de Atenção Básica 23 (2015), trata-se com mamadas frequentes em livre demanda, ordenha manual da aréola antes da mamada para amolecê-la e permitir a pega, massagem, compressas frias entre as mamadas, analgésico e sutiã firme. Suspender a amamentação ou espaçar mamadas aumenta a estase e favorece mastite; antibiótico não está indicado.",
+  "porAlt": [
+   "Interromper a amamentação aumenta a estase e o risco de mastite e de desmame.",
+   "Inibir a lactação não é tratamento de ingurgitamento em mulher que deseja amamentar.",
+   "Correta: esvaziar a aréola permite a pega, e a livre demanda resolve a estase.",
+   "Sem sinais de mastite, a febre baixa da apojadura não indica antibiótico.",
+   "Intervalos fixos pioram a estase, e o Caderno recomenda compressas frias, não quentes."
+  ]
+ },
+ {
+  "q": "Puérpera de 23 anos, no 6º dia após o parto, queixa-se de dor intensa no início de cada mamada e tem fissura no mamilo direito. Na observação da mamada, o bebê abocanha só o mamilo, com o lábio inferior voltado para dentro e as bochechas encovadas ao sugar. Qual a orientação principal?",
+  "alts": [
+   "Usar protetor de silicone no mamilo até a fissura cicatrizar por completo",
+   "Usar pomada com antibiótico e lavar o mamilo com sabonete antes de mamar",
+   "Suspender a mama direita e oferecer só a esquerda até a dor desaparecer",
+   "Introduzir mamadeira à noite para que o mamilo descanse algumas horas",
+   "Corrigir a pega e começar pela mama menos dolorida, usando o próprio leite"
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Fissura mamilar e pega",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 23: Aleitamento materno e alimentação complementar, 2015",
+  "coment": "Boca pouco aberta, apreensão só do mamilo, lábio inferior invertido e bochechas encovadas são sinais de pega inadequada (Caderno de Atenção Básica 23, 2015). A fissura quase sempre decorre da pega, e corrigi-la é o tratamento principal. Começar pela mama menos dolorida, ordenhar um pouco antes para desencadear a ejeção, passar o próprio leite no mamilo e deixá-lo secar; evitar sabonete, cremes e pomadas. Protetores de silicone e mamadeira atrapalham a sucção e reduzem a produção; suspender a mama favorece ingurgitamento e mastite.",
+  "porAlt": [
+   "Protetores de silicone mantêm a pega errada e reduzem a estimulação da produção.",
+   "Sabonete e pomadas ressecam e irritam o mamilo e não corrigem a causa da fissura.",
+   "Suspender a mama afetada favorece ingurgitamento, mastite e queda da produção.",
+   "Mamadeira causa confusão de bicos e reduz a demanda que sustenta a lactação.",
+   "Correta: a fissura nasce da pega errada, e corrigi-la é o tratamento principal."
+  ]
+ },
+ {
+  "q": "Gestante de 32 semanas refere prurido intenso nas palmas das mãos e plantas dos pés, pior à noite, há 10 dias. Não há lesões de pele primárias, apenas escoriações. PA 118/72 mmHg, sem proteinúria. Transaminases discretamente elevadas e bilirrubinas normais. Qual exame confirma a principal hipótese e qual o risco fetal mais temido?",
+  "alts": [
+   "Sorologia para hepatite A, pelo risco de hepatite fulminante e parto prematuro",
+   "Biópsia de pele, pelo risco de penfigoide gestacional e restrição fetal",
+   "Plaquetas e LDH, pelo risco de síndrome HELLP e de descolamento de placenta",
+   "Ácidos biliares séricos, pelo risco de óbito fetal súbito no terceiro trimestre",
+   "Amônia e glicemia, pelo risco de esteatose hepática aguda com hipoglicemia"
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Colestase intra-hepática da gestação",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Society for Maternal-Fetal Medicine. Consult Series nº 53: Intrahepatic cholestasis of pregnancy, 2021",
+  "coment": "Prurido palmoplantar noturno no terceiro trimestre, sem lesão primária, sugere colestase intra-hepática da gestação. O diagnóstico exige ácidos biliares séricos de 10 µmol/L ou mais; as transaminases sobem em boa parte dos casos. O risco principal é o óbito fetal súbito, além de prematuridade e líquido meconial, e ele cresce sobretudo com ácidos biliares de 100 µmol/L ou mais, valor que orienta o momento do parto (SMFM, 2021). O penfigoide tem bolhas periumbilicais; a HELLP vem com hipertensão e hemólise; a esteatose aguda traz náusea, hipoglicemia e insuficiência hepática.",
+  "porAlt": [
+   "Hepatite viral não explica prurido palmoplantar isolado sem icterícia nem sintomas sistêmicos.",
+   "O penfigoide gestacional tem pápulas e bolhas periumbilicais, ausentes neste caso.",
+   "Pressão normal e ausência de proteinúria afastam a HELLP como hipótese principal.",
+   "Correta: ácidos biliares confirmam a colestase, cujo risco temido é o óbito fetal súbito.",
+   "A esteatose aguda cursa com mal-estar, vômitos, hipoglicemia e falência hepática."
+  ]
+ },
+ {
+  "q": "Gestante de 12 semanas faz ultrassonografia que mostra dois embriões vivos, uma única massa placentária e membrana interamniótica fina, que se insere na placa coriônica formando o sinal do T. Qual a classificação e o seguimento ultrassonográfico recomendado?",
+  "alts": [
+   "Monocoriônica diamniótica, com ultrassonografia a cada 2 semanas desde 16 semanas",
+   "Dicoriônica diamniótica, com ultrassonografia mensal a partir do segundo trimestre",
+   "Monocoriônica monoamniótica, com internação desde 24 semanas para vigilância diária",
+   "Dicoriônica de placentas fundidas, com ultrassonografia só no morfológico e a termo",
+   "Monocoriônica diamniótica, com ultrassonografia mensal até 28 semanas e depois semanal"
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Corionicidade na gestação gemelar",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ISUOG Practice Guidelines: role of ultrasound in twin pregnancy, 2016",
+  "coment": "O sinal do T, membrana fina sem tecido coriônico entre os folhetos, indica gestação monocoriônica diamniótica; o sinal do lambda indica dicoriônica. A corionicidade é mais bem definida entre 11 e 14 semanas. Na monocoriônica, a ISUOG (2016) recomenda ultrassonografia a cada 2 semanas a partir de 16 semanas, para detectar cedo a transfusão feto-fetal e a restrição seletiva de crescimento; na dicoriônica não complicada, a cada 4 semanas a partir do segundo trimestre. A monocoriônica é de alto risco pelo Manual de Gestação de Alto Risco do Ministério da Saúde (2022).",
+  "porAlt": [
+   "Correta: o sinal do T define monocoriônica diamniótica, vigiada a cada 2 semanas desde 16 semanas.",
+   "Placenta dicoriônica mostra o sinal do lambda, não o sinal do T.",
+   "Na monoamniótica não há membrana entre os gêmeos, e aqui ela é visível.",
+   "Placentas fundidas dicoriônicas mostram o lambda, e o seguimento seria mensal.",
+   "Intervalo mensal deixa passar a transfusão feto-fetal, que pode evoluir em dias."
+  ]
+ },
+ {
+  "q": "Gestante de 20 semanas, gemelar monocoriônica diamniótica, refere aumento rápido do abdome. Ultrassonografia: um gêmeo com maior bolsão de líquido de 10 cm e bexiga distendida; o outro com maior bolsão de 1,5 cm e bexiga não visualizada. Dopplers normais, sem hidropsia. Qual o diagnóstico e o tratamento de escolha?",
+  "alts": [
+   "Restrição seletiva de crescimento, com interrupção imediata da gestação",
+   "Transfusão feto-fetal estádio IV, com amniodrenagens seriadas até o termo",
+   "Transfusão feto-fetal estádio II, com laser fetoscópico das anastomoses",
+   "Sequência anemia-policitemia, com transfusão intrauterina no doador",
+   "Polidrâmnio por diabetes, com controle glicêmico e indometacina materna"
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Transfusão feto-fetal",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Society for Maternal-Fetal Medicine. Clinical Guideline: twin-twin transfusion syndrome, 2013",
+  "coment": "A transfusão feto-fetal se define na monocoriônica por polidrâmnio no receptor (maior bolsão de 8 cm ou mais) e oligoâmnio no doador (2 cm ou menos). Pelo estadiamento de Quintero: I, bexiga do doador visível; II, bexiga não visível; III, Doppler crítico; IV, hidropsia; V, óbito de um gêmeo. Do estádio II em diante, entre 16 e 26 semanas, a coagulação a laser das anastomoses por fetoscopia é o tratamento de escolha, superior à amniodrenagem em sobrevida e desfecho neurológico (SMFM, 2013). Interromper com 20 semanas significa perder os dois fetos.",
+  "porAlt": [
+   "A restrição seletiva não cursa com polidrâmnio e oligoâmnio opostos, e 20 semanas é inviável.",
+   "Sem hidropsia não é estádio IV, e a amniodrenagem é inferior ao laser.",
+   "Correta: polidrâmnio e oligoâmnio com bexiga do doador ausente é estádio II, tratado com laser.",
+   "A sequência anemia-policitemia não tem discrepância de líquido e se vê no Doppler da cerebral média.",
+   "O quadro é da monocoriônica, e a discrepância de líquido não se explica por diabetes."
+  ]
+ },
+ {
+  "q": "Primigesta de 35 semanas, sem pré-natal, é trazida a uma UPA após crise convulsiva tônico-clônica generalizada em casa. Chega sonolenta, PA 168/112 mmHg, proteinúria de fita 3+. Será transferida para maternidade a 2 horas de distância, sem bomba de infusão disponível na ambulância. Qual esquema de sulfato de magnésio está indicado?",
+  "alts": [
+   "Zuspan: 4 g IV lento e manutenção de 1 g/h IV durante o transporte",
+   "Pritchard: 4 g IV lento mais 10 g IM, metade em cada glúteo",
+   "Dose única de 2 g IV, repetida apenas se houver nova convulsão",
+   "Diazepam 10 mg IV, deixando o magnésio para depois da chegada",
+   "Pritchard: 10 g IV lento e 5 g IM a cada 4 horas desde a chegada"
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Eclâmpsia: sulfato de magnésio",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "O sulfato de magnésio é a droga de escolha para tratar e prevenir a eclâmpsia, superior a diazepam e fenitoína. O esquema de Zuspan (4 g IV seguido de 1 a 2 g/h IV) exige bomba de infusão; o de Pritchard (4 g IV mais 10 g IM, 5 g em cada glúteo, e manutenção de 5 g IM a cada 4 horas) cobre cerca de 4 horas sem bomba e é o preferido para transferência. O Manual de Gestação de Alto Risco (MS, 2022) manda a gestante transferida receber a dose de ataque completa. Associa-se anti-hipertensivo para PA de 160/110 mmHg ou mais. A via IM é evitada na plaquetopenia.",
+  "porAlt": [
+   "O Zuspan depende de bomba de infusão, que não está disponível no transporte.",
+   "Correta: o Pritchard dá ataque completo e cobertura de cerca de 4 horas sem bomba.",
+   "Dose isolada de 2 g é insuficiente como ataque e não mantém nível terapêutico.",
+   "Benzodiazepínico é inferior ao magnésio, que não deve ser adiado na eclâmpsia.",
+   "A dose IV de ataque é de 4 g, e 10 g IV lento causaria intoxicação."
+  ]
+ },
+ {
+  "q": "Parturiente de 22 anos, 39 semanas, bolsa rota há 20 horas, 7 cm de dilatação, apresenta temperatura de 38,6 °C, frequência cardíaca fetal basal de 172 bpm e líquido turvo com odor. Sem outro foco infeccioso. Qual a conduta?",
+  "alts": [
+   "Cesárea imediata, porque a infecção intra-amniótica contraindica o parto vaginal",
+   "Antitérmico e observação, com antibiótico só se a febre persistir no puerpério",
+   "Penicilina cristalina isolada, como profilaxia para estreptococo do grupo B",
+   "Ampicilina e gentamicina venosas, mantendo o trabalho de parto sob vigilância",
+   "Cefazolina em dose única, suspensa logo após o nascimento do recém-nascido"
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Infecção intra-amniótica",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ACOG Committee Opinion nº 712: Intrapartum management of intraamniotic infection, 2017",
+  "coment": "Febre intraparto com taquicardia fetal e líquido purulento após amniorrexe prolongada configura infecção intra-amniótica (corioamnionite). O ACOG (Committee Opinion 712, 2017) recomenda antibiótico intraparto de amplo espectro, como ampicilina 2 g IV de 6 em 6 horas mais gentamicina, acrescentando cobertura anaeróbia (clindamicina ou metronidazol) se houver cesárea, e antitérmico. O diagnóstico não indica cesárea por si: a via segue a indicação obstétrica, e o trabalho de parto é conduzido sem atraso. O recém-nascido é avaliado para sepse precoce.",
+  "porAlt": [
+   "A infecção intra-amniótica não indica cesárea por si; a via segue a indicação obstétrica.",
+   "Adiar o antibiótico aumenta sepse materna e neonatal; ele começa ao diagnóstico.",
+   "A profilaxia para estreptococo do grupo B não cobre gram-negativos e anaeróbios.",
+   "Correta: antibiótico de amplo espectro intraparto e condução do trabalho de parto.",
+   "Dose única de cefazolina é profilaxia cirúrgica e não trata infecção estabelecida."
+  ]
+ },
+ {
+  "q": "Mulher de 24 anos, com 11 semanas de atraso menstrual, tem sangramento vaginal escuro e vômitos intensos. Útero compatível com 16 semanas, beta-hCG de 380.000 mUI/mL e ultrassonografia com imagem em flocos de neve, sem embrião. Tipagem O positivo, radiografia de tórax normal. Qual a conduta?",
+  "alts": [
+   "Esvaziamento por aspiração, seguimento com hCG e anticoncepção hormonal",
+   "Misoprostol em doses repetidas até a expulsão completa do material molar",
+   "Metotrexato sistêmico já, pelo hCG muito acima do esperado para a idade",
+   "Histerectomia com a mola in situ, por ser o tratamento padrão a qualquer idade",
+   "Curetagem e inserção de DIU de cobre no mesmo tempo, para evitar nova gestação"
+  ],
+  "gab": 0,
+  "tema": "obstpat",
+  "sub": "Mola hidatiforme: esvaziamento",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Útero maior que a idade gestacional, hCG muito elevado, hiperêmese e imagem em flocos de neve indicam mola completa. O tratamento é o esvaziamento uterino por aspiração (elétrica ou manual). O misoprostol serve só para preparo do colo, em dose baixa e poucas horas antes, porque induzir contrações aumenta a embolização trofoblástica e a doença persistente. O seguimento é com hCG semanal até três valores normais e depois mensal, com anticoncepção hormonal desde o esvaziamento; o DIU é evitado enquanto o hCG está elevado. Metotrexato fica para a neoplasia trofoblástica pós-molar (MS, 2022).",
+  "porAlt": [
+   "Correta: aspiração uterina, seguimento por hCG e contracepção hormonal são o tratamento da mola.",
+   "Induzir contrações para expulsar a mola aumenta embolização trofoblástica e doença persistente.",
+   "Metotrexato é para neoplasia trofoblástica pós-molar, não para a mola recém-diagnosticada.",
+   "Histerectomia é alternativa acima de 40 anos com prole completa, não a regra aos 24 anos.",
+   "O DIU é evitado no seguimento pós-molar enquanto o hCG não normaliza."
+  ]
+ },
+ {
+  "q": "Gestante de 30 semanas tem diagnóstico ultrassonográfico de óbito fetal. Recusa a indução e prefere aguardar o trabalho de parto espontâneo. Está estável, sem sangramento, sem febre e com membranas íntegras. Que cuidado laboratorial é obrigatório se ela mantiver a conduta expectante por mais tempo?",
+  "alts": [
+   "Beta-hCG semanal, para acompanhar a involução da placenta",
+   "Urocultura semanal, pelo risco de pielonefrite associada",
+   "Ácidos biliares diários, pelo risco de colestase secundária",
+   "Cardiotocografia diária, para confirmar a ausência de batimentos",
+   "Coagulograma com fibrinogênio, pelo risco de coagulopatia"
+  ],
+  "gab": 4,
+  "tema": "obstpat",
+  "sub": "Óbito fetal retido",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Feto morto retido por mais de 4 semanas libera tromboplastina tecidual na circulação materna e pode provocar coagulação intravascular disseminada com hipofibrinogenemia. A conduta expectante é aceitável na mulher estável, informada e com membranas íntegras, já que a maioria entra em trabalho de parto em até 2 semanas, mas exige coagulograma e fibrinogênio seriados. Paralelamente se investiga a causa (sorologias, teste de Kleihauer, anticorpos antifosfolípides, necropsia e placenta), e a gestante Rh negativo recebe imunoglobulina anti-D (Manual de Gestação de Alto Risco, MS 2022).",
+  "porAlt": [
+   "O hCG não guia a conduta no óbito fetal e não detecta a complicação temida.",
+   "Não há associação específica entre óbito fetal retido e pielonefrite.",
+   "O óbito fetal não causa colestase, e ácidos biliares diários não têm papel aqui.",
+   "O óbito já está confirmado pela ultrassonografia; CTG diária não acrescenta nada.",
+   "Correta: retenção prolongada pode causar coagulopatia, vigiada com coagulograma e fibrinogênio."
+  ]
+ },
+ {
+  "q": "Multípara de 34 anos, 38 semanas, apresentação cefálica alta e móvel, 5 cm de dilatação. Logo após a rotura espontânea das membranas, a frequência cardíaca fetal cai para 80 bpm e, ao toque, palpa-se alça de cordão pulsátil na vagina. Qual a conduta enquanto se prepara o nascimento?",
+  "alts": [
+   "Reposicionar o cordão no útero e aguardar o parto vaginal com ocitocina",
+   "Tracionar o cordão suavemente para fora e aquecê-lo com compressas úmidas",
+   "Elevar a apresentação manualmente e levar à cesárea de emergência",
+   "Posicionar em litotomia e aplicar fórceps para abreviar o expulsivo",
+   "Aguardar a dilatação completa em decúbito dorsal, com oxigênio nasal"
+  ],
+  "gab": 2,
+  "tema": "obstpat",
+  "sub": "Prolapso de cordão",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Royal College of Obstetricians and Gynaecologists. Green-top Guideline nº 50: Umbilical cord prolapse, 2014",
+  "coment": "O prolapso de cordão é emergência obstétrica, favorecida por apresentação alta, rotura de membranas com polo não insinuado, polidrâmnio e apresentações anômalas. O RCOG (2014) orienta pedir ajuda, elevar a apresentação manualmente pela vagina (ou encher a bexiga com soro), colocar a mulher em posição genupeitoral ou em Trendelenburg com decúbito lateral, evitar manipular o cordão, que entra em vasoespasmo, e fazer o nascimento pela via mais rápida: cesárea quando a dilatação é incompleta; parto instrumental só com dilatação completa e cabeça baixa.",
+  "porAlt": [
+   "Recolocar o cordão e aguardar o parto expõe o feto a compressão prolongada e hipóxia.",
+   "Manipular e tracionar o cordão provoca vasoespasmo e piora a oxigenação fetal.",
+   "Correta: aliviar a compressão elevando a apresentação e fazer cesárea de emergência.",
+   "Com 5 cm e cabeça alta não há condição para fórceps.",
+   "Esperar a dilatação completa com o cordão comprimido leva a hipóxia grave ou óbito."
+  ]
+ },
+ {
+  "q": "Mulher de 29 anos procura a UBS para inserir DIU de cobre e não tem queixas. No exame especular há conteúdo vaginal branco-acinzentado, homogêneo e fino; pH de 5,0 e teste das aminas positivo. Colo sem mucopus e indolor à mobilização. Teste de gravidez negativo. Qual a conduta segundo o PCDT de IST?",
+  "alts": [
+   "Não tratar, por ser assintomática, e inserir o DIU na mesma consulta",
+   "Tratar com metronidazol oral por 7 dias, sem que isso impeça o DIU",
+   "Tratar com fluconazol 150 mg em dose única e inserir o DIU em 7 dias",
+   "Tratar o casal com metronidazol 2 g e adiar o DIU por 6 meses",
+   "Colher cultura para Gardnerella e só tratar se o resultado vier positivo"
+  ],
+  "gab": 1,
+  "tema": "gininfec",
+  "sub": "Vaginose antes de inserir DIU",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Corrimento homogêneo, pH acima de 4,5 e aminas positivas preenchem critérios de Amsel para vaginose bacteriana. A assintomática em geral não se trata, mas o PCDT de IST (2022) indica tratar a gestante e a mulher que vai passar por procedimento ginecológico, como a inserção de DIU: metronidazol 500 mg de 12/12 horas por 7 dias ou gel vaginal por 5 noites. Pelos critérios da OMS, a vaginite, incluindo a vaginose, é categoria 2 para inserir DIU, e não adia o método. Parceiro não se trata, e Gardnerella em cultura não faz diagnóstico.",
+  "porAlt": [
+   "O PCDT manda tratar a vaginose antes de procedimento ginecológico, mesmo sem sintomas.",
+   "Correta: metronidazol por 7 dias, e a vaginose não contraindica a inserção do DIU.",
+   "Fluconazol trata candidíase; o quadro de pH alto e aminas positivas é de vaginose.",
+   "Vaginose não é IST, o parceiro não se trata e não há motivo para adiar o DIU.",
+   "Gardnerella faz parte da flora; cultura não diagnostica vaginose bacteriana."
+  ]
+ },
+ {
+  "q": "Mulher de 26 anos, com múltiplas parcerias, conta que há 3 semanas teve pequena lesão genital indolor que sumiu sozinha. Agora tem massa inguinal esquerda dolorosa, avermelhada, com vários pontos de drenagem de pus. Teste rápido para sífilis não reagente. Qual a hipótese e o tratamento recomendado?",
+  "alts": [
+   "Cancroide, com azitromicina 1 g em dose única e incisão do bubão",
+   "Sífilis primária, com benzilpenicilina benzatina 2,4 milhões UI",
+   "Donovanose, com azitromicina 1 g por semana durante 3 semanas",
+   "Linfogranuloma venéreo, com doxiciclina 100 mg 12/12 h por 21 dias",
+   "Herpes genital, com aciclovir 400 mg de 8/8 h por 10 dias"
+  ],
+  "gab": 3,
+  "tema": "gininfec",
+  "sub": "Linfogranuloma venéreo",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "O linfogranuloma venéreo, causado pelos sorotipos L1 a L3 de Chlamydia trachomatis, começa com pápula ou úlcera fugaz e indolor que passa despercebida; semanas depois surge linfadenopatia inguinal dolorosa que fistuliza por múltiplos orifícios. No sexo anal, pode dar proctite. O PCDT de IST (2022) trata com doxiciclina 100 mg VO de 12/12 horas por 21 dias, com tratamento das parcerias. O bubão flutuante é aspirado com agulha, nunca incisado. O cancroide fistuliza por orifício único, e a donovanose não forma bubão verdadeiro.",
+  "porAlt": [
+   "O bubão do cancroide drena por orifício único, e bubão não se incisa.",
+   "A sífilis primária dá linfonodo indolor que não fistuliza.",
+   "A donovanose produz úlcera crônica com pseudobubão, sem linfadenite supurada.",
+   "Correta: úlcera fugaz seguida de bubão com múltiplas fístulas é linfogranuloma, tratado por 21 dias.",
+   "O herpes dá vesículas e úlceras dolorosas, com linfonodos que não fistulizam."
+  ]
+ },
+ {
+  "q": "Mulher de 31 anos tem três úlceras dolorosas na vulva há 6 dias, com bordas irregulares, fundo purulento e odor fétido, além de linfonodo inguinal direito aumentado, doloroso e flutuante. Não há vesículas nem história de lesões vesiculares. Qual o agente mais provável e a conduta para o linfonodo?",
+  "alts": [
+   "Haemophilus ducreyi, com aspiração por agulha do linfonodo flutuante",
+   "Herpes simplex tipo 2, com drenagem cirúrgica ampla do linfonodo",
+   "Treponema pallidum, com observação do linfonodo até que regrida",
+   "Chlamydia trachomatis L2, com incisão e drenagem do linfonodo",
+   "Klebsiella granulomatis, com exérese cirúrgica do linfonodo inguinal"
+  ],
+  "gab": 0,
+  "tema": "gininfec",
+  "sub": "Cancroide e bubão",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Úlceras múltiplas, dolorosas, de borda irregular e fundo sujo, com bubão unilateral que pode fistulizar por orifício único, caracterizam o cancroide (Haemophilus ducreyi). Pelo PCDT de IST (2022), a úlcera sem vesículas recebe tratamento para sífilis e cancroide: azitromicina 1 g VO em dose única (ou ceftriaxona 250 mg IM) e benzilpenicilina benzatina, com teste de HIV e tratamento das parcerias. O bubão flutuante é aspirado com agulha grossa, nunca incisado, porque a incisão gera fístula crônica.",
+  "porAlt": [
+   "Correta: quadro de cancroide, e o bubão flutuante é aspirado com agulha.",
+   "O herpes dá vesículas e úlceras rasas, e linfonodo não se drena cirurgicamente.",
+   "A sífilis primária é úlcera única, indolor e de fundo limpo.",
+   "No linfogranuloma a úlcera é fugaz e indolor, e o bubão também não se incisa.",
+   "A donovanose é indolor, crônica e não produz linfadenite supurada."
+  ]
+ },
+ {
+  "q": "Mulher de 20 anos refere lesões vulvares indolores há 3 semanas. Ao exame, placas úmidas, planas e acinzentadas nos grandes lábios e na região perianal, além de lesões descamativas nas palmas das mãos. Ela conta que a amiga teve verruga por HPV e pede ácido tricloroacético. Qual o diagnóstico mais provável e a conduta?",
+  "alts": [
+   "Condiloma acuminado, com ácido tricloroacético a 80% semanal",
+   "Condiloma acuminado, com imiquimode tópico três vezes por semana",
+   "Molusco contagioso, com curetagem das lesões e observação clínica",
+   "Sífilis primária, com benzatina 2,4 milhões UI semanal por 3 semanas",
+   "Sífilis secundária, com benzatina 2,4 milhões UI em dose única"
+  ],
+  "gab": 4,
+  "tema": "gininfec",
+  "sub": "Condiloma plano da sífilis secundária",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Placas úmidas e planas em áreas de dobra, ricas em treponemas, são o condiloma plano da sífilis secundária; lesões palmoplantares descamativas reforçam o diagnóstico. Confirma-se com teste treponêmico e não treponêmico, este em título alto. A secundária é sífilis recente: benzilpenicilina benzatina 2,4 milhões UI IM em dose única (PCDT de IST, 2022), tratamento das parcerias dos últimos 90 dias, teste de HIV e notificação. O condiloma acuminado do HPV é vegetante, em couve-flor, e a sífilis primária é o cancro único e endurecido.",
+  "porAlt": [
+   "O condiloma acuminado é vegetante e não explica as lesões palmares.",
+   "Imiquimode trata verruga por HPV, e o quadro é de sífilis secundária.",
+   "O molusco tem pápulas umbilicadas, sem placas úmidas nem lesão palmar.",
+   "A primária é úlcera única, e a recente se trata com dose única, não três.",
+   "Correta: condiloma plano com lesões palmares é sífilis secundária, dose única de benzatina."
+  ]
+ },
+ {
+  "q": "Mulher de 25 anos, não gestante, foi tratada para sífilis secundária com benzilpenicilina benzatina 2,4 milhões UI, com VDRL de 1:64 no dia da dose. Aos 3 meses, VDRL de 1:32; aos 6 meses, 1:16. Está assintomática e usa preservativo com o parceiro, que foi tratado. Qual a interpretação?",
+  "alts": [
+   "Falha terapêutica, pois o VDRL não negativou, com retratamento",
+   "Provável neurossífilis, por títulos persistentes, com punção lombar",
+   "Resposta adequada, com VDRL trimestral até completar 12 meses",
+   "Cicatriz sorológica, com alta do seguimento e sem novos exames",
+   "Reinfecção, com nova dose de benzatina para ela e para o parceiro"
+  ],
+  "gab": 2,
+  "tema": "gininfec",
+  "sub": "Seguimento sorológico da sífilis",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Pelo PCDT de IST (2022), o seguimento usa o mesmo teste não treponêmico a cada 3 meses até 12 meses. Resposta adequada é a negativação ou a queda de duas diluições em até 6 meses na sífilis recente (12 meses na tardia). De 1:64 para 1:16 são duas diluições: resposta adequada. Retrata-se quando o título não cai no prazo, sobe duas diluições ou mais, ou os sinais persistem; sem reexposição, investiga-se neurossífilis. A cicatriz sorológica só se define com títulos baixos e estáveis após tratamento adequado e seguimento completo.",
+  "porAlt": [
+   "Não é preciso negativar: a queda de duas diluições em 6 meses já é resposta adequada.",
+   "Títulos em queda adequada não sugerem neurossífilis nem indicam punção.",
+   "Correta: queda de duas diluições em 6 meses, mantendo o VDRL trimestral até 12 meses.",
+   "O seguimento vai até 12 meses; ainda não cabe alta nem rótulo de cicatriz.",
+   "Reinfecção eleva o título em duas diluições, e aqui o título está caindo."
+  ]
+ },
+ {
+  "q": "Mulher de 33 anos, não gestante, HIV negativo, tem herpes genital confirmado e relata sete recorrências nos últimos 12 meses, que prejudicam a vida sexual e o trabalho. Cada episódio tem sido tratado com aciclovir por 5 dias. Qual a conduta mais adequada?",
+  "alts": [
+   "Manter o tratamento episódico e usar aciclovir tópico nas lesões",
+   "Aciclovir 400 mg de 8/8 h por 21 dias a cada nova recorrência",
+   "Valaciclovir 1 g em dose única mensal, mesmo sem sintomas",
+   "Supressão com aciclovir 400 mg de 12/12 h por tempo prolongado",
+   "Cesárea programada nas próximas gestações e abstinência sexual"
+  ],
+  "gab": 3,
+  "tema": "gininfec",
+  "sub": "Herpes genital recorrente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Pelo PCDT de IST (2022), recorrências frequentes, 6 ou mais por ano, indicam terapia supressiva com aciclovir 400 mg VO de 12/12 horas por até 6 meses, podendo estender-se por até 2 anos, com reavaliação periódica. A supressão reduz o número de recorrências e a transmissão à parceria. O aciclovir tópico não tem eficácia, e o episódio recorrente isolado se trata por 5 dias. Herpes com lesão ativa no trabalho de parto indica cesárea, mas a história de herpes sem lesão no parto não.",
+  "porAlt": [
+   "Aciclovir tópico não tem eficácia, e o tratamento episódico não basta com 7 recorrências por ano.",
+   "Esquema de 21 dias não existe para herpes; a recorrência isolada se trata por 5 dias.",
+   "Dose mensal única não suprime a replicação viral e não é esquema recomendado.",
+   "Correta: 6 ou mais recorrências por ano indicam supressão com aciclovir 400 mg de 12/12 h.",
+   "Cesárea só se indica com lesão ativa no parto, e abstinência não é conduta terapêutica."
+  ]
+ },
+ {
+  "q": "Mulher de 21 anos, com várias parcerias e uso irregular de preservativo, refere dor no hipocôndrio direito que piora com a inspiração, febre baixa e dor em baixo ventre há 4 dias. Ao exame: mucopus cervical e dor à mobilização do colo e aos anexos. Beta-hCG negativo; ultrassonografia com vesícula normal e sem abscesso. Qual o diagnóstico?",
+  "alts": [
+   "Doença inflamatória pélvica com peri-hepatite de Fitz-Hugh-Curtis",
+   "Colecistite aguda alitiásica associada a cervicite gonocócica",
+   "Pielonefrite direita com cervicite por clamídia associada",
+   "Hepatite viral aguda com dor pélvica por cisto de corpo lúteo",
+   "Apendicite retrocecal com irritação dos anexos do lado direito"
+  ],
+  "gab": 0,
+  "tema": "gininfec",
+  "sub": "Peri-hepatite na DIP",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "A síndrome de Fitz-Hugh-Curtis é a peri-hepatite por extensão da doença inflamatória pélvica, em geral por clamídia ou gonococo: dor pleurítica no hipocôndrio direito, aderências em corda de violino entre a cápsula hepática e o diafragma e transaminases quase sempre normais. A paciente tem critérios maiores de DIP. O tratamento é o da DIP pelo PCDT de IST (2022): ceftriaxona 500 mg IM dose única, doxiciclina e metronidazol por 14 dias, reavaliação em 72 horas e tratamento das parcerias dos últimos 2 meses. A vesícula normal afasta colecistite.",
+  "porAlt": [
+   "Correta: DIP com dor pleurítica no hipocôndrio direito sugere peri-hepatite de Fitz-Hugh-Curtis.",
+   "A ultrassonografia mostra vesícula normal, o que afasta colecistite.",
+   "Pielonefrite não explica mucopus e dor à mobilização do colo e aos anexos.",
+   "Hepatite viral não justifica os achados de infecção pélvica ao exame.",
+   "O mucopus e a dor anexial bilateral apontam para infecção pélvica, não apendicite."
+  ]
+ },
+ {
+  "q": "Mulher de 27 anos, com roséola sifilítica e VDRL 1:128, recebe benzilpenicilina benzatina 2,4 milhões UI na UBS. Seis horas depois retorna com febre de 38,4 °C, cefaleia, mialgia e lesões cutâneas mais avermelhadas, sem prurido, urticária ou dispneia, PA 118/76 mmHg. Qual a conduta?",
+  "alts": [
+   "Registrar alergia à penicilina e completar o tratamento com doxiciclina",
+   "Aplicar adrenalina intramuscular e observar por 24 horas no hospital",
+   "Investigar neurossífilis com punção lombar antes de outra medida",
+   "Repetir a benzatina em 7 dias, pois a febre indica falha da primeira dose",
+   "Sintomáticos e orientação, pois é reação esperada e não indica alergia"
+  ],
+  "gab": 4,
+  "tema": "gininfec",
+  "sub": "Reação de Jarisch-Herxheimer",
+  "cenario": "amb",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "A reação de Jarisch-Herxheimer surge nas primeiras 24 horas após a primeira dose de penicilina, sobretudo na sífilis recente com carga treponêmica alta, pela liberação de antígenos dos treponemas mortos: febre, calafrios, cefaleia, mialgia e piora transitória das lesões. É autolimitada e cede com analgésico e antitérmico. Não é alergia, porque não há urticária, broncoespasmo nem hipotensão, e não justifica suspender ou trocar a penicilina (PCDT de IST, 2022). Na sífilis secundária, a dose única de benzatina completa o tratamento.",
+  "porAlt": [
+   "Não há sinais de alergia; registrar alergia privaria a paciente da penicilina no futuro.",
+   "Sem urticária, broncoespasmo ou hipotensão, não há anafilaxia que exija adrenalina.",
+   "Febre nas primeiras horas após a penicilina não indica neurossífilis.",
+   "A sífilis secundária se trata com dose única, e a febre não significa falha.",
+   "Correta: é a reação de Jarisch-Herxheimer, tratada com sintomáticos e orientação."
+  ]
+ },
+ {
+  "q": "Gestante de 19 anos, com 18 semanas, assintomática, tem pesquisa de Chlamydia trachomatis positiva por biologia molecular em amostra de urina; gonococo não detectado. Qual o tratamento recomendado para ela?",
+  "alts": [
+   "Doxiciclina 100 mg VO de 12/12 h por 7 dias, com teste de cura",
+   "Azitromicina 1 g VO em dose única, com tratamento da parceria sexual",
+   "Ciprofloxacino 500 mg VO em dose única, com tratamento da parceria",
+   "Nenhum tratamento até o parto, salvo se surgirem sinais de cervicite",
+   "Metronidazol 2 g VO em dose única, repetido no terceiro trimestre"
+  ],
+  "gab": 1,
+  "tema": "gininfec",
+  "sub": "Clamídia na gestante",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Pelo PCDT de IST (2022), a infecção por clamídia se trata com azitromicina 1 g VO em dose única ou doxiciclina 100 mg de 12/12 horas por 7 dias; na gestante a doxiciclina é contraindicada, por ser tetraciclina, e a azitromicina é a escolha. A parceria é tratada, com abstinência até o fim do tratamento. A infecção na gestação se associa a rotura prematura, prematuridade e conjuntivite e pneumonia neonatais, por isso não se espera o parto. Quinolonas não se usam na gestação, e o metronidazol não cobre clamídia.",
+  "porAlt": [
+   "A doxiciclina é contraindicada na gestação.",
+   "Correta: azitromicina em dose única é segura na gestação, com tratamento da parceria.",
+   "Quinolona é evitada na gestação e não é esquema do PCDT para clamídia.",
+   "Clamídia na gestante deve ser tratada pelo risco obstétrico e neonatal.",
+   "Metronidazol trata tricomoníase e vaginose, não clamídia."
+  ]
+ },
+ {
+  "q": "Em UBS sem microscópio, mulher de 34 anos queixa-se de corrimento amarelo-esverdeado, abundante e bolhoso, com odor e ardor ao urinar. Ao especular, colo com pontos avermelhados, sem mucopus endocervical e sem dor à mobilização. Fita de pH vaginal de 6,0 e teste das aminas positivo. Qual a conduta pelo PCDT de IST?",
+  "alts": [
+   "Miconazol creme vaginal por 7 noites, sem tratar a parceria sexual",
+   "Ceftriaxona 500 mg IM e azitromicina 1 g VO para ela e para a parceria",
+   "Fluconazol 150 mg VO e metronidazol gel vaginal, sem tratar a parceria",
+   "Metronidazol oral, tratando a parceria e com abstinência até concluir",
+   "Aguardar cultura da secreção vaginal antes de qualquer tratamento"
+  ],
+  "gab": 3,
+  "tema": "gininfec",
+  "sub": "Corrimento pelo pH vaginal",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Sem microscopia, o pH orienta o PCDT de IST (2022): acima de 4,5 com aminas positivas indica vaginose ou tricomoníase, e o metronidazol oral cobre as duas. O quadro de corrimento abundante, amarelo-esverdeado e bolhoso, com colpite em morango, sugere tricomoníase, que é IST: metronidazol 2 g em dose única ou 500 mg de 12/12 horas por 7 dias, parceria tratada mesmo assintomática e abstinência até ambos concluírem, com oferta de testes para HIV, sífilis e hepatites. Sem mucopus ou dor à mobilização do colo, não se trata cervicite.",
+  "porAlt": [
+   "pH abaixo de 4,5 sugeriria candidíase; com pH 6,0 o antifúngico não cobre a causa.",
+   "Sem mucopus nem dor à mobilização, não há indicação de tratar cervicite.",
+   "Antifúngico é desnecessário, e o quadro sugestivo de tricomoníase exige tratar a parceria.",
+   "Correta: metronidazol oral cobre vaginose e tricomoníase, com tratamento da parceria.",
+   "A abordagem sindrômica trata na mesma consulta, sem esperar cultura."
+  ]
+ },
+ {
+  "q": "Mulher de 25 anos usa pílula combinada de 21 comprimidos ativos com pausa de 7 dias. Esqueceu os comprimidos dos dias 16, 17 e 18 da cartela e lembrou no dia 19. Teve relações apenas com preservativo. Segundo as recomendações práticas da OMS, o que orientar?",
+  "alts": [
+   "Parar a cartela, aguardar a menstruação e iniciar nova cartela no 5º dia",
+   "Tomar os três esquecidos juntos e fazer a pausa habitual ao fim da cartela",
+   "Tomar um já, emendar a cartela seguinte sem pausa e usar preservativo 7 dias",
+   "Levonorgestrel de emergência agora e manter a cartela com a pausa habitual",
+   "Seguir a cartela normalmente, pois menos de 4 esquecimentos não reduz eficácia"
+  ],
+  "gab": 2,
+  "tema": "reprodutiva",
+  "sub": "Esquecimento da pílula combinada",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "OMS. Selected practice recommendations for contraceptive use, 3ª ed., 2016",
+  "coment": "Pelas recomendações práticas da OMS (2016), com 3 ou mais comprimidos ativos esquecidos, a mulher toma um assim que lembrar, segue a cartela e usa preservativo ou abstinência até completar 7 dias seguidos de comprimidos ativos. Se o esquecimento foi na terceira semana, omite a pausa e emenda a cartela seguinte, para não prolongar o intervalo sem hormônio. A anticoncepção de emergência é considerada quando o esquecimento ocorre na primeira semana com relação desprotegida. Com 1 ou 2 esquecidos, basta tomar o comprimido e não há método adicional.",
+  "porAlt": [
+   "Parar a cartela deixa a mulher sem hormônio por vários dias e aumenta o risco de ovulação.",
+   "Tomar os três juntos e fazer a pausa prolonga o intervalo sem hormônio e não protege.",
+   "Correta: na terceira semana, tomar um, emendar sem pausa e usar preservativo por 7 dias.",
+   "Houve relação só com preservativo, e manter a pausa prolongaria o intervalo sem hormônio.",
+   "A partir de 3 comprimidos esquecidos a eficácia cai e exige medidas adicionais."
+  ]
+ },
+ {
+  "q": "Mulher de 22 anos com epilepsia controlada com carbamazepina deseja contracepção e não quer engravidar nos próximos anos. Não tem outras doenças. Segundo os critérios de elegibilidade da OMS, qual opção mantém a eficácia sem interação relevante?",
+  "alts": [
+   "Medroxiprogesterona injetável trimestral ou DIU",
+   "Pílula combinada com 30 µg de etinilestradiol",
+   "Pílula de desogestrel 75 µg sempre no mesmo horário",
+   "Anel vaginal combinado trocado a cada mês",
+   "Adesivo combinado semanal, sem passagem hepática"
+  ],
+  "gab": 0,
+  "tema": "reprodutiva",
+  "sub": "Contracepção com indutor enzimático",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "OMS. Medical eligibility criteria for contraceptive use, 5ª ed., 2015 (reafirmados em 2025)",
+  "coment": "Carbamazepina, fenitoína, fenobarbital, primidona, topiramato, oxcarbazepina e rifampicina induzem o metabolismo hepático e reduzem os níveis dos hormônios contraceptivos. Pelos critérios da OMS (2015, reafirmados em 2025), são categoria 3 para combinados (pílula, adesivo e anel) e pílula de progestagênio, e categoria 2 para o implante; o acetato de medroxiprogesterona de depósito e os DIU de cobre e de levonorgestrel são categoria 1. Adesivo e anel evitam a primeira passagem, mas o hormônio absorvido continua sujeito à indução. Com a lamotrigina, a interação é a inversa.",
+  "porAlt": [
+   "Correta: DMPA e DIU são categoria 1 com indutores enzimáticos.",
+   "A carbamazepina reduz o nível do combinado, categoria 3 pela OMS.",
+   "A pílula de progestagênio também é categoria 3 com indutor enzimático.",
+   "O anel combinado tem os hormônios metabolizados mais rápido sob indução.",
+   "O adesivo também sofre indução do metabolismo e é categoria 3."
+  ]
+ },
+ {
+  "q": "Mulher de 38 anos, em quimioterapia neoadjuvante por carcinoma ductal invasivo de mama com receptores hormonais positivos, quer contracepção eficaz e duradoura. Qual método é elegível sem restrição pelos critérios da OMS?",
+  "alts": [
+   "Implante subdérmico de etonogestrel, com duração de 3 anos",
+   "DIU de levonorgestrel 52 mg, por agir apenas no endométrio",
+   "Injetável trimestral de medroxiprogesterona de depósito",
+   "DIU de cobre TCu 380A, sem hormônio e com longa duração",
+   "Pílula só de progestagênio com desogestrel em uso contínuo"
+  ],
+  "gab": 3,
+  "tema": "reprodutiva",
+  "sub": "Contracepção no câncer de mama",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "OMS. Medical eligibility criteria for contraceptive use, 5ª ed., 2015 (reafirmados em 2025)",
+  "coment": "No câncer de mama atual, todos os métodos hormonais são categoria 4 pelos critérios da OMS (2015, reafirmados em 2025): combinados e também os só de progestagênio, incluindo implante, injetável trimestral, pílula de desogestrel e DIU de levonorgestrel, porque o tumor pode ser sensível a hormônios. Após 5 anos sem evidência de doença, passam a categoria 3. O DIU de cobre é categoria 1 e é a opção de longa duração para essa mulher; o momento da inserção deve considerar as citopenias da quimioterapia.",
+  "porAlt": [
+   "O implante é hormonal e é categoria 4 no câncer de mama atual.",
+   "O DIU de levonorgestrel também é categoria 4 no câncer de mama atual.",
+   "O injetável trimestral é categoria 4 no câncer de mama atual.",
+   "Correta: o DIU de cobre é categoria 1 e não tem hormônio.",
+   "A pílula de progestagênio é categoria 4 no câncer de mama atual."
+  ]
+ },
+ {
+  "q": "Mulher de 30 anos, usuária de acetato de medroxiprogesterona de depósito 150 mg a cada 3 meses, comparece para a reinjeção 3 semanas depois da data prevista. Teve relações sem preservativo na última semana. Segundo as recomendações práticas da OMS, qual a conduta?",
+  "alts": [
+   "Exigir beta-hCG negativo e menstruação antes de reaplicar a injeção",
+   "Reaplicar hoje, sem método adicional e sem necessidade de teste",
+   "Reaplicar hoje e usar preservativo nos 7 dias seguintes à injeção",
+   "Trocar por pílula combinada, pois o atraso indica falha do método",
+   "Dar levonorgestrel de emergência e reaplicar só no próximo ciclo"
+  ],
+  "gab": 1,
+  "tema": "reprodutiva",
+  "sub": "Atraso na reinjeção trimestral",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "OMS. Selected practice recommendations for contraceptive use, 3ª ed., 2016",
+  "coment": "Pelas recomendações práticas da OMS (2016), a reinjeção de medroxiprogesterona de depósito pode ser feita até 4 semanas depois da data prevista sem necessidade de método adicional, porque o nível do fármaco ainda inibe a ovulação nesse período. Com atraso maior que 4 semanas, reaplica-se se houver razoável certeza de que não há gravidez, com preservativo ou abstinência por 7 dias e avaliação de anticoncepção de emergência. Três semanas está dentro da janela, e as relações recentes não mudam a conduta.",
+  "porAlt": [
+   "Dentro da janela de 4 semanas não se exige teste nem menstruação para reaplicar.",
+   "Correta: atraso de até 4 semanas permite reaplicar sem método adicional.",
+   "Preservativo por 7 dias só é necessário quando o atraso passa de 4 semanas.",
+   "Atraso dentro da janela não é falha do método, e o injetável segue eficaz.",
+   "Não há indicação de emergência dentro da janela, e adiar a dose expõe à gravidez."
+  ]
+ },
+ {
+  "q": "Puérpera de 24 anos, 4 meses após o parto, amamenta e ainda não menstruou. Há 3 semanas passou a oferecer mamadeira de fórmula à noite para dormir melhor. Usa a amamentação como único método e não deseja nova gestação agora. Qual a orientação?",
+  "alts": [
+   "Manter só a amamentação, pois a amenorreia garante proteção até 6 meses",
+   "Manter a amamentação como método até a primeira menstruação, e só então trocar",
+   "Iniciar pílula combinada, que passa a ser elegível sem restrição aos 4 meses",
+   "Inserir DIU apenas após a primeira menstruação, para afastar gravidez antes",
+   "Iniciar outro método, como progestagênio ou DIU, porque perdeu o critério da LAM"
+  ],
+  "gab": 4,
+  "tema": "reprodutiva",
+  "sub": "Lactação e amenorreia (LAM)",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "OMS. Selected practice recommendations for contraceptive use, 3ª ed., 2016",
+  "coment": "O método da lactação e amenorreia protege acima de 98% apenas enquanto três condições coexistem: amenorreia, aleitamento exclusivo ou quase exclusivo, de dia e de noite, e bebê com menos de 6 meses. A mamadeira noturna quebra o critério, e a mulher precisa de outro método. Na lactante entre 6 semanas e 6 meses, o combinado é categoria 3, enquanto métodos só de progestagênio e DIU são categoria 1 (OMS 2015). O DIU pode ser inserido em qualquer momento com razoável certeza de que não há gravidez, sem esperar a menstruação.",
+  "porAlt": [
+   "Amenorreia sozinha não garante proteção quando o aleitamento deixou de ser exclusivo.",
+   "A ovulação pode preceder a primeira menstruação, e a mulher engravidaria sem saber.",
+   "O combinado é categoria 3 na lactante até 6 meses e pode reduzir a produção de leite.",
+   "Não é preciso esperar a menstruação; basta razoável certeza de que não há gravidez.",
+   "Correta: a fórmula noturna desfaz a LAM, e progestagênio ou DIU são categoria 1."
+  ]
+ },
+ {
+  "q": "Casal tenta engravidar há 14 meses. A mulher, de 31 anos, tem ciclos regulares de 28 dias e progesterona de fase lútea compatível com ovulação. O espermograma do parceiro, com 3 dias de abstinência, mostra volume de 2,5 mL, concentração de 9 milhões/mL, motilidade progressiva de 35% e 5% de formas normais. Qual a conduta?",
+  "alts": [
+   "Considerar normal pelos limites da OMS e investigar só o fator tubário",
+   "Indicar fertilização in vitro já, sem repetir o exame nem avaliar o homem",
+   "Repetir o espermograma e encaminhar o parceiro para avaliação urológica",
+   "Prescrever clomifeno à mulher para compensar a baixa concentração",
+   "Diagnosticar azoospermia obstrutiva e indicar biópsia testicular"
+  ],
+  "gab": 2,
+  "tema": "reprodutiva",
+  "sub": "Espermograma alterado",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "OMS. WHO laboratory manual for the examination and processing of human semen, 6ª ed., 2021",
+  "coment": "Os limites inferiores de referência do manual da OMS (6ª edição, 2021) são: volume 1,4 mL, concentração 16 milhões/mL, total de 39 milhões por ejaculado, motilidade progressiva 30% e formas normais 4%. Concentração de 9 milhões/mL é oligozoospermia. Como o exame varia muito, repete-se o espermograma e o homem é avaliado por urologista (varicocele, causas endócrinas e genéticas). A investigação do casal é simultânea, incluindo a permeabilidade tubária. Clomifeno em mulher que ovula não corrige fator masculino.",
+  "porAlt": [
+   "A concentração de 9 milhões/mL está abaixo do limite de 16 milhões/mL da OMS.",
+   "Reprodução assistida vem depois de confirmar o achado e avaliar a causa masculina.",
+   "Correta: oligozoospermia exige repetir o exame e avaliar o homem.",
+   "Induzir ovulação em mulher ovulatória não trata fator masculino.",
+   "Azoospermia é ausência de espermatozoides, e aqui há 9 milhões/mL."
+  ]
+ },
+ {
+  "q": "Mulher de 33 anos com infertilidade há 18 meses, antecedente de doença inflamatória pélvica tratada aos 24 anos, ciclos regulares e espermograma do parceiro normal. Qual exame avalia a permeabilidade tubária e em que fase do ciclo deve ser feito?",
+  "alts": [
+   "Histerossalpingografia na fase folicular, logo após a menstruação",
+   "Histerossalpingografia na fase lútea, depois de confirmar a ovulação",
+   "Ultrassonografia transvaginal simples no meio do ciclo menstrual",
+   "Ressonância de pelve em qualquer fase do ciclo, com contraste venoso",
+   "Hormônio antimülleriano dosado no terceiro dia do ciclo menstrual"
+  ],
+  "gab": 0,
+  "tema": "reprodutiva",
+  "sub": "Avaliação tubária na infertilidade",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ASRM Practice Committee. Fertility evaluation of infertile women: a committee opinion, 2021",
+  "coment": "A histerossalpingografia é o exame inicial para permeabilidade tubária e contorno da cavidade (ASRM, 2021). É feita na fase folicular, depois do fim do fluxo e antes da ovulação, para não expor uma gestação inicial à radiação. Antecedente de doença inflamatória pélvica é o principal fator de risco para dano tubário; se a histerossalpingografia é alterada ou há suspeita de aderências ou endometriose, a laparoscopia com cromotubagem esclarece. O hormônio antimülleriano estima reserva ovariana, não a tuba.",
+  "porAlt": [
+   "Correta: a histerossalpingografia, feita após a menstruação, avalia as tubas.",
+   "Na fase lútea pode haver gestação inicial exposta à radiação e ao contraste.",
+   "Ultrassonografia simples não mostra a permeabilidade das tubas.",
+   "Ressonância não é o exame de escolha para permeabilidade tubária.",
+   "O hormônio antimülleriano avalia reserva ovariana, não a permeabilidade tubária."
+  ]
+ },
+ {
+  "q": "Mulher de 23 anos procura a UBS 10 dias após estupro com penetração vaginal, sem preservativo, por agressor desconhecido. Não sabe se tomou vacina contra hepatite B. Teste de gravidez negativo hoje; última menstruação há 20 dias. Além de testes de base, notificação e apoio psicossocial, o que está indicado?",
+  "alts": [
+   "PEP do HIV por 28 dias e levonorgestrel 1,5 mg em dose única oral",
+   "Levonorgestrel 1,5 mg e profilaxia de IST, sem vacina para hepatite B",
+   "PEP do HIV por 28 dias, pois a exposição foi de alto risco sem preservativo",
+   "Vacina contra hepatite B e profilaxia de IST, sem PEP nem levonorgestrel",
+   "Apenas sorologias, pois nenhuma profilaxia tem benefício após 72 horas"
+  ],
+  "gab": 3,
+  "tema": "reprodutiva",
+  "sub": "Violência sexual após 10 dias",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT de Profilaxia Pós-Exposição de Risco à Infecção pelo HIV, IST e Hepatites Virais, 2024",
+  "coment": "Cada profilaxia tem uma janela (PCDT de PEP, 2024): PEP do HIV até 72 horas; anticoncepção de emergência até 5 dias; imunoprofilaxia da hepatite B até 14 dias, com vacina para a não imunizada e imunoglobulina se o agressor for HBsAg reagente ou de alto risco. A profilaxia de IST não virais (benzatina, ceftriaxona com azitromicina e metronidazol) é preemptiva na violência sexual. Com 10 dias, não cabem PEP nem levonorgestrel; faz-se seguimento sorológico, teste de gravidez se atraso e vacina contra HPV se não vacinada.",
+  "porAlt": [
+   "Após 72 horas a PEP do HIV não tem benefício, e o levonorgestrel vale só até 5 dias.",
+   "O levonorgestrel passou da janela, e a hepatite B ainda pode ser prevenida até 14 dias.",
+   "A gravidade da exposição não estende a janela de 72 horas da PEP do HIV.",
+   "Correta: dentro de 14 dias cabe a vacina de hepatite B, além da profilaxia de IST.",
+   "Hepatite B e IST bacterianas ainda podem ser prevenidas após 72 horas."
+  ]
+ },
+ {
+  "q": "Em hospital de referência, mulher de 20 anos com 9 semanas de gestação decorrente de estupro solicita a interrupção. O obstetra de plantão declara objeção de consciência; outro médico que realiza o procedimento assume o serviço em 3 horas. A paciente está estável. Qual a conduta adequada do plantonista?",
+  "alts": [
+   "Recusar o atendimento e orientar a mulher a procurar o Ministério Público",
+   "Exigir boletim de ocorrência antes de encaminhar para outro profissional",
+   "Realizar o procedimento, pois objeção não vale em hospital de referência",
+   "Encaminhar ao juiz, já que a objeção transfere a decisão ao Judiciário",
+   "Informar o direito, acolher e garantir o atendimento pelo outro médico"
+  ],
+  "gab": 4,
+  "tema": "reprodutiva",
+  "sub": "Objeção de consciência no aborto legal",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Atenção humanizada ao abortamento: norma técnica, 2ª ed., 2011",
+  "coment": "O Código de Ética Médica (Resolução CFM 2.217/2018) permite ao médico recusar ato contrário à sua consciência, salvo na ausência de outro médico, em urgência ou emergência e quando a recusa puder trazer dano à paciente. Pela norma técnica do Ministério da Saúde (2011), a objeção é individual, não institucional; o objetor deve informar a mulher sobre o direito e garantir o encaminhamento sem atraso, e não cabe objeção no atendimento de complicações do abortamento. O aborto por estupro (art. 128, II, do Código Penal) não exige boletim de ocorrência nem autorização judicial.",
+  "porAlt": [
+   "Recusar o atendimento viola o dever de acolher e informar, mesmo para o objetor.",
+   "Boletim de ocorrência não é exigido para o aborto por estupro nem para o encaminhamento.",
+   "A objeção é individual e vale aqui, porque há outro médico e não é emergência.",
+   "O aborto por estupro não depende de autorização judicial.",
+   "Correta: o objetor informa, acolhe e garante o procedimento por outro profissional."
+  ]
+ },
+ {
+  "q": "Adolescente de 13 anos chega à UBS com a mãe, com 8 semanas de gestação. Relata relações consentidas com o namorado de 19 anos. A mãe pergunta se a filha tem direito à interrupção da gestação. Qual a orientação correta?",
+  "alts": [
+   "Não tem direito, porque a relação foi consentida e não houve violência",
+   "Tem direito, por se tratar de estupro de vulnerável, sem exigir boletim",
+   "Tem direito apenas com autorização judicial, por ser menor de idade",
+   "Tem direito apenas se o namorado for processado e condenado pelo crime",
+   "Não tem direito, porque o prazo legal para a interrupção já passou"
+  ],
+  "gab": 1,
+  "tema": "reprodutiva",
+  "sub": "Gestação em menor de 14 anos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Código Penal, arts. 128 e 217-A, com redação da Lei 13.718/2018",
+  "coment": "Conjunção carnal ou ato libidinoso com menor de 14 anos é estupro de vulnerável (art. 217-A do Código Penal), e o consentimento ou a experiência sexual anterior são irrelevantes (§ 5º, incluído pela Lei 13.718/2018). Toda gestação nessa idade se enquadra no art. 128, II: interrupção legal com consentimento da gestante e do representante legal, sem boletim de ocorrência, laudo do IML, processo ou autorização judicial. O serviço notifica no Sinan, comunica o Conselho Tutelar e encaminha ao serviço de referência. A lei não fixa prazo de idade gestacional.",
+  "porAlt": [
+   "Abaixo de 14 anos o consentimento é juridicamente irrelevante: é estupro de vulnerável.",
+   "Correta: a gestação decorre de estupro de vulnerável, e o aborto legal não exige boletim.",
+   "O consentimento vem da gestante com o representante legal, sem necessidade de juiz.",
+   "O aborto previsto em lei não depende de processo nem de condenação do agressor.",
+   "O Código Penal não fixa limite de idade gestacional, e 8 semanas é gestação inicial."
+  ]
+ },
+ {
+  "q": "Mulher de 44 anos, três partos vaginais, refere menstruação cada vez mais volumosa e cólica menstrual progressiva há 2 anos, com ciclos regulares. Ao toque, útero globoso, aumentado de forma difusa, amolecido e doloroso. Beta-hCG negativo. Pela classificação PALM-COEIN da FIGO, qual a causa mais provável?",
+  "alts": [
+   "Leiomioma submucoso, das causas estruturais da FIGO",
+   "Disfunção ovulatória, das causas não estruturais da FIGO",
+   "Coagulopatia, do grupo de causas não estruturais da FIGO",
+   "Adenomiose, do grupo de causas estruturais (PALM) da FIGO",
+   "Distúrbio endometrial, do grupo não estrutural da FIGO"
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "PALM-COEIN: adenomiose",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Munro MG et al. FIGO systems for abnormal uterine bleeding (PALM-COEIN), revisão de 2018",
+  "coment": "A adenomiose, presença de endométrio dentro do miométrio, acomete sobretudo multíparas na quarta e quinta décadas, com sangramento menstrual aumentado, dismenorreia progressiva e útero globoso, difusamente aumentado, amolecido e doloroso. No PALM-COEIN (FIGO, 2011, revisto em 2018), PALM agrupa as causas estruturais (pólipo, adenomiose, leiomioma, malignidade e hiperplasia) e COEIN as não estruturais. O diagnóstico é por ultrassonografia transvaginal ou ressonância. O mioma dá útero irregular, nodular e endurecido; a disfunção ovulatória dá ciclos irregulares.",
+  "porAlt": [
+   "O mioma deixa o útero irregular, nodular e endurecido, não globoso e amolecido.",
+   "Ciclos regulares falam contra disfunção ovulatória como causa do sangramento.",
+   "Coagulopatia costuma dar sangramento intenso desde a menarca, não piora tardia com dor.",
+   "Correta: útero globoso, amolecido e doloroso com dismenorreia progressiva sugere adenomiose.",
+   "O distúrbio endometrial é diagnóstico de exclusão e não explica o útero aumentado e doloroso."
+  ]
+ },
+ {
+  "q": "Mulher de 32 anos refere fluxo menstrual intenso há 1 ano, que a obriga a faltar ao trabalho, com ciclos regulares de 28 dias. Tenta engravidar. Hemoglobina de 11,2 g/dL, beta-hCG negativo, TSH normal e ultrassonografia transvaginal sem alterações estruturais. Qual o tratamento mais adequado?",
+  "alts": [
+   "Ácido tranexâmico apenas nos dias de fluxo, com reposição de ferro oral",
+   "DIU de levonorgestrel, primeira escolha mesmo com desejo de gestar",
+   "Pílula combinada contínua, sem pausa, até completar 1 ano de uso",
+   "Ablação endometrial histeroscópica, que preserva útero e fertilidade",
+   "Análogo do GnRH por 12 meses, associado à terapia de adição hormonal"
+  ],
+  "gab": 0,
+  "tema": "ginecologia",
+  "sub": "SUA com desejo de gestar",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NICE. Heavy menstrual bleeding: assessment and management (NG88), 2018, atualizada em 2021",
+  "coment": "Sangramento intenso com ciclos regulares e sem alteração estrutural aponta para causa endometrial. O DIU de levonorgestrel é a primeira escolha quando aceito (NICE NG88, 2018), mas exige que a mulher não queira engravidar. Para quem deseja gestar, os tratamentos não hormonais usados só nos dias de fluxo, ácido tranexâmico ou anti-inflamatório não esteroide, reduzem o volume sem impedir a concepção; a ferropenia também se corrige. A ablação compromete a gestação futura, e o análogo de GnRH prolongado causa hipoestrogenismo e não é tratamento de manutenção.",
+  "porAlt": [
+   "Correta: tratamento não hormonal nos dias de fluxo não impede a gestação desejada.",
+   "O DIU de levonorgestrel é contraceptivo e impede a gestação que ela deseja.",
+   "A pílula combinada é contraceptiva e não serve a quem tenta engravidar.",
+   "A ablação destrói o endométrio e é contraindicada em quem deseja gestar.",
+   "Análogo do GnRH bloqueia a ovulação e o uso prolongado causa hipoestrogenismo."
+  ]
+ },
+ {
+  "q": "Mulher de 49 anos refere ondas de calor várias vezes ao dia, sudorese noturna e ciclos menstruais irregulares, com intervalos de 60 a 90 dias, há 1 ano. Não usa hormônios. Pede a dosagem de FSH para saber se está na menopausa. Qual a orientação?",
+  "alts": [
+   "Dosar FSH e estradiol no 3º dia do ciclo para confirmar a perimenopausa",
+   "Dosar FSH em duas ocasiões e tratar os sintomas só se vier acima de 30",
+   "Nessa idade o diagnóstico é clínico, e o FSH não muda a conduta",
+   "Dosar hormônio antimülleriano, que define a data exata da menopausa",
+   "Considerar a menopausa já estabelecida, pois houve 3 meses sem menstruar"
+  ],
+  "gab": 2,
+  "tema": "ginecologia",
+  "sub": "Diagnóstico clínico da perimenopausa",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "NICE. Menopause: identification and management (NG23), 2015, atualizada em 2024",
+  "coment": "Acima dos 45 anos, a perimenopausa e a menopausa são diagnosticadas pela clínica: sintomas vasomotores e alteração do padrão menstrual, sem necessidade de FSH, que oscila muito na transição (NICE NG23, 2015, atualizada em 2024). A menopausa é definida em retrospecto, após 12 meses de amenorreia. O FSH tem papel entre 40 e 45 anos com sintomas e abaixo dos 40, na suspeita de insuficiência ovariana prematura. O hormônio antimülleriano não determina quando será a última menstruação, e os sintomas podem ser tratados já.",
+  "porAlt": [
+   "O FSH oscila na transição, e um valor isolado não confirma nem afasta a perimenopausa.",
+   "O tratamento dos sintomas não depende de valor de FSH nessa idade.",
+   "Correta: acima de 45 anos, sintomas e ciclos irregulares bastam para o diagnóstico.",
+   "O hormônio antimülleriano não prevê a data da menopausa para uso clínico individual.",
+   "Menopausa exige 12 meses de amenorreia, não 3 meses."
+  ]
+ },
+ {
+  "q": "Mulher de 41 anos, IMC de 36 kg/m², ciclos irregulares desde a adolescência, tem sangramento prolongado. A biópsia endometrial mostra hiperplasia endometrial sem atipia. Não deseja gestar no momento. Qual o tratamento de primeira linha?",
+  "alts": [
+   "Histerectomia total com salpingectomia bilateral, pelo risco de câncer",
+   "Acompanhamento sem tratamento, com nova biópsia apenas em 2 anos",
+   "Estrogênio conjugado cíclico para regularizar o ciclo menstrual",
+   "Ablação endometrial histeroscópica, que dispensa novas biópsias",
+   "DIU de levonorgestrel e controle do peso, com biópsia de seguimento"
+  ],
+  "gab": 4,
+  "tema": "ginecologia",
+  "sub": "Hiperplasia endometrial sem atipia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "RCOG/BSGE. Green-top Guideline nº 67: Management of endometrial hyperplasia, 2016",
+  "coment": "A hiperplasia endometrial sem atipia tem risco baixo de progressão para câncer. Pelo RCOG/BSGE (2016), trata-se o fator causal, aqui obesidade e anovulação crônica, e usa-se progestagênio, sendo o DIU de levonorgestrel o mais eficaz e preferido, com biópsia de controle a cada 6 meses até dois resultados negativos. A histerectomia fica para a hiperplasia com atipia, a falha ou a recidiva. Estrogênio sem oposição é a causa do problema, e a ablação não trata a hiperplasia e dificulta a vigilância.",
+  "porAlt": [
+   "Histerectomia não é primeira linha na hiperplasia sem atipia.",
+   "Observar sem tratar por 2 anos é inadequado com sangramento e fator de risco ativo.",
+   "Estrogênio sem progestagênio é justamente a causa da hiperplasia.",
+   "A ablação não é tratamento da hiperplasia e prejudica o seguimento histológico.",
+   "Correta: DIU de levonorgestrel, controle do peso e biópsia de seguimento."
+  ]
+ },
+ {
+  "q": "Mulher de 28 anos, com ciclos menstruais regulares, sem galactorreia e sem queixas, teve prolactina de 68 ng/mL em exames de check-up. Não usa medicamentos, o TSH é normal e o beta-hCG é negativo. Qual o próximo passo?",
+  "alts": [
+   "Ressonância magnética de sela túrcica para pesquisar prolactinoma",
+   "Pesquisa de macroprolactina por precipitação com polietilenoglicol",
+   "Iniciar cabergolina 0,5 mg por semana e repetir a prolactina em 3 meses",
+   "Diluir a amostra para afastar o efeito gancho de um macroprolactinoma",
+   "Campimetria visual e avaliação neurocirúrgica antes de outros exames"
+  ],
+  "gab": 1,
+  "tema": "ginecologia",
+  "sub": "Macroprolactinemia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Petersenn S et al. Pituitary Society consensus on prolactin-secreting adenomas, 2023",
+  "coment": "Prolactina elevada em mulher com ciclos regulares, sem galactorreia e sem sintomas sugere macroprolactina, complexo de prolactina com imunoglobulina, biologicamente inativo, detectado por precipitação com polietilenoglicol (Pituitary Society, 2023). Pesquisá-la evita ressonância e tratamento desnecessários. Antes, excluem-se gravidez, fármacos, hipotireoidismo, doença renal e estresse da coleta. O efeito gancho é o oposto: valor falsamente baixo em macroadenoma volumoso, situação que pede diluição da amostra.",
+  "porAlt": [
+   "Ressonância antes de afastar macroprolactina leva a achados incidentais e custos sem benefício.",
+   "Correta: hiperprolactinemia assintomática pede pesquisa de macroprolactina com polietilenoglicol.",
+   "Tratar uma forma inativa de prolactina expõe a paciente a fármaco sem benefício.",
+   "O efeito gancho produz valor falsamente baixo em macroadenoma, não alto em assintomática.",
+   "Sem sintomas nem tumor conhecido, campimetria e neurocirurgia não se justificam."
+  ]
+ },
+ {
+  "q": "Mulher de 51 anos, usuária de DIU de cobre colocado aos 44 anos, está há 13 meses sem menstruar e tem fogachos leves. Pergunta até quando precisa manter a contracepção. Qual a orientação?",
+  "alts": [
+   "Manter o método até os 55 anos, independentemente do tempo de amenorreia",
+   "Trocar o DIU de cobre agora, pois a validade de 10 anos já terminou",
+   "Manter o método até 24 meses de amenorreia, por ter mais de 50 anos",
+   "Pode suspender, pois tem 50 anos ou mais e 12 meses de amenorreia",
+   "Suspender só após FSH elevado em duas dosagens com 6 meses de intervalo"
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Contracepção na perimenopausa",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "FSRH. Contraception for women aged over 40 years, 2017, atualizada em 2023",
+  "coment": "Pela FSRH (2017, atualizada em 2023), a mulher que usa método não hormonal pode suspendê-lo após 12 meses de amenorreia se tem 50 anos ou mais; se a amenorreia começou antes dos 50, mantém-se até 24 meses. Com DIU de cobre, que não mascara o padrão menstrual, o FSH é desnecessário. Aos 55 anos a fertilidade espontânea é considerada desprezível e qualquer método pode ser suspenso, mas ela já preencheu o critério antes. O DIU colocado aos 44 anos tem 7 anos de uso e deve ser retirado após a menopausa.",
+  "porAlt": [
+   "Aos 55 anos todas podem suspender, mas ela já preencheu o critério de 12 meses.",
+   "O DIU tem 7 anos de uso, e ela já pode dispensar a contracepção.",
+   "O prazo de 24 meses vale para amenorreia iniciada antes dos 50 anos.",
+   "Correta: com 50 anos ou mais, 12 meses de amenorreia permitem suspender o método.",
+   "Com método não hormonal, o FSH é dispensável para decidir a suspensão."
+  ]
+ },
+ {
+  "q": "Mulher de 56 anos, menopausa aos 51, obesa e diabética, tem sangramento pós-menopausa. Ultrassonografia transvaginal: endométrio de 14 mm. Biópsia por aspiração: hiperplasia endometrial com atipia. Não há desejo reprodutivo e não há contraindicação cirúrgica. Qual a conduta?",
+  "alts": [
+   "DIU de levonorgestrel e biópsia em 6 meses como tratamento definitivo",
+   "Medroxiprogesterona oral por 3 meses e nova ultrassonografia em seguida",
+   "Histerectomia total com salpingo-ooforectomia bilateral, sem morcelamento",
+   "Curetagem uterina terapêutica e ultrassonografia transvaginal anual",
+   "Ablação endometrial histeroscópica, com seguimento clínico e por imagem"
+  ],
+  "gab": 2,
+  "tema": "ginonco",
+  "sub": "Hiperplasia endometrial com atipia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "RCOG/BSGE. Green-top Guideline nº 67: Management of endometrial hyperplasia, 2016",
+  "coment": "A hiperplasia com atipia corresponde à neoplasia intraepitelial endometrial e tem risco elevado de carcinoma já presente na peça cirúrgica e de progressão. Pelo RCOG/BSGE (2016), o tratamento é a histerectomia total, de preferência por via laparoscópica, sem morcelamento, com salpingo-ooforectomia bilateral na pós-menopausa. Progestagênio com vigilância histológica rigorosa fica para quem deseja preservar a fertilidade ou não tem condição cirúrgica. Ablação e curetagem não tratam a lesão e atrasam o diagnóstico de câncer associado.",
+  "porAlt": [
+   "Progestagênio é alternativa apenas para quem quer fertilidade ou não pode operar.",
+   "Tratamento oral curto não é definitivo e deixa sem diagnóstico um possível câncer associado.",
+   "Correta: na atipia sem desejo reprodutivo, histerectomia total com anexectomia.",
+   "Curetagem não trata a lesão e deixa o endométrio residual sob risco.",
+   "Ablação não trata atipia e dificulta o diagnóstico de câncer posterior."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos com carcinoma escamoso do colo do útero confirmado por biópsia. Exame sob anestesia: tumor de 4 cm com infiltração do paramétrio direito que não atinge a parede pélvica; sem hidronefrose. Tomografia sem linfonodos aumentados nem metástases. Pelo estadiamento FIGO 2018, qual o estádio e o tratamento padrão?",
+  "alts": [
+   "IIB, com quimiorradiação à base de cisplatina e braquiterapia",
+   "IB2, com histerectomia radical e linfadenectomia pélvica",
+   "IIA2, com histerectomia simples e radioterapia externa",
+   "IIIB, com quimioterapia paliativa isolada, sem radioterapia",
+   "IIB, com histerectomia radical e quimioterapia adjuvante"
+  ],
+  "gab": 0,
+  "tema": "ginonco",
+  "sub": "Estadiamento FIGO do colo",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Bhatla N et al. FIGO cancer report: revised staging of cervical cancer, 2018",
+  "coment": "Pela FIGO 2018, a invasão do paramétrio sem atingir a parede pélvica é estádio IIB; IIIB exige extensão à parede pélvica ou hidronefrose; IIIC indica linfonodos acometidos; IIA envolve os dois terços superiores da vagina sem paramétrio. Para IB3, IIA2 e de IIB a IVA, o tratamento padrão é a quimiorradiação concomitante com cisplatina semanal, seguida de braquiterapia. A cirurgia radical é reservada aos estádios iniciais (IA2 a IB2 e IIA1 selecionados), e somar cirurgia e radioterapia aumenta morbidade sem ganho.",
+  "porAlt": [
+   "Correta: paramétrio invadido sem parede pélvica é IIB, tratado com quimiorradiação.",
+   "IB2 é tumor restrito ao colo; aqui há invasão do paramétrio.",
+   "IIA não tem paramétrio invadido, e histerectomia simples não trata câncer invasor.",
+   "IIIB exige parede pélvica ou hidronefrose, e o tratamento seria curativo.",
+   "Cirurgia radical não é o padrão no IIB, que é tratado com quimiorradiação."
+  ]
+ },
+ {
+  "q": "Mulher de 36 anos, portadora de variante patogênica em BRCA1, com dois filhos e prole completa, faz rastreamento mamário com ressonância anual. Pergunta sobre prevenção do câncer de ovário. Qual a recomendação?",
+  "alts": [
+   "CA-125 e ultrassonografia transvaginal semestrais como rastreamento eficaz",
+   "Salpingectomia isolada aos 50 anos, adiando a retirada dos ovários",
+   "Pílula combinada contínua até os 50 anos, que dispensa a cirurgia",
+   "Ooforectomia apenas se surgir massa anexial na ultrassonografia",
+   "Salpingo-ooforectomia bilateral redutora de risco entre 35 e 40 anos"
+  ],
+  "gab": 4,
+  "tema": "ginonco",
+  "sub": "BRCA1 e cirurgia redutora de risco",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "NCCN. Genetic/Familial High-Risk Assessment: Breast, Ovarian, and Pancreatic, 2024",
+  "coment": "Para portadoras de BRCA1, a NCCN (2024) recomenda salpingo-ooforectomia bilateral redutora de risco entre 35 e 40 anos, concluída a prole; em BRCA2, pode-se adiar para 40 a 45 anos, porque o câncer aparece mais tarde. A cirurgia reduz em cerca de 80% o risco de câncer de ovário e de tuba e reduz mortalidade. CA-125 e ultrassonografia não diminuem mortalidade e servem apenas a quem adia a cirurgia. A salpingectomia com ooforectomia tardia ainda é investigacional, e o contraceptivo reduz risco sem substituir a cirurgia.",
+  "porAlt": [
+   "CA-125 e ultrassonografia não reduzem mortalidade por câncer de ovário em portadoras de BRCA.",
+   "Salpingectomia com retirada tardia dos ovários ainda não é padrão em BRCA1.",
+   "O contraceptivo reduz o risco, mas não substitui a cirurgia redutora.",
+   "Esperar massa anexial significa operar câncer já instalado, quase sempre avançado.",
+   "Correta: em BRCA1, a salpingo-ooforectomia redutora é feita entre 35 e 40 anos."
+  ]
+ },
+ {
+  "q": "Mulher de 58 anos refere lesão eczematosa, descamativa e pruriginosa no mamilo esquerdo há 4 meses, que não melhorou com corticoide tópico nem com antifúngico. Há pequena erosão sobre o mamilo, sem nódulo palpável. Qual a principal hipótese e a conduta?",
+  "alts": [
+   "Dermatite de contato, com troca do sutiã e corticoide potente",
+   "Doença de Paget do mamilo, com mamografia e biópsia da lesão",
+   "Eczema atópico, com hidratação e anti-histamínico por 30 dias",
+   "Papiloma intraductal, com ductografia e exérese do ducto",
+   "Mastite periareolar, com cefalexina e drenagem se flutuar"
+  ],
+  "gab": 1,
+  "tema": "ginonco",
+  "sub": "Doença de Paget do mamilo",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "INCA. Diretrizes para a detecção precoce do câncer de mama no Brasil, 2015",
+  "coment": "Lesão eczematosa unilateral do mamilo que não responde a tratamento tópico é sinal de alerta para câncer de mama (INCA, 2015): a doença de Paget começa no mamilo e se estende à aréola, e se associa a carcinoma in situ ou invasor subjacente na maioria dos casos, mesmo sem nódulo palpável. A conduta é imagem (mamografia, com ultrassonografia ou ressonância conforme o caso) e biópsia de espessura total da lesão. O eczema benigno costuma ser bilateral, começa na aréola e melhora com corticoide.",
+  "porAlt": [
+   "Dermatite que não responde a corticoide após meses exige afastar Paget por biópsia.",
+   "Correta: lesão eczematosa unilateral refratária no mamilo é Paget até prova em contrário.",
+   "O eczema atópico costuma ser bilateral e responde ao tratamento tópico.",
+   "O papiloma intraductal se manifesta por descarga papilar, não por lesão eczematosa.",
+   "Sem flutuação, febre ou eritema difuso, não há quadro de mastite."
+  ]
+ }
+]

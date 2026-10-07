@@ -1,0 +1,827 @@
+[
+ {
+  "pid": "m25002",
+  "q": "Criança de 5 anos foi encontrada no quintal de casa correndo com um morcego na mão. O animal encontrava-se vivo. Não foram observadas lesões de pele ou mucosa na criança, bem como não foi observado nenhum tipo de secreção em contato com a criança. A família levou a criança para atendimento na UBS. Nesse caso, a conduta correta",
+  "alts": [
+   "consiste em não iniciar profilaxia e observar o animal por 10 dias.",
+   "requer profilaxia com vacina 4 doses + soro.",
+   "requer profilaxia com vacina 2 doses + soro.",
+   "requer profilaxia com vacina 1 dose + soro.",
+   "requer profilaxia com vacina 3 doses."
+  ],
+  "gab": 1,
+  "tema": "vigilancia",
+  "sub": "Profilaxia antirrábica após contato com morcego",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Nota Técnica nº 8/2022-CGZV/DEIDT/SVS/MS (atualização da profilaxia da raiva humana), 2022",
+  "coment": "Para o Ministério da Saúde, toda exposição a morcego é classificada como grave, porque a mordedura pode ser mínima e passar despercebida, e o morcego é hoje o principal transmissor de raiva humana no Brasil. A criança manipulou o animal com as mãos e não relata com segurança se foi mordida, então não é possível descartar o contato. A conduta é soro antirrábico (ou imunoglobulina) mais vacina em 4 doses (dias 0, 3, 7 e 14), esquema adotado pela Nota Técnica 8/2022. A observação do animal por 10 dias só vale para cão e gato, nunca para morcego ou outro mamífero silvestre.",
+  "porAlt": [
+   "Observar o animal por 10 dias vale apenas para cão e gato; morcego e outros silvestres não são observáveis e a exposição é sempre grave.",
+   "Correta: exposição a morcego é grave por definição, com indicação de soro (ou imunoglobulina) e 4 doses de vacina nos dias 0, 3, 7 e 14.",
+   "Duas doses de vacina correspondem à reexposição de quem já completou esquema prévio, situação em que o soro não é indicado.",
+   "Uma dose isolada não protege quem nunca foi vacinado; a exposição grave exige 4 doses de vacina associadas ao soro.",
+   "Três doses não correspondem ao esquema vigente de 4 doses e omitem o soro, indispensável na exposição grave."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 2
+  }
+ },
+ {
+  "pid": "m25004",
+  "q": "A febre amarela é uma doença infecciosa febril aguda, imunoprevenível, de evolução abrupta e gravidade variável, com elevada letalidade nas suas formas graves. A doença é causada por um vírus transmitido por mosquitos, e possui dois ciclos de transmissão (urbano e silvestre). A vacina é a principal ferramenta de prevenção da febre amarela. O Sistema Único de Saúde (SUS) oferta vacina contra a febre amarela para toda população. Desde abril de 2017, o Brasil adota o esquema vacinal de apenas uma dose durante toda a vida, medida que está de acordo com as recomendações da Organização Mundial de Saúde (OMS). Assinale a opção que apresenta uma contraindicação para a vacinação contra a febre amarela.",
+  "alts": [
+   "Crianças menores de 12 meses de idade.",
+   "Mulheres amamentando crianças menores de 9 meses de idade.",
+   "Pessoas que vivem com HIV e que têm contagem de células CD4 menor que 750.",
+   "Pessoas submetidas a tratamento com imunossupressores.",
+   "Pessoas com alergia a leite."
+  ],
+  "gab": 3,
+  "tema": "vigilancia",
+  "sub": "Contraindicações da vacina de febre amarela",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Normas e Procedimentos para Vacinação, 2014, com Manual dos Centros de Referência para Imunobiológicos Especiais, 6ª ed., 2023",
+  "coment": "A vacina de febre amarela é de vírus vivo atenuado, por isso é contraindicada em imunossupressão: corticoide em dose imunossupressora, quimioterapia, imunobiológicos, transplantados e outros imunossupressores. As demais opções distorcem os limites do PNI: a vacina é aplicada a partir dos 9 meses (contraindicada abaixo de 6 meses), a lactante de criança menor de 6 meses adia a vacina, a pessoa vivendo com HIV tem contraindicação com CD4 abaixo de 200 células/mm³ (entre 200 e 350 avalia-se caso a caso) e a alergia que contraindica é a anafilaxia a ovo ou gelatina, não ao leite.",
+  "porAlt": [
+   "A vacina é aplicada a partir dos 9 meses e contraindicada abaixo de 6 meses, então menores de 12 meses não formam grupo contraindicado.",
+   "O adiamento vale para lactantes de crianças menores de 6 meses, não de 9 meses, pelo risco de transmissão do vírus vacinal pelo leite.",
+   "O corte de CD4 que contraindica a vacina é abaixo de 200 células/mm³; com 750 células a pessoa vivendo com HIV pode ser vacinada.",
+   "Correta: vacina de vírus vivo atenuado é contraindicada em quem usa imunossupressores, pelo risco de doença vacinal grave.",
+   "Alergia a leite não contraindica; a restrição se refere a anafilaxia prévia a ovo, gelatina ou outro componente da vacina."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 4
+  }
+ },
+ {
+  "pid": "m25006",
+  "q": "O aleitamento materno é uma das prioridades do Governo Federal. O Ministério da Saúde recomenda a amamentação até os dois anos de idade ou mais, e que nos primeiros 6 meses, o bebê receba somente leite materno (aleitamento materno exclusivo), ou seja, sem necessidade de sucos, chás, água e outros alimentos. Uma contraindicação para a amamentação é",
+  "alts": [
+   "HIV.",
+   "hepatite C.",
+   "hepatite B.",
+   "zika.",
+   "febre amarela."
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Contraindicações ao aleitamento materno",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 23 (aleitamento materno e alimentação complementar), 2015, com PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2022",
+  "coment": "No Brasil, a infecção materna pelo HIV contraindica a amamentação, porque o leite transmite o vírus mesmo com terapia antirretroviral; o SUS garante fórmula infantil ao filho exposto e orienta a inibição da lactação com cabergolina. Também contraindicam HTLV-1 e HTLV-2 e a galactosemia clássica na criança. Hepatite B não contraindica (o recém-nascido recebe vacina e imunoglobulina nas primeiras 12 horas), hepatite C também não (suspende-se só se houver fissura com sangramento), e não há recomendação de interromper por zika. Febre amarela não figura entre as contraindicações; o que se adia é a vacina da lactante de criança menor de 6 meses.",
+  "porAlt": [
+   "Correta: no Brasil, mãe vivendo com HIV não deve amamentar, e o SUS fornece fórmula infantil e orienta inibir a lactação.",
+   "Hepatite C não contraindica a amamentação; orienta-se apenas suspender temporariamente se houver fissura com sangramento.",
+   "Hepatite B não contraindica, pois o recém-nascido recebe vacina e imunoglobulina nas primeiras 12 horas de vida.",
+   "Não há recomendação de interromper a amamentação por zika; os benefícios do aleitamento superam o risco teórico.",
+   "Febre amarela não consta entre as contraindicações; o que se adia é a vacinação da lactante de criança menor de 6 meses."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 6
+  }
+ },
+ {
+  "pid": "m25007",
+  "q": "A Lei nº 13.146, de 6 de julho de 2015, institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência). A lei considera pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas. A referida lei estabelece que a avaliação da deficiência, quando necessária, será biopsicossocial, realizada por equipe multiprofissional e interdisciplinar. Avalie se, nessa avaliação, os seguintes aspectos devem ser considerados: I. os impedimentos nas funções e nas estruturas do corpo; II. os fatores socioambientais, psicológicos e pessoais; III. a limitação no desempenho de atividades; IV. a restrição de participação. Devem ser considerados os aspectos apresentados em",
+  "alts": [
+   "I e II, apenas.",
+   "III e IV, apenas.",
+   "I, II e III, apenas.",
+   "II, III e IV, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "Avaliação biopsicossocial da deficiência",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 13.146/2015, Lei Brasileira de Inclusão da Pessoa com Deficiência, art. 2º",
+  "coment": "O art. 2º, § 1º, da Lei 13.146/2015 determina que a avaliação da deficiência, quando necessária, seja biopsicossocial, feita por equipe multiprofissional e interdisciplinar, considerando quatro aspectos: impedimentos nas funções e estruturas do corpo; fatores socioambientais, psicológicos e pessoais; limitação no desempenho de atividades; restrição de participação. A lista segue o modelo da Classificação Internacional de Funcionalidade (CIF), em que a deficiência resulta da interação entre o impedimento e as barreiras do ambiente, e não apenas da lesão. Por isso os quatro itens estão corretos.",
+  "porAlt": [
+   "Incompleta: omite a limitação no desempenho de atividades e a restrição de participação, também previstas no art. 2º.",
+   "Incompleta: deixa de fora os impedimentos do corpo e os fatores socioambientais, psicológicos e pessoais.",
+   "Incompleta: falta a restrição de participação, um dos quatro aspectos listados na lei.",
+   "Incompleta: exclui os impedimentos nas funções e estruturas do corpo, que também integram a avaliação.",
+   "Correta: o art. 2º, § 1º, da Lei 13.146/2015 lista exatamente os quatro aspectos, no modelo da CIF."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 7
+  }
+ },
+ {
+  "pid": "m25008",
+  "q": "A Portaria nº 1.130, de 5 de agosto de 2015, institui a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) no âmbito do Sistema Único de Saúde (SUS). Sobre a PNAISC, avalie as afirmativas as seguir. I. A PNAISC tem por objetivo promover e proteger a saúde da criança e o aleitamento materno, mediante a atenção e cuidados integrais e integrados da gestação aos 9 (nove) anos de vida, com especial atenção à primeira infância e às populações de maior vulnerabilidade, visando à redução da morbimortalidade e um ambiente facilitador à vida com condições dignas de existência e pleno desenvolvimento. II. A PNAISC se organiza a partir da Rede de Atenção à Saúde e de seus eixos estratégicos, mediante a articulação das ações e serviços de saúde disponíveis nas redes temáticas, em especial aquelas desenvolvidas na Rede de Saúde Materna Neonatal e Infantil e na Atenção Básica, esta como coordenadora do cuidado no território. III. Para fins de atendimento em serviços de pediatria no SUS, a PNAISC contemplará crianças e adolescentes até a idade de 18 anos, sendo esse limite etário passível de alteração de acordo com as normas e rotinas do estabelecimento de saúde responsável pelo atendimento. Está correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Integral à Saúde da Criança",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.130/2015 (PNAISC), consolidada na Portaria de Consolidação nº 2/2017",
+  "coment": "A Portaria 1.130/2015 define como objetivo da PNAISC a atenção integral da gestação aos 9 anos, com ênfase na primeira infância (0 a 5 anos) e nas populações vulneráveis (afirmativa I), e organiza a política a partir da Rede de Atenção à Saúde, com a Atenção Básica coordenando o cuidado no território (afirmativa II). O erro está na III: para fins de atendimento em serviços de pediatria no SUS, a política contempla crianças e adolescentes até 15 anos, e não 18, limite que pode ser alterado conforme as normas e rotinas do estabelecimento.",
+  "porAlt": [
+   "Incompleta: a afirmativa II também está correta, pois a PNAISC se organiza pela RAS com a Atenção Básica coordenando o cuidado.",
+   "Inclui a III, que está errada: o limite para atendimento em pediatria no SUS é 15 anos, não 18.",
+   "Correta: I e II reproduzem a portaria, e a III erra ao fixar em 18 anos o limite que a norma fixa em 15.",
+   "Exclui a I, que está correta, e inclui a III, que erra o limite etário do atendimento pediátrico.",
+   "A III está errada, porque a PNAISC contempla em serviços de pediatria crianças e adolescentes até 15 anos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 8
+  }
+ },
+ {
+  "pid": "m25009",
+  "q": "Pesquisa clínica é aquela realizada em seres humanos na qual o pesquisador interage direta ou indiretamente com os participantes, o que inclui o manejo dos seus dados e de seus materiais biológicos. Nesse sentido, são considerados tipos de pesquisa clínica: os estudos sobre os mecanismos de doença (etiopatogênese); as pesquisas translacionais; os estudos sobre conhecimento clínico, detecção, diagnóstico, prognóstico e história natural da doença; os estudos epidemiológicos; as intervenções terapêuticas, incluindo os ensaios clínicos de drogas, produtos biológicos, dispositivos e instrumentos; os estudos de prevenção (primária e secundária) e promoção da saúde; e as pesquisas comportamentais e de avaliação de serviços de saúde, incluindo os estudos de custo efetividade. (United States of America, 2019; PAULA et al., 2012). A pesquisa clínica tem, portanto, potencial para contribuir na elaboração de políticas públicas e na resolutividade de problemas conjunturais do país. Entre os problemas com que os pesquisadores podem deparar nesse processo destacam-se os seguintes, à exceção de um. Assinale-o.",
+  "alts": [
+   "A demanda crescente por novos produtos e serviços de saúde, resultante do envelhecimento da população e da rápida inovação tecnológica nas áreas de diagnóstico, tratamento e reabilitação de pacientes com doenças crônicas.",
+   "A persistência de desigualdades sociais que se refletem na qualidade de vida e da saúde, contribuindo para prevalência de doenças infecciosas e problemas derivados da pobreza, como a falta de saneamento.",
+   "Necessidade de otimizar o uso dos recursos financeiros disponíveis para o setor de saúde.",
+   "Necessidade de aprimoramento do Complexo Industrial da Saúde (CIS), com independência tecnológica e participação no esforço de importação e fortalecimento social do país.",
+   "Crescente importância dos agravos resultantes ou associados à urbanização e industrialização, tais como violência, acidentes e uso de álcool e outras drogas."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Pesquisa clínica e Complexo Industrial da Saúde",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Plano de Ação de Pesquisa Clínica no Brasil, 2020",
+  "coment": "O Plano de Ação de Pesquisa Clínica no Brasil (Ministério da Saúde, 2020) lista os problemas que a pesquisa pode ajudar a enfrentar: demanda crescente por produtos e serviços pelo envelhecimento e pela inovação tecnológica, desigualdades sociais com doenças ligadas à pobreza, necessidade de otimizar recursos, agravos da urbanização (violência, acidentes, álcool e drogas) e aprimoramento do Complexo Industrial da Saúde com independência tecnológica e participação no esforço de exportação e fortalecimento econômico do país. A alternativa adulterada troca exportação por importação, o que contradiz a própria ideia de independência tecnológica.",
+  "porAlt": [
+   "Consta do plano: envelhecimento e inovação tecnológica aumentam a demanda por produtos e serviços de saúde.",
+   "Consta do plano: desigualdades sociais mantêm doenças infecciosas e agravos ligados à pobreza, como a falta de saneamento.",
+   "Consta do plano: otimizar o uso dos recursos financeiros do setor é um dos problemas apontados.",
+   "Correta: o plano fala em esforço de exportação e fortalecimento econômico; importar contradiz a independência tecnológica.",
+   "Consta do plano: urbanização e industrialização aumentam violência, acidentes e uso de álcool e outras drogas."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 9
+  }
+ },
+ {
+  "pid": "m25010",
+  "q": "O Plano Nacional de Saúde (PNS), como instrumento orientador da política pública federal, deve, naturalmente, estar alinhado às demandas da sociedade e às orientações governamentais. É importante que o PNS busque convergência entre atores internos e externos, tenha coerência com os esforços para aprimoramento da gestão do MS e almeje alcançar a visão de futuro do órgão. Para o quadriênio 2024/2027, as diretrizes foram formalizadas por meio da Resolução nº 715, de 20 de julho de 2023, que dispõe sobre as orientações estratégicas para o PPA e para o PNS provenientes da 17ª Conferência Nacional de Saúde e sobre as prioridades para as ações e serviços públicos de saúde aprovadas pelo CNS. As opções a seguir apresentam objetivos do PNS, à exceção de um, que está errado. Assinale-o.",
+  "alts": [
+   "Ampliar a oferta e o acesso às ações e serviços da Atenção Especializada, conforme as necessidades de saúde da população, reduzindo as desigualdades de raça/etnia, de gênero, regionais e sociais, e promovendo a integralidade do cuidado.",
+   "Reduzir e controlar doenças e agravos passíveis de prevenção e controle, com enfoque na superação das desigualdades de acesso, regionais, sociais, de raça/etnia e de gênero.",
+   "Promover e qualificar a oferta de ações e serviços de saúde e saneamento ambiental, considerando os diferentes contextos étnico-culturais da população indígena, em articulação e fortalecimento dos saberes e práticas tradicionais.",
+   "Ampliar o acesso da população aos medicamentos, insumos estratégicos e serviços farmacêuticos, qualificando a assistência farmacêutica, articulada à pesquisa, à inovação e à produção nacional, regulação, com qualidade e uso adequado no Sistema Único de Saúde, reduzindo as iniquidades.",
+   "Fortalecer a atenção secundária e terciária, ampliando a cobertura da Estratégia Saúde da Família e da Saúde Bucal, com vistas à universalização do acesso, à abrangência do cuidado integral, à promoção da saúde, à prevenção de doenças e agravos e à redução de desigualdades de raça/etnia, de gênero, regionais e sociais."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Plano Nacional de Saúde 2024-2027",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Plano Nacional de Saúde 2024-2027, 2024, com Resolução CNS nº 715/2023",
+  "coment": "Os objetivos do PNS 2024-2027 seguem as diretrizes da 17ª Conferência Nacional de Saúde (Resolução CNS 715/2023) e incluem ampliar a atenção especializada, reduzir doenças preveníveis, qualificar a saúde indígena com respeito aos saberes tradicionais e ampliar a assistência farmacêutica. O objetivo ligado à Estratégia Saúde da Família trata de fortalecer a Atenção Primária, ampliando a cobertura da ESF e da Saúde Bucal. Fortalecer a atenção secundária e terciária por meio da ESF é incoerente, porque a ESF é o modelo prioritário da atenção primária, e por isso é a alternativa errada.",
+  "porAlt": [
+   "Objetivo do PNS: ampliar a Atenção Especializada conforme as necessidades, reduzindo desigualdades e promovendo integralidade.",
+   "Objetivo do PNS: reduzir e controlar doenças e agravos preveníveis, com foco na superação das desigualdades.",
+   "Objetivo do PNS: qualificar ações de saúde e saneamento para povos indígenas, articuladas aos saberes tradicionais.",
+   "Objetivo do PNS: ampliar o acesso a medicamentos e serviços farmacêuticos, articulado à produção nacional.",
+   "Correta: o objetivo original é fortalecer a Atenção Primária; ampliar a ESF não fortalece a atenção secundária e terciária."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 10
+  }
+ },
+ {
+  "pid": "m25013",
+  "q": "O Ministério da Saúde, considerando que a saúde da mulher é uma prioridade governamental, elaborou o documento “Política Nacional de Atenção Integral à Saúde da Mulher – Princípios e Diretrizes”, em parceria com diversos setores da sociedade, em especial com o movimento de mulheres, o movimento negro e o de trabalhadoras rurais, sociedades científicas, pesquisadores e estudiosos da área, organizações não governamentais, gestores do SUS e agências de cooperação internacional. Nesse sentido, reflete o compromisso com a implementação de ações de saúde que contribuam para a garantia dos direitos humanos das mulheres e reduzam a morbimortalidade por causas preveníveis e evitáveis. Conforme as Diretrizes da Política Nacional de Atenção Integral à Saúde da Mulher, é correto afirmar que",
+  "alts": [
+   "a atenção integral à saúde da mulher refere-se ao conjunto de ações de promoção, proteção, assistência e recuperação da saúde, executadas na atenção primária à saúde.",
+   "o SUS deverá garantir o acesso das mulheres a todos os níveis de atenção à saúde, no contexto da centralização, hierarquização e integração das ações e serviços.",
+   "a gestão da Política de Atenção à Saúde deverá estabelecer uma dinâmica seletiva, para atender às demandas emergentes ou demandas antigas, em todos os níveis assistenciais.",
+   "no âmbito do setor Saúde, a execução de ações será pactuada entre todos os níveis hierárquicos, visando a uma atuação mais abrangente e horizontal, além de permitir o ajuste às diferentes realidades regionais.",
+   "a elaboração, a execução e a avaliação das políticas de saúde da mulher não deverão nortear-se pela perspectiva de gênero, de raça e de etnia, e pela ampliação do enfoque, rompendo-se as fronteiras da saúde sexual e da saúde reprodutiva, para alcançar todos os aspectos da saúde da mulher."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Diretrizes da PNAISM",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Política Nacional de Atenção Integral à Saúde da Mulher: Princípios e Diretrizes, 2004",
+  "coment": "Entre as diretrizes da PNAISM (Ministério da Saúde, 2004) está a de que a execução das ações no setor Saúde seja pactuada entre todos os níveis hierárquicos, para uma atuação mais abrangente e horizontal, ajustada às realidades regionais. As outras alternativas alteram o texto original: a atenção integral é executada em todos os níveis da atenção, da básica à alta complexidade; o acesso se dá no contexto da descentralização; a dinâmica de gestão deve ser inclusiva; e a política deve, sim, nortear-se pela perspectiva de gênero, raça e etnia, ampliando o enfoque para além da saúde sexual e reprodutiva.",
+  "porAlt": [
+   "A diretriz diz que as ações são executadas em todos os níveis da atenção, da básica à alta complexidade, não só na APS.",
+   "O acesso a todos os níveis de atenção se dá no contexto da descentralização, não da centralização.",
+   "A gestão deve ter dinâmica inclusiva, para atender às demandas emergentes e antigas, e não seletiva.",
+   "Correta: reproduz a diretriz de pactuação entre todos os níveis, com atuação abrangente, horizontal e regionalizada.",
+   "A política deve nortear-se pela perspectiva de gênero, raça e etnia; a negação inverte o sentido da diretriz."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 13
+  }
+ },
+ {
+  "pid": "m25014",
+  "q": "O suicídio é um fenômeno complexo, multifacetado e de múltiplas determinações, que pode afetar indivíduos de diferentes origens, classes sociais, idades, orientações sexuais e identidades de gênero. Mas o suicídio pode ser prevenido! Saber reconhecer os sinais de alerta em si mesmo ou em alguém próximo a você pode ser o primeiro e mais importante passo. (Ministério da Saúde – Brasil) A Portaria nº 3.479, de 18 de dezembro de 2017, institui o Comitê para a elaboração e operacionalização do Plano Nacional de Prevenção do Suicídio no Brasil. Com base na referida portaria, avalie as afirmativas a seguir. I. Compete ao Comitê coordenar a construção de diagnósticos situacionais sobre o cenário relativo ao suicídio no Brasil. II. O Comitê ora instituído, no decorrer de suas atividades, poderá convidar eventualmente apoio de especialistas ou instituições afins no tema. III. As funções dos membros do Comitê serão remuneradas e o exercício dessas funções será considerado serviço público relevante. Está coreto o que se afirma em",
+  "alts": [
+   "I, II e III.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "II, apenas.",
+   "I e III, apenas."
+  ],
+  "gab": 1,
+  "tema": "raps",
+  "sub": "Comitê do Plano Nacional de Prevenção do Suicídio",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 3.479/2017, com Lei 13.819/2019 (Política Nacional de Prevenção da Automutilação e do Suicídio)",
+  "coment": "A Portaria 3.479/2017 instituiu o Comitê para elaborar e operacionalizar o Plano Nacional de Prevenção do Suicídio. Entre suas competências está coordenar diagnósticos situacionais sobre o suicídio no país (I), e o comitê pode convidar especialistas ou instituições afins para apoio (II). A III erra porque as funções dos membros não são remuneradas; o exercício é considerado serviço público relevante. Hoje o marco legal do tema é a Lei 13.819/2019, que criou a Política Nacional de Prevenção da Automutilação e do Suicídio, com notificação compulsória da violência autoprovocada.",
+  "porAlt": [
+   "A III está errada: a participação no comitê não é remunerada, embora seja considerada serviço público relevante.",
+   "Correta: I e II reproduzem a competência de diagnóstico situacional e a possibilidade de apoio externo previstas na portaria.",
+   "Exclui a I, que está correta, e inclui a III, que erra ao dizer que as funções são remuneradas.",
+   "Incompleta: a I também está correta, pois cabe ao comitê coordenar diagnósticos situacionais sobre o suicídio.",
+   "Inclui a III, errada, e exclui a II, que está correta quanto ao convite a especialistas e instituições."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 14
+  }
+ },
+ {
+  "pid": "m25015",
+  "q": "A bioética é um campo de estudo interdisciplinar que aborda questões éticas e morais relacionadas à vida, abrangendo a saúde humana, animal e ambiental, com foco em dilemas gerados pela medicina, pela biologia e pela tecnologia, que se baseia em princípios como autonomia, beneficência (fazer o bem), não maleficência (evitar o mal) e justiça para guiar decisões em áreas como aborto, eutanásia, engenharia genética, eutanásia e transplantes de órgãos. Conforme a Declaração Universal sobre Bioética e Direitos Humanos, as afirmativas a seguir estão corretas, à exceção de uma. Assinale-a.",
+  "alts": [
+   "Deve ser respeitada a autonomia dos indivíduos para tomar decisões, quando possam ser responsáveis por essas decisões e respeitem a autonomia dos demais.",
+   "Devem ser tomadas medidas especiais para proteger direitos e interesses dos indivíduos não capazes de exercer autonomia.",
+   "A dignidade humana, os direitos humanos e as liberdades fundamentais devem ser respeitados em sua totalidade.",
+   "Os benefícios diretos e indiretos a pacientes sujeitos de pesquisa e outros indivíduos afetados devem ser maximizados e qualquer dano possível a tais indivíduos deve ser minimizado, quando se trate da aplicação e do avanço do conhecimento científico, das práticas médicas e tecnologias associadas.",
+   "É seu objetivo promover o diálogo multidisciplinar e pluralístico sobre questões bioéticas entre todos os interessados, desde que façam parte do meio científico."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Declaração Universal sobre Bioética e Direitos Humanos",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "UNESCO. Declaração Universal sobre Bioética e Direitos Humanos, 2005",
+  "coment": "A Declaração da UNESCO (2005) traz entre seus princípios a dignidade humana e os direitos humanos respeitados em sua totalidade (art. 3), a maximização de benefícios com minimização de danos (art. 4), o respeito à autonomia de quem pode responder por suas decisões e a proteção especial de quem não pode exercê-la (art. 5). Entre os objetivos (art. 2), está promover o diálogo multidisciplinar e pluralístico sobre bioética entre todos os interessados e a sociedade como um todo. Restringir o diálogo ao meio científico contraria esse objetivo, e por isso é a afirmativa incorreta.",
+  "porAlt": [
+   "Está correta: reproduz o art. 5, que trata da autonomia e da responsabilidade individual.",
+   "Está correta: o art. 5 prevê medidas especiais para proteger quem não é capaz de exercer autonomia.",
+   "Está correta: o art. 3 exige respeito pleno à dignidade humana, aos direitos humanos e às liberdades fundamentais.",
+   "Está correta: o art. 4 trata de maximizar benefícios e minimizar danos na prática médica e na pesquisa.",
+   "Correta: é a afirmativa falsa, pois a declaração quer diálogo entre todos os interessados e a sociedade, não só o meio científico."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 15
+  }
+ },
+ {
+  "pid": "m25017",
+  "q": "Analise a sentença: Este princípio considera as pessoas como um todo, atendendo a todas as suas necessidades. Para isso, é importante a integração de ações, incluindo a promoção da saúde, a prevenção de doenças, o tratamento e a reabilitação. (https://www.gov.br/saude/pt-br/sus) A sentença representa o seguinte princípio do SUS:",
+  "alts": [
+   "integratividade.",
+   "descentralização.",
+   "universalidade.",
+   "integralidade.",
+   "hierarquização."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Princípios do SUS: integralidade",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º",
+  "coment": "A integralidade, definida no art. 7º da Lei 8.080/1990 como conjunto articulado e contínuo de ações preventivas e curativas, individuais e coletivas, em todos os níveis de complexidade, considera a pessoa como um todo e integra promoção, prevenção, tratamento e reabilitação. Universalidade é o acesso de todos aos serviços; descentralização e hierarquização são princípios organizativos da rede, ligados a quem gere e a como os serviços se distribuem por complexidade. Integratividade não é princípio do SUS.",
+  "porAlt": [
+   "Integratividade não existe como princípio do SUS; é um distrator que imita o nome do princípio correto.",
+   "Descentralização é princípio organizativo, com direção única em cada esfera de governo, sem relação com o cuidado integral.",
+   "Universalidade é a garantia de acesso a todas as pessoas, não a integração das ações de cuidado.",
+   "Correta: integralidade é ver a pessoa como um todo e articular promoção, prevenção, tratamento e reabilitação.",
+   "Hierarquização organiza os serviços por níveis de complexidade, sem definir o cuidado integral da pessoa."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 17
+  }
+ },
+ {
+  "pid": "m25018",
+  "q": "A saúde coletiva no Brasil está intrinsecamente ligada ao Sistema Único de Saúde (SUS), sendo o campo do saber e da prática que busca atender às necessidades sociais de saúde de populações inteiras, não se limitando à doença. Ela baseia-se na análise dos determinantes sociais e culturais da saúde, promovendo um cuidado integral, universal e equitativo. Avalie as afirmativas a seguir, com base nos determinantes sociais da saúde. I. Conforme a definição da Organização Mundial de Saúde (OMS), os determinantes sociais da saúde estão relacionados às condições em que uma pessoa vive e trabalha. Também podem ser considerados os fatores sociais, econômicos, culturais, étnicos/raciais, psicológicos e comportamentais que influenciam a ocorrência de problemas de saúde e fatores de risco à população, tais como moradia, alimentação, escolaridade, renda e emprego. II. Entre os desafios para entender a relação entre determinantes sociais e saúde está o estabelecimento de uma hierarquia de determinações entre os fatores mais gerais de natureza social, econômica, política e as mediações por meio das quais esses fatores incidem sobre a situação de saúde de grupos e pessoas, não havendo uma simples relação direta de causa-efeito. III. Todas as políticas que assegurem a redução das desigualdades sociais e que proporcionem melhores condições de mobilidade, trabalho e lazer são importantes neste processo, além da própria conscientização do indivíduo sobre sua participação pessoal no processo de produção da saúde e da qualidade de vida. Está correto o que se afirma em",
+  "alts": [
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I e III, apenas.",
+   "III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "epidemio",
+  "sub": "Determinantes sociais da saúde",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Comissão Nacional sobre Determinantes Sociais da Saúde (CNDSS). As causas sociais das iniquidades em saúde no Brasil, 2008",
+  "coment": "As três afirmativas estão corretas. A OMS e a CNDSS definem os determinantes sociais como as condições em que as pessoas vivem e trabalham, incluindo fatores sociais, econômicos, culturais, étnico-raciais, psicológicos e comportamentais (I). O principal desafio é estabelecer a hierarquia entre os determinantes mais gerais e as mediações pelas quais eles atingem grupos e pessoas, já que a relação não é de causa e efeito direta, como mostra o modelo em camadas de Dahlgren e Whitehead (II). Políticas que reduzam desigualdades e melhorem mobilidade, trabalho e lazer, somadas à participação do próprio indivíduo, fazem parte da produção de saúde (III).",
+  "porAlt": [
+   "Incompleta: a III também está correta, ao valorizar políticas de redução de desigualdade e a participação do indivíduo.",
+   "Incompleta: a I está correta, pois reproduz a definição de determinantes sociais adotada pela OMS e pela CNDSS.",
+   "Incompleta: a II está correta, pois a relação entre determinantes e saúde é mediada e hierarquizada.",
+   "Incompleta: I e II também estão corretas, e não apenas a III.",
+   "Correta: as três afirmativas descrevem bem o conceito, a hierarquia de mediações e as políticas sobre os determinantes."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 18
+  }
+ },
+ {
+  "pid": "m25019",
+  "q": "Com grande território e diversidade de ambientes e culturas, o Brasil conta com uma grande desigualdade socioeconômica, que impacta de forma considerável a saúde das comunidades rurais, em suas características e peculiaridades......É importante percebermos que diferentes formas de conceituar a ruralidade vão gerar impactos diferentes em nossa percepção da realidade da vida de milhões de pessoas. Conceitos equivocados em um passado recente transmitiram uma impressão de que as comunidades rurais estariam todas em processo de urbanização e que tendiam a acabar, dificultando a elaboração de políticas adequadas para os problemas dessas populações. (Fonte: Medicina Rural - Coordenador: Marcelo Pellizzaro Dias Afonso - Belo Horizonte NESCON - UFMG 2021 ). A respeito da ruralidade, avalie as afirmativas a seguir. I. As áreas rurais, em geral, têm densidade populacional proporcionalmente alta. II. Rural não é sempre sinônimo de agrícola/pecuária e nem tem exclusividade sobre essas atividades. III. Rural é, via de regra, monossetorial e monofuncional. Está correto o que se afirma em",
+  "alts": [
+   "II, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "Conceito de ruralidade",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Afonso MPD (coord.). Medicina Rural. NESCON/UFMG, 2021",
+  "coment": "No material do NESCON/UFMG sobre medicina rural (2021), o rural se caracteriza por baixa densidade populacional, e não alta, por isso a I está errada. Rural também não é sinônimo de atividade agropecuária, que pode existir em áreas urbanas, enquanto o campo abriga turismo, extrativismo, serviços e indústria (II correta). Pelo mesmo motivo, o rural contemporâneo é multissetorial e multifuncional, e a III erra ao chamá-lo de monossetorial e monofuncional. Entender essa diversidade evita políticas baseadas na ideia de que o rural estaria em extinção.",
+  "porAlt": [
+   "Correta: só a II está certa, pois rural não se confunde com agropecuária nem tem exclusividade sobre ela.",
+   "A I está errada: áreas rurais têm, em geral, baixa densidade populacional.",
+   "I e III estão erradas: o rural tem baixa densidade e é multissetorial e multifuncional.",
+   "A III está errada, porque o rural atual reúne várias atividades e funções, sendo multissetorial.",
+   "I e III estão erradas, então a combinação das três afirmativas não pode ser aceita."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 19
+  }
+ },
+ {
+  "pid": "m25020",
+  "q": "A fenilcetonúria (FNC) é uma doença autossômica recessiva causada por mutações no gene PAH que codifica a enzima hepática fenilalanina-hidroxilase (FAH) e atinge 1:10.000 recém-nascidos no mundo. Sobre a FNC, avalie as afirmativas a seguir. I. A triagem neonatal no Brasil é feita por intermédio do teste do pezinho, na primeira semana de vida. II. Mulheres com FNC ou hiperfenilalaninemia não-FNC devem receber, após a menarca, orientação especial quanto aos métodos anticoncepcionais e ao planejamento da gravidez. III. A dieta restrita em fenilalanina, associada ao uso de fórmula metabólica, no caso de pacientes responsivas ao dicloridrato de sapropterina, deve ser estabelecida antes e durante a gestação com o objetivo de evitar embriopatia por FNC ou síndrome da FNC materna. Está correto o que se afirma em",
+  "alts": [
+   "I, II e III.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I e II, apenas.",
+   "I, apenas."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Fenilcetonúria: triagem e gestação",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Fenilcetonúria, 2019",
+  "coment": "As três afirmativas estão de acordo com o PCDT da Fenilcetonúria do Ministério da Saúde. A triagem é feita pelo teste do pezinho do Programa Nacional de Triagem Neonatal, coletado na primeira semana de vida (idealmente entre o 3º e o 5º dia), para iniciar a dieta antes do dano neurológico. A fenilalanina elevada na gestante é teratogênica (síndrome da fenilcetonúria materna: microcefalia, deficiência intelectual, cardiopatia congênita), por isso a mulher com fenilcetonúria precisa de orientação contraceptiva desde a menarca e de dieta restrita em fenilalanina, com fórmula metabólica e, se responsiva, sapropterina, antes e durante a gravidez.",
+  "porAlt": [
+   "Correta: triagem na primeira semana, planejamento reprodutivo desde a menarca e dieta antes e durante a gestação constam do PCDT.",
+   "Incompleta: a II está correta, pois a fenilcetonúria materna exige orientação contraceptiva e planejamento da gravidez.",
+   "Incompleta: a I está correta, pois a triagem pelo teste do pezinho é feita na primeira semana de vida.",
+   "Incompleta: a III está correta, pois o controle metabólico deve começar antes da concepção e seguir na gestação.",
+   "Incompleta: II e III também estão corretas e tratam da prevenção da síndrome da fenilcetonúria materna."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 20
+  }
+ },
+ {
+  "pid": "m25022",
+  "q": "Testes sorológicos devem ser realizados nas gestantes para prevenir a transmissão vertical de infecções e outros agravos. Assinale a opção que indica a sorologia que deve ser realizada na primeira consulta do pré-natal (idealmente, no primeiro trimestre da gestação), no início do terceiro trimestre (28ª semana) e no momento do parto ou aborto, independentemente de exames anteriores.",
+  "alts": [
+   "Estreptococo do grupo B.",
+   "Hepatite B.",
+   "Toxoplasmose.",
+   "Hepatite C.",
+   "Sífilis."
+  ],
+  "gab": 4,
+  "tema": "obstetricia",
+  "sub": "Testagem para sífilis no pré-natal",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2022",
+  "coment": "Pelo PCDT de Transmissão Vertical (2022), a sífilis é testada na primeira consulta de pré-natal, no início do terceiro trimestre (28ª semana) e na admissão para parto ou aborto, independentemente de exames anteriores, além de após exposição de risco ou violência sexual. A repetição se justifica pela alta incidência de sífilis gestacional e pela possibilidade de reinfecção no fim da gestação, que levaria à sífilis congênita. Hepatites B e C entram no pré-natal sem essa regra de repetição no parto, a toxoplasmose é repetida só nas suscetíveis, e o estreptococo do grupo B é pesquisado por cultura, não por sorologia.",
+  "porAlt": [
+   "Estreptococo do grupo B é pesquisado por cultura retovaginal no fim da gestação, não por sorologia em três momentos.",
+   "Hepatite B não tem a repetição obrigatória no parto independentemente de exames anteriores; a suscetível deve ser vacinada no pré-natal.",
+   "Toxoplasmose é solicitada na primeira consulta e repetida só nas gestantes suscetíveis, não no momento do parto ou aborto.",
+   "Hepatite C é testada no pré-natal, sem a regra de repetir no parto ou aborto independentemente de resultados anteriores.",
+   "Correta: sífilis se testa na primeira consulta, na 28ª semana e no parto ou aborto, mesmo com exames anteriores negativos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 22
+  }
+ },
+ {
+  "pid": "m25023",
+  "q": "Trombofilia é a propensão ao desenvolvimento de eventos tromboembólicos, devido a anormalidades do sistema de coagulação. A manisfestação mais comum da trombofilia é o Tromboembolismo Venoso (TEV), e as gestantes são 4 a 5 vezes mais propensas a desenvolver TEV do que as mulheres não grávidas. A presença de trombofilias adquiridas e hereditárias aumentam o risco de TEV na gravidez. A respeito da trombofilia, avalie as afirmativas a seguir. I. A trombofilia adquirida mais relevante é a Síndrome Antifosfolipídeo (SAF), que pode cursar com manifestações venosas e arteriais. II. As formas de trombofilia hereditária, em ordem de relevância na gravidez, são: mutações genéticas no fator V de Leiden; mutação no gene da protrombina; deficiências de antitrombina, de proteína C e de proteína S. III. As trombofilias hereditárias têm maior relação com manifestações arteriais. Está correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 1,
+  "tema": "obstpat",
+  "sub": "Trombofilias na gestação",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "A síndrome antifosfolípide é a trombofilia adquirida mais relevante e pode causar trombose venosa e arterial, além de perdas gestacionais e pré-eclâmpsia (I correta). Entre as hereditárias, a ordem de relevância na gravidez considera frequência e risco: fator V de Leiden, mutação G20210A da protrombina e deficiências de antitrombina, proteína C e proteína S (II correta). As trombofilias hereditárias se relacionam sobretudo a eventos venosos (trombose venosa profunda e embolia pulmonar), e não arteriais, o que torna a III errada.",
+  "porAlt": [
+   "Incompleta: a II também está correta ao listar as trombofilias hereditárias relevantes na gravidez.",
+   "Correta: SAF é a principal adquirida, com eventos venosos e arteriais, e a lista de hereditárias da II está correta.",
+   "A III está errada: as trombofilias hereditárias associam-se principalmente a tromboembolismo venoso.",
+   "Exclui a I, correta, e inclui a III, errada quanto ao predomínio arterial das hereditárias.",
+   "A III está errada, porque as hereditárias se manifestam sobretudo por trombose venosa, não arterial."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 23
+  }
+ },
+ {
+  "pid": "m25024",
+  "q": "Paciente de 12 anos com quadro crônico de diarreia com sangue. Refere dor abdominal em cólica, tenesmo, urgência evacuatória e exsudato mucopurulento nas fezes. Foi diagnosticado com retocolite ulcerativa e apresenta doença refratária a corticoide e sem resposta à azatioprina. A droga de escolha para o tratamento do paciente, entre as seguintes, é:",
+  "alts": [
+   "tofacitinibe.",
+   "meloxicam.",
+   "infliximabe.",
+   "naproxeno.",
+   "vedolizumabe."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Retocolite ulcerativa pediátrica refratária",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Turner D et al. Management of Paediatric Ulcerative Colitis, Part 1: Ambulatory Care (ECCO/ESPGHAN), 2018",
+  "coment": "Na retocolite ulcerativa pediátrica dependente ou refratária a corticoide e sem resposta a tiopurina (azatioprina), a diretriz ECCO/ESPGHAN (2018) indica terapia anti-TNF, e o infliximabe é o biológico de escolha, aprovado para crianças a partir de 6 anos e com dados pediátricos robustos. Vedolizumabe e tofacitinibe são opções de segunda linha após falha do anti-TNF, com uso fora de bula ou menor evidência em crianças. Anti-inflamatórios não esteroides, como naproxeno e meloxicam, não tratam a doença e podem precipitar crises.",
+  "porAlt": [
+   "Tofacitinibe é inibidor de JAK reservado à falha de anti-TNF, sem aprovação ampla para uso pediátrico na retocolite.",
+   "Meloxicam é anti-inflamatório não esteroide, não trata a retocolite e pode desencadear exacerbação.",
+   "Correta: na doença refratária a corticoide e tiopurina, o anti-TNF infliximabe é o biológico de escolha na criança.",
+   "Naproxeno é anti-inflamatório não esteroide e deve ser evitado, pois pode agravar a doença inflamatória intestinal.",
+   "Vedolizumabe é opção de segunda linha após falha do anti-TNF, com menos dados e uso fora de bula em crianças."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 24
+  }
+ },
+ {
+  "pid": "m25025",
+  "q": "A Síndrome do Ovário Policístico (SOP) é um distúrbio hormonal comum caracterizado por irregularidade menstrual, excesso de hormônios masculinos (androgênios) e ovários com pequenos cistos (folículos não maduros). O diagnóstico precoce e o tratamento, que inclui alterações no estilo de vida (alimentação e exercício) e acompanhamento médico, são cruciais para reduzir complicações futuras. Sobre a SOP, avalie as afirmativas a seguir. I. Os cânceres de ovário e de mama têm alta taxa de associação com a SOP. II. As principais manifestações incluem acne, hirsutismo, alopecia, alterações menstruais e infertilidade e alterações metabólicas. III. As mulheres com SOP apresentam prevalências mais altas de fatores de risco para doenças cardiovasculares. Está correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Síndrome dos ovários policísticos: manifestações e riscos",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome (Teede et al.), 2023",
+  "coment": "A SOP se manifesta por hiperandrogenismo (acne, hirsutismo, alopecia), disfunção ovulatória (irregularidade menstrual, infertilidade) e alterações metabólicas, como resistência à insulina, obesidade e dislipidemia (II correta). Essas alterações elevam a prevalência de fatores de risco cardiovascular, e a diretriz internacional de 2023 recomenda rastrear glicemia, lipídios e pressão arterial (III correta). A I está errada: a associação relevante é com câncer de endométrio, pela anovulação crônica com estímulo estrogênico sem oposição da progesterona; não há aumento consistente de câncer de mama nem de ovário.",
+  "porAlt": [
+   "A I está errada, pois câncer de ovário e de mama não têm associação forte com a SOP; o risco aumentado é de endométrio.",
+   "Inclui a I, errada, e omite a III, que está correta quanto ao risco cardiovascular.",
+   "Inclui a I, errada, e omite a II, que descreve corretamente as manifestações clínicas da SOP.",
+   "Correta: as manifestações da II e o aumento de fatores de risco cardiovascular da III estão corretos.",
+   "A I está errada, porque o câncer associado à SOP é o de endométrio, não os de ovário e mama."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 25
+  }
+ },
+ {
+  "pid": "m25028",
+  "q": "Criança de 5 anos apresentando lesões avermelhadas com centros esbranquiçados no interior da boca há 7 dias, lesões exantemáticas iniciadas há 3 dias na face, e, no momento, com exantema no corpo inteiro, febre de 39 graus, conjuntivite, queda do estado geral, congestão nasal, e tosse seca. Nesse caso, o diagnóstico é",
+  "alts": [
+   "rubéola.",
+   "exantema súbito.",
+   "sarampo.",
+   "eritema infeccioso.",
+   "escarlatina."
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Sarampo: diagnóstico clínico",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "A tríade de tosse, coriza e conjuntivite com febre alta, seguida de exantema maculopapular que começa na face e desce para o corpo inteiro, define o sarampo. As lesões esbranquiçadas sobre base avermelhada na mucosa oral são as manchas de Koplik, sinal patognomônico do pródromo. A criança fica com estado geral comprometido no pico do exantema. O caso é de notificação imediata (em até 24 horas), com coleta de sorologia e swab para RT-PCR, vitamina A conforme a idade e bloqueio vacinal dos contatos.",
+  "porAlt": [
+   "Rubéola tem pródromo leve, adenomegalia retroauricular e occipital e exantema discreto, sem queda do estado geral nem Koplik.",
+   "Exantema súbito ocorre em lactentes, com febre alta que cede quando surge o exantema no tronco, sem catarro respiratório.",
+   "Correta: febre alta, tosse, coriza, conjuntivite, Koplik e exantema craniocaudal definem o sarampo.",
+   "Eritema infeccioso tem face esbofeteada e exantema rendilhado, com estado geral preservado e pouca febre.",
+   "Escarlatina tem exantema áspero em lixa, língua em framboesa e faringite estreptocócica, sem conjuntivite nem Koplik."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 28
+  }
+ },
+ {
+  "pid": "m25031",
+  "q": "Gestante de 34 semanas em acompanhamento no ambulatório de gestação de alto risco, deu entrada para atendimento no PS com quadro de cefaleia intensa há 8 horas, vômitos, edema nas mãos e pés, PA 165 x 95 mmHg e turvação visual. Teve síncope seguida de crise convulsiva tônico-clônica. A droga de escolha para o tratamento dessa paciente é",
+  "alts": [
+   "valproato de sódio.",
+   "fenitoína.",
+   "prometazina.",
+   "sulfato de magnésio.",
+   "gluconato de cálcio."
+  ],
+  "gab": 3,
+  "tema": "obstpat",
+  "sub": "Eclâmpsia: anticonvulsivante de escolha",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Gestação de Alto Risco, 2022",
+  "coment": "Gestante de 34 semanas com PA 165 x 95 mmHg, cefaleia intensa, turvação visual e convulsão tônico-clônica tem eclâmpsia. O sulfato de magnésio é a droga de escolha para tratar a crise e prevenir novas convulsões, superior à fenitoína e aos benzodiazepínicos em ensaios randomizados. Esquemas usuais: Zuspan (4 g IV de ataque e 1 g/h de manutenção) ou Pritchard (ataque IV associado a doses intramusculares). Durante o uso, vigiam-se reflexo patelar, diurese e frequência respiratória; o gluconato de cálcio é o antídoto da intoxicação. Depois de estabilizar, controla-se a pressão e programa-se o parto.",
+  "porAlt": [
+   "Valproato de sódio não tem papel na eclâmpsia e é teratogênico; o anticonvulsivante de escolha é o magnésio.",
+   "Fenitoína é inferior ao sulfato de magnésio na prevenção de recorrência e só se usa quando o magnésio é contraindicado.",
+   "Prometazina é anti-histamínico com efeito antiemético, sem ação para controlar ou prevenir convulsões eclâmpticas.",
+   "Correta: sulfato de magnésio é a droga de escolha para tratar a crise e prevenir novas convulsões na eclâmpsia.",
+   "Gluconato de cálcio é o antídoto da intoxicação por magnésio, não o tratamento da convulsão."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 31
+  }
+ },
+ {
+  "pid": "m25033",
+  "q": "A insuficiência renal aguda (IRA) é uma síndrome caracterizada por diminuição relativamente rápida da função renal, levando ao acúmulo de água, solutos cristaloides e metabólitos nitrogenados no organismo. A oligúria (débito urinário < 400 mL/dia) é comum, mas, em alguns casos, o débito urinário pode exceder esse limite (IRA não-oligúrica). A interrupção completa do débito urinário (anúria) é rara. Um agente etiológico de risco para insuficiência renal aguda de origem ocupacional é",
+  "alts": [
+   "a amônia.",
+   "o monóxido de carbono.",
+   "o mercúrio inorgânico.",
+   "a radiação ionizante.",
+   "o chumbo."
+  ],
+  "gab": 2,
+  "tema": "trabalho",
+  "sub": "Nefrotoxicidade ocupacional por mercúrio",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Doenças relacionadas ao trabalho: manual de procedimentos para os serviços de saúde, 2001",
+  "coment": "O manual de doenças relacionadas ao trabalho do Ministério da Saúde lista o mercúrio inorgânico entre os agentes ocupacionais de insuficiência renal aguda: os sais de mercúrio lesam o túbulo proximal e causam necrose tubular aguda, em exposições da indústria química, da fabricação de lâmpadas e termômetros e do garimpo. O chumbo também é nefrotóxico, mas de forma crônica (nefropatia túbulo-intersticial, gota saturnina). Monóxido de carbono, amônia e radiação ionizante têm outros alvos principais: hipóxia tecidual, irritação das vias aéreas e lesão hematológica e cutânea.",
+  "porAlt": [
+   "Amônia é gás irritante cujo alvo principal é a via aérea, sem papel relevante como causa ocupacional de lesão renal aguda.",
+   "Monóxido de carbono causa hipóxia tecidual pela carboxi-hemoglobina, com alvo principal no sistema nervoso e no coração.",
+   "Correta: o mercúrio inorgânico é nefrotóxico tubular e consta como agente de insuficiência renal aguda de origem ocupacional.",
+   "Radiação ionizante lesa medula óssea, pele e gônadas; a nefropatia actínica é tardia e ligada à radioterapia.",
+   "Chumbo causa nefropatia túbulo-intersticial crônica, e não a forma aguda típica das exposições ocupacionais."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 33
+  }
+ },
+ {
+  "pid": "m25034",
+  "q": "O transtorno esquizoafetivo é uma condição de saúde mental que combina sintomas de esquizofrenia e transtornos de humor, como depressão ou mania. Ele é caracterizado pela presença de sintomas psicóticos (como delírios e alucinações) juntamente com alterações significativas de humor. O tratamento é individualizado, dependendo da intensidade e do tipo de sintomas (bipolar ou depressivo). Em alguns casos, pode ser necessária a internação para segurança e avaliação. Considerando os PCDT do Ministério da Saúde, a seguinte droga não é preconizada para tratamento do transtorno esquizoafetivo:",
+  "alts": [
+   "propranolol.",
+   "clonazepan.",
+   "haloperidol.",
+   "biperideno.",
+   "clozapina."
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Transtorno esquizoafetivo: medicamentos do PCDT",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas do Transtorno Esquizoafetivo, 2014",
+  "coment": "O PCDT do Transtorno Esquizoafetivo (2014) baseia o tratamento em antipsicóticos, como haloperidol, clorpromazina, risperidona, olanzapina, quetiapina, ziprasidona e, nos casos refratários, clozapina. O protocolo prevê ainda medicamentos para efeitos adversos dos antipsicóticos: biperideno para sintomas extrapiramidais e propranolol para acatisia. Benzodiazepínicos como o clonazepam não fazem parte do protocolo, pois não tratam o transtorno de base e trazem risco de dependência; podem ser usados pontualmente na agitação, fora do escopo do PCDT.",
+  "porAlt": [
+   "Propranolol consta do protocolo para tratar a acatisia induzida por antipsicóticos.",
+   "Correta: o clonazepam não é preconizado pelo PCDT, que se baseia em antipsicóticos e em medicamentos para efeitos adversos.",
+   "Haloperidol é antipsicótico típico incluído no PCDT e disponível no SUS.",
+   "Biperideno consta do protocolo para manejar sintomas extrapiramidais causados pelos antipsicóticos.",
+   "Clozapina é preconizada nos casos refratários a pelo menos dois antipsicóticos usados em dose e tempo adequados."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 34
+  }
+ },
+ {
+  "pid": "m25037",
+  "q": "O Diabetes Mellitus (DM) pode ser definido como um conjunto de alterações metabólicas caracterizado por níveis sustentadamente elevados de glicemia, decorrentes de deficiência na produção de insulina ou de sua ação, levando a complicações de longo prazo. O termo “tipo 2” é usado para designar um tipo de diabetes que tem como denominador comum uma relativa e progressiva deficiência de secreção de insulina associada a uma resistência à ação de insulina. Assinale a opção que apresenta um critério para o rastreamento de DM2 em indivíduos assintomáticos com sobrepeso.",
+  "alts": [
+   "Mulheres com gestação prévia com feto < 3 kg ou com diagnóstico de DM gestacional.",
+   "Colesterol HDL > 35 mg/dL.",
+   "Triglicerídeos > 230.",
+   "Familiar em primeiro ou segundo grau com DM.",
+   "Mulheres com síndrome dos ovários policísticos."
+  ],
+  "gab": 4,
+  "tema": "rastreamento",
+  "sub": "Rastreamento de DM2 em adultos com sobrepeso",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "American Diabetes Association. Standards of Care in Diabetes, 2026",
+  "coment": "Adultos com sobrepeso ou obesidade (IMC ≥ 25 kg/m², ou ≥ 23 em asiáticos) devem ser rastreados para DM2 quando têm pelo menos um fator de risco adicional, segundo a ADA (2026). Entre eles estão: síndrome dos ovários policísticos, parente de primeiro grau com diabetes, HDL abaixo de 35 mg/dL ou triglicerídeos acima de 250 mg/dL, hipertensão, doença cardiovascular, sedentarismo, acantose nigricans e história de diabetes gestacional ou de recém-nascido com mais de 4 kg. As alternativas erradas invertem ou deslocam esses cortes.",
+  "porAlt": [
+   "O fator de risco é ter tido recém-nascido com mais de 4 kg, não menos de 3 kg; a alternativa mistura um critério certo com um errado.",
+   "O critério é HDL abaixo de 35 mg/dL, não acima, pois é o HDL baixo que se associa à resistência à insulina.",
+   "O corte de triglicerídeos usado nos critérios de rastreamento é acima de 250 mg/dL, não 230.",
+   "Conta apenas o parente de primeiro grau com diabetes; o segundo grau não entra no critério.",
+   "Correta: a síndrome dos ovários policísticos, ligada à resistência insulínica, indica rastreamento de DM2 no adulto com sobrepeso."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 37
+  }
+ },
+ {
+  "pid": "m25038",
+  "q": "A Linha de Cuidado do Adulto com Hipertensão Arterial Sistêmica (HAS) é um guia do Ministério da Saúde do Brasil que organiza o atendimento e o cuidado para pessoas com HAS, promovendo um atendimento padronizado e centrado no paciente. O cuidado envolve estilo de vida saudável (alimentação, atividade física, controle de peso, não fumar, moderação do álcool), acompanhamento médico e de outros profissionais de saúde, e medicação anti-hipertensiva, quando necessária, sempre adaptada ao indivíduo. Considerando a estratificação de risco global do paciente hipertenso, assinale a opção que apresenta uma situação de risco moderado.",
+  "alts": [
+   "Paciente com 4 fatores de risco e PA normal alta.",
+   "Paciente com diabetes e PA normal alta.",
+   "Paciente com 3 fatores de risco e HAS estágio I.",
+   "Paciente com 2 fatores de risco e HAS estágio II.",
+   "Paciente sem fator de risco e HAS estágio III."
+  ],
+  "gab": 0,
+  "tema": "cronicas",
+  "sub": "Estratificação de risco na hipertensão",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Linha de Cuidado do Adulto com Hipertensão Arterial Sistêmica, 2021, com Diretrizes Brasileiras de Hipertensão Arterial (SBC), 2020",
+  "coment": "A Linha de Cuidado do Ministério da Saúde adota a estratificação das Diretrizes Brasileiras de 2020, que cruza o nível pressórico com fatores de risco, lesão de órgão-alvo, doença renal crônica, diabetes e doença cardiovascular. Com PA normal alta (130 a 139 por 85 a 89 mmHg), 3 ou mais fatores de risco conferem risco moderado. Já diabetes com PA normal alta, estágio 1 com 3 ou mais fatores, estágio 2 com 1 a 2 fatores e qualquer estágio 3 são de alto risco. A estratificação define metas e a intensidade do acompanhamento na APS.",
+  "porAlt": [
+   "Correta: PA normal alta com 3 ou mais fatores de risco (aqui, 4) corresponde a risco moderado.",
+   "Diabetes com PA normal alta já classifica o paciente como alto risco, e não moderado.",
+   "Hipertensão estágio 1 com 3 ou mais fatores de risco é classificada como alto risco.",
+   "Hipertensão estágio 2 com 1 a 2 fatores de risco já é alto risco na estratificação adotada.",
+   "Hipertensão estágio 3 é alto risco mesmo sem nenhum fator de risco adicional."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 38
+  }
+ },
+ {
+  "pid": "m25039",
+  "q": "De acordo com a Organização Mundial da Saúde (OMS), a extensão e a gravidade da crise da obesidade são comparadas apenas à negligência e ao estigma enfrentados pelas pessoas com obesidade. No mundo, sobrepeso e obesidade afetam mais de 2 bilhões de adultos, e a prevalência quase triplicou em 40 anos. Mudanças ambientais e sociais resultaram na alteração dos padrões alimentares e de atividade física. Apesar da existência de políticas públicas para esses dois fatores de proteção, o constante incentivo ao consumo de alimentos e bebidas ultraprocessados prejudicam a prevenção e o controle da obesidade. Sobre os métodos de tratamento para obesidade, assinale a afirmativa correta.",
+  "alts": [
+   "Na atenção ao indivíduo com sobrepeso ou obesidade é necessária uma contínua ação de Vigilância Alimentar e Nutricional (VAN) para identificação dos casos, estratificação de risco e organização da oferta de cuidado. A VAN deve ser realizada exclusivamente na Rede de Atenção Primária em Saúde.",
+   "Os usos dos medicamentos orlistate e sibutramina no tratamento de sobrepeso e obesidade receberam recomendação favorável à incorporação pela Conitec.",
+   "O tratamento da obesidade não tem como objetivo atingir um IMC correspondente à eutrofia. O critério para perda de peso bem-sucedida é a manutenção de uma perda ponderal igual ou superior a 10% do peso inicial após 1 ano.",
+   "Tratamento cirúrgico é indicado para indivíduos que apresentem IMC > 35 kg/m², com ou sem comorbidades, sem sucesso no tratamento clínico longitudinal realizado, na Atenção Básica e/ou na Atenção Ambulatorial Especializada, por no mínimo dois anos e que tenham seguido protocolos clínicos.",
+   "A obesidade abdominal tem baixa sensibilidade aos efeitos da atividade física regular. O tecido adiposo visceral é reduzido lentamente quando cumpridas as recomendações de prática de exercício físico, geralmente após perda de 5% do peso corporal."
+  ],
+  "gab": 2,
+  "tema": "cronicas",
+  "sub": "Tratamento da obesidade no SUS",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas de Sobrepeso e Obesidade em Adultos, 2020",
+  "coment": "O PCDT de Sobrepeso e Obesidade em Adultos (2020) afirma que o tratamento não busca levar o IMC à eutrofia e considera bem-sucedida a perda de 10% ou mais do peso inicial mantida após 1 ano, meta que já reduz o risco cardiometabólico. Os erros das demais: a vigilância alimentar e nutricional ocorre em todos os pontos da rede, não só na APS; a Conitec recomendou não incorporar orlistate e sibutramina; nas regras do SUS, IMC acima de 35 kg/m² só indica cirurgia se houver comorbidade (sem ela, o corte é 40); e a gordura visceral responde bem à atividade física, mesmo com pouca perda de peso.",
+  "porAlt": [
+   "A vigilância alimentar e nutricional deve ocorrer em todos os pontos de atenção da rede, não exclusivamente na APS.",
+   "A Conitec recomendou não incorporar orlistate e sibutramina ao SUS, por benefício modesto e perfil de segurança.",
+   "Correta: o objetivo não é a eutrofia, e o sucesso é manter perda de 10% ou mais do peso inicial após 1 ano.",
+   "IMC acima de 35 kg/m² sem comorbidades não indica cirurgia; nessa faixa ela exige comorbidade associada.",
+   "A gordura visceral é muito sensível ao exercício regular e diminui mesmo antes de perda ponderal significativa."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Medicina de Família e Comunidade",
+   "ex": "enare25mfc",
+   "n": 39
+  }
+ }
+]

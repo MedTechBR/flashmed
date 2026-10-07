@@ -1,0 +1,1091 @@
+[
+ {
+  "pid": "p24001",
+  "q": "Um recém-nascido com 24 horas de vida foi submetido ao teste da oximetria de pulso (teste do coraçãozinho). A saturação de O2 foi de 92% no membro superior direito e 91% no membro inferior esquerdo na primeira aferição. Diante desse resultado, a criança deverá:",
+  "alts": [
+   "ter alta, pois o teste foi negativo;",
+   "realizar avaliação cardiológica, pois o teste foi positivo;",
+   "realizar avaliação cardiológica, pois o teste foi duvidoso;",
+   "repetir o teste após uma hora, pois o teste foi duvidoso;",
+   "realizar avaliação cardiológica após a alta, pois o teste foi positivo."
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Teste do coraçãozinho alterado",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Portaria SCTIE/MS nº 20/2014 (oximetria de pulso na triagem neonatal), com Sociedade Brasileira de Pediatria, Diagnóstico precoce de cardiopatia congênita crítica: oximetria de pulso como ferramenta de triagem neonatal, 2011",
+  "coment": "O teste do coraçãozinho mede a SpO2 no membro superior direito (pré-ductal) e em um dos membros inferiores (pós-ductal) entre 24 e 48 horas de vida. É normal quando as duas medidas são iguais ou maiores que 95% e a diferença entre elas é menor que 3 pontos. Medida menor que 95% ou diferença de 3 pontos ou mais torna a primeira aferição alterada, e a conduta é repetir o teste em 1 hora. Só se o resultado alterado se mantiver na repetição a criança faz ecocardiograma antes da alta. Aqui houve 92% e 91%: primeira medida abaixo de 95%, então se repete após 1 hora.",
+  "porAlt": [
+   "Saturações de 92% e 91% estão abaixo do limiar de 95%, portanto o teste não é negativo e a alta não está liberada.",
+   "Uma única aferição alterada não fecha o teste como positivo; o protocolo exige repetir em 1 hora antes de indicar ecocardiograma.",
+   "O resultado alterado na primeira medida leva à repetição em 1 hora, e não direto à avaliação cardiológica.",
+   "Correta: com SpO2 abaixo de 95% na primeira aferição, o teste é repetido em 1 hora; persistindo alterado, faz-se ecocardiograma.",
+   "Teste positivo pede ecocardiograma antes da alta, não depois, e aqui ainda falta a repetição."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 1
+  }
+ },
+ {
+  "pid": "p24003",
+  "q": "Uma lactente de 8 meses, com febre de 38,5 °C, coriza e tosse, foi levada ao posto de saúde para ser vacinada para influenza pela primeira vez. Considerando o estado dessa lactente, a equipe do posto de saúde deve:",
+  "alts": [
+   "aguardar a remissão do quadro febril para vacinar a criança;",
+   "vacinar a criança com dose única da vacina;",
+   "vacinar a criança e indicar seu retorno ao posto após 1 mês para dose de reforço;",
+   "aguardar 15 dias após o desaparecimento de todos os sintomas para vacinar a criança;",
+   "vacinar a criança após 12 meses, de acordo com o Programa Nacional de Imunizações."
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Vacina influenza e doença febril",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Normas e Procedimentos para Vacinação, 2014, com Calendário Nacional de Vacinação da Criança (PNI), 2025",
+  "coment": "Doença febril aguda moderada ou grave é motivo para adiar a vacinação até a resolução do quadro. A medida não decorre de risco da vacina: evita que um evento adverso seja confundido com a evolução da doença, ou o contrário. Febre de 38,5 °C com sintomas respiratórios justifica esperar. Quando for vacinada, por ser a primeira vez que recebe a vacina influenza e ter menos de 9 anos, a lactente fará duas doses com intervalo de 30 dias. A influenza integra o calendário de rotina para crianças de 6 meses a menores de 6 anos desde 2024. Infecção leve sem febre não contraindica a vacina.",
+  "porAlt": [
+   "Correta: doença febril aguda adia a vacinação até a melhora do quadro, sem prejuízo do esquema.",
+   "Na primovacinação contra influenza abaixo de 9 anos o esquema é de duas doses, não dose única, e a febre atual pede adiamento.",
+   "O intervalo de 30 dias entre as doses está certo, mas vacinar durante o quadro febril contraria a recomendação de adiar.",
+   "Não existe prazo de 15 dias após os sintomas; basta a resolução do quadro febril para vacinar.",
+   "A vacina influenza é indicada a partir dos 6 meses; não há motivo para esperar os 12 meses."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 3
+  }
+ },
+ {
+  "pid": "p24004",
+  "q": "Uma criança de 2 anos, portadora de síndrome de Down, sem queixas, compareceu à consulta de rotina. De acordo com o protocolo de acompanhamento dos portadores de síndrome de Down, o médico deve:",
+  "alts": [
+   "solicitar acompanhamento com neuropediatra;",
+   "solicitar tomografia computadorizada do crânio;",
+   "solicitar avaliação da acuidade auditiva e visual;",
+   "dar orientações gerais, sem necessidade de exames complementares ou encaminhamento;",
+   "encaminhar o paciente para a nutricionista pelo maior risco de déficit pôndero-estatural."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Seguimento na síndrome de Down",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Diretrizes de Atenção à Pessoa com Síndrome de Down, 2013, com AAP, Health Supervision for Children and Adolescents With Down Syndrome, 2022",
+  "coment": "Na síndrome de Down, a perda auditiva (condutiva por otite serosa e neurossensorial) e os problemas visuais (erros de refração, estrabismo, catarata, ceratocone) são muito frequentes e prejudicam fala, aprendizado e desenvolvimento. Por isso o seguimento prevê avaliação auditiva e oftalmológica periódica, em geral anual, mesmo sem queixas, além de TSH anual. A consulta de rotina aos 2 anos não se limita a orientações gerais. Neuroimagem e encaminhamento ao neuropediatra não são de rotina, e o risco nutricional mais comum com o crescimento é o sobrepeso, avaliado em curvas próprias.",
+  "porAlt": [
+   "Neuropediatra não é encaminhamento de rotina; fica para crises convulsivas ou outras alterações neurológicas específicas.",
+   "Tomografia de crânio não faz parte do seguimento de rotina e expõe a criança à radiação sem indicação.",
+   "Correta: as diretrizes preveem avaliação auditiva e visual periódica, em geral anual, mesmo em criança assintomática.",
+   "A criança com síndrome de Down tem rastreamentos programados (audição, visão, tireoide), então a consulta não se resume a orientações.",
+   "O risco mais relevante a partir da infância é de sobrepeso e obesidade, avaliado em curvas específicas, não de déficit pôndero-estatural."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 4
+  }
+ },
+ {
+  "pid": "p24005",
+  "q": "Um escolar de 9 anos é levado à emergência com tosse seca, taquidispneia moderada, tiragens intercostais, acianótico em ar ambiente e com sibilos difusos à ausculta pulmonar. Esse paciente deve ser medicado com:",
+  "alts": [
+   "dropropizina xarope;",
+   "nebulização com acetilcisteína;",
+   "ambroxol xarope;",
+   "salbutamol spray utilizado com espaçador;",
+   "nebulização com brometo de ipratrópio."
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Crise de asma moderada",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "GINA 2026 (Global Initiative for Asthma)",
+  "coment": "Taquidispneia moderada, tiragens e sibilos difusos sem cianose descrevem crise de asma moderada. O tratamento inicial é o beta-2 agonista de curta ação (salbutamol) inalado, de preferência por aerossol dosimetrado com espaçador, que é tão eficaz quanto a nebulização, age rápido e causa menos taquicardia. Repete-se a cada 20 minutos na primeira hora, com corticoide sistêmico precoce e oxigênio se a SpO2 cair abaixo de 94%. O ipratrópio é adjuvante na crise grave, não substitui o salbutamol. Antitussígenos e mucolíticos não têm papel na crise (GINA 2026).",
+  "porAlt": [
+   "Dropropizina é antitussígeno, não trata a broncoconstrição e pode mascarar a evolução da crise.",
+   "Acetilcisteína nebulizada pode piorar o broncoespasmo e não tem papel na crise de asma.",
+   "Ambroxol é mucolítico sem efeito broncodilatador e não trata a obstrução aguda.",
+   "Correta: o beta-2 agonista de curta ação com espaçador é o tratamento de primeira linha da crise moderada.",
+   "Ipratrópio é adjuvante associado ao beta-2 agonista nas crises graves, não monoterapia de escolha."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 5
+  }
+ },
+ {
+  "pid": "p24006",
+  "q": "Uma professora encaminha criança de 6 anos, cursando o primeiro ano do Ensino Fundamental, ao serviço de saúde devido a dificuldade de aprendizado e hiperatividade. Nessa situação, o médico deve:",
+  "alts": [
+   "solicitar avaliação auditiva e oftalmológica;",
+   "prescrever metilfenidato;",
+   "encaminhar a criança ao psiquiatra infantil;",
+   "solicitar mudança de turma na escola;",
+   "prescrever zinco e magnésio."
+  ],
+  "gab": 0,
+  "tema": "psiqinf",
+  "sub": "Queixa escolar e hiperatividade",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "AAP. Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of ADHD in Children and Adolescents, 2019, com DSM-5-TR, 2022",
+  "coment": "Antes de pensar em TDAH, é preciso afastar condições que imitam desatenção e agitação, e as mais simples são os déficits auditivo e visual: a criança que não ouve bem ou não enxerga a lousa se distrai, se levanta e não acompanha a turma. Por isso a primeira conduta diante de queixa escolar é avaliar audição e visão, junto com história do desenvolvimento, sono e ambiente familiar e escolar. O diagnóstico de TDAH (DSM-5-TR) é clínico e exige sintomas em dois ou mais ambientes por pelo menos 6 meses, com prejuízo funcional. A AAP (2019) recomenda essa avaliação ampla, com informações de pais e professores, antes de qualquer medicação.",
+  "porAlt": [
+   "Correta: déficit auditivo ou visual explica parte das queixas de desatenção e deve ser afastado primeiro.",
+   "Prescrever metilfenidato sem avaliação diagnóstica completa ignora causas tratáveis e o critério de prejuízo em mais de um ambiente.",
+   "O pediatra conduz a avaliação inicial; encaminhar antes de afastar causas orgânicas simples é prematuro.",
+   "Mudar de turma não investiga a causa da dificuldade e transfere o problema sem diagnóstico.",
+   "Zinco e magnésio não têm eficácia comprovada para desatenção ou hiperatividade."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 6
+  }
+ },
+ {
+  "pid": "p24007",
+  "q": "Durante tratamento de amidalite com amoxicilina, um adolescente apresentou placas urticariformes difusas, com necessidade de atendimento na emergência. Após tratamento da urticária, a orientação correta é:",
+  "alts": [
+   "trocar a amoxicilina por cefadroxil;",
+   "trocar a amoxicilina por azitromicina;",
+   "trocar a amoxicilina por sulfametoxazol-trimetoprima;",
+   "suspender a amoxicilina e aplicar dose única de penicilina benzatina;",
+   "manter o antibiótico após melhora do quadro urticariforme."
+  ],
+  "gab": 1,
+  "tema": "pedinfecto",
+  "sub": "Alergia à amoxicilina na amigdalite",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "IDSA. Clinical Practice Guideline for Group A Streptococcal Pharyngitis, 2012, com AAAAI/ACAAI Drug Allergy Practice Parameter Update, 2022",
+  "coment": "Urticária difusa durante o uso de amoxicilina sugere reação de hipersensibilidade imediata. A conduta é suspender o betalactâmico e completar o tratamento da faringoamigdalite estreptocócica com macrolídeo, como azitromicina por 5 dias, ou clindamicina. Cefalosporinas de primeira geração devem ser evitadas aqui porque cefadroxil e cefalexina têm cadeia lateral R1 idêntica à da amoxicilina, o que aumenta o risco de reação cruzada. Penicilina benzatina repetiria o alérgeno, e sulfametoxazol-trimetoprima não erradica o estreptococo do grupo A da orofaringe. Depois, o adolescente deve ser encaminhado para avaliação de alergia.",
+  "porAlt": [
+   "Cefadroxil compartilha a cadeia lateral R1 com a amoxicilina, o que eleva o risco de reação cruzada após urticária.",
+   "Correta: em alergia imediata à penicilina, o macrolídeo (azitromicina) é a alternativa para completar o tratamento.",
+   "Sulfametoxazol-trimetoprima não erradica o estreptococo do grupo A da faringe e não previne febre reumática.",
+   "Penicilina benzatina é da mesma classe que causou a reação e está contraindicada após urticária.",
+   "Manter o antibiótico responsável pela reação expõe o paciente a nova reação, possivelmente mais grave."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 7
+  }
+ },
+ {
+  "pid": "p24008",
+  "q": "Uma adolescente apresentou, há 15 dias, intensa dor de garganta e febre (temperatura axilar de 38,5 °C). Foi medicada por 5 dias com diclofenaco, com melhora. Há 24 horas, iniciou dor intensa e edema com sinais flogísticos no joelho esquerdo. Na emergência, o médico deve:",
+  "alts": [
+   "colher hemograma, provas de atividade inflamatória e VHS;",
+   "prescrever cefalexina, após colher hemoculturas;",
+   "imobilizar o joelho e prescrever ibuprofeno;",
+   "internar o paciente e iniciar oxacilina por via intravenosa;",
+   "solicitar radiografia do joelho e encaminhar ao ortopedista."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Artrite após faringoamigdalite",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Cardiologia. Diretrizes Brasileiras para o Diagnóstico, Tratamento e Prevenção da Febre Reumática, 2009, com AHA, Revisão dos Critérios de Jones, 2015",
+  "coment": "Faringoamigdalite febril tratada só com anti-inflamatório, sem antibiótico, seguida cerca de 2 semanas depois de artrite aguda: os diagnósticos a considerar são febre reumática, artrite reativa pós-estreptocócica e artrite séptica. Antes de tratar, investiga-se com hemograma e provas inflamatórias (VHS, PCR), que entram nos critérios menores de Jones (AHA 2015), evidência de infecção estreptocócica (ASLO) e, se houver suspeita de artrite séptica, punção articular. Em populações de risco moderado a alto, como a brasileira, a monoartrite já conta como critério maior. Anti-inflamatório antes do diagnóstico mascara a poliartrite migratória.",
+  "porAlt": [
+   "Correta: hemograma, VHS e provas inflamatórias iniciam a investigação de febre reumática e ajudam a diferenciar de artrite séptica.",
+   "Cefalexina oral não é tratamento de artrite séptica, e iniciar antibiótico sem diagnóstico atrapalha a investigação.",
+   "Ibuprofeno antes do diagnóstico pode mascarar a evolução migratória da artrite reumática e retardar a definição.",
+   "Oxacilina empírica sem punção articular e culturas pula a etapa diagnóstica; a história aponta primeiro para complicação estreptocócica.",
+   "Artrite aguda inflamatória com faringite recente pede investigação clínica e laboratorial, não apenas radiografia e encaminhamento."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 8
+  }
+ },
+ {
+  "pid": "p24009",
+  "q": "Um lactente de 2 meses se submete a radiografia de tórax para avaliar quadro de cansaço com crises de cianose. O laudo do exame descreve coração com formato de “tamanco holandês”. O médico conclui, corretamente, que o paciente apresenta:",
+  "alts": [
+   "hipertrofia de cavidades esquerdas;",
+   "hipertensão pulmonar;",
+   "hipertrofia do ventrículo direito;",
+   "persistência do canal arterial;",
+   "coarctação da aorta. "
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Tetralogia de Fallot na radiografia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 21ª ed., 2020",
+  "coment": "Coração em tamanco holandês (coeur en sabot) é a imagem clássica da tetralogia de Fallot. A hipertrofia do ventrículo direito eleva e arredonda a ponta cardíaca, e a hipoplasia da via de saída pulmonar deixa côncavo o arco médio esquerdo; a trama vascular pulmonar costuma estar diminuída. Crises de cianose no lactente completam o quadro, pela obstrução dinâmica do infundíbulo do ventrículo direito. As outras opções não produzem essa silhueta: canal arterial e lesões com hiperfluxo aumentam a trama vascular, e a coarctação dá o sinal do 3 e erosões costais em crianças maiores.",
+  "porAlt": [
+   "Hipertrofia de cavidades esquerdas desloca a ponta para baixo e para a esquerda, sem a ponta elevada do tamanco.",
+   "Hipertensão pulmonar abaula o tronco da artéria pulmonar, ao contrário da concavidade do arco médio vista no Fallot.",
+   "Correta: a hipertrofia do ventrículo direito eleva a ponta e, com o arco pulmonar escavado, forma o tamanco holandês.",
+   "A persistência do canal arterial causa hiperfluxo pulmonar e aumento de câmaras esquerdas, sem cianose nem esse formato.",
+   "A coarctação da aorta não cursa com crises de cianose e tem como sinais radiológicos o sinal do 3 e as erosões costais."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 9
+  }
+ },
+ {
+  "pid": "p24010",
+  "q": "Uma criança com 18 meses de idade foi afastada da creche devido ao aparecimento de pequenas vesículas no tronco, genitália e regiões palmares e plantares. Ela apresenta, também, febre alta e lesões aftosas em orofaringe. Outras crianças da creche estão com o mesmo quadro. Com base no quadro clínico, o pediatra fez, corretamente, o diagnóstico de:",
+  "alts": [
+   "impetigo;",
+   "herpes simples;",
+   "varicela;",
+   "escarlatina;",
+   "coxsackievirose."
+  ],
+  "gab": 4,
+  "tema": "pedinfecto",
+  "sub": "Doença mão-pé-boca",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "AAP. Red Book 2024-2027: Report of the Committee on Infectious Diseases, 33ª ed., 2024",
+  "coment": "Vesículas em mãos, pés e genitália, com febre e lesões aftosas na orofaringe, em criança de creche com outros casos iguais: é a doença mão-pé-boca, causada por enterovírus, principalmente coxsackie A16 e enterovírus 71; o coxsackie A6 dá formas mais extensas, com lesões em tronco e região perioral. A transmissão é fecal-oral e por secreções, daí os surtos em creches. O tratamento é de suporte, com analgesia e hidratação. A distribuição palmoplantar e as aftas orais a diferenciam da varicela, que em geral poupa palmas e plantas e tem lesões em vários estágios no tronco e couro cabeludo.",
+  "porAlt": [
+   "Impetigo causa vesículas e crostas melicéricas localizadas, sem febre alta, aftas orais ou distribuição palmoplantar.",
+   "Herpes simples primário causa gengivoestomatite com vesículas periorais, não lesões em palmas, plantas e genitália.",
+   "Varicela tem lesões polimórficas de distribuição centrípeta com couro cabeludo acometido, em geral poupando palmas e plantas.",
+   "Escarlatina causa exantema micropapular áspero e língua em framboesa, não vesículas.",
+   "Correta: vesículas palmoplantares e em genitália com aftas orais e surto em creche são típicas de coxsackievírus."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 10
+  }
+ },
+ {
+  "pid": "p24012",
+  "q": "Um médico, residente da pediatria, atendeu uma criança que evoluiu para parada cardiorrespiratória. Ele realizou, sob supervisão, manobras de reanimação, sem sucesso. Não fez anotações da evolução e tratamento no prontuário. A conduta do residente deve ser considerada:",
+  "alts": [
+   "correta, pois como residente não tem essa obrigação;",
+   "correta, pois a criança faleceu;",
+   "errada, pois ele não deveria ter participado da reanimação cardiorrespiratória;",
+   "correta, pois na emergência não há necessidade de registro no prontuário;",
+   "errada, pois todo atendimento deve ser registrado no prontuário."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Registro em prontuário",
+  "cenario": "emg",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Resolução CFM 2.217/2018 (Código de Ética Médica), art. 87, e Resolução CFM 1.638/2002 (prontuário médico)",
+  "coment": "O Código de Ética Médica (Resolução CFM 2.217/2018), art. 87, veda ao médico deixar de elaborar prontuário legível para cada paciente, com os dados clínicos necessários para a boa condução do caso, preenchido em cada avaliação com data, hora, assinatura e número do CRM. Isso vale para todo atendimento, inclusive emergência e reanimação sem sucesso, e para o residente, que é médico inscrito no CRM e responde por seus atos. O registro da reanimação (horários, drogas, ritmos, condutas) é documento legal e base para a declaração de óbito e eventual apuração. A supervisão do preceptor não dispensa o residente de anotar.",
+  "porAlt": [
+   "O residente é médico inscrito no CRM e tem o mesmo dever de registro; a supervisão não o isenta.",
+   "O óbito não dispensa o registro; ao contrário, a documentação da reanimação é essencial para fins clínicos e legais.",
+   "Participar da reanimação sob supervisão é parte legítima da formação do residente; o erro foi não registrar.",
+   "Atendimentos de emergência também exigem registro em prontuário, ainda que feito logo após a estabilização ou o desfecho.",
+   "Correta: o art. 87 do Código de Ética Médica obriga o registro de todo atendimento em prontuário."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 12
+  }
+ },
+ {
+  "pid": "p24013",
+  "q": "Na primeira consulta de um recém-nascido em aleitamento materno exclusivo com satisfatório ganho ponderal, a mãe refere que a criança chora muito. Nessa situação, o pediatra deve orientar a mãe a:",
+  "alts": [
+   "oferecer chupeta para o bebê;",
+   "complementar a alimentação com fórmula infantil;",
+   "amamentar em livre demanda;",
+   "oferecer leite materno na mamadeira durante a madrugada;",
+   "oferecer chá de camomila e água nos intervalos das mamadas."
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Choro do lactente em aleitamento",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Caderno de Atenção Básica nº 23 (Saúde da criança: aleitamento materno e alimentação complementar), 2ª ed., 2015, com Guia Alimentar para Crianças Brasileiras Menores de 2 Anos, 2019",
+  "coment": "Ganho de peso satisfatório mostra que o leite materno é suficiente; o choro, nesse contexto, não indica leite fraco nem pouco leite. A orientação é manter o aleitamento exclusivo em livre demanda, sem horários rígidos, oferecendo o peito sempre que o bebê mostrar sinais de fome, e acolher a mãe explicando que o choro é forma normal de comunicação, com pico por volta de 6 semanas. Chupeta, mamadeira, chás, água e fórmula atrapalham a pega, reduzem a produção de leite e aumentam o risco de desmame precoce e de infecção, segundo o Ministério da Saúde.",
+  "porAlt": [
+   "A chupeta interfere na pega e está associada a desmame precoce; o Ministério da Saúde desaconselha seu uso.",
+   "Com ganho ponderal adequado, o leite materno é suficiente, e complementar com fórmula reduz a produção e favorece o desmame.",
+   "Correta: com bom ganho de peso, mantém-se o aleitamento exclusivo em livre demanda e acolhe-se a mãe.",
+   "Mamadeira causa confusão de bicos e reduz o estímulo à produção; a mamada noturna no peito ajuda a manter o leite.",
+   "Chás e água são desnecessários no aleitamento exclusivo, reduzem a ingestão de leite e aumentam o risco de infecção."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 13
+  }
+ },
+ {
+  "pid": "p24014",
+  "q": "Uma criança de 8 anos, com índice de massa corporal (IMC) acima do percentil 95 para idade e sexo, é levada à consulta pela mãe, que está preocupada com o ganho ponderal excessivo do filho. As orientações médicas devem ser para:",
+  "alts": [
+   "a adesão ao tratamento medicamentoso com sibutramina;",
+   "a redução da ingesta de proteínas e o aumento do consumo de carboidratos;",
+   "a necessidade de redução do peso pelo maior risco de desenvolver doença hepática não alcoólica;",
+   "a diminuição de atividade física pelo risco aumentado de lesões;",
+   "a realização de dieta cetogênica."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Obesidade infantil e comorbidades",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Manual de Orientação Obesidade na Infância e Adolescência, 3ª ed., 2019",
+  "coment": "IMC acima do percentil 95 indica excesso de peso importante (obesidade pelo critério do CDC). A orientação central é mudança de estilo de vida da família: alimentação baseada em alimentos in natura e minimamente processados, menos ultraprocessados e bebidas açucaradas, mais atividade física e menos tempo de tela. Explicar as comorbidades ajuda a engajar a família, e a doença hepática gordurosa associada à disfunção metabólica (antes chamada não alcoólica) é a hepatopatia crônica mais comum na criança obesa, ao lado de dislipidemia, resistência à insulina e hipertensão. Sibutramina não é aprovada em crianças, e dieta cetogênica não é recomendada.",
+  "porAlt": [
+   "Sibutramina não tem aprovação para uso pediátrico e foi retirada de vários mercados por risco cardiovascular.",
+   "Reduzir proteína e aumentar carboidrato piora o padrão alimentar; a orientação é reduzir açúcares e ultraprocessados.",
+   "Correta: a obesidade aumenta o risco de doença hepática gordurosa, e essa informação ajuda a motivar a mudança de hábitos.",
+   "A atividade física deve aumentar, não diminuir; ela é parte central do tratamento da obesidade.",
+   "Dieta cetogênica não é recomendada para tratar obesidade infantil, por risco nutricional e baixa adesão."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 14
+  }
+ },
+ {
+  "pid": "p24015",
+  "q": "Um pai está preocupado com seu filho de 15 anos, que tem apresentado queda do rendimento escolar, desinteresse pelos esportes que praticava, comportamento hostil com familiares, perda de peso e irritação ocular (“olhos vermelhos”) com fotofobia. Considerando as informações do pai, o médico faz a hipótese diagnóstica adequada de:",
+  "alts": [
+   "distúrbio do sono;",
+   "síndrome de ansiedade generalizada;",
+   "uso de drogas ilícitas;",
+   "erro de refração ocular;",
+   "alterações comportamentais próprias da adolescência."
+  ],
+  "gab": 2,
+  "tema": "drogas",
+  "sub": "Sinais de uso de maconha na adolescência",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "AAP. Substance Use Screening, Brief Intervention, and Referral to Treatment (Clinical Report), 2016",
+  "coment": "Queda do rendimento escolar, abandono de atividades antes prazerosas, hostilidade com a família e perda de peso, somados a hiperemia conjuntival, apontam para uso de substâncias. A maconha é a droga ilícita mais usada por adolescentes e causa vasodilatação conjuntival (olhos vermelhos). Oscilações de humor são comuns na adolescência, mas mudança abrupta de desempenho e de vínculos com sinais físicos não deve ser atribuída à fase. A abordagem inclui entrevista com o adolescente a sós, com sigilo garantido salvo risco à vida, triagem estruturada (como o CRAFFT) e intervenção breve, conforme a AAP (2016).",
+  "porAlt": [
+   "Distúrbio do sono não explica hiperemia conjuntival, perda de peso e mudança abrupta de comportamento juntos.",
+   "Ansiedade generalizada não causa olhos vermelhos e não costuma vir com abandono de atividades e hostilidade dessa forma.",
+   "Correta: queda escolar, desinteresse, hostilidade, emagrecimento e hiperemia conjuntival sugerem uso de drogas, sobretudo maconha.",
+   "Erro de refração causa dificuldade visual e cefaleia, não mudança de comportamento, emagrecimento e hostilidade.",
+   "Mudança abrupta de desempenho e de vínculos com sinais físicos não deve ser atribuída à adolescência sem investigação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 15
+  }
+ },
+ {
+  "pid": "p24016",
+  "q": "Uma criança, portadora de doença falciforme, é admitida na emergência com priapismo há 24 horas, que não respondeu ao tratamento habitual. A conduta correta, nesse caso, é:",
+  "alts": [
+   "aplicação de compressas frias;",
+   "redução da hidratação;",
+   "repouso absoluto;",
+   "injeção local de fenilefrina;",
+   "prescrição de corticoide."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Priapismo na doença falciforme",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Doença Falciforme: Condutas Básicas para Tratamento, 2ª ed., 2012, com AUA/SMSNA Guideline on Acute Ischemic Priapism, 2022",
+  "coment": "O priapismo da doença falciforme é isquêmico (baixo fluxo) e é emergência urológica: após 4 horas começa dano ao tecido cavernoso, com risco de fibrose e disfunção erétil. Hidratação, analgesia e esvaziamento vesical cabem nas primeiras horas; sem resposta, a conduta é aspiração dos corpos cavernosos com irrigação e injeção intracavernosa de alfa-agonista, sendo a fenilefrina a droga de escolha, com monitorização de pressão e frequência cardíaca. Com 24 horas sem resposta, essa intervenção é obrigatória, e a falha leva ao shunt cirúrgico. Frio local e restrição hídrica favorecem a falcização.",
+  "porAlt": [
+   "Frio favorece vaso-oclusão na doença falciforme e não resolve o priapismo isquêmico estabelecido.",
+   "Reduzir a hidratação aumenta a viscosidade e a falcização; a hidratação adequada faz parte do manejo.",
+   "Repouso não trata priapismo isquêmico de 24 horas, que exige intervenção para evitar fibrose cavernosa.",
+   "Correta: priapismo isquêmico refratário pede aspiração e injeção intracavernosa de fenilefrina, alfa-agonista de escolha.",
+   "Corticoide não tem papel no priapismo isquêmico e não reverte a obstrução ao fluxo venoso."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 16
+  }
+ },
+ {
+  "pid": "p24017",
+  "q": "Um paciente de 8 anos, com sobrepeso, apresenta pressão arterial (PA) entre o percentil 90 e 95 para sexo, idade e altura. A pressão arterial nunca havia sido aferida. Nega sintomas. É correto afirmar que:",
+  "alts": [
+   "o paciente está normotenso;",
+   "ele deve ser encaminhado ao nefrologista;",
+   "a medicação anti-hipertensiva deve ser iniciada;",
+   "o paciente está hipertenso, mas sem necessidade de tratamento;",
+   "a PA deve ser aferida mais duas vezes, com cálculo da média das aferições, para definição diagnóstica. "
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Pressão arterial elevada na criança",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "AAP. Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents, 2017, com Sociedade Brasileira de Pediatria, Manual de Orientação Hipertensão Arterial na Infância e Adolescência, 2019",
+  "coment": "Entre 1 e 13 anos, PA entre os percentis 90 e 95 (ou a partir de 120/80 mmHg) é classificada como pressão arterial elevada, não como hipertensão. Uma única aferição não define diagnóstico: pela diretriz da AAP de 2017, adotada pela SBP, se a primeira medida estiver alterada, repete-se mais duas vezes na mesma consulta e usa-se a média. Confirmada a PA elevada, orientam-se dieta, atividade física e controle de peso, com nova medida em 6 meses. Hipertensão exige PA no percentil 95 ou acima em três consultas diferentes. Não há indicação de remédio nem de nefrologista nesse momento.",
+  "porAlt": [
+   "PA entre os percentis 90 e 95 não é normal; caracteriza pressão arterial elevada se confirmada.",
+   "Encaminhamento ao nefrologista não se justifica antes de confirmar o diagnóstico e de haver hipertensão ou suspeita de causa secundária.",
+   "Não se inicia anti-hipertensivo com uma única aferição na faixa de PA elevada; a primeira etapa é confirmar.",
+   "PA entre os percentis 90 e 95 é PA elevada, não hipertensão, que exige valores no percentil 95 ou acima.",
+   "Correta: medida alterada deve ser repetida mais duas vezes, e a média define a classificação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 17
+  }
+ },
+ {
+  "pid": "p24020",
+  "q": "Um recém-nascido de mãe adolescente com 15 anos recebe alta com orientação para que seja realizado o registro civil de nascimento (RCN) da criança. As orientações para o procedimento devem incluir:",
+  "alts": [
+   "a necessidade da presença do pai e da mãe para registro no cartório;",
+   "a não obrigatoriedade de apresentação de documentos de identidade dos pais;",
+   "a obrigatoriedade de que o registro seja realizado na Vara da Infância e da Juventude, por ser a mãe menor de idade;",
+   "a necessidade da presença de um dos avós do bebê, caso a mãe não seja emancipada;",
+   "a necessidade de apresentação de certidão de casamento ou contrato de união estável dos pais."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Registro civil com mãe menor de 16 anos",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Lei 6.015/1973 (Lei de Registros Públicos) e Lei 10.406/2002 (Código Civil), arts. 3º e 1.634",
+  "coment": "Pelo Código Civil (art. 3º), menor de 16 anos é absolutamente incapaz para os atos da vida civil e precisa ser representado pelos pais ou responsável legal (art. 1.634). Assim, a mãe de 15 anos não pode declarar sozinha o nascimento no cartório: deve comparecer com um de seus pais (avô ou avó do bebê) ou com o responsável legal, levando a Declaração de Nascido Vivo e documento de identidade. A partir dos 16 anos ela já pode registrar o filho sem representante. A presença do pai não é obrigatória, nem certidão de casamento, e o registro é feito no cartório de registro civil, sem envolver a Vara da Infância.",
+  "porAlt": [
+   "A presença dos dois genitores não é obrigatória; a mãe pode registrar e o reconhecimento paterno pode ser feito depois.",
+   "O cartório exige a Declaração de Nascido Vivo e documento de identidade de quem declara o nascimento.",
+   "O registro é feito no cartório de registro civil; a Vara da Infância não intervém pelo simples fato de a mãe ser menor.",
+   "Correta: menor de 16 anos é absolutamente incapaz e precisa ser representada por um dos pais (avós do bebê) ou responsável.",
+   "Certidão de casamento ou contrato de união estável não é exigida para registrar o filho."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 20
+  }
+ },
+ {
+  "pid": "p24022",
+  "q": "Um lactente de 7 meses, com salivação excessiva, coceira nas gengivas e irritabilidade, ao exame, apresenta erupção parcial do dente incisivo central inferior esquerdo. Sobre a saúde oral dessa criança, devem ser dadas as seguintes orientações:",
+  "alts": [
+   "a escovação dos dentes é necessária quando completar 1 ano;",
+   "a chupeta deve ser oferecida;",
+   "a utilização de anestésico tópico para redução do desconforto;",
+   "a suspensão do aleitamento materno está indicada quando nascerem os dentes pelo risco de lesão mamária;",
+   "a escovação dos dentes deve ser realizada com pequena quantidade de creme dental para bebê."
+  ],
+  "gab": 4,
+  "tema": "puericultura",
+  "sub": "Erupção dentária e higiene bucal",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Recomendações para o Uso de Fluoretos no Brasil, 2009, com Guia Alimentar para Crianças Brasileiras Menores de 2 Anos, 2019",
+  "coment": "Com o primeiro dente começa a escovação, duas vezes ao dia, feita pelo adulto com escova macia de cabeça pequena e quantidade mínima de creme dental fluoretado (o equivalente a um grão de arroz). Essa pequena quantidade protege contra cárie com risco mínimo de fluorose; creme dental sem flúor não traz essa proteção. Os sinais de erupção (salivação, coceira gengival, irritabilidade) são aliviados com mordedores frios e massagem gengival; anestésicos tópicos com benzocaína não são recomendados em lactentes pelo risco de metemoglobinemia. O aleitamento materno continua, e a chupeta não é indicada.",
+  "porAlt": [
+   "A escovação começa com a erupção do primeiro dente, não aos 12 meses.",
+   "A chupeta não é medida de alívio recomendada e está associada a desmame precoce e alterações de oclusão.",
+   "Anestésicos tópicos (benzocaína) não são recomendados em lactentes pelo risco de metemoglobinemia e pela baixa eficácia.",
+   "A erupção dentária não é motivo para suspender o aleitamento; ajuste da pega resolve a maior parte das lesões mamárias.",
+   "Correta: a escovação começa no primeiro dente, com quantidade mínima de creme dental, que deve ser fluoretado."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 22
+  }
+ },
+ {
+  "pid": "p24023",
+  "q": "Um escolar de 7 anos apresenta, há 3 dias, cefaleia, edema de membros inferiores, sem sinais flogísticos, e urina escura. Ao exame, foram constatadas hipertensão arterial e hematúria no exame de urina. Está em uso de polivitamínicos e dipirona. A principal hipótese diagnóstica, nesse caso, é de:",
+  "alts": [
+   "reação alérgica medicamentosa;",
+   "síndrome nefrótica;",
+   "complicação de infecção estreptocócica;",
+   "intoxicação exógena;",
+   "hipertensão arterial primária com lesão renal."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Glomerulonefrite pós-estreptocócica",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases",
+  "coment": "Edema, hipertensão, cefaleia e hematúria macroscópica (urina escura) em escolar compõem a síndrome nefrítica, e a causa mais comum nessa faixa é a glomerulonefrite pós-estreptocócica, que surge 1 a 3 semanas após faringite ou 3 a 6 semanas após piodermite. A confirmação vem com C3 baixo, que normaliza em 6 a 8 semanas, e evidência de infecção estreptocócica (ASLO, anti-DNase B). O tratamento é de suporte: restrição de sal e água, diurético de alça e anti-hipertensivo se necessário. A cefaleia exige atenção à encefalopatia hipertensiva. Síndrome nefrótica cursa com proteinúria maciça, em geral sem hipertensão nem hematúria macroscópica.",
+  "porAlt": [
+   "Reação alérgica a dipirona ou polivitamínico não causa síndrome nefrítica com hematúria e hipertensão.",
+   "Síndrome nefrótica se caracteriza por proteinúria maciça, hipoalbuminemia e edema, em geral sem hipertensão e hematúria macroscópica.",
+   "Correta: hematúria, edema e hipertensão em escolar configuram síndrome nefrítica, cuja causa mais comum é a pós-estreptocócica.",
+   "As medicações citadas em dose usual não causam síndrome nefrítica, e nada no quadro sugere intoxicação.",
+   "Hipertensão primária aos 7 anos é rara e não explica hematúria macroscópica e edema de instalação aguda."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 23
+  }
+ },
+ {
+  "pid": "p24025",
+  "q": "Uma criança de 2 anos, com febre alta (39 °C) há 3 dias e irritabilidade, se recusa a se alimentar, tem dor abdominal intensa e a mãe relata 3 episódios de vômitos nas últimas 12 horas. A mãe procurou a emergência, onde foram realizados exames, e foi dado o diagnóstico de dengue. O tratamento deve ser:",
+  "alts": [
+   "prescrever prednisolona e sais de reidratação oral;",
+   "prescrever sintomáticos e orientar sinais de gravidade;",
+   "internar a criança para início de antibiótico venoso;",
+   "prescrever nitazoxanida e solicitar exames de controle;",
+   "internar a criança para hidratação venosa, sintomáticos e observação. "
+  ],
+  "gab": 4,
+  "tema": "pedinfecto",
+  "sub": "Dengue com sinais de alarme",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., 2024",
+  "coment": "Dor abdominal intensa e contínua e vômitos persistentes são sinais de alarme na dengue e classificam a criança no grupo C, mesmo sem choque. A conduta é internar e iniciar hidratação venosa imediata (10 mL/kg de cristaloide na primeira hora), reavaliando clínica e hematócrito, com observação contínua. Os sinais de alarme costumam aparecer na defervescência, entre o 3º e o 7º dia, quando aumenta o extravasamento plasmático. Corticoide e antibiótico não têm papel, e o manejo ambulatorial com sintomáticos vale só para os grupos A e B, sem sinais de alarme (MS, 6ª ed., 2024).",
+  "porAlt": [
+   "Corticoide não tem benefício na dengue, e hidratação oral não basta diante de sinais de alarme.",
+   "Sintomáticos e orientação domiciliar valem para o grupo A; dor abdominal intensa e vômitos persistentes exigem internação.",
+   "Dengue é viral; antibiótico não tem indicação sem infecção bacteriana documentada.",
+   "Nitazoxanida não trata dengue, e adiar a hidratação venosa expõe a criança ao choque.",
+   "Correta: sinais de alarme (dor abdominal intensa, vômitos persistentes) indicam grupo C, com internação e hidratação venosa."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 25
+  }
+ },
+ {
+  "pid": "p24026",
+  "q": "Uma mãe informa que recebeu comunicado da escola sobre caso de meningite meningocócica na turma do seu filho de 6 anos. O pediatra deve orientá-la a:",
+  "alts": [
+   "iniciar quimioprofilaxia na criança, com rifampicina;",
+   "colher hemograma da criança;",
+   "deixar o filho em isolamento por 7 dias;",
+   "procurar o posto de saúde para vaciná-lo para meningite ACWY;",
+   "procurar emergência para que a criança seja examinada, mesmo sem sintomas."
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Quimioprofilaxia de contato meningocócico",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Nota Técnica Conjunta nº 154/2024-DPNI/SVSA/MS (doença meningocócica: contatos e quimioprofilaxia), com Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "Contato próximo de caso de doença meningocócica deve receber quimioprofilaxia o mais cedo possível, idealmente em até 48 horas, e a rifampicina é a droga de escolha (criança: 10 mg/kg a cada 12 horas por 2 dias, máximo de 600 mg por dose). A Nota Técnica Conjunta nº 154/2024 do Ministério da Saúde inclui como contato próximo a exposição contínua de pelo menos 4 horas, a até 1 metro, em ambiente fechado, como a sala de aula, nos 10 dias antes dos sintomas do caso. O colega de turma, portanto, recebe rifampicina. Isolamento e exames não estão indicados, e a vacina não substitui a quimioprofilaxia porque não protege a tempo.",
+  "porAlt": [
+   "Correta: colega de sala é contato próximo, e a quimioprofilaxia com rifampicina deve ser feita de imediato.",
+   "Hemograma não identifica portador nem previne doença; o contato precisa de quimioprofilaxia, não de exame.",
+   "Isolamento do contato assintomático não tem indicação; a medida que reduz o risco é a quimioprofilaxia.",
+   "A vacina leva cerca de 2 semanas para gerar proteção e não substitui a quimioprofilaxia do contato próximo.",
+   "Criança assintomática não precisa ir à emergência; precisa de quimioprofilaxia e orientação sobre sinais de alarme."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 26
+  }
+ },
+ {
+  "pid": "p24027",
+  "q": "Na avaliação de rotina de uma criança de 7 anos, foi observado ganho ponderal excessivo nos últimos 6 meses. Em relação à realização de exercícios físicos, o paciente deve ser orientado a:",
+  "alts": [
+   "evitar atividades de flexibilidade pelo risco de lesões articulares;",
+   "evitar exercícios ao ar livre, devido à exposição solar;",
+   "priorizar exercícios extenuantes que estimulam a produção do hormônio de crescimento;",
+   "fazer 60 minutos diários de atividade física de moderada a vigorosa intensidade;",
+   "iniciar atividades físicas estruturadas (danças, lutas, esportes coletivos) após os 8 anos."
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Atividade física na infância",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Atividade Física para a População Brasileira, 2021, com OMS, Diretrizes sobre Atividade Física e Comportamento Sedentário, 2020",
+  "coment": "Para crianças e adolescentes de 6 a 17 anos, o Guia de Atividade Física para a População Brasileira (MS, 2021) e a OMS (2020) recomendam pelo menos 60 minutos por dia de atividade física de intensidade moderada a vigorosa, com atividades de fortalecimento muscular e ósseo em pelo menos 3 dias por semana, e redução do tempo de tela. No ganho de peso excessivo, essa meta faz parte do tratamento junto com a mudança alimentar. Atividades de flexibilidade, ao ar livre (com proteção solar) e estruturadas, como dança, lutas e esportes coletivos, são estimuladas, sem idade mínima de 8 anos.",
+  "porAlt": [
+   "Atividades de flexibilidade são estimuladas e não aumentam o risco de lesão articular em crianças.",
+   "Atividades ao ar livre são recomendadas, com proteção solar adequada; a exposição ao sol não é motivo para evitá-las.",
+   "Exercícios extenuantes não são recomendados para estimular crescimento, que depende de genética, nutrição e sono.",
+   "Correta: a recomendação para 6 a 17 anos é de 60 minutos diários de atividade moderada a vigorosa.",
+   "Atividades estruturadas podem começar antes dos 8 anos, adaptadas à idade; não há esse limite."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 27
+  }
+ },
+ {
+  "pid": "p24028",
+  "q": "Uma criança de 5 anos, atendida na emergência com queixa de coriza e tosse há 5 dias, tem usado desloratadina com pouca melhora. Ontem iniciou dor nos tornozelos e dor abdominal intensa, além de terem aparecido petéquias elevadas nas nádegas e nos membros inferiores, com discreto edema de mãos e tornozelos. A principal hipótese diagnóstica, nesse caso, é:",
+  "alts": [
+   "leucemia;",
+   "farmacodermia;",
+   "distúrbio da coagulação;",
+   "púrpura de Henoch-Schönlein;",
+   "púrpura trombocitopênica idiopática."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Vasculite por IgA (Henoch-Schönlein)",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "EULAR/PRINTO/PRES. Critérios de classificação das vasculites da infância (Ankara), 2010, com Iniciativa SHARE, recomendações para vasculite por IgA, 2019",
+  "coment": "Púrpura palpável (petéquias elevadas) em nádegas e membros inferiores, dor em tornozelos, dor abdominal e edema de mãos e pés, após infecção de vias aéreas, em criança de 5 anos: é a vasculite por IgA (púrpura de Henoch-Schönlein), a vasculite mais comum da infância. Pelos critérios EULAR/PRINTO/PRES (2010), exige-se púrpura palpável de predomínio em membros inferiores mais um de: dor abdominal, artrite ou artralgia, biópsia com depósito de IgA ou acometimento renal. As plaquetas são normais, o que afasta PTI e leucemia como causa da púrpura. O seguimento com exame de urina e PA é obrigatório pelo risco de nefrite.",
+  "porAlt": [
+   "Leucemia causa petéquias planas por plaquetopenia, com palidez e visceromegalia, não púrpura palpável com artralgia.",
+   "Farmacodermia por desloratadina é improvável e não explica a combinação de púrpura palpável, artralgia e dor abdominal.",
+   "Distúrbios da coagulação causam equimoses e hematomas, não púrpura palpável simétrica em áreas de declive.",
+   "Correta: púrpura palpável em nádegas e pernas, artralgia, dor abdominal e edema após infecção viral definem vasculite por IgA.",
+   "Na PTI as petéquias são planas, sem artralgia nem dor abdominal, e a criança costuma estar bem."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 28
+  }
+ },
+ {
+  "pid": "p24029",
+  "q": "Um adolescente que estava praticando surfe apresentou, subitamente, dor em queimação na perna. Após sair do mar, observou lesão de queimadura na panturrilha esquerda. No posto do salva-vidas, foi corretamente realizada:",
+  "alts": [
+   "limpeza da lesão com água doce;",
+   "aplicação de urina do paciente na lesão;",
+   "aplicação de pasta d’água no local;",
+   "limpeza da lesão com água do mar e aplicação de vinagre;",
+   "fricção da lesão com água morna para retirada do veneno."
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Acidente por água-viva",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "Haddad Jr V. Medical Emergencies Caused by Aquatic Animals: A Zoological and Clinical Guide, Springer, 2016",
+  "coment": "Dor em queimação súbita no mar com lesão tipo queimadura sugere contato com cnidário (água-viva ou caravela). Os nematocistos que ficam aderidos à pele continuam disparando veneno quando estimulados. Por isso a lesão é lavada com água do mar, e não com água doce, que pela diferença osmótica faz os nematocistos dispararem; em seguida aplica-se vinagre (ácido acético a 5%), que inativa os nematocistos restantes, e faz-se analgesia. Atritar a pele com areia, toalha ou fricção espalha o veneno, e urina não tem efeito comprovado. É a conduta do manejo brasileiro de acidentes por animais aquáticos (Haddad Jr, 2016).",
+  "porAlt": [
+   "Água doce provoca disparo dos nematocistos aderidos por diferença osmótica e aumenta a dor e o envenenamento.",
+   "Urina não inativa os nematocistos e pode até estimular o disparo; não há benefício comprovado.",
+   "Pasta d'água não inativa os nematocistos e não faz parte do tratamento inicial.",
+   "Correta: lavar com água do mar e aplicar vinagre inativa os nematocistos que ainda estão na pele.",
+   "Fricção dispara os nematocistos restantes e espalha o veneno, piorando a lesão."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 29
+  }
+ },
+ {
+  "pid": "p24030",
+  "q": "Uma lactente de 10 meses, com episódios de melena e anemia, foi avaliada na emergência, onde o cirurgião pediátrico realizou toque retal, que foi livre de sangramento, e clister opaco, sem evidências de pólipos intestinais. Com o objetivo de elucidação diagnóstica, deve-se solicitar:",
+  "alts": [
+   "pesquisa de elementos anormais nas fezes;",
+   "colonoscopia;",
+   "ressonância magnética do abdômen;",
+   "seriografia esôfago-gastro-duodenal;",
+   "cintilografia intestinal com Tc-99."
+  ],
+  "gab": 4,
+  "tema": "especialidades",
+  "sub": "Divertículo de Meckel",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 21ª ed., 2020",
+  "coment": "Sangramento intestinal com anemia em lactente, sem lesão anorretal ao toque e sem pólipos no clister opaco, faz pensar em divertículo de Meckel, a causa mais comum de hemorragia digestiva baixa importante e indolor nos primeiros anos de vida. O sangramento vem da úlcera na mucosa ileal vizinha à mucosa gástrica ectópica, que secreta ácido. O exame de escolha é a cintilografia com pertecnetato de tecnécio-99m, captado pela mucosa gástrica ectópica; se negativa e a suspeita persistir, indica-se laparoscopia diagnóstica. Regra dos 2: cerca de 2% da população, a até 60 cm da válvula ileocecal, sintomas em geral antes dos 2 anos.",
+  "porAlt": [
+   "Pesquisa de elementos anormais nas fezes não localiza a fonte do sangramento nem identifica mucosa gástrica ectópica.",
+   "Colonoscopia avalia cólon e íleo terminal, mas raramente alcança o divertículo de Meckel, situado mais acima no íleo.",
+   "Ressonância de abdome não é o exame de escolha e tem baixa sensibilidade para o divertículo de Meckel.",
+   "Seriografia avalia esôfago, estômago e duodeno, e não mostra o divertículo ileal.",
+   "Correta: a cintilografia com tecnécio-99m detecta a mucosa gástrica ectópica do divertículo de Meckel."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 30
+  }
+ },
+ {
+  "pid": "p24031",
+  "q": "A abordagem de lactente de 2 meses, saudável, em bom estado geral, com aleitamento materno exclusivo, apresentando proctocolite alérgica, é:",
+  "alts": [
+   "iniciar dieta isenta de proteína do leite de vaca para a mãe até 6 meses de idade e dosar IgE específica contra caseína e proteínas do soro do leite de vaca e soja no lactente;",
+   "iniciar fórmula hidrolisada para lactente, manter aleitamento materno complementar e realizar hemograma, coagulograma e corpocultura no lactente;",
+   "iniciar fórmula hidrolisada para lactente, suspender aleitamento materno e dosar IgE sérica específica contra caseína e proteínas do soro leite de vaca;",
+   "iniciar dieta isenta de proteína do leite de vaca para a mãe, não realizar exames laboratoriais, reavaliar lactente após 4 semanas, avaliar reintrodução de proteínas;",
+   "iniciar fórmula de aminoácidos para lactente, suspender aleitamento materno e realizar hemograma, coagulograma e corpocultura no lactente."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Proctocolite alérgica no lactente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ASBAI/SBP. Consenso Brasileiro sobre Alergia Alimentar: 2018, parte 2 (diagnóstico, tratamento e prevenção)",
+  "coment": "Proctocolite alérgica é forma não mediada por IgE de alergia à proteína do leite de vaca, típica de lactentes em bom estado com sangue e muco nas fezes, inclusive em aleitamento exclusivo, pela proteína que passa ao leite materno. Como não depende de IgE, dosar IgE específica não ajuda; o diagnóstico é clínico, pela melhora com a exclusão e pela volta dos sintomas na reexposição. A conduta é manter o aleitamento e retirar leite e derivados da dieta da mãe, com suplementação de cálcio, reavaliar em 2 a 4 semanas e programar a reintrodução. Fórmula especial só entra sem aleitamento ou se a exclusão materna falhar (Consenso Brasileiro, 2018).",
+  "porAlt": [
+   "A dieta materna de exclusão é correta, mas dosar IgE não serve na proctocolite, que não é mediada por IgE.",
+   "Não se introduz fórmula em lactente em aleitamento exclusivo tratável com exclusão na dieta materna, e os exames não são necessários.",
+   "Suspender o aleitamento é erro: a exclusão materna resolve, e IgE específica não tem papel na forma não mediada por IgE.",
+   "Correta: mantém-se o aleitamento com exclusão do leite de vaca na dieta materna, sem exames, reavaliando e programando a reintrodução.",
+   "Fórmula de aminoácidos com suspensão do aleitamento é reservada a casos graves ou refratários, não a lactente em bom estado."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 31
+  }
+ },
+ {
+  "pid": "p24032",
+  "q": "Menina de 6 anos foi atendida na UPA com queixa de febre e cervicalgia à direita, com amplitude reduzida do movimento do pescoço e aumento de volume do local da dor há 24 horas. Está em tratamento para amidalite estreptocócica com amoxicilina em dose e intervalo adequados há 4 dias. O diagnóstico é:",
+  "alts": [
+   "abscesso retrofaríngeo;",
+   "meningite bacteriana;",
+   "subluxação atlantoaxial;",
+   "torcicolo muscular traumático;",
+   "adenite cervical reacional."
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Abscesso retrofaríngeo",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kliegman RM et al. Nelson Textbook of Pediatrics, 21ª ed., 2020",
+  "coment": "Febre, dor cervical com limitação do movimento do pescoço (sobretudo da extensão) e aumento de volume local, surgindo durante o tratamento de faringoamigdalite, sugerem abscesso retrofaríngeo. A infecção dos linfonodos retrofaríngeos, que predominam na criança pequena, evolui para supuração, e o antibiótico oral não impede a complicação já instalada. Podem surgir disfagia, sialorreia, torcicolo e, nos casos graves, estridor. A tomografia de pescoço com contraste confirma e orienta a drenagem; o tratamento é antibiótico venoso (por exemplo, clindamicina ou ampicilina-sulbactam) e drenagem quando há coleção. Na meningite a rigidez é à flexão, sem aumento de volume cervical.",
+  "porAlt": [
+   "Correta: febre, cervicalgia, limitação da mobilidade cervical e abaulamento durante faringoamigdalite sugerem abscesso retrofaríngeo.",
+   "Meningite cursa com rigidez de nuca à flexão, cefaleia e vômitos, sem aumento de volume no pescoço.",
+   "Subluxação atlantoaxial (síndrome de Grisel) dá torcicolo doloroso, mas não explica o abaulamento com febre persistente sob antibiótico.",
+   "Torcicolo muscular traumático exige história de trauma e não cursa com febre nem aumento de volume.",
+   "Adenite reacional não causa limitação importante da mobilidade cervical nem febre persistente após 4 dias de antibiótico adequado."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 32
+  }
+ },
+ {
+  "pid": "p24033",
+  "q": "Uma menina de 7 anos, portadora de epilepsia, associou carbamazepina ao esquema anticonvulsivante prévio por descontrole de crises. Após uma semana do início da medicação, evoluiu com melhora das crises, mas há 24 horas apresenta anorexia, cefaleia e exantema maculopapular eritematoso em face e tórax, doloroso ao toque, com formação de bolhas no centro e ocupando 40% da superfície corporal. Há lesões em conjuntiva e mucosa oral. A hipótese diagnóstica, com base nos dados apresentados, é:",
+  "alts": [
+   "necrólise epidérmica tóxica;",
+   "eritema multiforme;",
+   "síndrome de Stevens-Johnson;",
+   "penfigoide bolhoso;",
+   "vasculite. "
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Necrólise epidérmica tóxica",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Bastuji-Garin S et al. Classificação clínica de SSJ, NET e eritema multiforme, Arch Dermatol, 1993, com McPherson T et al., UK guidelines for SJS/TEN in children and young people, Br J Dermatol, 2019",
+  "coment": "Exantema doloroso com bolhas, acometimento de mucosas (conjuntiva e boca) e pródromo de mal-estar, iniciado 1 a 3 semanas após droga de alto risco como a carbamazepina, define o espectro Stevens-Johnson e necrólise epidérmica tóxica. A distinção é pela área acometida: menos de 10% da superfície corporal é síndrome de Stevens-Johnson, 10 a 30% é sobreposição, e mais de 30% é necrólise epidérmica tóxica (classificação de Bastuji-Garin, 1993). Com 40%, é NET. A conduta é suspender o fármaco suspeito de imediato e tratar em UTI ou unidade de queimados. Eritema multiforme tem lesões em alvo típicas, acrais, com área pequena e associação frequente com herpes.",
+  "porAlt": [
+   "Correta: lesões bolhosas dolorosas com mucosas acometidas em 40% da superfície corporal configuram necrólise epidérmica tóxica.",
+   "Eritema multiforme tem lesões em alvo típicas, de distribuição acral, área pequena e associação frequente com herpes.",
+   "Stevens-Johnson acomete menos de 10% da superfície corporal; com 40% o quadro é de necrólise epidérmica tóxica.",
+   "Penfigoide bolhoso é doença autoimune de idosos, com bolhas tensas e pouco acometimento mucoso.",
+   "Vasculite causa púrpura palpável e lesões necróticas, não descolamento epidérmico extenso com mucosite após droga."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 33
+  }
+ },
+ {
+  "pid": "p24034",
+  "q": "Joana, mãe de 4 filhos, recebeu diagnóstico de tuberculose pulmonar há 7 dias (BAAR positivo no escarro espontâneo), ao sair da maternidade. Procura a unidade básica de saúde para avaliação dos menores. Todos estão assintomáticos e têm radiografias de tórax normais. As idades e os resultados da prova tuberculínica (PT) estão descritos a seguir. • Criança A: 8 dias de vida; não realizou PT; não vacinada com BCG; • Criança B: 1 ano; PT = 6 mm; vacinada com BCG ao nascer; • Criança C: 3 anos; PT = 0 mm; vacinada com BCG ao nascer; • Adolescente D: 12 anos; PT = 5 mm; vacinado com BCG ao nascer. A conduta correta para cada caso, nesse momento, é:",
+  "alts": [
+   "criança A: iniciar quimioprofilaxia primária para tuberculose; criança B: iniciar tratamento para tuberculose latente; criança C: repetir PT em 8 semanas; adolescente D: iniciar tratamento para tuberculose latente;",
+   "criança A: iniciar quimioprofilaxia primária para tuberculose; criança B: repetir PT em 8 semanas; criança C: repetir PT em 8 semanas; adolescente D: iniciar tratamento para tuberculose latente;",
+   "criança A: realizar PT e, se positiva, iniciar quimioprofilaxia primária para tuberculose; criança B: repetir PT em 8 semanas; criança C: repetir PT em 8 semanas; adolescente D: repetir PT em 8 semanas;",
+   "criança A: realizar BCG e não realizar PT pela idade; criança B: repetir PT em 8 semanas; criança C: repetir PT em 8 semanas; adolescente D: repetir PT em 8 semanas;",
+   "criança A: aguardar até o terceiro mês de vida para realizar PT; criança B: iniciar tratamento para tuberculose latente; criança C: repetir PT em 8 semanas; adolescente D: repetir PT em 8 semanas."
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Contatos infantis de tuberculose",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r3",
+  "base": "Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed., 2019",
+  "coment": "Pelo Manual de Recomendações do MS (2019), o recém-nascido coabitante de caso bacilífero não recebe BCG ao nascer: faz quimioprofilaxia primária (isoniazida ou rifampicina) por 3 meses e depois a PT. Se a PT for de 5 mm ou mais, mantém o tratamento da infecção latente; se menor, suspende e vacina com BCG. Em contatos assintomáticos com radiografia normal, PT de 5 mm ou mais indica tratamento da infecção latente, independentemente do tempo desde a BCG: é o caso da criança B (6 mm) e do adolescente D (5 mm). PT menor que 5 mm, como na criança C, é repetida em 8 semanas para detectar viragem.",
+  "porAlt": [
+   "Correta: RN faz quimioprofilaxia primária, PT de 5 mm ou mais em B e D indica tratar infecção latente, e C repete PT em 8 semanas.",
+   "A criança B, com PT de 6 mm e radiografia normal, já preenche critério para tratar infecção latente, sem esperar nova PT.",
+   "O recém-nascido contato de bacilífero inicia quimioprofilaxia primária sem PT prévia, e B e D já têm critério para tratar infecção latente.",
+   "Vacinar com BCG o recém-nascido exposto a caso bacilífero, sem quimioprofilaxia, o deixa desprotegido; a BCG só vem após PT negativa.",
+   "Aguardar o terceiro mês sem quimioprofilaxia expõe o recém-nascido a tuberculose grave, e o adolescente D já tem critério para tratar."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 34
+  }
+ },
+ {
+  "pid": "p24035",
+  "q": "Um menino de 5 anos é trazido para consulta pediátrica na unidade básica de saúde, por estar apresentando perda de peso há 2 meses, esteatorreia, dor epigástrica, náuseas e vômitos. Traz um exame parasitológico de fezes, que indica a presença de Giardia lamblia. O único antiparasitário disponível para dispensação é o albendazol, que, nesse caso:",
+  "alts": [
+   "deve ser prescrito em uma dose diária por 3 dias, sem necessidade de repetir;",
+   "deve ser prescrito em uma dose diária por 7 dias e repetido após 1 semana;",
+   "deve ser prescrito em uma dose diária por 5 dias, sem necessidade de repetir;",
+   "deve ser prescrito em uma dose única e repetido após 7 dias;",
+   "deve ser prescrito em uma dose diária por 5 dias e repetido após 7 dias."
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Giardíase tratada com albendazol",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "AAP. Red Book 2024-2027: Report of the Committee on Infectious Diseases, 33ª ed., 2024",
+  "coment": "Na giardíase, os fármacos de primeira linha são tinidazol, nitazoxanida e metronidazol, mas o albendazol é alternativa eficaz quando usado em curso prolongado: 400 mg uma vez ao dia por 5 dias. A dose única de albendazol, suficiente para ascaridíase e ancilostomíase, não erradica a Giardia, que exige exposição mais longa ao fármaco. Não há indicação de repetir o curso após 7 dias quando há resposta; a reavaliação é clínica e, se os sintomas persistirem, repete-se o parasitológico. Esteatorreia e perda de peso refletem a má absorção causada pelo parasita no duodeno e no jejuno.",
+  "porAlt": [
+   "Três dias de albendazol têm eficácia menor contra Giardia; o esquema recomendado é de 5 dias.",
+   "Sete dias com repetição após 1 semana excede o esquema recomendado sem ganho comprovado.",
+   "Correta: albendazol 400 mg ao dia por 5 dias é o esquema alternativo eficaz para giardíase.",
+   "Dose única com repetição é esquema para helmintos como Enterobius, não para Giardia.",
+   "O curso de 5 dias não precisa ser repetido após 7 dias quando há resposta clínica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 35
+  }
+ },
+ {
+  "pid": "p24037",
+  "q": "Uma menina de 10 anos chega à emergência com edema de lábios e língua, broncoespasmo e vômitos. Os sintomas se iniciaram há 30 minutos, após uso de anti-inflamatório para cefaleia. A hipótese diagnóstica e a conduta nesse caso são, respectivamente:",
+  "alts": [
+   "angioedema; adrenalina intramuscular no vastolateral da coxa na dose de 0,01 mg/kg da diluição 1:1000;",
+   "anafilaxia; adrenalina subcutânea no braço na dose de 0,01 mg/kg da diluição 1:1000;",
+   "angioedema; adrenalina subcutânea no braço na dose de 0,01 mg/kg da diluição 1:1000;",
+   "anafilaxia; adrenalina intramuscular no vastolateral da coxa na dose de 0,01 mg/kg da diluição 1:1000;",
+   "anafilaxia; adrenalina intramuscular no vastolateral da coxa na dose de 0,01 mg/kg da diluição 1:10000."
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Anafilaxia por anti-inflamatório",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "World Allergy Organization Anaphylaxis Guidance, 2020",
+  "coment": "Início súbito após exposição a um desencadeante, com acometimento de pele e mucosas (edema de lábios e língua) somado a comprometimento respiratório (broncoespasmo) e gastrointestinal (vômitos), preenche os critérios de anafilaxia; angioedema isolado não explica o broncoespasmo. O tratamento de primeira linha é adrenalina intramuscular no vasto lateral da coxa, 0,01 mg/kg da solução 1 mg/mL (1:1000), com máximo de 0,3 mg em crianças pré-púberes e 0,5 mg em adolescentes e adultos, repetida a cada 5 a 15 minutos se necessário. A via IM na coxa alcança pico mais rápido que a subcutânea, e a diluição 1:10.000 é de uso venoso (WAO, 2020).",
+  "porAlt": [
+   "Edema de lábios e língua com broncoespasmo e vômitos é anafilaxia, não angioedema isolado, embora a conduta descrita esteja correta.",
+   "A via subcutânea tem absorção lenta e irregular; a recomendada é a intramuscular na coxa.",
+   "O quadro multissistêmico é anafilaxia, e a via subcutânea no braço não é a recomendada.",
+   "Correta: quadro multissistêmico após exposição é anafilaxia, tratada com adrenalina IM no vasto lateral, 0,01 mg/kg da solução 1:1000.",
+   "A diluição 1:10.000 é de uso venoso na reanimação; por via IM usa-se a solução 1:1000 (1 mg/mL)."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 37
+  }
+ },
+ {
+  "pid": "p24039",
+  "q": "Um adolescente de 12 anos apresenta febre (38 – 38,5 °C) há 14 dias, cansaço e dor de garganta. Ao exame, placas esbranquiçadas em amígdalas, linfonodomegalias em cadeias cervicais anteriores bilaterais e esplenomegalia. Refere que, no segundo dia dos sintomas, procurou emergência e foi liberado com amoxicilina, mas evoluiu com exantema maculopapular, no segundo dia do antibiótico, que foi suspenso. A provável etiologia para o quadro é:",
+  "alts": [
+   "vírus da dengue;",
+   "vírus Epstein-Barr;",
+   "Streptococcus beta-hemolítico do grupo A;",
+   "zika vírus;",
+   "parvovírus B19. "
+  ],
+  "gab": 1,
+  "tema": "pedinfecto",
+  "sub": "Mononucleose infecciosa",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "AAP. Red Book 2024-2027: Report of the Committee on Infectious Diseases, 33ª ed., 2024",
+  "coment": "Febre prolongada, faringoamigdalite exsudativa, linfonodomegalia cervical bilateral, esplenomegalia e cansaço em adolescente formam o quadro da mononucleose infecciosa pelo vírus Epstein-Barr. O exantema maculopapular após amoxicilina ou ampicilina, frequente nesses pacientes, reforça o diagnóstico e não significa alergia verdadeira à penicilina. A confirmação é por linfocitose com linfócitos atípicos, anticorpos heterófilos (menos sensíveis abaixo de 4 anos) ou sorologia anti-VCA IgM. O tratamento é de suporte, com afastamento de esportes de contato por pelo menos 3 a 4 semanas pelo risco de ruptura esplênica.",
+  "porAlt": [
+   "Dengue não dura 14 dias com amigdalite exsudativa e esplenomegalia, e não explica o exantema desencadeado pela amoxicilina.",
+   "Correta: febre prolongada, amigdalite, linfonodomegalia, esplenomegalia e exantema após amoxicilina são típicos do Epstein-Barr.",
+   "Faringite estreptocócica não dura 14 dias nem causa esplenomegalia, e responderia à amoxicilina.",
+   "Zika causa febre baixa e curta, exantema pruriginoso e conjuntivite, sem amigdalite exsudativa ou esplenomegalia.",
+   "Parvovírus B19 causa eritema infeccioso com face esbofeteada, sem amigdalite exsudativa e esplenomegalia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 39
+  }
+ },
+ {
+  "pid": "p24040",
+  "q": "A asma é uma doença pulmonar crônica que necessita de controle para evitar perda progressiva da função pulmonar. O tratamento intercrise tem como principal fármaco:",
+  "alts": [
+   "corticoide inalatório;",
+   "antileucotrieno;",
+   "broncodilatador de longa duração;",
+   "broncodilatador de curta duração;",
+   "corticoide sistêmico na menor dose possível."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Tratamento de controle da asma",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "GINA 2026 (Global Initiative for Asthma)",
+  "coment": "A asma é doença inflamatória crônica das vias aéreas, e o tratamento de controle (intercrise) se baseia no corticoide inalatório, que reduz sintomas, exacerbações, internações e mortes. Pelo GINA 2026, todo paciente de 6 anos ou mais deve receber corticoide inalatório, seja em dose diária baixa, seja associado ao formoterol como alívio e manutenção. O beta-2 de curta ação isolado não é mais recomendado como único tratamento. Antileucotrieno é alternativa menos eficaz, o broncodilatador de longa ação nunca deve ser usado sem corticoide inalatório, e o corticoide sistêmico contínuo fica para a asma grave refratária.",
+  "porAlt": [
+   "Correta: o corticoide inalatório é a base do tratamento de controle, por agir sobre a inflamação crônica.",
+   "Antileucotrieno é alternativa de menor eficácia que o corticoide inalatório e tem alerta para efeitos neuropsiquiátricos.",
+   "Broncodilatador de longa ação sem corticoide inalatório aumenta o risco de eventos graves e não deve ser usado isolado.",
+   "Broncodilatador de curta ação alivia sintomas, mas não controla a inflamação; usado sozinho aumenta o risco de crise grave.",
+   "Corticoide sistêmico contínuo fica restrito à asma grave refratária pelos efeitos adversos importantes."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 40
+  }
+ },
+ {
+  "pid": "p24041",
+  "q": "Na vasculite por imunoglobulina A, algumas manifestações clínicas requerem tratamento com corticoterapia sistêmica, dentre elas:",
+  "alts": [
+   "oligoartrite aguda e hemorragia pulmonar;",
+   "púrpura palpável e envolvimento gastrointestinal grave;",
+   "orquite e envolvimento gastrointestinal grave;",
+   "necrose de pele e oligoartrite aguda;",
+   "artralgia e vasculite cerebral."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Corticoide na vasculite por IgA",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "Ozen S et al. European consensus-based recommendations for the diagnosis and treatment of IgA vasculitis: the SHARE initiative, Rheumatology, 2019",
+  "coment": "Na vasculite por IgA, a maioria dos casos é autolimitada e precisa só de suporte (hidratação, analgesia, anti-inflamatório quando não há nefrite). As recomendações SHARE (2019) indicam corticoide sistêmico (prednisolona oral ou pulso de metilprednisolona) para orquite, vasculite cerebral, hemorragia pulmonar e envolvimento gastrointestinal grave, além do tratamento da nefrite moderada a grave. Púrpura, artralgia e oligoartrite não são indicação, porque respondem a analgésico e o corticoide não previne nefrite. Por isso o único par em que as duas manifestações exigem corticoide é orquite com envolvimento gastrointestinal grave.",
+  "porAlt": [
+   "Hemorragia pulmonar exige corticoide, mas oligoartrite aguda é tratada com analgésico ou anti-inflamatório.",
+   "Envolvimento gastrointestinal grave pede corticoide, mas a púrpura palpável é manifestação obrigatória e não indica tratamento.",
+   "Correta: orquite e envolvimento gastrointestinal grave estão entre as indicações de corticoide sistêmico das recomendações SHARE.",
+   "Oligoartrite responde a analgésico, o que invalida o par, mesmo que necrose cutânea extensa possa motivar corticoide em casos selecionados.",
+   "Vasculite cerebral é indicação de corticoide, mas artralgia não é."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 41
+  }
+ }
+]

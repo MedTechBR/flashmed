@@ -1,0 +1,1256 @@
+[
+ {
+  "pid": "s24042",
+  "q": "Maria, 15 anos, comparece a consulta médica acompanhada de seus pais. Relata que, há cerca de 5 meses, minutos após se alimentar, sente o alimento \"voltando\" para a boca. Quando isso ocorre, ela remastiga o alimento ou o cospe. Nega outros sintomas gastrointestinais, como náuseas, vômitos ou azia. Maria diz que, por causa disso, tem sentido vergonha de comer em público, tendo perdido peso no período. Fez uma endoscopia digestiva alta, que veio sem alterações. O provável diagnóstico é:",
+  "alts": [
+   "bulimia nervosa;",
+   "doença do reflexo gastroesofágico;",
+   "síndrome de ruminação;",
+   "anorexia nervosa;",
+   "síndrome do intestino irritável."
+  ],
+  "gab": 2,
+  "tema": "psiqinf",
+  "sub": "Transtorno de ruminação",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022), transtornos alimentares, e Critérios de Roma IV, 2016",
+  "coment": "A regurgitação repetida de alimento poucos minutos após comer, sem esforço, sem náusea e sem azia, seguida de remastigação, nova deglutição ou eliminação, por pelo menos 1 mês, define o transtorno de ruminação no DSM-5-TR (síndrome de ruminação nos critérios de Roma IV). A endoscopia normal afasta causa estrutural, e a perda de peso com vergonha de comer em público é consequência comum. Não há medo de engordar nem distorção da imagem corporal, o que separa o quadro de anorexia e bulimia. O tratamento de primeira linha é comportamental, com respiração diafragmática para competir com a contração abdominal que provoca a regurgitação.",
+  "porAlt": [
+   "Na bulimia há compulsão alimentar seguida de purgação para evitar ganho de peso, com autoavaliação centrada no corpo, o que não aparece aqui.",
+   "No refluxo há azia e regurgitação ácida, sem o padrão de regurgitar logo após comer e remastigar; a ausência de azia e a endoscopia normal pesam contra.",
+   "Correta: regurgitação sem esforço logo após as refeições, com remastigação ou eliminação, sem náusea e com endoscopia normal, define a ruminação.",
+   "Na anorexia há restrição alimentar com medo intenso de ganhar peso e distorção da imagem corporal; aqui a perda de peso é secundária à regurgitação.",
+   "A síndrome do intestino irritável cursa com dor abdominal ligada à evacuação e mudança do hábito intestinal, não com regurgitação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 42
+  }
+ },
+ {
+  "pid": "s24043",
+  "q": "Um sintoma característico e inicial da demência frontotemporal é:",
+  "alts": [
+   "déficit de memória;",
+   "alteração comportamental;",
+   "apraxia;",
+   "agnosia visual;",
+   "ideação suicida. "
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Demência frontotemporal variante comportamental",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Critérios de Rascovsky e colaboradores para a variante comportamental da demência frontotemporal (Brain, 2011) e DSM-5-TR (APA, 2022)",
+  "coment": "A variante comportamental da demência frontotemporal começa, em geral entre 45 e 65 anos, com mudança de personalidade e de conduta: desinibição, apatia, perda de empatia, comportamento compulsivo e hiperoralidade, com memória e orientação relativamente preservadas no início. Os critérios de Rascovsky (2011) pedem 3 de 6 achados comportamentais e executivos. Por isso esses pacientes chegam primeiro ao psiquiatra e são confundidos com transtorno bipolar, depressão ou esquizofrenia de início tardio. Déficit de memória precoce aponta para Alzheimer; apraxia e agnosia são achados corticais posteriores e mais tardios.",
+  "porAlt": [
+   "O déficit de memória episódica precoce é típico da doença de Alzheimer; na frontotemporal a memória costuma estar relativamente preservada no início.",
+   "Correta: desinibição, apatia, perda de empatia e comportamentos compulsivos abrem o quadro, antes de declínio cognitivo evidente.",
+   "Apraxia é sinal cortical parietal, mais característico de Alzheimer e da degeneração corticobasal, e não marca o início da frontotemporal.",
+   "Agnosia visual aponta para comprometimento occipitotemporal, como na atrofia cortical posterior, e não para a doença frontotemporal.",
+   "Ideação suicida não faz parte dos critérios nem é sintoma inicial característico; a apatia frontal difere da depressão com desesperança."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 43
+  }
+ },
+ {
+  "pid": "s24045",
+  "q": "É um sintoma positivo da esquizofrenia:",
+  "alts": [
+   "melhora das funções executivas;",
+   "embotamento afetivo;",
+   "alucinações auditivas;",
+   "afasia motora;",
+   "retração social."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Sintomas positivos da esquizofrenia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022), espectro da esquizofrenia",
+  "coment": "Sintomas positivos são experiências ou comportamentos que se somam ao funcionamento normal: delírios, alucinações (as auditivas são as mais comuns na esquizofrenia), discurso desorganizado e comportamento grosseiramente desorganizado ou catatônico. Sintomas negativos são perdas: embotamento afetivo, alogia, avolição, anedonia e associabilidade (retração social). A distinção importa porque os sintomas positivos respondem melhor aos antipsicóticos, enquanto os negativos e os cognitivos respondem pouco e pesam mais no prognóstico funcional (DSM-5-TR, 2022).",
+  "porAlt": [
+   "Melhora das funções executivas não é sintoma; na esquizofrenia o domínio cognitivo piora, com prejuízo executivo e de memória de trabalho.",
+   "Embotamento afetivo é perda da expressão emocional, ou seja, sintoma negativo.",
+   "Correta: alucinação auditiva é percepção sem objeto acrescentada à experiência normal, o protótipo do sintoma positivo.",
+   "Afasia motora é déficit neurológico de linguagem por lesão na área de Broca, não sintoma da esquizofrenia.",
+   "Retração social (associabilidade) é sintoma negativo, por perda de iniciativa e de interesse pelo contato."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 45
+  }
+ },
+ {
+  "pid": "s24046",
+  "q": "A substância presente no ecstasy é:",
+  "alts": [
+   "buspirona;",
+   "cocaína;",
+   "tetrahidrocanabinol;",
+   "metilenodioximetanfetamina;",
+   "metilfenidato."
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Ecstasy (MDMA)",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2022, e DSM-5-TR (APA, 2022)",
+  "coment": "O ecstasy é a 3,4-metilenodioximetanfetamina (MDMA), anfetamina substituída com ação entactógena: libera serotonina, além de noradrenalina e dopamina, e inibe sua recaptação. Daí os efeitos de euforia, empatia e proximidade emocional, e as complicações cobradas em prova: hipertermia, hiponatremia por secreção inapropriada de ADH somada à ingestão excessiva de água, síndrome serotoninérgica, rabdomiólise e, nos dias seguintes, rebaixamento do humor pela depleção de serotonina. Comprimidos vendidos como ecstasy muitas vezes contêm outras substâncias, como catinonas sintéticas.",
+  "porAlt": [
+   "Buspirona é ansiolítico agonista parcial 5-HT1A, sem potencial de abuso e sem relação com o ecstasy.",
+   "Cocaína é alcaloide da folha de coca que bloqueia a recaptação de dopamina, droga distinta do ecstasy.",
+   "Tetrahidrocanabinol é o principal canabinoide psicoativo da maconha, não o componente do ecstasy.",
+   "Correta: o princípio ativo do ecstasy é a MDMA, anfetamina com intensa ação serotoninérgica.",
+   "Metilfenidato é psicoestimulante usado no TDAH, inibidor da recaptação de dopamina e noradrenalina, não o ecstasy."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 46
+  }
+ },
+ {
+  "pid": "s24047",
+  "q": "A acatisia é caracterizada por:",
+  "alts": [
+   "transtorno de linguagem em que o paciente não consegue se expressar;",
+   "transtorno de linguagem em que o paciente perde a sua compreensão;",
+   "incapacidade de realizar movimentos voluntários e coordenados;",
+   "incapacidade de reconhecer objetos pelo tato;",
+   "transtorno do movimento caracterizado por inquietude que pode fazer o paciente andar incessantemente."
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Acatisia: definição",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020",
+  "coment": "Acatisia é um efeito extrapiramidal em que o paciente sente inquietação interna e necessidade de se mexer: troca o peso de uma perna para a outra, cruza e descruza as pernas, não consegue ficar sentado e anda de um lado para outro. Surge dias a semanas após iniciar ou aumentar antipsicótico, sobretudo de alta potência, e também com ISRS. Precisa ser reconhecida porque é confundida com agitação psicótica, o que leva a aumento indevido da dose, e se associa a impulsividade e risco de suicídio. O manejo inclui reduzir a dose, propranolol, mirtazapina em dose baixa ou benzodiazepínico (APA, 2020).",
+  "porAlt": [
+   "Incapacidade de se expressar com compreensão preservada descreve afasia de expressão (Broca), não acatisia.",
+   "Perda da compreensão da linguagem descreve afasia de Wernicke, distúrbio de linguagem e não de movimento.",
+   "Incapacidade de executar movimentos voluntários aprendidos, sem déficit motor primário, é apraxia.",
+   "Incapacidade de reconhecer objetos pelo tato é astereognosia, sinal de lesão parietal.",
+   "Correta: acatisia é inquietude motora com sensação subjetiva de não conseguir ficar parado, que leva o paciente a andar sem parar."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 47
+  }
+ },
+ {
+  "pid": "s24048",
+  "q": "A medicação que está mais associada ao surgimento de acatisia é:",
+  "alts": [
+   "amitriptilina;",
+   "selegilina;",
+   "valproato de sódio;",
+   "metilfenidato;",
+   "haloperidol."
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Acatisia induzida por antipsicótico",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020",
+  "coment": "A acatisia é mais associada aos antipsicóticos de primeira geração de alta potência, como haloperidol e flufenazina, pelo bloqueio intenso de receptores D2 na via nigroestriatal. Entre os de segunda geração, aripiprazol, lurasidona e cariprazina também a causam com frequência, e ISRS podem provocá-la em menor grau. Amitriptilina tem efeito anticolinérgico, que tende a proteger contra efeitos extrapiramidais; selegilina é inibidor da MAO-B; valproato causa tremor, não acatisia; metilfenidato pode inquietar por estímulo, mas não é a associação clássica. Na acatisia por haloperidol, o primeiro passo é reduzir a dose ou trocar o antipsicótico (APA, 2020).",
+  "porAlt": [
+   "Amitriptilina tem forte ação anticolinérgica, o que reduz e não provoca sintomas extrapiramidais como a acatisia.",
+   "Selegilina é inibidor da MAO-B usado no Parkinson, de ação pró-dopaminérgica, sem associação clássica com acatisia.",
+   "Valproato causa tremor, ganho de peso e queda de cabelo, mas não é causa típica de acatisia.",
+   "Metilfenidato pode gerar inquietação por efeito estimulante, mas não bloqueia D2 e não é a causa clássica de acatisia.",
+   "Correta: o haloperidol, antipsicótico de alta potência com forte bloqueio D2 nigroestriatal, é o protótipo de causa de acatisia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 48
+  }
+ },
+ {
+  "pid": "s24049",
+  "q": "O melhor tratamento para distonia aguda induzida por antipsicóticos é:",
+  "alts": [
+   "biperideno;",
+   "bupropiona;",
+   "sertralina;",
+   "haloperidol;",
+   "clorpromazina."
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Distonia aguda por antipsicótico",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020",
+  "coment": "A distonia aguda surge nas primeiras horas a dias após iniciar ou aumentar antipsicótico de alta potência, com contrações involuntárias sustentadas: torcicolo, crise oculógira, protrusão de língua, trismo e, raramente, laringoespasmo. É mais comum em homens jovens. Resulta do bloqueio dopaminérgico com excesso relativo de acetilcolina no estriado, por isso responde rápido a anticolinérgico parenteral: biperideno 2 a 5 mg intramuscular, ou difenidramina, com melhora em minutos. Depois, mantém-se anticolinérgico oral por alguns dias e revisa-se a dose do antipsicótico (APA, 2020).",
+  "porAlt": [
+   "Correta: o biperideno, anticolinérgico de ação central, reverte a distonia aguda em minutos por via intramuscular ou venosa.",
+   "Bupropiona é antidepressivo noradrenérgico e dopaminérgico, sem papel no tratamento da distonia aguda.",
+   "Sertralina é ISRS para depressão e ansiedade e não trata distonia; ISRS podem até causar efeitos extrapiramidais.",
+   "Haloperidol é a causa clássica da distonia aguda; aumentar a dose pioraria o quadro.",
+   "Clorpromazina é outro antipsicótico bloqueador D2 e não reverte distonia causada por antipsicótico."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 49
+  }
+ },
+ {
+  "pid": "s24050",
+  "q": "A medicação que pode ser usada para o tratamento da síndrome neuroléptica maligna é:",
+  "alts": [
+   "lamotrigina;",
+   "fluvoxamina;",
+   "bromocriptina;",
+   "bexpiprazol;",
+   "vortioxetina."
+  ],
+  "gab": 2,
+  "tema": "emergpsiq",
+  "sub": "Síndrome neuroléptica maligna: tratamento",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020, e Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2022",
+  "coment": "A síndrome neuroléptica maligna cursa com rigidez muscular em cano de chumbo, hipertermia, alteração do nível de consciência, instabilidade autonômica e CK elevada, após exposição a antagonista dopaminérgico. A conduta é suspender o antipsicótico, dar suporte intensivo (resfriamento, hidratação, correção eletrolítica, prevenção de rabdomiólise e lesão renal) e, nos casos moderados a graves, usar bromocriptina, agonista dopaminérgico que repõe o tônus D2 bloqueado, e/ou dantrolene, relaxante muscular. Benzodiazepínico ajuda nos quadros leves e na catatonia associada; eletroconvulsoterapia é opção nos refratários.",
+  "porAlt": [
+   "Lamotrigina é estabilizador do humor e anticonvulsivante, sem ação sobre o bloqueio dopaminérgico da síndrome.",
+   "Fluvoxamina é ISRS usado no TOC e não tem papel na síndrome neuroléptica maligna.",
+   "Correta: a bromocriptina, agonista dopaminérgico, reverte o bloqueio D2 que causa a síndrome e é usada com o dantrolene nos casos moderados e graves.",
+   "O bexpiprazol (brexpiprazol) é antipsicótico de segunda geração; manter ou introduzir antagonista dopaminérgico agravaria a síndrome.",
+   "Vortioxetina é antidepressivo multimodal serotoninérgico, sem indicação na síndrome neuroléptica maligna."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 50
+  }
+ },
+ {
+  "pid": "s24051",
+  "q": "A agorafobia é caracterizada por medo:",
+  "alts": [
+   "de altura;",
+   "de aranhas;",
+   "desproporcional em espaços fechados, como elevadores e túneis;",
+   "em situações sociais e de ser julgado;",
+   "de estar fora de casa sozinho e preocupação com impossibilidade de ajuda."
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Agorafobia: critérios",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022), transtornos de ansiedade",
+  "coment": "Pelo DSM-5-TR, agorafobia é medo ou ansiedade acentuados em pelo menos 2 de 5 situações: transporte público, espaços abertos, lugares fechados (lojas, cinemas), filas ou multidões e estar fora de casa sozinho. O núcleo é o pensamento de que escapar seria difícil ou que não haveria ajuda se surgissem sintomas de pânico ou outros sintomas incapacitantes, o que leva à evitação, à necessidade de acompanhante ou a suportar a situação com sofrimento intenso, por 6 meses ou mais. O medo de uma única situação, como elevador ou altura, é fobia específica.",
+  "porAlt": [
+   "Medo de altura (acrofobia) é fobia específica do tipo ambiente natural, não agorafobia.",
+   "Medo de aranhas (aracnofobia) é fobia específica do tipo animal.",
+   "Medo restrito a espaços fechados como elevadores e túneis é claustrofobia, fobia específica situacional; na agorafobia o medo envolve 2 ou mais situações e o temor de não ter ajuda.",
+   "Medo de situações sociais e de ser julgado negativamente define o transtorno de ansiedade social.",
+   "Correta: o medo de estar fora de casa sozinho, pela preocupação de não conseguir escapar ou receber ajuda, é o núcleo da agorafobia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 51
+  }
+ },
+ {
+  "pid": "s24052",
+  "q": "A buspirona é indicada em bula para:",
+  "alts": [
+   "transtorno depressivo isolado;",
+   "transtorno de ansiedade generalizada;",
+   "controle de sintomas psicóticos;",
+   "indução do sono;",
+   "manutenção do sono."
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Buspirona: indicação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2022, e bula da buspirona registrada na ANVISA",
+  "coment": "A buspirona é ansiolítico não benzodiazepínico, agonista parcial dos receptores 5-HT1A, com indicação em bula para transtornos de ansiedade, em especial o transtorno de ansiedade generalizada. Não causa sedação relevante, dependência, tolerância nem síndrome de abstinência, e não potencializa o álcool, mas o efeito ansiolítico leva 2 a 4 semanas para aparecer, e por isso não serve para crise aguda. Não tem efeito hipnótico nem antipsicótico, e como monoterapia não trata depressão; na depressão aparece apenas como potencializador de antidepressivo.",
+  "porAlt": [
+   "Buspirona não é aprovada como antidepressivo isolado; na depressão ela só aparece como potencialização de ISRS.",
+   "Correta: a bula da buspirona traz o transtorno de ansiedade generalizada, com início de ação em 2 a 4 semanas e sem risco de dependência.",
+   "Buspirona não bloqueia receptores D2 de forma clinicamente útil e não controla sintomas psicóticos.",
+   "Buspirona não é sedativa nem hipnótica, por isso não tem indicação para induzir o sono.",
+   "Pelo mesmo motivo, buspirona não mantém o sono; insônia de manutenção não está entre suas indicações."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 52
+  }
+ },
+ {
+  "pid": "s24053",
+  "q": "A eletroconvulsoterapia é indicada para:",
+  "alts": [
+   "anorexia nervosa;",
+   "transtorno narcisista;",
+   "depressão com ideação suicida persistente;",
+   "transtorno neurocognitivo maior rapidamente progressivo;",
+   "transtorno do déficit de atenção e hiperatividade em adultos."
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Eletroconvulsoterapia: indicações",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Resolução CFM 2.057/2013 e CANMAT 2023 para transtorno depressivo maior no adulto (Can J Psychiatry, 2024)",
+  "coment": "A eletroconvulsoterapia é o tratamento mais eficaz e rápido para depressão maior grave, com remissão em 60 a 80% dos casos. As indicações de primeira linha incluem depressão com risco de suicídio elevado e persistente, depressão psicótica, catatonia, recusa alimentar com risco clínico e depressão resistente a vários antidepressivos; também é usada na mania grave e na esquizofrenia refratária à clozapina. No Brasil, a Resolução CFM 2.057/2013 exige consentimento informado e realização com anestesia em ambiente adequado. Não há evidência para anorexia, transtornos de personalidade, TDAH ou demência progressiva.",
+  "porAlt": [
+   "Anorexia nervosa se trata com reabilitação nutricional e psicoterapia; não é indicação de eletroconvulsoterapia.",
+   "Transtornos de personalidade, como o narcisista, se tratam com psicoterapia; a eletroconvulsoterapia não tem papel.",
+   "Correta: depressão com ideação suicida persistente é indicação clássica, pela resposta rápida e alta taxa de remissão.",
+   "Demência rapidamente progressiva exige investigar a causa (priônica, autoimune, infecciosa); a eletroconvulsoterapia não trata o declínio e pode piorar a confusão.",
+   "TDAH no adulto se trata com estimulantes ou atomoxetina e intervenções comportamentais, sem papel para eletroconvulsoterapia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 53
+  }
+ },
+ {
+  "pid": "s24054",
+  "q": "Em 1949, Egas Moniz recebeu o prêmio Nobel de medicina por sua prática de lobotomia em pacientes psiquiátricos. O procedimento consistia em seccionar conexões do córtex pré-frontal com o restante do cérebro. Uma possível consequência desse procedimento é(são):",
+  "alts": [
+   "apatia;",
+   "hemiparestesia;",
+   "astereognosia;",
+   "disdiadococinesia;",
+   "alucinações auditivas."
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Lobotomia e síndrome pré-frontal",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2022 (história da psiquiatria e neuropsiquiatria do lobo frontal)",
+  "coment": "A leucotomia pré-frontal de Egas Moniz desconectava o córtex pré-frontal, sobretudo suas projeções para o tálamo e o sistema límbico. O córtex pré-frontal sustenta iniciativa, motivação, planejamento e controle do comportamento; sua desconexão produz a síndrome pré-frontal, com apatia, abulia, embotamento afetivo, perda de espontaneidade e, em alguns pacientes, desinibição. Era essa redução da agitação que se buscava, ao custo de dano permanente à personalidade. A técnica foi abandonada com a chegada da clorpromazina, nos anos 1950. Déficits sensitivos e cerebelares não decorrem de lesão pré-frontal.",
+  "porAlt": [
+   "Correta: a desconexão do córtex pré-frontal produz apatia e abulia, marca da síndrome pré-frontal.",
+   "Hemiparestesia é déficit sensitivo por lesão do córtex parietal ou das vias sensitivas, não pré-frontal.",
+   "Astereognosia indica lesão do córtex parietal, área associativa sensitiva, e não do lobo frontal.",
+   "Disdiadococinesia é sinal de lesão cerebelar, sem relação com a desconexão pré-frontal.",
+   "Alucinações auditivas não resultam da desconexão pré-frontal; a lobotomia era usada justamente para reduzir a agitação psicótica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 54
+  }
+ },
+ {
+  "pid": "s24055",
+  "q": "A Lei nº 10.216 de 2001 dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais. Segundo essa lei, a internação compulsória:",
+  "alts": [
+   "é aquela que se dá com o consentimento do usuário;",
+   "é realizada sem o consentimento do paciente e a partir da solicitação de terceiros, geralmente um familiar;",
+   "só pode ocorrer 72 horas após a liberação do Ministério Público;",
+   "é determinada pelo juiz competente, com base em laudo médico que demonstre a necessidade de internação;",
+   "não é permitida. "
+  ],
+  "gab": 3,
+  "tema": "raps",
+  "sub": "Internação compulsória na Lei 10.216",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 10.216/2001, arts. 6º, 8º e 9º, com as alterações da Lei 13.840/2019",
+  "coment": "A Lei 10.216/2001 (art. 6º) prevê três tipos de internação psiquiátrica, todas dependentes de laudo médico circunstanciado: voluntária, com consentimento do usuário; involuntária, sem consentimento e a pedido de terceiro, que o responsável técnico deve comunicar ao Ministério Público Estadual em até 72 horas (art. 8º); e compulsória, determinada pela Justiça. O art. 9º diz que a compulsória é determinada pelo juiz competente, que leva em conta a segurança do estabelecimento, do paciente, dos demais internados e dos funcionários. A Lei 13.840/2019 não mudou essa definição.",
+  "porAlt": [
+   "A internação com consentimento do usuário é a voluntária, não a compulsória.",
+   "Sem consentimento e a pedido de terceiro, geralmente familiar, define a internação involuntária.",
+   "O prazo de 72 horas é para comunicar a internação involuntária ao Ministério Público, não uma espera prévia para a compulsória.",
+   "Correta: pelo art. 9º da Lei 10.216/2001, a internação compulsória é determinada pelo juiz competente, com base em laudo médico.",
+   "A lei permite a internação compulsória como uma das três modalidades, sempre como último recurso e com laudo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 55
+  }
+ },
+ {
+  "pid": "s24056",
+  "q": "Considerando os conceitos de psicoterapia, pode-se definir aliança terapêutica como:",
+  "alts": [
+   "sentimentos do paciente relativos a figuras do passado que são transferidas ao terapeuta;",
+   "reações do terapeuta em relação ao comportamento do paciente;",
+   "vínculo entre paciente e terapeuta, incluindo metas e objetivos em prol do processo psicoterapêutico;",
+   "atitudes do paciente que dificultem o prosseguimento da terapia;",
+   "associação do terapeuta com a família do paciente, excluindo o paciente do processo devido ao seu estado mórbido."
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Aliança terapêutica em psicoterapia",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Bordin, conceito de aliança de trabalho (Psychotherapy: Theory, Research & Practice, 1979), e Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2022",
+  "coment": "Aliança terapêutica é a colaboração consciente entre paciente e terapeuta. No modelo de Bordin (1979), tem três componentes: acordo sobre os objetivos, acordo sobre as tarefas e o vínculo afetivo entre os dois. É um dos preditores mais consistentes de bom resultado em qualquer abordagem de psicoterapia e também influencia a adesão ao tratamento medicamentoso. Deve ser diferenciada de conceitos psicodinâmicos próximos: transferência (sentimentos do paciente sobre figuras do passado deslocados ao terapeuta), contratransferência (reações do terapeuta ao paciente) e resistência (forças que se opõem ao progresso da terapia).",
+  "porAlt": [
+   "Sentimentos do paciente ligados a figuras do passado e deslocados ao terapeuta definem a transferência.",
+   "Reações emocionais do terapeuta diante do paciente definem a contratransferência.",
+   "Correta: aliança terapêutica é o vínculo colaborativo entre paciente e terapeuta, com acordo sobre metas e tarefas do tratamento.",
+   "Atitudes do paciente que dificultam o andamento da terapia definem a resistência.",
+   "Excluir o paciente e se aliar à família rompe o vínculo e a confidencialidade, o oposto de aliança terapêutica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 56
+  }
+ },
+ {
+  "pid": "s24057",
+  "q": "Polimorfismo nos genes que codificam as enzimas do CYP450 pode alterar a metabolização de medicações psiquiátricas devido a:",
+  "alts": [
+   "redução da recaptação pré-sináptica;",
+   "interferência na metabolização hepática;",
+   "aumento da excreção renal;",
+   "disrupção da barreira hematoencefálica;",
+   "modificação estrutural dos neurotransmissores."
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Farmacogenética do CYP450",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r3",
+  "base": "CPIC Guideline for CYP2D6, CYP2C19, CYP2B6, SLC6A4 and HTR2A genotypes and serotonin reuptake inhibitor antidepressants (Bousman e colaboradores, Clin Pharmacol Ther, 2023)",
+  "coment": "As enzimas do citocromo P450 (CYP2D6, CYP2C19, CYP3A4, CYP1A2) fazem a metabolização hepática de fase I da maioria dos antidepressivos e antipsicóticos. Polimorfismos genéticos geram fenótipos de metabolizador lento, intermediário, normal ou ultrarrápido. O metabolizador lento acumula o fármaco e tem mais efeitos adversos com doses usuais; o ultrarrápido elimina rápido e pode não responder. A diretriz do CPIC (2023) usa o genótipo de CYP2D6 e CYP2C19 para ajustar dose ou escolher outro ISRS. O polimorfismo muda a velocidade da metabolização, não o alvo farmacológico nem a excreção renal.",
+  "porAlt": [
+   "A recaptação pré-sináptica é o alvo farmacodinâmico dos antidepressivos, não a função das enzimas do CYP450.",
+   "Correta: polimorfismos do CYP450 alteram a velocidade da metabolização hepática, mudando o nível sérico e a resposta ao fármaco.",
+   "As enzimas do CYP450 atuam na biotransformação hepática, não na excreção renal.",
+   "Variantes do CYP450 não rompem a barreira hematoencefálica; a passagem pela barreira depende de transportadores como a glicoproteína P.",
+   "Enzimas do CYP450 metabolizam fármacos e não modificam a estrutura dos neurotransmissores."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 57
+  }
+ },
+ {
+  "pid": "s24058",
+  "q": "O inventário de burnout de Maslach avalia as seguintes dimensões:",
+  "alts": [
+   "realização profissional e resiliência;",
+   "despersonalização, atitude negativa e sintomas depressivos;",
+   "resiliência e atividades básicas e instrumentais de vida diária;",
+   "exaustão emocional, exaustão física e sintomas depressivos;",
+   "exaustão emocional, despersonalização e realização profissional."
+  ],
+  "gab": 4,
+  "tema": "trabalho",
+  "sub": "Burnout: inventário de Maslach",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Maslach e Jackson, The measurement of experienced burnout (J Occup Behav, 1981), e CID-11 (OMS, em vigor desde 2022), código QD85",
+  "coment": "O Maslach Burnout Inventory, criado por Maslach e Jackson em 1981, é o instrumento mais usado para medir burnout e avalia três dimensões: exaustão emocional (esgotamento pelo trabalho), despersonalização ou cinismo (atitude distante e impessoal com pacientes ou clientes) e baixa realização profissional (sentimento de ineficácia). A CID-11 (código QD85) classifica o burnout como fenômeno ocupacional, resultado de estresse crônico no trabalho não gerenciado com sucesso, com as mesmas três dimensões. Sintomas depressivos e resiliência não são dimensões do inventário.",
+  "porAlt": [
+   "Realização profissional é uma das dimensões, mas resiliência não faz parte do inventário e faltam exaustão e despersonalização.",
+   "Despersonalização é dimensão do inventário, mas atitude negativa e sintomas depressivos não são domínios dele.",
+   "Atividades básicas e instrumentais de vida diária são avaliadas por escalas funcionais geriátricas, como Katz e Lawton.",
+   "O inventário não separa exaustão física nem mede sintomas depressivos; a dimensão é a exaustão emocional.",
+   "Correta: exaustão emocional, despersonalização e (baixa) realização profissional são as três dimensões do inventário de Maslach."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 58
+  }
+ },
+ {
+  "pid": "s24059",
+  "q": "O medo ou ansiedade intensa ao conhecer novas pessoas e falar em público, associados ao medo de situações em que possa haver julgamento negativo, são característicos do transtorno:",
+  "alts": [
+   "obsessivo-compulsivo;",
+   "de fobia social;",
+   "depressivo unipolar;",
+   "afetivo bipolar;",
+   "de adaptação."
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Transtorno de ansiedade social",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022), transtornos de ansiedade",
+  "coment": "O transtorno de ansiedade social (fobia social) é medo ou ansiedade acentuados em situações sociais em que a pessoa pode ser avaliada pelos outros: conhecer pessoas, conversar, comer ou beber em público, falar ou se apresentar diante de plateia. O núcleo é o medo de agir de modo que seja avaliado negativamente, humilhado ou rejeitado. As situações são evitadas ou suportadas com sofrimento intenso, por 6 meses ou mais, com prejuízo funcional (DSM-5-TR, 2022). O tratamento de primeira linha é terapia cognitivo-comportamental e/ou ISRS ou venlafaxina.",
+  "porAlt": [
+   "No TOC há obsessões e compulsões que aliviam a ansiedade, sem o foco no julgamento social.",
+   "Correta: medo de situações sociais e de ser avaliado negativamente é o núcleo da fobia social (transtorno de ansiedade social).",
+   "Na depressão unipolar o centro é humor deprimido ou anedonia; o retraimento decorre do desânimo, não do medo de julgamento.",
+   "No transtorno bipolar há episódios de mania ou hipomania alternados com depressão, o que não aparece no enunciado.",
+   "No transtorno de adaptação os sintomas surgem até 3 meses após um estressor identificável, sem o padrão de medo social."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 59
+  }
+ },
+ {
+  "pid": "s24060",
+  "q": "Um psiquiatra é chamado ao hospital para avaliar um paciente com quadro de imobilidade, manutenção de posturas anormais fixas por períodos prolongados e ecopraxia. Considerando o diagnóstico mais provável, o melhor tratamento inicial é:",
+  "alts": [
+   "lorazepam;",
+   "fluoxetina;",
+   "gabapentina;",
+   "topiramato;",
+   "donepezila."
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Catatonia: tratamento inicial",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "British Association for Psychopharmacology, consenso para o manejo da catatonia (Rogers e colaboradores, J Psychopharmacol, 2023)",
+  "coment": "Imobilidade, manutenção de posturas fixas por longos períodos (catalepsia e postura) e ecopraxia (imitação dos movimentos do examinador) são sinais de catatonia; o DSM-5-TR exige 3 de 12 sinais. A catatonia ocorre em transtornos do humor, esquizofrenia ou condições médicas, e o tratamento inicial é benzodiazepínico, em geral lorazepam, como teste terapêutico (1 a 2 mg intravenoso ou intramuscular, repetido) e depois em doses crescentes, com resposta em cerca de 70 a 80%. Sem resposta, indica-se eletroconvulsoterapia. Antipsicóticos devem ser evitados na fase aguda pelo risco de síndrome neuroléptica maligna (BAP, 2023).",
+  "porAlt": [
+   "Correta: o lorazepam é o tratamento inicial da catatonia e serve também como teste diagnóstico, com resposta rápida na maioria dos casos.",
+   "Fluoxetina pode tratar a depressão subjacente depois, mas não reverte a catatonia aguda.",
+   "Gabapentina não tem eficácia estabelecida na catatonia e não é tratamento inicial.",
+   "Topiramato é anticonvulsivante sem papel no tratamento da catatonia.",
+   "Donepezila é anticolinesterásico para demência de Alzheimer e não trata catatonia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 60
+  }
+ },
+ {
+  "pid": "s24061",
+  "q": "Com relação às obsessões e compulsões no transtorno obsessivo-compulsivo, é correto afirmar que:",
+  "alts": [
+   "são acompanhadas, com frequência, de déficit de memória;",
+   "podem ser reconhecidas como absurdas ou irracionais pelo paciente;",
+   "não causam sofrimento significativo na maioria dos pacientes;",
+   "não causam ansiedade nos pacientes;",
+   "são fruto de uma deterioração cognitiva."
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Insight no transtorno obsessivo-compulsivo",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022), transtorno obsessivo-compulsivo e transtornos relacionados",
+  "coment": "No TOC, obsessões são pensamentos, imagens ou impulsos intrusivos e indesejados que causam ansiedade, e compulsões são atos ou rituais mentais feitos para neutralizar essa ansiedade. A maior parte dos pacientes reconhece que elas são excessivas ou irracionais (egodistônicas), o que ajuda a separar o TOC de delírios. O DSM-5-TR (2022) pede especificar o insight: bom ou razoável, pobre, ou ausente com crenças delirantes, já que uma minoria não tem crítica. Os sintomas consomem tempo (mais de 1 hora por dia) ou causam sofrimento e prejuízo; não há deterioração cognitiva nem déficit de memória como característica do transtorno.",
+  "porAlt": [
+   "O TOC não cursa tipicamente com déficit de memória; o paciente duvida da memória, mas ela está preservada.",
+   "Correta: a maioria dos pacientes com TOC reconhece que obsessões e compulsões são exageradas ou irracionais, ou seja, tem insight.",
+   "Obsessões e compulsões causam sofrimento significativo e prejuízo funcional, o que é critério diagnóstico.",
+   "Obsessões geram ansiedade intensa, e as compulsões surgem justamente para aliviá-la.",
+   "O TOC não decorre de deterioração cognitiva; é transtorno de circuitos córtico-estriatais com cognição global preservada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 61
+  }
+ },
+ {
+  "pid": "s24062",
+  "q": "Com relação ao transtorno de transe e possessão, é correto afirmar que:",
+  "alts": [
+   "está presente na doença de Alzheimer;",
+   "só pode ser diagnosticado no contexto religioso;",
+   "é característico da síndrome de Münchhausen por procuração;",
+   "é caracterizada pela produção intencional de respostas absurdas ou sem sentido a perguntas simples;",
+   "o indivíduo age tomado de uma personalidade ou divindade, ocorrendo uma pausa temporária no senso de identidade."
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Transtorno de transe e possessão",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "CID-11 (OMS, em vigor desde 2022), código 6B63, e DSM-5-TR (APA, 2022), transtornos dissociativos",
+  "coment": "Na CID-11, o transtorno de transe e possessão (6B63) é uma alteração temporária e marcada da consciência em que o senso de identidade pessoal é substituído por uma identidade externa de possessão, atribuída a espírito, divindade ou outra entidade, com comportamentos vividos como controlados por ela. Só é transtorno quando é involuntário, recorrente ou prolongado, causa sofrimento ou prejuízo e não faz parte de prática cultural ou religiosa coletivamente aceita. O DSM-5-TR inclui formas semelhantes no transtorno dissociativo de identidade e no transe dissociativo. Respostas aproximadas e absurdas definem a síndrome de Ganser.",
+  "porAlt": [
+   "A doença de Alzheimer cursa com declínio de memória e cognição, não com estados de possessão dissociativa.",
+   "O transe dentro de ritual religioso aceito pela cultura não é transtorno; o diagnóstico exige que o quadro fuja dessas práticas.",
+   "Na síndrome de Münchhausen por procuração, o cuidador produz sinais de doença em outra pessoa, sem relação com possessão.",
+   "Respostas aproximadas ou absurdas a perguntas simples caracterizam a síndrome de Ganser, não o transe de possessão.",
+   "Correta: no transe de possessão o indivíduo age como se tomado por outra personalidade ou divindade, com suspensão temporária da própria identidade."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 62
+  }
+ },
+ {
+  "pid": "s24063",
+  "q": "Quanto à síndrome de Munchausen, é correto afirmar que:",
+  "alts": [
+   "não traz riscos ao paciente;",
+   "tem como uma característica proeminente a retração social;",
+   "envolve benefícios financeiros como sua principal motivação;",
+   "é caracterizada pela ausência de ganhos externos óbvios;",
+   "se caracteriza por piora das funções executivas em esquizofrênicos."
+  ],
+  "gab": 3,
+  "tema": "psiqinf",
+  "sub": "Transtorno factício (Münchhausen)",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022), transtorno factício",
+  "coment": "A síndrome de Münchhausen é a forma grave e crônica do transtorno factício imposto a si mesmo: o paciente falsifica sinais ou sintomas, ou provoca lesões e doenças em si, e se apresenta como doente mesmo sem recompensa externa óbvia (DSM-5-TR, 2022). A motivação é interna, assumir o papel de doente e receber cuidados. Isso a separa da simulação, em que há ganho externo claro, como dinheiro, afastamento ou fuga de processo. O quadro tem risco real: procedimentos invasivos, cirurgias repetidas e iatrogenia. A conduta é confrontar sem hostilidade, evitar procedimentos desnecessários e manter um médico de referência.",
+  "porAlt": [
+   "O transtorno traz riscos graves, como cirurgias e procedimentos invasivos desnecessários e lesões autoinduzidas.",
+   "Retração social não é característica central; muitos pacientes buscam ativamente serviços e equipes de saúde.",
+   "Benefício financeiro como motivação principal define a simulação, não o transtorno factício.",
+   "Correta: no Münchhausen o paciente produz ou falseia doença sem ganho externo óbvio, buscando o papel de doente.",
+   "Não é quadro da esquizofrenia; a produção deliberada de sintomas não decorre de piora das funções executivas."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 63
+  }
+ },
+ {
+  "pid": "s24064",
+  "q": "Entre os critérios para diferenciar a anorexia nervosa da depressão está o fato de que:",
+  "alts": [
+   "em pacientes deprimidos, nunca há alteração do apetite;",
+   "na anorexia, os pacientes percebem alterações de apetite;",
+   "na depressão, ocorre comportamento de purgação, o que nunca é observado na anorexia;",
+   "na depressão, os pacientes sentem mais fome e percebem alterações do apetite, enquanto que na anorexia os pacientes não sentem fome em nenhum estágio da doença;",
+   "em pacientes com depressão pode haver diminuição ou aumento do apetite, ao passo que o paciente com anorexia nervosa pode afirmar ter apetite normal e sentir fome, apresentando diminuição no apetite em estágios severos da doença."
+  ],
+  "gab": 4,
+  "tema": "psiqinf",
+  "sub": "Anorexia nervosa versus depressão",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2022, e DSM-5-TR (APA, 2022)",
+  "coment": "Na depressão, a alteração do apetite é sintoma do próprio humor: pode haver redução ou aumento, com perda ou ganho de peso, e o paciente percebe que não tem fome. Na anorexia nervosa o problema não é falta de apetite, apesar do nome: o paciente costuma negar alteração, sente fome e a controla pela restrição, movido pelo medo intenso de ganhar peso e pela distorção da imagem corporal; a perda real do apetite aparece só nos estágios graves de desnutrição. Comportamentos purgativos ocorrem na anorexia do tipo compulsão alimentar purgativa, não como marca da depressão.",
+  "porAlt": [
+   "Alteração do apetite, para mais ou para menos, é critério do episódio depressivo; dizer que nunca ocorre é falso.",
+   "Na anorexia o paciente costuma negar alteração do apetite e controlar a fome pela restrição, o contrário do afirmado.",
+   "Purgação ocorre na anorexia do subtipo compulsão alimentar purgativa e não é característica da depressão.",
+   "Na depressão o apetite pode diminuir ou aumentar, e na anorexia o paciente sente fome até fases avançadas; as duas afirmações são falsas.",
+   "Correta: na depressão o apetite pode cair ou subir, enquanto na anorexia o paciente refere apetite e fome normais e a perda de apetite só surge nos estágios graves."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 64
+  }
+ },
+ {
+  "pid": "s24065",
+  "q": "No uso de antipsicóticos de primeira geração, podem ocorrer como efeito indesejável:",
+  "alts": [
+   "agnosia visual;",
+   "ginecomastia em homens;",
+   "delírios;",
+   "alucinações auditivas;",
+   "síndrome piramidal. "
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Efeitos adversos dos antipsicóticos típicos",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020",
+  "coment": "Antipsicóticos de primeira geração bloqueiam receptores D2 em várias vias. Na via tuberoinfundibular retiram a inibição dopaminérgica da prolactina, gerando hiperprolactinemia, com ginecomastia e disfunção sexual no homem e galactorreia e amenorreia na mulher. Na via nigroestriatal causam efeitos extrapiramidais: distonia aguda, parkinsonismo, acatisia e discinesia tardia. O termo correto é síndrome extrapiramidal; síndrome piramidal (fraqueza, hiper-reflexia, Babinski) indica lesão do trato corticoespinal e não é efeito de antipsicótico. Delírios e alucinações são o alvo do tratamento, não efeito adverso (APA, 2020).",
+  "porAlt": [
+   "Agnosia visual é sinal de lesão cortical occipitotemporal e não efeito de antipsicóticos.",
+   "Correta: o bloqueio D2 na via tuberoinfundibular eleva a prolactina e pode causar ginecomastia em homens.",
+   "Delírios são sintoma da psicose que o antipsicótico trata, não efeito indesejável dele.",
+   "Alucinações auditivas são alvo do antipsicótico, não efeito adverso esperado do bloqueio D2.",
+   "Antipsicóticos causam síndrome extrapiramidal; síndrome piramidal indica lesão do trato corticoespinal, outra coisa."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 65
+  }
+ },
+ {
+  "pid": "s24066",
+  "q": "O sintoma típico do episódio depressivo maior é a presença de:",
+  "alts": [
+   "perda da capacidade atencional;",
+   "incontinência urinária;",
+   "delírios persecutórios;",
+   "apraxia ideomotora;",
+   "cegueira cortical."
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Critérios do episódio depressivo maior",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022), transtornos depressivos",
+  "coment": "O DSM-5-TR (2022) define episódio depressivo maior por 5 ou mais de 9 sintomas por 2 semanas, com pelo menos humor deprimido ou anedonia: alteração de apetite ou peso, insônia ou hipersonia, agitação ou retardo psicomotor, fadiga, culpa ou desvalia, redução da capacidade de pensar ou se concentrar (indecisão) e pensamentos de morte ou suicídio. A perda da capacidade atencional corresponde ao critério cognitivo e é muito frequente, a ponto de idosos deprimidos parecerem ter demência (pseudodemência). Delírios podem ocorrer na depressão grave com sintomas psicóticos, mas não são sintoma típico; os demais itens são achados neurológicos.",
+  "porAlt": [
+   "Correta: diminuição da capacidade de pensar, se concentrar e manter a atenção é critério do episódio depressivo maior.",
+   "Incontinência urinária não é sintoma de depressão; com demência e marcha alterada sugere hidrocefalia de pressão normal.",
+   "Delírios persecutórios podem surgir na depressão grave com sintomas psicóticos, mas não são o sintoma típico do episódio.",
+   "Apraxia ideomotora é sinal neurológico de lesão parietal esquerda, não sintoma depressivo.",
+   "Cegueira cortical decorre de lesão occipital bilateral e não faz parte do quadro depressivo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 66
+  }
+ },
+ {
+  "pid": "s24067",
+  "q": "É um sintoma negativo da esquizofrenia:",
+  "alts": [
+   "delírios persecutórios;",
+   "embotamento afetivo;",
+   "alucinações auditivas;",
+   "afasia sensitiva;",
+   "pensamento desorganizado."
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Sintomas negativos da esquizofrenia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022), espectro da esquizofrenia",
+  "coment": "O DSM-5-TR (2022) lista cinco domínios na esquizofrenia: delírios, alucinações, pensamento e discurso desorganizados, comportamento motor grosseiramente desorganizado ou catatônico, e sintomas negativos. Os sintomas negativos são perdas de funções normais: embotamento ou diminuição da expressão emocional, alogia (pobreza do discurso), avolição, anedonia e associabilidade. Respondem pouco aos antipsicóticos, predominam na fase residual e determinam boa parte do prejuízo funcional. Vale separar os negativos secundários: depressão, parkinsonismo por antipsicótico e pouca estimulação ambiental podem imitá-los.",
+  "porAlt": [
+   "Delírios persecutórios são sintomas positivos, acréscimos ao funcionamento normal.",
+   "Correta: embotamento afetivo, a redução da expressão emocional, é sintoma negativo clássico.",
+   "Alucinações auditivas são o principal sintoma positivo da esquizofrenia.",
+   "Afasia sensitiva (de Wernicke) é déficit neurológico por lesão temporal, não sintoma da esquizofrenia.",
+   "Pensamento desorganizado é sintoma positivo (ou da dimensão de desorganização), não negativo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 67
+  }
+ },
+ {
+  "pid": "s24068",
+  "q": "Em relação ao delírio, é correto afirmar que:",
+  "alts": [
+   "não está associado a transtornos psiquiátricos;",
+   "envolve crenças falsas que não são modificadas por evidências;",
+   "é causado por condições médicas gerais, como infecções;",
+   "tem curso geralmente agudo, com duração limitada e flutua ao longo do dia;",
+   "não tem relação com experiências pessoais."
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Delírio: conceito psicopatológico",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Dalgalarrondo, Psicopatologia e Semiologia dos Transtornos Mentais, 3ª ed., 2019, e DSM-5-TR (APA, 2022)",
+  "coment": "Na psicopatologia, delírio é um juízo patologicamente falso, mantido com convicção extraordinária, que não se modifica diante de evidências contrárias nem de argumentação lógica (critérios de Jaspers: certeza subjetiva, irredutibilidade e impossibilidade do conteúdo). Corresponde ao termo inglês delusion. Não confundir com delirium, o estado confusional agudo de causa orgânica (infecção, distúrbio metabólico, fármacos), de início abrupto, curso flutuante ao longo do dia e déficit de atenção. As afirmações sobre causa médica e flutuação descrevem o delirium. O conteúdo do delírio costuma refletir a biografia e a cultura do paciente.",
+  "porAlt": [
+   "O delírio é sintoma central de transtornos psiquiátricos como esquizofrenia, transtorno delirante e depressão ou mania psicóticas.",
+   "Correta: delírio é crença falsa mantida com convicção inabalável, que não se corrige por evidências ou argumentos.",
+   "Ser causado por condição médica geral, como infecção, descreve o delirium (estado confusional agudo), não o delírio.",
+   "Início agudo, duração limitada e flutuação ao longo do dia definem o delirium; o delírio costuma ser persistente.",
+   "O conteúdo do delírio costuma se ligar às experiências, temores e cultura do paciente."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 68
+  }
+ },
+ {
+  "pid": "s24069",
+  "q": "Mariana, 32 anos, dois dias após o parto de seu filho, iniciou sentimento de tristeza, choro fácil, medo de ficar sozinha e em ambientes escuros. O quadro melhorou sozinho após 12 dias. O provável diagnóstico é:",
+  "alts": [
+   "transtorno depressivo maior;",
+   "depressão pós-parto;",
+   "blues puerperal;",
+   "psicose puerperal;",
+   "síndrome de Münchhausen."
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Blues puerperal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ACOG Clinical Practice Guideline nº 4, Screening and Diagnosis of Mental Health Conditions During Pregnancy and Postpartum, 2023, e DSM-5-TR (APA, 2022)",
+  "coment": "O blues puerperal afeta 50 a 80% das puérperas: começa nos primeiros 2 a 3 dias após o parto, com choro fácil, labilidade do humor, irritabilidade, ansiedade e insegurança, atinge pico por volta do 5º dia e se resolve sozinho em até 2 semanas, sem prejuízo funcional importante. A conduta é acolhimento, apoio da família e reavaliação. Se os sintomas passam de 2 semanas ou são graves, pensa-se em episódio depressivo com início no periparto. A psicose puerperal tem início abrupto, com delírios, alucinações e desorganização, e é emergência.",
+  "porAlt": [
+   "Transtorno depressivo maior exige 2 semanas de sintomas com prejuízo; aqui o quadro foi leve e remitiu sozinho.",
+   "A depressão pós-parto é episódio depressivo maior com início no periparto, persistente e com prejuízo, o que não houve.",
+   "Correta: tristeza, choro fácil e insegurança iniciados nos primeiros dias pós-parto e resolvidos sozinhos em até 2 semanas são o blues puerperal.",
+   "A psicose puerperal cursa com delírios, alucinações, confusão e desorganização, emergência ausente neste caso.",
+   "Na síndrome de Münchhausen o paciente produz sintomas para assumir o papel de doente, sem relação com o quadro descrito."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 69
+  }
+ },
+ {
+  "pid": "s24070",
+  "q": "O principal neurotransmissor envolvido na promoção ativa do sono é:",
+  "alts": [
+   "dopamina;",
+   "serotonina;",
+   "glutamato;",
+   "norepinefrina;",
+   "GABA."
+  ],
+  "gab": 4,
+  "tema": "psiqinf",
+  "sub": "Neurobiologia do sono",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2022 (medicina do sono)",
+  "coment": "O sono é promovido ativamente pelo núcleo pré-óptico ventrolateral do hipotálamo anterior, cujos neurônios GABAérgicos (com galanina) inibem os centros de vigília: locus ceruleus (noradrenalina), núcleos da rafe (serotonina), núcleo tuberomamilar (histamina), neurônios colinérgicos e orexinérgicos. Esse funcionamento em gangorra explica por que benzodiazepínicos e hipnóticos Z, moduladores positivos do receptor GABA-A, induzem sono. Dopamina, noradrenalina e glutamato sustentam a vigília; a serotonina participa da regulação, mas não é o principal promotor do sono.",
+  "porAlt": [
+   "Dopamina promove vigília e alerta; estimulantes dopaminérgicos tiram o sono.",
+   "A serotonina dos núcleos da rafe participa da regulação do ciclo, com maior atividade na vigília, mas não é o principal promotor do sono.",
+   "Glutamato é o principal neurotransmissor excitatório e sustenta a vigília e a ativação cortical.",
+   "Norepinefrina do locus ceruleus mantém a vigília e silencia durante o sono REM.",
+   "Correta: neurônios GABAérgicos do núcleo pré-óptico ventrolateral inibem os sistemas de vigília e promovem ativamente o sono."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 70
+  }
+ },
+ {
+  "pid": "s24071",
+  "q": "Em relação ao sono REM, é correto afirmar que:",
+  "alts": [
+   "é maior no início do sono;",
+   "está associado a atonia muscular;",
+   "é dividido em 3 estágios;",
+   "ocorre o sonambulismo nessa fase do sono;",
+   "também é conhecido como sono de ondas lentas."
+  ],
+  "gab": 1,
+  "tema": "psiqinf",
+  "sub": "Fisiologia do sono REM",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Classificação Internacional dos Distúrbios do Sono, 3ª ed. revisada (AASM, 2023), e Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2022",
+  "coment": "O sono REM tem EEG de baixa amplitude e frequência mista, parecido com a vigília, movimentos oculares rápidos e atonia dos músculos esqueléticos (poupa diafragma e musculatura ocular), por inibição dos motoneurônios a partir do tronco cerebral. É a fase dos sonhos vívidos. Ocupa cerca de 20 a 25% da noite e predomina na segunda metade, com períodos cada vez mais longos. O sono NREM é que se divide em 3 estágios (N1, N2, N3), e o N3 é o sono de ondas lentas, onde ocorrem sonambulismo e terror noturno. A perda da atonia gera o transtorno comportamental do sono REM.",
+  "porAlt": [
+   "O sono REM predomina na segunda metade da noite; o início é dominado pelo sono de ondas lentas.",
+   "Correta: o sono REM se caracteriza por atonia da musculatura esquelética, que impede a encenação dos sonhos.",
+   "Quem se divide em 3 estágios (N1, N2 e N3) é o sono NREM, pela classificação da AASM.",
+   "Sonambulismo é parassonia do sono NREM, geralmente no estágio N3, no primeiro terço da noite.",
+   "Sono de ondas lentas é o estágio N3 do NREM, não o sono REM."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 71
+  }
+ },
+ {
+  "pid": "s24072",
+  "q": "Em relação à depressão geriátrica, é correto afirmar que:",
+  "alts": [
+   "está associada a um risco maior de desenvolver demência;",
+   "é uma consequência normal do envelhecimento;",
+   "pacientes que apresentam o primeiro episódio depressivo quando já idosos costumam ter história familiar positiva;",
+   "pacientes casados e do sexo masculino apresentam maior risco;",
+   "a ideação suicida é mais comum nesse grupo de pacientes em comparação com pacientes mais novos."
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Depressão no idoso",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2022 (psiquiatria geriátrica)",
+  "coment": "A depressão no idoso não é consequência normal do envelhecimento e se associa a maior risco de demência: pode ser pródromo, fator de risco independente (sobretudo a de início tardio, ligada a doença cerebrovascular de pequenos vasos) ou manifestação inicial do processo degenerativo. Por isso, idoso deprimido merece rastreio cognitivo e seguimento. Na depressão de início tardio a história familiar é menos frequente que na de início precoce, e há mais comorbidade clínica e alteração vascular. Fatores de risco incluem sexo feminino, viuvez, isolamento e doença crônica; o suicídio consumado é mais alto em homens idosos viúvos ou sós.",
+  "porAlt": [
+   "Correta: depressão no idoso, sobretudo a de início tardio, se associa a maior risco de demência, como pródromo ou fator de risco.",
+   "Depressão não é parte do envelhecimento normal; tratá-la como esperada leva a subdiagnóstico e subtratamento.",
+   "Primeiro episódio na velhice tem menos história familiar que a depressão de início precoce, com peso maior de fatores vasculares.",
+   "Ser casado protege; o risco maior está em viúvos e solitários e, para depressão, no sexo feminino.",
+   "Idosos relatam menos ideação suicida que jovens, embora tenham tentativas mais letais e mais suicídio consumado."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 72
+  }
+ },
+ {
+  "pid": "s24073",
+  "q": "Em relação ao transtorno afetivo bipolar em pacientes geriátricos, é correto afirmar que:",
+  "alts": [
+   "os sintomas aumentam à medida que a idade aumenta;",
+   "esse diagnóstico não pode ser feito após os 60 anos;",
+   "os sintomas são mais leves se comparados à doença iniciada em população mais nova;",
+   "esse transtorno não está associado com déficits cognitivos;",
+   "o comportamento sexual excessivo durante episódios maníacos ou hipomaníacos é mais comum, em comparação com a população mais jovem com a doença."
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Transtorno bipolar no idoso",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Relatório da força-tarefa da ISBD sobre transtorno bipolar no idoso (Sajatovic e colaboradores, Bipolar Disorders, 2015) e Kaplan & Sadock's Synopsis of Psychiatry, 12ª ed., 2022",
+  "coment": "No idoso, o transtorno bipolar pode ser de início precoce que envelheceu ou de início tardio, este muitas vezes ligado a doença cerebrovascular (mania secundária quando há causa orgânica). Os episódios de mania tendem a ser menos floridos que nos jovens, com menos grandiosidade, hipersexualidade e sintomas psicóticos, e mais irritabilidade, estados mistos e alteração cognitiva. O transtorno se associa a déficits cognitivos persistentes, mesmo na eutimia, e o diagnóstico pode ser feito em qualquer idade, desde que afastadas causas clínicas e medicamentosas (força-tarefa da ISBD, 2015).",
+  "porAlt": [
+   "Os sintomas não aumentam com a idade; a mania no idoso costuma ser menos exuberante, com mais irritabilidade e estados mistos.",
+   "O diagnóstico pode ser feito em qualquer idade, inclusive após os 60 anos, desde que afastadas causas orgânicas e medicamentosas.",
+   "Correta: a mania no idoso tende a ser menos intensa que na doença de início jovem, com menos grandiosidade e sintomas psicóticos.",
+   "O transtorno bipolar no idoso se associa a déficits cognitivos, presentes até nos períodos de eutimia.",
+   "Hipersexualidade e comportamento de risco são menos comuns na mania do idoso que na dos jovens."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 73
+  }
+ },
+ {
+  "pid": "s24074",
+  "q": "O transtorno frotteurista é caracterizado por excitação sexual:",
+  "alts": [
+   "resultando do toque ou fricção do genital em indivíduos sem o seu consentimento, ocorrendo em geral em ambientes públicos;",
+   "relacionada à exibição dos genitais a outros, sem consentimento;",
+   "associada a sofrer dor ou humilhação;",
+   "associada a interesse sexual em pessoas do mesmo sexo;",
+   "associada a objeto inanimado ou parte não genital do corpo."
+  ],
+  "gab": 0,
+  "tema": "psiqinf",
+  "sub": "Transtornos parafílicos: frotteurismo",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "DSM-5-TR (APA, 2022), transtornos parafílicos",
+  "coment": "Pelo DSM-5-TR (2022), o transtorno frotteurista é excitação sexual intensa e recorrente, por pelo menos 6 meses, ao tocar ou se esfregar em pessoa que não consentiu, expressa em fantasias, impulsos ou comportamentos, com ato praticado contra pessoa sem consentimento ou com sofrimento e prejuízo. Ocorre tipicamente em locais públicos e lotados, como transporte coletivo, o que facilita a fuga. As outras parafilias se distinguem pelo foco: exibir os genitais é exibicionismo; sofrer dor ou humilhação, masoquismo sexual; objeto inanimado ou parte não genital do corpo, fetichismo. Orientação homossexual não é parafilia.",
+  "porAlt": [
+   "Correta: o frotteurismo é excitação sexual por tocar ou se esfregar em alguém sem consentimento, geralmente em locais públicos e cheios.",
+   "Excitação por exibir os genitais a pessoas que não consentiram define o transtorno exibicionista.",
+   "Excitação associada a sofrer dor ou humilhação define o transtorno de masoquismo sexual.",
+   "Interesse sexual por pessoas do mesmo sexo é orientação sexual, não transtorno parafílico.",
+   "Excitação ligada a objeto inanimado ou parte não genital do corpo define o transtorno fetichista."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 74
+  }
+ },
+ {
+  "pid": "s24075",
+  "q": "Uma mulher de 24 anos apresenta os seguintes sintomas que ocorrem antes de sua menstruação: irritabilidade, ansiedade intensa, aumento do apetite principalmente para doces, sentimento de depressão profunda e insônia. Os sintomas levam a um prejuízo em seu funcionamento social e melhoram após a menstruarão. O provável diagnóstico é:",
+  "alts": [
+   "síndrome pré-menstrual;",
+   "transtorno de ansiedade generalizada;",
+   "transtorno depressivo maior;",
+   "transtorno afetivo bipolar;",
+   "transtorno disfórico pré-menstrual."
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Transtorno disfórico pré-menstrual",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (APA, 2022), transtornos depressivos",
+  "coment": "O transtorno disfórico pré-menstrual, incluído entre os transtornos depressivos no DSM-5-TR (2022), exige ao menos 5 sintomas na semana antes da menstruação, que melhoram poucos dias após o início do fluxo e ficam mínimos ou ausentes na semana seguinte, na maioria dos ciclos do último ano. Ao menos 1 deve ser afetivo: labilidade, irritabilidade, humor deprimido ou ansiedade acentuada; somam-se apetite aumentado ou desejo por certos alimentos, insônia, fadiga e outros. O que o separa da síndrome pré-menstrual é a intensidade, com sofrimento e prejuízo funcional claros. A confirmação pede registro diário prospectivo por 2 ciclos.",
+  "porAlt": [
+   "Na síndrome pré-menstrual os sintomas são mais leves e não causam prejuízo funcional importante, ao contrário deste caso.",
+   "No transtorno de ansiedade generalizada a preocupação é persistente por 6 meses, sem relação com a fase do ciclo.",
+   "No transtorno depressivo maior os sintomas não se limitam à fase lútea nem melhoram com a menstruação.",
+   "No transtorno bipolar há episódios de mania ou hipomania, ausentes aqui, sem ligação com o ciclo menstrual.",
+   "Correta: 5 ou mais sintomas pré-menstruais, com humor deprimido, irritabilidade e ansiedade, que melhoram com a menstruação e geram prejuízo, definem o transtorno disfórico pré-menstrual."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 75
+  }
+ },
+ {
+  "pid": "s24076",
+  "q": "Dentre as medicações abaixo, o melhor tratamento não hormonal para os fogachos associados à menopausa é:",
+  "alts": [
+   "topiramato;",
+   "eszopiclona;",
+   "lítio;",
+   "venlafaxina;",
+   "quetiapina. "
+  ],
+  "gab": 3,
+  "tema": "ginecologia",
+  "sub": "Fogachos: tratamento não hormonal",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "The Menopause Society, The 2023 Nonhormone Therapy Position Statement (Menopause, 2023)",
+  "coment": "Para fogachos em mulheres que não podem ou não querem usar terapia hormonal, o posicionamento da The Menopause Society (2023) recomenda, entre fármacos, ISRS e IRSN (paroxetina em dose baixa, escitalopram, citalopram, venlafaxina e desvenlafaxina), gabapentina, oxibutinina e o antagonista do receptor de neurocinina 3 fezolinetanto. A venlafaxina, 37,5 a 75 mg ao dia, reduz frequência e intensidade dos fogachos em poucas semanas e é útil em sobreviventes de câncer de mama (evitar paroxetina e fluoxetina com tamoxifeno, pela inibição do CYP2D6). Topiramato, hipnóticos, lítio e quetiapina não têm esse papel.",
+  "porAlt": [
+   "Topiramato não está entre as opções recomendadas para fogachos e não tem evidência de benefício.",
+   "Eszopiclona é hipnótico que pode melhorar o sono, mas não é recomendada para reduzir os fogachos.",
+   "Lítio é estabilizador do humor sem efeito sobre sintomas vasomotores e com toxicidade relevante.",
+   "Correta: a venlafaxina é tratamento não hormonal recomendado e eficaz para reduzir frequência e intensidade dos fogachos.",
+   "Quetiapina é antipsicótico sem indicação para sintomas vasomotores e com efeitos metabólicos indesejáveis."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 76
+  }
+ },
+ {
+  "pid": "s24077",
+  "q": "Um paciente de 47 anos queixa-se de desejo de movimentar as pernas e sensação desagradável que ocorre com o repouso, ocorrendo principalmente à noite, mais de 3 vezes por semana. Os sintomas se aliviam parcialmente com o movimento. Considerando o provável diagnóstico, a melhor conduta é:",
+  "alts": [
+   "iniciar quetiapina;",
+   "iniciar zolpidem;",
+   "solicitar dosagem de ferro e ferritina;",
+   "solicitar dosagem de ácido fólico e vitamina B12;",
+   "solicitar eletroneuromiografia de MMII."
+  ],
+  "gab": 2,
+  "tema": "psiqinf",
+  "sub": "Síndrome das pernas inquietas",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Academy of Sleep Medicine, diretriz de tratamento da síndrome das pernas inquietas e do transtorno de movimentos periódicos dos membros, 2024 (J Clin Sleep Med, 2025)",
+  "coment": "Urgência de mover as pernas com sensação desagradável, que começa ou piora no repouso, melhora parcialmente com o movimento e predomina à noite define a síndrome das pernas inquietas (o DSM-5-TR exige 3 ou mais vezes por semana por 3 meses). O primeiro passo é avaliar o estoque de ferro com ferritina e saturação de transferrina, colhidas de manhã: a diretriz da AASM (2024) recomenda repor ferro se ferritina igual ou menor que 75 ng/mL ou saturação abaixo de 20%. Depois vêm os gabapentinoides; agonistas dopaminérgicos passaram para segundo plano pelo risco de aumento paradoxal dos sintomas (augmentation).",
+  "porAlt": [
+   "Quetiapina e outros antagonistas dopaminérgicos podem piorar as pernas inquietas e não são tratamento.",
+   "Zolpidem trata insônia, mas não age sobre a causa nem sobre a sensação nas pernas, e não é a conduta inicial.",
+   "Correta: dosar ferro, ferritina e saturação de transferrina é o primeiro passo, pois a reposição de ferro trata a síndrome quando o estoque está baixo.",
+   "Deficiência de folato e B12 pode associar-se a neuropatia, mas o exame decisivo na síndrome é o perfil de ferro.",
+   "Eletroneuromiografia só se indica se houver suspeita de neuropatia periférica; o diagnóstico da síndrome é clínico."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 77
+  }
+ },
+ {
+  "pid": "s24078",
+  "q": "Constitui competência do CAPS (Centros de Atenção Psicossocial):",
+  "alts": [
+   "atender emergências gerais;",
+   "realizar internações psiquiátricas prolongadas;",
+   "acompanhar regularmente e a longo prazo pacientes com transtornos mentais graves;",
+   "funcionar como rede de apoio para tratar doenças prevalentes na população, como hipertensão e diabetes;",
+   "monitorar a garantia de reserva de até 12 leitos de unidade de terapia intensiva para pacientes com transtornos mentais graves."
+  ],
+  "gab": 2,
+  "tema": "raps",
+  "sub": "Competências do CAPS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Portaria de Consolidação GM/MS nº 3/2017, Anexo V (Rede de Atenção Psicossocial), e Portaria GM/MS nº 336/2002",
+  "coment": "O CAPS é serviço comunitário, aberto e territorial da Rede de Atenção Psicossocial, que acompanha de forma contínua pessoas com sofrimento ou transtorno mental grave e persistente, incluindo os ligados ao uso de álcool e outras drogas. Trabalha com projeto terapêutico singular, atendimento multiprofissional individual e em grupo, atenção à crise, apoio à família, matriciamento das equipes de atenção primária e reinserção social, substituindo o modelo manicomial (Portaria de Consolidação 3/2017, anexo V; Portaria 336/2002). Emergência geral é da rede de urgência, e a internação, quando necessária, deve ser breve e em hospital geral.",
+  "porAlt": [
+   "Emergências gerais são atendidas pela rede de urgência e emergência (SAMU, UPA, pronto-socorro), não pelo CAPS.",
+   "Internações prolongadas contrariam a Lei 10.216/2001; o CAPS existe para substituir o modelo asilar.",
+   "Correta: o CAPS acompanha de forma regular e longitudinal pessoas com transtornos mentais graves e persistentes no território.",
+   "Hipertensão e diabetes são acompanhados pela atenção primária; o CAPS cuida do sofrimento mental grave.",
+   "Monitorar leitos de terapia intensiva não é atribuição do CAPS; os leitos de saúde mental da RAPS ficam em hospitais gerais."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 78
+  }
+ },
+ {
+  "pid": "s24079",
+  "q": "Ana, 36 anos, procura psiquiatra com queixa de agitação psicomotora, ansiedade, insônia e palpitações. Ao exame, apresenta-se com exoftalmia e com tremor simétrico e de alta frequência que piora quando realiza alguma tarefa. Traz um eletrocardiograma, que demonstra taquicardia sinusal. Considerando o quadro clínico, a melhor conduta inicial é:",
+  "alts": [
+   "iniciar moderador do humor;",
+   "iniciar inibidor seletivo da recaptação de serotonina;",
+   "solicitar neuroimagem;",
+   "solicitar TSH, T4 livre e anticorpo antirreceptor de TSH;",
+   "solicitar eletroencefalograma."
+  ],
+  "gab": 3,
+  "tema": "humor",
+  "sub": "Ansiedade secundária a hipertireoidismo",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Thyroid Association, diretriz para diagnóstico e manejo do hipertireoidismo e outras causas de tireotoxicose, 2016, e DSM-5-TR (APA, 2022)",
+  "coment": "Ansiedade, agitação, insônia e palpitações com exoftalmia, tremor fino de alta frequência que piora com a postura e a ação, e taquicardia sinusal apontam para tireotoxicose por doença de Graves. Antes de rotular transtorno de ansiedade primário, o DSM-5-TR exige afastar transtorno de ansiedade devido a outra condição médica. A investigação inicial é TSH (suprimido) com T4 livre (elevado); o anticorpo antirreceptor de TSH (TRAb) confirma Graves, como recomenda a diretriz da ATA (2016). Tratar a causa, com betabloqueador para os sintomas adrenérgicos, costuma resolver a ansiedade sem psicofármaco.",
+  "porAlt": [
+   "Iniciar estabilizador do humor sem investigar a causa orgânica evidente erra o diagnóstico; não há episódio de humor descrito.",
+   "ISRS trataria ansiedade primária, mas exoftalmia e tremor exigem antes confirmar o hipertireoidismo.",
+   "Neuroimagem não é o primeiro passo; os sinais apontam para a tireoide, não para lesão do sistema nervoso central.",
+   "Correta: TSH, T4 livre e anticorpo antirreceptor de TSH confirmam a tireotoxicose por doença de Graves, causa orgânica da ansiedade.",
+   "Eletroencefalograma investiga epilepsia ou encefalopatia, sem indicação diante de quadro típico de tireotoxicose."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 79
+  }
+ },
+ {
+  "pid": "s24080",
+  "q": "Quando se suspeita de uma paresia não orgânica (funcional), é aconselhável pesquisar o sinal de:",
+  "alts": [
+   "Barré;",
+   "Chaddock;",
+   "Hoover;",
+   "Mingazzini;",
+   "Wartenberg.    "
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Transtorno neurológico funcional: sinal de Hoover",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "DSM-5-TR (APA, 2022), transtorno de sintomas neurológicos funcionais (transtorno conversivo)",
+  "coment": "O DSM-5-TR (2022) exige, no transtorno de sintomas neurológicos funcionais, achados clínicos de incompatibilidade entre o sintoma e doenças neurológicas reconhecidas, ou seja, sinais positivos e não apenas exames normais. Na fraqueza funcional de membro inferior, o principal é o sinal de Hoover: com o paciente deitado, a extensão do quadril da perna fraca é fraca na tentativa voluntária, mas fica normal quando ele flexiona o quadril contralateral contra resistência, o que gera extensão involuntária do lado parético. O sinal tem boa especificidade. Barré e Mingazzini mostram paresia, mas não distinguem a origem.",
+  "porAlt": [
+   "A manobra de Barré detecta paresia discreta de membros inferiores, mas não distingue fraqueza orgânica de funcional.",
+   "O sinal de Chaddock é variante do reflexo cutâneo-plantar em extensão e indica lesão piramidal orgânica.",
+   "Correta: o sinal de Hoover mostra extensão involuntária normal do quadril parético durante a flexão contralateral, revelando fraqueza funcional.",
+   "A manobra de Mingazzini é prova deficitária para paresia discreta e não separa causa orgânica de funcional.",
+   "Os sinais de Wartenberg indicam lesão do nervo ulnar (abdução do quinto dedo) ou liberação piramidal (flexão do polegar), achados orgânicos."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Psiquiatria",
+   "ex": "enare24psq",
+   "n": 80
+  }
+ }
+]

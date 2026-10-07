@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Cirurgia",
+  "f": "pre-operatorio.html",
+  "tipo": "ACC/AHA 2024 · resumo de prova",
+  "area": "periop",
+  "min": 56,
+  "t": "Avaliação e preparo pré-operatório",
+  "s": "Classificação ASA, risco cardíaco pelo índice de Lee e pela capacidade funcional segundo a ACC/AHA 2024 e a SBC 2017, exames que de fato mudam conduta, jejum pela ASA 2017 e 2023, manejo de anticoagulantes, antiagregantes, hipoglicemiantes (com os agonistas de GLP-1 pela orientação multissocietária de 2024) e corticoide, profilaxia antibiótica, profilaxia de tromboembolismo pelo escore de Caprini e o protocolo ERAS."
+ },
+ {
+  "grupo": "Cirurgia",
+  "f": "pos-operatorio-e-complicacoes.html",
+  "tipo": "CDC/NHSN 2024 · resumo de prova",
+  "area": "periop",
+  "min": 55,
+  "t": "Pós-operatório e complicações cirúrgicas",
+  "s": "Febre pós-operatória pelo tempo de aparecimento, classificação da ferida e infecção de sítio cirúrgico pelos critérios do CDC/NHSN, deiscência e evisceração, fístulas pelo débito e pela conduta em etapas, íleo, retenção urinária, complicações respiratórias, hipertermia maligna, toxicidade sistêmica por anestésico local pela ASRA 2020 e hidratação com os distúrbios eletrolíticos do operado."
+ },
+ {
+  "grupo": "Cirurgia",
+  "f": "cirurgia-pediatrica.html",
+  "tipo": "EAU 2025 · resumo de prova",
+  "area": "especialidades",
+  "min": 54,
+  "t": "Cirurgia pediátrica",
+  "s": "Os temas de cirurgia pediátrica que caem no ENARE e no ENAMED: estenose hipertrófica de piloro, invaginação, má rotação com volvo, doença de Hirschsprung, atresias de esôfago, duodeno, jejunoíleo e anorretal, gastrosquise e onfalocele, hérnias, criptorquidia pelas diretrizes da EAU e da AUA, torção testicular com o escore TWIST, apendicite na criança e corpo estranho ingerido pela ESPGHAN 2021."
+ }
+]

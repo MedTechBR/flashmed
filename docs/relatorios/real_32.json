@@ -1,0 +1,51 @@
+{
+ "incluidas": 36,
+ "descartadas": [
+  {
+   "pid": "s24012",
+   "motivo": "clínica médica: fora do escopo desta rodada (pé caído por neuropatia compressiva do nervo fibular comum após imobilização prolongada; a pergunta é de neurologia, não de psiquiatria)"
+  },
+  {
+   "pid": "s24021",
+   "motivo": "clínica médica: fora do escopo desta rodada (demência reversível por deficiência de B12 associada a inibidor de bomba de prótons; foco etiológico clínico, sem componente psiquiátrico)"
+  },
+  {
+   "pid": "s24025",
+   "motivo": "clínica médica: fora do escopo desta rodada (hidrocefalia de pressão normal, neurologia pura); além disso a última alternativa saiu misturada com o texto-base 1 das questões seguintes"
+  },
+  {
+   "pid": "s24030",
+   "motivo": "gabarito oficial ensina definição não vigente de depressão resistente: o consenso atual (Sforzini et al., consenso europeu, 2022; CANMAT 2023) define como falha de pelo menos 2 tentativas adequadas (dose e tempo) no episódio atual, sem exigir número de episódios prévios nem antidepressivos de classes diferentes; a alternativa oficial exige 'ao menos dois episódios' e 'classes diferentes'. A alternativa também saiu misturada com o texto-base 2"
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "s24003",
+   "nota": "escitalopram também é primeira linha para TAG; a pregabalina vence só porque a questão pede considerar as comorbidades (neuropatia diabética dolorosa). Mantida, comentário explica."
+  },
+  {
+   "pid": "s24007",
+   "nota": "valproato em menina: hoje há restrição por teratogenicidade futura (NICE NG217, EMA); ainda assim é a única alternativa defensável (ausência = crise generalizada, troca da etossuximida). Ressalva no comentário."
+  },
+  {
+   "pid": "s24014",
+   "nota": "terminologia: parte da literatura chama 'cenestopatia' de alucinação cenestésica; o enunciado enfatiza crença inabalável apesar de exames normais, o que define delírio. Mantida."
+  },
+  {
+   "pid": "s24023",
+   "nota": "cetamina intravenosa é uso off-label no Brasil (aprovada é a escetamina intranasal); evidência sustenta (ELEKT-D 2023, CANMAT 2023). Mantida."
+  },
+  {
+   "pid": "s24026",
+   "nota": "lítio + valproato em associação, em mulher de 30 anos, conflita com a restrição do valproato em idade fértil (EMA 2018, cobrada na própria s24037); é a única alternativa com estabilizador. Ressalva no comentário."
+  },
+  {
+   "pid": "s24026",
+   "nota": "correção de extração: o texto-base 1 saiu colado na última alternativa da questão 25 (descartada); foi movido, verbatim, para o início do enunciado como 'Texto 1: ...'. O mesmo para s24027."
+  },
+  {
+   "pid": "s24031",
+   "nota": "correção de extração: o texto-base 2 saiu colado na última alternativa da questão 30 (descartada); foi movido, verbatim, para o início do enunciado como 'Texto 2: ...'. O mesmo para s24032 (que diz 'da paciente' para um homem, erro do original mantido)."
+  }
+ ]
+}

@@ -3800,6 +3800,606 @@ window.FLASH=[
 "orig": "flashmed"
 },
 {
+"tema": "trauma",
+"a": "Como fixar o curativo no pneumotórax aberto?",
+"b": "Curativo estéril maior que a ferida, fixado em três lados para funcionar como válvula; depois dreno torácico por incisão separada e fechamento cirúrgico da parede. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Metas hemodinâmicas na lesão aórtica contusa de grau I ou II",
+"b": "PAS abaixo de 100 mmHg e FC abaixo de 100 bpm, com betabloqueador titulável de ação curta (esmolol) como primeira escolha. Graus III e IV: reparo. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Qual exame confirma ou exclui lesão aórtica contusa?",
+"b": "Angiotomografia de tórax (sensibilidade de 95% a 100%). Radiografia normal não exclui; sinais clássicos: mediastino alargado, botão aórtico apagado, capa apical esquerda. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Calibre de dreno no hemotórax e pneumotórax segundo o ATLS 11",
+"b": "Cateter de 14 Fr é tão eficaz quanto drenos grossos, com menos dor. Hemotórax maciço ou com fisiologia de tensão: 24 Fr ou mais. Drenar hemotórax acima de cerca de 300 mL. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Onde posicionar a cinta pélvica?",
+"b": "Circunferencialmente no nível dos trocânteres maiores, com rotação interna dos membros e tornozelos unidos. Cerca de 85% do sangramento pélvico é venoso. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Alvo de PAS na hipotensão permissiva do trauma contuso",
+"b": "PAS em torno de 90 mmHg com alíquotas de 100 a 200 mL de hemocomponente até a hemostasia; 110 mmHg se houver TCE, lesão medular ou hipertensão prévia. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Hemocomponentes antes da tipagem no choque hemorrágico",
+"b": "Hemácias do grupo O (Rh negativo em quem pode engravidar, Rh positivo nos demais) e plasma AB; meta 1:1:1 ou sangue total. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Indicações de drenagem do hematoma extradural",
+"b": "Volume acima de 25 mL, espessura acima de 15 mm, desvio da linha média acima de 5 mm ou Glasgow de 8 ou menos. Quadro clássico: intervalo lúcido. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Medidas de ponte na herniação cerebral",
+"b": "Cabeceira a 30 a 45 graus, bolus de salina hipertônica a 5% ou manitol a 20% (250 mL), hiperventilação breve com ETCO2 de 30 a 35 mmHg e normotermia. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Critérios NEXUS para dispensar imagem cervical",
+"b": "Sem dor na linha média posterior, sem intoxicação, alerta normal, sem déficit focal e sem lesão dolorosa que distraia. Não usar em crianças e maiores de 65 anos. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Reposição volêmica no queimado: adulto e criança",
+"b": "Adulto: 2 mL/kg/%SCQ, diurese 0,5 mL/kg/h. Menor de 13 anos: 3 mL/kg/%SCQ, diurese 1 mL/kg/h, mais glicosado de manutenção se 30 kg ou menos. Total dividido por 16 = taxa horária. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Reposição e meta de diurese na queimadura elétrica",
+"b": "4 mL/kg/%SCQ em qualquer idade; com urina pigmentada, diurese alvo de 100 mL/h no adulto e 2 mL/kg/h na criança até clarear. ECG em todos. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Meia-vida do monóxido de carbono com e sem oxigênio",
+"b": "Cerca de 4 horas em ar ambiente e 40 a 50 minutos com O2 a 100%. Oxímetro de pulso superestima a saturação; hiperbárica não entra na reanimação primária. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Cricotireoidostomia cirúrgica em criança: a partir de quando?",
+"b": "Raramente antes dos 12 anos; na criança pequena, a via de resgate é a punção cricotireoidea com jato de oxigênio, que oxigena mas não ventila. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Imunoglobulina anti-D na gestante traumatizada",
+"b": "Toda gestante Rh negativo vítima de trauma recebe ao menos 300 microgramas em até 72 horas, mesmo com Kleihauer-Betke negativo. Monitorização fetal mínima de 6 horas. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Quando fazer a cesárea ressuscitativa?",
+"b": "Útero na altura ou acima do umbigo e sem retorno da circulação após 5 minutos de reanimação adequada, independentemente da atividade cardíaca fetal. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Limiar de hipotensão no idoso traumatizado",
+"b": "PAS abaixo de 110 mmHg acima de 65 anos. Betabloqueador mascara taquicardia; lactato, déficit de base e índice de choque de 0,7 ou mais ajudam a detectar choque oculto. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Delta P na síndrome compartimental",
+"b": "PA diastólica menos pressão do compartimento abaixo de 30 mmHg (ou pressão acima de 30 mmHg) é preocupante. Perda de pulso é tardia; tratamento é fasciotomia. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "trauma",
+"a": "Prazo do antibiótico na fratura exposta",
+"b": "Iniciar no diagnóstico, idealmente na primeira hora da chegada; atraso acima de 3 horas aumenta infecção. Tipo III: cefazolina mais cobertura de gram-negativos. ATLS 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "periop",
+"a": "Dose inicial de dantroleno na hipertermia maligna",
+"b": "2,5 mg/kg endovenoso, repetido até controlar hipercapnia e taquicardia, após suspender halogenado e hiperventilar com O2 a 100%. European Malignant Hyperthermia Group, 2020.",
+"orig": "flashmed"
+},
+{
+"tema": "periop",
+"a": "Emulsão lipídica na toxicidade por anestésico local",
+"b": "Emulsão a 20%: bolus de 1,5 mL/kg em 2 a 3 minutos e infusão de 0,25 mL/kg/min; adrenalina em dose reduzida, até 1 mcg/kg. ASRA, checklist de 2020.",
+"orig": "flashmed"
+},
+{
+"tema": "periop",
+"a": "Quantos dias antes suspender inibidor de SGLT2?",
+"b": "Dapagliflozina, empagliflozina e canagliflozina: 3 dias; ertugliflozina: 4 dias, pelo risco de cetoacidose euglicêmica. ADA, Standards of Care in Diabetes, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "periop",
+"a": "Redose de cefazolina na profilaxia cirúrgica",
+"b": "A cada 4 horas de cirurgia ou com perda sanguínea acima de 1.500 mL. Profilaxia não deve passar de 24 horas, mesmo com dreno. ASHP/IDSA/SIS/SHEA, 2013; OMS, 2018.",
+"orig": "flashmed"
+},
+{
+"tema": "periop",
+"a": "Intervalo entre enoxaparina e punção neuroaxial",
+"b": "Pelo menos 12 horas após dose baixa (profilática) e 24 horas após dose alta (terapêutica). ASRA, 5ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "periop",
+"a": "Conduta no hematoma cervical com estridor após tireoidectomia",
+"b": "Abrir a incisão no leito, cortando suturas de pele e músculos para evacuar o coágulo, antes de levar ao centro cirúrgico. Consenso DAS, BAETS e ENT UK, 2022.",
+"orig": "flashmed"
+},
+{
+"tema": "abdome",
+"a": "Qual é o tratamento do volvo de ceco?",
+"b": "Cirurgia com ressecção: colectomia direita, com anastomose primária se o paciente estiver estável e a alça viável. A destorção endoscópica, padrão no volvo de sigmoide, raramente funciona no ceco (ASCRS, 2021).",
+"orig": "flashmed"
+},
+{
+"tema": "abdome",
+"a": "Qual é a sequência de tratamento da pseudo-obstrução colônica aguda (Ogilvie)?",
+"b": "Conservador por 24 a 48 h (eletrólitos, suspender opioide, sondas); se falhar sem isquemia ou perfuração, neostigmina venosa com monitor cardíaco; depois colonoscopia descompressiva; cirurgia na perfuração ou isquemia (ASCRS, 2021).",
+"orig": "flashmed"
+},
+{
+"tema": "abdome",
+"a": "Por que o ceco perfura primeiro na obstrução do cólon esquerdo com válvula ileocecal competente?",
+"b": "Forma-se alça fechada com pressão igual em todo o cólon; pela lei de Laplace a tensão parietal cresce com o raio, e o ceco é o segmento mais largo. Ceco acima de 10 a 12 cm com dor local é alarme (Sabiston, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "abdome",
+"a": "Como tratar a trombose venosa mesentérica sem peritonite?",
+"b": "Anticoagulação plena imediata com heparina e exame abdominal seriado; cirurgia se houver peritonite ou piora. Anticoagulação oral por meses, ou indefinida se a causa persiste (WSES, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "abdome",
+"a": "Qual é a conduta inicial no aneurisma de aorta abdominal roto em paciente consciente?",
+"b": "Hipotensão permissiva com hemoderivados, angiotomografia rápida e reparo endovascular quando a anatomia permite, preferido ao aberto (ESVS, 2024).",
+"orig": "flashmed"
+},
+{
+"tema": "abdome",
+"a": "O número de episódios de diverticulite indica sigmoidectomia eletiva?",
+"b": "Não. A decisão é individual, por sintomas persistentes, qualidade de vida, imunossupressão ou complicação. Idade abaixo de 50 anos também não indica cirurgia por si (WSES, 2020).",
+"orig": "flashmed"
+},
+{
+"tema": "abdome",
+"a": "Qual é a cirurgia preferida na diverticulite Hinchey III em paciente estável?",
+"b": "Sigmoidectomia com anastomose primária, com ou sem ileostomia de proteção, se houver experiência. Hartmann no instável ou com comorbidade grave. Lavagem laparoscópica não é rotina (WSES, 2020).",
+"orig": "flashmed"
+},
+{
+"tema": "abdome",
+"a": "Tumor neuroendócrino de apêndice: quando indicar colectomia direita?",
+"b": "Tumor maior que 2 cm ou ressecção incompleta. Menor que 1 cm com margem livre: apendicectomia basta, sem seguimento. De 1 a 2 cm: decisão individual (ENETS, 2023).",
+"orig": "flashmed"
+},
+{
+"tema": "abdome",
+"a": "Por quanto tempo manter antibiótico após apendicectomia por apendicite complicada?",
+"b": "De 2 a 3 dias após o controle do foco, em adultos e crianças (WSES, edição 2025). Na não complicada operada em até 24 h, só a dose profilática.",
+"orig": "flashmed"
+},
+{
+"tema": "hernias",
+"a": "Qual via usar na recidiva de hérnia inguinal?",
+"b": "O plano virgem: após reparo anterior (Lichtenstein ou tecidual), TEP ou TAPP; após reparo posterior, Lichtenstein; após os dois, especialista em hérnia (HerniaSurge, 2018).",
+"orig": "flashmed"
+},
+{
+"tema": "hernias",
+"a": "Hernioplastia de Lichtenstein eletiva precisa de antibioticoprofilaxia?",
+"b": "Não, se o paciente é de risco habitual e o hospital tem infecção de sítio abaixo de 5%. Sugerida no paciente de alto risco; recomendada em ambiente de alto risco; quando usada, cefalosporina de 1ª geração (HerniaSurge, 2023).",
+"orig": "flashmed"
+},
+{
+"tema": "hernias",
+"a": "O que define dor crônica pós-herniorrafia e quando reoperar?",
+"b": "Dor ao menos moderada, que limita atividades, por 3 meses ou mais. Reoperar só após 3 meses de tratamento clínico e intervencionista e 6 meses da cirurgia, em centro especializado; falha em cerca de 30% (HerniaSurge, 2023).",
+"orig": "flashmed"
+},
+{
+"tema": "hernias",
+"a": "Quais são os tipos da hérnia de Amyand (Losanoff e Basson)?",
+"b": "1: apêndice normal no saco inguinal; 2: apendicite restrita ao saco; 3: apendicite com peritonite; 4: apendicite com outra doença abdominal. Apêndice em hérnia femoral é De Garengeot (Losanoff e Basson, 2008).",
+"orig": "flashmed"
+},
+{
+"tema": "hernias",
+"a": "O que contêm os triângulos da desgraça e da dor na via posterior?",
+"b": "Desgraça, entre deferente e vasos gonadais: vasos ilíacos externos. Dor, lateral aos gonadais e abaixo do trato iliopúbico: cutâneo femoral lateral e ramo femoral do genitofemoral. Não fixar tela ali (HerniaSurge, 2018).",
+"orig": "flashmed"
+},
+{
+"tema": "digestivo",
+"a": "Quem tem IMC de 30 a 34,9 pode fazer cirurgia bariátrica pela Resolução CFM 2.429/2025?",
+"b": "Sim, com falha clínica e uma destas: diabetes tipo 2, doença cardiovascular grave com lesão de órgão-alvo, DRC precoce no diabético, apneia grave, doença hepática gordurosa com fibrose, indicação de transplante, refluxo cirúrgico ou osteoartrose grave.",
+"orig": "flashmed"
+},
+{
+"tema": "digestivo",
+"a": "Como se classifica o megaesôfago chagásico pela classificação de Rezende?",
+"b": "I: calibre normal, trânsito lento; II: dilatação moderada, ondas terciárias; III: grande dilatação, hipotonia; IV: dolicomegaesôfago. Graus iniciais: Heller com fundoplicatura parcial; grau IV: esofagectomia (II Consenso Brasileiro em Doença de Chagas, 2015).",
+"orig": "flashmed"
+},
+{
+"tema": "digestivo",
+"a": "Qual é a tríade de Borchardt e o que ela indica?",
+"b": "Dor epigástrica súbita, ânsia de vômito sem vomitar e impossibilidade de passar sonda nasogástrica: volvo gástrico agudo, em geral com hérnia paraesofágica. Cirurgia de urgência (SAGES, 2013).",
+"orig": "flashmed"
+},
+{
+"tema": "digestivo",
+"a": "Como diferenciar os tipos de Siewert do adenocarcinoma da junção esofagogástrica?",
+"b": "Pelo epicentro em relação à cárdia: I, 1 a 5 cm acima; II, de 1 cm acima a 2 cm abaixo; III, 2 a 5 cm abaixo, tratado como câncer gástrico (Siewert e Stein, 1998).",
+"orig": "flashmed"
+},
+{
+"tema": "digestivo",
+"a": "Qual é o intervalo da próxima colonoscopia após 1 ou 2 adenomas tubulares menores que 10 mm?",
+"b": "De 7 a 10 anos. Três a 4 adenomas pequenos: 3 a 5 anos. Adenoma de 10 mm ou mais, viloso ou com displasia de alto grau: 3 anos (USMSTF, 2020).",
+"orig": "flashmed"
+},
+{
+"tema": "digestivo",
+"a": "Qual é o tratamento inicial do carcinoma escamoso do canal anal localizado?",
+"b": "Quimiorradioterapia com mitomicina e 5-fluoruracila ou capecitabina (Nigro). Amputação abdominoperineal só para persistência ou recidiva (ESMO, 2021).",
+"orig": "flashmed"
+},
+{
+"tema": "hepatobiliar",
+"a": "Quais são os critérios de alto risco de coledocolitíase pela ASGE 2019?",
+"b": "Cálculo no colédoco em imagem, colangite, ou bilirrubina acima de 4 mg/dL com colédoco dilatado (acima de 6 mm com vesícula). Conduta: CPRE ou exploração cirúrgica da via biliar (ASGE, 2019).",
+"orig": "flashmed"
+},
+{
+"tema": "hepatobiliar",
+"a": "Como se classifica a síndrome de Mirizzi pela classificação de Csendes?",
+"b": "I: compressão sem fístula; II: fístula com erosão de menos de 1/3 da circunferência; III: de 1/3 a 2/3; IV: circunferência toda; V: fístula colecistoentérica (Vb com íleo biliar). II e III: subtotal com retalho; IV: hepaticojejunostomia (Beltran e Csendes, 2008).",
+"orig": "flashmed"
+},
+{
+"tema": "hepatobiliar",
+"a": "Pólipo de vesícula de 6 a 9 mm: quando operar?",
+"b": "Com um ou mais fatores de risco (idade acima de 60, colangite esclerosante, etnia asiática, lesão séssil): colecistectomia. Sem fator: ultrassom em 6 meses, 1 e 2 anos. 10 mm ou mais: colecistectomia (consenso europeu, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "hepatobiliar",
+"a": "Necrose pancreática infectada em paciente estável na segunda semana: drenar já?",
+"b": "Não. Antibiótico que penetra a necrose e adiar a intervenção até a coleção encapsular, cerca de 4 semanas; drenar antes só se piorar (POINTER, 2021; ACG, 2024).",
+"orig": "flashmed"
+},
+{
+"tema": "hepatobiliar",
+"a": "Qual é a duração do antibiótico na colangite aguda após drenagem eficaz?",
+"b": "De 4 a 7 dias após o controle da fonte. Bacteremia por enterococo ou estreptococo: no mínimo 2 semanas, pelo risco de endocardite (Tokyo Guidelines, 2018).",
+"orig": "flashmed"
+},
+{
+"tema": "cabeca",
+"a": "Quais são os cortes de punção do nódulo de tireoide pelo ACR TI-RADS?",
+"b": "TR3: punciona a partir de 2,5 cm (segue a partir de 1,5 cm). TR4: punciona a partir de 1,5 cm (segue a partir de 1,0 cm). TR5: punciona a partir de 1,0 cm (segue a partir de 0,5 cm). TR1 e TR2 não são puncionados. ACR TI-RADS, 2017.",
+"orig": "flashmed"
+},
+{
+"tema": "cabeca",
+"a": "Qual é a conduta na citologia Bethesda III da tireoide?",
+"b": "Atipia de significado indeterminado, risco de malignidade próximo de 20%: repetir a punção ou fazer teste molecular; vigilância ou lobectomia diagnóstica conforme o resultado e o quadro. Bethesda, 3ª edição, 2023.",
+"orig": "flashmed"
+},
+{
+"tema": "cabeca",
+"a": "Qual cirurgia a ATA 2025 indica no carcinoma papilífero de até 2 cm, intratireoidiano e N0?",
+"b": "Lobectomia. Entre 2 e 4 cm de baixo risco, lobectomia ou tireoidectomia total são aceitas. No microcarcinoma de baixo risco, vigilância ativa é opção; opera-se se crescer 3 mm ou mais ou surgir linfonodo comprovado. ATA, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "cabeca",
+"a": "O que pesquisar antes de operar um carcinoma medular de tireoide?",
+"b": "Metanefrinas (feocromocitoma), cálcio e PTH (hiperparatireoidismo) e mutação germinativa do RET, pela associação com NEM 2. Havendo feocromocitoma, ele é operado primeiro, após bloqueio alfa. ATA, Carcinoma Medular, 2015.",
+"orig": "flashmed"
+},
+{
+"tema": "cabeca",
+"a": "Estridor e abaulamento cervical horas após tireoidectomia: qual é a primeira medida?",
+"b": "Abrir a pele e a rafe dos músculos pré-tireoidianos à beira do leito para evacuar o hematoma e descomprimir a via aérea; depois, hemostasia no centro cirúrgico. Sabiston, 21ª edição, 2022.",
+"orig": "flashmed"
+},
+{
+"tema": "cabeca",
+"a": "Como diferenciar hipercalcemia hipocalciúrica familiar de hiperparatireoidismo primário?",
+"b": "Pela razão entre clearance de cálcio e de creatinina na urina de 24 horas: abaixo de 0,01 favorece a forma familiar, que não tem indicação cirúrgica. Exames de localização não fazem diagnóstico. Quinto Workshop Internacional, 2022.",
+"orig": "flashmed"
+},
+{
+"tema": "cabeca",
+"a": "Incidentaloma adrenal homogêneo com até 10 UH sem contraste: o que fazer?",
+"b": "É adenoma rico em lípides: não precisa de nova imagem nem de metanefrinas. Todo incidentaloma faz teste de supressão com 1 mg de dexametasona; aldosterona e renina se houver hipertensão ou hipocalemia. ESE, 2023.",
+"orig": "flashmed"
+},
+{
+"tema": "cabeca",
+"a": "Como é o preparo pré-operatório do feocromocitoma?",
+"b": "Alfabloqueador (doxazosina ou fenoxibenzamina) por 7 a 14 dias, com sal e líquidos liberados; betabloqueador só depois do alfa, para taquicardia. Beta antes do alfa pode precipitar crise hipertensiva. Endocrine Society, 2014.",
+"orig": "flashmed"
+},
+{
+"tema": "cironco",
+"a": "Quais são as margens de ampliação do melanoma conforme o Breslow?",
+"b": "In situ: 0,5 a 1 cm. Até 1 mm: 1 cm. De 1,01 a 2 mm: 1 a 2 cm. Acima de 2 mm: 2 cm. NCCN Melanoma Cutâneo, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "cironco",
+"a": "Quando oferecer biópsia de linfonodo sentinela no melanoma?",
+"b": "Oferecer a partir de 1 mm de Breslow; discutir entre 0,8 e 1 mm ou com ulceração (T1b). Não é rotina no T1a (menos de 0,8 mm sem ulceração). NCCN Melanoma Cutâneo, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "cironco",
+"a": "Sentinela positivo no melanoma: é preciso fazer linfadenectomia de complemento?",
+"b": "Não de rotina. O MSLT-II (2017) e o DeCOG-SLT mostraram que o esvaziamento não melhora a sobrevida por melanoma; a conduta é vigilância com ultrassonografia nodal seriada e avaliação para terapia adjuvante.",
+"orig": "flashmed"
+},
+{
+"tema": "cironco",
+"a": "Quando indicar cirurgia micrográfica de Mohs no carcinoma basocelular?",
+"b": "Nas lesões de alto risco: face central (zona H), subtipos agressivos (esclerodermiforme, infiltrativo), bordas mal definidas, recidiva ou área de radioterapia prévia. NCCN Carcinoma Basocelular, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "cironco",
+"a": "Quais são os sinais de alarme de sarcoma em massa de partes moles?",
+"b": "Tamanho maior que 5 cm, localização profunda à fáscia, crescimento progressivo e dor recente. Investigar com ressonância e biópsia por agulha grossa em centro de referência; estadiar com TC de tórax. ESMO, 2021.",
+"orig": "flashmed"
+},
+{
+"tema": "cironco",
+"a": "Quais critérios do ACOSOG Z0011 dispensam o esvaziamento axilar?",
+"b": "Tumor T1 ou T2, axila clinicamente negativa, 1 ou 2 linfonodos sentinela positivos, cirurgia conservadora e radioterapia de toda a mama. ASCO, 2021.",
+"orig": "flashmed"
+},
+{
+"tema": "cironco",
+"a": "Qual é a margem adequada na cirurgia conservadora do carcinoma invasivo de mama?",
+"b": "Ausência de tumor na tinta, com radioterapia de toda a mama. Margem mais larga não reduz recidiva. No carcinoma ductal in situ isolado, o alvo é 2 mm. SSO-ASTRO, 2014.",
+"orig": "flashmed"
+},
+{
+"tema": "especialidades",
+"a": "Como a classificação de Rutherford orienta a oclusão arterial aguda?",
+"b": "I e IIa: heparina e revascularização em horas. IIb (perda sensitiva além dos dedos, fraqueza leve): revascularização imediata. III (paralisia, anestesia, Doppler arterial e venoso ausentes): amputação primária. ESVS, 2020.",
+"orig": "flashmed"
+},
+{
+"tema": "especialidades",
+"a": "Qual é o tratamento inicial da claudicação intermitente?",
+"b": "Exercício supervisionado, cessar tabagismo, estatina de alta intensidade, antiagregante e controle de diabetes e pressão. Revascularização para falha clínica ou isquemia crônica ameaçadora do membro. ESC, 2024.",
+"orig": "flashmed"
+},
+{
+"tema": "especialidades",
+"a": "Quem deve fazer rastreamento de aneurisma de aorta abdominal pela USPSTF?",
+"b": "Homens de 65 a 75 anos que já fumaram alguma vez: ultrassonografia de abdome uma única vez. Em homens que nunca fumaram, de forma seletiva; mulheres que nunca fumaram, não. USPSTF, 2019.",
+"orig": "flashmed"
+},
+{
+"tema": "especialidades",
+"a": "Qual é a indicação clássica de filtro de veia cava inferior?",
+"b": "Trombose venosa profunda proximal aguda ou embolia pulmonar com contraindicação absoluta à anticoagulação. Usar filtro retirável e anticoagular assim que possível. CHEST, 2021.",
+"orig": "flashmed"
+},
+{
+"tema": "especialidades",
+"a": "Cálculo ureteral obstrutivo com febre ou sepse: qual é a conduta?",
+"b": "Antibiótico e descompressão urgente com cateter duplo J ou nefrostomia percutânea. O tratamento definitivo do cálculo fica para depois da infecção. EAU Urolitíase, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "especialidades",
+"a": "Quando associar inibidor da 5-alfa-redutase ao alfabloqueador na hiperplasia prostática?",
+"b": "Sintomas moderados a graves com próstata maior que 40 mL: a terapia combinada reduz o risco de retenção e de cirurgia. O inibidor leva meses para agir. EAU LUTS masculino, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "especialidades",
+"a": "Fratura de bacia com sangue no meato uretral: o que fazer antes de sondar?",
+"b": "Uretrografia retrógrada. Não tentar sonda uretral com suspeita de lesão de uretra; confirmada a lesão, drenar a bexiga por cistostomia suprapúbica. ATLS, 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "especialidades",
+"a": "Como a BTS 2023 conduz o pneumotórax espontâneo primário pouco sintomático?",
+"b": "Pela clínica e não pelo tamanho: sintomas mínimos e sem comprometimento fisiológico permitem tratamento conservador. Com sintomas, manejo ambulatorial, aspiração ou dreno. No secundário sintomático, drenar e internar. BTS, 2023.",
+"orig": "flashmed"
+},
+{
+"tema": "especialidades",
+"a": "Qual é o esquema antibiótico na fratura exposta Gustilo III segundo o ATLS 11?",
+"b": "Cefazolina 2 g IV a cada 8 horas mais cobertura gram-negativa (gentamicina 5 mg/kg/dia ou ceftriaxona), iniciada no diagnóstico. Tipos I e II: cefazolina isolada. ATLS, 11ª edição, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "especialidades",
+"a": "Até quando operar a criptorquidia com testículo palpável?",
+"b": "Orquidopexia entre 6 e 12 meses, no máximo até 18 meses; após 6 meses de idade corrigida a descida espontânea é rara. Testículo palpável não exige imagem e hormônio não é rotina. EAU Urologia Pediátrica, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "epidemio",
+"a": "Quando usar densidade de incidência em vez de incidência cumulativa?",
+"b": "Quando os participantes são seguidos por tempos diferentes (perdas, entradas tardias): casos novos ÷ soma de pessoas-tempo em risco, em casos por 1.000 pessoas-ano (Rouquayrol, 2018).",
+"orig": "flashmed"
+},
+{
+"tema": "epidemio",
+"a": "Padronização direta ou indireta: quando usar cada uma?",
+"b": "Direta: aplica os coeficientes específicos da população estudada a uma população-padrão. Indireta: coeficientes específicos instáveis ou ausentes; dá a razão de mortalidade padronizada, observados ÷ esperados (RIPSA, 2008).",
+"orig": "flashmed"
+},
+{
+"tema": "epidemio",
+"a": "Como se calcula o coeficiente de mortalidade perinatal?",
+"b": "(Óbitos fetais com 22 semanas ou mais + óbitos de 0 a 6 dias) ÷ (nascidos vivos + óbitos fetais) × 1.000 (CID-10, OMS).",
+"orig": "flashmed"
+},
+{
+"tema": "epidemio",
+"a": "Quais óbitos entram na razão de mortalidade materna?",
+"b": "Obstétricos diretos e indiretos até 42 dias após o fim da gestação, por 100.000 nascidos vivos. Ficam fora a morte materna tardia (42 dias a 1 ano) e as causas acidentais ou incidentais (CID-10).",
+"orig": "flashmed"
+},
+{
+"tema": "epidemio",
+"a": "Qual o denominador da taxa de ataque secundário?",
+"b": "Contatos suscetíveis expostos aos casos índices; os casos primários ficam fora do numerador e do denominador (Guia de Vigilância em Saúde, 2023).",
+"orig": "flashmed"
+},
+{
+"tema": "epidemio",
+"a": "Como prevalência, incidência e duração se relacionam?",
+"b": "Em situação estável, prevalência ≈ incidência × duração média. Cura rápida reduz a prevalência; tratamento que prolonga a vida sem curar a aumenta (Rouquayrol, 2018).",
+"orig": "flashmed"
+},
+{
+"tema": "epidemio",
+"a": "Como achar a cobertura vacinal mínima para imunidade coletiva?",
+"b": "Limiar = 1 menos 1/R0, dividido pela eficácia da vacina. R0 de 6 com eficácia de 90%: 0,833 ÷ 0,9 ≈ 93% (Rouquayrol, 2018).",
+"orig": "flashmed"
+},
+{
+"tema": "epidemio",
+"a": "Quais as quatro formas da curva de Nelson de Moraes?",
+"b": "Tipo I, N invertido (nível muito baixo); II, L (baixo); III, U ou V (regular); IV, J (elevado). Faixas: menor de 1, 1 a 4, 5 a 19, 20 a 49 e 50 anos ou mais (Rouquayrol, 2018).",
+"orig": "flashmed"
+},
+{
+"tema": "epidemio",
+"a": "O que é causa necessária no modelo de Rothman?",
+"b": "A que está presente em todas as causas suficientes da doença. Ex.: o bacilo de Koch é necessário, mas não suficiente, para a tuberculose (Rothman, 2021).",
+"orig": "flashmed"
+},
+{
+"tema": "epidemio",
+"a": "Como se calculam os anos potenciais de vida perdidos?",
+"b": "Soma, para cada óbito antes da idade-limite, de limite menos idade da morte; óbitos acima do limite contam zero. Valoriza a morte precoce, como a por causas externas (RIPSA, 2008).",
+"orig": "flashmed"
+},
+{
+"tema": "bioestat",
+"a": "O que acontece com sensibilidade e VPP em testes em série?",
+"b": "A especificidade e o VPP sobem, e a sensibilidade global cai (produto das sensibilidades). Em paralelo, ocorre o inverso (Fletcher, 2021).",
+"orig": "flashmed"
+},
+{
+"tema": "bioestat",
+"a": "Como usar a razão de verossimilhança para chegar à probabilidade pós-teste?",
+"b": "Probabilidade em chance (p ÷ 1 menos p), multiplicar pela RV, reconverter (chance ÷ 1 + chance). Pré-teste 20% e RV+ de 8 dão cerca de 67% (Fletcher, 2021).",
+"orig": "flashmed"
+},
+{
+"tema": "bioestat",
+"a": "Quais as fórmulas das razões de verossimilhança?",
+"b": "RV positiva = sensibilidade ÷ (1 menos especificidade). RV negativa = (1 menos sensibilidade) ÷ especificidade. Não dependem da prevalência (Fletcher, 2021).",
+"orig": "flashmed"
+},
+{
+"tema": "bioestat",
+"a": "Como calcular a fração atribuível populacional sem a prevalência da exposição?",
+"b": "(Incidência na população total menos incidência nos não expostos) ÷ incidência total. Ex.: (5 menos 2) ÷ 5 = 60% (Gordis, 2019).",
+"orig": "flashmed"
+},
+{
+"tema": "bioestat",
+"a": "Quando a razão de chances se afasta do risco relativo?",
+"b": "Quando o desfecho é frequente (acima de cerca de 10%): a OR fica mais distante de 1 que o RR e exagera a associação se lida como risco (Gordis, 2019).",
+"orig": "flashmed"
+},
+{
+"tema": "bioestat",
+"a": "Como a estratificação distingue confusão de modificação de efeito?",
+"b": "Confusão: estratos parecidos entre si e diferentes da medida bruta. Modificação de efeito: estratos diferentes entre si, relatados separadamente (Gordis, 2019).",
+"orig": "flashmed"
+},
+{
+"tema": "bioestat",
+"a": "Quando se declara não inferioridade num ensaio com desfecho de falha?",
+"b": "Quando o limite superior do IC 95% do RR fica abaixo da margem pré-definida. Se ultrapassa a margem, a não inferioridade não foi demonstrada (CONSORT, 2012).",
+"orig": "flashmed"
+},
+{
+"tema": "bioestat",
+"a": "Por que a sobrevida não serve para avaliar rastreamento?",
+"b": "Pelo viés de tempo de antecipação, de duração e pelo sobrediagnóstico: o desfecho válido é a mortalidade específica na população (Gordis, 2019).",
+"orig": "flashmed"
+},
+{
+"tema": "sus",
+"a": "Quais os mínimos de aplicação em saúde de cada ente?",
+"b": "União, 15% da receita corrente líquida (EC 86/2015); estados, 12% e municípios, 15% dos impostos e transferências (LC 141/2012). Aposentadorias e merenda não contam.",
+"orig": "flashmed"
+},
+{
+"tema": "sus",
+"a": "Quais as quatro condições do art. 28 do Decreto 7.508/2011?",
+"b": "Usuário assistido pelo SUS, prescrição de profissional do SUS, conformidade com RENAME e PCDT, e dispensação em unidade indicada pela direção do SUS.",
+"orig": "flashmed"
+},
+{
+"tema": "sus",
+"a": "Quais os componentes da estrutura operacional das RAS?",
+"b": "Centro de comunicação (atenção primária), pontos de atenção secundária e terciária, sistemas de apoio, sistemas logísticos e governança (Portaria 4.279/2010).",
+"orig": "flashmed"
+},
+{
+"tema": "trabalho",
+"a": "O que define desencadeamento de PAIR pela NR-7?",
+"b": "Audiograma ainda até 25 dB com piora, ante o de referência, de 10 dB ou mais na média de 3, 4 e 6 kHz ou de 15 dB ou mais em uma delas (NR-7, Anexo II, 2020).",
+"orig": "flashmed"
+},
+{
+"tema": "trabalho",
+"a": "Quando a NR-7 exige exame de retorno ao trabalho?",
+"b": "Ausência de 30 dias ou mais por doença ou acidente, ocupacional ou não; exame feito antes de o empregado reassumir a função (NR-7, 2020).",
+"orig": "flashmed"
+},
+{
+"tema": "trabalho",
+"a": "Como fica o afastamento do empregado acidentado?",
+"b": "Empresa paga os primeiros 15 dias; INSS a partir do 16º, sem carência no acidentário; estabilidade de 12 meses após cessar o benefício (Lei 8.213/1991, art. 118).",
+"orig": "flashmed"
+},
+{
+"tema": "vigilancia",
+"a": "Quais as zonas do canal endêmico?",
+"b": "Sucesso (abaixo do limite inferior), segurança (até a média), alerta (até o limite superior, média + 1,96 DP) e epidêmica (acima dele) (Guia de Vigilância em Saúde, 2023).",
+"orig": "flashmed"
+},
+{
 "tema": "sus",
 "a": "Quais são as três diretrizes do SUS no artigo 198 da Constituição?",
 "b": "Descentralização com direção única em cada esfera, atendimento integral com prioridade preventiva e participação da comunidade (CF 1988, art. 198).",
@@ -3851,12 +4451,6 @@ window.FLASH=[
 "tema": "sus",
 "a": "Quem paga quando um beneficiário de plano é atendido no SUS?",
 "b": "O atendimento é gratuito ao usuário; a operadora ressarce o SUS, cobrada pela ANS, se houver cobertura contratual (Lei 9.656/1998, art. 32).",
-"orig": "flashmed"
-},
-{
-"tema": "epidemio",
-"a": "Como prevalência, incidência e duração se relacionam?",
-"b": "Em situação estável, prevalência é aproximadamente incidência vezes duração; tratamento que prolonga a vida sem curar eleva a prevalência sem mudar a incidência (Rouquayrol, 2018).",
 "orig": "flashmed"
 },
 {
@@ -4250,6 +4844,156 @@ window.FLASH=[
 "orig": "flashmed"
 },
 {
+"tema": "obstetricia",
+"a": "Onde começa a fase ativa na diretriz brasileira de parto normal e na OMS 2018?",
+"b": "Com contrações regulares e 4 cm de dilatação na diretriz brasileira (MS/CONITEC, 2017); com 5 cm na OMS 2018. Com 3 cm, apoio e retorno para casa se possível.",
+"orig": "flashmed"
+},
+{
+"tema": "obstetricia",
+"a": "Episiotomia e manobra de Kristeller: o que diz a diretriz nacional de parto normal?",
+"b": "Episiotomia não é rotina; quando indicada, mediolateral, 45 a 60 graus a partir da fúrcula. Kristeller não deve ser feita (MS/CONITEC, 2017).",
+"orig": "flashmed"
+},
+{
+"tema": "obstetricia",
+"a": "Quando clampear o cordão do recém-nascido a termo vigoroso?",
+"b": "Não antes de 1 minuto: entre 1 e 5 minutos ou quando parar de pulsar. Clampeamento imediato só se precisar de reanimação (MS/CONITEC, 2017).",
+"orig": "flashmed"
+},
+{
+"tema": "obstetricia",
+"a": "Quais os 5 parâmetros do perfil biofísico fetal e o que indica escore 4?",
+"b": "CTG reativa, movimentos respiratórios, movimentos corporais, tônus e líquido (bolsão acima de 2 cm), 2 pontos cada. Escore de 4 ou menos sugere hipóxia; a termo, resolver (MS, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "obstetricia",
+"a": "Taquissistolia com desaceleração prolongada em uso de ocitocina: primeiras medidas?",
+"b": "Suspender ocitocina, decúbito lateral, hidratar e corrigir hipotensão, toque para afastar prolapso; tocolítico se persistir; sem recuperação, nascimento rápido (ACOG PB 116, 2010).",
+"orig": "flashmed"
+},
+{
+"tema": "obstetricia",
+"a": "Lóquios normais: como evoluem na primeira e segunda semanas?",
+"b": "Vermelhos nos primeiros 3 a 4 dias, serosos depois e esbranquiçados ou amarelados a partir de cerca de 10 dias. Útero intrapélvico por volta de 2 semanas (CAB 32, 2012).",
+"orig": "flashmed"
+},
+{
+"tema": "obstetricia",
+"a": "Tristeza puerperal x depressão pós-parto: o que separa?",
+"b": "Tristeza: início nos primeiros dias, pico perto do 5º dia, some em até 2 semanas, sem prejuízo funcional. Persistência, gravidade ou ideação: depressão pós-parto (ACOG, 2023).",
+"orig": "flashmed"
+},
+{
+"tema": "obstetricia",
+"a": "Ingurgitamento mamário no 3º dia: conduta?",
+"b": "Livre demanda, ordenha da aréola antes da mamada, massagem, compressa fria, analgésico e sutiã firme. Não suspender a amamentação nem dar antibiótico (CAB 23, 2015).",
+"orig": "flashmed"
+},
+{
+"tema": "obstpat",
+"a": "Qual exame confirma colestase intra-hepática da gestação e qual o risco fetal?",
+"b": "Ácidos biliares séricos de 10 µmol/L ou mais. Risco de óbito fetal súbito, maior com 100 µmol/L ou mais, que orienta o momento do parto (SMFM, 2021).",
+"orig": "flashmed"
+},
+{
+"tema": "obstpat",
+"a": "Sinal do T e sinal do lambda na ultrassonografia gemelar?",
+"b": "T: monocoriônica diamniótica, ultrassonografia a cada 2 semanas desde 16 semanas. Lambda: dicoriônica, a cada 4 semanas no segundo trimestre (ISUOG, 2016).",
+"orig": "flashmed"
+},
+{
+"tema": "obstpat",
+"a": "Tratamento da transfusão feto-fetal a partir do estádio II de Quintero?",
+"b": "Coagulação a laser das anastomoses por fetoscopia, entre 16 e 26 semanas; superior à amniodrenagem (SMFM, 2013).",
+"orig": "flashmed"
+},
+{
+"tema": "obstpat",
+"a": "Esquema de Pritchard do sulfato de magnésio e quando preferi-lo?",
+"b": "4 g IV lento mais 10 g IM (5 g em cada glúteo); manutenção de 5 g IM a cada 4 h. Preferido para transferência sem bomba de infusão (MS, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "obstpat",
+"a": "Infecção intra-amniótica intraparto: antibiótico e via de parto?",
+"b": "Ampicilina mais gentamicina IV, com anaerobicida se cesárea. O diagnóstico não indica cesárea por si (ACOG CO 712, 2017).",
+"orig": "flashmed"
+},
+{
+"tema": "obstpat",
+"a": "Por que vigiar o fibrinogênio no óbito fetal retido?",
+"b": "Retenção por mais de 4 semanas pode causar coagulação intravascular disseminada com hipofibrinogenemia; coagulograma seriado na conduta expectante (MS, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "gininfec",
+"a": "Linfogranuloma venéreo: quadro e tratamento?",
+"b": "Lesão fugaz e indolor, depois bubão inguinal que fistuliza por múltiplos orifícios. Doxiciclina 100 mg 12/12 h por 21 dias; bubão se aspira (PCDT IST, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "gininfec",
+"a": "Resposta adequada ao tratamento da sífilis recente?",
+"b": "Negativação ou queda de duas diluições do não treponêmico em até 6 meses (12 meses na tardia), com VDRL trimestral até 12 meses (PCDT IST, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "gininfec",
+"a": "Quando indicar supressão no herpes genital e com que esquema?",
+"b": "Seis ou mais recorrências por ano: aciclovir 400 mg de 12/12 h por até 6 meses, podendo chegar a 2 anos (PCDT IST, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "gininfec",
+"a": "Clamídia na gestante: qual antibiótico?",
+"b": "Azitromicina 1 g VO dose única, com tratamento da parceria. Doxiciclina é contraindicada na gestação (PCDT IST, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "gininfec",
+"a": "Febre e piora das lesões horas após benzatina na sífilis recente: o que é?",
+"b": "Reação de Jarisch-Herxheimer: autolimitada, tratada com sintomáticos; não é alergia nem motivo para trocar a penicilina (PCDT IST, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "reprodutiva",
+"a": "Três ou mais pílulas combinadas esquecidas na 3ª semana: conduta?",
+"b": "Tomar uma já, seguir os ativos, emendar a próxima cartela sem pausa e usar preservativo por 7 dias (OMS, recomendações práticas, 2016).",
+"orig": "flashmed"
+},
+{
+"tema": "reprodutiva",
+"a": "Quais métodos não sofrem interação com carbamazepina ou rifampicina?",
+"b": "DMPA e DIU de cobre ou de levonorgestrel, categoria 1. Combinados e pílula de progestagênio são categoria 3; implante, 2 (OMS, 2015).",
+"orig": "flashmed"
+},
+{
+"tema": "reprodutiva",
+"a": "Até quanto atraso se reaplica o DMPA sem método adicional?",
+"b": "Até 4 semanas após a data prevista. Acima disso, reaplicar com razoável certeza de não gravidez e preservativo por 7 dias (OMS, 2016).",
+"orig": "flashmed"
+},
+{
+"tema": "reprodutiva",
+"a": "Limites inferiores do espermograma pela OMS?",
+"b": "Volume 1,4 mL; concentração 16 milhões/mL; total 39 milhões; motilidade progressiva 30%; formas normais 4% (OMS, manual de 2021).",
+"orig": "flashmed"
+},
+{
+"tema": "ginecologia",
+"a": "Até quando manter contracepção não hormonal na perimenopausa?",
+"b": "Até 12 meses de amenorreia se 50 anos ou mais; 24 meses se a amenorreia começou antes dos 50 (FSRH, 2017, atualizada em 2023).",
+"orig": "flashmed"
+},
+{
+"tema": "ginonco",
+"a": "Quando fazer a salpingo-ooforectomia redutora de risco em BRCA1 e BRCA2?",
+"b": "BRCA1: entre 35 e 40 anos, com prole completa. BRCA2: pode adiar para 40 a 45 anos. CA-125 e ultrassonografia não substituem (NCCN, 2024).",
+"orig": "flashmed"
+},
+{
 "tema": "humor",
 "a": "Episódio depressivo maior: número de sintomas e duração mínima (DSM-5-TR)?",
 "b": "Cinco ou mais de nove sintomas por pelo menos 2 semanas, um deles humor deprimido ou anedonia, com sofrimento ou prejuízo e sem causa por substância ou doença clínica. DSM-5-TR, 2022.",
@@ -4547,6 +5291,156 @@ window.FLASH=[
 "tema": "psiqinf",
 "a": "Sinais vitais que indicam internar adolescente com anorexia?",
 "b": "FC abaixo de 50 bpm acordado, PA abaixo de 90/45 mmHg, temperatura abaixo de 35,6 °C, ortostatismo, distúrbio eletrolítico ou peso abaixo de 75% da mediana. SAHM, 2022.",
+"orig": "flashmed"
+},
+{
+"tema": "raps",
+"a": "Programa De Volta para Casa: quem tem direito?",
+"b": "Egresso de internação psiquiátrica de 2 anos ou mais (tempo em residência terapêutica conta), com consentimento e cuidado garantido na rede. Auxílio mensal por 1 ano, renovável; suspenso se reinternar em hospital psiquiátrico (Lei 10.708/2003).",
+"orig": "flashmed"
+},
+{
+"tema": "raps",
+"a": "Como termina a internação involuntária pela Lei 10.216/2001?",
+"b": "Por pedido escrito do familiar ou responsável legal, ou por decisão do especialista responsável. A alta também é comunicada ao Ministério Público Estadual em até 72 horas (Lei 10.216/2001, art. 8º).",
+"orig": "flashmed"
+},
+{
+"tema": "raps",
+"a": "Evasão, transferência ou óbito de internado psiquiátrico: comunicar a quem e em quanto tempo?",
+"b": "Familiares ou representante legal e autoridade sanitária, em até 24 horas da ocorrência (Lei 10.216/2001, art. 10).",
+"orig": "flashmed"
+},
+{
+"tema": "raps",
+"a": "Quem NÃO pode pedir internação involuntária de dependente de drogas?",
+"b": "Servidores da segurança pública. Pedem familiar ou responsável legal e, na falta, servidor da saúde, da assistência social ou do Sisnad; máximo de 90 dias (Lei 13.840/2019).",
+"orig": "flashmed"
+},
+{
+"tema": "raps",
+"a": "CAPS exige encaminhamento da UBS?",
+"b": "Não. O CAPS é serviço aberto e comunitário e acolhe demanda espontânea ou referenciada (PRC 3/2017, Anexo V, com redação da Portaria 757/2023).",
+"orig": "flashmed"
+},
+{
+"tema": "raps",
+"a": "Quais os quatro momentos do Projeto Terapêutico Singular?",
+"b": "Diagnóstico, definição de metas, divisão de responsabilidades (com técnico de referência) e reavaliação (Ministério da Saúde, Caderno de Atenção Básica 34, 2013).",
+"orig": "flashmed"
+},
+{
+"tema": "raps",
+"a": "Que equipe substituiu o NASF no apoio matricial da APS?",
+"b": "eMulti, instituída pela Portaria GM/MS 635/2023, nas modalidades ampliada, complementar e estratégica, com apoio matricial e atendimento compartilhado.",
+"orig": "flashmed"
+},
+{
+"tema": "drogas",
+"a": "Linha do tempo da abstinência alcoólica: alucinose, convulsão e delirium tremens?",
+"b": "Alucinose em 12 a 24 h, com sensório claro; convulsão de 8 a 48 h, pico perto de 24 h; delirium tremens em 72 a 96 h após a última dose (ASAM, 2020).",
+"orig": "flashmed"
+},
+{
+"tema": "drogas",
+"a": "Convulsão de abstinência alcoólica: fármaco de escolha?",
+"b": "Benzodiazepínico, de preferência de meia-vida longa (diazepam). Fenitoína não é eficaz para convulsão de abstinência (ASAM, 2020).",
+"orig": "flashmed"
+},
+{
+"tema": "drogas",
+"a": "Gravidade do transtorno por uso de substância no DSM-5-TR?",
+"b": "Onze critérios em 12 meses: 2 a 3 leve, 4 a 5 moderado, 6 ou mais grave. Fissura é critério; abuso e dependência deixaram de existir (DSM-5-TR, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "drogas",
+"a": "Naltrexona ou acamprosato no hepatopata que usa opioide?",
+"b": "Acamprosato (666 mg 3 vezes ao dia): sem metabolismo hepático e sem bloqueio opioide; evitar se filtração abaixo de 30 mL/min (APA, 2018).",
+"orig": "flashmed"
+},
+{
+"tema": "drogas",
+"a": "Hiperêmese canabinoide: pista clínica e tratamento?",
+"b": "Vômitos cíclicos em usuário crônico de cannabis, aliviados por banho quente. Haloperidol ou droperidol na crise; definitivo é parar a cannabis (AGA, 2024).",
+"orig": "flashmed"
+},
+{
+"tema": "drogas",
+"a": "Tratamento que reduz mortalidade no transtorno por uso de opioides?",
+"b": "Manutenção com metadona ou buprenorfina, sem prazo máximo; desintoxicação isolada aumenta o risco de overdose na recaída. Naloxona para paciente e família (ASAM, 2020).",
+"orig": "flashmed"
+},
+{
+"tema": "psicoses",
+"a": "Quando a psicose após droga sugere transtorno independente?",
+"b": "Se os sintomas precederam o uso ou persistem por cerca de 1 mês após o fim da intoxicação ou da abstinência (DSM-5-TR, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "psicoses",
+"a": "O que define o transtorno esquizoafetivo?",
+"b": "Episódio de humor junto com fase ativa, pelo menos 2 semanas de delírios ou alucinações sem sintomas de humor, e humor presente na maior parte da doença (DSM-5-TR, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "psicoses",
+"a": "Discinesia tardia: conduta?",
+"b": "Rever indicação e dose, considerar troca e usar inibidor do VMAT2 se moderada a grave (recomenda, 1B). Anticolinérgico não ajuda (APA, 2020).",
+"orig": "flashmed"
+},
+{
+"tema": "psicoses",
+"a": "Por que parar de fumar eleva o nível de clozapina?",
+"b": "A fumaça do tabaco induz o CYP1A2; sem ela, o nível de clozapina e olanzapina sobe em dias, com sedação, sialorreia e convulsão. Reduzir a dose (APA, 2020).",
+"orig": "flashmed"
+},
+{
+"tema": "psicoses",
+"a": "Usuário de lítio com poliúria e sem resposta à desmopressina: diagnóstico e tratamento?",
+"b": "Diabetes insípido nefrogênico pelo lítio; amilorida permite manter o fármaco quando ele é indispensável (NICE CG185, atualizada em 2025).",
+"orig": "flashmed"
+},
+{
+"tema": "humor",
+"a": "O que é melhora precoce do antidepressivo e o que fazer sem ela?",
+"b": "Queda de pelo menos 20% no escore em 2 a 4 semanas. Sem ela em 4 semanas de dose adequada: revisar adesão e aumentar a dose ou trocar (CANMAT, 2023).",
+"orig": "flashmed"
+},
+{
+"tema": "humor",
+"a": "Dose máxima de citalopram acima de 60 anos e motivo?",
+"b": "20 mg/dia, pelo prolongamento do QT dependente da dose (40 mg/dia no adulto mais jovem) (CANMAT, 2023).",
+"orig": "flashmed"
+},
+{
+"tema": "humor",
+"a": "Duração mínima do transtorno depressivo persistente?",
+"b": "2 anos no adulto e 1 ano em criança e adolescente, com 2 de 6 sintomas e sem período livre maior que 2 meses (DSM-5-TR, 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "emergpsiq",
+"a": "Pode associar olanzapina IM a benzodiazepínico parenteral?",
+"b": "Não: risco de hipotensão, bradicardia e depressão respiratória, maior no alcoolizado. Haloperidol com midazolam ou prometazina é que tem grau A (ABP, 2019).",
+"orig": "flashmed"
+},
+{
+"tema": "emergpsiq",
+"a": "Agitação na intoxicação alcoólica: opção mais segura?",
+"b": "Antipsicótico em dose baixa com vigilância; cautela com benzodiazepínico, que soma depressão respiratória. Benzodiazepínico é para a abstinência (ABP, 2019).",
+"orig": "flashmed"
+},
+{
+"tema": "psiqinf",
+"a": "O SUS fornece metilfenidato para TDAH?",
+"b": "Não. O PCDT do TDAH (Portaria Conjunta 14/2022) oferta só tratamento não medicamentoso; a Conitec não incorporou metilfenidato nem lisdexanfetamina.",
+"orig": "flashmed"
+},
+{
+"tema": "psiqinf",
+"a": "Vômito recorrente na bulimia: distúrbio eletrolítico e ácido-base?",
+"b": "Hipocalemia com alcalose metabólica hipoclorêmica; laxante tende a acidose hiperclorêmica. Sinal de Russell, parótidas e erosão dental (DSM-5-TR, 2022).",
 "orig": "flashmed"
 },
 {
@@ -4850,6 +5744,156 @@ window.FLASH=[
 "orig": "flashmed"
 },
 {
+"tema": "ferramentas",
+"a": "No MCCP, a que componente pertencem o autoconhecimento do médico e a contratransferência?",
+"b": "Ao quarto componente, intensificar a relação entre a pessoa e o médico, que inclui compaixão, partilha de poder, continuidade, esperança e autoconhecimento (Stewart et al., 3ª ed., 2014).",
+"orig": "flashmed"
+},
+{
+"tema": "ferramentas",
+"a": "Genograma: como se representam gêmeos, filho adotado e pessoas que moram juntas?",
+"b": "Gêmeos saem de um mesmo ponto da linha do casal; adotado se liga por linha tracejada; quem mora junto é contornado por linha tracejada (McGoldrick, Gerson e Petry, 2012).",
+"orig": "flashmed"
+},
+{
+"tema": "ferramentas",
+"a": "Genograma: como se desenham relação muito próxima, conflito, rompimento e distância?",
+"b": "Três linhas paralelas: muito próxima; zigue-zague: conflito; linha interrompida: rompimento; pontilhada: relação distante (McGoldrick, Gerson e Petry, 2012).",
+"orig": "flashmed"
+},
+{
+"tema": "ferramentas",
+"a": "Ecomapa: o que indica a seta numa linha de vínculo?",
+"b": "O sentido do fluxo de energia ou de recursos: seta da família para um sistema indica que a família investe nele; seta inversa, que recebe dele (Hartman, 1978).",
+"orig": "flashmed"
+},
+{
+"tema": "ferramentas",
+"a": "Tarefa emocional da família com filhos pequenos (Carter e McGoldrick)?",
+"b": "Aceitar novos membros no sistema: abrir espaço para os filhos, dividir tarefas de criação, financeiras e domésticas e assumir papéis de pais e avós. É crise normativa (Carter e McGoldrick, 1995).",
+"orig": "flashmed"
+},
+{
+"tema": "ferramentas",
+"a": "Tarefa emocional da família no estágio tardio da vida?",
+"b": "Aceitar a mudança dos papéis geracionais: manter o funcionamento diante do declínio, apoiar o papel central da geração do meio e lidar com perdas (Carter e McGoldrick, 1995).",
+"orig": "flashmed"
+},
+{
+"tema": "ferramentas",
+"a": "O que mede o domínio crescimento (growth) do APGAR familiar?",
+"b": "Se a pessoa sente que a família aceita e apoia seus desejos de iniciar novas atividades ou mudar de rumo. Cada item vale 0, 1 ou 2 (Smilkstein, 1978).",
+"orig": "flashmed"
+},
+{
+"tema": "ferramentas",
+"a": "Na etapa de convite do SPIKES, o que fazer se o paciente prefere que a família receba os detalhes?",
+"b": "Respeitar o quanto ele quer saber, combinar com ele o que será dito e a quem, e manter o plano. Não omitir o diagnóstico do paciente capaz a pedido da família (Baile et al., 2000; CEM, Res. CFM 2.217/2018).",
+"orig": "flashmed"
+},
+{
+"tema": "ferramentas",
+"a": "O que é a reflexão de dois lados na entrevista motivacional?",
+"b": "Devolver na mesma frase os motivos para manter e para mudar o comportamento, tornando visível a ambivalência sem gerar resistência (Miller e Rollnick, 3ª ed., 2013).",
+"orig": "flashmed"
+},
+{
+"tema": "aps",
+"a": "Longitudinalidade e continuidade são a mesma coisa?",
+"b": "Não. Longitudinalidade é a fonte regular de cuidado com vínculo ao longo do tempo, mesmo sem doença; continuidade é o seguimento de um episódio, ligado à coordenação (Starfield, 2002).",
+"orig": "flashmed"
+},
+{
+"tema": "aps",
+"a": "Requisitos legais para ser agente comunitário de saúde?",
+"b": "Residir na área desde a publicação do edital, ensino médio concluído e curso de formação inicial de no mínimo 40 horas (Lei 11.350/2006, com redação da Lei 13.595/2018).",
+"orig": "flashmed"
+},
+{
+"tema": "aps",
+"a": "Composição e carga horária da equipe de Atenção Primária (eAP)?",
+"b": "Médico e enfermeiro, sem exigência de ACS. Modalidade I: 20 horas semanais por categoria; modalidade II: 30 horas (Portaria GM/MS 2.539/2019).",
+"orig": "flashmed"
+},
+{
+"tema": "aps",
+"a": "O que a PNAB 2017 recomenda sobre o gerente de Atenção Básica?",
+"b": "Profissional qualificado, preferencialmente de nível superior, que não seja membro das equipes da UBS, responsável por organizar o processo de trabalho (Portaria 2.436/2017).",
+"orig": "flashmed"
+},
+{
+"tema": "aps",
+"a": "Quais as três dimensões da Política Nacional de Regulação do SUS?",
+"b": "Regulação de sistemas de saúde, regulação da atenção à saúde e regulação do acesso à assistência, esta feita por centrais de consultas, exames, leitos e urgência (Portaria GM/MS 1.559/2008).",
+"orig": "flashmed"
+},
+{
+"tema": "aps",
+"a": "Diferença entre equipe de Saúde da Família Ribeirinha e Fluvial?",
+"b": "A Ribeirinha atua a partir de UBS em terra e se desloca pelos rios; a Fluvial trabalha em Unidade Básica de Saúde Fluvial, uma embarcação equipada (PNAB, Portaria 2.436/2017).",
+"orig": "flashmed"
+},
+{
+"tema": "rastreamento",
+"a": "Como se calcula o número necessário rastrear (NNR)?",
+"b": "É o inverso da redução absoluta da mortalidade. Ex.: 0,6% no controle e 0,4% no rastreado dão redução de 0,2% e NNR de 500 (CAP nº 29, Ministério da Saúde, 2010).",
+"orig": "flashmed"
+},
+{
+"tema": "rastreamento",
+"a": "O que é o viés do voluntário saudável no rastreamento?",
+"b": "Quem aceita rastrear é mais saudável que quem recusa, o que reduz a mortalidade até por causas não relacionadas e superestima o benefício em estudo observacional (CAP nº 29, 2010).",
+"orig": "flashmed"
+},
+{
+"tema": "rastreamento",
+"a": "Rastreamento de dislipidemia pelo Caderno de Atenção Primária nº 29?",
+"b": "Homens a partir dos 35 anos e mulheres a partir dos 45; a partir dos 20 anos se houver risco cardiovascular aumentado (Ministério da Saúde, CAP nº 29, 2010).",
+"orig": "flashmed"
+},
+{
+"tema": "rastreamento",
+"a": "Colo do útero: mulher acima de 60 anos que nunca fez teste?",
+"b": "Fazer um DNA-HPV oncogênico; se negativo, encerrar o rastreamento (Portaria Conjunta SAES/SECTICS 13/2025).",
+"orig": "flashmed"
+},
+{
+"tema": "rastreamento",
+"a": "Colo do útero em mulher vivendo com HIV: início, intervalo e fim?",
+"b": "Início após o começo da atividade sexual, DNA-HPV a cada 3 anos se negativo, sem idade para encerrar; qualquer tipo oncogênico detectado leva à colposcopia (Portaria Conjunta 13/2025).",
+"orig": "flashmed"
+},
+{
+"tema": "grupos",
+"a": "Faixas do IVCF-20 e conduta no alto risco?",
+"b": "0 a 6 baixo risco; 7 a 14 risco moderado; 15 ou mais alto risco, que recebe avaliação multidimensional completa e plano de cuidados (Moraes et al., 2016).",
+"orig": "flashmed"
+},
+{
+"tema": "grupos",
+"a": "Quedas: o que define risco intermediário e qual a intervenção (World Falls Guidelines)?",
+"b": "Queda, instabilidade ou medo de cair sem critério de alto risco, com marcha abaixo de 0,8 m/s ou TUG acima de 15 s: exercício de força e equilíbrio (Montero-Odasso et al., 2022).",
+"orig": "flashmed"
+},
+{
+"tema": "grupos",
+"a": "Atenção domiciliar: o que mudou em 2024 para o paciente em fim de vida?",
+"b": "Instabilidade deixa de excluir quem está em cuidado paliativo de fim de vida com diretivas antecipadas de morrer em casa, se a equipe puder aliviar o sofrimento (Portaria GM/MS 3.005/2024).",
+"orig": "flashmed"
+},
+{
+"tema": "cronicas",
+"a": "Meta pressórica no idoso frágil pelo PCDT de Hipertensão do MS?",
+"b": "PA de 140 a 149 por 70 a 79 mmHg, começando com monoterapia. Frágil: 75 anos ou mais, ILPI, acamado, internação recente ou incapacidade funcional (Portaria SECTICS/MS 49/2025).",
+"orig": "flashmed"
+},
+{
+"tema": "cronicas",
+"a": "Como titular a insulina NPH basal no diabetes tipo 2?",
+"b": "Pela glicemia de jejum: por exemplo, 2 unidades a cada 3 dias até jejum de 80 a 130 mg/dL; reduzir 10 a 20% se hipoglicemia; manter a metformina (ADA, Standards of Care, 2026).",
+"orig": "flashmed"
+},
+{
 "tema": "neonato",
 "a": "RN de 34 semanas ou mais em apneia após os passos iniciais: o que fazer e com qual FiO2?",
 "b": "VPP por máscara no primeiro minuto de vida (minuto de ouro), em ar ambiente (21%), 30 a 60/min, pressão de 20 a 30 cmH2O. O2 ajustado 20% a cada 30 s pela SpO2 pré-ductal: 65 a 70% aos 2 min, 70 a 75% aos 3, 75 a 80% aos 4, 80 a 85% aos 5, 85 a 95% aos 10. Abaixo de 34 semanas, começa com 60%. Fonte: SBP, reanimação neonatal, 2026.",
@@ -5147,6 +6191,306 @@ window.FLASH=[
 "tema": "pedgeral",
 "a": "Síndrome nefrótica típica na criança: corticoide inicial",
 "b": "Prednisona ou prednisolona 60 mg/m²/dia (ou 2 mg/kg/dia, máx. 60 mg) por 4 a 6 semanas, depois 40 mg/m² em dias alternados por 4 a 6 semanas, sem biópsia inicial. KDIGO, 2021.",
+"orig": "flashmed"
+},
+{
+"tema": "puericultura",
+"a": "Calendário mínimo de puericultura do MS no primeiro e no segundo ano?",
+"b": "Sete consultas no 1º ano (1ª semana, 1, 2, 4, 6, 9 e 12 meses), duas no 2º (18 e 24 meses) e anuais depois dos 2 anos. Caderno de Atenção Básica nº 33, MS, 2012.",
+"orig": "flashmed"
+},
+{
+"tema": "puericultura",
+"a": "Estatura para a idade com escore Z de -2,5: como se classifica?",
+"b": "Baixa estatura (Z entre -3 e -2), marcador de agravo crônico; abaixo de -3, muito baixa estatura. Norma Técnica do SISVAN, MS, 2011.",
+"orig": "flashmed"
+},
+{
+"tema": "puericultura",
+"a": "Provável atraso x alerta para o desenvolvimento na Caderneta: o que separa?",
+"b": "Provável atraso: falta marco da faixa anterior, PC fora de mais ou menos 2 Z ou 3 ou mais alterações fenotípicas, e refere. Alerta: falta marco só da própria faixa; estimular e reavaliar em 30 dias. Caderno 33, MS, 2012.",
+"orig": "flashmed"
+},
+{
+"tema": "puericultura",
+"a": "Primeiro exame diante de atraso de linguagem aos 2 anos com triagem auditiva neonatal normal?",
+"b": "Avaliação audiológica: a triagem neonatal não exclui perda adquirida ou progressiva. Sinal de alerta: nenhuma frase de duas palavras aos 24 meses. Caderno 33, MS, 2012.",
+"orig": "flashmed"
+},
+{
+"tema": "puericultura",
+"a": "Conduta no ingurgitamento mamário bilateral do 3º dia?",
+"b": "Livre demanda, ordenha da aréola antes da mamada para permitir a pega, massagem, compressas frias, analgésico e sutiã firme; não suspender a amamentação. Caderno de Atenção Básica nº 23, MS, 2015.",
+"orig": "flashmed"
+},
+{
+"tema": "puericultura",
+"a": "Quais indicadores confirmam que o lactente em aleitamento exclusivo recebe leite suficiente?",
+"b": "Ganho de peso adequado e diurese (6 ou mais fraldas molhadas por dia). Choro, mamadas frequentes e mamas mais macias não indicam falta de leite. Caderno 23, MS, 2015.",
+"orig": "flashmed"
+},
+{
+"tema": "puericultura",
+"a": "Candidíase mamilar: como tratar?",
+"b": "Antifúngico tópico na mãe e no bebê ao mesmo tempo, retirar ou ferver bicos e chupetas e manter a amamentação. Caderno 23, MS, 2015.",
+"orig": "flashmed"
+},
+{
+"tema": "puericultura",
+"a": "Até quando evitar mel e açúcar na alimentação da criança?",
+"b": "Mel: não oferecer no 1º ano, pelo botulismo. Açúcar e preparações com açúcar: não oferecer até 2 anos. Guia Alimentar para Crianças Brasileiras Menores de 2 Anos, MS, 2019.",
+"orig": "flashmed"
+},
+{
+"tema": "puericultura",
+"a": "Tríplice viral e febre amarela no mesmo dia em menor de 2 anos?",
+"b": "Não: intervalo de 30 dias (mínimo de 15 em exceção); em surto com circulação dos dois vírus, podem ser simultâneas. Instrução Normativa do Calendário Nacional de Vacinação, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "puericultura",
+"a": "Criança de 7 anos sem DTP nem hepatite B: qual esquema?",
+"b": "dT em três doses (60 dias de intervalo) e hepatite B monovalente em 0, 1 e 6 meses; penta e DTP só até 6 anos, 11 meses e 29 dias. Instrução Normativa do PNI, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "puericultura",
+"a": "Quem recebe nirsevimabe no SUS desde fevereiro de 2026?",
+"b": "Prematuro de até 36 semanas e 6 dias, de qualquer peso, de preferência antes da alta da maternidade, e criança de até 24 meses com comorbidade de risco. Nota Técnica nº 109/2025, MS.",
+"orig": "flashmed"
+},
+{
+"tema": "puericultura",
+"a": "Nutriz de lactente menor de 6 meses precisa vacinar contra febre amarela sem poder adiar. O que fazer?",
+"b": "Vacinar e suspender o aleitamento por 10 dias, com ordenha e descarte para manter a lactação. Instrução Normativa do Calendário Nacional de Vacinação, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "neonato",
+"a": "Saturação-alvo pré-ductal na sala de parto, SBP 2026?",
+"b": "2 min 65 a 70%; 3 min 70 a 75%; 4 min 75 a 80%; 5 min 80 a 85%; 10 min 85 a 95%. VPP em ar ambiente a partir de 34 semanas e com O2 a 60% abaixo de 34. Diretrizes de reanimação neonatal da SBP, 2026.",
+"orig": "flashmed"
+},
+{
+"tema": "neonato",
+"a": "Prematuro abaixo de 34 semanas com FC acima de 100 e desconforto na sala de parto: conduta?",
+"b": "CPAP de 5 a 6 cmH2O com peça T e máscara, titulando O2 pela saturação-alvo; nunca com balão autoinflável. Surfactante não é rotina na sala de parto. Diretriz do prematuro da SBP, 2026.",
+"orig": "flashmed"
+},
+{
+"tema": "neonato",
+"a": "Itens do boletim de Silverman-Andersen?",
+"b": "Movimento tórax e abdome, tiragem intercostal, retração xifoide, batimento de asa nasal e gemido expiratório, cada um de 0 a 2 (total 0 a 10). Gemido audível sem estetoscópio vale 2. MS, Atenção à saúde do RN, 2014.",
+"orig": "flashmed"
+},
+{
+"tema": "neonato",
+"a": "Hérnia diafragmática congênita com necessidade de VPP na sala de parto?",
+"b": "Não ventilar com máscara: intubar e passar sonda gástrica imediata para descomprimir. Pistas: abdome escavado, ruídos hidroaéreos no tórax. SBP, diretrizes de reanimação, 2026.",
+"orig": "flashmed"
+},
+{
+"tema": "neonato",
+"a": "RN de mãe HBsAg reagente: o que fazer?",
+"b": "Vacina contra hepatite B e imunoglobulina específica nas primeiras 12 a 24 horas, em locais diferentes, qualquer que seja o HBeAg; amamentação liberada. PCDT de Transmissão Vertical, MS, 2022.",
+"orig": "flashmed"
+},
+{
+"tema": "neonato",
+"a": "Quando o RN de mãe com sífilis é só criança exposta?",
+"b": "Mãe adequadamente tratada (benzatina completa, iniciada 30 dias ou mais antes do parto), RN assintomático e VDRL sem título 2 diluições acima do materno. Seguimento com VDRL 1, 3, 6, 12 e 18 meses. PCDT, MS, 2022.",
+"orig": "flashmed"
+},
+{
+"tema": "neonato",
+"a": "Quando a profilaxia intraparto para estreptococo do grupo B é adequada?",
+"b": "Penicilina, ampicilina ou cefazolina iniciada 4 horas ou mais antes do parto. Inadequada em RN assintomático sem corioamnionite: observação ampliada de 36 a 48 horas. AAP, 2018.",
+"orig": "flashmed"
+},
+{
+"tema": "neonato",
+"a": "Dose de aciclovir no herpes neonatal e duração por forma?",
+"b": "20 mg/kg IV a cada 8 horas: 14 dias na forma de pele, olho e boca; 21 dias na neurológica e na disseminada, seguidos de supressão oral por 6 meses. Kimberlin, NEJM, 2011.",
+"orig": "flashmed"
+},
+{
+"tema": "pedinfecto",
+"a": "Otite média aguda com conjuntivite purulenta: qual antibiótico?",
+"b": "Amoxicilina com clavulanato (90 mg/kg/dia de amoxicilina), pois a síndrome otite-conjuntivite sugere Haemophilus produtor de betalactamase; 10 dias abaixo de 2 anos. AAP, 2013.",
+"orig": "flashmed"
+},
+{
+"tema": "pedinfecto",
+"a": "Dengue grupo C (sinal de alarme sem choque): hidratação inicial?",
+"b": "Soro fisiológico 10 mL/kg na primeira hora, reavaliação clínica após 1 hora e hematócrito após a etapa; máximo de 20 mL/kg em 2 horas por fase, até três vezes. MS, Dengue: diagnóstico e manejo clínico, 6ª ed., 2024.",
+"orig": "flashmed"
+},
+{
+"tema": "pedinfecto",
+"a": "Enterobíase: exame e tratamento?",
+"b": "Fita adesiva perianal pela manhã (Graham). Albendazol ou mebendazol para todos do domicílio, repetindo após 2 semanas. MS, Doenças infecciosas e parasitárias: guia de bolso, 2010.",
+"orig": "flashmed"
+},
+{
+"tema": "pedemerg",
+"a": "Dose de adrenalina na anafilaxia da criança?",
+"b": "0,01 mg/kg da solução 1 mg/mL IM na face anterolateral da coxa, máximo de 0,3 mg pré-púbere e 0,5 mg adolescente, repetindo a cada 5 a 15 minutos. WAO, 2020.",
+"orig": "flashmed"
+},
+{
+"tema": "pedemerg",
+"a": "Ondansetrona no cartaz de diarreia do MS 2023: quando e quanto?",
+"b": "Dose única no plano B com vômitos persistentes: 2 mg de 6 meses a 2 anos; 4 mg de 2 a 10 anos (até 30 kg); 8 mg acima. Não no plano A nem em gestantes. MS, 2023.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Quais são os critérios de alto risco da regra canadense de TC de crânio?",
+"b": "Glasgow abaixo de 15 duas horas após o trauma, suspeita de fratura aberta ou com afundamento, sinal de fratura de base, dois ou mais vômitos e idade de 65 anos ou mais. Stiell, Lancet, 2001.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Quem fica fora da regra canadense de TC de crânio?",
+"b": "Anticoagulados ou com coagulopatia, menores de 16 anos, quem convulsionou após o trauma e Glasgow abaixo de 13; nesses a decisão é individual e tende à TC. Stiell, Lancet, 2001.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Quais são os cinco critérios NEXUS que dispensam imagem cervical?",
+"b": "Sem dor na linha média posterior, sem intoxicação, alerta normal, sem déficit focal e sem lesão dolorosa que distraia. Sensibilidade de 99,6%. Hoffman, NEJM, 2000.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Regra de Ottawa do tornozelo: quando radiografar?",
+"b": "Dor maleolar com dor óssea na borda posterior ou ponta dos 6 cm distais de um maléolo, ou incapacidade de dar 4 passos. Pé: base do 5º metatarso ou navicular. Stiell, JAMA, 1993.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Regra de Ottawa do joelho: quais os critérios?",
+"b": "Basta um: idade de 55 anos ou mais, dor isolada na patela, dor na cabeça da fíbula, não fletir a 90 graus ou não dar 4 passos. Stiell, JAMA, 1997.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "PECARN abaixo de 2 anos: o que indica TC direto?",
+"b": "Glasgow abaixo de 15, alteração do estado mental ou fratura de crânio palpável. Hematoma não frontal, perda de consciência de 5 s ou mais, queda acima de 0,9 m ou comportamento anormal: observar ou TC. Kuppermann, Lancet, 2009.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "PECARN a partir de 2 anos: o que indica TC direto?",
+"b": "Glasgow abaixo de 15, alteração do estado mental ou sinais de fratura de base. Perda de consciência, vômitos, mecanismo grave ou cefaleia intensa: observar ou TC. Kuppermann, Lancet, 2009.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Contraste iodado IV: quem precisa de profilaxia renal pelo ACR/NKF?",
+"b": "TFGe abaixo de 30 fora de diálise ou lesão renal aguda: salina isotônica IV. Entre 30 e 44: individualizar. 45 ou mais: nada. Exame de urgência não espera creatinina. ACR/NKF, 2020.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Metformina e contraste iodado: quando suspender?",
+"b": "Só com TFGe abaixo de 30 ou lesão renal aguda: suspender no dia e por 48 h, retomando após reavaliar a função renal. Com TFGe de 30 ou mais, manter. ACR Manual on Contrast Media, 2024.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Pré-medicação para contraste iodado após reação prévia leve?",
+"b": "Não é recomendada; prefere-se trocar o agente. Moderada: considerar. Grave: manter se não houver exame alternativo. Alergia a frutos do mar não é indicação. Consenso ACR/AAAAI, 2025.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Gadolínio no paciente em diálise: como fazer?",
+"b": "Agente do grupo II na menor dose diagnóstica e hemodiálise logo após o exame. A fibrose sistêmica nefrogênica se associou aos agentes do grupo I. ACR Manual on Contrast Media, 2024.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Qual dose fetal se associa a malformação?",
+"b": "Abaixo de 50 mGy não há aumento de malformação, restrição ou perda; efeitos determinísticos acima de 50 a 100 mGy. Uma TC diagnóstica fica abaixo disso. ACOG Committee Opinion 723, 2017.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Doses efetivas típicas: radiografia de tórax, TC de crânio, TC de abdome e pelve?",
+"b": "Cerca de 0,02 mSv, 2 mSv e 8 a 10 mSv. Radiação natural de fundo: cerca de 3 mSv por ano. Mettler, Radiology, 2008.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Suspeita de embolia pulmonar na gestante sem sintomas nas pernas: sequência?",
+"b": "Radiografia de tórax; se normal, cintilografia de perfusão; se alterada, angiotomografia. Com sinais de TVP, começar pela ultrassonografia das pernas. ATS/STR, 2011.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Fleischner 2017: nódulo sólido único de 6 a 8 mm, alto risco?",
+"b": "TC em 6 a 12 meses e nova TC em 18 a 24 meses. Abaixo de 6 mm no baixo risco: sem seguimento. Acima de 8 mm: TC em 3 meses, PET-CT ou biópsia. Fleischner, 2017.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Para quem a Fleischner 2017 não se aplica?",
+"b": "Menores de 35 anos, pacientes com câncer conhecido, imunossuprimidos e nódulos de rastreamento (que seguem o Lung-RADS). MacMahon, Radiology, 2017.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Incidentaloma adrenal com menos de 10 UH e menos de 4 cm: conduta?",
+"b": "Adenoma benigno, sem nova imagem. Todos fazem dexametasona 1 mg (corte de cortisol 1,8 µg/dL); hipertenso ou hipocalêmico rastreia aldosterona/renina. ESE/ENSAT, 2023.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "BI-RADS: conduta das categorias 0, 3 e 4/5?",
+"b": "0: avaliação adicional. 3: risco até 2%, controle em 6 meses e seguimento até 2 a 3 anos. 4 e 5: biópsia por agulha grossa, com checagem de concordância. ACR BI-RADS, 5ª ed., 2013.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "ACR TI-RADS: cortes de punção e seguimento do TR3, TR4 e TR5?",
+"b": "TR3: punção a partir de 2,5 cm, seguimento a partir de 1,5 cm. TR4: 1,5 e 1,0 cm. TR5: 1,0 e 0,5 cm. TR1 e TR2: nada. ACR TI-RADS, 2017.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Epidural × subdural na TC: como diferenciar?",
+"b": "Epidural: biconvexo, não cruza suturas, artéria meníngea média, intervalo lúcido. Subdural: crescente, cruza suturas, veias-ponte, idoso e anticoagulado. BTF, 2006.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Cefaleia em trovoada com TC normal: quando puncionar?",
+"b": "TC de alta qualidade até 6 horas do início, normal, exclui hemorragia subaracnóidea. Após 6 horas, TC normal pede punção lombar com xantocromia. AHA/ASA, 2023.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Onde deve ficar a ponta do tubo orotraqueal na radiografia?",
+"b": "Cerca de 5 cm (5 ± 2 cm) acima da carina com pescoço neutro, em geral entre T2 e T4. Abaixo da carina: seletiva, quase sempre à direita. Goodman, AJR, 1976.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Apendicite: primeiro exame no adulto, na criança e na gestante?",
+"b": "Adulto: TC com contraste IV. Criança e gestante: ultrassonografia; na gestante com ultrassonografia inconclusiva, ressonância sem contraste. ACR Appropriateness Criteria, RLQ Pain, 2022.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Lombalgia aguda sem sinais de alarme: quando pedir imagem?",
+"b": "Não pedir. Imagem só com sinais de alarme (cauda equina, déficit progressivo, câncer, infecção, fratura) ou dor após 6 semanas em candidato a intervenção. ACR Appropriateness Criteria, 2021.",
+"orig": "flashmed"
+},
+{
+"tema": "radiologia",
+"a": "Cólica renal no adulto: exame de escolha?",
+"b": "TC sem contraste, de preferência em baixa dose. Ultrassonografia é a primeira escolha na gestante e na criança. EAU Guidelines on Urolithiasis, 2024.",
 "orig": "flashmed"
 }
 ];

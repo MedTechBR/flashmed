@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Mulher de 38 anos, com cirurgia ginecológica prévia, tem dor abdominal em cólica, distensão assimétrica e vômitos há 20 horas. Está estável, sem peritonite, com lactato de 1,6 mmol/L. A tomografia mostra ceco muito distendido, deslocado para o quadrante superior esquerdo, com redemoinho do mesentério ileocólico e delgado dilatado; o sigmoide é normal. Qual é a conduta indicada?",
+  "alts": [
+   "Destorção por colonoscopia e cecopexia eletiva após o preparo do cólon",
+   "Sonda retal e enema com contraste para destorção hidrostática",
+   "Colectomia direita, com anastomose primária se a condição permitir",
+   "Neostigmina venosa com monitorização cardíaca contínua por 24 horas",
+   "Cecostomia percutânea guiada por tomografia, sem ressecção"
+  ],
+  "gab": 2,
+  "tema": "abdome",
+  "sub": "Volvo de ceco",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Society of Colon and Rectal Surgeons. Clinical Practice Guidelines for the Management of Colonic Volvulus and Acute Colonic Pseudo-Obstruction, 2021",
+  "coment": "No volvo de ceco, a destorção por colonoscopia quase nunca dá certo, atrasa o tratamento e mantém alto risco de recidiva. A diretriz da ASCRS de 2021 recomenda tratamento cirúrgico com ressecção do segmento torcido, ou seja, colectomia direita. A anastomose ileocólica primária é feita no paciente estável com alça viável; com instabilidade ou contaminação, ileostomia terminal. Cecopexia e cecostomia sem ressecção recidivam mais. O contraste com o volvo de sigmoide cai em prova: lá, destorção endoscópica primeiro e sigmoidectomia na mesma internação.",
+  "porAlt": [
+   "A destorção endoscópica raramente funciona no ceco, atrasa a cirurgia e deixa alta recidiva; é a conduta do volvo de sigmoide.",
+   "Enema não destorce o volvo de ceco de forma confiável e não trata a causa; o contraste baritado ainda arrisca peritonite.",
+   "Correta: no volvo de ceco a diretriz manda operar e ressecar o segmento; a anastomose depende da estabilidade e da viabilidade da alça.",
+   "Neostigmina trata a pseudo-obstrução colônica, sem torção mecânica; aqui há redemoinho do mesentério.",
+   "Cecostomia isolada tem mais complicação e recidiva e fica para exceções, não como primeira escolha no paciente estável."
+  ]
+ },
+ {
+  "q": "Homem de 74 anos, no quarto dia pós-operatório de artroplastia de quadril, evolui com distensão abdominal progressiva, sem dor intensa e sem peritonite. Recebe opioide. A tomografia mostra dilatação de todo o cólon até o reto, ceco com 11 cm, sem ponto de obstrução mecânica e sem pneumatose. Eletrólitos foram corrigidos, o opioide reduzido e a sonda retal mantida por 48 horas, sem melhora. Qual é o próximo passo?",
+  "alts": [
+   "Neostigmina venosa, com atropina à mão e monitor cardíaco",
+   "Colectomia subtotal com ileostomia terminal de urgência",
+   "Cecostomia cirúrgica imediata pela dilatação acima de 9 cm",
+   "Enema opaco com bário para excluir obstrução mecânica",
+   "Metoclopramida venosa em doses repetidas por mais 72 h"
+  ],
+  "gab": 0,
+  "tema": "abdome",
+  "sub": "Pseudo-obstrução colônica aguda",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Society of Colon and Rectal Surgeons. Clinical Practice Guidelines for the Management of Colonic Volvulus and Acute Colonic Pseudo-Obstruction, 2021",
+  "coment": "A pseudo-obstrução colônica aguda (síndrome de Ogilvie) é dilatação do cólon sem obstrução mecânica, típica do pós-operatório ortopédico e do paciente com opioide e distúrbio eletrolítico. O primeiro passo é conservador por 24 a 48 horas: corrigir eletrólitos, retirar drogas que reduzem a motilidade, sonda nasogástrica e retal. Se falhar e não houver isquemia ou perfuração, a ASCRS 2021 recomenda neostigmina venosa, com monitorização pelo risco de bradicardia e atropina disponível. A colonoscopia descompressiva entra na falha ou contraindicação da neostigmina, e a cirurgia na perfuração ou isquemia.",
+  "porAlt": [
+   "Correta: falhado o tratamento conservador sem isquemia nem perfuração, a neostigmina é o passo seguinte, com risco de bradicardia.",
+   "Colectomia fica para perfuração, isquemia ou falha de todas as medidas descompressivas, não para o ceco de 11 cm sem sinais de sofrimento.",
+   "Ceco acima de 9 cm não é, por si, indicação de cecostomia; a descompressão farmacológica e endoscópica vem antes.",
+   "A tomografia já afastou ponto mecânico; bário no cólon distendido não acrescenta e pode complicar.",
+   "Procinético gástrico não tem papel definido na pseudo-obstrução colônica e prolonga a espera com o ceco dilatado."
+  ]
+ },
+ {
+  "q": "Mulher de 58 anos tem episódios de dor em cólica e vômitos há 3 semanas, com perda de 5 kg. A tomografia mostra imagem em alvo no cólon direito, com invaginação ileocólica tendo como cabeça uma lesão sólida de 3 cm, sem sinais de isquemia ou perfuração. Qual é a conduta?",
+  "alts": [
+   "Redução hidrostática com enema guiada por ultrassonografia abdominal",
+   "Redução manual laparoscópica e biópsia de congelação da lesão",
+   "Colonoscopia para desfazer a invaginação e ressecar a lesão por alça",
+   "Colectomia direita oncológica, sem tentar reduzir a invaginação",
+   "Sonda nasogástrica, jejum e nova tomografia em 48 horas"
+  ],
+  "gab": 3,
+  "tema": "abdome",
+  "sub": "Invaginação intestinal no adulto",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Marinis A, et al. Intussusception of the bowel in adults: a review. World Journal of Gastroenterology, 2009",
+  "coment": "No adulto, ao contrário da criança, a invaginação quase sempre tem uma cabeça patológica, e no cólon uma proporção alta é maligna, sobretudo adenocarcinoma. Por isso a conduta é cirúrgica, com ressecção oncológica em bloco do segmento, sem tentar reduzir a invaginação antes: a manipulação pode perfurar uma alça frágil, disseminar células tumorais e comprometer a linfadenectomia. A redução hidrostática ou pneumática guiada por imagem é tratamento da forma idiopática da criança. Lesões do delgado claramente benignas podem ser reduzidas antes de ressecção limitada, a critério do cirurgião.",
+  "porAlt": [
+   "Redução hidrostática é o tratamento da invaginação idiopática da criança, sem cabeça patológica.",
+   "Reduzir uma alça com provável tumor arrisca perfuração, disseminação e ressecção oncológica inadequada.",
+   "Colonoscopia não trata invaginação com cabeça tumoral de 3 cm e retarda a cirurgia indicada.",
+   "Correta: no adulto a invaginação colônica tem causa orgânica, muitas vezes maligna; resseca-se em bloco, sem manipular para reduzir.",
+   "A causa é mecânica e orgânica; observar não resolve e expõe à isquemia da alça invaginada."
+  ]
+ },
+ {
+  "q": "Homem de 66 anos tem parada de eliminação de fezes e gases há 4 dias, distensão abdominal importante e dor à palpação da fossa ilíaca direita. A tomografia mostra tumor estenosante de sigmoide, cólon a montante muito dilatado, ceco com 13 cm e delgado sem dilatação. Por que o ceco é o segmento de maior risco de perfuração?",
+  "alts": [
+   "A válvula ileocecal competente fecha a alça, e o ceco, de maior raio, sofre a maior tensão",
+   "O ceco depende da artéria marginal no ponto de Griffiths, de irrigação mais frágil no cólon",
+   "A parede do ceco não tem tênias, por isso se distende sem nenhuma resistência ao gás retido",
+   "O conteúdo do delgado reflui para o ceco e eleva a pressão nele acima da do restante do cólon",
+   "O ceco é fixo no retroperitônio e não consegue se acomodar ao aumento progressivo de volume"
+  ],
+  "gab": 0,
+  "tema": "abdome",
+  "sub": "Obstrução colônica em alça fechada",
+  "cenario": "emg",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Townsend CM, et al. Sabiston Textbook of Surgery, 21ª edição, 2022",
+  "coment": "Na obstrução do cólon esquerdo com válvula ileocecal competente forma-se uma alça fechada entre a válvula e o tumor: o gás e o líquido entram, mas não saem nem para o delgado, que fica sem dilatação. A pressão dentro da alça é a mesma em todos os pontos, e pela lei de Laplace a tensão na parede é proporcional ao raio. O ceco, segmento de maior diâmetro, sofre a maior tensão, isquemia e perfuração diastática. Ceco acima de 10 a 12 cm com dor na fossa ilíaca direita é sinal de alarme e exige descompressão sem demora.",
+  "porAlt": [
+   "Correta: pela lei de Laplace, a tensão na parede cresce com o raio; numa alça fechada a pressão se iguala e o ceco, mais largo, rompe primeiro.",
+   "O ponto de Griffiths fica na flexura esplênica, área de risco na colite isquêmica, não no ceco.",
+   "O ceco tem as três tênias, que inclusive convergem na base do apêndice; a explicação é física, não a falta de tênias.",
+   "Com a válvula competente o delgado não está dilatado justamente porque não há refluxo entre ceco e íleo.",
+   "O ceco é em geral intraperitoneal e móvel; a mobilidade excessiva é que predispõe ao volvo."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos, com policitemia vera, tem dor abdominal difusa há 4 dias, desproporcional ao exame, e náuseas. Está estável, sem peritonite. A angiotomografia mostra trombo na veia mesentérica superior e espessamento da parede de um segmento de jejuno, que realça o contraste, sem pneumatose nem líquido livre. Qual é a conduta inicial?",
+  "alts": [
+   "Laparotomia exploradora com ressecção do segmento de jejuno espessado",
+   "Trombólise sistêmica com alteplase em dose plena imediata",
+   "Anticoagulação plena com heparina e reavaliação seriada do abdome",
+   "Embolectomia da artéria mesentérica superior por cateter",
+   "Antiagregação plaquetária dupla e alta com retorno ambulatorial em 7 dias"
+  ],
+  "gab": 2,
+  "tema": "abdome",
+  "sub": "Trombose venosa mesentérica",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "World Society of Emergency Surgery. Acute mesenteric ischemia: updated guidelines, 2022",
+  "coment": "A trombose venosa mesentérica é a forma de isquemia ligada a estados pró-trombóticos, como neoplasias mieloproliferativas, trombofilias, cirrose e pós-operatório. O quadro é mais insidioso que o da embolia, com dor desproporcional por dias. A angiotomografia na fase venosa confirma. Sem peritonite ou sinais de necrose, a WSES 2022 recomenda anticoagulação imediata com heparina, que reduz a extensão do trombo e a necessidade de ressecção, com exame abdominal seriado. Peritonite ou piora indicam laparotomia ou laparoscopia, com ressecção do segmento inviável. A anticoagulação oral segue por meses, ou indefinidamente se a causa persiste.",
+  "porAlt": [
+   "A alça realça contraste e não há peritonite; ressecar agora retira intestino viável e não trata o trombo.",
+   "Trombólise sistêmica tem risco hemorrágico alto e fica para casos selecionados que pioram apesar da heparina, por via local.",
+   "Correta: sem peritonite nem necrose, a trombose venosa mesentérica se trata com heparina, que reduz progressão e ressecção.",
+   "O trombo é venoso; embolectomia arterial é o tratamento da embolia da artéria mesentérica superior.",
+   "Antiagregante não trata trombose venosa, e o paciente com isquemia de alça precisa de internação e reexame."
+  ]
+ },
+ {
+  "q": "Homem de 71 anos, tabagista, chega com dor lombar e abdominal súbita, síncope em casa e massa pulsátil periumbilical. Está consciente, com PA 92/60 mmHg e FC 112 bpm. O ultrassom à beira do leito mostra aorta infrarrenal de 7 cm com hematoma retroperitoneal. O hospital tem cirurgia vascular e endovascular 24 horas. Qual é a conduta inicial?",
+  "alts": [
+   "Cristaloide até PA sistólica de 120 mmHg antes de qualquer exame de imagem",
+   "Hipotensão permissiva, sangue e angiotomografia para planejar o reparo endovascular",
+   "Laparotomia imediata sem imagem, pois o reparo aberto tem menor mortalidade",
+   "Internar em terapia intensiva e programar o reparo eletivo na mesma semana",
+   "Betabloqueador venoso para reduzir a tensão na parede e observação clínica"
+  ],
+  "gab": 1,
+  "tema": "abdome",
+  "sub": "Aneurisma de aorta roto",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "European Society for Vascular Surgery. Clinical Practice Guidelines on the Management of Abdominal Aorto-iliac Artery Aneurysms, 2024",
+  "coment": "A tríade de dor abdominal ou lombar, hipotensão e massa pulsátil sugere aneurisma de aorta roto. A diretriz da ESVS de 2024 recomenda hipotensão permissiva, mantendo o paciente consciente, com reposição preferencial de hemoderivados, para não aumentar o sangramento contido no retroperitônio. No paciente que permite, a angiotomografia é feita rapidamente para definir se a anatomia aceita reparo endovascular, preferido quando viável por menor mortalidade precoce. O reparo aberto fica para anatomia desfavorável ou indisponibilidade do endovascular. Cristaloide agressivo e adiamento pioram o desfecho.",
+  "porAlt": [
+   "Elevar a pressão com cristaloide aumenta o sangramento retroperitoneal e dilui fatores de coagulação.",
+   "Correta: com o paciente consciente, aceita-se pressão baixa, transfunde-se e a angiotomografia define se a anatomia permite o reparo endovascular.",
+   "No aneurisma roto com anatomia favorável, a diretriz prefere o endovascular, que tem mortalidade precoce menor.",
+   "Aneurisma roto é emergência; adiar o reparo leva à exsanguinação.",
+   "Betabloqueador não trata ruptura e piora o choque; a conduta é reparo urgente."
+  ]
+ },
+ {
+  "q": "Homem de 46 anos, imunocompetente, teve o segundo episódio de diverticulite aguda não complicada do sigmoide, confirmado por tomografia e tratado em casa, com boa recuperação. Está assintomático entre as crises e pergunta se deve operar para evitar perfuração no futuro. Qual é a orientação adequada?",
+  "alts": [
+   "Sigmoidectomia eletiva obrigatória a partir do segundo episódio de diverticulite",
+   "Sigmoidectomia indicada por ter tido a primeira crise antes dos 50 anos",
+   "Sem sigmoidectomia de rotina; decisão individual por sintomas e qualidade de vida",
+   "Antibiótico profilático contínuo com rifaximina por um ano, com reavaliação depois",
+   "Sigmoidectomia no terceiro episódio, qualquer que seja o quadro clínico"
+  ],
+  "gab": 2,
+  "tema": "abdome",
+  "sub": "Diverticulite: cirurgia eletiva",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "World Society of Emergency Surgery. WSES guidelines for the management of acute left sided colonic diverticulitis, 2020",
+  "coment": "Antes se indicava sigmoidectomia após dois episódios de diverticulite ou após o primeiro em pacientes jovens, para prevenir perfuração. Estudos de coorte mostraram que a maior parte das perfurações e das cirurgias de urgência ocorre no primeiro episódio e que as recorrências tendem a ser semelhantes ao quadro inicial. Por isso a WSES 2020, em linha com a ASCRS, recomenda decidir a cirurgia eletiva caso a caso, pelos sintomas persistentes ou recorrentes frequentes, pelo impacto na qualidade de vida e pela presença de imunossupressão ou complicação, e não pelo número de crises ou pela idade.",
+  "porAlt": [
+   "A regra de operar após dois episódios foi abandonada: a maioria das perfurações ocorre na primeira crise.",
+   "Idade abaixo de 50 anos não justifica, por si, a sigmoidectomia profilática.",
+   "Correta: o número de crises e a idade jovem deixaram de indicar cirurgia; pesam sintomas persistentes, qualidade de vida e risco individual.",
+   "Antibiótico contínuo não mostrou prevenir recorrência de forma consistente e não é recomendado.",
+   "Contar episódios não define a indicação; o que decide é o impacto clínico em cada paciente."
+  ]
+ },
+ {
+  "q": "Mulher de 63 anos teve diverticulite do sigmoide com abscesso pericólico de 3 cm, tratada com antibiótico venoso, com boa resposta e alta no quinto dia. Nunca fez colonoscopia. Qual é a recomendação após a resolução do quadro?",
+  "alts": [
+   "Colonoscopia ainda na internação, assim que a febre ceder",
+   "Sigmoidectomia eletiva em 6 semanas, sem colonoscopia prévia",
+   "Colonoscopia em cerca de 6 a 8 semanas para excluir neoplasia",
+   "Pesquisa de sangue oculto bienal, como no rastreio habitual",
+   "Tomografia de controle anual por 5 anos, sem colonoscopia"
+  ],
+  "gab": 2,
+  "tema": "abdome",
+  "sub": "Colonoscopia após diverticulite",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "American Society of Colon and Rectal Surgeons. Clinical Practice Guidelines for the Management of Left-sided Colonic Diverticulitis, 2020",
+  "coment": "A diverticulite complicada, sobretudo com abscesso, tem associação maior com câncer colorretal, que pode simular o quadro inflamatório na tomografia. A ASCRS 2020 recomenda colonoscopia após a resolução, em geral 6 a 8 semanas depois, em quem teve diverticulite complicada ou não tem colonoscopia de qualidade recente; a WSES 2020 fala em 4 a 6 semanas. Na fase aguda a colonoscopia é evitada pelo risco de perfuração. Após diverticulite não complicada confirmada por tomografia, com colonoscopia recente normal, o exame de rotina não é obrigatório.",
+  "porAlt": [
+   "Colonoscopia na fase aguda aumenta o risco de perfuração e é evitada até a inflamação regredir.",
+   "Operar sem examinar o cólon pode deixar passar neoplasia sincrônica e mudar a extensão da ressecção.",
+   "Correta: após diverticulite complicada, a colonoscopia depois da fase aguda afasta câncer, que pode simular ou coexistir com o quadro.",
+   "Teste fecal é rastreio de pessoa assintomática; aqui há indicação de exame direto do cólon.",
+   "Tomografia seriada não substitui a avaliação da mucosa e não exclui adenocarcinoma."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos, sem comorbidades, é operado por diverticulite do sigmoide; na laparoscopia há peritonite purulenta generalizada, sem conteúdo fecal (Hinchey III). Está estável, sem vasopressor e com lactato normal, e o cirurgião tem experiência em cirurgia colorretal. Qual é a estratégia preferida pela WSES?",
+  "alts": [
+   "Lavagem laparoscópica com drenagem, como tratamento definitivo de escolha",
+   "Colostomia em alça de transverso, sem ressecar o sigmoide perfurado",
+   "Antibiótico venoso e drenagem percutânea, sem nenhuma ressecção",
+   "Sigmoidectomia com anastomose primária, com ou sem ileostomia de proteção",
+   "Retossigmoidectomia à Hartmann, por ser a única opção cirúrgica aceitável"
+  ],
+  "gab": 3,
+  "tema": "abdome",
+  "sub": "Diverticulite: Hinchey III",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "World Society of Emergency Surgery. WSES guidelines for the management of acute left sided colonic diverticulitis, 2020",
+  "coment": "Na peritonite purulenta difusa (Hinchey III), a WSES 2020 sugere, em pacientes clinicamente estáveis e sem comorbidades importantes, sigmoidectomia com anastomose primária, com ou sem ileostomia de proteção, desde que haja experiência cirúrgica. A cirurgia de Hartmann continua indicada no paciente instável, imunossuprimido ou com comorbidades graves, mas boa parte das colostomias nunca é revertida. A lavagem laparoscópica isolada, testada em ensaios randomizados, teve mais reintervenções e abscessos residuais e fica para casos muito selecionados. Peritonite fecal (Hinchey IV) pesa ainda mais a favor de Hartmann.",
+  "porAlt": [
+   "A lavagem laparoscópica teve mais reintervenção e abscesso; não é a escolha rotineira na peritonite purulenta.",
+   "Derivar sem ressecar deixa o foco séptico e é estratégia abandonada.",
+   "Drenagem percutânea trata abscesso localizado (Hinchey II), não peritonite generalizada.",
+   "Correta: no paciente estável, sem comorbidades e com cirurgião experiente, ressecar e anastomosar evita a colostomia definitiva frequente após Hartmann.",
+   "Hartmann é opção no paciente instável ou com muitas comorbidades, mas não é a única nem a preferida aqui."
+  ]
+ },
+ {
+  "q": "Homem de 27 anos fez apendicectomia laparoscópica por apendicite aguda não complicada. O anatomopatológico mostrou tumor neuroendócrino bem diferenciado G1 de 0,8 cm na ponta do apêndice, com margens livres e sem invasão do mesoapêndice. Qual é a conduta?",
+  "alts": [
+   "Colectomia direita oncológica com linfadenectomia regional",
+   "Análogo de somatostatina de depósito por 12 meses",
+   "Cintilografia com análogo e cromogranina A semestrais",
+   "Nenhum tratamento adicional e sem seguimento específico",
+   "Ressecção endoscópica da parede do ceco junto à base"
+  ],
+  "gab": 3,
+  "tema": "abdome",
+  "sub": "Tumor neuroendócrino do apêndice",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "European Neuroendocrine Tumor Society. ENETS 2023 guidance paper for appendiceal neuroendocrine tumours, 2023",
+  "coment": "O tumor neuroendócrino bem diferenciado é a neoplasia mais comum do apêndice, quase sempre achado da histopatologia após apendicectomia. Pela ENETS 2023, o tumor menor que 1 cm com ressecção completa é curado pela apendicectomia e não exige seguimento. Entre 1 e 2 cm a apendicectomia em geral basta, e invasão do mesoapêndice ou grau 2 deixaram de indicar colectomia automaticamente; a decisão é individual. Tumor maior que 2 cm ou com margem comprometida indica colectomia direita oncológica. Não confundir com a neoplasia mucinosa, que segue outra lógica.",
+  "porAlt": [
+   "Colectomia direita fica para tumor maior que 2 cm ou ressecção incompleta.",
+   "Análogo de somatostatina trata doença avançada ou funcionante, não tumor pequeno ressecado.",
+   "Seguimento com imagem e marcadores não é necessário no tumor menor que 1 cm com ressecção completa.",
+   "Correta: tumor neuroendócrino de apêndice menor que 1 cm, ressecado com margem livre, tem risco mínimo de metástase e a apendicectomia é curativa.",
+   "A margem está livre; não há tumor residual na base que justifique nova ressecção."
+  ]
+ },
+ {
+  "q": "Mulher de 31 anos fez apendicectomia laparoscópica por apendicite perfurada com peritonite localizada; a base foi grampeada e a secreção purulenta aspirada, com bom controle do foco. No segundo dia pós-operatório está afebril, sem dor importante e aceitando dieta. Pela WSES 2025, por quanto tempo manter o antibiótico pós-operatório?",
+  "alts": [
+   "Dose única, como na apendicite não complicada",
+   "Sete dias completos, mesmo se estiver afebril",
+   "Até normalizar a PCR, em média por dez dias",
+   "Catorze dias, completados por via oral em casa",
+   "Dois a três dias após o controle do foco"
+  ],
+  "gab": 4,
+  "tema": "abdome",
+  "sub": "Antibiótico na apendicite complicada",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "World Society of Emergency Surgery. Jerusalem guidelines for acute appendicitis, edição 2025",
+  "coment": "A edição 2025 da diretriz de Jerusalém da WSES encurtou o antibiótico pós-operatório na apendicite complicada: 2 a 3 dias em vez de 5 a 7, desde que o foco tenha sido controlado na cirurgia, em adultos e crianças. A base vem do ensaio STOP-IT, em que cerca de 4 dias fixos equivaleram ao tratamento guiado pela normalização de febre, leucócitos e íleo. Na apendicite não complicada operada em até 24 horas, basta a dose profilática, sem antibiótico depois. Febre ou íleo que persistem após o curso curto pedem tomografia atrás de abscesso, não antibiótico mais longo às cegas.",
+  "porAlt": [
+   "Dose única basta na apendicite não complicada; a perfurada exige curso terapêutico curto.",
+   "Cursos de 7 dias não trazem benefício quando o foco foi controlado e aumentam resistência e efeitos adversos.",
+   "Guiar a duração pela normalização de marcadores prolonga o antibiótico sem melhorar o desfecho.",
+   "Duas semanas não têm respaldo após controle adequado do foco e expõem a toxicidade desnecessária.",
+   "Correta: com foco controlado, a edição 2025 sugere 2 a 3 dias de antibiótico na apendicite complicada, em vez de 5 a 7."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos, em terapia intensiva por pancreatite aguda grave, recebeu grande volume de cristaloide. Evolui com abdome tenso, oligúria e aumento da pressão de platô no ventilador. A pressão intra-abdominal medida pela bexiga é de 26 mmHg e se mantém apesar de sonda nasogástrica, sedação profunda, balanço negativo e drenagem percutânea da ascite. Qual é a conduta?",
+  "alts": [
+   "Laparotomia descompressiva com abdome aberto temporário",
+   "Aumentar o cristaloide para vencer a pressão abdominal",
+   "Aguardar, pois a síndrome exige pressão acima de 40 mmHg",
+   "Necrosectomia pancreática aberta imediata pela laparotomia",
+   "Furosemida em dose alta e nova medida da pressão em 24 horas"
+  ],
+  "gab": 0,
+  "tema": "abdome",
+  "sub": "Síndrome compartimental abdominal",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "World Society of the Abdominal Compartment Syndrome. Updated consensus definitions and clinical practice guidelines, 2013",
+  "coment": "A WSACS define hipertensão intra-abdominal como pressão sustentada de 12 mmHg ou mais, e síndrome compartimental abdominal como pressão acima de 20 mmHg associada a disfunção orgânica nova. A medida é feita pela bexiga, em decúbito dorsal e ao fim da expiração. O tratamento começa por medidas clínicas: esvaziar o conteúdo intraluminal, drenar ascite, melhorar a complacência da parede com sedação e analgesia e evitar excesso de volume. Quando a síndrome persiste apesar delas, a diretriz de 2013 recomenda laparotomia descompressiva, mantendo o abdome aberto temporariamente. Na pancreatite isso não significa desbridar a necrose.",
+  "porAlt": [
+   "Correta: pressão intra-abdominal acima de 20 mmHg com disfunção orgânica nova, refratária às medidas clínicas, indica descompressão cirúrgica.",
+   "Mais volume aumenta o edema visceral e a pressão abdominal, piorando a síndrome.",
+   "A síndrome compartimental é definida por pressão sustentada acima de 20 mmHg com nova disfunção orgânica.",
+   "Necrosectomia precoce na pancreatite aumenta a mortalidade; o objetivo aqui é descomprimir, não desbridar.",
+   "Já houve tentativa de balanço negativo; manter medidas clínicas com oligúria progressiva atrasa a descompressão."
+  ]
+ },
+ {
+  "q": "Mulher de 78 anos, hipertensa, tem dor abdominal em cólica no lado esquerdo seguida, em poucas horas, de evacuações com sangue vivo misturado às fezes. Está estável, com dor leve à palpação do flanco esquerdo, sem peritonite. A tomografia mostra espessamento segmentar da parede do cólon descendente e do sigmoide, sem pneumatose e sem gás portal. Qual é a conduta?",
+  "alts": [
+   "Suporte clínico e colonoscopia nas primeiras 48 horas",
+   "Colectomia esquerda de urgência pela extensão do espessamento",
+   "Arteriografia mesentérica com papaverina por via intra-arterial",
+   "Anticoagulação plena com heparina, mantida por três meses",
+   "Enema opaco com bário para definir a extensão da colite"
+  ],
+  "gab": 0,
+  "tema": "abdome",
+  "sub": "Colite isquêmica",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American College of Gastroenterology. Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia, 2015",
+  "coment": "A colite isquêmica é a forma mais comum de isquemia intestinal, típica do idoso, com dor em cólica leve seguida de sangramento retal em até 24 horas, muitas vezes no território do cólon esquerdo. Pela diretriz da ACG de 2015, a tomografia com contraste é o primeiro exame, e a colonoscopia nas primeiras 48 horas confirma o diagnóstico, com biópsias. O tratamento é de suporte: hidratação, repouso intestinal e retirada de fatores precipitantes, com antibiótico nas formas moderadas ou graves. Cirurgia fica para peritonite, gangrena, perfuração ou sangramento maciço. Isquemia isolada do cólon direito pede angiotomografia, pelo risco de doença da mesentérica superior.",
+  "porAlt": [
+   "Correta: a colite isquêmica não gangrenosa se trata com suporte, e a colonoscopia precoce confirma o diagnóstico e avalia a gravidade.",
+   "Sem peritonite, gangrena ou piora clínica não há indicação de ressecção; a maioria regride.",
+   "A colite isquêmica é em geral não oclusiva de pequenos vasos; arteriografia não é rotina, salvo isquemia isolada do cólon direito com suspeita mesentérica.",
+   "Anticoagulação só tem papel quando há fonte embólica ou trombose identificada, o que não é o caso.",
+   "Bário não tem lugar na fase aguda e pode atrapalhar a colonoscopia e uma eventual cirurgia."
+  ]
+ },
+ {
+  "q": "Homem de 76 anos, diabético, tem dor em fossa ilíaca direita há 2 dias, febre baixa e leucócitos de 13.500/mm³. O escore de Alvarado é 6. O plantonista pergunta como seguir a investigação antes de decidir a conduta. Pelas diretrizes atuais, qual é o melhor caminho?",
+  "alts": [
+   "Laparoscopia direta, já que o escore confirma o caso",
+   "Tomografia de baixa dose antes de decidir a conduta",
+   "Antibiótico oral ambulatorial e reavaliação em 48 h",
+   "Repetir o escore a cada 6 horas, dispensando imagem",
+   "Só ultrassonografia; se o apêndice não aparecer, alta"
+  ],
+  "gab": 1,
+  "tema": "abdome",
+  "sub": "Apendicite no idoso",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "European Association for Endoscopic Surgery. EAES rapid guideline: appendicitis in the elderly, 2021",
+  "coment": "No idoso a apendicite tem quadro arrastado, mais perfuração e diferencial amplo, que inclui diverticulite e câncer de cólon. A EAES 2021 desaconselha usar escore clínico para substituir a imagem seccional nessa faixa, e a WSES 2025 sugere tomografia de baixa dose em vez de ultrassom a partir de 65 anos. Confirmado o diagnóstico, a apendicectomia laparoscópica é preferida ao tratamento só com antibiótico no idoso apto. O Alvarado é útil para excluir quando abaixo de 5, mas não confirma o diagnóstico.",
+  "porAlt": [
+   "Escores servem para estratificar e excluir; não confirmam apendicite, sobretudo no idoso.",
+   "Correta: no idoso o escore não substitui a imagem, e a tomografia de baixa dose define complicação e diagnósticos diferenciais.",
+   "No idoso apto a cirurgia é preferida, e antibiótico sem confirmação por imagem é inadequado.",
+   "Observar sem imagem no idoso atrasa diagnóstico numa faixa com mais perfuração e mortalidade.",
+   "Apêndice não visualizado não exclui apendicite; no idoso a tomografia é preferida ao ultrassom."
+  ]
+ },
+ {
+  "q": "Homem de 60 anos foi operado por úlcera duodenal perfurada com peritonite difusa de 18 horas; foi feita rafia com epíplon e lavagem, com controle adequado do foco. Evolui estável e sem disfunção orgânica. Qual é a duração recomendada do antibiótico terapêutico no pós-operatório?",
+  "alts": [
+   "Cerca de 4 dias, sem esperar normalizar todos os exames",
+   "De 10 a 14 dias, até o leucograma ficar normal por 48 h",
+   "Só a dose profilática feita na indução anestésica",
+   "Vinte e um dias, pelo risco de abscesso residual tardio",
+   "Até a retirada do dreno, qualquer que seja o tempo"
+  ],
+  "gab": 0,
+  "tema": "abdome",
+  "sub": "Duração do antibiótico na peritonite",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Surgical Infection Society. Revised guidelines on the management of intra-abdominal infection, 2017",
+  "coment": "Na infecção intra-abdominal complicada com controle adequado do foco, o ensaio STOP-IT (2015) mostrou que um curso fixo de cerca de 4 dias tem o mesmo índice de infecção de sítio, infecção recorrente e morte que o tratamento mantido até normalizar febre, leucocitose e íleo, que durou em mediana 8 dias. A diretriz revisada da Surgical Infection Society de 2017 incorporou esse limite. A exceção é a perfuração tratada em até 24 horas, como a úlcera operada precocemente ou o trauma de alça, em que 24 horas bastam. Febre que persiste pede procurar coleção, não prolongar antibiótico.",
+  "porAlt": [
+   "Correta: com o foco controlado, cerca de 4 dias equivalem a cursos guiados por febre e leucócitos, como mostrou o STOP-IT.",
+   "Esperar normalização laboratorial prolonga o antibiótico sem reduzir infecção recorrente.",
+   "Peritonite estabelecida há 18 horas é infecção, não contaminação; exige curso terapêutico.",
+   "Três semanas não têm respaldo e aumentam resistência, diarreia por Clostridioides e custo.",
+   "O dreno não define a duração do antibiótico; o critério é o controle do foco e a evolução clínica."
+  ]
+ },
+ {
+  "q": "Homem de 57 anos teve hérnia inguinal direita operada pela técnica de Lichtenstein há 4 anos e agora apresenta recidiva sintomática e redutível. Não tem contraindicação à anestesia geral, e o serviço dispõe de cirurgião experiente em via laparoendoscópica. Qual é a via preferida para o novo reparo?",
+  "alts": [
+   "Novo Lichtenstein com tela de maior área",
+   "Reparo de Shouldice, para evitar nova tela",
+   "Plug de tela no orifício pela via anterior",
+   "Reparo de Bassini com incisão relaxadora",
+   "Via posterior, TEP ou TAPP, com tela"
+  ],
+  "gab": 4,
+  "tema": "hernias",
+  "sub": "Recidiva após Lichtenstein",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "HerniaSurge Group. International guidelines for groin hernia management, 2018",
+  "coment": "A HerniaSurge 2018 recomenda operar a recidiva pelo plano ainda não dissecado: após reparo anterior, tecidual ou Lichtenstein, via laparoendoscópica (TEP ou TAPP); após reparo posterior, via anterior com Lichtenstein; após as duas vias, encaminhar a cirurgião especialista em hérnia. A lógica é evitar o tecido cicatricial, onde a dissecção lesa o cordão e os nervos, aumenta orquite isquêmica e falha. Na via posterior, a tela cobre todo o orifício miopectíneo, inclusive o espaço femoral. A recomendação é forte, condicionada à experiência do cirurgião.",
+  "porAlt": [
+   "Reoperar pela mesma via cruza o tecido cicatricial e aumenta lesão do cordão, orquite isquêmica e nova recidiva.",
+   "Reparo tecidual na recidiva tem mais falha; a tela segue indicada para a maioria.",
+   "Implantes tridimensionais tipo plug não são recomendados e mantêm o acesso pelo plano já operado.",
+   "Bassini tem alta recidiva e não é técnica recomendada para hérnia recidivada.",
+   "Correta: na recidiva opera-se pelo plano virgem; após reparo anterior, a via posterior evita a fibrose e o risco ao cordão."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos, sem comorbidades, fará hernioplastia inguinal eletiva pela técnica de Lichtenstein num hospital cuja taxa de infecção de sítio cirúrgico em cirurgias limpas é de 1,5%. Quanto à antibioticoprofilaxia, o que recomenda a atualização HerniaSurge de 2023?",
+  "alts": [
+   "Cefazolina por 24 horas por causa da tela",
+   "Vancomicina dose única pela prótese implantada",
+   "Ciprofloxacino oral por 5 dias após a alta",
+   "Não fazer profilaxia de rotina neste caso",
+   "Cefazolina até a retirada dos pontos da pele"
+  ],
+  "gab": 3,
+  "tema": "hernias",
+  "sub": "Antibioticoprofilaxia na hernioplastia",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Stabilini C, et al. Update of the international HerniaSurge guidelines for groin hernia management, 2023",
+  "coment": "A atualização HerniaSurge de 2023 separa o risco do ambiente do risco do paciente. No reparo aberto com tela, em paciente de risco habitual e hospital com infecção de sítio cirúrgico abaixo de 5%, a profilaxia não é recomendada (forte, evidência alta). É sugerida no paciente de alto risco e recomendada em ambiente de alto risco. Na via laparoendoscópica não é sugerida. Quando indicada, usa-se cefalosporina de primeira geração ou betalactâmico com inibidor de betalactamase, em dose única. Na cirurgia de urgência, o antibiótico venoso é recomendado.",
+  "porAlt": [
+   "A tela não justifica profilaxia prolongada; mesmo quando indicada, é dose única pré-incisão.",
+   "Vancomicina não é a primeira escolha e só se considera com colonização conhecida por estafilococo resistente.",
+   "Antibiótico após a alta não previne infecção de sítio cirúrgico e favorece resistência.",
+   "Correta: no reparo aberto com tela, paciente de risco habitual e ambiente de baixo risco, a profilaxia não é recomendada.",
+   "Manter antibiótico até tirar pontos não tem respaldo em nenhuma diretriz de profilaxia."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos, 5 meses após hernioplastia de Lichtenstein, tem dor em queimação na região inguinal, irradiada para o escroto e a face medial da coxa, que limita o trabalho. Não há recidiva ao exame nem à ultrassonografia dinâmica. Qual é a conduta adequada neste momento?",
+  "alts": [
+   "Neurectomia tripla imediata com retirada da tela",
+   "Tratamento clínico e bloqueios por ao menos 3 meses",
+   "Reoperação laparoscópica para trocar a tela",
+   "Observação apenas, pois some sozinha em 2 anos",
+   "Corticoide oral e anti-inflamatório por 6 semanas"
+  ],
+  "gab": 1,
+  "tema": "hernias",
+  "sub": "Dor crônica pós-herniorrafia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Stabilini C, et al. Update of the international HerniaSurge guidelines for groin hernia management, 2023",
+  "coment": "Dor crônica pós-herniorrafia (inguinodinia) é a dor ao menos moderada, que interfere nas atividades e dura 3 meses ou mais; atinge 10 a 12% dos operados. Território do escroto e da face medial da coxa sugere lesão ou aprisionamento do nervo ilioinguinal. A HerniaSurge 2023 recomenda tratamento clínico e intervencionista, com analgésicos para dor neuropática e bloqueios guiados por ultrassom, por no mínimo 3 meses e não antes de 6 meses da cirurgia, antes de considerar reoperação. A neurectomia, com ou sem retirada da tela, é feita em centro especializado, avisando que falha em cerca de 30%.",
+  "porAlt": [
+   "Cirurgia para dor só após falha do tratamento clínico, em centro especializado, e falha em cerca de 30%.",
+   "Correta: antes de operar, a diretriz pede ao menos 3 meses de tratamento clínico e intervencionista, e no mínimo 6 meses de pós-operatório.",
+   "Trocar a tela por laparoscopia não trata dor neuropática do território do ilioinguinal.",
+   "A dor limita o trabalho e merece tratamento ativo; esperar sem abordagem não é a recomendação.",
+   "Corticoide sistêmico prolongado não tem respaldo na dor neuropática pós-herniorrafia."
+  ]
+ },
+ {
+  "q": "Durante hernioplastia inguinal direita eletiva em homem de 40 anos, o cirurgião abre o saco herniário e encontra o apêndice cecal no seu interior, de aspecto normal, sem inflamação e sem contaminação. Qual é o nome dessa hérnia e sua classificação de Losanoff e Basson?",
+  "alts": [
+   "Hérnia de Littré, tipo 1",
+   "Hérnia de De Garengeot, tipo 1",
+   "Hérnia de Amyand, tipo 2",
+   "Hérnia de Richter, tipo 2",
+   "Hérnia de Amyand, tipo 1"
+  ],
+  "gab": 4,
+  "tema": "hernias",
+  "sub": "Hérnia de Amyand",
+  "cenario": "cc",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Losanoff JE, Basson MD. Amyand hernia: a classification to improve management. Hernia, 2008",
+  "coment": "Hérnia de Amyand é a presença do apêndice dentro de uma hérnia inguinal; dentro de hérnia femoral o nome é De Garengeot. Losanoff e Basson propuseram em 2008 quatro tipos: 1, apêndice normal; 2, apendicite aguda restrita ao saco; 3, apendicite com peritonite; 4, apendicite associada a outra doença abdominal. No tipo 1 o campo é limpo e o reparo com tela pode ser feito; a apendicectomia profilática é individualizada. Nos tipos com inflamação, apendicectomia e, com contaminação, reparo sem tela ou estadiado.",
+  "porAlt": [
+   "Littré é a hérnia que contém divertículo de Meckel, não o apêndice.",
+   "De Garengeot é o apêndice dentro de hérnia femoral, não inguinal.",
+   "O tipo 2 é apendicite aguda restrita ao saco, sem peritonite; aqui o apêndice é normal.",
+   "Richter é o pinçamento só da borda antimesentérica de uma alça, sem relação com o apêndice.",
+   "Correta: apêndice dentro de hérnia inguinal é hérnia de Amyand; apêndice normal corresponde ao tipo 1."
+  ]
+ },
+ {
+  "q": "Durante hernioplastia inguinal esquerda por via anterior em homem de 70 anos com hérnia inguinoescrotal volumosa, o cirurgião nota que a parede posterior do saco é formada pelo próprio cólon sigmoide. Qual é a conduta correta com o saco herniário?",
+  "alts": [
+   "Reduzir saco e víscera em bloco, sem abrir a parede cólica",
+   "Abrir o saco e ressecar a porção formada pelo sigmoide",
+   "Ligar alto o saco incluindo o mesossigmoide na sutura",
+   "Converter para laparotomia mediana e fixar o sigmoide",
+   "Seccionar o saco no anel e deixar o sigmoide no escroto"
+  ],
+  "gab": 0,
+  "tema": "hernias",
+  "sub": "Hérnia por deslizamento",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "HerniaSurge Group. International guidelines for groin hernia management, 2018",
+  "coment": "Na hérnia por deslizamento, uma víscera retroperitoneal ou parcialmente fixa forma parte da parede do saco: sigmoide à esquerda, ceco à direita e bexiga medialmente. O erro grave é tratar essa parede como saco comum, abrindo ou ressecando a víscera, o que causa lesão intestinal ou vesical e contaminação do campo da tela. O correto é dissecar o saco, sem separar a víscera da parede, e reduzir tudo em bloco para o espaço pré-peritoneal, seguido do reparo habitual com tela. A HerniaSurge 2018 aponta a hérnia por deslizamento como fator de risco de recidiva.",
+  "porAlt": [
+   "Correta: na hérnia por deslizamento a víscera é parte da parede do saco; reduz-se o conjunto sem dissecar nem ressecar a alça.",
+   "Ressecar a parede do saco aqui é abrir o cólon, com contaminação e risco de fístula.",
+   "Ligar o saco com o mesossigmoide pode desvascularizar o cólon.",
+   "Laparotomia não é necessária; a redução em bloco pela via anterior resolve.",
+   "Deixar a alça no escroto mantém a hérnia; o objetivo é reduzir o conteúdo e reforçar a parede."
+  ]
+ },
+ {
+  "q": "Menino de 2 anos tem abaulamento inguinal direito intermitente, que aparece ao chorar e reduz sozinho, sem nenhum episódio de irredutibilidade. O exame confirma hérnia inguinal redutível, com testículos tópicos. Qual é a conduta?",
+  "alts": [
+   "Observar até os 5 anos, pois a maioria fecha de forma espontânea",
+   "Hernioplastia de Lichtenstein com tela leve de polipropileno",
+   "Funda inguinal até a idade escolar e reavaliação cirúrgica",
+   "Herniotomia eletiva breve, com ligadura alta do saco e sem tela",
+   "Reparo de McVay para reforçar a parede posterior do canal"
+  ],
+  "gab": 3,
+  "tema": "hernias",
+  "sub": "Hérnia inguinal na criança",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American Academy of Pediatrics, Section on Surgery. Assessment and management of inguinal hernia in infants, 2012",
+  "coment": "A hérnia inguinal da criança é quase sempre indireta, por persistência do conduto peritoneovaginal, e não fecha sozinha, ao contrário da hérnia umbilical, que costuma ser observada até cerca de 4 a 5 anos. Como o risco de encarceramento é maior quanto menor a criança, a hérnia redutível é operada de forma eletiva pouco depois do diagnóstico. A técnica é a herniotomia, com dissecção e ligadura alta do saco no anel profundo, por via aberta ou laparoscópica, sem reforço da parede e sem tela. No prematuro internado, o reparo costuma ser adiado para depois da alta.",
+  "porAlt": [
+   "Fechamento espontâneo até a idade escolar é próprio da hérnia umbilical, não da inguinal.",
+   "A parede posterior da criança é normal; tela não tem indicação na hérnia inguinal pediátrica.",
+   "Funda não fecha o conduto e expõe ao encarceramento enquanto se espera.",
+   "Correta: na criança a hérnia é indireta por conduto peritoneovaginal pérvio, e o tratamento é a ligadura alta do saco, sem reforço nem tela.",
+   "Reforço com McVay não se aplica à hérnia indireta infantil, cujo defeito é o saco pérvio."
+  ]
+ },
+ {
+  "q": "Na técnica de Lichtenstein, a recidiva medial, junto ao tubérculo púbico, é uma das formas mais comuns de falha. Qual cuidado técnico previne essa recidiva?",
+  "alts": [
+   "Fixar a tela no periósteo do púbis com pontos bem firmes",
+   "Sobrepor a tela cerca de 2 cm além do tubérculo púbico",
+   "Cortar a tela rente ao tubérculo para que ela não dobre",
+   "Ressecar o músculo cremaster até o anel inguinal superficial",
+   "Fechar o novo anel profundo bem justo ao redor do cordão"
+  ],
+  "gab": 1,
+  "tema": "hernias",
+  "sub": "Técnica de Lichtenstein",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "HerniaSurge Group. International guidelines for groin hernia management, 2018",
+  "coment": "O Lichtenstein coloca uma tela entre a parede posterior e a aponeurose do oblíquo externo. Os dois pontos clássicos de recidiva são o púbis, por sobreposição insuficiente, e a região lateral ao anel profundo, quando as caudas da tela não são cruzadas atrás do cordão. Por isso a tela deve sobrepor cerca de 2 cm o tubérculo púbico, ultrapassar o triângulo de Hesselbach em 3 a 4 cm e o anel profundo em 5 a 6 cm, e ficar levemente frouxa, já que encolhe. A HerniaSurge contraindica fixar a tela no periósteo, por dor crônica.",
+  "porAlt": [
+   "Pontos no periósteo aumentam a dor crônica e não são recomendados; a tela é fixada ao tecido junto ao púbis.",
+   "Correta: a tela deve ultrapassar o tubérculo púbico em cerca de 2 cm, porque ela encolhe e a recidiva medial nasce da cobertura curta.",
+   "Tela cortada rente deixa o púbis descoberto quando ela retrai, exatamente o mecanismo da recidiva medial.",
+   "Ressecar o cremaster favorece orquite isquêmica e dor, sem reduzir recidiva medial.",
+   "Anel apertado arrisca isquemia do cordão e dor; o cuidado lateral é cruzar as caudas da tela."
+  ]
+ },
+ {
+  "q": "Durante hernioplastia inguinal por TAPP, o residente pretende fixar a tela com tachas na área triangular entre o ducto deferente, medialmente, e os vasos gonadais, lateralmente, abaixo do trato iliopúbico. Qual estrutura corre risco nessa área?",
+  "alts": [
+   "Nervo ilioinguinal",
+   "Vasos ilíacos externos",
+   "Artéria epigástrica inferior",
+   "Nervo cutâneo femoral lateral",
+   "Ligamento de Cooper"
+  ],
+  "gab": 1,
+  "tema": "hernias",
+  "sub": "Triângulo da desgraça",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "HerniaSurge Group. International guidelines for groin hernia management, 2018",
+  "coment": "Na visão laparoscópica, abaixo do trato iliopúbico há duas zonas proibidas para tachas e pontos. O triângulo da desgraça, de ápice no anel profundo, fica entre o ducto deferente, medialmente, e os vasos gonadais, lateralmente, e contém os vasos ilíacos externos, a veia circunflexa ilíaca profunda, o ramo genital do genitofemoral e o nervo femoral. O triângulo da dor fica lateral aos vasos gonadais e abaixo do trato iliopúbico, com o cutâneo femoral lateral e o ramo femoral do genitofemoral. A regra é não fixar abaixo do trato iliopúbico lateral aos vasos epigástricos.",
+  "porAlt": [
+   "O ilioinguinal está no plano anterior, encontrado ao abrir o oblíquo externo, não na visão posterior desse triângulo.",
+   "Correta: o triângulo da desgraça, entre deferente e vasos gonadais, contém os vasos ilíacos externos; tacha ali causa hemorragia grave.",
+   "Os epigástricos inferiores ficam acima do trato iliopúbico, separando hérnia direta de indireta.",
+   "O cutâneo femoral lateral está no triângulo da dor, lateral aos vasos gonadais.",
+   "O Cooper é ponto seguro de fixação medial, sobre o ramo superior do púbis."
+  ]
+ },
+ {
+  "q": "Mulher de 55 anos tem hérnia incisional em cicatriz de laparotomia mediana, entre o umbigo e o púbis, a mais de 3 cm de ambos. Na tomografia, o defeito mede 12 cm de largura, maior distância transversal entre as bordas, e 9 cm de comprimento. Pela classificação da European Hernia Society, como se descreve o defeito?",
+  "alts": [
+   "Mediana M3, largura W2",
+   "Lateral L4, largura W3",
+   "Mediana M4, largura W3",
+   "Mediana M5, largura W2",
+   "Mediana M4, largura W2"
+  ],
+  "gab": 2,
+  "tema": "hernias",
+  "sub": "Classificação EHS da hérnia incisional",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Muysoms FE, et al. Classification of primary and incisional abdominal wall hernias (European Hernia Society). Hernia, 2009",
+  "coment": "A classificação da European Hernia Society para hérnia incisional descreve localização e largura. Na linha média: M1 subxifoide, M2 epigástrica, M3 umbilical (3 cm acima e abaixo do umbigo), M4 infraumbilical e M5 suprapúbica (até 3 cm do púbis). Laterais: L1 subcostal, L2 flanco, L3 ilíaca e L4 lombar. A largura é a maior distância transversal entre as bordas do defeito, que pode envolver mais de um orifício: W1 abaixo de 4 cm, W2 de 4 a 10 cm e W3 acima de 10 cm. A largura orienta a técnica, como a necessidade de separação de componentes.",
+  "porAlt": [
+   "M3 é a região umbilical, até 3 cm acima e abaixo do umbigo; e 12 cm de largura não é W2.",
+   "L designa hérnias laterais à bainha do reto; esta é de linha média.",
+   "Correta: entre o umbigo e o púbis é infraumbilical (M4), e largura acima de 10 cm é W3.",
+   "M5 é suprapúbica, até 3 cm do púbis; aqui o defeito está acima disso.",
+   "A localização M4 está certa, mas W2 vai de 4 a 10 cm; 12 cm é W3."
+  ]
+ },
+ {
+  "q": "Mulher de 36 anos, 1 ano após a segunda gestação, nota abaulamento na linha média supraumbilical ao levantar o tronco. Ao exame, há afastamento de 3 cm entre os músculos retos, sem orifício aponeurótico palpável; a ultrassonografia confirma diástase sem hérnia associada. Qual é a orientação?",
+  "alts": [
+   "Cirurgia de urgência pelo risco de encarcerar alça",
+   "Fisioterapia com treino da musculatura abdominal",
+   "Plicatura com tela indicada logo ao diagnóstico",
+   "Cinta contínua por 2 anos até a linha alba fechar",
+   "Tomografia anual para medir risco de estrangulamento"
+  ],
+  "gab": 1,
+  "tema": "hernias",
+  "sub": "Diástase dos retos",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "European Hernia Society. Guidelines on management of rectus diastasis, 2021",
+  "coment": "Diástase dos retos é o afastamento dos músculos retos com alargamento e afinamento da linha alba, sem defeito aponeurótico; por isso não é hérnia e não tem risco de encarceramento ou estrangulamento. É comum após gestação e na obesidade. A diretriz da European Hernia Society de 2021 propõe fisioterapia com treino da musculatura abdominal como tratamento inicial. A cirurgia, por plicatura com ou sem tela, é considerada em pacientes selecionados com sintomas persistentes, como dor ou queixa funcional, ou quando há hérnia de linha média associada a ser reparada no mesmo tempo.",
+  "porAlt": [
+   "Na diástase não há orifício aponeurótico, por isso não há risco de encarceramento.",
+   "Correta: diástase não é hérnia, não encarcera, e a primeira linha é fisioterapia; cirurgia só em sintomáticos selecionados.",
+   "Correção cirúrgica não é indicação automática; reserva-se a sintomas persistentes após fisioterapia, com decisão compartilhada.",
+   "Não há evidência de que cinta prolongada feche a diástase.",
+   "Sem saco herniário não existe risco de estrangulamento a monitorar com imagem."
+  ]
+ },
+ {
+  "q": "Homem de 61 anos, natural do norte de Minas Gerais, com sorologia positiva para doença de Chagas, tem disfagia há 20 anos, regurgitação e desnutrição. O esofagograma mostra esôfago com mais de 10 cm de diâmetro, alongado e dobrado sobre a cúpula diafragmática, com grande retenção de contraste. Qual é a classificação e o tratamento cirúrgico mais aceito?",
+  "alts": [
+   "Grau IV de Rezende; esofagectomia",
+   "Grau II de Rezende; dilatação pneumática",
+   "Grau III de Rezende; toxina botulínica",
+   "Grau I de Rezende; nifedipino sublingual",
+   "Grau IV de Rezende; dilatação com balão"
+  ],
+  "gab": 0,
+  "tema": "digestivo",
+  "sub": "Megaesôfago chagásico",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde e Sociedade Brasileira de Medicina Tropical. II Consenso Brasileiro em Doença de Chagas, 2015",
+  "coment": "A classificação radiológica de Rezende gradua o megaesôfago chagásico: I, calibre normal com trânsito lento; II, dilatação moderada com retenção e ondas terciárias; III, grande dilatação com hipotonia; IV, dolicomegaesôfago, alongado e dobrado sobre o diafragma. Nos graus iniciais e intermediários, o tratamento é a cardiomiotomia de Heller com fundoplicatura parcial, ou dilatação em quem não pode operar. No grau IV a cardiomiotomia falha com frequência, porque o esôfago não esvazia por gravidade, e a esofagectomia, em geral trans-hiatal, é a cirurgia mais aceita; a cardioplastia tipo Serra-Dória é alternativa.",
+  "porAlt": [
+   "Correta: dolicomegaesôfago é grau IV de Rezende, e a cirurgia de escolha é a esofagectomia, com cardioplastia como alternativa em casos selecionados.",
+   "Grau II tem dilatação moderada; aqui há dolicomegaesôfago, e dilatação não resolve o esôfago atônico e alongado.",
+   "Toxina botulínica é medida paliativa de curta duração, não tratamento do megaesôfago avançado.",
+   "Grau I tem calibre normal; nifedipino tem efeito pequeno e transitório.",
+   "A classificação está certa, mas dilatação do esfíncter não esvazia um esôfago dobrado e sem peristalse."
+  ]
+ },
+ {
+  "q": "Mulher de 74 anos, com grande hérnia de hiato paraesofágica conhecida, tem dor epigástrica súbita e intensa, esforço repetido para vomitar sem eliminar conteúdo, e a sonda nasogástrica não progride além do esôfago distal. A tomografia mostra estômago intratorácico com rotação organoaxial. Qual é a conduta?",
+  "alts": [
+   "Dieta líquida, procinético e controle ambulatorial",
+   "Redução cirúrgica de urgência com reparo do hiato",
+   "Forçar a sonda às cegas e observar por 72 horas",
+   "IBP venoso e endoscopia eletiva depois da alta",
+   "Enema opaco para confirmar a obstrução do cólon"
+  ],
+  "gab": 1,
+  "tema": "digestivo",
+  "sub": "Volvo gástrico agudo",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Society of American Gastrointestinal and Endoscopic Surgeons. Guidelines for the management of hiatal hernia, 2013",
+  "coment": "Dor epigástrica súbita, ânsia de vômito sem conseguir vomitar e impossibilidade de passar sonda nasogástrica formam a tríade de Borchardt do volvo gástrico agudo, quase sempre associado a hérnia paraesofágica volumosa no idoso. A rotação organoaxial é a mais comum. O risco é estrangulamento e necrose. A diretriz da SAGES de 2013 recomenda reparo das hérnias paraesofágicas sintomáticas, e no volvo agudo a cirurgia é de urgência: redução do estômago, ressecção do saco, fechamento dos pilares e gastropexia ou fundoplicatura. Descompressão endoscópica cuidadosa pode servir de ponte no paciente de risco muito alto.",
+  "porAlt": [
+   "Volvo agudo com sinais de obstrução não se trata em ambulatório; o risco é necrose gástrica.",
+   "Correta: a tríade de Borchardt indica volvo gástrico agudo, com risco de estrangulamento; a cirurgia reduz o estômago e corrige o hiato.",
+   "Forçar a sonda às cegas pode perfurar o esôfago ou o estômago torcido.",
+   "Adiar o tratamento expõe a isquemia e perfuração do estômago encarcerado no tórax.",
+   "O problema é gástrico e está definido na tomografia; enema não tem papel."
+  ]
+ },
+ {
+  "q": "Homem de 48 anos, etilista, teve vômitos intensos após uma festa e, logo depois, dor retroesternal e epigástrica súbita, com dispneia. Chega 6 horas depois com FC 112 bpm e crepitação no pescoço. A radiografia mostra pneumomediastino e derrame pleural esquerdo, e a tomografia com contraste oral mostra extravasamento no esôfago distal. Qual é a conduta?",
+  "alts": [
+   "Endoscopia com insuflação para medir a lesão",
+   "Jejum e IBP por 7 dias, sem drenagem do tórax",
+   "Esofagectomia com esofagostomia cervical inicial",
+   "Reparo cirúrgico precoce da perfuração e drenagem",
+   "Dilatação com balão e prótese plástica de rotina"
+  ],
+  "gab": 3,
+  "tema": "digestivo",
+  "sub": "Síndrome de Boerhaave",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Chirica M, et al. Esophageal emergencies: WSES guidelines. World Journal of Emergency Surgery, 2019",
+  "coment": "A síndrome de Boerhaave é a ruptura transmural espontânea do esôfago após vômitos, em geral na parede posterolateral esquerda do terço distal. Dor torácica após vômitos, enfisema subcutâneo e pneumomediastino formam o quadro clássico, e a tomografia com contraste oral hidrossolúvel confirma. A WSES 2019 recomenda, com diagnóstico precoce e paciente com contaminação mediastinal ou pleural, reparo cirúrgico primário da lesão, desbridamento e drenagem, com antibiótico de amplo espectro e nutrição enteral. Prótese recoberta é opção em casos selecionados. O atraso no diagnóstico é o principal determinante de mortalidade.",
+  "porAlt": [
+   "Insuflar o esôfago perfurado espalha a contaminação no mediastino; o diagnóstico já está feito pela tomografia.",
+   "Tratamento clínico isolado fica para perfuração contida e sem sepse, o que não é o caso.",
+   "Esofagectomia é reservada a esôfago doente, como câncer ou estenose grave, ou perfuração irreparável.",
+   "Correta: perfuração espontânea com contaminação mediastinal e pleural, diagnosticada cedo, pede sutura primária, drenagem e antibiótico.",
+   "Dilatar uma perfuração aguda agrava a lesão; prótese recoberta é alternativa selecionada, não dilatação."
+  ]
+ },
+ {
+  "q": "Homem de 63 anos tem adenocarcinoma cujo epicentro está 3 cm abaixo da cárdia anatômica, no estômago proximal, infiltrando a junção esofagogástrica. Pela classificação de Siewert, qual é o tipo e a cirurgia habitual?",
+  "alts": [
+   "Tipo I; esofagectomia subtotal com tubo gástrico",
+   "Tipo II; esofagectomia subtotal por via transtorácica",
+   "Tipo I; gastrectomia subtotal distal com linfadenectomia D2",
+   "Tipo II; ressecção endoscópica submucosa da lesão",
+   "Tipo III; gastrectomia total ampliada ao esôfago distal"
+  ],
+  "gab": 4,
+  "tema": "digestivo",
+  "sub": "Classificação de Siewert",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Siewert JR, Stein HJ. Classification of adenocarcinoma of the oesophagogastric junction. British Journal of Surgery, 1998",
+  "coment": "Siewert classifica o adenocarcinoma da junção esofagogástrica pela posição do epicentro em relação à cárdia anatômica. Tipo I: 1 a 5 cm acima, adenocarcinoma do esôfago distal, muitas vezes sobre Barrett, tratado em geral por esofagectomia. Tipo II: de 1 cm acima a 2 cm abaixo, carcinoma da cárdia verdadeira, com esofagectomia ou gastrectomia total ampliada conforme a extensão. Tipo III: 2 a 5 cm abaixo, subcárdico, que se comporta como câncer gástrico e é tratado com gastrectomia total e ressecção do esôfago distal, com linfadenectomia D2.",
+  "porAlt": [
+   "Tipo I é o adenocarcinoma do esôfago distal, com epicentro de 1 a 5 cm acima da cárdia.",
+   "Tipo II é o carcinoma da cárdia, de 1 cm acima a 2 cm abaixo; o epicentro aqui está mais baixo.",
+   "Tipo I fica acima da cárdia, e gastrectomia distal não alcança a junção.",
+   "Tumor que infiltra a junção não é lesão superficial candidata a ressecção endoscópica.",
+   "Correta: epicentro de 2 a 5 cm abaixo da cárdia é Siewert III, tratado como câncer gástrico, com gastrectomia total ampliada ao esôfago distal."
+  ]
+ },
+ {
+  "q": "Mulher de 28 anos tem mãe com câncer gástrico difuso aos 41 anos e tia materna com câncer de mama lobular. O teste genético identificou variante patogênica germinativa em CDH1. A endoscopia com biópsias múltiplas foi normal. Qual é a recomendação?",
+  "alts": [
+   "Endoscopia anual e cirurgia apenas diante de lesão visível",
+   "Erradicar o H. pylori e repetir a endoscopia a cada 3 anos",
+   "Gastrectomia subtotal distal com linfadenectomia D2",
+   "Gastrectomia total profilática, em geral entre 20 e 30 anos",
+   "Ressecção endoscópica das áreas pálidas encontradas"
+  ],
+  "gab": 3,
+  "tema": "digestivo",
+  "sub": "Câncer gástrico difuso hereditário",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r3",
+  "base": "International Gastric Cancer Linkage Consortium. Hereditary diffuse gastric cancer: updated clinical practice guidelines. Lancet Oncology, 2020",
+  "coment": "Variantes patogênicas germinativas em CDH1, gene da E-caderina, causam câncer gástrico difuso hereditário, com risco acumulado elevado de carcinoma difuso, e risco aumentado de câncer de mama lobular nas mulheres. Os focos iniciais de células em anel de sinete ficam sob mucosa normal e são multifocais, por isso a endoscopia, mesmo com protocolo extenso de biópsias, não garante detecção. O consórcio IGCLC, na atualização de 2020, recomenda gastrectomia total profilática, em geral entre 20 e 30 anos, com vigilância endoscópica anual em centro especializado para quem adia, e rastreio mamário com ressonância a partir dos 30 anos.",
+  "porAlt": [
+   "O carcinoma difuso inicial é submucoso e multifocal; endoscopia normal não exclui e esperar lesão visível perde a janela curativa.",
+   "H. pylori não explica o risco hereditário, e o intervalo de 3 anos é inadequado para portadora.",
+   "Os focos de células em anel de sinete podem estar em qualquer parte; gastrectomia parcial deixa mucosa em risco.",
+   "Correta: em portadora de CDH1 patogênico o consenso recomenda gastrectomia total profilática, idealmente entre 20 e 30 anos.",
+   "Ressecar focos isolados não trata a doença difusa e multifocal de todo o estômago."
+  ]
+ },
+ {
+  "q": "Pela Resolução CFM nº 2.429/2025, qual dos adultos abaixo, com falha documentada do tratamento clínico e avaliação multidisciplinar favorável, é elegível para cirurgia bariátrica ou metabólica?",
+  "alts": [
+   "IMC de 33 kg/m² e hipertensão leve controlada",
+   "IMC de 32 kg/m² com diabetes tipo 2 há 6 anos",
+   "IMC de 37 kg/m² sem nenhuma doença associada",
+   "IMC de 34 kg/m² e dislipidemia em uso de estatina",
+   "IMC de 31 kg/m² e apneia obstrutiva do sono leve"
+  ],
+  "gab": 1,
+  "tema": "digestivo",
+  "sub": "Indicação de cirurgia bariátrica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Conselho Federal de Medicina. Resolução CFM nº 2.429/2025",
+  "coment": "A Resolução CFM nº 2.429/2025 substituiu as Resoluções 2.131/2015 e 2.172/2017. São elegíveis adultos com IMC de 40 ou mais, com ou sem comorbidade; IMC de 35 a 39,9 com ao menos uma doença agravada pela obesidade; e IMC de 30 a 34,9 na presença de diabetes tipo 2, doença cardiovascular grave com lesão de órgão-alvo, doença renal crônica precoce no diabético, apneia do sono grave, doença hepática gordurosa com fibrose, afecções com indicação de transplante, refluxo com indicação cirúrgica ou osteoartrose grave. Em todos exige-se falha do tratamento clínico, avaliada pela equipe multidisciplinar.",
+  "porAlt": [
+   "Na faixa de 30 a 34,9 a doença cardiovascular precisa ser grave, com lesão de órgão-alvo; hipertensão leve não basta.",
+   "Correta: a resolução de 2025 passou a admitir IMC de 30 a 34,9 na presença de diabetes tipo 2, entre outras condições listadas.",
+   "Entre 35 e 39,9 exige-se ao menos uma doença agravada pela obesidade que melhore com a perda de peso.",
+   "Dislipidemia isolada não está entre as condições que permitem cirurgia com IMC abaixo de 35.",
+   "Na obesidade classe 1 a resolução exige apneia do sono grave, não leve."
+  ]
+ },
+ {
+  "q": "Mulher de 44 anos, tabagista, fez bypass gástrico em Y de Roux há 2 anos e voltou a usar anti-inflamatório para lombalgia. Há 3 semanas tem dor epigástrica em queimação, pior com a alimentação. A endoscopia mostra úlcera de 1 cm na anastomose gastrojejunal, do lado jejunal, sem sangramento nem perfuração. Qual é a conduta?",
+  "alts": [
+   "Inibidor de bomba em dose plena, parar o fumo e o anti-inflamatório",
+   "Revisão cirúrgica da anastomose gastrojejunal com vagotomia troncular",
+   "Dilatação endoscópica da anastomose com balão de 15 mm na mesma sessão",
+   "Conversão do bypass em gastrectomia vertical por via laparoscópica",
+   "Erradicação empírica do H. pylori como única medida, sem antissecretor"
+  ],
+  "gab": 0,
+  "tema": "digestivo",
+  "sub": "Úlcera marginal após bypass",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Society for Gastrointestinal Endoscopy. The role of endoscopy in the bariatric surgery patient, 2015",
+  "coment": "A úlcera marginal surge na anastomose gastrojejunal após bypass em Y de Roux, em geral no lado jejunal, que não tem proteção contra o ácido da bolsa gástrica. Os principais fatores de risco são tabagismo, anti-inflamatório, isquemia e tensão da anastomose, corpo estranho e fístula gastrogástrica. O diagnóstico é endoscópico. O tratamento inicial é inibidor de bomba em dose plena, de preferência em cápsula aberta ou solução para melhor absorção, sucralfato e suspensão do fumo e do anti-inflamatório. Cirurgia de revisão fica para refratariedade, perfuração ou fístula.",
+  "porAlt": [
+   "Correta: úlcera marginal não complicada se trata com inibidor de bomba, idealmente aberto, e retirada dos fatores causais, fumo e anti-inflamatório.",
+   "Revisão cirúrgica fica para úlcera refratária, perfurada ou com fístula gastrogástrica, não para o primeiro episódio.",
+   "Dilatação trata estenose da anastomose; aqui não há disfagia nem estreitamento.",
+   "Converter a técnica não é tratamento inicial de úlcera marginal e tem alta morbidade.",
+   "H. pylori tem papel menor na úlcera marginal; sem antissecretor e sem retirar fumo e anti-inflamatório, a úlcera persiste."
+  ]
+ },
+ {
+  "q": "Homem de 36 anos, assintomático, tem pai com câncer colorretal diagnosticado aos 52 anos; não há outros casos na família nem critérios para síndrome hereditária. Quando e como deve iniciar o rastreamento?",
+  "alts": [
+   "Colonoscopia aos 42 anos, repetida a cada 10 anos",
+   "Sangue oculto anual a partir dos 50 anos de idade",
+   "Colonoscopia aos 40 anos, repetida a cada 5 anos",
+   "Colonoscopia aos 45 anos, como no risco habitual",
+   "Teste genético para Lynch antes de qualquer exame"
+  ],
+  "gab": 2,
+  "tema": "digestivo",
+  "sub": "Rastreio colorretal por história familiar",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "US Multi-Society Task Force on Colorectal Cancer. Colorectal cancer screening: recommendations for physicians and patients, 2017",
+  "coment": "A US Multi-Society Task Force (2017) recomenda, para quem tem parente de primeiro grau com câncer colorretal ou adenoma avançado diagnosticado antes dos 60 anos, ou dois parentes de primeiro grau em qualquer idade, colonoscopia a partir dos 40 anos ou 10 anos antes da idade do diagnóstico do parente mais jovem, o que ocorrer primeiro, repetida a cada 5 anos. Com o pai diagnosticado aos 52, os 10 anos antes seriam 42; como os 40 vêm primeiro, começa-se aos 40. Um único parente diagnosticado aos 60 ou mais permite as opções do risco habitual, iniciando aos 40.",
+  "porAlt": [
+   "Aos 42 é a regra dos 10 anos antes, mas vale o que vier primeiro, os 40 anos, e o intervalo é de 5 anos.",
+   "História familiar de primeiro grau muda o risco; o teste fecal na faixa habitual não é suficiente.",
+   "Correta: parente de primeiro grau com câncer antes dos 60 anos indica colonoscopia aos 40 anos ou 10 anos antes do caso índice, o que vier primeiro, a cada 5 anos.",
+   "O risco habitual não se aplica a quem tem pai com câncer diagnosticado antes dos 60 anos.",
+   "Sem critérios clínicos de síndrome hereditária, o teste genético não é o primeiro passo."
+  ]
+ },
+ {
+  "q": "Homem de 64 anos fez colectomia esquerda por adenocarcinoma de sigmoide. O anatomopatológico mostra tumor pT3, com 2 de 18 linfonodos comprometidos, margens livres, e o estadiamento não mostra metástase à distância. Qual é a conduta?",
+  "alts": [
+   "Radioterapia adjuvante do leito tumoral e da pelve",
+   "Somente seguimento, pois a ressecção foi completa",
+   "Imunoterapia adjuvante, independente do status MMR",
+   "Quimioterapia adjuvante com oxaliplatina e fluoropirimidina",
+   "Nova cirurgia para ampliar a linfadenectomia regional"
+  ],
+  "gab": 3,
+  "tema": "digestivo",
+  "sub": "Adjuvância no câncer de cólon",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "European Society for Medical Oncology. Localised colon cancer: Clinical Practice Guidelines, 2020",
+  "coment": "Linfonodo regional comprometido define estádio III, independentemente do T. A ESMO 2020 recomenda quimioterapia adjuvante com fluoropirimidina e oxaliplatina, que reduz recidiva e morte. Pelo estudo IDEA, no estádio III de baixo risco (T1 a T3 e N1), 3 meses de CAPOX equivalem a 6 meses e causam menos neuropatia; no alto risco (T4 ou N2), prefere-se 6 meses. Exigem-se ao menos 12 linfonodos examinados para estadiar com segurança. Radioterapia adjuvante não faz parte do tratamento do câncer de cólon. No estádio II, a adjuvância é decidida por fatores de risco e pelo status de reparo de mau pareamento.",
+  "porAlt": [
+   "Radioterapia tem papel no câncer de reto, não no adenocarcinoma de sigmoide ressecado.",
+   "Mesmo com ressecção R0, o estádio III tem risco de recidiva sistêmica que a adjuvância reduz.",
+   "Imunoterapia adjuvante não é padrão no estádio III e não se indica sem considerar o status de reparo.",
+   "Correta: linfonodo comprometido é estádio III, que tem indicação de quimioterapia adjuvante com oxaliplatina, por 3 a 6 meses conforme o risco.",
+   "Dezoito linfonodos examinados superam o mínimo de 12; a linfadenectomia foi adequada."
+  ]
+ },
+ {
+  "q": "Mulher de 58 anos fez colonoscopia completa, com bom preparo, após teste imunoquímico fecal positivo. Foram ressecados por inteiro dois adenomas tubulares de 4 e 6 mm, sem displasia de alto grau. Quando deve ser a próxima colonoscopia?",
+  "alts": [
+   "Colonoscopia em 7 a 10 anos",
+   "Colonoscopia em 1 ano",
+   "Colonoscopia em 3 anos",
+   "Colonoscopia anual por 3 anos",
+   "Teste fecal imunoquímico em 2 anos"
+  ],
+  "gab": 0,
+  "tema": "digestivo",
+  "sub": "Vigilância pós-polipectomia",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "US Multi-Society Task Force on Colorectal Cancer. Recommendations for follow-up after colonoscopy and polypectomy, 2020",
+  "coment": "A US Multi-Society Task Force atualizou em 2020 os intervalos de vigilância após polipectomia, alongando os de baixo risco. Um ou dois adenomas tubulares menores que 10 mm, ressecados por completo em exame de qualidade: 7 a 10 anos. Três a quatro adenomas pequenos: 3 a 5 anos. Cinco a dez adenomas pequenos, adenoma de 10 mm ou mais, viloso ou com displasia de alto grau: 3 anos. Ressecção fragmentada de lesão de 20 mm ou mais: 6 meses. A tabela pressupõe colonoscopia completa até o ceco, preparo adequado e boa taxa de detecção de adenoma.",
+  "porAlt": [
+   "Correta: um ou dois adenomas tubulares menores que 10 mm, ressecados por completo, permitem intervalo de 7 a 10 anos.",
+   "Um ano é intervalo para ressecção fragmentada de pólipo grande ou suspeita de ressecção incompleta, não para dois adenomas pequenos.",
+   "Três anos cabem em adenoma de 10 mm ou mais, com componente viloso ou displasia de alto grau.",
+   "Colonoscopias anuais seguidas não têm indicação na vigilância de adenomas pequenos.",
+   "Quem entrou em vigilância por adenoma não volta ao teste fecal; o seguimento é por colonoscopia."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos tem prolapso hemorroidário permanente há 1 ano, que não se reduz manualmente, com sangramento e desconforto diários, sem trombose aguda. Ao exame, há mamilos internos prolapsados com componente externo importante. Já usa fibras e laxante osmótico. Qual é o tratamento indicado?",
+  "alts": [
+   "Ligadura elástica seriada no consultório",
+   "Fotocoagulação com infravermelho",
+   "Escleroterapia com polidocanol",
+   "Fibras e banhos de assento isolados",
+   "Hemorroidectomia excisional convencional"
+  ],
+  "gab": 4,
+  "tema": "digestivo",
+  "sub": "Doença hemorroidária grau IV",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American Society of Colon and Rectal Surgeons. Clinical Practice Guidelines for the Management of Hemorrhoids, 2024",
+  "coment": "A classificação de Goligher gradua as hemorroidas internas pelo prolapso: grau I, sem prolapso; II, prolapso que reduz sozinho; III, prolapso que exige redução manual; IV, prolapso irredutível. Fibra e ingesta hídrica valem para todos. A diretriz da ASCRS de 2024 indica procedimentos de consultório, sobretudo a ligadura elástica, para graus I a III que não respondem ao tratamento clínico, e hemorroidectomia excisional para grau IV, para doença mista com componente externo importante e para falha dos procedimentos de consultório. A técnica aberta ou fechada tem resultados semelhantes; dor e retenção urinária são as queixas pós-operatórias mais comuns.",
+  "porAlt": [
+   "Ligadura elástica é o tratamento de consultório para graus I a III; no grau IV com componente externo a falha é alta.",
+   "Fotocoagulação serve a mamilos pequenos de grau I e II.",
+   "Escleroterapia é opção para graus iniciais, não para prolapso irredutível.",
+   "Medidas dietéticas são a base em todos os graus, mas isoladas não resolvem prolapso irredutível.",
+   "Correta: hemorroida de grau IV, com prolapso irredutível e componente externo, é indicação de hemorroidectomia excisional."
+  ]
+ },
+ {
+  "q": "Mulher de 35 anos, com dois partos vaginais, tem fístula anal após drenagem de abscesso. A ressonância mostra trajeto transesfincteriano alto, envolvendo cerca de 60% do esfíncter externo, sem coleção e sem sinais de doença de Crohn. Qual é a conduta inicial mais adequada?",
+  "alts": [
+   "Fistulotomia com secção de todo o trajeto muscular",
+   "Sedenho frouxo para drenagem, preservando o esfíncter",
+   "Antibiótico por 6 semanas como tratamento definitivo",
+   "Fistulectomia com esfincteroplastia imediata",
+   "Infliximabe para induzir o fechamento do trajeto"
+  ],
+  "gab": 1,
+  "tema": "digestivo",
+  "sub": "Fístula anal complexa",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Society of Colon and Rectal Surgeons. Clinical Practice Guidelines for the Management of Anorectal Abscess, Fistula-in-Ano, and Rectovaginal Fistula, 2022",
+  "coment": "Fístula complexa é a que envolve mais de 30% do esfíncter externo, é anterior na mulher, recidivada ou associada a doença de Crohn, radiação ou incontinência prévia. Nessas, a fistulotomia arrisca incontinência, sobretudo em mulheres com partos vaginais, que podem ter lesão esfincteriana oculta. A diretriz da ASCRS de 2022 recomenda sedenho de drenagem para controlar a sepse e maturar o trajeto, seguido de técnicas que preservam o esfíncter: ligadura do trajeto interesfincteriano (LIFT), retalho de avanço endorretal ou outras. A fistulotomia é reservada às fístulas simples, interesfincterianas ou transesfincterianas baixas.",
+  "porAlt": [
+   "Seccionar mais de 30% do esfíncter externo, em mulher com partos prévios, traz alto risco de incontinência.",
+   "Correta: fístula complexa em mulher com partos vaginais pede sedenho de drenagem e depois técnica que poupe o esfíncter, como LIFT ou retalho de avanço.",
+   "Antibiótico não fecha trajeto epitelizado; fístula persiste sem tratamento local.",
+   "Ressecar o trajeto com reconstrução imediata do esfíncter não é a conduta inicial e tem alta morbidade.",
+   "Biológico é tratamento da fístula da doença de Crohn, ausente neste caso."
+  ]
+ },
+ {
+  "q": "Homem de 72 anos, com cardiopatia grave, tem úlcera na parede posterior do bulbo duodenal com sangramento em jato. Fez hemostasia endoscópica combinada, ressangrou em 24 horas e a segunda endoscopia também falhou. Está em choque, com resposta apenas transitória à transfusão. O serviço tem radiologia intervencionista 24 horas. Qual é o próximo passo?",
+  "alts": [
+   "Gastrectomia subtotal com reconstrução a Billroth II",
+   "Somatostatina venosa em infusão contínua por 72 horas",
+   "Ácido tranexâmico venoso em dose alta por 24 horas",
+   "Terceira endoscopia com escleroterapia isolada",
+   "Embolização transcateter da artéria gastroduodenal"
+  ],
+  "gab": 4,
+  "tema": "digestivo",
+  "sub": "Hemorragia digestiva alta refratária",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "European Society of Gastrointestinal Endoscopy. Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage: Guideline update, 2021",
+  "coment": "A úlcera da parede posterior do bulbo erode a artéria gastroduodenal e sangra muito. A ESGE 2021 recomenda, no ressangramento após a primeira hemostasia, repetir a endoscopia; na falha da hemostasia endoscópica, embolização arterial transcateter, ficando a cirurgia para quando a embolização falha ou não está disponível. A embolização tem menos complicações que a cirurgia, vantagem no idoso cardiopata, à custa de mais ressangramento. Somatostatina e ácido tranexâmico não têm lugar na hemorragia não varicosa. Na cirurgia, faz-se duodenotomia, ligadura da artéria em três pontos e piloroplastia.",
+  "porAlt": [
+   "Cirurgia fica para falha ou indisponibilidade da embolização, sobretudo no cardiopata de alto risco.",
+   "Somatostatina não é recomendada na hemorragia não varicosa.",
+   "Ácido tranexâmico não reduziu mortalidade e aumentou trombose venosa no HALT-IT; a ESGE é contra.",
+   "Escleroterapia isolada é inferior à terapia combinada, que já falhou duas vezes.",
+   "Correta: após falha da hemostasia endoscópica, a ESGE recomenda embolização arterial; cirurgia se ela falhar ou não estiver disponível."
+  ]
+ },
+ {
+  "q": "Rapaz de 19 anos tem dois episódios de hematoquezia volumosa e indolor, com queda da hemoglobina para 8,5 g/dL. Está estável. A endoscopia alta e a colonoscopia, com exame do íleo terminal, foram normais. Qual exame tem maior chance de identificar a causa mais provável?",
+  "alts": [
+   "Cintilografia com hemácias marcadas fora do episódio",
+   "Arteriografia mesentérica fora do sangramento",
+   "Cintilografia com pertecnetato de tecnécio-99m",
+   "Enema opaco com duplo contraste de bário",
+   "Pesquisa de sangue oculto nas fezes seriada"
+  ],
+  "gab": 2,
+  "tema": "digestivo",
+  "sub": "Divertículo de Meckel sangrante",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American College of Gastroenterology. Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding, 2015",
+  "coment": "Em pessoa jovem com hematoquezia indolor e endoscopia alta e colonoscopia normais, a fonte provável está no delgado, e o divertículo de Meckel é a causa principal abaixo dos 30 a 40 anos. O sangramento vem de úlcera no íleo adjacente à mucosa gástrica ectópica. A diretriz da ACG de 2015 indica, nesse cenário, a cintilografia com pertecnetato de tecnécio-99m, captado pelas células da mucosa gástrica. A cápsula endoscópica e a enterotomografia são as alternativas quando a cintilografia é negativa. O tratamento é a ressecção do divertículo com o segmento ileal ulcerado.",
+  "porAlt": [
+   "Hemácias marcadas localizam sangramento ativo, não a mucosa gástrica ectópica de um Meckel sem sangrar.",
+   "Arteriografia só localiza sangramento ativo de vazão alta; fora do episódio costuma ser negativa.",
+   "Correta: no jovem com sangramento do delgado, o divertículo de Meckel com mucosa gástrica ectópica capta o pertecnetato.",
+   "Enema opaco não avalia o íleo distal de forma adequada e não mostra o divertículo.",
+   "Sangue oculto não localiza a fonte; o sangramento já é evidente."
+  ]
+ },
+ {
+  "q": "Homem de 54 anos, vivendo com HIV, tem lesão ulcerada de 4 cm no canal anal, acima da linha pectínea, com linfonodo inguinal suspeito. A biópsia confirma carcinoma de células escamosas, e não há metástase à distância. Qual é o tratamento inicial?",
+  "alts": [
+   "Amputação abdominoperineal do reto com colostomia",
+   "Excisão local do tumor com margem lateral de 1 cm",
+   "Quimioterapia com FOLFOX isolada por 6 meses",
+   "Quimiorradioterapia com mitomicina e fluoropirimidina",
+   "Radioterapia isolada, sem nenhuma quimioterapia"
+  ],
+  "gab": 3,
+  "tema": "digestivo",
+  "sub": "Carcinoma do canal anal",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "European Society for Medical Oncology. Anal cancer: ESMO Clinical Practice Guidelines, 2021",
+  "coment": "O carcinoma de células escamosas do canal anal, associado ao HPV e mais frequente em pessoas vivendo com HIV, é tratado com quimiorradioterapia definitiva, o protocolo inaugurado por Nigro: radioterapia com mitomicina e 5-fluoruracila ou capecitabina. A ESMO 2021 recomenda esse esquema como padrão para doença localizada ou localmente avançada, com preservação esfincteriana na maioria dos casos. A resposta é avaliada até cerca de 26 semanas, porque a regressão é lenta. A amputação abdominoperineal fica para persistência ou recidiva locorregional. Excisão local isolada só em tumores pequenos e bem diferenciados da margem anal.",
+  "porAlt": [
+   "A amputação abdominoperineal é resgate para doença persistente ou recidiva após quimiorradioterapia.",
+   "Excisão local serve só a tumores pequenos da margem anal, não a lesão de 4 cm do canal com linfonodo.",
+   "FOLFOX é esquema do adenocarcinoma colorretal e não substitui a radioterapia no escamoso anal.",
+   "Correta: o carcinoma escamoso do canal anal se trata com quimiorradioterapia definitiva, com preservação do esfíncter na maioria.",
+   "Sem quimioterapia o controle local é inferior; a radioterapia isolada fica para quem não tolera a combinação."
+  ]
+ },
+ {
+  "q": "Mulher de 49 anos tem cólica biliar há 3 dias e icterícia, sem febre. A ultrassonografia mostra colelitíase e colédoco de 10 mm, sem cálculo visível na via biliar; a bilirrubina total é de 5,2 mg/dL, com padrão colestático. Está estável. Pela ASGE 2019, qual é a conduta?",
+  "alts": [
+   "Colangiorressonância para confirmar o cálculo antes de intervir",
+   "Colecistectomia isolada, esperando a migração espontânea do cálculo",
+   "Ecoendoscopia e repetição das provas hepáticas em 48 horas",
+   "Drenagem biliar percutânea de urgência com antibiótico venoso",
+   "CPRE pré-operatória ou exploração da via biliar na colecistectomia"
+  ],
+  "gab": 4,
+  "tema": "hepatobiliar",
+  "sub": "Coledocolitíase de alto risco",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American Society for Gastrointestinal Endoscopy. Guideline on the role of endoscopy in the evaluation and management of choledocholithiasis, 2019",
+  "coment": "A ASGE 2019 estratifica o risco de coledocolitíase. Alto risco, com probabilidade acima de 50%: cálculo no colédoco em exame de imagem, colangite, ou bilirrubina total acima de 4 mg/dL associada a colédoco dilatado (acima de 6 mm com vesícula). Nesse grupo vai-se direto ao tratamento: CPRE pré-operatória ou exploração laparoscópica da via biliar durante a colecistectomia, conforme a experiência local. Risco intermediário, como provas alteradas, idade acima de 55 anos ou colédoco dilatado isolado, pede ecoendoscopia ou colangiorressonância. A colecistectomia é feita na mesma internação.",
+  "porAlt": [
+   "Exame confirmatório é a conduta do risco intermediário; no alto risco ele só atrasa o tratamento.",
+   "Com alta probabilidade de cálculo no colédoco, a colecistectomia isolada deixa a obstrução sem tratamento.",
+   "Ecoendoscopia serve ao risco intermediário; aqui a probabilidade de cálculo já passa de 50%.",
+   "Não há colangite nem falha de via endoscópica que justifique drenagem percutânea de urgência.",
+   "Correta: bilirrubina acima de 4 mg/dL com colédoco dilatado é alto risco, e a conduta é retirar o cálculo, por CPRE ou por via cirúrgica."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos com colangite aguda por coledocolitíase fez CPRE com papilotomia e retirada completa do cálculo no primeiro dia, com melhora rápida da febre e da dor. As hemoculturas foram negativas. Pela TG18, por quanto tempo manter o antibiótico após o controle da fonte?",
+  "alts": [
+   "Dose única logo após a CPRE",
+   "No mínimo 14 dias, como na bacteremia",
+   "De 4 a 7 dias após a drenagem",
+   "Por 21 dias, por via oral após a alta",
+   "Até a bilirrubina total normalizar"
+  ],
+  "gab": 2,
+  "tema": "hepatobiliar",
+  "sub": "Antibiótico na colangite aguda",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Tokyo Guidelines 2018 (Journal of Hepato-Biliary-Pancreatic Sciences), 2018",
+  "coment": "Na colangite aguda, o tratamento decisivo é a drenagem da via biliar, cujo momento depende do grau de gravidade da TG18. Depois que a fonte é controlada, a TG18 recomenda antibiótico por 4 a 7 dias. Em bacteremia por cocos Gram-positivos, como enterococo e estreptococo, o curso mínimo é de 2 semanas, pelo risco de endocardite. Cálculo residual ou obstrução não resolvida exigem antibiótico até a desobstrução. A escolha do esquema considera gravidade, origem comunitária ou hospitalar e padrão local de resistência.",
+  "porAlt": [
+   "Dose única é profilaxia de procedimento; colangite estabelecida exige curso terapêutico.",
+   "Duas semanas são reservadas à bacteremia por enterococo ou estreptococo, pelo risco de endocardite.",
+   "Correta: com a obstrução resolvida, a TG18 recomenda antibiótico por 4 a 7 dias.",
+   "Três semanas só se justificam diante de abscesso hepático residual, ausente aqui.",
+   "A bilirrubina pode levar dias para normalizar após a desobstrução e não define a duração."
+  ]
+ },
+ {
+  "q": "Gestante de 20 semanas tem dor em hipocôndrio direito há 2 dias, febre de 38,3 °C, sinal de Murphy positivo e leucócitos de 15.000/mm³. A ultrassonografia mostra cálculos, parede vesicular de 5 mm e líquido perivesicular. A vitalidade fetal está preservada. Qual é a conduta?",
+  "alts": [
+   "Antibiótico e colecistectomia apenas após o parto",
+   "Colecistostomia percutânea e cirurgia pós-parto",
+   "Colecistectomia aberta, pois a laparoscopia é proibida",
+   "CPRE com papilotomia, mantendo a vesícula no lugar",
+   "Colecistectomia laparoscópica na mesma internação"
+  ],
+  "gab": 4,
+  "tema": "hepatobiliar",
+  "sub": "Colecistite aguda na gestante",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Society of American Gastrointestinal and Endoscopic Surgeons. Guidelines for the use of laparoscopy during pregnancy, 2024",
+  "coment": "A colecistite é uma das causas mais comuns de cirurgia não obstétrica na gravidez. As diretrizes da SAGES de 2024 sugerem colecistectomia laparoscópica em vez de tratamento não operatório na colecistite aguda da gestante, porque o tratamento clínico tem recidiva alta, com novas internações, e as recidivas aumentam o risco de aborto e parto prematuro. O segundo trimestre é o período mais favorável, mas a cirurgia é feita em qualquer trimestre quando indicada. Ajustes: entrada por técnica aberta, pressão de pneumoperitônio de 10 a 15 mmHg, decúbito lateral esquerdo e tromboprofilaxia.",
+  "porAlt": [
+   "O tratamento clínico tem alta recidiva, com mais internações, parto prematuro e perda fetal.",
+   "Drenagem percutânea fica para quem não tem condição cirúrgica, o que não é o caso.",
+   "A laparoscopia é segura na gestação, com ajustes de pressão, portais e posição.",
+   "Sem coledocolitíase, CPRE não trata colecistite e expõe a radiação e pancreatite.",
+   "Correta: na gestante com colecistite, a SAGES sugere colecistectomia laparoscópica em vez de tratamento não operatório, em qualquer trimestre."
+  ]
+ },
+ {
+  "q": "Mulher de 66 anos com icterícia obstrutiva e colelitíase. A colangiorressonância mostra cálculo grande impactado no infundíbulo, comprimindo o ducto hepático comum. Na cirurgia, há fístula colecistobiliar com erosão de cerca de metade da circunferência do ducto, sem fístula com o intestino. Qual é a classificação de Csendes e a conduta?",
+  "alts": [
+   "Tipo III; colecistectomia subtotal com retalho da vesícula",
+   "Tipo I; colecistectomia total com ligadura do cístico",
+   "Tipo II; colecistectomia total e coledocorrafia simples",
+   "Tipo IV; hepaticojejunostomia em Y de Roux obrigatória",
+   "Tipo Vb; enterolitotomia e fechamento da fístula"
+  ],
+  "gab": 0,
+  "tema": "hepatobiliar",
+  "sub": "Síndrome de Mirizzi",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Beltran MA, Csendes A, Cruces KS. Mirizzi syndrome and cholecystoenteric fistula: validation of a modified classification. World Journal of Surgery, 2008",
+  "coment": "A síndrome de Mirizzi é a obstrução do ducto hepático comum por cálculo impactado no infundíbulo ou no cístico. A classificação de Csendes gradua a erosão: tipo I, compressão sem fístula; II, fístula colecistobiliar com erosão de menos de um terço da circunferência; III, entre um e dois terços; IV, destruição de toda a circunferência; V, qualquer tipo com fístula colecistoentérica, sem (Va) ou com íleo biliar (Vb). No tipo I faz-se colecistectomia, muitas vezes subtotal. Nos tipos II e III, colecistectomia subtotal usando retalho da vesícula para fechar a fístula. No tipo IV, hepaticojejunostomia.",
+  "porAlt": [
+   "Correta: erosão entre um e dois terços da circunferência é tipo III; usa-se a parede da vesícula para fechar o defeito, com ou sem dreno em T.",
+   "Tipo I é compressão extrínseca sem fístula, e o caso já tem erosão do ducto.",
+   "Tipo II tem erosão de menos de um terço; e fechar a fístula com sutura simples tende à estenose.",
+   "Tipo IV é destruição de toda a circunferência; aqui metade do ducto está preservada.",
+   "Tipo V exige fístula colecistoentérica, e Vb com íleo biliar, ausentes neste caso."
+  ]
+ },
+ {
+  "q": "Mulher de 81 anos tem vômitos e distensão abdominal há 3 dias. A tomografia mostra aerobilia, delgado dilatado e cálculo de 3 cm impactado no íleo terminal. Está desidratada, com piora da função renal, sem peritonite. Após reposição volêmica, qual é a cirurgia indicada?",
+  "alts": [
+   "Enterolitotomia, colecistectomia e fechamento da fístula no mesmo ato",
+   "Ressecção ileocecal com anastomose primária e drenagem da vesícula",
+   "Colecistectomia isolada, para tratar a origem do cálculo migrado",
+   "Enterolitotomia proximal ao cálculo e revisão do intestino",
+   "Litotripsia por enteroscopia como primeira opção de rotina"
+  ],
+  "gab": 3,
+  "tema": "hepatobiliar",
+  "sub": "Íleo biliar",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Halabi WJ, et al. Surgery for gallstone ileus: a nationwide comparison of trends and outcomes. Annals of Surgery, 2014",
+  "coment": "O íleo biliar é obstrução mecânica por cálculo que passou por fístula biliodigestiva, quase sempre colecistoduodenal, em idosas, e que impacta em geral no íleo terminal. A tríade de Rigler (aerobilia, obstrução de delgado e cálculo ectópico) aparece melhor na tomografia. A cirurgia é a enterolitotomia: enterotomia longitudinal em alça sadia proximal ao cálculo, extração, fechamento transversal e revisão de todo o intestino atrás de outros cálculos. Na série nacional americana, a enterolitotomia isolada teve menor mortalidade que a cirurgia com colecistectomia e fechamento da fístula, reservada a casos selecionados.",
+  "porAlt": [
+   "A cirurgia em tempo único tem maior mortalidade e fica para pacientes selecionados de baixo risco.",
+   "Sem necrose ou perfuração, ressecar o íleo é desnecessário; basta retirar o cálculo.",
+   "Retirar a vesícula não desobstrui o íleo, onde está o cálculo que causa a obstrução.",
+   "Correta: na idosa desidratada, a enterolitotomia isolada resolve a obstrução com menor mortalidade; a fístula costuma ser deixada.",
+   "Abordagem endoscópica é exceção, útil em cálculos no duodeno, não no íleo terminal."
+  ]
+ },
+ {
+  "q": "Homem de 48 anos está no 14º dia de pancreatite aguda necrosante. Voltou a ter febre, e a tomografia mostra coleção necrótica de 9 cm, sem parede definida, com bolhas de gás. Está estável, sem falência orgânica, e iniciou meropeném há 24 horas. Qual é a conduta?",
+  "alts": [
+   "Necrosectomia aberta imediata por laparotomia mediana",
+   "Punção com agulha fina antes de decidir sobre o antibiótico",
+   "Manter antibiótico e adiar a drenagem até a coleção encapsular",
+   "Suspender o antibiótico e repetir a tomografia em 7 dias",
+   "Drenagem transgástrica imediata com necrosectomia endoscópica"
+  ],
+  "gab": 2,
+  "tema": "hepatobiliar",
+  "sub": "Necrose pancreática infectada precoce",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American College of Gastroenterology. Guidelines: Management of Acute Pancreatitis, 2024",
+  "coment": "A necrose infectada é suspeitada por febre e piora após a primeira semana e confirmada, na prática, por gás na coleção. A ACG 2024 recomenda, no paciente estável, antibiótico que penetra a necrose, como carbapenêmico, e adiamento da intervenção até a necrose ficar encapsulada, em geral após 4 semanas. O ensaio POINTER (2021) mostrou que drenar logo ao diagnóstico não reduziu complicações e levou a mais intervenções, e que cerca de 4 em 10 pacientes do grupo adiado resolveram só com antibiótico. Piora apesar do antibiótico pede drenagem antecipada, percutânea ou endoscópica, como primeiro degrau do step-up.",
+  "porAlt": [
+   "Necrosectomia aberta precoce tem alta mortalidade e foi abandonada em favor do step-up tardio.",
+   "Gás na coleção já indica infecção; a punção não é rotina e tem falso negativo.",
+   "Correta: no paciente estável, antibiótico que penetra a necrose e adiamento da intervenção até a parede amadurecer, em torno de 4 semanas.",
+   "Gás com febre é infecção; suspender o antibiótico agora agrava o quadro.",
+   "Drenar coleção sem parede antes de 4 semanas exige mais intervenções, sem benefício no paciente estável."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos, que voltou há 2 meses de viagem a área endêmica, tem febre, dor no hipocôndrio direito e hepatomegalia dolorosa. A tomografia mostra lesão única de 6 cm no lobo direito, sem sinais de ruptura iminente. A sorologia para Entamoeba histolytica é positiva. Qual é o tratamento?",
+  "alts": [
+   "Drenagem percutânea imediata associada a ceftriaxona",
+   "Hepatectomia direita regrada para retirar a lesão",
+   "Albendazol por 3 meses com punção e injeção de álcool",
+   "Metronidazol isolado por 3 dias e alta sem seguimento",
+   "Metronidazol e depois amebicida luminal, sem drenar"
+  ],
+  "gab": 4,
+  "tema": "hepatobiliar",
+  "sub": "Abscesso hepático amebiano",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Doenças infecciosas e parasitárias: guia de bolso, 8ª edição, 2010",
+  "coment": "O abscesso hepático amebiano predomina em homens jovens com exposição em área endêmica, em geral lesão única no lobo direito, com sorologia positiva. O tratamento é clínico: metronidazol por 7 a 10 dias, seguido de amebicida de ação luminal para erradicar os cistos intestinais e evitar recidiva. A maioria responde em 72 a 96 horas. A aspiração ou drenagem fica para falha clínica, dúvida com abscesso piogênico, lesões grandes com risco de ruptura, sobretudo no lobo esquerdo pelo risco de ruptura para o pericárdio, ou ruptura já ocorrida. O abscesso piogênico, ao contrário, exige drenagem e antibiótico.",
+  "porAlt": [
+   "Drenagem fica para abscesso piogênico, falha do tratamento clínico ou risco de ruptura, sobretudo no lobo esquerdo.",
+   "Ressecção hepática não tem papel no abscesso amebiano não complicado.",
+   "Albendazol com punção, aspiração e álcool é tratamento do cisto hidático.",
+   "O curso de metronidazol no abscesso é de 7 a 10 dias e precisa do amebicida luminal depois.",
+   "Correta: o abscesso amebiano responde ao metronidazol, seguido de amebicida luminal para eliminar cistos; drenagem não é rotina."
+  ]
+ },
+ {
+  "q": "Homem de 64 anos, assintomático, tem achado ultrassonográfico de pólipo séssil de 7 mm na vesícula, sem cálculos, imóvel e sem sombra acústica. Não tem colangite esclerosante primária. Pelo consenso europeu de 2022, qual é a conduta?",
+  "alts": [
+   "Ultrassom em 6 meses, 1 ano e 2 anos",
+   "Sem seguimento, por medir menos de 10 mm",
+   "Colecistectomia, se apto e de acordo",
+   "Tomografia com contraste para estadiar",
+   "Ultrassom anual pelo resto da vida"
+  ],
+  "gab": 2,
+  "tema": "hepatobiliar",
+  "sub": "Pólipo de vesícula biliar",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ESGAR, EAES, EFISDS e ESGE. Management and follow-up of gallbladder polyps: updated joint guidelines, 2022",
+  "coment": "O consenso europeu de 2022 define pólipo como elevação da parede sem mobilidade e sem sombra acústica, e lista quatro fatores de risco de malignidade: idade acima de 60 anos, colangite esclerosante primária, etnia asiática e lesão séssil, incluindo espessamento focal da parede. Pólipo de 10 mm ou mais indica colecistectomia. De 6 a 9 mm com um ou mais fatores de risco, colecistectomia. De 6 a 9 mm sem fator, ou até 5 mm com fator, ultrassom em 6 meses, 1 e 2 anos. Até 5 mm sem fator, nenhum seguimento. Crescimento até 10 mm no seguimento indica cirurgia.",
+  "porAlt": [
+   "Vigilância em 6 meses, 1 e 2 anos é para pólipo de 6 a 9 mm sem fatores de risco.",
+   "Dispensar seguimento vale para pólipo de até 5 mm sem fator de risco.",
+   "Correta: pólipo de 6 a 9 mm com fator de risco, aqui idade acima de 60 anos e forma séssil, indica colecistectomia.",
+   "Tomografia não é exame de rotina para pólipo e não muda a indicação.",
+   "Vigilância indefinida não é recomendada; o seguimento termina em 2 anos se não houver crescimento."
+  ]
+ },
+ {
+  "q": "Homem de 70 anos, em terapia intensiva há 12 dias por choque séptico de foco pulmonar, sob ventilação mecânica e noradrenalina em dose decrescente, evolui com nova febre e aumento de fosfatase alcalina e bilirrubina. A ultrassonografia mostra vesícula distendida, parede de 6 mm, líquido perivesicular e lama biliar, sem cálculos. Qual é a conduta mais adequada?",
+  "alts": [
+   "Colecistectomia laparoscópica imediata, mesmo sob vasopressor",
+   "Observar e repetir a ultrassonografia em 72 horas",
+   "CPRE com papilotomia e passagem de prótese biliar",
+   "Ácido ursodesoxicólico e progressão da dieta enteral",
+   "Colecistostomia percutânea guiada por imagem e antibiótico"
+  ],
+  "gab": 4,
+  "tema": "hepatobiliar",
+  "sub": "Colecistite acalculosa",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Tokyo Guidelines 2018: management strategies for gallbladder drainage in patients with acute cholecystitis, 2018",
+  "coment": "A colecistite acalculosa ocorre no doente crítico, com jejum prolongado, nutrição parenteral, choque e ventilação mecânica, por estase e isquemia da vesícula, e evolui rápido para gangrena e perfuração. Nesse paciente de alto risco cirúrgico, a TG18 indica drenagem da vesícula, de preferência percutânea trans-hepática guiada por imagem, com antibiótico. Ao contrário da forma calculosa, a drenagem costuma ser o tratamento definitivo, e a colecistectomia raramente é necessária depois. Gangrena, perfuração ou falha da drenagem indicam cirurgia.",
+  "porAlt": [
+   "Cirurgia sob choque com vasopressor tem alto risco anestésico; a drenagem é a ponte preferida.",
+   "Colecistite acalculosa progride rápido para gangrena e perfuração; esperar é perigoso.",
+   "O problema é a vesícula, não a via biliar principal; CPRE não drena a vesícula de forma confiável.",
+   "Medidas clínicas não tratam a vesícula inflamada e distendida no paciente séptico.",
+   "Correta: no doente crítico com colecistite acalculosa, a drenagem percutânea controla o foco com baixo risco e muitas vezes é definitiva."
+  ]
+ },
+ {
+  "q": "Durante colecistectomia laparoscópica por colecistite com 6 dias de evolução, o trígono hepatocístico está endurecido e fibrosado, com o duodeno aderido ao infundíbulo. Após 40 minutos de dissecção cuidadosa, o cirurgião não obtém a visão crítica de segurança. Qual é a conduta recomendada?",
+  "alts": [
+   "Dissecar até expor o colédoco para então identificar o cístico",
+   "Colecistectomia subtotal, com retirada dos cálculos e drenagem",
+   "Converter e completar a colecistectomia total no campo aberto",
+   "Clipar as duas estruturas tubulares mais prováveis e seguir",
+   "Encerrar sem retirar cálculos e reoperar em duas semanas"
+  ],
+  "gab": 1,
+  "tema": "hepatobiliar",
+  "sub": "Colecistectomia difícil",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "World Society of Emergency Surgery. 2020 WSES updated guidelines for the diagnosis and treatment of acute calculus cholecystitis, 2020",
+  "coment": "A lesão da via biliar na colecistectomia nasce quase sempre de erro de percepção: o colédoco é tomado pelo cístico. A visão crítica de segurança exige trígono hepatocístico limpo, terço inferior da vesícula separado do leito e duas, e somente duas, estruturas entrando na vesícula. A WSES 2020 recomenda, quando ela não pode ser obtida numa vesícula difícil, um procedimento de resgate, de preferência a colecistectomia subtotal, com retirada de todos os cálculos e drenagem. A conversão pode ser considerada se a laparoscopia não progride, mas não há evidência de que converter, por si, reduza a lesão biliar.",
+  "porAlt": [
+   "Procurar o colédoco no trígono inflamado é o caminho clássico para lesá-lo.",
+   "Correta: sem visão crítica por fibrose, a conduta é um procedimento de resgate, e a colecistectomia subtotal evita entrar no trígono hostil.",
+   "Converter é aceitável, mas completar a colecistectomia total no mesmo campo hostil não reduz a lesão biliar.",
+   "Clipar sem os três critérios da visão crítica é o mecanismo mais comum de lesão da via biliar principal.",
+   "Reoperar em 2 semanas cai na pior janela inflamatória; a subtotal resolve agora com segurança."
+  ]
+ }
+]

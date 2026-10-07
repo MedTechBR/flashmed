@@ -1,0 +1,22 @@
+{
+ "incluidas": 30,
+ "descartadas": [
+  {"pid": "m24051", "motivo": "clínica médica: fora do escopo desta rodada (cardio: infarto silencioso em diabético, ondas Q novas no ECG)"},
+  {"pid": "m24052", "motivo": "clínica médica: fora do escopo desta rodada (hemato: anemia macrocítica com neutropenia, mielodisplasia)"},
+  {"pid": "m24053", "motivo": "clínica médica: fora do escopo desta rodada (reumato: monoartrite aguda, gota ou pseudogota)"},
+  {"pid": "m24054", "motivo": "clínica médica: fora do escopo desta rodada (cardio: bloqueio de ramo esquerdo e dissincronia pós-revascularização)"},
+  {"pid": "m24055", "motivo": "clínica médica: fora do escopo desta rodada (nefro/endocrino: DRC, anemia e hipotireoidismo em idosa)"},
+  {"pid": "m24058", "motivo": "clínica médica: fora do escopo desta rodada (nefro: cólica renal); além disso o gabarito (10 ou mais hemácias por campo como indicativo de nefrolitíase) é discutível"},
+  {"pid": "m24059", "motivo": "clínica médica: fora do escopo desta rodada (pneumo: pneumonia adquirida na comunidade)"},
+  {"pid": "m24070", "motivo": "clínica médica: fora do escopo desta rodada (derma: tinha crural extensa)"},
+  {"pid": "m24073", "motivo": "gabarito oficial contraria a norma vigente: a alternativa oficial diz que o médico não pode emitir a declaração de óbito por a morte ter ocorrido no domicílio. A Resolução CFM 1.779/2005 permite ao médico que acompanhava a paciente (ou ao serviço público mais próximo, onde não há SVO) emitir a DO em morte natural, e a Portaria SVS/MS 116/2009 destina, em óbito fora de estabelecimento de saúde, a 2ª via à família para o cartório e a 1ª e 3ª vias à Secretaria Municipal de Saúde. A resposta correta seria a alternativa de uma via ao cartório e duas à SMS; possível desalinhamento do gabarito na extração."},
+  {"pid": "m24077", "motivo": "gabarito baseado em norma revogada: o conteúdo detalhado do atestado para perícia vinha do art. 3º, parágrafo único, da Resolução CFM 1.658/2002, revogada pela Resolução CFM 2.381/2024. Hoje o atestado de afastamento é documento simplificado com os dias de dispensa (art. 4º, I), o diagnóstico só entra com justa causa, dever legal ou pedido expresso do paciente (art. 5º, §3º), e o detalhamento para perícia vai em relatório médico circunstanciado. A alternativa 'apenas o tempo de afastamento' passou a ser defensável, ficando duas respostas possíveis."}
+ ],
+ "gabaritos_discutiveis": [
+  {"pid": "m24074", "nota": "Mantida: a Lei 9.313/1996 garante ARV gratuito também a quem é acompanhado no setor privado, com prescrição particular aceita. A dispensação diretamente na UBS depende de ela ser unidade dispensadora (como nas Clínicas da Família do Rio, contexto da prova); em outras redes o cadastro seria na UDM de referência."},
+  {"pid": "m24080", "nota": "Mantida: pela Resolução CFM 2.381/2024 o documento adequado se chama relatório médico circunstanciado, e o art. 6º veda ao médico assistente preencher formulário de perícia para benefício fiscal. A conduta da alternativa oficial (documento completo para subsidiar a perícia oficial) segue válida; o comentário explica a distinção."},
+  {"pid": "m24067", "nota": "Mantida: INCA/MS não recomendam rastreamento populacional e a USPSTF 2018 trata de 55 a 69 anos, mas a AUA/SUO 2023 aceita iniciar entre 45 e 50 anos e o enunciado já fixa a decisão compartilhada; o exame, se feito, é o PSA."},
+  {"pid": "m24071", "nota": "Mantida: a limpeza com água oxigenada segue o Guia de Vigilância em Saúde do MS (tétano acidental), embora parte da literatura de cuidado de feridas desaconselhe o peróxido pela citotoxicidade."},
+  {"pid": "m24046", "nota": "Artefato de extração corrigido na alternativa: 'préoperatório' para 'pré-operatório'."}
+ ]
+}

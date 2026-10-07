@@ -1,0 +1,87 @@
+{
+ "incluidas": 25,
+ "descartadas": [
+  {
+   "pid": "m25001",
+   "motivo": "clínica médica: fora do escopo desta rodada (dissecção de aorta, cardio)"
+  },
+  {
+   "pid": "m25003",
+   "motivo": "clínica médica: fora do escopo desta rodada (indicação de tratamento da síndrome gripal, infecto)"
+  },
+  {
+   "pid": "m25005",
+   "motivo": "clínica médica: fora do escopo desta rodada (paracoccidioidomicose, infecto)"
+  },
+  {
+   "pid": "m25011",
+   "motivo": "resposta depende de um estudo de perfil local do Melhor em Casa, não de norma; patologia neurológica/neuromuscular (sequela de AVC) é igualmente defensável como grupo mais prevalente"
+  },
+  {
+   "pid": "m25012",
+   "motivo": "clínica médica: fora do escopo desta rodada (mucormicose, infecto)"
+  },
+  {
+   "pid": "m25016",
+   "motivo": "clínica médica: fora do escopo desta rodada (espasticidade, neuro)"
+  },
+  {
+   "pid": "m25021",
+   "motivo": "clínica médica: fora do escopo desta rodada (reação hansênica e profilaxia de estrongiloidíase, infecto/derma)"
+  },
+  {
+   "pid": "m25026",
+   "motivo": "clínica médica: fora do escopo desta rodada (DPOC, pneumo)"
+  },
+  {
+   "pid": "m25027",
+   "motivo": "clínica médica: fora do escopo desta rodada (DRGE, gastro)"
+  },
+  {
+   "pid": "m25029",
+   "motivo": "clínica médica: fora do escopo desta rodada (critérios de Framingham, cardio)"
+  },
+  {
+   "pid": "m25030",
+   "motivo": "clínica médica: fora do escopo desta rodada (hidroxiureia na doença falciforme, hemato)"
+  },
+  {
+   "pid": "m25032",
+   "motivo": "clínica médica: fora do escopo desta rodada (hipofosfatemia, nefro)"
+  },
+  {
+   "pid": "m25035",
+   "motivo": "clínica médica: fora do escopo desta rodada (falência medular, hemato)"
+  },
+  {
+   "pid": "m25036",
+   "motivo": "clínica médica: fora do escopo desta rodada (PTH na DRC, nefro)"
+  },
+  {
+   "pid": "m25040",
+   "motivo": "clínica médica: fora do escopo desta rodada (coinfecção HIV-HCV, infecto)"
+  }
+ ],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "m25002",
+   "nota": "Enunciado diz que não houve lesão nem contato com secreção; gabarito (soro + 4 doses) mantido porque o MS considera toda exposição a morcego grave e indica profilaxia quando não se pode descartar o contato (criança manipulou o animal). Conferido na web."
+  },
+  {
+   "pid": "m25014",
+   "nota": "Questão sobre a Portaria 3.479/2017 (comitê do plano de prevenção do suicídio). Gabarito correto em relação ao texto da portaria, mas o colegiado pode ter sido extinto pelo Decreto 9.759/2019; o marco vigente é a Lei 13.819/2019, citada no comentário."
+  },
+  {
+   "pid": "m25038",
+   "nota": "Gabarito segue a Linha de Cuidado MS 2021 / Diretriz SBC 2020 (o próprio enunciado cita a Linha de Cuidado). A Diretriz Brasileira de Hipertensão 2025 alterou nomenclatura das faixas pressóricas; não verificado se mudou a tabela de risco."
+  },
+  {
+   "pid": "m25028",
+   "nota": "Enunciado põe as manchas de Koplik há 7 dias (o habitual é 1 a 2 dias antes do exantema); não altera a resposta."
+  },
+  {
+   "pid": "m25020",
+   "nota": "Correção de artefato de extração no enunciado: 'recémnascidos' → 'recém-nascidos'. Ano do PCDT da Fenilcetonúria (2019) citado de memória."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+[
+ {
+  "grupo": "Cirurgia",
+  "f": "trauma-toracico.html",
+  "tipo": "ATLS 2025 · resumo de prova",
+  "area": "trauma",
+  "min": 56,
+  "t": "Trauma torácico",
+  "s": "Lesões torácicas que matam na avaliação primária e as que se escondem até a secundária, pneumotórax, hemotórax e indicação de toracotomia pela fisiologia, tamponamento, parede torácica e contusão pulmonar, aorta, diafragma, esôfago, vias aéreas e drenagem, pelo ATLS 11ª edição (ACS, 2025) e pela Medicina de Emergência da USP (2024)."
+ },
+ {
+  "grupo": "Cirurgia",
+  "f": "queimaduras.html",
+  "tipo": "ATLS 2025 e MS 2012 · resumo de prova",
+  "area": "trauma",
+  "min": 54,
+  "t": "Queimaduras",
+  "s": "Profundidade, regra dos nove e Lund-Browder, reposição volêmica do ATLS 11 (2 mL/kg/% no adulto, 3 na criança, 4 na elétrica) com as metas de diurese, via aérea e inalação, monóxido de carbono e cianeto, escarotomia, queimadura elétrica e química e critérios de transferência, pelo ATLS 11ª edição (ACS, 2025), pela cartilha do Ministério da Saúde (2012) e pela Medicina de Emergência da USP (2024)."
+ },
+ {
+  "grupo": "Cirurgia",
+  "f": "tce-e-trauma-raquimedular.html",
+  "tipo": "ATLS 2025 · resumo de prova",
+  "area": "trauma",
+  "min": 56,
+  "t": "TCE e trauma raquimedular",
+  "s": "Glasgow e Glasgow-P, classificação do TCE, hematomas epidural e subdural, contusão e lesão axonal difusa, indicação de tomografia pela regra canadense, metas e manejo da hipertensão intracraniana e da herniação no trauma, lesão medular, choque neurogênico e choque medular, restrição seletiva do movimento da coluna, NEXUS e regra canadense da coluna cervical, pelo ATLS 11ª edição (ACS, 2025)."
+ }
+]

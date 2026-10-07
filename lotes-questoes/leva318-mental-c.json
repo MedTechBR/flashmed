@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Homem de 61 anos com esquizofrenia ficou internado por 7 anos ininterruptos em hospital psiquiátrico custeado pelo SUS e, há 1 ano, mora em um Serviço Residencial Terapêutico, acompanhado pelo CAPS. Está clinicamente estável, quer participar do Programa De Volta para Casa, consente por escrito e a equipe garante a continuidade do cuidado na rede. Em relação ao auxílio-reabilitação psicossocial, qual afirmativa está correta?",
+  "alts": [
+   "Ele não tem direito, porque o benefício é restrito a quem ainda está internado",
+   "O auxílio depende de interdição judicial e de pedido do Ministério Público",
+   "Ele tem direito: a internação superou 2 anos e o tempo em residência conta",
+   "O auxílio é pago em parcela única, no momento da alta do hospital psiquiátrico",
+   "O pagamento é vitalício e mantido mesmo se ele for reinternado no hospital"
+  ],
+  "gab": 2,
+  "tema": "raps",
+  "sub": "Programa De Volta para Casa",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 10.708/2003 (Programa De Volta para Casa)",
+  "coment": "A Lei 10.708/2003 criou o auxílio-reabilitação psicossocial para egressos de internação psiquiátrica de dois anos ou mais. Os requisitos são cumulativos: internação longa comprovada (o tempo de moradia em residência terapêutica é computado), situação clínica e social que permita a reintegração, consentimento expresso do paciente ou do representante e atenção continuada garantida na rede. O benefício é mensal, dura um ano e é renovável; é suspenso se houver reinternação em hospital psiquiátrico ou quando os objetivos de reintegração forem alcançados.",
+  "porAlt": [
+   "O programa se destina justamente ao egresso de internação longa, não a quem segue internado.",
+   "A lei não exige interdição nem participação do Ministério Público para conceder o auxílio.",
+   "Correta: há mais de 2 anos de internação, o tempo em residência terapêutica conta e os demais requisitos estão presentes.",
+   "O auxílio é mensal, pago por um ano e renovável, e não em parcela única.",
+   "A reinternação em hospital psiquiátrico suspende o pagamento, que não é vitalício."
+  ]
+ },
+ {
+  "q": "Mulher de 33 anos com transtorno bipolar em mania psicótica foi internada sem consentimento, a pedido do irmão, em leito de saúde mental de hospital geral, com laudo médico circunstanciado e comunicação ao Ministério Público. No quinto dia, o irmão entrega pedido escrito de alta e o psiquiatra assistente concorda que ela pode seguir no CAPS III. Pela Lei 10.216/2001, como se encerra essa internação?",
+  "alts": [
+   "Só termina por decisão do juiz, porque foi feita sem o consentimento da paciente",
+   "Termina apenas quando a própria paciente assinar o pedido, após recuperar a crítica",
+   "Termina pelo pedido do irmão, sem nova comunicação, já feita ao MP na entrada",
+   "Exige parecer da Defensoria Pública e prazo mínimo de 15 dias antes da alta",
+   "Termina pelo pedido escrito do familiar, com comunicação da alta ao MP em 72 h"
+  ],
+  "gab": 4,
+  "tema": "raps",
+  "sub": "Término da internação involuntária",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 10.216/2001",
+  "coment": "Na internação involuntária, o art. 8º da Lei 10.216/2001 prevê que o término se dá por solicitação escrita do familiar ou responsável legal, ou quando estabelecido pelo especialista responsável pelo tratamento. O responsável técnico do estabelecimento comunica o Ministério Público Estadual em até 72 horas, e o mesmo procedimento vale para a alta. Decisão judicial encerra a internação compulsória, não a involuntária; a Defensoria entra na comunicação prevista pela Lei 13.840/2019 para dependentes de drogas.",
+  "porAlt": [
+   "Decisão judicial encerra a internação compulsória; a involuntária é ato médico a pedido de terceiro.",
+   "Na involuntária, o pedido escrito do familiar ou a decisão do especialista bastam para a alta.",
+   "A alta da internação involuntária também precisa ser comunicada ao Ministério Público em 72 horas.",
+   "A Lei 10.216 não exige parecer da Defensoria nem fixa prazo mínimo de internação.",
+   "Correta: o familiar pode pedir o término por escrito, e a alta é comunicada ao Ministério Público em até 72 horas."
+  ]
+ },
+ {
+  "q": "Policial militar leva à UPA um homem de 29 anos em uso diário de crack, abordado na rua, e pede ao médico que o interne involuntariamente. O paciente está calmo, orientado, sem intoxicação grave ou risco imediato e recusa a internação. Nenhum familiar foi localizado. Pela Lei 11.343/2006, com as alterações da Lei 13.840/2019, qual a conduta diante do pedido?",
+  "alts": [
+   "Não acolher o pedido, que não pode vir da segurança pública, e ofertar cuidado na rede",
+   "Internar no hospital geral, pois o pedido policial substitui o do familiar ausente",
+   "Encaminhar à comunidade terapêutica, que pode recebê-lo de forma involuntária",
+   "Solicitar a internação compulsória ao delegado, que decide na falta da família",
+   "Internar por 72 horas para desintoxicação, prazo em que a lei dispensa pedido"
+  ],
+  "gab": 0,
+  "tema": "raps",
+  "sub": "Lei 13.840 e quem pede internação",
+  "cenario": "emg",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 13.840/2019 (altera a Lei 11.343/2006)",
+  "coment": "A Lei 13.840/2019 admite internação involuntária do dependente só a pedido de familiar ou responsável legal e, na absoluta falta deles, de servidor público da saúde, da assistência social ou dos órgãos do Sisnad, excluídos expressamente os da segurança pública. Além disso, exige médico que a formalize depois de comprovada a impossibilidade de alternativas, em unidade de saúde ou hospital geral, por no máximo 90 dias. Paciente calmo, sem risco imediato e que recusa deve receber oferta de cuidado na rede, como CAPS AD e Consultório na Rua.",
+  "porAlt": [
+   "Correta: a lei exclui servidores da segurança pública entre os que podem pedir a internação involuntária.",
+   "O pedido policial não tem validade; na falta da família, pedem servidores da saúde, assistência social ou Sisnad.",
+   "É vedada qualquer modalidade de internação em comunidade terapêutica, que só recebe acolhimento voluntário.",
+   "Internação compulsória é determinada por juiz, não por delegado, e o caso não tem indicação de internar.",
+   "A lei não cria internação curta sem pedido de terceiro; a involuntária sempre exige solicitante legitimado."
+  ]
+ },
+ {
+  "q": "Mulher de 26 anos, com automutilação recorrente, crises intensas de raiva e duas tentativas de suicídio no último ano, procura diretamente o CAPS II do município, sem encaminhamento, pedindo ajuda. A recepcionista informa que o serviço só atende pacientes referenciados pela UBS. Como avaliar essa orientação?",
+  "alts": [
+   "Correta, porque o acesso ao CAPS é regulado pela UBS, porta de entrada exclusiva da rede",
+   "Correta, pois a demanda espontânea do CAPS se restringe a usuários de álcool e drogas",
+   "Incorreta, já que ela deveria ir ao hospital psiquiátrico, ponto da crise na RAPS",
+   "Incorreta, pois o CAPS é serviço aberto e acolhe demanda espontânea, sem encaminhamento",
+   "Correta, porque casos de autolesão passam antes pelo matriciamento da eMulti na UBS"
+  ],
+  "gab": 3,
+  "tema": "raps",
+  "sub": "Acesso ao CAPS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação 3/2017, Anexo V (RAPS), com redação da Portaria GM/MS 757/2023",
+  "coment": "O CAPS é serviço de caráter aberto e comunitário, que atende prioritariamente pessoas com sofrimento ou transtorno mental grave e persistente, inclusive na crise, e acolhe por demanda espontânea ou referenciada. Exigir encaminhamento da UBS é barreira de acesso sem base normativa. A paciente, com tentativas de suicídio e autolesão repetida, tem perfil de cuidado no CAPS, com projeto terapêutico singular e cuidado compartilhado com a atenção básica. O hospital psiquiátrico deixou de ser ponto de atenção da RAPS em 2023.",
+  "porAlt": [
+   "A atenção básica ordena o cuidado, mas não é porta exclusiva: o CAPS também acolhe demanda espontânea.",
+   "A demanda espontânea vale para todas as modalidades de CAPS, não só para o CAPS AD.",
+   "Desde a Portaria 757/2023 o hospital psiquiátrico não é ponto da RAPS, e a crise é acolhida no CAPS e na urgência.",
+   "Correta: o CAPS é porta aberta e não exige encaminhamento para acolher a pessoa em sofrimento.",
+   "O matriciamento apoia a equipe da APS, mas não é etapa obrigatória antes do acesso ao CAPS."
+  ]
+ },
+ {
+  "q": "Homem de 44 anos com dependência de álcool está em acolhimento noturno no CAPS AD III há 14 dias, dentro do mesmo período de 30 dias. Mantém grave vulnerabilidade familiar, sem moradia segura, e a equipe considera que ele ainda precisa de cuidado contínuo e protetivo, sem indicação clínica de internação. Qual o encaminhamento previsto na norma da RAPS?",
+  "alts": [
+   "Internação em leito de hospital geral até a abstinência completa",
+   "Unidade de Acolhimento, indicada pela equipe do CAPS de referência",
+   "Prorrogação automática do acolhimento noturno por mais 30 dias",
+   "Alta para a UBS, pois o acolhimento noturno é limitado a 7 dias",
+   "Residência terapêutica, moradia definitiva para usuários de drogas"
+  ],
+  "gab": 1,
+  "tema": "raps",
+  "sub": "Acolhimento noturno no CAPS AD III",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Portaria de Consolidação 3/2017, Anexo V (origem nas Portarias 130/2012 e 121/2012)",
+  "coment": "No CAPS AD III, a permanência de um mesmo usuário no acolhimento noturno é limitada a 14 dias em um período de 30 dias. Se ele precisar de mais tempo de cuidado contínuo e protetivo por vulnerabilidade social ou familiar, o caminho previsto é a Unidade de Acolhimento, ponto residencial transitório de 24 horas, com permanência de até seis meses. A entrada na UA é definida exclusivamente pela equipe do CAPS de referência, que segue responsável pelo projeto terapêutico. Residência terapêutica é para egressos de internação longa.",
+  "porAlt": [
+   "Sem indicação clínica de internação, o leito hospitalar não é o recurso adequado para a vulnerabilidade social.",
+   "Correta: esgotados os 14 dias em 30, o usuário com necessidade de cuidado protetivo vai para a Unidade de Acolhimento.",
+   "O limite é de 14 dias em 30; a prorrogação é exceção justificada, não automática.",
+   "O limite do acolhimento noturno é de 14 dias, não de 7, e a vulnerabilidade pede outro ponto de cuidado.",
+   "A residência terapêutica é moradia para egressos de internação de longa permanência, não para esse caso."
+  ]
+ },
+ {
+  "q": "Em um município de grande porte, a secretaria de saúde quer ampliar o cuidado a pessoas em situação de rua que usam álcool e crack, com equipe itinerante, ações de redução de danos, cuidado clínico no território e articulação com o CAPS AD. Qual ponto de atenção cumpre esse papel e a qual componente da RAPS ele pertence?",
+  "alts": [
+   "Unidade de Acolhimento, no componente de atenção residencial transitória",
+   "CAPS AD III, no componente de atenção de urgência e emergência da rede",
+   "Comunidade terapêutica, no componente de estratégias de desinstitucionalização",
+   "Centro de Convivência e Cultura, no componente de atenção psicossocial",
+   "Equipe de Consultório na Rua, no componente de atenção básica em saúde"
+  ],
+  "gab": 4,
+  "tema": "raps",
+  "sub": "Consultório na Rua na RAPS",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação 3/2017, Anexo V (RAPS), com redação da Portaria GM/MS 757/2023",
+  "coment": "A equipe de Consultório na Rua é equipe da atenção básica para populações específicas, itinerante, que cuida da população em situação de rua no próprio território, inclusive com redução de danos, e se articula com o CAPS e os demais pontos da rede. No Anexo V da Portaria de Consolidação 3/2017, ela está no componente de atenção básica em saúde, ao lado da UBS, da eMulti e dos Centros de Convivência. A Unidade de Acolhimento e as comunidades terapêuticas pertencem à atenção residencial de caráter transitório, e o CAPS, à atenção psicossocial.",
+  "porAlt": [
+   "A Unidade de Acolhimento é moradia transitória indicada pelo CAPS, não uma equipe itinerante de rua.",
+   "O CAPS AD III está no componente de atenção psicossocial, e não no de urgência e emergência.",
+   "A comunidade terapêutica está na atenção residencial transitória e não é equipe itinerante.",
+   "O Centro de Convivência pertence à atenção básica e não faz cuidado itinerante na rua.",
+   "Correta: o Consultório na Rua é equipe itinerante da atenção básica, com redução de danos no território."
+  ]
+ },
+ {
+  "q": "Paciente de 37 anos internado involuntariamente em leito de saúde mental de hospital geral foge da unidade durante a madrugada. De acordo com a Lei 10.216/2001, a direção do estabelecimento deve comunicar a evasão a quem e em qual prazo?",
+  "alts": [
+   "Ao Ministério Público Estadual e à Defensoria Pública, em até 72 horas",
+   "Apenas à autoridade policial, de imediato, para a busca e a recondução",
+   "Aos familiares ou representante legal e à autoridade sanitária, em até 24 horas",
+   "Ao Conselho Regional de Medicina e ao juiz da comarca, em até 48 horas",
+   "Somente aos familiares, no momento da alta administrativa, sem prazo"
+  ],
+  "gab": 2,
+  "tema": "raps",
+  "sub": "Evasão e comunicação obrigatória",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Lei 10.216/2001",
+  "coment": "O art. 10 da Lei 10.216/2001 determina que evasão, transferência, acidente, intercorrência clínica grave e falecimento sejam comunicados pela direção do estabelecimento aos familiares ou ao representante legal do paciente e à autoridade sanitária responsável, no prazo máximo de 24 horas da data da ocorrência. O prazo de 72 horas ao Ministério Público vale para a internação involuntária e sua alta (art. 8º); a comunicação à Defensoria aparece na Lei 13.840/2019, para dependentes de drogas.",
+  "porAlt": [
+   "O prazo de 72 horas ao Ministério Público é o da internação involuntária e da alta, não o da evasão.",
+   "A lei não restringe a comunicação à polícia; os destinatários são a família e a autoridade sanitária.",
+   "Correta: o art. 10 manda comunicar familiares ou representante legal e autoridade sanitária em até 24 horas.",
+   "O CRM e o juiz não são os destinatários previstos no art. 10, e o prazo legal é de 24 horas.",
+   "A comunicação é obrigatória em até 24 horas da ocorrência, e não apenas na alta administrativa."
+  ]
+ },
+ {
+  "q": "Gestor municipal relata que a antiga equipe do NASF foi desfeita e pergunta qual arranjo vigente pode oferecer às equipes de Saúde da Família apoio matricial em saúde mental, com psicólogo e psiquiatra, atendimento compartilhado e discussão de casos. Qual equipe, instituída em 2023, cumpre esse papel na atenção primária?",
+  "alts": [
+   "eMulti, equipe multiprofissional da APS, complementar às equipes de referência",
+   "Equipe multiprofissional especializada em saúde mental, sediada em ambulatório",
+   "CAPS AD IV, que passou a matriciar as unidades básicas acima de 500 mil habitantes",
+   "Equipe de avaliação de medidas terapêuticas aplicáveis, vinculada ao Judiciário",
+   "Serviço hospitalar de referência, que faz apoio matricial a partir do hospital geral"
+  ],
+  "gab": 0,
+  "tema": "raps",
+  "sub": "eMulti e apoio matricial",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Portaria GM/MS 635/2023 (eMulti)",
+  "coment": "A Portaria GM/MS 635/2023 instituiu as equipes multiprofissionais na atenção primária (eMulti), que ocuparam o lugar dos antigos NASF. Atuam de forma complementar e integrada às equipes de referência, com atendimento individual, coletivo e domiciliar, apoio matricial, discussão de casos, atendimento compartilhado e construção conjunta de projetos terapêuticos, nas modalidades ampliada, complementar e estratégica. As equipes multiprofissionais especializadas em ambulatório e o CAPS AD IV saíram da RAPS com a Portaria 757/2023.",
+  "porAlt": [
+   "Correta: a eMulti, da Portaria 635/2023, faz apoio matricial e atendimento compartilhado com as equipes da APS.",
+   "As equipes multiprofissionais especializadas criadas em 2017 foram retiradas da RAPS pela Portaria 757/2023.",
+   "O CAPS AD IV foi revogado em 2023 e nunca teve a função de matriciar a atenção primária.",
+   "Essa equipe acompanha medidas de segurança da Justiça e não é arranjo de apoio matricial da APS.",
+   "O serviço hospitalar de referência oferece leitos de saúde mental, e não apoio matricial às equipes da APS."
+  ]
+ },
+ {
+  "q": "Na reunião de equipe do CAPS, discute-se o caso de um jovem com primeiro episódio psicótico, e a equipe decide construir com ele e com a família um Projeto Terapêutico Singular. Segundo o Ministério da Saúde, quais momentos organizam a construção do PTS?",
+  "alts": [
+   "Triagem, prescrição, encaminhamento ao especialista e alta do serviço",
+   "Diagnóstico, definição de metas, divisão de responsabilidades e reavaliação",
+   "Acolhimento, internação breve, contrarreferência e aviso ao Ministério Público",
+   "Anamnese, exame psíquico, hipótese diagnóstica e conduta medicamentosa",
+   "Avaliação de risco, contenção, estabilização e transferência hospitalar"
+  ],
+  "gab": 1,
+  "tema": "raps",
+  "sub": "Projeto Terapêutico Singular",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 34: Saúde Mental, 2013",
+  "coment": "O Projeto Terapêutico Singular é um conjunto de propostas de condutas articuladas, construído pela equipe com o usuário e a família, para situações complexas. O Ministério da Saúde o organiza em quatro momentos: diagnóstico (avaliação orgânica, psicológica e social, com riscos e vulnerabilidades), definição de metas de curto, médio e longo prazo negociadas com o usuário, divisão de responsabilidades com um técnico de referência e reavaliação periódica. Não se resume à conduta médica nem ao encaminhamento.",
+  "porAlt": [
+   "Essa sequência descreve um fluxo de encaminhamento, oposto à lógica de responsabilização do PTS.",
+   "Correta: diagnóstico, metas, divisão de responsabilidades e reavaliação são os quatro momentos do PTS.",
+   "Internação e comunicação ao Ministério Público não são etapas do PTS, que é construído no território.",
+   "Essa sequência é a da consulta individual, centrada no médico, e não do projeto da equipe.",
+   "Essas etapas descrevem o manejo da crise na emergência, e não a construção do PTS."
+  ]
+ },
+ {
+  "q": "A família de um homem de 50 anos com esquizofrenia, estável e acompanhado no CAPS, pergunta à médica de família o que a Lei 10.216/2001 garante a ele. Qual das afirmações corresponde ao texto da lei?",
+  "alts": [
+   "Ser internado em instituição asilar quando a família não puder cuidar dele",
+   "Ter internação involuntária decidida pelo familiar, dispensado o laudo médico",
+   "Ser tratado pelos meios mais eficazes, ainda que sejam os mais invasivos",
+   "Ser tratado, preferencialmente, em serviços comunitários de saúde mental",
+   "Ter o sigilo afastado sempre que a família solicitar acesso ao prontuário"
+  ],
+  "gab": 3,
+  "tema": "raps",
+  "sub": "Direitos na Lei 10.216",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 10.216/2001",
+  "coment": "O art. 2º da Lei 10.216/2001 lista os direitos da pessoa com transtorno mental, entre eles ser tratada com humanidade e respeito, ter sigilo das informações, receber o maior número de informações sobre a doença e ser tratada pelos meios menos invasivos possíveis e, preferencialmente, em serviços comunitários de saúde mental. O art. 4º veda a internação em instituições com características asilares, e toda internação, inclusive a involuntária, exige laudo médico circunstanciado (art. 6º).",
+  "porAlt": [
+   "A lei veda expressamente a internação em instituições com características asilares.",
+   "A involuntária é pedida por terceiro, mas só se realiza com laudo médico circunstanciado.",
+   "A lei garante tratamento pelos meios menos invasivos possíveis, não pelos mais invasivos.",
+   "Correta: o tratamento preferencial em serviços comunitários é direito expresso no art. 2º.",
+   "O sigilo das informações é direito do paciente e não é afastado por simples pedido da família."
+  ]
+ },
+ {
+  "q": "Homem de 46 anos internado para herniorrafia eletiva, que bebe cerca de 10 doses por dia, teve a última dose há 20 horas. Relata ouvir vozes que o xingam pela janela, mas está orientado no tempo e no espaço, atento e colaborativo, com tremor leve, PA de 146/90 mmHg e FC de 98 bpm. Qual o diagnóstico mais provável?",
+  "alts": [
+   "Delirium tremens, que se caracteriza por alucinações nas primeiras 24 horas",
+   "Esquizofrenia de início tardio, desencadeada pelo estresse da internação",
+   "Encefalopatia de Wernicke, pela alteração da percepção no etilista crônico",
+   "Transtorno psicótico breve, pelo início súbito após estressor bem definido",
+   "Alucinose alcoólica, quadro precoce da abstinência com sensório preservado"
+  ],
+  "gab": 4,
+  "tema": "drogas",
+  "sub": "Alucinose alcoólica",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ASAM Clinical Practice Guideline on Alcohol Withdrawal Management, 2020",
+  "coment": "Pela linha do tempo da ASAM (2020), as alucinações da abstinência alcoólica surgem entre 12 e 24 horas após a última dose, com sensório claro, e costumam ceder em 24 a 48 horas: é a alucinose alcoólica. O delirium tremens começa mais tarde, entre 72 e 96 horas, e traz desorientação, desatenção, agitação e disautonomia importante. A orientação preservada, a atenção normal e o tempo de 20 horas afastam o delirium. Wernicke se apresenta com confusão, ataxia e alterações oculares, não com alucinação auditiva isolada.",
+  "porAlt": [
+   "O delirium tremens surge em 72 a 96 horas e cursa com desorientação, ausente aqui.",
+   "O quadro tem relação temporal clara com a interrupção do álcool, o que afasta psicose primária.",
+   "Wernicke se manifesta por confusão, ataxia e oftalmoparesia, e não por alucinação com sensório claro.",
+   "A causa evidente é a abstinência de álcool, que exclui o diagnóstico de psicótico breve.",
+   "Correta: alucinações entre 12 e 24 horas da última dose, com orientação e atenção preservadas."
+  ]
+ },
+ {
+  "q": "Homem de 39 anos, etilista pesado, teve uma crise tônico-clônica generalizada 18 horas após a última dose de álcool. Chega ao pronto-socorro consciente, com tremor, sudorese e CIWA-Ar de 16. Glicemia de 98 mg/dL, sem traumatismo craniano, sem sinal focal e sem história de epilepsia. Qual a conduta farmacológica mais adequada?",
+  "alts": [
+   "Benzodiazepínico de meia-vida longa, como diazepam, e tiamina",
+   "Fenitoína intravenosa em dose de ataque, mantida por seis meses",
+   "Haloperidol intramuscular para controlar o tremor e a agitação",
+   "Ácido valproico contínuo, por se tratar de primeira crise epiléptica",
+   "Observação sem fármaco, porque a crise foi única e já cessou"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Convulsão na abstinência alcoólica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "ASAM Clinical Practice Guideline on Alcohol Withdrawal Management, 2020",
+  "coment": "Convulsão de abstinência alcoólica costuma surgir entre 8 e 48 horas após a última dose, com pico perto de 24 horas, e define abstinência complicada. A ASAM (2020) trata com benzodiazepínico, de preferência de meia-vida longa como diazepam, que protege contra nova crise e contra progressão para delirium, em ambiente com monitorização. Fenitoína não previne nem trata a convulsão de abstinência, e não há indicação de anticonvulsivante crônico sem epilepsia. Antipsicótico isolado reduz o limiar convulsivo. Tiamina acompanha o tratamento do etilista.",
+  "porAlt": [
+   "Correta: benzodiazepínico de meia-vida longa é a base do tratamento da abstinência complicada por convulsão.",
+   "A fenitoína não é eficaz na convulsão de abstinência e não há epilepsia que justifique uso prolongado.",
+   "Antipsicótico isolado não trata abstinência e reduz o limiar convulsivo do paciente.",
+   "A crise foi provocada pela abstinência, e não se trata como primeira crise de epilepsia.",
+   "A convulsão define abstinência complicada, que exige benzodiazepínico e monitorização."
+  ]
+ },
+ {
+  "q": "Homem de 54 anos com transtorno por uso de álcool grave está abstinente há 10 dias após desintoxicação e deseja medicação para evitar recaída. Tem cirrose compensada com transaminases elevadas e usa morfina de liberação prolongada por dor oncológica. Creatinina e filtração glomerular normais. Qual fármaco é o mais adequado?",
+  "alts": [
+   "Naltrexona, por ter o maior grau de recomendação entre as opções",
+   "Dissulfiram, por favorecer a abstinência total no hepatopata crônico",
+   "Acamprosato, que não depende do fígado e não interfere com o opioide em uso",
+   "Diazepam de manutenção, para reduzir a fissura e prevenir a recaída",
+   "Sertralina, que trata o transtorno por uso de álcool sem comorbidade"
+  ],
+  "gab": 2,
+  "tema": "drogas",
+  "sub": "Escolha do fármaco anticraving",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Pharmacological Treatment of Patients With Alcohol Use Disorder, 2018",
+  "coment": "A APA (2018) recomenda naltrexona ou acamprosato no transtorno moderado a grave (grau 1B), e a escolha segue o órgão. A naltrexona é contraindicada na insuficiência hepática ou hepatite aguda e em quem usa ou vai precisar de opioide, pois bloqueia a analgesia e pode precipitar abstinência. O acamprosato não é metabolizado pelo fígado e só se evita com filtração abaixo de 30 mL/min. Dissulfiram é hepatotóxico; benzodiazepínico e antidepressivo não tratam o transtorno por uso de álcool isoladamente.",
+  "porAlt": [
+   "Naltrexona e acamprosato têm o mesmo grau, e a naltrexona é contraindicada com opioide e hepatopatia.",
+   "O dissulfiram é hepatotóxico e deve ser evitado em quem tem doença hepática significativa.",
+   "Correta: o acamprosato tem eliminação renal e não bloqueia receptores opioides.",
+   "A APA recomenda não usar benzodiazepínico fora da abstinência aguda ou de comorbidade que o indique.",
+   "Antidepressivo não trata o transtorno por uso de álcool sem outro transtorno que o justifique."
+  ]
+ },
+ {
+  "q": "Mulher de 35 anos relata que, no último ano, passou a beber mais do que pretendia, tentou reduzir sem conseguir, faltou ao trabalho várias vezes após episódios de embriaguez e sente forte desejo de beber ao fim do dia. Nega tolerância, sintomas de abstinência e outros problemas. Pelo DSM-5-TR, como se classifica o quadro?",
+  "alts": [
+   "Abuso de álcool, pela ausência de tolerância e de abstinência",
+   "Transtorno por uso de álcool moderado, com quatro critérios",
+   "Transtorno por uso de álcool leve, por ter só quatro critérios",
+   "Transtorno por uso de álcool grave, pela presença de fissura",
+   "Uso nocivo sem transtorno, por faltarem critérios fisiológicos"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Gravidade do transtorno por uso",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "O DSM-5 unificou abuso e dependência em transtorno por uso de substância, com onze critérios em 12 meses e gravidade pela contagem: 2 a 3 critérios, leve; 4 a 5, moderado; 6 ou mais, grave. A paciente tem quatro: usar mais do que pretendia, desejo ou esforço malsucedido de reduzir, falha em obrigações e fissura, que entrou como critério no DSM-5. Tolerância e abstinência não são obrigatórias para o diagnóstico.",
+  "porAlt": [
+   "O termo abuso foi abandonado pelo DSM-5, que adota um diagnóstico único com gradação.",
+   "Correta: quatro critérios em 12 meses classificam o transtorno como moderado.",
+   "Leve corresponde a 2 ou 3 critérios; quatro critérios já configuram o grau moderado.",
+   "A fissura é um critério como os demais e não define gravidade por si só.",
+   "Critérios fisiológicos não são obrigatórios: os quatro presentes já fecham o diagnóstico."
+  ]
+ },
+ {
+  "q": "Homem de 41 anos quer parar de beber. Toma cerca de 8 doses por dia, nunca teve convulsão nem delirium em abstinências anteriores, não usa outros sedativos e não tem doença clínica ou psiquiátrica grave. Mora com a esposa, que se compromete a acompanhá-lo. Doze horas após a última dose, a CIWA-Ar é de 8. Qual o local mais adequado para manejar a abstinência?",
+  "alts": [
+   "Internação em UTI, pelo risco de delirium tremens nas primeiras horas",
+   "Comunidade terapêutica, com internação de desintoxicação por 9 meses",
+   "Leito de hospital geral, obrigatório em toda abstinência de álcool",
+   "Ambulatório, com acompanhante e reavaliação diária por alguns dias",
+   "Internação involuntária, já que a abstinência compromete a crítica"
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Abstinência leve no ambulatório",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "ASAM Clinical Practice Guideline on Alcohol Withdrawal Management, 2020",
+  "coment": "A ASAM (2020) admite manejo ambulatorial da abstinência leve ou moderada quando não há fatores de risco para complicação: sem história de convulsão ou delirium de abstinência, sem doença clínica ou psiquiátrica grave, sem uso de outros sedativos e com suporte confiável. O seguimento inclui reavaliação diária por até cerca de 5 dias, com escala e fármaco guiado por sintomas se necessário. CIWA-Ar abaixo de 10 indica abstinência leve. Comunidade terapêutica não interna e não faz desintoxicação.",
+  "porAlt": [
+   "Sem fatores de risco e com abstinência leve, não há indicação de terapia intensiva.",
+   "Comunidade terapêutica não pode internar e não é local de desintoxicação.",
+   "A internação não é obrigatória: abstinência leve sem fatores de risco pode ser tratada fora do hospital.",
+   "Correta: abstinência leve, sem fatores de risco e com suporte familiar, pode ser manejada no ambulatório.",
+   "O paciente procura tratamento voluntariamente e não há critério para internação involuntária."
+  ]
+ },
+ {
+  "q": "Homem de 24 anos procura o pronto-socorro pela quarta vez no ano com náuseas e vômitos incoercíveis e dor abdominal difusa. Entre as crises fica bem. Fuma maconha várias vezes ao dia há 3 anos e conta que só alivia com banhos muito quentes e demorados. Exames laboratoriais e ultrassonografia sem alterações relevantes. Qual conduta tem melhor evidência para o episódio e para evitar recorrência?",
+  "alts": [
+   "Haloperidol no episódio agudo e suspensão do uso de cannabis",
+   "Ondansetrona contínua e manutenção do uso, para evitar abstinência",
+   "Inibidor de bomba de prótons e endoscopia digestiva de urgência",
+   "Benzodiazepínico diário e redução gradual da cannabis em 1 ano",
+   "Opioide para a dor abdominal e dieta zero até cessarem os vômitos"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Hiperêmese canabinoide",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "AGA Clinical Practice Update on Cannabinoid Hyperemesis Syndrome, 2024",
+  "coment": "Vômitos cíclicos estereotipados em usuário crônico e frequente de cannabis, com alívio por banhos quentes compulsivos e investigação negativa, caracterizam a síndrome de hiperêmese canabinoide. A atualização da AGA (2024) aponta haloperidol ou droperidol como as opções com melhor evidência no episódio agudo, com capsaicina tópica como alternativa, e antieméticos usuais costumam falhar. O tratamento definitivo é a abstinência de cannabis, e opioides devem ser evitados porque podem piorar náusea e vômito.",
+  "porAlt": [
+   "Correta: haloperidol trata a crise e a interrupção da cannabis evita novos episódios.",
+   "Antieméticos comuns respondem mal, e manter o uso perpetua a síndrome.",
+   "O quadro não sugere doença péptica, e a investigação já foi negativa.",
+   "Benzodiazepínico diário não é tratamento da síndrome, cuja cura é parar a cannabis.",
+   "Opioides podem piorar náusea e vômito e não tratam a causa do quadro."
+  ]
+ },
+ {
+  "q": "Homem de 30 anos chega ao pronto-socorro após usar grande quantidade de cocaína inalada, com FC de 150 bpm, PA de 170/100 mmHg e temperatura de 38,3 °C. Recebeu diazepam intravenoso, com melhora da agitação. O eletrocardiograma mostra taquicardia com QRS de 140 ms, sem supradesnivelamento de ST. Qual medida é indicada para o distúrbio de condução?",
+  "alts": [
+   "Metoprolol intravenoso, para reduzir logo a frequência cardíaca",
+   "Procainamida intravenosa, como antiarrítmico de primeira linha",
+   "Haloperidol intramuscular, para completar a sedação do paciente",
+   "Contenção mecânica prolongada, para evitar novo esforço físico",
+   "Bicarbonato de sódio intravenoso em bolus, guiado pelo QRS"
+  ],
+  "gab": 4,
+  "tema": "drogas",
+  "sub": "Cocaína e QRS largo",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "AHA Focused Update on Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning, 2023",
+  "coment": "Além do efeito simpaticomimético, a cocaína bloqueia canais de sódio cardíacos e pode alargar o QRS e causar arritmia ventricular. A AHA (2023) considera razoável bicarbonato de sódio na taquicardia de QRS largo por cocaína (classe 2a), com sedação por benzodiazepínico como base da agitação e da hiperadrenergia. Antiarrítmicos que bloqueiam sódio, como a procainamida, somam toxicidade. Betabloqueador não é a primeira medida, e contenção prolongada sem sedação piora hipertermia, acidose e rabdomiólise.",
+  "porAlt": [
+   "Betabloqueador é ponto controverso na intoxicação por cocaína e não trata o bloqueio de sódio.",
+   "Procainamida é antiarrítmico da classe IA e somaria bloqueio de canal de sódio.",
+   "A agitação já foi controlada com benzodiazepínico, e antipsicótico não corrige o QRS.",
+   "A AHA classifica a contenção prolongada no intoxicado por estimulante como prática danosa.",
+   "Correta: o bicarbonato reverte o bloqueio de canais de sódio e estreita o QRS."
+  ]
+ },
+ {
+  "q": "Mulher de 31 anos com transtorno por uso de heroína injetável há 4 anos teve duas overdoses revertidas com naloxona no último ano. Deseja tratamento e pergunta qual opção mais reduz o risco de morrer. Qual a conduta recomendada?",
+  "alts": [
+   "Desintoxicação rápida em 7 dias, seguida de abstinência sem fármaco",
+   "Naltrexona oral iniciada no mesmo dia, ainda em uso ativo de heroína",
+   "Agonista opioide de manutenção, como metadona ou buprenorfina",
+   "Benzodiazepínico de longa ação, para controlar fissura e ansiedade",
+   "Comunidade terapêutica por 1 ano, com abstinência como pré-requisito"
+  ],
+  "gab": 2,
+  "tema": "drogas",
+  "sub": "Tratamento do uso de opioides",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ASAM National Practice Guideline for the Treatment of Opioid Use Disorder, 2020",
+  "coment": "No transtorno por uso de opioides, o tratamento de manutenção com agonista (metadona) ou agonista parcial (buprenorfina) reduz uso, infecções e mortalidade, e a ASAM (2020) não define tempo máximo para ele. A desintoxicação isolada deixa a pessoa sem tolerância e aumenta o risco de morte por overdose na recaída. A naltrexona exige período livre de opioide para não precipitar abstinência. A ASAM recomenda ainda que paciente e familiares recebam naloxona e treinamento para usá-la.",
+  "porAlt": [
+   "A desintoxicação isolada reduz a tolerância e eleva o risco de overdose fatal na recaída.",
+   "A naltrexona em quem usa heroína precipita abstinência e exige período prévio sem opioide.",
+   "Correta: a manutenção com metadona ou buprenorfina é a conduta que reduz mortalidade.",
+   "Benzodiazepínico com opioide aumenta o risco de depressão respiratória e de morte.",
+   "Exigir abstinência e afastar o agonista de manutenção não reduz a mortalidade nesse transtorno."
+  ]
+ },
+ {
+  "q": "Adolescente de 16 anos fuma 12 cigarros por dia há 2 anos, acende o primeiro 20 minutos após acordar e quer parar. Não tem doenças e não usa medicações. Segundo o Protocolo Clínico e Diretrizes Terapêuticas do Tabagismo do Ministério da Saúde, qual a abordagem recomendada?",
+  "alts": [
+   "Bupropiona 150 mg duas vezes ao dia, como no adulto, por 12 semanas",
+   "Aconselhamento estruturado, de preferência em grupo, sem bupropiona",
+   "Adesivo de nicotina de 21 mg isolado, dispensando o aconselhamento",
+   "Aguardar a maioridade, pois o protocolo não prevê tratar adolescente",
+   "Encaminhamento ao CAPS AD, referência exclusiva para tabagismo"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Tabagismo na adolescência",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT do Tabagismo (Portaria Conjunta nº 10/2020)",
+  "coment": "O PCDT do Tabagismo (2020) orienta, para adolescentes, abordagem por aconselhamento estruturado, de preferência em grupo, e não recomenda bupropiona abaixo de 18 anos. Em todo fumante, o aconselhamento é a base; o fármaco, quando usado, é complemento e não o substitui. O tratamento do tabagismo é feito na atenção primária e nos serviços habilitados, sem necessidade de CAPS AD. Adiar o cuidado perde a oportunidade de intervenção em quem quer parar.",
+  "porAlt": [
+   "O PCDT não recomenda bupropiona para menores de 18 anos.",
+   "Correta: aconselhamento estruturado, de preferência em grupo, é a abordagem do PCDT para adolescentes.",
+   "O aconselhamento é sempre a base do tratamento e não é dispensado pelo uso de fármaco.",
+   "O protocolo prevê abordagem do adolescente, e adiar o cuidado perde a oportunidade de parar.",
+   "O tabagismo é tratado na atenção primária e nos serviços habilitados, não exclusivamente no CAPS AD."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos, etilista há 30 anos, foi tratado por encefalopatia de Wernicke há 6 meses. Hoje está atento e sem ataxia, mas não consegue reter informações novas: esquece em minutos o nome do médico e preenche as lacunas com relatos inventados, que conta com convicção. A memória para fatos antigos está relativamente preservada. Qual o diagnóstico?",
+  "alts": [
+   "Delirium tremens tardio, com flutuação e alucinações visuais",
+   "Doença de Alzheimer precoce, com afasia de evolução progressiva",
+   "Transtorno delirante, com delírios bem sistematizados e crônicos",
+   "Síndrome de Korsakoff, com amnésia anterógrada e confabulação típicas",
+   "Demência frontotemporal, com desinibição e mudança de caráter"
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Síndrome de Korsakoff",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "EFNS Guidelines for Diagnosis, Therapy and Prevention of Wernicke Encephalopathy, 2010",
+  "coment": "A síndrome de Korsakoff é a sequela crônica da deficiência de tiamina, frequentemente após encefalopatia de Wernicke não tratada ou tratada tardiamente. Caracteriza-se por amnésia anterógrada grave, com graus variáveis de amnésia retrógrada, e confabulação, com atenção e consciência preservadas. Associa-se a lesões de corpos mamilares e tálamo e costuma ser pouco reversível, o que reforça a tiamina parenteral precoce em todo etilista de risco. O paciente não tem flutuação nem desatenção, que sugeririam delirium.",
+  "porAlt": [
+   "O paciente está atento e sem flutuação, o que afasta delirium, e o tempo é incompatível.",
+   "Não há afasia nem curso progressivo típico, e a amnésia segue o Wernicke em etilista.",
+   "Confabulação para preencher lacunas de memória difere de delírio sistematizado.",
+   "Correta: amnésia anterógrada com confabulação após Wernicke define a síndrome de Korsakoff.",
+   "Não há desinibição nem mudança de personalidade como achado principal do quadro."
+  ]
+ },
+ {
+  "q": "Mulher de 22 anos, sem história psiquiátrica, desenvolve em 10 dias, após quadro gripal, insônia, agitação, ideias persecutórias e alucinações. Recebe haloperidol e evolui com rigidez, febre, movimentos involuntários de boca e língua e uma crise convulsiva. Qual hipótese deve ser investigada prioritariamente?",
+  "alts": [
+   "Encefalite anti-receptor NMDA, com líquor, EEG, RM e busca de teratoma",
+   "Esquizofrenia de início agudo, com indicação de trocar para clozapina",
+   "Transtorno psicótico breve, com estressor marcante e bom prognóstico",
+   "Síndrome neuroléptica maligna isolada, que explica todo o quadro clínico",
+   "Transtorno conversivo, pelas crises sem lesão estrutural aparente"
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Encefalite anti-NMDA",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "Primeiro episódio psicótico é diagnóstico de exclusão. Início rápido após pródromo viral, em mulher jovem, com insônia e agitação, evoluindo para discinesias orofaciais, convulsão, rigidez e disautonomia, e com intolerância ao antipsicótico, sugere encefalite autoimune anti-receptor NMDA, por vezes associada a teratoma de ovário. A investigação inclui líquor com pesquisa de anticorpos, eletroencefalograma, ressonância e imagem pélvica. A rigidez com febre após haloperidol pode ser confundida com síndrome neuroléptica maligna, mas não explica convulsão e discinesias.",
+  "porAlt": [
+   "Correta: psicose rápida com discinesias orofaciais, convulsão e intolerância ao antipsicótico sugere encefalite anti-NMDA.",
+   "Convulsão, discinesias e febre são bandeiras vermelhas que impedem rotular esquizofrenia sem investigar.",
+   "Sinais neurológicos e febre exigem excluir causa orgânica antes de qualquer transtorno primário.",
+   "A síndrome neuroléptica não explica as discinesias orofaciais nem a convulsão do quadro.",
+   "Convulsão em psicose aguda com febre pede investigação orgânica, e não rótulo funcional."
+  ]
+ },
+ {
+  "q": "Homem de 20 anos é internado com delírios persecutórios e alucinações auditivas após uma semana de uso diário de metanfetamina. A investigação clínica é normal. Recebe antipsicótico, mantém abstinência confirmada e, 6 semanas depois, segue com delírios e alucinações de mesma intensidade. Qual a interpretação mais adequada pelo DSM-5-TR?",
+  "alts": [
+   "A psicose segue induzida pela droga, porque o toxicológico inicial foi positivo para ela",
+   "O quadro é psicose induzida enquanto houver alucinação, qualquer que seja a duração",
+   "Transtorno psicótico breve, porque começou de modo súbito e dura menos de 6 meses",
+   "Persistência por mais de cerca de 1 mês em abstinência sugere transtorno psicótico independente",
+   "Delirium por estimulante, pois o uso recente da droga basta para explicar os sintomas"
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Psicose induzida por substância",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "Pelo DSM-5-TR, a psicose induzida por substância surge durante ou logo após intoxicação, abstinência ou exposição a fármaco capaz de produzi-la. Sugerem transtorno psicótico independente os sintomas que precederam o uso ou que persistem por um período substancial, cerca de um mês, após o fim da abstinência aguda ou da intoxicação grave. Por isso o diagnóstico inicial é provisório, e o paciente é reavaliado em abstinência. Toxicológico positivo não encerra a investigação; com 6 semanas de sintomas, o caso se aproxima de transtorno esquizofreniforme.",
+  "porAlt": [
+   "Toxicológico positivo mostra exposição, mas não explica sintomas que persistem semanas após a abstinência.",
+   "O DSM-5-TR usa a persistência de cerca de 1 mês em abstinência como pista de transtorno independente.",
+   "O psicótico breve dura menos de 1 mês e não se aplica a quadro de 7 semanas.",
+   "Correta: sintomas que persistem por cerca de 1 mês ou mais em abstinência sugerem transtorno independente.",
+   "Não há desatenção nem flutuação de consciência que indiquem delirium, e o uso cessou há semanas."
+  ]
+ },
+ {
+  "q": "Mulher de 34 anos tem, há 3 anos, episódios depressivos e maníacos que ocupam a maior parte do tempo de doença, sempre acompanhados de delírios e alucinações. A família relata que, entre os episódios de humor, ela já passou mais de 3 semanas com alucinações auditivas e humor normal. Não usa substâncias. Qual o diagnóstico mais provável?",
+  "alts": [
+   "Transtorno bipolar tipo I com psicose",
+   "Transtorno esquizoafetivo, tipo bipolar",
+   "Esquizofrenia com depressão pós-psicótica",
+   "Transtorno delirante, do tipo persecutório",
+   "Transtorno bipolar tipo II, ciclagem rápida"
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Transtorno esquizoafetivo",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "O DSM-5-TR define transtorno esquizoafetivo como período ininterrupto de doença em que um episódio de humor maior coincide com sintomas da fase ativa da esquizofrenia, com pelo menos duas semanas de delírios ou alucinações na ausência de episódio de humor, e sintomas de humor presentes na maior parte da duração total da doença. Episódios maníacos definem o tipo bipolar. No transtorno bipolar com psicose, os sintomas psicóticos ocorrem só dentro dos episódios de humor; a psicose fora deles é o dado que muda o diagnóstico.",
+  "porAlt": [
+   "No bipolar com psicose, delírios e alucinações ficam restritos aos episódios de humor.",
+   "Correta: há psicose por mais de 2 semanas sem episódio de humor, e humor na maior parte da doença.",
+   "Na esquizofrenia, os episódios de humor ocupam só pequena parte da doença, o que não ocorre aqui.",
+   "O transtorno delirante não tem alucinações proeminentes nem episódios maníacos.",
+   "O tipo II exige hipomania, nunca mania, e não explica a psicose fora dos episódios."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos está convicto, há 2 anos, de que a esposa o trai com o vizinho; vigia o celular dela e a segue até o trabalho, sem qualquer evidência. Trabalha normalmente como contador e mantém autocuidado. Não tem alucinações, discurso desorganizado ou sintomas negativos, não usa substâncias e não tem sintomas de humor. Qual o diagnóstico?",
+  "alts": [
+   "Esquizofrenia paranoide de início tardio",
+   "Transtorno de personalidade paranoide",
+   "Transtorno obsessivo-compulsivo grave",
+   "Transtorno psicótico breve com estressor",
+   "Transtorno delirante, do tipo ciumento"
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Transtorno delirante",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "O transtorno delirante exige um ou mais delírios por 1 mês ou mais, sem que o critério A da esquizofrenia tenha sido preenchido, com funcionamento pouco prejudicado fora do tema do delírio e comportamento não bizarro. O subtipo ciumento tem como tema central a infidelidade do parceiro. O transtorno de personalidade paranoide traz desconfiança difusa e persistente, mas sem delírio fixo. O psicótico breve dura menos de 1 mês, e no TOC a ideia intrusiva gera ritual e costuma ser reconhecida como excessiva.",
+  "porAlt": [
+   "Sem alucinações, desorganização ou sintomas negativos, não se preenche o critério A da esquizofrenia.",
+   "A personalidade paranoide é desconfiança difusa, sem uma crença delirante fixa e inabalável.",
+   "Não há obsessões com rituais, e a convicção do paciente é delirante.",
+   "O quadro dura 2 anos, e o psicótico breve tem menos de 1 mês de duração.",
+   "Correta: delírio único de infidelidade há mais de 1 mês, com funcionamento preservado."
+  ]
+ },
+ {
+  "q": "Mulher de 63 anos com esquizofrenia usa haloperidol há 15 anos. A filha nota movimentos involuntários de mastigação, protrusão da língua e piscar repetido, que pioram com ansiedade e somem durante o sono. Os sintomas psicóticos estão controlados. Qual a conduta mais adequada?",
+  "alts": [
+   "Associar biperideno, que reverte os movimentos tardios por ação anticolinérgica",
+   "Aumentar o haloperidol, que mascara os movimentos e estabiliza o quadro motor",
+   "Rever dose e necessidade, trocar o fármaco e usar inibidor do VMAT2 se moderada",
+   "Suspender o antipsicótico de forma abrupta, o que cura a discinesia em poucos dias",
+   "Tratar como distonia aguda, com prometazina intramuscular em dose única"
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Discinesia tardia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 2020",
+  "coment": "Movimentos orofaciais e coreicos após anos de antagonista dopaminérgico, mais comuns em idosos e mulheres, caracterizam discinesia tardia. A APA (2020) orienta rever a indicação e a dose, considerar troca para antipsicótico de menor risco e recomenda inibidor reversível do VMAT2 (valbenazina ou deutetrabenazina) nos casos moderados a graves ou incapacitantes. Anticolinérgicos não ajudam e podem piorar. Aumentar a dose apenas mascara, e a retirada abrupta pode piorar os movimentos e precipitar recaída psicótica.",
+  "porAlt": [
+   "Anticolinérgico trata distonia e parkinsonismo, mas não melhora e pode piorar a discinesia tardia.",
+   "Aumentar o bloqueio dopaminérgico mascara o sintoma e agrava o processo subjacente.",
+   "Correta: rever dose e indicação, considerar troca e usar inibidor do VMAT2 nos casos moderados a graves.",
+   "A retirada abrupta pode piorar os movimentos e desencadear recaída psicótica.",
+   "Distonia aguda ocorre em horas a dias do início, não após 15 anos de uso."
+  ]
+ },
+ {
+  "q": "Homem de 27 anos com esquizofrenia resistente iniciou clozapina há 3 semanas, com titulação rápida. Agora tem febre de 38 °C, taquicardia de 125 bpm em repouso, dispneia e dor torácica. Hemograma com neutrófilos de 4.200/mm³. Qual a principal hipótese e a conduta inicial?",
+  "alts": [
+   "Miocardite: dosar troponina e PCR, fazer ECG e ecocardiograma e suspender se confirmada",
+   "Agranulocitose: suspender a clozapina e iniciar antibiótico de amplo espectro de imediato",
+   "Efeito esperado da titulação: manter a dose e reavaliar a taquicardia em cerca de 30 dias",
+   "Síndrome serotoninérgica: suspender a clozapina e iniciar ciproeptadina por via oral",
+   "Taquicardia sinusal benigna: associar propranolol e seguir a titulação da clozapina"
+  ],
+  "gab": 0,
+  "tema": "psicoses",
+  "sub": "Clozapina e miocardite",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 2020",
+  "coment": "A miocardite por clozapina é típica das primeiras semanas de uso, sobretudo com titulação rápida, e se apresenta com febre, taquicardia persistente, dispneia, dor torácica e sinais de insuficiência cardíaca. A conduta é dosar troponina e marcadores inflamatórios, fazer eletrocardiograma e ecocardiograma e suspender a clozapina se confirmada, sem reexposição na maioria dos casos. Neutrófilos normais afastam agranulocitose. Taquicardia benigna é comum no início, mas febre com dor torácica e dispneia não pode ser atribuída a ela.",
+  "porAlt": [
+   "Correta: febre, taquicardia, dispneia e dor torácica no primeiro mês de clozapina sugerem miocardite.",
+   "Neutrófilos de 4.200/mm³ afastam agranulocitose como explicação do quadro.",
+   "Febre, dispneia e dor torácica não são efeito esperado e exigem investigação imediata.",
+   "A clozapina não é serotoninérgica, e o quadro não tem clônus nem hiper-reflexia.",
+   "Atribuir o quadro a taquicardia benigna atrasa o diagnóstico de miocardite potencialmente fatal."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos com esquizofrenia, estável há 2 anos com clozapina 400 mg/dia, fumava 30 cigarros por dia e parou abruptamente ao ser internado para cirurgia ortopédica em hospital livre de tabaco. No quinto dia apresenta sonolência excessiva, sialorreia intensa e uma crise convulsiva. Qual a explicação mais provável?",
+  "alts": [
+   "Abstinência de nicotina, que causa convulsão e sonolência no quinto dia",
+   "Queda do nível de clozapina por interação com anestésicos e analgésicos",
+   "Recaída psicótica com catatonia, pela ansiedade da internação hospitalar",
+   "Aumento do nível de clozapina pela perda da indução enzimática do tabaco",
+   "Síndrome neuroléptica maligna, desencadeada pela cirurgia e pelo jejum"
+  ],
+  "gab": 3,
+  "tema": "psicoses",
+  "sub": "Clozapina e tabagismo",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 2020",
+  "coment": "Os hidrocarbonetos da fumaça do tabaco induzem o CYP1A2, principal via de metabolismo da clozapina e da olanzapina. Quando o fumante para de fumar, como ocorre na internação em hospital livre de tabaco, a indução se desfaz em dias e o nível sérico da clozapina sobe, com sedação, sialorreia, hipotensão e convulsão dependente da dose. A conduta é dosar o nível quando disponível e reduzir a dose. A reposição de nicotina não induz o CYP1A2 e não evita o problema.",
+  "porAlt": [
+   "A abstinência de nicotina causa irritabilidade e ansiedade, não convulsão nem sedação intensa.",
+   "Os sintomas são de excesso, e não de falta, de clozapina.",
+   "Sonolência, sialorreia e convulsão são efeitos de toxicidade, não de recaída psicótica.",
+   "Correta: parar de fumar remove a indução do CYP1A2 e eleva o nível da clozapina.",
+   "Não há rigidez, hipertermia ou disautonomia que sustentem síndrome neuroléptica maligna."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos com transtorno bipolar tipo I, eutímica há 4 anos com lítio e litemia de 0,7 mEq/L, apresenta em exame de rotina TSH de 12 mUI/L e T4 livre baixo, com cansaço e ganho de peso. Qual a conduta mais adequada?",
+  "alts": [
+   "Suspender o lítio e trocar por valproato",
+   "Iniciar levotiroxina e manter o lítio",
+   "Reduzir o lítio à metade e repetir o TSH",
+   "Manter o lítio e repetir o TSH em 1 ano",
+   "Suspender o lítio e iniciar a lamotrigina"
+  ],
+  "gab": 1,
+  "tema": "psicoses",
+  "sub": "Lítio e hipotireoidismo",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE CG185 Bipolar disorder: assessment and management (atualizada em 2025)",
+  "coment": "O hipotireoidismo é efeito adverso frequente do lítio, sobretudo em mulheres, e por isso a função tireoidiana é dosada antes de iniciar e a cada 6 meses. Hipotireoidismo clínico se trata com levotiroxina, mantendo o lítio que controla a doença, já que trocar o estabilizador expõe a paciente a recaída. Reduzir a dose sem necessidade compromete a eficácia, e esperar um ano deixa sem tratamento um hipotireoidismo sintomático.",
+  "porAlt": [
+   "Trocar o estabilizador eficaz por causa do hipotireoidismo expõe a paciente a recaída sem necessidade.",
+   "Correta: trata-se o hipotireoidismo com levotiroxina e mantém-se o lítio que funciona.",
+   "Reduzir a dose compromete a eficácia e não trata o hipotireoidismo já instalado.",
+   "Há hipotireoidismo clínico sintomático, que não pode esperar um ano sem tratamento.",
+   "Não há motivo para retirar o lítio, e a lamotrigina protege pouco contra mania."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos usa lítio há 12 anos, com litemias na faixa terapêutica. Queixa-se de sede intensa e de urinar cerca de 5 litros por dia. Glicemia normal, sódio de 146 mEq/L e urina diluída, sem resposta à desmopressina. Qual o diagnóstico e o tratamento que permite, se necessário, manter o lítio?",
+  "alts": [
+   "Diabetes insípido central, com desmopressina",
+   "Polidipsia primária, com restrição de água",
+   "Secreção inapropriada de ADH, com tolvaptana",
+   "Nefrite intersticial aguda, com corticoide",
+   "Diabetes insípido nefrogênico, com amilorida"
+  ],
+  "gab": 4,
+  "tema": "psicoses",
+  "sub": "Lítio e diabetes insípido",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NICE CG185 Bipolar disorder: assessment and management (atualizada em 2025)",
+  "coment": "O lítio entra nas células do ducto coletor pelo canal epitelial de sódio e reduz a resposta ao hormônio antidiurético, causando diabetes insípido nefrogênico: poliúria, polidipsia, urina diluída, sódio normal alto e ausência de resposta à desmopressina. A amilorida bloqueia esse canal, reduz a entrada de lítio na célula e melhora a poliúria, permitindo manter o estabilizador quando ele é indispensável. A função renal entra no monitoramento semestral do lítio.",
+  "porAlt": [
+   "No diabetes insípido central há resposta à desmopressina, ausente aqui.",
+   "Na polidipsia primária o sódio tende a ser baixo, e o quadro tem causa clara no lítio.",
+   "A secreção inapropriada de ADH causa hiponatremia e urina concentrada, o oposto do caso.",
+   "Não há quadro agudo de nefrite, e o achado é de resistência tubular ao ADH.",
+   "Correta: poliúria sem resposta à desmopressina em usuário de lítio, tratada com amilorida."
+  ]
+ },
+ {
+  "q": "Mulher de 27 anos com transtorno bipolar tipo I, estável há 3 anos com valproato, conta na consulta da UBS que pretende engravidar no próximo ano. Usa preservativo de forma irregular. Qual a orientação mais adequada?",
+  "alts": [
+   "Manter o valproato na mesma dose, associando ácido fólico em dose alta já",
+   "Suspender hoje o valproato de forma abrupta e ficar sem estabilizador",
+   "Planejar com o psiquiatra a troca gradual antes de engravidar, com contracepção",
+   "Manter o valproato e só trocar por lítio se a gravidez for confirmada",
+   "Substituir por carbamazepina, opção de menor risco fetal na gestação"
+  ],
+  "gab": 2,
+  "tema": "psicoses",
+  "sub": "Valproato e planejamento de gravidez",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE CG185 Bipolar disorder: assessment and management (atualizada em 2025)",
+  "coment": "O valproato é o estabilizador de maior risco fetal, com defeitos de tubo neural, outras malformações e prejuízo do neurodesenvolvimento, e o ácido fólico não neutraliza esse risco. A NICE orienta não usá-lo em quem pode engravidar e retirá-lo de forma gradual, com planejamento antes da concepção e troca por lítio, lamotrigina ou antipsicótico atípico, com contracepção eficaz até a estabilização. A suspensão abrupta aumenta muito a recaída. A carbamazepina também é teratogênica e reduz a eficácia de anticoncepcionais hormonais.",
+  "porAlt": [
+   "O ácido fólico não anula o risco de malformação e de dano ao neurodesenvolvimento do valproato.",
+   "A retirada abrupta do estabilizador aumenta muito o risco de recaída.",
+   "Correta: troca gradual planejada antes da concepção, com contracepção eficaz até estabilizar.",
+   "Trocar só após a confirmação expõe o feto ao valproato na organogênese.",
+   "A carbamazepina também é teratogênica e interage com contraceptivos hormonais."
+  ]
+ },
+ {
+  "q": "Mulher de 39 anos com episódio depressivo moderado iniciou escitalopram 10 mg/dia há 4 semanas, com boa adesão e sem efeitos adversos. O PHQ-9 passou de 18 para 17. Não há ideação suicida, uso de álcool ou história de hipomania, e o TSH é normal. Qual a conduta mais adequada?",
+  "alts": [
+   "Manter a mesma dose até completar 12 semanas antes de mudar",
+   "Suspender o escitalopram e iniciar lítio isolado como reforço",
+   "Associar clonazepam contínuo, pois a falha indica ansiedade",
+   "Aumentar o escitalopram para 20 mg/dia e reavaliar em 2 a 4 semanas",
+   "Encaminhar ao CAPS, pois o quadro já é depressão resistente"
+  ],
+  "gab": 3,
+  "tema": "humor",
+  "sub": "Ausência de melhora precoce",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "CANMAT Clinical Guidelines for the Management of Major Depressive Disorder, 2023",
+  "coment": "A CANMAT 2023 chama de melhora precoce a queda de pelo menos 20% no escore em 2 a 4 semanas. Sem ela em 4 semanas de dose adequada, a chance de resposta em 8 a 12 semanas é baixa, e a conduta é otimizar: revisar adesão, diagnóstico e fatores associados e, se tudo estiver em ordem, aumentar a dose (escitalopram até 20 mg/dia) ou trocar. A queda de 18 para 17 é de cerca de 6%. Depressão resistente exige falha de dois tratamentos adequados, e benzodiazepínico não trata depressão.",
+  "porAlt": [
+   "Esperar 12 semanas sem melhora precoce prolonga o sofrimento com baixa chance de resposta.",
+   "Potencialização com lítio se faz em resposta parcial, associada ao antidepressivo, e não em monoterapia.",
+   "Benzodiazepínico não trata depressão e traz risco de dependência no uso contínuo.",
+   "Correta: sem queda de 20% em 4 semanas, otimiza-se a dose e reavalia-se em 2 a 4 semanas.",
+   "Resistência exige falha de dois tratamentos adequados, e a dose atual ainda não foi otimizada."
+  ]
+ },
+ {
+  "q": "Mulher de 79 anos, hipertensa em uso de hidroclorotiazida, iniciou sertralina 50 mg/dia há 3 semanas por depressão. A filha a leva à UPA por sonolência, confusão e uma queda em casa. Sódio sérico de 121 mEq/L, sem edema e sem sinais de desidratação. Qual o mecanismo mais provável?",
+  "alts": [
+   "Secreção inapropriada de ADH pelo ISRS, potencializada pelo tiazídico",
+   "Síndrome serotoninérgica com perda renal de sódio pelo antidepressivo",
+   "Insuficiência adrenal precipitada pela associação com o diurético",
+   "Polidipsia primária pela boca seca do efeito anticolinérgico",
+   "Hipotireoidismo induzido pela sertralina, com retenção hídrica"
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Hiponatremia por ISRS",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "CANMAT Clinical Guidelines for the Management of Major Depressive Disorder, 2023",
+  "coment": "Os ISRS podem causar hiponatremia por secreção inapropriada de hormônio antidiurético, sobretudo em idosos, nas primeiras semanas de uso e com diurético tiazídico associado, que também perde sódio. O quadro típico é sonolência, confusão, náusea e quedas, em paciente euvolêmico. A conduta é suspender o ISRS e o tiazídico, corrigir o sódio na velocidade segura e, ao retomar antidepressivo, dosar o sódio nas primeiras semanas. Sertralina tem efeito anticolinérgico mínimo e não causa hipotireoidismo.",
+  "porAlt": [
+   "Correta: o ISRS induz secreção inapropriada de ADH, e o tiazídico agrava a perda de sódio no idoso.",
+   "A síndrome serotoninérgica cursa com clônus e hipertermia, não com hiponatremia isolada.",
+   "Não há hipotensão, hipercalemia ou outros sinais de insuficiência adrenal.",
+   "A sertralina tem efeito anticolinérgico mínimo, e o quadro tem causa farmacológica direta.",
+   "A sertralina não causa hipotireoidismo, e a hiponatremia é explicada pelo fármaco e pelo diurético."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos, com depressão moderada e sem cardiopatia conhecida, usa citalopram 20 mg/dia há 6 semanas, com resposta parcial e boa tolerância. O residente propõe aumentar a dose para 40 mg/dia. Qual a orientação correta?",
+  "alts": [
+   "Aumentar para 40 mg/dia, dose máxima usual também no idoso",
+   "Aumentar para 60 mg/dia, pois o idoso metaboliza mais rápido",
+   "Não aumentar, porque o citalopram eleva a pressão no idoso",
+   "Aumentar para 40 mg/dia e somar tramadol como potencializador",
+   "Não aumentar: acima de 60 anos o teto é 20 mg/dia, pelo QT"
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Citalopram no idoso",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "CANMAT Clinical Guidelines for the Management of Major Depressive Disorder, 2023",
+  "coment": "O citalopram prolonga o intervalo QT de forma dependente da dose. Por isso a dose máxima é de 40 mg/dia no adulto e de 20 mg/dia acima de 60 anos, na hepatopatia e com inibidores do CYP2C19, como consta das recomendações seguidas pela CANMAT 2023. Com resposta parcial e boa tolerância, alternativas são potencializar, associar psicoterapia ou trocar para outro antidepressivo de primeira linha, como sertralina ou escitalopram em dose adequada. Tramadol com ISRS aumenta o risco de síndrome serotoninérgica.",
+  "porAlt": [
+   "Acima de 60 anos o teto do citalopram é 20 mg/dia, não 40 mg/dia.",
+   "O idoso metaboliza mais devagar, e 60 mg/dia excede o máximo em qualquer idade.",
+   "A limitação do citalopram é o prolongamento do QT, e não a elevação da pressão.",
+   "Tramadol com ISRS aumenta o risco de síndrome serotoninérgica e não é potencializador.",
+   "Correta: o teto de 20 mg/dia acima de 60 anos decorre do prolongamento do QT."
+  ]
+ },
+ {
+  "q": "Mulher de 41 anos diz que se sente desanimada na maior parte dos dias há pelo menos 3 anos, com baixa energia, autoestima baixa e desesperança. Nunca ficou mais de um mês sem esses sintomas nesse período. Trabalha e cuida dos filhos, sem ideação suicida, episódios de euforia ou uso de substâncias. Qual o diagnóstico mais provável?",
+  "alts": [
+   "Transtorno de adaptação com humor deprimido",
+   "Ciclotimia, pela cronicidade dos sintomas",
+   "Transtorno depressivo persistente (distimia)",
+   "Transtorno de personalidade dependente",
+   "Transtorno de ansiedade generalizada leve"
+  ],
+  "gab": 2,
+  "tema": "humor",
+  "sub": "Transtorno depressivo persistente",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "O transtorno depressivo persistente exige humor deprimido na maior parte do dia, na maioria dos dias, por pelo menos 2 anos no adulto (1 ano em criança e adolescente), com dois ou mais de seis sintomas: alteração de apetite, alteração do sono, baixa energia, baixa autoestima, dificuldade de concentração e desesperança, sem período livre maior que 2 meses. O DSM-5 reuniu nele a antiga distimia e a depressão maior crônica. A ciclotimia exige períodos hipomaníacos, ausentes aqui. Responde melhor à combinação de psicoterapia e antidepressivo.",
+  "porAlt": [
+   "O transtorno de adaptação surge após estressor e não dura anos sem relação com ele.",
+   "A ciclotimia exige alternância de sintomas hipomaníacos e depressivos, e não há euforia.",
+   "Correta: humor deprimido por mais de 2 anos, com três sintomas e sem período livre maior que 2 meses.",
+   "O quadro é de humor, sem padrão de submissão e necessidade excessiva de cuidado.",
+   "O núcleo é o humor deprimido, e não a preocupação excessiva e difusa."
+  ]
+ },
+ {
+  "q": "Homem de 30 anos procura a UBS no terceiro episódio depressivo, com anedonia, hipersonia e aumento do apetite. A esposa relata que, há 1 ano, ele passou 5 dias dormindo 3 horas por noite sem cansaço, falando sem parar, cheio de planos, e gastou as economias em um carro. Qual a conduta mais adequada?",
+  "alts": [
+   "Iniciar fluoxetina 20 mg/dia, pois o episódio atual é depressivo típico",
+   "Evitar antidepressivo isolado e encaminhar com hipótese de bipolaridade",
+   "Iniciar sertralina e reavaliar a hipótese de bipolaridade em 6 meses",
+   "Associar dois antidepressivos pela recorrência de episódios graves",
+   "Indicar só psicoterapia, por se tratar de depressão leve recorrente"
+  ],
+  "gab": 1,
+  "tema": "humor",
+  "sub": "Depressão com hipomania prévia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "O critério E do episódio depressivo maior exige que nunca tenha havido mania ou hipomania. O relato da esposa descreve ao menos hipomania (4 dias ou mais de redução da necessidade de sono, fala acelerada, planos e gastos impulsivos), o que muda o diagnóstico para transtorno bipolar. Hipersonia, hiperfagia e episódios recorrentes reforçam a hipótese. Antidepressivo isolado pode induzir virada e ciclagem rápida; o caso vai para estabilizador ou antipsicótico com indicação na depressão bipolar, com avaliação psiquiátrica.",
+  "porAlt": [
+   "O episódio atual ocorre em quem já teve hipomania, e o antidepressivo isolado arrisca virada.",
+   "Correta: a história de hipomania indica bipolaridade, e antidepressivo isolado deve ser evitado.",
+   "Adiar a revisão diagnóstica expõe o paciente a virada maníaca e ciclagem rápida.",
+   "Somar antidepressivos aumenta ainda mais o risco de virada em quem tem bipolaridade.",
+   "Hipersonia e prejuízo em terceiro episódio não descrevem depressão leve, e o problema é a bipolaridade."
+  ]
+ },
+ {
+  "q": "Estudante de 19 anos adiou por anos exames e vacinas porque, ao ver sangue ou agulhas, sente medo intenso e já desmaiou duas vezes durante coletas. Reconhece que o medo é exagerado e evita qualquer procedimento. Não tem outros sintomas psiquiátricos. Qual o tratamento de primeira linha?",
+  "alts": [
+   "Benzodiazepínico contínuo por pelo menos 12 meses",
+   "Propranolol diário como tratamento de manutenção",
+   "Antipsicótico atípico em dose baixa à noite",
+   "Sertralina por 1 ano, sem abordagem psicoterápica",
+   "Terapia de exposição gradual ao estímulo temido"
+  ],
+  "gab": 4,
+  "tema": "humor",
+  "sub": "Fobia específica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "Medo desproporcional e evitação de sangue, injeção ou ferimento por 6 meses ou mais, com prejuízo, caracterizam fobia específica do tipo sangue-injeção-ferimento, a única em que é comum a síncope vasovagal. O tratamento de primeira linha é a terapia de exposição gradual, e nesse subtipo se associa a técnica de tensão aplicada, que eleva a pressão e previne o desmaio. Fármacos têm papel pequeno; benzodiazepínico contínuo traz dependência e atrapalha a exposição.",
+  "porAlt": [
+   "Benzodiazepínico contínuo não trata a fobia, causa dependência e prejudica a exposição.",
+   "Propranolol não trata fobia específica e pode até favorecer a resposta vasovagal desse subtipo.",
+   "Antipsicótico não tem indicação em fobia específica.",
+   "ISRS tem papel pequeno na fobia específica, e a psicoterapia de exposição é a base.",
+   "Correta: exposição gradual, com tensão aplicada no subtipo sangue-injeção, é a primeira linha."
+  ]
+ },
+ {
+  "q": "Gestante de 28 anos, com 8 semanas, tem depressão moderada recorrente e está em remissão há 5 meses com sertralina 100 mg/dia, depois de duas recaídas quando tentou parar. Pergunta se deve suspender o remédio por causa da gravidez. Qual a orientação mais adequada?",
+  "alts": [
+   "Manter a sertralina, discutindo riscos e benefícios com a paciente",
+   "Suspender a sertralina até o fim do primeiro trimestre e então voltar",
+   "Trocar por paroxetina, mais segura no início da gestação que a atual",
+   "Suspender a sertralina e usar só benzodiazepínico se for necessário",
+   "Reduzir a dose à metade, pois a gravidez diminui a necessidade dela"
+  ],
+  "gab": 0,
+  "tema": "humor",
+  "sub": "Antidepressivo na gestação",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "ACOG Clinical Practice Guideline No. 5 (saúde mental na gestação e no puerpério), 2023",
+  "coment": "O ACOG (2023) recomenda não suspender nem negar medicação psiquiátrica apenas por causa da gestação e coloca os ISRS como primeira linha farmacológica, com sertralina e escitalopram entre os preferidos. Quem já responde bem a um antidepressivo em geral o mantém, porque a suspensão expõe a mãe à recaída e a troca expõe o feto a dois fármacos. Paroxetina não é preferida, por associação com malformação cardíaca, e o benzodiazepínico deve ser evitado ou usado com parcimônia. A decisão é compartilhada.",
+  "porAlt": [
+   "Correta: com recaídas prévias e boa resposta, mantém-se o ISRS após decisão compartilhada.",
+   "Suspender no primeiro trimestre expõe a paciente com recaídas prévias a novo episódio.",
+   "A paroxetina não é preferida na gestação, e trocar expõe o feto a mais um fármaco.",
+   "Benzodiazepínico não trata depressão e deve ser evitado ou usado com parcimônia na gestação.",
+   "A depuração de alguns fármacos aumenta na gestação, e reduzir a dose sem motivo arrisca recaída."
+  ]
+ },
+ {
+  "q": "Homem de 36 anos procura a UBS com humor deprimido, menos prazer nas atividades, sono irregular e cansaço há 4 semanas, após mudança de cidade. Mantém o trabalho com algum esforço. PHQ-9 de 9, sem ideação suicida, sem história de mania e com exames clínicos normais. Prefere não tomar remédio. Qual a conduta inicial mais adequada?",
+  "alts": [
+   "Fluoxetina 20 mg/dia, indicada em todo episódio depressivo",
+   "Encaminhamento ao CAPS para seguimento com psiquiatra",
+   "Clonazepam à noite até a melhora do sono e do humor",
+   "Psicoterapia ou autoajuda guiada, com reavaliação pelo PHQ-9",
+   "Alta com orientação, pois quadros leves dispensam seguimento"
+  ],
+  "gab": 3,
+  "tema": "humor",
+  "sub": "Depressão leve na APS",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "NICE NG222 Depression in adults: treatment and management, 2022",
+  "coment": "Na depressão leve, a NICE (NG222, 2022) não oferece antidepressivo de rotina, salvo preferência informada do paciente, e propõe primeiro intervenções psicológicas, como autoajuda guiada, terapia cognitivo-comportamental individual ou em grupo e atividade física estruturada. A CANMAT 2023 aceita exercício supervisionado em monoterapia. O seguimento com PHQ-9 a cada 2 a 4 semanas acompanha a evolução. O cuidado é da atenção primária; o CAPS é prioritário para transtornos graves e persistentes.",
+  "porAlt": [
+   "Antidepressivo não é rotina na depressão leve, sobretudo quando o paciente prefere não usar.",
+   "Depressão leve sem risco é cuidado da atenção primária, e não do CAPS.",
+   "Benzodiazepínico não trata depressão e traz risco de dependência.",
+   "Correta: intervenção psicológica de baixa intensidade e reavaliação com PHQ-9 são o primeiro passo.",
+   "Depressão leve exige seguimento ativo, porque pode se agravar ou persistir."
+  ]
+ },
+ {
+  "q": "Homem de 32 anos com esquizofrenia está gravemente agitado no pronto-socorro e recusou medicação oral. Recebeu olanzapina 10 mg intramuscular há 20 minutos, com efeito parcial. O residente sugere aplicar midazolam 15 mg intramuscular agora. Segundo a diretriz brasileira de agitação psicomotora, qual a orientação?",
+  "alts": [
+   "Aplicar o midazolam, associação com grau A de recomendação da ABP",
+   "Usar midazolam intravenoso, via preferida por agir mais rápido",
+   "Evitar a associação, pelo risco de hipotensão e depressão respiratória",
+   "Associar haloperidol oral, misturando vias para acelerar a sedação",
+   "Manter só contenção mecânica, sem nova medicação, por 12 horas"
+  ],
+  "gab": 2,
+  "tema": "emergpsiq",
+  "sub": "Olanzapina IM e benzodiazepínico",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Diretrizes brasileiras para o manejo da agitação psicomotora (ABP), 2019",
+  "coment": "A diretriz brasileira de agitação psicomotora (ABP, 2019) desaconselha associar olanzapina intramuscular a benzodiazepínico parenteral, pelo risco de hipotensão, bradicardia e depressão respiratória, maior no intoxicado por álcool. Também desaconselha a via intravenosa fora de ambiente com monitorização e a mistura de vias, e sugere repetir o mesmo fármaco até a dose máxima antes de trocar. A associação de haloperidol com midazolam ou prometazina é que tem grau A. Contenção não substitui a sedação no paciente que segue lutando.",
+  "porAlt": [
+   "O grau A cabe a haloperidol com midazolam ou prometazina, não à olanzapina com benzodiazepínico.",
+   "A via intravenosa é desaconselhada fora de monitorização contínua pelo risco respiratório.",
+   "Correta: olanzapina intramuscular com benzodiazepínico parenteral deve ser evitada.",
+   "A diretriz desaconselha misturar vias, porque os picos de efeito não coincidem.",
+   "Contenção prolongada sem sedação aumenta o risco de lesão e não é conduta recomendada."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos é trazido ao pronto-socorro agitado e agressivo após ingerir grande quantidade de cachaça. Tem hálito etílico, fala pastosa, frequência respiratória de 12 irpm e SpO2 de 94%. Glicemia capilar de 102 mg/dL e sem sinais de trauma. A desescalada verbal falhou. Qual a opção farmacológica mais segura?",
+  "alts": [
+   "Midazolam intravenoso em dose alta, para sedação rápida e profunda",
+   "Diazepam intravenoso repetido até o sono, como na abstinência",
+   "Olanzapina intramuscular somada a midazolam intramuscular",
+   "Flumazenil intravenoso, para reverter o efeito sedativo do álcool",
+   "Antipsicótico em dose baixa, como haloperidol, com vigilância"
+  ],
+  "gab": 4,
+  "tema": "emergpsiq",
+  "sub": "Agitação na intoxicação alcoólica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Diretrizes brasileiras para o manejo da agitação psicomotora (ABP), 2019",
+  "coment": "Na agitação por intoxicação por depressor do sistema nervoso central, como o álcool, a ABP (2019) pede cautela com benzodiazepínico, que soma depressão respiratória, e considera o antipsicótico em dose baixa a opção mais segura, com monitorização. A situação é diferente da abstinência alcoólica, em que o benzodiazepínico é o tratamento. Olanzapina com benzodiazepínico parenteral é contraindicada, sobretudo no alcoolizado. Flumazenil não reverte álcool e pode precipitar convulsão. Tiamina e investigação de trauma completam o cuidado.",
+  "porAlt": [
+   "Benzodiazepínico em dose alta soma depressão respiratória à do álcool.",
+   "Benzodiazepínico em doses repetidas é conduta da abstinência, não da intoxicação aguda.",
+   "A associação é contraindicada, sobretudo no paciente intoxicado por álcool.",
+   "Flumazenil antagoniza benzodiazepínico, não o álcool, e pode precipitar convulsão.",
+   "Correta: na intoxicação por depressor, antipsicótico em dose baixa com vigilância é mais seguro."
+  ]
+ },
+ {
+  "q": "Mulher de 36 anos é trazida ao pronto-socorro agitada, com temperatura de 38,4 °C, FC de 128 bpm, pupilas midriáticas, pele úmida com sudorese intensa, diarreia, tremor, hiper-reflexia e clônus induzível nos membros inferiores. Qual achado do exame mais ajuda a diferenciar o quadro de uma intoxicação anticolinérgica?",
+  "alts": [
+   "Midríase com taquicardia sinusal",
+   "Sudorese com clônus e hiper-reflexia",
+   "Taquicardia com hipertermia leve",
+   "Alteração do estado mental com agitação",
+   "Febre com pupilas pouco reativas"
+  ],
+  "gab": 1,
+  "tema": "emergpsiq",
+  "sub": "Serotoninérgica x anticolinérgica",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Critérios de Hunter para toxicidade serotoninérgica (Dunkley et al., QJM), 2003",
+  "coment": "Síndrome serotoninérgica e intoxicação anticolinérgica compartilham agitação, taquicardia, hipertermia e midríase. Separam-nas a pele e o exame neuromuscular: na serotoninérgica há sudorese, diarreia, tremor, hiper-reflexia e clônus, mais nos membros inferiores, que fecham os critérios de Hunter; na anticolinérgica a pele é seca, quente e vermelha, há íleo e retenção urinária, e os reflexos são normais. O tratamento serotoninérgico inclui suspensão dos agentes, benzodiazepínico e ciproeptadina nos casos moderados a graves.",
+  "porAlt": [
+   "Midríase e taquicardia ocorrem nas duas síndromes e não as diferenciam.",
+   "Correta: sudorese, clônus e hiper-reflexia são próprios da síndrome serotoninérgica.",
+   "Taquicardia e febre aparecem tanto na serotoninérgica quanto na anticolinérgica.",
+   "Agitação e alteração mental são comuns às duas e não ajudam a separá-las.",
+   "Febre e alteração pupilar ocorrem nas duas, sem valor discriminativo."
+  ]
+ },
+ {
+  "q": "Homem de 26 anos com esquizofrenia teve três tentativas de suicídio graves nos últimos 2 anos, apesar de boa adesão à risperidona e, antes, à olanzapina, em doses adequadas. Mantém ideação suicida e alucinações de comando. Qual intervenção farmacológica tem evidência de reduzir o comportamento suicida nesse contexto?",
+  "alts": [
+   "Clozapina, com hemograma seriado",
+   "Haloperidol de depósito mensal",
+   "Lítio isolado, sem antipsicótico",
+   "Associar dois antipsicóticos típicos",
+   "Fluoxetina associada à risperidona"
+  ],
+  "gab": 0,
+  "tema": "emergpsiq",
+  "sub": "Clozapina e suicídio",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 2020",
+  "coment": "A APA (2020) recomenda clozapina na esquizofrenia resistente, definida pela falha de dois antipsicóticos adequados, e também quando o risco de suicídio ou o comportamento suicida persiste apesar de outros tratamentos (grau 1B). É o antipsicótico com evidência de redução do comportamento suicida. O uso exige hemograma semanal nas 18 primeiras semanas no Brasil e mensal depois. O lítio tem esse efeito nos transtornos do humor, não como monoterapia na esquizofrenia.",
+  "porAlt": [
+   "Correta: a clozapina reduz o comportamento suicida na esquizofrenia e é indicada aqui pela APA.",
+   "Depósito melhora adesão, mas a adesão já é boa, e não há efeito antissuicida demonstrado.",
+   "O lítio reduz suicídio nos transtornos do humor, e não substitui o antipsicótico na esquizofrenia.",
+   "Associar típicos aumenta efeitos adversos sem benefício demonstrado sobre o suicídio.",
+   "Não há depressão descrita, e o antidepressivo não trata o risco ligado à psicose."
+  ]
+ },
+ {
+  "q": "Mulher de 22 anos vai receber alta do pronto-socorro após ingerir 10 comprimidos de paracetamol, já tratada, sem lesão hepática e sem intenção suicida persistente. Vai morar com a mãe nos próximos dias. A equipe elabora com ela um plano de segurança. Qual elemento faz parte desse plano?",
+  "alts": [
+   "Contrato de não suicídio assinado, que dispensa novo retorno",
+   "Escore de escala de risco, que define se ela pode receber alta",
+   "Antidepressivo para reduzir especificamente nova autolesão",
+   "Sinais de alerta, contatos de ajuda e retirada de meios letais",
+   "Proibição de contato com amigos até a próxima consulta marcada"
+  ],
+  "gab": 3,
+  "tema": "emergpsiq",
+  "sub": "Plano de segurança após autolesão",
+  "cenario": "emg",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "NICE NG225 Self-harm: assessment, management and preventing recurrence, 2022",
+  "coment": "O plano de segurança é escrito com o paciente, fica com ele e inclui sinais de alerta da crise, estratégias próprias de enfrentamento, pessoas e lugares que distraem, pessoas a quem pedir ajuda, serviços de crise (CAPS, UBS, SAMU 192, CVV 188) e a retirada ou guarda de meios letais. A NICE NG225 (2022) não usa escalas para decidir alta e não oferece fármaco como intervenção específica para reduzir autolesão. Contratos de não suicídio não têm eficácia e não substituem seguimento próximo.",
+  "porAlt": [
+   "Contrato de não suicídio não tem eficácia e não substitui retorno breve e busca ativa.",
+   "A NICE NG225 desaconselha usar escalas de risco para decidir alta ou tratamento.",
+   "A NICE não usa fármaco como intervenção específica para reduzir nova autolesão.",
+   "Correta: sinais de alerta, contatos de ajuda e restrição de meios letais compõem o plano.",
+   "Isolar a paciente reduz o apoio social, que é fator de proteção no plano."
+  ]
+ },
+ {
+  "q": "Homem de 30 anos com síndrome neuroléptica maligna após haloperidol intramuscular está na UTI com temperatura de 41,5 °C, rigidez generalizada, CK de 45.000 U/L e rebaixamento. O antipsicótico foi suspenso, e ele já recebe resfriamento externo, hidratação e benzodiazepínico, sem queda da temperatura. Qual medida é indicada?",
+  "alts": [
+   "Dipirona e paracetamol em doses altas, repetidos a cada 4 horas",
+   "Succinilcolina na intubação, por ter início de ação mais rápido",
+   "Intubação com bloqueador não despolarizante e uso de dantroleno",
+   "Reintroduzir haloperidol em dose baixa para controlar a agitação",
+   "Ciproeptadina por sonda, antídoto específico dessa hipertermia"
+  ],
+  "gab": 2,
+  "tema": "emergpsiq",
+  "sub": "Hipertermia grave na SNM",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "SBTox/ABRACIT. Recomendações gerais de indicações, uso e estoque de antídotos, 2025",
+  "coment": "Na síndrome neuroléptica maligna grave, a febre é de origem muscular, e antitérmicos não agem. Com hipertermia refratária ao resfriamento e à sedação, indica-se intubação com paralisia por bloqueador neuromuscular não despolarizante, que interrompe a produção de calor, e dantroleno intravenoso (2 a 3 mg/kg, repetido), com bromocriptina como alternativa. Succinilcolina é evitada pelo risco de hipercalemia na rabdomiólise. Ciproeptadina é tratamento da síndrome serotoninérgica, e o antipsicótico não deve ser reintroduzido na fase aguda.",
+  "porAlt": [
+   "Na hipertermia de origem muscular, antitérmicos não reduzem a temperatura.",
+   "A succinilcolina pode causar hipercalemia grave na rabdomiólise e deve ser evitada.",
+   "Correta: paralisia com bloqueador não despolarizante e dantroleno tratam a hipertermia refratária.",
+   "Reintroduzir antagonista dopaminérgico na fase aguda agrava a síndrome.",
+   "A ciproeptadina é usada na síndrome serotoninérgica, e não na neuroléptica maligna."
+  ]
+ },
+ {
+  "q": "Menino de 9 anos tem diagnóstico de TDAH, apresentação combinada, com prejuízo escolar e familiar. A mãe pergunta na UBS se pode retirar metilfenidato pelo SUS. Segundo o Protocolo Clínico e Diretrizes Terapêuticas do TDAH do Ministério da Saúde, qual o tratamento ofertado no SUS?",
+  "alts": [
+   "Metilfenidato de liberação imediata, entregue na farmácia básica municipal",
+   "Tratamento não medicamentoso, com intervenção comportamental, pais e a escola",
+   "Lisdexanfetamina pelo componente especializado, com laudo do psiquiatra",
+   "Risperidona em dose baixa, escolha do SUS para os sintomas centrais do TDAH",
+   "Metilfenidato só após os 12 anos, com notificação de receita do tipo B"
+  ],
+  "gab": 1,
+  "tema": "psiqinf",
+  "sub": "TDAH no SUS",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT do TDAH (Portaria Conjunta SAES/SCTIE nº 14/2022)",
+  "coment": "O PCDT do TDAH (Portaria Conjunta nº 14/2022) recomenda no SUS apenas tratamento não medicamentoso: intervenção cognitivo-comportamental, orientação aos pais e à família e intervenções no ambiente escolar. A Conitec avaliou metilfenidato e lisdexanfetamina para 6 a 17 anos e decidiu não incorporá-los, por evidência de baixa qualidade e alto impacto orçamentário. O metilfenidato tem registro e indicação a partir dos 6 anos, com notificação de receita A (amarela), mas não é fornecido pelo SUS para TDAH.",
+  "porAlt": [
+   "O metilfenidato não integra as listas de dispensação do SUS para o TDAH.",
+   "Correta: o PCDT de 2022 prevê no SUS só o tratamento não medicamentoso.",
+   "A lisdexanfetamina também foi avaliada e não incorporada pela Conitec.",
+   "Antipsicótico não trata os sintomas centrais do TDAH.",
+   "O metilfenidato é indicado a partir dos 6 anos e exige notificação de receita A, não B."
+  ]
+ },
+ {
+  "q": "Menino de 6 anos é levado à UBS porque a professora o acha desatento, agitado e irritado na sala desde o início do ano. Os pais notam sonolência e mau humor pela manhã, ronco alto quase todas as noites, pausas respiratórias e respiração bucal. Ao exame, tonsilas palatinas muito aumentadas. Qual a conduta mais adequada?",
+  "alts": [
+   "Fechar o diagnóstico de TDAH e iniciar metilfenidato pela manhã",
+   "Aplicar a SNAP-IV na escola e, se positiva, confirmar o TDAH",
+   "Prescrever melatonina e reavaliar o comportamento em 6 meses",
+   "Investigar apneia obstrutiva do sono antes de rotular como TDAH",
+   "Encaminhar ao CAPS infantojuvenil por transtorno de conduta"
+  ],
+  "gab": 3,
+  "tema": "psiqinf",
+  "sub": "TDAH e apneia do sono",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "O diagnóstico de TDAH é clínico e exige sintomas por 6 meses, início antes dos 12 anos, presença em dois ou mais ambientes, prejuízo e que o quadro não seja mais bem explicado por outra condição. Ronco, pausas respiratórias, respiração bucal, sonolência matinal e hipertrofia tonsilar sugerem apneia obstrutiva do sono, causa clássica de desatenção, hiperatividade e irritabilidade na criança. Investigar e tratar o distúrbio do sono vem antes de qualquer rótulo ou estimulante. Escalas ajudam a documentar, mas não fazem o diagnóstico.",
+  "porAlt": [
+   "O quadro tem explicação alternativa provável, que precisa ser investigada antes do estimulante.",
+   "Escalas como a SNAP-IV documentam sintomas, mas não confirmam o diagnóstico sozinhas.",
+   "Melatonina não trata apneia obstrutiva e atrasa o diagnóstico da causa.",
+   "Correta: os sinais de apneia obstrutiva explicam a desatenção e devem ser investigados primeiro.",
+   "Não há padrão de violação de regras ou de direitos que sugira transtorno de conduta."
+  ]
+ },
+ {
+  "q": "Mãe de um menino de 5 anos com diagnóstico de transtorno do espectro autista pergunta à médica de família se o filho tem os mesmos direitos legais das pessoas com deficiência, inclusive acompanhante especializado em classe comum quando necessário. O que estabelece a Lei 12.764/2012?",
+  "alts": [
+   "A pessoa com TEA é considerada pessoa com deficiência para todos os efeitos legais",
+   "A pessoa com TEA só é equiparada à deficiência se tiver deficiência intelectual",
+   "Os direitos dependem de laudo definitivo, vedado o diagnóstico precoce provisório",
+   "A equiparação vale só para benefícios de saúde, excluída a educação escolar",
+   "A pessoa com TEA tem direito a acompanhante apenas em escola especial separada"
+  ],
+  "gab": 0,
+  "tema": "psiqinf",
+  "sub": "Lei Berenice Piana",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Lei 12.764/2012 (Política Nacional de Proteção dos Direitos da Pessoa com TEA)",
+  "coment": "A Lei 12.764/2012, conhecida como Lei Berenice Piana, instituiu a política nacional de proteção dos direitos da pessoa com transtorno do espectro autista e estabelece que ela é considerada pessoa com deficiência para todos os efeitos legais, independentemente de deficiência intelectual. Garante diagnóstico precoce, ainda que não definitivo, atendimento multiprofissional, acesso a medicamentos e nutrição e, em casos de comprovada necessidade, acompanhante especializado na classe comum do ensino regular.",
+  "porAlt": [
+   "Correta: a lei equipara a pessoa com TEA à pessoa com deficiência para todos os efeitos legais.",
+   "A equiparação independe de deficiência intelectual associada.",
+   "A lei garante o diagnóstico precoce, ainda que não definitivo.",
+   "A lei alcança também a educação, inclusive com acompanhante em classe comum.",
+   "O acompanhante especializado é previsto na classe comum do ensino regular."
+  ]
+ },
+ {
+  "q": "Mulher de 20 anos com IMC de 22 kg/m² procura a UBS por cansaço e cãibras. Tem aumento bilateral das parótidas, erosão do esmalte dental e calosidade no dorso da mão direita. Exames: potássio de 2,8 mEq/L, cloreto baixo e bicarbonato de 34 mEq/L. Qual o diagnóstico mais provável e o distúrbio ácido-base esperado?",
+  "alts": [
+   "Anorexia nervosa restritiva, com acidose metabólica de ânion gap alto",
+   "Abuso isolado de laxantes, com alcalose respiratória por hiperventilação",
+   "Hiperaldosteronismo primário, com acidose metabólica hiperclorêmica",
+   "Compulsão alimentar sem purgação, com acidose metabólica hiperclorêmica",
+   "Bulimia nervosa com vômitos, com alcalose metabólica hipoclorêmica"
+  ],
+  "gab": 4,
+  "tema": "psiqinf",
+  "sub": "Complicações da bulimia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "Peso normal, hipertrofia de parótidas, erosão do esmalte e calosidade no dorso da mão (sinal de Russell, pelo atrito com os dentes ao provocar o vômito) apontam bulimia nervosa com vômitos autoinduzidos. A perda de ácido gástrico produz alcalose metabólica hipoclorêmica com hipocalemia, que pode causar arritmia. O abuso de laxantes, ao contrário, tende a acidose metabólica hiperclorêmica. Na anorexia o peso é baixo. Hipocalemia inexplicada em mulher jovem deve levantar a hipótese de purgação.",
+  "porAlt": [
+   "Com IMC de 22 não há anorexia, e o bicarbonato alto indica alcalose, não acidose.",
+   "O abuso de laxante tende a acidose metabólica, e os sinais orais e na mão indicam vômito.",
+   "O hiperaldosteronismo causa alcalose, não acidose, e não explica parótidas e erosão dental.",
+   "Sem purgação não há hipocalemia nem alcalose, e os achados indicam vômitos.",
+   "Correta: vômitos recorrentes geram alcalose metabólica hipoclorêmica com hipocalemia."
+  ]
+ },
+ {
+  "q": "Adolescente de 14 anos com anorexia nervosa restritiva, IMC de 16,5 kg/m² (85% do IMC mediano para idade e sexo), está clinicamente estável, com FC de 58 bpm, PA de 98/60 mmHg, sem ortostatismo e com eletrólitos normais. Mora com os pais, que querem participar do tratamento. Qual a abordagem de primeira linha?",
+  "alts": [
+   "Internação imediata para alimentação por sonda nasogástrica",
+   "Fluoxetina como tratamento principal para recuperar o peso",
+   "Terapia baseada na família, com os pais conduzindo a alimentação",
+   "Olanzapina em dose alta para estimular o apetite e o ganho de peso",
+   "Psicoterapia individual sem os pais, para preservar a autonomia"
+  ],
+  "gab": 2,
+  "tema": "psiqinf",
+  "sub": "Anorexia no adolescente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "APA Practice Guideline for the Treatment of Patients With Eating Disorders, 2023",
+  "coment": "Para adolescentes com anorexia nervosa clinicamente estáveis, a APA (2023) recomenda a terapia baseada na família, em que os pais assumem temporariamente a alimentação, como primeira linha, com reabilitação nutricional e acompanhamento clínico. A paciente não tem critério de internação: FC acima de 50 bpm acordada, PA acima de 90/45 mmHg, sem ortostatismo, eletrólitos normais e IMC acima de 75% da mediana. Nenhum fármaco restaura peso, e a fluoxetina não trata a anorexia.",
+  "porAlt": [
+   "Não há instabilidade clínica nem desnutrição grave que indiquem internação.",
+   "Nenhum antidepressivo restaura peso na anorexia nervosa.",
+   "Correta: a terapia baseada na família é a primeira linha para adolescente estável.",
+   "Antipsicótico não é tratamento principal e não substitui a abordagem familiar.",
+   "No adolescente, a participação dos pais é o núcleo do tratamento de maior eficácia."
+  ]
+ },
+ {
+  "q": "Mulher de 23 anos com IMC de 16,2 kg/m² restringe a alimentação, faz exercício diário excessivo, tem medo intenso de engordar e se acha gorda. Os ciclos menstruais continuam regulares. Não tem episódios de compulsão nem purgação nos últimos 3 meses. Qual o diagnóstico pelo DSM-5-TR?",
+  "alts": [
+   "Anorexia atípica, pela presença de ciclos menstruais regulares",
+   "Anorexia nervosa, tipo restritivo, de gravidade moderada",
+   "Transtorno alimentar restritivo evitativo, sem distorção",
+   "Bulimia nervosa, pelo exercício físico usado como compensação",
+   "Anorexia nervosa, tipo purgativo, de gravidade extrema pelo IMC"
+  ],
+  "gab": 1,
+  "tema": "psiqinf",
+  "sub": "Critérios da anorexia nervosa",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "DSM-5-TR (American Psychiatric Association), 2022",
+  "coment": "O DSM-5 retirou a amenorreia dos critérios de anorexia nervosa: bastam restrição com peso significativamente baixo, medo intenso de ganhar peso ou comportamento que impede o ganho e perturbação da imagem corporal. Sem compulsão ou purgação nos últimos 3 meses, o tipo é restritivo, mesmo com exercício excessivo. A gravidade no adulto segue o IMC: leve 17 ou mais, moderada 16 a 16,99, grave 15 a 15,99 e extrema abaixo de 15. A anorexia atípica ocorre com peso normal.",
+  "porAlt": [
+   "A anorexia atípica ocorre com peso na faixa normal, e a menstruação não é critério desde o DSM-5.",
+   "Correta: peso baixo, medo de engordar e distorção corporal, sem purgação, com IMC entre 16 e 16,99.",
+   "No transtorno restritivo evitativo não há medo de engordar nem distorção da imagem corporal.",
+   "Na bulimia o peso é normal ou alto e há episódios de compulsão, ausentes aqui.",
+   "Não há purgação, e IMC de 16,2 corresponde à gravidade moderada, não extrema."
+  ]
+ }
+]

@@ -1,0 +1,1612 @@
+[
+ {
+  "id": "en25_go#1",
+  "q": "Gestante de 27 anos, G2P1A0, com 9 semanas de gestação, comparece à consulta de primeira vez de pré-natal, quando recebe orientações sobre vacinação na gravidez. Ela está em boas condições clínicas, não tem comorbidades e refere já ter sido vacinada uma vez contra a covid-19, há 9 meses, ainda na gestação anterior. Com relação à vacina contra a covid-19 na gestação atual, assinale a afirmativa correta.",
+  "alts": [
+   "A vacinação contra covid-19 está contraindicada na gestação e durante o aleitamento.",
+   "A vacinação contra covid-19 na gestação não é necessária já que a última dose foi há menos de 12 meses.",
+   "Deverá receber uma dose única da vacina contra covid-19 após 20 semanas de gestação.",
+   "Deverá receber uma dose da vacina de covid-19 já na 9ª semana de gestação em que ela se encontra, podendo fazer o reforço após 6 meses.",
+   "Deverá receber uma dose da vacina de covid-19 já na 9ª semana de gestação em que ela se encontra, com reforço programado para 3 e 6 meses de intervalo."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 1
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#2",
+  "q": "Gestante procurou a Clínica da Família para iniciar seu pré-natal. Trata-se de primigesta, 22 anos de idade, sem comorbidades. Entre os exames de rotina pré-natal que foram solicitados para ela está a sorologia para",
+  "alts": [
+   "rubéola.",
+   "citomegalovírus.",
+   "HTLV 1/2.",
+   "brucelose.",
+   "listeriose."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 2
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#3",
+  "q": "Gestante a termo dá entrada em maternidade com queixas de contrações uterinas. Ao exame obstétrico, diagnosticou-se fase ativa do trabalho de parto. Ao ser encaminhada para o centro de parto, recebeu a orientação correta do médico plantonista de que",
+  "alts": [
+   "não era permitida a presença de acompanhante durante o parto e o pós-parto.",
+   "só era permitida a presença de acompanhante do sexo feminino após o parto.",
+   "só era permitida a presença de acompanhante do sexo feminino durante o parto e após o parto.",
+   "a presença de acompanhante de livre escolha da paciente era permitida apenas nos partos vaginais, mas não nas cesarianas.",
+   "a presença de acompanhante de livre escolha da paciente era permitida tanto no parto vaginal quanto na cesariana e durante toda a internação na maternidade após o parto."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 3
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#4",
+  "q": "Durante o parto vaginal de uma paciente que optou por parir semissentada, após a saída da cabeça fetal, observou-se retração da cabeça contra o períneo (sinal da tartaruga) e falha na progressão do polo cefálico. Foi orientado o aumento do agachamento materno e realizada uma pressão suprapúbica, sem sucesso. A manobra externa mais adequada para essa situação é realizar",
+  "alts": [
+   "reposicionamento da parturiente em quatro apoios.",
+   "manobra de pressão no fundo uterino.",
+   "tração axial da cabeça fetal para liberar a espádua anterior.",
+   "pressão direta com os dedos sobre a face posterior do ombro fetal anterior em direção do tórax fetal.",
+   "clidotomia."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 4
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#5",
+  "q": "Parturiente sem comorbidades pré-gestacional ou durante o prénatal, encontra-se exausta após 12 horas de trabalho de parto. A última ultrassonografia mostrava um peso estimado fetal de 4.100 g. Para abreviar o período expulsivo, seu obstetra pretende aplicar um fórcipe de Simpson para alívio. Para tal, a condição de praticabilidade do fórcipe deverá ser",
+  "alts": [
+   "feto no plano I de Hodge.",
+   "bolsa amniótica rota.",
+   "apagamento cervical de 100% e dilatação de 9 cm.",
+   "apresentação cefálica de face.",
+   "variedade de posição occipito-transversa."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 5
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#6",
+  "q": "Parturiente de 18 anos, G1P0A0, apresentou quadro de préeclampsia durante a gestação, sem sinais de gravidade. No transcurso da 40ª semana de gestação, procurou a maternidade com forte dor pélvica que já durava 12 h e sangramento transvaginal de pequena monta, vermelho escuro. Foi imediatamente submetida à cesariana, estando a placenta inteiramente descolada na cavidade uterina e o feto morto. Após 1 h da cesariana, ainda na recuperação pós-anestésica, ela evoluiu com sangramento transvaginal abundante e sinais de instabilidade hemodinâmica (PA 80 × 40 mmHg, FC 120 bpm, extremidades frias). Ao exame físico, o útero encontrava-se normotônico e localizado na altura esperada. A paciente recebeu 1.500 mL de cristaloide, duas unidades de concentrado de hemácias e ocitocina em bomba de infusão, com pouca resposta e persistência do sangramento. Assinale a opção que indica o quadro dessa paciente e a melhor conduta para o caso.",
+  "alts": [
+   "Ruptura uterina oculta e indicar laparotomia exploradora.",
+   "Atonia uterina refratária e iniciar misoprostol e massagem uterina.",
+   "Coagulopatia de consumo e solicitar coagulograma e iniciar reposição com plaquetas e fatores de coagulação.",
+   "Inversão uterina subaguda e realizar reposicionamento manual sob analgesia adequada.",
+   "Hematoma retroperitoneal e solicitar tomografia e manejo conservador com suporte hemodinâmico."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 6
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#7",
+  "q": "Nutriz de 28 anos, G2P2, comparece ao pronto-socorro no 4º dia do puerpério após cesariana por desproporção cefalopélvica. Queixa-se de febre diária (até 39,2 C), com calafrios, dor abdominal difusa e loquiação fétida. Ao exame, encontra-se febril (38,9 C), taquicárdica (112 bpm), com dor à palpação do hipogástrio. A ferida operatória está com bom aspecto. O útero encontrava-se aumentado e subinvoluído à palpação abdominal. Exames laboratoriais: leucograma: 18.500/mm³ com desvio à esquerda, PCR: 185 mg/L. Ultrassonografia abdominal pélvica mostrou útero aumentado com conteúdo heterogêneo intracavitário, sem gás, com espessamento endometrial, sem coleções abdominais. Foram colhidas urocultura e hemocultura e iniciada antibioticoterapia venosa com clindamicina e gentamicina. Após 72 h do antibiótico, a paciente mantinha febre, apesar de boa resposta hemodinâmica. Ambas as culturas vieram negativas. A principal hipótese diagnóstica e a melhor conduta para esta paciente neste momento são, respectivamente,",
+  "alts": [
+   "endometrite puerperal com foco persistente, manter antibióticos.",
+   "infecção de ferida operatória profunda, solicitar TC de abdome e considerar drenagem cirúrgica.",
+   "abscesso tubo-ovariano pós-parto, solicitar ressonância pélvica e avaliar necessidade de drenagem.",
+   "tromboflebite pélvica séptica, iniciar heparina associada a antibioticoterapia.",
+   "necrose uterina séptica, indicar histerectomia."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 7
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#8",
+  "q": "Gestante de 31 anos, G2P1, com 30 semanas de gestação, procura atendimento com história de febre alta há 3 dias, cefaleia, dor retro-orbital, mialgia intensa e náuseas. Relata diminuição da movimentação fetal nas últimas 12 horas. Ao exame, apresenta-se febril (38,5 C), com pressão arterial de 80 × 50 mmHg, pulso 108 bpm, frequência respiratória de 30 irpm, presença de petéquias em membros inferiores e dor à palpação do hipocôndrio direito. Exames laboratoriais: hematócrito: 42% (aumento em relação ao basal de 35%), plaquetas: 85.000/mm³, TGO: 145 U/L, TGP: 130 U/L, teste rápido NS1 positivo, proteinúria ausente. Doppler obstétrico: mostrou centralização da circulação fetal e a cardiotocografia mostrou reatividade ausente, variabilidade mínima. Considerando a condição apresentada pela gestante, a sua classificação da dengue segundo o Ministério da Saúde e a melhor conduta obstétrica neste momento são",
+  "alts": [
+   "dengue com sinais de alarme, manter hidratação venosa rigorosa e vigilância materno-fetal em enfermaria.",
+   "dengue grave, admissão em UTI, estabilização hemodinâmica e antecipação do parto com cuidados obstétricos apropriados a idade gestacional.",
+   "dengue clássica, tratar como ambulatorial com hidratação oral e seguimento obstétrico próximo.",
+   "dengue com sinais de alarme, iniciar corticoide para melhora do quadro materno e aguardar estabilização.",
+   "dengue grave, iniciar esquema antibiótico amplo e administrar imunoglobulina IV pela plaquetopenia."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 8
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#9",
+  "q": "Adolescente de 13 anos, acompanhada da mãe, procura a emergência obstétrica relatando ter sido vítima de estupro por um conhecido da família há cerca de 2 meses. Refere atraso menstrual de 5 dias, náuseas e desconforto abdominal. O teste rápido de gravidez é positivo, mas a idade gestacional da ultrassonografia não bate com a data do relato do estupro. Ao ser acolhida por equipe multiprofissional, a adolescente manifesta expressamente o desejo de interromper a gestação. A mãe também concorda com o procedimento. Todavia, a diretora técnica da unidade alega que o aborto não tem respaldo legal uma vez que a data relatada da violência não bate com a idade gestacional. Além disso, a diretora refere também objeção de consciência institucional e diz que o procedimento não será realizado ali. Com base na legislação brasileira e nas diretrizes técnicas do Ministério da Saúde, a conduta mais adequada nesse caso é",
+  "alts": [
+   "não realizar o aborto, porque a Constituição brasileira garante a objeção de consciência institucional, devendo a paciente ser transferida de unidade.",
+   "não realizar o aborto, já que a idade gestacional não coincide com a data do relato da violência, perdendo o amparo legal dos casos de estupro.",
+   "encaminhar a paciente ao Instituto Médico Legal para comprovação do estupro antes da autorização do aborto legal.",
+   "solicitar autorização judicial, pois a paciente é menor de idade, mesmo com o consentimento da mãe.",
+   "realizar o aborto legal imediatamente, com termo de consentimento assinado pela paciente e responsável, sem necessidade de boletim de ocorrência."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 9
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#10",
+  "q": "Gestante de 35 anos, G4P2A1, com 38 semanas de gestação, dá entrada em fase ativa de trabalho de parto com 6 cm de dilatação, bolsa íntegra, e feto único em apresentação pélvica. Durante o exame vaginal, ocorre ruptura acidental da bolsa amniótica com saída de líquido claro. Imediatamente após o exame, a paciente refere sensação súbita de pressão perineal intensa. Ao toque, o obstetra identifica uma estrutura pulsátil no canal vaginal, e a cardiotocografia mostra bradicardia fetal sustentada (FCF 80 bpm) por mais de 5 minutos. A conduta adequada nesse momento é",
+  "alts": [
+   "colocar a paciente em posição de prece maometana e aguardar progressão do parto vaginal.",
+   "realizar elevação manual da apresentação fetal e preparo urgente para cesariana.",
+   "induzir o parto vaginal, desde que o monitoramento contínuo esteja disponível.",
+   "administrar ocitocina para acelerar o parto a fim de reduzir o tempo de sofrimento fetal.",
+   "aplicar vácuo-extrator para acelerar o nascimento."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 10
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#11",
+  "q": "Gestante de 28 anos, G2P1, com 30 semanas de gestação e diagnóstico de diabetes mellitus tipo 1 desde a infância, dá entrada no pronto atendimento com queixa de náuseas, vômitos, fraqueza intensa e redução da movimentação fetal nas últimas 24 horas. Relata infecção urinária em tratamento com antibiótico há 2 dias. Ao exame: PA 100 × 70 mmHg, FC 122 bpm, FR 26 irpm, temperatura 37,8 C, desidratada, soporosa e taquipneica (respiração de Kussmaul). A palpação obstétrica revelou ausência de atividade uterina. Ausculta fetal com BCF 160 bpm. Exames laboratoriais: glicemia capilar: 260 mg/dL, gasometria venosa: pH 7,18; HCO₃⁻: 11 mEq/L; pCO₂: 28 mmHg, cetonemia positiva (+++), potássio sérico: 4,5 mEq/L, creatinina: 1,3 mg/dL, EAS: piúria (++), nitrito positivo. Ultrassonografia obstétrica mostrava feto único, BCF presente, movimento fetal discreto, líquido amniótico normal. A conduta adequada para essa gestante é",
+  "alts": [
+   "iniciar hidratação com solução fisiológica 0,9%, insulinoterapia venosa contínua, monitorar eletrólitos e manter tratamento da infecção de base.",
+   "iniciar infusão de bicarbonato de sódio venoso imediatamente para proteger o feto da acidose.",
+   "iniciar insulinoterapia subcutânea de ação rápida e aguardar resposta clínica antes de medidas adicionais.",
+   "suspender a antibioticoterapia em curso e aguardar melhora metabólica antes de retornar com o antimicrobiano.",
+   "indicar interrupção imediata da gestação por cesariana devido ao risco fetal iminente."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 11
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#12",
+  "q": "Paciente de 26 anos, G1P0, com história de ciclos regulares e sem uso de contraceptivo, procura atendimento em uma Unidade de Pronto Atendimento com dor pélvica leve e discreto sangramento transvaginal há 4 dias. Relata atraso menstrual de 6 semanas. Ao exame físico: encontra-se hemodinamicamente estável, sem dor à palpação profunda e sem sinais de irritação peritoneal. O toque vaginal evidencia útero de tamanho normal e ausência de dor em sua mobilização. A ultrassonografia pélvica-transvaginal mostra endométrio fino, ausência de saco gestacional intrauterino e imagem anexial à direita de 18 mm, sem líquido livre em fundo de saco. Exames laboratoriais: gonadotrofina coriônica humana (hCG) inicial: 870 UI/L, hemograma: normal, tipagem sanguínea: O Rh positivo, função hepática e renal: normais. A paciente foi internada para observação e repetiu o hCG em 48 h, cujo resultado foi 690 UI/L. Diante desse cenário, a melhor conduta para essa paciente é",
+  "alts": [
+   "acompanhar ambulatorialmente com dosagem seriada de hCG e ultrassonografia.",
+   "solicitar nova dosagem de hCG em 24 h e indicar laparotomia se o valor não reduzir pelo menos 50%.",
+   "iniciar tratamento com metotrexato intramuscular em dose única.",
+   "realizar curetagem uterina diagnóstica.",
+   "indicar laparoscopia diagnóstica imediata."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 12
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_go#13",
+  "q": "Gestante de 29 anos, G2P1, com 39 semanas, deu entrada em uma maternidade em trabalho de parto. Por discinesia uterina, o obstetra prescreveu ocitocina venosa em bomba infusora. Durante o preparo, a técnica de enfermagem retira da bandeja o frasco de ocitocina, mas, por engano, conecta uma ampola de cloreto de potássio na bomba de infusão. A infusão é iniciada, mas o erro é percebido por uma enfermeira cerca de 3 minutos após o início, antes de qualquer sintoma. A bomba é imediatamente desligada e o medicamento é descartado. A paciente permaneceu assintomática durante toda a internação e o parto evoluiu sem intercorrências. Com base na Classificação Nacional de Segurança do Paciente (MS/ANVISA) e nas definições da Organização Mundial da Saúde, o evento descrito é mais bem caracterizado como",
+  "alts": [
+   "quase-acidente.",
+   "evento adverso.",
+   "evento sentinela.",
+   "quase-erro.",
+   "erro médico."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 13
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#14",
+  "q": "Gestante G2P1, 28 anos, com tipo sanguíneo O Rh negativo, comparece ao pré-natal com 26 semanas de gestação. Relata primeiro parto há 2 anos, com recém-nascido internado por icterícia intensa, mas sem investigação detalhada na época. Não houve uso documentado de imunoglobulina anti-D no puerpério anterior. Na avaliação atual, observa-se tipo sanguíneo do parceiro: A Rh positivo, Coombs indireto: 1:128. Ultrassonografia obstétrica: feto único, bem desenvolvido, batimentos cardíacos presentes, sem hidropisia. Avaliação morfológica normal. Doppler de artéria cerebral média (ACM): 1,6 MoM. Com base nesse cenário, a conduta mais apropriada para esse caso é",
+  "alts": [
+   "iniciar corticoterapia materna e agendar doppler de ACM mensal para vigilância da vitalidade fetal.",
+   "repetir o Coombs indireto semanalmente e indicar cesariana caso o título continue aumentando.",
+   "solicitar tipagem fetal por amniocentese e indicar transfusão fetal profilática a partir de 28 semanas.",
+   "indicar cordocentese para hematócrito fetal e possível transfusão intrauterina.",
+   "administrar imunoglobulina anti-D imediatamente e monitorar por sinais de hidropisia fetal."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 14
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#15",
+  "q": "Gestante de 33 anos, G3P2, com 28 semanas de gestação, previamente hígida, procura emergência obstétrica com febre alta (38,7 °C), tosse seca, mialgia intensa e cefaleia há 36 horas. Refere também dispneia leve em repouso. Nega vacinas recentes. Está em uso de paracetamol, sem melhora. Ao exame: PA 100 × 60 mmHg, FC 100 bpm, FR 22 irpm, SpO₂ 97% em ar ambiente. Pulmões limpos à ausculta, sem sinais de desconforto respiratório. Diante da suspeita de síndrome gripal durante uma epidemia sazonal confirmada de Influenza A, a equipe médica opta por tratamento empírico. Com base nas diretrizes do Ministério da Saúde, a conduta terapêutica mais adequada nesse caso é",
+  "alts": [
+   "iniciar oseltamivir apenas se o RT-PCR para influenza for positivo, devido aos riscos desse medicamento durante a gestação.",
+   "internar a paciente para antibioticoterapia empírica e oxigenoterapia, uma vez que a febre e a taquicardia indicam infecção respiratória grave.",
+   "introduzir oseltamivir oral o mais precocemente possível, mesmo sem confirmação laboratorial, preferencialmente nas primeiras 48 horas de sintomas.",
+   "administrar zanamivir inalatória por 5 dias, pois tem menor absorção sistêmica e é preferível na gravidez.",
+   "adiar qualquer antiviral até a realização de hemograma, radiografia de tórax e gasometria arterial."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 15
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#16",
+  "q": "Puérpera de 30 anos, G1P1, foi submetida a cesariana há 3 dias. O recém-nascido encontra-se em aleitamento exclusivo e em alojamento conjunto. A equipe de enfermagem relata que, nas últimas 24 horas, a puérpera vem apresentando insônia persistente, fala desconexa, períodos de agitação psicomotora, além de delírios religiosos e recusa a alimentar-se. Hoje, afirmou que o bebê é um “anjo que precisa ser purificado”. Nega antecedentes psiquiátricos. A família está preocupada e relata que a puérpera está apresentando comportamento “fora da realidade”. Com base no quadro clínico, a conduta mais apropriada para esse caso é",
+  "alts": [
+   "encaminhar para avaliação ambulatorial de saúde mental e observar por mais 72 horas, pois há risco de transtorno de adaptação ao puerpério.",
+   "prescrever benzodiazepínico de curta duração e manter a puérpera com o bebê, estimulando o vínculo maternoinfantil.",
+   "iniciar antidepressivo inibidor seletivo da recaptação de serotonina de forma ambulatorial e agendar retorno precoce.",
+   "internação psiquiátrica imediata, com antipsicótico atípico, suspensão do aleitamento e avaliação de risco para infanticídio e suicídio.",
+   "manter vigilância com apoio familiar e psicoterapia breve, já que se trata de condição autolimitada do puerpério."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 16
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#17",
+  "q": "Gestante de 27 anos, G2P1 (parto vaginal pré-termo anterior), com 30 semanas e 4 dias de gestação, procura a maternidade com queixas de contrações uterinas regulares há cerca de 4 horas. No cartão pré-natal há a informação de que ela tem miastenia gravis. Ao exame obstétrico: colo apagado 60%, com 2 cm de dilatação, bolsa íntegra e apresentação cefálica. Não há sinais clínicos de infecção urinária ou corioamnionite. BCF 145 bpm, feto único, bem desenvolvido e com líquido amniótico normal. A gestante está hemodinamicamente estável. A conduta mais adequada, nesse momento, para o caso apresentado, é",
+  "alts": [
+   "iniciar corticoterapia para maturação pulmonar fetal, sulfato de magnésio, antibioticoterapia empírica e tocolítico por 48 h.",
+   "iniciar tocolítico e corticoterapia, associar sulfato de magnésio para neuroproteção fetal e programar parto em até 24 h.",
+   "internar para observação, contraindicar tocolítico por presença de dilatação e administrar antibiótico para prevenção da corioamnionite.",
+   "administrar corticosteroide para maturação pulmonar e iniciar tocolítico por até 48 h.",
+   "iniciar tocolítico de manutenção até 34 semanas e associar antibioticoterapia profilática."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 17
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#18",
+  "q": "Gestante de 32 anos, G2P1, com 26 semanas de gestação, realiza curva glicêmica (TOTG 75g) com os seguintes resultados: jejum: 96 mg/dL, 1 hora: 190 mg/dL, 2 horas: 160 mg/dL. Após o resultado, iniciou acompanhamento com equipe multiprofissional, incluindo plano alimentar individualizado e orientações sobre atividade física. Após 10 dias de monitoramento, apresenta os seguintes registros capilares: glicemias de jejum: entre 95 e 99 mg/dL e pós-prandiais de 1 hora: entre 140 e 155 mg/dL. Sua gestação evoluía com feto único, bem desenvolvido, em apresentação cefálica, sem sinais de sofrimento ou macrossomia. Gestante sem comorbidades adicionais. A conduta mais apropriada para esse caso é",
+  "alts": [
+   "realizar novo TOTG para confirmar o diagnóstico.",
+   "manter conduta expectante e repetir monitoramento glicêmico em 1 semana.",
+   "melhorar o controle clínico intensificando a dieta e exercício.",
+   "iniciar metformina oral.",
+   "iniciar insulinoterapia."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 18
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#19",
+  "q": "Em uma maternidade pública certificada como \"Hospital Amigo da Criança\", uma equipe multiprofissional realiza treinamento periódico sobre boas práticas em aleitamento materno. Durante uma visita à enfermaria pós-parto, um residente observa que uma puérpera, com parto vaginal há 16 horas, está com o recémnascido em berço separado, usando fórmula láctea. A mãe relata que o bebê \"chorava muito\" e a equipe de enfermagem orientou o uso de complemento até o leite “descer”. A mãe ainda não foi orientada formalmente sobre amamentação. A conduta mais alinhada aos princípios e diretrizes dos Dez Passos para o Sucesso do Aleitamento Materno é",
+  "alts": [
+   "aceitar temporariamente o uso de fórmula e manter o bebê em berçário separado até a apojadura, conforme demanda emocional da mãe.",
+   "estimular a amamentação na primeira hora pós-parto e manter o contato pele a pele, mesmo que a produção de leite ainda não esteja estabelecida.",
+   "priorizar o repouso materno nas primeiras 24 horas e iniciar orientação sobre amamentação apenas após descida do leite e demanda espontânea.",
+   "substituir o uso de fórmula por glicose 5% e estimular sucção não nutritiva até o leite ser produzido em quantidade adequada.",
+   "considerar a introdução de fórmula láctea como adequada, já que a oferta complementar inicial é compatível com o conforto materno no pós-parto."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 19
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#20",
+  "q": "Puérpera de 24 anos, G1P1, deu à luz há 2 dias por parto vaginal, sem complicações aparentes. Não havia história prévia de hipertensão durante o pré-natal e o parto transcorreu sem intercorrências. No alojamento conjunto, evolui com episódio tônico-clônico generalizado, de cerca de 90 segundos, presenciado pela equipe. No pós-crise, apresenta rebaixamento do nível de consciência. Exame físico revela PA 150 × 110 mmHg, reflexos tendinosos vivos, sem rigidez de nuca. Temperatura 36,8 C, sem queixas respiratórias ou sinais de infecção. Diante do quadro clínico apresentado, a conduta inicial mais apropriada é",
+  "alts": [
+   "iniciar diazepam endovenoso para controle convulsivo, investigar meningite e solicitar TC de crânio.",
+   "iniciar fenitoína para prevenção de novas crises, realizar punção lombar e manter vigilância neurológica.",
+   "administrar labetalol EV imediatamente e solicitar ressonância magnética para descartar trombose venosa cerebral.",
+   "considerar epilepsia de início tardio, manter observação e aguardar novos episódios antes de iniciar anticonvulsivante.",
+   "iniciar sulfato de magnésio, controle pressórico com hidralazina e avaliação de causas secundárias de convulsão após estabilização."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 20
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#21",
+  "q": "Gestante de 35 semanas, G2P1, sem histórico prévio de herpes, procura atendimento com queixa de febre, ardência vulvar intensa e múltiplas lesões ulceradas e dolorosas em vulva e períneo, com início há 3 dias. Ao exame físico, observam-se múltiplas úlceras com base eritematosa, bordas bem definidas e exsudato claro. Linfonodomegalia inguinal bilateral dolorosa está presente. A paciente encontra-se afebril no momento, mas bastante ansiosa e com dor intensa à micção. Foi coletado PCR de secreção da lesão e sorologia para herpes-vírus simples. A gestação evolui normalmente até o momento, com feto único, em apresentação cefálica e crescimento adequado para a idade gestacional. A conduta mais adequada para o caso é",
+  "alts": [
+   "confirmar a primoinfecção apenas se a IgM for positiva, iniciar aciclovir apenas se houver sinais sistêmicos, e planejar parto vaginal se não houver lesão ativa no momento do parto.",
+   "iniciar aciclovir imediatamente, independentemente da confirmação laboratorial, e indicar cesariana eletiva se houver lesões ativas ou sintomas no momento do parto.",
+   "iniciar valaciclovir em dose única, aguardar PCR e sorologia para confirmar o diagnóstico, e seguir com parto vaginal em qualquer situação.",
+   "indicar internação hospitalar imediata, iniciar terapia combinada com aciclovir e corticoide e programar parto vaginal com precauções de contato.",
+   "aguardar resultado de PCR e sorologias para definir se a infecção é primária ou recorrente, e indicar parto vaginal, pois o risco neonatal é baixo."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 21
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#22",
+  "q": "Gestante de 34 anos, G2P0A1, moradora da cidade de São Paulo, comparece à primeira consulta pré-natal com 9 semanas de gestação. Nega hipertensão crônica e outras comorbidades. Exame físico atual sem alterações: PA 112 × 68 mmHg, IMC 23. A fim de reduzir o risco de pré-eclampsia na gestação atual, o procedimento correto será",
+  "alts": [
+   "suplementação de cálcio iniciado a partir de 12 semanas de gestação.",
+   "prescrição de ácido acetilsalicílico em baixa dose iniciado antes de 16 semanas de gestação.",
+   "uso de antioxidantes como vitamina C e vitamina E, associados a dieta hipossódica desde o primeiro trimestre.",
+   "prescrição de heparina de baixo peso molecular profilática até o final da gestação.",
+   "monitoramento ultrassonográfico mensal com Doppler das artérias uterinas."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 22
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#23",
+  "q": "Primigesta de 26 anos procura atendimento no pronto-socorro trazendo ultrassonografia feita naquele dia, mostrando gestação normal no transcurso da 10ª semana. Queixava-se de náuseas e vômitos persistentes há 7 dias, que se agravaram nas últimas 48 horas. Refere incapacidade de manter alimentos e líquidos. Nega sangramentos, febre ou dor abdominal. Refere perda de 5 kg desde o início dos sintomas. Ao exame: PA: 90×60 mmHg, FC: 112 bpm, temperatura: 36,7 C. Mucosas secas, turgor diminuído, hálito cetônico. Abdome sem dor, útero palpável no hipogástrio, sem sangramento genital. Exames laboratoriais: Na+: 131 mEq/L, K+: 3,2 mEq/L, HCO₃⁻: 18 mEq/L, glicemia: 68 mg/dL. Urina 1: cetonúria 3+, leucócitos ausentes. hCG sérico: 150.000 UI/L. Considerando a história clínica, a conduta apropriada para o caso é",
+  "alts": [
+   "reposição oral com líquidos claros, prescrição de metoclopramida via oral e alta ambulatorial com seguimento em 48 h.",
+   "internação hospitalar para hidratação venosa, correção de distúrbios hidroeletrolíticos e administração de antieméticos via venosa.",
+   "indicação de esvaziamento uterino devido à suspeita de doença trofoblástica gestacional.",
+   "avaliação psiquiátrica e prescrição de benzodiazepínico, considerando etiologia psicogênica do quadro.",
+   "administração de corticosteroides como primeira linha para resolução do quadro refratário."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 23
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#24",
+  "q": "Mulher de 34 anos, G3P2, com 27 semanas de gestação, comparece ao pronto-socorro com queixa de tosse, febre alta e dispneia progressiva há 4 dias. Apresenta histórico prévio de cardiopatia reumática com valvopatia mitral moderada, sem acompanhamento regular. Evolui rapidamente com insuficiência respiratória grave, necessitando de intubação orotraqueal e internação em UTI. Mesmo com suporte ventilatório e antibioticoterapia, evolui com choque refratário e óbito em 48 horas. A análise do caso permite concluir que",
+  "alts": [
+   "se trata de morte materna de causa obstétrica direta, pois a gravidez desencadeou a descompensação da cardiopatia.",
+   "se trata de morte materna de causa obstétrica indireta, e a gravidez deve constar como condição contribuinte no atestado.",
+   "não é considerada morte materna, pois decorreu de doença preexistente não relacionada ao parto ou à gestação.",
+   "se trata de morte materna acidental, já que não ocorreu durante o parto ou puerpério imediato.",
+   "se trata de morte materna cuja causa básica no atestado de óbito deve ser registrada como “gestação de 27 semanas”, uma vez que a gravidez foi o fator desencadeante do óbito."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 24
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#25",
+  "q": "Mulher de 27 anos, G1P1, comparece à maternidade em fase ativa de trabalho de parto na 40ª semana de gestação. Evolui com parto vaginal sem intercorrências e dá à luz recém-nascido vivo, a termo, com peso adequado. Durante o pré-natal, realizado em Unidade Básica de Saúde, a paciente assinou, na 24ª semana de gestação, termo de consentimento livre e esclarecido (TCLE), solicitando laqueadura tubária pós-parto, discutida previamente com a equipe multiprofissional, e reafirma o desejo de realizar o procedimento ainda durante a internação na maternidade. Ela está em boas condições clínicas, com sinais vitais estáveis no pós-parto imediato. Seu parceiro não acompanhou o parto, não compareceu às consultas de pré-natal e não assinou o TCLE. Considerando as normas vigentes sobre planejamento familiar e esterilização cirúrgica no Brasil, é correto afirmar que",
+  "alts": [
+   "o procedimento não pode ser realizado no puerpério imediato, pois a lei exige intervalo mínimo de 60 dias entre o parto e a realização da laqueadura.",
+   "a ausência de assinatura do TCLE do parceiro impede a realização da esterilização definitiva no contexto do parto.",
+   "a paciente tem direito à laqueadura pós-parto, pois manifestou sua vontade e assinou o TCLE com antecedência mínima de 60 dias.",
+   "a laqueadura só pode ser feita na cesariana, conforme as limitações técnicas para acesso às tubas uterinas em partos vaginais.",
+   "o procedimento deve ser adiado para 42 dias após o parto, devido à vedação legal de esterilização cirúrgica no puerpério imediato."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 25
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#26",
+  "q": "Gestante de 30 anos, G2P1, com 31 semanas e 2 dias, deu entrada na maternidade há 48 horas com diagnóstico de perda de líquido amniótico por rotura da bolsa amniótica. Foi internada e iniciou antibiótico profilático e corticosteroide para maturação pulmonar fetal. Nas últimas 12 horas, passou a apresentar febre (pico de 38,9 C), taquicardia materna (FC 122 bpm), taquicardia fetal (FC 175 bpm) e queixa de dor à palpação uterina difusa. Refere também calafrios e liberação de conteúdo vaginal amarelado. O útero se apresenta discretamente hipertônico à palpação. Exames laboratoriais: leucócitos: 17.200/mm³ (com desvio à esquerda), PCR: 9,8 mg/dL. Urina 1: sem alterações. Cardiotocografia: traçado com linha de base de 175 bpm, variabilidade diminuída, sem acelerações, sem desacelerações. A conduta mais apropriada para o caso é",
+  "alts": [
+   "manter corticoterapia e antibiótico, iniciar tocolítico e aguardar até completar 34 semanas para interrupção da gestação.",
+   "realizar amniocentese para confirmar infecção intrauterina antes de decidir pela via de parto.",
+   "indicar interrupção imediata da gestação, independentemente da idade gestacional.",
+   "aguardar espontaneamente a evolução para trabalho de parto, mantendo antibióticos e vigilância intensiva.",
+   "indicar cesariana de urgência, pois é a única via segura para o feto em casos de infecção intrauterina confirmada."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 26
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#27",
+  "q": "Gestante de 32 anos, G2P1, comparece à consulta de rotina no terceiro trimestre de pré-natal em uma Unidade Básica de Saúde. Relata que, em sua primeira gestação, teve dificuldade para amamentar, sentia dor intensa nas mamas e interrompeu o aleitamento exclusivo com apenas duas semanas de vida do bebê. Agora demonstra insegurança e ansiedade quanto à amamentação do segundo filho. Refere desejo de tentar novamente, mas está preocupada com a “falta de leite” e comenta que já comprou mamadeiras e fórmula infantil “por precaução”. A melhor conduta para essa gestante é",
+  "alts": [
+   "orientar que o colostro tem pouco volume e que, nas primeiras 48 horas, a oferta de fórmula pode ser necessária para garantir a nutrição do recém-nascido.",
+   "reforçar que a pega incorreta e o esvaziamento inadequado das mamas estão entre as principais causas de dor e “falta de leite”, e propor apoio pós-parto precoce.",
+   "indicar massagem mamária diária ainda no pré-natal, para evitar ingurgitamento e garantir boa produção de leite nas primeiras semanas.",
+   "sugerir que, como teve experiência ruim anterior, opte por amamentação mista inicialmente e introduza a exclusiva se se sentir mais segura.",
+   "informar que, se o bebê perder mais de 5% do peso nos primeiros dias, a introdução de fórmula é indicada para evitar hipoglicemia neonatal."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 27
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#28",
+  "q": "Gestante de 39 anos, G2P1, com 41 semanas e 5 dias, comparece ao ambulatório pré-natal para consulta. Relata boa evolução e ausência de queixas e comorbidades. A ultrassonografia mostra feto único, em apresentação cefálica, líquido amniótico normal e Doppler fetal sem alterações. O peso estimado fetal é de 3.750 g. A gestante tem antecedente de cesariana segmentar transversal há 3 anos, por parada secundária da dilatação. Deseja tentar parto vaginal nesta gestação. Ao exame, apresenta colo uterino com índice de Bishop 4 (2 pontos para dilatação, 1 para apagamento, 0 para consistência, 0 para posição e 1 para altura da apresentação). A melhor conduta para esse caso é",
+  "alts": [
+   "indicar cesariana eletiva, pois a presença de útero cicatricial contraindica a indução do parto.",
+   "iniciar misoprostol via vaginal.",
+   "realizar descolamento de membranas e ocitocina venosa.",
+   "considerar indução com balão de Foley.",
+   "aguardar início espontâneo do trabalho de parto até 42 semanas, pois o risco de ruptura uterina aumenta significativamente com a indução."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 28
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#29",
+  "q": "Paciente de 26 anos, G2P2, comparece à consulta no puerpério imediato (3º dia pós-parto) relatando que seu filho faleceu durante o parto (natimorto). No momento, queixa-se de desconforto mamário crescente, sensação de ingurgitamento e tristeza profunda. Ao exame: mamas ingurgitadas, sensíveis, sem sinais flogísticos. PA: 118 × 76 mmHg, FC: 82 bpm. Sem febre. A melhor conduta para esse caso é",
+  "alts": [
+   "recomendar amamentação cruzada ou doação ao banco de leite para aliviar o ingurgitamento, pois suprimir a lactação abruptamente é prejudicial.",
+   "indicar cabergolina 1 mg VO em dose única, associada a medidas de suporte físico e emocional.",
+   "iniciar bromocriptina 2,5 mg VO duas vezes ao dia por 14 dias como primeira escolha para inibição da lactação.",
+   "realizar enfaixamento compressivo das mamas e uso de analgésicos simples, que apresenta maior eficácia na inibição da lactação do que os métodos farmacológicos.",
+   "aguardar espontaneamente a resolução da lactação, evitando qualquer intervenção medicamentosa para não interferir na fisiologia do puerpério."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 29
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#30",
+  "q": "Paciente de 22 anos, nulípara, foi submetida a esvaziamento uterino indicado por ultrassonografia compatível com mola hidatiforme. Estava assintomática, com útero aumentado e exame de gonadotrofina coriônica humana (hCG) de 320.000 UI/L no dia do esvaziamento uterino. No seguimento pós-molar ambulatorial, foram obtidas as seguintes dosagens hCG: Semana 1: 42.000 UI/L. Semana 2: 43.100 UI/L. Semana 3: 46.500 UI/L. Semana 4: 51.700 UI/L. Nesse momento, ultrassonografia transvaginal não mostra conteúdo intracavitário, mas exibe vascularização miometrial aumentada. A paciente permanece assintomática e com exame físico normal. RX de tórax normal. A melhor conduta para esse caso é",
+  "alts": [
+   "aguardar nova série de beta-hCG para confirmar a elevação sustentada.",
+   "realizar biópsia uterina para comprovar histologicamente a presença de neoplasia trofoblástica antes de iniciar qualquer tratamento.",
+   "indicar histerectomia como forma terapêutica definitiva, pois a elevação de hCG é sinal de invasão miometrial.",
+   "iniciar quimioterapia, mesmo sem histopatológico que confirme a neoplasia trofoblástica.",
+   "continuar com seguimento ambulatorial, pois flutuações leves do hCG são esperadas nas primeiras semanas após o esvaziamento uterino molar."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 30
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#31",
+  "q": "Primigesta de 25 anos, com 39 semanas de gestação, encontra-se em trabalho de parto ativo há 6 horas, sob analgesia peridural. Hipertensa crônica em uso de 2g de metildopa ao dia. A bolsa amniótica rompeu espontaneamente há 2 horas, com saída de líquido amniótico meconial espesso. A monitorização eletrônica fetal mostra os seguintes achados nos últimos 15 minutos: linha de base: 175 bpm, variabilidade: mínima, sem acelerações, presença de desacelerações tardias recorrentes a cada contração uterina. Ao exame vaginal: dilatação cervical de 5 cm, 80% de apagamento, apresentação cefálica em plano -1 de De Lee, sem sinais de prolapso de cordão. A frequência de contrações é de 5 em 10 minutos, com duração de 60 segundos. A melhor conduta para esse caso é",
+  "alts": [
+   "administrar oxigênio à parturiente, colocar em decúbito lateral e continuar monitoramento, pois não há indicação de interrupção da gestação.",
+   "iniciar tocolítico para reduzir a frequência de contrações e melhorar a oxigenação fetal, aguardando progressão do trabalho de parto.",
+   "indicar amnioinfusão com soro fisiológico para diluir o mecônio e reduzir risco de aspiração meconial.",
+   "avaliar pH ou lactato do sangue fetal para então confirmar sofrimento fetal e avaliar via de parto.",
+   "diagnosticar sofrimento fetal agudo e indicar cesariana de emergência."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 31
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#32",
+  "q": "Mulher de 30 anos, G3P2, com 39 semanas, entra em trabalho de parto espontâneo. Feto único, vivo, em apresentação pélvica incompleta, com estimativa ecográfica de 3.000g. Pré-natal sem intercorrências. Equipe obstétrica opta por tentativa de parto vaginal, com critérios favoráveis e equipe habilitada. Durante o período expulsivo, após a descida pélvica e nascimento espontâneo até a escápula, observa-se retenção dos membros superiores, com braços elevados e estendidos junto à face torácica. Não há descida da cabeça fetal, mesmo com tração suave. Sinais de sofrimento fetal se instalam. A melhor conduta para esse caso é realizar manobra de",
+  "alts": [
+   "Bracht, elevando o corpo fetal para facilitar a flexão e saída espontânea dos braços e cabeça.",
+   "Mauriceau-Smellie-Veit, utilizando flexão da cabeça por suporte facial e occipital.",
+   "Zavanelli, com reintrodução fetal e cesariana imediata devido à distocia grave.",
+   "Lovset, com rotação controlada do tronco para liberação sequencial dos membros superiores.",
+   "McRoberts com pressão suprapúbica para liberar os braços antes da cabeça."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 32
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#33",
+  "q": "Puérpera de 33 anos, G2P2, no 3º dia após cesariana, queixa-se à enfermeira de dispneia súbita, dor torácica ventilatóriodependente e palpitações. Refere também mal-estar geral e sensação de desmaio iminente. Não apresenta febre ou tosse. História pregressa: sem trombofilias conhecidas, nega tabagismo. Na gestação atual, foi mantida em repouso prolongado por ameaça de trabalho de parto pré-termo. Exame físico: PA: 95×65 mmHg, FC: 128 bpm, FR: 32 irpm, SatO₂: 87% em ar ambiente, MV presente bilateralmente, sem estertores, trombose venosa profunda ausente nos membros inferiores. Exames laboratoriais: ECG: taquicardia sinusal, Gasometria arterial (em O₂ 2L/min): pH 7,48, pCO₂ 30, pO₂ 61. Troponina e BNP discretamente elevadas. Dímero-D: 2400 ng/mL. A melhor conduta para esse caso é",
+  "alts": [
+   "iniciar anticoagulação com heparina de baixo peso molecular e solicitar angiotomografia de tórax para confirmação diagnóstica.",
+   "solicitar angiotomografia de tórax antes de qualquer conduta, pois a anticoagulação empírica aumenta risco de hemorragia pós-cesárea.",
+   "realizar doppler de membros inferiores antes de iniciar tratamento, e anticoagular apenas se TVP for confirmada.",
+   "iniciar anticoagulação plena com heparina não fracionada e indicar angiotomografia apenas se houver piora clínica.",
+   "iniciar anticoagulação empírica imediata e solicitar ecocardiograma para avaliar sobrecarga de VD antes da angiotomografia."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 33
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#34",
+  "q": "Gestante de 28 anos, G1P1, deu à luz por cesariana eletiva no termo, sem complicações aparentes. O bebê nasceu saudável, com Apgar 9/10. Após a dequitação, a paciente apresentou sangramento uterino profuso, com útero flácido ao toque uterino. Foram realizados prontamente e em sequência adequada: massagem uterina vigorosa, administração de ocitocina venosa em infusão contínua, metilergometrina intramuscular e misoprostol via retal. Mesmo após essas medidas, o sangramento transvaginal persiste. A paciente encontra-se com PA 90×60 mmHg, FC 120 bpm, sudoreica, com sinais iniciais de hipoperfusão, mas deseja manter fertilidade. A melhor conduta para esse caso é",
+  "alts": [
+   "realizar histerectomia hemostática imediata para controle definitivo da hemorragia.",
+   "transferência da paciente para hospital que faça embolização arterial uterina.",
+   "iniciar transfusão maciça e aguardar ação dos uterotônicos administrados.",
+   "realizar sutura de B-Lynch como medida conservadora para controle da atonia uterina.",
+   "repetir a dose de metilergometrina e aguardar resposta clínica por mais 30 minutos."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 34
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#35",
+  "q": "João, homem trans de 27 anos, comparece à maternidade com 39 semanas e 4 dias de gestação, em trabalho de parto ativo. É G1P0, a gestação foi planejada com suspensão prévia do uso de testosterona, e o pré-natal foi acompanhado em Unidade de Saúde da Família com equipe treinada em saúde LGBTQIA+. João manifesta desejo de parto vaginal, com presença de seu companheiro e solicita ser tratado pelo nome social e pronomes masculinos. Ao exame: altura uterina: 34 cm, ausculta fetal: BCF 142 bpm, dilatação cervical: 6 cm, 90% apagado, apresentação cefálica, bolsa íntegra. Sem fatores de risco para distocia ou contraindicações ao parto vaginal. Durante a admissão, um profissional da equipe registra em prontuário: “Parturiente do sexo feminino com quadro compatível com trabalho de parto ativo. Solicita uso de nome social, apesar de se tratar de mulher biológica.” Considerando o relato acima, a melhor conduta para o caso é",
+  "alts": [
+   "corrigir o prontuário para constar “mulher trans”, mantendo os termos obstétricos convencionais, pois o sistema de saúde ainda utiliza a classificação biológica como base.",
+   "reforçar com a equipe multiprofissional a utilização do nome social e de pronomes masculinos.",
+   "priorizar a avaliação obstétrica clínica e adiar discussões sobre identidade de gênero até o puerpério, para evitar distrações no manejo clínico.",
+   "redirecionar o paciente para unidade de referência em saúde trans, mesmo em trabalho de parto, para garantir atendimento especializado.",
+   "iniciar preparo para parto cesáreo eletivo, considerando que a anatomia obstétrica pode estar alterada pelo uso anterior de testosterona."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 35
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#36",
+  "q": "Mulher de 34 anos, G2P1, comparece sozinha para ultrassonografia obstétrica de rotina com 32 semanas de gestação, sem queixas. A gravidez evoluía bem, com pré-natal adequado. Durante o exame, o médico ultrassonografista observa ausência de movimentos fetais, ausência de batimentos cardíacos e hidropsia fetal generalizada. Realiza manobras complementares e confirma o óbito fetal intraútero. Diante do achado, o profissional se depara com a paciente ansiosa, perguntando se está tudo bem com o bebê. O ultrassonografista é responsável por realizar o exame, redigir o laudo e comunicar os achados ao obstetra assistente, mas não é o profissional responsável pelo pré-natal. A conduta mais apropriada diante dessa situação é",
+  "alts": [
+   "encerrar o exame sem comentar os achados com a paciente e encaminhá-la diretamente ao obstetra assistente com o laudo em mãos.",
+   "informar imediatamente, de forma objetiva, que o bebê está morto.",
+   "interromper o exame com acolhimento, comunicar o achado com empatia e oferecer suporte inicial, referindo à equipe obstétrica.",
+   "explicar tecnicamente à paciente a ausência de batimentos cardíacos e sinais de hidropisia, solicitando confirmação por outro profissional.",
+   "postergar a comunicação até que a paciente esteja acompanhada de familiar, para evitar desorganização emocional aguda."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 36
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#37",
+  "q": "Gestante de 32 anos, G2P1, com 28 semanas de gestação, dá entrada no pronto-socorro com febre alta (39,2 °C), mialgia intensa, dispneia progressiva e tosse seca há 48 horas. Apresenta saturação de O₂ de 91% em ar ambiente, taquipneia e estertores finos bibasais. Testagem rápida para influenza A é positiva, e a paciente é admitida com suspeita de síndrome respiratória aguda secundária à infecção viral. O quadro evolui com necessidade de O₂ suplementar e início de antiviral. A alteração fisiológica pulmonar da gestação que contribui de forma mais direta para a gravidade da infecção viral nesse contexto é",
+  "alts": [
+   "o aumento da complacência pulmonar com redução da pressão inspiratória máxima, favorecendo hipercapnia.",
+   "a redução do volume corrente e aumento da resistência das vias aéreas superiores, predispondo a atelectasias.",
+   "a redução da capacidade residual funcional, prejudicando a troca gasosa.",
+   "a hiperventilação compensatória com aumento da reserva expiratória, o que eleva o risco de alcalose respiratória grave.",
+   "a redução da pressão parcial de CO₂ arterial, levando à hipoxemia."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 37
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#38",
+  "q": "Gestante de 35 anos, G3P2, com 31 semanas e 3 dias, previamente hígida, dá entrada na maternidade com queixa súbita de dor abdominal intensa, sangramento transvaginal escuro em pequena quantidade e redução abrupta dos movimentos fetais há 2 horas. Ao exame físico, apresenta: PA: 150 × 100 mmHg, FC: 98 bpm, altura uterina: 36 cm. O útero encontra-se hipertônico, doloroso à palpação, sem intervalos de relaxamento. O exame pélvico mostra colo fechado, sem dilatação. Ausculta fetal: BCF 90 bpm com desacelerações recorrentes. Ultrassonografia à beira-leito evidencia hematoma retroplacentário. A melhor conduta para esse caso é",
+  "alts": [
+   "indicar indução do parto com misoprostol, mantendo monitorização contínua.",
+   "administrar corticoide para maturação pulmonar fetal e aguardar 48 horas para resolução eletiva.",
+   "aguardar progressão espontânea do trabalho de parto, monitorando parâmetros maternos e fetais de perto.",
+   "indicar amniotomia e uso de ocitocina para acelerar o trabalho de parto, mantendo monitorização contínua.",
+   "indicar cesariana de emergência, uma vez que o feto está vivo e há sinais de sofrimento agudo."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 38
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#39",
+  "q": "Paciente de 29 anos, G2P1, com 18 semanas e 2 dias de gestação, comparece ao serviço de urgência com queixas de dor hipogástrica e discreto sangramento transvaginal, iniciado há 1 dia. Sem comorbidades, apresenta PA 110 × 70 mmHg, encontrando-se afebril. Ao exame ultrassonográfico, confirma-se ausência de batimentos cardíacos fetais, ausência de movimentos e colapso craniano. O útero tem medidas compatíveis com a idade gestacional, sem sinais de infecção ou retenção prolongada. O colo está fechado e longo. A melhor conduta para esse caso é",
+  "alts": [
+   "indicar misoprostol vaginal em dose apropriada para idade gestacional.",
+   "realizar curetagem uterina sob sedação após dilatação cervical com cânulas de Hegar.",
+   "indicar histerotomia eletiva por via abdominal devido ao risco elevado de falha do método medicamentoso.",
+   "iniciar ocitocina endovenosa em bomba de infusão contínua, já que o colo se encontra fechado.",
+   "realizar amniotomia seguida de administração de prostaglandina E2 intravaginal."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 39
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#40",
+  "q": "Gestante de 26 anos, G1P0, com 29 semanas e 4 dias de gestação, é internada com queixa de cefaleia frontal intensa e epigastralgia e PA 154 × 112 mmHg. Não há convulsões ou alterações do nível de consciência. Ao exame, apresenta: FC: 98 bpm, TAx: 36,7 C, edema ++ em membros inferiores. Reflexos tendinosos vivos e simétricos, sem clônus. Proteinúria de fita: 3+. Exames laboratoriais: creatinina: 1,3 mg/dL, DHL: 630 U/L, plaquetas: 112.000/mm³, TGO: 82 U/L. Ultrassonografia obstétrica com Doppler mostra feto único, BCF presente, peso estimado fetal de 980 g. Doppler de artéria umbilical com fluxo diastólico reverso. Líquido amniótico de volume normal. Cardiotocografia normal. A melhor conduta para esse caso é",
+  "alts": [
+   "iniciar esquema de corticoide para maturação pulmonar fetal, controlar PA e manter conduta expectante até 34 semanas.",
+   "indicar preparo cervical com misoprostol e parto vaginal com aplicação de fórceps de alívio no período expulsivo.",
+   "administrar sulfato de magnésio apenas se surgirem sinais de iminência de eclâmpsia e aguardar evolução clínica.",
+   "indicar indução de parto apenas se houver sinais de deterioração fetal, atestada pela cardiotocografia.",
+   "interromper a gestação após estabilização clínica com antihipertensivo e sulfato de magnésio."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 40
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#41",
+  "q": "Gestante com 29 semanas tem diagnóstico de diabetes gestacional. No momento faz controle com glicemias capilares e tratamento com dieta. Realizou exames laboratoriais há uma semana com os seguintes resultados: hematócrito 27%, 9900/mm3, 201.000/mm3. leucócitos: plaquetas Uma ultrassonografia recente evidenciou feto com peso estimado no percentil 69 e volume do líquido amniótico normal. Com base nesses dados, é correto afirmar que",
+  "alts": [
+   "as medidas das glicemias capilares podem estar superestimadas.",
+   "o crescimento fetal pode estar prejudicado pela anemia materna.",
+   "o tratamento atual com dieta não está sendo suficiente para o controle glicêmico.",
+   "o tratamento deverá ser complementado por hipoglicemiantes orais.",
+   "está contraindicado o tratamento com insulinoterapia regular."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 41
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#42",
+  "q": "Paciente com 37 semanas de gestação realiza ultrassonografia que evidencia peso fetal estimado de 4120 g (percentil > 99). A etiologia para esse achado é a",
+  "alts": [
+   "hipertensão arterial materna.",
+   "obesidade materna.",
+   "trissomia do cromossomo 21.",
+   "síndrome antifosfolípide.",
+   "oligodramnia."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 42
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#43",
+  "q": "Gestante com 26 semanas realiza teste de Coombs indireto cujo resultado é positivo. O seu tipo sanguíneo é A Rh negativo e a pesquisa para anticorpos irregulares identificou anti-C. A conduta correta para essa paciente é",
+  "alts": [
+   "indicar o parto imediatamente para evitar comprometimento fetal grave.",
+   "administrar imunoglobulina anti-D após o parto, caso o recém-nascido seja Rh positivo.",
+   "acompanhar a rotina já que esse anticorpo não causa doença hemolítica.",
+   "realizar transfusão intrauterina imediatamente, com sangue Rh negativo.",
+   "indicar transfusão intrauterina se Doppler da artéria umbilical tiver diástole zero."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 43
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#44",
+  "q": "Gestante com 28 semanas e histórico de três cesarianas anteriores realiza ultrassonografia que evidencia placenta prévia. Nesse caso, a equipe médica deverá se preocupar com a possibilidade da seguinte complicação:",
+  "alts": [
+   "rotura prematura de membranas.",
+   "pré-eclâmpsia.",
+   "malformações fetais.",
+   "acretismo placentário.",
+   "parto prematuro espontâneo."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 44
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#45",
+  "q": "Uma primigesta com 30 semanas realiza uma ultrassonografia obstétrica de rotina que evidencia um feto com peso estimado no percentil 8 e medida de sua circunferência abdominal no percentil 12. Não foram evidenciadas malformações fetais e o volume de líquido amniótico é normal. Ao Doppler, a relação cerebroplacentária está no percentil 44 e as artérias uterinas no percentil no percentil 15. Diante desses achados, assinale a opção que melhor descreve diagnóstico de conduta.",
+  "alts": [
+   "Feto com crescimento normal, sem necessidade de mais exames.",
+   "Restrição de crescimento fetal estágio I, cardiotocografia três vezes por semana.",
+   "Restrição de crescimento fetal estágio III, ultrassonografia quinzenal.",
+   "Restrição de crescimento fetal estágio IV, parto por cesariana imediatamente.",
+   "Feto pequeno para a idade gestacional, controle ultrassonográfico."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 45
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#46",
+  "q": "Uma gestante com 20 semanas realiza ultrassonografia que evidencia dois fetos. Não foi visualizada membrana amniótica entre eles e foi constatada polidramnia. O feto 1 encontra-se com movimentação reduzida e fixo na parede anterior do útero, não sendo identificada a sua bexiga e Doppler de sua artéria umbilical com diástole zero e ducto venoso normal. O feto 2 está com movimentação ativa, bexiga repleta e Doppler da artéria umbilical normal, mas o ducto venoso com onda A reversa. O diagnóstico mais provável é",
+  "alts": [
+   "agenesia renal bilateral do feto 1.",
+   "Diabetes Mellitus gestacional.",
+   "insuficiência placentária do feto 1.",
+   "síndrome de transfusão feto-fetal.",
+   "restrição de crescimento fetal seletiva."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 46
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#47",
+  "q": "Uma primigesta realiza ultrassonografia morfológica de 2º trimestre. Quando o colo uterino é avaliado por via transvaginal, a medida de seu comprimento é de 19 mm. A paciente questiona o que isso significa e o que pode ser feito. Nesse caso, as respostas para esses questionamentos são:",
+  "alts": [
+   "risco aumentado para trabalho de parto prematuro / uso de progesterona micronizada por via vaginal.",
+   "incompetência istmocervical / cerclagem pela técnica de Shirodkar.",
+   "risco aumentado para trabalho de parto prematuro / colocação de pessário cervical.",
+   "achado inespecífico / fazer ressonância nuclear magnética para melhor avaliação.",
+   "exame sem alterações / seguimento pré-natal de rotina com equipe de saúde."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 47
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#48",
+  "q": "Um laudo ultrassonográfico de uma gestação de 28 semanas evidencia medida do maior bolsão vertical do líquido amniótico de 4 mm. Não há relato de doença materna. Diante dessa descrição, assinale a opção que apresenta, respectivamente, o diagnóstico e a possível causa.",
+  "alts": [
+   "Normodramnia e gestação normal.",
+   "Oligodramnia e arritmia fetal.",
+   "Polidramnia e agenesia renal.",
+   "Oligodramnia e válvula de uretra posterior.",
+   "Polidramnia e diabetes materno."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 48
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#49",
+  "q": "Uma gestante no termo tem indicação de indução do parto. Após o exame clínico, o índice de Bishop é calculado em 10. Isso significa que",
+  "alts": [
+   "a probabilidade de parto vaginal com uso de ocitocina é alta.",
+   "há necessidade de uso de misorpostol em alta dose.",
+   "o uso de ocitocina tem chances muito pequenas de sucesso.",
+   "há necessidade de amadurecimento cervical.",
+   "está indicada a operação cesariana."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 49
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#50",
+  "q": "Durante o pré-natal, uma gestante com 30 semanas apresenta sorologia para parvovírus B19 IgM(+) e IgG(+). Diante desse achado, a conduta mais adequada é",
+  "alts": [
+   "indicar a interrupção imediata da gestação.",
+   "administrar imunoglobulina específica.",
+   "realizar doppler da artéria cerebral média a cada duas semanas.",
+   "aplicar vacina tetravalente.",
+   "uso de antiviral por duas semanas."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 50
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#51",
+  "q": "Gestante com 10 semanas inicia pré-natal e apresenta cartão de vacinação. Nele consta esquema com apenas uma dose da dT (difteria e tétano) e uma dose para HPV. A orientação mais adequada durante essa gestação é",
+  "alts": [
+   "interromper os esquemas das duas vacinas e retomar apenas após o parto.",
+   "continuar o esquema de doses para as duas vacinas ao longo da gestação.",
+   "completar o esquema da vacina de HPV e suspender a dT até o final da gestação.",
+   "fazer mais uma dose da dT e uma dose de dTpa e suspender a de HPV.",
+   "fazer apenas mais uma dose da dT e a dTpa apenas após o parto."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 51
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#52",
+  "q": "Gestante com 32 semanas, sem histórico de doenças prévias à gestação, inicia quadro clínico de elevação da pressão arterial e seus exames laboratoriais evidenciam: - hematócrito: 31%; - plaquetas: 60.000 células/mm3; - leucócitos: 9900/mm3; - TGO: 89 U/L e TGP: 101 U/L; - LDH: 890 U/L. Diante desses achados, o diagnóstico mais provável é",
+  "alts": [
+   "hipertensão arterial crônica.",
+   "síndrome HELLP.",
+   "infecção bacteriana.",
+   "colestase gravídica.",
+   "insuficiência hepática."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 52
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#53",
+  "q": "Uma paciente com gestação gemelar realiza ultrassonografia morfológica de 1º trimestre e ela evidencia risco elevado para aneuploidias. Sobre o caso, é correto afirmar que",
+  "alts": [
+   "se for gestação dicoriônica, os riscos podem ser diferentes para cada feto.",
+   "por ser gestação gemelar, a propedêutica invasiva está contraindicada.",
+   "está indicado o teste pré-natal não invasivo (NIPT) para cada um dos fetos.",
+   "nessa idade gestacional deve ser oferecida a cordocentese diagnóstica.",
+   "se for gestação monocoriônica, o risco calculado é diferente para cada feto."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 53
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#54",
+  "q": "Uma gestante em trabalho de parto está sendo acompanhada em um plantão na maternidade. Ela foi internada com contrações uterinas regulares, feto em apresentação cefálica e 5 cm de dilatação cervical. Durante o acompanhamento, a paciente apresenta uma dor aguda e intensa em hipogástrio e inicia quadro de sangramento vaginal em moderado volume. A frequência cardíaca fetal tem uma queda importante e ao toque não se palpa mais a cabeça fetal. Diante desses achados, a hipótese diagnóstica mais provável é",
+  "alts": [
+   "placenta prévia.",
+   "parada de progressão do parto.",
+   "rotura perineal.",
+   "descolamento prematuro da placenta.",
+   "ruptura uterina."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 54
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#55",
+  "q": "Uma gestante vai à consulta com a equipe que cuidará de seu parto para receber orientações e esclarecer suas dúvidas. Quanto à assistência ao parto dessa gestante, é correto afirmar que",
+  "alts": [
+   "a gestante deverá permanecer na posição supina durante todo o trabalho de parto.",
+   "a amniotomia é realizada de rotina, sempre no início do trabalho de parto.",
+   "o bloqueio combinado raquidiano e peridural é contraindicado em primíparas.",
+   "podem ser oferecidos métodos não farmacológicos para alívio da dor.",
+   "a episiotomia é realizada de rotina para prevenir a incontinência urinária."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 55
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#56",
+  "q": "Uma gestante tem o diagnóstico de malformação de Chiari tipo II em seu feto. Esse diagnóstico está associado com",
+  "alts": [
+   "hérnia diafragmática congênita.",
+   "disrafismo espinhal.",
+   "gastrosquise.",
+   "agenesia de corpo caloso.",
+   "cisto da bolsa de Blake."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 56
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#57",
+  "q": "Uma gestante está com 10 semanas e se revela muito preocupada com a possibilidade de desenvolver pré-eclâmpsia. Ela questiona qual seria o seu risco de ter a doença e o que pode ser feito para a prevenção. Uma forma de rastreio e uma forma de prevenção são, respectivamente,",
+  "alts": [
+   "Doppler das artérias uterinas e uso de metildopa.",
+   "medida da pressão arterial média e uso de nifedipina.",
+   "Doppler da artéria umbilical e uso de cálcio.",
+   "dosagem de PLGF uso de AAS.",
+   "histórico de pré-eclâmpsia e uso de MgSO4."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 57
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#58",
+  "q": "Uma ultrassonografia morfológica de 2º trimestre encontra feto com presença de tumoração em pulmão direito contendo cistos de até 1 cm. Não foi encontrada vascularização direta desse tumor, nem outras malformações estruturais. Esse achado é compatível com o diagnóstico de",
+  "alts": [
+   "hérnia diafragmática congênita.",
+   "banda amniótica.",
+   "sequestro pulmonar.",
+   "malformação adenomatoide cística.",
+   "derrame pleural."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 58
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#59",
+  "q": "Uma paciente com gestação gemelar monocoriônica de 36 semanas chega à maternidade em trabalho de parto. O exame obstétrico revela que o primeiro feto está em apresentação pélvica. Nesse caso, a afirmação mais correta, entre as listadas a seguir, é que",
+  "alts": [
+   "poderá ser conduzido o parto vaginal.",
+   "deverá ser realizada tocólise pela prematuridade.",
+   "o parto do primeiro feto será normal, do segundo, cesariana.",
+   "deverá ser realizada versão externa do primeiro feto.",
+   "está indicada a operação cesariana."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 59
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_go#60",
+  "q": "Uma ultrassonografia obstétrica em uma gestação de 21 semanas encontra um feto sem alterações estruturais evidentes e com Doppler normal. Ainda encontra um outro feto com cabeça e tórax pequenos, sem atividade cardíaca, com artéria umbilical única com fluxo em direção do feto ao Doppler. Esses achados são compatíveis com o diagnóstico de",
+  "alts": [
+   "óbito de um dos fetos.",
+   "síndrome de transfusão feto-fetal estágio IV.",
+   "sequência TRAP.",
+   "microcefalia de um dos fetos.",
+   "restrição de crescimento seletiva."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 60
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#61",
+  "q": "Paciente de 36 anos, G2P2, deseja reiniciar o uso de anticoncepcional oral combinado após dois anos sem contracepção. Relata tabagismo de 20 cigarros/dia há 10 anos. Nega outras comorbidades. Ao exame clínico, PA = 110/70 mmHg, IMC = 22 kg/m². Deseja orientação sobre o método. Frente ao quadro clínico apresentado, assinale a afirmativa correta.",
+  "alts": [
+   "Pode iniciar anticoncepcional combinado, pois a idade da paciente exclui risco cardiovascular.",
+   "Está contraindicada a contracepção hormonal combinada em qualquer mulher tabagista.",
+   "O uso de anticoncepcional combinado é contraindicado em tabagistas com mais de 35 anos e carga tabágica acima de 15 cigarros/dia.",
+   "O uso de anticoncepcional oral deve ser restrito a até dois anos em tabagistas.",
+   "Apenas métodos com estrogênio natural são permitidos em tabagistas."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 61
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#62",
+  "q": "Mulher de 23 anos, sexualmente ativa, procura atendimento com queixa de corrimento vaginal abundante há 7 dias. Refere secreção de coloração amarelo-esverdeada, de odor desagradável e associada a prurido intenso. Ao exame especular, observa-se colpite difusa, com presença de secreção bolhosa e áreas puntiformes de sangramento na ectocérvice, conferindo o aspecto conhecido como “colo em morango”. O pH vaginal é de 5,2 e o teste de aminas com KOH é negativo. Assinale o agente etiológico mais provavelmente associado a esse quadro clínico.",
+  "alts": [
+   "Candida albicans.",
+   "Trichomonas vaginalis.",
+   "Gardnerella vaginalis.",
+   "Chlamydia trachomatis.",
+   "Neisseria gonorrhoeae."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 62
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#63",
+  "q": "Paciente de 43 anos, G2P2, procura atendimento ambulatorial por queixas urinárias iniciadas há cerca de 3 meses. Refere necessidade frequente de urinar ao longo do dia, com episódios súbitos de urgência acompanhados de perda urinária, mesmo quando tenta chegar rapidamente ao banheiro. Relata também necessidade de urinar 2 a 3 vezes durante a madrugada. Nega comorbidades ou perdas urinárias ao realizar esforço físico. Ao exame físico, sem alterações. Exame de urina tipo I normal. Nesse caso, o diagnóstico mais provável é",
+  "alts": [
+   "incontinência urinária de esforço.",
+   "infecção urinária recorrente.",
+   "incontinência urinária funcional.",
+   "síndrome da bexiga hiperativa.",
+   "incontinência urinária por transbordamento."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 63
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#64",
+  "q": "Paciente de 36 anos, G2P2, comparece ao consultório para avaliação ginecológica de rotina. Refere estar em uso de sistema intrauterino com levonorgestrel (SIU-LNG) há 3 anos, sem intercorrências prévias. Relata ausência de menstruação nos últimos 5 meses, sem sintomas vasomotores, dor pélvica ou corrimento. Nega história de curetagem uterina, cirurgias endometriais ou infecções ginecológicas recentes. Realizou teste de gravidez com resultado negativo. Diante do quadro apresentado, a explicação mais provável para a amenorreia atual é",
+  "alts": [
+   "menopausa precoce secundária à falência ovariana.",
+   "complicação infecciosa com dano endometrial irreversível.",
+   "formação de sinéquias uterinas - síndrome de Asherman.",
+   "endometrite crônica por uso prolongado do dispositivo.",
+   "atrofia endometrial induzida pelo levonorgestrel intrauterino."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 64
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#65",
+  "q": "Paciente de 40 anos, G3P3, comparece ao ambulatório de ginecologia para exame de rotina. Nega queixas de sangramento, corrimento ou dor pélvica. Está em acompanhamento regular, com colpocitologias anteriores normais. Durante o exame especular, é identificado pólipo único, de cerca de 1,2 cm, pediculado, originado da endocérvice. O colo apresenta aspecto normal, sem lesões suspeitas. A paciente está hemodinamicamente estável e sem sinais de infecção. A conduta mais apropriada para essa paciente é",
+  "alts": [
+   "realizar excisão ambulatorial do pólipo para avaliação histopatológica.",
+   "encaminhar para histerectomia total devido ao risco de malignidade.",
+   "iniciar antibioticoterapia empírica para prevenção de complicações.",
+   "realizar cauterização elétrica do colo uterino no mesmo momento.",
+   "apenas observar clinicamente, sem necessidade de intervenção."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 65
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#66",
+  "q": "Mulher de 30 anos, G1P1, procura avaliação ginecológica com queixa de dor mamária bilateral há cerca de 4 meses. Relata que a dor é do tipo peso e aumento de sensibilidade nas mamas, com piora evidente nos dias que antecedem a menstruação e melhora espontânea após o início do sangramento. Não observa nódulos ou secreção mamilar. Nega febre, trauma local ou uso de medicamentos hormonais. Ao exame físico, as mamas apresentam simetria, sem nódulos palpáveis, sem sinais inflamatórios ou alterações cutâneas. Nesse caso, o diagnóstico clínico mais provável é",
+  "alts": [
+   "mastite infecciosa bilateral com apresentação subclínica.",
+   "cisto de mama com aumento de volume na fase lútea.",
+   "abscesso mamário com quadro inflamatório atenuado.",
+   "adenose esclerosante com dor bilateral e difusa.",
+   "mastalgia cíclica associada à variação hormonal do ciclo."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 66
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#67",
+  "q": "Mulher de 51 anos, G2P2, comparece ao ambulatório de ginecologia com queixa de ondas de calor intensas, insônia e irritabilidade há 8 meses. Refere menopausa há 1 ano. Nega história de câncer pessoal ou familiar, trombose, hipertensão ou tabagismo. Está com IMC de 24 kg/m², pressão arterial de 110/70 mmHg, exames laboratoriais e de imagem recentes sem alterações. Deseja iniciar tratamento para melhora dos sintomas vasomotores, pois afirma que sua qualidade de vida tem sido comprometida. A conduta mais apropriada para essa paciente é",
+  "alts": [
+   "prescrever antidepressivo tricíclico como primeira escolha para alívio dos sintomas.",
+   "indicar fitoterapia e acupuntura como opções de primeira linha para tratamento inicial.",
+   "iniciar terapia hormonal com estrogênio e progesterona por ser a mais eficaz no controle de sintomas vasomotores.",
+   "descartar uso hormonal devido à idade acima de 50 anos da paciente.",
+   "recomendar apenas mudanças comportamentais e observar a evolução clínica."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 67
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_go#68",
+  "q": "Mulher de 34 anos, G3P3, relata menstruações intensas e prolongadas há mais de 1 ano, com uso de mais de 10 absorventes ao dia durante o fluxo. Queixa-se de fadiga, palpitações e queda de cabelo. Ao exame físico: palidez cutaneomucosa, PA: 110/70 mmHg, FC: 92 bpm. Hemoglobina: 9,8 g/dL; ferritina: 8 ng/mL. Ultrassonografia transvaginal sem alterações uterinas estruturais. A conduta inicial mais adequada para essa paciente é",
+  "alts": [
+   "solicitar histeroscopia diagnóstica para avaliar cavidade.",
+   "iniciar ferro oral e considerar contraceptivo hormonal combinado.",
+   "encaminhar para histerectomia total eletiva.",
+   "administrar ferro intravenoso e indicar transfusão sanguínea urgente.",
+   "realizar biópsia endometrial com aspiração de Pipelle."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 68
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#69",
+  "q": "Mulher de 42 anos, G2P2, comparece ao consultório com queixa de sangramento uterino aumentado e dor pélvica cíclica progressiva nos últimos 10 meses. Refere prejuízo na qualidade de vida, mas nega desejo gestacional atual. Ao exame ginecológico, útero globoso e sensível à palpação. Ultrassonografia transvaginal evidenciou útero aumentado, com zona juncional espessada, contornos irregulares da junção endométrio-miométrio, presença de cistos miometriais anecóicos medindo até 6 mm e padrão de heterogeneidade difusa do miométrio posterior. Considerando o quadro clínico e os achados de imagem, a conduta inicial mais adequada é",
+  "alts": [
+   "indicar miomectomia laparoscópica com biópsia dirigida do miométrio.",
+   "iniciar antifibrinolítico apenas nos dias de sangramento intenso.",
+   "realizar ablação endometrial por histeroscopia com ressectoscópio.",
+   "aplicar terapia hormonal com sistema intrauterino liberador de levonorgestrel (SIU-LNG).",
+   "indicar histerectomia total por via abdominal como tratamento definitivo."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 69
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_go#70",
+  "q": "Mulher de 29 anos, G0P0, procura atendimento por dor crônica na região vulvar com início há cerca de 6 meses. Relata sensação de ardência e queimação na entrada vaginal, piorando com uso de roupas justas, longos períodos sentada e durante o contato sexual. Nega corrimentos, infecções prévias recentes ou uso de medicamentos locais. Já utilizou antifúngicos e antibióticos sem melhora. Ao exame físico, não há lesões aparentes em vulva ou vagina, mas há dor referida à pressão leve com cotonete no vestíbulo vulvar posterior. Os exames laboratoriais e culturas estão normais. Refere impacto significativo em sua vida sexual e emocional. Nesse caso, a conduta inicial mais adequada é",
+  "alts": [
+   "iniciar terapia antifúngica tópica por 14 dias.",
+   "encaminhar para biópsia vulvar imediata.",
+   "fisioterapia pélvica e iniciar antidepressivo tricíclico de baixa dose.",
+   "prescrever corticoide sistêmico por 30 dias.",
+   "afastar-se da atividade sexual até remissão espontânea da dor."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 70
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#71",
+  "q": "Paciente de 26 anos, nuligesta, comparece para investigação de infertilidade primária. Relata ciclos regulares, sem dismenorreia significativa. Nega comorbidades. Exame físico sem alterações. A histerossalpingografia revelou cavidade endometrial com contornos regulares, mas com falha de enchimento linear no terço superior, trompas visualizadas com Cotté positivo. Solicitada ressonância magnética pélvica, que evidenciou útero único com reentrância endometrial medindo 18 mm e ângulo de 60 e sem duplicidade de colo ou vagina. Asinale a opção que apresenta a malformação uterina mais provável e a conduta adequada.",
+  "alts": [
+   "Útero bicorno – indicar correção cirúrgica por laparotomia.",
+   "Útero didelfo – encaminhar para metroplastia abdominal.",
+   "Útero unicorno – iniciar estimulação ovariana com clomifeno.",
+   "Útero arqueado – acompanhar clinicamente sem intervenção.",
+   "Útero septado – realizar histeroscopia com ressecção do septo."
+  ],
+  "gab": 4,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 71
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#72",
+  "q": "Mulher de 68 anos comparece ao consultório por prurido vulvar crônico, de longa data, associado à ardência e sensação de queimação. Refere falha terapêutica com antifúngicos tópicos. Ao exame físico, observa-se lesão única em grande lábio direito, de bordas irregulares, superfície eritematosa com áreas esbranquiçadas, descamativas e discretamente infiltradas, medindo cerca de 2,5 cm, sem ulceração. Realizada biópsia com diagnóstico histopatológico de lesão intraepitelial escamosa de alto grau (HSIL), sem sinais de invasão. A colpocitologia e a colposcopia foram normais. A conduta inicial mais adequada para essa paciente é",
+  "alts": [
+   "indicar exérese cirúrgica da lesão com margens livres.",
+   "prescrever corticosteroide tópico e reavaliar em 30 dias.",
+   "iniciar terapia com imiquimode tópico 5% por 16 semanas.",
+   "acompanhar clinicamente e repetir biópsia em 6 meses.",
+   "indicar vulvectomia radical com esvaziamento inguinal profilático."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 72
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#73",
+  "q": "Mulher de 26 anos, nuligesta, sexualmente ativa, comparece para exame ginecológico de rotina. Refere ciclos menstruais regulares, sem queixas geniturinárias. Ao exame especular, observa-se pequena lesão esbranquiçada, translúcida, elevada, medindo cerca de 4 mm, em região do colo uterino, sem sinais de inflamação, sangramento ou lesões acetobrancas. Colpocitologia e teste de HPV realizados há 8 meses foram normais. A conduta mais apropriada diante desse achado é",
+  "alts": [
+   "realizar biópsia excisional.",
+   "registrar o achado e manter seguimento de rotina.",
+   "encaminhar para colposcopia e biópsia dirigida.",
+   "realizar cauterização química com ácido tricloroacético.",
+   "iniciar antibioticoterapia de amplo espectro."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 73
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#74",
+  "q": "Paciente de 24 anos, G0P0, previamente hígida, procura atendimento com dor pélvica em baixo ventre há 5 dias, de intensidade progressiva, associada a corrimento vaginal purulento e febre não aferida. Refere também dispareunia e disúria. Ao exame físico: dor à palpação hipogástrica e à mobilização uterina, toque vaginal com dor à palpação de anexos. Sinais vitais: temperatura axilar de 38,3 C, frequência cardíaca de 114 bpm e pressão arterial de 90/60 mmHg. Laboratório com leucocitose e PCR elevada. Ultrassonografia transvaginal evidencia imagem cística complexa em anexo direito, com conteúdo espesso e septações finas, medindo 5,5 cm. A conduta inicial mais adequada é",
+  "alts": [
+   "acompanhamento ambulatorial com antibioticoterapia oral e controle com US seriada.",
+   "realização de drenagem cirúrgica imediata do abscesso anexial por laparoscopia.",
+   "início de anticoncepcional hormonal combinado para redução do processo inflamatório.",
+   "internação hospitalar e início de antibióticoterapia endovenosa para DIP complicada.",
+   "indicação de histerossalpingografia para melhor avaliação do conteúdo tubário."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 74
+  },
+  "avisos": [
+   "pode depender de figura"
+  ]
+ },
+ {
+  "id": "en25_go#75",
+  "q": "Adolescente de 17 anos, nuligesta, comparece à consulta por ausência de menarca. Relata desenvolvimento mamário iniciado aos 12 anos (M2), mas sem progressão. Ao exame físico: mamas em M3, presença de pelos púbicos e axilares em P4, genitália normal. IMC: 21 kg/m². Exames laboratoriais: FSH 48 mUI/mL, LH 32 mUI/mL, estradiol 12 pg/mL. Cariótipo: 46,XX. Nesse caso, a hipótese diagnóstica mais provável é",
+  "alts": [
+   "hiperplasia adrenal congênita de forma não clássica.",
+   "síndrome de resistência aos andrógenos.",
+   "insuficiência ovariana primária.",
+   "síndrome de Rokitansky.",
+   "síndrome de Kallmann."
+  ],
+  "gab": 2,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 75
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#76",
+  "q": "Paciente de 67 anos, G3P3, apresenta sangramento uterino anormal na pós-menopausa. A biópsia endometrial revelou adenocarcinoma endometrioide grau 2. Realizada histerectomia total com salpingo-ooforectomia bilateral e linfadenectomia pélvica. O anatomopatológico demonstrou tumor infiltrando mais de 50% do miométrio, sem acometimento cervical, trompas, ovários ou linfonodos. Ausência de invasão linfovascular. Com base nos achados clínico-patológicos, o estadiamento FIGO de 2023 mais adequado para esse caso é",
+  "alts": [
+   "Estágio IA – invasão menor que 50% do miométrio.",
+   "Estágio IB – invasão maior que 50% do miométrio, sem extensão extrauterina.",
+   "Estágio II – acometimento estromal cervical.",
+   "Estágio IIIA – invasão serosa uterina ou anexial.",
+   "Estágio IIIC1 – metástase para linfonodos pélvicos."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 76
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#77",
+  "q": "Mulher de 39 anos, G3P3, procura atendimento por amenorreia secundária há 3 anos e fadiga progressiva. Relata que, após o último parto, apresentou hemorragia puerperal grave com necessidade de transfusão sanguínea. Desde então, não voltou a menstruar, não apresentou lactação e vem notando ressecamento vaginal e queda de cabelos. Ao exame: PA 94/62 mmHg, FC 96 bpm, pele seca, genitália externa atrófica, mamas hipotróficas. IMC: 23 kg/m². Exames laboratoriais: • TSH: 0,1 µUI/mL; • T4 livre: 0,4 ng/dL; • FSH: 2,1 mUI/mL; • LH: 1,9 mUI/mL; • Cortisol matinal: 4,1 µg/dL; • Prolactina: 2,1 ng/mL. O diagnóstico mais provável frente ao quadro clínico e laboratorial é",
+  "alts": [
+   "hipotireoidismo primário.",
+   "insuficiência ovariana primária.",
+   "síndrome de Asherman.",
+   "síndrome de Sheehan.",
+   "tumor hipofisário não secretor."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 77
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#78",
+  "q": "Mulher de 66 anos, G5P5, sexualmente ativa, procura avaliação ginecológica por sensação de peso vaginal, exteriorização de abaulamento ao esforço e incontinência urinária aos esforços. Ao exame ginecológico com manobra de Valsalva, observam-se os seguintes parâmetros do sistema POP-Q: Aa em +2, Ba em +3, ponto C em +2, D em +1, Ap em –1, Bp em 0, e comprimento vaginal total (TVL) de 8 cm. Genitália externa sem atrofia significativa. Com base no exame físico, assinale a classificação mais compatível com os achados descritos.",
+  "alts": [
+   "Cistocele e prolapso uterino estágio III; retocele estágio II.",
+   "Cistocele e prolapso uterino estágio II; retocele estágio I.",
+   "Cistocele, prolapso uterino e retocele, todos em estágio II.",
+   "Cistocele estágio II, prolapso uterino estágio III; retocele estágio I.",
+   "Cistocele e retocele estágio III; prolapso uterino estágio II."
+  ],
+  "gab": 0,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 78
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#79",
+  "q": "Mulher de 28 anos, previamente hígida, procura atendimento por lesão indolor em vulva, percebida há aproximadamente 10 dias. Refere relação sexual desprotegida com parceiro eventual há cerca de três semanas. Nega corrimento, febre ou prurido. Ao exame ginecológico, observa-se úlcera única de aproximadamente 1,5 cm em pequeno lábio esquerdo, de bordas endurecidas, base limpa e fundo avermelhado. Linfonodos inguinais bilaterais aumentados, firmes, indolores e não aderidos. Refere ausência de dor local. O diagnóstico mais provável e a conduta terapêutica inicial recomendada são",
+  "alts": [
+   "cancro mole – iniciar azitromicina 1 g VO dose única.",
+   "sífilis primária – iniciar penicilina benzatina 2,4 milhões UI IM em dose única.",
+   "herpes genital – iniciar aciclovir 400 mg 3x/dia por 7 dias.",
+   "donovanose – solicitar biópsia e iniciar doxiciclina 100 mg 12/12 h por 3 semanas.",
+   "linfogranuloma venéreo – realizar drenagem de bubão e iniciar doxiciclina 21 dias."
+  ],
+  "gab": 1,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 79
+  },
+  "avisos": []
+ },
+ {
+  "id": "en25_go#80",
+  "q": "Mulher de 55 anos, G4P4, com história de sangramento vaginal irregular e dor pélvica há 4 meses. Ao exame especular, lesão exofítica visível no colo uterino com sangramento ao toque. Toque vaginal revela extensão da lesão para o terço inferior da vagina e fixação à parede pélvica esquerda. Urografia excretora evidencia hidronefrose à esquerda. Tomografia computadorizada sem sinais de metástases à distância. Biópsia confirma carcinoma epidermoide invasivo. Com base nas informações clínicas e no estadiamento FIGO 2018, o estadiamento mais adequado é o",
+  "alts": [
+   "Estádio IB2.",
+   "Estádio IIA2.",
+   "Estádio IIIA.",
+   "Estádio IIIB.",
+   "Estádio IVA."
+  ],
+  "gab": 3,
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE 2025/2026 pré-requisito em Ginecologia e Obstetrícia",
+   "ex": "enare25go",
+   "n": 80
+  },
+  "avisos": []
+ }
+]

@@ -49,3 +49,43 @@ com o cabeçalho da coluna antes do valor). Os PDFs ficaram no rascunho da sess�
   verbatim.
 - **UNIFESP, SUS-SP e PSU-MG/AREMG**: não deu para procurar, porque a cota de 10 buscas acabou nas
   tentativas acima.
+
+## Rodada 2 (07/10/2026): ENAMED 2025 e provas de especialidade do ENARE
+
+Todos com gabarito DEFINITIVO, baixados direto do site da banca (sem login). As questões anuladas
+ficaram fora dos JSON. Extração: `docs/colunas_pdf.py` + `docs/extrai_prova.py` (cópia do ClínicaMed
+com os cabeçalhos do caderno do ENARE 2025/2026 no LIXO); rodapé "Tipo 1 – código – Página N" tirado
+depois por regex.
+
+### enamed25: ENAMED 2025 (INEP), caderno 1
+- Caderno: https://download.inep.gov.br/enamed/provas_e_gabaritos/2025_caderno_1_preliminar.pdf
+- Gabarito definitivo: https://download.inep.gov.br/enamed/provas_e_gabaritos/2025_gabarito_caderno_1.pdf
+  (10 anuladas: 2, 7, 9, 10, 11, 40, 43, 76, 88, 100).
+- O caderno usa Calibri Light como fonte CID (Identity-H) SEM tabela ToUnicode: o texto sai em
+  glifos. Decodificado glifo a glifo pela tabela de caracteres da Calibri Light instalada com o
+  Office (`calibril.ttf`: cmap invertido + ligaduras do GSUB), só nos trechos com códigos de glifo
+  (abaixo de 0x20 ou entre 0x100 e 0x4FF). Script: `docs/ferramentas/decod_enamed.py`.
+  Conferência: as 49 questões 1 a 50 que também estão no Revalida 2025.2 (texto limpo) saíram
+  IDÊNTICAS, enunciado e alternativas; nas 42 que já estavam no banco, o gabarito bate em 42/42.
+- No banco, a questão comum às duas provas fica com `fonte.ex = enamed25` e o Revalida 2025.2 em
+  `fonte.tb` (monta_banco/importa: provas-extras são registradas primeiro).
+
+### ENARE pré-requisito / ano adicional (EBSERH/FGV), Tipo 1
+Uma prova por especialidade de base, aplicada a todas as áreas de atuação daquela base (a de
+Neonatologia é a mesma da Medicina do Adolescente, por exemplo).
+- 2024/2025: https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/medica/ +
+  `area-de-atuacao/AREA DE ATUACAO - NEONATOLOGIA (ATNeonatT01).pdf` (Pediatria),
+  `ano-adicional/ANO ADICIONAL - GINECOLOGIA E OBSTETRICIA R4 (AAGINOBST01).pdf`,
+  `ano-adicional/ANO ADICIONAL - MEDICINA DE FAMILIA E COMUNIDADE R3 (AAMEFACOT01).pdf`,
+  `area-de-atuacao/AREA DE ATUACAO - PSIQUIATRIA DA INFANCIA E ADOLESCENCIA (ATPsInAdT01).pdf`;
+  gabarito definitivo "ENARE 2024 Gabarito Definitivo - Medica.pdf" (blocos "... - TIPO 1").
+- 2025/2026: https://storage.googleapis.com/website-enare-2025/assets/provas/res-med/ +
+  `area-at/p2e058-...neonatologia...`, `ano-ad/p1e010-...ginecologia-e-obstetricia-r4...`,
+  `ano-ad/p1e014-...medicina-de-familia-e-comunidade-r3...`, `area-at/p2e067-...psiquiatria-da-infancia...`
+  (lista em assets/provas/nomes-dos-arquivos.csv); gabaritos definitivos em
+  assets/provas/gabaritos/enare2025-medicos-gabarito-definitivo-{area-de-atuacao,ano-adicional}.pdf.
+- Questões de Clínica Médica dessas provas foram descartadas na triagem (pedido de 07/10: aumentar
+  as outras áreas). Relatórios: docs/relatorios/real_19 a real_35.
+
+### Tentadas e não usadas (rodada 2)
+- Revalida 2020: só há gabarito PRELIMINAR público em PDF; o definitivo ficou na página do participante.

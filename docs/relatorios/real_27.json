@@ -1,0 +1,22 @@
+{
+ "incluidas": 40,
+ "descartadas": [],
+ "gabaritos_discutiveis": [
+  {
+   "pid": "g25041",
+   "nota": "correção de extração: os rótulos dos exames saíram fora de ordem ('hematócrito 27%, 9900/mm3, 201.000/mm3. leucócitos: plaquetas'); reordenado para 'hematócrito 27%, leucócitos: 9900/mm³, plaquetas: 201.000/mm³' sem mudar valores. Gabarito mantido: hematócrito baixo faz o glicosímetro superestimar a glicemia."
+  },
+  {
+   "pid": "g25043",
+   "nota": "a oficial (anti-D após o parto se RN Rh positivo) é verdadeira e a única correta, mas incompleta como conduta: o anti-C é clinicamente significativo e exige seguimento com titulação e Doppler da artéria cerebral média. O comentário deixa isso explícito."
+  },
+  {
+   "pid": "g25071",
+   "nota": "diagnóstico de útero septado pelos critérios ASRM 2016 é seguro; o benefício da septoplastia histeroscópica na infertilidade é debatido (ensaio TRUST, 2021), mas segue como conduta aceita e é a única alternativa coerente."
+  },
+  {
+   "pid": "g25074",
+   "nota": "FC 114 e PA 90/60 sugerem resposta inflamatória sistêmica; a oficial (internação + antibiótico EV) segue CDC 2021 para abscesso de 5,5 cm sem rotura, mas drenagem precoce seria defensável se houvesse instabilidade franca."
+  }
+ ]
+}

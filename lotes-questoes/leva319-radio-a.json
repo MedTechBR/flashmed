@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Homem de 28 anos, vítima de facada no hemitórax direito, chega dispneico, com SpO2 de 84%, PA 76/40 mmHg, turgência jugular, desvio da traqueia para a esquerda e murmúrio vesicular abolido à direita. O plantonista pede radiografia de tórax no leito antes de qualquer procedimento. Segundo o ATLS 11ª edição, qual é a conduta correta?",
+  "alts": [
+   "Aguardar a radiografia para confirmar o colapso antes de puncionar",
+   "Solicitar tomografia de tórax para diferenciar de hemotórax maciço",
+   "Descomprimir o tórax de imediato, sem esperar exame de imagem",
+   "Realizar eFAST e drenar apenas se houver ponto pulmonar visível",
+   "Intubar e ventilar com pressão positiva antes da descompressão"
+  ],
+  "gab": 2,
+  "tema": "radiologia",
+  "sub": "Tórax · Pneumotórax hipertensivo",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "Pneumotórax hipertensivo é diagnóstico clínico: dispneia, hipotensão, turgência jugular, desvio da traqueia para o lado oposto e murmúrio abolido no lado afetado. Pedir radiografia ou tomografia nesse cenário atrasa o tratamento de uma causa reversível de parada em atividade elétrica sem pulso. O ATLS 11ª edição (2025) orienta descompressão imediata, por agulha ou toracostomia digital (no adulto, 4º ou 5º espaço intercostal entre as linhas axilares anterior e média), seguida de dreno torácico. A imagem vem depois, para conferir o dreno e a reexpansão.",
+  "porAlt": [
+   "Esperar o filme num paciente em choque obstrutivo pode levar à parada; o diagnóstico é clínico.",
+   "Tomografia exige transporte e tempo que o paciente instável não tem; não se leva instável ao tomógrafo.",
+   "Correta: o quadro clínico basta para o diagnóstico, e a descompressão imediata precede qualquer imagem.",
+   "O eFAST ajuda no paciente estável ou na dúvida, mas não deve atrasar a descompressão com o quadro típico.",
+   "A pressão positiva aumenta a pressão intrapleural e piora o colapso circulatório antes da descompressão."
+  ]
+ },
+ {
+  "q": "Mulher de 66 anos, internada com insuficiência cardíaca descompensada e febre, tem radiografia de tórax em PA com velamento do seio costofrênico esquerdo e menisco ascendente na parede lateral. A equipe quer confirmar o líquido, estimar o volume e puncionar com segurança para análise. Qual exame atende melhor a esse objetivo, segundo a diretriz britânica de doença pleural?",
+  "alts": [
+   "Tomografia de tórax com contraste antes de qualquer punção",
+   "Radiografia em perfil para estimar o volume antes da punção",
+   "Radiografia em decúbito lateral para marcar o ponto de punção",
+   "Ressonância de tórax para distinguir transudato de exsudato",
+   "Ultrassonografia torácica à beira do leito guiando a punção"
+  ],
+  "gab": 4,
+  "tema": "radiologia",
+  "sub": "Tórax · Derrame pleural e punção guiada",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "British Thoracic Society. Guideline for pleural disease, 2023",
+  "coment": "A radiografia em PA só apaga o seio costofrênico com cerca de 200 mL de líquido (no perfil, cerca de 50 mL) e não mostra septações nem o melhor ponto de entrada. A ultrassonografia à beira do leito detecta volumes pequenos, diferencia líquido de consolidação, mostra septos e espessamento pleural e permite marcar ou guiar a agulha em tempo real. A diretriz da British Thoracic Society (2023) recomenda ultrassonografia torácica para orientar todo procedimento pleural com líquido, porque reduz pneumotórax iatrogênico e punção de órgão. Tomografia fica para a dúvida diagnóstica ou para o derrame complicado.",
+  "porAlt": [
+   "A tomografia não é necessária para puncionar e não guia a agulha em tempo real à beira do leito.",
+   "O perfil detecta volumes menores que o PA, mas não mostra o local seguro nem guia a punção.",
+   "O decúbito lateral mostra se o líquido é livre, mas foi substituído pela ultrassonografia para guiar a punção.",
+   "A ressonância não diferencia transudato de exsudato com segurança; isso é feito pela análise do líquido.",
+   "Correta: a ultrassonografia confirma o líquido, avalia septos e volume e guia a punção com menos complicações."
+  ]
+ },
+ {
+  "q": "Homem de 54 anos é intubado na UTI por pneumonia grave. Logo depois, a SpO2 cai para 88% e o murmúrio está diminuído à esquerda. A radiografia no leito mostra a ponta do tubo orotraqueal projetada além da carina, no brônquio-fonte direito, e opacidade com redução volumétrica do pulmão esquerdo. Qual é a conduta?",
+  "alts": [
+   "Drenar o hemitórax esquerdo pela suspeita de derrame volumoso",
+   "Tracionar o tubo até a ponta ficar cerca de 5 cm acima da carina",
+   "Indicar broncoscopia para aspirar tampão mucoso no lobo inferior",
+   "Aumentar a PEEP para recrutar o pulmão esquerdo sem mexer no tubo",
+   "Trocar o tubo por um de maior calibre e repetir a radiografia"
+  ],
+  "gab": 1,
+  "tema": "radiologia",
+  "sub": "Tórax · Posição do tubo orotraqueal",
+  "cenario": "uti",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Goodman LR et al. Radiographic evaluation of endotracheal tube position. AJR, 1976",
+  "coment": "Com o pescoço em posição neutra, a ponta do tubo orotraqueal deve ficar a cerca de 5 cm (5 ± 2 cm) acima da carina, o que no filme corresponde em geral ao nível das clavículas ou de T2 a T4. Flexão e extensão do pescoço movem a ponta cerca de 2 cm para baixo ou para cima. O brônquio-fonte direito é mais vertical e mais largo, por isso a intubação seletiva costuma ser à direita, com hipoventilação e atelectasia do pulmão esquerdo, que perde volume em vez de empurrar o mediastino. A correção é tracionar o tubo e repetir a radiografia; a atelectasia tende a se desfazer com a ventilação restabelecida.",
+  "porAlt": [
+   "A opacidade com perda de volume indica atelectasia, que puxa o mediastino; derrame volumoso empurraria.",
+   "Correta: tubo além da carina é intubação seletiva; recua-se até cerca de 5 cm acima dela.",
+   "O tampão mucoso entra no diferencial, mas a causa visível é o tubo seletivo, que se corrige primeiro.",
+   "Mais PEEP não ventila o pulmão esquerdo enquanto o tubo estiver no brônquio direito e ainda hiperdistende o direito.",
+   "O problema é a posição, não o calibre; trocar o tubo expõe a nova intubação sem necessidade."
+  ]
+ },
+ {
+  "q": "Idoso de 81 anos com disfagia após AVC recebe sonda nasoenteral. A radiografia de controle mostra o trajeto da sonda acompanhando o brônquio-fonte direito, com a ponta projetada no lobo inferior direito, acima da cúpula diafragmática. O paciente está sem tosse e com saturação normal. Qual é a conduta?",
+  "alts": [
+   "Iniciar dieta em volume baixo, já que não há tosse nem dessaturação",
+   "Avançar mais 10 cm e liberar a dieta sem nova radiografia",
+   "Confirmar por ausculta epigástrica com ar e então liberar a dieta",
+   "Retirar a sonda, repassá-la e repetir a radiografia antes da dieta",
+   "Manter a sonda e trocar a dieta por soro até a próxima radiografia"
+  ],
+  "gab": 3,
+  "tema": "radiologia",
+  "sub": "Tórax · Sonda enteral mal posicionada",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Boullata JI et al. ASPEN Safe Practices for Enteral Nutrition Therapy, 2017",
+  "coment": "No idoso com AVC, o reflexo de tosse e o nível de consciência podem estar reduzidos, e a sonda entra na via aérea sem sinal clínico. Por isso a radiografia é o padrão para confirmar sonda passada às cegas antes do primeiro uso (ASPEN, 2017). A sonda bem posicionada desce na linha média, corta a carina ao meio sem seguir os brônquios, cruza o diafragma e tem a ponta abaixo da cúpula esquerda. Trajeto brônquico com ponta no pulmão exige retirar e repassar, com novo controle; infundir dieta ou soro causaria pneumonia aspirativa, e avançar a sonda pode perfurar a pleura e causar pneumotórax.",
+  "porAlt": [
+   "A ausência de tosse não garante nada no idoso com AVC; qualquer volume no pulmão causa pneumonia.",
+   "Avançar uma sonda que está no brônquio pode perfurar a pleura visceral e causar pneumotórax.",
+   "A ausculta com insuflação de ar é pouco confiável e não substitui a radiografia na sonda passada às cegas.",
+   "Correta: sonda na via aérea deve ser retirada e repassada, com nova radiografia antes de qualquer infusão.",
+   "Soro pela sonda brônquica é infusão no pulmão; a sonda não pode ser usada nessa posição."
+  ]
+ },
+ {
+  "q": "Após punção da veia subclávia direita para cateter venoso central, a radiografia de controle mostra a ponta do cateter projetada na junção entre a veia cava superior e o átrio direito, sem linha pleural visível e sem alargamento do mediastino. Qual é a interpretação correta?",
+  "alts": [
+   "Posição adequada; o cateter pode ser usado sem reposicionar",
+   "Posição profunda; tracionar até a veia braquiocefálica",
+   "Posição inadequada; a ponta deveria estar no ventrículo direito",
+   "Posição incerta; injetar contraste antes de liberar a infusão",
+   "Posição alta; avançar até o meio do átrio direito"
+  ],
+  "gab": 0,
+  "tema": "radiologia",
+  "sub": "Tórax · Cateter venoso central",
+  "cenario": "uti",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Infusion Nurses Society. Infusion Therapy Standards of Practice, 9ª edição, 2024",
+  "coment": "A ponta do cateter venoso central deve ficar no terço inferior da veia cava superior, na junção cavoatrial ou perto dela, onde o fluxo é alto e o risco de trombose e de lesão da parede é menor (Infusion Nurses Society, 2024). Ponta na veia braquiocefálica ou alta na cava aumenta trombose e erosão; ponta profunda no átrio ou no ventrículo aumenta arritmia e, raramente, tamponamento. Na radiografia de controle após punção de subclávia ou jugular também se procura pneumotórax e hemotórax. Sem esses achados e com a ponta na junção cavoatrial, o cateter está liberado.",
+  "porAlt": [
+   "Correta: a junção cavoatrial é a posição recomendada para a ponta do cateter venoso central.",
+   "A veia braquiocefálica é posição curta, com mais trombose e risco de erosão da parede.",
+   "Ponta no ventrículo direito causa arritmia e pode lesar a parede; não é posição alvo.",
+   "A radiografia já define a posição; contraste não é rotina para liberar o cateter bem posicionado.",
+   "Avançar até o meio do átrio aumenta arritmia; a junção cavoatrial já é o alvo."
+  ]
+ },
+ {
+  "q": "Homem de 63 anos, tabagista de 40 maços-ano, faz tomografia de abdome por cólica renal, que mostra, na base pulmonar, nódulo sólido único de 7 mm, de contorno liso. Não há tomografia anterior nem câncer conhecido. Pela Sociedade Fleischner, qual é a conduta?",
+  "alts": [
+   "Sem seguimento de rotina, pois o nódulo tem menos de 8 mm",
+   "PET-CT imediata para definir a atividade metabólica do nódulo",
+   "TC de tórax em 6 a 12 meses e nova TC em 18 a 24 meses",
+   "Biópsia percutânea guiada por tomografia nas próximas semanas",
+   "Radiografia de tórax anual até completar dois anos"
+  ],
+  "gab": 2,
+  "tema": "radiologia",
+  "sub": "Tórax · Nódulo pulmonar incidental",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "MacMahon H et al. Guidelines for management of incidental pulmonary nodules detected on CT images: Fleischner Society 2017. Radiology, 2017",
+  "coment": "A Fleischner 2017 vale para nódulo achado por acaso em tomografia de adulto a partir de 35 anos, sem câncer conhecido e sem imunossupressão, fora de rastreamento. Para nódulo sólido único de 6 a 8 mm, a conduta é TC em 6 a 12 meses; no paciente de alto risco, como o tabagista pesado, nova TC em 18 a 24 meses. Abaixo de 6 mm no alto risco a TC em 12 meses é opcional; acima de 8 mm, considera-se TC em 3 meses, PET-CT ou biópsia. PET-CT tem baixa sensibilidade abaixo de 8 mm e radiografia não serve para seguir nódulo visto só na tomografia.",
+  "porAlt": [
+   "Dispensar seguimento vale para nódulo abaixo de 6 mm no baixo risco, não para 7 mm em tabagista.",
+   "A PET-CT tem baixa sensibilidade em nódulos menores que 8 mm e não é o passo inicial aqui.",
+   "Correta: nódulo sólido de 6 a 8 mm em alto risco pede TC em 6 a 12 meses e depois em 18 a 24 meses.",
+   "Biópsia de nódulo de 7 mm tem baixo rendimento e risco de pneumotórax; não é a conduta inicial.",
+   "Nódulo visto só na tomografia não é seguido por radiografia, que não o enxerga com fidelidade."
+  ]
+ },
+ {
+  "q": "Mulher de 68 anos, ex-tabagista, faz angiotomografia de tórax por suspeita de embolia, que é negativa, mas mostra nódulo sólido espiculado de 14 mm no lobo superior direito. Não há exames prévios. Segundo a Fleischner 2017, qual é o encaminhamento adequado?",
+  "alts": [
+   "TC de tórax em 12 meses e alta se o nódulo não crescer",
+   "Radiografia de tórax em 3 meses para comparar o tamanho",
+   "Nenhum seguimento, pois o achado veio de angiotomografia",
+   "TC de baixa dose anual dentro do programa de rastreamento",
+   "Investigação em até 3 meses com TC, PET-CT ou biópsia"
+  ],
+  "gab": 4,
+  "tema": "radiologia",
+  "sub": "Tórax · Nódulo sólido acima de 8 mm",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "MacMahon H et al. Guidelines for management of incidental pulmonary nodules detected on CT images: Fleischner Society 2017. Radiology, 2017",
+  "coment": "Nódulo sólido único acima de 8 mm entra na faixa em que a Fleischner 2017 recomenda considerar TC em 3 meses, PET-CT ou amostragem tecidual, escolhendo pelo risco. Aqui o risco é alto: idade, tabagismo, localização no lobo superior e, sobretudo, margem espiculada. Nesse tamanho a PET-CT já é útil para caracterizar e estadiar. O fato de o achado vir de angiotomografia não muda nada: qualquer tomografia que inclua o pulmão vale. Seguir por radiografia ou esperar um ano atrasaria o diagnóstico de um possível adenocarcinoma em estádio inicial.",
+  "porAlt": [
+   "Esperar 12 meses é conduta de nódulo menor; acima de 8 mm e espiculado, a investigação é precoce.",
+   "A radiografia não acompanha com fidelidade um nódulo caracterizado na tomografia.",
+   "O nódulo incidental em qualquer tomografia de tórax segue a mesma recomendação da Fleischner.",
+   "Nódulo já detectado não entra no rastreamento anual; ele é investigado pela recomendação do incidental.",
+   "Correta: nódulo sólido acima de 8 mm pede TC em 3 meses, PET-CT ou biópsia, conforme o risco."
+  ]
+ },
+ {
+  "q": "Gestante de 26 semanas chega com dispneia súbita, taquicardia e SpO2 de 93%, sem dor ou edema em membros inferiores. A radiografia de tórax, feita com proteção abdominal, é normal. Segundo a diretriz ATS/STR para suspeita de embolia pulmonar na gestação, qual é o próximo exame?",
+  "alts": [
+   "Angiotomografia de tórax, primeira opção mesmo com radiografia normal",
+   "Cintilografia de perfusão pulmonar, preferida com radiografia normal",
+   "Ressonância de tórax com gadolínio, que dispensa radiação ionizante",
+   "Ultrassonografia dos membros inferiores, mesmo sem sintomas nas pernas",
+   "Nenhum exame, pois a gestação explica a taquicardia e a dispneia"
+  ],
+  "gab": 1,
+  "tema": "radiologia",
+  "sub": "Tórax · Embolia pulmonar na gestante",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Leung AN et al. ATS/STR Clinical Practice Guideline: evaluation of suspected pulmonary embolism in pregnancy, 2011",
+  "coment": "Na gestante com suspeita de embolia, a diretriz ATS/STR (2011) orienta: com sinais de trombose venosa nas pernas, começar pela ultrassonografia de compressão; sem eles, radiografia de tórax. Se a radiografia é normal, a cintilografia de perfusão é preferida, porque tem alta taxa de exames conclusivos nessa população e expõe menos a mama materna à radiação. Radiografia alterada favorece a angiotomografia. Gadolínio não é usado na gestação para esse fim. Dispneia e taquicardia com hipoxemia não podem ser atribuídas à gestação sem investigar, pela gravidade da doença.",
+  "porAlt": [
+   "A angiotomografia é preferida quando a radiografia está alterada; com radiografia normal, prefere-se a cintilografia.",
+   "Correta: radiografia normal na gestante leva à cintilografia de perfusão, pela diretriz ATS/STR.",
+   "O gadolínio é evitado na gestação e a ressonância não é método validado para essa decisão.",
+   "Sem sinais nas pernas, a ultrassonografia de membros inferiores não é recomendada de rotina.",
+   "Hipoxemia com dispneia súbita não é fisiológica da gestação e exige investigar embolia."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos, em uso crônico de anti-inflamatório, tem dor epigástrica súbita e intensa há 4 horas, que se generalizou, com abdome em tábua. A radiografia de tórax em ortostase mostra faixa de ar em crescente sob as duas cúpulas diafragmáticas. Qual é a interpretação e a conduta?",
+  "alts": [
+   "Interposição do cólon (Chilaiditi); analgesia e observação clínica",
+   "Pneumotórax subpulmonar bilateral; drenagem torácica bilateral",
+   "Gás no estômago e no ângulo esplênico; repetir em decúbito dorsal",
+   "Pneumoperitônio por perfuração; preparo para a cirurgia de urgência",
+   "Abscesso subfrênico bilateral; drenagem percutânea guiada por TC"
+  ],
+  "gab": 3,
+  "tema": "radiologia",
+  "sub": "Abdome e digestório · Pneumoperitônio",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Tarasconi A et al. Perforated and bleeding peptic ulcer: WSES guidelines, 2020",
+  "coment": "Ar livre sob as cúpulas na radiografia de tórax em ortostase, num paciente com peritonite súbita e uso de anti-inflamatório, é pneumoperitônio por úlcera péptica perfurada até prova em contrário. A radiografia de pé detecta pequenas quantidades de ar, mas falha em parte dos casos; se for negativa com suspeita alta, a tomografia é mais sensível (WSES, 2020). O sinal de Chilaiditi mostra pregas do cólon dentro da imagem gasosa e paciente sem peritonite. A conduta é reanimação, antibiótico, inibidor de bomba e cirurgia de urgência.",
+  "porAlt": [
+   "O Chilaiditi mostra haustrações dentro do gás e ocorre em paciente sem abdome agudo.",
+   "Pneumotórax subpulmonar fica acima do diafragma e não explica o abdome em tábua.",
+   "Gás gástrico fica contido na bolha, com parede visível, e não forma crescente sob as duas cúpulas.",
+   "Correta: ar livre sob as cúpulas com peritonite súbita indica perfuração e cirurgia de urgência.",
+   "Abscesso subfrênico tem evolução de dias, com febre e nível líquido, não dor súbita de horas."
+  ]
+ },
+ {
+  "q": "Mulher de 59 anos, com histerectomia prévia, tem cólicas, vômitos e parada de eliminação de gases há 2 dias. A radiografia de abdome mostra alças de delgado centrais com 4 cm de diâmetro, pregas coniventes e vários níveis hidroaéreos em escada, com pouco gás no cólon. Está estável, sem peritonite. Qual é o próximo exame indicado?",
+  "alts": [
+   "Tomografia de abdome com contraste intravenoso",
+   "Enema opaco com bário para localizar a obstrução",
+   "Colonoscopia para descomprimir o segmento dilatado",
+   "Ultrassonografia para procurar cálculo na vesícula",
+   "Radiografia contrastada do delgado com bário oral"
+  ],
+  "gab": 0,
+  "tema": "radiologia",
+  "sub": "Abdome e digestório · Obstrução do delgado",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ten Broek RPG et al. Bologna guidelines for diagnosis and management of adhesive small bowel obstruction: 2017 update (WSES), 2018",
+  "coment": "Alças de delgado acima de 3 cm, com pregas coniventes que cruzam toda a alça, níveis hidroaéreos em escada e cólon pobre em gás indicam obstrução do delgado; em quem já operou o abdome, a causa mais comum é brida. A radiografia confirma a suspeita, mas a tomografia com contraste intravenoso define o ponto de transição, a causa e, principalmente, sinais de sofrimento de alça (parede que não realça, líquido livre, alça fechada), que mudam a conduta para cirurgia (Bologna/WSES, 2018). Bário é evitado pelo risco de peritonite química se houver perfuração.",
+  "porAlt": [
+   "Correta: a tomografia com contraste mostra transição, causa e sinais de estrangulamento.",
+   "O enema avalia o cólon e o bário é evitado no abdome agudo pelo risco de peritonite química.",
+   "A colonoscopia descomprime volvo de sigmoide, não obstrução do delgado por brida.",
+   "Íleo biliar entra no diferencial, mas a ultrassonografia não define obstrução nem sofrimento de alça.",
+   "Bário oral na obstrução completa pode impactar e, se houver perfuração, causar peritonite grave."
+  ]
+ },
+ {
+  "q": "Mulher de 71 anos, hipertensa, apresenta há 50 minutos hemiparesia direita e afasia. Glicemia capilar de 132 mg/dL. A tomografia de crânio sem contraste não mostra hiperdensidade nem hipodensidade, com ASPECTS de 10. Como interpretar a tomografia diante da decisão de trombólise?",
+  "alts": [
+   "Exclui AVC, pois o infarto já seria visível em 50 minutos",
+   "Exclui hemorragia e não afasta isquemia; permite a trombólise",
+   "É insuficiente; é obrigatório fazer RM antes de trombolisar",
+   "Sugere crise epiléptica; tratar com anticonvulsivante e observar",
+   "Exige TC com contraste para afastar tumor antes do trombolítico"
+  ],
+  "gab": 1,
+  "tema": "radiologia",
+  "sub": "Neurorradiologia · AVC isquêmico na TC",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "AHA/ASA. Guideline for the Early Management of Patients With Acute Ischemic Stroke, 2026",
+  "coment": "Nas primeiras horas, a tomografia sem contraste costuma ser normal no AVC isquêmico, porque a hipodensidade leva horas para aparecer. A função dela na urgência é excluir hemorragia e estimar a área já infartada pelo ASPECTS (10 é normal). Pela diretriz AHA/ASA de 2026, TC sem contraste ou RM antes da reperfusão é recomendação classe 1, e a TC basta para decidir a trombólise na maioria; não se deve atrasar o tratamento por RM ou por exames de vasos quando a decisão já pode ser tomada. Déficit focal súbito com TC normal e glicemia normal, dentro de 4,5 horas, é candidato à trombólise.",
+  "porAlt": [
+   "A TC é pouco sensível ao infarto nas primeiras horas; normal não exclui AVC isquêmico.",
+   "Correta: a TC normal exclui hemorragia, não afasta isquemia e libera a decisão de trombolisar.",
+   "A RM não é obrigatória; exigir RM atrasa a trombólise sem ganho para a maioria.",
+   "Crise com paralisia de Todd é diferencial, mas déficit súbito com afasia sem crise presenciada é AVC até prova em contrário.",
+   "Contraste para afastar tumor não faz parte da avaliação aguda e atrasa a reperfusão."
+  ]
+ },
+ {
+  "q": "Homem de 62 anos, hipertenso sem tratamento, tem cefaleia súbita, vômitos e hemiplegia esquerda há 1 hora; PA 214/118 mmHg. A tomografia sem contraste mostra imagem espontaneamente hiperdensa, de 3 cm, no putâmen direito, com halo hipodenso fino. Qual é a interpretação?",
+  "alts": [
+   "Infarto isquêmico agudo extenso no território da cerebral média",
+   "Tumor cerebral calcificado, que pede ressonância com gadolínio",
+   "Hemorragia subaracnóidea por aneurisma da comunicante anterior",
+   "Hemorragia intraparenquimatosa hipertensiva; sem trombólise",
+   "Hematoma subdural agudo espalhado ao longo da convexidade"
+  ],
+  "gab": 3,
+  "tema": "radiologia",
+  "sub": "Neurorradiologia · Hemorragia intraparenquimatosa",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Greenberg SM et al. AHA/ASA Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage, 2022",
+  "coment": "Na TC sem contraste, sangue agudo é hiperdenso; o infarto agudo é normal ou hipodenso. Hematoma no putâmen, tálamo, ponte ou cerebelo em hipertenso mal controlado é o padrão da hemorragia hipertensiva por doença de pequenos vasos. O halo hipodenso é edema ao redor. A diretriz AHA/ASA de 2022 trata essa hemorragia com controle pressórico (alvo de sistólica em torno de 140 mmHg, evitando quedas bruscas), reversão de anticoagulante quando houver e avaliação neurocirúrgica. Trombolítico é contraindicado. Hemorragia em local atípico ou em jovem pede angiotomografia para procurar causa vascular.",
+  "porAlt": [
+   "O infarto agudo não é hiperdenso no parênquima; é normal ou hipodenso na TC.",
+   "Calcificação é densa e sem efeito agudo; o quadro súbito com hiperdensidade é sangue.",
+   "Sangue subaracnóideo ocupa sulcos e cisternas, não forma hematoma no putâmen.",
+   "Correta: hiperdensidade no putâmen em hipertenso é hemorragia intraparenquimatosa e contraindica trombólise.",
+   "Hematoma subdural é extra-axial, em crescente na convexidade, não dentro dos núcleos da base."
+  ]
+ },
+ {
+  "q": "Jovem de 19 anos leva pancada de taco de beisebol na região temporal, perde a consciência por segundos, acorda lúcido e, 3 horas depois, fica sonolento, com anisocoria à direita. A tomografia mostra coleção hiperdensa biconvexa, temporal direita, que não ultrapassa as suturas, com traço de fratura adjacente. Qual é o diagnóstico mais provável?",
+  "alts": [
+   "Hematoma subdural agudo por ruptura de veias-ponte corticais",
+   "Hemorragia subaracnóidea traumática nas cisternas da base",
+   "Contusão cerebral hemorrágica do lobo temporal direito",
+   "Lesão axonal difusa com micro-hemorragias no corpo caloso",
+   "Hematoma epidural por lesão da artéria meníngea média"
+  ],
+  "gab": 4,
+  "tema": "radiologia",
+  "sub": "Neurorradiologia · Hematoma epidural",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Bullock MR et al. Guidelines for the surgical management of traumatic brain injury (Brain Trauma Foundation), 2006",
+  "coment": "O hematoma epidural fica entre a díploe e a dura-máter, que está firmemente presa nas suturas; por isso tem forma biconvexa (lente) e não cruza suturas. A causa típica é fratura temporal com lesão da artéria meníngea média, e o intervalo lúcido seguido de piora e anisocoria ipsilateral é clássico. As diretrizes da Brain Trauma Foundation (2006) indicam drenagem cirúrgica do epidural acima de 30 cm³, qualquer que seja o Glasgow, e com urgência quando há anisocoria. O subdural tem forma de crescente e cruza suturas.",
+  "porAlt": [
+   "O subdural é em crescente e cruza suturas; não tem forma biconvexa limitada por elas.",
+   "Sangue subaracnóideo fica em sulcos e cisternas, sem coleção biconvexa extra-axial.",
+   "Contusão é intra-axial, no parênquima, e não forma lente presa às suturas.",
+   "Lesão axonal difusa causa coma desde o trauma, sem intervalo lúcido nem coleção extra-axial.",
+   "Correta: coleção biconvexa que respeita suturas, com fratura temporal e intervalo lúcido, é epidural."
+  ]
+ },
+ {
+  "q": "Homem de 79 anos, etilista e em uso de apixabana, caiu da própria altura há 3 semanas. Desde então está mais confuso, com piora da marcha e leve paresia à esquerda. A tomografia mostra coleção extra-axial em crescente sobre a convexidade direita, que cruza as suturas e é hipodensa em relação ao córtex. Qual é o diagnóstico?",
+  "alts": [
+   "Hematoma subdural crônico por ruptura de veias-ponte",
+   "Hematoma epidural subagudo por lesão de artéria meníngea",
+   "Higroma subdural por hidrocefalia de pressão normal",
+   "Infarto subagudo do território da cerebral média",
+   "Empiema subdural secundário a sinusite frontal"
+  ],
+  "gab": 0,
+  "tema": "radiologia",
+  "sub": "Neurorradiologia · Hematoma subdural crônico",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "NICE. Head injury: assessment and early management (NG232), 2023",
+  "coment": "O hematoma subdural nasce da ruptura de veias-ponte entre o córtex e os seios durais, favorecida pela atrofia cerebral do idoso e do etilista e pela anticoagulação. Como fica abaixo da dura, espalha-se pela convexidade em crescente e cruza suturas. A densidade conta a idade do sangue: hiperdenso nos primeiros dias, isodenso em cerca de 1 a 3 semanas e hipodenso depois. Confusão, piora da marcha e déficit leve semanas após queda banal são o quadro típico do crônico. Anticoagulado com trauma de crânio deve ter limiar baixo para tomografia (NICE, 2023).",
+  "porAlt": [
+   "Correta: crescente que cruza suturas, hipodenso semanas após queda em idoso anticoagulado, é subdural crônico.",
+   "O epidural é biconvexo, não cruza suturas e evolui em horas, com fratura e lesão arterial.",
+   "O higroma é coleção de liquor, sem relação com hidrocefalia de pressão normal nem com déficit focal após queda.",
+   "Infarto é intra-axial e segue território arterial, não forma coleção extra-axial em crescente.",
+   "Empiema vem com febre e sinusite e realça na periferia; o contexto aqui é trauma e anticoagulação."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos escorregou no piso molhado, bateu a cabeça e teve perda de consciência de poucos segundos. Chegou 2 horas depois com Glasgow 15, vomitou uma vez, lembra-se do acidente e não tem sinais de fratura de base nem de afundamento. Não usa anticoagulante. Pela regra canadense de TC de crânio, qual é a conduta?",
+  "alts": [
+   "Tomografia, pois a perda de consciência já é critério de alto risco",
+   "Tomografia, pois um episódio de vômito já classifica como alto risco",
+   "Alta sem tomografia, com orientação de sinais de alerta e acompanhante",
+   "Radiografia de crânio, com tomografia só se houver traço de fratura",
+   "Internação por 24 horas e tomografia apenas se o Glasgow cair"
+  ],
+  "gab": 2,
+  "tema": "radiologia",
+  "sub": "Neurorradiologia · Regra canadense de TC de crânio",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Stiell IG et al. The Canadian CT Head Rule for patients with minor head injury. Lancet, 2001",
+  "coment": "A regra canadense se aplica ao adulto com Glasgow 13 a 15 e perda de consciência, amnésia ou desorientação presenciadas; a perda de consciência é critério de entrada, não de risco. Alto risco: Glasgow abaixo de 15 duas horas após o trauma, suspeita de fratura aberta ou com afundamento, sinal de fratura de base, dois ou mais episódios de vômito e idade de 65 anos ou mais. Médio risco: amnésia retrógrada de 30 minutos ou mais e mecanismo perigoso (atropelamento, ejeção, queda de mais de 1 metro ou 5 degraus). Sem nenhum desses itens, dispensa-se a tomografia. Anticoagulado, menor de 16 anos ou quem convulsionou fica fora da regra.",
+  "porAlt": [
+   "A perda de consciência breve é o que coloca o paciente na regra, não um critério de alto risco.",
+   "O critério de alto risco é vômito em dois ou mais episódios, não um único episódio.",
+   "Correta: sem nenhum critério de alto ou médio risco, a regra dispensa a tomografia.",
+   "A radiografia de crânio não exclui lesão intracraniana e saiu da avaliação do trauma leve.",
+   "Internar todo trauma leve sem critério de risco não acrescenta segurança e consome leito."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos tem cefaleia súbita, a pior da vida, com pico em segundos, durante exercício. Está alerta, sem déficit focal, com rigidez de nuca discreta. A tomografia de crânio sem contraste, feita 9 horas após o início, é normal. Segundo a AHA/ASA, qual é o próximo passo?",
+  "alts": [
+   "Alta com analgésico, pois a TC normal exclui hemorragia",
+   "Ressonância com gadolínio no lugar da punção lombar",
+   "Repetir a tomografia em 24 horas antes de qualquer punção",
+   "Punção lombar com pesquisa de xantocromia no liquor",
+   "Tratar como enxaqueca e reavaliar em 48 horas"
+  ],
+  "gab": 3,
+  "tema": "radiologia",
+  "sub": "Neurorradiologia · Hemorragia subaracnóidea",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Hoh BL et al. AHA/ASA Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage, 2023",
+  "coment": "A tomografia sem contraste de alta qualidade, feita até 6 horas do início da cefaleia em trovoada, tem sensibilidade próxima de 100% para hemorragia subaracnóidea, e normal nessa janela basta para excluí-la (AHA/ASA, 2023). Depois de 6 horas o sangue se dilui e a sensibilidade cai; por isso a TC normal deve ser seguida de punção lombar, procurando xantocromia, que surge cerca de 12 horas após o sangramento e persiste por cerca de duas semanas. Rigidez de nuca e início ao esforço reforçam a suspeita pela regra de Ottawa. Repetir a TC não acrescenta sensibilidade.",
+  "porAlt": [
+   "Após 6 horas a TC perde sensibilidade; normal não exclui hemorragia nessa janela.",
+   "A ressonância não substitui a punção na exclusão de sangramento subaracnóideo após 6 horas.",
+   "Repetir a tomografia não recupera a sensibilidade perdida com o tempo; atrasa o diagnóstico.",
+   "Correta: TC normal após 6 horas da cefaleia em trovoada exige punção lombar com xantocromia.",
+   "Cefaleia em trovoada com rigidez de nuca não pode ser rotulada como enxaqueca sem excluir sangramento."
+  ]
+ },
+ {
+  "q": "Homem de 30 anos, motorista em colisão lateral em baixa velocidade, está alerta, sem odor de álcool, sem déficit neurológico, sem outras lesões dolorosas e sem dor à palpação da linha média cervical posterior. Refere apenas dor muscular paravertebral. Qual é a conduta quanto à imagem da coluna cervical?",
+  "alts": [
+   "Dispensar imagem e retirar o colar após o exame clínico",
+   "Radiografia cervical em três incidências antes de tirar o colar",
+   "Tomografia cervical, pois toda colisão de veículo exige imagem",
+   "Ressonância cervical para excluir lesão ligamentar oculta",
+   "Manter o colar por 7 dias e repetir o exame no retorno"
+  ],
+  "gab": 0,
+  "tema": "radiologia",
+  "sub": "Musculoesquelético · Coluna cervical pelo NEXUS",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Hoffman JR et al. Validity of a set of clinical criteria to rule out injury to the cervical spine (NEXUS). N Engl J Med, 2000",
+  "coment": "O NEXUS dispensa imagem da coluna cervical quando os cinco critérios estão presentes: sem dor na linha média posterior, sem intoxicação, nível de consciência normal, sem déficit neurológico focal e sem lesão dolorosa que distraia. No estudo original, com mais de 34 mil pacientes, a sensibilidade para lesão importante foi de 99,6%. Este paciente preenche todos, e a dor paravertebral muscular não conta como dor de linha média. O colar pode ser retirado pelo exame clínico. As regras de decisão não valem para crianças e têm desempenho pior no idoso.",
+  "porAlt": [
+   "Correta: com os cinco critérios NEXUS presentes, a imagem é dispensável e o colar sai pelo exame clínico.",
+   "Radiografia sem indicação expõe à radiação e atrasa a alta; o exame clínico já excluiu lesão importante.",
+   "O mecanismo de baixa energia não exige imagem quando a regra clínica é negativa.",
+   "Ressonância não é rotina para paciente sem dor de linha média nem déficit.",
+   "Manter colar sem indicação não protege nada e causa dor e lesão de pele."
+  ]
+ },
+ {
+  "q": "Homem de 72 anos cai de uma escada de 2 metros, bate a cabeça, está com Glasgow 15 e queixa dor cervical alta. Não tem déficit neurológico. Pela regra canadense da coluna cervical e pelos critérios de adequação do ACR, qual é o exame inicial indicado?",
+  "alts": [
+   "Radiografia cervical em três incidências, ampliada se duvidosa",
+   "Nenhum, pois sem déficit neurológico não há lesão instável",
+   "Tomografia de coluna cervical sem contraste, em cortes finos",
+   "Ressonância cervical como primeiro e único exame de imagem",
+   "Radiografia dinâmica em flexão e extensão no pronto-socorro"
+  ],
+  "gab": 2,
+  "tema": "radiologia",
+  "sub": "Musculoesquelético · Coluna cervical no idoso",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ACR Appropriateness Criteria: Suspected Spine Trauma, 2018",
+  "coment": "Na regra canadense da coluna cervical (Stiell, 2001), idade de 65 anos ou mais, mecanismo perigoso (queda de mais de 1 metro ou 5 degraus) e parestesias são critérios de alto risco, e qualquer um obriga a imagem. No adulto com indicação de imagem, os critérios de adequação do ACR (2018) colocam a tomografia sem contraste como exame inicial, por ser muito mais sensível que a radiografia, principalmente na transição craniocervical e cervicotorácica e no idoso osteopênico. A ressonância é complementar quando há déficit ou suspeita de lesão ligamentar ou medular.",
+  "porAlt": [
+   "A radiografia perde fraturas no idoso e nas transições; foi substituída pela tomografia.",
+   "Fratura instável pode existir sem déficit; idade e mecanismo já mandam fazer imagem.",
+   "Correta: idade de 65 anos ou mais e queda de altura indicam imagem, e a tomografia é o exame inicial.",
+   "A ressonância complementa a tomografia em déficit ou suspeita ligamentar, não a substitui como inicial.",
+   "Radiografia dinâmica em fase aguda é perigosa e pouco informativa pela contratura muscular."
+  ]
+ },
+ {
+  "q": "Jogadora de vôlei de 22 anos torceu o tornozelo direito em inversão há 2 horas. Andou quatro passos na chegada, mancando. Há edema e equimose lateral, dor à palpação do ligamento talofibular anterior, sem dor na borda posterior nem na ponta dos maléolos, na base do quinto metatarso ou no navicular. Pelas regras de Ottawa, qual é a conduta?",
+  "alts": [
+   "Radiografia de tornozelo, pela equimose e pelo edema lateral",
+   "Radiografia de tornozelo e de pé, pela dor ligamentar lateral",
+   "Ressonância do tornozelo para graduar a lesão ligamentar",
+   "Ultrassonografia para afastar fratura antes de imobilizar",
+   "Dispensar radiografia e tratar como entorse ligamentar"
+  ],
+  "gab": 4,
+  "tema": "radiologia",
+  "sub": "Musculoesquelético · Regra de Ottawa do tornozelo",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Stiell IG et al. Decision rules for the use of radiography in acute ankle injuries. JAMA, 1993",
+  "coment": "As regras de Ottawa pedem radiografia do tornozelo quando há dor na zona maleolar e dor óssea na borda posterior ou na ponta dos 6 cm distais de um dos maléolos, ou incapacidade de dar quatro passos logo após o trauma e na avaliação. Para o pé, a dor deve estar na base do quinto metatarso ou no navicular. A sensibilidade é próxima de 100%, e a regra reduz cerca de um terço das radiografias. Edema, equimose e dor sobre o ligamento talofibular anterior indicam entorse e não entram nos critérios. A paciente não tem nenhum item positivo.",
+  "porAlt": [
+   "Edema e equimose não fazem parte da regra e não indicam radiografia por si.",
+   "Dor ligamentar não é dor óssea; os pontos do pé são a base do quinto metatarso e o navicular.",
+   "Ressonância não é exame da fase aguda da entorse simples e não muda o tratamento inicial.",
+   "A regra clínica já afasta fratura significativa; ultrassonografia não é necessária para isso.",
+   "Correta: sem dor óssea nos pontos da regra e apoiando o peso, a radiografia é dispensável."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos sofreu trauma direto no joelho esquerdo ao cair de bicicleta. Na emergência, apoia e dá quatro passos, flete o joelho até 120 graus, não tem dor isolada na patela, mas tem dor à palpação da cabeça da fíbula. Pela regra de Ottawa do joelho, qual é a conduta?",
+  "alts": [
+   "Dispensar radiografia, pois ele apoia o peso e flete além de 90 graus",
+   "Solicitar radiografia, pela dor à palpação da cabeça da fíbula",
+   "Solicitar ressonância, pela suspeita de lesão do ligamento cruzado",
+   "Dispensar radiografia, pois a regra só se aplica após os 55 anos",
+   "Solicitar radiografia só se a dor persistir após 10 dias de repouso"
+  ],
+  "gab": 1,
+  "tema": "radiologia",
+  "sub": "Musculoesquelético · Regra de Ottawa do joelho",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Stiell IG et al. Implementation of the Ottawa Knee Rule for the use of radiography in acute knee injuries. JAMA, 1997",
+  "coment": "A regra de Ottawa do joelho indica radiografia se houver qualquer um destes itens: idade de 55 anos ou mais, dor isolada à palpação da patela, dor à palpação da cabeça da fíbula, incapacidade de fletir o joelho a 90 graus ou de dar quatro passos logo após o trauma e na emergência. Basta um item. Este paciente tem dor na cabeça da fíbula, então a radiografia está indicada mesmo apoiando o peso e fletindo bem. A regra vale para adultos de qualquer idade; a idade é um dos critérios, não o limite de aplicação.",
+  "porAlt": [
+   "Apoiar e fletir não bastam quando outro item da regra, a dor na cabeça da fíbula, está presente.",
+   "Correta: dor à palpação da cabeça da fíbula é critério isolado para radiografia pela regra de Ottawa.",
+   "A ressonância não é o exame inicial; nada no exame sugere lesão ligamentar como pergunta principal.",
+   "A idade de 55 anos ou mais é um dos critérios, não a condição para aplicar a regra.",
+   "Adiar a radiografia com critério positivo pode deixar passar fratura do planalto ou da fíbula."
+  ]
+ },
+ {
+  "q": "Homem de 35 anos tem dor que começou periumbilical e migrou para a fossa ilíaca direita há 20 horas, com febre baixa e leucocitose de 13.500/mm³. O exame físico é duvidoso pela obesidade grau II e o cirurgião pede imagem. Pelos critérios de adequação do ACR, qual é o exame mais apropriado?",
+  "alts": [
+   "Radiografia simples de abdome em ortostase e decúbito",
+   "Ultrassonografia com compressão graduada como exame final",
+   "Tomografia de abdome e pelve com contraste intravenoso",
+   "Ressonância de abdome sem contraste como primeira escolha",
+   "Enema opaco para avaliar o enchimento do apêndice"
+  ],
+  "gab": 2,
+  "tema": "radiologia",
+  "sub": "Abdome e digestório · Apendicite no adulto",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ACR Appropriateness Criteria: Right Lower Quadrant Pain, 2022",
+  "coment": "No adulto não gestante com dor em fossa ilíaca direita, febre e leucocitose, a atualização de 2022 dos critérios de adequação do ACR mantém a tomografia de abdome e pelve com contraste intravenoso como exame mais apropriado: alta acurácia para apendicite e para os diagnósticos alternativos (diverticulite direita, cálculo ureteral, enterocolite). O uso sistemático de imagem reduziu a apendicectomia negativa de até 25% para 1 a 3%. A ultrassonografia é a primeira escolha em criança e gestante, e no obeso tem rendimento baixo. Radiografia simples tem pouco papel.",
+  "porAlt": [
+   "A radiografia simples raramente mostra apendicolito e não confirma nem exclui apendicite.",
+   "A ultrassonografia é a primeira escolha na criança e na gestante; no adulto obeso rende pouco.",
+   "Correta: no adulto, a tomografia com contraste é o exame mais apropriado pelo ACR 2022.",
+   "A ressonância sem contraste é a alternativa na gestante, não a primeira escolha no adulto.",
+   "Enema opaco saiu da investigação da apendicite e é contraindicado se houver perfuração."
+  ]
+ },
+ {
+  "q": "Gestante de 24 semanas tem dor em flanco e fossa ilíaca direitos, febre de 38 °C e leucocitose. A ultrassonografia abdominal não identifica o apêndice e não mostra outra causa. A paciente está estável. Pelos critérios de adequação do ACR, qual é o próximo exame?",
+  "alts": [
+   "Tomografia com contraste, por ser o padrão no adulto",
+   "Laparoscopia diagnóstica sem nenhum outro exame de imagem",
+   "Ressonância com gadolínio para realçar melhor o apêndice",
+   "Repetir a ultrassonografia somente após o parto",
+   "Ressonância de abdome e pelve sem contraste intravenoso"
+  ],
+  "gab": 4,
+  "tema": "radiologia",
+  "sub": "Abdome e digestório · Apendicite na gestante",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ACR Appropriateness Criteria: Right Lower Quadrant Pain, 2022",
+  "coment": "Na gestante com suspeita de apendicite, o ACR (2022) coloca a ultrassonografia e a ressonância sem contraste como exames de escolha. A ultrassonografia vem primeiro por ser rápida e sem radiação, mas no segundo e no terceiro trimestres o útero desloca o apêndice e muitos exames são inconclusivos. Nessa situação, a ressonância sem gadolínio identifica o apêndice na maioria e também mostra causas alternativas. Gadolínio é evitado na gestação. Adiar o diagnóstico é perigoso: a perfuração eleva muito a perda fetal.",
+  "porAlt": [
+   "A tomografia é reservada quando não há ressonância disponível; não é a próxima escolha na gestante.",
+   "Laparoscopia sem imagem aumenta a taxa de cirurgia negativa, que também traz risco fetal.",
+   "Gadolínio é evitado na gestação e não é necessário para ver o apêndice na ressonância.",
+   "Adiar até o parto expõe à perfuração, que aumenta muito a perda fetal.",
+   "Correta: ultrassonografia inconclusiva na gestante leva à ressonância sem contraste."
+  ]
+ },
+ {
+  "q": "Mulher de 47 anos, obesa, tem dor em hipocôndrio direito há 30 horas, febre de 38,4 °C e leucocitose. A ultrassonografia mostra cálculo impactado no colo da vesícula, parede de 6 mm com halo hipoecoico, líquido perivesicular e dor máxima à compressão pelo transdutor. Pelos critérios de Tóquio 2018, qual é o diagnóstico?",
+  "alts": [
+   "Colecistite aguda litiásica, com diagnóstico definido",
+   "Cólica biliar simples, pois a febre não entra no critério",
+   "Colangite aguda, pela tríade de dor, febre e leucocitose",
+   "Colecistite suspeita, que exige cintilografia para confirmar",
+   "Adenomiomatose da vesícula com cálculo incidental"
+  ],
+  "gab": 0,
+  "tema": "radiologia",
+  "sub": "Ultrassonografia e Doppler · Colecistite aguda",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Yokoe M et al. Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholecystitis, 2018",
+  "coment": "Pelos critérios de Tóquio 2018, o diagnóstico definido de colecistite aguda exige um sinal inflamatório local (Murphy, dor ou massa em hipocôndrio direito), um sinal sistêmico (febre, leucocitose, PCR elevada) e imagem compatível. A ultrassonografia é o exame inicial: cálculo impactado no colo, parede acima de 4 a 5 mm, líquido perivesicular, vesícula distendida e Murphy ultrassonográfico. A cintilografia é mais sensível, mas fica para a dúvida, que não existe aqui. Colangite exige icterícia ou alteração colestática com dilatação da via biliar.",
+  "porAlt": [
+   "Correta: sinal local, sinal sistêmico e ultrassonografia típica fecham o diagnóstico definido.",
+   "Febre e leucocitose são critérios sistêmicos; dor de 30 horas com inflamação não é cólica simples.",
+   "Colangite exige colestase ou dilatação da via biliar, ausentes no caso.",
+   "Com os três grupos de critérios presentes, o diagnóstico já é definido e dispensa cintilografia.",
+   "Adenomiomatose tem divertículos parietais com artefato em cauda de cometa, sem quadro inflamatório."
+  ]
+ },
+ {
+  "q": "Homem de 61 anos tem icterícia, colúria e dor em hipocôndrio direito há 3 dias, sem febre. Bilirrubina total de 5,2 mg/dL, fosfatase alcalina e GGT elevadas. A ultrassonografia mostra colédoco de 11 mm com imagem hiperecogênica e sombra acústica no terço distal. Pela estratificação de risco da ASGE, qual é a conduta?",
+  "alts": [
+   "Colangiorressonância antes de qualquer intervenção biliar",
+   "Colecistectomia isolada e seguimento das enzimas depois",
+   "Ultrassonografia endoscópica para confirmar o cálculo",
+   "CPRE com extração do cálculo, pelo risco alto de coledocolitíase",
+   "Tomografia com contraste para afastar neoplasia periampular"
+  ],
+  "gab": 3,
+  "tema": "radiologia",
+  "sub": "Abdome e digestório · Coledocolitíase",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Buxbaum JL et al. ASGE guideline on the role of endoscopy in the evaluation and management of choledocholithiasis, 2019",
+  "coment": "A ASGE (2019) classifica o risco de coledocolitíase. Alto risco: cálculo no colédoco visto em ultrassonografia ou outra imagem, colangite ascendente, ou bilirrubina acima de 4 mg/dL com colédoco dilatado. Nesse grupo, vai-se direto à CPRE terapêutica, sem exame confirmatório. Risco intermediário (enzimas alteradas, idade acima de 55 anos ou colédoco dilatado isolado) pede colangiorressonância ou ecoendoscopia antes. Este paciente tem cálculo visível e bilirrubina acima de 4 com colédoco de 11 mm, critérios de alto risco.",
+  "porAlt": [
+   "A colangiorressonância serve ao risco intermediário; com cálculo visível, ela só atrasa o tratamento.",
+   "Operar a vesícula deixando o cálculo no colédoco mantém a obstrução e o risco de colangite.",
+   "A ecoendoscopia confirma cálculo no risco intermediário, mas aqui o cálculo já foi visto.",
+   "Correta: cálculo no colédoco à ultrassonografia é critério de alto risco e indica CPRE terapêutica.",
+   "Com cálculo e sombra acústica visíveis, a hipótese principal não é neoplasia; TC não é o próximo passo."
+  ]
+ },
+ {
+  "q": "Idoso de 84 anos, institucionalizado e com constipação crônica, tem distensão abdominal volumosa e parada de eliminação de fezes e gases há 2 dias. Está estável, sem peritonite. A radiografia mostra alça de cólon muito dilatada, em U invertido, partindo da pelve em direção ao hipocôndrio direito, com aspecto de grão de café. Qual é a conduta inicial?",
+  "alts": [
+   "Colectomia de urgência com colostomia, sem tentar descompressão",
+   "Descompressão endoscópica e posterior sigmoidectomia eletiva",
+   "Enema com bário terapêutico, que dispensa cirurgia futura",
+   "Neostigmina intravenosa, como na pseudo-obstrução colônica",
+   "Sonda nasogástrica e jejum, com nova radiografia em 48 horas"
+  ],
+  "gab": 1,
+  "tema": "radiologia",
+  "sub": "Abdome e digestório · Volvo de sigmoide",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Alavi K et al. ASCRS Clinical Practice Guidelines for the Management of Colonic Volvulus and Acute Colonic Pseudo-obstruction, 2021",
+  "coment": "Alça sigmoide muito dilatada em U invertido, com o vértice no quadrante superior direito e aspecto de grão de café, em idoso institucionalizado e constipado, é volvo de sigmoide. A tomografia confirma com o sinal do redemoinho quando há dúvida. Sem peritonite nem sinais de isquemia, a diretriz da ASCRS (2021) recomenda descompressão endoscópica, que resolve a maioria, seguida de sigmoidectomia na mesma internação, porque a recidiva após descompressão isolada passa de metade dos casos. Peritonite, perfuração ou mucosa isquêmica na endoscopia indicam cirurgia de urgência.",
+  "porAlt": [
+   "Cirurgia de urgência fica para peritonite, perfuração ou isquemia, ausentes no caso.",
+   "Correta: sem sinais de isquemia, descomprime-se por endoscopia e opera-se depois, pela alta recidiva.",
+   "Bário é evitado pelo risco de perfuração, e nenhum enema dispensa a sigmoidectomia.",
+   "Neostigmina trata pseudo-obstrução, em que não há torção; no volvo é ineficaz e arriscada.",
+   "Esperar 48 horas com alça torcida aumenta o risco de isquemia e perfuração."
+  ]
+ },
+ {
+  "q": "Mulher de 52 anos tem dor epigástrica em faixa há 12 horas, com lipase 9 vezes o limite superior, sem sinais de gravidade. A ultrassonografia mostra colelitíase. O residente pede tomografia com contraste na admissão para confirmar o diagnóstico. Segundo a diretriz do ACG, qual é a orientação sobre a tomografia?",
+  "alts": [
+   "Indicada já na admissão, para estadiar a necrose precocemente",
+   "Indicada sem contraste, porque o iodo agrava a pancreatite",
+   "Substituível por ressonância em todos os casos, sem exceção",
+   "Indicada para todos, pois o diagnóstico exige imagem seccional",
+   "Dispensável; reservar para dúvida ou piora após 72 horas"
+  ],
+  "gab": 4,
+  "tema": "radiologia",
+  "sub": "Abdome e digestório · Pancreatite aguda",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Tenner S et al. American College of Gastroenterology Guideline: Management of Acute Pancreatitis, 2024",
+  "coment": "O diagnóstico de pancreatite aguda exige dois de três critérios: dor típica, amilase ou lipase acima de três vezes o limite superior e imagem compatível. Com dor e lipase típicas, a imagem seccional não é necessária. A diretriz do ACG (2024) reserva tomografia ou ressonância para dúvida diagnóstica ou para quem não melhora em 48 a 72 horas, porque a necrose demora a se definir e a TC precoce subestima a gravidade sem mudar a conduta. A ultrassonografia, sim, é feita na admissão para procurar cálculo biliar, como neste caso.",
+  "porAlt": [
+   "A necrose leva 48 a 72 horas para se definir; TC precoce subestima e não muda a conduta.",
+   "O contraste iodado não agrava a pancreatite; a questão é não haver indicação de TC agora.",
+   "A ressonância também segue as mesmas indicações; não é exame de rotina na admissão.",
+   "Dor típica com lipase acima de três vezes o limite já fecha o diagnóstico sem imagem seccional.",
+   "Correta: com clínica e lipase típicas, a TC fica para dúvida ou piora após 48 a 72 horas."
+  ]
+ },
+ {
+  "q": "Homem de 38 anos tem dor lombar esquerda em cólica, irradiada para a virilha, com náuseas e hematúria microscópica. Não tem febre, a função renal é normal e é o primeiro episódio. Após analgesia, a dor cede parcialmente. Segundo a diretriz europeia de urolitíase, qual é o exame de imagem de escolha para confirmar o cálculo?",
+  "alts": [
+   "Urografia excretora com contraste iodado intravenoso",
+   "Radiografia simples de abdome como exame único",
+   "Tomografia sem contraste, com protocolo de baixa dose",
+   "Tomografia com contraste em fase excretora tardia",
+   "Urorressonância com gadolínio e sequência excretora"
+  ],
+  "gab": 2,
+  "tema": "radiologia",
+  "sub": "Urogenital · Cólica renal",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "European Association of Urology. EAU Guidelines on Urolithiasis, 2024",
+  "coment": "No adulto com cólica renal, a diretriz da EAU (2024) recomenda a tomografia sem contraste como exame de escolha, de preferência com protocolo de baixa dose quando o índice de massa corporal permite. Ela tem sensibilidade e especificidade acima de 90%, mostra cálculos radiotransparentes, mede tamanho e densidade e encontra diagnósticos alternativos. A ultrassonografia é a primeira escolha na gestante e na criança e serve para triagem. Contraste não é necessário para ver o cálculo; fica para planejamento cirúrgico ou suspeita de outra causa.",
+  "porAlt": [
+   "A urografia excretora foi substituída pela tomografia, mais sensível e sem contraste.",
+   "A radiografia simples não mostra cálculos radiotransparentes nem a obstrução.",
+   "Correta: tomografia sem contraste, de preferência em baixa dose, é o exame de escolha no adulto.",
+   "O contraste não é necessário para detectar o cálculo e pode mascarar cálculos pequenos.",
+   "A ressonância vê mal o cálculo e não é exame de primeira linha na cólica renal."
+  ]
+ },
+ {
+  "q": "Mulher de 55 anos, hipertensa controlada, faz tomografia por diverticulite, que mostra nódulo adrenal esquerdo de 2,4 cm, homogêneo, com densidade de 6 UH na fase sem contraste. Não há sinais clínicos de Cushing. Pela diretriz europeia de 2023, qual é a conduta?",
+  "alts": [
+   "Sem nova imagem; rastrear hipercortisolismo e hiperaldosteronismo",
+   "Ressonância anual por cinco anos para documentar a estabilidade",
+   "Biópsia percutânea guiada por tomografia para afastar metástase",
+   "Adrenalectomia laparoscópica, pois o nódulo tem mais de 2 cm",
+   "Nova tomografia com contraste em 6 meses, sem exames hormonais"
+  ],
+  "gab": 0,
+  "tema": "radiologia",
+  "sub": "Urogenital · Incidentaloma adrenal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Fassnacht M et al. European Society of Endocrinology clinical practice guidelines on the management of adrenal incidentalomas (ESE/ENSAT), 2023",
+  "coment": "Nódulo adrenal homogêneo com densidade de até 10 UH na tomografia sem contraste é adenoma rico em gordura e, abaixo de 4 cm, não precisa de nova imagem (ESE/ENSAT, 2023). A avaliação hormonal, porém, é obrigatória: todos fazem teste de supressão com 1 mg de dexametasona (cortisol acima de 1,8 µg/dL sugere secreção autônoma), e quem tem hipertensão ou hipocalemia rastreia hiperaldosteronismo pela relação aldosterona/renina. Metanefrinas são dispensáveis no adenoma típico. Biópsia não diferencia adenoma de carcinoma e só cabe em casos específicos.",
+  "porAlt": [
+   "Correta: abaixo de 10 UH e de 4 cm não há nova imagem, mas há rastreio hormonal, incluindo aldosterona na hipertensa.",
+   "Seguimento seriado por imagem do adenoma típico foi abandonado pela diretriz de 2023.",
+   "Biópsia adrenal não é rotina e não distingue adenoma de carcinoma.",
+   "O tamanho isolado de 2,4 cm, com imagem benigna e sem hipersecreção, não indica cirurgia.",
+   "Repetir imagem é desnecessário, e omitir a avaliação hormonal deixa passar secreção autônoma."
+  ]
+ },
+ {
+  "q": "Homem de 33 anos, atropelado, chega com PA 78/44 mmHg e FC 138 bpm, sem resposta sustentada à primeira unidade de concentrado de hemácias. A radiografia de pelve e a de tórax não explicam o choque. O FAST mostra líquido livre no espaço hepatorrenal e no esplenorrenal. Qual é a conduta?",
+  "alts": [
+   "Tomografia de abdome com contraste para graduar as lesões",
+   "Repetir o FAST em 30 minutos para confirmar o achado",
+   "Lavado peritoneal diagnóstico para confirmar sangue",
+   "Laparotomia de urgência para controle do sangramento",
+   "Arteriografia com embolização esplênica imediata"
+  ],
+  "gab": 3,
+  "tema": "radiologia",
+  "sub": "Ultrassonografia e Doppler · FAST no choque",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American College of Surgeons. Advanced Trauma Life Support (ATLS), 11ª edição, 2025",
+  "coment": "O FAST examina pericárdio, espaço hepatorrenal, esplenorrenal e pelve à procura de líquido livre, que no trauma é sangue até prova em contrário. Paciente em choque que não responde à transfusão inicial e tem FAST positivo, sem outra fonte que explique a hemorragia, vai para a sala cirúrgica (ATLS, 2025). A tomografia é para o estável ou estabilizado, e levar o instável ao tomógrafo é erro clássico. Embolização é opção no paciente que responde, em centro com hemodinâmica disponível. FAST negativo não exclui lesão e deve ser repetido.",
+  "porAlt": [
+   "Tomografia é para o estável; o instável não deve ir ao tomógrafo.",
+   "Repetir o exame faz sentido no FAST negativo com suspeita; positivo em choque já define a conduta.",
+   "O lavado foi substituído pelo FAST e só atrasaria a hemostasia aqui.",
+   "Correta: FAST positivo em choque sem resposta à transfusão indica laparotomia sem tomografia.",
+   "Embolização cabe ao paciente que responde à reposição, não ao não respondedor com sangue difuso."
+  ]
+ },
+ {
+  "q": "Mulher de 41 anos, vítima de colisão de carro, está em prancha, com SpO2 de 93% e PA estável. No eFAST, à direita, a janela anterior não mostra deslizamento pleural, o modo M exibe padrão em código de barras e identifica-se o ponto pulmonar na linha axilar anterior. Qual é a interpretação?",
+  "alts": [
+   "Hemotórax direito volumoso com colapso do lobo inferior",
+   "Pneumotórax direito, confirmado pelo ponto pulmonar",
+   "Contusão pulmonar com síndrome intersticial difusa",
+   "Achado normal, equivalente ao padrão em praia",
+   "Intubação seletiva, causa única desse padrão"
+  ],
+  "gab": 1,
+  "tema": "radiologia",
+  "sub": "Ultrassonografia e Doppler · eFAST e pneumotórax",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Volpicelli G et al. International evidence-based recommendations for point-of-care lung ultrasound. Intensive Care Med, 2012",
+  "coment": "Em decúbito, o ar do pneumotórax fica anterior, e por isso o eFAST examina a pleura anterior. O pulmão que ventila desliza sob a pleura e, no modo M, dá o padrão em praia (areia abaixo da linha pleural). Sem deslizamento, surge o código de barras, que sugere pneumotórax, mas também ocorre em apneia, intubação seletiva e aderências. O ponto pulmonar, local em que o pulmão volta a tocar a parede durante a inspiração, é específico de pneumotórax (Volpicelli, 2012). Linhas B e pulso pulmonar, quando presentes, excluem pneumotórax naquele ponto.",
+  "porAlt": [
+   "Hemotórax aparece como líquido anecoico nos recessos costofrênicos, não como ausência de deslizamento.",
+   "Correta: ausência de deslizamento com ponto pulmonar confirma pneumotórax.",
+   "Contusão e síndrome intersticial dão linhas B, que excluem pneumotórax no local.",
+   "O código de barras é o oposto do padrão em praia, que indica pulmão deslizando.",
+   "A intubação seletiva abole o deslizamento, mas não é causa única e não produz ponto pulmonar."
+  ]
+ },
+ {
+  "q": "Homem de 67 anos, diabético e hipertenso, com TFGe estável de 52 mL/min/1,73 m², fará tomografia de abdome com contraste iodado intravenoso para estadiamento de câncer de cólon. Pelo consenso ACR/NKF, qual é a conduta quanto à profilaxia de lesão renal?",
+  "alts": [
+   "Hidratação com salina isotônica antes e depois do exame",
+   "N-acetilcisteína oral no dia anterior e no dia do exame",
+   "Trocar por ressonância com gadolínio para poupar o rim",
+   "Hemodiálise após o exame para remover o contraste",
+   "Nenhuma profilaxia específica; o exame segue sem ajustes"
+  ],
+  "gab": 4,
+  "tema": "radiologia",
+  "sub": "Física, contraste e segurança · Contraste iodado e TFG",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Davenport MS et al. Use of intravenous iodinated contrast media in patients with kidney disease: consensus statements from the ACR and the NKF, 2020",
+  "coment": "O consenso ACR/NKF (2020) separa lesão renal associada ao contraste, que ocorre nas 48 horas seguintes por qualquer causa, da lesão induzida pelo contraste, cujo risco real com o contraste intravenoso é bem menor do que se pensava. Com TFGe estável de 45 mL/min/1,73 m² ou mais, o risco é desprezível e nenhuma profilaxia é necessária. Entre 30 e 44, a profilaxia é individualizada; abaixo de 30 sem diálise ou com lesão renal aguda, indica-se salina isotônica intravenosa. Diabetes isolado não muda essa conduta. Acetilcisteína não teve benefício no PRESERVE.",
+  "porAlt": [
+   "Hidratação profilática é indicada abaixo de 30 ou com lesão aguda, não com TFGe de 52 estável.",
+   "A N-acetilcisteína não mostrou benefício e não faz parte da profilaxia recomendada.",
+   "Trocar o método sem necessidade perde a qualidade do estadiamento e não protege o rim.",
+   "Hemodiálise para retirar contraste não previne lesão renal e não é recomendada.",
+   "Correta: com TFGe de 45 ou mais e estável, o risco é desprezível e não há profilaxia específica."
+  ]
+ },
+ {
+  "q": "Mulher de 74 anos, com doença renal crônica e TFGe de 24 mL/min/1,73 m², fora de diálise, internada com suspeita de abscesso intra-abdominal, precisa de tomografia com contraste iodado intravenoso. Pelo consenso ACR/NKF de 2020, o que se indica para reduzir o risco renal?",
+  "alts": [
+   "Salina isotônica intravenosa, salvo contraindicação por volemia",
+   "Contraste hiperosmolar em dose dupla para melhor definição",
+   "Hidratação oral isolada, que equivale à intravenosa no caso",
+   "Bicarbonato de sódio, superior à salina pelo ensaio PRESERVE",
+   "Hemodiálise profilática logo após o exame para retirar o iodo"
+  ],
+  "gab": 0,
+  "tema": "radiologia",
+  "sub": "Física, contraste e segurança · Profilaxia renal",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Davenport MS et al. Use of intravenous iodinated contrast media in patients with kidney disease: consensus statements from the ACR and the NKF, 2020",
+  "coment": "Pelo consenso ACR/NKF (2020), a profilaxia com salina isotônica intravenosa é indicada a quem tem TFGe abaixo de 30 mL/min/1,73 m² e não está em diálise, ou tem lesão renal aguda, desde que não haja contraindicação, como insuficiência cardíaca congestiva. Também se usa a menor dose de contraste de baixa ou iso-osmolalidade que responda à pergunta. O PRESERVE (2018) não mostrou vantagem do bicarbonato sobre a salina nem da acetilcisteína sobre placebo. Hidratação oral isolada não é recomendada pelo KDIGO, e hemodiálise profilática não protege o rim.",
+  "porAlt": [
+   "Correta: TFGe abaixo de 30 fora de diálise indica salina isotônica, respeitando a volemia.",
+   "Contraste hiperosmolar e dose maior aumentam o risco; usa-se baixa osmolalidade e menor dose.",
+   "Hidratação oral isolada não é recomendada em quem tem risco aumentado.",
+   "O PRESERVE não mostrou superioridade do bicarbonato sobre a salina.",
+   "Hemodiálise profilática não reduz lesão renal e não é indicada."
+  ]
+ },
+ {
+  "q": "Homem de 59 anos usa metformina 2 g/dia, tem TFGe de 41 mL/min/1,73 m² estável e fará angiotomografia coronariana com contraste iodado. Não há lesão renal aguda. Segundo o manual de contraste do ACR, o que fazer com a metformina?",
+  "alts": [
+   "Suspender 48 horas antes e retomar após 48 horas",
+   "Suspender no dia e só retomar com creatinina normal",
+   "Trocar por insulina por uma semana após o exame",
+   "Manter a metformina, sem necessidade de suspender",
+   "Reduzir a dose à metade nos três dias seguintes"
+  ],
+  "gab": 3,
+  "tema": "radiologia",
+  "sub": "Física, contraste e segurança · Metformina e contraste",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "American College of Radiology. ACR Manual on Contrast Media, 2024",
+  "coment": "O receio com a metformina não é lesão renal causada por ela, e sim acidose láctica se o contraste precipitar lesão renal aguda e a droga acumular. Pelo manual do ACR, quem tem TFGe de 30 mL/min/1,73 m² ou mais e não tem lesão renal aguda mantém a metformina, sem suspensão nem dosagem posterior de creatinina. Quem tem TFGe abaixo de 30 ou lesão renal aguda suspende no dia do exame e por 48 horas, retomando após reavaliar a função renal. A antiga regra de suspender 48 horas antes para todos foi abandonada.",
+  "porAlt": [
+   "Suspender antes do exame era regra antiga, sem base para quem tem TFGe de 30 ou mais.",
+   "A suspensão no dia vale para TFGe abaixo de 30 ou lesão aguda, não para este paciente.",
+   "Trocar por insulina expõe a hipoglicemia e descontrole sem indicação.",
+   "Correta: com TFGe de 30 ou mais e sem lesão aguda, a metformina é mantida.",
+   "Reduzir a dose não tem respaldo e não altera o risco, que já é desprezível."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos, com alergia a camarão (urticária e angioedema na infância) e asma controlada, fará tomografia com contraste iodado. Nunca recebeu contraste. Segundo o manual do ACR e o consenso ACR/AAAAI de 2025, qual é a conduta?",
+  "alts": [
+   "Pré-medicar com prednisona e difenidramina antes do exame",
+   "Fazer o exame sem pré-medicação, com a vigilância habitual",
+   "Contraindicar o iodado e trocar por ressonância com gadolínio",
+   "Fazer teste cutâneo com o contraste antes de liberar o exame",
+   "Usar contraste de alta osmolalidade, menos alergênico"
+  ],
+  "gab": 1,
+  "tema": "radiologia",
+  "sub": "Física, contraste e segurança · Alergia a frutos do mar",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "American College of Radiology e AAAAI. Consenso conjunto sobre pré-medicação para reações ao contraste, 2025",
+  "coment": "A reação ao contraste iodado não é alergia ao iodo, e a alergia a frutos do mar não é reação cruzada com o contraste. Atopia, asma e alergias alimentares aumentam pouco o risco, na mesma medida que qualquer alergia importante, e não justificam pré-medicação. O fator de risco que pesa é reação prévia ao próprio contraste. Pelo consenso ACR/AAAAI de 2025, mesmo reação prévia leve não pede pré-medicação, que fica para reação moderada ou grave quando não há exame alternativo. O serviço deve estar sempre pronto para tratar reação, com adrenalina disponível.",
+  "porAlt": [
+   "Pré-medicar por alergia a frutos do mar não tem base e expõe ao corticoide sem benefício.",
+   "Correta: alergia a frutos do mar não é contraindicação nem indicação de pré-medicação.",
+   "Não há reação cruzada; trocar o método perde a informação da tomografia sem ganho de segurança.",
+   "Teste cutâneo não é rotina antes do primeiro contraste e não prediz reação nesse contexto.",
+   "Contraste de alta osmolalidade causa mais reações, não menos; usa-se baixa ou iso-osmolalidade."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos teve, em tomografia anterior com iohexol, urticária localizada e prurido que cederam sem tratamento. Agora precisa de nova tomografia contrastada eletiva. Pelo consenso conjunto ACR/AAAAI de 2025, qual é a melhor estratégia?",
+  "alts": [
+   "Corticoide em 13, 7 e 1 hora antes, com o mesmo agente",
+   "Contraindicação definitiva a qualquer contraste iodado",
+   "Sem pré-medicação, trocando o agente iodado usado antes",
+   "Dessensibilização em UTI antes da nova administração",
+   "Anti-histamínico isolado e repetir o mesmo agente"
+  ],
+  "gab": 2,
+  "tema": "radiologia",
+  "sub": "Física, contraste e segurança · Reação prévia ao contraste",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "American College of Radiology e AAAAI. Consenso conjunto sobre pré-medicação para reações ao contraste, 2025",
+  "coment": "Até 2024, o manual do ACR sugeria pré-medicar quem teve reação alérgica prévia de qualquer gravidade. O consenso conjunto ACR/AAAAI de 2025 mudou isso: após reação leve (urticária localizada, prurido, congestão nasal), não se recomenda pré-medicação; após reação moderada, ela pode ser considerada; após reação grave, segue indicada quando não há exame alternativo. A evidência favorece a troca do agente iodado envolvido, por isso registrar o nome do contraste que causou a reação é importante. Reação leve não contraindica novo contraste.",
+  "porAlt": [
+   "Pré-medicar após reação leve deixou de ser recomendado no consenso de 2025.",
+   "Reação leve não contraindica contraste iodado no futuro.",
+   "Correta: após reação leve, sem pré-medicação, preferindo trocar o agente envolvido.",
+   "Dessensibilização não é estratégia usada para contraste iodado após reação leve.",
+   "Repetir o mesmo agente desperdiça a medida mais eficaz, que é trocá-lo."
+  ]
+ },
+ {
+  "q": "Homem de 62 anos em hemodiálise três vezes por semana precisa de ressonância de crânio com gadolínio para investigar lesão expansiva. Segundo o manual de contraste do ACR, qual é a conduta?",
+  "alts": [
+   "Contraindicar, pois todo gadolínio causa fibrose sistêmica nefrogênica",
+   "Usar agente linear do grupo I, em dose dupla para compensar a diálise",
+   "Trocar por tomografia com iodado, que não exige cuidado no dialítico",
+   "Fazer diálise de urgência antes do exame e repetir três vezes depois",
+   "Usar agente do grupo II e programar a diálise para logo após o exame"
+  ],
+  "gab": 4,
+  "tema": "radiologia",
+  "sub": "Física, contraste e segurança · Gadolínio na doença renal",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "American College of Radiology. ACR Manual on Contrast Media, 2024",
+  "coment": "A fibrose sistêmica nefrogênica foi associada sobretudo aos agentes lineares do grupo I em pacientes com TFGe abaixo de 30, lesão renal aguda ou diálise. Os agentes do grupo II, macrocíclicos ou de alta estabilidade, têm risco tão baixo que o manual do ACR não exige TFGe nem consentimento específico para usá-los. No dialítico, usa-se agente do grupo II na menor dose diagnóstica e programa-se a sessão de hemodiálise para logo depois do exame, o que remove a maior parte do gadolínio. Negar o exame indicado não é a conduta.",
+  "porAlt": [
+   "Os agentes do grupo II praticamente não se associam à fibrose; o exame não é contraindicado.",
+   "Agentes do grupo I são os evitados na doença renal grave, e dose maior aumenta o risco.",
+   "A TC não substitui a RM para lesão expansiva, e o iodado também exige planejamento no dialítico.",
+   "Diálise antes do exame não ajuda; o que se faz é diálise logo após, sem esquema fixo de três sessões.",
+   "Correta: agente do grupo II e hemodiálise programada logo após o exame."
+  ]
+ },
+ {
+  "q": "Gestante de 10 semanas sofre colisão de carro com trauma abdominal, está estável, e a ultrassonografia é inconclusiva para lesão de víscera sólida. O cirurgião indica tomografia de abdome e pelve. A paciente teme malformação fetal. Segundo o ACOG, como orientar?",
+  "alts": [
+   "Contraindicar a TC no primeiro trimestre e observar clinicamente",
+   "Fazer a TC e oferecer interrupção da gestação pela dose recebida",
+   "Fazer só ressonância com gadolínio, que não oferece risco fetal",
+   "Fazer a TC; a dose fetal fica abaixo do limiar de malformação",
+   "Adiar a TC até o segundo trimestre, quando o risco desaparece"
+  ],
+  "gab": 3,
+  "tema": "radiologia",
+  "sub": "Física, contraste e segurança · Radiação na gestação",
+  "cenario": "emg",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "ACOG Committee Opinion n. 723: Guidelines for diagnostic imaging during pregnancy and lactation, 2017",
+  "coment": "Pelo ACOG (2017), doses fetais abaixo de 50 mGy não se associam a malformação, restrição de crescimento ou perda gestacional; os efeitos determinísticos aparecem acima de 50 a 100 mGy, sobretudo entre 8 e 15 semanas. Uma tomografia de abdome e pelve fica em geral bem abaixo desse limiar. Exame indicado não deve ser negado à gestante, porque a doença materna não diagnosticada ameaça mais o feto. A exposição isolada não é motivo para interromper a gestação. Gadolínio é evitado na gestação, salvo quando muda de forma importante o desfecho.",
+  "porAlt": [
+   "Negar exame indicado à gestante traumatizada arrisca mãe e feto mais que a radiação.",
+   "A dose de uma TC diagnóstica não justifica interromper a gestação.",
+   "Gadolínio cruza a placenta e é evitado na gestação; não é alternativa sem risco.",
+   "Correta: a dose fetal de uma TC diagnóstica fica abaixo de 50 mGy, sem risco de malformação.",
+   "Adiar atrasa o diagnóstico de lesão abdominal, e o risco teórico não some no segundo trimestre."
+  ]
+ },
+ {
+  "q": "Ao explicar riscos de radiação a um paciente, o médico compara os exames com a radiação natural de fundo, de cerca de 3 mSv por ano. Qual sequência ordena corretamente as doses efetivas típicas no adulto, da menor para a maior?",
+  "alts": [
+   "Radiografia de tórax em PA, TC de crânio, TC de abdome e pelve",
+   "TC de crânio, radiografia de tórax PA, TC de abdome e pelve",
+   "Radiografia de tórax PA, TC de abdome e pelve, TC de crânio",
+   "Ressonância de crânio, TC de crânio, radiografia de tórax PA",
+   "TC de abdome e pelve, TC de crânio, radiografia de tórax PA"
+  ],
+  "gab": 0,
+  "tema": "radiologia",
+  "sub": "Física, contraste e segurança · Dose comparada entre exames",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "Mettler FA et al. Effective doses in radiology and diagnostic nuclear medicine: a catalog. Radiology, 2008",
+  "coment": "Pelo catálogo de Mettler (2008), a radiografia de tórax em PA tem dose efetiva de cerca de 0,02 mSv, o equivalente a poucos dias de radiação de fundo. A TC de crânio fica em torno de 2 mSv, cerca de 100 radiografias de tórax. A TC de abdome e pelve fica em torno de 8 a 10 mSv, perto de 3 anos de radiação natural e centenas de radiografias de tórax. Ressonância e ultrassonografia não usam radiação ionizante. Em criança o risco por unidade de dose é maior, daí os protocolos pediátricos e a preferência por métodos sem radiação.",
+  "porAlt": [
+   "Correta: radiografia de tórax (0,02 mSv) é menor que TC de crânio (2 mSv), menor que TC de abdome e pelve (8 a 10 mSv).",
+   "A TC de crânio tem dose cerca de 100 vezes maior que a radiografia de tórax.",
+   "A TC de abdome e pelve tem dose maior que a TC de crânio, não menor.",
+   "Ressonância não usa radiação ionizante, mas a radiografia de tórax tem dose menor que a TC de crânio.",
+   "A ordem está invertida: a TC de abdome e pelve é a de maior dose entre as três."
+  ]
+ },
+ {
+  "q": "Homem de 70 anos, com marcapasso bicameral implantado há 2 anos e documentado como condicional para ressonância, precisa de RM de coluna lombar por suspeita de estenose do canal. O que orienta a Heart Rhythm Society?",
+  "alts": [
+   "Contraindicação absoluta; substituir sempre por tomografia",
+   "Exame liberado sem preparo, como em quem não tem aparelho",
+   "Exame liberado sob protocolo, com reprogramação e monitorização",
+   "Exame liberado só após explante do gerador e marca-passo provisório",
+   "Exame liberado só em 3 tesla, com qualquer sequência disponível"
+  ],
+  "gab": 2,
+  "tema": "radiologia",
+  "sub": "Física, contraste e segurança · RM com marcapasso",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Indik JH et al. HRS expert consensus statement on magnetic resonance imaging and radiation exposure in patients with cardiovascular implantable electronic devices, 2017",
+  "coment": "Marcapasso não é mais contraindicação absoluta à ressonância. Pelo consenso da Heart Rhythm Society (2017), sistemas condicionais para RM podem ser examinados seguindo as condições do fabricante (campo, taxa de absorção específica, região), com o dispositivo reprogramado para o modo de RM antes e restaurado depois, monitorização durante o exame e equipe treinada. Mesmo sistemas não condicionais podem fazer RM em 1,5 tesla sob protocolo institucional quando o benefício compensa. Explante não é necessário, e o exame não é liberado sem preparo.",
+  "porAlt": [
+   "Desde os sistemas condicionais, o marcapasso deixou de ser contraindicação absoluta.",
+   "Mesmo condicional, o aparelho precisa de reprogramação, monitorização e condições do fabricante.",
+   "Correta: sistema condicional faz RM sob protocolo, com reprogramação antes e monitorização.",
+   "Explante e marca-passo provisório não são necessários; acrescentariam risco sem benefício.",
+   "As condições do fabricante limitam campo e sequências; nem todo sistema é liberado em 3 tesla."
+  ]
+ },
+ {
+  "q": "Homem de 66 anos chega com dor torácica lancinante irradiada para o dorso, PA assimétrica entre os braços e suspeita de dissecção de aorta. A creatinina ainda não saiu e o paciente não sabe informar a função renal. Pelo consenso ACR/NKF de 2020, como proceder?",
+  "alts": [
+   "Aguardar a creatinina e usar contraste só se a TFGe passar de 45",
+   "Fazer a angiotomografia de imediato, sem esperar a creatinina",
+   "Fazer tomografia sem contraste, que basta para a dissecção",
+   "Hidratar por 12 horas antes de liberar o contraste iodado",
+   "Solicitar ressonância com gadolínio para poupar o rim"
+  ],
+  "gab": 1,
+  "tema": "radiologia",
+  "sub": "Física, contraste e segurança · Contraste na urgência",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Davenport MS et al. Use of intravenous iodinated contrast media in patients with kidney disease: consensus statements from the ACR and the NKF, 2020",
+  "coment": "O consenso ACR/NKF (2020) afirma que o risco de lesão renal pelo contraste intravenoso não deve impedir nem atrasar exame necessário em situação de risco de vida. Na suspeita de dissecção de aorta, cuja mortalidade cresce a cada hora sem tratamento, a angiotomografia é feita de imediato, sem esperar creatinina. O mesmo vale para AVC com suspeita de oclusão de grande vaso e para trauma grave. Tomografia sem contraste não mostra o retalho intimal com segurança, e a ressonância é demorada e pouco disponível para o paciente instável.",
+  "porAlt": [
+   "Esperar a creatinina atrasa o diagnóstico de doença com mortalidade crescente por hora.",
+   "Correta: em urgência com risco de vida, a angiotomografia não espera a creatinina.",
+   "A TC sem contraste não mostra o retalho intimal com a segurança necessária.",
+   "Hidratar por 12 horas atrasa o diagnóstico e pode piorar um paciente com dissecção.",
+   "A ressonância é demorada e inadequada ao paciente grave na urgência."
+  ]
+ },
+ {
+  "q": "Mulher de 52 anos faz mamografia de rastreamento, laudada como BI-RADS 0 por assimetria focal no quadrante superolateral esquerdo, sem exames anteriores para comparação. Qual é a conduta?",
+  "alts": [
+   "Repetir a mamografia de rastreamento em 2 anos",
+   "Biópsia por agulha grossa guiada por estereotaxia",
+   "Controle mamográfico em 6 meses e depois anual",
+   "Incidências adicionais e ultrassonografia direcionada",
+   "Ressonância das mamas como exame de rastreamento"
+  ],
+  "gab": 3,
+  "tema": "radiologia",
+  "sub": "Mama · BI-RADS 0",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American College of Radiology. ACR BI-RADS Atlas, 5ª edição, 2013",
+  "coment": "BI-RADS 0 significa exame incompleto: o radiologista ainda não consegue classificar o achado e precisa de avaliação adicional, como incidências complementares (compressão localizada, magnificação), ultrassonografia direcionada ou comparação com exames anteriores. Só depois disso o achado recebe a categoria final (1 a 5), que define a conduta. Não é categoria de seguimento nem de biópsia. Uma assimetria focal pode ser sobreposição de tecido normal, que se desfaz na compressão, ou lesão real, que persiste e é caracterizada pela ultrassonografia.",
+  "porAlt": [
+   "Voltar ao rastreamento sem completar a investigação deixa sem resposta um achado não classificado.",
+   "Biópsia é para categorias 4 e 5; no BI-RADS 0 o achado ainda não foi caracterizado.",
+   "Controle em 6 meses é conduta da categoria 3, atribuída só após a avaliação completa.",
+   "Correta: BI-RADS 0 pede avaliação adicional, como incidências complementares e ultrassonografia.",
+   "A ressonância não é o passo para completar uma mamografia incompleta."
+  ]
+ },
+ {
+  "q": "Mulher de 44 anos tem, na ultrassonografia mamária, nódulo sólido oval, circunscrito, paralelo à pele, de 9 mm, sem achados associados, laudado como BI-RADS 3. Não há exame prévio nem nódulo palpável. Qual é a conduta recomendada?",
+  "alts": [
+   "Controle por imagem em curto intervalo, em geral 6 meses",
+   "Biópsia por agulha grossa, por ser nódulo sólido",
+   "Alta e retorno ao rastreamento habitual pela idade",
+   "Exérese cirúrgica do nódulo para estudo histológico",
+   "Punção aspirativa por agulha fina para citologia"
+  ],
+  "gab": 0,
+  "tema": "radiologia",
+  "sub": "Mama · BI-RADS 3",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "American College of Radiology. ACR BI-RADS Atlas, 5ª edição, 2013",
+  "coment": "BI-RADS 3 é achado provavelmente benigno, com risco de malignidade de até 2%. O nódulo sólido oval, circunscrito e paralelo à pele, sem achados suspeitos, é o exemplo típico (fibroadenoma provável). A conduta é controle em curto intervalo, em geral 6 meses, e depois seguimento até completar 2 a 3 anos de estabilidade, quando passa a BI-RADS 2. Biópsia é alternativa se houver crescimento, mudança de características, ansiedade importante da paciente ou impossibilidade de seguimento. Punção com agulha fina não define nódulo sólido.",
+  "porAlt": [
+   "Correta: categoria 3 tem risco de até 2% e pede controle em 6 meses, seguido até 2 a 3 anos.",
+   "Biópsia não é rotina na categoria 3; fica para crescimento, mudança ou impossibilidade de seguir.",
+   "A categoria 3 exige seguimento de curto intervalo; liberar para a rotina pula essa etapa.",
+   "Exérese é excessiva para achado com risco de até 2% e não é a conduta padrão.",
+   "A citologia por agulha fina não caracteriza nódulo sólido e não substitui o seguimento."
+  ]
+ },
+ {
+  "q": "Mulher de 61 anos tem nódulo irregular e espiculado de 18 mm na mamografia, classificado como BI-RADS 5. A biópsia por agulha grossa guiada por ultrassonografia vem como alteração fibrocística sem atipias. Qual é a conduta?",
+  "alts": [
+   "Alta para o rastreamento bienal, pois a histologia é benigna",
+   "Controle com mamografia em 6 meses, como no BI-RADS 3",
+   "Mastectomia sem nova biópsia, pela alta suspeita de imagem",
+   "Ressonância das mamas e, se normal, encerrar a investigação",
+   "Considerar discordância e repetir biópsia ou fazer exérese"
+  ],
+  "gab": 4,
+  "tema": "radiologia",
+  "sub": "Mama · Concordância após biópsia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American College of Radiology. ACR BI-RADS Atlas, 5ª edição, 2013",
+  "coment": "Toda biópsia mamária deve ter o resultado confrontado com a imagem. BI-RADS 5 tem risco de malignidade de 95% ou mais; um laudo histológico benigno e inespecífico, como alteração fibrocística, não explica um nódulo espiculado e indica provável erro de amostragem. A discordância radiopatológica exige nova biópsia, em geral por agulha mais calibrosa ou a vácuo, ou exérese cirúrgica. Dar alta, seguir como categoria 3 ou encerrar por ressonância normal deixaria passar um carcinoma. Também não se opera de forma radical sem diagnóstico histológico.",
+  "porAlt": [
+   "Histologia benigna inespecífica não explica lesão BI-RADS 5; alta deixa passar o câncer.",
+   "Seguimento de categoria 3 não cabe a achado altamente suspeito com biópsia discordante.",
+   "Cirurgia radical sem diagnóstico histológico não é aceitável; primeiro se esclarece a discordância.",
+   "Ressonância normal não anula a suspeita de um nódulo espiculado com biópsia discordante.",
+   "Correta: biópsia benigna em BI-RADS 5 é discordante e pede nova biópsia ou exérese."
+  ]
+ },
+ {
+  "q": "Mulher de 24 anos percebeu nódulo móvel e elástico de 2 cm na mama direita, sem descarga papilar nem alterações de pele. Não tem história familiar relevante. Qual é o primeiro exame de imagem indicado?",
+  "alts": [
+   "Mamografia bilateral em duas incidências",
+   "Ultrassonografia mamária direcionada",
+   "Ressonância das mamas com gadolínio",
+   "Tomossíntese mamária bilateral",
+   "Cintilografia mamária com sestamibi"
+  ],
+  "gab": 1,
+  "tema": "radiologia",
+  "sub": "Mama · Nódulo palpável na jovem",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ACR Appropriateness Criteria: Palpable Breast Masses, 2022",
+  "coment": "Abaixo de 30 anos, a ultrassonografia direcionada é o primeiro exame para nódulo palpável: a mama jovem é densa, o que reduz a sensibilidade da mamografia, e o risco de câncer é baixo, o que torna a radiação menos justificável. A ultrassonografia distingue cisto de nódulo sólido e classifica pelo BI-RADS; nódulo oval, circunscrito e paralelo à pele, típico do fibroadenoma, costuma ser categoria 3. A partir de 40 anos, a mamografia diagnóstica vem primeiro, com ultrassonografia complementar; entre 30 e 39 anos, qualquer das duas pode iniciar.",
+  "porAlt": [
+   "Na mulher abaixo de 30 anos a mamografia tem baixa sensibilidade pela densidade e não é o primeiro exame.",
+   "Correta: abaixo de 30 anos, o nódulo palpável começa pela ultrassonografia direcionada.",
+   "A ressonância não é exame inicial de nódulo palpável e tem muitos falsos positivos na jovem.",
+   "A tomossíntese é variante da mamografia e tem as mesmas limitações na mama jovem e densa.",
+   "Cintilografia mamária não faz parte da investigação inicial do nódulo palpável."
+  ]
+ },
+ {
+  "q": "Mulher de 49 anos, com TSH normal, tem nódulo tireoidiano sólido, hipoecoico, mais largo que alto, de margem lisa e sem focos ecogênicos, medindo 1,2 cm, classificado como ACR TI-RADS 4. Qual é a conduta pelo ACR TI-RADS?",
+  "alts": [
+   "Punção aspirativa por agulha fina, pois mede mais de 1 cm",
+   "Lobectomia diagnóstica, pela ecogenicidade hipoecoica",
+   "Seguimento ultrassonográfico, sem punção neste momento",
+   "Cintilografia com iodo antes de qualquer outra decisão",
+   "Alta sem seguimento, pois o nódulo tem margem lisa"
+  ],
+  "gab": 2,
+  "tema": "radiologia",
+  "sub": "Ultrassonografia e Doppler · Nódulo de tireoide",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Tessler FN et al. ACR Thyroid Imaging, Reporting and Data System (TI-RADS): white paper of the ACR TI-RADS committee, 2017",
+  "coment": "O ACR TI-RADS soma pontos de composição, ecogenicidade, forma, margem e focos ecogênicos. Sólido (2) e hipoecoico (2) somam 4, categoria TR4, de suspeição moderada. Os cortes de tamanho do TR4 são punção a partir de 1,5 cm e seguimento a partir de 1,0 cm. Com 1,2 cm, a conduta é seguimento ultrassonográfico, em geral em 1, 2, 3 e 5 anos, puncionando se crescer de forma significativa. No TR5 os cortes são 1,0 cm para punção e 0,5 cm para seguimento; no TR3, 2,5 cm e 1,5 cm. Com TSH normal, não há indicação de cintilografia.",
+  "porAlt": [
+   "No TR4 o corte para punção é 1,5 cm; 1 cm é o corte do TR5.",
+   "Cirurgia diagnóstica não é indicada para nódulo TR4 abaixo do corte de punção.",
+   "Correta: TR4 entre 1,0 e 1,4 cm pede seguimento ultrassonográfico, sem punção.",
+   "Cintilografia só se indica com TSH baixo, para procurar nódulo hiperfuncionante.",
+   "Margem lisa não zera a pontuação; sólido e hipoecoico somam 4 e exigem seguimento."
+  ]
+ },
+ {
+  "q": "Lactente de 14 meses caiu do sofá, de cerca de 50 cm, há 2 horas. Está com Glasgow 15, brincando, agindo normalmente segundo a mãe, sem perda de consciência e sem vômitos, mas tem hematoma de couro cabeludo na região parietal direita, sem crepitação nem afundamento palpável. Pelo PECARN, qual é a conduta?",
+  "alts": [
+   "Observar ou fazer TC, em decisão compartilhada com a família",
+   "Tomografia imediata, pois todo hematoma de couro é alto risco",
+   "Radiografia de crânio e TC só se houver traço de fratura",
+   "Alta imediata, pois não houve perda de consciência",
+   "Ressonância de crânio sob sedação nas próximas horas"
+  ],
+  "gab": 0,
+  "tema": "radiologia",
+  "sub": "Pediatria · PECARN abaixo de 2 anos",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Kuppermann N et al. Identification of children at very low risk of clinically-important brain injuries after head trauma (PECARN). Lancet, 2009",
+  "coment": "No PECARN para menores de 2 anos, Glasgow abaixo de 15, alteração do estado mental ou fratura de crânio palpável indicam TC. Na ausência desses, um grupo intermediário inclui hematoma de couro cabeludo occipital, parietal ou temporal, perda de consciência de 5 segundos ou mais, mecanismo grave (queda acima de 0,9 m nessa idade) e criança que não age normalmente para os pais. Com um desses achados, a escolha é entre observação e TC, pesando experiência do médico, achados múltiplos, piora, idade abaixo de 3 meses e preferência da família. Achado isolado favorece observação.",
+  "porAlt": [
+   "Correta: hematoma parietal isolado é risco intermediário; observar ou tomografar em decisão compartilhada.",
+   "Hematoma não frontal é risco intermediário, não alto; não obriga TC imediata.",
+   "A radiografia de crânio não exclui lesão intracraniana e não faz parte do PECARN.",
+   "Abaixo de 2 anos, hematoma parietal entra no risco intermediário e exige ao menos observação.",
+   "Ressonância sob sedação não é o exame da avaliação aguda do trauma craniano leve."
+  ]
+ },
+ {
+  "q": "Menino de 8 anos caiu da bicicleta, sem capacete, há 1 hora. Está com Glasgow 14, sonolento e repetitivo nas perguntas, e tem equimose retroauricular. Pelo PECARN, qual é a conduta?",
+  "alts": [
+   "Observação de 4 a 6 horas e TC só se piorar",
+   "Radiografia de crânio em duas incidências",
+   "Alta com orientação, pois não há vômitos",
+   "Tomografia de crânio sem contraste agora",
+   "Ressonância de crânio eletiva na semana"
+  ],
+  "gab": 3,
+  "tema": "radiologia",
+  "sub": "Pediatria · PECARN a partir de 2 anos",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Kuppermann N et al. Identification of children at very low risk of clinically-important brain injuries after head trauma (PECARN). Lancet, 2009",
+  "coment": "Para crianças de 2 anos ou mais, o PECARN indica TC quando há Glasgow abaixo de 15, alteração do estado mental (agitação, sonolência, perguntas repetitivas, resposta lenta) ou sinais de fratura de base do crânio, como equimose retroauricular, olhos de guaxinim, hemotímpano ou fístula liquórica. Nesse grupo o risco de lesão clinicamente importante é de cerca de 4%. O grupo intermediário (perda de consciência, vômitos, mecanismo grave, cefaleia intensa) admite observação. Este menino tem três critérios de alto risco.",
+  "porAlt": [
+   "Observação cabe ao risco intermediário; Glasgow 14 com sinal de fratura de base pede TC.",
+   "A radiografia não mostra lesão intracraniana e não é usada no PECARN.",
+   "A ausência de vômitos não importa diante de Glasgow 14 e sinal de fratura de base.",
+   "Correta: Glasgow abaixo de 15, estado mental alterado e sinal de fratura de base indicam TC.",
+   "Ressonância eletiva atrasa o diagnóstico de lesão que pode exigir cirurgia."
+  ]
+ },
+ {
+  "q": "Lactente de 9 meses tem crises de choro intenso com flexão das pernas, intercaladas com letargia, vômitos e uma evacuação com muco e sangue. A ultrassonografia no quadrante superior direito mostra imagem em alvo de 3,5 cm. Está estável, sem peritonite nem pneumoperitônio. Qual é a conduta?",
+  "alts": [
+   "Laparotomia de urgência com ressecção do segmento acometido",
+   "Tomografia com contraste para confirmar antes de tratar",
+   "Observação com jejum, pois a maioria se reduz sozinha",
+   "Enema baritado diagnóstico seguido de cirurgia eletiva",
+   "Redução por enema pneumático ou hidrostático guiado"
+  ],
+  "gab": 4,
+  "tema": "radiologia",
+  "sub": "Pediatria · Invaginação intestinal",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Kelley-Quon LI et al. Management of intussusception in children: a systematic review (APSA Outcomes and Evidence-Based Practice Committee). J Pediatr Surg, 2021",
+  "coment": "A invaginação ileocólica é a causa mais comum de obstrução intestinal entre 6 meses e 3 anos. A ultrassonografia é o exame de escolha, com sensibilidade e especificidade próximas de 100%: imagem em alvo no corte transversal e em pseudorrim no longitudinal, em geral no lado direito. Na criança estável, sem peritonite nem perfuração, o tratamento é a redução por enema pneumático ou hidrostático guiado por fluoroscopia ou ultrassonografia, com sucesso na maioria (APSA, 2021). Cirurgia fica para falha, perfuração ou instabilidade. Bário diagnóstico foi abandonado.",
+  "porAlt": [
+   "Cirurgia é reservada à falha do enema, perfuração, peritonite ou instabilidade.",
+   "A ultrassonografia já confirma; tomografia expõe à radiação e atrasa a redução.",
+   "Invaginação ileocólica sintomática raramente se resolve sozinha e pode evoluir para isquemia.",
+   "O enema baritado diagnóstico foi substituído pela ultrassonografia, e o enema também trata.",
+   "Correta: na criança estável, a redução por enema guiado é o tratamento de primeira linha."
+  ]
+ },
+ {
+  "q": "Lactente de 4 meses tem coriza há 3 dias, tosse, sibilos e estertores difusos, FR de 52 irpm, SpO2 de 95%, mamando bem. O diagnóstico clínico é bronquiolite viral aguda. Segundo a Academia Americana de Pediatria, qual é a orientação sobre radiografia de tórax?",
+  "alts": [
+   "Indicada a todos, para afastar pneumonia bacteriana",
+   "Indicada se houver sibilos, para excluir corpo estranho",
+   "Não indicada de rotina no quadro típico sem gravidade",
+   "Indicada em incidências PA e perfil antes da alta",
+   "Trocada por tomografia de baixa dose abaixo de 6 meses"
+  ],
+  "gab": 2,
+  "tema": "radiologia",
+  "sub": "Pediatria · Bronquiolite e radiografia",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ralston SL et al. AAP Clinical Practice Guideline: the diagnosis, management, and prevention of bronchiolitis, 2014",
+  "coment": "A bronquiolite é diagnóstico clínico, pela história e pelo exame. A diretriz da AAP (2014) recomenda não pedir radiografia de tórax nem exames laboratoriais de rotina, porque atelectasias e infiltrados são comuns na própria doença, levam a diagnóstico errado de pneumonia e a antibiótico desnecessário, sem mudar o desfecho. A radiografia fica para quadro grave, piora inesperada, suspeita de complicação ou dúvida diagnóstica, como suspeita de cardiopatia ou de corpo estranho por história de engasgo e achado unilateral.",
+  "porAlt": [
+   "Radiografia de rotina aumenta o uso de antibiótico sem mudar o desfecho da bronquiolite.",
+   "Sibilos difusos com pródromo viral não sugerem corpo estranho, que dá achado unilateral e engasgo.",
+   "Correta: na bronquiolite típica, a AAP recomenda não pedir radiografia de tórax de rotina.",
+   "Radiografia antes da alta não está indicada no lactente que evolui bem.",
+   "Tomografia não tem papel na bronquiolite e expõe o lactente à radiação sem benefício."
+  ]
+ },
+ {
+  "q": "Homem de 42 anos tem lombalgia mecânica há 10 dias após carregar peso, sem irradiação abaixo do joelho, sem febre, perda de peso, déficit neurológico, alteração esfincteriana ou história de câncer. Pede ressonância para ver a hérnia. Pelos critérios de adequação do ACR, qual é a conduta?",
+  "alts": [
+   "Ressonância lombar sem contraste para orientar o tratamento",
+   "Nenhum exame de imagem; tratar e reavaliar em 6 semanas",
+   "Radiografia lombar em três incidências como exame inicial",
+   "Tomografia lombar, mais disponível e rápida que a ressonância",
+   "Cintilografia óssea para afastar lesão oculta na coluna"
+  ],
+  "gab": 1,
+  "tema": "radiologia",
+  "sub": "Musculoesquelético · Lombalgia aguda",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ACR Appropriateness Criteria: Low Back Pain, 2021",
+  "coment": "Lombalgia aguda ou subaguda sem sinais de alarme tem curso favorável na maioria em 4 a 6 semanas. Pelos critérios de adequação do ACR (2021), imagem não é apropriada nesse cenário: achados como protrusão discal e degeneração são frequentes em assintomáticos, não mudam o tratamento e levam a procedimentos desnecessários. Imagem passa a ser indicada com sinais de alarme (déficit progressivo, síndrome da cauda equina, suspeita de câncer, infecção ou fratura) ou quando a dor persiste após 6 semanas de tratamento e o paciente é candidato a intervenção.",
+  "porAlt": [
+   "Ressonância sem sinais de alarme não muda o tratamento inicial e encontra achados irrelevantes.",
+   "Correta: sem sinais de alarme, não há imagem; trata-se e reavalia-se em cerca de 6 semanas.",
+   "A radiografia também não é indicada na lombalgia aguda sem sinais de alarme.",
+   "A tomografia irradia e tem as mesmas limitações; não há indicação de imagem aqui.",
+   "Cintilografia é para suspeita de lesão óssea específica, ausente neste quadro."
+  ]
+ }
+]

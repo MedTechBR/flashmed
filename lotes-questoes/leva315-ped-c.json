@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Mãe leva o filho de 9 dias à unidade básica para a primeira consulta e pergunta com que frequência a criança deverá ser trazida para acompanhamento de rotina nos dois primeiros anos, se tudo correr bem. Pelo calendário mínimo de consultas do Ministério da Saúde, qual é a orientação?",
+  "alts": [
+   "Sete consultas no primeiro ano, na 1ª semana e aos 1, 2, 4, 6, 9 e 12 meses, e duas no segundo, aos 18 e 24 meses",
+   "Seis consultas no primeiro ano, aos 1, 2, 4, 6, 9 e 12 meses, e três no segundo, aos 15, 18 e 24 meses de idade",
+   "Doze consultas no primeiro ano, uma por mês, e quatro no segundo, a cada três meses até completar 24 meses",
+   "Cinco consultas no primeiro ano, na 1ª semana e aos 2, 4, 6 e 12 meses, e uma única no segundo, aos 24 meses",
+   "Sete consultas no primeiro ano, na 1ª semana e aos 1, 2, 3, 4, 6 e 9 meses, e duas no segundo, aos 15 e 24 meses"
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Calendário mínimo de consultas",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 33: Saúde da criança, crescimento e desenvolvimento, 2012",
+  "coment": "O Caderno de Atenção Básica nº 33 (MS, 2012) propõe calendário mínimo de sete consultas no primeiro ano (1ª semana, 1, 2, 4, 6, 9 e 12 meses), duas no segundo (18 e 24 meses) e consultas anuais a partir dos 2 anos, próximas ao aniversário. As idades coincidem com vacinas, com a introdução alimentar aos 6 meses e com marcos que precisam ser checados. A primeira consulta integra a Primeira Semana Saúde Integral. Crianças com fatores de risco têm agenda mais frequente, a critério da equipe.",
+  "porAlt": [
+   "Correta: é o calendário mínimo do Caderno 33, com a consulta da primeira semana incluída.",
+   "Omite a consulta da primeira semana e acrescenta uma consulta aos 15 meses que não faz parte do mínimo.",
+   "Consulta mensal é frequência possível para crianças de risco, não o calendário mínimo proposto.",
+   "Deixa de fora as consultas de 1 e 9 meses e a dos 18 meses, que integram o calendário.",
+   "Troca as consultas de 12 e 18 meses por 3 e 15 meses, que não estão no calendário mínimo."
+  ]
+ },
+ {
+  "q": "Menino de 30 meses, nascido a termo com peso adequado, é levado à consulta de rotina. Come pouco feijão e verduras, teve várias diarreias no último ano e mora em casa sem saneamento. Na Caderneta, a estatura para a idade está em escore Z de -2,6 e o peso para a estatura em escore Z de -0,4. Como se classifica o estado nutricional pela norma do SISVAN?",
+  "alts": [
+   "Muito baixa estatura para a idade, que traduz desnutrição aguda grave",
+   "Estatura adequada, porque baixa estatura exige escore Z abaixo de -3",
+   "Baixa estatura para a idade, que traduz agravo nutricional crônico",
+   "Magreza, porque o peso para a estatura está abaixo da mediana de referência",
+   "Desnutrição aguda moderada, definida pela estatura abaixo de -2 escores Z"
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Escore Z e baixa estatura",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Norma Técnica do Sistema de Vigilância Alimentar e Nutricional (SISVAN), 2011",
+  "coment": "Pela norma do SISVAN (MS, 2011), que aplica as curvas da OMS, estatura para a idade com escore Z entre -3 e -2 é baixa estatura; abaixo de -3, muito baixa estatura. A estatura reflete o efeito acumulado de agravos crônicos (dieta pobre, infecções de repetição, saneamento precário), por isso é o marcador de desnutrição crônica. Magreza e desnutrição aguda se definem pelo peso para a estatura ou IMC para a idade abaixo de -2, e aqui esse índice está em -0,4, dentro da faixa de eutrofia.",
+  "porAlt": [
+   "Muito baixa estatura começa abaixo de -3, e desnutrição aguda grave se mede pelo peso para a estatura.",
+   "O corte de baixa estatura é -2; abaixo de -3 a criança já seria classificada como muito baixa estatura.",
+   "Correta: Z entre -3 e -2 na estatura para a idade é baixa estatura, marcador de agravo crônico.",
+   "Peso para a estatura em -0,4 está entre -2 e +1, faixa de eutrofia, e não define magreza.",
+   "Desnutrição aguda é definida pela relação peso e estatura, não pelo índice de estatura para a idade."
+  ]
+ },
+ {
+  "q": "Menina de 12 meses, nascida a termo, sem intercorrências neonatais, comparece à consulta após faltar à de 9 meses. Não fica de pé com apoio, não faz pinça com polegar e indicador, não dá tchau, não estranha desconhecidos e não fala nenhuma palavra; senta sem apoio e transfere objetos. Perímetro cefálico em escore Z de 0. Pela vigilância do desenvolvimento da Caderneta da Criança, qual é a conduta?",
+  "alts": [
+   "Classificar como alerta para o desenvolvimento e reavaliar em 30 dias com estímulo",
+   "Considerar variação do normal e rever os marcos na consulta dos 18 meses",
+   "Classificar como adequado com fator de risco e orientar a família",
+   "Pedir ressonância de crânio e cariótipo antes de classificar a criança",
+   "Classificar como provável atraso e referir para avaliação neuropsicomotora"
+  ],
+  "gab": 4,
+  "tema": "puericultura",
+  "sub": "Vigilância do desenvolvimento",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 33: Saúde da criança, crescimento e desenvolvimento, 2012",
+  "coment": "A vigilância do Caderno 33 e da Caderneta classifica como provável atraso a ausência de um ou mais marcos da faixa etária anterior, o perímetro cefálico fora de mais ou menos 2 escores Z ou três ou mais alterações fenotípicas; a conduta é referir para avaliação neuropsicomotora. Aos 12 meses, faltam marcos da faixa de 9 meses (ficar de pé com apoio, pinça, tchau, estranhar). Alerta para o desenvolvimento é a falta de marcos só da própria faixa, com estímulo e reavaliação em 30 dias. Exames não precedem a classificação.",
+  "porAlt": [
+   "Alerta é a ausência de marcos só da própria faixa etária; aqui faltam os da faixa anterior.",
+   "Ausência de vários marcos da faixa anterior não é variação normal e não deve esperar seis meses.",
+   "Consulta perdida não é fator de risco para o desenvolvimento e os marcos já estão ausentes.",
+   "A classificação é clínica; exames complementares vêm depois, na avaliação especializada.",
+   "Correta: faltam marcos da faixa anterior (9 meses), o que define provável atraso e indica referência."
+  ]
+ },
+ {
+  "q": "Menino de 24 meses é trazido porque fala cerca de cinco palavras isoladas e nunca juntou duas palavras. Aponta para mostrar objetos, atende quando chamado pelo nome, brinca de imitar e olha nos olhos. Nasceu a termo e o teste da orelhinha foi normal na maternidade. Teve três otites no último ano. Qual é o primeiro passo na investigação?",
+  "alts": [
+   "Aplicar o M-CHAT-R e só investigar se a pontuação indicar risco moderado ou alto",
+   "Avaliação audiológica, porque a triagem normal ao nascer não exclui perda adquirida",
+   "Aguardar até os 3 anos, idade em que a maioria dos atrasos de fala se resolve sozinha",
+   "Encaminhar ao CAPS infantojuvenil para diagnóstico de transtorno do espectro autista",
+   "Solicitar eletroencefalograma para afastar epilepsia com regressão de linguagem"
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Atraso de linguagem aos 2 anos",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 33: Saúde da criança, crescimento e desenvolvimento, 2012",
+  "coment": "A ausência de frase espontânea de duas palavras aos 24 meses é sinal de alerta que não espera a próxima consulta. Todo atraso de linguagem começa pela avaliação auditiva: o teste da orelhinha normal ao nascer não exclui perda auditiva adquirida ou progressiva, e otites de repetição com efusão podem reduzir a audição. Aqui a interação social está preservada (aponta, atende pelo nome, imita), o que torna o autismo menos provável, mas a audiometria é solicitada em qualquer cenário. Esperar até os 3 anos atrasa intervenção que depende de janela.",
+  "porAlt": [
+   "A triagem de autismo não substitui a avaliação auditiva, que é necessária independentemente do escore.",
+   "Correta: a audição é investigada primeiro em todo atraso de linguagem, mesmo com triagem neonatal normal.",
+   "Ausência de frase de duas palavras aos 24 meses é sinal de alerta e pede investigação já.",
+   "Interação social preservada não sugere autismo, e o CAPS não é a porta de entrada para esse caso.",
+   "Não há crise nem perda de habilidade adquirida que justifique eletroencefalograma inicial."
+  ]
+ },
+ {
+  "q": "Puérpera no terceiro dia após parto vaginal refere que as duas mamas ficaram cheias, duras, brilhantes e muito doloridas; temperatura de 37,6 °C. O recém-nascido chora ao tentar mamar porque não consegue abocanhar a aréola, que está tensa. Não há área de eritema localizada. Qual é a conduta?",
+  "alts": [
+   "Ordenhar a aréola antes de cada mamada e manter a livre demanda com compressas frias",
+   "Espaçar as mamadas a cada 3 horas e aplicar compressas mornas para esvaziar os ductos",
+   "Suspender a amamentação por 24 horas e oferecer fórmula até a mama desinchar",
+   "Iniciar cefalexina por suspeita de mastite e manter a amamentação só na mama menos tensa",
+   "Enfaixar as mamas, restringir líquidos e prescrever cabergolina em dose baixa"
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Ingurgitamento mamário",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 23: Saúde da criança, aleitamento materno e alimentação complementar, 2ª ed., 2015",
+  "coment": "Mamas cheias, tensas, brilhantes e dolorosas, bilaterais, nos primeiros dias, com febre baixa, caracterizam ingurgitamento. Pelo Caderno de Atenção Básica nº 23 (MS, 2015), a conduta é manter mamadas frequentes em livre demanda, ordenhar a aréola antes da mamada para que o bebê consiga abocanhá-la, massagem, compressas frias, analgésico e sutiã firme. Suspender ou espaçar mamadas piora a estase e aumenta o risco de mastite. Sem área quente e vermelha com febre alta, não há mastite e o antibiótico não está indicado.",
+  "porAlt": [
+   "Correta: ordenha da aréola, livre demanda e frio local tratam o ingurgitamento sem interromper a amamentação.",
+   "Horário rígido piora a estase; o Caderno 23 orienta livre demanda e compressas frias, não mornas.",
+   "Suspender a amamentação aumenta a estase e o risco de mastite, além de prejudicar a lactação.",
+   "Não há área localizada quente e eritematosa; o quadro bilateral difuso não é mastite.",
+   "Enfaixar e inibir a lactação são condutas para quem não vai amamentar, não para o ingurgitamento."
+  ]
+ },
+ {
+  "q": "Mãe de lactente de 6 semanas em aleitamento materno exclusivo diz que o leite dela é fraco porque o bebê mama de 9 a 11 vezes por dia, chora no fim da tarde e as mamas ficaram mais macias. Ele molha 7 fraldas por dia e ganhou 900 g em 30 dias. A mamada observada mostra boa pega. Qual é a orientação adequada?",
+  "alts": [
+   "Complementar com fórmula após as mamadas da tarde, quando o choro é mais intenso",
+   "Iniciar translactação com fórmula para estimular a produção sem tirar o bebê do peito",
+   "Prescrever domperidona por 14 dias como galactagogo e reavaliar o ganho de peso",
+   "Tranquilizar a mãe, porque ganho de peso e diurese mostram produção suficiente",
+   "Oferecer água ou chá entre as mamadas para reduzir as cólicas e o choro vespertino"
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Percepção de leite insuficiente",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 23: Saúde da criança, aleitamento materno e alimentação complementar, 2ª ed., 2015",
+  "coment": "A baixa produção de leite é mais percebida do que real. Mamadas frequentes, choro vespertino e mamas mais macias após as primeiras semanas são normais. Pelo Caderno 23 (MS, 2015), os indicadores confiáveis de ingestão adequada são o ganho de peso e a diurese: 900 g em um mês (cerca de 30 g por dia) e seis ou mais fraldas molhadas por dia indicam leite suficiente. Complemento, translactação e galactagogo ficam para a produção comprovadamente insuficiente; água e chá tiram a criança do aleitamento exclusivo e reduzem a sucção.",
+  "porAlt": [
+   "Complemento sem indicação reduz a sucção e a produção e favorece o desmame precoce.",
+   "Translactação é recurso para produção realmente insuficiente, o que não ocorre neste lactente.",
+   "Galactagogo não é primeira linha e não tem indicação com ganho de peso adequado.",
+   "Correta: ganho de cerca de 30 g por dia e boa diurese confirmam que a produção é suficiente.",
+   "Água e chá são desnecessários antes dos 6 meses e tiram a criança do aleitamento exclusivo."
+  ]
+ },
+ {
+  "q": "Lactante com bebê de 7 semanas refere dor em queimação e fisgadas nos mamilos que persiste por cerca de uma hora após cada mamada, há 10 dias, apesar de a pega ter sido corrigida. Os mamilos estão rosados e brilhantes, sem fissura. O bebê tem placas esbranquiçadas aderidas à mucosa jugal e usa chupeta. Qual é a conduta?",
+  "alts": [
+   "Tratar só a mãe com antifúngico tópico, pois a lesão oral do bebê é leite residual",
+   "Suspender a amamentação até a cura e ofertar leite ordenhado em copinho por 14 dias",
+   "Prescrever cefalexina por 10 dias, porque a dor após a mamada indica mastite inicial",
+   "Aplicar lanolina e protetor de silicone nos mamilos e manter o bebê com chupeta",
+   "Tratar mãe e bebê ao mesmo tempo com antifúngico tópico e suspender a chupeta"
+  ],
+  "gab": 4,
+  "tema": "puericultura",
+  "sub": "Candidíase mamilar",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 23: Saúde da criança, aleitamento materno e alimentação complementar, 2ª ed., 2015",
+  "coment": "Dor em queimação ou fisgada que persiste depois da mamada, mamilo rosado e brilhante e monilíase oral no lactente caracterizam candidíase mamilar. O Caderno 23 (MS, 2015) orienta tratar mãe e bebê simultaneamente com antifúngico tópico, para evitar reinfecção cruzada, e ferver ou, de preferência, suspender bicos e chupetas, que funcionam como reservatório. A amamentação é mantida. Mastite tem área quente, eritematosa e febre; protetor de mamilo e chupeta atrapalham a pega e mantêm o fungo.",
+  "porAlt": [
+   "Placas aderidas à mucosa jugal são monilíase oral; tratar só a mãe mantém a reinfecção.",
+   "Candidíase mamilar não contraindica a amamentação, que deve ser mantida durante o tratamento.",
+   "Não há eritema localizado nem febre; o quadro não é mastite e antibiótico não trata fungo.",
+   "Bicos artificiais mantêm o reservatório do fungo e prejudicam a pega; devem ser retirados.",
+   "Correta: tratamento simultâneo da dupla e retirada da chupeta evitam a reinfecção cruzada."
+  ]
+ },
+ {
+  "q": "Lactente de 10 meses, em aleitamento materno e alimentação complementar adequada, está com resfriado há dois dias, sem sinais de gravidade. A avó pergunta se pode dar chá adoçado com mel para aliviar a tosse. Pelo Guia Alimentar para Crianças Brasileiras Menores de 2 Anos, o que orientar?",
+  "alts": [
+   "Liberar o mel, que é natural, mas evitar o açúcar refinado até a criança completar 1 ano",
+   "Liberar o mel pasteurizado a partir dos 6 meses e o açúcar a partir dos 12 meses de idade",
+   "Oferecer o chá com mel por até três dias, já que reduz a tosse noturna nessa faixa etária",
+   "Não oferecer mel antes de 1 ano, pelo risco de botulismo, nem açúcar antes dos 2 anos",
+   "Trocar o mel por xarope antitussígeno infantil, mais seguro e eficaz para menores de 2 anos"
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Mel e açúcar antes dos 2 anos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia Alimentar para Crianças Brasileiras Menores de 2 Anos, 2019",
+  "coment": "O Guia Alimentar para Crianças Brasileiras Menores de 2 Anos (MS, 2019) recomenda não oferecer açúcar nem preparações com açúcar até os 2 anos, incluindo chás e sucos adoçados. O mel não é oferecido no primeiro ano pelo risco de botulismo infantil: esporos de Clostridium botulinum germinam no intestino ainda imaturo, e a pasteurização não os elimina. Antitussígenos e descongestionantes não têm benefício demonstrado e não se prescrevem a menores de 2 anos; o resfriado se trata com soro nasal, hidratação e orientação.",
+  "porAlt": [
+   "O mel é justamente o alimento vetado no primeiro ano, por conter esporos de Clostridium botulinum.",
+   "A pasteurização não elimina os esporos, e o açúcar fica fora da dieta até os 2 anos, não até 1 ano.",
+   "O benefício do mel na tosse é estudado acima de 1 ano; antes disso o risco de botulismo prevalece.",
+   "Correta: mel fica fora no primeiro ano pelo botulismo, e o açúcar fica fora até os 2 anos.",
+   "Antitussígenos não têm benefício e acumulam eventos adversos em menores de 2 anos."
+  ]
+ },
+ {
+  "q": "Menino de 13 meses vai à sala de vacina pela primeira vez desde os 6 meses. Recebeu todas as vacinas até essa idade. Hoje a equipe vai aplicar pneumocócica 10, meningocócica ACWY e tríplice viral, e a mãe pede para fazer também a febre amarela, que ficou atrasada, porque vai viajar em 45 dias para área com recomendação de vacina. Não há surto em curso. Qual é a orientação correta?",
+  "alts": [
+   "Aplicar todas no mesmo dia, pois vacinas atenuadas podem ser simultâneas em qualquer idade",
+   "Aplicar a febre amarela hoje e adiar a tríplice viral para depois dos 15 meses de idade",
+   "Aplicar as três vacinas hoje e a febre amarela com intervalo de 30 dias da tríplice viral",
+   "Aplicar as três vacinas hoje e a febre amarela só após 90 dias, por ser vacina atenuada",
+   "Adiar todas as vacinas, porque o atraso exige reiniciar o esquema a partir da dose dos 9 meses"
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Tríplice viral e febre amarela",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Instrução Normativa do Calendário Nacional de Vacinação, atualizada em 19/11/2025, 2025",
+  "coment": "Pela Instrução Normativa do Calendário Nacional de Vacinação 2025, tríplice viral (ou tetraviral) e febre amarela não devem ser aplicadas no mesmo dia em menores de 2 anos, pela interferência na resposta imune; respeita-se intervalo de 30 dias (mínimo de 15 dias em exceção). Em surto com circulação concomitante, podem ser simultâneas. Inativadas com atenuadas não exigem intervalo, e esquema atrasado nunca se reinicia: conta-se o que foi feito. A viagem em 45 dias permite cumprir o intervalo de 30 dias.",
+  "porAlt": [
+   "A simultaneidade das atenuadas injetáveis vale a partir dos 2 anos; abaixo disso há a exceção.",
+   "A tríplice viral é devida aos 12 meses e não há motivo para adiá-la além do necessário.",
+   "Correta: abaixo de 2 anos, tríplice viral e febre amarela respeitam 30 dias de intervalo, fora de surto.",
+   "O intervalo entre atenuadas injetáveis é de 30 dias, não de 90 dias.",
+   "Esquema atrasado não se reinicia; completa-se o que falta respeitando intervalos."
+  ]
+ },
+ {
+  "q": "Menina de 7 anos e 2 meses chega de outro estado sem nenhuma dose registrada de vacina contra difteria, tétano e coqueluche nem de hepatite B. Está saudável. Qual esquema iniciar pelo calendário vigente?",
+  "alts": [
+   "Pentavalente em três doses com 60 dias de intervalo, seguida de dois reforços com DTP",
+   "DTP em três doses com 60 dias de intervalo e hepatite B em dose única de reforço",
+   "Pentavalente em dose única e dT a cada 10 anos, sem necessidade de hepatite B",
+   "dT em três doses com 60 dias de intervalo e hepatite B monovalente em 0, 1 e 6 meses",
+   "dTpa em dose única e hepatite B em duas doses com intervalo de 6 meses entre elas"
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Atraso vacinal após 7 anos",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Instrução Normativa do Calendário Nacional de Vacinação, atualizada em 19/11/2025, 2025",
+  "coment": "A pentavalente e a DTP, com pertussis de células inteiras, só podem ser usadas até 6 anos, 11 meses e 29 dias, porque a reatogenicidade aumenta com a idade. Pela Instrução Normativa do Calendário Nacional de Vacinação 2025, a partir dos 7 anos o atraso se corrige com dT (três doses com intervalo de 60 dias, depois reforço a cada 10 anos) e hepatite B monovalente em três doses (0, 1 e 6 meses). A dTpa tem indicação em gestantes e grupos específicos, não como esquema primário isolado de escolar.",
+  "porAlt": [
+   "A pentavalente tem idade máxima de 6 anos, 11 meses e 29 dias e não pode ser usada aos 7 anos.",
+   "A DTP também tem limite antes dos 7 anos, e hepatite B sem dose prévia exige três doses.",
+   "Dose única de pentavalente não completa esquema, e a hepatite B continua necessária.",
+   "Correta: a partir dos 7 anos o esquema é dT e hepatite B monovalente, sem componente pertussis de células inteiras.",
+   "dTpa não é o esquema primário de escolar sem vacina, e a hepatite B exige três doses."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 35 semanas e 2.300 g, sem comorbidades, está em alojamento conjunto com 48 horas de vida, em fevereiro de 2026. A mãe não recebeu vacina contra o vírus sincicial respiratório na gestação. Pelos critérios do Ministério da Saúde para o nirsevimabe, qual é a conduta?",
+  "alts": [
+   "Não aplicar, porque o nirsevimabe se restringe a prematuros de 28 semanas ou menos",
+   "Não aplicar, porque o peso acima de 2.000 g exclui o recém-nascido do protocolo",
+   "Aplicar o nirsevimabe antes da alta, pois é prematuro com até 36 semanas e 6 dias",
+   "Indicar palivizumabe mensal na sazonalidade, já que o nirsevimabe exige comorbidade",
+   "Adiar para os 2 meses, junto com as vacinas, para não interferir na hepatite B"
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Nirsevimabe no SUS",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Nota Técnica nº 109/2025 (nirsevimabe em maternidades do SUS), 2025",
+  "coment": "O nirsevimabe, anticorpo monoclonal de meia-vida longa contra a proteína F do vírus sincicial respiratório, foi incorporado ao SUS em 2025 (Nota Técnica nº 109/2025) e passou a ser ofertado a partir de fevereiro de 2026, preferencialmente na maternidade, antes da alta. O público é o prematuro com idade gestacional de até 36 semanas e 6 dias, de qualquer peso, e a criança de até 24 meses com comorbidade de risco. É imunização passiva, sem intervalo com vacinas. O palivizumabe, mensal, cobria só prematuros de 28 semanas ou menos e alguns grupos.",
+  "porAlt": [
+   "A restrição a 28 semanas ou menos era do palivizumabe; o nirsevimabe ampliou o público.",
+   "O critério é a idade gestacional, sem limite de peso ao nascer para o prematuro.",
+   "Correta: prematuro de até 36 semanas e 6 dias é elegível, de qualquer peso, com aplicação antes da alta.",
+   "O prematuro dispensa comorbidade, e o nirsevimabe substituiu o palivizumabe em dose única.",
+   "Anticorpo monoclonal não interfere em vacinas e é dado de preferência na maternidade."
+  ]
+ },
+ {
+  "q": "Mulher de 29 anos, amamentando exclusivamente o filho de 4 meses, nunca foi vacinada contra febre amarela e vai se mudar na próxima semana para município com recomendação de vacina e circulação viral confirmada; a viagem não pode ser adiada. Qual é a orientação?",
+  "alts": [
+   "Vacinar sem interromper a amamentação, pois a vacina atenuada não passa para o leite",
+   "Contraindicar a vacina de forma definitiva enquanto ela estiver amamentando o lactente",
+   "Vacinar e suspender o aleitamento por 10 dias, mantendo a produção com ordenha descartada",
+   "Vacinar o lactente de 4 meses junto com a mãe para dispensar a suspensão do aleitamento",
+   "Vacinar e suspender o aleitamento por 30 dias, com troca definitiva por fórmula infantil"
+  ],
+  "gab": 2,
+  "tema": "puericultura",
+  "sub": "Febre amarela na nutriz",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Instrução Normativa do Calendário Nacional de Vacinação, atualizada em 19/11/2025, 2025",
+  "coment": "Pela Instrução Normativa do Calendário Nacional de Vacinação 2025, a vacina contra febre amarela em nutriz de lactente menor de 6 meses deve ser adiada até a criança completar 6 meses, porque há casos de transmissão do vírus vacinal pelo leite com doença neurológica no lactente. Quando a vacinação não pode esperar, como em mudança para área de circulação, vacina-se e suspende-se o aleitamento por 10 dias, com ordenha e descarte para manter a lactação. A vacina é contraindicada em menores de 6 meses, o que impede vacinar o bebê.",
+  "porAlt": [
+   "Há relatos de transmissão do vírus vacinal pelo leite, daí a suspensão temporária.",
+   "A amamentação adia, mas não contraindica de forma definitiva; com risco real, vacina-se.",
+   "Correta: vacinação inadiável em nutriz de menor de 6 meses exige suspender o aleitamento por 10 dias.",
+   "A vacina contra febre amarela é contraindicada em menores de 6 meses.",
+   "O prazo é de 10 dias, e não há motivo para desmame definitivo."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 20 dias, assintomático, tem no teste do pezinho a tripsina imunorreativa elevada na primeira amostra, colhida no 4º dia. A segunda dosagem, colhida com 18 dias de vida, também veio elevada. Qual é o próximo passo?",
+  "alts": [
+   "Repetir a tripsina imunorreativa após os 30 dias de vida",
+   "Iniciar enzimas pancreáticas e fisioterapia respiratória já",
+   "Pesquisar mutações no gene CFTR e só então dosar a tripsina",
+   "Teste do suor para confirmar ou afastar a fibrose cística",
+   "Encerrar a investigação, pois a criança está assintomática"
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Triagem neonatal da fibrose cística",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Lei 14.154/2021 e Ministério da Saúde. Programa Nacional de Triagem Neonatal, 2021",
+  "coment": "A fibrose cística está na primeira etapa da triagem neonatal (Lei 14.154/2021). A tripsina imunorreativa elevada na primeira amostra é repetida, idealmente antes dos 30 dias de vida, porque depois disso o valor cai mesmo nos doentes e perde sensibilidade. Duas dosagens elevadas não fecham o diagnóstico: indicam o teste do suor, que confirma com cloreto de 60 mmol/L ou mais. Tratamento antes da confirmação não se justifica no assintomático, e a pesquisa genética é complementar, não substitui o teste do suor.",
+  "porAlt": [
+   "Após 30 dias a tripsina perde sensibilidade; já há duas dosagens elevadas a esclarecer.",
+   "Tratamento só depois da confirmação pelo teste do suor, ainda mais em criança assintomática.",
+   "A genética complementa o diagnóstico, mas a sequência da triagem segue para o teste do suor.",
+   "Correta: duas tripsinas imunorreativas elevadas indicam o teste do suor, que confirma o diagnóstico.",
+   "Triagem positiva em assintomático é exatamente o que a triagem quer detectar e exige confirmação."
+  ]
+ },
+ {
+  "q": "Lactente de 5 meses, nascido a termo, tem perímetro cefálico em escore Z de +2,4, que acompanha o mesmo canal desde o nascimento. Desenvolvimento adequado, fontanela anterior normotensa, sem vômitos, olhar normal. O pai comenta que sempre teve a cabeça grande. Qual é o passo inicial mais adequado?",
+  "alts": [
+   "Solicitar tomografia de crânio para afastar hidrocefalia comunicante",
+   "Pedir ultrassonografia transfontanelar urgente e avaliação neurocirúrgica",
+   "Encaminhar à genética para investigar síndrome de hipercrescimento",
+   "Dosar TSH e T4 livre, pois o hipotireoidismo é a causa mais frequente",
+   "Medir o perímetro cefálico dos pais e manter o acompanhamento da curva"
+  ],
+  "gab": 4,
+  "tema": "puericultura",
+  "sub": "Macrocefalia familiar benigna",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 33: Saúde da criança, crescimento e desenvolvimento, 2012",
+  "coment": "Macrocefalia é perímetro cefálico acima de +2 escores Z. A causa mais comum é a macrocefalia familiar benigna, e o primeiro passo é medir o perímetro cefálico dos pais. Criança que mantém o mesmo canal, com desenvolvimento normal e sem sinais de hipertensão intracraniana, segue em acompanhamento da curva. Crescimento que cruza linhas para cima, fontanela abaulada, vômitos, sinal do sol poente ou atraso do desenvolvimento pedem ultrassonografia transfontanelar ou neuroimagem. A curva é uma série, e a inclinação vale mais que o ponto.",
+  "porAlt": [
+   "Imagem com radiação não se indica sem cruzamento de canais ou sinais de hipertensão intracraniana.",
+   "Não há urgência: fontanela normotensa, sem vômitos e com crescimento paralelo às linhas.",
+   "Sem dismorfias, hipercrescimento global ou atraso, não há indicação de investigação genética.",
+   "Hipotireoidismo não é a causa mais frequente de macrocefalia, que é a forma familiar benigna.",
+   "Correta: canal estável, desenvolvimento normal e pai com cabeça grande apontam para macrocefalia familiar."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 38 semanas nasce em apneia após descolamento parcial de placenta sem sangramento ativo. Após os passos iniciais, recebe VPP com máscara e peça T em ar ambiente desde os 50 segundos de vida, com expansão torácica adequada. Aos 3 minutos, a frequência cardíaca é de 140 bpm, a respiração ainda é irregular e a saturação pré-ductal é de 72%. Pelas diretrizes da SBP de 2026, qual é a conduta quanto ao oxigênio?",
+  "alts": [
+   "Manter a VPP em ar ambiente, pois 72% está dentro da faixa-alvo de 70 a 75% aos 3 minutos",
+   "Aumentar o oxigênio para 40%, porque a meta aos 3 minutos é de 85 a 95% de saturação",
+   "Aumentar o oxigênio para 100%, pois a saturação abaixo de 90% indica hipoxemia grave",
+   "Aumentar o oxigênio para 60%, que é a concentração inicial recomendada após o 2º minuto",
+   "Suspender a VPP e oferecer oxigênio inalatório a 5 L/min, pois a frequência já passou de 100"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Saturação-alvo na sala de parto",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido com 34 semanas ou mais em sala de parto: diretrizes 2026",
+  "coment": "As diretrizes de 2026 do Programa de Reanimação Neonatal da SBP mudaram a tabela de saturação pré-ductal: 65 a 70% aos 2 minutos, 70 a 75% aos 3, 75 a 80% aos 4, 80 a 85% aos 5 e 85 a 95% aos 10. A partir de 34 semanas, a VPP começa em ar ambiente e o oxigênio só é aumentado quando a saturação fica abaixo da meta do minuto, depois de corrigir a técnica. A VPP é mantida até frequência de 100 bpm ou mais com respiração regular; com respiração ainda irregular, continua.",
+  "porAlt": [
+   "Correta: 72% aos 3 minutos está na meta de 70 a 75%, e a respiração irregular mantém a VPP.",
+   "85 a 95% é a meta dos 10 minutos; aos 3 minutos ela é de 70 a 75%.",
+   "Oxigênio a 100% fica para a massagem; aqui a saturação está dentro da meta.",
+   "60% é a concentração inicial da VPP no prematuro abaixo de 34 semanas, não no termo.",
+   "A VPP só é suspensa com frequência de 100 ou mais e respiração regular, o que não ocorreu."
+  ]
+ },
+ {
+  "q": "Prematuro de 31 semanas nasce chorando, com bom tônus; o cordão é clampeado após 60 segundos e ele é levado à mesa em saco plástico. Após os passos iniciais, a frequência cardíaca é de 150 bpm, mas apresenta gemido, tiragem subcostal e saturação abaixo da meta do minuto. Respira de forma regular. Pela diretriz da SBP de 2026 para o prematuro, qual é a conduta?",
+  "alts": [
+   "CPAP de 5 a 6 cmH2O com peça T e máscara facial, titulando o oxigênio pela saturação-alvo",
+   "VPP com balão autoinflável e oxigênio a 60%, a 40 a 60 movimentos por minuto, até corar",
+   "Intubação traqueal e surfactante de rotina ainda na sala de parto, antes do transporte",
+   "CPAP com balão autoinflável acoplado a reservatório e oxigênio a 100% por 2 minutos",
+   "Oxigênio inalatório em cateter nasal a 1 L/min e observação na mesa por 10 minutos"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "CPAP no prematuro na sala de parto",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do prematuro abaixo de 34 semanas em sala de parto: diretrizes 2026",
+  "coment": "Na diretriz de 2026 da SBP para o prematuro abaixo de 34 semanas, o RN com frequência cardíaca de 100 ou mais e respiração regular, mas com desconforto respiratório ou saturação abaixo do alvo, recebe CPAP de 5 a 6 cmH2O com peça T e máscara, nunca com balão autoinflável, que não fornece pressão contínua de forma confiável. A VPP, iniciada com oxigênio a 60%, fica para apneia, respiração irregular ou frequência abaixo de 100. O CPAP precoce reduz morte ou displasia, e surfactante não é rotina na sala de parto.",
+  "porAlt": [
+   "Correta: frequência acima de 100 com desconforto pede CPAP com peça T, nunca com balão autoinflável.",
+   "A VPP é para apneia, respiração irregular ou frequência abaixo de 100, o que não é o caso.",
+   "Surfactante não é rotina na sala de parto, e o CPAP precoce evita a intubação.",
+   "O balão autoinflável não fornece CPAP de forma consistente e não deve ser usado para isso.",
+   "Cateter nasal não oferece pressão positiva e não trata a atelectasia do prematuro."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 36 semanas, com 2 horas de vida, apresenta desconforto respiratório. Ao exame: movimento de tórax e abdome sincrônico, tiragem intercostal discreta, retração xifoide acentuada, batimento de asa nasal discreto e gemido expiratório audível sem estetoscópio. Qual é a pontuação no boletim de Silverman-Andersen?",
+  "alts": [
+   "4 pontos",
+   "5 pontos",
+   "7 pontos",
+   "8 pontos",
+   "6 pontos"
+  ],
+  "gab": 4,
+  "tema": "neonato",
+  "sub": "Boletim de Silverman-Andersen",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à saúde do recém-nascido: guia para os profissionais de saúde, 2ª ed., 2014",
+  "coment": "O boletim de Silverman-Andersen pontua de 0 a 2 cinco itens: movimento de tórax e abdome (sincrônico 0, declive inspiratório 1, balancim 2), tiragem intercostal (ausente 0, discreta 1, acentuada 2), retração xifoide (ausente 0, discreta 1, acentuada 2), batimento de asa nasal (ausente 0, discreto 1, acentuado 2) e gemido expiratório (ausente 0, audível só com estetoscópio 1, audível sem estetoscópio 2). Aqui: 0 + 1 + 2 + 1 + 2 = 6. Quanto maior a nota, maior o esforço respiratório (MS, 2014).",
+  "porAlt": [
+   "Soma que considera o gemido audível sem estetoscópio como 0, o que subestima o esforço.",
+   "Soma que conta o gemido sem estetoscópio como 1, valor que corresponde ao gemido só auscultado.",
+   "Soma que atribui 1 ponto ao movimento sincrônico de tórax e abdome, que vale 0.",
+   "Soma que pontua como acentuados os itens descritos como discretos no exame.",
+   "Correta: 0 (sincrônico) + 1 + 2 + 1 + 2 (gemido sem estetoscópio) somam 6."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 39 semanas, sem diagnóstico pré-natal, evolui logo após o nascimento com cianose e desconforto respiratório progressivos. O abdome é escavado, o murmúrio vesicular está abolido à esquerda, há ruídos hidroaéreos no hemitórax esquerdo e as bulhas são mais audíveis à direita. Frequência cardíaca de 90 bpm. Qual é a conduta imediata?",
+  "alts": [
+   "Intubar e ventilar pela cânula, com sonda gástrica aberta para descomprimir o estômago",
+   "Ventilar com máscara facial e balão autoinflável até a frequência cardíaca subir de 100",
+   "Puncionar o hemitórax esquerdo com agulha pela suspeita de pneumotórax hipertensivo",
+   "Iniciar CPAP nasal e aguardar radiografia de tórax para confirmar a hipótese diagnóstica",
+   "Administrar surfactante pela máscara laríngea e transferir para a UTI em incubadora"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Hérnia diafragmática congênita",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido com 34 semanas ou mais em sala de parto: diretrizes 2026",
+  "coment": "Abdome escavado, ruídos hidroaéreos no tórax, murmúrio abolido e bulhas desviadas para a direita sugerem hérnia diafragmática congênita à esquerda. A VPP com máscara insufla o estômago e as alças herniadas, comprimindo ainda mais o pulmão. Pelas diretrizes da SBP de 2026, a hérnia diafragmática que precisa de VPP é indicação de intubação, com sonda gástrica imediata para descompressão. A confirmação radiológica vem depois. O pneumotórax não explica os ruídos hidroaéreos no tórax nem o abdome escavado.",
+  "porAlt": [
+   "Correta: na hérnia diafragmática que precisa de VPP, intuba-se e passa-se sonda gástrica imediata.",
+   "VPP com máscara distende estômago e alças no tórax e piora a compressão pulmonar.",
+   "Ruídos hidroaéreos no tórax e abdome escavado indicam vísceras herniadas, não ar livre.",
+   "A conduta não espera radiografia, e o CPAP nasal também distende as alças intestinais.",
+   "Não há deficiência de surfactante como causa, e a via aérea precisa de cânula traqueal."
+  ]
+ },
+ {
+  "q": "Lactente de 21 dias, nascido a termo, em aleitamento materno exclusivo, é levado por icterícia que persiste desde a primeira semana. Está ativo, ganhou 750 g desde o nascimento, as fezes são amarelo-ouro e a urina é clara. Icterícia até o abdome, sem hepatoesplenomegalia. Qual é a conduta?",
+  "alts": [
+   "Suspender o aleitamento por 48 horas e oferecer fórmula para confirmar a icterícia do leite",
+   "Indicar fototerapia domiciliar por 3 dias e reavaliar com dosagem de bilirrubina transcutânea",
+   "Tranquilizar a família sem exames, já que a icterícia do leite materno dispensa investigação",
+   "Dosar bilirrubina total e frações e conferir a função tireoidiana, sem suspender o aleitamento",
+   "Solicitar cintilografia hepatobiliar imediata para afastar atresia de vias biliares extra-hepáticas"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Icterícia prolongada no lactente",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Hiperbilirrubinemia indireta no período neonatal, documento científico, 2021",
+  "coment": "Icterícia além de 2 semanas no RN a termo é prolongada e exige bilirrubina total e frações: bilirrubina direta acima de 1 mg/dL indica colestase e atresia biliar até prova em contrário, mesmo com fezes ainda coradas. Com predomínio indireto, confere-se o hipotireoidismo congênito (teste do pezinho, TSH e T4 livre) e a urina. A icterícia do leite materno, em lactente bem e ganhando peso, é diagnóstico de exclusão e não indica suspender a amamentação. Cintilografia só depois de confirmada a colestase.",
+  "porAlt": [
+   "Suspender o aleitamento não é necessário para o diagnóstico e prejudica a amamentação.",
+   "Não se indica fototerapia sem saber o nível e a fração da bilirrubina.",
+   "Icterícia do leite é diagnóstico de exclusão; sem a fração direta, a colestase pode passar.",
+   "Correta: icterícia prolongada pede frações e tireoide; a icterícia do leite é diagnóstico de exclusão.",
+   "Cintilografia só se a bilirrubina direta estiver elevada; o primeiro passo são as frações."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 38 semanas, em aleitamento materno, com 40 horas de vida, vai receber alta. A bilirrubina transcutânea, plotada no nomograma de Bhutani, cai acima do percentil 95, mas abaixo do limiar de fototerapia para a idade em horas. Não há incompatibilidade sanguínea, e o exame é normal. Qual é a conduta?",
+  "alts": [
+   "Iniciar fototerapia intensiva, porque o percentil 95 é o limiar de tratamento a qualquer hora",
+   "Confirmar com bilirrubina sérica e reavaliar de perto antes de liberar a alta habitual",
+   "Dar alta com retorno na consulta da primeira semana, pois está abaixo do limiar de fototerapia",
+   "Suspender o aleitamento materno por 24 horas e reavaliar a bilirrubina transcutânea depois",
+   "Indicar exsanguinotransfusão por bilirrubina na zona de alto risco do nomograma de Bhutani"
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Nomograma de Bhutani na alta",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Hiperbilirrubinemia indireta no período neonatal, documento científico, 2021",
+  "coment": "O nomograma de Bhutani plota a bilirrubina total por hora de vida em zonas delimitadas pelos percentis 40, 75 e 95. A zona de alto risco, acima do percentil 95, não é limiar de tratamento: indica maior chance de atingir nível de fototerapia e pede seguimento próximo. A bilirrubina transcutânea é triagem; valores altos ou próximos do limiar exigem confirmação sérica. A SBP (2021) recomenda avaliar todo RN antes da alta e decidir a data do retorno pela zona e pelos fatores de risco. A amamentação é mantida.",
+  "porAlt": [
+   "A indicação de fototerapia segue limiares por hora de vida e idade gestacional, não o percentil 95.",
+   "Correta: zona de alto risco pede confirmação sérica e reavaliação próxima, não alta com retorno habitual.",
+   "Abaixo do limiar, mas na zona de alto risco, o retorno habitual é tardio para esse RN.",
+   "Suspender a amamentação reduz a ingestão e aumenta a circulação êntero-hepática.",
+   "Exsanguinotransfusão tem limiar próprio, muito acima, ou sinais de encefalopatia."
+  ]
+ },
+ {
+  "q": "Gestante com HBsAg reagente no pré-natal, HBeAg não reagente e carga viral baixa, sem uso de tenofovir, tem parto vaginal a termo. O recém-nascido está bem e a mãe deseja amamentar. Qual é a conduta com o recém-nascido?",
+  "alts": [
+   "Vacina contra hepatite B nas primeiras 24 horas e imunoglobulina apenas se a mãe for HBeAg reagente, liberando a amamentação",
+   "Vacina contra hepatite B e imunoglobulina específica nas primeiras 12 a 24 horas, contraindicando a amamentação até o anti-HBs",
+   "Imunoglobulina específica ao nascer e vacina contra hepatite B só com 30 dias, para não haver neutralização do antígeno vacinal",
+   "Vacina contra hepatite B e imunoglobulina específica nas primeiras 12 a 24 horas, em locais distintos, liberando a amamentação",
+   "Vacina contra hepatite B e imunoglobulina específica na mesma seringa, no vasto lateral da coxa, até 72 horas após o nascimento"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "RN de mãe HBsAg reagente",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2ª ed. revisada, 2022",
+  "coment": "Pelo PCDT de Transmissão Vertical (MS, 2022), todo RN de mãe HBsAg reagente recebe vacina contra hepatite B e imunoglobulina anti-hepatite B, idealmente nas primeiras 12 a 24 horas, em sítios diferentes, independentemente do HBeAg ou da carga viral maternos. A combinação protege 90 a 95%. A amamentação é permitida, e a cesárea não reduz a transmissão. O anti-HBs do lactente é colhido de 30 a 60 dias após a última dose do esquema. O tenofovir materno é indicado a partir da 24ª semana se HBeAg reagente ou carga viral alta.",
+  "porAlt": [
+   "A imunoglobulina é indicada para todo filho de mãe HBsAg reagente, sem depender do HBeAg.",
+   "A amamentação é permitida no RN que recebeu vacina e imunoglobulina.",
+   "Vacina e imunoglobulina são feitas juntas ao nascer, em locais diferentes, sem interferência.",
+   "Correta: vacina e imunoglobulina precoces em locais distintos, com amamentação liberada.",
+   "Os produtos não se misturam na mesma seringa e devem ser aplicados em sítios separados."
+  ]
+ },
+ {
+  "q": "Gestante com sífilis latente tardia recebeu penicilina benzatina 2,4 milhões UI por semana, três doses, com a primeira 60 dias antes do parto, tudo documentado. VDRL materno no parto: 1:4. Recém-nascido a termo, exame físico normal, VDRL de sangue periférico 1:2. Pelo PCDT de 2022, como conduzir?",
+  "alts": [
+   "Sífilis congênita: notificar, colher líquor e radiografia e tratar com penicilina procaína por 10 dias",
+   "Sífilis congênita presumida: penicilina benzatina 50.000 UI/kg em dose única antes da alta hospitalar",
+   "Criança exposta à sífilis: sem tratamento, com VDRL no seguimento até dois resultados não reagentes",
+   "Criança exposta à sífilis: penicilina benzatina 50.000 UI/kg em dose única para prevenir a infecção",
+   "Sífilis congênita, pois qualquer VDRL reagente no recém-nascido define infecção e exige notificação"
+  ],
+  "gab": 2,
+  "tema": "neonato",
+  "sub": "Criança exposta à sífilis",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2ª ed. revisada, 2022",
+  "coment": "Pelo PCDT de Transmissão Vertical (MS, 2022), tratamento materno adequado é o esquema completo para o estágio com benzatina, iniciado até 30 dias antes do parto e documentado. O VDRL do RN reflete IgG materna; só título duas diluições acima do materno define sífilis congênita. RN assintomático, de mãe adequadamente tratada, com título menor ou igual ao materno, é criança exposta: não se trata nem se notifica como sífilis congênita, e segue na atenção primária com teste não treponêmico com 1, 3, 6, 12 e 18 meses.",
+  "porAlt": [
+   "Não há critério de sífilis congênita: tratamento materno adequado, RN normal e título baixo.",
+   "Benzatina em dose única é para filho de mãe não tratada ou inadequadamente tratada com investigação normal.",
+   "Correta: mãe tratada de forma adequada e título do RN abaixo do materno definem criança exposta.",
+   "A criança exposta não recebe antibiótico; a proteção veio do tratamento materno adequado.",
+   "VDRL reagente no RN pode ser só anticorpo materno; o que define infecção é o título comparado."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 39 semanas, parto vaginal, com bolsa rota há 20 horas. A mãe tinha cultura positiva para estreptococo do grupo B e recebeu a primeira dose de penicilina cristalina 2 horas antes do parto; não teve febre nem sinais de infecção intra-amniótica. O RN nasceu bem, Apgar 9 e 10, e está assintomático com 1 hora de vida. Pela abordagem por categoria de risco da AAP de 2018, qual é a conduta?",
+  "alts": [
+   "Hemocultura e ampicilina com gentamicina por 48 horas, até o resultado da cultura negativa",
+   "Observação clínica ampliada por 36 a 48 horas, sem antibiótico se ele seguir assintomático",
+   "Hemocultura, líquor e ampicilina com cefotaxima, pois a profilaxia materna foi inadequada",
+   "Cuidados de rotina com alta em 24 horas, porque a mãe recebeu penicilina antes do parto",
+   "Hemograma e proteína C reativa seriados e antibiótico por 7 dias se algum exame alterar"
+  ],
+  "gab": 1,
+  "tema": "neonato",
+  "sub": "Profilaxia para EGB inadequada",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Academy of Pediatrics. Management of neonates born at 35 weeks or more with suspected or proven early-onset bacterial sepsis, 2018",
+  "coment": "Profilaxia intraparto para o estreptococo do grupo B só é adequada quando penicilina, ampicilina ou cefazolina começa 4 horas ou mais antes do parto; 2 horas é inadequada. Pela abordagem por categoria da AAP (2018), RN de 35 semanas ou mais assintomático, com profilaxia indicada e inadequada, sem infecção intra-amniótica materna, fica em observação clínica ampliada por 36 a 48 horas. Hemocultura e antibiótico empírico ficam para o RN com sinais clínicos ou filho de mãe com infecção intra-amniótica. Exames isolados têm baixo valor preditivo positivo.",
+  "porAlt": [
+   "Antibiótico empírico no assintomático é para filho de mãe com infecção intra-amniótica.",
+   "Correta: profilaxia inadequada em RN assintomático, sem corioamnionite, pede observação ampliada.",
+   "Não há sinal de doença nem de meningite que justifique líquor e esquema para meningite.",
+   "Dose iniciada 2 horas antes do parto não é profilaxia adequada, que exige 4 horas ou mais.",
+   "Hemograma e proteína C reativa têm baixo valor preditivo positivo e não definem tratamento."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 14 dias, previamente bem, é internado por febre, letargia e duas crises convulsivas focais. Não há vesículas na pele. Líquor: 180 células/mm³ com predomínio linfocitário, 40 hemácias, proteína de 140 mg/dL, glicose normal, Gram sem bactérias. Transaminases discretamente elevadas. Já recebeu ampicilina e cefotaxima. Qual medicamento deve ser associado de imediato?",
+  "alts": [
+   "Vancomicina intravenosa 15 mg/kg a cada 6 horas",
+   "Ganciclovir intravenoso 6 mg/kg a cada 12 horas",
+   "Fluconazol intravenoso 12 mg/kg uma vez ao dia",
+   "Oxacilina intravenosa 50 mg/kg a cada 6 horas",
+   "Aciclovir intravenoso 20 mg/kg a cada 8 horas"
+  ],
+  "gab": 4,
+  "tema": "neonato",
+  "sub": "Herpes neonatal do sistema nervoso",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Kimberlin DW et al. Oral acyclovir suppression and neurodevelopment after neonatal herpes, NEJM, 2011",
+  "coment": "RN de 1 a 3 semanas com febre, convulsão focal, pleocitose linfocitária com hemácias e proteína elevada, sem bactérias, sugere herpes neonatal do sistema nervoso central, que frequentemente não tem vesículas. A conduta é associar aciclovir intravenoso 20 mg/kg a cada 8 horas aos antibióticos empíricos, sem esperar a PCR do líquor. Na forma neurológica e na disseminada, o tratamento dura 21 dias, com PCR do líquor negativa ao final, seguido de supressão oral por 6 meses, que melhorou o neurodesenvolvimento no ensaio de Kimberlin (2011).",
+  "porAlt": [
+   "Vancomicina cobre estafilococo resistente, sem relação com o quadro viral sugerido pelo líquor.",
+   "Ganciclovir é antiviral do citomegalovírus congênito, não da encefalite herpética neonatal.",
+   "Candidíase invasiva é do prematuro extremo com cateter, e o líquor não sugere fungo.",
+   "Oxacilina cobre estafilococo sensível e não altera o quadro de encefalite viral.",
+   "Correta: suspeita de herpes neonatal pede aciclovir empírico em dose alta junto dos antibióticos."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 4.300 g, filho de mãe com diabetes gestacional, nasceu de parto vaginal com distocia de ombro. Logo após o nascimento, o braço direito fica estendido junto ao corpo, em rotação interna e pronação, com o punho fletido. A preensão palmar está presente, mas o reflexo de Moro está ausente desse lado. Não há crepitação na clavícula. Qual é o diagnóstico mais provável?",
+  "alts": [
+   "Paralisia braquial obstétrica baixa, de Klumpke, por lesão das raízes C8 e T1",
+   "Fratura de clavícula direita com pseudoparalisia antálgica do membro superior",
+   "Paralisia braquial total, com lesão de C5 a T1 e síndrome de Horner associada",
+   "Paralisia braquial obstétrica alta, de Erb-Duchenne, por lesão das raízes C5 e C6",
+   "Pseudoparalisia de Parrot por osteocondrite sifilítica do úmero proximal direito"
+  ],
+  "gab": 3,
+  "tema": "neonato",
+  "sub": "Paralisia braquial obstétrica",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à saúde do recém-nascido: guia para os profissionais de saúde, 2ª ed., 2014",
+  "coment": "A distocia de ombro em RN macrossômico, sobretudo filho de mãe diabética, causa estiramento do plexo braquial. A forma alta, de Erb-Duchenne (C5 e C6), é a mais comum: braço aduzido, em rotação interna e pronação, punho fletido (posição de gorjeta de garçom), Moro assimétrico e preensão palmar preservada, porque as raízes da mão estão intactas. Na de Klumpke (C8 e T1) a mão fica paralisada e pode haver Horner. A fratura de clavícula tem crepitação e dor. O tratamento inicial é posicionamento e fisioterapia (MS, 2014).",
+  "porAlt": [
+   "Na lesão de C8 e T1 a mão perde a preensão, que aqui está presente.",
+   "Não há crepitação nem dor localizada que indiquem fratura de clavícula.",
+   "Na lesão total a preensão palmar também desaparece, e não há sinais de Horner descritos.",
+   "Correta: postura de gorjeta de garçom com preensão palmar preservada caracteriza lesão de C5 e C6.",
+   "A pseudoparalisia de Parrot surge em semanas, na sífilis congênita, e não após distocia."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 40 semanas, parto vaginal com fórcipe, tem com 30 horas de vida uma tumefação de 5 cm sobre o parietal direito, flutuante, de bordas bem definidas, que não ultrapassa as suturas. Ao nascer, a tumefação não era perceptível. O RN está ativo e mamando. Qual é o diagnóstico e o cuidado a orientar?",
+  "alts": [
+   "Céfalo-hematoma, que reabsorve em semanas e eleva o risco de icterícia",
+   "Bossa serossanguínea, que regride em poucos dias sem nenhum tratamento",
+   "Hematoma subgaleal, que pede internação pelo risco de choque hipovolêmico",
+   "Céfalo-hematoma infectado, que pede punção aspirativa e antibiótico venoso",
+   "Encefalocele parietal, que pede ressonância e avaliação neurocirúrgica"
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Céfalo-hematoma",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à saúde do recém-nascido: guia para os profissionais de saúde, 2ª ed., 2014",
+  "coment": "O céfalo-hematoma é sangramento subperiosteal: como o periósteo se fixa nas suturas, a coleção é limitada a um osso, flutuante e de bordas nítidas, e costuma surgir horas após o parto, crescendo no primeiro dia. Reabsorve em semanas a meses e não se punciona, pelo risco de infecção. A hemoglobina reabsorvida aumenta a bilirrubina, e o céfalo-hematoma está entre os fatores de risco de hiperbilirrubinemia. A bossa é edema presente ao nascer, mal delimitado, que cruza suturas; o hematoma subgaleal também cruza e pode causar choque (MS, 2014).",
+  "porAlt": [
+   "Correta: coleção que respeita suturas e surge após o parto é céfalo-hematoma, que aumenta a bilirrubina.",
+   "A bossa já existe ao nascer, é mal delimitada e ultrapassa as suturas.",
+   "O subgaleal cruza suturas e se estende pelo couro cabeludo, com queda de hematócrito.",
+   "Não há sinais de infecção, e a punção é evitada justamente pelo risco de infectar a coleção.",
+   "Encefalocele é malformação presente ao nascer, em geral na linha média occipital."
+  ]
+ },
+ {
+  "q": "Menino de 20 meses, com febre de 38,5 °C e irritabilidade há dois dias, acorda com os olhos colados por secreção amarelada bilateral. Otoscopia: membrana timpânica esquerda abaulada, opaca e hiperemiada; direita normal. Não usou antibiótico nos últimos três meses e não tem alergias. Qual é o tratamento indicado?",
+  "alts": [
+   "Amoxicilina 50 mg/kg/dia por 7 dias, com colírio de tobramicina associado",
+   "Observação vigilante por 48 a 72 horas, com analgesia e colírio antibiótico",
+   "Amoxicilina com clavulanato em dose alta de amoxicilina, por 10 dias",
+   "Azitromicina por 5 dias, pela cobertura simultânea do ouvido e da conjuntiva",
+   "Ceftriaxona intramuscular em dose única, com reavaliação em 48 horas"
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Síndrome otite-conjuntivite",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Academy of Pediatrics. The diagnosis and management of acute otitis media, 2013",
+  "coment": "Otite média aguda com conjuntivite purulenta associada é a síndrome otite-conjuntivite, típica do Haemophilus influenzae não tipável, frequentemente produtor de betalactamase. Pela diretriz da AAP (2013), nessa situação a escolha inicial é amoxicilina com clavulanato (90 mg/kg/dia do componente amoxicilina), e não a amoxicilina isolada. Abaixo de 2 anos, a duração é de 10 dias. A observação não se aplica bem quando há conjuntivite purulenta, e a azitromicina tem cobertura inferior para pneumococo e Haemophilus. Analgesia é dada a todos.",
+  "porAlt": [
+   "Dose baixa e sem clavulanato não cobre o Haemophilus produtor de betalactamase da síndrome.",
+   "A síndrome otite-conjuntivite tem indicação de antibiótico sistêmico com clavulanato.",
+   "Correta: conjuntivite purulenta com otite sugere Haemophilus produtor de betalactamase e pede clavulanato.",
+   "Macrolídeo tem cobertura inferior para pneumococo e Haemophilus na otite média aguda.",
+   "Ceftriaxona fica para falha do clavulanato ou impossibilidade da via oral."
+  ]
+ },
+ {
+  "q": "Menina de 3 anos, sem registro de vacinas, tem febre de 39,8 °C de início há 6 horas, dor intensa para engolir, voz abafada e sialorreia. Está sentada, inclinada para a frente, com o pescoço estendido, ansiosa, com estridor inspiratório discreto e pouca tosse. Saturação de 93%. Qual é a conduta inicial?",
+  "alts": [
+   "Examinar a orofaringe com abaixador de língua para confirmar a epiglote edemaciada antes de tratar",
+   "Puncionar acesso venoso e colher hemocultura antes de qualquer manobra sobre a via aérea da criança",
+   "Manter a criança no colo, sem examinar a orofaringe, e garantir a via aérea em ambiente controlado",
+   "Deitar a criança para radiografia lateral de pescoço e confirmar o sinal do polegar antes de agir",
+   "Nebulizar com adrenalina e dar dexametasona, com observação por 4 horas no pronto atendimento"
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Epiglotite aguda",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Quadros de Procedimentos AIDPI Criança: 2 meses a 5 anos, 2017",
+  "coment": "Febre alta de início abrupto, sialorreia, disfagia, voz abafada, posição em tripé e pouca tosse em criança não vacinada sugerem epiglotite, ainda causada pelo Haemophilus influenzae tipo b. O erro que mata é provocar obstrução total ao examinar a faringe, deitar a criança ou puncionar veia antes de proteger a via aérea. A criança fica no colo do acompanhante, calma, com oxigênio oferecido sem agitá-la, e a via aérea é assegurada em centro cirúrgico pela equipe mais experiente, com material de via aérea cirúrgica pronto. Depois, ceftriaxona.",
+  "porAlt": [
+   "O abaixador de língua pode precipitar laringoespasmo e obstrução completa.",
+   "A punção venosa agita a criança e é adiada até a via aérea estar protegida.",
+   "Correta: na epiglotite, a via aérea é garantida em ambiente controlado antes de qualquer manipulação.",
+   "Deitar a criança pode fechar a via aérea, e a radiografia não deve atrasar a conduta.",
+   "Adrenalina e corticoide tratam o crupe viral, não a celulite bacteriana da epiglote."
+  ]
+ },
+ {
+  "q": "Menino de 5 anos, com coriza purulenta há 8 dias, evolui há 24 horas com febre de 39 °C, edema e eritema palpebral à direita, proptose discreta, dor à movimentação ocular e diplopia. Acuidade visual preservada. Qual é a conduta?",
+  "alts": [
+   "Tratar com amoxicilina com clavulanato oral e reavaliar o paciente em 48 horas",
+   "Prescrever colírio antibiótico e compressas mornas, com retorno no dia seguinte",
+   "Solicitar radiografia de seios da face e tratar ambulatorialmente se houver nível",
+   "Iniciar anti-histamínico oral pela hipótese de edema alérgico de pálpebra",
+   "Internar, iniciar antibiótico venoso e pedir tomografia de órbitas com contraste"
+  ],
+  "gab": 4,
+  "tema": "pedinfecto",
+  "sub": "Celulite orbitária",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American Academy of Pediatrics. Clinical practice guideline for acute bacterial sinusitis in children aged 1 to 18 years, 2013",
+  "coment": "Edema palpebral após rinossinusite, com proptose, dor à movimentação ocular, oftalmoplegia ou diplopia, indica celulite orbitária (pós-septal), quase sempre a partir do seio etmoidal no pré-escolar. A diretriz da AAP (2013) reserva a imagem para a suspeita de complicação: tomografia com contraste das órbitas e seios, que mostra abscesso subperiosteal ou orbitário. A conduta é internação, antibiótico venoso e avaliação oftalmológica e otorrinolaringológica, com drenagem se houver abscesso ou perda visual. A celulite periorbitária, sem esses sinais, pode ser tratada com antibiótico oral.",
+  "porAlt": [
+   "Antibiótico oral ambulatorial é para a celulite periorbitária sem sinais orbitários.",
+   "Não se trata de conjuntivite; há sinais de infecção pós-septal com risco visual e intracraniano.",
+   "A radiografia de seios não avalia a órbita nem detecta abscesso subperiosteal.",
+   "Febre, proptose e dor à movimentação ocular não são compatíveis com edema alérgico.",
+   "Correta: proptose, dor à movimentação ocular e diplopia indicam celulite orbitária e pedem internação."
+  ]
+ },
+ {
+  "q": "Menina de 6 anos tem coqueluche confirmada por PCR. Em casa moram a mãe, de 32 anos e vacinada na infância, e o irmão de 4 meses, que recebeu duas doses de pentavalente e está assintomático. Pelo Guia de Vigilância em Saúde, qual é a conduta para o irmão?",
+  "alts": [
+   "Nenhuma medicação, porque duas doses de pentavalente já conferem proteção suficiente",
+   "Azitromicina 10 mg/kg uma vez ao dia por 5 dias, mesmo assintomático e vacinado",
+   "Antecipar a terceira dose de pentavalente e observar sinais de tosse por 21 dias",
+   "Eritromicina por 14 dias, que é a primeira escolha para lactentes abaixo de 6 meses",
+   "Azitromicina somente se surgir tosse nos próximos 10 dias, com coleta prévia de PCR"
+  ],
+  "gab": 1,
+  "tema": "pedinfecto",
+  "sub": "Quimioprofilaxia da coqueluche",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed. revisada, 2024",
+  "coment": "Pelo Guia de Vigilância em Saúde (MS, 2024), a quimioprofilaxia é indicada para comunicantes próximos expostos no período de transmissão e, com prioridade, para comunicantes vulneráveis, como lactentes, independentemente da situação vacinal, porque o esquema incompleto não protege de forma confiável. Os esquemas são os mesmos do tratamento: azitromicina é a primeira escolha, e abaixo de 6 meses a dose é 10 mg/kg uma vez ao dia por 5 dias. A eritromicina fica para a falta das demais e é contraindicada abaixo de 1 mês. A mãe, comunicante próxima, também recebe profilaxia.",
+  "porAlt": [
+   "Esquema incompleto não garante proteção, e o lactente é o grupo de maior letalidade.",
+   "Correta: lactente comunicante recebe azitromicina 10 mg/kg/dia por 5 dias, qualquer que seja o status vacinal.",
+   "Não se antecipa a terceira dose antes dos 6 meses, e esperar sintomas perde o momento da profilaxia.",
+   "A eritromicina é última opção; a azitromicina é a escolha em todas as idades.",
+   "A profilaxia é feita no contato assintomático, sem esperar tosse ou exame."
+  ]
+ },
+ {
+  "q": "Menino de 7 anos, vacinação completa, tem há 2 dias febre de 38,5 °C, cefaleia frontal, vômitos e rigidez de nuca discreta, em fevereiro, com outros casos semelhantes na escola. Está alerta, sem petéquias. Líquor: 160 células/mm³ com 80% de linfócitos, proteína de 55 mg/dL, glicose de 62 mg/dL (glicemia de 95 mg/dL), Gram sem bactérias. Qual é a interpretação mais provável e a conduta?",
+  "alts": [
+   "Meningite viral, provavelmente por enterovírus; tratamento de suporte",
+   "Meningite bacteriana parcialmente tratada; ceftriaxona por 10 dias",
+   "Meningite tuberculosa; esquema RIPE com corticoide por 12 meses",
+   "Meningite meningocócica; ceftriaxona e quimioprofilaxia dos colegas",
+   "Encefalite herpética; aciclovir venoso por 21 dias e ressonância"
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Meningite viral",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed. revisada, 2024",
+  "coment": "Líquor com pleocitose moderada de predomínio linfocitário, proteína normal ou pouco elevada e glicose normal (relação liquor e sangue acima de 0,6), em criança alerta, com casos em grupo no verão, é o padrão das meningites virais, das quais os enterovírus são a causa mais comum. O tratamento é de suporte, com analgesia e hidratação. A meningite bacteriana tem neutrófilos, proteína alta e glicose baixa; a tuberculosa tem glicose baixa, proteína muito alta e curso arrastado. Encefalite cursa com alteração de consciência ou sinais focais, ausentes aqui (Guia de Vigilância em Saúde, 2024).",
+  "porAlt": [
+   "Correta: linfócitos, glicose normal e proteína pouco elevada em criança alerta indicam meningite viral.",
+   "A bacteriana, mesmo tratada, costuma manter glicose baixa e proteína elevada.",
+   "A tuberculosa tem início arrastado, glicose baixa e proteína muito elevada.",
+   "Meningococo dá líquor neutrofílico, com glicose baixa, e frequentemente petéquias.",
+   "Não há rebaixamento de consciência nem sinal focal que sugiram encefalite."
+  ]
+ },
+ {
+  "q": "Menina de 8 anos e 25 kg, no 5º dia de febre por dengue, procura a UPA com dor abdominal intensa e contínua e vômitos persistentes. Pressão arterial normal, enchimento capilar de 2 segundos, pulsos cheios. Sem sangramentos. Pelo manual do Ministério da Saúde, qual é a conduta inicial?",
+  "alts": [
+   "Soro fisiológico 20 mL/kg em 20 minutos, repetindo até três vezes conforme a resposta",
+   "Hidratação oral supervisionada de 60 mL/kg/dia e retorno no dia seguinte para hemograma",
+   "Soro fisiológico 10 mL/kg na primeira hora, com reavaliação clínica e hematócrito",
+   "Ondansetrona e hidratação oral em casa, com retorno imediato se houver sangramento",
+   "Albumina 0,5 g/kg pela suspeita de extravasamento e transferência para terapia intensiva"
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Dengue com sinais de alarme",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., 2024",
+  "coment": "Dor abdominal intensa e contínua e vômitos persistentes são sinais de alarme: grupo C, sem sinais de choque. Pela 6ª edição do manual do Ministério da Saúde (2024), inicia-se reposição volêmica imediata com soro fisiológico 10 mL/kg na primeira hora, em qualquer ponto de atenção, com internação mínima de 48 horas, reavaliação clínica após a primeira hora e hematócrito após a etapa de expansão; o máximo de cada fase é 20 mL/kg em duas horas, repetível até três vezes. O bolus de 20 mL/kg em 20 minutos é do grupo D, com choque.",
+  "porAlt": [
+   "20 mL/kg em até 20 minutos é a expansão do grupo D, com sinais de choque.",
+   "Hidratação oral em casa é conduta dos grupos A e B, sem sinais de alarme.",
+   "Correta: grupo C recebe soro fisiológico 10 mL/kg na primeira hora e reavaliação, pelo manual de 2024.",
+   "Sinais de alarme exigem hidratação venosa e internação, não tratamento domiciliar.",
+   "Albumina não é fluido inicial do grupo C e a criança não tem choque."
+  ]
+ },
+ {
+  "q": "Adolescente de 15 anos, jogador de futebol, tem febre, odinofagia intensa e amígdalas com exsudato há 5 dias. Recebeu amoxicilina e, no 2º dia, surgiu exantema maculopapular difuso. Ao exame: linfonodos cervicais posteriores aumentados, baço palpável a 2 cm do rebordo. Hemograma com linfocitose e 15% de linfócitos atípicos. Além de suspender a amoxicilina, qual é a orientação mais importante?",
+  "alts": [
+   "Evitar esporte de contato por pelo menos 3 a 4 semanas, pelo risco de ruptura esplênica",
+   "Prescrever aciclovir oral por 7 dias, que encurta a doença e reduz a esplenomegalia",
+   "Trocar para azitromicina por 5 dias, pois a faringite estreptocócica continua provável",
+   "Iniciar prednisona por 5 dias em todos os casos, para reduzir o volume das amígdalas",
+   "Registrar alergia a penicilina e contraindicar betalactâmicos pelo resto da vida"
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Mononucleose infecciosa",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2021",
+  "coment": "Faringite exsudativa com linfonodos cervicais posteriores, esplenomegalia, linfocitose com atípicos e exantema após amoxicilina é o quadro típico da mononucleose pelo vírus Epstein-Barr. O exantema com aminopenicilina é reação ligada à infecção, não alergia verdadeira, e não contraindica betalactâmicos no futuro. O tratamento é de suporte; aciclovir não tem benefício clínico, e corticoide fica para obstrução de via aérea, anemia hemolítica ou trombocitopenia grave. Pela esplenomegalia, o adolescente deve evitar esportes de contato por pelo menos 3 a 4 semanas.",
+  "porAlt": [
+   "Correta: a esplenomegalia da mononucleose impõe afastamento de esporte de contato pelo risco de ruptura.",
+   "Antiviral não traz benefício clínico na mononucleose e não reduz a esplenomegalia.",
+   "Linfócitos atípicos, esplenomegalia e linfonodos posteriores apontam para Epstein-Barr, não estreptococo.",
+   "Corticoide se reserva a complicações, como obstrução de via aérea, e não é rotina.",
+   "O exantema com amoxicilina na mononucleose não indica alergia verdadeira à penicilina."
+  ]
+ },
+ {
+  "q": "Menina de 5 anos acorda à noite coçando a região anal há duas semanas e tem queixa de ardor vulvar. O irmão de 8 anos tem o mesmo prurido. O parasitológico de fezes de três amostras foi negativo. Qual é o exame indicado e a conduta?",
+  "alts": [
+   "Novo parasitológico com Baermann; ivermectina apenas para a criança sintomática",
+   "Fita adesiva perianal pela manhã; albendazol para a família e nova dose em 2 semanas",
+   "Swab vaginal com cultura; nitrofurantoína e banho de assento por 7 dias",
+   "Fita adesiva perianal à noite; metronidazol para as duas crianças por 5 dias",
+   "Dispensar exames pelo parasitológico negativo e orientar higiene perineal"
+  ],
+  "gab": 1,
+  "tema": "pedinfecto",
+  "sub": "Enterobíase",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Doenças infecciosas e parasitárias: guia de bolso, 8ª ed., 2010",
+  "coment": "Prurido anal noturno, vulvovaginite na menina e mais de um caso na casa sugerem enterobíase (oxiurose). A fêmea deposita os ovos na região perianal à noite, por isso o parasitológico comum quase nunca os encontra; o exame é a fita adesiva perianal (método de Graham), colhida pela manhã antes do banho. Pelo guia de bolso do Ministério da Saúde (2010), trata-se com albendazol, mebendazol ou pamoato de pirvínio, todos os contactantes do domicílio ao mesmo tempo, repetindo após 2 semanas pela autoinfecção. Metronidazol não atua em helmintos.",
+  "porAlt": [
+   "Baermann e ivermectina são da estrongiloidíase, e tratar só uma criança permite reinfecção.",
+   "Correta: o método de Graham pela manhã diagnostica, e o tratamento inclui a família com repetição.",
+   "O ardor vulvar é efeito do parasita; não há indicação de cultura nem de antibiótico urinário.",
+   "A coleta é pela manhã, antes do banho, e metronidazol trata protozoários, não Enterobius.",
+   "Parasitológico negativo é a regra na enterobíase e não afasta o diagnóstico."
+  ]
+ },
+ {
+  "q": "Menino de 4 anos, morador de área sem saneamento, chega com cólicas, vômitos e parada de eliminação de fezes há 24 horas. Eliminou vermes cilíndricos longos pela boca. Abdome distendido, com massa palpável e móvel em fossa ilíaca direita, sem sinais de peritonite; radiografia com imagem em miolo de pão e níveis hidroaéreos. Qual é a conduta inicial?",
+  "alts": [
+   "Albendazol 400 mg em dose única imediata para eliminar os vermes e liberar o trânsito intestinal",
+   "Laparotomia de urgência para retirada do bolo de áscaris por enterotomia em todos os casos",
+   "Jejum, sonda nasogástrica, hidratação venosa, piperazina com óleo mineral e anti-helmíntico depois",
+   "Mebendazol por 3 dias associado a laxativo osmótico e dieta líquida em regime domiciliar",
+   "Ivermectina em dose única e enema glicerinado, com alta após a primeira evacuação"
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Suboclusão por áscaris",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manejo do paciente com diarreia (cartaz) e Doenças infecciosas e parasitárias: guia de bolso, 2023",
+  "coment": "Massa móvel abdominal, vômitos com eliminação de vermes e imagem em miolo de pão indicam suboclusão por bolo de áscaris. O tratamento inicial é clínico: jejum, sonda nasogástrica, hidratação venosa e piperazina (100 mg/kg/dia) com óleo mineral, que paralisa os vermes por hiperpolarização e facilita a eliminação. Benzimidazóis como albendazol e mebendazol são dados só depois da desobstrução, porque a morte e a migração dos vermes podem agravar a obstrução. Cirurgia fica para falha clínica, volvo, perfuração ou peritonite (guia de bolso MS e cartaz de 2023).",
+  "porAlt": [
+   "O benzimidazol na fase obstrutiva pode agitar os vermes e agravar a obstrução.",
+   "Cirurgia é para falha do tratamento clínico ou para complicação como peritonite e volvo.",
+   "Correta: a suboclusão é desfeita com medidas clínicas e piperazina; o anti-helmíntico vem depois.",
+   "Obstrução intestinal não se trata em casa, e laxativo pode precipitar complicação.",
+   "Ivermectina não é a escolha para o bolo de áscaris, e a criança precisa ficar internada."
+  ]
+ },
+ {
+  "q": "Lactente de 6 semanas, nascido de parto vaginal, tem tosse em acessos curtos e repetidos (staccato) há 10 dias, sem febre, com frequência respiratória de 62 por minuto. Teve secreção ocular purulenta na segunda semana de vida. Radiografia com infiltrado intersticial bilateral e hiperinsuflação; hemograma com 900 eosinófilos/mm³. Qual é o tratamento?",
+  "alts": [
+   "Amoxicilina oral por 7 dias",
+   "Azitromicina oral por 3 dias",
+   "Ceftriaxona venosa por 10 dias",
+   "Oseltamivir oral por 5 dias",
+   "Oxacilina venosa por 14 dias"
+  ],
+  "gab": 1,
+  "tema": "pedinfecto",
+  "sub": "Pneumonia afebril do lactente",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Pneumonia afebril entre 1 e 3 meses, com tosse em staccato, taquipneia, infiltrado intersticial com hiperinsuflação, eosinofilia e conjuntivite neonatal prévia, sugere Chlamydia trachomatis adquirida no canal de parto. O tratamento é macrolídeo: azitromicina oral, 20 mg/kg/dia em dose única diária por 3 dias, segundo o PCDT de IST do Ministério da Saúde (2022), que trata a conjuntivite e a pneumonia do lactente pelo mesmo esquema. Betalactâmicos não atuam em bactéria intracelular sem parede. A mãe e a parceria também devem ser tratadas.",
+  "porAlt": [
+   "Betalactâmicos não atuam sobre a Chlamydia, bactéria intracelular sem parede típica.",
+   "Correta: pneumonia afebril com eosinofilia e conjuntivite prévia sugere clamídia, tratada com macrolídeo.",
+   "Ceftriaxona não cobre clamídia e não há sinais de sepse que a justifiquem.",
+   "Não há quadro de influenza; o padrão afebril com eosinofilia aponta para clamídia.",
+   "Não há sinais de pneumonia estafilocócica, como pneumatoceles ou derrame."
+  ]
+ },
+ {
+  "q": "Menino de 6 anos e 20 kg, alérgico a amendoim, come um doce e em 10 minutos apresenta urticária generalizada, edema labial, rouquidão, sibilância difusa e vômitos. Pressão arterial de 90 x 55 mmHg, saturação de 91%. Qual é a primeira medida farmacológica?",
+  "alts": [
+   "Adrenalina 1 mg/mL, 2 mL por via intramuscular no deltoide, repetida a cada 5 minutos",
+   "Adrenalina 0,1 mg/mL, 2 mL por via intravenosa rápida como primeira opção terapêutica",
+   "Difenidramina 1 mg/kg intravenosa associada a hidrocortisona 4 mg/kg intravenosa",
+   "Adrenalina 1 mg/mL, 0,2 mL por via intramuscular na face anterolateral da coxa",
+   "Salbutamol inalatório e prednisolona oral, com adrenalina só se houver hipotensão"
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Anafilaxia na criança",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "World Allergy Organization. Anaphylaxis guidance, 2020",
+  "coment": "Envolvimento cutâneo com comprometimento respiratório e gastrintestinal após alérgeno conhecido é anafilaxia, mesmo sem hipotensão. A primeira medida é adrenalina intramuscular na face anterolateral da coxa, na dose de 0,01 mg/kg da solução de 1 mg/mL (máximo de 0,3 mg na criança pré-púbere e 0,5 mg no adolescente), repetível a cada 5 a 15 minutos (WAO, 2020). Para 20 kg, 0,2 mg = 0,2 mL. A via intravenosa fica para choque refratário, em infusão monitorada. Anti-histamínico e corticoide são adjuvantes e não tratam a obstrução de via aérea nem o choque.",
+  "porAlt": [
+   "2 mL da solução de 1 mg/mL seriam 2 mg, dez vezes a dose, e o deltoide absorve pior.",
+   "Bolus intravenoso sem indicação causa arritmia e hipertensão; a via intramuscular é a primeira.",
+   "Anti-histamínico e corticoide são adjuvantes e não substituem a adrenalina.",
+   "Correta: 0,01 mg/kg da solução 1 mg/mL é 0,2 mL para 20 kg, na coxa, por via intramuscular.",
+   "A adrenalina é indicada desde já pelo comprometimento respiratório, sem esperar hipotensão."
+  ]
+ },
+ {
+  "q": "Menino de 18 meses e 11 kg, com diarreia aquosa e vômitos há 2 dias, está irritado, com olhos fundos, boca seca, sedento e prega que desaparece lentamente; pulso cheio. Iniciado o plano B na unidade, vomita todas as tentativas de soro de reidratação oral na primeira hora. Pelo cartaz do Ministério da Saúde de 2023, qual é a conduta?",
+  "alts": [
+   "Passar para o plano C com soro fisiológico 30 mL/kg em 30 minutos pela via intravenosa",
+   "Metoclopramida 0,15 mg/kg intramuscular e jejum de 2 horas antes de reiniciar o soro oral",
+   "Gastróclise imediata com 20 mL/kg/hora, sem antiemético, por falha da reidratação oral",
+   "Liberar para casa no plano A com ondansetrona de 8 em 8 horas por 3 dias e zinco",
+   "Ondansetrona 2 mg em dose única e manter o soro de reidratação oral em pequenos volumes"
+  ],
+  "gab": 4,
+  "tema": "pedemerg",
+  "sub": "Ondansetrona no plano B",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manejo do paciente com diarreia: avaliação do estado de hidratação (cartaz), 2023",
+  "coment": "A criança tem desidratação sem sinais de gravidade (plano B). Vômito não contraindica a via oral; a falha do plano B é a persistência da desidratação. A novidade do cartaz do Ministério da Saúde de 2023 é a ondansetrona em dose única para o paciente em plano B com vômitos persistentes que impedem a reidratação: de 6 meses a 2 anos, 2 mg; de 2 a 10 anos ou até 30 kg, 4 mg; acima disso, 8 mg. O cartaz contraindica o uso em gestantes e não o inclui no plano A. Sem melhora em 6 horas, encaminhar para internação.",
+  "porAlt": [
+   "Não há sinal com asterisco (letargia, incapacidade de beber, pulso fraco) que defina o plano C.",
+   "Metoclopramida não está no cartaz e causa reações extrapiramidais em crianças; jejum não é indicado.",
+   "Gastróclise é para quem segue desidratado após o plano B; antes se tenta a ondansetrona.",
+   "A criança está desidratada e não pode ir para casa; a ondansetrona não entra no plano A.",
+   "Correta: ondansetrona dose única de 2 mg nessa faixa etária permite seguir a reidratação oral."
+  ]
+ },
+ {
+  "q": "Lactente de 7 meses e 7 kg, com diarreia há 4 dias tratada em casa com leite em pó preparado concentrado, chega irritado, com choro agudo, pele pastosa e mucosas secas; pulso cheio e boa perfusão após a expansão inicial. Sódio sérico de 162 mEq/L. Qual é o princípio da correção após a estabilização?",
+  "alts": [
+   "Corrigir o déficit em 6 horas com soro glicosado a 5%, pois o risco é a convulsão hipernatrêmica",
+   "Reduzir o sódio lentamente, corrigindo o déficit de água livre ao longo de cerca de 48 horas",
+   "Usar soro fisiológico a 3% para evitar edema cerebral durante a reidratação desse lactente",
+   "Restringir líquidos e iniciar furosemida para eliminar o excesso de sódio pela urina",
+   "Repetir bolus de 20 mL/kg de soro fisiológico até o sódio ficar abaixo de 145 mEq/L"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Desidratação hipernatrêmica",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2021",
+  "coment": "Na desidratação hipernatrêmica (sódio acima de 150 mEq/L), o neurônio gera osmóis idiogênicos para se proteger da desidratação celular. A expansão para restaurar a perfusão é igual à da isonatrêmica, mas depois a reposição do déficit é lenta, em cerca de 48 horas, com queda do sódio de no máximo 10 a 12 mEq/L por dia: a queda rápida leva água para dentro do neurônio adaptado e causa edema cerebral e convulsão. A pele pastosa e a perfusão relativamente preservada fazem a criança parecer menos desidratada. Leite concentrado é causa clássica.",
+  "porAlt": [
+   "Corrigir em 6 horas com água livre causa edema cerebral, que é a complicação da correção rápida.",
+   "Correta: o déficit é corrigido em cerca de 48 horas, com queda gradual do sódio.",
+   "Salina hipertônica é para hiponatremia sintomática, o distúrbio oposto ao deste lactente.",
+   "A criança está desidratada; restrição hídrica e diurético agravam a hipovolemia.",
+   "Bolus repetidos são para o choque, e o objetivo não é baixar o sódio por volume."
+  ]
+ },
+ {
+  "q": "Menino de 3 anos é trazido 40 minutos após ingerir grânulos escuros de um raticida clandestino guardado no quintal. Está sonolento, com pupilas mióticas, sialorreia, broncorreia com sibilos, vômitos, diarreia, fasciculações e frequência cardíaca de 70 bpm. Qual é o antídoto prioritário?",
+  "alts": [
+   "Naloxona intravenosa em bolus, repetida até a frequência respiratória se normalizar",
+   "Flumazenil intravenoso, repetido até reverter a sonolência e a miose da criança",
+   "Vitamina K1 intravenosa por vários dias, pelo efeito anticoagulante do raticida",
+   "Fisostigmina intravenosa lenta, para reverter a síndrome tóxica com miose e bradicardia",
+   "Atropina intravenosa em doses repetidas e dobradas até secar as secreções brônquicas"
+  ],
+  "gab": 4,
+  "tema": "pedemerg",
+  "sub": "Intoxicação por chumbinho",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Diretrizes brasileiras para diagnóstico e tratamento de intoxicações por agrotóxicos, 2018",
+  "coment": "Miose, sialorreia, broncorreia, broncoespasmo, bradicardia, vômitos, diarreia e fasciculações formam a síndrome colinérgica, típica do chumbinho, raticida clandestino feito em geral com carbamatos como o aldicarbe ou organofosforados. A inibição da acetilcolinesterase acumula acetilcolina. O antídoto prioritário é a atropina, em doses repetidas e dobradas até secar as secreções brônquicas (atropinização), e não pela frequência cardíaca ou pupila; a pralidoxima é adjuvante nos organofosforados. Vitamina K é do raticida cumarínico, que causa sangramento, não síndrome colinérgica.",
+  "porAlt": [
+   "Naloxona reverte opioide, que não causa sialorreia, broncorreia nem fasciculações.",
+   "Flumazenil reverte benzodiazepínico e tem risco de convulsão; não é o caso.",
+   "Vitamina K é antídoto do raticida cumarínico, que causa sangramento, não síndrome colinérgica.",
+   "Fisostigmina é anticolinesterásico e pioraria o excesso de acetilcolina.",
+   "Correta: a síndrome colinérgica se trata com atropina titulada pela secagem das secreções."
+  ]
+ },
+ {
+  "q": "Adolescente de 14 anos é trazida 2 horas após ingerir comprimidos de amitriptilina da avó. Está sonolenta, com midríase, pele seca e quente, retenção urinária e frequência cardíaca de 140 bpm. Pressão arterial de 85 x 50 mmHg. O eletrocardiograma mostra QRS de 140 ms e onda R terminal em aVR. Qual é a medida específica mais importante agora?",
+  "alts": [
+   "Bicarbonato de sódio intravenoso em bolus, buscando estreitar o QRS",
+   "Fisostigmina intravenosa para reverter a síndrome anticolinérgica",
+   "Flumazenil intravenoso para reverter a sonolência e proteger a via aérea",
+   "Amiodarona intravenosa para prevenir arritmia ventricular pelo QRS largo",
+   "Lavagem gástrica com grande volume, seguida de catártico salino oral"
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "Intoxicação por tricíclico",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2021",
+  "coment": "Antidepressivos tricíclicos causam síndrome anticolinérgica, hipotensão e cardiotoxicidade por bloqueio dos canais rápidos de sódio, com QRS alargado e onda R terminal em aVR. QRS acima de 100 ms prediz convulsão e acima de 160 ms, arritmia ventricular. O tratamento específico é bicarbonato de sódio intravenoso (1 a 2 mEq/kg em bolus), que, pela carga de sódio e pela alcalinização, reduz o bloqueio e estreita o QRS. Fisostigmina e flumazenil são contraindicados, por convulsão e assistolia; antiarrítmicos da classe Ia, Ic e amiodarona pioram a condução. Em adolescente, avaliar risco de suicídio.",
+  "porAlt": [
+   "Correta: o bicarbonato reverte o bloqueio dos canais de sódio e é a medida específica no QRS largo.",
+   "Fisostigmina no tricíclico se associa a assistolia e convulsão e é contraindicada.",
+   "Flumazenil pode precipitar convulsão em intoxicação por tricíclico e não é antídoto.",
+   "Amiodarona prolonga a condução e pode agravar a cardiotoxicidade do tricíclico.",
+   "Lavagem e catártico não são rotina e não tratam a cardiotoxicidade instalada."
+  ]
+ },
+ {
+  "q": "Criança de 5 anos em parada cardiorrespiratória intra-hospitalar, ritmo de assistolia, acaba de ser intubada por dois profissionais durante a RCP. A capnografia em forma de onda confirma a posição da cânula. Pelas diretrizes da AHA de 2025, como devem seguir compressões e ventilações?",
+  "alts": [
+   "Ciclos de 15 compressões e 2 ventilações, com pausa",
+   "Ciclos de 30 compressões e 2 ventilações pela cânula",
+   "Compressões contínuas e uma ventilação a cada 6 segundos",
+   "Compressões contínuas e uma ventilação a cada 2 a 3 segundos",
+   "Compressões contínuas e uma ventilação a cada segundo"
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Ventilação com via aérea avançada",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American Heart Association e American Academy of Pediatrics. Pediatric Basic and Advanced Life Support guidelines, 2025",
+  "coment": "Pelas diretrizes AHA/AAP de 2025, a RCP pediátrica com dois profissionais sem via aérea avançada usa 15 compressões para 2 ventilações. Com via aérea avançada, as compressões passam a ser contínuas, a 100 a 120 por minuto, e as ventilações assíncronas, uma a cada 2 a 3 segundos (20 a 30 por minuto), com capnografia em onda. Ventilar demais aumenta a pressão intratorácica e reduz o retorno venoso. No ritmo não chocável, a adrenalina 0,01 mg/kg é dada o mais cedo possível e repetida a cada 3 a 5 minutos.",
+  "porAlt": [
+   "A relação 15:2 com pausa é para dois socorristas sem via aérea avançada.",
+   "30:2 é a relação de um socorrista sem via aérea avançada.",
+   "Uma ventilação a cada 6 segundos é o padrão do adulto; na criança, a cada 2 a 3 segundos.",
+   "Correta: com via aérea avançada, compressões contínuas e 20 a 30 ventilações por minuto.",
+   "Ventilar a cada 1 segundo é hiperventilação e reduz o retorno venoso e a perfusão coronária."
+  ]
+ },
+ {
+  "q": "Menino de 8 anos, com asma em uso apenas de salbutamol quando precisa, foi atendido por crise moderada. Recebeu salbutamol com espaçador a cada 20 minutos na primeira hora e prednisolona oral; após 3 horas está sem tiragem, fala frases completas e a saturação é de 96%. Teve outra ida à emergência há 2 meses. Pela GINA 2026, qual é a prescrição de alta?",
+  "alts": [
+   "Salbutamol de resgate quando precisar e retorno somente se houver nova crise no próximo mês",
+   "Prednisolona por mais 3 a 5 dias, corticoide inalatório de manutenção e retorno em 1 a 2 semanas",
+   "Prednisolona por 14 dias com retirada gradual e salbutamol regular de 4 em 4 horas por 1 mês",
+   "Montelucaste diário como primeira escolha de controle e salbutamol de resgate quando precisar",
+   "Antibiótico oral por 7 dias, pois crises repetidas sugerem infecção bacteriana de vias aéreas"
+  ],
+  "gab": 1,
+  "tema": "pedemerg",
+  "sub": "Alta após crise de asma",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026",
+  "coment": "Pela GINA 2026, a criança que vai à emergência por crise sai com corticoide oral (prednisolona 1 a 2 mg/kg/dia por 3 a 5 dias no total), técnica inalatória revista, tratamento de controle iniciado ou aumentado e retorno em 1 a 2 semanas. Duas idas à emergência em pouco tempo mostram asma sem controle, e a edição de 2026 retirou o SABA isolado do tratamento em 6 a 11 anos. Mandar para casa só com broncodilatador é o erro clássico. Corticoide oral prolongado com retirada não é necessário em curso curto, e montelucaste é alternativa de menor eficácia.",
+  "porAlt": [
+   "Alta só com broncodilatador mantém o risco de nova crise grave e de morte.",
+   "Correta: corticoide oral curto, controle com corticoide inalatório e retorno precoce formam a alta adequada.",
+   "Cursos curtos dispensam retirada gradual, e SABA regular não é tratamento de controle.",
+   "Montelucaste é alternativa de menor eficácia, não primeira escolha de controle.",
+   "Crise de asma desencadeada por vírus não tem indicação de antibiótico."
+  ]
+ },
+ {
+  "q": "Menino de 3 anos engasga com um pedaço de salsicha durante o almoço. Está consciente, agitado, com as mãos no pescoço, não consegue tossir, falar nem chorar, e começa a ficar cianótico. Pelas diretrizes da AHA de 2025, qual é a manobra indicada?",
+  "alts": [
+   "Varredura digital da boca às cegas, seguida de compressões abdominais",
+   "Estimular a tosse e observar, sem manobras, até a chegada da equipe",
+   "Ciclos de 5 golpes nas costas alternados com 5 compressões abdominais",
+   "Ciclos de 5 golpes nas costas alternados com 5 compressões torácicas",
+   "Compressões abdominais isoladas e contínuas até o objeto ser expelido"
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Obstrução de via aérea por corpo estranho",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "American Heart Association e American Academy of Pediatrics. Pediatric Basic and Advanced Life Support guidelines, 2025",
+  "coment": "Criança que não consegue tossir, falar nem chorar tem obstrução grave de via aérea. As diretrizes AHA/AAP de 2025 padronizaram, para a criança consciente a partir de 1 ano, ciclos de 5 golpes nas costas alternados com 5 compressões abdominais, até desobstruir ou perder a consciência; no lactente, golpes nas costas alternados com compressões torácicas, com a cabeça mais baixa. Se a vítima perde a consciência, inicia-se RCP e olha-se a boca antes de ventilar, retirando o objeto só se visível. A varredura às cegas é proibida. Tosse eficaz indica obstrução leve, sem manobras.",
+  "porAlt": [
+   "A varredura digital às cegas pode empurrar o objeto e é proibida.",
+   "Observar só cabe na obstrução leve, com tosse eficaz; aqui a obstrução é grave.",
+   "Correta: na criança consciente com obstrução grave, alternam-se golpes nas costas e compressões abdominais.",
+   "Golpes nas costas com compressões torácicas são a manobra do lactente, menor de 1 ano.",
+   "A diretriz de 2025 alterna golpes nas costas e compressões abdominais, não estas isoladas."
+  ]
+ },
+ {
+  "q": "Lactente de 4 semanas, primogênito do sexo masculino, tem vômitos não biliosos em jato logo após as mamadas há 5 dias, cada vez mais frequentes; mama com avidez logo depois. Perdeu peso e está com mucosas secas. Gasometria: pH 7,52, bicarbonato 33 mEq/L, cloro 88 mEq/L e potássio 3,0 mEq/L. Qual é a sequência adequada?",
+  "alts": [
+   "Piloromiotomia de urgência no mesmo dia, antes de corrigir os distúrbios do sangue",
+   "Prova terapêutica com inibidor de bomba de prótons e fórmula espessada por 2 semanas",
+   "Radiografia contrastada de esôfago, estômago e duodeno e laparotomia por volvo",
+   "Ultrassonografia de piloro e correção hidroeletrolítica antes da piloromiotomia",
+   "Eritromicina oral por 14 dias como tratamento definitivo da estenose do piloro"
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Estenose hipertrófica do piloro",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2021",
+  "coment": "Vômitos não biliosos em jato entre 3 e 6 semanas de vida, em lactente faminto, com alcalose metabólica hipoclorêmica e hipocalêmica, sugerem estenose hipertrófica do piloro. A ultrassonografia confirma pela espessura e pelo comprimento do músculo pilórico. A piloromiotomia não é emergência: antes, corrige-se a desidratação e os distúrbios eletrolíticos, porque a alcalose eleva o risco de apneia pós-anestésica. Vômito bilioso sugere má rotação com volvo, que é emergência cirúrgica. Tratamento clínico não resolve a estenose.",
+  "porAlt": [
+   "Operar com alcalose e hipocalemia aumenta o risco de apneia pós-anestésica.",
+   "O quadro é obstrutivo e não melhora com antiácido nem com fórmula espessada.",
+   "Volvo cursa com vômito bilioso; aqui o vômito é alimentar e o exame inicial é a ultrassonografia.",
+   "Correta: confirma-se pela ultrassonografia e corrige-se a alcalose antes da cirurgia.",
+   "Eritromicina oral não é tratamento definitivo e está associada à própria estenose do piloro."
+  ]
+ },
+ {
+  "q": "Recém-nascida de 39 semanas, primeira filha, nascida em apresentação pélvica, tem no exame de alta a manobra de Ortolani positiva à esquerda, com ressalto palpável de redução do quadril. Os membros têm mesmo comprimento. Qual é a conduta adequada?",
+  "alts": [
+   "Encaminhar ao ortopedista para iniciar o suspensório de Pavlik nas primeiras semanas",
+   "Reavaliar o quadril aos 6 meses, idade em que o exame clínico ganha sensibilidade",
+   "Pedir radiografia de bacia no primeiro dia de vida para confirmar o diagnóstico",
+   "Usar fralda dupla ou tripla por 3 meses e reavaliar só se houver claudicação",
+   "Indicar redução cirúrgica aberta assim que a criança atingir 3 meses de idade"
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Displasia do desenvolvimento do quadril",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "American Academy of Pediatrics. Evaluation and referral for developmental dysplasia of the hip in infants, 2016",
+  "coment": "Ortolani positivo indica quadril luxado que reduz com a abdução, achado de displasia do desenvolvimento do quadril. Sexo feminino, primeira gestação e apresentação pélvica são fatores de risco. Pelo relatório da AAP (2016), o RN com Ortolani ou Barlow positivo é encaminhado ao ortopedista, e o tratamento com órtese de abdução (suspensório de Pavlik) começa nas primeiras semanas, com alta taxa de sucesso. A radiografia é pouco útil antes de 4 a 6 meses, porque a cabeça femoral não está ossificada; a ultrassonografia é o exame de imagem nessa idade. Fralda tripla não é tratamento.",
+  "porAlt": [
+   "Correta: Ortolani positivo pede encaminhamento ortopédico e Pavlik precoce.",
+   "Esperar 6 meses perde a janela em que a órtese tem maior sucesso.",
+   "A cabeça femoral não está ossificada no RN; a radiografia não serve nessa idade.",
+   "Fralda dupla ou tripla não mantém a redução e não é tratamento eficaz.",
+   "Cirurgia é para falha do tratamento conservador ou diagnóstico tardio."
+  ]
+ },
+ {
+  "q": "Lactente de 9 meses, previamente hígido, tem episódios de choro intenso com flexão das pernas, intercalados com períodos de sonolência e palidez, há 8 horas, com vômitos. Agora evacuou fezes com muco e sangue escuro. Palpa-se massa alongada no hipocôndrio direito; está hidratado, sem sinais de peritonite. Qual é o exame e a conduta inicial?",
+  "alts": [
+   "Coprocultura e azitromicina oral por 5 dias, pela hipótese de disenteria por Shigella",
+   "Ultrassonografia abdominal e redução por enema hidrostático ou pneumático guiado por imagem",
+   "Colonoscopia de urgência para avaliar a origem do sangramento e colher biópsias da mucosa",
+   "Laparotomia exploradora imediata em todos os casos, sem tentativa de redução não operatória",
+   "Radiografia simples de abdome e observação clínica por 24 horas com analgesia e jejum"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Invaginação intestinal",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2021",
+  "coment": "Dor em cólica intermitente com flexão das pernas, letargia entre os episódios, vômitos, fezes em geleia de framboesa e massa em salsicha no lactente de 6 a 36 meses indicam invaginação intestinal, em geral ileocólica. A ultrassonografia confirma (imagem em alvo ou pseudorrim). Sem peritonite, perfuração ou choque, a conduta inicial é a redução por enema hidrostático ou pneumático guiado por imagem, com sucesso na maioria dos casos. A cirurgia fica para falha da redução, perfuração ou peritonite. A tríade completa aparece em minoria; o atraso aumenta o risco de isquemia.",
+  "porAlt": [
+   "Dor em cólica com letargia e massa abdominal não é disenteria bacteriana.",
+   "Correta: ultrassonografia confirma, e o enema guiado por imagem reduz a invaginação sem cirurgia.",
+   "Colonoscopia não tem papel e pode perfurar a alça invaginada.",
+   "Sem peritonite ou perfuração, tenta-se primeiro a redução não operatória.",
+   "Observação por 24 horas aumenta o risco de isquemia e necrose intestinal."
+  ]
+ },
+ {
+  "q": "Lactente de 3 meses tem diagnóstico de anemia falciforme (Hb SS) confirmado após o teste do pezinho. Está bem, com vacinas em dia. Pelo Ministério da Saúde, qual medida reduz de forma mais importante a mortalidade nos primeiros anos?",
+  "alts": [
+   "Hidroxiureia desde já, com dose ajustada pela hemoglobina fetal a cada 3 meses",
+   "Transfusão mensal de concentrado de hemácias para manter a Hb S abaixo de 30%",
+   "Ácido fólico diário até 2 anos, que previne as crises de sequestro esplênico",
+   "Esplenectomia eletiva após 1 ano, para prevenir infecções por germes encapsulados",
+   "Penicilina oral profilática contínua até os 5 anos, com vacinação ampliada"
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Penicilina profilática na falciforme",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Doença falciforme: condutas básicas para tratamento, 2ª ed., 2012",
+  "coment": "A asplenia funcional da anemia falciforme começa nos primeiros meses e expõe a criança a sepse fulminante por germes encapsulados, sobretudo o pneumococo, principal causa de morte nos primeiros anos. O manual do Ministério da Saúde (2012) recomenda penicilina profilática contínua desde o diagnóstico precoce até os 5 anos, além das vacinas especiais do CRIE (pneumocócicas conjugada e polissacarídica, entre outras) e da orientação à família sobre febre e palpação do baço. Ácido fólico não previne sequestro, e transfusão crônica e hidroxiureia têm indicações próprias.",
+  "porAlt": [
+   "A hidroxiureia tem indicações próprias e não é a medida inicial para todo lactente de 3 meses.",
+   "Transfusão crônica é reservada à prevenção de AVC em risco alto, não à rotina.",
+   "Ácido fólico não previne o sequestro esplênico, que se reconhece pela palpação do baço.",
+   "Esplenectomia aumenta o risco de sepse por germes encapsulados.",
+   "Correta: penicilina profilática até os 5 anos e vacinação ampliada previnem a sepse pneumocócica."
+  ]
+ },
+ {
+  "q": "Menino de 3 anos é levado porque o prepúcio não retrai e cobre toda a glande. Ao tentar retrair, nota-se anel prepucial flexível, sem cicatriz esbranquiçada. Urina com jato normal, sem infecção urinária prévia nem balanopostite. A mãe pergunta se precisa operar. Qual é a orientação?",
+  "alts": [
+   "Fimose patológica: indicar postectomia antes da idade escolar, pelo risco de infecção",
+   "Retrair o prepúcio com força diariamente no banho até descobrir a glande completamente",
+   "Encaminhar para dilatação prepucial sob sedação no consultório, com retorno em 7 dias",
+   "Indicar postectomia imediata pelo risco de câncer de pênis no adulto jovem",
+   "Fimose fisiológica: não forçar a retração e manter higiene; corticoide tópico se persistir"
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Fimose fisiológica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2021",
+  "coment": "A aderência balanoprepucial e o prepúcio não retrátil são fisiológicos na infância e se desfazem progressivamente com as ereções e o crescimento, a maioria até a adolescência. Na fimose fisiológica o anel é flexível, sem cicatriz; a fimose patológica tem anel esbranquiçado e fibroso, frequentemente por balanite xerótica obliterante. A retração forçada causa fissuras e cicatriz, criando fimose patológica, ou parafimose. Se persistir com incômodo, o corticoide tópico por 4 a 8 semanas tem boa resposta. Postectomia fica para fimose patológica, infecção urinária de repetição ou balanopostites recorrentes.",
+  "porAlt": [
+   "Não há anel cicatricial nem complicação que caracterize fimose patológica.",
+   "A retração forçada provoca fissuras, cicatriz e parafimose.",
+   "Dilatação forçada sob sedação causa cicatriz e não é indicada na fimose fisiológica.",
+   "O risco de câncer de pênis não justifica cirurgia em fimose fisiológica na infância.",
+   "Correta: anel flexível sem cicatriz aos 3 anos é fisiológico; corticoide tópico se persistir."
+  ]
+ },
+ {
+  "q": "Lactente de 2 meses, nascido a termo, tem abaulamento na região inguinal direita que aparece ao chorar e some ao repouso, chegando à bolsa escrotal; é redutível sem dor. O pediatra também nota hérnia umbilical de 1 cm, redutível. Qual é a conduta para cada uma?",
+  "alts": [
+   "Inguinal: observar até 2 anos, pois costuma fechar sozinha; umbilical: operar de forma eletiva em breve",
+   "Inguinal: correção cirúrgica eletiva em breve; umbilical: observar, pois costuma fechar até 4 ou 5 anos",
+   "Inguinal e umbilical: observar até a idade escolar e operar só se houver encarceramento em algum momento",
+   "Inguinal: cirurgia de urgência no mesmo dia; umbilical: faixa compressiva com moeda por 3 meses seguidos",
+   "Inguinal: punção para diferenciar de hidrocele; umbilical: correção cirúrgica antes do primeiro ano de vida"
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Hérnia inguinal e umbilical",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2021",
+  "coment": "A hérnia inguinal da criança é indireta, por persistência do conduto peritoneovaginal, não regride e tem risco de encarceramento maior no primeiro ano; por isso a correção cirúrgica é eletiva, mas feita logo após o diagnóstico. Hérnia encarcerada é urgência. A hérnia umbilical, ao contrário, fecha espontaneamente na maioria até 4 ou 5 anos e raramente encarcera; opera-se se persistir após essa idade ou se o anel for grande. Faixas e moedas não aceleram o fechamento e irritam a pele. Hidrocele é diagnóstico clínico com transiluminação, sem punção.",
+  "porAlt": [
+   "Inverte o comportamento das duas: é a umbilical que costuma fechar espontaneamente.",
+   "Correta: inguinal não regride e se opera logo; umbilical fecha sozinha na maioria até 4 ou 5 anos.",
+   "Esperar na hérnia inguinal expõe a criança a encarceramento, mais frequente no lactente.",
+   "Hérnia redutível não é urgência, e faixa com moeda não acelera o fechamento umbilical.",
+   "Punção é contraindicada em massa inguinal que pode conter alça intestinal."
+  ]
+ }
+]

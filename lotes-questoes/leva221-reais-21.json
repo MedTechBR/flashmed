@@ -1,0 +1,1256 @@
+[
+ {
+  "pid": "p24042",
+  "q": "Na distopia testicular, o testículo é palpável, mas não se encontra na posição anatômica adequada. O tratamento cirúrgico está indicado:",
+  "alts": [
+   "dentro do segundo ano de vida;",
+   "após o primeiro ano de vida;",
+   "após o segundo ano de vida;",
+   "após confirmação da distopia por ultrassonografia;",
+   "no primeiro ano de vida, passados os primeiros 6 meses."
+  ],
+  "gab": 4,
+  "tema": "especialidades",
+  "sub": "Distopia testicular e momento da orquidopexia",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "EAU/ESPU Guidelines on Paediatric Urology, 2024; AUA Evaluation and Treatment of Cryptorchidism Guideline, 2014",
+  "coment": "O testículo fora da bolsa após os 6 meses (idade corrigida) dificilmente desce sozinho. A orquidopexia é indicada entre 6 e 12 meses, no máximo até os 18 meses, porque a cirurgia precoce preserva o epitélio germinativo, reduz o risco de infertilidade e facilita o autoexame e a vigilância do risco de neoplasia. Esperar o segundo ano ou depois expõe o testículo ao dano térmico progressivo. A ultrassonografia não muda a conduta quando o testículo é palpável: o diagnóstico é clínico (EAU/ESPU 2024, AUA 2014).",
+  "porAlt": [
+   "Operar só no segundo ano perde a janela ideal de 6 a 12 meses e aumenta o dano germinativo.",
+   "Após o primeiro ano é tardio; o objetivo é operar antes de completar 1 ano, no máximo até 18 meses.",
+   "Depois do segundo ano há perda progressiva de células germinativas, é atraso de tratamento.",
+   "Testículo palpável tem diagnóstico clínico; a ultrassonografia não é necessária nem decide a cirurgia.",
+   "Correta: a orquidopexia deve ser feita entre 6 e 12 meses, quando a descida espontânea já não ocorre."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 42
+  }
+ },
+ {
+  "pid": "p24043",
+  "q": "A leucorreia fisiológica, que ocorre em recém-nascidas e meninas na puberdade, tem curso benigno. É papel do pediatra identificar as características desse tipo de leucorreia, que:",
+  "alts": [
+   "cursa com disúria associada;",
+   "apresenta, ao microscópio, patógenos e leucócitos;",
+   "tem aspecto inodor, homogêneo, leitoso ou transparente e não pruriginoso;",
+   "acontece sempre após a menarca por ser uma secreção estrogênio-dependente;",
+   "cursa com secreção clara, não se tornando amarelada quando depositada por um tempo na calcinha."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Leucorreia fisiológica na infância",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "A leucorreia fisiológica decorre do estrogênio: no recém-nascido, pela passagem transplacentária do hormônio materno; na puberdade, pela ativação ovariana, começando meses antes da menarca. É branca ou transparente, homogênea, sem odor, sem prurido, sem disúria e sem inflamação vulvar. Ao microscópio há células epiteliais e lactobacilos, sem patógenos nem excesso de leucócitos. Ao secar na roupa íntima pode ficar amarelada, o que não indica infecção. Odor, prurido, disúria ou corrimento esverdeado sugerem vulvovaginite e pedem avaliação.",
+  "porAlt": [
+   "Disúria não faz parte da leucorreia fisiológica e sugere vulvovaginite ou infecção urinária.",
+   "Patógenos e leucócitos ao microscópio indicam processo infeccioso, não secreção fisiológica.",
+   "Correta: a secreção fisiológica é inodora, homogênea, leitosa ou transparente e sem prurido.",
+   "Ela surge antes da menarca, na puberdade inicial, e também no período neonatal por estrogênio materno.",
+   "A secreção fisiológica pode ficar amarelada ao secar na calcinha, sem significar infecção."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 43
+  }
+ },
+ {
+  "pid": "p24044",
+  "q": "Um menino de 6 anos é trazido para atendimento médico por apresentar edema de início há 3 semanas, inicialmente em membros inferiores, evoluindo para anasarca. Refere ainda “urina espumosa” e ganho de 3 kg no período. Traz um exame de elementos anormais na urina, que demonstra proteinúria, cilindrúria e lipidúria. Demais exames laboratoriais: hemograma normal, hipoalbuminemia e hipercolesterolemia. Diante da hipótese diagnóstica de síndrome nefrótica, considera-se confirmada proteína nefrótica quando a proteína de 24 horas apresenta valor:",
+  "alts": [
+   "acima de 50 mg/kg/dia ou 40 mg/m²/hora;",
+   "acima de 40 mg/kg/dia ou 30 mg/m²/hora;",
+   "acima de 30 mg/kg/dia ou 20 mg/m²/hora;",
+   "acima de 40 mg/kg/dia ou 20 mg/m²/hora;",
+   "acima de 50 mg/kg/dia ou 30 mg/m²/hora."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Proteinúria nefrótica em crianças",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases; IPNA, recomendações para síndrome nefrótica sensível a corticoide, 2023",
+  "coment": "Na criança, a proteinúria de faixa nefrótica é definida por mais de 50 mg/kg/dia ou mais de 40 mg/m²/hora na urina de 24 horas. Na prática, como a coleta de 24 horas é difícil, usa-se a relação proteína/creatinina em amostra isolada acima de 2 mg/mg (KDIGO 2021, IPNA 2023). O quadro do enunciado reúne edema, hipoalbuminemia, hipercolesterolemia e lipidúria, típicos da síndrome nefrótica idiopática da infância, quase sempre de lesão mínima e sensível a corticoide.",
+  "porAlt": [
+   "Correta: acima de 50 mg/kg/dia ou 40 mg/m²/hora é o critério de proteinúria nefrótica na criança.",
+   "O corte em mg/kg/dia é 50, e o horário é 40 mg/m²/hora, não 30.",
+   "Os valores de 30 mg/kg/dia e 20 mg/m²/hora ficam abaixo da faixa nefrótica pediátrica.",
+   "O corte em mg/kg/dia é 50, e 20 mg/m²/hora não define faixa nefrótica.",
+   "O valor horário de 30 mg/m²/hora está abaixo do corte de 40 mg/m²/hora."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 44
+  }
+ },
+ {
+  "pid": "p24045",
+  "q": "A hematúria é uma manifestação que faz parte do quadro clínico da síndrome nefrítica, além do edema, da proteinúria e da hipertensão arterial. Nessa síndrome, a hematúria:",
+  "alts": [
+   "é microscópica e está acompanhada de cilindros hemáticos;",
+   "é macroscópica e não está acompanhada de cilindros hemáticos;",
+   "é macroscópica e está acompanhada de cilindros hemáticos;",
+   "pode ser microscópica ou macroscópica e está acompanhada de cilindros hemáticos;",
+   "pode ser microscópica ou macroscópica e não está acompanhada de cilindros hemáticos."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Hematúria na síndrome nefrítica",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Na síndrome nefrítica, como na glomerulonefrite difusa aguda pós-estreptocócica, a inflamação glomerular deixa passar hemácias que se moldam nos túbulos e formam cilindros hemáticos, marcador da origem glomerular do sangramento. A hematúria pode ser macroscópica (urina cor de coca-cola ou água de carne) ou só microscópica, conforme a intensidade. Hemácias dismórficas e cilindros hemáticos diferenciam a hematúria glomerular da hematúria de vias urinárias, como na litíase ou na cistite.",
+  "porAlt": [
+   "A hematúria nefrítica pode ser também macroscópica, não apenas microscópica.",
+   "Sem cilindros hemáticos a hematúria não seria glomerular; e ela nem sempre é macroscópica.",
+   "Nem sempre é macroscópica; muitas crianças têm apenas hematúria microscópica.",
+   "Correta: a hematúria pode ser micro ou macroscópica e vem com cilindros hemáticos, sinal de origem glomerular.",
+   "A ausência de cilindros hemáticos contraria a origem glomerular da hematúria nefrítica."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 45
+  }
+ },
+ {
+  "pid": "p24046",
+  "q": "Nos meninos com fimose, é comum a formação dos cistos de esmegma pela aderência balanoprepucial. Esses cistos indicam:",
+  "alts": [
+   "processo de resolução da fimose e prepúcio descolando da glande;",
+   "complicação da aderência, havendo indicação para intervenção cirúrgica de imediato;",
+   "infecção secundária ao acúmulo do esmegma, devendo ser tratado com antibioticoterapia tópica;",
+   "infecção secundária ao acúmulo do esmegma, devendo ser tratado com antibioticoterapia sistêmica;",
+   "necessidade de tratamento tópico com beclometasona ou clobetasol por 4 semanas."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Cisto de esmegma na fimose fisiológica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022; EAU/ESPU Guidelines on Paediatric Urology, 2024",
+  "coment": "A fimose da criança pequena é em geral fisiológica, por aderências balanoprepuciais que se desfazem espontaneamente com o crescimento e as ereções. O esmegma, formado por células descamadas, acumula-se sob o prepúcio e aparece como nódulo branco-amarelado indolor. Esse cisto indica que o prepúcio está se descolando da glande, ou seja, sinal de resolução natural. Não requer antibiótico, corticoide nem cirurgia; orienta-se higiene sem retração forçada. A EAU/ESPU 2024 reserva tratamento para fimose sintomática ou persistente.",
+  "porAlt": [
+   "Correta: o cisto de esmegma mostra o descolamento progressivo do prepúcio, sinal de resolução da fimose.",
+   "Não é complicação e não indica cirurgia; é parte da evolução natural das aderências.",
+   "O acúmulo de esmegma não é infecção e não precisa de antibiótico tópico.",
+   "Sem infecção não há indicação de antibiótico sistêmico; basta orientar higiene.",
+   "O corticoide tópico é para fimose sintomática ou persistente, não para o cisto de esmegma, que se resolve sozinho."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 46
+  }
+ },
+ {
+  "pid": "p24047",
+  "q": "A otite média aguda pode necessitar de tratamento com antibioticoterapia sistêmica em algumas situações. Nos casos em que não há uso prévio de antibiótico nos últimos 30 dias nem conjuntivite purulenta, o fármaco de escolha é:",
+  "alts": [
+   "cefuroxima;",
+   "cefaclor;",
+   "amoxicilina;",
+   "ampicilina + sulbactam;",
+   "amoxicilina + clavulanato de potássio."
+  ],
+  "gab": 2,
+  "tema": "pedinfecto",
+  "sub": "Antibiótico de escolha na otite média aguda",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Academy of Pediatrics. Clinical Practice Guideline: The Diagnosis and Management of Acute Otitis Media, 2013",
+  "coment": "Quando a otite média aguda exige antibiótico, a escolha é amoxicilina em dose alta (80 a 90 mg/kg/dia), ativa contra pneumococo, inclusive cepas com resistência intermediária. A amoxicilina com clavulanato fica para quem usou amoxicilina nos últimos 30 dias, tem conjuntivite purulenta associada (sugere Haemophilus influenzae produtor de betalactamase) ou otite recorrente sem resposta à amoxicilina (AAP 2013). Cefalosporinas orais servem para alergia não grave à penicilina.",
+  "porAlt": [
+   "A cefuroxima é alternativa em alergia não grave à penicilina, não primeira escolha.",
+   "O cefaclor tem atividade fraca contra pneumococo e não é recomendado na otite média.",
+   "Correta: sem antibiótico recente nem conjuntivite purulenta, a amoxicilina em dose alta é a escolha.",
+   "Ampicilina com sulbactam é parenteral e não tem papel no tratamento ambulatorial da otite.",
+   "Amoxicilina com clavulanato fica para uso recente de amoxicilina ou conjuntivite purulenta associada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 47
+  }
+ },
+ {
+  "pid": "p24048",
+  "q": "O índice universalmente aceito para classificação da obesidade é o índice de massa corporal (IMC). A classificação de obesidade, na faixa etária de 5 a 19 anos, corresponde ao IMC:",
+  "alts": [
+   "entre percentis 97 e 99,9 ou escores entre Z +2 e +3;",
+   "entre percentis 85 e 97 ou escores entre Z +1 e +2;",
+   "acima do percentil 99,9 ou escores acima de Z+3;",
+   "acima do percentil 99,9 ou de escores entre Z+2 e +3;",
+   "entre percentis 50 e 85 ou escores Z entre 0 e +1. "
+  ],
+  "gab": 0,
+  "tema": "puericultura",
+  "sub": "Classificação do IMC de 5 a 19 anos",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "OMS, curvas de referência de crescimento 2007; Ministério da Saúde. Orientações para a coleta e análise de dados antropométricos (SISVAN), 2011; SBP. Manual de Orientação Obesidade na Infância e Adolescência, 3ª ed., 2019",
+  "coment": "Para 5 a 19 anos usa-se o IMC para idade das curvas da OMS 2007. Eutrofia vai do escore Z menos 2 a mais 1; sobrepeso, de mais 1 a mais 2 (percentil 85 a 97); obesidade, de mais 2 a mais 3 (percentil 97 a 99,9); acima de mais 3 (percentil 99,9), obesidade grave. A classificação adotada pelo SISVAN (MS 2011) e pela SBP 2019 separa obesidade de obesidade grave, por isso a faixa entre Z mais 2 e mais 3 corresponde à obesidade.",
+  "porAlt": [
+   "Correta: obesidade de 5 a 19 anos corresponde a percentil 97 a 99,9, escore Z entre +2 e +3.",
+   "Percentil 85 a 97 (Z +1 a +2) é sobrepeso nessa faixa etária.",
+   "Acima do percentil 99,9 (Z acima de +3) é obesidade grave, categoria separada.",
+   "Mistura critérios: percentil acima de 99,9 corresponde a Z acima de +3, não entre +2 e +3.",
+   "Percentil 50 a 85 (Z 0 a +1) está dentro da eutrofia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 48
+  }
+ },
+ {
+  "pid": "p24049",
+  "q": "As leucemias são as neoplasias malignas mais comuns na infância. Em relação a essas neoplasias, é correto afirmar que:",
+  "alts": [
+   "a leucemia linfoide crônica é a forma mais comum das leucemias na infância;",
+   "tais doenças apresentam anemia, leucocitose, neutropenia e plaquetopenia, mas não são identificados blastos no sangue periférico;",
+   "o diagnóstico é confirmado com exames laboratoriais que evidenciam pancitopenia, aumento de VHS e LDH;",
+   "a leucemia mieloide crônica é sintomática desde sua fase inicial e não cursa com esplenomegalia;",
+   "a leucemia linfoblástica aguda tem como sintomas predominantes astenia, dor óssea, febre, fenômenos hemorrágicos e linfonodomegalias."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Leucemia linfoblástica aguda na infância",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "A leucemia linfoblástica aguda é a neoplasia mais comum da infância (cerca de 75% das leucemias pediátricas). Manifesta-se por falência medular (palidez e astenia por anemia, febre e infecções por neutropenia, sangramentos por plaquetopenia), dor óssea pela infiltração medular e linfonodomegalia e hepatoesplenomegalia pela infiltração extramedular. O hemograma pode mostrar blastos, mas o diagnóstico só se confirma pelo mielograma com imunofenotipagem (mais de 20 a 25% de blastos). Leucemias crônicas são raras na criança.",
+  "porAlt": [
+   "A leucemia linfoide crônica praticamente não ocorre na infância; a forma mais comum é a linfoblástica aguda.",
+   "Blastos no sangue periférico são achado frequente, e a contagem de leucócitos pode ser alta, normal ou baixa.",
+   "Pancitopenia, VHS e LDH são sugestivos, mas a confirmação exige mielograma com imunofenotipagem.",
+   "A leucemia mieloide crônica costuma ter fase inicial oligossintomática e cursa com esplenomegalia volumosa.",
+   "Correta: astenia, dor óssea, febre, sangramentos e linfonodomegalia são as manifestações típicas da leucemia linfoblástica aguda."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 49
+  }
+ },
+ {
+  "pid": "p24050",
+  "q": "Um lactente de 18 meses é trazido à consulta de puericultura apresentando palidez de mucosas, fadiga e cansaço, há aproximadamente 3 meses. Recebeu aleitamento materno exclusivo até os 3 meses de vida, quando iniciou leite de vaca integral; aos 6 meses, introduziu alimentação complementar, mas nunca fez uso de ferro profilático. Sabendo-se que a principal hipótese é anemia ferropriva, e considerando que hematócrito e hemoglobina estão abaixo de 2 desvios padrão da média da população normal, é correto concluir que o hemograma evidencia:",
+  "alts": [
+   "VCM baixo, HCM baixo e RDW elevado;",
+   "VCM normal, HCM baixo e RDW elevado;",
+   "VCM baixo, HCM baixo e RDW normal;",
+   "VCM normal, HCM normal e RDW elevado;",
+   "VCM normal, HCM normal e RDW normal."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Hemograma na anemia ferropriva",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Consenso sobre Anemia Ferropriva: mais que uma doença, uma urgência médica, 2018",
+  "coment": "O lactente reúne os fatores de risco clássicos: desmame precoce, leite de vaca integral antes de 1 ano (pobre em ferro biodisponível e causa de micro-hemorragia intestinal) e ausência de ferro profilático. Na anemia ferropriva a deficiência de ferro reduz a síntese de hemoglobina: as hemácias ficam pequenas (VCM baixo) e pálidas (HCM baixo). A anisocitose aparece cedo, por isso o RDW sobe antes mesmo da microcitose, ajudando a separar da talassemia menor, em que o RDW costuma ser normal (SBP 2018).",
+  "porAlt": [
+   "Correta: microcitose, hipocromia e RDW elevado são o padrão da anemia ferropriva estabelecida.",
+   "Na anemia ferropriva com hemoglobina já baixa o VCM também está reduzido.",
+   "RDW normal com microcitose sugere traço talassêmico, não deficiência de ferro.",
+   "Índices normais com RDW alto podem ocorrer só na fase inicial, não com anemia estabelecida.",
+   "Índices hematimétricos todos normais não combinam com anemia ferropriva instalada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 50
+  }
+ },
+ {
+  "pid": "p24051",
+  "q": "Um lactente de 7 meses apresenta há 1 mês contrações abruptas de tronco e pescoço com adução dos braços, seguidas por uma contração tônica que dura segundos. Desde o início dos sintomas, parou de levar a mão até a linha média e de sentar com apoio. Traz um eletroencefalograma que demonstra hipsarritimia. A síndrome epiléptica compatível com os achados é:",
+  "alts": [
+   "síndrome de West;",
+   "síndrome de Dravet;",
+   "crise de ausência;",
+   "síndrome de Lennox-Gastaut;",
+   "paroxismos centrotemporais."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Síndrome de West (espasmos infantis)",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ILAE, classificação das síndromes epilépticas de início neonatal e no lactente, 2022",
+  "coment": "A síndrome de West reúne a tríade espasmos epilépticos, hipsarritmia no eletroencefalograma e parada ou regressão do desenvolvimento, com pico entre 3 e 12 meses. Os espasmos são contrações súbitas em flexão ou extensão de tronco, pescoço e membros, muitas vezes em salvas. Na classificação da ILAE 2022 entra como síndrome de espasmos epilépticos infantis. É urgência neurológica: o tratamento precoce com ACTH, prednisolona em dose alta ou vigabatrina (esta na esclerose tuberosa) melhora o prognóstico.",
+  "porAlt": [
+   "Correta: espasmos, hipsarritmia e regressão do desenvolvimento aos 7 meses definem a síndrome de West.",
+   "Dravet começa com crises febris prolongadas e hemiclônicas no primeiro ano, sem hipsarritmia.",
+   "Crise de ausência ocorre em escolares, com espícula-onda de 3 Hz, não em lactentes com espasmos.",
+   "Lennox-Gastaut surge entre 3 e 5 anos, com crises tônicas e ponta-onda lenta, podendo suceder West.",
+   "Epilepsia com paroxismos centrotemporais é benigna, de escolares, com crises focais noturnas."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 51
+  }
+ },
+ {
+  "pid": "p24052",
+  "q": "Uma escolar de 8 anos em tratamento de doença de Crohn há 2 anos apresenta recaída com dor abdominal e emagrecimento, sem resposta adequada às atuais medicações. Sente-se cansada, enfraquecida, sonolenta e sem motivação; relata ainda não conseguir prestar atenção no que estuda. Considerando esses últimos sintomas, é correto afirmar que:",
+  "alts": [
+   "apesar dos diversos sintomas presentes na queixa, inexiste a possibilidade de a doença se tornar incapacitante;",
+   "como o tratamento da doença de base já se mostrou adequado antes, deve ser evitado o uso de antidepressivos;",
+   "estratégias de modificação de comportamentos têm resultados dúbios neste momento, devendo ser evitadas;",
+   "muito provavelmente está ocorrendo alguma complicação neurológica da doença de base, pois houve recaída;",
+   "trata-se de sintomas que ocorrem comumente nesses casos, e a prática de atividade física pode trazer benefício."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Sintomas depressivos na doença de Crohn",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ECCO-ESPGHAN. The Medical Management of Paediatric Crohn's Disease: Guideline Update, 2021",
+  "coment": "Fadiga, desânimo, sonolência e dificuldade de concentração são frequentes em crianças com doença inflamatória intestinal, sobretudo nas recaídas, e refletem inflamação ativa, anemia, desnutrição e sofrimento psíquico. Ansiedade e depressão são mais comuns que na população geral e pioram a adesão e a qualidade de vida. O manejo inclui controlar a doença, corrigir anemia e déficits nutricionais, rastrear saúde mental e oferecer apoio psicológico. Atividade física regular é segura e melhora fadiga, humor e massa óssea (ECCO-ESPGHAN 2021).",
+  "porAlt": [
+   "A doença de Crohn pode ser incapacitante, física e psicossocialmente, sobretudo com sintomas depressivos.",
+   "Antidepressivos podem ser indicados se houver depressão, independentemente de o tratamento anterior ter funcionado.",
+   "Intervenções comportamentais e psicoterapia têm benefício e devem ser oferecidas, não evitadas.",
+   "Os sintomas descritos são inespecíficos e comuns na recaída; complicação neurológica é rara e não é a explicação provável.",
+   "Correta: esses sintomas são comuns na doença inflamatória intestinal ativa e a atividade física traz benefício."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 52
+  }
+ },
+ {
+  "pid": "p24053",
+  "q": "Escolar, 9 anos, masculino, há 15 dias apresentou quadro de diarreia aguda com febre baixa. Há 3 dias iniciou dormência e parestesia em ambos os membros inferiores, seguidas de fraqueza, que impede a deambulação. Atualmente apresenta, além da perda da força muscular, arreflexia nos membros inferiores e dormência e parestesia em tórax. No liquor apresenta aumento de proteínas com leucócitos e glicose normais. O tratamento a ser iniciado é:",
+  "alts": [
+   "imunoglobulina;",
+   "plasmaférese;",
+   "corticosteroides;",
+   "imunossupressores;",
+   "anti-inflamatório não esteroide."
+  ],
+  "gab": 0,
+  "tema": "pedgeral",
+  "sub": "Síndrome de Guillain-Barré na criança",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "EAN/PNS Guideline on diagnosis and treatment of Guillain-Barré syndrome, 2023",
+  "coment": "Fraqueza ascendente simétrica com arreflexia, parestesias e dissociação proteinocitológica no liquor (proteína alta com celularidade normal), duas semanas após diarreia (Campylobacter jejuni), fecham síndrome de Guillain-Barré. Criança que perdeu a marcha tem indicação de tratamento imunomodulador. Imunoglobulina intravenosa (2 g/kg em 2 a 5 dias) e plasmaférese têm eficácia semelhante, mas na pediatria a imunoglobulina é preferida por ser mais disponível e segura (EAN/PNS 2023). Corticoide não tem benefício.",
+  "porAlt": [
+   "Correta: imunoglobulina intravenosa é o tratamento de escolha da síndrome de Guillain-Barré na criança.",
+   "A plasmaférese é eficaz, mas na criança é menos prática e mais arriscada, ficando como alternativa.",
+   "Corticosteroides não mostraram benefício na síndrome de Guillain-Barré e não são indicados.",
+   "Imunossupressores não têm papel no tratamento da fase aguda da síndrome.",
+   "Anti-inflamatório não esteroide só alivia dor, não modifica a evolução da polirradiculoneurite."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 53
+  }
+ },
+ {
+  "pid": "p24054",
+  "q": "Um lactente com 3 meses, nascido a termo e com acompanhamento adequado de puericultura, apresenta criptorquidia à esquerda. Tem crescimento e desenvolvimento adequados e não há outras alterações ao exame físico. A conduta preconizada nesse caso é:",
+  "alts": [
+   "encaminhar o mais breve possível ao cirurgião para orquidopexia;",
+   "aguardar a descida espontânea do testículo até os 6 meses de idade;",
+   "iniciar tratamento com hormônios para induzir a descida do testículo;",
+   "solicitar ultrassonografia para avaliar a localização do testículo;",
+   "indicar a orquiectomia pelo risco de malignização em idade posterior. "
+  ],
+  "gab": 1,
+  "tema": "especialidades",
+  "sub": "Criptorquidia no lactente pequeno",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "AUA Evaluation and Treatment of Cryptorchidism Guideline, 2014; EAU/ESPU Guidelines on Paediatric Urology, 2024",
+  "coment": "No recém-nascido a termo a descida espontânea do testículo ainda pode ocorrer nos primeiros meses, impulsionada pela minipuberdade. Por isso, no lactente de 3 meses sem outras alterações, a conduta é reavaliar até os 6 meses de idade corrigida. Se o testículo não descer, encaminha-se ao cirurgião para orquidopexia antes de 12 a 18 meses. A ultrassonografia não é recomendada antes do encaminhamento porque não muda a conduta, e o tratamento hormonal tem baixa eficácia (AUA 2014, EAU/ESPU 2024).",
+  "porAlt": [
+   "Ainda é cedo: até os 6 meses o testículo pode descer sozinho, e a cirurgia fica para depois.",
+   "Correta: aguarda-se a descida espontânea até os 6 meses e, se não ocorrer, encaminha-se para orquidopexia.",
+   "O tratamento hormonal tem eficácia baixa e não é recomendado de rotina.",
+   "A ultrassonografia não é recomendada na avaliação da criptorquidia porque não altera a conduta.",
+   "Orquiectomia só se aplica a testículo atrófico ou pós-puberal; a conduta é preservar o testículo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 54
+  }
+ },
+ {
+  "pid": "p24055",
+  "q": "Um escolar de 7 anos está sendo atendido no setor de emergência com história de ter iniciado, 5 minutos antes, episódio de tremores no corpo, repetitivos, com saída de baba pela boca e olhos virados para cima. Próximo à chegada ao hospital, parou de tremer. Antes do episódio, a criança estava brincando sentada no sofá, quando tombou já tremendo, sem cair no chão. Não consumiu alimentos ou bebidas, nem tem história de doenças ou crises anteriores. O exame físico mostrou apenas perda da consciência e presença de urina na roupa. A conduta imediata deve ser:",
+  "alts": [
+   "medicar com benzodiazepínico, buscando evitar que a crise se repita;",
+   "indicar a internação, uma vez que não há história prévia de crises;",
+   "monitorar os sinais vitais e ter atenção com as vias aéreas;",
+   "liberar a criança e orientar os pais, uma vez que a crise cessou;",
+   "realizar punção lombar visando a afastar infecção do sistema nervoso."
+  ],
+  "gab": 2,
+  "tema": "pedemerg",
+  "sub": "Primeira crise convulsiva afebril cessada",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022; American Heart Association. Pediatric Advanced Life Support, 2025",
+  "coment": "A crise tônico-clônica generalizada durou cerca de 5 minutos e cessou espontaneamente antes da chegada. O primeiro passo é a estabilização: via aérea pérvia, posição lateral, oxigênio se necessário, monitorização de sinais vitais e glicemia capilar, enquanto a criança recupera a consciência no período pós-ictal. Benzodiazepínico só se a crise persistir ou recorrer. Primeira crise afebril com exame normal e recuperação completa não exige internação nem punção lombar de rotina; a investigação com eletroencefalograma é ambulatorial.",
+  "porAlt": [
+   "Benzodiazepínico trata crise em curso; com a crise cessada não há indicação de dose preventiva.",
+   "Primeira crise afebril com recuperação completa não exige internação por si só.",
+   "Correta: na fase pós-ictal a prioridade é monitorar sinais vitais e manter a via aérea pérvia.",
+   "Liberar de imediato é precipitado: a criança está inconsciente e precisa ser observada até recuperar.",
+   "Sem febre, meningismo ou alteração persistente, punção lombar não está indicada."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 55
+  }
+ },
+ {
+  "pid": "p24056",
+  "q": "Uma escolar com 2 anos é levada à unidade básica de saúde para consulta com o pediatra porque sua mãe percebeu que sua vagina estava fechada. Não havia queixas anteriores. Ao exame físico, foi encontrada aderência dos pequenos lábios até o terço superior da vulva com uma linha central semitransparente, sendo o restante normal. A conduta é:",
+  "alts": [
+   "encaminhar a criança ao ginecologista pediátrico;",
+   "indicar a separação cirúrgica dos pequenos lábios;",
+   "separar manualmente usando um anestésico local;",
+   "observar, uma vez que a criança está assintomática;",
+   "usar estrogênio tópico, já que pode ocorrer disúria."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Sinéquia de pequenos lábios",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "A sinéquia (coalescência) de pequenos lábios é comum entre 3 meses e 6 anos, pelo hipoestrogenismo fisiológico associado a irritação local. A linha mediana fina e semitransparente confirma o diagnóstico. Quando assintomática, a conduta é expectante com higiene adequada, porque a maioria se resolve espontaneamente, sobretudo na puberdade. Estrogênio tópico fica para sinéquias com sintomas (disúria, infecção urinária, retenção). A separação manual ou cirúrgica é traumática e reservada a casos refratários e sintomáticos.",
+  "porAlt": [
+   "Sinéquia assintomática é manejada pelo pediatra, sem necessidade de encaminhamento.",
+   "Separação cirúrgica é para casos refratários e sintomáticos, não para a criança assintomática.",
+   "A separação manual é dolorosa, traumática e tem alta recidiva, não sendo conduta inicial.",
+   "Correta: na criança assintomática a conduta é observar, pois a resolução espontânea é a regra.",
+   "Estrogênio tópico é indicado quando há sintomas, não pela possibilidade teórica de disúria."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 56
+  }
+ },
+ {
+  "pid": "p24057",
+  "q": "Uma adolescente comparece à unidade básica de saúde para consulta, pois necessita de uma declaração médica para matrícula no colégio. No prontuário consta que, aos 10 anos e quatro meses, apresentou telarca e aos 11 anos, pubarca. No momento tem 14 anos e seis meses e relata ainda não ter menstruado. O exame físico é normal. Considerando a fisiologia da puberdade, a conduta em relação à ausência de menarca deve ser:",
+  "alts": [
+   "investigar com exames laboratoriais;",
+   "encaminhar para o endocrinologista;",
+   "fazer exame de ultrassonografia pélvica;",
+   "iniciar o tratamento medicamentoso;",
+   "considerar o desenvolvimento normal."
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Intervalo entre telarca e menarca",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "FEBRASGO. Tratado de Ginecologia, 2019; Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "A menarca costuma ocorrer cerca de 2 a 3 anos após a telarca, mas esse intervalo varia. A FEBRASGO define amenorreia primária como ausência de menarca aos 13 anos sem caracteres sexuais secundários, aos 15 anos com caracteres presentes, ou 3 anos após a telarca quando esta ocorreu antes dos 10 anos. A adolescente teve telarca aos 10 anos e 4 meses, tem 14 anos e 6 meses, caracteres sexuais presentes e exame normal: ainda não preenche critério, e a conduta é orientar e acompanhar.",
+  "porAlt": [
+   "Ainda não há critério de amenorreia primária, então exames laboratoriais não estão indicados agora.",
+   "Sem critério de amenorreia, encaminhar ao endocrinologista é desnecessário neste momento.",
+   "Ultrassonografia pélvica só entra na investigação se houver critério de amenorreia primária.",
+   "Não há doença a tratar; tratamento medicamentoso não tem indicação.",
+   "Correta: com caracteres sexuais presentes e menos de 15 anos, o desenvolvimento é considerado normal."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 57
+  }
+ },
+ {
+  "pid": "p24058",
+  "q": "Pré-escolar, 3 anos, sexo feminino, com história de várias infecções respiratórias, incluindo internações, está sempre com tosse produtiva e secreção espessa. Atualmente vem apresentando fezes muito pastosas (podendo ser líquidas), de cor acinzentada, volumosas e gordurosas. Exame físico: aumento do diâmetro anteroposterior do tórax; índice de massa corporal entre (–)3 e (–)2 escores Z. O exame complementar que pode confirmar os sintomas atuais é:",
+  "alts": [
+   "dosagem de calprotectina;",
+   "ultrassonografia abdominal;",
+   "pesquisa de Clostridioide;",
+   "dosagem de elastase fecal;",
+   "colonoscopia com biópsias."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Insuficiência pancreática na fibrose cística",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Diretrizes brasileiras de diagnóstico e tratamento da fibrose cística (J Bras Pneumol), 2017",
+  "coment": "Infecções respiratórias de repetição com secreção espessa, tórax em barril, desnutrição e fezes volumosas, gordurosas e claras sugerem fibrose cística com insuficiência pancreática exócrina. A elastase fecal baixa (menor que 200 mcg/g, grave se menor que 100) confirma a insuficiência pancreática, não sofre interferência da enzima de reposição e orienta a terapia com enzimas pancreáticas. O diagnóstico da doença em si é feito pelo teste do suor (cloro igual ou maior que 60 mmol/L) e análise genética (Diretrizes brasileiras 2017).",
+  "porAlt": [
+   "Calprotectina mede inflamação intestinal, útil na doença inflamatória, não na má absorção pancreática.",
+   "Ultrassonografia abdominal não avalia a função exócrina do pâncreas.",
+   "Pesquisa de Clostridioides investiga colite infecciosa, que não explica esteatorreia crônica.",
+   "Correta: a elastase fecal baixa confirma a insuficiência pancreática exócrina responsável pela esteatorreia.",
+   "Colonoscopia com biópsias não diagnostica insuficiência pancreática."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 58
+  }
+ },
+ {
+  "pid": "p24059",
+  "q": "Um lactente com 3 meses é levado ao atendimento de emergência por ter apresentado pela primeira vez episódio de cianose e hipotonia, que durou cerca de 30 segundos. Os pais negam qualquer intercorrência antes ou tentativa de ajuda após o episódio. A história clínica revela ter nascido a termo e o exame físico no momento não mostra alterações. Não há uma condição médica que justifique o evento. O pediatra responsável pelo atendimento deverá considerar o evento como de:",
+  "alts": [
+   "baixo risco e opcionalmente observar por uma a quatro horas;",
+   "alto risco e realizar oximetria de pulso por ao menos seis horas;",
+   "baixo risco e solicitar eletroencefalograma com 12 derivações;",
+   "alto risco e indicar internação hospitalar e exames laboratoriais;",
+   "baixo risco e realizar exames laboratoriais e de imagem."
+  ],
+  "gab": 0,
+  "tema": "pedemerg",
+  "sub": "BRUE de baixo risco",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "American Academy of Pediatrics. Brief Resolved Unexplained Events (BRUE): Clinical Practice Guideline, 2016",
+  "coment": "O evento breve resolvido e inexplicado (BRUE) é de baixo risco quando o lactente tem mais de 60 dias, idade gestacional de 32 semanas ou mais, é o primeiro episódio, dura menos de 1 minuto, não precisou de reanimação por profissional e tem história e exame sem alterações. O lactente de 3 meses, a termo, com evento de 30 segundos sem intervenção preenche todos. Nesse grupo a AAP 2016 orienta educar os pais e, opcionalmente, observar com oximetria por 1 a 4 horas, sem exames laboratoriais, de imagem, eletroencefalograma ou internação.",
+  "porAlt": [
+   "Correta: preenche todos os critérios de baixo risco e pode ser observado por 1 a 4 horas.",
+   "O lactente não tem nenhum critério de alto risco que justifique monitorização prolongada.",
+   "No baixo risco não se recomenda eletroencefalograma, e o exame citado nem é o adequado.",
+   "Não há critério de alto risco; internação e exames não melhoram o desfecho nesse grupo.",
+   "No baixo risco a AAP desaconselha exames laboratoriais e de imagem de rotina."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 59
+  }
+ },
+ {
+  "pid": "p24060",
+  "q": "Um escolar de 6 anos, masculino, apresenta perda involuntária de urina durante o sono. Os episódios correm mais de duas vezes na semana, não havendo relato de períodos sem essa perda. Não há nada digno de nota na anamnese e o exame físico é normal. A criança deve ser:",
+  "alts": [
+   "investigada com ultrassonografia para defeitos do trato urinário;",
+   "encaminhada a um urologista por estar fora da faixa etária para os sintomas;",
+   "considerada como sem necessidade de investigação pela ausência de fatores de risco;",
+   "submetida a uma uretrocistografia miccional para avaliação de disfunção da bexiga;",
+   "inicialmente submetida a exames laboratoriais de rotina de urina, assim como urocultura. "
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Enurese noturna monossintomática",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ICCS. Management and treatment of nocturnal enuresis: updated standardization document, 2020; NICE CG111 (Bedwetting in under 19s), 2010",
+  "coment": "Enurese é a perda de urina durante o sono a partir dos 5 anos. Quando não há sintomas diurnos (urgência, incontinência, polaciúria), constipação, infecção urinária prévia, sinais neurológicos nem alterações no exame, trata-se de enurese monossintomática primária, ligada a poliúria noturna, menor capacidade vesical e dificuldade de despertar. O diagnóstico é clínico, com anamnese e diário miccional. Ultrassonografia e uretrocistografia não são indicadas; exames de urina ficam para quem tem sinais de alerta (NICE CG111, ICCS 2020).",
+  "porAlt": [
+   "Ultrassonografia não é necessária na enurese monossintomática sem sinais de alerta.",
+   "Aos 6 anos a enurese é comum e manejada pelo pediatra, sem encaminhamento ao urologista.",
+   "Correta: sem fatores de risco nem sintomas diurnos, a enurese monossintomática dispensa investigação.",
+   "Uretrocistografia é invasiva e só se justifica com suspeita de malformação ou infecções de repetição.",
+   "Exames de urina e urocultura de rotina não são exigidos na enurese monossintomática sem sinais de alerta."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 60
+  }
+ },
+ {
+  "pid": "p24061",
+  "q": "Um escolar, masculino, de 5 anos é levado à consulta por sua mãe, que se mostra preocupada por ter encontrado acidentalmente um caroço no pescoço do filho e outro na raiz da coxa. A criança está assintomática e não há história prévia de doenças a curto prazo. Após constatar que, no exame físico, nada foi encontrado além da palpação de pequenos linfonodos em região cervical esquerda e em região inguinal direita, o pediatra deverá explicar à mãe que esses linfonodos só são considerados aumentados nessas regiões, se maiores, respectivamente, que:",
+  "alts": [
+   "0,5 cm e 1 cm;",
+   "1 cm e 1,5 cm;",
+   "1,5 cm e 2 cm;",
+   "2 cm e 2,5 cm;",
+   "2,5 cm e 3 cm."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Linfonodomegalia na infância",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Linfonodos palpáveis são comuns em crianças saudáveis, sobretudo nas cadeias cervical, axilar e inguinal, pela exposição antigênica frequente. Considera-se aumento quando o maior diâmetro ultrapassa 1 cm na maioria das cadeias, como a cervical e a axilar, 1,5 cm na inguinal e 0,5 cm na epitroclear. Qualquer linfonodo supraclavicular palpável é suspeito. Na criança assintomática com linfonodos pequenos, móveis e indolores, a conduta é tranquilizar e reavaliar.",
+  "porAlt": [
+   "0,5 cm é o limite da cadeia epitroclear; na cervical e inguinal os limites são maiores.",
+   "Correta: o linfonodo é aumentado acima de 1 cm na região cervical e acima de 1,5 cm na inguinal.",
+   "Os valores de 1,5 e 2 cm superestimam os limites de normalidade dessas cadeias.",
+   "Limites de 2 e 2,5 cm deixariam de reconhecer linfonodomegalias verdadeiras.",
+   "Valores de 2,5 e 3 cm estão muito acima dos limites usados na pediatria."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 61
+  }
+ },
+ {
+  "pid": "p24062",
+  "q": "Em consulta de puericultura na unidade básica de saúde, o responsável por um pré-escolar de 3 anos e meio relata que a criança vem lutando contra a retirada da fralda, recusando-se a sentar no penico ou entrar no banheiro para evacuar. Já foram feitas várias tentativas de convencimento com estratégias diferentes, e a criança, além de não ceder, pode ficar alguns dias sem evacuar caso não seja colocada a fralda. A orientação adequada para esse momento é:",
+  "alts": [
+   "insistir com o treinamento, não valorizando esse comportamento;",
+   "buscar novas formas de convencimento, sem retorno às fraldas;",
+   "procurar ajuda especializada, já que não se justifica o uso de fralda;",
+   "interromper temporariamente o treinamento, retornando ao uso de fraldas;",
+   "iniciar tratamento cognitivo-comportamental, retornando ao uso de fraldas."
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Recusa no controle esfincteriano",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022; American Academy of Pediatrics. Toilet training guidelines, 1999",
+  "coment": "O treinamento esfincteriano depende da prontidão da criança e deve ser conduzido sem coerção. Quando ela recusa o penico e chega a reter as fezes, insistir gera luta de poder, aumenta a retenção e pode desencadear constipação funcional, com fecaloma e escape fecal. A orientação é interromper temporariamente o treinamento, voltar à fralda, evitar punições e retomar em algumas semanas ou meses, quando houver sinais de prontidão, com reforço positivo (AAP 1999, SBP 2022).",
+  "porAlt": [
+   "Insistir mantém a luta de poder e favorece retenção fecal e constipação.",
+   "Manter a pressão sem fralda reforça a recusa e o comportamento de retenção.",
+   "É uma dificuldade comum do desenvolvimento, conduzida pelo pediatra, sem encaminhamento.",
+   "Correta: suspender temporariamente o treinamento e voltar à fralda evita retenção e conflito.",
+   "Terapia cognitivo-comportamental não é indicada nessa idade para uma recusa comum do treinamento."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 62
+  }
+ },
+ {
+  "pid": "p24063",
+  "q": "Pré-escolar, sexo feminino, moradora de região rural, apresenta queda do desempenho escolar e frequentemente se queixa de cansaço. Tem dor abdominal e apresenta esporadicamente episódios de diarreia e vômitos. Sua mãe relata já ter percebido vesículas muito pruriginosas na planta dos pés da filha. O exame físico mostra adinamia e palidez. No hemograma apresenta anemia e eosinofilia. O diagnóstico mais provável é:",
+  "alts": [
+   "tricuríase;",
+   "amebíase;",
+   "balantidíase;",
+   "ascaridíase;",
+   "ancilostomíase."
+  ],
+  "gab": 4,
+  "tema": "pedinfecto",
+  "sub": "Ancilostomíase na infância",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Doenças infecciosas e parasitárias: guia de bolso, 8ª ed., 2010",
+  "coment": "A larva filarioide do Ancylostoma duodenale e do Necator americanus penetra pela pele dos pés descalços em solo contaminado, causando dermatite pruriginosa no local (vesículas e pápulas). Depois passa pelo pulmão (pode haver tosse e eosinofilia) e se fixa no intestino delgado, onde suga sangue. A perda crônica de sangue leva a anemia ferropriva, palidez, cansaço e queda do desempenho escolar. Moradia rural, prurido nos pés, anemia e eosinofilia fecham o quadro.",
+  "porAlt": [
+   "A tricuríase causa disenteria e prolapso retal em infecções maciças, sem lesão de penetração nos pés.",
+   "A amebíase é transmitida por cistos ingeridos e não causa eosinofilia nem lesões cutâneas nos pés.",
+   "A balantidíase é rara, ligada a suínos, e causa colite, sem penetração cutânea.",
+   "O Ascaris é adquirido por ingestão de ovos e não penetra pela pele; não explica as vesículas nos pés.",
+   "Correta: penetração cutânea nos pés, anemia, eosinofilia e cansaço apontam para ancilostomíase."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 63
+  }
+ },
+ {
+  "pid": "p24064",
+  "q": "Um escolar de 8 anos apresenta há 15 dias secreção e obstrução nasal, além de tosse. Há um dia vem apresentando febre. O medicamento a ser iniciado é:",
+  "alts": [
+   "claritromicina;",
+   "cefixima;",
+   "azitromicina;",
+   "amoxicilina;",
+   "cefalexina."
+  ],
+  "gab": 3,
+  "tema": "pedinfecto",
+  "sub": "Rinossinusite bacteriana aguda",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "American Academy of Pediatrics. Clinical Practice Guideline for the Diagnosis and Management of Acute Bacterial Sinusitis in Children Aged 1 to 18 Years, 2013",
+  "coment": "A rinossinusite bacteriana aguda é diagnosticada clinicamente em três situações: sintomas persistentes por mais de 10 dias sem melhora, piora após melhora inicial (dupla piora) ou início grave com febre alta e secreção purulenta por 3 dias. A criança tem 15 dias de secreção, obstrução e tosse, e agora febre. O antibiótico de primeira linha é amoxicilina (45 a 90 mg/kg/dia), com clavulanato se uso recente de antibiótico ou falha (AAP 2013). Macrolídeos não são recomendados pela alta resistência do pneumococo.",
+  "porAlt": [
+   "Claritromicina não é primeira linha pela alta resistência do pneumococo aos macrolídeos.",
+   "Cefixima tem atividade fraca contra pneumococo e não é recomendada como primeira escolha.",
+   "Azitromicina não é indicada pela resistência pneumocócica; fica só para alergia grave sem alternativa.",
+   "Correta: amoxicilina é a primeira escolha na rinossinusite bacteriana aguda da criança.",
+   "Cefalexina não cobre bem Haemophilus nem Moraxella e não é usada em sinusite."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 64
+  }
+ },
+ {
+  "pid": "p24065",
+  "q": "Um adolescente com 11 anos apresentou tosse produtiva, secreção hialina nasal e febre que duraram cerca de quatro dias. Na sequência, surgiu conjuntivite e prostração, vindo em seguida exantema eritematoso maculopapular, inicialmente retroauricular, progredindo caudalmente, seguindo-se de descamação furfurácea. O diagnóstico mais provável é:",
+  "alts": [
+   "sarampo;",
+   "dengue;",
+   "rubéola;",
+   "escarlatina;",
+   "exantema súbito."
+  ],
+  "gab": 0,
+  "tema": "pedinfecto",
+  "sub": "Sarampo: quadro clínico",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "O sarampo começa com pródromo de febre alta, tosse, coriza e conjuntivite por 3 a 5 dias, podendo aparecer manchas de Koplik. Segue-se exantema maculopapular que se inicia na região retroauricular e na face e progride em sentido craniocaudal, acompanhado de prostração. Na resolução há descamação fina, furfurácea. É doença de notificação imediata (Guia de Vigilância em Saúde, 2023), com bloqueio vacinal dos contatos. A sequência pródromo catarral, exantema craniocaudal e descamação furfurácea é típica.",
+  "porAlt": [
+   "Correta: pródromo catarral com conjuntivite, exantema craniocaudal e descamação furfurácea definem sarampo.",
+   "Dengue não tem pródromo catarral; o exantema surge na defervescência, com dor retro-orbitária e mialgia.",
+   "Rubéola tem quadro leve, com linfonodos retroauriculares e occipitais, sem prostração nem descamação.",
+   "Escarlatina causa exantema áspero com descamação lamelar em mãos e pés, após faringite.",
+   "Exantema súbito ocorre em lactentes: febre alta por 3 dias e exantema após a febre ceder."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 65
+  }
+ },
+ {
+  "pid": "p24066",
+  "q": "Um escolar com 4 anos, em acompanhamento no ambulatório de pediatria, apresenta lesões de eczema subagudo e crônico, com pele áspera e seca, localizadas em pregas antecubitais e poplíteas, resultando no espessamento das linhas naturais e formação de crostas hemáticas. No momento as lesões estão úmidas, com presença de crostas amareladas (melicéricas). Considerando essa lesão em seu momento atual, o provável agente etiológico é:",
+  "alts": [
+   "Herpes simplex vírus;",
+   "Candida albicans;",
+   "Staphylococcus aureus;",
+   "Papilomavírus humano;",
+   "Streptococcus pyogenes."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Dermatite atópica impetiginizada",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Na dermatite atópica a barreira cutânea é defeituosa e a pele é colonizada por Staphylococcus aureus em grande parte das crianças. Quando as lesões ficam úmidas, exsudativas e com crostas melicéricas (cor de mel), houve infecção secundária, ou impetiginização, cujo agente principal é o S. aureus. O Streptococcus pyogenes também causa impetigo, mas é menos frequente nesse contexto. O herpes simples provoca o eczema herpético, com vesículas e erosões em saca-bocado, não crostas melicéricas.",
+  "porAlt": [
+   "O herpes simples causa eczema herpético, com vesículas agrupadas e erosões, não crostas melicéricas.",
+   "Candida causa lesões eritematosas com satélites em dobras, não crostas cor de mel.",
+   "Correta: Staphylococcus aureus é o principal agente da impetiginização na dermatite atópica.",
+   "O papilomavírus causa verrugas, não infecção exsudativa com crostas.",
+   "O estreptococo pode causar impetigo, mas na dermatite atópica o agente predominante é o estafilococo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 66
+  }
+ },
+ {
+  "pid": "p24067",
+  "q": "Em consulta de puericultura de um recém-nascido com 15 dias de vida que nasceu no próprio domicílio, foi observada a ausência de vacinas, assim como dos testes de triagem neonatal. Durante a consulta, o responsável foi orientado quanto à vacinação e à triagem neonatal. Após a realização do teste do reflexo vermelho, recebeu a orientação de que este deverá ser repetido ao menos:",
+  "alts": [
+   "quatro vezes ao ano no primeiro ano de vida;",
+   "três vezes ao ano nos primeiros três anos de vida;",
+   "duas vezes ao ano nos primeiros dois anos de vida;",
+   "seis vezes ao ano nos primeiros dois anos de vida;",
+   "uma vez ao ano nos primeiros quatro anos de vida."
+  ],
+  "gab": 1,
+  "tema": "puericultura",
+  "sub": "Periodicidade do teste do reflexo vermelho",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Diretrizes de Atenção à Saúde Ocular na Infância, 2ª ed., 2016; Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "O teste do reflexo vermelho (teste do olhinho) rastreia doenças que opacificam os meios oculares, como catarata congênita, glaucoma congênito e retinoblastoma. Deve ser feito antes da alta da maternidade, ou na primeira consulta quando o parto foi domiciliar, e repetido periodicamente porque algumas doenças surgem ou progridem depois do nascimento. A recomendação brasileira é repetir o teste nas consultas de rotina, cerca de três vezes ao ano, nos primeiros três anos de vida (MS 2016, SBP).",
+  "porAlt": [
+   "Quatro vezes ao ano só no primeiro ano encurta o período de rastreamento, que vai até os 3 anos.",
+   "Correta: o teste deve ser repetido cerca de três vezes ao ano nos primeiros três anos de vida.",
+   "Limitar a dois anos deixa descoberto o terceiro ano, ainda incluído no rastreamento.",
+   "Seis vezes ao ano é frequência maior que a recomendada e limitada a dois anos.",
+   "Uma vez ao ano é insuficiente para a detecção precoce de retinoblastoma e catarata."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 67
+  }
+ },
+ {
+  "pid": "p24068",
+  "q": "Um lactente com 5 meses de vida levado à consulta de puericultura apresenta exame físico normal. Na avaliação do desenvolvimento, é esperado que o paciente:",
+  "alts": [
+   "brinque com os pés;",
+   "agite os brinquedos;",
+   "apoie-se nos pés e nas mãos;",
+   "pare de chorar diante de voz conhecida;",
+   "apresente desconexão de movimentos de mãos e pés. "
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Marcos do desenvolvimento aos 5 meses",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "CDC/AAP. Evidence-Informed Milestones for Developmental Surveillance Tools (Pediatrics), 2022; Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Nas consultas de vigilância do desenvolvimento pergunta-se o que é esperado, ou seja, marcos que a grande maioria das crianças já atingiu naquela idade. Acalmar-se ou parar de chorar ao ouvir a voz de um cuidador conhecido é aquisição dos primeiros meses e já está presente aos 5 meses. Brincar com os pés e agitar brinquedos aparecem em torno de 5 a 7 meses, ainda não esperados para todas as crianças. Apoiar-se em mãos e pés (posição de gatinho) vem por volta de 8 a 9 meses.",
+  "porAlt": [
+   "Pegar e brincar com os pés surge por volta de 5 a 6 meses e ainda não é esperado para todos aos 5 meses.",
+   "Agitar brinquedos de propósito é aquisição de cerca de 6 meses, não esperada para todos aos 5.",
+   "Apoiar-se em mãos e pés, preparando o engatinhar, ocorre por volta de 8 a 9 meses.",
+   "Correta: parar de chorar ao ouvir voz conhecida é aquisição precoce e já esperada aos 5 meses.",
+   "Movimentos desorganizados de mãos e pés são próprios do recém-nascido, não de 5 meses."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 68
+  }
+ },
+ {
+  "pid": "p24069",
+  "q": "Uma primípara, com acompanhamento pré-natal com três consultas, dá à luz recém-nascido a termo, masculino, com peso de 3,010 g, parto normal, Apgar 9/9. No exame físico é observada fissura labial sem fenda palatina. A conduta imediata a ser tomada é a de:",
+  "alts": [
+   "amamentação direta no seio;",
+   "dieta por sonda nasogástrica;",
+   "utilização de copo e leite materno;",
+   "oferta da dieta na mamadeira;",
+   "suspensão de toda a alimentação."
+  ],
+  "gab": 0,
+  "tema": "neonato",
+  "sub": "Alimentação na fissura labial isolada",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, vol. 1, 2ª ed., 2014",
+  "coment": "Na fissura labial sem fenda palatina o palato está íntegro e a sucção consegue gerar pressão negativa, porque o tecido mamário ocupa a falha do lábio e veda a boca. Assim, o recém-nascido estável, com Apgar 9/9, deve ser colocado ao seio desde a sala de parto, com ajuda na pega e posição mais vertical. O aleitamento materno direto é possível e recomendado (MS 2014). Copo, sonda ou mamadeira ficam para quando a amamentação direta não for efetiva, mais comum nas fendas palatinas.",
+  "porAlt": [
+   "Correta: com palato íntegro a sucção é eficaz e o recém-nascido deve mamar diretamente no seio.",
+   "Sonda nasogástrica é desnecessária se a criança consegue sugar e mamar no peito.",
+   "O copo é alternativa quando a amamentação direta falha, não conduta imediata na fissura labial isolada.",
+   "Mamadeira prejudica o aleitamento e não é necessária na fissura labial sem fenda palatina.",
+   "Suspender a alimentação não tem justificativa em um recém-nascido estável."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 69
+  }
+ },
+ {
+  "pid": "p24070",
+  "q": "Um adolescente masculino de 11 anos comparece à consulta com pediatra. Na anamnese, há referência a demora para andar – o que, segundo a mãe, teria ocorrido quase aos 3 anos – e a fraqueza. Quando o paciente se deitou na maca para ser examinado, o pediatra percebeu marcha anserina e lordose lombar importante. O paciente apresentou dificuldade em subir os degraus da escada de acesso à maca. No exame físico foram observados hipertrofia de panturrilhas e levantar miopático. O exame laboratorial a ser solicitado de imediato é a dosagem de:",
+  "alts": [
+   "amônia sérica;",
+   "creatinoquinase;",
+   "eletrólitos séricos;",
+   "enzimas hepáticas;",
+   "proteína C reativa."
+  ],
+  "gab": 1,
+  "tema": "pedgeral",
+  "sub": "Distrofia muscular de Duchenne",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Birnkrant DJ et al. Diagnosis and management of Duchenne muscular dystrophy (DMD Care Considerations), Lancet Neurol, 2018",
+  "coment": "Menino com atraso da marcha, fraqueza proximal, marcha anserina, hiperlordose, dificuldade para subir escadas, pseudo-hipertrofia de panturrilhas e sinal de Gowers (levantar miopático) tem quadro típico de distrofia muscular de Duchenne, ligada ao X. O primeiro exame é a creatinoquinase, muito elevada (10 a 100 vezes o normal) desde os primeiros anos. Depois confirma-se com teste genético do gene DMD (Care Considerations 2018). A mesma abordagem vale para a distrofia de Becker, de evolução mais lenta.",
+  "porAlt": [
+   "Amônia avalia erros inatos do ciclo da ureia e hepatopatia, não miopatia.",
+   "Correta: a creatinoquinase muito elevada é o primeiro exame diante de suspeita de distrofia muscular.",
+   "Eletrólitos não esclarecem fraqueza proximal crônica com pseudo-hipertrofia de panturrilhas.",
+   "Transaminases podem subir por origem muscular, mas o exame dirigido e inicial é a creatinoquinase.",
+   "Proteína C reativa avalia inflamação e não ajuda no diagnóstico de distrofia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 70
+  }
+ },
+ {
+  "pid": "p24071",
+  "q": "Uma lactente de 18 meses é levada à emergência com história de febre há 2 dias. Quando a temperatura sobe, fica um pouco parada, voltando a ficar bem quando a temperatura se aproxima novamente de 36,5 °C. O responsável nega outros sintomas. As vacinas estão em dia. Exame físico: sem qualquer alteração. Para que se trace a conduta adequada a essa criança, os quesitos fundamentais a serem avaliados, além da idade, são:",
+  "alts": [
+   "a temperatura axilar, o exame físico e o leucograma;",
+   "o estado geral, o exame físico e o exame de urocultura;",
+   "o estado vacinal, a temperatura axilar e o leucograma;",
+   "o estado geral, o estado vacinal e exame de urocultura;",
+   "o exame físico, o estado geral da criança e o leucograma."
+  ],
+  "gab": 3,
+  "tema": "pedinfecto",
+  "sub": "Febre sem sinais localizatórios",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022; American Academy of Pediatrics. Urinary Tract Infection Clinical Practice Guideline, 2011 (reafirmada 2016)",
+  "coment": "Na febre sem sinais localizatórios a estratificação de risco se apoia na idade, no estado geral (aparência toxêmica ou não), no estado vacinal e na pesquisa de infecção urinária. Com vacinação completa contra pneumococo e Haemophilus, a bacteremia oculta ficou rara, e a infecção urinária passou a ser a principal infecção bacteriana grave nessa faixa, por isso exame de urina com urocultura é obrigatório. Criança de 18 meses em bom estado, vacinada e com urina normal pode ser acompanhada sem antibiótico.",
+  "porAlt": [
+   "A altura da temperatura e o leucograma têm valor limitado; faltam o estado vacinal e a urina.",
+   "Estado geral e urocultura são essenciais, mas o estado vacinal é que define o risco de bacteremia oculta.",
+   "O leucograma isolado tem baixo valor e a temperatura não substitui a avaliação do estado geral.",
+   "Correta: estado geral, estado vacinal e urocultura são os pilares da conduta na febre sem foco.",
+   "Falta o estado vacinal e a urina; o leucograma sozinho tem baixo valor preditivo."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 71
+  }
+ },
+ {
+  "pid": "p24072",
+  "q": "Um pré-escolar masculino com 4 anos, portador de doença falciforme, é levado à emergência com febre, tosse e dor abdominal iniciadas quase 24 horas antes. O exame físico mostra o estado geral regular, hipocorado 3+/4+, ictérico 1+/4+, boa perfusão periférica, taquidispneico, temperatura 38 °C, sat O2 90% em ar ambiente; ausculta respiratória com sibilos esparsos e cardíaca com ritmo em 2T, bulhas normofonéticas com sopro holossistólico 2+/4+; a palpação do abdômen mostrou o fígado a 1 cm do RCD e o baço a 2 cm do RCE. Radiografia de tórax mostrou infiltrado pulmonar. A conduta é:",
+  "alts": [
+   "analgesia, hidratação e antibiótico via oral;",
+   "internação, hidratação rigorosa e analgesia;",
+   "hidratação, salbutamol e antibiótico venoso;",
+   "internação, analgesia e antibiótico venoso;",
+   "internação, corticoide e antibiótico via oral."
+  ],
+  "gab": 3,
+  "tema": "pedemerg",
+  "sub": "Síndrome torácica aguda na doença falciforme",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Doença falciforme: condutas básicas para tratamento, 2012",
+  "coment": "Febre, tosse, dor, hipoxemia (saturação de 90%), sibilos e infiltrado pulmonar novo em criança falciforme definem síndrome torácica aguda, principal causa de morte na doença. A conduta é internar, dar oxigênio, analgesia adequada (a dor torácica leva a hipoventilação), antibiótico venoso com cobertura para pneumococo e atípicos (cefalosporina de terceira geração com macrolídeo), espirometria de incentivo e transfusão conforme hemoglobina e gravidade (MS 2012). A hidratação deve ser cuidadosa, sem excesso, pelo risco de edema pulmonar.",
+  "porAlt": [
+   "Antibiótico oral e tratamento ambulatorial são insuficientes para síndrome torácica aguda com hipoxemia.",
+   "Falta o antibiótico, e a hidratação deve ser cuidadosa, não rigorosa, pelo risco de edema pulmonar.",
+   "Salbutamol pode ajudar se houver broncoespasmo, mas falta a internação, e hidratação vigorosa é arriscada.",
+   "Correta: internação, analgesia e antibiótico venoso são pilares do tratamento da síndrome torácica aguda.",
+   "Corticoide tem papel restrito e aumenta o risco de crise vaso-oclusiva de rebote; o antibiótico deve ser venoso."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 72
+  }
+ },
+ {
+  "pid": "p24073",
+  "q": "Um recém-nascido feminino apresentou, aos 2 meses, lesões eritematosas anulares e levemente descamativas em face, tronco e membros, chamando atenção as lesões periorbitárias. Submetida a exames, o hemograma evidenciou anemia, leucopenia, neutropenia e plaquetopenia; sorologias virais negativas. As triagens neonatais foram normais. Foi constatado bloqueio cardíaco congênito de 2º grau. Não há relato de doença materna, o pré-natal foi feito corretamente e os exames foram normais. Esses sintomas estão relacionados principalmente aos anticorpos:",
+  "alts": [
+   "anti-U1RNP e ANCA;",
+   "anti-dsDNA e anti-MCV;",
+   "ASCA e fator antinuclear;",
+   "anti-CPP e antiqueratina;",
+   "anti-Ro/SSA e anti-La/SSB."
+  ],
+  "gab": 4,
+  "tema": "neonato",
+  "sub": "Lúpus neonatal",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Lesões anulares eritematodescamativas na face, sobretudo periorbitárias (aspecto de olhos de guaxinim), citopenias e bloqueio cardíaco congênito no lactente pequeno caracterizam o lúpus neonatal. Ele resulta da passagem transplacentária de anticorpos maternos anti-Ro/SSA e anti-La/SSB, que lesam o tecido de condução cardíaco fetal. A mãe é frequentemente assintomática, como no enunciado, e pode ter lúpus ou síndrome de Sjögren não diagnosticados. Pele e sangue melhoram em meses, mas o bloqueio cardíaco é permanente.",
+  "porAlt": [
+   "Anti-U1RNP marca a doença mista do tecido conjuntivo, e ANCA as vasculites, não o lúpus neonatal.",
+   "Anti-dsDNA é marcador de lúpus sistêmico e anti-MCV de artrite reumatoide, não do lúpus neonatal.",
+   "ASCA é marcador de doença de Crohn, e o FAN isolado é inespecífico.",
+   "Anti-CCP e antiqueratina são marcadores de artrite reumatoide.",
+   "Correta: anti-Ro/SSA e anti-La/SSB maternos causam lúpus neonatal e bloqueio cardíaco congênito."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 73
+  }
+ },
+ {
+  "pid": "p24074",
+  "q": "Um pré-escolar com 2 anos e 8 meses apresentou alteração em seu comportamento. Rapidamente regrediu, deixando de falar, evitando contato com outras pessoas, à exceção de uma prima, não correspondendo a afetos e fugindo do contato visual. Passou a apresentar comportamentos repetitivos, ficando todo o tempo com o mesmo objeto (uma chave de armário), alinhando brinquedos, não aceitando mudanças e mostrando-se seletivo em relação à alimentação. Nesse caso, a associação correta é:",
+  "alts": [
+   "estereotipias: estar sempre com um mesmo objeto;",
+   "déficit da linguagem corporal: evitar outras pessoas;",
+   "comportamento ritualizado: não aceitar mudanças;",
+   "interesses fixos e anormais: alimentação seletiva;",
+   "déficits de comunicação: contato apenas com a prima."
+  ],
+  "gab": 2,
+  "tema": "psiqinf",
+  "sub": "Critérios do transtorno do espectro autista",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022",
+  "coment": "O DSM-5-TR define o transtorno do espectro autista por déficits persistentes na comunicação e interação social e por padrões restritos e repetitivos de comportamento, interesses ou atividades. Esse segundo domínio tem quatro itens: movimentos ou fala estereotipados; insistência na mesmice, adesão inflexível a rotinas e comportamento ritualizado; interesses fixos e intensos; e hiper ou hiporreatividade sensorial. Não aceitar mudanças é exemplo clássico de insistência na mesmice e comportamento ritualizado.",
+  "porAlt": [
+   "Ficar sempre com o mesmo objeto é apego a objeto, interesse restrito, e não estereotipia motora.",
+   "Evitar pessoas reflete déficit de reciprocidade socioemocional, não de linguagem corporal.",
+   "Correta: não aceitar mudanças corresponde à insistência na mesmice e ao comportamento ritualizado.",
+   "Seletividade alimentar se relaciona a alterações sensoriais ou rigidez, não a interesse fixo.",
+   "Manter contato apenas com a prima reflete déficit de interação social, não de comunicação."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 74
+  }
+ },
+ {
+  "pid": "p24075",
+  "q": "Um lactente com 6 meses é levado à unidade de saúde para vacinação, seguindo o Programa Nacional de Imunização. Em sua caderneta, consta terem sido feitas as seguintes vacinas: BCG; hepatite B; duas doses da vacina Penta; uma dose da vacina VIP; duas doses da vacina Pneumo 10; duas doses da vacina contra rotavírus; uma dose da vacina Meningo C. É explicado para o responsável que não foram feitas:",
+  "alts": [
+   "uma dose da Penta e duas da VIP;",
+   "uma dose da Penta e duas da Meningo C;",
+   "uma dose da hepatite B e uma da VIP;",
+   "uma dose da VIP e uma da Meningo C;",
+   "duas doses da hepatite B e uma da Pneumo 10."
+  ],
+  "gab": 3,
+  "tema": "puericultura",
+  "sub": "Calendário vacinal até 6 meses",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Calendário Nacional de Vacinação da Criança (PNI), 2026",
+  "coment": "Pelo calendário do PNI, até os 5 meses a criança deve ter: BCG e hepatite B ao nascer; Penta, VIP, pneumocócica 10 e rotavírus aos 2 e 4 meses; meningocócica C aos 3 e 5 meses. Aos 6 meses aplica-se a terceira dose de Penta e de VIP. A caderneta mostra duas Penta (em dia), duas pneumo e duas rotavírus (completas), mas só uma VIP e uma meningo C. Faltam, portanto, a VIP dos 4 meses e a meningo C dos 5 meses, que devem ser feitas junto às doses previstas para os 6 meses.",
+  "porAlt": [
+   "As duas doses de Penta previstas até 5 meses foram feitas; a terceira é a do dia, e faltou a meningo C.",
+   "A Penta está em dia e falta apenas uma dose de meningo C, não duas.",
+   "A hepatite B ao nascer foi feita e as doses seguintes vêm na Penta; faltou a meningo C.",
+   "Correta: faltam a VIP dos 4 meses e a meningo C dos 5 meses.",
+   "A hepatite B e a pneumo 10 estão completas para a idade."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 75
+  }
+ },
+ {
+  "pid": "p24077",
+  "q": "Um escolar, 5 anos, masculino, é levado à emergência apresentando dor abdominal forte, de início súbito, intermitente, que, quando ocorre, leva à posição antálgica e causa vômitos. Ao exame físico mostra-se em bom estado geral, com massa palpável em abdômen superior, mal definida e dolorosa. Foi realizada radiografia simples do abdômen, que mostrou área de densidade aumentada em epigástrio e ultrassonografia, com imagem tubular transversalmente e longitudinalmente em alvo. Considerando a principal hipótese diagnóstica, a localização mais comumente encontrada desse acometimento é:",
+  "alts": [
+   "ileal;",
+   "ileocólica;",
+   "cecocólica;",
+   "jejunoileal;",
+   "colônica."
+  ],
+  "gab": 1,
+  "tema": "especialidades",
+  "sub": "Intussuscepção intestinal",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Dor abdominal súbita e intermitente em cólica com vômitos, massa abdominal palpável e imagem em alvo (ou pseudorrim) na ultrassonografia indicam intussuscepção. A forma mais comum é a ileocólica, em que o íleo terminal invagina pela válvula ileocecal para o cólon, correspondendo a cerca de 80 a 90% dos casos. Em crianças acima de 3 a 5 anos deve-se pesquisar ponto de tração, como divertículo de Meckel, pólipo ou linfoma. O tratamento inicial é a redução por enema guiado por imagem, se não houver peritonite.",
+  "porAlt": [
+   "A intussuscepção ileoileal é rara e ocorre mais com ponto de tração ou no pós-operatório.",
+   "Correta: a forma ileocólica, com o íleo invaginando pela válvula ileocecal, é a mais frequente.",
+   "A forma cecocólica é incomum em relação à ileocólica.",
+   "A invaginação jejunoileal é rara, associada a pólipos ou púrpura de Henoch-Schönlein.",
+   "A forma colocólica é rara na infância."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 77
+  }
+ },
+ {
+  "pid": "p24078",
+  "q": "Escolar, 5 anos, masculino, apresentando disúria, foi medicado com sulfametoxazol + trimetoprim em serviço de emergência. Após 48 horas, surgiu icterícia, retornando o paciente à emergência. Exames laboratoriais: Hg: 8%, reticulocitose; exame de urina: hemoglobinúria. O mecanismo fisiopatológico da principal hipótese diagnóstica é:",
+  "alts": [
+   "reação antígeno-anticorpo;",
+   "lesão do imune endotelial;",
+   "dano à membrana celular;",
+   "alteração do formato celular;",
+   "microangiopatia trombótica."
+  ],
+  "gab": 2,
+  "tema": "pedgeral",
+  "sub": "Hemólise na deficiência de G6PD",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Anemia, reticulocitose, icterícia e hemoglobinúria 48 horas após sulfametoxazol com trimetoprima em menino indicam hemólise aguda por deficiência de glicose-6-fosfato desidrogenase, de herança ligada ao X. Sem a enzima, a hemácia não gera NADPH suficiente para manter o glutationa reduzido e fica vulnerável ao estresse oxidativo. A hemoglobina oxidada precipita (corpúsculos de Heinz) e ocorre dano oxidativo à membrana, com hemólise intravascular e extravascular. Sulfas, nitrofurantoína, primaquina e fava são gatilhos clássicos.",
+  "porAlt": [
+   "Reação antígeno-anticorpo é o mecanismo da anemia hemolítica autoimune ou aloimune, não da G6PD.",
+   "Lesão endotelial imune não explica hemólise desencadeada por fármaco oxidante.",
+   "Correta: o estresse oxidativo sem proteção do NADPH lesa a membrana da hemácia, causando hemólise.",
+   "Alteração do formato celular é o mecanismo da esferocitose e da anemia falciforme.",
+   "Microangiopatia trombótica ocorre na síndrome hemolítico-urêmica, com esquizócitos e plaquetopenia."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 78
+  }
+ },
+ {
+  "pid": "p24079",
+  "q": "Escolar, 5 anos, masculino, vem apresentando diarreia e distensão abdominal intermitentemente. Realizou o teste do hidrogênio espirado com lactulose, que foi positivo. Exames laboratoriais mostram dosagem de vitamina B12 sérica diminuída e aumento do folato sérico. Esses achados podem estar relacionados a:",
+  "alts": [
+   "defeitos anatômicos do intestino e aumento da motilidade;",
+   "erros inatos da imunidade e diminuição do pH do estômago;",
+   "presença de divertículos intestinais e aumento da motilidade;",
+   "pseudo-obstrução intestinal e aumento do pH do estômago;",
+   "uso de inibidores de bomba de prótons e aumento de motilidade."
+  ],
+  "gab": 3,
+  "tema": "pedgeral",
+  "sub": "Supercrescimento bacteriano no intestino delgado",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Sociedade Brasileira de Pediatria. Tratado de Pediatria, 5ª ed., 2022",
+  "coment": "Diarreia e distensão com teste do hidrogênio expirado positivo, vitamina B12 baixa e folato alto caracterizam supercrescimento bacteriano no intestino delgado: as bactérias consomem a B12 e produzem folato. Os fatores que favorecem o supercrescimento são estase (dismotilidade, como na pseudo-obstrução intestinal, alças cegas, estenoses e divertículos) e perda da barreira ácida (hipocloridria, uso de inibidor de bomba de prótons, com aumento do pH gástrico), além de imunodeficiências. Motilidade aumentada protege contra o supercrescimento.",
+  "porAlt": [
+   "Defeitos anatômicos favorecem o supercrescimento, mas por estase, não por aumento da motilidade.",
+   "Imunodeficiências predispõem, mas a acidez gástrica diminuída (pH aumentado) é que favorece, não o pH baixo.",
+   "Divertículos favorecem por estase; motilidade aumentada protege contra o supercrescimento.",
+   "Correta: a dismotilidade da pseudo-obstrução e o pH gástrico elevado favorecem o supercrescimento bacteriano.",
+   "O inibidor de bomba de prótons predispõe, mas a motilidade aumentada não; a estase é o fator."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 79
+  }
+ },
+ {
+  "pid": "p24080",
+  "q": "Um adolescente de 16 anos, masculino, sexualmente ativo com a namorada, apresenta duas lesões ulceradas, dolorosas, com bordos irregulares e eritemato-edematosas, cobertas por exsudato amarelado e de odor fétido, localizadas no sulco bálano prepucial; as lesões sangram facilmente. Há presença de linfadenomegalia inguino-crural dolorosa à direita. Em consulta com o hebiatra, foi medicado com dose única de 1 g de azitromicina. Em relação à atividade sexual do casal, o paciente deve ser informado de que:",
+  "alts": [
+   "deve suspender as relações e observar se a namorada apresentará doença;",
+   "pode manter relações a partir do início do tratamento;",
+   "deve aguardar a melhora da dor para voltar a ter relações sexuais;",
+   "deve triar laboratorialmente a namorada antes de retornarem às relações;",
+   "deve aguardar 1 a 2 semanas após o uso do medicamento para ter relações.   "
+  ],
+  "gab": 4,
+  "tema": "pedgeral",
+  "sub": "Cancroide no adolescente",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022",
+  "coment": "Úlceras genitais múltiplas, dolorosas, de bordas irregulares, fundo sujo e odor fétido, com adenopatia inguinal dolorosa, são típicas do cancroide (Haemophilus ducreyi). O PCDT IST 2022 indica azitromicina 1 g em dose única, tratamento das parcerias sexuais e testagem para HIV, sífilis e hepatites. As lesões melhoram em 3 a 7 dias e cicatrizam em 1 a 2 semanas; a orientação é abster-se de relações sexuais até a cicatrização completa, o que corresponde a 1 a 2 semanas após o tratamento, e usar preservativo depois.",
+  "porAlt": [
+   "A parceira deve ser tratada mesmo sem sintomas, não apenas observada.",
+   "Manter relações com úlceras ativas transmite a infecção e facilita a aquisição de HIV.",
+   "A melhora da dor não significa cicatrização; a abstinência vai até as lesões fecharem.",
+   "A parceira deve receber tratamento independentemente de exames; triar antes atrasa a conduta.",
+   "Correta: deve-se aguardar a cicatrização, cerca de 1 a 2 semanas após o tratamento, para retomar relações."
+  ],
+  "fonte": {
+   "banca": "ENARE pré-requisito (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE 2024/2025 pré-requisito em Pediatria",
+   "ex": "enare24ped",
+   "n": 80
+  }
+ }
+]
