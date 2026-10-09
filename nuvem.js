@@ -186,6 +186,9 @@ function boot(){
     legado,
     limparLocal,
     aoEntrar(u){
+      /* compra: confere se a conta tem acesso ao flashmed (planos.json + claims mt). Sem checkout no
+         catálogo libera tudo; falha de rede/servidor não trava. Sem acesso, cobre o app com a tela de assinatura. */
+      if(window.MTAcesso)MTAcesso.verificar({appId:"flashmed",user:u,signOut:()=>MTS.sair()}).catch(()=>{});
       leCoord().then(()=>{if((ST.cfg||{}).aba==="ajustes")pintaAjustes()});
       pintaChip();
       if((ST.cfg||{}).aba==="ajustes")pintaAjustes();
