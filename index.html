@@ -21,7 +21,7 @@ if(t==="claro"||t==="escuro")document.documentElement.setAttribute("data-tema",t
 </script>
 <!-- conta + sincronização (cópia de ~/Documents/Claude/_mtsync/mtsync.js). Síncrono no <head>:
      o portão cobre a tela antes do primeiro pixel do app e só sai com a conta confirmada. -->
-<script src="mtsync.js?v=5"></script>
+<script src="mtsync.js?v=6"></script>
 <!-- gramática visual do ecossistema: tokens da raiz do site + ícones Tabler (nunca emoji) -->
 <link rel="stylesheet" href="/_mttokens.css?v=2">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3/dist/tabler-icons.min.css">
@@ -1163,18 +1163,19 @@ label.cmp:has(>.mtt-btn){min-width:min(260px,100%);max-width:100%}
 </main>
 <div class="faixas" id="faixas"></div>
 
-<script src="taxonomia.js?v=5"></script>
-<script src="provas.js?v=5"></script>
-<script src="banco.js?v=5"></script>
-<script src="exames.js?v=5"></script>
-<script src="flash.js?v=5"></script>
-<script src="leituras.js?v=5"></script>
-<script src="indice-leituras.js?v=5"></script>
-<script src="migra.js?v=5"></script>
+<script src="taxonomia.js?v=6"></script>
+<script src="provas.js?v=6"></script>
+<script src="banco.js?v=6"></script>
+<script src="exames.js?v=6"></script>
+<script src="flash.js?v=6"></script>
+<script src="leituras.js?v=6"></script>
+<script src="indice-leituras.js?v=6"></script>
+<script src="migra.js?v=6"></script>
 <script src="/_mtacesso.js?v=1"></script>   <!-- acesso por produto comprado (raiz do site); sem checkout no planos.json, libera tudo -->
-<script src="nuvem.js?v=5"></script>
-<script src="mtfiltro.js?v=5"></script>
-<script src="mtsinal.js?v=5"></script>
+<script src="nuvem.js?v=6"></script>
+<script src="mtfiltro.js?v=6"></script>
+<script src="mtsinal.js?v=6"></script>
+<script src="mterrata.js?v=6"></script>
 <script>
 "use strict";
 const V="2.0.0", PREF="fl_";
@@ -1200,6 +1201,8 @@ const chaveQ=q=>chaveTxt(q.q);
 function ordemAlts(q){
   if(q._ord)return q._ord;
   const n=q.alts.length, idx=[...Array(n).keys()];
+  /* gabarito -1 = anulada pela revisão (errata): sem correta, a tela mostra a ordem do banco */
+  if(!(q.gab>=0&&q.gab<n)){q._ord=idx;q._pos=idx.slice();return q._ord}
   let alvo=q.gab;
   if(!q.fonte&&n===5){let h=0;for(const c of q._ch)h=(h*31+c.charCodeAt(0))>>>0;alvo=h%5}
   const outras=idx.filter(i=>i!==q.gab);
@@ -1207,9 +1210,9 @@ function ordemAlts(q){
   q._pos=[];q._ord.forEach((orig,p)=>q._pos[orig]=p);
   return q._ord;
 }
-const letraDe=(q,j)=>{ordemAlts(q);return LETRAS[q._pos[j]]};
+const letraDe=(q,j)=>{if(!(j>=0))return "anulada";ordemAlts(q);return LETRAS[q._pos[j]]};
 
-const BANCO=window.BANCO||[], TAX=window.TAXONOMIA||[], CEN=window.CENARIOS||[], COMP=window.COMPETENCIAS||[],
+const BANCO_BASE=window.BANCO||[], TAX=window.TAXONOMIA||[], CEN=window.CENARIOS||[], COMP=window.COMPETENCIAS||[],
       NIVEIS=window.NIVEIS||[], PROVAS=window.PROVAS||[], FLASH=window.FLASH||[], PRATICA=window.PRATICA||[],
       LEITURAS=window.LEITURAS||[], GRANDES=window.GRANDES||[], EXAMES=window.EXAMES||[];
 /* FlashMed: duas camadas de área. `q.tema` é a subárea (taxonomia.js); GDE[tema] é a grande área
@@ -1217,8 +1220,37 @@ const BANCO=window.BANCO||[], TAX=window.TAXONOMIA||[], CEN=window.CENARIOS||[],
 const GDE=Object.fromEntries((window.TAXONOMIA||[]).map(t=>[t.id,t.grande]));
 const NOMEG=Object.fromEntries(GRANDES.map(g=>[g.id,g.nome]));
 const CORG=Object.fromEntries(GRANDES.map(g=>[g.id,g.cor]));
-const QIDX=new Map();
-BANCO.forEach(q=>{const ch=chaveQ(q); if(QIDX.has(ch))console.warn("COLISÃO de chave:",ch,q.q.slice(0,60)); QIDX.set(ch,q); q._ch=ch});
+/* chave pelo enunciado ORIGINAL do banco, antes de qualquer errata: é ela que guarda o progresso */
+const QBASE=new Map();
+BANCO_BASE.forEach(q=>{const ch=chaveQ(q); if(QBASE.has(ch))console.warn("COLISÃO de chave:",ch,q.q.slice(0,60)); QBASE.set(ch,q); q._ch=ch});
+/* ---------- erratas da administração (mterrata.js, 10/10/2026; mesma integração do ClínicaMed) ----------
+   Questão corrigida no painel chega com os campos novos (o original fica guardado no objeto e volta
+   se a errata for desfeita). Questão tirada do ar some da EXIBIÇÃO: BANCO e QIDX são a vista das
+   visíveis; window.BANCO (o array base) não perde nada e o progresso dela fica guardado como está.
+   O progresso é por CHAVE (q._ch), nunca por posição: nada grava índice desta vista. */
+const BANCO=[], QIDX=new Map();
+const CAMPOS_ERR={enunciado:"q",alternativas:"alts",gabarito:"gab",comentario:"coment",porAlt:"porAlt"};
+function aplicaErratas(m,er){
+  if(window.MTErrata)BANCO_BASE.forEach(q=>{if(MTErrata.aplicaCampos(q,m.get(q._ch),CAMPOS_ERR)){delete q._ord;delete q._pos}});
+  const vis=BANCO_BASE.filter(q=>!er.oculta(q._ch));
+  BANCO.splice(0,BANCO.length,...vis);QIDX.clear();vis.forEach(q=>QIDX.set(q._ch,q));
+}
+const ER=window.MTErrata?MTErrata.cria({app:"flashmed",nome:"FlashMed",
+  token:()=>typeof MTS!=="undefined"&&MTS.usuario&&MTS.usuario.getIdToken(),
+  aplica:aplicaErratas,
+  /* lista nova da rede: refaz as contagens e redesenha a aba, menos no meio de uma resposta (com o comentário aberto) */
+  depois:()=>{recontaBanco();if(!document.querySelector("#fb .coment"))repinta()},
+  abreQuestao:ch=>{if(!QIDX.has(ch))return UI.banner("avi","Essa questão foi retirada do ar pela revisão.");
+    abreQuestaoEm({area:"",areas:[],cen:"",comp:"",niv:"",modo:"todas",proc:""},ch)}})
+  :(aplicaErratas(new Map(),{oculta:()=>false}),{oculta:()=>false,gabaritoMudou:()=>false,selo:()=>"",mapa:new Map()});
+/* acerto pela alternativa marcada (índice no banco); anulada pela revisão (gabarito -1): qualquer resposta vale */
+const acerta=(q,j)=>q.gab<0?typeof j==="number":j===q.gab;
+/* resposta antiga reavaliada pelo gabarito corrigido (h.alt é o índice no banco); o histórico salvo não muda */
+const okH=(q,h)=>q&&h&&typeof h.alt==="number"&&ER.gabaritoMudou(q._ch)?acerta(q,h.alt):!!(h&&h.ok);
+/* percorre o histórico salvo, sem as questões tiradas do ar */
+function cadaResposta(fn){Object.entries(ST.resp).forEach(([ch,r])=>{if(ER.oculta(ch))return;const q=QIDX.get(ch);((r&&r.hist)||[]).forEach(h=>fn(h,q))})}
+const nVistas=()=>Object.keys(ST.resp).filter(ch=>!ER.oculta(ch)).length;
+const nErros=()=>ST.erros.filter(ch=>!ER.oculta(ch)).length;
 const NOME=Object.fromEntries(TAX.map(t=>[t.id,t.nome]));
 const NCEN=Object.fromEntries(CEN.map(t=>[t.id,t.nome]));
 const NCOMP=Object.fromEntries(COMP.map(t=>[t.id,t.nome]));
@@ -1339,6 +1371,8 @@ function rotuloFonte(q){const f=q.fonte;if(!f)return "autoral";
   return (f.prova||(f.banca+" "+f.ano))+(f.n?" · questão "+f.n:"")+(tb.length?" (também "+tb.join(", ")+")":"")}
 /* a questão pertence à prova id? (a principal ou outra edição em que ela também caiu) */
 const naProva=(q,id)=>!!q.fonte&&(q.fonte.ex===id||(q.fonte.tb||[]).some(t=>t.ex===id));
+/* questões da prova id que estão visíveis: EXAMES[].n é do banco montado; a errata pode ter tirado alguma do ar */
+const nEx=e=>{let k=0;ER.mapa.forEach((x,ch)=>{const q=x.tipo==="oculta"&&QBASE.get(ch);if(q&&naProva(q,e.id))k++});return e.n-k};
 const numNaProva=(q,id)=>q.fonte.ex===id?q.fonte.n:((q.fonte.tb||[]).find(t=>t.ex===id)||{}).n;
 /* o que ajuda a achar a questão no banco: procedência (banca e edição, ou autoral) e a letra do gabarito como aparece na tela */
 function extraSinal(q){
@@ -1360,7 +1394,7 @@ function registraResposta(q,alt,ok,modo){
 }
 const respostaDe=q=>ST.resp[q._ch];
 function acertosSeguidos(q){const h=(respostaDe(q)||{}).hist||[];let n=0;
-  for(let i=h.length-1;i>=0;i--){if(h[i].ok)n++;else break}return n}
+  for(let i=h.length-1;i>=0;i--){if(okH(q,h[i]))n++;else break}return n}
 
 /* ---------- sorteio: Fisher-Yates de verdade ----------
    sort(()=>Math.random()-0.5) NÃO embaralha: o comparador é inconsistente e enviesa o começo do vetor. */
@@ -1725,9 +1759,9 @@ function abreContestacao(ctx){
 }
 
 /* ================= aba QUESTÕES ================= */
-const NREAIS=BANCO.filter(q=>q.fonte).length;
+let NREAIS=BANCO.filter(q=>q.fonte).length;
 /* bancas com contagem, para o filtro de procedência (a mais numerosa primeiro) */
-const BANCAS=Object.entries(BANCO.reduce((m,q)=>{if(q.fonte)m[q.fonte.banca]=(m[q.fonte.banca]||0)+1;return m},{})).sort((a,b)=>b[1]-a[1]);
+let BANCAS=Object.entries(BANCO.reduce((m,q)=>{if(q.fonte)m[q.fonte.banca]=(m[q.fonte.banca]||0)+1;return m},{})).sort((a,b)=>b[1]-a[1]);
 /* Filtro de VÁRIAS áreas (25/09/2026). Pedido do Matheus: "conseguirmos filtrar alguns temas (hoje só é
    possível filtrar 1 tema por vez)". Componente compartilhado mtfiltro.js (window.MTTemas, fonte única em
    ~/Documents/Claude/_mtfiltro/ — não editar a cópia daqui).
@@ -1745,7 +1779,9 @@ function seletorAreas(el,o){
   if(!el)return null;
   return MTTemas.monta(el,{titulo:"Áreas",rotuloTodos:"Todas as áreas",item:["área","áreas"],...o});
 }
-const NQ_AREA=BANCO.reduce((m,q)=>(m[q.tema]=(m[q.tema]||0)+1,m),{});
+let NQ_AREA=BANCO.reduce((m,q)=>(m[q.tema]=(m[q.tema]||0)+1,m),{});
+/* chamada quando chega errata nova da rede (questão tirada do ar ou devolvida): as contagens seguem a vista */
+function recontaBanco(){NREAIS=BANCO.filter(q=>q.fonte).length;BANCAS=Object.entries(BANCO.reduce((m,q)=>{if(q.fonte)m[q.fonte.banca]=(m[q.fonte.banca]||0)+1;return m},{})).sort((a,b)=>b[1]-a[1]);NQ_AREA=BANCO.reduce((m,q)=>(m[q.tema]=(m[q.tema]||0)+1,m),{})}
 function filtroAtual(){const f=ST.pos.fq||{}, areas=leAreas(f.areas,f.area);
   return {area:areas[0]||"",areas,gr:f.gr||"",ex:f.ex||"",cen:f.cen||"",comp:f.comp||"",niv:f.niv||"",modo:f.modo||"todas",proc:f.proc||""}}
 function aplicaFiltro(f=filtroAtual()){
@@ -1788,7 +1824,8 @@ function ordemQuestoes(){
   if(ord.length<lista.length){
     const jaTem=new Set(ord);
     ord=ord.concat(espalhaTemas(lista.filter(q=>!jaTem.has(q._ch))).map(q=>q._ch));
-    ST.pos.ordq=ord;salva("pos",ST.pos);
+    /* as tiradas do ar (errata) continuam na ordem salva: se voltarem, voltam no mesmo lugar */
+    ST.pos.ordq=ord.concat(ST.pos.ordq.filter(ch=>ER.oculta(ch)&&!jaTem.has(ch)));salva("pos",ST.pos);
   }
   return ord.map(ch=>QIDX.get(ch)).filter(Boolean);
 }
@@ -1822,7 +1859,7 @@ function pintaQuestoes(){
      <label class="cmp">Competência<select id="fComp">${opt(COMP,f.comp,"todas")}</select></label>
      <label class="cmp">Nível<select id="fNiv">${opt(NIVEIS,f.niv,"todos")}</select></label>
      <label class="cmp">Prova<select id="fEx"><option value="">todas</option>
-       ${EXAMES.map(e=>`<option value="${e.id}"${f.ex===e.id?" selected":""}>${esc(e.nome)} (${e.n})</option>`).join("")}</select></label>
+       ${EXAMES.map(e=>`<option value="${e.id}"${f.ex===e.id?" selected":""}>${esc(e.nome)} (${nEx(e)})</option>`).join("")}</select></label>
      <label class="cmp">Procedência<select id="fProc">
        <option value=""${f.proc?"":" selected"}>todas (${BANCO.length})</option>
        <option value="real"${f.proc==="real"?" selected":""}>só de prova real (${NREAIS})</option>
@@ -1862,11 +1899,11 @@ function pintaCartaoQuestao(q,l,i){
    <div class="qTopo">
     <span class="qNum">Questão <b class="num">${i+1}</b> de <span class="num">${l.length}</span></span>
     <span class="qProg"><i style="width:${Math.max(1,Math.round((i+1)/l.length*100))}%"></i></span>
-    ${ja?`<span class="qEstado ${ja.ok?"ok":"er"}">${ja.ok?"acertou":"errou"}<span class="qUlt"> da última vez</span></span>`:""}
+    ${ja?`<span class="qEstado ${okH(q,ja)?"ok":"er"}">${okH(q,ja)?"acertou":"errou"}<span class="qUlt"> da última vez</span></span>`:""}
     <button id="btSinal"></button>
     <button class="btMarca${ST.fav[q._ch]?" on":""}" id="btFav" title="${ST.fav[q._ch]?"Desmarcar":"Marcar para revisar"}" aria-pressed="${!!ST.fav[q._ch]}"><i class="ti ti-bookmark${ST.fav[q._ch]?"-filled":""}"></i></button>
    </div>
-   <p class="enun">${esc(q.q)}</p>
+   ${ER.selo(q._ch)?`<p style="margin:0 0 6px">${ER.selo(q._ch)}</p>`:""}<p class="enun">${esc(q.q)}</p>
    <div id="alts">${ordemAlts(q).map((j,p)=>
      `<button class="alt" data-j="${j}"><span class="let">${LETRAS[p]}</span><span>${esc(q.alts[j])}</span></button>`).join("")}</div>
    <div id="fb"></div>
@@ -1883,7 +1920,7 @@ function pintaCartaoQuestao(q,l,i){
   $$("#alts .alt").forEach(b=>b.onclick=()=>responde(q,+b.dataset.j,l,i));
 }
 function responde(q,j,l,i){
-  const ok=j===q.gab;
+  const ok=acerta(q,j);
   const meta=Math.max(5,+(ST.cfg.meta||20)), antes=ST.atividade[dataISO()]||0;
   registraResposta(q,j,ok,"estudo");
   COMBO=ok?COMBO+1:0;
@@ -1900,7 +1937,7 @@ function responde(q,j,l,i){
   });
   $("#fb").innerHTML=`
    <div class="coment ${ok?"ok":"er"}">
-    <b>${ok?"Você acertou.":"Resposta correta: "+letraDe(q,q.gab)+"."}</b> ${esc(q.coment)}
+    <b>${q.gab<0?"Questão anulada pela revisão: qualquer resposta vale.":ok?"Você acertou.":"Resposta correta: "+letraDe(q,q.gab)+"."}</b> ${esc(q.coment)}
     <div class="base">Âncora: ${esc(q.base)}</div>
     <div class="linha" style="gap:6px;margin-top:10px">
      <span class="pilula b">${esc(NOMEG[GDE[q.tema]]||"")}</span>
@@ -2006,7 +2043,7 @@ function pintaSimulado(){
    <p class="mini">Cada edição com as questões dela que estão no banco, na ordem do caderno e com 3 minutos por questão. Ficaram de fora só as que dependiam de imagem e as que tinham gabarito contrário à norma vigente, por isso o número pode ser menor que o da prova.</p>
    ${tipos.map(([t,nome])=>{const ex=EXAMES.filter(e=>e.tipo===t);if(!ex.length)return "";
      return `<h4 style="margin:14px 0 8px">${esc(nome)}</h4><div class="gradeEx">${ex.map(e=>{const f=feitos["ex:"+e.id],ult=f&&f[f.length-1];
-       return `<button class="cartaoEx" data-ex="${e.id}"><b>${esc(e.nome)}</b><span>${e.n} questões · ${(Math.round(e.n*3/60*10)/10).toLocaleString("pt-BR")} h</span>${ult?`<em>última: ${Math.round(ult.acertos/ult.n*100)}%</em>`:""}</button>`}).join("")}</div>`}).join("")}
+       return `<button class="cartaoEx" data-ex="${e.id}"><b>${esc(e.nome)}</b><span>${nEx(e)} questões · ${(Math.round(nEx(e)*3/60*10)/10).toLocaleString("pt-BR")} h</span>${ult?`<em>última: ${Math.round(ult.acertos/ult.n*100)}%</em>`:""}</button>`}).join("")}</div>`}).join("")}
   </div>
   ${hist.length?`<div class="cx"><h3 style="margin:0 0 8px">Simulados anteriores</h3>
    <div class="rolagem"><table><tr><th>Quando</th><th>Formato</th><th>Questões</th><th>Acertos</th><th>%</th><th>Tempo</th></tr>
@@ -2028,7 +2065,10 @@ function pintaSimulado(){
 }
 function pintaSimEmCurso(s){
   /* questão que saiu do banco (ou mudou de texto, e portanto de chave) desde que o simulado começou: some da prova */
-  if(s.qs.some(ch=>!QIDX.has(ch))){s.qs=s.qs.filter(ch=>QIDX.has(ch));s.i=Math.min(s.i,Math.max(0,s.qs.length-1));salva("simativo",s)}
+  if(s.qs.some(ch=>!QIDX.has(ch))){
+    /* tirada do ar pela revisão (errata): sai da prova, mas a chave fica em s.tiradas (a resposta já dada segue em s.res) */
+    const tir=s.qs.filter(ch=>ER.oculta(ch));if(tir.length)s.tiradas=[...new Set([...(s.tiradas||[]),...tir])];
+    s.qs=s.qs.filter(ch=>QIDX.has(ch));s.i=Math.min(s.i,Math.max(0,s.qs.length-1));salva("simativo",s)}
   if(!s.qs.length){ST.simativo=null;salva("simativo",null);return pintaSimulado()}
   const q=QIDX.get(s.qs[s.i]);
   const rest=()=>Math.max(0,s.dur-Math.floor((Date.now()-s.ini)/1000));
@@ -2036,13 +2076,13 @@ function pintaSimEmCurso(s){
   <div class="cx">
    <div class="linha">
     <span class="crono" id="crono"></span>
-    <span class="mini">questão ${s.i+1} de ${s.qs.length} · ${Object.keys(s.res).length} respondidas</span>
+    <span class="mini">questão ${s.i+1} de ${s.qs.length} · ${s.qs.filter(ch=>ch in s.res).length} respondidas</span>
     <button class="bt sec mini" id="btEncerrar" style="margin-left:auto">Encerrar e corrigir</button>
    </div>
-   <div class="barra" style="margin-top:10px"><i style="width:${pct(Object.keys(s.res).length,s.qs.length)}%"></i></div>
+   <div class="barra" style="margin-top:10px"><i style="width:${pct(s.qs.filter(ch=>ch in s.res).length,s.qs.length)}%"></i></div>
   </div>
   <div class="cx">
-   <p class="enun">${esc(q.q)}</p>
+   ${ER.selo(q._ch)?`<p style="margin:0 0 6px">${ER.selo(q._ch)}</p>`:""}<p class="enun">${esc(q.q)}</p>
    <div id="simAlts">${ordemAlts(q).map((j,p)=>
      `<button class="alt${s.res[q._ch]===j?" certa":""}" data-j="${j}"><span class="let">${LETRAS[p]}</span><span>${esc(q.alts[j])}</span></button>`).join("")}</div>
    <hr>
@@ -2077,7 +2117,7 @@ function encerraSim(porTempo){
   const s=ST.simativo;if(!s)return;
   let acertos=0;
   s.qs.forEach(ch=>{const q=QIDX.get(ch);const r=s.res[ch];
-    if(q&&r!==undefined){const ok=r===q.gab;if(ok)acertos++;registraResposta(q,r,ok,"simulado")}});
+    if(q&&r!==undefined){const ok=acerta(q,r);if(ok)acertos++;registraResposta(q,r,ok,"simulado")}});
   s.fim=Date.now();s.acertos=acertos;s.nota=notaSimulado(s,acertos);
   ST.sim.push({quando:new Date().toISOString(),n:s.qs.length,acertos,nota:s.nota,
     dur:Math.floor((s.fim-s.ini)/1000),prova:s.prova,qs:s.qs,res:s.res});
@@ -2090,7 +2130,7 @@ function pintaResultadoSim(s){
   const porArea={}, porG={};
   s.qs.forEach(ch=>{const q=QIDX.get(ch);if(!q)return;const a=porArea[q.tema]||(porArea[q.tema]={n:0,ok:0});
     const g=porG[GDE[q.tema]]||(porG[GDE[q.tema]]={n:0,ok:0});
-    a.n++;g.n++;if(s.res[ch]===q.gab){a.ok++;g.ok++}});
+    a.n++;g.n++;if(acerta(q,s.res[ch])){a.ok++;g.ok++}});
   $("#sec-simulado").innerHTML=`
   <div class="cx">
    <h2 style="margin:0 0 10px">Resultado</h2>
@@ -2119,7 +2159,7 @@ function pintaResultadoSim(s){
   <div id="revisao"></div>`;
   $("#btNovo").onclick=()=>{ST.simativo=null;salva("simativo",null);pintaSimulado()};
   $("#btRevisar").onclick=()=>{
-    $("#revisao").innerHTML=s.qs.map((ch,k)=>{const q=QIDX.get(ch);if(!q)return "";const r=s.res[ch],ok=r===q.gab;
+    $("#revisao").innerHTML=s.qs.map((ch,k)=>{const q=QIDX.get(ch);if(!q)return "";const r=s.res[ch],ok=acerta(q,r);
       return `<div class="cx"><div class="linha" style="gap:6px">
         <span class="pilula ${ok?"ok":"er"}">${k+1}. ${ok?"acertou":r===undefined?"em branco":"errou"}</span>
         <span class="pilula b">${esc(NOME[q.tema]||q.tema)}</span>
@@ -2477,7 +2517,7 @@ function estatArea(){
   return TAX.map(t=>{
     const qs=BANCO.filter(q=>q.tema===t.id);
     let n=0,ok=0;
-    qs.forEach(q=>{const h=(respostaDe(q)||{}).hist||[];if(h.length){n++;if(h[h.length-1].ok)ok++}});
+    qs.forEach(q=>{const h=(respostaDe(q)||{}).hist||[];if(h.length){n++;if(okH(q,h[h.length-1]))ok++}});
     const taxa=n?ok/n:null, cob=qs.length?n/qs.length:0;
     /* prioridade = peso na prova × (o que você erra) × (o quanto ainda não viu) */
     const prio=t.peso*(1-(taxa===null?0.5:taxa))*(1.3-cob);
@@ -2543,8 +2583,8 @@ function pintaInicio(){
   const meta=Math.max(5,+(ST.cfg.meta||20)), hoje=ST.atividade[dataISO()]||0, feito=Math.min(1,hoje/meta);
   const fq=(ST.pos&&ST.pos.fq)||{}, qAtual=ST.pos&&ST.pos.chq?QIDX.get(ST.pos.chq):null;
   const seq=diasSeguidos();
-  let acertos=0,tent=0;Object.values(ST.resp).forEach(r=>r.hist.forEach(h=>{tent++;if(h.ok)acertos++}));
-  const vistas=Object.keys(ST.resp).length, devs=devidos().length;
+  let acertos=0,tent=0;cadaResposta((h,q)=>{tent++;if(okH(q,h))acertos++});
+  const vistas=nVistas(), devs=devidos().length;
   const R=62,C=2*Math.PI*R;
   const h=new Date().getHours(), sauda=h<12?"Bom dia":h<18?"Boa tarde":"Boa noite";
   const dias=[...Array(14)].map((_,k)=>{const d=new Date();d.setDate(d.getDate()-13+k);const iso=dataISO(d);
@@ -2603,7 +2643,7 @@ function pintaInicio(){
       <div class="progL"><i style="width:0" data-w="${ST.prog[l.f]||0}%"></i></div></button>`).join("")}</div>
    </section>
    <div class="vAtalhos">
-    <button style="--k:var(--c-vermelho)" data-ir="erros"><i class="ti ti-refresh-alert"></i>Revisar erros (${ST.erros.length})</button>
+    <button style="--k:var(--c-vermelho)" data-ir="erros"><i class="ti ti-refresh-alert"></i>Revisar erros (${nErros()})</button>
     <button style="--k:var(--c-rosa)" data-ir="simulado"><i class="ti ti-file-certificate"></i>Provas na íntegra</button>
     <button style="--k:var(--c-azul)" data-ir="biblioteca"><i class="ti ti-book-2"></i>Biblioteca</button>
     <button style="--k:var(--c-violeta)" data-ir="painel"><i class="ti ti-chart-bar"></i>Desempenho</button>
@@ -2623,9 +2663,9 @@ function pintaInicio(){
 }
 
 function pintaPainel(){
-  const respondidas=Object.keys(ST.resp).length;
+  const respondidas=nVistas();
   let acertos=0,tent=0;
-  Object.values(ST.resp).forEach(r=>r.hist.forEach(h=>{tent++;if(h.ok)acertos++}));
+  cadaResposta((h,q)=>{tent++;if(okH(q,h))acertos++});
   const dias=Object.keys(ST.atividade).length;
   const ea=estatArea();
   /* por grande área: última resposta de cada questão vista */
@@ -2639,14 +2679,14 @@ function pintaPainel(){
   const incL=Object.entries(inc).sort((a,b)=>b[1]-a[1]).slice(0,25), incMax=incL.length?incL[0][1]:1;
   const matriz={};
   BANCO.forEach(q=>{const h=(respostaDe(q)||{}).hist||[];if(!h.length)return;
-    const k=q.cenario+"|"+q.comp,m=matriz[k]||(matriz[k]={n:0,ok:0});m.n++;if(h[h.length-1].ok)m.ok++});
+    const k=q.cenario+"|"+q.comp,m=matriz[k]||(matriz[k]={n:0,ok:0});m.n++;if(okH(q,h[h.length-1]))m.ok++});
   $("#sec-painel").innerHTML=`
   <div class="cx">
    <h2 style="margin:0 0 12px">Resumo</h2>
    <div class="grade2">
     <div class="kpi"><b>${respondidas}/${BANCO.length}</b><span>questões vistas</span></div>
     <div class="kpi"><b>${pct(acertos,tent)}%</b><span>acerto geral (${tent} tentativas)</span></div>
-    <div class="kpi"><b>${ST.erros.length}</b><span>na fila de erros</span></div>
+    <div class="kpi"><b>${nErros()}</b><span>na fila de erros</span></div>
     <div class="kpi"><b>${dias}</b><span>dias com estudo</span></div>
    </div>
   </div>
@@ -2688,8 +2728,8 @@ function pintaPainel(){
     }).join("")}</tr>`).join("")}
    </table></div>
   </div>
-  ${ST.erros.length?`<div class="cx"><h3 style="margin:0 0 8px">Erros a revisar</h3>
-   ${ST.erros.slice(0,12).map(ch=>{const q=QIDX.get(ch);if(!q)return "";
+  ${nErros()?`<div class="cx"><h3 style="margin:0 0 8px">Erros a revisar</h3>
+   ${ST.erros.filter(ch=>QIDX.has(ch)).slice(0,12).map(ch=>{const q=QIDX.get(ch);if(!q)return "";
      return `<details><summary>${esc(NOME[q.tema]||q.tema)} · ${esc(q.q.slice(0,90))}…</summary>
       <p class="enun" style="font-size:15px">${esc(q.q)}</p>
       <div class="coment"><b>Correta: ${letraDe(q,q.gab)}.</b> ${esc(q.alts[q.gab])}<br><br>${esc(q.coment)}
@@ -2713,6 +2753,7 @@ function pintaPainel(){
   /* abrir uma sinalizada: conjunto "sinalizadas", sem outros filtros, parado nela */
   const abreSinal=ch=>abreQuestaoEm({area:"",areas:[],cen:"",comp:"",niv:"",modo:"sinal",proc:""},ch);
   SINAL.lista($("#pSinal"),{abreQuestao:ch=>{
+    if(ER.oculta(ch))return UI.banner("avi","Essa questão foi retirada do ar pela revisão.");
     if(!QIDX.has(ch))return UI.banner("avi","Essa questão foi corrigida ou saiu do banco depois que você a sinalizou.");
     abreSinal(ch)}});
   /* a lista se redesenha sozinha ao tirar itens; o botão não, então confere na hora */
@@ -2826,7 +2867,7 @@ async function pintaAjustes(){
   const irPar=par.get("ir");
   if(irPar&&PINTA[irPar]){ST.cfg.aba=irPar;salva("cfg",ST.cfg);history.replaceState(null,"",location.pathname)}
   if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
-  window.__cm={ST,ARM,BANCO,QIDX,chaveQ,embaralha,espalhaTemas,irAba,estatArea,V};
+  window.__cm={ST,ARM,BANCO,BANCO_BASE,ER,QIDX,chaveQ,embaralha,espalhaTemas,irAba,estatArea,V};
 })();
 </script>
 </html>

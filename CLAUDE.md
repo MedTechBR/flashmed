@@ -81,3 +81,22 @@ quebrava os relativos). `gera_indice.py` varre subpastas; `FIGS` traz caminhos r
 Copiar o app para o scratchpad, injetar `~/Documents/Claude/_mtsync/fake-firebase.js` antes do `mtsync.js`,
 desligar o registro do SW e servir com `python3 servir.py 8713`; no console:
 `await __fake.auth.signInWithEmailAndPassword('x@exemplo.com')`. `window.__cm` expõe ST, BANCO, QIDX, irAba.
+
+## Erratas da administração (10/10/2026, fl-v6) — `mterrata.js`
+Mesma integração do ClínicaMed (ver o CLAUDE.md de lá). A administração corrige ou tira do ar uma questão
+sinalizada (admin.html → Sinalizações) e responde a quem sinalizou. `mterrata.js` (fonte única em
+`~/Documents/Claude/_mterrata/`, não editar a cópia) busca as erratas na função `mtSinal` (op `erratas`, app
+`flashmed`), guarda em `localStorage["mterr:flashmed"]` e o app aplica ANTES de desenhar (`aplicaErratas`).
+- `BANCO_BASE` = `window.BANCO` intacto (e `QBASE`, índice dele por chave); `BANCO`/`QIDX` = vista das VISÍVEIS.
+  A chave `_ch` sai do enunciado ORIGINAL, antes da errata: corrigir o enunciado não solta o progresso.
+- Gabarito corrigido: `okH(q,h)` reavalia respostas antigas só na EXIBIÇÃO (h.alt = índice no banco); o histórico
+  salvo não muda. `acerta(q,j)`: gabarito -1 (anulada) aceita qualquer resposta. `cadaResposta`/`nVistas`/`nErros`
+  contam sem as ocultas; `recontaBanco()` refaz NREAIS/BANCAS/NQ_AREA quando chega errata nova da rede.
+- `ordemQuestoes` preserva as chaves ocultas na ordem salva. Simulado EM CURSO com questão tirada do ar: ela sai
+  da prova, a chave fica em `s.tiradas` e a resposta dada continua em `s.res`.
+- Prova na íntegra: `nEx(e)` desconta de `EXAMES[].n` as questões daquela edição tiradas do ar (o número no
+  seletor "Prova" e no cartão da prova). Questão importada (`orig`: clinicamed/cirurgiamed/radiotitulo) segue a
+  chave DESTE app: errata feita no ClínicaMed não chega aqui; corrigir na origem e rodar `importa.py`, ou fazer a
+  errata também para o flashmed no painel.
+- Errata é remendo: a correção definitiva vai para o banco e depois se desfaz a errata no painel. Mudar o
+  enunciado no banco muda a chave.
