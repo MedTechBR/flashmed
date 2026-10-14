@@ -1056,7 +1056,7 @@
    "Pentavalente, VIP, hepatite B e tríplice viral",
    "DTP, VIP, varicela e febre amarela",
    "dTpa, VOP bivalente, hepatite A e varicela",
-   "DTP, VIP, hepatite A e tetraviral"
+   "DTP, VIP, hepatite A, tríplice viral e varicela"
   ],
   "gab": 4,
   "tema": "puericultura",
@@ -1064,14 +1064,14 @@
   "cenario": "amb",
   "comp": "prev",
   "nivel": "r1",
-  "base": "Ministério da Saúde. Calendário Nacional de Vacinação da Criança e do Adolescente (PNI), 2026",
-  "coment": "Aos 15 meses o calendário prevê o primeiro reforço da DTP, o reforço contra poliomielite, a hepatite A em dose única e a tetraviral (sarampo, caxumba, rubéola e varicela). Desde novembro de 2024 o reforço contra poliomielite é feito com a vacina inativada (VIP), e a vacina oral bivalente saiu do calendário de rotina; todas as doses contra pólio passaram a ser de VIP. Aos 4 anos, a criança recebe o segundo reforço da DTP, a segunda dose de varicela e o reforço da febre amarela. Fonte: MS, Calendário Nacional de Vacinação, 2026.",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Aos 15 meses o Calendário Nacional de Vacinação 2026 prevê o 1º reforço da DTP, o reforço contra poliomielite com VIP, a hepatite A em dose única, a 2ª dose da tríplice viral e a 1ª dose da varicela monovalente, em sítios distintos. A tetraviral deixou de ser o padrão: só substitui tríplice viral e varicela quando falta a monovalente. Desde novembro de 2024 todas as doses contra pólio são de VIP. Aos 4 anos, a criança recebe o 2º reforço da DTP, a 2ª dose de varicela e o reforço da febre amarela.",
   "porAlt": [
-   "Desde novembro de 2024 o reforço contra poliomielite é feito com VIP, e a VOP saiu da rotina.",
+   "A VOP saiu da rotina em novembro de 2024, e a tetraviral só entra na falta da varicela monovalente.",
    "Pentavalente e hepatite B pertencem ao esquema primário, e a tríplice viral é aos 12 meses.",
    "Febre amarela é feita aos 9 meses e reforçada aos 4 anos, não aos 15 meses.",
    "A dTpa é usada em gestantes e profissionais, e a VOP não é mais usada na rotina.",
-   "Correta: aos 15 meses fazem-se DTP (1º reforço), VIP (reforço), hepatite A e tetraviral."
+   "Correta: aos 15 meses fazem-se DTP (1º reforço), VIP (reforço), hepatite A, tríplice viral (2ª dose) e varicela (1ª dose)."
   ]
  },
  {

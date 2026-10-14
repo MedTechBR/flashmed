@@ -379,12 +379,12 @@
   "comp": "prev",
   "nivel": "r1",
   "base": "Ministério da Saúde. Calendário Nacional de Vacinação da Criança (PNI), 2026",
-  "coment": "No Calendário Nacional de Vacinação vigente, a criança recebe aos 12 meses o reforço da vacina pneumocócica conjugada, a meningocócica ACWY e a primeira dose da tríplice viral. A febre amarela é aplicada aos 9 meses, com reforço aos 4 anos; a hepatite A e a tetraviral (ou tríplice viral mais varicela) ficam para os 15 meses; a vacina covid-19 entra no esquema primário aos 6, 7 e 9 meses. Desde junho de 2026 o PNI passou a usar a pneumocócica 20-valente no esquema primário, mantendo o reforço pneumocócico aos 12 meses.",
+  "coment": "No Calendário Nacional de Vacinação vigente, a criança recebe aos 12 meses o reforço da vacina pneumocócica conjugada, a meningocócica ACWY e a primeira dose da tríplice viral. A febre amarela é aplicada aos 9 meses, com reforço aos 4 anos; a hepatite A, a 2ª dose da tríplice viral e a 1ª dose da varicela monovalente ficam para os 15 meses (a tetraviral só na falta da monovalente); a vacina covid-19 entra no esquema primário aos 6, 7 e 9 meses. Desde junho de 2026 o PNI passou a usar a pneumocócica 20-valente no esquema primário, mantendo o reforço pneumocócico aos 12 meses.",
   "porAlt": [
    "A febre amarela é aplicada aos 9 meses, com reforço aos 4 anos, não aos 12 meses.",
    "Correta: o reforço da pneumocócica conjugada é feito aos 12 meses no calendário do PNI.",
    "A hepatite A é aplicada em dose única aos 15 meses.",
-   "A tetraviral é aplicada aos 15 meses, como segunda dose de sarampo, caxumba e rubéola e dose de varicela.",
+   "A tetraviral não é dose dos 12 meses; aos 15 meses o calendário de 2026 usa tríplice viral mais varicela monovalente, com a tetraviral só na falta desta.",
    "A vacina covid-19 no calendário infantil é feita aos 6, 7 e 9 meses, não aos 12."
   ],
   "fonte": {
