@@ -111,3 +111,7 @@ Pedido do Matheus: seção com os processos seletivos vigentes da área, filtrá
 - Função fora do ar (404/CORS) = estado "em breve"; sem rede = "sem internet"; 5xx = erro com "Tentar de novo".
 - "Reportar erro" é `mailto:contato@medtechbr.com.br` (o mtsinal.js é só de questão).
 - Texto: "principais processos seletivos abertos", nunca "todos os concursos".
+- 25/10/2026 (fl-v14): vaga sem data final (OS, portal Gupy) vem com `inscricao_fim:null`/`sem_prazo:true` e
+  `publicado_em`: o cartão mostra "Inscrições abertas · publicada em DD/MM" e "Ver vaga no site oficial"; ficam
+  no fim da lista. `fonte_tipo` (diario, banca, residencia, os, fundacao, secretaria, ebserh, consorcio, busca)
+  vira o rótulo "Fonte: ..." do cartão (`RADAR_FONTE`).
