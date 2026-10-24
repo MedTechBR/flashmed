@@ -21,7 +21,7 @@ if(t==="claro"||t==="escuro")document.documentElement.setAttribute("data-tema",t
 </script>
 <!-- conta + sincronização (cópia de ~/Documents/Claude/_mtsync/mtsync.js). Síncrono no <head>:
      o portão cobre a tela antes do primeiro pixel do app e só sai com a conta confirmada. -->
-<script src="mtsync.js?v=12"></script>
+<script src="mtsync.js?v=13"></script>
 <!-- gramática visual do ecossistema: tokens da raiz do site + ícones Tabler (nunca emoji) -->
 <link rel="stylesheet" href="/_mttokens.css?v=2">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3/dist/tabler-icons.min.css">
@@ -1137,6 +1137,70 @@ label.cmp:has(>.mtt-btn){min-width:min(260px,100%);max-width:100%}
 @media(max-width:640px){.chkL{flex-basis:100%;min-height:32px}.bG{grid-template-columns:96px 1fr;}.bG .v{grid-column:1/-1;margin-top:-6px}.gradeEx{grid-template-columns:1fr 1fr}}
 @media(max-width:400px){.gradeEx{grid-template-columns:1fr}}
 </style>
+<style id="fm-radar">
+/* ===== aba Concursos (radar de concursos, 24/10/2026): mesma gramática da camada viva (fm-viva) ===== */
+body[data-aba="concursos"]{--ac:#0E7490}
+#sec-concursos{max-width:1100px}
+.rdFiltros{display:flex;flex-wrap:wrap;align-items:flex-end;gap:14px 18px;margin:0 0 18px}
+.rdFiltros .rdUf{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--ink2);min-width:240px}
+.rdFiltros .rdUf select{min-height:44px;font-size:15px;padding:8px 12px;background:var(--sup);color:var(--ink);border:1.5px solid var(--linhaF)}
+.rdFiltros .chipsG{flex:1 1 380px}
+.rdFiltros .chipG{min-height:40px}
+.rdResumo{margin:0 0 14px;font-size:14px;color:var(--ink2)}
+.rdCarrega{display:flex;align-items:center;gap:8px;color:var(--ink2);font-size:15px;padding:18px 0}
+.rdCarrega i{animation:rdGira 1s linear infinite}
+@keyframes rdGira{to{rotate:360deg}}
+@media(prefers-reduced-motion:reduce){.rdCarrega i{animation:none}}
+.rdGrade{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}
+.rdCartao{background:var(--sup);border:1px solid var(--linha);border-radius:22px;padding:18px 20px;box-shadow:var(--sombra);display:flex;flex-direction:column;gap:8px;min-width:0;
+  transition:transform .15s,box-shadow .15s}
+.rdCartao:hover{transform:translateY(-2px);box-shadow:0 10px 24px color-mix(in srgb,var(--ac) 14%,transparent)}
+.rdCartao.perto{border-color:color-mix(in srgb,var(--c-vermelho) 45%,var(--linha))}
+.rdTopo{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px}
+.rdTipo{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;font-weight:650;border-radius:999px;padding:4px 11px 4px 8px}
+.rdTipo.res{background:color-mix(in srgb,#2563EB 12%,var(--sup));color:color-mix(in srgb,#2563EB 78%,var(--ink))}
+.rdTipo.con{background:color-mix(in srgb,#0E7490 12%,var(--sup));color:color-mix(in srgb,#0E7490 78%,var(--ink))}
+.rdPrazo{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:600;color:var(--ink2)}
+.rdPrazo.perto{color:#fff;background:#B42318;border-radius:999px;padding:4px 11px}
+.rdCartao h3{margin:2px 0 0;font-size:17px;line-height:1.3;font-weight:700;color:var(--ink);overflow-wrap:anywhere}
+.rdCargo{margin:0;font-size:14.5px;color:var(--ink);overflow-wrap:anywhere}
+.rdMeta{list-style:none;margin:2px 0 0;padding:0;display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13.5px;color:var(--ink2)}
+.rdMeta li{display:inline-flex;align-items:center;gap:5px;min-width:0;overflow-wrap:anywhere}
+.rdMeta i{color:var(--ac);font-size:16px}
+.rdEsp{margin:0;font-size:13px;color:var(--ink2)}
+.rdAcoes{display:flex;flex-wrap:wrap;align-items:center;gap:8px 10px;margin-top:6px}
+.rdAcoes .bt{text-decoration:none;display:inline-flex;align-items:center;gap:6px}
+.rdErro{margin-left:auto;font-size:13px;color:var(--ink2);text-decoration:underline;text-underline-offset:3px;padding:8px 2px;min-height:34px;display:inline-flex;align-items:center}
+.rdErro:hover{color:var(--ink)}
+.rdFonte{margin:0;font-size:12.5px;color:var(--ink2)}
+.rdNota{margin:22px 0 6px;font-size:13.5px;color:var(--ink2);line-height:1.5}
+.rdNota a{color:var(--ink);text-underline-offset:3px;margin-left:4px}
+.rdVazio{display:flex;gap:14px;align-items:flex-start;background:var(--sup);border:1px solid var(--linha);border-radius:22px;padding:20px 22px}
+.rdVazio .ic,.vRadar .ic{width:46px;height:46px;border-radius:50%;display:grid;place-items:center;background:var(--ac);color:#fff;font-size:22px;flex:0 0 auto;
+  box-shadow:0 8px 18px color-mix(in srgb,var(--ac) 30%,transparent)}
+.rdVazio.erro .ic{background:#B42318}
+.rdVazio b{display:block;font-size:16px;margin:2px 0 4px;color:var(--ink)}
+.rdVazio p{margin:0 0 10px;color:var(--ink2);font-size:14px}
+/* cartão no Início */
+.vRadar{--ac:#0E7490;grid-column:1/-1;display:flex;align-items:center;gap:14px;background:color-mix(in srgb,#0E7490 9%,var(--sup));border:1px solid color-mix(in srgb,#0E7490 20%,transparent);
+  border-radius:24px;padding:16px 20px;min-height:78px}
+.vRadar .txt{flex:1;min-width:0}
+.vRadar h3{margin:0 0 2px;font-size:16px}
+.vRadar p{margin:0;font-size:13.5px;color:var(--ink2);overflow-wrap:anywhere}
+.vRadar p b{color:color-mix(in srgb,#0E7490 80%,var(--ink));font-size:15px}
+.vRadar .bt{flex:0 0 auto;display:inline-flex;align-items:center;gap:6px}
+@media(max-width:640px){
+  .rdFiltros{gap:12px}
+  .rdFiltros .rdUf{min-width:0;flex:1 1 100%}
+  .rdFiltros .chipsG{flex-basis:100%}
+  .rdGrade{grid-template-columns:minmax(0,1fr);gap:12px}
+  .rdCartao{padding:16px;border-radius:18px}
+  .rdAcoes .bt{flex:1 1 auto;justify-content:center}
+  .rdErro{margin-left:0}
+  .vRadar{flex-wrap:wrap;padding:14px 16px}
+  .vRadar .bt{width:100%;justify-content:center}
+}
+</style>
 
 <header>
  <div class="topo">
@@ -1159,23 +1223,24 @@ label.cmp:has(>.mtt-btn){min-width:min(260px,100%);max-width:100%}
  <section id="sec-leituras" hidden></section>
  <section id="sec-cartoes" hidden></section>
  <section id="sec-painel" hidden></section>
+ <section id="sec-concursos" hidden></section>
  <section id="sec-ajustes" hidden></section>
 </main>
 <div class="faixas" id="faixas"></div>
 
-<script src="taxonomia.js?v=12"></script>
-<script src="provas.js?v=12"></script>
-<script src="banco.js?v=12"></script>
-<script src="exames.js?v=12"></script>
-<script src="flash.js?v=12"></script>
-<script src="leituras.js?v=12"></script>
-<script src="indice-leituras.js?v=12"></script>
-<script src="migra.js?v=12"></script>
+<script src="taxonomia.js?v=13"></script>
+<script src="provas.js?v=13"></script>
+<script src="banco.js?v=13"></script>
+<script src="exames.js?v=13"></script>
+<script src="flash.js?v=13"></script>
+<script src="leituras.js?v=13"></script>
+<script src="indice-leituras.js?v=13"></script>
+<script src="migra.js?v=13"></script>
 <script src="/_mtacesso.js?v=1"></script>   <!-- acesso por produto comprado (raiz do site); sem checkout no planos.json, libera tudo -->
-<script src="nuvem.js?v=12"></script>
-<script src="mtfiltro.js?v=12"></script>
-<script src="mtsinal.js?v=12"></script>
-<script src="mterrata.js?v=12"></script>
+<script src="nuvem.js?v=13"></script>
+<script src="mtfiltro.js?v=13"></script>
+<script src="mtsinal.js?v=13"></script>
+<script src="mterrata.js?v=13"></script>
 <script>
 "use strict";
 const V="2.0.0", PREF="fl_";
@@ -1421,7 +1486,7 @@ function espalhaTemas(lista){
 /* ================= navegação ================= */
 const ABAS=[["inicio","Início","layout-dashboard"],["questoes","Questões","list-check"],["simulado","Simulado","stopwatch"],
             ["leituras","Leituras","book"],["cartoes","Cartões","cards"],["painel","Desempenho","chart-bar"],
-            ["ajustes","Ajustes","settings"]];
+            ["concursos","Concursos","briefcase"],["ajustes","Ajustes","settings"]];
 /* A aba Turma nasce escondida e só é revelada quando o backend confirma que este e-mail
    é da coordenação. Esconder o botão é conveniência: a permissão é conferida na função,
    a cada chamada — mexer no DOM daqui não dá acesso a nada. */
@@ -1432,7 +1497,7 @@ const ABAS_PRIM=["inicio","questoes","simulado","leituras"];
    então referenciar a função aqui na criação do objeto quebraria o boot inteiro. */
 const PINTA={inicio:()=>pintaInicio(),questoes:()=>pintaQuestoes(),simulado:()=>pintaSimulado(),
              leituras:()=>pintaLeituras(),cartoes:()=>pintaCartoes(),
-             painel:()=>pintaPainel(),ajustes:()=>pintaAjustes()};
+             painel:()=>pintaPainel(),concursos:()=>pintaConcursos(),ajustes:()=>pintaAjustes()};
 /* a barra inferior do celular é uma grade: precisa saber quantas abas estão visíveis */
 function ajustaNav(){const n=$$("#abas button").filter(b=>!b.hidden).length;
   document.documentElement.style.setProperty("--nAbas",n)}
@@ -1462,7 +1527,7 @@ document.addEventListener("click",e=>{
 });
 function montaAbas(){
   const GRUPO={inicio:"Estudo",painel:"Acompanhamento"};
-  const COR_ABA={inicio:"marca",questoes:"verde",simulado:"rosa",leituras:"azul",cartoes:"ambar",painel:"violeta",ajustes:"cinza"};
+  const COR_ABA={inicio:"marca",questoes:"verde",simulado:"rosa",leituras:"azul",cartoes:"ambar",painel:"violeta",concursos:"ciano",ajustes:"cinza"};
   $("#abas").innerHTML=ABAS.map(([id,n,ic])=>(GRUPO[id]?`<div class="navGrupo">${GRUPO[id]}</div>`:"")+
     `<button role="tab" aria-label="${esc(n)}" title="${esc(n)}" data-aba="${id}" style="--c:var(--c-${COR_ABA[id]||"marca"})" aria-selected="false"${ABAS_RESTRITAS.includes(id)?" hidden":""}${ABAS_PRIM.includes(id)?" data-prim":""}><i class="ti ti-${ic}" aria-hidden="true"></i><span>${n}</span></button>`).join("")
     +`<button data-aba="mais" aria-selected="false" hidden style="--c:var(--c-cinza)"><i class="ti ti-dots" aria-hidden="true"></i><span>Mais</span></button>`;
@@ -1480,6 +1545,7 @@ const TITULOS={
   leituras:()=>["Leituras","Textos de referência por área, com sumário e progresso."],
   cartoes:()=>["Cartões","Revisão espaçada: o que vence hoje aparece primeiro."],
   painel:()=>["Desempenho","Acerto por grande área e subárea, incidência nas provas e fila de erros."],
+  concursos:()=>["Concursos e residências","Principais processos seletivos abertos para médicos, pelo prazo de inscrição."],
   ajustes:()=>["Ajustes","Conta, tema, uso sem internet e dados."]
 };
 /* o título da página já está no topo: um h2/h3 igual logo no começo da seção vira ruído */
@@ -2512,6 +2578,136 @@ function avaliaCartao(i,q){
 }
 </script>
 <script>
+/* ================= aba CONCURSOS (radar de concursos, 24/10/2026) =================
+   Pedido do Matheus: uma seção com os processos seletivos vigentes da área, com filtro por estado.
+   Piloto para médicos: residência médica e concursos/seleções para médico, só com inscrições abertas,
+   pelo prazo. A lista vem da função radarConcursos (radar.js no backend), que roda todo dia às 4h a
+   partir dos diários oficiais (Querido Diário) e dos sites das bancas, e só publica o que conferiu
+   no edital. Função ainda não publicada (404/CORS) = estado "em breve", sem erro na cara do aluno.
+   UF escolhida fica em ST.cfg.radarUf (por conta, como o resto da configuração). */
+const RADAR_URL="https://southamerica-east1-medtech-c658c.cloudfunctions.net/radarConcursos";
+const UF_NOMES={AC:"Acre",AL:"Alagoas",AP:"Amapá",AM:"Amazonas",BA:"Bahia",CE:"Ceará",DF:"Distrito Federal",ES:"Espírito Santo",GO:"Goiás",
+  MA:"Maranhão",MT:"Mato Grosso",MS:"Mato Grosso do Sul",MG:"Minas Gerais",PA:"Pará",PB:"Paraíba",PR:"Paraná",PE:"Pernambuco",PI:"Piauí",
+  RJ:"Rio de Janeiro",RN:"Rio Grande do Norte",RS:"Rio Grande do Sul",RO:"Rondônia",RR:"Roraima",SC:"Santa Catarina",SP:"São Paulo",SE:"Sergipe",TO:"Tocantins"};
+const RADAR={cache:{},tipo:"todos"};   /* cache: uf -> {em, dados} | {em, estado:"embreve"|"erro"|"offline"} */
+const radarUf=()=>{const u=(ST.cfg&&ST.cfg.radarUf)||"todos";return u==="todos"||UF_NOMES[u]?u:"todos"};
+/* "no Ceará", "na Bahia", "em São Paulo": o artigo de cada estado */
+function naUf(u){
+  if(u==="todos")return "no Brasil";
+  const no={AC:"no",AL:"em",AP:"no",AM:"no",BA:"na",CE:"no",DF:"no",ES:"no",GO:"em",MA:"no",MT:"em",MS:"em",MG:"em",PA:"no",PB:"na",PR:"no",PE:"em",PI:"no",RJ:"no",RN:"no",RS:"no",RO:"em",RR:"em",SC:"em",SP:"em",SE:"em",TO:"no"};
+  return `${no[u]||"em"} ${UF_NOMES[u]}`;
+}
+function radarHoje(){const d=new Date();return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`}
+function radarDias(ymd){const a=new Date(radarHoje()+"T12:00:00"),b=new Date(ymd+"T12:00:00");return Math.round((b-a)/864e5)}
+const radarData=ymd=>ymd?ymd.slice(8,10)+"/"+ymd.slice(5,7):"";
+const linkOk=u=>typeof u==="string"&&/^https?:\/\//i.test(u);
+async function radarBusca(uf,forcar){
+  const c=RADAR.cache[uf];
+  if(!forcar&&c&&Date.now()-c.em<(c.dados?15*60e3:60e3))return c;
+  try{const s=JSON.parse(sessionStorage.getItem("fl_radar_"+uf)||"null");
+    if(!forcar&&s&&s.dados&&Date.now()-s.em<15*60e3){RADAR.cache[uf]=s;return s}}catch(e){}
+  let r;
+  try{
+    const ctl=new AbortController(),tm=setTimeout(()=>ctl.abort(),15000);
+    const resp=await fetch(`${RADAR_URL}?area=medicina&uf=${encodeURIComponent(uf)}`,{signal:ctl.signal,credentials:"omit"});
+    clearTimeout(tm);
+    if(resp.status===404||resp.status===403)r={em:Date.now(),estado:"embreve"};
+    else if(!resp.ok)r={em:Date.now(),estado:"erro"};
+    else{const j=await resp.json();r={em:Date.now(),dados:{itens:Array.isArray(j.itens)?j.itens:[],atualizado:j.atualizado||null}}}
+  }catch(e){
+    /* sem rede = offline; com rede e mesmo assim falhou = função ainda não publicada (o CORS barra a 404) */
+    r={em:Date.now(),estado:navigator.onLine===false?"offline":"embreve"};
+  }
+  RADAR.cache[uf]=r;
+  if(r.dados)try{sessionStorage.setItem("fl_radar_"+uf,JSON.stringify(r))}catch(e){}
+  return r;
+}
+function radarCartao(it){
+  const dias=radarDias(it.inscricao_fim), perto=dias<=7;
+  const prazo=dias<=0?"Inscrições até hoje":dias===1?"Inscrições até amanhã":`Inscrições até ${radarData(it.inscricao_fim)}`;
+  const resto=dias>1?(perto?` · faltam ${dias} dias`:""):"";
+  const local=it.uf==="BR"?"Seleção nacional":[it.cidade,it.uf].filter(Boolean).join("-");
+  const assunto=encodeURIComponent(`Radar de concursos: erro em ${it.orgao||""}`.slice(0,140));
+  const corpo=encodeURIComponent(`Processo: ${it.titulo||""}\nÓrgão: ${it.orgao||""} (${it.uf||""})\nInscrições até: ${radarData(it.inscricao_fim)}\nLink: ${it.link_edital||""}\n\nO que está errado:\n`);
+  return `<article class="rdCartao${perto?" perto":""}">
+   <div class="rdTopo">
+    <span class="rdTipo ${it.tipo==="residencia"?"res":"con"}"><i class="ti ti-${it.tipo==="residencia"?"stethoscope":"building-bank"}" aria-hidden="true"></i>${it.tipo==="residencia"?"Residência médica":"Concurso ou seleção"}</span>
+    <span class="rdPrazo${perto?" perto":""}"><i class="ti ti-calendar-due" aria-hidden="true"></i>${prazo}${resto}</span>
+   </div>
+   <h3>${esc(it.orgao||it.titulo||"")}</h3>
+   <p class="rdCargo">${esc(it.cargo_ou_programa||"")}</p>
+   <ul class="rdMeta">
+    <li><i class="ti ti-map-pin" aria-hidden="true"></i>${esc(local)}</li>
+    ${Number.isInteger(it.vagas)?`<li><i class="ti ti-users" aria-hidden="true"></i>${it.vagas} ${it.vagas===1?"vaga":"vagas"}</li>`:""}
+    ${it.salario_ou_bolsa?`<li><i class="ti ti-cash" aria-hidden="true"></i>${esc(it.salario_ou_bolsa)}</li>`:""}
+    ${it.banca?`<li><i class="ti ti-building" aria-hidden="true"></i>${esc(it.banca)}</li>`:""}
+    ${it.prova_data?`<li><i class="ti ti-pencil" aria-hidden="true"></i>Prova em ${radarData(it.prova_data)}</li>`:""}
+   </ul>
+   ${it.especialidades&&it.especialidades.length?`<p class="rdEsp">${it.especialidades.slice(0,8).map(esc).join(", ")}</p>`:""}
+   <div class="rdAcoes">
+    ${linkOk(it.link_edital)?`<a class="bt mini" href="${esc(it.link_edital)}" target="_blank" rel="noopener noreferrer"><i class="ti ti-external-link" aria-hidden="true"></i>Ver edital oficial</a>`:""}
+    ${linkOk(it.site)?`<a class="bt sec mini" href="${esc(it.site)}" target="_blank" rel="noopener noreferrer">Site das inscrições</a>`:""}
+    <a class="rdErro" href="mailto:contato@medtechbr.com.br?subject=${assunto}&body=${corpo}">Reportar erro</a>
+   </div>
+   ${it.fonte_diario?`<p class="rdFonte">Fonte: ${esc(it.fonte_diario)}</p>`:""}
+  </article>`;
+}
+function radarAviso(estado,uf){
+  if(estado==="embreve")return `<div class="rdVazio"><span class="ic"><i class="ti ti-clock-hour-4" aria-hidden="true"></i></span><div><b>Em breve</b><p>A lista de concursos e residências abertos está sendo preparada e aparece aqui assim que for publicada.</p></div></div>`;
+  if(estado==="offline")return `<div class="rdVazio"><span class="ic"><i class="ti ti-wifi-off" aria-hidden="true"></i></span><div><b>Sem internet</b><p>A lista precisa de conexão. Tente de novo quando estiver on-line.</p><button class="bt sec mini" data-rd="tenta">Tentar de novo</button></div></div>`;
+  return `<div class="rdVazio erro"><span class="ic"><i class="ti ti-alert-triangle" aria-hidden="true"></i></span><div><b>Não foi possível carregar a lista agora</b><p>Tente de novo em alguns minutos.</p><button class="bt sec mini" data-rd="tenta">Tentar de novo</button></div></div>`;
+}
+async function pintaConcursos(forcar){
+  const sec=$("#sec-concursos"), uf=radarUf();
+  const filtros=`<div class="rdFiltros">
+    <label class="cmp rdUf">Estado
+     <select id="rdUf" aria-label="Estado">
+      <option value="todos"${uf==="todos"?" selected":""}>Todos os estados</option>
+      ${Object.keys(UF_NOMES).sort((a,b)=>UF_NOMES[a].localeCompare(UF_NOMES[b],"pt-BR")).map(k=>`<option value="${k}"${uf===k?" selected":""}>${UF_NOMES[k]} (${k})</option>`).join("")}
+     </select></label>
+    <div class="chipsG" role="group" aria-label="Tipo de seleção" id="rdTipos"></div>
+   </div>`;
+  sec.innerHTML=`${filtros}<div id="rdLista" aria-live="polite"><p class="rdCarrega"><i class="ti ti-loader-2" aria-hidden="true"></i>Carregando os processos seletivos abertos...</p></div>
+   <p class="rdNota">Lista atualizada todo dia a partir de diários oficiais e sites das bancas. Confira sempre o edital oficial.
+    <a href="mailto:contato@medtechbr.com.br?subject=${encodeURIComponent("Radar de concursos: reportar erro")}">Reportar erro</a></p>`;
+  $("#rdUf").onchange=e=>{ST.cfg.radarUf=e.target.value;salva("cfg",ST.cfg);pintaConcursos()};
+  const r=await radarBusca(uf,forcar);
+  if(ST.cfg.aba!=="concursos"||radarUf()!==uf)return;     /* trocou de aba ou de estado no meio */
+  const lista=$("#rdLista");
+  if(!r.dados){lista.innerHTML=radarAviso(r.estado,uf);$("#rdTipos").hidden=true;
+    const t=lista.querySelector('[data-rd="tenta"]');if(t)t.onclick=()=>pintaConcursos(true);return}
+  const itens=r.dados.itens, nRes=itens.filter(i=>i.tipo==="residencia").length, nCon=itens.length-nRes;
+  const TIPOS=[["todos","Todos",itens.length,"list"],["residencia","Residência médica",nRes,"stethoscope"],["concurso","Concursos para médico",nCon,"building-bank"]];
+  $("#rdTipos").innerHTML=TIPOS.map(([id,n,k,ic])=>`<button type="button" class="chipG${RADAR.tipo===id?" on":""}" data-rt="${id}" aria-pressed="${RADAR.tipo===id}"><i class="ti ti-${ic}" aria-hidden="true"></i>${n}<small>${k}</small></button>`).join("");
+  $$("#rdTipos [data-rt]").forEach(b=>b.onclick=()=>{RADAR.tipo=b.dataset.rt;pintaConcursos()});
+  const vis=itens.filter(i=>RADAR.tipo==="todos"||i.tipo===RADAR.tipo);
+  const quando=r.dados.atualizado?new Date(r.dados.atualizado).toLocaleDateString("pt-BR",{day:"2-digit",month:"2-digit"}):"";
+  if(!vis.length){
+    lista.innerHTML=`<div class="rdVazio"><span class="ic"><i class="ti ti-search" aria-hidden="true"></i></span><div><b>Nenhum processo seletivo aberto encontrado ${naUf(uf)}${RADAR.tipo==="residencia"?" para residência médica":RADAR.tipo==="concurso"?" em concursos para médico":""}</b>
+      <p>A lista é refeita todo dia; vale olhar de novo nos próximos dias.</p>${uf!=="todos"?`<button class="bt sec mini" data-rd="todos">Ver todos os estados</button>`:""}</div></div>`;
+    const b=lista.querySelector('[data-rd="todos"]');if(b)b.onclick=()=>{ST.cfg.radarUf="todos";salva("cfg",ST.cfg);pintaConcursos()};
+    return;
+  }
+  lista.innerHTML=`<p class="rdResumo">${vis.length} ${vis.length===1?"processo seletivo aberto":"principais processos seletivos abertos"} ${naUf(uf)}, pelo prazo de inscrição${quando?` · atualizada em ${quando}`:""}.</p>
+   <div class="rdGrade">${vis.map(radarCartao).join("")}</div>`;
+}
+/* cartão do Início: quantos estão abertos no estado escolhido e o prazo mais próximo */
+async function radarInicio(){
+  const box=$("#vRadar");if(!box)return;
+  const uf=radarUf(), r=await radarBusca(uf);
+  if(!$("#vRadar"))return;
+  const ir=`<button class="bt mini" data-ir="concursos"><i class="ti ti-arrow-right" aria-hidden="true"></i>${r.dados?"Ver lista":"Abrir"}</button>`;
+  if(!r.dados){
+    box.innerHTML=`<span class="ic"><i class="ti ti-briefcase" aria-hidden="true"></i></span><div class="txt"><h3>Concursos e residências</h3><p>${r.estado==="embreve"?"Em breve: os principais processos seletivos abertos para médicos, por estado.":"Processos seletivos abertos para médicos, por estado."}</p></div>${ir}`;
+  }else{
+    const it=r.dados.itens, prox=it[0];
+    box.innerHTML=`<span class="ic"><i class="ti ti-briefcase" aria-hidden="true"></i></span><div class="txt"><h3>Concursos e residências</h3>
+      <p>${it.length?`<b>${it.length}</b> ${it.length===1?"processo seletivo aberto":"processos seletivos abertos"} ${naUf(uf)}`:`Nenhum processo seletivo aberto ${naUf(uf)} agora`}${prox?` · próximo prazo: ${esc(prox.orgao||"")}, ${radarData(prox.inscricao_fim)}`:""}</p></div>${ir}`;
+  }
+  box.querySelector("[data-ir]").onclick=()=>irAba("concursos");
+}
+</script>
+<script>
 /* ================= aba PAINEL ================= */
 function estatArea(){
   return TAX.map(t=>{
@@ -2629,6 +2825,7 @@ function pintaInicio(){
     <button class="vStat" style="--k:var(--c-azul)" data-ir="questoes"><span class="ic"><i class="ti ti-list-check"></i></span><span><b data-conta="${vistas}">0</b><span>de ${BANCO.length} vistas</span></span></button>
     <button class="vStat" style="--k:var(--c-ambar)" data-ir="cartoes"><span class="ic"><i class="ti ti-cards"></i></span><span><b data-conta="${devs}">0</b><span>cartões para hoje</span></span></button>
    </div>
+   <section class="vRadar" id="vRadar" aria-live="polite"><span class="ic"><i class="ti ti-briefcase" aria-hidden="true"></i></span><div class="txt"><h3>Concursos e residências</h3><p>Carregando...</p></div></section>
    <section class="vFoco">
     <div class="vTit"><h3>Onde focar</h3><button data-ir="painel">Desempenho</button></div>
     ${foco.map(a=>`<div class="vArea" style="--ca:${corArea(a.t.id)}" data-area="${a.t.id}">
@@ -2652,6 +2849,7 @@ function pintaInicio(){
    </div>
   </div>`;
   $("#iMeta").onchange=e=>{ST.cfg.meta=+e.target.value;salva("cfg",ST.cfg);pintaInicio();vivo($("#sec-inicio"))};
+  radarInicio();
   $$("#sec-inicio .vArea").forEach(b=>b.onclick=()=>{ST.pos.fq={...filtroAtual(),area:b.dataset.area,areas:[b.dataset.area]};ST.pos.assq=null;ST.pos.chq=null;salva("pos",ST.pos);irAba("questoes")});
   $$("#sec-inicio [data-ir]").forEach(b=>b.onclick=()=>{
     const v=b.dataset.ir;
