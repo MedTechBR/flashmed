@@ -100,3 +100,14 @@ sinalizada (admin.html → Sinalizações) e responde a quem sinalizou. `mterrat
   errata também para o flashmed no painel.
 - Errata é remendo: a correção definitiva vai para o banco e depois se desfaz a errata no painel. Mudar o
   enunciado no banco muda a chave.
+
+## Concursos e residências (24/10/2026, fl-v13) — piloto do radar de concursos
+Pedido do Matheus: seção com os processos seletivos vigentes da área, filtrável por estado. Aba `concursos`
+(no celular entra pela folha "Mais") + cartão `#vRadar` no Início com a contagem do estado escolhido.
+- Dados: função pública `radarConcursos` (GET `?area=medicina&uf=XX|todos`, backend `radar.js`, rodada diária
+  `radarVigia` às 4h a partir do Querido Diário e de buscas no Google, com conferência no edital). Só itens
+  abertos e conferidos, ordem do prazo; `uf=XX` inclui as seleções nacionais (`uf:"BR"`).
+- UF escolhida em `ST.cfg.radarUf`; resposta guardada 15 min em memória e em `sessionStorage["fl_radar_<uf>"]`.
+- Função fora do ar (404/CORS) = estado "em breve"; sem rede = "sem internet"; 5xx = erro com "Tentar de novo".
+- "Reportar erro" é `mailto:contato@medtechbr.com.br` (o mtsinal.js é só de questão).
+- Texto: "principais processos seletivos abertos", nunca "todos os concursos".
