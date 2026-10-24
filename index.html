@@ -21,7 +21,7 @@ if(t==="claro"||t==="escuro")document.documentElement.setAttribute("data-tema",t
 </script>
 <!-- conta + sincronização (cópia de ~/Documents/Claude/_mtsync/mtsync.js). Síncrono no <head>:
      o portão cobre a tela antes do primeiro pixel do app e só sai com a conta confirmada. -->
-<script src="mtsync.js?v=14"></script>
+<script src="mtsync.js?v=15"></script>
 <!-- gramática visual do ecossistema: tokens da raiz do site + ícones Tabler (nunca emoji) -->
 <link rel="stylesheet" href="/_mttokens.css?v=2">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3/dist/tabler-icons.min.css">
@@ -1228,19 +1228,19 @@ body[data-aba="concursos"]{--ac:#0E7490}
 </main>
 <div class="faixas" id="faixas"></div>
 
-<script src="taxonomia.js?v=14"></script>
-<script src="provas.js?v=14"></script>
-<script src="banco.js?v=14"></script>
-<script src="exames.js?v=14"></script>
-<script src="flash.js?v=14"></script>
-<script src="leituras.js?v=14"></script>
-<script src="indice-leituras.js?v=14"></script>
-<script src="migra.js?v=14"></script>
+<script src="taxonomia.js?v=15"></script>
+<script src="provas.js?v=15"></script>
+<script src="banco.js?v=15"></script>
+<script src="exames.js?v=15"></script>
+<script src="flash.js?v=15"></script>
+<script src="leituras.js?v=15"></script>
+<script src="indice-leituras.js?v=15"></script>
+<script src="migra.js?v=15"></script>
 <script src="/_mtacesso.js?v=1"></script>   <!-- acesso por produto comprado (raiz do site); sem checkout no planos.json, libera tudo -->
-<script src="nuvem.js?v=14"></script>
-<script src="mtfiltro.js?v=14"></script>
-<script src="mtsinal.js?v=14"></script>
-<script src="mterrata.js?v=14"></script>
+<script src="nuvem.js?v=15"></script>
+<script src="mtfiltro.js?v=15"></script>
+<script src="mtsinal.js?v=15"></script>
+<script src="mterrata.js?v=15"></script>
 <script>
 "use strict";
 const V="2.0.0", PREF="fl_";
@@ -1487,6 +1487,10 @@ function espalhaTemas(lista){
 const ABAS=[["inicio","Início","layout-dashboard"],["questoes","Questões","list-check"],["simulado","Simulado","stopwatch"],
             ["leituras","Leituras","book"],["cartoes","Cartões","cards"],["painel","Desempenho","chart-bar"],
             ["concursos","Concursos","briefcase"],["ajustes","Ajustes","settings"]];
+/* Radar de concursos guardado (24/10/2026): o Matheus achou a busca por IA cara demais por ora.
+   Código e backend ficam prontos; para religar, RADAR_ATIVO=true aqui e radar=true em config/equipe. */
+const RADAR_ATIVO=false;
+if(!RADAR_ATIVO)ABAS.splice(ABAS.findIndex(a=>a[0]==="concursos"),1);
 /* A aba Turma nasce escondida e só é revelada quando o backend confirma que este e-mail
    é da coordenação. Esconder o botão é conveniência: a permissão é conferida na função,
    a cada chamada — mexer no DOM daqui não dá acesso a nada. */
@@ -1498,6 +1502,7 @@ const ABAS_PRIM=["inicio","questoes","simulado","leituras"];
 const PINTA={inicio:()=>pintaInicio(),questoes:()=>pintaQuestoes(),simulado:()=>pintaSimulado(),
              leituras:()=>pintaLeituras(),cartoes:()=>pintaCartoes(),
              painel:()=>pintaPainel(),concursos:()=>pintaConcursos(),ajustes:()=>pintaAjustes()};
+if(!RADAR_ATIVO)delete PINTA.concursos;   /* aba salva em "concursos" volta para o Início */
 /* a barra inferior do celular é uma grade: precisa saber quantas abas estão visíveis */
 function ajustaNav(){const n=$$("#abas button").filter(b=>!b.hidden).length;
   document.documentElement.style.setProperty("--nAbas",n)}
@@ -2830,7 +2835,7 @@ function pintaInicio(){
     <button class="vStat" style="--k:var(--c-azul)" data-ir="questoes"><span class="ic"><i class="ti ti-list-check"></i></span><span><b data-conta="${vistas}">0</b><span>de ${BANCO.length} vistas</span></span></button>
     <button class="vStat" style="--k:var(--c-ambar)" data-ir="cartoes"><span class="ic"><i class="ti ti-cards"></i></span><span><b data-conta="${devs}">0</b><span>cartões para hoje</span></span></button>
    </div>
-   <section class="vRadar" id="vRadar" aria-live="polite"><span class="ic"><i class="ti ti-briefcase" aria-hidden="true"></i></span><div class="txt"><h3>Concursos e residências</h3><p>Carregando...</p></div></section>
+   ${RADAR_ATIVO?`<section class="vRadar" id="vRadar" aria-live="polite"><span class="ic"><i class="ti ti-briefcase" aria-hidden="true"></i></span><div class="txt"><h3>Concursos e residências</h3><p>Carregando...</p></div></section>`:""}
    <section class="vFoco">
     <div class="vTit"><h3>Onde focar</h3><button data-ir="painel">Desempenho</button></div>
     ${foco.map(a=>`<div class="vArea" style="--ca:${corArea(a.t.id)}" data-area="${a.t.id}">
