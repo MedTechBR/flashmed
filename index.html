@@ -2622,13 +2622,18 @@ async function radarBusca(uf,forcar){
   if(r.dados)try{sessionStorage.setItem("fl_radar_"+uf,JSON.stringify(r))}catch(e){}
   return r;
 }
+/* de onde veio o item (25/10/2026): rótulo curto no pé do cartão */
+const RADAR_FONTE={diario:"Diário oficial",banca:"Banca organizadora",residencia:"Comissão de residência",os:"Organização social de saúde",fundacao:"Fundação de saúde",
+  secretaria:"Secretaria de saúde",ebserh:"EBSERH (HU Brasil)",consorcio:"Consórcio de saúde",busca:"Site oficial"};
 function radarCartao(it){
-  const dias=radarDias(it.inscricao_fim), perto=dias<=7;
-  const prazo=dias<=0?"Inscrições até hoje":dias===1?"Inscrições até amanhã":`Inscrições até ${radarData(it.inscricao_fim)}`;
-  const resto=dias>1?(perto?` · faltam ${dias} dias`:""):"";
+  /* vaga de OS sem data final: "Inscrições abertas" e a data em que foi publicada */
+  const semPrazo=!it.inscricao_fim;
+  const dias=semPrazo?99:radarDias(it.inscricao_fim), perto=!semPrazo&&dias<=7;
+  const prazo=semPrazo?`Inscrições abertas${it.publicado_em?` · publicada em ${radarData(it.publicado_em)}`:""}`:dias<=0?"Inscrições até hoje":dias===1?"Inscrições até amanhã":`Inscrições até ${radarData(it.inscricao_fim)}`;
+  const resto=!semPrazo&&dias>1?(perto?` · faltam ${dias} dias`:""):"";
   const local=it.uf==="BR"?"Seleção nacional":[it.cidade,it.uf].filter(Boolean).join("-");
   const assunto=encodeURIComponent(`Radar de concursos: erro em ${it.orgao||""}`.slice(0,140));
-  const corpo=encodeURIComponent(`Processo: ${it.titulo||""}\nÓrgão: ${it.orgao||""} (${it.uf||""})\nInscrições até: ${radarData(it.inscricao_fim)}\nLink: ${it.link_edital||""}\n\nO que está errado:\n`);
+  const corpo=encodeURIComponent(`Processo: ${it.titulo||""}\nÓrgão: ${it.orgao||""} (${it.uf||""})\nInscrições até: ${semPrazo?"(sem data final)":radarData(it.inscricao_fim)}\nLink: ${it.link_edital||""}\n\nO que está errado:\n`);
   return `<article class="rdCartao${perto?" perto":""}">
    <div class="rdTopo">
     <span class="rdTipo ${it.tipo==="residencia"?"res":"con"}"><i class="ti ti-${it.tipo==="residencia"?"stethoscope":"building-bank"}" aria-hidden="true"></i>${it.tipo==="residencia"?"Residência médica":"Concurso ou seleção"}</span>
@@ -2645,11 +2650,11 @@ function radarCartao(it){
    </ul>
    ${it.especialidades&&it.especialidades.length?`<p class="rdEsp">${it.especialidades.slice(0,8).map(esc).join(", ")}</p>`:""}
    <div class="rdAcoes">
-    ${linkOk(it.link_edital)?`<a class="bt mini" href="${esc(it.link_edital)}" target="_blank" rel="noopener noreferrer"><i class="ti ti-external-link" aria-hidden="true"></i>Ver edital oficial</a>`:""}
+    ${linkOk(it.link_edital)?`<a class="bt mini" href="${esc(it.link_edital)}" target="_blank" rel="noopener noreferrer"><i class="ti ti-external-link" aria-hidden="true"></i>${semPrazo?"Ver vaga no site oficial":"Ver edital oficial"}</a>`:""}
     ${linkOk(it.site)?`<a class="bt sec mini" href="${esc(it.site)}" target="_blank" rel="noopener noreferrer">Site das inscrições</a>`:""}
     <a class="rdErro" href="mailto:contato@medtechbr.com.br?subject=${assunto}&body=${corpo}">Reportar erro</a>
    </div>
-   ${it.fonte_diario?`<p class="rdFonte">Fonte: ${esc(it.fonte_diario)}</p>`:""}
+   ${it.fonte_diario||RADAR_FONTE[it.fonte_tipo]?`<p class="rdFonte">Fonte: ${esc(it.fonte_diario||RADAR_FONTE[it.fonte_tipo])}</p>`:""}
   </article>`;
 }
 function radarAviso(estado,uf){
@@ -2668,7 +2673,7 @@ async function pintaConcursos(forcar){
     <div class="chipsG" role="group" aria-label="Tipo de seleção" id="rdTipos"></div>
    </div>`;
   sec.innerHTML=`${filtros}<div id="rdLista" aria-live="polite"><p class="rdCarrega"><i class="ti ti-loader-2" aria-hidden="true"></i>Carregando os processos seletivos abertos...</p></div>
-   <p class="rdNota">Lista atualizada todo dia a partir de diários oficiais e sites das bancas. Confira sempre o edital oficial.
+   <p class="rdNota">Lista atualizada todo dia a partir de diários oficiais, sites das bancas, hospitais, fundações e organizações sociais de saúde. Confira sempre o edital oficial.
     <a href="mailto:contato@medtechbr.com.br?subject=${encodeURIComponent("Radar de concursos: reportar erro")}">Reportar erro</a></p>`;
   $("#rdUf").onchange=e=>{ST.cfg.radarUf=e.target.value;salva("cfg",ST.cfg);pintaConcursos()};
   const r=await radarBusca(uf,forcar);
@@ -2688,7 +2693,7 @@ async function pintaConcursos(forcar){
     const b=lista.querySelector('[data-rd="todos"]');if(b)b.onclick=()=>{ST.cfg.radarUf="todos";salva("cfg",ST.cfg);pintaConcursos()};
     return;
   }
-  lista.innerHTML=`<p class="rdResumo">${vis.length} ${vis.length===1?"processo seletivo aberto":"principais processos seletivos abertos"} ${naUf(uf)}, pelo prazo de inscrição${quando?` · atualizada em ${quando}`:""}.</p>
+  lista.innerHTML=`<p class="rdResumo">${vis.length} ${vis.length===1?"processo seletivo aberto":"principais processos seletivos abertos"} ${naUf(uf)}, pelo prazo de inscrição (vagas sem data final no fim)${quando?` · atualizada em ${quando}`:""}.</p>
    <div class="rdGrade">${vis.map(radarCartao).join("")}</div>`;
 }
 /* cartão do Início: quantos estão abertos no estado escolhido e o prazo mais próximo */
@@ -2702,7 +2707,7 @@ async function radarInicio(){
   }else{
     const it=r.dados.itens, prox=it[0];
     box.innerHTML=`<span class="ic"><i class="ti ti-briefcase" aria-hidden="true"></i></span><div class="txt"><h3>Concursos e residências</h3>
-      <p>${it.length?`<b>${it.length}</b> ${it.length===1?"processo seletivo aberto":"processos seletivos abertos"} ${naUf(uf)}`:`Nenhum processo seletivo aberto ${naUf(uf)} agora`}${prox?` · próximo prazo: ${esc(prox.orgao||"")}, ${radarData(prox.inscricao_fim)}`:""}</p></div>${ir}`;
+      <p>${it.length?`<b>${it.length}</b> ${it.length===1?"processo seletivo aberto":"processos seletivos abertos"} ${naUf(uf)}`:`Nenhum processo seletivo aberto ${naUf(uf)} agora`}${prox&&prox.inscricao_fim?` · próximo prazo: ${esc(prox.orgao||"")}, ${radarData(prox.inscricao_fim)}`:""}</p></div>${ir}`;
   }
   box.querySelector("[data-ir]").onclick=()=>irAba("concursos");
 }
